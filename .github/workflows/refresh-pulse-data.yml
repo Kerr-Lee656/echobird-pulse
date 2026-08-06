@@ -1,0 +1,81 @@
+name: Refresh Pulse Data
+
+# AI 新闻/项目数据定时刷新 (独立模块版, 对齐原版 EchoBird 6 步处理链):
+#   1. fetch-zh  — 镜像 SuYxh/ai-news-aggregator 的 latest-{24h,7d}.json (中文 feed)
+#   2. merge-zh  — 把 aihot.virxact.com 人工精选 (~80/天) 并入 7d 中文 feed
+#   3. filter    — 黑名单清洗 (x/twitter/v2ex 主机 + 社区公告/广告/推广标题
+#                  + 未来时间戳修复), 对 24h 与 7d 两个中文文件都执行
+#   4. build     — 构建 latest-7d-en.json (HN Algolia + AI lab RSS + GitHub Trending)
+#   5. pin       — 向三个 feed 注入置顶条目 (24h zh / 7d zh / 7d en)
+# 仅在 payload 变化时提交, 保持 git 历史有界。
+
+on:
+  schedule:
+    # 每 2 小时 (偏移 15 分), 对齐上游 ~3-4h 更新节奏
+    - cron: '15 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-pulse-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: python -m pip install --quiet -r requirements.txt
+
+      - name: 1. Fetch upstream pulse files (zh)
+        run: |
+          set -euo pipefail
+          python -m pulse fetch-zh --output docs/pulse
+          ls -lh docs/pulse/
+
+      # Inject aihot curated picks into the 7d feed. Failure is non-fatal:
+      # the workflow proceeds with SuYxh-only data if aihot is unreachable.
+      - name: 2. Merge aihot curated picks into 7d feed
+        run: python -m pulse merge-zh docs/pulse/latest-7d.json
+
+      # Apply blocklist AFTER the merge so aihot items are filtered too.
+      - name: 3. Filter ZH pulse files (blocklist hosts + promo titles)
+        run: |
+          python -m pulse filter docs/pulse/latest-24h.json docs/pulse/latest-7d.json
+
+      - name: 4. Build en-only pulse file
+        run: |
+          set -euo pipefail
+          python -m pulse build --output docs/pulse/latest-7d-en.json
+          python -c "import json; d=json.load(open('docs/pulse/latest-7d-en.json',encoding='utf-8')); assert d.get('total_items',0)>0, 'empty feed'; print(f'en feed total_items={d[\"total_items\"]}')"
+          ls -lh docs/pulse/
+
+      # Inject EchoBird-owned pinned items at declared positions. Runs last so
+      # upstream refreshes can't displace pins; script is fail-soft.
+      - name: 5. Inject pinned items
+        run: |
+          python -m pulse pin docs/pulse/latest-24h.json --lang zh
+          python -m pulse pin docs/pulse/latest-7d.json  --lang zh
+          python -m pulse pin docs/pulse/latest-7d-en.json --lang en
+
+      - name: 6. Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/pulse/
+          if git diff --cached --quiet; then
+            echo "No pulse changes — skipping commit."
+            exit 0
+          fi
+          git commit -m "chore(pulse): refresh upstream snapshot"
+          git push

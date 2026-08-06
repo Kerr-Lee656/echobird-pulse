@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 部署产物中不需要的部分 (产物只提交 docs/pulse/*.json)
+*.tmp
