@@ -1,13 +1,13 @@
 {
   "generated_at": "2026-08-06T04:55:01.634Z",
   "window_hours": 24,
-  "total_items": 910,
+  "total_items": 909,
   "total_items_ai_raw": 1103,
   "total_items_raw": 6831,
   "total_items_all_mode": 6353,
   "topic_filter": "ai_tech_robotics",
   "archive_total": 133550,
-  "site_count": 15,
+  "site_count": 14,
   "source_count": 165,
   "site_stats": [
     {
@@ -93,44 +93,23 @@
       "site_name": "AI今日热榜",
       "count": 0,
       "raw_count": 0
-    },
-    {
-      "site_id": "echobird",
-      "site_name": "EchoBird",
-      "count": 1,
-      "raw_count": 1
     }
   ],
   "items": [
     {
-      "id": "e8c392ac8e914e862d20299cb1c086f2b3ea62be",
-      "site_id": "echobird",
-      "site_name": "EchoBird",
-      "source": "EchoBird",
-      "title": "我的中文指南 — 置顶示例条目 (zh feed 用), 删除本配置即可关闭置顶",
-      "url": "https://example.com/my-zh-guide",
-      "published_at": "2026-08-06T04:55:03.666Z",
-      "first_seen_at": "2026-08-06T05:52:17.338Z",
-      "last_seen_at": "2026-08-06T05:52:17.338Z",
-      "title_original": "我的中文指南 — 置顶示例条目 (zh feed 用), 删除本配置即可关闭置顶",
+      "id": "2dd280ee666f9483825b16f809634ace47ad8020",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "刚刚，OpenAI挖来黑客「祖师爷」！",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107528/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%8c%96%e6%9d%a5%e9%bb%91%e5%ae%a2%e3%80%8c%e7%a5%96%e5%b8%88%e7%88%b7%e3%80%8d%ef%bc%81",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "刚刚，OpenAI挖来黑客「祖师爷」！",
       "title_en": null,
-      "title_zh": "我的中文指南 — 置顶示例条目 (zh feed 用)",
-      "title_bilingual": "我的中文指南 — 置顶示例条目 (zh feed 用), 删除本配置即可关闭置顶"
-    },
-    {
-      "id": "452bbc90664ce5808a75d8d523b2e343ca6d09da",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
-      "url": "https://juejin.cn/post/7669743766019571764",
-      "published_at": "2026-08-06T04:55:03.666Z",
-      "first_seen_at": "2026-08-06T04:55:01.634Z",
-      "last_seen_at": "2026-08-06T04:55:01.634Z",
-      "title_original": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
-      "title_en": null,
-      "title_zh": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
-      "title_bilingual": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析"
+      "title_zh": "刚刚，OpenAI挖来黑客「祖师爷」！",
+      "title_bilingual": "刚刚，OpenAI挖来黑客「祖师爷」！"
     },
     {
       "id": "ae81ce1baf8339bd83f4edff33d9ad1b62c41d9c",
@@ -148,6 +127,21 @@
       "title_bilingual": "刚刚，OpenAI挖来黑客「祖师爷」！"
     },
     {
+      "id": "13bfa430ab052be5720bd3d67114e6958ede7203",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107508/%e9%a9%ac%e6%96%af%e5%85%8b%e5%ae%a3%e5%88%a4%e4%bb%a3%e7%a0%81%e6%ad%bb%e5%88%91%ef%bc%81ai%e7%9b%b4%e5%87%ba%e4%ba%8c%e8%bf%9b%e5%88%b6%ef%bc%8c%e8%a1%8c%e4%b8%9a%e6%95%99%e7%88%b6%e9%9b%86%e4%bd%93",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
+      "title_en": null,
+      "title_zh": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
+      "title_bilingual": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼"
+    },
+    {
       "id": "51aa6124ffcb65d1e7c3a2fe935b2f3a92a95e6a",
       "site_id": "xinzhiyuan",
       "site_name": "新智元",
@@ -161,6 +155,21 @@
       "title_en": null,
       "title_zh": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
       "title_bilingual": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼"
+    },
+    {
+      "id": "a214c9ec40a6e2bca7cfdada858b00741a9e8d00",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107496/%e9%9c%87%e6%92%bc%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%81%94%e6%89%8b%e8%80%81%e9%bb%84%e6%89%94%e5%87%ba%e6%98%9f%e9%99%85%e5%a4%a7%e8%84%91%ef%bc%81ai%e7%ae%97%e5%8a%9b%e4%b8%ad%e5%bf%83%e5%b0%84",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
+      "title_en": null,
+      "title_zh": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
+      "title_bilingual": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天"
     },
     {
       "id": "5977385ce2b3b6081a8c66e3ec6c44000ddb1c90",
@@ -193,6 +202,21 @@
       "title_bilingual": "刚刚，百度文心又拿第一了！完全免费"
     },
     {
+      "id": "686194039c73497f834a953ad05336555d4b8405",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "Ilya的第一个模型，被曝本月上线",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107453/ilya%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%a2%ab%e6%9b%9d%e6%9c%ac%e6%9c%88%e4%b8%8a%e7%ba%bf",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "Ilya的第一个模型，被曝本月上线",
+      "title_en": null,
+      "title_zh": "Ilya的第一个模型，被曝本月上线",
+      "title_bilingual": "Ilya的第一个模型，被曝本月上线"
+    },
+    {
       "id": "da6ff636486e247777bb64990f04c657bcda5003",
       "site_id": "xinzhiyuan",
       "site_name": "新智元",
@@ -206,6 +230,21 @@
       "title_en": null,
       "title_zh": "Ilya的第一个模型，被曝本月上线",
       "title_bilingual": "Ilya的第一个模型，被曝本月上线"
+    },
+    {
+      "id": "c27c465245e82322f0f1273e04d892582335b43b",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "全球首个，连续时间具身世界模型！任意帧率自由生成",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107436/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8c%e8%bf%9e%e7%bb%ad%e6%97%b6%e9%97%b4%e5%85%b7%e8%ba%ab%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%81%e4%bb%bb%e6%84%8f%e5%b8%a7%e7%8e%87%e8%87%aa%e7%94%b1",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "全球首个，连续时间具身世界模型！任意帧率自由生成",
+      "title_en": null,
+      "title_zh": "全球首个，连续时间具身世界模型！任意帧率自由生成",
+      "title_bilingual": "全球首个，连续时间具身世界模型！任意帧率自由生成"
     },
     {
       "id": "a06f53a07eb6674866742f316b742ff313cacddc",
@@ -223,6 +262,21 @@
       "title_bilingual": "全球首个，连续时间具身世界模型！任意帧率自由生成"
     },
     {
+      "id": "a41ffe7e4462b36006d0ffb0e466640f83750dca",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107406/%e6%af%8f%e5%91%a82%e4%ba%bf%e5%b9%b4%e8%bd%bb%e4%ba%ba%e7%94%a8chatgpt%ef%bc%8c%e5%8d%b4%e8%bf%9e%e9%ab%98%e6%89%8b%e7%9a%84%e9%9b%b6%e5%a4%b4%e9%83%bd%e6%b2%a1%e7%94%a8%e5%87%ba%e6%9d%a5",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
+      "title_en": null,
+      "title_zh": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
+      "title_bilingual": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来"
+    },
+    {
       "id": "6892a210b2a3c21ac53c433235bba07980244fcc",
       "site_id": "xinzhiyuan",
       "site_name": "新智元",
@@ -238,6 +292,21 @@
       "title_bilingual": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来"
     },
     {
+      "id": "214b8faf702b4d4d3b4c0c49f9963abbaee7a3ab",
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "source": "新智元",
+      "title": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
+      "url": "https://aiera.com.cn/2026/08/06/other/admin/107394/15%e5%b2%81%e8%bf%9b%e5%b0%91%e5%b9%b4%e7%8f%ad%ef%bc%8c97%e5%90%8e%e6%89%93%e9%80%a0%e3%80%8c%e5%85%83%e7%82%b9%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%ae%87%e5%ae%99%e3%80%8d%ef%bc%9a%e5%85%a8%e6%a0%88",
+      "published_at": "2026-08-06T01:27:31.549Z",
+      "first_seen_at": "2026-08-06T01:27:31.549Z",
+      "last_seen_at": "2026-08-06T01:27:31.549Z",
+      "title_original": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
+      "title_en": null,
+      "title_zh": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
+      "title_bilingual": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道"
+    },
+    {
       "id": "a53d648d383eab002de8b253fd7d6bda055ab896",
       "site_id": "xinzhiyuan",
       "site_name": "新智元",
@@ -251,6 +320,21 @@
       "title_en": null,
       "title_zh": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
       "title_bilingual": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道"
+    },
+    {
+      "id": "452bbc90664ce5808a75d8d523b2e343ca6d09da",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
+      "url": "https://juejin.cn/post/7669743766019571764",
+      "published_at": "2026-08-06T04:55:03.666Z",
+      "first_seen_at": "2026-08-06T04:55:01.634Z",
+      "last_seen_at": "2026-08-06T04:55:01.634Z",
+      "title_original": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
+      "title_en": null,
+      "title_zh": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析",
+      "title_bilingual": "用 Compose 挑战交互与动效天花板：ComposeCraftLab 开源实验室全解析"
     },
     {
       "id": "074aa74ccccabad6203daa3eb46c559ae199a8de",
@@ -1796,111 +1880,6 @@
       "title_en": null,
       "title_zh": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？",
       "title_bilingual": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？"
-    },
-    {
-      "id": "2dd280ee666f9483825b16f809634ace47ad8020",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "刚刚，OpenAI挖来黑客「祖师爷」！",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107528/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%8c%96%e6%9d%a5%e9%bb%91%e5%ae%a2%e3%80%8c%e7%a5%96%e5%b8%88%e7%88%b7%e3%80%8d%ef%bc%81",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "刚刚，OpenAI挖来黑客「祖师爷」！",
-      "title_en": null,
-      "title_zh": "刚刚，OpenAI挖来黑客「祖师爷」！",
-      "title_bilingual": "刚刚，OpenAI挖来黑客「祖师爷」！"
-    },
-    {
-      "id": "13bfa430ab052be5720bd3d67114e6958ede7203",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107508/%e9%a9%ac%e6%96%af%e5%85%8b%e5%ae%a3%e5%88%a4%e4%bb%a3%e7%a0%81%e6%ad%bb%e5%88%91%ef%bc%81ai%e7%9b%b4%e5%87%ba%e4%ba%8c%e8%bf%9b%e5%88%b6%ef%bc%8c%e8%a1%8c%e4%b8%9a%e6%95%99%e7%88%b6%e9%9b%86%e4%bd%93",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
-      "title_en": null,
-      "title_zh": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼",
-      "title_bilingual": "马斯克宣判代码死刑！AI直出二进制，行业教父集体回怼"
-    },
-    {
-      "id": "a214c9ec40a6e2bca7cfdada858b00741a9e8d00",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107496/%e9%9c%87%e6%92%bc%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%81%94%e6%89%8b%e8%80%81%e9%bb%84%e6%89%94%e5%87%ba%e6%98%9f%e9%99%85%e5%a4%a7%e8%84%91%ef%bc%81ai%e7%ae%97%e5%8a%9b%e4%b8%ad%e5%bf%83%e5%b0%84",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
-      "title_en": null,
-      "title_zh": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天",
-      "title_bilingual": "震撼，马斯克联手老黄扔出星际大脑！AI算力中心射上天"
-    },
-    {
-      "id": "686194039c73497f834a953ad05336555d4b8405",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "Ilya的第一个模型，被曝本月上线",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107453/ilya%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%a2%ab%e6%9b%9d%e6%9c%ac%e6%9c%88%e4%b8%8a%e7%ba%bf",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "Ilya的第一个模型，被曝本月上线",
-      "title_en": null,
-      "title_zh": "Ilya的第一个模型，被曝本月上线",
-      "title_bilingual": "Ilya的第一个模型，被曝本月上线"
-    },
-    {
-      "id": "c27c465245e82322f0f1273e04d892582335b43b",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "全球首个，连续时间具身世界模型！任意帧率自由生成",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107436/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8c%e8%bf%9e%e7%bb%ad%e6%97%b6%e9%97%b4%e5%85%b7%e8%ba%ab%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%81%e4%bb%bb%e6%84%8f%e5%b8%a7%e7%8e%87%e8%87%aa%e7%94%b1",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "全球首个，连续时间具身世界模型！任意帧率自由生成",
-      "title_en": null,
-      "title_zh": "全球首个，连续时间具身世界模型！任意帧率自由生成",
-      "title_bilingual": "全球首个，连续时间具身世界模型！任意帧率自由生成"
-    },
-    {
-      "id": "a41ffe7e4462b36006d0ffb0e466640f83750dca",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107406/%e6%af%8f%e5%91%a82%e4%ba%bf%e5%b9%b4%e8%bd%bb%e4%ba%ba%e7%94%a8chatgpt%ef%bc%8c%e5%8d%b4%e8%bf%9e%e9%ab%98%e6%89%8b%e7%9a%84%e9%9b%b6%e5%a4%b4%e9%83%bd%e6%b2%a1%e7%94%a8%e5%87%ba%e6%9d%a5",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
-      "title_en": null,
-      "title_zh": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来",
-      "title_bilingual": "每周2亿年轻人用ChatGPT，却连高手的零头都没用出来"
-    },
-    {
-      "id": "214b8faf702b4d4d3b4c0c49f9963abbaee7a3ab",
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "source": "新智元",
-      "title": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
-      "url": "https://aiera.com.cn/2026/08/06/other/admin/107394/15%e5%b2%81%e8%bf%9b%e5%b0%91%e5%b9%b4%e7%8f%ad%ef%bc%8c97%e5%90%8e%e6%89%93%e9%80%a0%e3%80%8c%e5%85%83%e7%82%b9%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%ae%87%e5%ae%99%e3%80%8d%ef%bc%9a%e5%85%a8%e6%a0%88",
-      "published_at": "2026-08-06T01:27:31.549Z",
-      "first_seen_at": "2026-08-06T01:27:31.549Z",
-      "last_seen_at": "2026-08-06T01:27:31.549Z",
-      "title_original": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
-      "title_en": null,
-      "title_zh": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道",
-      "title_bilingual": "15岁进少年班，97后打造「元点机器人宇宙」：全栈技术自研领跑家庭机器人赛道"
     },
     {
       "id": "c1efd6e93b0eb7d112fa86ceb451930e09e0acbf",
@@ -8203,21 +8182,6 @@
       "title_bilingual": "“虚拟组织”基础模型实现了跨尺度的空间蛋白质组学分析"
     },
     {
-      "id": "34888e96820482473674253567aed9b6ec6fc628",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed",
-      "published_at": "2026-08-05T15:20:11Z",
-      "first_seen_at": "2026-08-05T15:53:36.886Z",
-      "last_seen_at": "2026-08-06T04:55:01.634Z",
-      "title_original": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-      "title_en": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-      "title_zh": "警方利用“Flock”追踪一名男子跨越州界，借口搜查大麻",
-      "title_bilingual": "警方利用“Flock”追踪一名男子跨越州界，借口搜查大麻 / Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search"
-    },
-    {
       "id": "2d15a8c1aee24619a301b8a927ccaccb525d10cd",
       "site_id": "buzzing",
       "site_name": "Buzzing",
@@ -8231,6 +8195,21 @@
       "title_en": null,
       "title_zh": "多种癌症的下一代患者来源模型汇编",
       "title_bilingual": "多种癌症的下一代患者来源模型汇编"
+    },
+    {
+      "id": "34888e96820482473674253567aed9b6ec6fc628",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed",
+      "published_at": "2026-08-05T15:20:11Z",
+      "first_seen_at": "2026-08-05T15:53:36.886Z",
+      "last_seen_at": "2026-08-06T04:55:01.634Z",
+      "title_original": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "title_en": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "title_zh": "警方利用“Flock”追踪一名男子跨越州界，借口搜查大麻",
+      "title_bilingual": "警方利用“Flock”追踪一名男子跨越州界，借口搜查大麻 / Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search"
     },
     {
       "id": "1955143e5167543f9a8e109a88624d1ef38adb75",
