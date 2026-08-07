@@ -6,7 +6,7 @@
 
 | 能力 | 说明 |
 |---|---|
-| 多源采集 | HN Algolia API (20 关键词) + 18 个 RSS (OpenAI/Anthropic/DeepMind/HF/TechCrunch/Wired/arXiv×4/Reddit×2/Import AI/Chip Huyen…) + GitHub Trending (6 语言) |
+| 多源采集 | HN Algolia (20 关键词) + HN Firebase 官方 API (热榜) + 25 个 RSS (OpenAI/Anthropic/DeepMind/Google/Apple/HF/TechCrunch/Wired/VentureBeat/Verge/Ars/MIT/arXiv×6/Reddit×2/Import AI/Chip Huyen/Ben's Bites/Latent Space…) + GitHub Trending (6 语言) |
 | aihot 精选 | 合并 [aihot.virxact.com](https://aihot.virxact.com/) 人工精选 (~80/天, LLM 规范化中文标题), 按 URL 去重、精选标题优先 |
 | 清洗 | x.com/twitter/v2ex 主机黑名单 + 社区公告/广告/推广标题黑名单 + 未来时间戳修复 (北京时区错标 UTC 问题) |
 | 置顶 | 通过计算 `published_at` 在排序中精确落位 (原理见 `pulse/inject_pinned.py`) |
