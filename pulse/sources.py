@@ -81,6 +81,82 @@ def fetch_hn_stories(window_start: datetime, now: datetime) -> list[dict]:
     return out
 
 
+# ─── Source 1b: Hacker News 官方 Firebase API (热榜视角, 补充 Algolia 关键词视角) ──
+
+# Algolia 搜索 API 覆盖"关键词命中"的帖子; Firebase topstories 提供当前热榜
+# (500 个高分 story)。两者互补: 热榜能看到关键词搜不到的爆款, 重复条目由
+# pipeline 的 dedupe_by_url 处理。Firebase 无速率限制, 免费, 国内直连可用。
+HN_FIREBASE_TOP = "https://hacker-news.firebaseio.com/v0/topstories.json"
+HN_FIREBASE_ITEM = "https://hacker-news.firebaseio.com/v0/item/{}.json"
+
+
+def fetch_hn_firebase(window_start: datetime, now: datetime) -> list[dict]:
+    r = fetch(HN_FIREBASE_TOP)
+    if not r:
+        return []
+    try:
+        story_ids: list[int] = r.json()
+    except Exception:  # noqa: BLE001
+        return []
+    if not story_ids:
+        return []
+
+    out: list[dict] = []
+    seen: set[int] = set()
+    window_start_epoch = int(window_start.timestamp())
+
+    # 并发拉取 story 详情 (topstories 返回的 id 已按分数排序, 保持顺序)
+    def fetch_item(story_id: int) -> Optional[dict]:
+        item = fetch(HN_FIREBASE_ITEM.format(story_id), timeout=10)
+        if not item:
+            return None
+        try:
+            return item.json()
+        except Exception:  # noqa: BLE001
+            return None
+
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        futures = {ex.submit(fetch_item, sid): sid for sid in story_ids[:500]}
+        for f in futures:
+            hit = f.result()
+            if not hit:
+                continue
+            obj_id = hit.get("id")
+            if not obj_id or obj_id in seen:
+                continue
+            # 仅保留 story 类型 + 7 天窗口内
+            if hit.get("type") != "story":
+                continue
+            created = hit.get("time")
+            if not created or created < window_start_epoch:
+                continue
+            title = hit.get("title") or ""
+            if not title or not AI_RE.search(title):
+                continue
+            seen.add(obj_id)
+            url_field = hit.get("url") or f"https://news.ycombinator.com/item?id={obj_id}"
+            created_iso = datetime.fromtimestamp(created, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            points = hit.get("score") or 0
+            comments = hit.get("descendants") or 0
+            out.append({
+                "id": stable_id("hnfb", str(obj_id)),
+                "site_id": "hackernews",
+                "site_name": "Hacker News",
+                "source": f"Hacker News ({points}pts, {comments}c)",
+                "title": title,
+                "url": url_field,
+                "published_at": created_iso,
+                "first_seen_at": created_iso,
+                "last_seen_at": iso(now),
+                "title_original": title,
+                "title_en": title,
+                "title_zh": None,
+                "title_bilingual": title,
+            })
+    print(f"[hnfb] {len(out)} stories", file=sys.stderr)
+    return out
+
+
 # ─── Source 2: RSS feeds (AI labs, tech media, arXiv, Reddit) ─────────────────
 
 # slug -> (显示名, RSS URL, filter_ai, max_items)
@@ -94,10 +170,13 @@ RSS_FEEDS: dict[str, tuple[str, str, bool, Optional[int]]] = {
     "anthropic":      ("Anthropic",       "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml", False, None),
     "deepmind":       ("Google DeepMind", "https://deepmind.google/blog/rss.xml",                                           False, None),
     "googleai":       ("Google Research", "https://research.google/blog/rss/",                                              False, None),
+    "googleaiblog":   ("Google AI Blog",  "https://blog.google/technology/ai/rss/",                                         False, None),
+    "appleml":        ("Apple ML",        "https://machinelearning.apple.com/rss.xml",                                      False, None),
     "huggingface":    ("Hugging Face",    "https://huggingface.co/blog/feed.xml",                                           False, None),
     # ── Tech media (AI-tagged) ──────────────────────────────
     "techcrunch_ai":  ("TechCrunch AI",   "https://techcrunch.com/category/artificial-intelligence/feed/",                  False, None),
     "wired_ai":       ("Wired AI",        "https://www.wired.com/feed/tag/ai/latest/rss",                                   False, None),
+    "venturebeat":    ("VentureBeat",     "https://venturebeat.com/feed/",                                                   True,  None),
     # ── Tech media (general, 需关键词过滤) ──────────────────
     "theverge":       ("The Verge",       "https://www.theverge.com/rss/index.xml",                                         True,  None),
     "arstechnica":    ("Ars Technica",    "https://feeds.arstechnica.com/arstechnica/index",                                True,  None),
@@ -107,12 +186,16 @@ RSS_FEEDS: dict[str, tuple[str, str, bool, Optional[int]]] = {
     "arxiv_lg":       ("arXiv cs.LG",     "https://export.arxiv.org/rss/cs.LG",                                             False, 60),
     "arxiv_cl":       ("arXiv cs.CL",     "https://export.arxiv.org/rss/cs.CL",                                             False, 60),
     "arxiv_cv":       ("arXiv cs.CV",     "https://export.arxiv.org/rss/cs.CV",                                             False, 60),
+    "arxiv_sm":       ("arXiv stat.ML",   "https://export.arxiv.org/rss/stat.ML",                                           False, 60),
+    "arxiv_ne":       ("arXiv cs.NE",     "https://export.arxiv.org/rss/cs.NE",                                             False, 60),
     # ── Reddit (RSS, 会拒绝通用 UA — 静默降级为 0 条) ────────
     "r_mlearning":    ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss",                                False, 40),
     "r_localllama":   ("r/LocalLLaMA",      "https://www.reddit.com/r/LocalLLaMA/.rss",                                     False, 40),
     # ── Newsletters / analyst blogs ─────────────────────────
     "import_ai":      ("Import AI",        "https://jack-clark.net/feed/",                                                  False, None),
     "chip_huyen":     ("Chip Huyen",       "https://huyenchip.com/feed.xml",                                                False, None),
+    "bensbites":      ("Ben's Bites",      "https://www.bensbites.com/feed",                                                False, None),
+    "latentspace":    ("Latent Space",     "https://www.latent.space/feed",                                                 False, None),
 }
 
 

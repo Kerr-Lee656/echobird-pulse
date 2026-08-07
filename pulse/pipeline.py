@@ -18,6 +18,7 @@ from .sources import (
     dedupe_by_url,
     fetch_all_rss_feeds,
     fetch_github_trending,
+    fetch_hn_firebase,
     fetch_hn_stories,
     merge_aihot,
 )
@@ -40,6 +41,7 @@ def build_en_feed(
 
     items: list[dict] = []
     items.extend(fetch_hn_stories(window_start, now))
+    items.extend(fetch_hn_firebase(window_start, now))  # 热榜视角补充
     items.extend(fetch_all_rss_feeds(window_start, now))
     items.extend(fetch_github_trending(now))
 
