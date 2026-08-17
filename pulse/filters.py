@@ -11,7 +11,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
-from .common import BLOCKED_HOST_RE, BLOCKED_TITLE_RE, parse_iso
+from .common import BLOCKED_HOST_RE, BLOCKED_TITLE_RE, AI_RE, CN_AI_RE, CJK_RE, parse_iso
 
 FUTURE_SLACK = timedelta(minutes=5)
 
@@ -39,15 +39,28 @@ def normalize_future_timestamps(items: list[dict], reference: Optional[datetime]
 
 
 def filter_items(items: list[dict], *, reference: Optional[datetime] = None) -> list[dict]:
-    """主机黑名单 (x/twitter/v2ex) + 标题黑名单 (社区公告/广告/推广) + 时间戳修复。"""
+    """主机黑名单 (x/twitter/v2ex) + 标题黑名单 (社区公告/广告/推广)
+    + 中文标题 AI 相关性过滤 (2026-08: 综合频道混入非 AI 内容) + 时间戳修复。"""
     kept = [
         it
         for it in items
         if not BLOCKED_HOST_RE.match(it.get("url") or "")
         and not BLOCKED_TITLE_RE.search(it.get("title") or "")
+        and _is_ai_relevant(it.get("title") or "")
     ]
     normalize_future_timestamps(kept, reference)
     return kept
+
+
+def _is_ai_relevant(title: str) -> bool:
+    """中文标题必须命中 AI 关键词才保留; 英文标题不设限 (en feed 构建时已过滤)。
+
+    中文 feed 镜像自 SuYxh 综合聚合器 (36氪/IT之家/虎嗅/Bloomberg 等频道),
+    会混入娱乐/财经/事故等非 AI 内容 — 标题不含任何 AI 关键词即丢弃。
+    """
+    if not CJK_RE.search(title):
+        return True
+    return bool(AI_RE.search(title) or CN_AI_RE.search(title))
 
 
 def filter_file(path: Path) -> tuple[int, int, int]:

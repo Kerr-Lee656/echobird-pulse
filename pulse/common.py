@@ -24,10 +24,35 @@ AI_KEYWORDS = [
     "machine learning", "deep learning", "diffusion", "stable diffusion",
     "midjourney", "RAG", "fine-tuning", "embedding", "agent", "agentic",
     "MCP", "vibe coding", "copilot", "cursor", "codex",
+    # 中文 AI 关键词 (2026-08 加: 中文 feed 过滤非 AI 内容)
+    # 注意: 中文没有 word boundary, 不能用 \b 包裹 — 单独 CN_AI_RE
+    "OpenRouter", "推理模型", "模型训练", "模型部署", "数据集",
+    "AI应用", "AI视频", "AI绘画", "AI编程", "AI助手", "AI创业",
 ]
 AI_RE = re.compile(
-    r"\b(" + "|".join(re.escape(k) for k in AI_KEYWORDS) + r")\b", re.IGNORECASE
+    r"(?<![A-Za-z0-9])(" + "|".join(re.escape(k) for k in AI_KEYWORDS) + r")(?![A-Za-z0-9])",
+    re.IGNORECASE,
 )
+
+# 中文 AI 关键词 (2026-08): 无 \b 词边界 (CJK 字符间无 boundary)
+CN_AI_KEYWORDS = [
+    "人工智能", "大模型", "智能体", "机器学习", "深度学习", "神经网络",
+    "生成式", "多模态", "AIGC", "英伟达", "黄仁勋", "芯片", "GPU",
+    "机器人", "自动驾驶", "算力", "语音识别", "图像识别", "NLP",
+    # 中国 AI 产品/公司 (2026-08: 避免误杀国产 AI 内容)
+    "DeepSeek", "GLM", "智谱", "Kimi", "月之暗面", "通义", "Qwen",
+    "文心", "豆包", "讯飞", "MiniMax", "盘古", "昇腾", "昇思",
+    "可灵", "即梦", "Vidu", "智源", "阶跃", "百川", "零一万物",
+    # AI 术语补充 (2026-08: 具身智能/模型竞争/合成数据等)
+    "具身智能", "模型", "蒸馏", "合成数据", "DETR", "DataAgent",
+    "数据集", "模型训练", "模型部署", "推理模型", "数据中心", "大语言模型",
+]
+CN_AI_RE = re.compile(
+    "|".join(re.escape(k) for k in CN_AI_KEYWORDS), re.IGNORECASE
+)
+
+# CJK 检测: 中文标题才做 AI 相关性过滤 (2026-08)
+CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 
 # 主机黑名单: x.com / twitter.com 是 KOL 帖子, v2ex.com 是论坛闲聊。
 # 与 filter_pulse 保持一致 (两者都应用于 ZH feed)。
