@@ -16,5 +16,104 @@
   "site_name": "Zeli",
   "published_at": "2026-08-17T20:46:10Z",
   "fetched_at": "2026-08-18T15:10:44.292665+00:00"
+ },
+ "876fe6c1edb8": {
+  "id": "876fe6c1edb8",
+  "url": "https://github.com/volcengine/OpenViking",
+  "title": "volcengine/OpenViking — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-18T15:27:26.004294+00:00"
+ },
+ "1970f2aab6a8": {
+  "id": "1970f2aab6a8",
+  "url": "https://github.com/unslothai/unsloth",
+  "title": "unslothai/unsloth — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-18T15:27:42.115319+00:00"
+ },
+ "13d96f6971ff": {
+  "id": "13d96f6971ff",
+  "url": "https://github.com/anthropics/claude-code",
+  "title": "anthropics/claude-code — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-18T15:27:57.075400+00:00"
+ },
+ "651fb9e24169": {
+  "id": "651fb9e24169",
+  "url": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
+  "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T14:23:48Z",
+  "fetched_at": "2026-08-18T15:28:37.238078+00:00"
+ },
+ "4201eaaadb88": {
+  "id": "4201eaaadb88",
+  "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+  "title": "Perplexity's free AI offer left it with millions more users in India",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T14:20:05Z",
+  "fetched_at": "2026-08-18T15:28:52.900482+00:00"
+ },
+ "f6d3c3da0538": {
+  "id": "f6d3c3da0538",
+  "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+  "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-18T14:00:00.000Z",
+  "fetched_at": "2026-08-18T15:29:31.101800+00:00"
+ },
+ "667df1e38fed": {
+  "id": "667df1e38fed",
+  "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+  "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-18T13:50:30.000Z",
+  "fetched_at": "2026-08-18T15:29:56.022374+00:00"
+ },
+ "2e0d1802815f": {
+  "id": "2e0d1802815f",
+  "url": "https://zenodo.org/records/21951641",
+  "title": "Agent identity, plus context and memory: three IANA-registered formats",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T13:39:42Z",
+  "fetched_at": "2026-08-18T15:30:06.637001+00:00"
+ },
+ "9f6def883554": {
+  "id": "9f6def883554",
+  "url": "https://model-spec.openai.com/2026-08-18.html",
+  "title": "OpenAI Model Spec",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T12:15:23Z",
+  "fetched_at": "2026-08-18T15:30:24.499451+00:00"
+ },
+ "4a7bde4e5970": {
+  "id": "4a7bde4e5970",
+  "url": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
+  "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T12:15:15Z",
+  "fetched_at": "2026-08-18T15:30:39.184069+00:00"
+ },
+ "98aed69579fa": {
+  "id": "98aed69579fa",
+  "url": "https://arxiv.org/abs/2608.10218",
+  "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems (Anthropic)",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-18T12:01:00Z",
+  "fetched_at": "2026-08-18T15:30:55.991597+00:00"
  }
 }

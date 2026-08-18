@@ -1,0 +1,22 @@
+{
+ "id": "667df1e38fed",
+ "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+ "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-18T13:50:30.000Z",
+ "fetched_at": "2026-08-18T15:29:56.022374+00:00",
+ "content": "After numerous lawsuits over AI chatbots’ lack of safety measures, leading to teens’ suicides and other mental health concerns, OpenAI on Monday announced the launch of ChatGPT for Teens. The new product promises to include additional safety measures, as well as the educational crisis of ChatGPT-assisted cheating in schools.\nOn the educational side, ChatGPT for Teens introduces a new Study Mode feature and other tools designed to encourage teen users to engage their curiosity and work through problems, not just get quick answers.\nAs OpenAI explains in a blog post, the Study Mode option will give teens guiding questions and step-by-step support to help them understand the material. Meanwhile, the teen experience will also include homework reminders that appear when a teen appears to be trying to cheat, instead of understanding the material. The AI chatbot will then push the teen to use Study Mode instead.\nThe app will also support quizzes and learning visualizations, and controls that allow parents or guardians to decide when Study Mode is enabled by default, the company says.\nStill, it’s not clear how difficult it will be for teens to escape these new systems if they decide not to cooperate. Teens are incredibly adept at working around parental controls and other attempts to lock down digital experiences. Until ChatGPT’s teen mode can be put to more strenuous tests, it’s unclear how difficult it will be to work around these safety measures in reality.\nThere’s also the question as to why these protections weren’t part of ChatGPT from the beginning. The AI chatbot first arrived in late 2022 and scaled to 900 million weekly users before meaningful safeguards designed specifically for teenage users were added.\nOpenAI says the app-appropriate protections will now be on by default in ChatGPT for Teens, which are designed to reduce exposure to harmful or developmentally inappropriate content. These measures are based on OpenAI’s Under-18 Principles in our Model Spec, which the company claims to be informed by “developmental science and guidance from experts.”\nParents will also be able to use the family tools and parental controls previously introduced to manage settings, receive safety notifications, and set Quiet Hours, among other things.\nOpenAI announced a partnership with CodeAI to help teens learn more about AI, including how it works, how to direct it or question it, and how to use it. In the classroom, OpenAI already offers ChatGPT for Teachers to help provide schools with institution-managed access to AI and support.",
+ "report": {
+  "summary": "OpenAI推出面向青少年的更安全ChatGPT，应对心理健康与作弊问题",
+  "background": "自2022年底ChatGPT上线以来，青少年大量使用但缺乏专门安全防护，引发多起诉讼，涉及自杀等心理健康问题。同时，AI辅助作弊在校园蔓延。OpenAI此次推出ChatGPT for Teens，新增学习模式和家长控制，试图回应这些争议。但外界质疑为何当初未内置保护，且绕过机制难度未知。",
+  "key_points": [
+   "ChatGPT for Teens默认开启针对未成年人的安全过滤，减少有害内容，基于OpenAI的未成年人原则。",
+   "新增Study Mode学习模式，用引导式问题逐步讲解，鼓励理解而非直接给答案。",
+   "检测到疑似作弊时推送作业提醒，引导使用学习模式；支持测验、可视化学习和家长控制。",
+   "合作CodeAI教青少年深入了解AI原理与使用边界，学校端已有ChatGPT for Teachers。"
+  ],
+  "impact": "对行业而言，AI厂商必须重视未成年人保护，否则面临法律风险；对开发者，需在设计上平衡功能与安全；对普通用户，家长获得更多管理工具，但青少年可能绕过限制，实际效果仍待检验。这或推动AI教育产品更聚焦学习过程而非答案输出。",
+  "tools": "可关注OpenAI官方Model Spec中Under-18 Principles，及ChatGPT教育版；开源方面可关注Fawkes等学生防作弊工具，或EduGPT类教学辅助项目。"
+ }
+}

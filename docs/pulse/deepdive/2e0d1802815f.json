@@ -1,0 +1,22 @@
+{
+ "id": "2e0d1802815f",
+ "url": "https://zenodo.org/records/21951641",
+ "title": "Agent identity, plus context and memory: three IANA-registered formats",
+ "source": "Hacker News (2pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-18T13:39:42Z",
+ "fetched_at": "2026-08-18T15:30:06.637001+00:00",
+ "content": "Why Agents Need a Passport: .fafa — Portable Identity for the Agentic Era\nDescription\nThis paper specifies .fafa (application/vnd.fafa+yaml), the IANA-registered media type for declarative agent identity: a portable passport for who an agent is, what it may do, where it is reached, and what it must never do. It complements Agent Cards, Model Context Protocol server-cards, and AGENTS.md; it does not replace them.\nIn production, that identity is usually inferred from system prompts, product settings, and protocol-native cards that do not travel cleanly across hosts — seam rewrites, inference cost, and trust surfaces that cannot be diffed. A .fafa document is simple, structured, and persistent. Its lifecycle is author → serve → discover → project. House cards stay the wire format; AGENTS.md stays the repo ops briefing; .fafa answers who the agent is. The paper is self-contained. Multi-agent orchestration, deep composition, and scoring are deferred.\nFiles\n      \n        faf-agent-passport-v1.0.pdf\n        \n      \n    \n    \n      \n        Files\n         (462.1 kB)\n        \n      \n    \n    Additional details\nDates\n- Submitted\n- \n      2026-08-15White Paper\n              \n                Software\n              \n            \n          - Repository URL\n- https://github.com/Wolfe-Jam/faf\n- Programming language\n- YAML\n- Development Status\n- Active\n            \n              References\n            \n          \n        - IANA. Media type application/vnd.fafa+yaml. Registered 2026-06-26. https://www.iana.org/assignments/media-types/application/vnd.fafa+yaml\n- IANA. Media type application/vnd.faf+yaml. Registered 2025-10-31. https://www.iana.org/assignments/media-types/application/vnd.faf+yaml\n- IANA. Media type application/vnd.fafm+yaml. Registered 2026-05-13. https://www.iana.org/assignments/media-types/application/vnd.fafm+yaml\n- AGENTS.md. Repository-level agent instructions. https://agents.md\n- Model Context Protocol (MCP). https://modelcontextprotocol.io\n- Agent-to-Agent (A2A). Agent Card discovery and interoperability.\n- Polli, R., Wilde, E., and Aro, E. YAML Media Type. RFC 9512, February 2024. https://www.rfc-editor.org/rfc/rfc9512\n- Wolfe, J. Format-Driven AI Context Architecture: The .faf Standard for Persistent Project Understanding. Zenodo. https://doi.org/10.5281/zenodo.18251362\n- Wolfe, J. Permanent Memory and Instant Recall: The .fafm Standard for Multi-Profile AI Agent Memory. Zenodo. https://doi.org/10.5281/zenodo.20348942\n- Agentic AI Foundation (AAIF). https://aaif.io",
+ "report": {
+  "summary": "IANA注册三种格式，为AI智能体提供统一身份、上下文和记忆标准化方案。",
+  "background": "随着多智能体系统普及，智能体身份、上下文和记忆缺乏可移植的标准化格式，导致系统提示词难跨平台复用、信任评估困难。Wolf等人先后提出.faf（上下文）、.fafm（记忆），并最终发布.fafa智能体身份护照，三者均获IANA媒体类型注册。.fafa以声明式YAML定义智能体身份、权限与禁用行为，补充而非替代Agent Cards、MCP server-cards和AGENTS.md，旨在让智能体身份像护照一样跨主机流转。",
+  "key_points": [
+   ".fafa是IANA注册的智能体身份媒体类型，用YAML声明智能体身份、能力范围、访问地址与禁止事项。",
+   "生命周期为作者→发布→发现→投影，身份文档可从单一来源导出到不同运行时环境。",
+   "与.faf（上下文）、.fafm（记忆）组成三件套，分别解决身份、上下文与记忆的标准化问题。",
+   "不取代现有协议，而是与Agent Cards、MCP server-cards和AGENTS.md互补，专注回答“智能体是谁”。"
+  ],
+  "impact": "对AI行业：推动智能体互操作性，降低多平台迁移成本，为信任和审计提供基础。对开发者：简化智能体配置，无需从系统提示中推断身份，利于调试和团队协作。对普通用户：智能体行为边界更清晰，使用更透明，可基于统一身份格式评估可信度。",
+  "tools": "可关注.faf系列规范（GitHub: Wolfe-Jam/faf），以及配合使用的MCP（Model Context Protocol）、A2A Agent Card和AGENTS.md。这些工具共同构成智能体上下文、记忆和身份管理的参考实践。"
+ }
+}

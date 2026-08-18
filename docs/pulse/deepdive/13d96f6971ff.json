@@ -1,0 +1,22 @@
+{
+ "id": "13d96f6971ff",
+ "url": "https://github.com/anthropics/claude-code",
+ "title": "anthropics/claude-code — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-18T15:27:57.075400+00:00",
+ "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.\nLearn more in the official documentation.\nNote\nInstallation via npm is deprecated. Use one of the recommended methods below.\nFor more installation options, uninstall steps, and troubleshooting, see the setup documentation.\n- \nInstall Claude Code: MacOS/Linux (Recommended): curl -fsSL https://claude.ai/install.sh | bashHomebrew (MacOS/Linux): brew install --cask claude-code Windows (Recommended): irm https://claude.ai/install.ps1 | iex WinGet (Windows): winget install Anthropic.ClaudeCode NPM (Deprecated): npm install -g @anthropic-ai/claude-code\n- \nNavigate to your project directory and run claude .\nThis repository includes several Claude Code plugins that extend functionality with custom commands and agents. See the plugins directory for detailed documentation on available plugins.\nWe welcome your feedback. Use the /bug command to report issues directly within Claude Code, or file a GitHub issue.\nJoin the Claude Developers Discord to connect with other developers using Claude Code. Get help, share feedback, and discuss your projects with the community.\nWhen you use Claude Code, we collect feedback, which includes usage data (such as code acceptance or rejections), associated conversation data, and user feedback submitted via the /bug command.\nSee our data usage policies.\nWe have implemented several safeguards to protect your data, including limited retention periods for sensitive information, restricted access to user session data, and clear policies against using feedback for model training.\nFor full details, please review our Commercial Terms of Service and Privacy Policy.",
+ "report": {
+  "summary": "Anthropic发布终端代理编码工具Claude Code，支持自然语言操作。",
+  "background": "Anthropic在推出Claude系列模型后，进一步将AI能力下沉到开发者日常场景，发布了Claude Code。该工具定位为终端原生的代理式编码助手，与GitHub Copilot、Cursor等IDE插件形成差异化竞争。在AI编程助手赛道日益拥挤的背景下，Claude Code通过理解整个代码库、执行自然语言命令来承担日常任务，同时经历安装方式从npm到官方脚本的迁移，反映出产品快速迭代和用户规模扩大的趋势。",
+  "key_points": [
+   "终端原生代理：Claude Code直接运行在终端中，能理解整个代码库，用自然语言命令完成写代码、解释复杂逻辑和处理git工作流等任务。",
+   "安装方式简化：npm安装已弃用，推荐使用curl脚本或Homebrew/WinGet，跨平台支持macOS/Linux/Windows，降低上手门槛。",
+   "插件扩展机制：仓库提供plugins目录，可添加自定义命令和代理，满足不同团队的个性化开发流程需求。",
+   "数据隐私保障：工具会收集使用数据（如代码接受/拒绝）用于改进，但设有限保留期，且明确不用于模型训练，用户可通过/bug反馈问题。"
+  ],
+  "impact": "对AI行业，Claude Code标志着代理式编码成为新趋势，Anthropic以终端为入口加剧了与OpenAI、GitHub等玩家的竞争；对开发者，它能大幅减少重复劳动，但需人工审查生成代码的质量与安全；对普通用户，终端使用有一定命令行门槛，短期影响有限，但自然语言编程的普及可能间接降低未来入门开发的门槛。",
+  "tools": "读者可运行 `curl -fsSL https://claude.ai/install.sh | bash` 安装Claude Code，并查阅官方文档和仓库plugins目录。加入Claude Developers Discord可以获取社区支持。也可对比体验GitHub Copilot、Cursor等同类AI编程工具。"
+ }
+}

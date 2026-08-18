@@ -1,0 +1,23 @@
+{
+ "id": "f6d3c3da0538",
+ "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+ "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-18T14:00:00.000Z",
+ "fetched_at": "2026-08-18T15:29:31.101800+00:00",
+ "content": "Companies are still grappling with exactly how software development should work in the AI area, but one early answer is the so-called software factory. Essentially an agent loop that’s built around the traditional stages of software development, the software factory approach has become a popular way for companies to remake their engineering organizations for the AI era.\nNow, a system from Warp could make that transition a lot easier. On Tuesday, the AI coding company introduced Warp Factories, a new system designed to make building and operating AI software factories as easy as possible.\nOperating as an infrastructure layer, Warp Factories gives companies a simple environment for deploying agents and a roadmap for how to use them.\nTo be clear, many companies are already having success with the factory model without any help from Warp. Stripe has been particularly public about its technical progress, developing a “minions” system to automate development within its own codebase. Ramp has made similar progress, developing a background agent that can monitor its own code after it is deployed.\nAs Warp CEO Zach Lloyd sees it, the target market for Warp Factories will be smaller companies without the resources to develop a system from the ground up.\n“[If you look at] things like running your agents in the cloud and steering those agents as they run, or bringing the work that they’re doing into your local environment, or setting up memory that goes across those agents, or setting up evals that go across those agents — it’s actually a huge infrastructure undertaking to do this right,” Lloyd told TechCrunch.\nIn Warp Factories, the architecture is already built out of the box, with many of the most difficult decisions already made. Warp’s system is based on the standard phases of software development (triage, specification, implementation, review, and verification) but the agentic approach means any of those steps can be automated.\nUsers can choose their own coding model and harnesses as necessary; the system works as well with Codex as Claude Code. It also integrates with ticketing systems like Linear and Jira, and messaging systems like Slack and Teams, in an effort to plug in seamlessly to existing workflows.\nBeyond just shipping code, Warp Factories will also give managers the tools to track how well the factory is performing. With all the agents running in the same environment, it’s easy to compare performance metrics for different configurations, and to keep an eye on the overall token spend. Warp Factory also allows for self-improvement loops to optimize the overall system, automating management of the process itself.\nEven so, Warp Factories is not built to completely replace software engineers — just give them an easier way to collaborate with the new agentic workforce. In Lloyd’s own experience, there are still a lot of tasks that require a human at the wheel.\n“We automate like 30% of our tasks, 30 to 35% on a weekly basis,” Lloyd told TechCrunch, “and as models improve, as the context improves, as the harness improves, I think that that number is going to go up over time.”",
+ "report": {
+  "summary": "Warp发布开箱即用的AI软件工厂系统，简化代理开发流程。",
+  "background": "AI时代如何重构软件开发流程，是当前工程界的热点。‘软件工厂’模式应运而生，即围绕分诊、规格、实现、审查、验证等传统阶段构建代理循环。Stripe、Ramp 等公司已自研类似系统并取得成效，但自建基础设施成本高昂。Warp 作为 AI 编码公司，看到了小公司的需求，推出 Warp Factories 提供开箱即用的基础设施层，让团队无需从零搭建即可部署和编排 AI 代理，从而把精力集中在实际开发上。",
+  "key_points": [
+   "Warp Factories 提供开箱即用的 AI 软件工厂基础设施，基于软件开发标准阶段自动编排代理流程，降低部署门槛。",
+   "主要面向缺乏自研能力的中小企业，因为像 Stripe 等大公司已自建‘minions’等系统，无需外部方案。",
+   "系统兼容主流代理工具和模型，支持 Codex、Claude Code，并集成 Linear、Jira、Slack、Teams，方便融入现有工作流。",
+   "内置管理监控，可跟踪代理性能、对比配置、监督 token 支出，并通过自我改进循环优化整体系统。",
+   "并非要取代工程师，而是实现人机协作。CEO 表示目前可自动化约三成任务，未来比例会随模型提升而增长。"
+  ],
+  "impact": "对AI行业而言，软件工厂模式正在成为主流，Warp Factories 的出现将加速这一趋势，使中小团队也能实践 AI 代理驱动的开发，可能成为企业级 AI 开发基础设施的新标准。对开发者来说，日常工作中的重复性任务可被代理接管，但需要学习如何监督、配置和优化这些代理，角色从写代码演变为管理‘代理团队’。对普通用户，软件开发效率提升有望加快产品迭代，但需注意自动化带来的质量与安全风险。",
+  "tools": "关注 Warp 官网的 Warp Factories 试用；同时可研究 OpenAI Codex、Anthropic Claude Code 等代理工具作为底层模型选择，配合 Linear/Jira 做任务管理。若想自建软件工厂，可参考开源代理编排框架如 LangGraph、AutoGen，或观察 Stripe 的实践。"
+ }
+}
