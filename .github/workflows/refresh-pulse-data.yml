@@ -67,6 +67,16 @@ jobs:
           python -m pulse pin docs/pulse/latest-7d.json  --lang zh
           python -m pulse pin docs/pulse/latest-7d-en.json --lang en
 
+      # 重点资讯深度报告 (2026-08-18): 标题 LLM 筛选 → 正文采集 → 深度报告
+      # 失败不阻塞主流程 (deepdive 自身 fail-soft)。
+      - name: 5.5 Deepdive key items (title screen → article → report)
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python -m pulse.deepdive --feed latest-24h.json || echo "deepdive failed (non-fatal)"
+          python -m pulse.deepdive --feed latest-7d-en.json || echo "deepdive en failed (non-fatal)"
+          ls docs/pulse/deepdive/ 2>/dev/null | head -5 || true
+
       - name: 6. Commit if changed
         run: |
           set -euo pipefail
