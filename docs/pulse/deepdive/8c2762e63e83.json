@@ -1,0 +1,23 @@
+{
+ "id": "8c2762e63e83",
+ "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-cashes-gaming-double-112716446.html",
+ "title": "阿里巴巴（BABA）退出游戏业务，加码人工智能",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-19T12:06:20.117Z",
+ "fetched_at": "2026-08-19T13:07:34.514491+00:00",
+ "content": "On August 17, Alibaba Group (NYSE:BABA) agreed to hand its entire stake in game studio Lingxi Games to private equity firm Trustar Capital, a deal a person familiar with the matter says will net the Chinese tech giant more than $2 billion. Bloomberg News pegged the transaction closer to $1.5 billion, and neither side disclosed a final price or closing date. What the sale does make plain is where Alibaba wants its capital and attention pointed next, and it isn't games.\nBull Case: Cloud Is Doing the Heavy Lifting\nLingxi is the latest non-core asset Alibaba has shed, following its recent sales of hypermarket chain Sun Art and department store operator Intime. Under the agreement, Lingxi's management team, including CEO Zhou Bingshu, stays in place under Trustar, which means Alibaba is walking away cleanly rather than restructuring the unit itself. That pattern fits a company redirecting resources toward AI and cloud computing rather than propping up businesses outside its core.\nThe bet centers on Qwen, Alibaba's open-source family of large language models. Offering the models at no cost acts as an onboarding pipeline, as developers utilizing Qwen require computing infrastructure, hosting, and storage services supplied by Alibaba Cloud. The Qwen app has already topped 100 million monthly active users. Cloud revenue grew 34% in the latest fiscal year, with AI-related product revenue posting triple-digit growth for eleven straight quarters, and the segment grew 38% year over year to $6 billion in a recent quarter, making Alibaba the leading cloud provider in the Asia Pacific region. Shares rose 27.4% in July alone as Chinese AI models regained favor with investors, and buybacks have trimmed shares outstanding by 8.5% over the past three years.\nBear Case: Retail Still Weighs It Down\nThe Lingxi sale also reflects a business Alibaba would rather de-emphasize. The e-commerce division continues to encounter strong competition from Pinduoduo, JD.com, and Douyin, while high expenditures in quick commerce impact the unit's long-term profitability outlook. Consolidated revenue grew just 3% year-over-year in a recent quarter as Alibaba's other revenue segment declined sharply, and adjusted earnings were nearly wiped out entirely in the first three months of the year as spending on technology and quick commerce piled up.\nThere's a regulatory undertone too. Lingxi itself had explored external fundraising in late 2023 before that process stalled when China proposed tighter rules for online gaming, one of the sources familiar with the Trustar deal said. The gaming sector has since rebounded, but the episode is a reminder that Chinese policy can still reshape a business overnight, a risk that extends well beyond gaming for foreign holders of Alibaba stock.",
+ "report": {
+  "summary": "阿里出售游戏业务，套现超15亿美元，全力加码AI与云计算。",
+  "background": "阿里巴巴近年来持续剥离非核心资产，先后出售高鑫零售、银泰等业务，此次将灵犀游戏全部股权售予太盟投资，预计净赚超15亿美元。交易背后是阿里明确的战略转向：以通义千问（Qwen）开源模型为核心，通过免费模型吸引开发者，进而拉动阿里云的算力、存储等付费服务。云业务已连续11个季度AI相关收入三位数增长，成为亚太领先云厂商。但电商主业面临拼多多、京东、抖音的激烈竞争，整体营收增速放缓，出售游戏亦是为了集中资源应对压力。",
+  "key_points": [
+   "阿里将灵犀游戏全部股权卖给太盟投资，管理层留任，阿里干净退出，交易金额约15-20亿美元。",
+   "通义千问（Qwen）开源模型免费开放，作为引流工具，开发者使用模型需购买阿里云的计算和存储服务。",
+   "Qwen应用月活已超1亿，阿里云最新季度营收同比增长38%至60亿美元，AI相关收入连续11个季度三位数增长。",
+   "电商零售业务承压，季度总营收仅增3%，且高投入的即时零售侵蚀利润，出售游戏是为聚焦核心。",
+   "游戏行业曾因中国监管收紧而受挫，此次交易也反映了政策风险对阿里资产处置节奏的影响。"
+  ],
+  "impact": "对AI行业而言，阿里通过开源模型+云服务绑定开发者的模式，强化了与百度、华为、字节的竞争，可能加速大模型价格战。对开发者来说，免费Qwen降低了上手门槛，但长远看使用阿里云会产生成本，形成生态依赖。对普通用户，通义千问等国产AI应用普及度提升，可免费使用大模型能力，但需关注数据隐私与商业化后的服务变化。",
+  "tools": "可关注阿里的通义千问（Qwen）开源系列模型（Hugging Face上有Qwen2.5等），以及阿里云百炼平台（Model Studio）用于部署微调；同时可参考Lingxi Games事件后的游戏行业走势，或使用SimilarWeb跟踪Qwen App流量变化。"
+ }
+}

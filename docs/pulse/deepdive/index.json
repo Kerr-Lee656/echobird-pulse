@@ -448,5 +448,68 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T10:47:11.980796+00:00"
+ },
+ "21655f25ec5a": {
+  "id": "21655f25ec5a",
+  "url": "https://www.qbitai.com/2026/08/475907.html",
+  "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T13:06:52.105227+00:00"
+ },
+ "055eb9b8bb69": {
+  "id": "055eb9b8bb69",
+  "url": "https://www.huxiu.com/article/4884361.html?f=rss",
+  "title": "字节-MPA签订AI版权治理架构：输出侧治理、输入侧“再议”",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T12:18:41Z",
+  "fetched_at": "2026-08-19T13:07:06.941693+00:00"
+ },
+ "7216edf968cd": {
+  "id": "7216edf968cd",
+  "url": "https://www.businessinsider.com/unitree-stock-soars-ipo-china-humanoid-robotics-2026-8",
+  "title": "中国机器人巨头Unitree在备受瞩目的首次公开募股中股价一度暴涨629%",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T12:06:20.568Z",
+  "fetched_at": "2026-08-19T13:07:24.102840+00:00"
+ },
+ "8c2762e63e83": {
+  "id": "8c2762e63e83",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-cashes-gaming-double-112716446.html",
+  "title": "阿里巴巴（BABA）退出游戏业务，加码人工智能",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T12:06:20.117Z",
+  "fetched_at": "2026-08-19T13:07:34.514491+00:00"
+ },
+ "7de21e9a5871": {
+  "id": "7de21e9a5871",
+  "url": "https://news.ycombinator.com/item?id=49360345",
+  "title": "YC 正押注于机器人技术和物理人工智能初创企业",
+  "source": "news.ycombinator.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T12:06:18.555Z",
+  "fetched_at": "2026-08-19T13:07:50.174809+00:00"
+ },
+ "728da7e634b8": {
+  "id": "728da7e634b8",
+  "url": "https://www.huxiu.com/article/4884347.html?f=rss",
+  "title": "股价涨完后，百亿算力大单接连告吹",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T11:46:25Z",
+  "fetched_at": "2026-08-19T13:08:10.391453+00:00"
+ },
+ "0f743a48654d": {
+  "id": "0f743a48654d",
+  "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+  "title": "人工智能会帮你找到工作吗？自动化招聘工具引发歧视和保密诉讼",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T11:02:02.174Z",
+  "fetched_at": "2026-08-19T13:08:24.016614+00:00"
  }
 }
