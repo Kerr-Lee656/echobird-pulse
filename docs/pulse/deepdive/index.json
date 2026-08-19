@@ -511,5 +511,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-08-19T11:02:02.174Z",
   "fetched_at": "2026-08-19T13:08:24.016614+00:00"
+ },
+ "7d28ac89cbff": {
+  "id": "7d28ac89cbff",
+  "url": "https://www.leiphone.com/category/private/e2kawO4eCgabOwBm.html",
+  "title": "挑战 1 比特！ETH Zürich 秦浩桐：如何把大模型「塞进」小设备？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:51:05.169393+00:00"
+ },
+ "9aa3cfa93d37": {
+  "id": "9aa3cfa93d37",
+  "url": "https://www.huxiu.com/article/4884389.html?f=rss",
+  "title": "美联邦债务，即将突破40万亿美元，本财年利息就付了1.2万亿，AI巨头和政府“抢钱”，美债遭抛售，收益率创19年新高",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T14:03:14Z",
+  "fetched_at": "2026-08-19T14:51:29.752985+00:00"
+ },
+ "fbfdec28cfff": {
+  "id": "fbfdec28cfff",
+  "url": "https://github.com/PostHog/posthog",
+  "title": "PostHog/posthog — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:51:58.754117+00:00"
+ },
+ "02eab667df44": {
+  "id": "02eab667df44",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "title": "anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:52:08.028814+00:00"
+ },
+ "ec2b8bd43eef": {
+  "id": "ec2b8bd43eef",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "title": "NousResearch/hermes-agent — The agent that grows with you",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:52:18.933965+00:00"
+ },
+ "379642deb53f": {
+  "id": "379642deb53f",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "title": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:52:29.917197+00:00"
+ },
+ "f0bee3c92ac3": {
+  "id": "f0bee3c92ac3",
+  "url": "https://github.com/letta-ai/letta-code",
+  "title": "letta-ai/letta-code — Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:52:38.077746+00:00"
+ },
+ "401c6af5b51d": {
+  "id": "401c6af5b51d",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "title": "vercel-labs/agent-browser — Browser automation CLI for AI agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T14:52:53.224114+00:00"
  }
 }
