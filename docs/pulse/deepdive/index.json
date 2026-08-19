@@ -115,5 +115,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-18T12:01:00Z",
   "fetched_at": "2026-08-18T15:30:55.991597+00:00"
+ },
+ "de3bf306a8f6": {
+  "id": "de3bf306a8f6",
+  "url": "https://aiera.com.cn/2026/08/19/other/admin/109642/%e5%86%b7%e6%88%98%e6%a0%b8%e5%ba%9f%e5%a2%9f%e5%8f%988%e5%90%89%e7%93%a6ai%e8%b6%85%e7%ba%a7%e5%b7%a5%e5%8e%82%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%e6%8a%bc15%e4%ba%bf%ef%bc%8copenai%e7%8b%ac%e9%9c%b8",
+  "title": "冷战核废墟变8吉瓦AI超级工厂！黄仁勋押15亿，OpenAI独霸20年",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-19T00:37:26.724Z",
+  "fetched_at": "2026-08-19T04:50:03.685310+00:00"
+ },
+ "b1af987f373c": {
+  "id": "b1af987f373c",
+  "url": "https://www.aibase.com/zh/news/30460",
+  "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:50:15.935114+00:00"
+ },
+ "9dc45244aaa7": {
+  "id": "9dc45244aaa7",
+  "url": "https://www.aibase.com/zh/news/30457",
+  "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:50:23.919590+00:00"
+ },
+ "b9fbf0fcbf58": {
+  "id": "b9fbf0fcbf58",
+  "url": "https://www.aibase.com/zh/news/30459",
+  "title": "阿里 5nm RISC-V 芯片玄铁 C950 原生跑通 270 亿参数大模型，摆脱独立显卡束缚",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:50:43.040067+00:00"
+ },
+ "eab3e770b6c9": {
+  "id": "eab3e770b6c9",
+  "url": "https://www.huxiu.com/article/4884156.html?f=rss",
+  "title": "DeepSeek Harness 发布后，Agent 这门生意变了",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T04:08:43Z",
+  "fetched_at": "2026-08-19T04:51:11.209840+00:00"
+ },
+ "89ddd7eda3dd": {
+  "id": "89ddd7eda3dd",
+  "url": "https://www.huxiu.com/article/4884169.html?f=rss",
+  "title": "AI 时代的一个根本矛盾：能力已经变了，制度还没跟上",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T03:50:38Z",
+  "fetched_at": "2026-08-19T04:51:24.605038+00:00"
+ },
+ "b2692c2186ac": {
+  "id": "b2692c2186ac",
+  "url": "https://www.ifanr.com/1675512",
+  "title": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-08-19T03:28:17Z",
+  "fetched_at": "2026-08-19T04:51:33.710511+00:00"
+ },
+ "0604d6a7a7d7": {
+  "id": "0604d6a7a7d7",
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "title": "harry0703/MoneyPrinterTurbo — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:51:54.953338+00:00"
+ },
+ "c750f525fc3d": {
+  "id": "c750f525fc3d",
+  "url": "https://github.com/microsoft/qlib",
+  "title": "microsoft/qlib — Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:52:11.794176+00:00"
+ },
+ "067f046a6a82": {
+  "id": "067f046a6a82",
+  "url": "https://github.com/ToolJet/ToolJet",
+  "title": "ToolJet/ToolJet — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:52:20.134611+00:00"
+ },
+ "7341adec3047": {
+  "id": "7341adec3047",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "title": "vercel-labs/agent-skills — Vercel's official collection of agent skills",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:52:32.773752+00:00"
+ },
+ "e0b688c5b9e8": {
+  "id": "e0b688c5b9e8",
+  "url": "https://github.com/memvid/memvid",
+  "title": "memvid/memvid — Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T04:52:52.033163+00:00"
  }
 }

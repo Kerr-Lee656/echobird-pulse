@@ -1,0 +1,23 @@
+{
+ "id": "9dc45244aaa7",
+ "url": "https://www.aibase.com/zh/news/30457",
+ "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-19T04:50:23.919590+00:00",
+ "content": "据《华尔街日报》报道，OpenAI 向投资者透露，第二季度营收环比增 18% 至 67 亿美元（一季度为 57 亿），但营业亏损率进一步扩大，令部分股东失望。在备受期待的 IPO 之前，盈利反而更远，而对手 Anthropic 同期营收翻倍多至 116 亿美元，首次反超成立更早的 OpenAI，还实现了小幅营业盈利。\n格局生变，OpenAI 被迫重组领导层\n两相对比，自年初以来 AI 竞争格局已剧烈改写：ChatGPT 增长放缓，叠加 Anthropic 旗下 Claude Code 大获成功，使 OpenAI 陷入被动，被迫调整业务方向并大改领导团队。上周公司撤换任职不到一年的首席营收官德雷瑟，此前首席运营官莱特卡普、被视为奥特曼接班人的西莫也已相继离任。\nOpenAI 向投资者称，自 7 月推出一系列新模型后增速已有所回升。但眼前这份成绩单说明，它不仅要追赶 Anthropic 的赚钱速度，还得先止住亏损、稳住人心。",
+ "report": {
+  "summary": "OpenAI 二季度营收67亿美元不及Anthropic 116亿美元，被反超且亏损扩大。",
+  "background": "OpenAI 曾是AI领域领军者，但2025年以来竞争格局剧变：ChatGPT增长放缓，而Anthropic凭借Claude Code等产品迅速崛起。二季度OpenAI营收环比增18%至67亿美元，但Anthropic营收翻倍至116亿美元并实现小幅盈利，首次反超。OpenAI盈利恶化、高管离职，迫使公司重组领导层并加速推出新模型以挽回颓势。",
+  "key_points": [
+   "OpenAI二季度营收67亿美元，环比增18%，但亏损率扩大，盈利前景更远。",
+   "Anthropic同期营收116亿美元，翻倍多，首次反超OpenAI并实现小幅营业盈利。",
+   "ChatGPT增长放缓，Claude Code成功使竞争格局改写，OpenAI陷入被动。",
+   "OpenAI撤换首席营收官，COO和潜在接班人离职，领导团队大改组。",
+   "OpenAI称7月推出新模型后增速回升，但仍需追赶Anthropic并稳住人心。"
+  ],
+  "impact": "对AI行业，Anthropic反超标志着竞争从模型能力转向商业化变现，盈利成为关键。对开发者，Claude Code等工具的热度可能分流ChatGPT用户，推动工具生态多样化。对普通用户，AI服务选择更多，但头部公司盈利压力可能导致涨价或服务收缩。OpenAI若不能止亏，其IPO和长期竞争力将受质疑。",
+  "tools": "关注Anthropic Claude系列（特别是Claude Code）、OpenAI最新模型及API，可对比两者在编程、推理等场景中的实际表现。开源社区可关注Llama、Mistral等替代模型，跟踪Hugging Face上的评测数据。"
+ }
+}
