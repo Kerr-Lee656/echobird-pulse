@@ -1,0 +1,23 @@
+{
+ "id": "6adc3af42739",
+ "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-8-gw-ohio-013000089.html",
+ "title": "英伟达斥资15亿美元，支持OpenAI在俄亥俄州建设8吉瓦的人工智能园区",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-19T09:58:15.428Z",
+ "fetched_at": "2026-08-19T10:45:56.499423+00:00",
+ "content": "Nvidia is backing a massive artificial intelligence infrastructure development in Ohio that could ultimately require at least 10 gigawatts of new power generation, underscoring the rapidly growing impact of AI data centers on U.S. electricity demand.\nThe chipmaker said it has partnered with SB Energy to secure land, power and data center shell capacity at the PORTS-Pike Technology Campus in Pike County, Ohio, where OpenAI will be the customer under a 20-year lease.\nThe first phase is designed to provide 4.25 gigawatts of IT capacity, with Nvidia holding an option covering another 3.75 GW. At full buildout, the project would provide 8 GW of AI computing capacity.\nSB Energy, which is backed by Japan's SoftBank Group and OpenAI, will build, own and operate the data center infrastructure. Nvidia will exclusively supply the site's AI computing systems, including GPUs, CPUs and networking equipment through its DSX AI factory platform.\nThe planned scale of the development highlights the increasingly close relationship between AI infrastructure and the energy sector. SB Energy and SoftBank plan to develop at least 10 GW of new electricity generation to support the campus and invest at least $4.2 billion in regional grid infrastructure through a partnership with AEP Ohio.\nThe companies said the arrangement is structured to prevent the costs of serving the data center campus from being shifted onto existing electricity customers.\nDevelopment is expected to proceed in phases beginning in 2028.\nThe campus is being built around the former Portsmouth Gaseous Diffusion Plant, a major Cold War-era uranium enrichment site in southern Ohio. The developers are working with AEP Ohio as well as the U.S. Departments of Energy and Commerce to redevelop the area into a large-scale technology and power hub.\nNvidia will also invest $1.5 billion directly in SB Energy, joining SoftBank and OpenAI as investors in the infrastructure company. The funding will support SB Energy's broader expansion as demand grows for purpose-built electricity and data center infrastructure serving AI computing.\nThe project adds to a wave of multibillion-dollar data center developments that are transforming U.S. power demand forecasts. Hyperscalers and AI companies are increasingly seeking dedicated generation, transmission capacity and long-term power arrangements as access to electricity becomes one of the principal constraints on new computing capacity.\nThe PORTS-Pike development is particularly notable for its scale: 10 GW of generation capacity would be comparable to the output of several large nuclear power stations and represents a major new source of electricity demand concentrated at a single industrial site.",
+ "report": {
+  "summary": "英伟达投15亿美元联手软银，为OpenAI建8吉瓦AI算力园区。",
+  "background": "随着AI大模型训练和推理需求爆发，数据中心电力消耗成为算力扩张的主要瓶颈。此前，OpenAI已与软银旗下SB Energy合作布局能源基础设施。英伟达作为AI芯片主导者，为确保其GPU被大规模采购，选择深度介入基础设施投资。此次选址俄亥俄州原冷战时铀浓缩厂旧址，与AEP Ohio及美国能源部合作，意图将废弃工业区改造为AI+能源枢纽。项目分阶段推进，2028年动工，最终提供8吉瓦IT容量，并配套至少10吉瓦新能源发电，耗资巨大，被视为AI算力与电力系统深度融合的标志性事件。",
+  "key_points": [
+   "英伟达向SB Energy直接投资15亿美元，成为继软银和OpenAI之后的又一股东，支持其专门为AI建设供电和数据中心基础设施。",
+   "项目位于俄亥俄州派克县，原为冷战时铀浓缩厂，规划最终提供8吉瓦AI算力，首期4.25吉瓦，英伟达独家供应GPU、CPU和网络设备。",
+   "为支撑园区，SB Energy和软银计划开发至少10吉瓦新发电能力，并投资42亿美元升级区域电网，且通过结构设计避免成本转嫁给现有居民用户。",
+   "OpenAI作为核心客户签订20年租约，意味着长期锁定算力资源，显示AI巨头正从租用云服务转向自持超大规模基础设施。",
+   "该项目叠加了美国多笔数十亿美元级数据中心投资，推动国家电力需求预测大幅上调，电力获取已成为AI扩张的关键约束条件。"
+  ],
+  "impact": "对AI行业，这标志着算力供应链从芯片向能源侧延伸，英伟达不再只是卖卡，而是参与建设“算力工厂”，可能重塑AI基础设施投资模式。对开发者，未来算力供给可能更集中、更昂贵，中小玩家更依赖云租赁而非自建。对普通用户，AI应用背后的电力消耗将推高全社会用电需求，但项目设计避免电费转嫁，长期看需关注电网稳定性和电价压力。同时，这类巨型园区可能加速新能源发展和电网改造。",
+  "tools": "关注英伟达DSX AI工厂平台（用于构建AI计算集群）、SB Energy的能源基础设施方案、AEP Ohio的电网规划。开发者可跟踪OpenAI算力租赁政策，或使用H100/B200等GPU的云实例。若想了解能效优化，可研究NVIDIA DCGM、CUDA Power API等工具。"
+ }
+}

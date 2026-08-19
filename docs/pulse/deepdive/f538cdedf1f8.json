@@ -1,0 +1,22 @@
+{
+ "id": "f538cdedf1f8",
+ "url": "https://www.aibase.com/news/30476",
+ "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-19T10:17:38.249Z",
+ "fetched_at": "2026-08-19T10:45:45.948260+00:00",
+ "content": "According to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaboration between Human and Intelligent Customer Service in Customer Contact Services,\" will take effect on September 1st. It aims to regulate consumer pain points such as AI customer service providing irrelevant answers, hidden human customer service channels, and inconsistencies between AI and human responses.\nCurrently, many platforms use AI customer service to reduce labor costs. Some companies even hide the human customer service access points, leading to mechanical responses from AI when dealing with complex disputes. Issues such as unauthorized transaction operations by AI and subsequent rejection of AI's proposed solutions by human agents have emerged. Data from the China Consumers Association shows that after-sales service complaints accounted for 26.79% of total complaints this year, with AI customer service making false commitments and difficulty in accessing human customer service becoming prominent issues. Industry professionals said that AI customer service can save enterprises more than 70% of customer service labor costs.\nThe new national standard clearly defines the service scope and collaboration mechanism between human and AI customer service. It requires clear human customer service access points, which should not be hidden in layers. It also calls for reasonable division of labor based on the complexity of the issue, with simple inquiries handled by AI and complex disputes promptly transferred to human agents. Additionally, it improves the human-machine switching mechanism to prevent consumers from repeatedly describing their issues, and the system should automatically transfer to a human agent once certain conditions are met.\nAlthough this standard is a recommended national standard and does not directly constitute grounds for legal penalties, it will become an important reference for industry service quality. With the large-scale application of AI customer service, the industry is shifting from merely pursuing cost reduction and efficiency enhancement to also focusing on service experience, responsibility boundaries, and consumer rights protection.",
+ "report": {
+  "summary": "国内首个AI与人工客服协同国家标准9月1日实施，规范服务体验。",
+  "background": "随着AI客服大规模应用以降低企业成本，部分平台隐藏人工入口、AI答非所问、人工与AI口径不一等问题频发。中国消费者协会数据显示，今年售后服务投诉占总投诉26.79%，AI客服虚假承诺、人工客服难接入成为突出痛点。行业人士称AI客服可节省超70%人力成本。为平衡降本增效与消费者权益，国家制定《客户联络中心服务中人与智能客服的协同要求》推荐性标准，将于9月1日实施，成为行业服务质量的重要参照。",
+  "key_points": [
+   "标准明确人工客服入口须清晰可见，不得层层隐藏，保障消费者能及时找到真人。",
+   "要求按问题复杂度分工：简单咨询由AI处理，复杂纠纷及时转接人工，避免机械应答。",
+   "优化人机切换机制，消费者无需重复描述问题，达到条件系统自动转人工。",
+   "标准为推荐性国家标准，虽不直接处罚，但将成为企业服务质量的行业参照。"
+  ],
+  "impact": "对AI行业而言，标准推动从单纯追求降本转向体验与责任边界，倒逼AI客服技术提升语义理解和转接逻辑。对开发者来说，需关注人机协同接口、意图识别与自动转人工的合规设计。对普通用户，维权时人工服务不可再被隐藏，复杂问题有望得到实质解决，减少被AI敷衍的困扰。",
+  "tools": "可关注国内智能客服平台如阿里云智能客服、腾讯云智服、网易七鱼，以及开源项目Rasa（对话式AI框架）用于理解意图和流程控制，或LangChain处理复杂对话状态迁移。"
+ }
+}
