@@ -664,5 +664,77 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T18:53:36.372863+00:00"
+ },
+ "24c59c066b58": {
+  "id": "24c59c066b58",
+  "url": "https://aiera.com.cn/2026/08/19/other/admin/109731/synapx-wrc-2026",
+  "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-19T14:22:26.195Z",
+  "fetched_at": "2026-08-19T20:43:50.477214+00:00"
+ },
+ "bb076443a1f2": {
+  "id": "bb076443a1f2",
+  "url": "https://yro.slashdot.org/story/26/08/19/1931220/music-publisher-round-hill-files-1-billion-copyright-infringement-suits-against-suno-anthropic",
+  "title": "Music Publisher Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T20:00:00Z",
+  "fetched_at": "2026-08-19T20:44:03.367426+00:00"
+ },
+ "a6890b31a1e4": {
+  "id": "a6890b31a1e4",
+  "url": "https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19",
+  "title": "奇瑞旗下机器人业务部门计划IPO，将警用机器人业务目标锁定海外市场",
+  "source": "www.reuters.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T19:50:16.988Z",
+  "fetched_at": "2026-08-19T20:44:17.447502+00:00"
+ },
+ "89f86d9885b2": {
+  "id": "89f86d9885b2",
+  "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
+  "title": "人工智能筛选了10万多种膜组合，能在几秒内预测碳捕获性能",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T19:34:26.689Z",
+  "fetched_at": "2026-08-19T20:44:29.875346+00:00"
+ },
+ "619114800cbf": {
+  "id": "619114800cbf",
+  "url": "https://www.reuters.com/technology/uber-launches-autonomous-rides-zagreb-its-first-europe-2026-08-19",
+  "title": "优步在萨格勒布推出自动驾驶出行服务，这是该公司在欧洲的首个此类项目",
+  "source": "www.reuters.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T19:34:26.685Z",
+  "fetched_at": "2026-08-19T20:44:37.233717+00:00"
+ },
+ "ac999d32a69f": {
+  "id": "ac999d32a69f",
+  "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-backed-physical-ai-100025916.html",
+  "title": "马克·库班投资的“物理人工智能”初创公司即将达成5亿美元SPAC交易",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T19:02:02.896Z",
+  "fetched_at": "2026-08-19T20:44:55.271492+00:00"
+ },
+ "0fa9d1d7f331": {
+  "id": "0fa9d1d7f331",
+  "url": "https://www.qbitai.com/2026/08/475931.html",
+  "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T20:45:06.594038+00:00"
+ },
+ "1b9376ea992c": {
+  "id": "1b9376ea992c",
+  "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+  "title": "Piebald-AI/claude-code-system-prompts — All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T20:45:27.415012+00:00"
  }
 }

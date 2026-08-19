@@ -1,0 +1,23 @@
+{
+ "id": "619114800cbf",
+ "url": "https://www.reuters.com/technology/uber-launches-autonomous-rides-zagreb-its-first-europe-2026-08-19",
+ "title": "优步在萨格勒布推出自动驾驶出行服务，这是该公司在欧洲的首个此类项目",
+ "source": "www.reuters.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-19T19:34:26.685Z",
+ "fetched_at": "2026-08-19T20:44:37.233717+00:00",
+ "content": "Aug 19 (Reuters) - Uber (UBER.N), Verne and Pony.ai (PONY.O) said on Wednesday they had launched autonomous rides in Zagreb, making the Croatian capital the first European city where users can book a self-driving vehicle through Uber's app.\nHere are more details:\nSign up here.\n- Currently, riders can book robotaxis in key areas in Zagreb, including the city center, with service availability and geographic coverage expected to expand over time, the companies said.\n- During the initial phase, a licensed operator will be on board to monitor the vehicle as the companies work toward fully autonomous operations, they said.\n- Chinese robotaxi firm Pony.ai provides the autonomous driving technology, while Croatian startup Verne serves as the fleet owner and service operator and Uber integrates the service into its ride-hailing platform.\n- The launch advances the partnership announced in March, with the companies planning to expand the service to additional European cities.\n- Riders can book the service by requesting a UberX or Comfort ride through the Uber app, which will show vehicle details and instructions when a self-driving car is available.\nReporting by Anzar Mehraj in Bengaluru; Editing by Diti Pujara\nOur Standards: The Thomson Reuters Trust Principles.",
+ "report": {
+  "summary": "优步在萨格勒布推出欧洲首个自动驾驶出行服务。",
+  "background": "优步一直在全球探索自动驾驶商业化，此前已在美国部分城市运营机器人出租车。此次与Pony.ai和克罗地亚创业公司Verne合作，于2026年8月在萨格勒布上线服务，是优步首次在欧洲落地自动驾驶打车。该合作源于今年3月宣布的伙伴关系，旨在将服务扩展到更多欧洲城市，标志着欧洲自动驾驶出行市场进入新阶段。",
+  "key_points": [
+   "萨格勒布成为欧洲首个可通过优步App预约自动驾驶汽车的城市，目前覆盖市中心等区域。",
+   "初期阶段车内仍有安全员监控，后续逐步实现完全无人驾驶。",
+   "Pony.ai提供自动驾驶技术，Verne负责车队运营，优步整合平台服务。",
+   "用户可通过优步App选择UberX或Comfort车型，预约时显示车辆信息。",
+   "三方计划将服务扩展至更多欧洲城市，加速全球布局。"
+  ],
+  "impact": "对AI行业而言，自动驾驶在欧洲的落地将推动相关法规和标准完善，促进技术迭代。对开发者，Pony.ai的技术方案和多方合作模式提供参考案例，开放接口和平台集成可能带来新的开发机会。对普通用户，在萨格勒布可率先体验自动驾驶打车，未来更多城市有望跟进，出行方式将更加多样化和智能化。",
+  "tools": "可关注Pony.ai的自动驾驶技术平台、优步开发者API（Uber API）用于集成打车服务，以及Verne的车队管理方案。对于研究者，可参考Waymo、Cruise等类似开源数据集或模拟器（如CARLA）对比技术路线。"
+ }
+}

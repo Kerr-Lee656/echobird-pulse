@@ -1,0 +1,22 @@
+{
+ "id": "bb076443a1f2",
+ "url": "https://yro.slashdot.org/story/26/08/19/1931220/music-publisher-round-hill-files-1-billion-copyright-infringement-suits-against-suno-anthropic",
+ "title": "Music Publisher Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic",
+ "source": "Slashdot (科技资讯)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-19T20:00:00Z",
+ "fetched_at": "2026-08-19T20:44:03.367426+00:00",
+ "content": "Music Publisher Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic 11\n\t\t\t\n\t\t \t\n\t\t\t\tIndependent music publisher Round Hill is suing Suno and Anthropic for allegedly using hundreds of copyrighted songs without permission to train their AI systems. The company says potential damages could exceed $1 billion, arguing there is \"nothing fair\" about building multibillion-dollar AI businesses on copyrighted material while rights holders receive nothing. From The Hollywood Reporter:  Round Hill is a prominent music publisher whose copyrights include the Goo Goo Dolls' \"Iris,\" Bonnie Tyler's \"Total Eclipse of the Heart,\" the Kinks' \"Lola\" and Dio's \"Holy Diver.\" The company provided a list of 500 songs that the defendants had infringed upon. Round Hill said in the suits that the company plans to \"amend to list potentially ten thousand or more of their musical compositions,\" with those damages potentially exceeding $1 billion. \"While in other cases for copyright infringement, Defendant has waxed poetic about the necessity of progress and AI's value to society, there is simply no reason -- other than rote expediency -- to have that progress come at the cost of copyrights holders,\" prominent music attorney Richard Busch, representing Round Hill, wrote in the suits.\n \nRound Hill further argued that the latter \"'expediency' arguments completely falter\" when taking into account Suno and Anthropic's significant cash valuations they've earned while \"exploiting illicit copies of copyrighted works, including the Round Hill Works.\" \"There is simply nothing fair about a company using theft to build for purely commercial purposes a multi-billion dollar business while those from which they steal receive nothing,\" Round Hill said. Suno also faces a lawsuit from Universal Music Group and Sony Music Group.\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nRound Hill further argued that the latter \"'expediency' arguments completely falter\" when taking into account Suno and Anthropic's significant cash valuations they've earned while \"exploiting illicit copies of copyrighted works, including the Round Hill Works.\" \"There is simply nothing fair about a company using theft to build for purely commercial purposes a multi-billion dollar business while those from which they steal receive nothing,\" Round Hill said. Suno also faces a lawsuit from Universal Music Group and Sony Music Group.",
+ "report": {
+  "summary": "音乐出版商Round Hill起诉AI公司Suno和Anthropic，索赔超10亿美元。",
+  "background": "生成式AI训练常依赖大规模音乐数据，由此引发版权争议。此前环球音乐、索尼已起诉过Suno，Anthropic也因歌词使用被诉。Round Hill是一家独立音乐出版商，持有《Iris》《Total Eclipse of the Heart》等热门歌曲版权，此次在诉讼中列出500首侵权作品，并计划扩展至上万首，索赔金额或超10亿美元，成为AI训练版权纠纷中金额最高的案件之一。",
+  "key_points": [
+   "Round Hill指控Suno和Anthropic未经许可使用500首受版权保护歌曲训练AI，并计划扩展至上万首。",
+   "潜在赔偿额超10亿美元，原告认为AI公司靠侵权内容建立数十亿美元业务，版权方却一无所得。",
+   "原告诉讼强调“公平使用”不成立，纯商业用途下“进步必要性”的辩护站不住脚，实属“盗窃”。",
+   "Suno此前已遭环球音乐和索尼起诉，此次新案件进一步加剧AI音乐版权合规压力。"
+  ],
+  "impact": "对AI行业而言，训练数据合法性成为高悬之剑，未来公司可能被迫购买授权或改用公有领域数据。开发者需重新审视数据集来源，避免使用未授权音乐，否则将面临法律风险。普通用户可能看到AI音乐生成服务减少或涨价，但版权方获得收益后也可能促成合法合作，推动行业良性发展。",
+  "tools": "关注AI音乐生成开源项目如MusicGen、Stable Audio Open，但务必使用合规数据集；可参考DICE、CCC等版权清算平台了解授权机制，避免法律风险。"
+ }
+}
