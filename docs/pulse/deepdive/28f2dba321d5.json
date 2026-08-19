@@ -1,0 +1,23 @@
+{
+ "id": "28f2dba321d5",
+ "url": "https://www.businessinsider.com/synthetic-data-for-ai-training-is-big-mistake-rich-sutton-2026-8",
+ "title": "人工智能先驱里奇·萨顿表示，使用合成数据进行人工智能训练是“一个大错误”",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-19T06:14:11.506Z",
+ "fetched_at": "2026-08-19T07:04:14.220025+00:00",
+ "content": "Rich Sutton helped pioneer the technology behind today's AI boom. Now he thinks Big Tech's push to keep AI going is all wrong.\nOn an episode of Sequoia's podcast released Tuesday, the Canadian computer scientist and Turing Award winner said that the AI industry is headed in the wrong direction because of its reliance on synthetic training data.\n\"That's just a big mistake,\" he said when asked about using synthetic data as a way to keep scaling large language models. \"Maybe it's the next big lesson.\"\nSynthetic data is information artificially produced by algorithms or AI models rather than collected from original, real-world sources. It has become increasingly attractive as AI companies scour the internet and hunt for new sources of training data. Examples include computer-generated images of cars for self-driving training or fake bank records for AI fraud detection.\nOn some level, Big Tech agrees with Sutton.\nTech giants are going to increasingly extraordinary lengths to find more of the real thing. OpenAI has publicly sought large-scale, proprietary datasets that aren't readily available online to help train its AI models. Earlier this week, Google agreed to pay $10 million for internal data and software belonging to bankrupt Spirit Airlines, highlighting the growing value of proprietary, real-world information for AI training.\nOn Tuesday's podcast, Sutton said manufactured data isn't an adequate substitute for real data.\nHuman behavior is one such example, he said.\n\"There's no way we can have synthetic data for other people's minds,\" he said.\nHis preferred alternative is real experiential data: information an AI agent obtains by interacting with its actual environment, observing what happens, and continuously learning from the consequences.\n\"You can't get synthetic data on how the drone is going to interact with its environment in the physical world,\" Sutton said, adding that there are variables such as friction and wear in a robot's motors. \"The world is infinitely complex, and any simulation of it is like, microscopic.\"\nThat has now become a startup thesis. Last month, Sutton and his former student Khurram Javed launched Oak Lab. The startup is developing agents designed to learn continuously from their own experience rather than relying primarily on large, pre-curated datasets. Oak Lab has not disclosed a funding round or investors.",
+ "report": {
+  "summary": "AI先驱萨顿称用合成数据训练AI是重大错误。",
+  "background": "随着互联网高质量文本数据逐渐枯竭，OpenAI、Google等大厂开始寻求私有数据甚至破产公司内部数据。合成数据因可无限生成而成为热门路径。但图灵奖得主里奇·萨顿认为，这种做法偏离了真实世界，无法替代人类行为、物理交互等复杂现实信息。他为此创立Oak Lab，主张AI应从自身与环境交互的经验中持续学习，而非依赖人造数据。",
+  "key_points": [
+   "萨顿明确反对用合成数据扩展大模型，认为这是方向性错误，可能成为下一个大教训。",
+   "合成数据由算法生成，虽能缓解数据荒，但无法模拟人类思维和真实世界的无限复杂性。",
+   "科技巨头已在争夺真实数据，如谷歌花1000万美元购买斯皮里特航空内部数据。",
+   "萨顿倡导真实体验数据：智能体通过现实环境互动和反馈持续学习，而非静态数据集。",
+   "他与学生成立Oak Lab，专注开发基于连续经验学习的AI代理，避开合成数据依赖。"
+  ],
+  "impact": "对AI行业来说，萨顿的批评可能促使更多团队反思合成数据的局限性，转向真实交互数据与具身智能研究，但短期内巨头仍会继续混合使用合成数据。开发者需关注数据质量而非只追求规模，未来数据采集和仿真技术可能分化。普通用户可能迎来更贴近真实场景、更稳健的AI产品，但训练成本与隐私问题也会更突出。",
+  "tools": "可关注Oak Lab（萨顿新创公司）的连续学习智能体；开源仿真环境如MuJoCo、Isaac Gym用于物理交互；微软AirSim、Unreal Engine模拟真实场景。数据治理方面可关注Datasette等工具帮助管理真实世界数据集。"
+ }
+}

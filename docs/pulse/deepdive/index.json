@@ -223,5 +223,95 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T04:52:52.033163+00:00"
+ },
+ "886207c04b7a": {
+  "id": "886207c04b7a",
+  "url": "https://www.36kr.com/p/3945790191179400",
+  "title": "因为AI新版本太强，强到智谱暂时不敢开源了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:03:23.036461+00:00"
+ },
+ "47f013d5f1aa": {
+  "id": "47f013d5f1aa",
+  "url": "https://www.leiphone.com/category/industrynews/XjdDx1NPMItZXRLM.html",
+  "title": "Momenta、XHEART 与 QNX 宣布合作，打造全球安全标准自动驾驶平台",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:03:30.834120+00:00"
+ },
+ "8393c843a171": {
+  "id": "8393c843a171",
+  "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+  "title": "ChatGPT Ads expands across Europe",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:03:52.322948+00:00"
+ },
+ "7b81f7060b50": {
+  "id": "7b81f7060b50",
+  "url": "https://www.aibase.com/zh/news/30465",
+  "title": "硅谷 AI 数据中心遭遇反对潮，科技巨头砸数十亿能否平息民愤？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:04:06.193638+00:00"
+ },
+ "28f2dba321d5": {
+  "id": "28f2dba321d5",
+  "url": "https://www.businessinsider.com/synthetic-data-for-ai-training-is-big-mistake-rich-sutton-2026-8",
+  "title": "人工智能先驱里奇·萨顿表示，使用合成数据进行人工智能训练是“一个大错误”",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T06:14:11.506Z",
+  "fetched_at": "2026-08-19T07:04:14.220025+00:00"
+ },
+ "45d6ae5355be": {
+  "id": "45d6ae5355be",
+  "url": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
+  "title": "报道称，苹果在中国调整了人工智能战略，在阿里巴巴的支持下自主研发大语言模型，以对抗华为",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T06:14:11.471Z",
+  "fetched_at": "2026-08-19T07:04:22.392118+00:00"
+ },
+ "2eb101ecff24": {
+  "id": "2eb101ecff24",
+  "url": "https://www.ithome.com/0/991/585.htm",
+  "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T05:54:55Z",
+  "fetched_at": "2026-08-19T07:05:16.555995+00:00"
+ },
+ "25764ed5c03f": {
+  "id": "25764ed5c03f",
+  "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:06:29.877320+00:00"
+ },
+ "c7c9684abfb7": {
+  "id": "c7c9684abfb7",
+  "url": "https://github.com/usestrix/strix",
+  "title": "usestrix/strix — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:06:41.610951+00:00"
+ },
+ "7dd28b6131ab": {
+  "id": "7dd28b6131ab",
+  "url": "https://github.com/ZSeven-W/openpencil",
+  "title": "ZSeven-W/openpencil — The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T07:07:02.609698+00:00"
  }
 }
