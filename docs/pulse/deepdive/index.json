@@ -628,5 +628,41 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T16:46:43.369619+00:00"
+ },
+ "a4220ca452dd": {
+  "id": "a4220ca452dd",
+  "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63?syn-25a6b1a6=1",
+  "title": "谷歌与美满电子达成120亿美元的人工智能芯片交易",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T17:10:05.564Z",
+  "fetched_at": "2026-08-19T18:52:28.471718+00:00"
+ },
+ "39bef5270a15": {
+  "id": "39bef5270a15",
+  "url": "https://arxiv.org/abs/2503.08679",
+  "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-19T16:18:57Z",
+  "fetched_at": "2026-08-19T18:52:42.291015+00:00"
+ },
+ "f1e200b4b4b9": {
+  "id": "f1e200b4b4b9",
+  "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+  "title": "Offering Zero Data Retention for frontier models",
+  "source": "OpenAI",
+  "site_name": "OpenAI",
+  "published_at": "2026-08-19T19:00:00.000Z",
+  "fetched_at": "2026-08-19T18:53:25.569199+00:00"
+ },
+ "c8f3d928a400": {
+  "id": "c8f3d928a400",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "title": "K-Dense-AI/scientific-agent-skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T18:53:36.372863+00:00"
  }
 }
