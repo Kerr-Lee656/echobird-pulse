@@ -1,0 +1,22 @@
+{
+ "id": "2f00013902a2",
+ "url": "https://openai.com/index/replit",
+ "title": "Replit expands access to software creation with GPT-5.6 Luna",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-19T16:45:30.074839+00:00",
+ "content": "Replit expands access to software creation with GPT‑5.6 Luna\nReplit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nAs models become more capable, their economics are changing just as quickly. Better price performance makes advanced intelligence practical across more products, more workflows, and more moments. For software creation, that shift is narrowing the distance between having an idea and building something that works.\nReplit(opens in a new window) and OpenAI have long shared a goal: making software creation accessible to anyone with an idea, regardless of technical background. Replit was an early user of GPT‑3, building with OpenAI models as natural-language software development began to take shape. Now, GPT‑5.6 Luna is powering Replit Free Mode, showing how the price performance of the GPT‑5.6 series and recent OpenAI price cuts can translate into broader access at scale.\n“For the first time, you'll get access to an amazing experience where you can build applications, build agents, build all sorts of software in Free Mode. And that's powered by GPT-5.6 Luna.”\nFor Replit, model cost was one of the final barriers to making software creation widely accessible. GPT‑5.6 Luna combines the capability, price performance, and reliable inference at scale needed to make Free Mode available to millions of users.\n“Thanks to OpenAI and the price cuts that you made recently, you made it possible for us to offer it to millions of users in Free Mode.”\nWith Replit Free Mode, users can get fast, accurate answers, suggestions, feedback, and analysis in seconds without consuming usage. Because Agent understands the full context of a user's projects, it can help them plan, ideate, shape, optimize, and explore ideas before they move into Build Mode.\nThat continuity matters. Instead of treating exploration as separate from creation, Replit lets anyone develop an idea in the same environment where it can become working software. When a task requires more advanced reasoning, Replit can route it to GPT‑5.6 Sol, then return to Free Mode powered by GPT‑5.6 Luna while preserving project context.\nFor OpenAI and Replit, Free Mode is an example of what better model economics can unlock. As intelligence becomes more capable and affordable, software creation can extend beyond a small group of specialists to anyone with an idea and an internet connection.\n“If we can get to a world where anyone with access to the internet can build a product, build a startup, and just kind of get started and get going, I think we're going to see another renaissance-level entrepreneurial boom like we've never seen before.”\nThat opportunity expands who can use software to solve a problem, improve a community, or make an idea real. Masad calls software \"such an empowering tool\" and says that increasing the number of people able to build by 100x would open that opportunity far more widely.\nBy pairing GPT‑5.6 Luna with an experience built around project context, Replit is turning improved model price performance into wider access. It is a step toward the shared vision behind the partnership: anyone with an idea should be able to build.",
+ "report": {
+  "summary": "Replit推出免费模式，由GPT-5.6 Luna驱动，零成本开发软件。",
+  "background": "Replit与OpenAI长期合作，曾是GPT-3的早期用户。随着大模型能力提升，OpenAI近期大幅降价，使GPT-5.6系列具备更优性价比。Replit将GPT-5.6 Luna用于全新Free Mode，消除模型成本这一最后障碍，让数百万用户免费构建应用。复杂任务可路由至GPT-5.6 Sol，完成后返回Free Mode并保留上下文。",
+  "key_points": [
+   "Replit推出Free Mode，由GPT-5.6 Luna驱动，用户无需消耗配额即可获得快速准确的回答、建议和代码反馈，降低开发门槛。",
+   "模型成本曾是Replit普及软件创作的最后障碍之一，OpenAI近期降价与GPT-5.6 Luna的性价比使免费模式成为可能。",
+   "Free Mode与Build Mode无缝衔接，Agent理解项目上下文，用户可在同一环境中完成从构思到成品的完整流程。",
+   "复杂任务可自动路由至GPT-5.6 Sol处理，完成后保留项目上下文返回Free Mode，兼顾性能与成本。"
+  ],
+  "impact": "对AI行业而言，这验证了模型经济学的变化——降价催生新的应用场景。对开发者，免费模式降低了试错成本，尤其利好独立开发者和学习者。对普通用户，无需技术背景也能将想法转化为可运行的软件，可能催生新一轮创业热潮。",
+  "tools": "感兴趣可关注Replit平台的Free Mode及Replit Agent，也可尝试OpenAI GPT-5.6系列API，利用其降价优势构建自己的AI应用。"
+ }
+}

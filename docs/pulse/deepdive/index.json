@@ -583,5 +583,50 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T14:52:53.224114+00:00"
+ },
+ "2f00013902a2": {
+  "id": "2f00013902a2",
+  "url": "https://openai.com/index/replit",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T16:45:30.074839+00:00"
+ },
+ "0cf774cd9344": {
+  "id": "0cf774cd9344",
+  "url": "https://hub.baai.ac.cn/view/57250",
+  "title": "GPT-5.6 Sol 暴涨 3 倍，OpenAI 最强视觉 AI 登顶！",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T16:45:43.146676+00:00"
+ },
+ "f52835de372e": {
+  "id": "f52835de372e",
+  "url": "https://www.ithome.com/0/991/856.htm",
+  "title": "为 5 万亿参数超大模型“铺路”？消息称字节跳动调整 Seed 基模团队组织架构",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T15:00:59Z",
+  "fetched_at": "2026-08-19T16:45:56.207738+00:00"
+ },
+ "fb98327cdfe2": {
+  "id": "fb98327cdfe2",
+  "url": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut",
+  "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T15:00:00Z",
+  "fetched_at": "2026-08-19T16:46:19.669790+00:00"
+ },
+ "8c6014a36ca9": {
+  "id": "8c6014a36ca9",
+  "url": "https://github.com/obra/superpowers",
+  "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T16:46:43.369619+00:00"
  }
 }
