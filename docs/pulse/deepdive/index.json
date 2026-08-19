@@ -313,5 +313,77 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T07:07:02.609698+00:00"
+ },
+ "27d776859dde": {
+  "id": "27d776859dde",
+  "url": "https://www.qbitai.com/2026/08/475332.html",
+  "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:53:05.089326+00:00"
+ },
+ "390310e927ab": {
+  "id": "390310e927ab",
+  "url": "https://www.aibase.com/zh/news/30473",
+  "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:53:28.272436+00:00"
+ },
+ "1d7e8c57f6f4": {
+  "id": "1d7e8c57f6f4",
+  "url": "https://www.aibase.com/zh/news/30470",
+  "title": "腾讯大模型人事调整：姚顺雨掌舵基础模型部",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:53:44.131230+00:00"
+ },
+ "f3d4944dfdc4": {
+  "id": "f3d4944dfdc4",
+  "url": "https://www.aibase.com/zh/news/30467",
+  "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:53:54.208723+00:00"
+ },
+ "fff307960378": {
+  "id": "fff307960378",
+  "url": "https://hub.baai.ac.cn/view/57226",
+  "title": "顶尖数学家含泪退圈：博士难题被 AI 几周秒杀",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:54:14.005946+00:00"
+ },
+ "f9d999eca693": {
+  "id": "f9d999eca693",
+  "url": "https://hub.baai.ac.cn/view/57225",
+  "title": "阿里杀进 Agent 上下文战场：钉钉聊天、企业文档、工作数据终于要被 Agent 吃进去了",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T08:54:31.331655+00:00"
+ },
+ "2bf5e139a71a": {
+  "id": "2bf5e139a71a",
+  "url": "https://www.aibase.com/news/30474",
+  "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-19T08:23:20.838Z",
+  "fetched_at": "2026-08-19T08:54:42.157874+00:00"
+ },
+ "8f2b4162697d": {
+  "id": "8f2b4162697d",
+  "url": "https://www.aibase.com/news/30467",
+  "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-19T08:23:20.838Z",
+  "fetched_at": "2026-08-19T08:54:50.995934+00:00"
  }
 }

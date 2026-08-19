@@ -1,0 +1,22 @@
+{
+ "id": "390310e927ab",
+ "url": "https://www.aibase.com/zh/news/30473",
+ "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-19T08:53:28.272436+00:00",
+ "content": "\"神奇小子\"乔治·霍茨创办的 comma.ai 于 8 月 12 日推出 chestnut 外置 eGPU 扩展坞，单机 249 美元（约 1682 元），含 AMD Radeon RX 9060 8GB 的整机套件售 799 美元（约 5399 元）。霍茨 17 岁破解 iPhone 成名，后破解 PS3，2016 年创 comma.ai，以开源平价硬件推广半自动驾驶辅助。\n外接 eGPU，功耗上限拉到 100W\nchestnut 主要为 comma four 补充推理算力，搭配后接近特斯拉 HW4 水平。原车机跑 openpilot 模型功耗约 10W，模型变大后算力吃紧；chestnut 通过外接将功耗上限提至约 100W。即将发布的 openpilot 0.11.2 将上线首个 chestnut 级驾驶模型，参数 1B，是 comma.ai 最大驾驶模型，参数量 30 倍、浮点算力 100 倍于 comma four 端侧。\n公司称车队每天记录近 100 万分钟驾驶数据，15% 用于训练集群。chestnut 采用 PCIe Gen4 x4 转 USB4 桥接，控制芯片固件用 C 编写，已由 tinygrad 在 GitHub 开源。对平价智驾圈，这款百倍算力坞意味着端侧大模型上车有了低门槛路径。",
+ "report": {
+  "summary": "comma.ai推249美元eGPU，车载算力提升百倍，接近特斯拉HW4。",
+  "background": "comma.ai由乔治·霍茨创立，主打开源平价的半自动驾驶辅助系统openpilot。传统车机运行该模型时功耗仅约10W，但更大模型让算力吃紧。为此，comma.ai于8月12日发布chestnut外置eGPU扩展坞，通过外接AMD显卡将功耗上限拉至100W，计划配合openpilot 0.11.2推出1B参数的大模型，实现百倍算力跃升，并开源相关固件。",
+  "key_points": [
+   "chestnut单机249美元，搭配AMD Radeon RX 9060 8GB整机套件799美元，价格亲民，为低成本智驾升级提供新选择。",
+   "eGPU功耗上限从约10W提升至100W，相当于给车载系统外接高性能大脑，显著缓解大模型推理压力。",
+   "即将发布的openpilot 0.11.2将搭载首个chestnut级模型，参数量1B，比comma four增大30倍，浮点算力提升100倍。",
+   "chestnut采用PCIe Gen4 x4转USB4桥接，控制固件基于C语言并由tinygrad开源，降低了定制门槛。"
+  ],
+  "impact": "对AI行业而言，这验证了外接硬件扩展车载算力的可行性，推动端侧大模型上车。对开发者，开源固件和低价硬件降低了实验成本，可快速验证智驾模型。对普通用户，未来或许能以更低成本升级现有车辆，获得接近高端车型的辅助驾驶能力，但需关注稳定性和兼容性风险。",
+  "tools": "关注comma.ai官方GitHub（含chestnut固件及tinygrad开源代码）、openpilot项目；硬件上可关注AMD RX 9060显卡、USB4 eGPU方案，及comma four开发套件。"
+ }
+}

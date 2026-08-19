@@ -1,0 +1,23 @@
+{
+ "id": "8f2b4162697d",
+ "url": "https://www.aibase.com/news/30467",
+ "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-19T08:23:20.838Z",
+ "fetched_at": "2026-08-19T08:54:50.995934+00:00",
+ "content": "The Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection methods. The draft aims to establish a balanced framework that regulates the reasonable use of intellectual property by developers, supports technological innovation, and protects creators' rights.\nThe draft itself is not legally binding, but it clearly urges AI developers to maintain transparency, publicly explaining how training data is collected, and suggests avoiding the use of piracy websites as sources.\nThe framework encourages disclosure of whether the training set includes copyrighted materials such as comics, music, and movies, and requires the establishment of an internal notification system—when training data includes copyrighted works similar to the generated content, users must be alerted. This soft constraint sends a signal: in the copyright-sensitive Japanese content industry, the space for AI companies to operate with \"black-box training\" is being continuously reduced.",
+ "report": {
+  "summary": "日本公布AI指导草案，要求开发者披露训练数据来源",
+  "background": "8月18日，日本内阁府发布生成式AI开发者指导草案，旨在平衡技术创新与创作者权益。草案不具法律约束力，但明确要求开发者提高训练数据透明度，包括数据收集方式、是否含版权材料等。此举源于日本内容产业对AI“黑箱训练”的强烈担忧，尤其漫画、音乐、影视等版权敏感领域。草案释放信号：即使非强制，AI公司在日本以不透明方式使用版权数据的空间也在收窄。",
+  "key_points": [
+   "草案要求AI开发者公开训练数据的收集方法和来源，强调透明度原则。",
+   "明确建议避免从盗版网站获取训练数据，降低版权侵权风险。",
+   "鼓励披露训练集是否包含漫画、音乐、电影等受版权保护的内容。",
+   "要求建立内部通知机制：当生成内容与训练数据中的版权作品相似时，需提醒用户。",
+   "草案虽不具法律强制力，但为未来正式立法和行业自律铺路。"
+  ],
+  "impact": "对AI行业而言，合规成本上升，尤其是日本市场的AI公司需建立数据溯源机制，黑箱训练模式难以为继。对开发者来说，需更谨慎地选择训练数据来源，并完善文档记录。对普通用户，透明度提升有助于了解内容生成风险，减少无意侵权，同时可能促使更多开源数据工具涌现，增强整体生态健康度。",
+  "tools": "可关注Hugging Face的Datasets卡片机制（用于记录数据来源）、The Stack等开源代码训练集，以及日本文化厅发布的AI与著作权相关指南。若需合规追踪，可参考Common Crawl的过滤工具或数据溯源框架Data Provenance Initiative。"
+ }
+}
