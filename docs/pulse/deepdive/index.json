@@ -736,5 +736,41 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T20:45:27.415012+00:00"
+ },
+ "df8f12302a5b": {
+  "id": "df8f12302a5b",
+  "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "title": "OpenAI 重申前沿模型零数据保留承诺，预览私有安全处理功能",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-19T22:38:15.428158+00:00"
+ },
+ "585007fa529b": {
+  "id": "585007fa529b",
+  "url": "https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion",
+  "title": "Stripe Buys AI Startup OpenRouter For $7.5 Billion",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T22:00:00Z",
+  "fetched_at": "2026-08-19T22:38:30.175412+00:00"
+ },
+ "2f1039a10989": {
+  "id": "2f1039a10989",
+  "url": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329",
+  "title": "人工智能热潮即将导致汽车价格进一步上涨",
+  "source": "www.theatlantic.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T20:38:06.315Z",
+  "fetched_at": "2026-08-19T22:38:39.310241+00:00"
+ },
+ "c290a2acf859": {
+  "id": "c290a2acf859",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "title": "Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-19T22:39:02.719444+00:00"
  }
 }
