@@ -1,0 +1,23 @@
+{
+ "id": "8ab5e6c3243e",
+ "url": "https://www.aibase.com/zh/news/30493",
+ "title": "Meta 推出 Mac 版 AI 助手，支持屏幕共享和语音输入功能",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-20T04:51:40.672373+00:00",
+ "content": "Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。\n此次发布标志着Meta正推动AI聊天机器人从简单问答工具向智能生产力助手转型，以应对来自Google Gemini、OpenAI ChatGPT和Anthropic Claude等产品的竞争。目前，Gemini桌面应用已支持窗口共享功能，而ChatGPT和Claude则进一步提供计算机操作能力。\n在Mac版Meta AI中，用户可以直接通过语音方式进行内容输入，并在其他应用程序中使用AI完成听写任务。通过结合屏幕理解和多模态交互能力，Meta希望提升AI助手在日常办公和创作流程中的使用效率。\n除推出Mac应用外，Meta还面向企业和创作者发布了一系列AI功能升级。公司表示，Meta AI现已能够连接网页、移动端和Mac端服务，并与Instagram、Facebook账号、Meta广告活动以及Google Workspace进行协同。\n例如，企业用户可以利用Meta AI分析社交内容表现，包括帖子覆盖范围、点赞、分享和收藏数据，并根据分析结果获得后续内容发布建议。同时，AI还可以调用企业账户和网络信息，帮助生成演示文稿、文档和电子表格，并执行定期业务任务，例如自动生成周度业绩报告。\n随着AI助手逐渐进入桌面操作系统和企业工作流，Meta正在通过多模态交互、数据连接和自动化能力，提升其AI产品在办公与创作领域的竞争力。",
+ "report": {
+  "summary": "Meta发布Mac版AI助手，支持屏幕共享与语音输入，强化生产力。",
+  "background": "随着AI聊天机器人逐渐从简单问答走向生产力工具，各大厂商加速桌面端布局。Google Gemini桌面应用已支持窗口共享，OpenAI ChatGPT和Anthropic Claude甚至具备计算机操作能力。Meta此次推出Mac版AI助手，正是为了应对这些竞争，通过屏幕共享、语音输入等多模态交互方式，让AI能理解用户当前工作内容并提供实时协助。同时，Meta还面向企业、创作者升级AI功能，打通Instagram、Facebook、Google Workspace等平台，尝试将AI嵌入更广泛的工作流。",
+  "key_points": [
+   "Meta新推Mac桌面应用，允许AI共享屏幕窗口，基于屏幕内容提供建议、问答和内容生成，使AI从纯聊天工具转向主动助手。",
+   "支持跨应用语音输入，用户可在其他App内用语音完成听写，结合屏幕理解提升多模态交互效率。",
+   "此举直击竞品：Gemini桌面版已有窗口共享，ChatGPT和Claude更进一步支持计算机操作，Meta需快速补齐桌面端能力。",
+   "面向企业和创作者推出AI升级，可分析社媒内容表现、生成演示文稿/文档/表格，并自动生成周度业绩报告等。",
+   "打通Instagram、Facebook、Google Workspace等账号数据，构建跨平台AI协同，增强办公与创作场景的实用性。"
+  ],
+  "impact": "对AI行业，桌面端成为AI助手必争之地，屏幕理解、多模态交互成标配；对开发者，可围绕桌面AI能力开发新应用，但需注意平台绑定和数据隐私；对普通用户，办公创作更省时，但需适应AI读取屏幕带来的隐私风险。",
+  "tools": "可试玩Meta AI Mac应用；想本地部署Meta开源模型可关注Llama系列，用Ollama一键运行；开发者可参考LangChain搭建多模态交互流程。"
+ }
+}
