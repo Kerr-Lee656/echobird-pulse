@@ -1,0 +1,22 @@
+{
+ "id": "8b9cc5125d83",
+ "url": "https://www.aibase.com/news/30481",
+ "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T02:48:19.534Z",
+ "fetched_at": "2026-08-20T03:12:05.511828+00:00",
+ "content": "OpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI models through automated systems without retaining customer data, further expanding its zero data retention (ZDR) security capabilities.\nAs AI model capabilities rapidly improve, the likelihood of models being used in risk scenarios such as cyberattacks and malicious code generation increases. AI companies are facing challenges in balancing customer privacy with security regulations. OpenAI's newly launched Private Safety Processing aims to address the issue where enterprise customers are unwilling to share sensitive data but still require security protection.\nAccording to the introduction, this technology is an upgraded solution based on OpenAI's existing ZDR policy. Traditional ZDR detects abnormal usage behavior through API proxy programs per session, avoiding the storage of customer data. Private Safety Processing further supports analyzing inputs and outputs across multiple conversations, with agents monitoring potential risks over time. When abnormal activity is detected, related interaction information is captured and analyzed for correlation to identify distributed malicious requests.\nOpenAI stated that the system can detect patterns of malicious use across sessions without human review of user conversations. For example, attackers may split requests to bypass single-session detection, while this technology can determine whether there are risks such as creating malicious software or launching cyberattacks through multi-turn interactions.\nWhen the system triggers a security alert, OpenAI may receive a clear risk signal and decide whether to take further action based on the situation. If intervention is needed, OpenAI will contact the customer to understand the context, and the customer can independently decide whether to provide more data to OpenAI.\nThis solution is also seen as a response from OpenAI to Anthropic's recent data retention policy. Anthropic previously announced a policy allowing it to retain user data and conversation records for 30 days when processing certain \"protected models,\" raising concerns among some enterprise customers about the security of sensitive information. However, Anthropic stated that customer data reviews are conducted only through controlled access paths, performed by a small number of approved reviewers, and complete tamper-proof logs are recorded.\nCurrently, OpenAI and Anthropic are engaged in fierce competition regarding model capabilities, security systems, and commercialization. Market data shows that Anthropic has experienced rapid growth, with reported annual revenue reaching $65 billion and being favored by investors to proceed with an IPO valued at approximately $2 trillion; at the same time, OpenAI is also preparing for an IPO. As enterprise-level AI applications expand, privacy protection and security governance capabilities have become important competitive dimensions for AI companies.",
+ "report": {
+  "summary": "OpenAI推出私密安全处理服务，跨会话监控AI滥用且不保留数据。",
+  "background": "随着AI模型能力不断提升，被用于网络攻击、恶意代码生成等风险场景的可能性增加。企业客户既需要安全防护，又不愿将敏感数据交给AI公司。OpenAI基于现有零数据保留（ZDR）政策，推出Private Safety Processing预览版，通过跨会话分析识别分布式恶意请求，同时回应Anthropic近期允许保留用户数据30天的政策。两大AI公司围绕隐私保护与安全治理的竞争加剧，安全能力成为商业化的重要维度。",
+  "key_points": [
+   "Private Safety Processing是ZDR的升级，支持跨会话分析输入输出，识别绕过单会话检测的恶意行为。",
+   "系统自动检测风险，无需人工审查；一旦告警，OpenAI可联系客户了解上下文，由客户决定是否提供更多数据。",
+   "该服务被视为对Anthropic数据保留政策的回应，凸显OpenAI在隐私保护上的差异化竞争力，以争取企业客户。",
+   "随着企业级AI应用扩大，隐私保护与安全治理能力正成为AI公司竞争的关键维度。"
+  ],
+  "impact": "对行业而言，隐私保护与安全监控的融合或成新标准，推动更细粒度的数据治理；对开发者尤其是企业用户，可在不共享敏感数据的前提下获得安全防护，但需适应新的告警与协作流程；对普通用户，数据留存减少意味着隐私风险下降，但后台仍有自动化安全监控，透明度有待观察。",
+  "tools": "建议读者关注OpenAI的零数据保留（ZDR）文档及API安全接入指南，同时了解Anthropic的数据治理政策；如需实践，可参考开源的模型安全评估框架（如Garak）来测试恶意输入检测。"
+ }
+}

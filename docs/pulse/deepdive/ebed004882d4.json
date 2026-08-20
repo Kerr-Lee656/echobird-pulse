@@ -1,0 +1,23 @@
+{
+ "id": "ebed004882d4",
+ "url": "https://www.aibase.com/news/30486",
+ "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T02:48:19.534Z",
+ "fetched_at": "2026-08-20T03:10:27.364252+00:00",
+ "content": "During the WRC2026 World Robot Conference, JD.com served as a global strategic partner of the event and announced its strategic layout in the robotics industry, aiming to promote the large-scale development of the robotics industry from three aspects: supply chain, service system, and technology platform.\nIn terms of the supply chain, JD.com announced that it will invest 10 billion yuan in the robotics field by 2028, helping 100 robot brands achieve independent sales exceeding 1 billion yuan. Currently, JD.com has collaborated with more than 200 robot brands and numerous core component enterprises through its self-operated model, covering consumer and household service scenarios, and has expanded into multiple industry fields such as retail, health, industry, and logistics. Meanwhile, JD Europe Joybuy has established cooperation with more than 50 Chinese robot brands, promoting Chinese robot products into overseas markets.\nIn terms of service system construction, JD.com plans to build a global after-sales service network for robots covering over 100 countries within the next five years, cultivating more than 100,000 robot after-sales service engineers and creating new job opportunities. At the same time, the company will establish 80 RoboBase robot bases, building a full lifecycle service platform covering robot sales, operation, maintenance, and upgrades.\nIn terms of technology layout, JD.com's JoyInside embodied intelligence platform is expected to connect more than 10 million terminal devices within the year, including robot products. JD Cloud plans to collect more than 10 million hours of real-world scenario data over the next two years, providing data support for robot intelligent training, application optimization, and large-scale deployment.\nAs embodied intelligence and the robotics industry enter a phase of rapid development, JD.com is accelerating the construction of a comprehensive robotics ecosystem covering production, consumption, and application scenarios through supply chain integration, service infrastructure construction, and data capability accumulation.",
+ "report": {
+  "summary": "京东发布机器人战略，2028年前投入百亿构建产业生态。",
+  "background": "在世界机器人大会WRC2026上，京东作为全球战略合作伙伴，宣布全面进军机器人产业。当前具身智能与机器人行业进入快速爆发期，但面临供应链分散、服务网络不足、训练数据缺乏等瓶颈。京东依托自身在零售、物流、健康、工业等场景积累，试图从供应链整合、售后服务体系和数据平台三个维度切入，打造覆盖生产、消费、应用的机器人全生命周期生态，推动行业从“单点创新”走向“规模化落地”。",
+  "key_points": [
+   "京东宣布2028年前投入百亿，计划助力100个机器人品牌实现年销售额破10亿元，目前合作品牌已超200家。",
+   "五年内在全球超100个国家搭建机器人售后网络，培养10万名服务工程师，新建80个RoboBase基地。",
+   "JoyInside具身智能平台预计年内连接超1000万台终端设备，为机器人智能化提供统一入口。",
+   "京东云两年内采集超1000万小时真实场景数据，用于机器人训练和优化，破解数据匮乏难题。",
+   "京东欧洲Joybuy已与50多个中国机器人品牌合作，推动国产机器人出海，抢占海外市场。"
+  ],
+  "impact": "对AI行业而言，京东的入局将加速机器人从实验室走向商业闭环，供应链和数据基础设施的完善可能降低中小机器人企业的落地成本。对开发者来说，JoyInside平台和千万级连接设备提供了丰富的真实数据与测试场景，有利于模型迭代和产品创新。对普通用户，意味着机器人售后维修将不再困难，购买和使用门槛下降，服务机器人有望更快进入家庭和日常生活。",
+  "tools": "可关注京东云、JoyInside具身智能平台、RoboBase机器人基地；开源社区可关注ROS 2、MuJoCo等机器人仿真与开发工具，以及NVIDIA Isaac Sim用于具身智能训练。"
+ }
+}

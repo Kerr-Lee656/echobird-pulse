@@ -1,0 +1,23 @@
+{
+ "id": "4160ff4640a0",
+ "url": "https://www.aibase.com/news/30489",
+ "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T02:48:19.534Z",
+ "fetched_at": "2026-08-20T03:09:48.151029+00:00",
+ "content": "Stripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to reports from The New York Times citing sources, Stripe paid approximately $7.5 billion for the deal, far exceeding OpenRouter's valuation of $1.3 billion in May.\nAccording to the report, the founders of OpenRouter are expected to receive about $1.5 billion in proceeds, while investors will get around $6 billion in returns. Stripe beat several potential competitors, including Databricks, to complete the deal. After the acquisition, OpenRouter is expected to continue operating independently, with no changes to its products, mission, or existing service commitments.\nOpenRouter was established during a period of rapid growth in AI model applications, primarily helping developers call and manage different large models, reducing model usage costs and complexity. Stripe stated that OpenRouter has strong complementary value with its developer ecosystem, and this technology will not only be used for internal AI applications but also help drive the development of AI agent products independent of specific models.\nStripe's founders, Patrick Collison and John Collison, stated in a letter to investors that artificial intelligence is driving the formation of a new economic model and referred to this phase as the beginning of the \"singularity.\" Stripe noted that as the number of AI companies grows and AI applications become more widespread, more companies are starting to use its payment and financial infrastructure. Currently, approximately 88% of the Forbes AI 50 companies use Stripe products, including companies such as OpenAI and Anthropic.\nIndustry experts believe that this acquisition indicates that Stripe is further expanding from its traditional payment business into the fields of AI cost management and infrastructure. Previous major acquisitions by Stripe were mainly focused on payments and fund management, while OpenRouter will help it enter new markets such as AI model call fees and token cost management.\nAs the demand for AI model calls grows rapidly, AI gateways and cost management are becoming new areas of competition. Companies such as Databricks, Rippling, and Ramp are also developing related products. Through the acquisition of OpenRouter, Stripe is expected to gain a deeper understanding of developers' AI usage behaviors and enhance its influence in the AI supply chain, model service providers, and cloud computing ecosystem.",
+ "report": {
+  "summary": "支付巨头Stripe约75亿美元收购AI路由平台OpenRouter。",
+  "background": "随着AI模型数量激增，开发者需要在不同模型间选择与切换，OpenRouter于AI应用爆发期创立，提供统一路由API，降低调用成本。Stripe作为全球领先支付基础设施，近年来看到AI公司支付需求增长，进而谋求从交易抽成扩展到AI成本管理。今年5月OpenRouter估值约13亿美元，此次收购价达75亿美元，溢价近5倍，并击败Databricks等竞标者。收购后OpenRouter将保持独立运营，产品和服务不变。",
+  "key_points": [
+   "交易总额约75亿美元，相比5月估值13亿美元暴涨近6倍，创始人获利约15亿美元，投资者收回约60亿美元。",
+   "Stripe不再局限于支付业务，而是通过OpenRouter切入AI模型调用和token成本管理，试图成为AI应用的经济层。",
+   "OpenRouter将继续独立运营，产品、使命和现有服务承诺不变，同时其技术将用于驱动不依赖特定模型的AI代理产品。",
+   "目前约88%的福布斯AI 50公司使用Stripe，包括OpenAI、Anthropic，收购将强化其对模型服务商和云计算生态的影响力。",
+   "AI网关和成本管理成为科技巨头争夺的新领域，Databricks、Rippling、Ramp等也在开发相关产品，Stripe此次收购抢得先手。"
+  ],
+  "impact": "对AI行业，支付与模型路由打通，AI基础设施从纯技术走向商业闭环，加剧巨头对开发者入口的争夺。对开发者，可通过Stripe统一支付和OpenRouter路由能力，更灵活选择低价模型，简化计费与合规。对普通用户，影响相对间接，但AI服务成本下降可能带来更便宜的订阅和应用。总之，这笔交易标志着AI价值链正从模型层向工具与经济层延伸。",
+  "tools": "可关注OpenRouter的模型路由和定价页面；开源替代方案LiteLLM、Portkey均支持多模型调用与成本统计；Stripe也提供面向AI开发者的支付与订阅API，适合需要计费能力的项目。"
+ }
+}
