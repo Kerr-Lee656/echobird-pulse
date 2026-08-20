@@ -1,0 +1,23 @@
+{
+ "id": "f5c14fa58d07",
+ "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+ "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-20T19:18:21.000Z",
+ "fetched_at": "2026-08-20T20:47:01.186816+00:00",
+ "content": "As AI continues to kill traffic to websites, Google on Thursday threw a bone to those publishers negatively impacted by the change. It’s now allowing readers to push a button on a publisher’s website to indicate it’s a “favorite source” they’d like to see highlighted more often across Google Search, Discover, and Google News.\nThe tech giant said it’s making this new, interactive “Preferred Sources” button available to online publishers to embed on their own websites.\nThe launch follows Google’s rollout of Preferred Sources in May to Google’s AI experiences, including AI Mode and AI Overviews. The option was previously available in Top Stories.\nThe idea is to make it easier for readers to find links from the sites they know and trust when they’re searching for content or interacting with Google’s AI to learn about a topic or read the latest news. As of May’s launch, the company said that people across the web had already selected over 345,000 unique sources through this method.\nTo add a site as a favorite publisher, you can visit Google’s source preferences page, then search for a publisher by name or website.\nBecoming a preferred source can drive more traffic to publishers’ websites, Google said. In earlier studies, it found that people are twice as likely to click through to a preferred source when available. By offering publishers these additional tools, Google is trying to assuage the damage that the rapid growth of AI-powered search features has had on traffic-dependent businesses.\nAlongside the new button, Google said that readers will soon be able to customize their Discover feed in Google’s app in their own words. To use this feature, readers will tap any three-dot menu in the feed and then tell Google what topics they’d like to see more or less of, using natural language commands. This helps Google refine the feed in real time.\nThe search giant is not the only company turning to AI to offer feed-tuning tools powered by AI. In recent months, a number of top social media apps have launched user-controlled algorithms that allow people to fine-tune the content that is recommended to them.\nIn addition to personalizing the Discover feed, Google says Android users will be able to customize their audio daily briefings in the Google News app, as well.",
+ "report": {
+  "summary": "谷歌推出“偏好来源”按钮，让读者标记喜爱网站以对抗AI流量损失。",
+  "background": "随着AI搜索摘要和AI模式迅速普及，大量用户不再点击原始链接，导致依赖搜索流量的新闻出版商收入锐减。谷歌今年5月已在AI Overviews等产品中引入“偏好来源”功能，用户选定的来源会在结果中更优先展示，初始即获得超34.5万个来源选择。如今谷歌将该功能扩展为可嵌入按钮，让出版商直接在自家网站上引导读者一键标记，同时新增自然语言自定义Discover信息流的能力，以缓解AI对内容生态的冲击。",
+  "key_points": [
+   "谷歌向出版商提供可嵌入网站的“偏好来源”按钮，读者点击后该站点会在搜索、Discover和Google News中获得更高展示优先级。",
+   "该功能今年5月已应用于AI Mode和AI Overviews，当时用户已选择超过34.5万个独特来源，现扩大覆盖范围。",
+   "谷歌研究显示，用户点击偏好来源的几率是普通链接的两倍，直接为出版商带来可观流量提升。",
+   "新增Discover信息流自然语言自定义功能，用户可通过三点点菜单用日常语言说明想看更多或更少的内容。",
+   "Android用户还将能在Google News应用中自定义音频每日简报，延续了社交媒体平台用户控制算法的趋势。"
+  ],
+  "impact": "对出版商而言，这提供了一种不依赖算法妥协的流量自救工具，但本质上仍受制于谷歌的分发规则；对开发者来说，嵌入按钮和集成偏好设置提供了新的用户互动维度；对普通用户，则意味着更可控的个性化体验，但也可能强化信息茧房，减少内容多样性。整体上，谷歌试图在AI变革中平衡自身产品体验与内容生态可持续性。",
+  "tools": "感兴趣的读者可访问Google的“source preferences”页面添加偏好来源；出版商可关注谷歌发布的官方嵌入按钮代码及Search Console相关指南；开发者可参考Google News API和Discover集成文档实现类似定制功能。"
+ }
+}

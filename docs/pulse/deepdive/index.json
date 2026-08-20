@@ -1582,5 +1582,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T14:55:18Z",
   "fetched_at": "2026-08-20T19:02:59.612253+00:00"
+ },
+ "62c3b9641f08": {
+  "id": "62c3b9641f08",
+  "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-report-shows-entry-090559386.html",
+  "title": "高盛报告显示，初级员工受人工智能挤压的影响最为严重",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T19:18:02.632Z",
+  "fetched_at": "2026-08-20T20:45:16.447597+00:00"
+ },
+ "38391dd7710a": {
+  "id": "38391dd7710a",
+  "url": "https://www.businessinsider.com/openai-chatgpt-automates-tasks-computer-use-data-2026-8",
+  "title": "OpenAI希望ChatGPT能让你摆脱鼠标和键盘的束缚",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T15:50:01.983Z",
+  "fetched_at": "2026-08-20T20:45:25.648168+00:00"
+ },
+ "1846d59990fe": {
+  "id": "1846d59990fe",
+  "url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
+  "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+  "source": "Claude：Blog（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-20T20:27:01.000Z",
+  "fetched_at": "2026-08-20T20:46:18.962483+00:00"
+ },
+ "f5c14fa58d07": {
+  "id": "f5c14fa58d07",
+  "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+  "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-20T19:18:21.000Z",
+  "fetched_at": "2026-08-20T20:47:01.186816+00:00"
+ },
+ "4065cdd41c2d": {
+  "id": "4065cdd41c2d",
+  "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+  "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-20T19:15:05.000Z",
+  "fetched_at": "2026-08-20T20:47:10.222481+00:00"
+ },
+ "fc79b175cc16": {
+  "id": "fc79b175cc16",
+  "url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
+  "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T19:15:02Z",
+  "fetched_at": "2026-08-20T20:47:26.875132+00:00"
+ },
+ "14c2908a24ec": {
+  "id": "14c2908a24ec",
+  "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+  "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T18:58:25Z",
+  "fetched_at": "2026-08-20T20:47:52.765232+00:00"
  }
 }

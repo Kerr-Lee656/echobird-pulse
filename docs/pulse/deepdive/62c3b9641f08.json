@@ -1,0 +1,23 @@
+{
+ "id": "62c3b9641f08",
+ "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-report-shows-entry-090559386.html",
+ "title": "高盛报告显示，初级员工受人工智能挤压的影响最为严重",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-20T19:18:02.632Z",
+ "fetched_at": "2026-08-20T20:45:16.447597+00:00",
+ "content": "Entry-level workers are taking the sharpest hit from artificial intelligence (AI), according to Goldman Sachs. The bank tracked hiring across developed economies and found the drag concentrated at the start of careers.\nThe bank published the research on Wednesday after examining employment growth across more than 800 occupations.\nWhere AI Job Losses Show Up First\nIndustries most exposed to automation have posted slower growth in job openings since the second half of 2022. Goldman said the pattern is clearest in Germany, Australia, and the US.\nEmployment across information and communication services has cooled in almost every major developed economy over the same period. Outside the US, headcount in those industries still sits near or above its long-run trend.\nNarrower categories tell a sharper story. Employment in call centers, software publishing, management consulting, and advertising services has fallen below the historical trend across developed markets.\nAccording to the research, call centers stand out the most. Employment trails trend by 39% in the US, 33% in Canada, and 27% in Germany.\nGoldman reads that as proof that the pressure lands first where automation tools already exist. Uber made that link explicit in July when it tied customer service job cuts to an AI efficiency push.\nAdoption explains part of the gap. Major developed markets have reached rates of 15% to 20%, with France, the US, the Netherlands, and the UK leading. Italy, Japan, and New Zealand sit at the bottom, while emerging markets range between 10% and 15%.\nFollow us on X to get the latest news as it happens\nEntry-Level Workers Carry the Cost\nThe damage concentrates at the start of careers. Across the wider workforce, the effect stays small. A 10% AI exposure was linked to a 0.1% drag on annual headcount growth in France, Canada, and the US.\nFor entry-level roles, that same exposure cut growth by more than 0.6 points in Australia. The US drag topped 0.2 points.\nThe signal is already reaching campuses, with students avoiding computer science degrees in favor of fields they judge safer. Earlier, research from Goldman Sachs estimated that the technology was subtracting 16,000 jobs per month from US payroll growth.\nUS Layoff Data Backs the Trend\nMeanwhile, Challenger, Gray & Christmas counted 33,429 job cuts in July. This was the lowest monthly total in two years.\nAI led all stated reasons for the fifth consecutive month, accounting for 10,970 of those cuts, or 33%. Employers have named it in 112,713 announcements this year, roughly 24% of the total.",
+ "report": {
+  "summary": "高盛报告：初级员工受AI冲击最严重，岗位增长放缓。",
+  "background": "高盛追踪发达经济体800多个职业的就业增长，发现自2022年下半年以来，自动化程度高的行业招聘增速放缓，其中呼叫中心、软件出版、管理咨询和广告服务受冲击最明显。AI采用率在主要发达市场已达15%-20%，但初级岗位承担了不成比例的代价，而整体劳动力影响仍较小。",
+  "key_points": [
+   "初级岗位冲击最大：高盛数据显示，AI对入门级岗位的就业增长拖累显著，澳大利亚超0.6个百分点，美国超0.2个点，而整体员工仅0.1%。",
+   "行业分化明显：呼叫中心就业比历史趋势低39%（美国）、33%（加拿大）、27%（德国），软件出版、管理咨询等也低于趋势线。",
+   "AI采用率差异：法国、美国、荷兰、英国采用率最高（15%-20%），意大利、日本、新西兰最低，新兴市场在10%-15%之间。",
+   "学生开始转向：计算机科学学位吸引力下降，学生选择自认为更安全的领域，反映AI对职业选择的预期影响。",
+   "裁员数据佐证：7月美国裁员中AI连续第五个月成为主因，占33%（10970人），2024年累计相关裁员超11万。"
+  ],
+  "impact": "对AI行业，短期看自动化工具替代初级内容生产、客服等岗位，但长期可能重塑职业阶梯；对开发者，入门级编程岗位竞争加剧，需提升综合技能或转向AI难以替代的领域；对普通用户，可能看到更多AI客服和自动化服务，但服务质量波动，同时就业市场压力可能传导至薪资和职业选择。",
+  "tools": "可关注高盛报告原文（Goldman Sachs Economics Research）、Challenger Gray裁员报告，以及AI岗位替代相关研究机构如Brookings。若想观察实际影响，可追踪各大公司财报中AI相关成本削减措施。"
+ }
+}
