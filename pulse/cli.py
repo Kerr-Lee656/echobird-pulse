@@ -24,7 +24,7 @@ from .common import fetch, now_utc
 from .filters import filter_file, filter_items
 from .inject_pinned import inject
 from .pipeline import build_en_feed, write_feed
-from .sources import merge_aihot
+from .sources import dedupe_by_title, merge_aihot
 
 SUYXH_BASE = "https://raw.githubusercontent.com/SuYxh/ai-news-aggregator/main/data"
 
@@ -84,6 +84,9 @@ def cmd_merge_zh(args: argparse.Namespace) -> int:
     before_count = len(existing)
 
     merged, added, overrode = merge_aihot(existing, now_utc())
+
+    # 2026-08-20: 标题归一化去重——IT之家原文与 aihot 镜像（URL 不同但标题相同）跨源重复
+    merged = dedupe_by_title(merged)
 
     payload["items"] = merged
     payload["total_items"] = len(merged)

@@ -15,6 +15,7 @@ from .common import BLOCKED_HOST_RE, iso, now_utc
 from .filters import filter_items
 from .models import RawFeed
 from .sources import (
+    dedupe_by_title,
     dedupe_by_url,
     fetch_all_rss_feeds,
     fetch_github_trending,
@@ -51,6 +52,10 @@ def build_en_feed(
     if merge_aihot_enabled:
         items, added, overrode = merge_aihot(items, now)
         print(f"[aihot] merged: +{added} new, {overrode} title-overrode", file=sys.stderr)
+
+    # 2026-08-20: 标题归一化去重——同一新闻从不同源进来（IT之家原文 vs aihot 镜像）URL 不同但标题相同
+    # URL 去重（上面）拦不住跨源重复，这里按归一化标题去重，优先保留主域名源
+    items = dedupe_by_title(items)
 
     # 黑名单过滤 + 未来时间戳修复
     items = filter_items(items, reference=now)

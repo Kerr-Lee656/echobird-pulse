@@ -44,7 +44,7 @@ API_URL = "https://api.deepseek.com/chat/completions"
 MODEL = "deepseek-v4-flash"
 
 MAX_CONTENT_CHARS = 8000  # 正文截断
-TITLE_BATCH = 30          # 每次筛选的标题数
+TITLE_BATCH = 60          # 每次筛选的标题数（2026-08-18 30→60：前 30 条可能全是同小时噪音）
 MAX_DAILY = 15            # 每天最多深挖条数（成本控制）
 
 PROXY = "http://127.0.0.1:10808"
@@ -127,22 +127,37 @@ SCREEN_SYSTEM = """你是 AI 资讯主编。下面是一批 24 小时内出现�
 
 
 def screen_titles(items: list[dict]) -> list[dict]:
-    """LLM 筛标题 → 返回值得深挖且来源可抓的 items。"""
+    """LLM 筛标题 → 返回值得深挖且来源可抓的 items。
+    2026-08-18 增强：分 2 批各 TITLE_BATCH 条覆盖更多条目；LLM 标题输出有随机性，两批都跑提高命中。"""
     items = _fetchable(items)  # 2026-08-18：先过滤微信等不可抓源
-    titles = [it.get("title", "")[:120] for it in items if it.get("title")]
-    if not titles:
+    if not items:
         return []
-    out = _llm([
-        {"role": "system", "content": SCREEN_SYSTEM},
-        {"role": "user", "content": "标题列表（每行一条）：\n" + "\n".join(f"- {t}" for t in titles[:TITLE_BATCH])},
-    ], max_tokens=4000)  # ⚠️ 推理模型：1200 被思维链占满 content 为空（记忆已知坑）
-    try:
-        m = re.search(r"\{[\s\S]*\}", out)
-        picked = json.loads(m.group(0)) if m else {"deep": []}
-        keep = set(picked.get("deep", []))
-        return [it for it in items if it.get("title", "")[:120] in keep][:MAX_DAILY]
-    except Exception:
-        return []
+    picked_items: list[dict] = []
+    seen_titles: set[str] = set()
+    # 批次：按时间戳最新优先（feed 已排序），分 2 批
+    batches = [items[:TITLE_BATCH], items[TITLE_BATCH : TITLE_BATCH * 2]]
+    for batch in batches:
+        if not batch:
+            continue
+        titles = [it.get("title", "")[:120] for it in batch if it.get("title")]
+        if not titles:
+            continue
+        try:
+            out = _llm([
+                {"role": "system", "content": SCREEN_SYSTEM},
+                {"role": "user", "content": "标题列表（每行一条）：\n" + "\n".join(f"- {t}" for t in titles)},
+            ], max_tokens=4000)  # ⚠️ 推理模型：1200 被思维链占满 content 为空（记忆已知坑）
+            m = re.search(r"\{[\s\S]*\}", out)
+            picked = json.loads(m.group(0)) if m else {"deep": []}
+            keep = set(picked.get("deep", []))
+            for it in batch:
+                t = it.get("title", "")[:120]
+                if t in keep and t not in seen_titles:
+                    seen_titles.add(t)
+                    picked_items.append(it)
+        except Exception:
+            continue  # 单批失败不影响其他批
+    return picked_items[:MAX_DAILY]
 
 
 # ── 步骤 2: 正文采集 ─────────────────────────────────

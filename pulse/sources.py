@@ -445,3 +445,37 @@ def dedupe_by_url(items: Iterable[dict]) -> list[dict]:
         if u not in by_url:
             by_url[u] = it
     return list(by_url.values())
+
+
+# 2026-08-20: 同一新闻可能从不同源进来（IT之家原文 vs aihot RSS 镜像）——URL 不同但标题归一化后相同。
+# 归一化：HTML 实体解码 + 去标点/空白 + 小写；同新闻保留 URL 更「原始」的（ithome.com 等主域名优先于镜像聚合站）。
+_MIRROR_HOSTS = ("aihot.virxact.com",)
+
+
+def _norm_title(t: str) -> str:
+    import html as _html
+
+    t = _html.unescape(t)
+    return re.sub(r"[\s\W_]+", "", t).lower()
+
+
+def dedupe_by_title(items: Iterable[dict]) -> list[dict]:
+    """URL 去重之后再按归一化标题去重：同标题只留一条，优先保留主域名源（镜像聚合站让位）。"""
+    import html as _html
+
+    seen: dict[str, dict] = {}  # norm_title -> item
+    for it in items:
+        nt = _norm_title(it.get("title", ""))
+        if not nt:
+            continue
+        host = (it.get("url") or "").split("/")[2] if "/" in (it.get("url") or "") else ""
+        prev = seen.get(nt)
+        if prev is None:
+            seen[nt] = it
+            continue
+        # 两者其一为镜像 → 保主域名源
+        if host in _MIRROR_HOSTS and prev.get("url", "").split("/")[2] not in _MIRROR_HOSTS:
+            continue  # 当前是镜像，保留 prev
+        if host not in _MIRROR_HOSTS and prev.get("url", "").split("/")[2] in _MIRROR_HOSTS:
+            seen[nt] = it  # 当前是主源，替换镜像
+    return list(seen.values())
