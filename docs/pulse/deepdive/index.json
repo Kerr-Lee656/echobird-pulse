@@ -1645,5 +1645,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T18:58:25Z",
   "fetched_at": "2026-08-20T20:47:52.765232+00:00"
+ },
+ "f21c3f63b03b": {
+  "id": "f21c3f63b03b",
+  "url": "https://wallstreetcn.com/articles/3779945",
+  "title": "博通寻求逾600亿美元债务融资，为Anthropic等AI企业提供芯片基础设施",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T22:43:54.924114+00:00"
+ },
+ "fa419609dc04": {
+  "id": "fa419609dc04",
+  "url": "https://finance.yahoo.com/technology/ai/articles/marvell-grants-google-12-2-133101313.html",
+  "title": "Marvell在人工智能芯片交易中向谷歌授予价值122亿美元的股票认购权",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T21:26:20.457Z",
+  "fetched_at": "2026-08-20T22:44:03.043320+00:00"
+ },
+ "c1af6b58492f": {
+  "id": "c1af6b58492f",
+  "url": "https://github.com/browser-use/browser-use",
+  "title": "browser-use/browser-use — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-20T22:44:52.613155+00:00"
+ },
+ "182cf80b976d": {
+  "id": "182cf80b976d",
+  "url": "https://github.com/pipecat-ai/pipecat",
+  "title": "pipecat-ai/pipecat — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-20T22:45:04.943468+00:00"
+ },
+ "533d51d9d3de": {
+  "id": "533d51d9d3de",
+  "url": "https://github.com/cline/cline",
+  "title": "cline/cline — Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-20T22:45:23.716866+00:00"
+ },
+ "db0bf4cf3653": {
+  "id": "db0bf4cf3653",
+  "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+  "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-20T22:36:37.000Z",
+  "fetched_at": "2026-08-20T22:45:37.312316+00:00"
+ },
+ "71fc6995d69e": {
+  "id": "71fc6995d69e",
+  "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+  "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T21:49:53Z",
+  "fetched_at": "2026-08-20T22:45:58.832478+00:00"
  }
 }

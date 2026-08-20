@@ -1,0 +1,23 @@
+{
+ "id": "db0bf4cf3653",
+ "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+ "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-20T22:36:37.000Z",
+ "fetched_at": "2026-08-20T22:45:37.312316+00:00",
+ "content": "Until both OpenAI and Anthropic get close enough to their planned IPOs to release their financials, we have to look to other sources for signs of how well their businesses are doing. One of those sources, Ramp, the corporate credit card and expense management company, has just released some surprising new data: OpenAI has started gaining on Anthropic with US businesses.\nOpenAI, which was once the runaway leader with both businesses and consumers, lost the lead among Ramp’s paying business users back in May. That’s when Anthropic hit 41% market share to OpenAI’s 39%. The ChatGPT maker has never regained that lead. As of July, Anthropic has nearly 44% to OpenAI’s nearly 40%.\nThe data covers more than 70,000 American businesses that spend billions via Ramp’s bill pay and corporate card products. Ramp’s customers are spread across industries but, as a popular Silicon Valley corporate credit card, they do skew toward the tech industry.\nA closer look at the most recent data, according to Ramp economist Ara Kharazian, shows that OpenAI is currently growing faster among this segment in Q3 to date than Anthropic. Mind you, there’s still a month left in the quarter and that’s like 30 AI years, so the trend could easily shift again before it’s over. Ramp also declined to provide actual dollars spent, sharing only percentages.\nTo borrow ChatGPT’s own hedging style for a moment: this isn’t a measure of the the total market. It excludes large enterprises that use spend-management tools from providers like American Express, rather than Ramp. But it’s enough data to show market indications. And what it shows is that Anthropic hasn’t won permanently. Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies’ investors pause about how “sticky” enterprise AI spending really is.\n“GPT-5.6 Sol is really good, increasingly the choice for developers,” Kharazian posted on X about OpenAI’s new growth. “Fable 5, meanwhile, disappointed both in adoption and real-world application given price + data retention requirements imposed by regulators,” he continued.\nThat may be an over simplification. Fable — Anthropic’s higher-end model tier — is expensive but it’s also built for a more targeted set of use cases than a general chatbot. Still, Anthropic did cause some outrage when it warned Fable users that it must retain their data for 30 days.\nRamp’s data also suggests that both companies should be growing business revenue, even as they duke it out for market share, because the market overall is expanding. The percentage of companies that pay for AI among these Ramp customers has been steadily climbing. It topped 50% in March. It reached nearly 56% by July.",
+ "report": {
+  "summary": "OpenAI在企业用户领域追赶Anthropic",
+  "background": "OpenAI曾是企业AI市场绝对领先者，但据Ramp数据，5月其付费企业用户份额被Anthropic反超。Ramp是硅谷常用公司信用卡和支出管理平台，覆盖7万多家美国企业。数据虽不完全代表整体市场，但能反映趋势。近期OpenAI新模型GPT-5.6 Sol受开发者欢迎，而Anthropic的Fable 5因价格和监管要求表现平平，推动OpenAI增速回升。",
+  "key_points": [
+   "据Ramp数据，Anthropic企业市场份额从5月41%升至7月44%，OpenAI从39%升至40%，仍落后。",
+   "但2026年Q3至今，OpenAI在企业用户中的增速超过Anthropic，市场地位可能再次变化。",
+   "OpenAI新模型GPT-5.6 Sol受开发者青睐，而Anthropic的Fable 5因价格和数据保留要求导致采用不及预期。",
+   "两家公司虽争夺份额，但整体AI企业付费用户比例从3月的50%升至7月的56%，市场在扩大。",
+   "数据来自Ramp，偏科技企业，且不含大企业，有局限性，不能全面反映市场。"
+  ],
+  "impact": "对企业AI行业而言，数据说明企业用户并不忠诚，市场份额会随模型迭代快速波动，投资需谨慎。对开发者来说，选型更看重性能、价格和数据合规，OpenAI和Anthropic的竞品各有优劣。对普通用户，双强竞争将推动模型性能提升、价格优化，但可能因监管要求带来数据处理上的权衡。",
+  "tools": "可关注Ramp官方发布的企业支出趋势报告，跟进两家公司最新模型API（OpenAI GPT-5.6 Sol、Anthropic Fable）的表现；也可参考LMArena等第三方评测平台观察开发者真实偏好。"
+ }
+}
