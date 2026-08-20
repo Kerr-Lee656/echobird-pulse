@@ -1,0 +1,22 @@
+{
+ "id": "780e50c86677",
+ "url": "https://github.com/agentnameservice",
+ "title": "A registry and transparency log for discovering and verifying AI agents by name",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-20T14:03:42Z",
+ "fetched_at": "2026-08-20T16:55:59.869511+00:00",
+ "content": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nA registry and transparency log for discovering and verifying AI agents by name.\nDNS resolves a domain to an address. ANS resolves an agent name to a verifiable, versioned\nidentity — backed by certificates and an append-only transparency log.\nAs autonomous agents begin calling each other across organizations, two questions have no good\nanswer today:\nWho is this agent, really? Anyone can claim to be support-agent.acme.com. There's no\nstandard way to prove it.\nHow do I find the right one? No registry maps a name + capability + version to a\ntrustworthy endpoint.\nANS answers both. Every agent gets a versioned, DNS-style name like\nans://v1.0.0.my-agent.example.com, an identity certificate issued only after DNS/ACME domain\nvalidation, and a public transparency-log record — so any party can independently verify an\nagent's identity, capabilities, and history without trusting a middleman.\nHow it works\nPiece\nRole\nRegistry Authority\nRegisters agents, validates domain ownership (DNS + ACME), issues identity & server certificates, and exposes search / resolution.\nTransparency Log\nA durable, append-only Merkle-tree log of every agent event, with COSE / SCITT receipts (RFC 9162, RFC 6962) proving an agent's state at a point in time.\nIdentity certificates\nPrivate-CA-signed certs enabling mutual TLS and badge-verified agent-to-agent calls.\nOffline verifier\nans-verify — cryptographically validates an agent's record and proofs with no live service dependency.\nThink of it as DNS + Certificate Transparency, built for agents.\nGo reference implementation of the Agent Trust Discovery — indexes registered AI agents and serves explainable, five-dimension trust scores (integrity, identity, solvency, behavior, safety) through a production-compatible search API.",
+ "report": {
+  "summary": "为AI代理提供类似DNS的名称注册与透明度日志，实现身份验证与发现。",
+  "background": "随着自主AI代理开始跨组织相互调用，当前缺乏标准来回答“这个代理到底是谁”和“如何找到正确的代理”。任何人可以冒用support-agent.acme.com这样的名称，也没有注册表能映射名称、能力、版本到可信端点。ANS（Agent Name Service）借鉴DNS和证书透明化（Certificate Transparency）思路，为每个代理分配版本化名称、颁发经域名验证的证书，并将事件记录在只追加的Merkle树日志中，使各方可独立验证代理身份和历史，无需信任中心化中间人。",
+  "key_points": [
+   "ANS采用DNS式命名，如ans://v1.0.0.my-agent.example.com，将代理名解析为可验证的版本化身份。",
+   "通过DNS/ACME域名验证后才颁发身份证书，确保只有域名所有者才能注册对应代理，防止冒名顶替。",
+   "透明度日志使用Merkle树记录每次代理事件，并附COSE/SCITT收据，支持离线验证代理在任意时间点的状态。",
+   "提供Go参考实现ans-verify，可计算完整性、身份、偿付能力、行为、安全五维信任评分，无需实时服务依赖。"
+  ],
+  "impact": "对AI行业，这将建立代理间互信的基础设施，类似DNS之于互联网，促进跨组织自动化协作。对开发者，可以像配置DNS一样注册和发现代理，降低身份验证和安全集成成本。对普通用户，通过证书和日志可追溯代理行为，减少被虚假代理欺骗的风险。长远看，透明日志和可验证信任分有望成为AI代理生态的标配。",
+  "tools": "可关注GitHub上的agentnameservice/ANS项目，使用其Go参考实现和ans-verify离线验证器；同时可学习RFC 9162（证书透明日志）和RFC 6962（Merkle树证明）相关标准及cose/SCITT工具链。"
+ }
+}

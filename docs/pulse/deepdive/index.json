@@ -1375,5 +1375,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T10:24:06Z",
   "fetched_at": "2026-08-20T14:57:53.091998+00:00"
+ },
+ "61ae3032fbd5": {
+  "id": "61ae3032fbd5",
+  "url": "https://hub.baai.ac.cn/view/57279",
+  "title": "OpenAI 紧急暂停 GPT-6 训练",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T16:50:35.371271+00:00"
+ },
+ "070200fddcd5": {
+  "id": "070200fddcd5",
+  "url": "https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337",
+  "title": "乌克兰曾计划用人工智能引导的无人机对莫斯科各机场发起大规模袭击",
+  "source": "www.theatlantic.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T16:06:09.062Z",
+  "fetched_at": "2026-08-20T16:50:45.892465+00:00"
+ },
+ "1982ba1ac7e8": {
+  "id": "1982ba1ac7e8",
+  "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data",
+  "title": "Japan to Require AI Firms to Disclose Training Data",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T15:00:00Z",
+  "fetched_at": "2026-08-20T16:51:09.105093+00:00"
+ },
+ "ffb2d30bbc94": {
+  "id": "ffb2d30bbc94",
+  "url": "https://arxiv.org/abs/2608.00146",
+  "title": "DiffusionGemma Technical Report",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-20T13:24:32Z",
+  "fetched_at": "2026-08-20T16:52:13.277655+00:00"
+ },
+ "4c0dfa33ea80": {
+  "id": "4c0dfa33ea80",
+  "url": "https://www.ithome.com/0/992/352.htm",
+  "title": "美政府机构警告：黑客正利用 AI 攻击全美多地供水系统",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T13:05:23Z",
+  "fetched_at": "2026-08-20T16:52:34.550660+00:00"
+ },
+ "a8d7e48c57e0": {
+  "id": "a8d7e48c57e0",
+  "url": "https://www.ithome.com/0/992/339.htm",
+  "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T12:29:27Z",
+  "fetched_at": "2026-08-20T16:52:45.256695+00:00"
+ },
+ "f726cd00afef": {
+  "id": "f726cd00afef",
+  "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+  "title": "Ramp launches its own AI model router, called Router",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-20T16:46:00.000Z",
+  "fetched_at": "2026-08-20T16:53:52.451188+00:00"
+ },
+ "0a0cd37f42b8": {
+  "id": "0a0cd37f42b8",
+  "url": "https://www.proofagent.ai/book",
+  "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T16:42:20Z",
+  "fetched_at": "2026-08-20T16:54:07.442843+00:00"
+ },
+ "ca2a95942f42": {
+  "id": "ca2a95942f42",
+  "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+  "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T16:15:40Z",
+  "fetched_at": "2026-08-20T16:54:18.063198+00:00"
+ },
+ "f273d0452f3e": {
+  "id": "f273d0452f3e",
+  "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+  "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+  "source": "Mistral AI：News（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-20T16:02:07.000Z",
+  "fetched_at": "2026-08-20T16:54:32.320462+00:00"
+ },
+ "08dde364f7c2": {
+  "id": "08dde364f7c2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+  "title": "It’s Greg Brockman’s OpenAI now",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-08-20T15:45:55.000Z",
+  "fetched_at": "2026-08-20T16:54:55.001667+00:00"
+ },
+ "780e50c86677": {
+  "id": "780e50c86677",
+  "url": "https://github.com/agentnameservice",
+  "title": "A registry and transparency log for discovering and verifying AI agents by name",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T14:03:42Z",
+  "fetched_at": "2026-08-20T16:55:59.869511+00:00"
  }
 }

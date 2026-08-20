@@ -1,0 +1,23 @@
+{
+ "id": "ffb2d30bbc94",
+ "url": "https://arxiv.org/abs/2608.00146",
+ "title": "DiffusionGemma Technical Report",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-08-20T13:24:32Z",
+ "fetched_at": "2026-08-20T16:52:13.277655+00:00",
+ "content": "Computer Science > Computation and Language\n  [Submitted on 31 Jul 2026]\n    Title:DiffusionGemma Technical Report\nView PDF HTML (experimental)\n            Abstract:We introduce DiffusionGemma, an experimental open-weight language model that uses discrete diffusion to generate text at exceptionally high speed. Rather than decoding one token at a time, DiffusionGemma iteratively refines blocks of 256 tokens in parallel, avoiding the sequential decoding bottleneck of conventional autoregressive (AR) large language models. Instead of training from scratch, we obtain DiffusionGemma by fine-tuning the mixture-of-experts Gemma 4 model with 3.8B activated and 25.2B total parameters. Our compute-efficient two-stage training pipeline uses fewer than 10% of the starting AR model's total training token budget. The first stage uses supervised fine-tuning to teach bidirectional denoising, while the second stage combines reinforcement learning with sampler distillation to jointly improve generation quality and inference efficiency. DiffusionGemma establishes a new Pareto frontier for the trade-off between generation speed and model capability. Averaged across our full evaluation suite, it generates around 20 tokens per forward pass and achieves roughly 1,500 output tokens per second on a single NVIDIA H100 GPU, which is substantially faster than AR models even with state-of-the-art speculative decoding. DiffusionGemma also retains the starting model's support for thinking mode, multimodal inputs, and long contexts. Despite diffusion fine-tuning, it remains capable of AR generation with only minor performance degradation, suggesting a path toward hybrid diffusion-AR decoding.\n    \nSubmission history\nFrom: Jean Tarbouriech [view email]\n[v1] Fri, 31 Jul 2026 16:11:46 UTC (6,116 KB)\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "DiffusionGemma用离散扩散并行生成256个token，速度远超自回归模型。",
+  "background": "自回归大语言模型按token逐字生成，速度受限，成为部署瓶颈。扩散模型在图像生成上已证明强大并行能力，文本扩散成为新兴方向。Google团队在开源Gemma 4 MoE基础上，通过两阶段微调将其改造为离散扩散模型，仅用不到10%的训练预算就实现高吞吐生成，探索了非自回归LLM的新路径。",
+  "key_points": [
+   "DiffusionGemma一次并行精炼256个token的块，单次前向生成约20个token，绕开自回归逐token解码的瓶颈。",
+   "基于混合专家架构的Gemma 4微调而来，总参数25.2B，激活3.8B，训练成本不足原模型的10%。",
+   "两阶段训练：先用监督微调教模型双向去噪，再用强化学习加采样器蒸馏提高生成质量和推理效率。",
+   "在单张H100上达到约1500 token/s，比带推测解码的自回归模型还快一个量级，建立速度与能力的新权衡标杆。",
+   "保留思考模式、多模态输入和长上下文能力，同时仍支持自回归解码，未来可混合使用两种解码方式。"
+  ],
+  "impact": "对AI行业，这挑战了自回归作为LLM唯一正统的假设，推动文本生成进入并行解码时代。对开发者，意味着更低的推理成本和更高的吞吐，实时聊天、代码补全等场景将更流畅。对普通用户，AI响应速度大幅提升，长文本生成等待时间缩短，体验接近即时。",
+  "tools": "关注Google Gemma官方项目页和Hugging Face上的DiffusionGemma权重；推理侧可关注vLLM、SGLang等框架对非自回归解码的支持；离散扩散实现可参考DiffusionLM相关开源库。"
+ }
+}

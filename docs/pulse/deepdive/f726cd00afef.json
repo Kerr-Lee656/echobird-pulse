@@ -1,0 +1,22 @@
+{
+ "id": "f726cd00afef",
+ "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+ "title": "Ramp launches its own AI model router, called Router",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-20T16:46:00.000Z",
+ "fetched_at": "2026-08-20T16:53:52.451188+00:00",
+ "content": "Corporate expense management platform Ramp is hot on the heels of Stripe in setting up toll houses for AI inference.\nRamp on Wednesday evening launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models through an API. The company says it has been using the router it built for its own AI usage needs over the past three years.\nThe service is only available in the United States. It’s free to use for the remainder of 2026 (users will still have to pay for AI model inference costs), and it comes with a $26 credit launch offer. The company did not say how much the service will cost next year.\nIn its function, Router is pretty similar to how OpenRouter operates, though the latter offers many more AI model options than Ramp’s current offerings.\nRouter offers access to models from OpenAI, Anthropic, DeepSeek, Moonshot, Minimax, Nvidia, xAI, and Z.ai. It also provides several “strategies” to help its customers route AI requests to models based on their preferences. For example, one lets users set a preference for model providers’ flex usage tiers, while another lets Router choose which model to route queries to based on up to three user-specified benchmarks. Users can also choose to route only difficult problems to expensive models or test models easily without having to switch.\nUsers get a dashboard, too, that lets them see token spend, cost, latency, fallback attempts, and other details.\nNotably, Router has an opt-out data retention policy: it will record model inputs, outputs and tool calls for one year by default, though the company says it will remove “personally identifiable information before using that content to improve the product.”\nFor Ramp, entering the model routing business offers a two-pronged opportunity: it gets to tap the booming AI inference market, and also offer its existing clients a model routing service that fits in neatly with its existing products, which includes AI token usage monitoring and token spend management.\nAnd, if Router proves as attractive of a model testing arena as OpenRouter has, Ramp may also be able to build long-standing relationships with AI labs and inference providers worldwide. That could help Ramp, which raised $750 million at a $44 billion valuation in June, gain new customers and a new point of entry for selling its expense management products.",
+ "report": {
+  "summary": "Ramp推出AI模型路由服务Router，免费使用至2026年底。",
+  "background": "企业费用管理平台Ramp长期自用AI路由技术，现将其产品化。此举紧随Stripe布局AI推理网关之后，旨在切入高速增长的AI推理市场。Router允许用户通过API切换多家大模型，并提供按基准或成本路由等策略。Ramp已融资7.5亿美元、估值440亿美元，希望借Router吸引新客户并交叉销售费用管理产品。",
+  "key_points": [
+   "Router是一个AI模型路由API，支持OpenAI、Anthropic、DeepSeek、xAI等多家模型，用户可灵活切换或按规则自动选择。",
+   "提供多种路由策略，如优先使用弹性额度、按用户指定基准选择模型、只将难题发送给昂贵模型等。",
+   "附带仪表盘，可监控token消耗、成本、延迟和回退尝试，方便企业优化AI支出。",
+   "默认保留输入输出数据一年，但会去除个人身份信息；该服务目前仅在美国可用。"
+  ],
+  "impact": "对AI行业而言，Router加剧了模型路由赛道竞争，可能推动更多企业提供类似服务，也促使模型提供商优化性价比。对开发者来说，多了一个免费易用的模型测试和切换工具，降低多模型管理成本。对普通用户影响较小，但通过使用Ramp的企业，可能间接体验更智能、更省钱的AI服务。",
+  "tools": "可关注OpenRouter（模型聚合路由）、LiteLLM（开源模型网关）、Portkey（AI网关与可观测性）、Ramp Router本身。开发者可通过API快速集成并尝试其路由策略。"
+ }
+}

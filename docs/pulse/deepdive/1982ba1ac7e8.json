@@ -1,0 +1,22 @@
+{
+ "id": "1982ba1ac7e8",
+ "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data",
+ "title": "Japan to Require AI Firms to Disclose Training Data",
+ "source": "Slashdot (科技资讯)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-20T15:00:00Z",
+ "fetched_at": "2026-08-20T16:51:09.105093+00:00",
+ "content": "Japan to Require AI Firms to Disclose Training Data 5\n\t\t\t\n\t\t \t\n\t\t\t\tJapan is preparing a nonbinding \"comply or explain\" code that would urge generative AI companies, including foreign firms operating in Japan, to disclose what models they use, what training data they rely on, and how that data was collected. The proposal would also let rights holders ask whether specific webpages were included in training datasets. The Japan Times reports:  The draft code comprises three principles. The first principle requires businesses to disclose the generative AI models they use, their training data and methods for collecting such data on their websites and make the information publicly accessible. Meanwhile, disclosure of sensitive information will not be mandatory. The second principle calls for businesses to disclose whether certain webpages are included in training data when requested by copyright holders and other rights holders who allege infringement. The third principle states that businesses will respond to requests for information from system and service users concerned about copyright infringement.",
+ "report": {
+  "summary": "日本拟要求AI公司披露训练数据，实施“遵守或解释”准则。",
+  "background": "生成式AI训练数据常涉及大量受版权保护的文本、图片，多国面临侵权诉讼。日本此前已制定AI伦理准则，但缺乏具体披露要求。随着OpenAI等公司被作家、媒体起诉，日本经济产业省于2023年启动研究，现提出草案，拟以“遵守或解释”的柔韧监管方式，迫使行业提高透明度，平衡技术创新与版权人权益。草案将适用于所有在日运营的生成式AI公司，包括境外企业。该政策尚在征求意见阶段，未来可能影响亚太地区AI治理格局。",
+  "key_points": [
+   "该准则要求生成式AI企业（含在日外企）主动披露使用的模型、训练数据来源及收集方式，并确保信息公开可查阅，而敏感数据可豁免披露。",
+   "版权方若指控侵权，可请求企业说明其特定网页是否被用于训练，企业需明确回应，这增强了数据可追溯性。",
+   "企业还需及时回应系统和普通用户关于版权侵权的信息询问，避免信息不对称可能导致的法律纠纷。",
+   "这一准则采用“遵守或解释”模式，虽不具强制力，但企业不遵守需给出正当理由，形成软性监管压力。"
+  ],
+  "impact": "对AI行业：企业需建立训练数据审计和文档体系，短期内增加合规成本，但有助于减少版权诉讼风险；大型科技公司可能率先推动行业标准。对开发者：开源项目与中小团队若使用第三方模型，需更关注上游数据披露，可能限制部分数据集的商业使用。对普通用户：用户能查询AI是否使用其作品或网页内容，增强版权保护意识，但实际查询流程可能繁琐。",
+  "tools": "暂无直接开源工具，但可参考微软的Datasheets for Datasets、Hugging Face Model Cards和Datasets-Card，用于规范化记录训练数据。建议密切关注日本经济产业省官网政策更新。"
+ }
+}

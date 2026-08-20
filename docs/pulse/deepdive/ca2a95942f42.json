@@ -1,0 +1,23 @@
+{
+ "id": "ca2a95942f42",
+ "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+ "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-20T16:15:40Z",
+ "fetched_at": "2026-08-20T16:54:18.063198+00:00",
+ "content": "Google announced on Thursday that Google Maps’ “Ask Maps” feature is gaining a slew of new agentic capabilities, including the ability to order food, book hotels, and find event tickets. The tech giant is also bringing Personal Intelligence to Ask Maps, allowing the AI tool to personalize its responses by drawing on information from a user’s Gmail and Google Calendar.\nThe launch of the new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that’s capable of helping users complete real-world tasks.\nWith the new agentic food-ordering capabilities, users can open Ask Maps in Google Maps and ask a question like, “Where can I order vegan avocado toast and an oat milk latte near home?” The tool will then surface nearby restaurants that have what they’re looking for.\nAfter selecting a restaurant, users can tap the “Order online” option to place an order through supported platforms such as Square, Toast, or Uber Eats. Ask Maps will add the items to a cart. Users can choose to add more items to their cart, then pay for the order on the supported platform.\nAdditionally, users can use Ask Maps to find a hotel for their next trip by entering a query like, “For next weekend’s conference in downtown Miami, find me a decently priced, top-rated hotel with an artsy vibe within walking distance from a gym and restaurants.” Ask Maps will then compare prices and check availability before providing a list of options. Once users find an option they like, they can click through to the partner’s website to book the stay.\nUsers can also ask questions like “What are some comedy shows or live music this evening near work?” to get a list of options along with links to buy tickets.\nThe new agentic features are rolling out to users in the U.S.\nWith the addition of Personal Intelligence, Ask Maps will be able to give users personalized answers to their questions about upcoming flights, dinner reservations, hotels, and more. For example, users could ask, “What time will I land in Vancouver on my upcoming flight?” or “Can you recommend where to eat and what to do near my hotel?” Ask Maps will then pull information from a user’s emails and calendar to provide tailored responses.\nIt’s worth noting that Personal Intelligence is off by default.\nAsk Maps will now also remember prior conversations, allowing users to pick up where they left off. Now users can ask things like, “What activities had you suggested for my trip to Seattle?” and continue planning without having to start from scratch.\nGoogle is also launching a live transit widget in Ask Maps that will allow users to stay up to date on delays and conditions as they change in real time.\nPersonal Intelligence and the live transit widget in Ask Maps are rolling out to all markets where Ask Maps is available.",
+ "report": {
+  "summary": "谷歌地图新增代理功能，可订餐、订酒店、买票。",
+  "background": "谷歌宣布为Google Maps的Ask Maps功能加入一系列代理式AI能力，使其不仅能导航，还能帮用户完成订餐、订酒店、买票等实际任务。同时，Ask Maps将整合Personal Intelligence，从用户的Gmail和日历中提取信息，提供个性化推荐。这标志着谷歌推动地图应用从导航工具向生活服务智能助手转型，体现了AI代理技术在超级应用中的深度落地。",
+  "key_points": [
+   "Ask Maps新增订餐功能，支持Square、Toast、Uber Eats等平台，用户可搜索并直接下单支付，实现从选择到付款的闭环。",
+   "酒店预订功能可根据用户描述的偏好和位置，自动比较价格和可用性，并跳转合作网站完成预订。",
+   "活动票务功能支持查询演出、喜剧等本地活动，并附上购票链接，方便用户快速购买。",
+   "Personal Intelligence默认关闭，能读取Gmail和日历数据，回答航班时间、酒店周边推荐等个性化问题。",
+   "Ask Maps支持记忆历史对话，并新增实时公交小组件，实时更新延误和路况信息。"
+  ],
+  "impact": "对AI行业而言，这是代理式AI进入大众应用的重要一步，展示了多步骤任务自动化的可行性。对开发者来说，可借鉴其集成第三方平台的方式，推动AI Agent在垂直场景的落地。对普通用户，日常生活将更便捷，但需注意隐私风险，因为Personal Intelligence涉及个人数据。",
+  "tools": "关注Google Maps的Ask Maps功能更新，以及Square、Toast、Uber Eats等外卖平台API。开发者可学习使用LangChain、AutoGen等Agent框架构建类似的多工具调用流程。"
+ }
+}
