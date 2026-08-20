@@ -1,0 +1,23 @@
+{
+ "id": "d58b449ed5d6",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-gave-bitcoin-miner-194144085.html",
+ "title": "Anthropic刚刚与这位比特币矿工签订了一份合同，其金额甚至超过了该公司总资产",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-20T06:13:58.373Z",
+ "fetched_at": "2026-08-20T07:04:16.286862+00:00",
+ "content": "Riot Platforms (RIOT) is a Bitcoin (BTCUSD) miner turned artificial intelligence (AI) high-performance computing company. Riot has been essentially using its experience with GPUs and data centers as a Bitcoin miner to slingshot itself into an AI neocloud, and it seems to be working.\nRiot signed a deal with Advanced Micro Devices (AMD) in January 2026 for a 25 megawatt lease at Rockdale, with $311 million in contracted revenue over 10 years. AMD doubled this in April — and those numbers are peanuts compared to what happened on Aug. 10.\nMore News from Barchart\n-       Barron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink\n-       Berkshire Is Chasing GOOG Stock Big Time, But It Might Not Help Reverse Warren Buffett's Historical Mistake\n-       QQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell. Here's What Our Top Chart Expert is Tracking Next.\n-       Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\nEarlier this month, Riot signed a 20-year lease for 191 MW at Rockdale for a \"leading frontier AI lab\" believed to be Anthropic. Expected rent is about $9.1 billion, or $16.1 billion if the tenant renews twice. Capacity is due in two parts — 96 MW in December 2027 and the rest by June 2028. Morgan Stanley will lend Riot up to $573 million to \"fund initial development costs.\"\nRiot Platforms' current market capitalization is close to $7.5 billion, so this deal is larger than the whole company. Let's take a closer look.\nWhy Anthropic Signed the Deal and What Riot Gets\nAnthropic has been actively shopping for compute, which isn't much of a secret. This year, it became clear that AI companies were desperate for compute when both Alphabet (GOOGL) and Anthropic signed a contract with SpaceX's (SPCX) AI division. Anthropic has agreed to pay SpaceX $1.25 billion monthly through May 2029.\nThe Riot deal is smaller by comparison, but it's still massive enough to re-rate the business higher over the coming quarters if Riot can execute. Anthropic remains massively compute-constrained, as the company has the go-to AI models for developers.\nDemand is rising faster than even the most bullish analysts have predicted as more and more people use AI. Thus, it is highly likely that Anthropic won't cancel its deal with Riot, while the SpaceX deal is also likely to survive its term.\nRIOT Stock Didn't Surge Much\nThe catch with the Riot-Anthropic deal is not that the agreement is smaller-than-expected or bad. It's that the deal will take time to start and spans two decades. That $9.1 billion figure is being stretched out over 20 years, although it still represents $455 million a year, compared to Riot's record full-year 2025 total revenue of $647.4 million.",
+ "report": {
+  "summary": "Anthropic与比特币矿商Riot签20年算力租约，合同金额91亿美元超其市值。",
+  "background": "AI算力需求爆发，Anthropic因模型受开发者欢迎而极度缺算力，已与SpaceX等签下巨额合同。Riot Platforms原本是比特币矿工，利用GPU和数据中心经验转型为AI高性能计算服务商，此前已与AMD合作，此次与Anthropic的租约是其转型迄今最大的单笔合同，金额超过自身市值，标志着传统矿工在AI算力供应链中角色升级。",
+  "key_points": [
+   "Riot与Anthropic签下20年191MW算力租约，基础租金约91亿美元，若续租两次最高达161亿美元。",
+   "合同金额超过Riot约75亿美元市值，但分20年支付，年均4.55亿美元，仍远超其2025年全年营收6.474亿美元。",
+   "算力分两阶段交付：2027年12月交付96MW，2028年6月交付剩余部分，摩根士丹利提供5.73亿美元建设贷款。",
+   "Anthropic算力缺口巨大，此前已同意每月向SpaceX支付12.5亿美元获取算力，本次合同是又一项长期算力保障。",
+   "RIOT股价反应平淡，因合同周期长且营收要等未来两年才逐步兑现，但若执行顺利将显著提升公司估值。"
+  ],
+  "impact": "对AI行业，算力军备竞赛正催生新型供应商，矿工转型成为重要力量；对开发者，Anthropic算力缓解可能带来更稳定的API和更强的模型迭代；对普通用户，大额合同成本或最终反映在AI服务价格上，但短期内可期待更强大的AI应用。",
+  "tools": "可关注Anthropic的Claude API体验最新模型；跟进Riot Platforms财报了解合同执行进度；关注NVIDIA/AMD GPU供应链动态，以及开源推理框架vLLM、Ray等提升算力调度效率。"
+ }
+}

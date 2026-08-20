@@ -925,5 +925,41 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-08-20T04:51:40.672373+00:00"
+ },
+ "2c2c6389e3c7": {
+  "id": "2c2c6389e3c7",
+  "url": "https://hub.baai.ac.cn/view/57252",
+  "title": "闭源 RSI 的严父来了：18 个 Agent 自主科研，Kimi K3 靠 Harness 逼近 Opus 5",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T07:03:44.087642+00:00"
+ },
+ "03fc1d1a902f": {
+  "id": "03fc1d1a902f",
+  "url": "https://www.aibase.com/news/30497",
+  "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-20T06:25:42.613Z",
+  "fetched_at": "2026-08-20T07:04:01.852814+00:00"
+ },
+ "d58b449ed5d6": {
+  "id": "d58b449ed5d6",
+  "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-gave-bitcoin-miner-194144085.html",
+  "title": "Anthropic刚刚与这位比特币矿工签订了一份合同，其金额甚至超过了该公司总资产",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T06:13:58.373Z",
+  "fetched_at": "2026-08-20T07:04:16.286862+00:00"
+ },
+ "3900620d12fc": {
+  "id": "3900620d12fc",
+  "url": "https://www.ithome.com/0/992/076.htm",
+  "title": "Opus 4.8 级性能：Ornith-1.5 系列开源 AI 模型发布，量化版可在 iPhone 17 等手机上运行",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T05:36:04Z",
+  "fetched_at": "2026-08-20T07:04:25.907628+00:00"
  }
 }

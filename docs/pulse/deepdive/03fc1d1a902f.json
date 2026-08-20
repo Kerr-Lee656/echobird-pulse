@@ -1,0 +1,22 @@
+{
+ "id": "03fc1d1a902f",
+ "url": "https://www.aibase.com/news/30497",
+ "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T06:25:42.613Z",
+ "fetched_at": "2026-08-20T07:04:01.852814+00:00",
+ "content": "Global payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. Insider sources revealed that the final amount of the transaction reached approximately $7.5 billion, far exceeding its valuation of $1.3 billion when it completed a $113 million Series B funding round in May, achieving an astonishing surge of more than five times.\nAs a hot underlying infrastructure in the current AI field, OpenRouter provides developers with an efficient unified entry point that dynamically routes requests to hundreds of different AI models based on users' actual needs, task complexity, price, and reliability. The platform has now integrated over 400 to 500 mainstream models, has over 10 million global users, and processes more than 10 trillion tokens daily. Its massive traffic and scheduling data have high scarcity in the industry.\nRegarding the operational planning after the merger, OpenRouter has confirmed that it will continue to operate independently under its original name and mission, maintaining its core product roadmap unchanged, and routing decisions will always prioritize user interests. The transaction is expected to be formally closed within the next few weeks.\nRegarding the strategic intent behind this major acquisition, industry analysts believe that Stripe aims to deeply integrate advanced model selection and routing mechanisms into its own payment metering stack. With the rapid explosion of the agent economy, companies in the future will not only need to manage conventional revenue streams but also precisely control massive token consumption flows. By combining the payment system with the reasoning routing layer, Stripe has successfully secured the core node of AI consumption and the operation of the intelligent economy.",
+ "report": {
+  "summary": "Stripe以75亿美元收购模型路由平台OpenRouter，布局AI代理经济。",
+  "background": "生成式AI应用爆发后，开发者希望用一个接口调用多家模型，OpenRouter凭借统一API和动态路由成为热门基建。Stripe是全球支付巨头，长期深耕开发者计费与订阅，近年来AI支出管理成为其重点方向。此次以75亿美元收购OpenRouter，较其5月B轮1.3亿美元估值溢价近5倍，显示市场对AI流量入口和推理调度数据价值的高度认可。",
+  "key_points": [
+   "交易金额约75亿美元，相比OpenRouter五月B轮1.3亿美元估值增长超过五倍，凸显模型路由层在当前AI生态中的稀缺价值。",
+   "OpenRouter已接入400至500款主流模型，拥有超1000万用户，每天处理超过10万亿token，掌握海量真实推理调度数据。",
+   "收购完成后OpenRouter将以原品牌和使命独立运营，核心产品路线不变，路由决策仍以用户利益为首要考虑。",
+   "Stripe意在把模型选择与支付计量深度整合，使企业能像管理收入一样精细管控token消耗，为智能体经济搭建金融基础设施。"
+  ],
+  "impact": "对AI行业：支付巨头入局模型路由，意味着AI基础设施走向“交易+计量”融合，API定价和token清算可能更快标准化，头部平台并购将加速。对开发者：短期可继续使用OpenRouter，未来计费与发票或更自动，但长期需警惕单点依赖，可考虑自建路由分散风险。对普通用户：影响较间接，AI应用的成本结构会更透明，智能体服务有望更稳定普及，最终体现为更划算的AI订阅和按量付费。",
+  "tools": "可关注OpenRouter官方API与仪表盘，观察路由参数和定价变化；Stripe的Meter Billing/Usage Based Billing适合做AI计费场景；开源网关LiteLLM可用于自建多模型路由，LangChain也内置了OpenRouter集成方便快速上手。"
+ }
+}
