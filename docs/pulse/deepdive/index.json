@@ -961,5 +961,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-20T05:36:04Z",
   "fetched_at": "2026-08-20T07:04:25.907628+00:00"
+ },
+ "a174fe26e705": {
+  "id": "a174fe26e705",
+  "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+  "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+  "source": "美团技术团队 (Meituan Tech)",
+  "site_name": "Info Flow",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:54:36.029071+00:00"
+ },
+ "7bf5a38407d8": {
+  "id": "7bf5a38407d8",
+  "url": "https://www.qbitai.com/2026/08/476120.html",
+  "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:54:56.986946+00:00"
+ },
+ "182eb606638c": {
+  "id": "182eb606638c",
+  "url": "https://www.aibase.com/zh/news/30503",
+  "title": "MiniMax Design 发布：用自然语言「指挥」视频创作，告别逐帧编辑",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:55:13.291491+00:00"
+ },
+ "a41def7a7b93": {
+  "id": "a41def7a7b93",
+  "url": "https://www.aibase.com/zh/news/30500",
+  "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:55:22.871812+00:00"
+ },
+ "79e9ba64a48b": {
+  "id": "79e9ba64a48b",
+  "url": "https://hub.baai.ac.cn/view/57254",
+  "title": "英伟达、OpenAI、软银拟将冷战核废墟改建为8吉瓦AI超级工厂",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:55:32.068025+00:00"
+ },
+ "7703806b60fe": {
+  "id": "7703806b60fe",
+  "url": "https://hub.baai.ac.cn/view/57265",
+  "title": "具身数据底座开卖，首发 5100 元：机器人训练数据有了新解法",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-20T08:55:39.779191+00:00"
+ },
+ "697c6f4d85ba": {
+  "id": "697c6f4d85ba",
+  "url": "https://www.aibase.com/news/30504",
+  "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-20T08:24:40.875Z",
+  "fetched_at": "2026-08-20T08:56:00.040590+00:00"
+ },
+ "9e6acc514b68": {
+  "id": "9e6acc514b68",
+  "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prepares-supervoting-power-founders-210608256.html",
+  "title": "据《The Information》报道，Anthropic在IPO前为创始人准备了超级投票权",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T08:05:58.386Z",
+  "fetched_at": "2026-08-20T08:56:19.210802+00:00"
  }
 }

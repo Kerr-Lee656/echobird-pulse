@@ -1,0 +1,23 @@
+{
+ "id": "9e6acc514b68",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prepares-supervoting-power-founders-210608256.html",
+ "title": "据《The Information》报道，Anthropic在IPO前为创始人准备了超级投票权",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-20T08:05:58.386Z",
+ "fetched_at": "2026-08-20T08:56:19.210802+00:00",
+ "content": "Aug 18 (Reuters) - Anthropic has been preparing to give CEO Dario Amodei and other co-founders a class of stock with extra voting power to help insulate them from external shareholder pressure, the Information reported on Tuesday, citing two people familiar with the matter.\nThe company is also planning to maintain its existing body of non-shareholder trustees with a special class of stock to elect a majority of members to the company's board of directors, according to the report.\nThe specifics of the voting arrangements could not be learned, and the plans could still change, the report said.\nAnthropic did not immediately respond to a Reuters request for comment.\nSuch a move would mark the first time Anthropic's leaders would have extra voting power. The Claude maker's co-founders hold relatively small ownership in the company, compared to founders of other tech firms.\nAmodei himself owns only about 2% of the company, the Information said, citing a person close to Anthropic.\nBut dual-class structures aimed at giving supervoting power to leaders are common among founder-led companies, and is designed to give founders greater control and insulate them from short-term shareholder pressure.\nSpaceX's dual-class structure, for instance, gives founder and CEO Elon Musk significant voting power. At Meta, CEO Mark Zuckerberg holds about 60% voting control by way of his ownership of super-voting shares.\nThe reported move at Anthropic comes as the company prepares for a potential initial public offering later this year, which is expected to be one of the biggest market debuts in history.\nAnthropic is structured as a public benefit corporation, which is legally required to balance commercial success with social and public benefit. The company also has a Long-Term Benefit Trust, an independent oversight body that exists to make sure the startup delivers on its public benefit mission.\n(Reporting by Anzar Mehraj in Bengaluru; Editing by Leroy Leo)",
+ "report": {
+  "summary": "Anthropic拟在IPO前赋予创始人超级投票权以掌控公司",
+  "background": "Anthropic是开发Claude模型的AI公司，以公益公司（PBC）形式运营，设有长期利益信托以保障社会使命。其创始人团队持股比例较低，CEO Dario Amodei仅持约2%，而公司正筹备今年可能的IPO，这将是巨大市场事件。为抵御上市后外部股东的压力、保持创始人对战略方向的主导，Anthropic计划引入双重股权结构，授予创始人超额投票权，并保留非股东受托人机制。此类做法在科技公司中常见，如SpaceX和Meta，但对Anthropic而言是首次，也反映了AI行业高热度下的治理权衡。",
+  "key_points": [
+   "Anthropic计划为CEO Dario Amodei等联合创始人设立超级投票权股票，确保IPO后控制权稳定。",
+   "目前创始人持股极少，Amodei仅约2%，此次将是Anthropic首次给予领导人超额投票权。",
+   "双重股权结构是创始人主导科技公司的惯例，如Meta扎克伯格拥有约60%投票权。",
+   "公司还计划保留长期利益信托，通过特殊股票类别选举董事会多数，平衡商业与公益使命。",
+   "具体投票安排尚未最终确定，但IPO预计将成为史上最大的市场亮相之一。"
+  ],
+  "impact": "对AI行业而言，Anthropic的治理设计可能成为AI公司上市的参考范本，凸显在资本扩张中维持使命导向的重要性。对开发者来说，公司控制权稳固意味着Claude API及未来技术路线可能更连贯，避免因股东压力而频繁转向。对普通用户，这有助于保障AI产品在安全和公益方向上的持续投入，但也需警惕创始人权力过度集中带来的决策风险。",
+  "tools": "若想跟进Anthropic动态，可关注其官方Anthropic Console和Claude API文档；使用LMEval（EleutherAI lm-evaluation-harness）评估模型安全与性能；也可关注其未来IPO申报文件中的治理披露。"
+ }
+}
