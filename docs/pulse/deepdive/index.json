@@ -1312,5 +1312,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T06:40:14Z",
   "fetched_at": "2026-08-20T13:14:06.518088+00:00"
+ },
+ "498beaf194ea": {
+  "id": "498beaf194ea",
+  "url": "https://www.huxiu.com/article/4884654.html?f=rss",
+  "title": "梁文锋的阳谋：开源框架，模型涨价",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T11:17:12Z",
+  "fetched_at": "2026-08-20T14:54:35.377063+00:00"
+ },
+ "ae11fa52d328": {
+  "id": "ae11fa52d328",
+  "url": "https://www.huxiu.com/article/4884645.html?f=rss",
+  "title": "阿里+腾讯，一个季度在AI上砸了1000亿",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T10:56:19Z",
+  "fetched_at": "2026-08-20T14:54:57.893239+00:00"
+ },
+ "0f5e67da8b41": {
+  "id": "0f5e67da8b41",
+  "url": "https://github.com/google/sam",
+  "title": "google/sam — SAM Sovereign Agent Mesh",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-20T14:55:53.005318+00:00"
+ },
+ "ad9a86a6f850": {
+  "id": "ad9a86a6f850",
+  "url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+  "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T14:05:13Z",
+  "fetched_at": "2026-08-20T14:57:16.562559+00:00"
+ },
+ "2c1fc7706ef8": {
+  "id": "2c1fc7706ef8",
+  "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+  "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T13:46:48Z",
+  "fetched_at": "2026-08-20T14:57:36.005979+00:00"
+ },
+ "bb7f10ed90dc": {
+  "id": "bb7f10ed90dc",
+  "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+  "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-08-20T13:00:35.000Z",
+  "fetched_at": "2026-08-20T14:57:43.584799+00:00"
+ },
+ "14a69b64250d": {
+  "id": "14a69b64250d",
+  "url": "http://taubench.com/leaderboard/",
+  "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+  "source": "Hacker News (12pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T10:24:06Z",
+  "fetched_at": "2026-08-20T14:57:53.091998+00:00"
  }
 }

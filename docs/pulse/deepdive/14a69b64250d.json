@@ -1,0 +1,23 @@
+{
+ "id": "14a69b64250d",
+ "url": "http://taubench.com/leaderboard/",
+ "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+ "source": "Hacker News (12pts, 2c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-20T10:24:06Z",
+ "fetched_at": "2026-08-20T14:57:53.091998+00:00",
+ "content": "NEWτ³-bench is here: τ-knowledge evaluates agents on knowledge-intensive tasks, and τ-voice benchmarks real-time voice agents.\nText agents resolving banking customer-service tasks over a ~700-document knowledge base. Published as τ-knowledge.\nτ³-Banking Banking pass@1 by release date\nPass@1 on τ³-Banking · banking · plotted at each model's public release date. 26 models.\nGooglexAIAnthropicOpenAI🧠Zhipu AIAlibaba CloudZZ.aiMMetaTThinking Machines Lab🚀Moonshot AIQwenFrontier (best so far)\nMarkers show each model's banking pass@1 plotted at its public release date. Hover any marker for details. The dashed line tracks the running best. Submissions without a published \nmodel_release.release_date fall back to the evaluation date.\nHave new results to share? Submit your model evaluation results by creating a pull request to add your JSON submission file. See our submission guidelines for the required format and process.",
+ "report": {
+  "summary": "Pine AI在τ³-Voice基准上以75.4%刷新SOTA，展现实时语音智能新高度。",
+  "background": "τ³-bench是新兴的智能体测试基准，包含τ-knowledge（知识密集型任务）和τ-voice（实时语音智能体）等维度。其中τ³-Banking任务要求文本智能体在约700份文档的知识库上解决银行客服问题，已发布26个模型的pass@1结果，涵盖Google、xAI、Anthropic、OpenAI等前沿实验室。Pine AI最新提交的模型在τ³-Voice上获得75.4%的SoTA成绩，表明其在实时语音交互场景中表现出色，也反映了业界对语音智能体评估的重视。",
+  "key_points": [
+   "Pine AI以75.4%在τ³-Voice排行榜登顶，是实时语音智能体领域的最新里程碑。",
+   "τ³-bench包含知识密集型任务（τ-knowledge）和实时语音（τ-voice），覆盖完整智能体能力评估。",
+   "τ³-Banking任务基于约700文档的银行客服知识库，测试智能体的文档检索与问题解决能力。",
+   "排行榜已收录26个模型，标注发布后时间线，可追踪各模型性能演进及竞争格局。",
+   "提交评测结果采用PR方式，验证了社区驱动、开放协作的基准更新机制。"
+  ],
+  "impact": "对AI行业而言，τ³-voice等新基准为语音智能体设定了更高标尺，推动模型从文本决策向实时交互跨越。对开发者来说，可依据公开排行榜和提交规范快速评估自身模型，并通过开源方式参与基准建设。对普通用户，这预示更自然、更高效的语音助手即将走向生活，未来银行客服、在线咨询等场景体验将显著提升。",
+  "tools": "可关注τ³-bench官方GitHub库及其提交指南，用于评测自有语音/文本智能体；同时可研究Pine AI的技术报告（若发布）及排行榜上领先模型，如Google、Anthropic、OpenAI的API接口进行复现对比。"
+ }
+}

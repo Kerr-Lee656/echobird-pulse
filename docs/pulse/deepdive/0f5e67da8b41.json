@@ -1,0 +1,23 @@
+{
+ "id": "0f5e67da8b41",
+ "url": "https://github.com/google/sam",
+ "title": "google/sam — SAM Sovereign Agent Mesh",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-20T14:55:53.005318+00:00",
+ "content": "SAM is a smart network built for autonomous AI agents:\n- Zero Config: Nodes discover each other and build the P2P network automatically.\n- Zero Trust: Every connection, node, and packet is strictly authenticated.\n- Agentic Network: Formed by lightweight nodes (sam-node ) that provide self-healing, P2P connectivity, allowing autonomous agents to plug in, communicate, and invoke tools dynamically.\n- Portability: Cryptographic identities are environment-agnostic, allowing seamless node mobility across cloud, local, and edge environments.\nGetting started is a one-liner (see the Quick Start Guide): install, add the skill, and your agent is on the mesh.\nAdvanced demo: an agent fans a batch of work across a warm pool of reviewer agents on the mesh\ndemo.mp4\nFull walkthrough: Warm Agent Pool use case.\n- sam-control-plane : The registry control plane for node identity registration, authorization policies, and router coordinating.\n- sam-router : The libp2p bootstrap nodes and relays providing data-plane connectivity and forwarding.\n- sam-node : The local node clients providing mesh transport integration and MCP sidecar routing.\nStart exploring the Sovereign Agent Mesh:\nGet a node running on the public testnet (bananas.sam-mesh.dev) in minutes:\n- 🚀 User Quick Start Guide: Connect and run a SAM node using binaries or Docker, and query the local MCP server.\n- 🤖 Agent Integration Guides: Connect Google Gemini, Claude, and other AI agents to your SAM node to dynamically discover and call tools across the mesh.\n- 📡 Testnet Validation Tutorial: Real-time verification, remote tool invocation, and HTTP stream proxies.\n- 🎛️ Production Kubernetes Deployment: Run your own hub (control plane, router, console) via plain manifests, or via the sam-mesh Helm chart for local/self-hosted setups.\nCompile from source, run local clusters, or execute tests:\n- 🛠️ Developer Guide: Prereqs, compilation, local control plane setup, and Kubernetes Kind deployment.\n- 🧪 Testing Guide: Go tests, E2E BATS, and containerized mesh execution.\nSee LICENSE.\nThis is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program.",
+ "report": {
+  "summary": "谷歌开源SAM，为AI代理提供零配置、零信任的P2P网格网络。",
+  "background": "随着大模型驱动的AI代理普及，多代理协作成为趋势，但代理间通信常依赖中心化服务，存在配置复杂、信任缺失、跨环境迁移难等问题。谷歌发布SAM（Sovereign Agent Mesh），旨在构建无需中心控制、节点自动组网、所有通信严格认证的代理网格。该项目基于libp2p并结合MCP协议，允许代理动态发现彼此并调用工具。作为谷歌在去中心化AI基础设施领域的一次尝试，虽非官方支持产品，但对开源社区意义重大。",
+  "key_points": [
+   "零配置自动组网：节点启动即自动发现并构建P2P网络，无需手动配置，适合动态变化的环境。",
+   "零信任安全模型：所有连接、节点、数据流都经过严格身份认证，有效防止恶意节点入侵和中间人攻击。",
+   "分体式架构：控制平面、路由器、节点客户端各司其职，既支持公共测试网也支持本地和云端部署。",
+   "兼容主流AI代理：提供与Gemini、Claude等集成指南，代理可动态发现并调用网格上的各种工具。",
+   "快速上手：一条命令安装，支持Docker和Kubernetes，并配有测试网验证和开发文档，降低学习成本。"
+  ],
+  "impact": "对AI行业而言，SAM推动代理间通信从中心化API向去中心化网格演进，降低多代理协作门槛，可能成为未来AI基础设施的重要方向。对开发者，它提供了现成的P2P网格和MCP集成，可快速搭建分布式代理应用，简化工具调用和节点管理。对普通用户，未来智能助手或设备可通过此类网络自主协作，摆脱单一厂商锁定，服务将更灵活、安全和可靠。",
+  "tools": "建议关注libp2p（底层网络库）、MCP（模型上下文协议）、Docker/Kubernetes（部署方案）和Helm（集群管理）。可尝试SAM公共测试网bananas.sam-mesh.dev，或本地运行sam-node并接入Claude/Gemini进行实验。"
+ }
+}
