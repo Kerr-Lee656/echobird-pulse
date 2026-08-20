@@ -1,0 +1,23 @@
+{
+ "id": "b93368bf3a25",
+ "url": "https://www.aibase.com/news/30508",
+ "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T10:18:47.667Z",
+ "fetched_at": "2026-08-20T10:46:06.526366+00:00",
+ "content": "Just seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enhanced multimodal support. With this update, the DeepSeek model adapter now supports configuring and enabling native image requests, sparking widespread speculation about the imminent release of DeepSeek's own visual model.\nWith the improvement of the underlying architecture, this update brings several practical improvements in user experience. Previously, commands such as /goal and /plan only supported text transmission, but now they fully support sending images along with text; at the same time, the scope of @ references has expanded from simple file extensions to historical conversations. This means developers can now attach screenshots, local files, and previous conversation content in a single query. To ensure the stability of complex workflows, the new version not only supports persistent image attachments for both MCP and ACP, so that attachments do not disappear after a single call ends, but also successfully fixed issues caused by excessively large image sizes and high payload accumulation of historical images in multi-turn conversations.\nIn addition to the upgrade of multimodal capabilities, the new version has also made significant moves in component distribution and architectural optimization. Claude Code and Codex are no longer distributed together with the main product, but have instead been transformed into Profile Bundles that can be installed on demand. Among them, Codex has introduced two new features: first, it supports non-interactive permission mode, allowing it to run smoothly in unattended processes; second, it supports multiple named instances, allowing multiple Codex sub-agents with different configurations and names to coexist simultaneously. At the same time, the \"report path\" of the sub-agent has also been optimized, and reportDelivery can now promptly feedback and wake up the parent task, eliminating the parent task's problem of blindly waiting for the sub-task to finish.\nIn terms of other feature optimizations, web_search now supports concurrent queries, the Windows PTY terminal has officially added support for persistent PowerShell sessions, and this feature is now enabled by default in the minimalist mode. The read and write performance, as well as the fork performance, of the SQLite backend have also been significantly improved, and the storage volume has been further reduced. In addition, the official has confirmed that \"DeepSeek Harness\" has been registered as a trademark, and related brand usage guidelines have been updated accordingly.",
+ "report": {
+  "summary": "DeepSeek Harness更新，多模态支持上线，或预示V4视觉版。",
+  "background": "DeepSeek Harness是开源智能体工具，发布仅七天就迎来重大更新。此次更新核心是增强多模态能力，使模型适配器支持原生图像请求，引发社区对DeepSeek自家视觉模型将发布的猜测。此前该工具仅支持文本指令，开发者无法在复杂工作流中直接使用图像。同时，工具在架构和组件分发上也有调整，如将Claude Code和Codex改为可选的Profile Bundles，并优化了子智能体报告机制。这些变化显示出DeepSeek在推动智能体工具实用化和生态扩展上的快速迭代。",
+  "key_points": [
+   "多模态支持全面升级：/goal、/plan等命令可同时发送图片和文字，@引用范围扩展到历史对话，开发者能一次附带截图、本地文件与先前内容。",
+   "附件持久化：MCP和ACP均支持图像附件在多次调用间保留，解决了以往单次调用后附件丢失、多轮对话图片累积过大等问题。",
+   "组件分发重构：Claude Code和Codex不再随主产品捆绑，改为按需安装的Profile Bundles，Codex新增非交互权限模式和多个命名实例支持。",
+   "子智能体协同优化：新增reportDelivery路径，子任务完成能及时唤醒父任务，避免父任务盲目等待，提升复杂工作流效率。",
+   "性能与品牌动作：web_search支持并发查询，SQLite读写和fork性能提升且存储减少；官方确认“DeepSeek Harness”已注册商标。"
+  ],
+  "impact": "对AI行业而言，这次更新强化了智能体工具的多模态能力，可能推动视觉语言模型在智能体场景的落地，也暗示DeepSeek视觉版模型将到来。对开发者，图像附件和持久化机制降低了构建多模态工作流的门槛，按需安装和子智能体报告改进让自动化更可靠。对普通用户，未来可通过该工具更自然地用截图或照片与AI交互，体验更直观。不过，性能优化和品牌注册也表明工具正走向成熟，使用时应关注其资源消耗和合规要求。",
+  "tools": "可关注DeepSeek Harness官方仓库及其GitHub Release页面。跟进MCP（模型上下文协议）和ACP（Agent Client Protocol）相关实现，以及Codex开源CLI。若研究视觉模型，可关注DeepSeek-VL系列或多模态基准测试工具，如MMMU、MathVista。"
+ }
+}

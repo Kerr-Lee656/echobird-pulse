@@ -1033,5 +1033,68 @@
   "site_name": "Buzzing",
   "published_at": "2026-08-20T08:05:58.386Z",
   "fetched_at": "2026-08-20T08:56:19.210802+00:00"
+ },
+ "230037953d75": {
+  "id": "230037953d75",
+  "url": "https://aiera.com.cn/2026/08/20/other/admin/109885/%e6%89%a9%e6%95%a3%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e9%a9%b1%e5%8a%a8%e7%9a%84%e5%ae%9e%e6%97%b6%e4%ba%a4%e4%ba%92%e8%a7%86%e9%a2%91%e6%a8%a1%e5%9e%8b%ef%bc%9asigmaz-%e5%ae%8c%e6%88%90%e6%95%b0",
+  "title": "扩散语言模型驱动的实时交互视频模型：SigmaZ 完成数百万美元融资",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-20T10:18:47.667Z",
+  "fetched_at": "2026-08-20T10:45:56.390196+00:00"
+ },
+ "b93368bf3a25": {
+  "id": "b93368bf3a25",
+  "url": "https://www.aibase.com/news/30508",
+  "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-20T10:18:47.667Z",
+  "fetched_at": "2026-08-20T10:46:06.526366+00:00"
+ },
+ "066c5b602898": {
+  "id": "066c5b602898",
+  "url": "https://www.aibase.com/news/30506",
+  "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-20T10:18:47.667Z",
+  "fetched_at": "2026-08-20T10:46:19.499315+00:00"
+ },
+ "5bed98d5dce1": {
+  "id": "5bed98d5dce1",
+  "url": "https://www.ithome.com/0/992/247.htm",
+  "title": "银河通用首款双足机器人 Galbot ET1“星仔”亮相，能跳街舞手撑地、倒立",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T09:56:17Z",
+  "fetched_at": "2026-08-20T10:46:39.032918+00:00"
+ },
+ "ff6234b41853": {
+  "id": "ff6234b41853",
+  "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+  "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+  "source": "Lobsters (技术社区)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T09:54:06Z",
+  "fetched_at": "2026-08-20T10:46:47.858894+00:00"
+ },
+ "6c3cc56e9c38": {
+  "id": "6c3cc56e9c38",
+  "url": "https://www.ithome.com/0/992/239.htm",
+  "title": "阿里发布 Qwen-UI-Agent，主打让模型真正“会用”每一块屏幕",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T09:45:51Z",
+  "fetched_at": "2026-08-20T10:47:03.277997+00:00"
+ },
+ "ad7da25f2c65": {
+  "id": "ad7da25f2c65",
+  "url": "https://www.huxiu.com/article/4884478.html?f=rss",
+  "title": "最难用上的Oura戒指，揭开了AI硬件的真实战场",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T08:58:23Z",
+  "fetched_at": "2026-08-20T10:47:49.903629+00:00"
  }
 }

@@ -1,0 +1,22 @@
+{
+ "id": "066c5b602898",
+ "url": "https://www.aibase.com/news/30506",
+ "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-20T10:18:47.667Z",
+ "fetched_at": "2026-08-20T10:46:19.499315+00:00",
+ "content": "Recently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters tall, weighs 66 kilograms, and has 66 degrees of freedom, with half of them concentrated in the hands.\nThe Qichacha APP shows that Xiaomi Technology Co., Ltd. has applied for multiple \"Xiaomi Tie Da\" trademarks. The international classification involves medical horticulture, fitness equipment, design research, communication services, etc., and all the trademarks have been successfully registered.",
+ "report": {
+  "summary": "小米人形机器人\"铁大\"首次亮相并已完成商标布局。",
+  "background": "小米早在2022年就发布过CyberOne概念人形机器人，但当时的\"铁大\"更多是技术展示。此次在2026世界机器人大会上再次以\"铁大\"之名公开亮相，身高1.7米、重66公斤、拥有66个自由度，其中约一半集中在双手，意味着产品从概念验证走向精细化操作阶段。与此同时，小米已提前注册多个\"小米铁大\"商标，覆盖医疗园艺、健身器材、设计研究、通讯服务等门类，显示出对人形机器人未来商业化场景的广泛布局意图，也为后续新品发布扫清了知识产权障碍。",
+  "key_points": [
+   "小米\"铁大\"人形机器人首次公开亮相，身高1.7米、重66公斤，定位为通用型人形机器人平台。",
+   "机器人拥有66个自由度，其中一半集中在双手，具备精细抓取和操作能力，是技术亮点之一。",
+   "小米已成功注册多枚\"小米铁大\"商标，涵盖医疗园艺、健身器材、设计研究、通讯服务等国际分类。",
+   "提前进行全类别商标注册，表明小米对人形机器人在多行业落地的商业野心和知识产权保护意识。"
+  ],
+  "impact": "对AI行业：人形机器人赛场再添重量级玩家，小米等厂商入局将加速硬件+AI融合创新，带动产业链成熟。对开发者：66自由度的高灵活度设计带来运动控制、遥操作与强化学习等新课题，需要更先进的算法框架支撑。对普通用户：未来\"铁大\"有望在医疗辅助、健身指导、家庭服务等场景中逐步走进日常生活。",
+  "tools": "可关注ROS 2、MuJoCo、Isaac Sim等机器人开发与仿真工具，用于\"铁大\"类人形机器人的运动控制和算法训练；同时关注小米生态链的机器人开放平台及开源数据集动态。"
+ }
+}
