@@ -772,5 +772,77 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-19T22:39:02.719444+00:00"
+ },
+ "35d26a6e294b": {
+  "id": "35d26a6e294b",
+  "url": "https://aiera.com.cn/2026/08/20/other/admin/109883/%e7%aa%81%e5%8f%91%ef%bc%81openai%e7%b4%a7%e6%80%a5%e6%9a%82%e5%81%9cgpt-6%e8%ae%ad%e7%bb%83",
+  "title": "突发！OpenAI紧急暂停GPT-6训练",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-20T00:36:56.895Z",
+  "fetched_at": "2026-08-20T01:49:40.617997+00:00"
+ },
+ "1e829ad7a341": {
+  "id": "1e829ad7a341",
+  "url": "https://aiera.com.cn/2026/08/20/other/admin/109814/openai%e8%a6%81%e8%be%93%ef%bc%9fanthropic%e6%8c%89%e4%b8%8b%e4%b8%87%e4%ba%bfipo%e5%bf%ab%e8%bf%9b%e9%94%ae%ef%bc%8c%e8%be%be%e9%87%8c%e5%a5%a52%e6%8c%81%e8%82%a1%e5%a4%ba%e6%9d%83",
+  "title": "OpenAI要输？Anthropic按下万亿IPO快进键，达里奥2%持股夺权",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-20T00:36:56.895Z",
+  "fetched_at": "2026-08-20T01:49:52.174963+00:00"
+ },
+ "0c9de462f6dd": {
+  "id": "0c9de462f6dd",
+  "url": "https://aiera.com.cn/2026/08/20/other/admin/109798/claude%e5%bc%80%e5%a7%8b%e8%87%aa%e4%b8%bb%e8%ae%be%e8%ae%a1%e6%96%b0%e8%9b%8b%e7%99%bd%e8%b4%a8%ef%bc%8c%e6%95%88%e7%8e%87%e8%b6%85%e8%b6%8a%e4%ba%ba%e7%b1%bb%e4%b8%93%e5%ae%b6%e6%95%b0%e5%8d%81",
+  "title": "Claude开始自主设计新蛋白质，效率超越人类专家数十倍！",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-20T00:36:56.895Z",
+  "fetched_at": "2026-08-20T01:50:01.131992+00:00"
+ },
+ "6eb84d3a34bd": {
+  "id": "6eb84d3a34bd",
+  "url": "https://aiera.com.cn/2026/08/20/other/admin/109772/%e9%a9%ac%e6%96%af%e5%85%8b%e7%9b%b4%e5%91%bc%e5%ae%8c%e4%ba%86%ef%bc%9aanthropic-73%e9%a1%b5%e8%ae%ba%e6%96%87%e5%88%b7%e5%b1%8f%ef%bc%8c%e5%85%a8%e7%90%83%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%b8%ad",
+  "title": "马斯克直呼完了：Anthropic 73页论文刷屏，全球大模型中招思想病毒！",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-20T00:36:56.895Z",
+  "fetched_at": "2026-08-20T01:50:13.143962+00:00"
+ },
+ "530aeaa5ef07": {
+  "id": "530aeaa5ef07",
+  "url": "https://www.ithome.com/0/991/890.htm",
+  "title": "自动化采血机器人 Aletta 获 FDA 批准上市，采血成功率不输人工",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T00:27:25Z",
+  "fetched_at": "2026-08-20T01:50:23.461348+00:00"
+ },
+ "9a19b7357ccd": {
+  "id": "9a19b7357ccd",
+  "url": "https://www.ithome.com/0/991/886.htm",
+  "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T00:17:26Z",
+  "fetched_at": "2026-08-20T01:51:08.319397+00:00"
+ },
+ "fddeaf0b1f22": {
+  "id": "fddeaf0b1f22",
+  "url": "https://finance.yahoo.com/technology/ai/articles/amazon-thinks-ai-change-way-155418754.html",
+  "title": "亚马逊认为人工智能即将改变我们的购物方式。再见，搜索栏。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-19T23:18:14.103Z",
+  "fetched_at": "2026-08-20T01:51:22.002227+00:00"
+ },
+ "d24788108714": {
+  "id": "d24788108714",
+  "url": "https://www.ithome.com/0/991/871.htm",
+  "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-19T23:14:18Z",
+  "fetched_at": "2026-08-20T01:51:43.674245+00:00"
  }
 }
