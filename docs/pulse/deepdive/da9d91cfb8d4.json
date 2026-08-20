@@ -1,0 +1,23 @@
+{
+ "id": "da9d91cfb8d4",
+ "url": "https://github.com/truefoundry/trueforge",
+ "title": "TrueForge – The open-source agent harness",
+ "source": "Hacker News (3pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-20T18:36:07Z",
+ "fetched_at": "2026-08-20T19:01:02.445698+00:00",
+ "content": "The open-source agent harness - the runtime layer that turns an LLM into a working agent\nTrueForge runs the agent execution loop for you - model calls, MCP tools, skills, sandboxing, approvals, context management, and session state - and exposes it three ways: a chat UI, an HTTP API with a TypeScript SDK, and an embeddable UI SDK.\nBuilding an agent is easy. Running one well is not - you need streaming, session persistence, tool servers, sandboxing, approvals, and a UI. TrueForge gives you that out of the box:\n- Initial setup from catalogs - configure models, MCP servers, skills, and a sandbox once; agents pick from what you connected. Presets come from shipped YAML catalogs you can customize.\n- Any model provider - OpenAI, Anthropic, Google Gemini, and other catalog providers, or any OpenAI-compatible endpoint.\n- MCP tools - remote MCP servers with header auth or OAuth, including in-chat authorization.\n- Skills - git-backed SKILL.md instruction packs, loaded on demand in the sandbox.\n- Sandbox as a tool - isolated code/file execution (Daytona today; more providers planned), provisioned only when needed. Secrets stay in the harness.\n- Human checkpoints - tool approval, ask-user-questions, and Generative UI in chat.\n- Context engineering - subagents, deferred tool loading, Code Mode, large-result offloading, and compaction.\n- Chat UI + SDK - use the bundled UI, automate with @truefoundry/trueforge-sdk , or embed@truefoundry/trueforge-ui .\nIt scales down and up: local mode (one process, SQLite) or hosted mode (Postgres + Redis, Docker Compose or Helm).\nRun TrueForge (local, Docker Compose, or Kubernetes), connect a model and tools, and build your first reusable agent in the Quickstart.\nTo work on TrueForge from this repository, see CONTRIBUTING.md.\n  \nLocal mode is for your machine only. It is a convenient way to try TrueForge — not a production or internet-facing setup. There is no login by default, and data lives in a local SQLite file. Please keep it on localhost. We cannot take responsibility for data loss or unauthorized access if local mode is used beyond that. For a shared or production deployment, use hosted mode.\nWe compare TrueForge against Claude Managed Agents and deepagents on the same tasks, tools, and model - same accuracy, lower cost. Reproduce it from benchmark/. Write-up: Benchmarking.\nWe love contributions - bug reports, features, and docs fixes. See CONTRIBUTING.md and our Code of Conduct. Fork PRs should change source only; maintainers regenerate the SDK after merge.\nTo report a security vulnerability, follow SECURITY.md instead of opening a public issue.\n- Community Discord\n- Founder emails: abhishek@truefoundry.com / anuraag@truefoundry.com\nTrueForge is released under the MIT License.",
+ "report": {
+  "summary": "TrueForge 开源：把 LLM 变成可工作 agent 的运行时层。",
+  "background": "构建 agent 容易，但生产级运行困难，需要流式、会话持久化、工具服务器、沙箱、审批和 UI。TrueFoundry 推出 TrueForge 开源项目，作为 agent harness 运行层，旨在解决这些复杂问题，并与 Claude Managed Agents、deepagents 对比基准，声称相同精度更低成本。项目采用 MIT 许可，支持本地与托管部署。",
+  "key_points": [
+   "提供完整 agent 执行循环，包括模型调用、MCP 工具、技能、沙箱、审批、上下文管理与会话状态，开箱即用。",
+   "通过 YAML 目录一次性配置模型、MCP 服务器、技能与沙箱，支持 OpenAI、Anthropic、Gemini 及任意兼容端点。",
+   "内置人工检查点与上下文工程：工具审批、提问、生成式 UI，以及子代理、延迟加载、代码模式、结果卸载、压缩。",
+   "部署灵活：本地模式用 SQLite 适合试用，托管模式用 Postgres+Redis 适合生产，支持 Docker Compose 和 Kubernetes。",
+   "基准测试显示在同任务、工具和模型下，与 Claude Managed Agents 和 deepagents 相同精度，但成本更低。"
+  ],
+  "impact": "对 AI 行业而言，TrueForge 开源降低了 agent 生产化门槛，推动 agent 运行时标准化，可能改变企业构建 AI 应用的方式。对开发者，提供现成基础设施，避免重复造轮子，可专注业务逻辑，通过 SDK 和 UI 快速集成。对普通用户，聊天界面让非技术用户也能使用和审批 agent 操作，增强了可控性和信任。",
+  "tools": "建议关注 TrueForge 仓库并试用 Quickstart；配合 MCP 服务器生态（如官方远程 MCP）以及 Daytona 沙箱。对比参考 Claude Managed Agents 和 deepagents 的基准。可使用 TypeScript SDK @truefoundry/trueforge-sdk 或 UI SDK 集成。"
+ }
+}

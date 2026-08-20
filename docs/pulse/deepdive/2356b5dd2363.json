@@ -1,0 +1,23 @@
+{
+ "id": "2356b5dd2363",
+ "url": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html",
+ "title": "消息人士称，受需求激增影响，三星将芯片价格上调最高达15%",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-20T18:14:19.115Z",
+ "fetched_at": "2026-08-20T18:57:36.579933+00:00",
+ "content": "Aug 19 (Reuters) - Samsung Electronics has raised prices for some advanced contract chipmaking services by up to 15% for new orders, two people familiar with the matter said, as demand for AI chips tightens capacity in a business long dominated by TSMC.\nDemand from Chinese customers has been particularly strong, but Samsung has been unable to meet all orders because it must serve U.S. customers and reserve part of its capacity to support its own chip production, said the sources, who spoke on the condition of anonymity because they are discussing sensitive commercial matters.\nChinese customers are among those accepting the steepest price increase, one of the sources said, underscoring how U.S. curbs on exports of advanced chipmaking equipment to China have increased local firms' reliance on overseas foundries.\nThe price hikes mark a turnaround for Samsung's foundry business, which has been a loss maker since 2022, according to industry estimates. The division has struggled to narrow the gap with Taiwan Semiconductor Manufacturing Co, even as Samsung reported record profits, driven by soaring prices for memory chips used in AI systems.\nSamsung raised prices in July for chips made using its 4-nanometre process, known as SF4, the sources said.\nPrices for SF4 customers in China and the U.S. were increased 10% to 15% from the previous month, while customers in Taiwan, home to TSMC, saw increases of 5% to 10%, according to one of the sources.\nPrices for wafers produced by its 5-nanometre SF5 process rose by 10% to 15%, while those for its older 8-nanometre technology rose by nearly 10%, according to the source.\nSamsung declined to comment as the company does not provide details on operational matters.\nCUSTOMER LEVERAGE\nSamsung produced 7% of global foundry revenue in the first quarter of 2026, compared with more than 70% for TSMC, according to research firm Counterpoint.\nHowever, demand for AI chips has booked up much of TSMC's leading-edge capacity. Samsung expects advanced processes to account for more than half of foundry revenue this year, while AI and high-performance-computing applications would make up more than 30%, up from 15% to 20% in late 2025.\nWith TSMC's production taken up, Samsung has more leverage to raise prices.\n\"As TSMC faces tight capacity and raises prices, customers are shifting to rivals such as Samsung and Intel, prompting Samsung to raise its prices as well,\" said Lee Min-hee, a Seoul-based analyst at BNK Investment & Securities.\n\"If Samsung raises prices from here, its foundry business could potentially become profitable as early as next year, earlier than previously expected,\" Lee said.",
+ "report": {
+  "summary": "三星因AI芯片需求激增，代工价格上调最高15%。",
+  "background": "三星电子代工业务长期落后于台积电，自2022年以来持续亏损。但随着全球AI芯片需求爆发，台积电先进产能被抢购一空，客户开始转向三星等竞争对手。同时，美国对华出口管制导致中国客户更依赖海外代工厂，需求尤为强劲。三星在7月已对4纳米、5纳米等工艺提价，本次再次上调最高15%，标志着其代工业务迎来转折点。",
+  "key_points": [
+   "三星对部分先进代工服务的新订单涨价10%-15%，其中中国客户承受最大涨幅。",
+   "涨价涉及4纳米、5纳米及8纳米工艺，7月已开始执行，反映产能紧张。",
+   "台积电产能满载，客户外溢至三星，三星获得提价主动权。",
+   "AI和高性能计算客户占三星代工收入比例将从15%-20%升至30%以上。",
+   "若涨价持续，三星代工业务可能在2027年扭亏为盈，早于预期。"
+  ],
+  "impact": "对AI行业而言，芯片代工涨价将推高AI芯片成本，可能传导至下游服务器和终端产品。对开发者来说，算力成本可能间接上升，但供应链多元化有助于缓解台积电独占带来的风险。对普通用户，AI产品价格或小幅上涨，但长期竞争有利于技术进步。",
+  "tools": "关注三星代工动态可查看Counterpoint和TrendForce的季度报告；开源硬件社区如OpenChip、SiFive的RISC-V生态可作为替代方案；半导体数据平台Semiconductor Digest和DIGITIMES提供行业跟踪。"
+ }
+}

@@ -1483,5 +1483,104 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T14:03:42Z",
   "fetched_at": "2026-08-20T16:55:59.869511+00:00"
+ },
+ "2356b5dd2363": {
+  "id": "2356b5dd2363",
+  "url": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html",
+  "title": "消息人士称，受需求激增影响，三星将芯片价格上调最高达15%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T18:14:19.115Z",
+  "fetched_at": "2026-08-20T18:57:36.579933+00:00"
+ },
+ "aad68b26bb09": {
+  "id": "aad68b26bb09",
+  "url": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
+  "title": "Unitree在上海首秀大放异彩，这标志着中国类人机器人行业迈出了重要一步",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T18:14:19.064Z",
+  "fetched_at": "2026-08-20T18:58:19.143028+00:00"
+ },
+ "ca733e695228": {
+  "id": "ca733e695228",
+  "url": "https://www.ithome.com/0/992/397.htm",
+  "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T14:40:57Z",
+  "fetched_at": "2026-08-20T18:58:30.553899+00:00"
+ },
+ "11d5552b281c": {
+  "id": "11d5552b281c",
+  "url": "https://www.ithome.com/0/992/380.htm",
+  "title": "阿里 CEO 吴泳铭：平头哥二代芯片预计今年下半年流片、产出",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-20T14:05:56Z",
+  "fetched_at": "2026-08-20T18:59:21.603047+00:00"
+ },
+ "da9d91cfb8d4": {
+  "id": "da9d91cfb8d4",
+  "url": "https://github.com/truefoundry/trueforge",
+  "title": "TrueForge – The open-source agent harness",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T18:36:07Z",
+  "fetched_at": "2026-08-20T19:01:02.445698+00:00"
+ },
+ "1eb2b91febcd": {
+  "id": "1eb2b91febcd",
+  "url": "https://research.triunalabs.com/articles/ai-native-ssd/",
+  "title": "Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native SSDs",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T17:54:19Z",
+  "fetched_at": "2026-08-20T19:01:18.197637+00:00"
+ },
+ "632d085c0041": {
+  "id": "632d085c0041",
+  "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+  "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-20T17:18:58.000Z",
+  "fetched_at": "2026-08-20T19:01:34.415084+00:00"
+ },
+ "4e828553c0b7": {
+  "id": "4e828553c0b7",
+  "url": "https://quesma.com/blog/baba-is-aug-2026/",
+  "title": "Gemini 3.7 Flash, Grok 4.6, GLM-5.3 and DeepSeek V4 Pro joined the frontier",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T16:57:19Z",
+  "fetched_at": "2026-08-20T19:01:43.920405+00:00"
+ },
+ "5ea078cdb703": {
+  "id": "5ea078cdb703",
+  "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+  "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+  "source": "Hugging Face：Blog（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-20T16:52:57.000Z",
+  "fetched_at": "2026-08-20T19:02:36.676057+00:00"
+ },
+ "3ecf06cbf21c": {
+  "id": "3ecf06cbf21c",
+  "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+  "title": "Japan to require AI firms to disclose training data",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T16:50:46Z",
+  "fetched_at": "2026-08-20T19:02:49.108153+00:00"
+ },
+ "6b541e2c30cf": {
+  "id": "6b541e2c30cf",
+  "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+  "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T14:55:18Z",
+  "fetched_at": "2026-08-20T19:02:59.612253+00:00"
  }
 }

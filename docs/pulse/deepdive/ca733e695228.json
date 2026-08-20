@@ -1,0 +1,23 @@
+{
+ "id": "ca733e695228",
+ "url": "https://www.ithome.com/0/992/397.htm",
+ "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-20T14:40:57Z",
+ "fetched_at": "2026-08-20T18:58:30.553899+00:00",
+ "content": "IT之家 8 月 20 日消息，据彭博社今日报道，Meta 正通过微软 Azure 云服务采购 AI 服务，年支出高达数亿美元，已成为微软规模最大的 AI 客户之一。知情人士称，Meta 每周通过 Azure 消耗的 AI 算力达到了数万亿词元（Token）。\n目前，微软 Azure 正通过 Foundry 平台提供来自多家供应商的 AI 模型，包括 OpenAI、Anthropic、DeepSeek、Mistral AI、xAI、Meta 等，模式总数达 11604 个。截至今年 7 月，该平台已有 10 万名客户。\n知情人士表示，目前微软规模最大的 AI 客户主要仍来自科技行业。除 Meta 和字节跳动外，微软 AI 业务的其他大型客户还包括 Adobe、Perplexity，以及由 OpenAI 董事长 Bret Taylor 联合创办的客户服务 AI 公司 Sierra。\n对于 Meta 来看，该公司采购的 AI 算力主要用于软件开发等工作。据知情人士透露，Meta 会根据模型的可用性和成本，通过不同平台采购模型。Meta 开发人员还曾通过 Foundry 使用 OpenAI 的技术，以评估自研模型的输出效果。\nMeta 首席技术官 Andrew Bosworth 在今年 7 月参加“Big Technology”播客节目时也曾介绍，Meta 在开发自身 AI 模型的同时，会租用其他领先 AI 模型用于开发工作。\n此外，Meta 自身也在开发面向外部客户的 AI 模型 API 服务，允许用户通过 API 使用不同模型。该业务未来可能与微软 Foundry 等平台形成竞争，并有助于 Meta 减少对外部 AI 服务的依赖。\n从微软整体 AI 业务来看，公司对少数科技企业客户的依赖程度同样较高。微软长期合作伙伴 OpenAI 在微软最近一个财年贡献了约 70% 的整体 AI 营收。除提供模型访问服务外，微软还提供 Copilot AI 助手以及面向 AI 工作负载的计算资源。\nMeta 与微软之间的合作并非始于当前 AI 热潮。微软此前曾为 Meta 提供 AI 开发所需的计算资源；在生成式 AI 热潮兴起之前，微软的 Bing 搜索也曾为 Facebook 的网页搜索提供支持。\n相关阅读：",
+ "report": {
+  "summary": "Meta 年耗数亿美元采购微软 Azure AI 服务，成其最大客户之一。",
+  "background": "Meta 与微软的合作由来已久，早前微软曾为 Meta 提供 AI 开发算力，Bing 也曾支持 Facebook 搜索。随着生成式 AI 热潮兴起，Meta 在自研模型的同时，也大量租用外部模型用于开发。微软 Azure Foundry 平台聚合多家供应商模型，Meta 因软件开发等需求成为其大客户。同时，微软 AI 营收仍高度依赖 OpenAI，占比约 70%，客户集中于科技企业。",
+  "key_points": [
+   "Meta 每年在微软 Azure 上采购 AI 服务支出数亿美元，每周消耗数万亿词元，成为微软最大 AI 客户之一。",
+   "微软 Azure Foundry 平台提供超 1.16 万个模型，覆盖 OpenAI、Anthropic、DeepSeek 等，已有 10 万客户。",
+   "Meta 将 Azure 算力用于软件开发，并会根据模型可用性和成本灵活选用不同平台，也会使用 OpenAI 技术评估自研模型。",
+   "Meta 正开发面向外部的模型 API 服务，未来可能与微软 Foundry 竞争，并降低对外部 AI 的依赖。",
+   "微软 AI 业务对少数科技客户依赖较高，OpenAI 贡献其最近财年约 70% 的 AI 营收。"
+  ],
+  "impact": "对 AI 行业而言，Meta 与微软的深度绑定说明大型科技公司既自研又外采的战略成为常态，但微软过度依赖 OpenAI 和少数客户也暴露风险。对开发者，Azure Foundry 的多模型选择降低了锁定风险，但需关注平台间竞争带来的价格变化。对普通用户，此合作主要影响后台算力，不会直接改变使用体验，但可能推动更多模型服务出现，长期或带来更丰富的 AI 应用。",
+  "tools": "可关注微软 Azure AI Foundry 平台用于多模型编排；Meta 的 Llama 系列开源模型及未来 API 服务；OpenAI API 用于模型评估对比；以及 Anthropic、DeepSeek 等第三方模型服务。开发者可通过这些工具尝试构建和测试不同模型组合。"
+ }
+}

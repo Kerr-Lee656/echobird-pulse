@@ -1,0 +1,22 @@
+{
+ "id": "3ecf06cbf21c",
+ "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+ "title": "Japan to require AI firms to disclose training data",
+ "source": "Hacker News (3pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-20T16:50:46Z",
+ "fetched_at": "2026-08-20T19:02:49.108153+00:00",
+ "content": "A government panel Tuesday broadly approved a plan to adopt what is known as a “principle code” for generative artificial intelligence businesses to protect intellectual property rights by urging firms to disclose their AI training data and methods for collecting such data to the public.\nA draft code was presented at an online meeting of an expert panel on intellectual property rights in the AI era.\nThe draft was drawn up amid growing concerns that texts and images may be used to train AI models without consent, potentially infringing on copyrights, as generative AI grows increasingly popular.\nIt is based on a law on AI-related technology enacted in May 2025 and seeks to balance rights protection with technological innovation.\nThe government will use a “comply or explain” approach, under which it will set out a nonbinding code for generative AI businesses, including system developers and service providers, allowing them to choose either to comply with the code or publicly explain why they will not comply.\nFirms that decide to comply with the code will announce their compliance on their websites and notify the government.\nForeign businesses providing AI services in Japan will also be covered by the approach.\nThe draft code comprises three principles. The first principle requires businesses to disclose the generative AI models they use, their training data and methods for collecting such data on their websites and make the information publicly accessible. Meanwhile, disclosure of sensitive information will not be mandatory.\nThe second principle calls for businesses to disclose whether certain webpages are included in training data when requested by copyright holders and other rights holders who allege infringement.\nThe third principle states that businesses will respond to requests for information from system and service users concerned about copyright infringement.",
+ "report": {
+  "summary": "日本拟要求AI企业公开训练数据，以平衡版权保护与技术创新。",
+  "background": "随着生成式AI普及，大量文本和图像未经授权被用于模型训练，引发版权争议。日本政府依据2025年5月颁布的AI相关技术法律，由知识产权专家小组起草并批准了这项原则守则，旨在构建兼顾权利保护与技术创新的制度框架。该守则采取非约束性的“遵守或解释”机制，为AI企业提供灵活选择，同时覆盖在日运营的外国企业，体现了日本在AI治理领域的前瞻性布局。",
+  "key_points": [
+   "日本政府小组批准AI版权原则守则，要求企业公开训练数据及收集方法，敏感信息可豁免。",
+   "采用“遵守或解释”非强制性机制，企业可合规或公开说明不合规理由，灵活性与透明度并重。",
+   "守则适用于在日提供AI服务的外国企业，具有全球示范效应。",
+   "三原则设计：公开模型与数据、回应版权方查询、响应用户信息请求，形成多层次保护体系。"
+  ],
+  "impact": "对AI行业，训练数据透明度成为重要合规议题，企业需平衡商业机密与披露义务，可能引发全球效仿。开发者需建立数据溯源与记录机制，开源社区可借此推广更透明的大模型训练实践。普通用户版权保护意识增强，能更好维护自身权益，但非强制性质或使执行效果打折扣。总体而言，这是AI治理从原则转向实操的关键一步。",
+  "tools": "可关注数据溯源与合规工具：Credo AI提供AI治理平台，Fairly Trained推出训练数据认证体系，Hugging Face Datasets天然支持数据卡片的透明化展示，适合开发者参照实践。"
+ }
+}
