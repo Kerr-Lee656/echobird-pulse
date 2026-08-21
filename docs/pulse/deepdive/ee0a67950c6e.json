@@ -1,0 +1,23 @@
+{
+ "id": "ee0a67950c6e",
+ "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada",
+ "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T01:56:33.872129+00:00",
+ "content": "Nevada, get ready for the robotaxis.\nThe Nevada Transportation Authority unanimously approved three permits Thursday that will allow Tesla, Uber, and Waymo to operate commercial robotaxi services in Clark County, home to Las Vegas. Together, these permits would deploy up to 8,000 robotaxis across the county over the next 12 months.\nTesla’s permit allows it to deploy up to 5,000 robotaxis, while Waymo is allowed operate up to 1,000 autonomous vehicles over the next year. Uber was also approved for 1,000 robotaxis, which it will operate through partnerships with Hyundai subsidiary Motional and Zoox. Zoox already holds an autonomous vehicle network company permit that allows it to operate 100 robotaxis.\nWhether these companies will be able to launch that many robotaxis is an unanswered question. Testimony from Tesla representatives and the other companies suggests the answer is no.\n“The 5,000 has always been a ceiling for us,” said Eric Early, Tesla’s Cybercab chief engineer, during the meeting. “I don’t think we’ll be in a position by this time next year to deploy 5,000 vehicles, and it’s not [because of] the technology. … I think we would be extremely happy and satisfied if we could get ourselves up to 2,500, maybe a bit higher than that in the next year.”\nEven if these three companies roll out only half of those totals, Clark County — and Las Vegas specifically — is shaping up to be a major robotaxi battleground, with Tesla, Uber (via its autonomous vehicle partners Motional and Zoox), and Waymo all competing for the same riders.\nThat kind of fast, large-scale robotaxi deployment is poised to change the city — and specifically its workforce. Depending on who you ask, these companies will either deliver a whole new category of jobs designed to maintain, charge, and clean these vehicles or will wipe out an entire category of workers: human taxi and gig drivers.\nRepresentatives from the Livery Operators Association and local taxi companies opposed the permits, arguing the approvals move too far, too fast.\n“These applications raise two grave concerns,” said Kimberly Maxson-Rushton, a lawyer representing the Livery Operators Association, at the hearing. “One deals with the oversaturation of the commercial transportation industry as a whole in Nevada,” she said. “And the second one deals with the overcrowding of the roadways, and specifically the Golden Triangle.”\nThe Golden Triangle, an area between the airport and Las Vegas Boulevard and the surrounding area, is where most of the AV testing has occurred to date. Motional is also testing in the downtown area and in a shopping district known as Town Square.\nUber has tried to position itself as the Goldilocks option in this fight, advocating for a hybrid approach in which ride-hailing networks are made up of humans and robotaxis. The company has even lobbied for a system that would require robotaxis to operate on a ride-hailing network that also uses human drivers, a stance that puts it at odds with Waymo and doubles as a hedge against its own autonomous ambitions falling short of Tesla’s or Waymo’s.\nUber made a similar pitch during the NTA meeting, noting that a hybrid approach would allow cities to gradually integrate vehicles to meet peak demand rather than flooding the market all at once.",
+ "report": {
+  "summary": "内华达州批准特斯拉、Uber、Waymo在拉斯维加斯运营最多8000辆Robotaxi。",
+  "background": "自动驾驶出租车（Robotaxi）行业正加速商业化，Waymo已在美国多城市运营，特斯拉Cybercab蓄势待发，Uber则通过合作方式切入。内华达州交通管理局批准三家公司许可，计划在克拉克县（包括拉斯维加斯）一年内部署最多8000辆。但特斯拉代表承认实际投放可能只有上限的一半。这一决定引发本地出租车行业强烈反对，担忧市场饱和与交通拥堵，拉斯维加斯正成为Robotaxi竞争的核心试验场。",
+  "key_points": [
+   "内华达州交通管理局批准特斯拉（最多5000辆）、Waymo（1000辆）和Uber（与Motional、Zoox合作运营1000辆）的商业Robotaxi许可，总计上限8000辆。",
+   "特斯拉承认一年内实际部署可能只有2500辆左右，说明获准数量不等于落地规模，技术不是瓶颈，运营和扩张能力更加现实。",
+   "Uber力推“人机混合”模式，主张Robotaxi与人类司机共用平台，逐步接入以应对高峰需求，与Waymo的纯无人化路线形成分歧。",
+   "本地出租车协会和运营商反对许可，指出可能造成商业交通行业过度饱和，以及机场到拉斯维加斯大道“金三角”区域的拥堵问题。",
+   "拉斯维加斯有望成为Robotaxi大战中心，三家公司同场竞争，并可能重塑当地就业，既创造维护、充电等新岗位，也冲击传统司机工作。"
+  ],
+  "impact": "对AI行业而言，这是L4自动驾驶从测试走向大规模商业运营的里程碑，将吸引更多资本和合作机会，加速技术迭代。对开发者来说，车队管理、远程监控、调度算法、安全仿真等方向将涌现新需求和开放平台，尤其Uber的混合模式可能产生新的接口和工具。对普通用户，拉斯维加斯居民和游客将获得更便宜、全天候的出行选择，但同时也面临司机失业、道路拥挤等社会问题，需在创新与监管间寻求平衡。",
+  "tools": "开发者可关注开源自动驾驶平台（如Apollo、Autoware）、仿真工具CARLA以及ROS 2；对车队管理感兴趣可学习Apache Kafka等实时数据工具。若想体验服务，可在Waymo One或Uber应用中查看拉斯维加斯区域的Robotaxi覆盖情况。"
+ }
+}

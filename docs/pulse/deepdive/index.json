@@ -1708,5 +1708,158 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T21:49:53Z",
   "fetched_at": "2026-08-20T22:45:58.832478+00:00"
+ },
+ "ee0a67950c6e": {
+  "id": "ee0a67950c6e",
+  "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada",
+  "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:56:33.872129+00:00"
+ },
+ "63a65f094624": {
+  "id": "63a65f094624",
+  "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year",
+  "title": "Apple Music will reportedly label any AI-made tracks later this year",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:56:43.961257+00:00"
+ },
+ "f471c230b784": {
+  "id": "f471c230b784",
+  "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
+  "title": "Pew says 10% of the web now shows signs of AI authorship",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:57:24.552062+00:00"
+ },
+ "ffab6902835b": {
+  "id": "ffab6902835b",
+  "url": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+  "title": "Anthropic is targeting an IPO the size of the largest ever",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:57:33.287394+00:00"
+ },
+ "1c05890986a1": {
+  "id": "1c05890986a1",
+  "url": "https://daringfireball.net/linked/2026/08/18/thieves-targeting-server-chips-highway-hijackings",
+  "title": "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
+  "source": "Daring Fireball",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:57:51.164418+00:00"
+ },
+ "93f16616a81c": {
+  "id": "93f16616a81c",
+  "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit",
+  "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:58:03.780402+00:00"
+ },
+ "973c5fefc8b5": {
+  "id": "973c5fefc8b5",
+  "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+  "title": "OpenAI slows down training after its AI carried out hack",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:58:12.017933+00:00"
+ },
+ "0bcb39e853b2": {
+  "id": "0bcb39e853b2",
+  "url": "https://finance.jrj.com.cn/2026/08/21060058192046.shtml",
+  "title": "博通酝酿最高1000亿美元AI芯片融资，加码挑战英伟达主导地位",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T01:58:36.431396+00:00"
+ },
+ "7ee9f24639af": {
+  "id": "7ee9f24639af",
+  "url": "https://www.ithome.com/0/992/428.htm",
+  "title": "苹果收紧 Apple Music 服务，AI 生成音乐年底将强制标注",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T00:01:40Z",
+  "fetched_at": "2026-08-21T01:58:44.028333+00:00"
+ },
+ "72c7d6c99ce2": {
+  "id": "72c7d6c99ce2",
+  "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban",
+  "title": "中国最受欢迎的人形机器人的美国经销商在美国禁令后调整业务方向",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-20T23:50:01.250Z",
+  "fetched_at": "2026-08-21T01:58:52.624945+00:00"
+ },
+ "9c723dad81f0": {
+  "id": "9c723dad81f0",
+  "url": "https://shopify.engineering/gisting",
+  "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T01:42:09Z",
+  "fetched_at": "2026-08-21T01:59:43.980618+00:00"
+ },
+ "1d9dd7a5c7cb": {
+  "id": "1d9dd7a5c7cb",
+  "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+  "title": "Berkeley Law prohibits AI use in classes (by default)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T01:37:27Z",
+  "fetched_at": "2026-08-21T02:00:03.686319+00:00"
+ },
+ "ef3836001fed": {
+  "id": "ef3836001fed",
+  "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+  "title": "How Much of the Internet Is Written with AI?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T01:02:55Z",
+  "fetched_at": "2026-08-21T02:00:12.347441+00:00"
+ },
+ "99f79a191e73": {
+  "id": "99f79a191e73",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+  "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T01:01:23Z",
+  "fetched_at": "2026-08-21T02:00:19.946728+00:00"
+ },
+ "e9ba6db1fcd1": {
+  "id": "e9ba6db1fcd1",
+  "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+  "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-21T00:13:44.000Z",
+  "fetched_at": "2026-08-21T02:00:37.482176+00:00"
+ },
+ "f55b3b13cb76": {
+  "id": "f55b3b13cb76",
+  "url": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
+  "title": "AI's 'middle class' has gotten dramatically better at hacking",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T23:41:35Z",
+  "fetched_at": "2026-08-21T02:00:51.700420+00:00"
+ },
+ "3e383b9e5bfe": {
+  "id": "3e383b9e5bfe",
+  "url": "https://techstrong.ai/articles/openai-unveils-zero-data-retention-for-frontier-models-previews-privacy-preserving-safety-system/",
+  "title": "OpenAI Unveils Zero Data Retention for Frontier Models",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-20T22:41:59Z",
+  "fetched_at": "2026-08-21T02:00:59.895630+00:00"
  }
 }

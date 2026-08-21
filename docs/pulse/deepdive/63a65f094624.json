@@ -1,0 +1,22 @@
+{
+ "id": "63a65f094624",
+ "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year",
+ "title": "Apple Music will reportedly label any AI-made tracks later this year",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T01:56:43.961257+00:00",
+ "content": "Apple Music will reportedly label any AI-made tracks later this year\nThe upcoming feature expands its Transparency Tags for marking slop songs.\nVariety reports that Apple is working on a \"Made With AI\" tag to use in its Apple Music service. The publication says that this label will be required if \"a material portion of the content\" involved use of generative AI. There's no publicly known timeline for when the tags will begin appearing or if there's a more precise definition of what use cases will merit the label. We've reached out to Apple for confirmation of this upcoming feature and will update if we receive a response.\nEarlier this year, Apple added support for Transparency Tags, which allowed AI-generated tracks to be marked accordingly so listeners would know what they were hearing. However, the move seemed a bit half-hearted since that designation is only applied at labels' and distributors' discretion. It appears that this new policy will create a more formal requirement for AI labeling.\nGenerative AI has caused a lot of upheaval across creative fields, and music is no exception. Last month, several major labels called for prohibiting slop from being included in global music charts. This year has also seen interesting stats and tools to identify gen-AI music emerging from, of all places, the niche streaming service Deezer. Other streaming platforms have varied in how aggressively they are trying to de-influence or embrace AI.",
+ "report": {
+  "summary": "Apple Music将强制标注AI生成歌曲。",
+  "background": "生成式AI在音乐领域引发广泛争议，大量AI生成的“垃圾歌曲”涌入流媒体平台，甚至冲击音乐榜单。苹果今年早些时候已推出“透明度标签”功能，允许唱片公司和发行商自愿标记AI生成曲目，但实际使用并不积极。此次报道称苹果计划将其升级为强制要求，只要内容中实质性部分使用了生成式AI，就必须贴上“Made With AI”标签。与此同时，主要唱片公司呼吁将AI生成内容排除在排行榜之外，Deezer也推出了识别AI音乐的工具，行业正加速寻求规范化手段。",
+  "key_points": [
+   "苹果计划在Apple Music中新增“Made With AI”强制标签，适用于生成式AI使用量较大的曲目。",
+   "此前已有透明度标签但仅靠自愿标注，新政策将形成更正式的要求，提升执行力度。",
+   "唱片公司上月联合呼吁禁止AI垃圾歌曲进入全球音乐榜单，倒逼平台加强治理。",
+   "其他流媒体平台对AI音乐态度不一，有的积极识别，有的被动接受。"
+  ],
+  "impact": "对AI行业而言，强制标注将推动AI音乐创作走向透明化，避免劣质内容淹没原创作品；对开发者/音乐人来说，需更加明确标注AI参与创作的成分，合规成本增加；对普通用户而言，能够更清晰地辨别音乐来源，减少被“AI垃圾歌”误导的可能。整体上，该政策可能带动其他平台跟进，形成行业标准。",
+  "tools": "可关注Deezer的AI识别工具以及开源项目如Masquerade（检测AI人声）、Riffusion（AI音乐生成），通过对比了解AI音乐辨别与生成技术。"
+ }
+}

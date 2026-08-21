@@ -1,0 +1,23 @@
+{
+ "id": "93f16616a81c",
+ "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit",
+ "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+ "source": "Mac Rumors",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T01:58:03.780402+00:00",
+ "content": "Apple has urged a federal judge to reject OpenAI's recent motion to dismiss its trade secrets lawsuit, arguing in a new filing that the company's defense depends on \"distortion, speculation, and improper extrinsic evidence.\"\nApple sued OpenAI in July, accusing the company of running a scheme to pull confidential product information out of former Apple employees who became job candidates and new hires. Apple's suit claims more than 400 former Apple employees now work at OpenAI.\nEarlier this month, OpenAI's motion argued that Apple in its filing never properly identified what information actually counts as a protectable trade secret. The company said it has no interest in Apple's confidential material because it is \"building something entirely new and different from anything at Apple.\"\nBut in a 32-page opposition brief filed Wednesday, seen by MacRumors, Apple restates several of its main allegations against former engineer Chang Liu and OpenAI hardware chief Tan Yew Tan, and argues that OpenAI's defenses are fact disputes that should be resolved after discovery, rather than used for dismissal.\nApple says Liu exploited a \"rare authentication bug\" to access Apple's network storage weeks after joining OpenAI, and downloaded dozens of confidential engineering files, including a presentation on how to manufacture and test main logic boards.\nAs for Tan, Apple repeats its allegation that he used internal project codenames to question interview candidates about unreleased Apple products. The company also claims that Tan asked one Apple employee to bring components she had worked on to OpenAI for a \"show and tell\" session. The components are said to have included batteries, system-on-chips (SoCs), logic boards, and shields.\nApple also counters OpenAI's argument for dismissal that Apple has not identified a protectable trade secret that the company allegedly stole. Citing the Ninth Circuit's 2025 Quintara decision, Apple contends that this information does not need to be disclosed yet because it is a \"fact dispute\" that should be resolved later when evidence has been presented, either at summary judgement or trial.\nApple also points out that forcing it to describe its trade secrets in specific detail in a public filing would amount to publishing the very secrets it's trying to protect.\nThe rest of the brief argues OpenAI is relying on material the judge isn't allowed to consider at this stage. OpenAI included text messages, a website listing Apple's codenames, and a copy of its interview guide to support its motion. Apple argues that none of it belongs there because a dismiss is based on the complaint alone.\nApple also uses one of OpenAI's own lines against it. OpenAI's motion called its innocent explanation for Tan's conduct \"at least equally plausible\" as Apple's. Indeed, Apple argues that under Ninth Circuit precedent, the case moves forward rather than being thrown out where two plausible explanations compete.\nJudge Edward J. Davila is set to hear the company's arguments on October 1.",
+ "report": {
+  "summary": "苹果反击OpenAI驳回商业秘密诉讼请求，要求法官受理。",
+  "background": "苹果于2026年7月起诉OpenAI，指控其系统性挖角苹果前员工以获取机密产品信息，称超400名前员工现任职于OpenAI。OpenAI本月初提出驳回动议，称苹果未明确具体商业秘密内容，且自身产品与苹果完全不同。苹果8月20日提交32页反对意见，重申对前工程师刘畅和硬件主管Tan的指控，并援引第九巡回法院先例，认为商业秘密细节无需在起诉阶段完全公开，要求法官在证据发现后再行判断。案件预计于10月1日听证。",
+  "key_points": [
+   "苹果称OpenAI的抗辩依赖扭曲、猜测和不当外部证据，请求联邦法官驳回其撤案动议。",
+   "苹果指控前工程师刘畅利用罕见认证漏洞，从苹果网络存储下载数十份机密工程文件，包括主板制造测试演示文稿。",
+   "苹果指控OpenAI硬件主管Tan使用内部项目代号套取未发布产品信息，并诱使苹果员工携带电池、SoC、主板等部件参与‘展示’活动。",
+   "苹果援引第九巡回法院2025年Quintara判决，主张商业秘密具体细节不需在起诉状中披露，因属于事实争议，应在发现程序或审判阶段解决。",
+   "苹果称OpenAI的部分证据（如短信、网站代码名列表）不在法官审查范围内，撤案仅能基于起诉状，且两种合理解释并存时应继续审理。"
+  ],
+  "impact": "此案反映AI行业人才争夺战升级，商业秘密纠纷将成为竞争常态。对开发者而言，跳槽后须严守前雇主保密义务，避免使用内部代号或实物展示行为；对普通用户，案件进展显示商业机密与个人数据保护同样受到法律重视，可能影响未来科技公司披露产品信息的透明度。若苹果胜诉，将强化科技公司对离职员工的约束力，改变AI领域挖角文化。",
+  "tools": "可关注美国法院电子档案系统PACER（pacer.uscourts.gov）获取案件原始文件，或用CourtListener（courtlistener.com）追踪后续动议与判决。技术新闻可关注MacRumors（macrumors.com）了解苹果动态。"
+ }
+}

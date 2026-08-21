@@ -1,0 +1,23 @@
+{
+ "id": "f471c230b784",
+ "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
+ "title": "Pew says 10% of the web now shows signs of AI authorship",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T01:57:24.552062+00:00",
+ "content": "Pew found strong signs of AI authorship in around 10% of a random sample of webpages in July 2026, rising to more than a third among pages published since ChatGPT’s release. Commercial domains carry most of it, at about 10% of .com against roughly 1% of .edu and .gov.\nAbout a tenth of the web now shows strong signs of having been written by a machine. Pew examined a random sample of 10,000 pages in July 2026 and found roughly 10% carrying AI authorship signals.\nThe headline figure everyone is quoting is the other one. Among pages published since ChatGPT arrived in November 2022, more than a third show those signals, which is a different claim about a much smaller slice of the internet.\nThe distinction matters because the web is old. Most of what exists was published before the models did, so a page-level average across everything understates what is happening to new writing.\nThe method is worth stating plainly. Pew classified nearly 500,000 English-language pages from the Common Crawl archive between January 2021 and July 2026 using Open Pangram, the detector Substack adopted to catch machine-written newsletters.\nDetectors get individual documents wrong, and Pew says so. Its argument is statistical, that across hundreds of thousands of pages the patterns separate reliably even when any single verdict might not.\nThe domain breakdown is the real finding. Around 10% of .com pages showed AI authorship against 4.6% of .org and roughly 1% each of .edu and .gov.\nThat is a map of where writing is a cost rather than a purpose. Commercial pages exist to be found, and search-optimised text is the cheapest thing a language model can produce.\nPew also catalogued the tells, which will be uncomfortable reading for anyone with a house style. Em dash use has doubled since 2023, Oxford commas are up 63%, and the words “delve” and “pivotal” keep turning up alongside the construction “it’s not just X, it’s Y“.\nPlatforms are already building detection into the plumbing. LinkedIn says its own system identifies generic content with 94% accuracy, and arXiv now bans researchers who submit unchecked AI text.\nVolume is not the same as visibility, which is the sane part of this. Separate research from Graphite found AI articles approaching half of newly published ones, while human-written pieces still dominate Google results and AI citations.\nWhat has actually changed is the default assumption. A page published this year was probably touched by a model somewhere, and the industry’s response is to sell everyone tools to check.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "皮尤研究：约10%网页有AI写作痕迹，新页面超三分之一。",
+  "background": "自ChatGPT于2022年11月发布以来，AI生成内容迅速渗透互联网。皮尤研究中心利用Open Pangram检测器，对Common Crawl档案中近50万英文页面（2021年1月至2026年7月）进行分类，旨在量化AI写作的普及程度。此前行业对AI内容规模多有猜测，但缺乏大规模统计证据。该研究首次基于随机样本给出可靠比例，并揭示商业网站与学术、政府网站之间的显著差异，引发对内容生态、搜索排名和平台治理的广泛讨论。",
+  "key_points": [
+   "约10%的抽样网页显示强烈AI写作特征，但2022年11月后发布的新页面中，这一比例超过三分之一，显示AI内容在新增内容中占比极高。",
+   "商业域名（.com）AI痕迹约10%，而教育（.edu）和政府（.gov）域名仅约1%，表明AI写作主要由商业利益驱动，而非学术或公共领域。",
+   "检测方法具有统计意义：虽然单个页面判断可能出错，但数十万页面的模式可可靠区分；同时研究者也承认检测器的局限性。",
+   "AI写作的“语言指纹”明显：破折号使用翻倍、牛津逗号增加63%，高频词如“delve”“pivotal”及“it's not just X, it's Y”句式显著增多。",
+   "平台已开始内置检测机制：LinkedIn识别通用内容的准确率达94%，arXiv则禁止提交未经检查的AI文本，显示行业防御性反应正在形成。"
+  ],
+  "impact": "对AI行业而言，检测与反检测将成新赛道，但需警惕误伤与军备竞赛。对开发者，这意味着未来写代码或文档时需更明确地标注AI辅助，否则可能在学术或发布平台遭拒。对普通用户，网络信息信任度将进一步下降，尤其是商业页面，可能促使更依赖权威域名或独立验证工具。整体上，AI作者身份正从边缘现象变成默认预期，内容生态的真实性与透明度问题日益紧迫。",
+  "tools": "关注Open Pangram检测器（Substack采用）；Common Crawl数据集用于抽样研究；LinkedIn的AI内容识别系统；此外可关注OpenAI或第三方检测工具如GPTZero，以及arXiv的AI文本检查政策，以便跟踪技术演进和合规要求。"
+ }
+}

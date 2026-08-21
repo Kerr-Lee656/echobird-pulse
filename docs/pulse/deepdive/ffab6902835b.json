@@ -1,0 +1,23 @@
+{
+ "id": "ffab6902835b",
+ "url": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+ "title": "Anthropic is targeting an IPO the size of the largest ever",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T01:57:33.287394+00:00",
+ "content": "Anthropic expects its IPO to match or exceed SpaceX’s record $75bn raise, and could file publicly as soon as the end of this month. It made a net loss of almost $42bn in 2025, five times the year before.\nAnthropic expects its stock market debut to match or beat the largest one ever held. SpaceX raised $75bn in June, and people familiar with Anthropic’s preparations say it is working towards that scale or above it.\nA public filing could arrive within weeks. Investor briefings led by chief financial officer Krishna Rao have avoided the question of valuation, and the company could file as soon as the end of this month.\nThe comparison with SpaceX is not only about size. Anthropic buys computing capacity from SpaceX under an agreement that could be worth tens of billions over three years, so it would be matching the listing of one of its own suppliers.\nThe revenue growth behind the ambition is real. Preliminary second quarter revenue passed $11.5bn against $787mn in the same period last year, and the annualised run rate reached $65bn by the end of July.\nThe losses are the other half of the page. Anthropic recorded a net loss of almost $42bn in 2025, roughly five times the $8.3bn it lost in 2024, though adjusted operating income was positive in the second quarter.\nWhat investors are being asked to price is a forecast. TNW reported this week that a valuation approaching $2tn rests on internal projections of $190bn to $200bn of revenue in 2028.\nThe banks are in place. Morgan Stanley, Goldman Sachs and JPMorgan are working on the listing, and a revolving credit facility is set to close above its $10bn target.\nAnthropic is also winning the race it is in. Both it and OpenAI have filed confidentially, and OpenAI is now looking at 2027.\nThe private rounds already told this story. Anthropic raised $65bn in May at a $965bn valuation, having passed OpenAI, which raised $122bn in March at $852bn.\nA listing this size would reset the year. US IPOs have raised $160.6bn through 19 August against the record $195.2bn of 2021, in a year that already includes SK Hynix raising $26.5bn through American depositary receipts.\nWhat buyers would not get is a say. Anthropic is considering super-voting shares for Dario Amodei, who holds about 2% of the company, and his fellow founders.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic拟以最大规模IPO上市，目标比肩SpaceX的750亿美元。",
+  "background": "Anthropic是OpenAI的主要竞争对手，专注于AI安全与大模型研发。在巨额亏损与收入暴涨并存的背景下，公司计划最早于本月底公开递交IPO文件，目标融资规模达750亿美元或更高，与SpaceX创下的纪录持平。此举背后是2025年净亏损近420亿美元、但年化收入达650亿美元的强烈反差。Anthropic此前已从私募市场以9650亿美元估值融资650亿美元，并正在与OpenAI竞速上市，后者则计划推迟至2027年。",
+  "key_points": [
+   "IPO规模瞄准历史之最：Anthropic计划融资至少750亿美元，与SpaceX今年6月的纪录持平或超越，若成行将重塑全年美股IPO格局。",
+   "营收爆发式增长：2025年Q2营收达115亿美元，同比增长超14倍，年化运行率至7月底已达650亿美元，支撑其激进上市计划。",
+   "亏损同步扩大：2025年净亏损约420亿美元，是2024年83亿美元的5倍，但Q2调整后营业利润转正，需投资者权衡高估值的风险。",
+   "估值依赖未来预测：内部预计2028年营收达1900-2000亿美元，据此估值可能接近2万亿美元，但这一预测被指极具野心。",
+   "与供应商SpaceX深度绑定：Anthropic从SpaceX购买算力，三年合同价值数百亿美元，因此其IPO规模与供应商纪录形成微妙呼应。"
+  ],
+  "impact": "对AI行业而言，若Anthropic成功以最大规模IPO上市，将极大提振AI一级市场信心，并为大模型公司提供估值锚点，可能引发新一轮资本追逐。对于开发者，Anthropic的资金充裕意味着Claude模型和技术支持可能持续升级，但需警惕其高投入战略带来的定价波动。对普通用户，更强的算力和模型迭代可能带来更智能的AI助手，但短期内服务成本与商业化压力也可能传导为订阅价格上涨。",
+  "tools": "关注Anthropic官方发布的Claude API及模型更新文档；投资者可关注SEC的EDGAR系统查询S-1文件；行业数据可参考Crunchbase或PitchBook的融资估值追踪。"
+ }
+}

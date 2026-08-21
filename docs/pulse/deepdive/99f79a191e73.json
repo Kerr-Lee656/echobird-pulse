@@ -1,0 +1,23 @@
+{
+ "id": "99f79a191e73",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+ "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T01:01:23Z",
+ "fetched_at": "2026-08-21T02:00:19.946728+00:00",
+ "content": "ChatGPT’s desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nChatGPT’s Computer History tracks your clicks and keystrokes\nIt’s like Windows Recall, but without all the creepy screenshots. (But it’s still kind of creepy.)\nThe feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tabs.\nIn a quick demo video, Dominik Kundel, a member of the Developer Experiences team at OpenAI, shows the app looking up the last document he edited, checking if it was shared with people via Slack, and delivering a recap of how he spent his morning.\nThe feature is definitely reminiscent of Windows Recall, but where Microsoft’s controversial AI feature relied heavily on screenshots, OpenAI says Computer History doesn’t capture images, videos, or audio, instead relying on “events.”",
+ "report": {
+  "summary": "ChatGPT桌面应用新增计算机历史功能，记录点击和按键以训练AI。",
+  "background": "OpenAI在ChatGPT macOS桌面应用中推出Computer History功能，通过记录用户操作事件来构建时间线，让ChatGPT和Codex能理解用户工作流程并协助完成任务。该功能类似微软Windows Recall，但避免了截图带来的隐私争议，改为基于事件数据而非图像。此举是AI助手从被动问答向主动环境感知演进的重要一步，也延续了科技巨头对“AI记忆”功能的探索，但隐私影响仍需关注。",
+  "key_points": [
+   "Computer History会记录用户的点击、按键和应用使用情况，构建操作时间线，供ChatGPT和Codex调用。",
+   "该功能默认为可选加入（opt-in），用户可排除特定应用或网站，也能手动删除单条记录。",
+   "OpenAI强调它不采集图像、视频或音频，仅依赖“事件”数据，意图与Windows Recall的截图机制划清界限。",
+   "演示显示AI能自动查找最近编辑的文档、检查Slack分享状态并总结用户上午工作，体现更强的自动化能力。",
+   "隐私设计上，无痕或私密浏览器标签页中的内容会被自动忽略，提供一定保护。"
+  ],
+  "impact": "对AI行业而言，这是智能体（Agent）发展的关键一步——AI开始拥有“工作记忆”，但可能引发更激烈的隐私监管讨论。对开发者来说，可以基于这类能力构建更智能的自动化工作流，但也需警惕用户操作数据的伦理边界。对普通用户，功能可能带来便利，比如自动接续未完成任务，但“被记录”的感知可能让部分人不安，需要透明且易用的控制选项。",
+  "tools": "可关注OpenAI官方ChatGPT桌面应用更新，以及Codex CLI工具。开发者可浏览OpenAI文档了解Agent相关API；对隐私比较敏感的读者，可尝试microsoft/Windows Recall对比其设计差异，或使用Privacy Guides社区工具评估本地数据安全。"
+ }
+}
