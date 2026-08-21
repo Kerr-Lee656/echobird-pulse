@@ -1,0 +1,23 @@
+{
+ "id": "926168031359",
+ "url": "https://github.com/kagent-dev/kagent",
+ "title": "kagent-dev/kagent — Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-21T04:55:43.280063+00:00",
+ "content": "kagent is a Kubernetes native framework for building AI agents. Kubernetes is the most popular orchestration platform for running workloads, and kagent makes it easy to build, deploy and manage AI agents in Kubernetes. The kagent framework is designed to be easy to understand and use, and to provide a flexible and powerful way to build and manage AI agents.\n- Agents: Agents are the main building block of kagent. They are a system prompt, a set of tools and agents, and an LLM configuration represented with a Kubernetes custom resource called \"Agent\".\n- LLM Providers: Kagent supports multiple LLM providers, including OpenAI, Azure OpenAI, Anthropic, Google Vertex AI, Ollama and any other custom providers and models accessible via AI gateways. Providers are represented by the ModelConfig resource.\n- MCP Tools: Agents can connect to any MCP server that provides tools. Kagent comes with an MCP server with tools for Kubernetes, Istio, Helm, Argo, Prometheus, Grafana, Cilium, and others. All tools are Kubernetes custom resources (ToolServers) and can be used by multiple agents.\n- Observability: Kagent supports OpenTelemetry tracing, which allows you to monitor what's happening with your agents and tools.\n- Kubernetes Native: Agents and tools are managed as Kubernetes custom resources using familiar kubectl workflows.\n- Extensible: Kagent is designed to be extensible, so you can add your own agents and tools.\n- Flexible: Kagent is designed to be flexible, to suit any AI agent use case.\n- Observable: Kagent is designed to be observable, so you can monitor the agents and tools using all common monitoring frameworks.\n- Declarative: Kagent is designed to be declarative, so you can define the agents and tools in a YAML file.\n- Testable: Kagent is designed to be tested and debugged easily. This is especially important for AI agent applications.\nKagent has 4 core components:\n- Controller: The controller is a Kubernetes controller that watches the kagent custom resources and creates the necessary resources to run the agents.\n- UI: The UI is a web UI that allows you to manage the agents and tools.\n- Engine: The engine runs your agents using ADK.\n- CLI: The CLI is a command-line tool that allows you to manage the agents and tools.\nWe welcome contributions! Contributors are expected to respect the kagent Code of Conduct\nThere are many ways to get involved:\n- 🐛 Report bugs and issues\n- 💡 Suggest new features\n- 📖 Improve documentation\n- 🔧 Submit pull requests\n- ⭐ Star the repository\n- 💬 Help others in Discord\n- 💬 Join the kagent community meetings\n- 🤝 Share tips in the CNCF #kagent slack channel\n- 🔒 Report security concerns\nkagent is currently in active development. You can check out the full roadmap in the project Kanban board here.\nFor instructions on how to run everything locally, see the DEVELOPMENT.md file.\nThanks to all contributors who are helping to make kagent better.\nThis project is licensed under the Apache 2.0 License.\nkagent is a Cloud Native Computing Foundation project.",
+ "report": {
+  "summary": "kagent 是 Kubernetes 原生的 AI 代理框架，将代理和工具作为自定义资源声明式管理。",
+  "background": "Kubernetes 已成为云原生工作负载编排的事实标准，但 AI 代理的部署与管理仍缺乏原生方案。kagent 是 CNCF 项目，利用 Kubernetes 自定义资源（CRD）定义 Agent、ModelConfig、ToolServer 等资源，并提供控制器、UI、引擎和 CLI 四个核心组件。它支持 OpenAI、Anthropic、Vertex AI 等多家 LLM 提供商，内置 MCP 服务器连接 Kubernetes、Istio、Helm、Argo、Prometheus 等工具，同时集成 OpenTelemetry 追踪，使代理具备可观测性和可测试性，目前处于积极开发阶段。",
+  "key_points": [
+   "以 Kubernetes CRD 为核心：Agent、模型配置和 MCP 工具服务器都定义为自定义资源，可用 kubectl/YAML 声明式管理。",
+   "支持多 LLM 提供商：涵盖 OpenAI、Azure OpenAI、Anthropic、Vertex AI、Ollama 等，可通过 ModelConfig 灵活切换和自定义。",
+   "内置丰富 MCP 工具：提供接入 Kubernetes、Istio、Helm、Argo、Prometheus、Grafana、Cilium 等的 MCP 服务器，便于代理操作云原生环境。",
+   "可观测与可测试：基于 OpenTelemetry 实现追踪，兼容主流监控框架，并强调易调试性，适合生产环境。",
+   "四组件架构：控制器负责资源编排，UI 提供可视化界面，引擎基于 ADK 运行代理，CLI 支持命令行管理。"
+  ],
+  "impact": "对 AI 行业而言，kagent 将代理生命周期管理纳入 Kubernetes 标准，推动 AI 应用与云原生基础设施深度融合。对开发者来说，可以用熟悉的 kubectl 和 YAML 声明式定义、部署和调试代理，显著降低运维门槛。对普通用户，通过 Web UI 可以更直观地管理代理和工具，同时 OpenTelemetry 集成提供了透明监控能力，增强了 AI 代理在生产环境中的可靠性和可控性。",
+  "tools": "可关注 kagent 官方仓库（github.com/kagent-dev/kagent）和 Discord 社区；学习 Kubernetes CRD 与 kubectl 用法；了解 MCP（Model Context Protocol）生态；若需深入引擎，可看 Google 的 ADK（Agent Development Kit）；监控可结合 OpenTelemetry 标准进行二次开发。"
+ }
+}

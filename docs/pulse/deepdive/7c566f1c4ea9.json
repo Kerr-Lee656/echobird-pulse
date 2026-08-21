@@ -1,0 +1,23 @@
+{
+ "id": "7c566f1c4ea9",
+ "url": "https://www.aibase.com/news/30516",
+ "title": "苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-21T02:53:59.258Z",
+ "fetched_at": "2026-08-21T04:53:32.635532+00:00",
+ "content": "Apple plans to require Apple Music content providers to add AI transparency labels to AI-generated music that is substantially used in late 2026, meaning the previously voluntary disclosure mechanism will shift to mandatory enforcement. Apple introduced AI transparency labels in March 2026, and although the labels are not yet visible to end users, the company has stated its intention to provide as much information as possible to listeners.\nThis adjustment is part of Apple's efforts to govern the abuse of AI-generated music. Apple states it has developed internal tools to monitor music streaming, identify AI-generated songs, spam content, and identity theft, and can take down AI songs that manipulate play counts. In 2025, Apple also reallocated about 200 million manipulated streaming plays' royalties, channeling the relevant funds into the distribution pool for artists and record companies.\nApple executive Oliver Schusser previously revealed that more than a third of songs uploaded to Apple Music are 100% AI-generated, but their actual listening rates are less than 0.5%, indicating that AI music supply is growing rapidly, but real user consumption remains very limited.\nIn the industry, Deezer has been using an AI detection system for more than a year, intercepting about 60,000 AI-generated songs daily, and stating that a large amount of the content is related to fraud. Spotify, on the other hand, plans to launch the \"AI Persona\" badge in mid-September 2026 and allow artists to proactively disclose AI usage, with the platform also able to intervene and mark when conditions are met. As the scale of AI music grows, platforms are establishing stricter transparency mechanisms from dimensions such as content identification, identity verification, and traffic management.",
+ "report": {
+  "summary": "苹果音乐拟强制标注AI生成内容，平台联合治理AI垃圾音乐。",
+  "background": "近年来生成式音频技术让AI制曲成本骤降，大量低质量、批量生成的音乐涌入流媒体平台，挤压真实创作者空间。苹果音乐自2026年3月起推出AI透明度标签，但一直为自愿披露，计划于2026年底转为强制要求。数据显示，Apple Music超三分之一上传作品完全由AI生成，但实际收听率不足0.5%，供给严重过剩。Deezer、Spotify等平台也在加速建立识别、拦截与披露机制，行业治理重心正从“能生成”转向“能追踪、能管控”。",
+  "key_points": [
+   "苹果要求Apple Music内容供应商在2026年底前为大量使用AI生成的音乐加注透明度标签，标注从自愿转为强制，未来用户端可见。",
+   "苹果已开发内部工具监测流媒体，识别AI歌曲、垃圾内容和身份盗用，可下架操控播放量的AI歌曲，2025年还重新分配了约2亿次失真播放版税。",
+   "苹果高管透露，Apple Music超三分之一上传作品完全由AI生成，但实际收听率不足0.5%，说明AI音乐供给增长快而真实消费需求非常有限。",
+   "行业加速治理：Deezer每天拦截约6万首AI生成歌曲，多数涉及欺诈；Spotify拟于2026年9月推出“AI Persona”徽章，要求创作者主动披露AI使用情况。",
+   "平台正从内容识别、身份核验、流量治理等维度建立强制透明机制，打击刷量和版权欺诈，保护真实艺术家的版税分配。"
+  ],
+  "impact": "AI音乐平台正在从增量竞争转向治理竞争。对AI创业者来说，模型能力之外还需加入可追溯和防滥用设计，否则难以进入主流音乐渠道。对开发者，AI检测、内容水印和披露API成为新增长点。对普通用户，强制标签和平台处理能减少AI垃圾歌单、僵尸刷量带来的干扰，不过识别并非完美，体验会逐步改善。长期看，这有助于让真实收听和版税分配更透明，但也可能压缩部分AI音乐作品的传播空间。",
+  "tools": "可关注C2PA内容来源标准、Librosa开源音频分析库；开发者可研读Apple Music与Spotify for Artists的标签/披露API文档，以及Deezer的AI检测技术文章。想动手做原型，可用TensorFlow音频分类模型从频谱特征识别AI生成内容。"
+ }
+}

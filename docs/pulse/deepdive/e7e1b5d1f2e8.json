@@ -1,0 +1,23 @@
+{
+ "id": "e7e1b5d1f2e8",
+ "url": "https://www.aibase.com/news/30513",
+ "title": "移动端基准全面超越GPT与Claude！阿里发布Qwen-UI-Agent，开启GUI智能体新纪元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-21T02:53:59.258Z",
+ "fetched_at": "2026-08-21T04:54:07.957155+00:00",
+ "content": "Alibaba officially released the new GUI agent foundation model Qwen-UI-Agent on August 20. This model comprehensively covers mobile, desktop, web, and deep search (DeepSearch) environments, and has fully matched and surpassed several flagship models in the industry in multiple core graphical user interface benchmarks.\nIn specific benchmark performance, Qwen-UI-Agent demonstrates strong capabilities on mobile devices. It achieved a score of 82.1% on the MobileWorld benchmark, leading GPT-5.6Sol and Claude Opus4.8 by 12.0 and 14.6 percentage points respectively; on the real environment benchmark MobileWorld-Real, it achieved 92.2%, surpassing Gemini3.1Pro, Claude Opus4.8, and GPT-5.6Sol; on the AndroidDaily benchmark, it reached as high as 97.5%, approaching a perfect score. On desktop and browser platforms, it achieved 79.5% on OSWorld-Verified, surpassing GPT-5.5 and Gemini3.1Pro; on WebArena, it ranked first among all compared models with a score of 73.6%. In addition, it scored 81.5% on the GUI Grounding ScreenSpot-Pro test and set new SOTA records on the other four evaluation benchmarks.\nTo tackle the challenge of moving from simulation to reality, Qwen-UI-Agent built a real mobile environment covering more than 100 real smartphones and over 150 applications for task building, trajectory collection, model training, and evaluation. It also established its own MobileWorld-Real real-device benchmark, which includes over 400 tasks and more than 100 applications. In addition to conventional GUI click operations, the model supports direct command-line operations and batch outputs multiple actions in a single decision. Approximately 40% of the actions in desktop tasks are output in batch form.\nIn terms of security and long-term task processing, Qwen-UI-Agent integrates security mechanisms throughout the entire task execution process. When facing illegal or high-risk requests, the model will directly refuse and terminate the task; when dealing with sensitive scenarios such as payments, data deletion, and privacy authorization, it will proactively stop at key steps and inform the user. At the same time, the model supports online reinforcement learning training on ultra-long trajectories exceeding 100 steps, combined with about 10,000 concurrent environments simultaneously rolling out, continuously tackling challenging long-term tasks.",
+ "report": {
+  "summary": "阿里发布Qwen-UI-Agent，移动端基准全面超越GPT与Claude。",
+  "background": "近年来，GUI智能体成为AI落地的重要方向，但多数模型在模拟环境中表现良好，真实设备上却大打折扣。阿里此次发布Qwen-UI-Agent，覆盖手机、桌面、网页和深度搜索，并在多个基准上刷新SOTA。为弥合仿真与现实的差距，团队自建真实手机环境与MobileWorld-Real基准，同时探索批量操作、命令行调用以及超长轨迹在线强化学习，试图推动GUI智能体从实验室走向生产环境。",
+  "key_points": [
+   "移动端基准全面领先：MobileWorld达82.1%，超越GPT-5.6Sol和Claude Opus4.8十个百分点以上，AndroidDaily更达97.5%。",
+   "自建真实设备环境：用100多台真机、150多个应用构建任务集和MobileWorld-Real基准，覆盖400余任务，强调从仿真到现实的迁移能力。",
+   "支持批量动作输出：不仅可逐次点击，还能一次决策输出多个动作，约40%桌面任务操作采用批处理，显著提高执行效率。",
+   "内置安全与隐私机制：面对非法或高风险请求直接拒绝；支付、删数据、隐私授权等敏感步骤会主动暂停并征求用户确认。",
+   "面向超长任务强化学习：支持100步以上轨迹在线训练，配合约1万并发环境滚动推进，持续攻克复杂长期任务。"
+  ],
+  "impact": "对AI行业而言，GUI智能体从‘能看能点’走向‘真机可用’，并确立了真实环境基准的重要性；对开发者来说，Qwen-UI-Agent提供了更强的底座，可加速自动化测试、端到端流程编排等应用落地，但需关注安全与合规设计；对普通用户，未来手机助手将能更可靠地完成跨应用操作，如订餐、转账、信息管理，体验更接近真人操作。",
+  "tools": "可关注阿里官方发布的Qwen-UI-Agent模型权重与评测代码；开源社区中，可结合MobileWorld、OSWorld、WebArena等基准自行复测，并留意Qwen团队后续可能开放的MobileWorld-Real真实设备数据与训练资源。"
+ }
+}

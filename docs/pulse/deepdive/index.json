@@ -1942,5 +1942,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T03:02:49Z",
   "fetched_at": "2026-08-21T03:18:40.813457+00:00"
+ },
+ "7c566f1c4ea9": {
+  "id": "7c566f1c4ea9",
+  "url": "https://www.aibase.com/news/30516",
+  "title": "苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T02:53:59.258Z",
+  "fetched_at": "2026-08-21T04:53:32.635532+00:00"
+ },
+ "e7e1b5d1f2e8": {
+  "id": "e7e1b5d1f2e8",
+  "url": "https://www.aibase.com/news/30513",
+  "title": "移动端基准全面超越GPT与Claude！阿里发布Qwen-UI-Agent，开启GUI智能体新纪元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T02:53:59.258Z",
+  "fetched_at": "2026-08-21T04:54:07.957155+00:00"
+ },
+ "c06073dd7cd8": {
+  "id": "c06073dd7cd8",
+  "url": "https://www.aibase.com/news/30509",
+  "title": "全球下载量破十亿大关！Google Gemma开源大模型火爆出圈，从太空探索一路杀进医学前沿",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T02:53:59.258Z",
+  "fetched_at": "2026-08-21T04:54:24.234698+00:00"
  }
 }
