@@ -1,0 +1,23 @@
+{
+ "id": "79b874c9fac4",
+ "url": "https://llmpulse.ai/chatgpt-ads-library",
+ "title": "First library for ads shown on ChatGPT",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T12:00:20Z",
+ "fetched_at": "2026-08-21T13:14:06.076273+00:00",
+ "content": "travasecurity.com\nSponsored\nManual pen testing, audit-ready output\nPTES + OWASP-aligned testing from senior practitioners, with a 90-day retest included.\nFirst observed\nAugust 21, 2026\nLast observed\nAugust 21, 2026\nIndependent ad transparency\nSearch ads observed in ChatGPT by advertiser, country, message, and date.\nBuilt independently by LLM Pulse. This is not an official OpenAI library, and coverage may be incomplete.\nCountry\n56,396 unique ads match these filters\ncrowdstrike.com\nEnter a hands-on agentic AI challenge built for enterprise security teams.\nresources.travasecurity.com\npacketlabs.net\nFind exploitable infrastructure risks before attackers do.\nsaviynt.com\nDiscover, govern, and control AI agents with identity-first security built for enterprise AI.\neasyaudit.ai\nFast-track SOC 2 compliance. Simple software, quick setup, and results you can trust.\ngetphantomflow.com\nClear entries and exits, built for TradingView.\ncarta.com\nTrusted with $220B+ in private capital fund assets under administration.\nrobinhood.com\nMarket access for AI agents w/ Robinhood\nfidelity.com\nAccess How-To Guides and Discover Strategies for Trading Crypto.\nseekingalpha.com\nWho Made the Top 10 Stocks List for the Second Half of 2026?\nmassive.com\nAccess every trade & quote in US markets to the nanosecond.\ngtm.ai\nOne endpoint for AI agents and GTM workflows. Pay for what you use.\ntracktracerx.com\nStay ahead of the Nov 27 DSCSA deadline. Serialization & tracing made simple. Book a demo.\naccenture.com\nProven results across industries.\ninsurancecanopy.com\nDefend against defective product claims. Secure your supply chain and meet retail vendor rules.\nalibaba.com\nFind manufacturers for wholesale, OEM and custom sourcing.\nchemscene.com\nChemScene, Customized Synthetic Service. Pharmaceutical Intermediate. Catalyst ligand.\nSee all 30 results on this page and open ad details. No credit card is required.\nCreate free account\nHow it works\nLLM Pulse observes sponsored placements while measuring AI answers, groups repeat sightings into distinct creatives, and publishes only the ad information needed for research.\nWe record sponsored placements returned during normal ChatGPT monitoring in enabled countries.\nRepeat sightings are grouped into one creative with first and last observed dates.\nCustomer projects, prompts, and surrounding ChatGPT responses are never shown in this library.\nNo. It is an independent research database from LLM Pulse built from ads we observed in ChatGPT.\nNo. Coverage depends on the countries and queries LLM Pulse observes, so some ads may be missing.\nIt means LLM Pulse captured the ad in a ChatGPT result on that date. It does not prove campaign start, end, targeting, spend, or performance.\nNo. The library is designed for interactive research. Scale and Enterprise customers can search the full observed dataset, subject to fair-use limits.\nLLM Pulse is the all-in-one AI search and GEO platform. Use these free tools to audit how AI engines see your brand, then track it all in one place.",
+ "report": {
+  "summary": "首个独立ChatGPT广告透明库发布",
+  "background": "ChatGPT正逐步引入广告模式，但OpenAI官方缺乏公开的广告透明度数据。LLM Pulse作为独立的AI搜索与GEO平台，通过日常监控ChatGPT中的赞助位展示，建立了这一广告库。它允许研究者按广告主、国家、文案和日期检索观测到的广告，弥补了透明度空白。该库独立于OpenAI，覆盖范围有限，但为理解AI助手广告生态提供了初步数据基础。",
+  "key_points": [
+   "独立第三方库，非OpenAI官方出品，专门记录ChatGPT中出现的广告，覆盖可能不完整。",
+   "支持按广告主、国家、文案和日期筛选，已收录5.6万多条独立广告创意。",
+   "广告类别以安全和金融为主，如众测、渗透测试、交易平台和AI代理工具等。",
+   "每条广告记录首次和最后观测日期，但仅代表观测时间，不证明投放起止或效果。",
+   "免费提供搜索功能，完整数据集仅面向规模化和企业级用户开放。"
+  ],
+  "impact": "对AI行业而言，这一库推动了AI广告透明化进程，可能促使OpenAI等平台建立官方广告监测机制。对开发者来说，它是研究AI原生广告形态、广告主策略和GEO效果的宝贵数据源，可用于分析竞品布局。对普通用户而言，它提供了看清ChatGPT中广告来源的窗口，有助于理解AI结果中的商业内容，增强对推荐结果的判断力。",
+  "tools": "LLM Pulse是核心工具，其平台提供AI搜索审计和GEO追踪功能。可关注其GitHub或官网，利用免费的广告库搜索功能查询ChatGPT广告数据，并搭配其AI可见性分析工具使用。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "0863d005078e",
+ "url": "https://www.aibase.com/zh/news/30537",
+ "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-21T13:11:54.639226+00:00",
+ "content": "据媒体报道，字节跳动大模型部门Seed已于上周完成新一轮组织调整，其中Seed Foundation Model新设四个一级部门，负责人均向吴永辉汇报。此次调整进一步整合预训练数据、强化学习及模型后训练资源，并将B端与C端产品模型能力分开布局。（Sina Finance）\n其中，Pretrain Data由李成刚负责，整合此前分散在文本模型、编程、视觉理解和语音等方向的预训练数据团队，统一负责新Omni模型的多模态数据及超大模型预训练数据。Horizon RL由唐晟宇负责，整合后训练、推理和视觉理解等团队，重点推进强化学习，以提升模型基础智能上限。\nProduct Posttrain-Work由秦禹嘉负责，主要面向B端应用，负责Agentic模型的整合与发布，并针对办公场景优化Agentic能力，为豆包、Dola等产品的任务模式提供支持。原Application团队则继续保留并更名为Product Posttrain-Chat，由朱文佳负责，主要面向C端应用，承担对话模型的整合与发布，与Work团队形成分工。\n此次调整显示，Seed正进一步强化从数据、预训练到强化学习和产品后训练的模型研发链路，并针对企业办公Agent与消费级对话场景建立差异化模型体系。字节方面目前暂无回应。",
+ "report": {
+  "summary": "字节跳动Seed部门重组，整合预训练、RL与Agent研发链路。",
+  "background": "字节跳动旗下大模型团队Seed近期频繁调整架构，以应对大模型竞争白热化。此前其预训练数据、强化学习等资源分散在文本、编程、视觉等多个方向，导致研发协同效率受限。此次调整将数据、RL、后训练统一收口，并按B端办公Agent与C端对话场景拆分产品模型线，意图构建从数据到应用的完整闭环，提升基础智能上限与场景落地速度。",
+  "key_points": [
+   "Seed新设四个一级部门，负责人均向吴永辉汇报，强化统一研发指挥。",
+   "预训练数据团队整合为Pretrain Data，由李成刚负责，聚焦Omni多模态数据。",
+   "Horizon RL由唐晟宇牵头，整合后训练与推理团队，主攻强化学习提升模型智能上限。",
+   "B端Agent模型与C端对话模型分线：Product Posttrain-Work面向办公，Product Posttrain-Chat面向消费级。",
+   "原Application团队更名Product Posttrain-Chat，由朱文佳负责，与Work团队形成明确分工。"
+  ],
+  "impact": "对AI行业而言，字节强化RL与数据整合意味着基础模型竞争进入精细化阶段，Agent与对话场景分化成为主流趋势。开发者可更清晰地按B端或C端需求调用不同模型，降低定制成本。普通用户则有望在豆包、Dola等产品中看到更专业的办公助手与更流畅的对话体验。组织重构短期内或影响产品迭代节奏，但中长期有助于提升字节在Agent赛道的竞争力。",
+  "tools": "关注字节跳动豆包大模型家族、Seed团队开源项目（如UI-TARS、GR-2）及强化学习框架VeRL；同时可对比Meta的Llama、DeepSeek的GRPO等技术路线，跟踪RL驱动Agent能力的最新进展。"
+ }
+}

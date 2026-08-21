@@ -1,0 +1,22 @@
+{
+ "id": "ea66697873a9",
+ "url": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis",
+ "title": "Nevada allows Uber, Tesla and Waymo to start paid robotaxi service",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T13:10:03.434875+00:00",
+ "content": "Nevada allows Uber, Tesla and Waymo to start paid robotaxi service\nAuthorities gave them permission to deploy thousands of robotaxis in Clark County.\nYou'll start seeing a lot more taxis in Las Vegas with no human driver behind the wheel over the coming year. The Nevada Transportation Authority has approved Tesla's, Waymo's and Uber's applications for an Autonomous Vehicle Network Company permit, which gives them the authority to offer paid rides in Clark County, including Las Vegas. Tesla investor Sawyer Merritt has reported that Nevada officials gave Tesla permission to deploy up to 5,000 robotaxis over the next 12 months after their August 20th meeting.\nThe company's permit reportedly allows it to operate across the entire state, provided it notifies the agency that it's expanding its coverage. According to the Q&A with Tesla during the session, the company is working with law enforcement to shoot a five-minute step-by-step video first responders can follow for emergencies involving its autonomous vehicles. The company also said that 5,000 is just the max number of robotaxis it's allowed to deploy, and that it would be \"extremely happy\" if it could get 2,500 robotaxis on the streets of Nevada by 2027.\nMeanwhile, Waymo has received permission to deploy 1,000 robotaxis in the region over the next year. Authorities allowed it to ditch human riders and go fully autonomous in Las Vegas back in July, but with this new permit, the company can now charge for its rides.\nSarfraz Maredia, the global head of Autonomous Mobility & Delivery at Uber, has announced that the ride-hailing company's application to offer paid robotaxi rides in Nevada has been approved as well. Uber will also be able to deploy 1,000 robotaxis in Clark County, which it will operate with Amazon's Zoox and Hyundai's Motional.",
+ "report": {
+  "summary": "内华达州批准特斯拉、Waymo和Uber在拉斯维加斯运营付费无人出租车",
+  "background": "美国多地已允许自动驾驶汽车测试，但商业化运营需专门许可。内华达州此前允许Waymo在拉斯维加斯进行完全无人驾驶，却未开放收费。此次交通管理局批准特斯拉、Waymo、Uber的申请，允许它们在克拉克县提供付费服务，标志着无人出租车正式商业化。特斯拉获准部署5000辆，数量远超对手，反映出其对自动驾驶的激进布局。",
+  "key_points": [
+   "特斯拉获准在12个月内部署最多5000辆无人出租车，并可扩展到全州，目标是2027年上路2500辆。",
+   "Waymo获准部署1000辆并开始收费，7月已允许完全无人驾驶，此次许可让服务从测试转为商业运营。",
+   "Uber获准部署1000辆，将与Zoox和Motional合作运营，利用其平台整合无人驾驶车辆。",
+   "特斯拉正与执法部门合作制作五分钟应急视频，用于指导无人车事故处理，显示安全监管的配套举措。"
+  ],
+  "impact": "对行业而言，内华达州的许可让无人出租车从测试走向大规模商业部署，特斯拉以5000辆规模入局将加剧竞争，推动成本下降。对开发者，这意味着自动驾驶数据处理、模拟仿真等工具需求增长，值得关注相关开源生态。对普通用户，拉斯维加斯将出现大量无人出租车，出行选择更多，价格可能更具竞争力，但也需适应新的出行方式。",
+  "tools": "可关注Waymo开放数据集用于感知研究；特斯拉FSD软件更新；开源自动驾驶仿真平台CARLA；以及Uber的开源仿真工具，有助于跟踪技术进展。"
+ }
+}

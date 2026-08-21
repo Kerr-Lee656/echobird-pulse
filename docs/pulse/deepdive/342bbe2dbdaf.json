@@ -1,0 +1,22 @@
+{
+ "id": "342bbe2dbdaf",
+ "url": "https://hub.baai.ac.cn/view/57296",
+ "title": "刚花 600 亿买下 Cursor，马斯克又要对 Devin 下手",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-21T13:12:43.995831+00:00",
+ "content": "新智元报道  \n新智元报道\n刚花600亿美元买下Cursor，马斯克转头又盯上了Devin。\n8月19日，彭博社独家爆料，SpaceX曾接洽AI编程创业公司Cognition，探讨潜在收购。Cognition就是自主AI软件工程师Devin的开发商。\n马斯克又开始蠢蠢欲动。\n结果比较尴尬。Cognition创始人兼CEO Scott Wu当天就在X上甩了一句话回去——\n「这不是真的。我们对SpaceX团队非常尊重，但Cognition不卖，我们也没有进行过相关谈判。」\n彭博的说法要更绕一层。据知情人士透露，SpaceX确实主动向Cognition提出了收购意向，但Cognition没有接招。\n不过双方还在谈另一件事——让Cognition使用SpaceX的算力资源。要知道，马斯克手里现在攥着Colossus，仅一个集群就塞了超过22万块英伟达GPU。\n更关键的是，这些机器已经不只给自己用。今年5月，连Anthropic都接入了Colossus算力。\n有个细节。就在一周前，马斯克关注了Cognition的官方X账号。\nScott Wu，1997年生，美籍华裔，路易斯安那州长大，父母是从上海移民到美国的化学工程师。\n哥们12岁就开始写代码。2011年，他拿了全美MathCounts冠军。2012到2014年，他连续三年在国际信息学奥林匹克竞赛（IOI）上摘金，最后一年直接拿了全球第一名。\n在编程圈最硬核的评价体系Codeforces上，他是「传奇大师」（Legendary Grandmaster），峰值积分3350。\n哈佛本科毕业后，Wu先是联合创办了AI社交平台Lunchclub担任CTO，入选过2020年福布斯30 Under 30。\n2023年，他跟两个同样是IOI金牌得主的老战友Steven Hao和Walden Yan一起，在纽约一间公寓里创办了Cognition。三个创始人一共拿过5块IOI金牌，而公司早期的核心团队总共攒了10块。\n有意思的是，Cognition最早其实是做加密货币的。\n直到ChatGPT横空出世，硅谷集体转向，他们才果断掉头，一头扎进了AI编程这条赛道。用Wu自己的话说，「让AI写代码这件事，本质上是一道深度算法题」，恰好是他们最擅长的。\n2024年3月，Devin正式亮相，号称「全球第一个AI软件工程师」，一炮打响。到今天，Cognition自己的代码库里，89%的代码都是由Devin自己写的。\nCognition 2023年成立，2025年9月融了4亿美元，投后估值102亿美元。8个月后的2026年5月，又拿到超过10亿美元融资，投后估值260亿美元，Lux Capital、General Catalyst和8VC领投，Founders Fund、Elad Gil等跟投。\n现在它又在谈新一轮，目标估值至少400亿美元，比上一轮再涨50%以上。\n收入这条线增长更猛。5月披露的ARR是4.92亿美元，现在已逼近10亿美元量级，三个月翻了一倍。企业使用量连续6个月保持月环比50%的增长。客户名单里有奔驰、高盛、花旗、NASA、美国陆军和海军。\n7月，谷歌把Windsurf的核心团队挖走之后，Cognition火速接盘了Windsurf剩余的IP、产品和250人团队。\n收编了IDE和Agent两条产品线之后，它现在是仍然保持独立的最大AI编程公司，没有之一。\n马斯克先买Cursor、再盯Devin，因为这两个东西压根走的不是一条路。\nCursor是一个交互式代码编辑器，帮你补全、重构、调试。本质是让程序员提效的工具。\nDevin走的是另一条路，你把一个完整的软件工程任务丢给它，它自己拆解需求、自己写代码、自己跑测试、自己Debug，端到端把活干完。\n说白了，Devin就是冲着程序员这个岗位本身去的。\n用行业术语的话说，Cursor是「副驾驶」（Copilot），Devin是」自动驾驶」（Autopilot）。\n公司不卖，算力可以租你的\n当然，截至目前，收购貌似谈崩了。但算力合作还在谈。\n翻译过来就是，股权我不给你，但你的机器我可以用。\n这就有意思了。独立公司拼产品、拼收入都还有胜算，唯独算力这一样自己不行，只能从马斯克、微软、谷歌这些手里买。\nCursor卖掉了，换来Colossus那22万块GPU。Cognition不卖，也一样要用SpaceX的机器。\n两条路走到最后，站在算力上游的还是同一批人。殊途同归。\nAI编程正在从帮人写代码，变成让Agent直接把整个软件工程做完。这条路越往前走，对算力的胃口越大，留给独立公司的那道门就越窄。\nScott Wu这次说了不卖。但下一次600亿美元推到桌上的时候，这个答案不知道还能不能是同一个。\n参考资料：\nhttps://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition\nhttps://x.com/ScottWu46/status/2090165234921296030?s=20\n编辑：所罗门\n内容中包含的图片若涉及版权问题，请及时与我们联系删除",
+ "report": {
+  "summary": "马斯克收购AI编程公司Cognition遭拒，但算力合作仍在谈。",
+  "background": "马斯克刚以600亿美元收购AI编程工具Cursor，随即又被曝出旗下SpaceX接洽另一家AI编程公司Cognition，意图将其收入囊中。Cognition是自主AI程序员Devin的开发商，CEO Scott Wu公开否认收购传闻，但双方确实在洽谈算力合作。Cognition成立于2023年，凭借Devin迅速崛起，最新估值已达260亿美元，并正寻求新一轮400亿美元估值融资。在AI编程赛道从辅助编码走向全自动软件工程的背景下，巨头们纷纷抢滩，算力资源成为争夺关键。",
+  "key_points": [
+   "SpaceX主动接洽Cognition提出收购，但CEO Scott Wu公开回应“不卖”，也未进行谈判；不过双方仍在谈Colossus算力合作。",
+   "Cognition由三位IOI金牌得主创立，Devin号称全球首个AI软件工程师，目前公司估值260亿美元，新轮目标400亿美元，ARR逼近10亿美元。",
+   "Cursor是帮程序员提效的“副驾驶”，Devin则是端到端完成任务的“自动驾驶”，两条路线分别代表渐进与颠覆，马斯克两头都要占。",
+   "Colossus集群拥有超22万块英伟达GPU，连Anthropic都已接入。即使拒绝收购，Cognition也绕不开算力依赖，算力正成为AI编程的命门。"
+  ],
+  "impact": "对AI行业，AI编程正从“辅助工具”转向“自主Agent”，算力基础设施成为战略卡点，巨头并购与算力绑定将加速洗牌。对开发者，Cursor能提升编码效率，而Devin这类产品则可能替代部分基础编程工作，开发者需转向需求拆解、架构设计与AI协作。对普通用户，软件应用开发门槛降低，未来或能通过自然语言直接生成完整应用，但也要警惕软件质量和安全风险。",
+  "tools": "可关注Cognition旗下Devin和刚收购的Windsurf；开源方面可研究OpenHands、SWE-agent、Continue等自主编程框架，同时留意Cursor的IDE路线演变。若要体验顶级编程能力，可跟踪Codeforces的Legendary Grandmaster选手。"
+ }
+}

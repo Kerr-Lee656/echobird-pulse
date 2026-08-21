@@ -2248,5 +2248,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T08:32:17Z",
   "fetched_at": "2026-08-21T10:49:35.010532+00:00"
+ },
+ "b6a5c15c43de": {
+  "id": "b6a5c15c43de",
+  "url": "https://www.androidpolice.com/gemini-everywhere-strategy",
+  "title": "Gemini is becoming the default AI everywhere you look, whether you like it or not",
+  "source": "Android Police",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:08:59.412422+00:00"
+ },
+ "3085daf1532a": {
+  "id": "3085daf1532a",
+  "url": "https://hub.baai.ac.cn/view/57307",
+  "title": "Claude 与数学家合作证伪百年 Carathéodory 猜想，并刷新黎曼猜想零点纪录",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:09:13.859626+00:00"
+ },
+ "0c4b53abce0f": {
+  "id": "0c4b53abce0f",
+  "url": "https://www.huxiu.com/article/4884985.html?f=rss",
+  "title": "具身智能的买单人，这次换成了国家队？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T10:36:52Z",
+  "fetched_at": "2026-08-21T13:09:37.192992+00:00"
+ },
+ "4f5caa01ba58": {
+  "id": "4f5caa01ba58",
+  "url": "https://www.ifanr.com/1676067",
+  "title": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-08-21T10:23:24Z",
+  "fetched_at": "2026-08-21T13:09:48.941840+00:00"
+ },
+ "ea66697873a9": {
+  "id": "ea66697873a9",
+  "url": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis",
+  "title": "Nevada allows Uber, Tesla and Waymo to start paid robotaxi service",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:10:03.434875+00:00"
+ },
+ "d07f8a495707": {
+  "id": "d07f8a495707",
+  "url": "https://www.qbitai.com/2026/08/476596.html",
+  "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:11:40.592082+00:00"
+ },
+ "0863d005078e": {
+  "id": "0863d005078e",
+  "url": "https://www.aibase.com/zh/news/30537",
+  "title": "字节 Seed 再调整：预训练、强化学习与 Agent 研发全面重构",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:11:54.639226+00:00"
+ },
+ "342bbe2dbdaf": {
+  "id": "342bbe2dbdaf",
+  "url": "https://hub.baai.ac.cn/view/57296",
+  "title": "刚花 600 亿买下 Cursor，马斯克又要对 Devin 下手",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T13:12:43.995831+00:00"
+ },
+ "336207ccaf1e": {
+  "id": "336207ccaf1e",
+  "url": "https://www.unite.ai/ai-models-creative-output-is-becoming-similar-across-providers/",
+  "title": "AI models' 'creative' output is becoming similar across providers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T12:49:06Z",
+  "fetched_at": "2026-08-21T13:13:39.075432+00:00"
+ },
+ "0b15399105ec": {
+  "id": "0b15399105ec",
+  "url": "https://github.com/ahmadshady747-create/LOCUS",
+  "title": "Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T12:24:23Z",
+  "fetched_at": "2026-08-21T13:13:54.364408+00:00"
+ },
+ "79b874c9fac4": {
+  "id": "79b874c9fac4",
+  "url": "https://llmpulse.ai/chatgpt-ads-library",
+  "title": "First library for ads shown on ChatGPT",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T12:00:20Z",
+  "fetched_at": "2026-08-21T13:14:06.076273+00:00"
+ },
+ "adc2fb98c295": {
+  "id": "adc2fb98c295",
+  "url": "https://developers.openai.com/blog/codex-as-a-platform",
+  "title": "Codex Codex as a platform: build on the open agent harness",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T11:47:12Z",
+  "fetched_at": "2026-08-21T13:14:16.823335+00:00"
  }
 }
