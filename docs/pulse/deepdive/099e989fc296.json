@@ -1,0 +1,23 @@
+{
+ "id": "099e989fc296",
+ "url": "https://github.com/warpdotdev/warp",
+ "title": "warpdotdev/warp — Warp is an agentic development environment, born out of the terminal.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-21T14:55:56.216708+00:00",
+ "content": "Website · Code · Agents · Terminal · Drive · Docs · How Warp Works\nNote\nOpenAI is the founding sponsor of the new, open-source Warp repository, and the new agentic management workflows are powered by GPT models.\nWarp is an agentic development environment, born out of the terminal. Use Warp's built-in coding agent, or bring your own CLI agent (Claude Code, Codex, Gemini CLI, and others).\nYou can download Warp and read our docs for platform-specific instructions.\nExplore build.warp.dev to:\n- Watch thousands of Oz agents triage issues, write specs, implement changes, and review PRs\n- View top contributors and in-flight features\n- Track your own issues with GitHub sign-in\n- Click into active agent sessions in a web-compiled Warp terminal\nMaintaining a popular open-source project? Apply for Oz credits to explore Oz for OSS.\nOz for OSS is our partner program for bringing the same agentic open-source management workflows used in this repository to select partner repositories. We work directly with maintainers to implement workflows for issue triage, PR review, community management, and contributor coordination in a way that fits each project.\nWarp's UI framework (the warpui_core and warpui crates) are licensed under the MIT license.\nThe rest of the code in this repository is licensed under the AGPL v3.\nWarp's client codebase is open source and lives in this repository. We welcome community contributions and have designed a lightweight workflow to help new contributors get started. For the full contribution flow, read our CONTRIBUTING.md guide.\nTip\nChat with contributors and the Warp team in the #oss-contributors Slack channel — a good place for ad-hoc questions, design discussion, and pairing with maintainers. New here? Join the Warp Slack community first, then jump into #oss-contributors.\nBefore filing, search existing issues for your bug or feature request. If nothing exists, file an issue using our templates. Security vulnerabilities should be reported privately as described in CONTRIBUTING.md.\nOnce filed, a Warp maintainer reviews the issue and may apply a readiness label: ready-to-spec signals the design is open for contributors to spec out, and ready-to-implement signals the design is settled and code PRs are welcome. Anyone can pick up a labeled issue — mention @oss-maintainers on an issue if you'd like it considered for a readiness label.\nTo build and run Warp from source:\n./script/bootstrap   # platform-specific setup\n./script/run         # build and run Warp\n./script/presubmit   # fmt, clippy, and tests\nSee AGENTS.md for the full engineering guide, including coding style, testing, and platform-specific notes.\nInterested in joining the team? See our open roles.\n- See our docs for a comprehensive guide to Warp's features.\n- Join our Slack Community to connect with other users and get help from the Warp team — contributors hang out in #oss-contributors .\n- Try our Preview build to test the latest experimental features.\n- Mention @oss-maintainers on any issue to escalate to the team — for example, if you encounter problems with the automated agents.\nWe ask everyone to be respectful and empathetic. Warp follows the Code of Conduct. To report violations, email warp-coc at warp.dev.\nWe'd like to call out a few of the open source dependencies that have helped Warp to get off the ground:",
+ "report": {
+  "summary": "Warp 开源其智能体开发环境，基于终端支持多AI代理。",
+  "background": "Warp 最初以现代化终端应用闻名，如今转型为 agentic 开发环境并全面开源。随着 Claude Code、Codex、Gemini CLI 等命令行 AI 代理的兴起，终端正重新成为 AI 编程的核心入口。Warp 选择拥抱开放生态，不仅内置编码智能体，还允许用户接入任意 CLI 代理。OpenAI 作为创始赞助商加入，推动基于 GPT 模型的智能体管理流程，体现了商业公司与开源社区协作的新模式。",
+  "key_points": [
+   "Warp 是源自终端的智能体开发环境，既有内置编码智能体，也支持 Claude Code、Codex、Gemini CLI 等外部代理，用户可自由选择。",
+   "OpenAI 是创始赞助商，仓库内新的智能体管理工作流由 GPT 模型驱动，用于问题分类、PR 审查等任务。",
+   "代码已开源，UI 框架采用 MIT 许可，其余代码为 AGPL v3，社区可通过轻量流程参与贡献。",
+   "推出 Oz for OSS 计划，为主流开源项目提供智能体的 issue 分类、PR 审查、社区协调等自动化维护工作流。",
+   "Warp 提供了完整的源码构建脚本和工程指南，开发者可以自行编译运行，并可通过 Slack 与团队和贡献者交流。"
+  ],
+  "impact": "对 AI 行业而言，Warp 的开源策略加剧了终端类 agent 的竞争，也推动了 CLI 代理之间的互操作性标准形成。对开发者来说，他们能在一个统一环境中切换多个 AI 资产，还能参与开源项目或获得 Oz 信用来体验智能体维护工作流。对普通用户，Warp 降低了使用高级 AI 编程助手的门槛，让终端操作变得更智能、更高效，但 AGPL 许可可能让部分商用集成方谨慎。",
+  "tools": "想上手可下载 Warp 并阅读文档；关注 AGENTS.md 获取工程规范。想体验智能体维护可申请 Oz for OSS 计划。若需对比，可尝试 Claude Code、OpenAI Codex、Gemini CLI 等代理。社区交流可加入 Warp Slack 的 #oss-contributors 频道。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "47260a1d993d",
+ "url": "https://www.huxiu.com/article/4884901.html?f=rss",
+ "title": "OpenAI宣战DeepSeek，开源Harness",
+ "source": "虎嗅 (Huxiu)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-21T12:00:01Z",
+ "fetched_at": "2026-08-21T14:53:57.821379+00:00",
+ "content": "虎嗅APP\n虎嗅APP\n公众号矩阵\n公众号矩阵\n加入社群\n加入社群\n我要投稿\n我要投稿\n资讯\n24小时\n源流\n视频\n活动/榜单/专题\n妙投\n虎嗅智库\n虎嗅嗅全新升级\n虎嗅嗅全新升级\n2026-08-21 20:00\nOpenAI宣战DeepSeek，开源Harness\n杜雨说AI\n内容为转载\n智能体能否真正落地，关键不只在大模型本身，更在于harness\n频道: 视频\n本内容由作者授权发布，观点仅代表作者本人，不代表虎嗅立场。\n如对本稿件有异议或投诉，请联系 tougao@huxiu.com。\n正在改变与想要改变世界的人，都在\n虎嗅APP",
+ "report": {
+  "summary": "OpenAI开源智能体编排框架Harness，直接对标DeepSeek。",
+  "background": "近年来，AI大模型竞争从模型参数转向应用落地。DeepSeek凭借开源模型和低成本策略迅速崛起，吸引大量开发者。OpenAI虽保持技术领先，但闭源策略受到挑战。为争夺开发者生态，OpenAI决定开源其内部使用的智能体编排框架Harness，通过开放工具链来对抗DeepSeek的开源社区优势。",
+  "key_points": [
+   "OpenAI宣布开源Harness，这是一个用于构建和编排AI智能体的框架，使得开发者能更方便地管理复杂任务。",
+   "此举直指DeepSeek的开源生态，OpenAI希望通过开放工具链吸引开发者，巩固其市场地位。",
+   "Harness的核心在于将大模型与外部工具、数据流无缝集成，解决智能体落地的关键难题。",
+   "开源Harness意味着OpenAI从闭源转向更开放的策略，但可能不会开源核心模型本身。",
+   "该框架可能支持多模型接口，开发者可以同时使用OpenAI和其他模型，增加灵活性。"
+  ],
+  "impact": "对AI行业而言，开源Harness将加剧平台竞争，推动智能体开发标准化。开发者将获得更强大的工具，降低构建复杂智能体的门槛，但可能面临生态锁定风险。普通用户将受益于更智能、更可靠的应用，如自动化助手等。长期来看，OpenAI此举可能重塑AI开发范式。",
+  "tools": "关注OpenAI官方GitHub仓库获取Harness源码；也可以了解LangChain、AutoGPT等类似智能体框架进行对比。此外，DeepSeek的开源模型和工具也值得跟进。"
+ }
+}

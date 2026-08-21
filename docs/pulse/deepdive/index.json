@@ -2356,5 +2356,95 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T11:47:12Z",
   "fetched_at": "2026-08-21T13:14:16.823335+00:00"
+ },
+ "722888deb5d7": {
+  "id": "722888deb5d7",
+  "url": "https://www.engadget.com/2241179/child-safety-experts-skeptical-of-openai-chatgpt-for-teens",
+  "title": "Child safety experts are skeptical of OpenAI's ChatGPT for Teens",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:52:35.402613+00:00"
+ },
+ "de32b76902d3": {
+  "id": "de32b76902d3",
+  "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
+  "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:52:55.321064+00:00"
+ },
+ "a817f6c268f2": {
+  "id": "a817f6c268f2",
+  "url": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
+  "title": "DeepSeek launches an experimental multimodal model to rival Anthropic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:53:13.132393+00:00"
+ },
+ "9366c20aa203": {
+  "id": "9366c20aa203",
+  "url": "https://hub.baai.ac.cn/view/57310",
+  "title": "揭秘！Agent 潜伏两个月联手作案，OpenAI 还原安全事故全过程",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:53:27.340023+00:00"
+ },
+ "c7890ddfb1c3": {
+  "id": "c7890ddfb1c3",
+  "url": "https://www.36kr.com/p/3948952877661575",
+  "title": "震撼，OpenAI全面开源Codex Harness",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:53:41.322620+00:00"
+ },
+ "47260a1d993d": {
+  "id": "47260a1d993d",
+  "url": "https://www.huxiu.com/article/4884901.html?f=rss",
+  "title": "OpenAI宣战DeepSeek，开源Harness",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T12:00:01Z",
+  "fetched_at": "2026-08-21T14:53:57.821379+00:00"
+ },
+ "099e989fc296": {
+  "id": "099e989fc296",
+  "url": "https://github.com/warpdotdev/warp",
+  "title": "warpdotdev/warp — Warp is an agentic development environment, born out of the terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T14:55:56.216708+00:00"
+ },
+ "488000f70daa": {
+  "id": "488000f70daa",
+  "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+  "title": "Nvidia AVO achieves 100% in ARC-AGI-3",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T14:05:37Z",
+  "fetched_at": "2026-08-21T14:57:20.602249+00:00"
+ },
+ "6ac7852311e2": {
+  "id": "6ac7852311e2",
+  "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+  "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-21T14:00:00.000Z",
+  "fetched_at": "2026-08-21T14:57:53.270986+00:00"
+ },
+ "141828fa2a9e": {
+  "id": "141828fa2a9e",
+  "url": "https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt",
+  "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+  "source": "@OpenBMB",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-21T13:01:13.000Z",
+  "fetched_at": "2026-08-21T14:58:19.218051+00:00"
  }
 }
