@@ -2086,5 +2086,86 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-21T04:00:00.000Z",
   "fetched_at": "2026-08-21T07:10:38.938857+00:00"
+ },
+ "52db162f2b84": {
+  "id": "52db162f2b84",
+  "url": "https://www.aibase.com/zh/news/30530",
+  "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T08:56:16.939425+00:00"
+ },
+ "6707e50585f5": {
+  "id": "6707e50585f5",
+  "url": "https://www.aibase.com/zh/news/30531",
+  "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T08:56:27.886883+00:00"
+ },
+ "f855c7d2b3a9": {
+  "id": "f855c7d2b3a9",
+  "url": "https://www.aibase.com/news/30529",
+  "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T08:26:10.013Z",
+  "fetched_at": "2026-08-21T08:56:35.432858+00:00"
+ },
+ "cd38cc0bfd87": {
+  "id": "cd38cc0bfd87",
+  "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spent-18-4-billion-205000688.html",
+  "title": "SpaceX单季度支出184亿美元——其中158亿美元用于人工智能。资金流向如下。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T08:21:19.406Z",
+  "fetched_at": "2026-08-21T08:56:43.642610+00:00"
+ },
+ "7f57c22fcfbd": {
+  "id": "7f57c22fcfbd",
+  "url": "https://www.ithome.com/0/992/712.htm",
+  "title": "韩国 IT 巨头 Kakao 计划年内完成分拆，新实体将聚焦 AI 智能体",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T08:18:40Z",
+  "fetched_at": "2026-08-21T08:56:57.787776+00:00"
+ },
+ "fe01e10e6be5": {
+  "id": "fe01e10e6be5",
+  "url": "https://www.ithome.com/0/992/711.htm",
+  "title": "消息称 NVIDIA 与韩国 AI 芯片企业 Rebellions 展开合作初步讨论",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T08:13:38Z",
+  "fetched_at": "2026-08-21T08:57:05.453261+00:00"
+ },
+ "f9b7b1ac460b": {
+  "id": "f9b7b1ac460b",
+  "url": "https://www.huxiu.com/article/4884899.html?f=rss",
+  "title": "最强生图模型要来了？OpenAI 被曝偷偷测试GPT Image2.5",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T08:04:24Z",
+  "fetched_at": "2026-08-21T08:57:41.280894+00:00"
+ },
+ "a821ac0b817c": {
+  "id": "a821ac0b817c",
+  "url": "https://www.aibase.com/news/30527",
+  "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T06:26:57.380Z",
+  "fetched_at": "2026-08-21T08:57:51.425310+00:00"
+ },
+ "941fb9fa1433": {
+  "id": "941fb9fa1433",
+  "url": "https://www.ithome.com/0/992/626.htm",
+  "title": "网易孵化的芯片公司谦合益邦：自研全球首款 4 层 3D DRAM 堆叠存算一体芯片成功回片并点亮",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T06:12:09Z",
+  "fetched_at": "2026-08-21T08:58:04.284148+00:00"
  }
 }

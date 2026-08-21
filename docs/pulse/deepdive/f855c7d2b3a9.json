@@ -1,0 +1,22 @@
+{
+ "id": "f855c7d2b3a9",
+ "url": "https://www.aibase.com/news/30529",
+ "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-21T08:26:10.013Z",
+ "fetched_at": "2026-08-21T08:56:35.432858+00:00",
+ "content": "When building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, financial reports, legal contracts, and government records due to confidentiality. Traditional one-time retrieval-augmented generation (RAG) struggles with complex structured documents and cross-source comparison tasks because it can only retrieve fixed text blocks and lacks reasoning and iteration capabilities. To address this industry challenge, Mistral AI has officially launched an upgraded version of Agentic Search. This technology introduces a multi-step retrieval loop mechanism, breaking the limitations of traditional methods and achieving a significant leap in handling enterprise-level complex document queries.\nFive Core Tools Working Together: From \"Mechanical Retrieval\" to \"Active Reasoning\"\nThe core weakness of traditional RAG lies in \"retrieval without reasoning and no iteration.\" The model must answer based on fragmented text it initially finds. Agentic Search is built on existing enterprise search indexes, providing the model with five core tools similar to common file system operations:\n- search (Search): Find relevant initial documents across the entire corpus.\n- open (Open): Accurately open specific target documents.\n- navigate (Navigate): Move directly to a specific page, section, or area within a document.\n- read (Read): Retrieve and obtain the content at the target location.\n- grep (Pattern Matching): Search for specific patterns within an open document.\nWith this set of tools, the model is no longer limited by traditional chunk granularity. It can actively check the retrieved content before answering, optimize search strategies, delve into underlying evidence, and even compare and verify across multiple documents, allowing retrieval quality to improve alongside the model's own reasoning capabilities.\nSignificant Performance Improvements and Multi-Scenario Validation\nIn real-world industry benchmark tests, Agentic Search has demonstrated strong practical capabilities and data scalability:\n- FinanceBench Financial Question Answering Test: Testing on 368 complex SEC files with an average of about 147 pages showed that introducing only the search loop increased the model's accuracy by approximately three times; after adding the full navigation toolchain, the accuracy could rise as high as 86%, with a significant drop in p90 latency and a reduction of up to one-third in token consumption.\n- OfficeQA Pro Treasury Bulletin Test: Facing a challenging benchmark containing 696 scanned, table-heavy government financial PDFs, the fully closed-loop agent search enabled the model to achieve a breakthrough in accuracy, fully demonstrating its ability to handle deep tables and structured numerical queries.\nIn addition, Agentic Search can perfectly adapt to cloud and on-premise deployment needs, whether embedded in Libraries within Studio and Vibe, or integrated into customer-built workflows through the Mistral Search Toolkit. It provides strong foundational support for enterprises to unlock the value of sensitive domain data and build high-precision retrieval systems.",
+ "report": {
+  "summary": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%。",
+  "background": "企业在构建AI系统时，核心业务数据常隐藏在长文档、财报、合同等机密文件中。传统RAG只能一次性检索固定文本块，缺乏推理和迭代能力，难以处理复杂结构文档和跨源对比。Mistral AI针对这一行业痛点，推出升级版Agentic Search，引入多步检索循环机制，让模型能主动搜索、打开、导航、阅读和模式匹配，从而大幅提升企业级复杂文档查询的准确率。",
+  "key_points": [
+   "Agentic Search提供搜索、打开、导航、阅读、模式匹配五类工具，让模型从机械检索变成主动推理，能迭代优化查询策略。",
+   "在FinanceBench测试中，仅加入搜索循环准确率提升约3倍，配合完整导航工具链后准确率达86%，延迟和Token消耗明显下降。",
+   "在OfficeQA Pro测试中，面对696份扫描版表格密集的政府PDF，全闭环代理搜索实现了准确率突破，擅长处理深层表格和结构化数值查询。",
+   "支持云端和本地部署，可嵌入Studio、Vibe或通过Mistral Search Toolkit集成到客户工作流，方便企业解锁敏感数据价值。"
+  ],
+  "impact": "对AI行业而言，Agentic Search展示了RAG从单轮到多代理演进的方向，推动检索系统向更主动、可推理的模式发展。对开发者，意味着可以构建更精准的文档问答应用，减少人工标注和反复调试。对普通用户，获取财报、合同等复杂信息的答案将更可靠，降低理解门槛。同时，企业能安全地利用内部数据，提升决策效率。",
+  "tools": "可关注Mistral AI官方的Agentic Search、Mistral Search Toolkit，以及在Studio/Vibe平台中嵌入的Libraries功能。开发者还可参考FinanceBench和OfficeQA Pro等基准测试，评估检索系统在复杂文档上的表现。"
+ }
+}

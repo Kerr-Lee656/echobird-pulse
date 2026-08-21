@@ -1,0 +1,22 @@
+{
+ "id": "f9b7b1ac460b",
+ "url": "https://www.huxiu.com/article/4884899.html?f=rss",
+ "title": "最强生图模型要来了？OpenAI 被曝偷偷测试GPT Image2.5",
+ "source": "虎嗅 (Huxiu)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-21T08:04:24Z",
+ "fetched_at": "2026-08-21T08:57:41.280894+00:00",
+ "content": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《最强生图模型要来了？OpenAI 被曝偷偷测试 GPT Image 2.5》\nOpenAI可能正在测试一款新的AI图像模型。\n这两天，多名海外用户发现，一个名为luna-lisa-alpha的神秘模型出现在LMArena测试平台中。\n从目前流出的测试结果来看，luna-lisa-alpha重点提升了几个方向，包括人物一致性、图像真实感、文字生成能力，以及此前GPT Image系列一直存在的噪点问题。\n虽然OpenAI尚未公开确认该模型的存在，但不少测试者猜测，这很有可能是GPT Image 2.5或下一代GPT Image模型的早期版本。\n最早发现luna-lisa-alpha的用户之一Neuro Pulse在X上表示，这是一个正在测试中的「新GPT Image checkpoint」，此前同系列测试版本为mona-lisa-1。\ncheckpoint是模型训练过程中的阶段性版本，通常用于内部测试和能力评估，并不代表最终公开发布版本。\n在大量测试反馈中，「一致性」成为出现频率最高的关键词。相比此前版本，luna-lisa-alpha在连续生成同一个角色时，能够更好地保持人物外观、服饰和整体风格。\n一名测试者Token Gremlin表示，luna-lisa-alpha最大的变化可能不是单张图片质量提升，而是稳定性增强。\n他认为，新版本正在改善两个问题：一是不同生成结果之间的人物一致性，二是GPT Image过去几个版本中存在的颗粒感和噪点。\n另一名用户Mirochill测试后也提到，新版本相比此前的mona-lisa-1，图像中的grain（颗粒感）似乎减少，同时角色一致性出现明显提升。\n向左滑动查看更多内容\n不过，部分测试者仍然发现，在复杂纹理、云朵、植物等细节区域，图片中依旧存在异常pattern（重复纹理）问题。\n除了真实感提升，luna-lisa-alpha的文字生成能力也受到关注。\nGPT Image 2在这一块已经有了较大的进步，现在一些测试者使用它生成手机界面、网页设计稿等内容，发现模型能够生成较复杂的UI元素。\n没错，连可折叠iPhone的官网界面图也能够轻松直出，就是跟现在泄露的机模长得不太一样（doge）。\n上下滑动查看更多内容\nMark Kretschmann认为，图像模型的重要性可能被低估，因为它们未来不仅可以生成图片，还可能直接参与网站设计、产品原型甚至代码转换。\n此外，一些测试者也开始将luna-lisa-alpha与当前主流图像模型进行直接对比。\nX用户Harshith也分享了自己第一次使用luna-lisa-alpha的测试结果，并将其与GPT Image 2.0、Nano Banana Pro等模型放在同一组提示词下进行比较。\n向左滑动查看更多内容，依次为luna-lisa-alpha、Nano Banana Pro、GPT Image 2.0\n、\n还有网友@HarshithLucky3使用同一组提示词，让luna-lisa-alpha、GPT Image 2.0、Nano Banana Pro和Grok Imagine同时生成图片，对比不同模型在人物还原、真实感以及细节处理上的差异。\n向左滑动查看更多内容，依次为luna-lisa-alpha、GPT Image 2.0、Nano Banana Pro、Grok Imagine image 2.0\n、\n就在社区发现luna-lisa-alpha的同时，今天OpenAI也发布了一个GPT Image 2 API的新功能。\nOpenAI表示，GPT Image 2 API正在预览支持透明背景生成，用户可以生成能够直接应用于不同背景的素材，用于产品图片、网页设计、营销内容等场景。\n一些用户猜测，OpenAI可能正在通过多个checkpoint进行A/B测试。\n除了此前出现的mona-lisa-1，LMArena上还出现过lina-alpha等名称，有测试者认为这些可能是同一系列模型的不同实验版本。\n当然，目前距离正式发布仍存在不确定性。luna-lisa-alpha最终是否会成为GPT Image 2.5，或者只是内部测试阶段的一个版本，还需要等待OpenAI官方公布。\n某种程度上，luna-lisa-alpha的出现，也让人重新思考AI竞争的方向。\n过去一年，编程能力几乎成了AI行业的注意力黑洞。从Claude Code到各种Coding Agent，模型能不能写代码、改代码、完成开发任务，逐渐成为衡量AI能力进步的重要指标。\n但回头看，AI进入普通用户日常的入口不应该只有代码，图片的生成创作等多模态内容同样是高频需求，只是在过去一段时间里长期被低估。\nAI不应该只是帮少数人提高生产效率的工具，也应该成为更多人表达、创造和解决问题的新入口。",
+ "report": {
+  "summary": "OpenAI被曝测试新图像模型luna-lisa-alpha，或为GPT Image 2.5。",
+  "background": "近期多个海外用户在LMArena平台上发现一个名为luna-lisa-alpha的神秘模型，推测是OpenAI正在测试的新一代GPT Image模型。此前同系列还出现过mona-lisa-1、lina-alpha等版本，疑似为同一系列的不同checkpoint。测试反馈显示，该模型在人物一致性、真实感、文字生成和噪点控制上均有明显提升，但OpenAI尚未官方确认。与此同时，OpenAI还发布了GPT Image 2 API透明背景生成功能，外界猜测其正通过多方A/B测试为下一代图像模型预热。",
+  "key_points": [
+   "神秘模型luna-lisa-alpha现身LMArena，被推测为GPT Image 2.5早期版本，OpenAI尚未确认，属于内部checkpoint测试。",
+   "新模型重点提升角色一致性、图像真实感和文字生成能力，并改善此前GPT Image系列常见噪点问题，但复杂纹理仍有重复。",
+   "测试者对比发现，luna-lisa-alpha较GPT Image 2.0、Nano Banana Pro等表现出更强稳定性，还能直接生成UI界面和网页设计稿。",
+   "OpenAI同步推出GPT Image 2 API透明背景生成预览，可能通过多个checkpoint进行A/B测试，为正式发布做准备。"
+  ],
+  "impact": "AI行业正在从纯编程能力竞争向多模态创作能力延伸，图像模型的重要性被重估。对开发者而言，更强的图像生成和透明背景API意味着可以更低成本完成设计、产品原型和营销素材；对普通用户来说，图片创作的门槛进一步降低，个人表达和内容生产力也会获得更大释放。整体来看，AI竞争焦点不再只是代码，而是更贴近大众日常的创造入口。",
+  "tools": "可关注LMArena平台体验匿名模型测试；OpenAI官方GPT Image API及透明背景功能；对比同类图像模型如Nano Banana Pro、Grok Imagine；并留意ChatGPT中的图像生成入口更新。"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "6707e50585f5",
+ "url": "https://www.aibase.com/zh/news/30531",
+ "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-21T08:56:27.886883+00:00",
+ "content": "OpenAI近日进一步开放Codex Harness相关核心能力，将驱动Codex不同产品形态的智能体运行框架向开发者开放。Codex Harness是Codex背后的核心Agent运行环境，负责连接模型、用户与工具，并管理任务执行、上下文、会话及代码操作等流程。OpenAI此前已将Codex CLI及相关核心代码开源，并持续完善Harness和App Server能力。\n从架构来看，Codex Harness并非单纯的代码生成工具，而是完整的Agent执行框架。其核心包括Agent Loop、线程生命周期与持久化、配置及身份认证、工具执行和扩展机制等。通过Codex App Server，开发者可使用双向JSON-RPC协议将Harness接入不同客户端，并获得实时事件流，从而构建IDE、桌面应用及其他定制化Agent产品。\n目前，Codex Harness已支撑Codex Web、CLI、IDE扩展及macOS应用等多种使用场景。OpenAI此前还公开分享“全由Codex编写代码”的Harness工程实践:一个内部产品在约5个月内形成约100万行代码，并完成约1500个Pull Request，团队核心理念从“人工编写代码”转向“人类设定目标、Agent执行”。\n此次进一步开放Harness，意味着AI编程竞争正从模型能力延伸至Agent运行时、工具调用、上下文管理和工程反馈闭环。随着底层Harness逐渐标准化，开发者能够在Codex核心Agent能力之上构建更加丰富的专业化AI编程与软件工程工作流。",
+ "report": {
+  "summary": "OpenAI开源Codex Harness，赋能开发者构建定制化AI编程智能体。",
+  "background": "OpenAI此前已将Codex CLI开源，此次进一步开放其核心驱动框架Codex Harness。Harness是Codex各产品形态背后的智能体运行环境，负责管理Agent Loop、线程生命周期、配置认证、工具执行等流程，并通过App Server的JSON-RPC协议与客户端通信。目前该框架已支撑Codex Web、CLI、IDE扩展和macOS应用。OpenAI内部实践显示，一个产品在约5个月内由Codex生成约100万行代码、完成约1500个Pull Request，开发理念从“人工写代码”转向“人类设定目标、Agent执行”。此次开源意味着AI编程竞争正从模型能力延伸至智能体运行时和工具调用闭环。",
+  "key_points": [
+   "开源Harness核心框架，包含Agent Loop、线程生命周期、配置认证、工具执行等能力，开发者可复用Codex完整的智能体运行逻辑。",
+   "通过App Server和双向JSON-RPC协议，开发者能将Harness接入任意客户端，获得实时事件流，构建IDE、桌面应用等定制化Agent产品。",
+   "Harness已支撑Web、CLI、IDE扩展、macOS等多形态应用，OpenAI内部实现5个月百万行代码，验证了“设定目标、Agent执行”的开发模式。",
+   "AI编程竞争从模型能力扩展到智能体运行时、上下文管理和工程反馈闭环，Harness标准化为更多专业化工作流铺路。"
+  ],
+  "impact": "对AI行业而言，OpenAI将核心智能体运行时开源，可能促使更多厂商开放底层架构，推动Agent运行环境的标准化和生态竞争。对开发者来说，无需从零构建Agent框架，即可基于Codex打造垂直场景的编程助手或自动化工具，降低定制门槛。对普通用户，未来AI编程工具将更灵活、更深入集成到日常开发环境中，带来更高效率的软件交付体验。",
+  "tools": "建议关注Codex CLI、Codex Harness及App Server相关仓库；开发者可通过JSON-RPC协议自定义客户端，也可结合OpenAI API搭建自己的Agent工作流。同时可参考OpenAI公开的Harness工程实践文档。"
+ }
+}

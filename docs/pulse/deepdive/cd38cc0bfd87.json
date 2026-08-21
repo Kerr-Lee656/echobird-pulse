@@ -1,0 +1,23 @@
+{
+ "id": "cd38cc0bfd87",
+ "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spent-18-4-billion-205000688.html",
+ "title": "SpaceX单季度支出184亿美元——其中158亿美元用于人工智能。资金流向如下。",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-21T08:21:19.406Z",
+ "fetched_at": "2026-08-21T08:56:43.642610+00:00",
+ "content": "SpaceX Spent $18.4 Billion in a Single Quarter -- $15.8 Billion of It on AI. Here's Where the Money Is Going.\nIn the second quarter of 2026, SpaceX's (NASDAQ: SPCX) revenue surged 92% year over year to $7.8 billion, and it narrowed its net loss from $1.01 billion to $541 million. However, its total capex surged more than sixfold year over year, from $2.83 billion to $18.37 billion. It allocated $15.8 billion of that capex to expanding its AI business. Let's see where all that money went.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nWhat AI investments did SpaceX make?\nSpaceX originally operated two main businesses: its Starlink satellite internet services and its rocket launch services. But in Feb. 2026, it acquired xAI -- which owns Grok, X, and its other AI assets -- in an all-stock transaction to form its new AI business. It also acquired the AI start-up Cursor earlier this month. Elon Musk believes its AI revenue will jump from $3.5 billion in 2025 to $700-$750 billion in 2030.\nTo sow the seeds for that expansion, SpaceX spent most of its second-quarter capex on Nvidia's (NASDAQ: NVDA) data center GPUs and other AI accelerators. The rest was used to deploy, acquire, and build more high-power data centers to increase its active capacity from 1.4 GW today to its target of 10 GW by next year.\nThat would give it a lot more bandwidth to handle its multi-billion-dollar compute hosting contracts with external enterprise clients. However, the expansion of that unprofitable AI business could offset Starlink's profits and keep its bottom line in the red.\nShould you buy stock in Space Exploration Technologies right now?\nBefore you buy stock in Space Exploration Technologies, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Space Exploration Technologies wasn't one of them. The 10 stocks that made the cut are built for long-term growth and could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $419,408!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,348,694!*\nThat performance is why people listen. With a track record of beating the S&P 500 by nearly 5x, Stock Advisor offers a distinct advantage. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built for the long haul.",
+ "report": {
+  "summary": "SpaceX单季度资本开支184亿美元，其中158亿投向AI扩张。",
+  "background": "SpaceX原本以星链卫星互联网和火箭发射为主业。2026年2月，马斯克通过全股票交易将xAI（旗下有Grok、X等AI资产）并入SpaceX，随后又收购AI编程初创公司Cursor，正式组建AI业务板块。为了支撑马斯克提出的AI收入从2025年35亿美元跃升至2030年7000-7500亿美元的目标，SpaceX在2026年第二季度将绝大部分资本开支用于购买Nvidia数据中心GPU和扩建高功耗数据中心，计划将算力从1.4GW提升至明年10GW。",
+  "key_points": [
+   "SpaceX单季度总资本开支达184亿美元，同比暴增超6倍，其中158亿美元流向AI，占86%。",
+   "核心支出用于采购Nvidia数据中心GPU和其他AI加速器，以扩充算力基础设施。",
+   "大量资金用于部署和建设高功耗数据中心，目标将算力从1.4GW提升至明年10GW。",
+   "SpaceX通过收购xAI和Cursor快速切入AI赛道，形成Grok、X和AI编程工具的产品矩阵。",
+   "尽管AI业务带来外部企业算力托管合同，但巨额投入可能持续拖累整体利润。"
+  ],
+  "impact": "对AI行业而言，SpaceX巨资采购GPU将加剧高端算力需求紧张，推高数据中心建设成本；对开发者来说，xAI和Cursor的整合可能催生更强大的AI编程工具与模型生态；对普通用户而言，SpaceX加速AI商业化可能让Grok等产品更快迭代，但短期财务状况仍承压，需关注其AI业务能否按预期增收。",
+  "tools": "可关注Nvidia（GPU供应链）、xAI旗下Grok（模型）、Cursor（AI编程工具），以及SpaceX官方财报和Starlink业务动态，了解AI算力投资如何落地。"
+ }
+}
