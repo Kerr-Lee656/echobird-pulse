@@ -1,0 +1,22 @@
+{
+ "id": "485a47cc7281",
+ "url": "https://arxiv.org/abs/2608.20011",
+ "title": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-21T04:00:00.000Z",
+ "fetched_at": "2026-08-21T07:10:18.117851+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking\nView PDF HTML (experimental)\n            Abstract:Preference optimization is a standard alignment method for generative models, yet extending it to continuous-time dynamics remains non-trivial. In flow matching, reward-driven updates modify transport trajectories without an inherent constraint to the pretrained data manifold and can move terminal samples off the pretrained support. We formalize this failure mode as manifold drift. Theoretically, we show that optimal flow matching recovers the terminal data distribution, whereas a preference update leaves the pretrained manifold whenever its induced terminal displacement has a nonzero normal component. As a remedy, we propose ThermoDPO, a temperature-controlled objective that anchors pairwise preference optimization on preferred samples. Across temperature regimes, this objective connects rejection sampling fine-tuning and FlowDPO and controls a pointwise reconstruction-based surrogate for manifold distance. To counteract diminished signals at low temperatures, we further introduce a weighted variant, ThermoDPO-weighted. On the main toy benchmark, ThermoDPO-weighted attains a StrictScore of 0.899, compared with 0.629 for FlowDPO and 0.857 for FlowDPO+RFT. On SD3.5-M at CFG = 4.5, it improves OCR by 47.5% and the average of four metrics by 16.0%.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "偏好优化导致流匹配模型训练轨迹偏离原数据分布，提出ThermoDPO温度控制方法缓解奖励黑客问题。",
+  "background": "偏好优化是生成模型对齐的标准方法，但将其扩展到连续时间动力学（如流匹配）时存在问题。此前FlowDPO等方法直接优化奖励，却未约束训练轨迹保持在预训练数据流形内，导致生成样本偏移预训练支持域，即“流形漂移”。这种漂移被识别为奖励黑客的根源之一，意味着模型表面得分高但实际生成质量下降。本研究首次形式化该失败模式，并设计温度控制的目标函数，在保留对齐效果的同时锚定数据流形，为流匹配对齐提供了更安全的选择。",
+  "key_points": [
+   "论文定义了“流形漂移”概念，指出偏好更新在终端产生的位移若含法向分量，就会让样本偏离预训练数据流形。",
+   "理论证明最优流匹配可恢复终端数据分布，但偏好优化缺乏该保障，揭示奖励黑客的结构性原因。",
+   "提出ThermoDPO，通过温度参数调节目标函数，连接了拒绝采样微调和FlowDPO，并可近似流形距离。",
+   "加权变体ThermoDPO-weighted在玩具基准上StrictScore达0.899，远超FlowDPO的0.629，并在SD3.5-M上显著提升OCR和平均指标。"
+  ],
+  "impact": "对AI行业而言，该工作为流匹配模型的可靠对齐提供新思路，减少奖励黑客导致的模型失控风险，利于安全部署。对开发者，ThermoDPO提供可调温度的实用目标函数，便于在实际训练中平衡对齐强度与数据保真度。对普通用户，模型生成质量与稳定性有望提升，尤其在图像、视频等连续生成任务中减少失真。",
+  "tools": "可关注FlowDPO、DPO及相关流匹配对齐开源实现（如Hugging Face TRL库中的DPO变体）。论文方法ThermoDPO若开源，可在其官方仓库跟踪代码与基准测试。"
+ }
+}

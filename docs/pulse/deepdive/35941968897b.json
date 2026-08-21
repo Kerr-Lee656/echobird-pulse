@@ -1,0 +1,22 @@
+{
+ "id": "35941968897b",
+ "url": "https://arxiv.org/abs/2608.19408",
+ "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-21T04:00:00.000Z",
+ "fetched_at": "2026-08-21T07:09:06.451680+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 19 Aug 2026]\n    Title:Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress\nView PDF HTML (experimental)\n            Abstract:On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level supervision from a teacher. However, OPD implicitly assumes that teacher-derived rewards are an appropriate proxy for reasoning progress, and therefore treats all teacher feedback equally during policy optimization. While in practice, this assumption does not always hold. We observe that teacher-derived rewards often conflict with genuine reasoning progress, as reasoning steps with clear reasoning advancement may still receive lower distillation rewards, simply due to deviation from teacher's outputs. To address this mismatch, we propose Reasoning-Progress-Aware Reward Filtering for On-Policy Distillation (R2-OPD), which constructs two within-trajectory rankings of reasoning spans, one from teacher-derived rewards and the other from independently estimated progress reward. Distillation rewards are selectively suppressed whenever the two rankings disagree, reducing supervision that conflicts with reasoning progress while preserving effective teacher guidance. Our approach shows consistent improvement over standard OPD especially regarding reasoning performances.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "提出R2-OPD，过滤与推理进展冲突的蒸馏奖励，提升推理性能。",
+  "background": "在线策略蒸馏(OPD)是当前大模型后训练中常用范式，通过学生生成轨迹并提供教师token级监督来优化模型。OPD隐含假设教师奖励等同于推理进展，但实践中常出现偏差：某些推理步骤逻辑清晰、进展明确，却因与教师输出不一致而获低奖励。这种监督信号会误导学生模型，抑制其探索更好的推理路径。针对这一矛盾，论文提出R2-OPD方法，在轨迹内分别构建教师奖励和独立进展奖励的排序，当两者不一致时选择性抑制蒸馏奖励，从而保留有效教师指导、减少冲突信号，在推理任务上取得更好效果。",
+  "key_points": [
+   "传统OPD把教师奖励当作推理进展的代理指标，但两者经常冲突，导致合理推理步骤被低奖励压制。",
+   "R2-OPD构建两种轨迹内排序：教师奖励排序和独立估计的推理进展排序，检测它们的不一致。",
+   "当排序不一致时，选择性抑制蒸馏奖励，避免模型被误导，同时保留真正有效的教师指导。",
+   "实验表明，该方法在多种推理任务上稳定优于标准OPD，尤其擅长保护长链条推理中的合理中间步骤。"
+  ],
+  "impact": "对AI行业而言，R2-OPD提供一种更细致的蒸馏信号过滤机制，有助于降低对教师模型盲目模仿，推动大模型推理能力提升。对开发者来说，可以改进现有蒸馏训练流程，但需要额外实现进展奖励估计器，带来一定计算开销。对普通用户，意味着未来模型在复杂推理场景中更少被‘死板对齐’限制，回答逻辑更自然、更可靠。",
+  "tools": "读者可关注PyTorch和HuggingFace Transformers实现蒸馏训练，TRL库支持在线策略优化，vLLM可用于高效轨迹采样。此外，可参考相关蒸馏框架如LLM Distillation Toolkit，并关注论文是否开源R2-OPD代码。"
+ }
+}

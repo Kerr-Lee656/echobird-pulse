@@ -1969,5 +1969,122 @@
   "site_name": "AIbase",
   "published_at": "2026-08-21T02:53:59.258Z",
   "fetched_at": "2026-08-21T04:54:24.234698+00:00"
+ },
+ "b0a85230f92c": {
+  "id": "b0a85230f92c",
+  "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+  "title": "Young Americans increasingly fear AI will take their jobs",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T06:49:46Z",
+  "fetched_at": "2026-08-21T07:07:23.414645+00:00"
+ },
+ "df1a460505ac": {
+  "id": "df1a460505ac",
+  "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
+  "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T05:56:29Z",
+  "fetched_at": "2026-08-21T07:07:35.269044+00:00"
+ },
+ "7b47eab8cd2a": {
+  "id": "7b47eab8cd2a",
+  "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+  "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-08-21T05:45:21.000Z",
+  "fetched_at": "2026-08-21T07:07:52.551333+00:00"
+ },
+ "cae619eff42e": {
+  "id": "cae619eff42e",
+  "url": "https://github.com/vivekhaldar/seed",
+  "title": "Seed: Minimal, self-modifying agent harness",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T05:20:50Z",
+  "fetched_at": "2026-08-21T07:08:06.226278+00:00"
+ },
+ "1ab98cc84395": {
+  "id": "1ab98cc84395",
+  "url": "https://arxiv.org/abs/2608.19202",
+  "title": "Active Inference as Context Acquisition for AI Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:08:48.749586+00:00"
+ },
+ "17d9d4edb552": {
+  "id": "17d9d4edb552",
+  "url": "https://arxiv.org/abs/2608.19216",
+  "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:08:55.751582+00:00"
+ },
+ "35941968897b": {
+  "id": "35941968897b",
+  "url": "https://arxiv.org/abs/2608.19408",
+  "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:09:06.451680+00:00"
+ },
+ "ccc53e6c3ef1": {
+  "id": "ccc53e6c3ef1",
+  "url": "https://arxiv.org/abs/2608.19511",
+  "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:09:13.521025+00:00"
+ },
+ "8eeb9403a3f7": {
+  "id": "8eeb9403a3f7",
+  "url": "https://arxiv.org/abs/2608.19579",
+  "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:09:24.070506+00:00"
+ },
+ "9aa91011501a": {
+  "id": "9aa91011501a",
+  "url": "https://arxiv.org/abs/2608.19794",
+  "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:09:40.164882+00:00"
+ },
+ "485a47cc7281": {
+  "id": "485a47cc7281",
+  "url": "https://arxiv.org/abs/2608.20011",
+  "title": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:10:18.117851+00:00"
+ },
+ "409ca8d9c0a2": {
+  "id": "409ca8d9c0a2",
+  "url": "https://arxiv.org/abs/2608.20041",
+  "title": "A three-dimensional typology of agency for advanced AI systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:10:29.462215+00:00"
+ },
+ "f386ad159c47": {
+  "id": "f386ad159c47",
+  "url": "https://arxiv.org/abs/2608.20201",
+  "title": "The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-21T04:00:00.000Z",
+  "fetched_at": "2026-08-21T07:10:38.938857+00:00"
  }
 }

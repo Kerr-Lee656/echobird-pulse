@@ -5,19 +5,18 @@
  "source": "arXiv cs.AI",
  "site_name": "arXiv cs.AI",
  "published_at": "2026-08-21T04:00:00.000Z",
- "fetched_at": "2026-08-21T04:56:49.061602+00:00",
+ "fetched_at": "2026-08-21T07:09:13.521025+00:00",
  "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:Symposium: Trust via Auditable Records for Communities of AI Scientist Agents\nView PDF\n            Abstract:Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long-term, immutable histories of agent-driven research activity, leaving auditable trails of analyses, hypotheses, data, and scientific discourse. This shared record of published artifacts enables agents to build on prior work and preserves the evidence researchers and agents need to make purpose-dependent trust assessments. Symposium captures scientific argument, including structured claims, fine-grained evidence citations, assumptions, and explicit declarations of what material may and may not be used as evidence. Symposium differs from AI co-scientist agents or integrated AI research environments; it is a framework that separates a scientific community's durable history from the agents and other systems that operate on that history. It assumes that a community will use diverse AI systems in a rapidly evolving environment. A working implementation of the publication infrastructure, agent prompt components, and documentation are provided to enable users to rapidly set up and run their own Symposium community.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
  "report": {
-  "summary": "为AI科学家社区提供可审计记录框架，确保研究过程可信透明。",
-  "background": "随着AI智能体参与科学研究，其自动生成的假设、分析和结论缺乏透明度和可验证性，导致社区难以评估可信度。现有AI合作科学家工具或综合环境并未系统保存长期研究历史，且依赖特定系统。Symposium提出一种独立于具体AI系统的框架，为小规模科研社区提供不可篡改的共享记录，使智能体和研究者能追踪证据链、构建论证并做出基于目的的信任判断，从而适应快速演进的AI生态。",
+  "summary": "新框架Symposium为AI科学家代理社区提供不可篡改的可审计研究记录，增强信任。",
+  "background": "随着AI代理（agent）越来越多地参与科学研究，如何验证代理的研究过程、确保结果可信成为关键问题。现有的AI合著者或集成环境通常将历史记录与代理绑定，难以适应快速演进的AI工具。Symposium提出将社区的持久历史与代理分离，通过形式化框架和实现，记录研究活动、论点及证据，形成长期不可篡改的审计轨迹，从而支持社区内不同代理间的协作与信任评估。",
   "key_points": [
-   "Symposium建立长期不可变的历史记录，涵盖分析、假设、数据和科学讨论，形成完整审计轨迹。",
-   "它区分社区持久历史与操作历史的各种AI系统，避免被某一代技术绑定，支持多样化工具接入。",
-   "明确记录科学论证结构，包括结构化主张、细粒度证据引用、假设及可用性声明，强化证据链清晰度。",
-   "提供了可运行的基础设施、提示组件和文档，让小型社区能快速搭建并运营自己的Symposium实例。",
-   "不同于AI联合科学家或集成环境，它是记录层框架，不干预智能体本身，只维护社区共享记忆。"
+   "Symposium是一个正式框架，为小型科研社区中的AI代理提供长期、不可篡改的操作记录，形成完整审计轨迹。",
+   "它捕获科学论证的细节，包括结构化声明、细粒度证据引用、假设及证据使用限制，增强研究透明度。",
+   "与传统AI科学家工具不同，Symposium将社区历史与具体代理系统解耦，适配多样化和快速变化的AI生态。",
+   "提供可直接使用的发布基础设施、代理提示组件和文档，便于用户快速搭建自己的Symposium社区。"
   ],
-  "impact": "对AI行业，该框架推动可审计AI研究范式，提高智能体产出的透明度和可追溯性，有助于建立跨机构信任。对开发者，可基于提供的开源组件构建定制化科研社区，并灵活融入不同AI系统。对普通用户，能更清楚地追溯科研成果的证据来源，辅助判断研究结论是否可信，降低被不可靠AI生成内容误导的风险。",
-  "tools": "可关注论文附带的Symposium实现代码与文档，同时利用arXiv的Bibliographic Explorer、Connected Papers、Scite等工具辅助追踪相关文献和引用关系，便于上手实践。"
+  "impact": "对AI行业，该框架为多代理协作提供了信任基础设施，可能成为AI科研的标准记录层；对开发者，它提供了可复用的审计工具，降低构建可信代理系统的门槛；对普通用户，它提高了AI研究成果的可验证性，让科学发现更可靠、更可追溯。",
+  "tools": "可关注Symposium的官方实现、arXiv论文配套代码，以及相关工具如alphaXiv（论文交互）、CatalyzeX（代码查找）、Hugging Face（模型与数据）等，用以探索或复现该框架。"
  }
 }

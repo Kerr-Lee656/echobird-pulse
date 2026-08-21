@@ -1,0 +1,23 @@
+{
+ "id": "cae619eff42e",
+ "url": "https://github.com/vivekhaldar/seed",
+ "title": "Seed: Minimal, self-modifying agent harness",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T05:20:50Z",
+ "fetched_at": "2026-08-21T07:08:06.226278+00:00",
+ "content": "A seed agent: the smallest starting point from which an agent can grow.\nThere is no framework here. The entire frozen layer is seed.py —\na small loop that connects a language model to exactly one tool (exec, which\nruns bash) and loads its system prompt from a file the agent itself owns and\nmay rewrite. Everything an agent normally gets from a framework — tools,\nmemory, skills, conventions — must instead be grown by the agent, session by\nsession, into its self/ directory.\nmkdir my-agent && cd my-agent\nuvx --from git+https://github.com/vivekhaldar/seed.git seed\nFirst run copies seed.py and run_seed.sh into this directory (never\noverwriting a file that already exists), germinates self/SELF.md, and\ncommits those files together in a fresh git repo here — the loop is part of\nthis individual's history, not only self/. Then it drops you into a REPL.\nStart talking. Everything the agent wants to keep must be written into\nself/ — sessions are ephemeral and nothing else survives.\nCome back to the same agent with the local runner — no need to uvx again:\n./run_seed.sh\n./run_seed.sh -m gemini-2.5-pro\nA verbatim transcript of every session is recorded to self/sessions/*.json\n(updated after each turn). This is a flight recorder, not memory: the agent\nnever loads it at boot, but you can read it — and the agent may grow tools to\nstudy its own past.\nOne seed, many individuals: each directory you plant in grows a different agent, diverging based on what it experiences.\nModels and keys are handled entirely by llm\n(Simon Willison's library). The default model is openai-codex/gpt-5.6-sol,\nwhich uses the ChatGPT login from the Codex CLI:\ncodex login                      # one-time, per machine\n./run_seed.sh                    # uses openai-codex/gpt-5.6-sol\n./run_seed.sh -m gemini-2.5-pro  # or override it for one session\nBundled providers: OpenAI via a Codex subscription or API key, Anthropic, Gemini, and OpenRouter (one OpenRouter key unlocks hundreds of models).\nWhy it's shaped this way — McCarthy's metacircular eval, homoiconicity, the prior art, and the risks we consciously accepted: docs/DESIGN.md.",
+ "report": {
+  "summary": "Seed是极简自我修改Agent框架，让Agent通过bash自举成长",
+  "background": "当前AI Agent开发多依赖LangChain等厚重框架，预置工具链和记忆机制，但复杂抽象限制了透明度和可塑性。Seed项目反其道而行，用最小循环连接语言模型与bash执行工具，系统提示词存于Agent自有的文件且可被重写。它继承McCarthy的元循环求值和同像性思想，让Agent像种子一样在会话中主动生长出自己的工具、记忆和约定，探索一条更根本的自主性路径。",
+  "key_points": [
+   "无框架核心：整个冻结层只有seed.py，一个小循环连接LLM与bash执行工具，系统提示词从Agent自己可改的文件加载，其余全靠自造。",
+   "自我生长机制：Agent把工具、技能和记忆写进self/目录；每次会话都短暂易失，只有主动存入self/的内容才会留存。",
+   "飞行记录器：所有会话逐字记录到self/sessions/*.json，但启动时不加载；Agent可造工具研究自己的历史，而非被动回溯。",
+   "一籽多个体：在不同目录种下Seed，会因各自经验分化出不同Agent，持续迭代形成独特的行为习惯和工具集。",
+   "模型接入灵活：通过Simon Willison的llm库管理模型，默认使用Codex订阅的gpt-5.6-sol，也能切换Gemini、Anthropic等。"
+  ],
+  "impact": "对AI行业，Seed展示了一个极简而激进的反框架设计，挑战“预置一切”的Agent平台逻辑，为可解释的自我修改系统提供了参照。对开发者，它降低了上手门槛，但需自己思考如何让Agent稳定生长，并警惕自修改带来的失控风险。对普通用户，意味着未来个人助手可以真正从零长成自己的形态，但目前仍需命令行技术背景才能驾驭。",
+  "tools": "建议关注Seed仓库本身；配套使用Simon Willison的llm命令行工具管理多模型，用uvx/uv初始化环境，以及Codex CLI作为默认模型后端。可阅读docs/DESIGN.md理解设计动机。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "b0a85230f92c",
+ "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+ "title": "Young Americans increasingly fear AI will take their jobs",
+ "source": "Hacker News (3pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T06:49:46Z",
+ "fetched_at": "2026-08-21T07:07:23.414645+00:00",
+ "content": "Americans have become increasingly worried about artificial intelligence over the years, and young adults’ concern has continued to climb. Worry over job loss, too, is on the rise.\nToday, 52% of Americans say they are more concerned than excited about the increased use of AI in daily life – up from 37% in 2021. Another 9% are more excited than concerned and 37% say they’re equally excited and concerned, according to a Pew Research Center survey conducted June 22-28, 2026.\nConcern about AI is up among younger and older Americans alike since we first asked this question in 2021. But while the rise was mainly in the first two years for Americans ages 30 and older, concern continues to climb for adults under 30 – whose skepticism of AI has made headlines in recent months.\nMore concerned than excited\nMore excited than concerned\nFor the first time, a majority of adults under 30 (55%) now say they’re more concerned than excited about AI. About one-in-ten say they’re more excited than concerned, and roughly a third feel both equally. Their concern is now on par with those in their 30s and 40s, and those 65 and up.\nAcross age groups, about half or more say they’re more concerned than excited about AI. Excitement, in turn, has dropped off since 2021 among all age groups.\nAI and jobs\nEven in 2021, job loss was one of the top reasons behind Americans’ concern about AI. Today, Americans largely – and increasingly – think AI-related job loss is on the horizon.\nIn our new survey, 71% of adults think AI will lead to fewer jobs in the United States over the next two decades, up from 64% in 2024. Few (5%) say AI will lead to more jobs. One-in-ten say it won’t make much difference, and a slightly larger share are unsure.\nAcross most age groups, it’s become more common for Americans to foresee job loss from AI. For example, 73% of adults under 30 now say AI will lead to fewer jobs, up from 61% two years ago.\nThe youngest adults are now just as likely as those ages 30 to 64 to hold this view. Americans 65 and older are a bit less likely to think AI will lead to fewer jobs, though this is still the majority view among this age group.\nWorry over job loss has shown up throughout our research about AI, including among workers and even teenagers. And there’s no shortage of expert debate – many warn AI is a threat to jobs, while others have argued it creates them.\nYoung adults aren’t the only ones concerned about AI’s increasing use in daily life, or about job loss. Still, our past work shows they stand out in other ways.\nAdults under 30 are most likely to think AI will be bad for society – and for them. They largely think it will make connection and creativity harder to come by. And though most say they use chatbots, they’re just as likely to say these tools hurt their own creativity as help it.\nNote: Here are the questions we used for this analysis, the topline and the survey methodology.",
+ "report": {
+  "summary": "调查显示美国年轻人对AI夺走工作的担忧持续上升。",
+  "background": "自2021年Pew Research Center开始追踪美国人对AI的态度以来，整体担忧情绪持续增长。2026年最新调查显示，52%的美国人表示对AI在日常生活中的应用更担忧而非兴奋，较2021年的37%显著上升。其中30岁以下成年人的担忧尤其突出，首次有55%的人表示更担忧，而2021年这一比例还较低。与此同时，认为AI会导致未来20年工作岗位减少的比例从2024年的64%升至71%。这一趋势反映了生成式AI快速普及后，年轻人对就业前景的不安，也呼应了近期关于AI影响创造力和人际连接的广泛讨论。",
+  "key_points": [
+   "30岁以下美国人中55%对AI更担忧而非兴奋，首次成为该群体多数观点，与30-40岁及65岁以上人群的担忧程度持平。",
+   "71%的美国成年人认为AI在未来20年将导致就业岗位减少，比2024年上升7个百分点，仅5%认为会增加岗位。",
+   "年轻人对AI导致失业的预期大幅上升，73%的30岁以下成年人持此看法，比两年前增加12个百分点。",
+   "所有年龄组对AI的兴奋感自2021年以来均下降，整体美国人对AI的态度从乐观转向谨慎和怀疑。",
+   "年轻人还认为AI会损害社会联系和创造力，即使多数人使用聊天机器人，也认为其对创造力的负面影响不亚于正面作用。"
+  ],
+  "impact": "对AI行业而言，公众尤其是年轻人的担忧可能影响技术推广、监管政策和投资方向，企业需更重视AI的透明度和就业影响。对开发者来说，需要关注AI替代人力的风险评估，并开发增强而非取代人类能力的工具。对普通用户，尤其是年轻职场人，应主动学习AI技能以适应变化，同时关注职业转型机会，而社会层面可能需要加强再培训和保障体系以缓解转型阵痛。",
+  "tools": "若想了解AI对就业的影响，可关注美国劳工统计局就业预测（BLS）、世界经济论坛未来就业报告，以及OpenAI和Anthropic发布的经济影响研究。开发者可使用Hugging Face的评估工具或MIT的AI指数报告跟踪技术进展。"
+ }
+}

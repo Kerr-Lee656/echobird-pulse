@@ -1,0 +1,23 @@
+{
+ "id": "9aa91011501a",
+ "url": "https://arxiv.org/abs/2608.19794",
+ "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-21T04:00:00.000Z",
+ "fetched_at": "2026-08-21T07:09:40.164882+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents\nView PDF HTML (experimental)\n            Abstract:The convergence of large language models (LLMs), structured knowledge bases (KBs), and reasoning ability (RA) presents a promising trajectory toward general embodied intelligence (GEI). This paper reviews the evolution of LLM-centered intelligent systems, emphasising their integration with knowledge representation, logical reasoning, and physical embodiment. We analyse LLM architectures, pre-training methods, and inference mechanisms, along with their interaction with external knowledge sources and structured reasoning frameworks. Furthermore, we examine embodied intelligence (EI) paradigms wherein agents learn and act in physical environments. To synthesise these dimensions, we present a conceptual framework that illustrates the synergy among LLMs, KBs, RA, and embodiment, serving as a guiding model for perception, reasoning, and action rather than an implemented engineering architecture. To advance toward GEI, we identify five key challenges: efficient LLM deployment, closed-loop knowledge integration, hybrid symbolic-neural reasoning, perception-action grounding, and continual learning. This survey provides a comprehensive roadmap for developing adaptive, multimodal agents capable of operating in complex, dynamic settings.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "综述LLM、知识库与推理融合，提出通用具身智能概念框架与五大挑战。",
+  "background": "近年来，大语言模型在语言生成和复杂任务上表现惊艳，但大多停留在数字世界，缺少对物理环境的感知与交互能力。与此同时，具身智能成为AI研究新前沿，目标是让智能体像人一样在真实空间中学习、行动。然而，单靠LLM的“下一词预测”并不足以支撑可靠的常识推理和实时决策。这篇综述正是在此背景下出现，试图把LLM、结构化知识库与传统推理能力整合起来，为下一代通用具身智能体提供统一的概念框架和清晰的挑战清单。",
+  "key_points": [
+   "论文提出“LLM+知识库+推理”三位一体路径，让AI不仅能说话，还能在物理世界理解和行动。",
+   "它为通用具身智能画了一张概念蓝图，阐明感知、推理、行动如何协同，而非具体代码方案。",
+   "作者点出五大拦路虎：部署效率、知识闭环、符号与神经混合推理、感知行动校准、持续学习。",
+   "综述覆盖从LLM架构到机器人学习范式，给研究者提供了系统性的文献地图。",
+   "提醒人们通用具身智能不能只靠模型增大，还需要结构化知识和对世界的真实感知。"
+  ],
+  "impact": "对AI行业：研究重心将加速从纯语言模型转向“语言+知识+物理世界”的复合系统，推动机器人、自动驾驶等场景落地。对开发者：需掌握知识工程、神经符号推理和仿真平台，构建能感知、决策、行动的闭环系统。对普通用户：未来或迎来更懂物理世界的家庭助理和服务机器人，不再只是聊天对话。",
+  "tools": "可关注Hugging Face Transformers（LLM）、LangChain/LlamaIndex（知识库集成）、Neo4j（知识图谱）、MuJoCo/Isaac Gym（具身仿真）以及PyTorch。若要探索神经符号推理，可留意DeepMind的graph networks或Prolog相关教程。"
+ }
+}

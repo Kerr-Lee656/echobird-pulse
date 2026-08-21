@@ -1,0 +1,22 @@
+{
+ "id": "f386ad159c47",
+ "url": "https://arxiv.org/abs/2608.20201",
+ "title": "The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-21T04:00:00.000Z",
+ "fetched_at": "2026-08-21T07:10:38.938857+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents\nView PDF HTML (experimental)\n            Abstract:Software form has undergone two paradigm shifts since its inception: Software 1.0, in which instructions determine behavior, and Software 2.0, in which data determines behavior (machine learning). This paper argues that a third shift - Software 3.0, in which context and reasoning determine behavior - is now underway, and contends that its terminal form converges to three elements: a generalized database (the unified abstraction of all persistent state and memory), a large model (the intelligence core that performs reasoning and generation), and an agent (the execution loop connecting the first two). The core argument is as follows: in the traditional three-tier architecture, the user-interface layer will be absorbed by the model's ability to generate interfaces on demand, the business-logic layer will be re-partitioned along \"expressibility x criticality\" into model reasoning and storage constraints (with residual deterministic logic retained as tools), and only the data layer will be elevated into the sole persistent infrastructure. We formalize this convergence thesis, present a minimal reference architecture, report evidence from real prototypes and a live model, and systematically analyze both the conditions under which it holds and the boundaries where it fails - determinism, cost, security, and verifiability delimit the thesis's domain of applicability. We argue that the thesis holds in task domains that are expressible, verifiable, externally stateful, and tool-complete, and that it will reshape the roles of developers, the database industry, and the software-engineering discipline.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "论文提出软件3.0范式，软件形态将收敛为存储、模型与智能体三要素。",
+  "background": "软件发展先后经历指令驱动的软件1.0和数据驱动的软件2.0（机器学习）。如今大模型和智能体技术兴起，交互方式和业务逻辑生成方式发生根本变化。本文提出软件3.0：上下文与推理决定行为，认为传统三层架构中界面层被模型按需生成所吸收，业务逻辑层按可表达性与关键性被拆分，仅数据层保留为持久基础设施。作者给出了一套收敛论点、参考架构和原型证据，并划定了适用边界。",
+  "key_points": [
+   "软件3.0核心是上下文与推理驱动行为，区别于指令驱动和数据驱动，是一次范式跃迁。",
+   "最终形态收敛为三要素：广义数据库统一存储状态，大模型提供推理，智能体负责执行循环。",
+   "传统三层架构中UI层被模型生成界面取代，业务逻辑层被拆分，仅数据层上升为唯一持久层。",
+   "论点不是普遍成立，受确定性、成本、安全性和可验证性约束，仅在可表达、可验证、有状态和工具完整的场景适用。"
+  ],
+  "impact": "对AI行业而言，这指引了基础设施向存储+模型+智能体融合的方向，数据库与大模型将深度耦合。对开发者，写UI和业务逻辑的工作可能转向设计状态与约束、编排智能体，软件工程重点从实现变为验证。对普通用户，软件交互将从固定界面转向对话式、按需生成的体验，但关键场景的可靠性仍需人机协作来保障。",
+  "tools": "可关注LangChain、LlamaIndex等智能体编排框架，以及Milvus、Pinecone等向量数据库；结合RAG和函数调用工具，可动手复现论文的存储-模型-智能体参照架构。"
+ }
+}
