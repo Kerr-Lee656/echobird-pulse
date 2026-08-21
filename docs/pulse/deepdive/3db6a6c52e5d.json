@@ -1,0 +1,23 @@
+{
+ "id": "3db6a6c52e5d",
+ "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
+ "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T16:50:06.312826+00:00",
+ "content": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses (techcrunch.com) 9\n\t\t\t\n\t\t \t\n\t\t\t\tGoogle is giving publishers a new way to fight declining referral traffic from AI-powered search by letting them embed a \"Preferred Sources\" button that readers can use to favor their sites across Search, Discover, and Google News. \"The idea is to make it easier for readers to find links from the sites they know and trust when they're searching for content or interacting with Google's AI to learn about a topic or read the latest news,\" reports TechCrunch. \"As of May's launch, the company said that people across the web had already selected over 345,000 unique sources through this method.\" From the report:  Becoming a preferred source can drive more traffic to publishers' websites, Google said. In earlier studies, it found that people are twice as likely to click through to a preferred source when available. By offering publishers these additional tools, Google is trying to assuage the damage that the rapid growth of AI-powered search features has had on traffic-dependent businesses.\n \nAlongside the new button, Google said that readers will soon be able to customize their Discover feed in Google's app in their own words. To use this feature, readers will tap any three-dot menu in the feed and then tell Google what topics they'd like to see more or less of, using natural language commands. This helps Google refine the feed in real time.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nAlongside the new button, Google said that readers will soon be able to customize their Discover feed in Google's app in their own words. To use this feature, readers will tap any three-dot menu in the feed and then tell Google what topics they'd like to see more or less of, using natural language commands. This helps Google refine the feed in real time.",
+ "report": {
+  "summary": "Google推“首选来源”按钮，助出版商应对AI搜索导致的流量下滑。",
+  "background": "随着AI生成摘要逐渐占据搜索首屏，用户直接点击网页链接的比例大幅下降，依赖搜索流量生存的新闻出版业受到严重冲击。作为回应，Google推出了“Preferred Sources”按钮，允许读者在搜索、Discover和Google News中明确标记自己信任的网站，使这些来源在结果中优先展示。该机制旨在把内容分发的部分控制权交还给用户和出版商，同时也能缓解监管和行业对AI搜索挤压内容生态的批评。自5月发布以来，已有超过34.5万个独特来源被用户选中。",
+  "key_points": [
+   "出版商可嵌入“首选来源”按钮，用户点击后，该站内容会在搜索、Discover和Google News中优先呈现。",
+   "Google早期研究显示，当结果中包含用户的首选来源时，点击率是普通结果的两倍。",
+   "目前已有超34.5万个独立来源被用户选中，说明这一功能正在被广泛采纳。",
+   "Discover信息流新增自然语言定制功能，用户通过三个点菜单告诉Google想看更多或更少的内容。",
+   "这是Google在AI驱动流量损失压力下，尝试平衡用户体验与出版商利益的重要动作。"
+  ],
+  "impact": "对AI行业：搜索不再是单纯的算法分发，用户偏好权重上升，AI摘要需与用户信任源协同。对开发者：寻找能提升内容可见性的机制，需关注Google搜索中心更新及站点嵌入首选来源按钮的适配。对普通用户：可以主动控制信息源，减少AI推荐带来的陌生内容，但也可能加剧信息茧房。整体来看，该功能有助于内容生态的可持续性，但过滤副作用仍需观察。",
+  "tools": "Google Search Central（官方文档和按钮嵌入指引）是跟进首选来源功能的主要渠道。此外，发布者可在Google News Publisher Center配置站点，开发者可参考Discover Feed API来集成自然语言偏好设置。"
+ }
+}

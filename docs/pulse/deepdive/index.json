@@ -2446,5 +2446,95 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-08-21T13:01:13.000Z",
   "fetched_at": "2026-08-21T14:58:19.218051+00:00"
+ },
+ "3db6a6c52e5d": {
+  "id": "3db6a6c52e5d",
+  "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
+  "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T16:50:06.312826+00:00"
+ },
+ "05f582b31c0a": {
+  "id": "05f582b31c0a",
+  "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+  "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T16:50:13.708411+00:00"
+ },
+ "fd78f9a5f57d": {
+  "id": "fd78f9a5f57d",
+  "url": "https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips",
+  "title": "Nvidia is in talks with the Korean inference chip designer Rebellions",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T16:50:35.206177+00:00"
+ },
+ "7ec04a7fcf5d": {
+  "id": "7ec04a7fcf5d",
+  "url": "https://www.ithome.com/0/992/882.htm",
+  "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T15:32:33Z",
+  "fetched_at": "2026-08-21T16:51:22.598827+00:00"
+ },
+ "74c649d1c40b": {
+  "id": "74c649d1c40b",
+  "url": "https://www.huxiu.com/article/4885033.html?f=rss",
+  "title": "3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T13:09:25Z",
+  "fetched_at": "2026-08-21T16:51:42.192647+00:00"
+ },
+ "9ceb60ad701b": {
+  "id": "9ceb60ad701b",
+  "url": "https://github.com/openai/codex/commit/5bcd7b0fbcefb41d0caa8db1a212ad7d47cf93ab",
+  "title": "OpenAI Codex adds hidden \"Daybreak Blue\" and \"Daybreak Red\" cybersecurity models",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T16:21:15Z",
+  "fetched_at": "2026-08-21T16:53:03.850837+00:00"
+ },
+ "6ace8607e70f": {
+  "id": "6ace8607e70f",
+  "url": "https://openai.com/index/chatgpt-for-teens/",
+  "title": "Introducing ChatGPT for Teens",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T15:28:22Z",
+  "fetched_at": "2026-08-21T16:53:11.539410+00:00"
+ },
+ "97caf3880267": {
+  "id": "97caf3880267",
+  "url": "https://canews24.online/?p=71",
+  "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+  "source": "Hacker News (72pts, 41c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T15:25:42Z",
+  "fetched_at": "2026-08-21T16:53:24.344277+00:00"
+ },
+ "a671dce0ae97": {
+  "id": "a671dce0ae97",
+  "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+  "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-21T14:00:00.000Z",
+  "fetched_at": "2026-08-21T16:54:03.433509+00:00"
+ },
+ "e7aa10c4ee8c": {
+  "id": "e7aa10c4ee8c",
+  "url": "https://github.com/talvikai/mak4i-protocol",
+  "title": "MAK4I – An open protocol for reusable AI artifacts across AI systems",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T13:54:37Z",
+  "fetched_at": "2026-08-21T16:54:14.671327+00:00"
  }
 }
