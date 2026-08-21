@@ -1,0 +1,22 @@
+{
+ "id": "07c8e4159fa6",
+ "url": "https://www.aibase.com/news/30530",
+ "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-21T08:26:10.013Z",
+ "fetched_at": "2026-08-21T10:46:36.779992+00:00",
+ "content": "Alibaba has officially launched the Qwen-UI-Agent, a GUI agent foundation model centered on the real world. This model comprehensively covers mobile, desktop, web, and deep search environments, aiming to break the limitations of traditional simulation testing, enabling the model to seamlessly operate on complex real devices.\nComprehensive Performance Exceeding Industry Leaders\nIn various authoritative tests and real-world environments, Qwen-UI-Agent has demonstrated strong capabilities:\n- Mobile Performance: Achieved an impressive score of 82.1% in the MobileWorld test, surpassing multiple major international flagship models; in its self-built benchmark test MobileWorld-Real with over 100 real devices, the success rate reached as high as 92.2%, and it was nearly perfect in Android Daily.\n- Desktop Performance: Scored 79.5% in OSWorld-Verified, and significantly reduced the number of execution steps compared to the baseline in multiple tasks.\n- Web and General Capabilities: Ranked first among all comparison models in the WebArena web test, and its general and Agentic capabilities fully surpassed the training base model, capable of handling long-tail demands effortlessly.\nMoving from Simulation to Real Devices\nTo bridge the final gap between \"simulation and reality,\" Qwen-UI-Agent has built a real mobile environment covering more than 100 real phones and 150+ applications for task building, trajectory collection, and model training. It also introduced the MobileWorld-Real real-device benchmark with over 400 tasks, allowing the development team to make precise selections based on real-device success rates.\nEfficient Instructions and Security Control\nIn terms of functional features, this model not only supports conventional GUI interface operations but can also directly execute command-line operations. It outputs batch actions in a single decision, significantly shortening the execution trajectory and improving efficiency. At the same time, it has a complete security judgment mechanism throughout the process: when facing illegal or high-risk requests, it will directly refuse and terminate the task; when involving sensitive scenarios such as payments, data deletion, and privacy authorization, it will stop at key steps and wait for user confirmation before continuing.\nAdditionally, this model supports online reinforcement learning training on trajectories longer than 100 steps, combined with adaptive curriculum learning, continuously tackling challenging long-term tasks.\nProject Homepage: https://tongyi-mai.github.io/Qwen-UI-Agent/",
+ "report": {
+  "summary": "阿里开源真机UI代理基座模型Qwen-UI-Agent，覆盖多端",
+  "background": "传统GUI代理多在模拟环境中训练和测试，难以应对真实设备的复杂性和不确定性。阿里推出Qwen-UI-Agent，这是一个以真实世界为中心的GUI代理基座模型，覆盖移动、桌面、Web和深度搜索场景。团队搭建了包含100多台真机、150+应用的真实环境，并推出超过400任务的MobileWorld-Real基准，以缩小模拟与现实的差距。在多项权威测试中，该模型性能超越多个国际旗舰模型。",
+  "key_points": [
+   "性能全面领先：MobileWorld测试达82.1%，自建真机基准成功率达92.2%，OSWorld-Verified得分79.5%，WebArena排名第一。",
+   "真机数据驱动：构建100+真机、150+应用的真实移动环境，用于任务构建、轨迹采集和训练，推出400+任务的MobileWorld-Real基准。",
+   "高效指令与安全控制：支持单次决策输出批量动作和命令行操作，缩短执行轨迹；对非法请求直接拒绝，涉及支付、删除等高危操作时等待用户确认。",
+   "长轨迹强化学习：支持超过100步的轨迹在线强化学习，结合自适应课程学习，持续攻克长时复杂任务。"
+  ],
+  "impact": "对AI行业，该模型将GUI代理从模拟推向真实设备，提供了新基准和开源基座，促进多端智能体落地。对开发者，可基于真机数据和开源权重减少测试成本，方便微调和部署。对普通用户，未来AI助手将能更可靠地操控手机、电脑和网页，自动完成跨应用复杂任务，提升效率。",
+  "tools": "建议关注Qwen-UI-Agent项目主页（tongyi-mai.github.io/Qwen-UI-Agent）获取模型和代码。相关工具包括Qwen系列模型、MobileWorld-Real基准、OSWorld和WebArena等测试平台，可用于评估与微调。"
+ }
+}

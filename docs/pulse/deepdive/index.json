@@ -2167,5 +2167,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-21T06:12:09Z",
   "fetched_at": "2026-08-21T08:58:04.284148+00:00"
+ },
+ "0df9f1624d73": {
+  "id": "0df9f1624d73",
+  "url": "https://www.aibase.com/zh/news/30527",
+  "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T10:45:32.551864+00:00"
+ },
+ "07c8e4159fa6": {
+  "id": "07c8e4159fa6",
+  "url": "https://www.aibase.com/news/30530",
+  "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T08:26:10.013Z",
+  "fetched_at": "2026-08-21T10:46:36.779992+00:00"
+ },
+ "aae948c19598": {
+  "id": "aae948c19598",
+  "url": "https://finance.yahoo.com/technology/ai/articles/stripe-7b-openrouter-deal-signals-210854511.html",
+  "title": "Stripe以70多亿美元收购OpenRouter，标志着向AI基础架构的转型",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T08:05:14.113Z",
+  "fetched_at": "2026-08-21T10:46:51.616334+00:00"
+ },
+ "b3b7f51fd1dc": {
+  "id": "b3b7f51fd1dc",
+  "url": "https://annas-archive.pk/blog/physical-destruction.html",
+  "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T10:05:46Z",
+  "fetched_at": "2026-08-21T10:48:25.233702+00:00"
+ },
+ "f99074513e67": {
+  "id": "f99074513e67",
+  "url": "https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese",
+  "title": "American AI May Not Survive Chinese Open-Source",
+  "source": "Hacker News (1pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T09:57:33Z",
+  "fetched_at": "2026-08-21T10:48:39.174364+00:00"
+ },
+ "4b78a3cc3dce": {
+  "id": "4b78a3cc3dce",
+  "url": "https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4",
+  "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+  "source": "DeepSeek：API 更新日志",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-21T09:26:04.000Z",
+  "fetched_at": "2026-08-21T10:48:52.476082+00:00"
+ },
+ "7d948202e470": {
+  "id": "7d948202e470",
+  "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+  "title": "When AI designs a drug, who gets the credit?",
+  "source": "MIT Tech Review",
+  "site_name": "MIT Tech Review",
+  "published_at": "2026-08-21T09:00:00.000Z",
+  "fetched_at": "2026-08-21T10:49:06.864337+00:00"
+ },
+ "ddd133907d96": {
+  "id": "ddd133907d96",
+  "url": "https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list",
+  "title": "White House tech strategy leaves open-weight AI off its critical list",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T08:48:46Z",
+  "fetched_at": "2026-08-21T10:49:21.352659+00:00"
+ },
+ "6114ae4ad7f2": {
+  "id": "6114ae4ad7f2",
+  "url": "https://arxiv.org/abs/2608.15888",
+  "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T08:32:17Z",
+  "fetched_at": "2026-08-21T10:49:35.010532+00:00"
  }
 }
