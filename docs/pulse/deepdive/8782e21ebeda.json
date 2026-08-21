@@ -1,0 +1,23 @@
+{
+ "id": "8782e21ebeda",
+ "url": "https://github.com/aaif-goose/goose",
+ "title": "aaif-goose/goose — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-21T18:59:24.392001+00:00",
+ "content": "your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between\ngoose is a general-purpose AI agent that runs on your machine. Not just for code — use it for research, writing, automation, data analysis, or anything you need to get done.\nA native desktop app for macOS, Linux, and Windows. A full CLI for terminal workflows. An API to embed it anywhere. Built in Rust for performance and portability.\ngoose works with 15+ providers — Anthropic, OpenAI, Google, Ollama, OpenRouter, Azure, Bedrock, and more. Use API keys or your existing Claude, ChatGPT, or Gemini subscriptions via ACP. Connect to 70+ extensions via the Model Context Protocol open standard.\ngoose is part of the Agentic AI Foundation (AAIF) at the Linux Foundation.\nDownload the desktop app for macOS, Linux, and Windows.\nOr install the CLI:\ncurl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download_cli.sh | bash\n- Quickstart\n- Installation\n- Tutorials\n- Documentation\n- Governance\n- Custom Distributions — build your own goose distro with preconfigured providers, extensions, and branding\nWhy did the developer choose goose as their AI agent?\nBecause it always helps them \"migrate\" their code to production! 🚀",
+ "report": {
+  "summary": "开源AI代理goose发布，支持多模型，可编码与自动化。",
+  "background": "随着大语言模型能力增强，AI编程工具正从被动代码补全转向主动执行任务。goose由Linux基金会旗下Agentic AI Foundation（AAIF）孵化，采用Rust语言开发，定位为通用型本地AI代理，支持桌面、CLI和API三种使用方式。它兼容Anthropic、OpenAI、Google等15家以上模型提供商，并基于Model Context Protocol（MCP）标准连接70多个扩展，试图成为AI代理领域的开放基础设施。项目开源，提供治理框架和企业自定义发行版选项。",
+  "key_points": [
+   "goose是开源通用AI代理，不仅能处理代码，还能用于研究、写作、自动化、数据分析等任务，运行在用户本地机器上。",
+   "提供macOS、Linux、Windows桌面应用，同时有完整CLI和可嵌API，基于Rust构建，兼顾性能与跨平台便携性。",
+   "支持15+模型提供商，包括Anthropic、OpenAI、Google、Ollama、OpenRouter等，也可用现有ChatGPT/Claude订阅通过ACP接入。",
+   "通过Model Context Protocol开放标准连接70+扩展，让代理能调用外部工具和服务，构建可扩展工作流。",
+   "归属Linux基金会旗下AAIF，提供治理机制和自定义发行版，方便企业和开发者定制预配置和品牌。"
+  ],
+  "impact": "对AI行业而言，goose代表了开源社区在自主智能体领域的集体努力，推动AI代理标准化和互操作。对开发者，多模型兼容和MCP生态降低了绑定成本，能灵活在本地执行编辑、安装、测试等真实任务。对普通用户，桌面应用和自然语言交互让自动化操作门槛下降，能借助AI完成日常事务。整体而言，它可能成为类似Linux在服务器领域那样的开放基石。",
+  "tools": "可安装goose CLI或桌面应用（见GitHub Releases），关注MCP规范和AAIF社区以进行扩展开发与治理参与。"
+ }
+}

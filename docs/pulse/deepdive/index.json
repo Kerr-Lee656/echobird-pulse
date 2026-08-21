@@ -2536,5 +2536,131 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T13:54:37Z",
   "fetched_at": "2026-08-21T16:54:14.671327+00:00"
+ },
+ "39f0275617eb": {
+  "id": "39f0275617eb",
+  "url": "https://thenextweb.com/news/meta-microsoft-azure-foundry-ai-model-spending",
+  "title": "Meta pays Microsoft hundreds of millions a year to rent AI models",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:55:21.595314+00:00"
+ },
+ "eaa9878cdcd9": {
+  "id": "eaa9878cdcd9",
+  "url": "https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags",
+  "title": "Apple Music will label AI songs, and the tags behind them are now mandatory",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:55:38.820152+00:00"
+ },
+ "b4ee876ead2c": {
+  "id": "b4ee876ead2c",
+  "url": "https://hub.baai.ac.cn/view/57313",
+  "title": "如果中国真的赢下人工智能竞赛，会发生什么？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:56:00.421527+00:00"
+ },
+ "98b2377d01e0": {
+  "id": "98b2377d01e0",
+  "url": "https://www.leiphone.com/category/robot/rlnc7wOi4Q7hymVJ.html",
+  "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能登场",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:56:10.489780+00:00"
+ },
+ "5b22c5240ed8": {
+  "id": "5b22c5240ed8",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-beats-quarterly-revenue-estimates-093547658.html",
+  "title": "阿里巴巴加大人工智能基础设施投入后，利润下降75%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T18:13:30.835Z",
+  "fetched_at": "2026-08-21T18:56:20.102007+00:00"
+ },
+ "3074e660814c": {
+  "id": "3074e660814c",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/meet-unitree-10-old-robotics-093000440.html",
+  "title": "来认识一下Unitree——这家成立仅10年的机器人公司，其股票在首次公开募股时暴涨了600%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T18:13:30.831Z",
+  "fetched_at": "2026-08-21T18:56:38.899086+00:00"
+ },
+ "ed3ca5cc3ad5": {
+  "id": "ed3ca5cc3ad5",
+  "url": "https://finance.yahoo.com/technology/ai/articles/hyperscalers-spend-750-billion-ai-172500304.html",
+  "title": "今年，超大规模科技公司将在人工智能领域投入7500亿美元。康明斯则提供备用电源。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T17:41:21.663Z",
+  "fetched_at": "2026-08-21T18:56:48.854996+00:00"
+ },
+ "9f89e4bcef1c": {
+  "id": "9f89e4bcef1c",
+  "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html",
+  "title": "博通为人工智能芯片交易寻求最高800亿美元的债务融资",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T17:41:21.652Z",
+  "fetched_at": "2026-08-21T18:56:59.978199+00:00"
+ },
+ "a6ef2891e94b": {
+  "id": "a6ef2891e94b",
+  "url": "https://www.businessinsider.com/openai-training-pause-highlights-ai-safety-challenges-2026-8",
+  "title": "OpenAI’s training pause is convenient. That doesn't make it meaningless.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:57:40.959024+00:00"
+ },
+ "8782e21ebeda": {
+  "id": "8782e21ebeda",
+  "url": "https://github.com/aaif-goose/goose",
+  "title": "aaif-goose/goose — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T18:59:24.392001+00:00"
+ },
+ "d7769cca3859": {
+  "id": "d7769cca3859",
+  "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+  "title": "I Worked at OpenAI. Here Are the Guardrails We Need Now",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T18:20:05Z",
+  "fetched_at": "2026-08-21T18:59:35.430116+00:00"
+ },
+ "9e96fb9e172a": {
+  "id": "9e96fb9e172a",
+  "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
+  "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+  "source": "Claude：Blog（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-21T17:58:29.000Z",
+  "fetched_at": "2026-08-21T18:59:55.348240+00:00"
+ },
+ "82c1305bb043": {
+  "id": "82c1305bb043",
+  "url": "https://arxiv.org/abs/2608.12851",
+  "title": "Every skill-evolution method authored unsafe skills across four agent harnesses",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T17:34:06Z",
+  "fetched_at": "2026-08-21T19:00:12.314850+00:00"
+ },
+ "5fea08005fa7": {
+  "id": "5fea08005fa7",
+  "url": "https://arxiv.org/abs/2608.10920",
+  "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T17:22:56Z",
+  "fetched_at": "2026-08-21T19:00:52.480024+00:00"
  }
 }

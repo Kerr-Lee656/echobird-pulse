@@ -1,0 +1,22 @@
+{
+ "id": "5fea08005fa7",
+ "url": "https://arxiv.org/abs/2608.10920",
+ "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T17:22:56Z",
+ "fetched_at": "2026-08-21T19:00:52.480024+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 11 Aug 2026]\n    Title:IO Factory: Simulating AI-Enabled Influence Campaigns at Scale\nView PDF HTML (experimental)\n            Abstract:We introduce IO Factory, an AI-driven framework for simulating information and influence campaigns as fully integrated, traceable processes. The threat of digital manipulation now extends beyond persuasive text from individual language models to AI swarms, i.e., persistent groups of coordinated agents that adapt to platform feedback and disguise organized campaigns as ordinary social interaction. Because such campaigns cannot be identified from isolated messages alone, they must be analyzed across a continuous spectrum of planning, platform action, exposure, interpretation, measurement, and adaptation. IO Factory represents this process inside a controlled simulated platform, linking actor roles, platform actions, exposure records, structured model-based evaluations, and configured changes in the simulated population. We implement the architecture and evaluate it across configurations of up to 100,000 agents. The results show that IO Factory executes campaign timelines at scale and produces inspectable evidence of exposure and measured movement in configured belief variables. By recording the actors, objectives, action constraints, exposure paths, and measurement rules used in each run, IO Factory supports reproducible research and red-team analysis of coordinated influence.\n    \nSubmission history\nFrom: Jonas R. Kunst PhD [view email]\n[v1] Tue, 11 Aug 2026 13:43:48 UTC (548 KB)\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "介绍IO Factory，一种大规模模拟AI影响力活动的框架。",
+  "background": "随着生成式AI发展，数字操纵威胁已从单个语言模型生成的劝说文本，升级为AI集群——多智能体持续协同、适应平台反馈，并伪装成普通社交互动。这类活动无法从孤立信息识别，需跨规划、行动、曝光、解读、测量和适应全谱系分析。IO Factory在受控模拟平台中重现此过程，支持大规模可复现研究。",
+  "key_points": [
+   "把影响力活动建模为从规划到适应的完整闭环，而非孤立的单条信息，提供全局可追踪的模拟框架。",
+   "针对AI蜂群威胁，能模拟多智能体协同、伪装策略以及对平台反馈的适应性，覆盖传统方法难以处理的场景。",
+   "支持配置高达10万代理的大规模仿真，验证了在复杂设定下执行活动时间线并产出可审计结果的能力。",
+   "完整记录角色、目标、行动约束、曝光路径与测量规则，确保实验可复现，并适用于红队攻防分析。"
+  ],
+  "impact": "对AI行业：推动防御方从单条内容检测转向活动级溯源与研判，建立更系统的影响力活动评估标准。对开发者：可利用模拟数据训练识别算法、开展红队演练，提升模型与平台的安全性。对普通用户：需警惕看似普通的互动可能源于组织化AI集群，增强对平台热度与讨论走向的批判性认知。",
+  "tools": "可关注agent-based建模库如Mesa、NetLogo，用于自建仿真；若IO Factory开源，建议直接复现和扩展。也可通过arXiv相关工具alphaXiv、CatalyzeX获取代码与数据。"
+ }
+}

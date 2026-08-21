@@ -1,0 +1,22 @@
+{
+ "id": "5b22c5240ed8",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-beats-quarterly-revenue-estimates-093547658.html",
+ "title": "阿里巴巴加大人工智能基础设施投入后，利润下降75%",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-21T18:13:30.835Z",
+ "fetched_at": "2026-08-21T18:56:20.102007+00:00",
+ "content": "By Laurie Chen and Harshita Mary Varghese\nAug 20 (Reuters) - China's Alibaba reported a 75% fall in quarterly net profit on Thursday as the tech giant heavily ramped up AI capital expenditure, betting future growth on its enterprise cloud and AI model services.\nThe group reported a 9% rise in revenue for April-June, as strong AI demand fuelled growth in its cloud business. Demand for the cloud computing power needed to train and run enterprise AI systems has surged, benefiting China's largest technology companies.\nCEO Eddie Wu said that the company expects to break even on AI-related capex within the next three years based on current average gross margins, after having already spent this year half of its 380 billion yuan ($56.4 billion) AI investment planned for 2026-29.\n\"In order to be able to capture that future growth, we first need to make these capex investments to build out the necessary compute capacity,\" Wu told an earnings call.\n\"As we ramp up deployment of our own proprietary chips in our data centres ... and replace commercially procured chips, we can expect to see substantially higher gross margin as well as profitability.\"\nAlibaba, China's biggest cloud services provider, has sharply increased investment in AI infrastructure, proprietary models and applications, positioning the technology as a key growth driver for its cloud and consumer businesses.\nThe company's AI cloud and compute services revenue rose 45% to 48.44 billion yuan in the June quarter, backed by strong growth in its AI model-as-a-service business, which has surpassed 16 billion yuan in annual recurring revenue.\nAlibaba's adjusted earnings per American Depositary Share of 8.52 yuan missed estimates of 10.53 yuan and its U.S.-listed shares fell 4.6% in early morning trading.\nAlibaba's capital expenditure rose 75% to 67.68 billion yuan in April-June, the group's first quarter, as it increased procurement of CPU chips due to AI agent demand and semiconductor component prices went up.\nThe company reported revenue of 268.95 billion yuan in the first quarter, compared with an average analyst estimate of 268.88 billion yuan, data compiled by LSEG showed.\nDOMESTIC AI, CHIP RACE\nAlibaba is locked in a battle with other Chinese tech giants and startups to release more capable, low-cost frontier AI models, highlighting the rapid pace of advancement of Chinese AI models and their shorter release cycles.\nBut as competition heats up, firms are pivoting towards offering better agentic and coding capabilities to capture more of China's lucrative domestic enterprise market.",
+ "report": {
+  "summary": "阿里巴巴因大幅投入AI基础设施，季度净利润下降75%。",
+  "background": "阿里巴巴作为中国最大云服务商，正押注AI云和企业级模型服务作为未来增长引擎。本季度（4-6月）收入增长9%，但净利润同比暴跌75%，主要因为资本开支激增75%至676.8亿元人民币，用于采购CPU芯片、建设数据中心和自研芯片部署。公司计划2026-29年投入3800亿元用于AI，目前已支出约一半。CEO吴泳铭表示，基于当前毛利率，AI相关资本开支预计三年内可盈亏平衡。同时，公司与国内科技巨头及初创企业正展开激烈的大模型竞争，聚焦企业市场和智能体能力。",
+  "key_points": [
+   "净利润骤降75%：因AI资本开支激增，本季度净利润大幅下滑，调整后每股收益8.52元，低于市场预期。",
+   "云业务成为亮点：AI云与算力服务收入增长45%至484.4亿元，AI模型即服务年经常性收入突破160亿元。",
+   "未来三年盈利预期：CEO称基于当前毛利率，AI资本开支三年内可盈亏平衡，自研芯片替换商用芯片将提升利润率。",
+   "国内AI竞赛白热化：阿里与百度、字节等争夺低门槛前沿模型，转向智能体与编程能力以占据企业市场。"
+  ],
+  "impact": "对AI行业，阿里巨额投入加剧了云厂商之间的算力军备竞赛，可能推动行业整体资本开支水平上升，同时自研芯片趋势将影响供应链。对开发者，更丰富的模型API和算力服务有望降低开发成本，但需警惕生态锁定。对普通用户，激烈的模型竞争可能带来更便宜的AI应用，但短期利润承压不会直接影响消费者服务。",
+  "tools": "关注阿里云百炼平台（Model Studio）、通义千问系列模型，以及开源的ModelScope魔搭社区。开发者可通过这些工具调用最新AI模型、构建智能体应用，并跟踪阿里自研芯片进展（如平头哥）。"
+ }
+}

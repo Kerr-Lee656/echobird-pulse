@@ -1,0 +1,23 @@
+{
+ "id": "ed3ca5cc3ad5",
+ "url": "https://finance.yahoo.com/technology/ai/articles/hyperscalers-spend-750-billion-ai-172500304.html",
+ "title": "今年，超大规模科技公司将在人工智能领域投入7500亿美元。康明斯则提供备用电源。",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-21T17:41:21.663Z",
+ "fetched_at": "2026-08-21T18:56:48.854996+00:00",
+ "content": "Data centers can't simply shut down when the grid fails. That's why these facilities require enormous backup generators capable of providing electricity almost immediately.\nThat's exactly what Cummins (NYSE: CMI) provides. The company best known for diesel engines also happens to be a major supplier of backup power for data centers, and that's becoming increasingly valuable as AI spending soars.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nS&P Global estimates that Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL), Amazon (NASDAQ: AMZN), Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Oracle (NYSE: ORCL) will collectively spend approximately $750 billion on capital expenditures in 2026, equal to about 38% of their combined revenue. Much of that spending is being driven by AI and the data centers required to support it. Cummins is already cashing in.\nNot a one-quarter phenomenon\nDuring the second quarter, Cummins' Power Systems sales jumped 19% year over year, driven by strong global demand for data center power equipment. Segment EBITDA margin also reached 24.5%, up from 22.8% a year earlier.\nThis isn't just a one-quarter phenomenon, either. Cummins says its growth in the data center market is being driven partly by sales of diesel and natural gas generator sets used for backup power, as AI racks are becoming more power-hungry.\nCummins says traditional data center racks averaged around 12 kilowatts, while next-generation AI racks could reach 600 kilowatts or more. The more electricity these facilities consume, the more backup generating capacity they need when the grid goes down.\nCummins is moving beyond backup power\nCummins is also starting to sell generators that don't simply wait around for an outage. In June, the company announced an agreement with Circe Energy to provide high-powered natural gas generators for a large high-performance-computing data center in West Texas. Those generators will be part of a behind-the-meter microgrid providing primary power, with deliveries scheduled from 2026 through 2030.\nThat's a huge opportunity. Grid connections can take years, and AI developers don't necessarily want to wait. Cummins can now potentially sell generators both as emergency backup and as a bridge, or even alternative, to traditional grid power.",
+ "report": {
+  "summary": "科技巨头AI支出将达7500亿美元，康明斯靠数据中心备用电源业务大幅受益。",
+  "background": "随着AI大模型和算力竞赛白热化，Alphabet、亚马逊、Meta、微软和甲骨文等超大规模科技公司预计2026年资本开支合计约7500亿美元，占其总收入近四成，其中大量资金投向AI数据中心。数据中心不能断电，需要能瞬间启动的大型备用发电机。康明斯虽是柴油发动机老牌厂商，却也是数据中心备用电源主要供应商。二季度其动力系统业务销售额同比增长19%，利润率同步提升。此外AI机架功耗从传统约12千瓦跃升至600千瓦以上，让备用电源需求激增，康明斯还开始布局天然气发电微电网，从备用走向主供电源。",
+  "key_points": [
+   "五大科技巨头2026年AI相关资本开支预计达7500亿美元，占其总收入约38%，主要投向数据中心基础设施。",
+   "AI机架功耗大幅上升，传统约12千瓦，新一代AI机架或超600千瓦，断电风险更高，备用电源需求激增。",
+   "康明斯二季度动力系统业务销售额同比增长19%，EBITDA利润率升至24.5%，数据中心电源设备是主要推手。",
+   "康明斯不满足于备用电源，与Circe Energy合作在德州提供天然气发电机，作为微电网主供电源，交货期覆盖2026-2030年。",
+   "电网接入排队漫长，康明斯发电机可作为过渡甚至替代方案，成为AI开发者的新选择，打开更大市场空间。"
+  ],
+  "impact": "对AI行业而言，算力扩张正从单纯芯片竞赛延伸至电力基础设施，电源设备商成为关键受益方，也可能影响数据中心选址与建设周期。对开发者来说，算力供给若受限于电力，模型训练和推理成本可能上升，但也可能催生更多低功耗优化需求。对普通用户，AI服务背后的能耗和供电保障更受关注，未来可能看到更稳定的云服务，也需警惕电力成本转嫁。",
+  "tools": "可关注康明斯（CMI）财报及数据中心电源业务动态；对比卡特彼勒、康明斯等发电机组厂商；同时关注S&P Global对Hyperscaler资本开支的追踪报告，以及Circe Energy微电网项目进展。"
+ }
+}
