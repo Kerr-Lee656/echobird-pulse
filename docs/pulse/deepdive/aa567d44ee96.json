@@ -1,0 +1,23 @@
+{
+ "id": "aa567d44ee96",
+ "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy",
+ "title": "Berkeley Law prohibits AI use in classes (by default)",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T03:16:20.441299+00:00",
+ "content": "Effective Summer 2026\nPurpose\nFuture lawyers may need to use artificial intelligence (“AI”) fluently. But the current state of the technology requires that AI use be coupled with the cognitive skills necessary to strategically deploy the technology, to critically assess its work product, and to uphold ethical obligations to clients and to the legal system. In short, thinking remains the sine qua non of good lawyering (and of a quality legal education). This policy seeks to ensure that our courses focus on requisite cognitive skills by default. It provides students with the opportunity to develop the skills they need to conceptualize, outline, draft, revise, and edit their work by forbidding the use of AI for these purposes in connection with work submitted for credit. It also forbids using AI to translate work for credit, thus providing students with the opportunity to develop and exercise their own fluency with legal English. And it prohibits AI use for any purpose in any exam situation. Activities violating the rule include (but are not limited to):\n- Asking an AI tool to brainstorm a paper topic or thesis (prohibited conceptualizing)\n- Asking an AI tool to propose an organizational structure for a paper (prohibited outlining)\n- Asking an AI tool to compose a paragraph summarizing a legal rule for use in a paper (prohibited drafting)\n- Asking an AI tool to identify repetitive passages in a paper that should be cut (prohibited revising)\n- Asking an AI tool to polish a paper by correcting grammatical mistakes (prohibited editing)\n- Asking AI to generate an exam outline, elements of which are then used on the exam (prohibited exam use)\n- Asking AI to translate a paper originally written in another language into English (prohibited translating)\nInstructors may deviate from the default rule for courses designed intentionally to teach AI fluency (or for other courses for which the instructor decides a distinct rule is pedagogically appropriate).\nThe purposes of this policy are (1) to ensure the best legal education possible for our students by equipping them to perform activities constitutive of excellent lawyering, such as mastering primary texts, using legal reasoning to apply legal authorities to novel legal questions, and independently developing creative solutions; and (2) to promote fairness and administrability.\nRule\nThe use of AI is prohibited for aid in conceptualizing, outlining, drafting, revising, translating, or editing any work submitted for credit. AI use is prohibited for any use for any purpose in any exam situation. Students may not upload course materials—including assignments, readings, slides, class recordings, or other class content—into generative AI systems. AI can be used for research on papers ONLY for the limited purpose of identifying sources, such as cases, statutes, or secondary sources. Students are responsible for the accuracy of their research and all other aspects of their submitted work. Citations to sources that do not exist will raise a presumption of prohibited AI use.\nInstructors have the discretion to deviate from this default rule, provided that they do so in writing and with appropriate notice and require students to disclose any authorized AI use. If a student has a question about whether a particular use of AI violates this default rule or an instructor’s alternative rule, they must ask their instructor and receive clarification in writing before engaging in the use.",
+ "report": {
+  "summary": "伯克利法学院默认禁止学生用AI完成课程作业，强调独立思考，教师可另行规定。",
+  "background": "随着生成式AI工具在校园普及，教育界担忧学生依赖AI完成作业，削弱核心能力。伯克利法学院注意到未来律师需掌握AI应用，但认为当前技术仍需配合批判性思维和伦理判断。因此，该院发布政策，自2026年夏季起默认禁止在课程作业中使用AI，以保障学生掌握法律写作、推理等基本技能。政策允许教师根据课程目标调整，体现了灵活性与学术初衷。",
+  "key_points": [
+   "学校默认禁止学生用AI做构思、写提纲、起草、修改、编辑和翻译作业，考试全程禁用AI，违规行为有明确列举。",
+   "教师可书面申请偏离默认禁令，例如专门教授AI技能的课程；获批后须要求学生披露使用情况。",
+   "允许学生用AI查资料，但只限于找案例和文献，不能生成内容；若引用不存在的虚假来源，会被视为违规。",
+   "学生不得将课程材料上传到生成式AI系统，保护教学内容和隐私，也避免AI训练数据风险。",
+   "政策目的是培养法律人必备的独立思考、法律推理和伦理责任，确保教育质量与公平。"
+  ],
+  "impact": "对AI行业而言，教育机构限制会促使开发者打造更透明、可审核的辅助工具，而非盲目追求自动生成。对开发者来说，需将“研究”与“生成”功能分离，满足学术诚信要求。对普通用户来说，这提醒我们AI是辅助工具，核心的思考、写作和判断能力仍须亲自锻炼。",
+  "tools": "建议关注法律研究类AI工具，如Casetext的辅助检索、Westlaw的AI查询，以及开源法律NLP工具LegalBERT，可用来查找案例和文献，避免直接生成内容。"
+ }
+}

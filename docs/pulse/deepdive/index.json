@@ -1861,5 +1861,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-20T22:41:59Z",
   "fetched_at": "2026-08-21T02:00:59.895630+00:00"
+ },
+ "bd4c9bf5f0f6": {
+  "id": "bd4c9bf5f0f6",
+  "url": "https://aiera.com.cn/2026/08/21/other/admin/110028/claude-code%e7%a5%9e%e8%af%9d%e7%a0%b4%e7%81%ad%ef%bc%9f%e5%a4%a7%e9%87%8f%e7%94%a8%e6%88%b7%e6%ad%a3%e5%9c%a8%e5%8f%96%e6%b6%88%e8%ae%a2%e9%98%85",
+  "title": "Claude Code神话破灭？大量用户正在取消订阅",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-21T00:39:13.940Z",
+  "fetched_at": "2026-08-21T03:15:31.133879+00:00"
+ },
+ "c43d7b165fb9": {
+  "id": "c43d7b165fb9",
+  "url": "https://aiera.com.cn/2026/08/21/other/admin/109962/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%8e%86%e5%8f%b2%e4%b8%8a%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%94%a8ai%e6%b2%bb%e6%84%88%e7%99%8c%e7%97%87",
+  "title": "刚刚，人类历史上第一次用AI治愈癌症",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-21T00:39:13.940Z",
+  "fetched_at": "2026-08-21T03:15:40.090152+00:00"
+ },
+ "99e7e796c983": {
+  "id": "99e7e796c983",
+  "url": "https://aiera.com.cn/2026/08/21/other/admin/109914/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8cclaude%e5%86%8d%e7%a0%b4%e7%99%be%e5%b9%b4%e7%8c%9c%e6%83%b3%ef%bc%81",
+  "title": "黎曼猜想之后，Claude再破百年猜想！",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-21T00:39:13.940Z",
+  "fetched_at": "2026-08-21T03:16:01.584323+00:00"
+ },
+ "aa567d44ee96": {
+  "id": "aa567d44ee96",
+  "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy",
+  "title": "Berkeley Law prohibits AI use in classes (by default)",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T03:16:20.441299+00:00"
+ },
+ "3a84fcc0e1b8": {
+  "id": "3a84fcc0e1b8",
+  "url": "https://www.aibase.com/zh/news/30516",
+  "title": "苹果音乐将强制标注 AI 生成内容，治理 AI 垃圾信息",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T03:16:36.078713+00:00"
+ },
+ "1647619c14f7": {
+  "id": "1647619c14f7",
+  "url": "https://www.aibase.com/zh/news/30513",
+  "title": "阿里发布 Qwen-UI-Agent，移动端基准超越 GPT 与 Claude，开启 GUI 智能体新纪元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T03:16:45.044762+00:00"
+ },
+ "467f70cf7d11": {
+  "id": "467f70cf7d11",
+  "url": "https://www.aibase.com/zh/news/30517",
+  "title": "AI 训练数据需求激增，Micro1 年营收 8 个月从 1 亿美元增至 5 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T03:16:57.865668+00:00"
+ },
+ "5a2406610899": {
+  "id": "5a2406610899",
+  "url": "https://www.aibase.com/news/30511",
+  "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-21T02:53:59.258Z",
+  "fetched_at": "2026-08-21T03:17:59.273442+00:00"
+ },
+ "cb3b611319c0": {
+  "id": "cb3b611319c0",
+  "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+  "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T03:02:49Z",
+  "fetched_at": "2026-08-21T03:18:40.813457+00:00"
  }
 }

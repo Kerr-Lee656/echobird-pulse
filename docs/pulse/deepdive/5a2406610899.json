@@ -1,0 +1,23 @@
+{
+ "id": "5a2406610899",
+ "url": "https://www.aibase.com/news/30511",
+ "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-21T02:53:59.258Z",
+ "fetched_at": "2026-08-21T03:17:59.273442+00:00",
+ "content": "The latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterprise AI market, surpassing Anthropic. Data showed that in May, Anthropic had a 41% market share compared to OpenAI's 39%; by July, Anthropic's share approached 44%, while OpenAI's was close to 40%. Ara Kharazian, an economist at Ramp, said that since the third quarter began, OpenAI's growth rate in this field has exceeded that of Anthropic.\nThis data covers more than 70,000 U.S. companies, which spend billions of dollars through Ramp's billing payment and corporate credit card products, with clients mainly concentrated in the technology industry. However, Ramp did not disclose specific spending amounts, and the data does not represent the entire enterprise AI market, as it does not include large enterprises using other expense management services such as American Express.\nKharazian believes that GPT-5.6Sol is gradually becoming the choice of developers due to its strong performance, while Anthropic's premium product Fable faces challenges related to pricing and data retention requirements. Anthropic previously required Fable users to retain data for 30 days, which sparked some controversy.\nNotably, according to Ramp's data, the paid penetration rate of enterprise AI continues to rise, increasing from over 50% in March to nearly 56% in July. This indicates that while both model vendors compete for market share, overall enterprise AI spending is still expanding. As new models continue to evolve, the choices made by enterprise customers between OpenAI and Anthropic are showing more pronounced dynamics, and the market share and customer loyalty of AI companies remain highly variable.",
+ "report": {
+  "summary": "OpenAI企业市场份额反超Anthropic，企业AI支出持续增长。",
+  "background": "企业级AI市场竞争激烈，OpenAI与Anthropic长期交替领先。据Ramp平台数据，5月Anthropic份额41%领先OpenAI的39%，7月Anthropic一度接近44%。但自第三季度起，OpenAI增速反超，重新夺回40%以上份额。这一变化与双方产品表现密切相关：GPT-5.6Sol获得开发者青睐，而Anthropic的Fable因定价和数据留存政策引发争议。同时，企业AI付费渗透率从3月的50%升至7月的近56%，显示整体市场仍在扩张，而非零和博弈。",
+  "key_points": [
+   "OpenAI在美企业AI份额回升至40%以上，反超Anthropic，终结后者数月领先。",
+   "Ramp数据基于7万多家美国公司，主要覆盖科技行业，不含所有大型企业，存样本局限。",
+   "GPT-5.6Sol因性能强劲被开发者广泛采用，而Anthropic的Fable受定价和30天数据留存要求拖累。",
+   "企业AI付费渗透率从3月超50%升至7月近56%，说明总支出持续扩大，竞争加剧但市场在增长。",
+   "两家公司份额和客户忠诚度仍高度波动，未来新模型迭代将带来更多变数。"
+  ],
+  "impact": "对AI行业而言，竞争从技术比拼扩展到定价、数据合规等商业层面，OpenAI暂时扳回一局但优势不稳固。开发者面对更多选择，可依据成本、数据策略和性能灵活选型，但也需警惕供应商锁定风险。普通用户可能受益于企业端AI服务加速迭代，但数据留存政策影响隐私和合规预期。整体看，企业AI支出增长利好整个生态，但头部厂商的拉锯战将推动产品差异化竞争。",
+  "tools": "可关注OpenAI的GPT-5.6Sol和Anthropic的Fable模型，跟踪其官方API与定价文档。企业用户可借助Ramp等支出管理平台洞察AI开支趋势，或用LiteLLM等开源代理工具对比不同模型成本与性能。"
+ }
+}
