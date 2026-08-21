@@ -1,0 +1,23 @@
+{
+ "id": "6b18681068b6",
+ "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/",
+ "title": "GitHub Copilot coding agents can now work from Slack",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-21T20:02:17Z",
+ "fetched_at": "2026-08-21T20:41:58.202967+00:00",
+ "content": "The new GitHub Copilot experience in Slack\nThe GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to plan changes, investigate problems, and hand off coding tasks from the conversations where your team coordinates work. GitHub is also a launch partner for Slack Code, a new type of channel designed for agents.\nBringing Copilot into the flow of conversation helps your team turn shared intent into shippable work.\nWhat you can now do with @GitHub\nMention @GitHub in a direct message, channel, or thread to start an agent session. Copilot can use the conversation and permitted GitHub context to:\n- Answer questions about your code and GitHub activity.\n- Triage bug reports, update existing issues, or create and label new issues.\n- Investigate failures, implement changes, and validate its work in a secure cloud sandbox.\n- Open a pull request and provide a link to the conversation for review.\nGitHub Copilot continues working asynchronously while you’re in a meeting, commuting, or focused on something else. You can direct the session from Slack as it works, then continue from the pull request in your terminal, the GitHub Copilot app, or your IDE.\nSlack Code and GitHub Copilot\nGitHub Copilot can also create a dedicated code channel that keeps the task focused without adding noise to the original conversation.\nInside the code channel, your team can follow the plan, inspect the diffs, review output previews like HTML artifacts, and iterate with Copilot. Anyone can join the channel from the original thread, add context, redirect the approach, or stop the session.\nThe power of multiplayer\nAgent sessions in Slack are shared, so your team can collaborate on the work where the request began instead of one person working privately with an agent.\nWorking in the open also makes effective agent workflows easier to learn. Developers can see how their teammates prompt the agent and learn from each other. Issues and pull requests created from the conversation are attributed to the Copilot app identity, and actions remain bounded by existing GitHub permissions and controls.\nAvailability and getting started\nThe public preview is available to organizations on GitHub Copilot Business and GitHub Copilot Enterprise plans. Usage counts against your existing Copilot entitlements and can be managed with existing Copilot cloud agent budgets.\nTo get started:\n- Make sure an administrator has enabled the Copilot cloud agent policy for your organization.\n- Install or upgrade the GitHub app for Slack.\n- Link your GitHub account and mention @GitHub in a conversation.\nRepository administrators can require an additional approval for any pull request attributed to the Copilot app identity before it can merge. Requiring an additional approval keeps a human in the loop before agent-authored work ships. Your team moves fast without losing compliance oversight.\nFor setup details and supported workflows, see how to use Copilot coding agent with Slack.",
+ "report": {
+  "summary": "GitHub Copilot智能体现已接入Slack，支持团队在聊天中协作编码并交接任务。",
+  "background": "GitHub Copilot 从代码补全工具逐步演进为具备自主执行力的编码智能体。此前 Copilot CLI 和 Copilot app 已支持独立完成任务，但开发者仍需在终端或 IDE 中操作。Slack 作为团队沟通的核心工具，自然成为智能体协作的新入口。此次公共预览将 agentic 能力带进 Slack 会话，并成为 Slack Code 新功能的首批合作方，反映出 AI 编程助手从个人工具走向团队协作平台的趋势。",
+  "key_points": [
+   "在 Slack 中提及 @GitHub 即可启动智能体会话，Copilot 能回答问题、分诊 bug、创建 issue，并在云端沙箱中调查和修复失败。",
+   "Copilot 支持异步工作：你开会或通勤时它继续执行任务，可直接在 Slack 中指挥，之后在终端、Copilot app 或 IDE 里从 PR 继续。",
+   "可创建专属代码频道（Slack Code），团队成员能查看计划、diff、HTML 预览等产物，并随时加入、调整方向或终止会话。",
+   "agent 会话是共享的，多人可在原始对话中协作，工作过程透明，也能互相学习提示词技巧，而非一人私下使用。",
+   "面向 Copilot Business/Enterprise 组织开放公测，管理员可启用策略、设置预算，并可要求对 Copilot 提交的 PR 额外审批后再合并。"
+  ],
+  "impact": "对 AI 行业而言，这意味着编码智能体从单人助手转向多人协作基础设施，Slack Code 等原生 Agent 通道将重新定义开发协作流程。对开发者来说，日常沟通和编码任务可无缝衔接，减少上下文切换，但需适应共享 agent 会话和新增的合规审批。对普通用户（如产品、运营人员），在 Slack 里直接提需求、跟踪修复变得可行，技术门槛进一步降低。当然，企业仍需在权限控制和人工审批上做好平衡。",
+  "tools": "若想跟进，可先在 Slack 中安装最新 GitHub 应用并让管理员开启 Copilot cloud agent 策略；熟悉 Copilot CLI 和 IDE 扩展能更好衔接任务。也可留意 Slack Code 功能，或对比 Codex CLI、Claude Code 等同类编码 agent 工具。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "873a8dc629a5",
+ "url": "https://www.businessinsider.com/pope-leo-says-ai-could-cause-economic-colonialism-2026-8",
+ "title": "Pope Leo warns AI could become a new form of ‘economic colonialism’",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-21T20:39:28.301210+00:00",
+ "content": "Pope Leo XIV has a simple request for lawmakers tasked with shaping AI policy: put humans first.\nThe pontiff encouraged them to implement laws that uplift their constituents at the International Catholic Legislators Network's annual conference in Rome on Friday. During his speech, Pope Leo cautioned lawmakers that putting tech over people could have dire consequences.\n\"At the same time, the rapid development of artificial intelligence risks creating new forms of technological dependence, with poorer nations increasingly reliant on wealthier ones,\" he said. \"We must remain vigilant in this regard, lest innovation become another vehicle for ideological or economic colonialism.\"\nThe pope told lawmakers that social media algorithms already constitute a form of domination.\n\"Sadly, we are presented with a subtle form of domination when algorithms decide who is seen, who remains invisible, when digital platforms shape public discourse without accountability, and when the dignity of workers is subordinated to the optimization of systems,\" he said.\nPope Leo also expressed concern that AI could undermine families and their place in society.\n\"For it is within the family that we first learn trust before calculation, generosity before competition, dialogue before division, and love before power,\" he said. \"Artificial intelligence must never be allowed to erode this primary cell of society — whether by reducing persons and relationships to data and simulations, by flooding young minds with content that distorts desire, or by economic models that make family life economically precarious.\"\nHe asked that the lawmakers promote policies that \"strengthen marriage and families, support parents in their educational mission and enable young people to look to the future with confidence.\"\nPope Leo has made AI a central debate since the early days of his papacy. Last year, he asked the AI industry to \"cultivate moral discernment\" and \"develop systems that reflect justice, solidarity, and a reverence for life.\" In May, Pope Leo issued a letter on AI's impact on the global workforce, the environment, and democracy, which drew responses from CEOs, lawmakers, and academics.\nHis remarks come at a time when tech companies are urging consumers to integrate AI into nearly all parts of their daily lives. While AI optimists say the tech can automate and speed up tasks, critics worry it will upend the job market and displace human workers.\nMany companies have instructed employees to adopt AI tools. In May, a Unitarian Universalist was granted a faith-based accommodation by her boss to avoid using AI at her job.",
+ "report": {
+  "summary": "教皇警告AI或成新经济殖民主义，呼吁立法以人为本。",
+  "background": "在国际天主教立法者网络年度会议上，教皇利奥十四世警告，AI快速发展可能导致技术依赖，使贫穷国家更依赖富裕国家，创新沦为意识形态或经济殖民工具。他还批评算法和数字平台构成隐蔽支配，并担心AI侵蚀家庭与社会关系。此前他已在多个场合关注AI对劳动力、环境和民主的影响，此次讲话正值科技企业大力推广AI融入日常、社会担忧失业和伦理风险的背景下，意在推动立法者优先考虑人类福祉。",
+  "key_points": [
+   "教皇指AI可能制造技术依赖，让穷国受制于富国，创新变成意识形态或经济殖民工具。",
+   "他认为算法已构成隐蔽统治：决定谁被看见、塑造舆论却不受问责，工人尊严服从系统优化。",
+   "他担心AI侵蚀家庭，把人及关系简化为数据，向青少年推送扭曲欲望的内容，或加剧家庭经济不稳。",
+   "他呼吁立法者推动强化婚姻家庭、支持父母教育使命、让年轻人对未来有信心的政策。",
+   "自上任以来教皇将AI作为核心议题，曾要求行业培养道德辨别力，并发布文件回应多方关切。"
+  ],
+  "impact": "对AI行业而言，教皇的警告强化了伦理与治理压力，企业需重视算法透明、问责和公平，避免加剧全球不平等。对开发者来说，意味着设计时需融入人性尊严、家庭保护和社会责任等价值，而非只追求效率。对普通用户，则提醒警惕算法操控和AI依赖，推动政策制定更关注人本福祉与弱势群体利益。",
+  "tools": "可关注AI伦理与公平性评估工具，如IBM AI Fairness 360、Google What-If Tool、OpenAI Model Spec，以及欧盟AI法案合规指南，用于审视算法偏见、透明度和人权影响。"
+ }
+}

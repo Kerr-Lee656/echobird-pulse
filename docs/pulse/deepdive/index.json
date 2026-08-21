@@ -2662,5 +2662,104 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T17:22:56Z",
   "fetched_at": "2026-08-21T19:00:52.480024+00:00"
+ },
+ "24512cc51093": {
+  "id": "24512cc51093",
+  "url": "https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise",
+  "title": "Micron Unveils $10 Billion AI Memory Research Lab In Boise",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T20:38:53.898499+00:00"
+ },
+ "4c1dae89961e": {
+  "id": "4c1dae89961e",
+  "url": "https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai",
+  "title": "Anthropic’s enterprise venture has bought its second consultancy in four months",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T20:39:14.022951+00:00"
+ },
+ "873a8dc629a5": {
+  "id": "873a8dc629a5",
+  "url": "https://www.businessinsider.com/pope-leo-says-ai-could-cause-economic-colonialism-2026-8",
+  "title": "Pope Leo warns AI could become a new form of ‘economic colonialism’",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T20:39:28.301210+00:00"
+ },
+ "f8ab2f0a6de4": {
+  "id": "f8ab2f0a6de4",
+  "url": "https://api3.cls.cn/share/article/2461261?os=web&sv=8.4.6&app=CailianpressWeb",
+  "title": "英伟达将支付 60 亿美元以获得 Poolside AI 模型授权 并拟吸纳其员工",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-21T20:39:40.957036+00:00"
+ },
+ "6b2754335340": {
+  "id": "6b2754335340",
+  "url": "https://finance.yahoo.com/technology/ai/articles/3-harvard-dropouts-just-hit-110000286.html",
+  "title": "3名哈佛辍学生凭借一款据称性能超越英伟达顶尖产品的芯片，公司估值刚达到210亿美元。NVDA的投资者需要担心吗？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T20:05:37.177Z",
+  "fetched_at": "2026-08-21T20:39:49.477917+00:00"
+ },
+ "18a8bcfd92b5": {
+  "id": "18a8bcfd92b5",
+  "url": "https://www.huxiu.com/article/4885069.html?f=rss",
+  "title": "Stripe 为什么盯上模型路由：AI 进入“智能采购”时代",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-21T16:50:42Z",
+  "fetched_at": "2026-08-21T20:40:24.223035+00:00"
+ },
+ "d8b393113cfc": {
+  "id": "d8b393113cfc",
+  "url": "https://thenextweb.com/news/micron-research-labs-10bn-boise-memory-ai",
+  "title": "Micron is spending $10bn on a lab betting the memory cycle has changed",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-21T20:40:45.766886+00:00"
+ },
+ "6b18681068b6": {
+  "id": "6b18681068b6",
+  "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/",
+  "title": "GitHub Copilot coding agents can now work from Slack",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T20:02:17Z",
+  "fetched_at": "2026-08-21T20:41:58.202967+00:00"
+ },
+ "1613c37c94e8": {
+  "id": "1613c37c94e8",
+  "url": "https://owasp.org/www-project-agentic-skills-top-10/",
+  "title": "OWASP Agentic Skills Top",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T20:01:59Z",
+  "fetched_at": "2026-08-21T20:42:14.573878+00:00"
+ },
+ "620096717211": {
+  "id": "620096717211",
+  "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+  "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-21T19:43:39.000Z",
+  "fetched_at": "2026-08-21T20:42:24.403693+00:00"
+ },
+ "24d4f84bf97e": {
+  "id": "24d4f84bf97e",
+  "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+  "title": "Readers can't identify watermarked AI text",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T19:30:09Z",
+  "fetched_at": "2026-08-21T20:42:44.725992+00:00"
  }
 }
