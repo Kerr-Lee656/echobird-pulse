@@ -2761,5 +2761,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-21T19:30:09Z",
   "fetched_at": "2026-08-21T20:42:44.725992+00:00"
+ },
+ "171654c6a712": {
+  "id": "171654c6a712",
+  "url": "https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8",
+  "title": "科技界针对美国反人工智能的反弹浪潮，将矛头指向中国。祝他们好运吧。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-21T16:37:39.357Z",
+  "fetched_at": "2026-08-21T22:39:31.543700+00:00"
+ },
+ "177d0ff11ed1": {
+  "id": "177d0ff11ed1",
+  "url": "https://github.com/hao-ai-lab/FastVideo",
+  "title": "hao-ai-lab/FastVideo — A unified inference and post-training framework for accelerated video generation.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T22:40:41.500243+00:00"
+ },
+ "620b0c85e2e5": {
+  "id": "620b0c85e2e5",
+  "url": "https://github.com/ai-dynamo/dynamo",
+  "title": "ai-dynamo/dynamo — A Datacenter Scale Distributed Inference Serving Framework",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T22:40:55.814775+00:00"
+ },
+ "8c3dc2a0187c": {
+  "id": "8c3dc2a0187c",
+  "url": "https://github.com/openai/codex",
+  "title": "openai/codex — Lightweight coding agent that runs in your terminal",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T22:41:04.034528+00:00"
+ },
+ "faa318861b48": {
+  "id": "faa318861b48",
+  "url": "https://github.com/github/github-mcp-server",
+  "title": "github/github-mcp-server — GitHub's official MCP Server",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-21T22:41:18.486672+00:00"
+ },
+ "286576db227e": {
+  "id": "286576db227e",
+  "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+  "title": "Nvidia partners with data center developer Cloverleaf",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-21T22:37:38.000Z",
+  "fetched_at": "2026-08-21T22:41:31.133152+00:00"
+ },
+ "296be7572c81": {
+  "id": "296be7572c81",
+  "url": "https://artifactbin.dev/@vivek/YPLu0U-the-openai-hugging-face-incident",
+  "title": "The OpenAI-HuggingFace Incident Timeline",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T22:18:14Z",
+  "fetched_at": "2026-08-21T22:41:49.596555+00:00"
+ },
+ "ffe8b5788a7d": {
+  "id": "ffe8b5788a7d",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+  "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-21T21:24:43Z",
+  "fetched_at": "2026-08-21T22:41:59.296225+00:00"
  }
 }

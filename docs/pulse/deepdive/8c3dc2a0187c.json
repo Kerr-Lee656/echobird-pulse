@@ -1,0 +1,22 @@
+{
+ "id": "8c3dc2a0187c",
+ "url": "https://github.com/openai/codex",
+ "title": "openai/codex — Lightweight coding agent that runs in your terminal",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-21T22:41:04.034528+00:00",
+ "content": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.\nIf you want Codex in your code editor (VS Code, Cursor, Windsurf), install in your IDE.\nIf you want the desktop app experience, run\ncodex app or visit the Codex App page.\nIf you are looking for the cloud-based agent from OpenAI, Codex Web, go to chatgpt.com/codex.\nRun the following on Mac or Linux to install Codex CLI:\ncurl -fsSL https://chatgpt.com/codex/install.sh | sh\nRun the following on Windows to install Codex CLI:\npowershell -ExecutionPolicy ByPass -c \"irm https://chatgpt.com/codex/install.ps1 | iex\"\nThe standalone installers download from https://releases.openai.com/codex by default and fall back to GitHub Releases if a metadata or asset download is unavailable. To force GitHub Releases, set CODEX_INSTALLER_USE_RELEASES_OPENAI_COM to false (0 and no are also accepted):\ncurl -fsSL https://chatgpt.com/codex/install.sh | CODEX_INSTALLER_USE_RELEASES_OPENAI_COM=false sh$env:CODEX_INSTALLER_USE_RELEASES_OPENAI_COM='false'; irm https://chatgpt.com/codex/install.ps1 | iex\nCodex CLI can also be installed via the following package managers:\n# Install using npm\nnpm install -g @openai/codex# Install using Homebrew\nbrew install --cask codex\nThen simply run codex to get started.\nYou can also go to the latest GitHub Release and download the appropriate binary for your platform.\nEach GitHub Release contains many executables, but in practice, you likely want one of these:\n- macOS\n  - Apple Silicon/arm64: codex-aarch64-apple-darwin.tar.gz\n  - x86_64 (older Mac hardware): codex-x86_64-apple-darwin.tar.gz\n- Apple Silicon/arm64: \n- Linux\n  - x86_64: codex-x86_64-unknown-linux-musl.tar.gz\n  - arm64: codex-aarch64-unknown-linux-musl.tar.gz\n- x86_64: \nEach archive contains a single entry with the platform baked into the name (e.g., codex-x86_64-unknown-linux-musl), so you likely want to rename it to codex after extracting it.\nRun codex and select Sign in with ChatGPT. We recommend signing into your ChatGPT account to use Codex as part of your Plus, Pro, Business, Edu, or Enterprise plan. Learn more about what's included in your ChatGPT plan.\nYou can also use Codex with an API key, but this requires additional setup.\nThis repository is licensed under the Apache-2.0 License.",
+ "report": {
+  "summary": "OpenAI发布Codex CLI，让AI编程代理直接在终端本地运行。",
+  "background": "OpenAI在推出云端Codex和IDE插件后，进一步开源了Codex CLI，将编程代理带到开发者最熟悉的终端环境。此前Codex已集成在ChatGPT Plus/Pro套餐中，本次开源让开发者无需离开命令行即可调用GPT模型完成编码任务。项目采用Apache-2.0许可，并提供多平台安装方式，降低了使用门槛，也体现了OpenAI在AI编程工具领域的持续布局。",
+  "key_points": [
+   "Codex CLI是面向终端的轻量级编码代理，支持Mac、Linux和Windows，可通过curl、PowerShell、npm、Homebrew等多种方式安装。",
+   "它既可以作为独立终端工具使用，也能集成到VS Code、Cursor等IDE，或通过桌面应用和云端Web访问，覆盖不同开发场景。",
+   "用户可以通过ChatGPT账号直接登录，作为Plus/Pro/企业等套餐的一部分使用，也可配合API key进行二次开发。",
+   "项目以Apache-2.0协议开源，二进制文件可从OpenAI官方发布渠道或GitHub Releases获取，方便自行部署和定制。"
+  ],
+  "impact": "对AI行业而言，Codex CLI开源进一步加剧了AI编程代理的竞争，推动终端原生工作流成为新趋势。对开发者，它提供了免费且灵活的本地AI助手，减少上下文切换，提升编码效率。对普通用户，通过与ChatGPT账户绑定，降低了使用门槛，但高级功能仍依赖订阅。整体上，AI编程从云端插件走向本地化、开源化已成为明确方向。",
+  "tools": "建议关注并试用：Codex CLI本身（GitHub: openai/codex），配合OpenAI API key或ChatGPT订阅使用；同时可对比Anthropic的Claude Code、Google的Gemini CLI等竞品；若想深入二次开发，可查看其Apache-2.0源码和GitHub Releases中的二进制文件。"
+ }
+}
