@@ -1,0 +1,23 @@
+{
+ "id": "a961a00abc55",
+ "url": "https://thenextweb.com/news/outer-biosciences-living-human-skin-ai-model",
+ "title": "This startup is training an AI model on skin that stays alive for a month",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-22T16:41:15.216850+00:00",
+ "content": "Outer Biosciences has come out of stealth after four years, keeping surgically discarded human skin alive for up to a month and feeding the results into an AI model that predicts useful compounds. It has raised about $23mn and employs 19 people.\nA company in Massachusetts has spent four years keeping human skin alive outside the body. Outer Biosciences says it can hold surgically discarded tissue viable for up to a month, and it has been running experiments on it the whole time without telling anyone.\nThe point of the tissue is to teach a model. An AI system predicts which untested chemicals should affect a particular skin function, the living tissue tests the prediction, and the result goes back into the model whether it was right or wrong.\nThe pace changed when that loop closed. Early work using scientific literature produced a couple of leads in about 18 months, while the company now says it generates a candidate roughly every six weeks.\nThe material comes from surgery, mostly cosmetic. Outer sources it through biobanks and brokers operating under institutional review board oversight and documented donor consent, with identifiers stripped before it arrives, and says it pays fees on a cost recovery basis rather than buying tissue.\nThe technical claim is about time rather than novelty. Living tissue is usually usable for days, which is enough for acute toxicity and not much else, while collagen remodelling, pigmentation change and barrier repair take weeks to happen.\nOuter says a month-old sample still resembles a day-one sample without being identical to it. That is a carefully hedged claim and the company makes it carefully.\nThe commercial route avoids medicine entirely. The company is finding cosmetic ingredients rather than drugs, so there is no regulatory approval to seek, only a standardised industry name and safety testing under OECD guidelines that member countries accept from one another.\nThat last detail is where Europe enters. The EU banned animal testing for cosmetics more than a decade ago, which made validated alternative methods a requirement rather than an ethical preference.\nBrussels has since gone considerably further. The Commission adopted a roadmap on 1 June to phase out animal testing in chemical safety assessment, with more than 30 recommendations, in a market where AI biology is moving faster than the validation systems around it.\nEurope wrote the demand and America is building the supply. Outer is not alone in trying, with Vivodyne raising close to $80mn for lab-grown human tissue and a field of organ-on-chip companies chasing the same preclinical market.\nWhat Outer claims as its moat is unfashionably physical. There is no biology internet to scrape, its data exists nowhere else, and it runs its models on its own machines because it does not want that data in the cloud, which is a different bet from the one most AI companies are making.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美国初创公司用存活一个月的人体皮肤训练AI，预测化妆品成分。",
+  "background": "欧盟早在十多年前就禁止化妆品动物测试，推动了替代性验证方法的需求。美国麻省初创公司Outer Biosciences经过四年隐密研发后浮出水面，宣称能将外科手术丢弃的皮肤组织在体外维持存活一个月，并用其开展实验。该公司将AI预测与活体组织测试闭环结合，加速化妆品成分发现。目前已融资2300万美元，员工19人。这一技术路线顺应了欧盟近期计划逐步淘汰化学品安全评估中动物测试的趋势。",
+  "key_points": [
+   "Outer Biosciences将外科丢弃的人体皮肤在体外维持存活一个月，用于训练AI模型，据称数据具有独特价值。",
+   "公司形成‘AI预测-活体组织验证-结果反馈’的闭环，约每六周生成一个候选化合物，效率远超以往文献研究。",
+   "避开药物审批，专注化妆品成分开发，只需按OECD指南进行安全性测试，无需药监监管，商业化路径更短。",
+   "原料来自整形手术废弃组织，通过生物银行和经纪人获取，有IRB监督和捐赠者同意，并采用成本回收付费模式。",
+   "欧盟动物测试禁令及后续淘汰计划是主要市场驱动力，美国多家公司如Vivodyne也在押注类似的人体组织或器官芯片技术。"
+  ],
+  "impact": "对AI行业而言，这种‘活体数据+模型闭环’展示了生物数据稀缺性如何成为壁垒。对开发者来说，意味着需要结合物理实验而非纯计算，才能获得高质量训练数据。对普通用户，未来化妆品成分可能更快获得验证且更人道，但首个应用场景不是药物，效力证明要求较低，消费者仍需理性看待。",
+  "tools": "可关注类似的器官芯片和人体组织培养技术公司（如Vivodyne），以及开源AI分子生成工具如DeepChem、AlphaFold等，用于理解化合物与生物靶点相互作用。也可关注OECD替代方法相关验证指南更新。"
+ }
+}

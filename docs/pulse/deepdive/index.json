@@ -3103,5 +3103,140 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T13:31:34Z",
   "fetched_at": "2026-08-22T14:40:40.496992+00:00"
+ },
+ "9d77db04db3d": {
+  "id": "9d77db04db3d",
+  "url": "https://juejin.cn/post/7675272903248920595",
+  "title": "国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展",
+  "source": "掘金 · 人工智能本周最热",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:39:20.758152+00:00"
+ },
+ "d6f798d7dc33": {
+  "id": "d6f798d7dc33",
+  "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
+  "title": "人工智能破译了存在于约60%的人类基因中的DNA起始序列",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T15:44:16.677Z",
+  "fetched_at": "2026-08-22T16:40:29.158396+00:00"
+ },
+ "71e857432f57": {
+  "id": "71e857432f57",
+  "url": "https://www.ithome.com/0/993/110.htm",
+  "title": "利用 AI 合成虚假影像骚扰他人，四川一男子被行拘",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T14:44:19Z",
+  "fetched_at": "2026-08-22T16:40:48.573656+00:00"
+ },
+ "ceeb5757b976": {
+  "id": "ceeb5757b976",
+  "url": "https://www.ithome.com/0/993/108.htm",
+  "title": "中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T14:32:32Z",
+  "fetched_at": "2026-08-22T16:41:03.035232+00:00"
+ },
+ "a961a00abc55": {
+  "id": "a961a00abc55",
+  "url": "https://thenextweb.com/news/outer-biosciences-living-human-skin-ai-model",
+  "title": "This startup is training an AI model on skin that stays alive for a month",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:41:15.216850+00:00"
+ },
+ "df1dff48d8f6": {
+  "id": "df1dff48d8f6",
+  "url": "https://news.mydrivers.com/1/1145/1145673.htm",
+  "title": "AI 芯片功耗破 1000 瓦！液冷渗透率飙到 53% 也压不住：散热已成最大瓶颈",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:41:26.405898+00:00"
+ },
+ "95b84c195242": {
+  "id": "95b84c195242",
+  "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+  "title": "The New MCP Roadmap",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-22T13:31:34Z",
+  "fetched_at": "2026-08-22T16:41:37.704389+00:00"
+ },
+ "7ba83e55d38e": {
+  "id": "7ba83e55d38e",
+  "url": "https://juejin.cn/post/7675615031892656174",
+  "title": "智谱GLM-5.3+ZCode Agent，真实项目第一手实测！",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-08-22T12:17:18.437Z",
+  "fetched_at": "2026-08-22T16:41:48.953587+00:00"
+ },
+ "d7f26c4a3ef4": {
+  "id": "d7f26c4a3ef4",
+  "url": "https://www.36kr.com/p/3949075883916416",
+  "title": "神秘新模型“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱或小米",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:42:10.552608+00:00"
+ },
+ "e9aead1ab114": {
+  "id": "e9aead1ab114",
+  "url": "https://hub.baai.ac.cn/view/57336",
+  "title": "失业小哥用 7000 行代码复刻 AMD 重金收购的 AI 芯片",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:42:21.657637+00:00"
+ },
+ "ca35e11b8c37": {
+  "id": "ca35e11b8c37",
+  "url": "https://hub.baai.ac.cn/view/57333",
+  "title": "机器人迎来 GPT-3 时刻：One-shot Learning 模型看 3 秒即可学会新动作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T16:42:33.087702+00:00"
+ },
+ "11bfce24e7f0": {
+  "id": "11bfce24e7f0",
+  "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "title": "OpenAI says California should strengthen its AI safety bill",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-22T16:30:34.000Z",
+  "fetched_at": "2026-08-22T16:44:31.745977+00:00"
+ },
+ "79189f209600": {
+  "id": "79189f209600",
+  "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+  "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T16:23:09Z",
+  "fetched_at": "2026-08-22T16:44:45.329057+00:00"
+ },
+ "5c1d39faf87e": {
+  "id": "5c1d39faf87e",
+  "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-22T16:00:00.000Z",
+  "fetched_at": "2026-08-22T16:44:55.703272+00:00"
+ },
+ "ec1dae1d3407": {
+  "id": "ec1dae1d3407",
+  "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+  "title": "Claude Watermarks AI-Generated Text",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T14:45:00Z",
+  "fetched_at": "2026-08-22T16:45:15.660317+00:00"
  }
 }

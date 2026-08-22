@@ -1,0 +1,22 @@
+{
+ "id": "d6f798d7dc33",
+ "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
+ "title": "人工智能破译了存在于约60%的人类基因中的DNA起始序列",
+ "source": "phys.org",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-22T15:44:16.677Z",
+ "fetched_at": "2026-08-22T16:40:29.158396+00:00",
+ "content": "AI decodes DNA initiator sequence found in about 60% of human genes\nAndrew Zinin\nChief Editor\nPrecise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the production of enzymes, hormones, proteins and other crucial components underlying cell structure and function. But if these genes are not correctly activated, cells can stop functioning or result in various disorders, including cancer.\nTo fully understand specific sequences within DNA that enable gene activation, researchers in University of California San Diego Professor James T. Kadonaga's laboratory set out to decipher an important segment of DNA known as the \"initiator.\" This is the site at which instructions coded in genes are first converted, or expressed, into functional products.\nIn the new study led by graduate student researcher Torrey Rhyne-Carrigg, scientists used high-throughput DNA sequencing technology to determine the gene expression activity of approximately 500,000 different versions of the initiator. With this information, they employed machine learning, a type of artificial intelligence, to create an AI model that decoded the initiator's signature DNA pattern. With the initiator's DNA identity unmasked, the researchers could then search for its telltale sequence, finding that about 60% of human genes contain the initiator.\n\"These AI models were found to provide, for the first time, strong predictions of the presence or absence of the initiator in human genes and were thus able to decode the DNA base sequence pattern of the initiator,\" said Kadonaga, a professor in the UC San Diego Department of Molecular Biology, School of Biological Sciences.\nThe newly uncovered information gives researchers the ability to predict the effects of DNA mutations that can lead to various disorders tied to the initiator. The data and models resulting from the new study could also be used to design synthetic promoters, sequences that turn genes on and off, with customized functions.\n\"More globally, this work is a step forward in the combined use of laboratory experiments and AI to decipher the information embedded in the sequence of DNA bases in humans,\" said Kadonaga. \"Ultimately, within the 6 billion bases of DNA in each of our cells, there is a gene expression code that specifies when, where and to what extent each of our genes should be turned on or off. If we had an AI model for the entire gene expression code, we would be able to predict the activity of each of the different variants of genes in different people. The new AI model for the initiator is a small but important part of this gene expression code, and I am optimistic that we will expand our AI models of the human gene expression code in the not-too-distant future.\"\nThe study, \"Machine learning analysis of the human initiator region reveals key features of different types of core promoters,\" was published in Genes and Development.\nPublication details\nTorrey E. Rhyne-Carrigg et al, Machine learning analysis of the human initiator region reveals key features of different types of core promoters, Genes & Development (2026). DOI: 10.1101/gad.353623.125\nJournal information: Genes & Development\nKey concepts\nDNA sequencinghominoidsNeuroscience, neural computation & artificial intelligenceBioinformatics\nProvided by University of California - San Diego",
+ "report": {
+  "summary": "AI 破译人类基因起始序列，覆盖60%基因，助力疾病预测与合成启动子设计。",
+  "background": "基因激活对生命发育至关重要，起始序列(initiator)是基因表达的关键开关，但其 DNA 特征一直未被完全破解。加州大学圣迭戈分校研究团队对约50万个起始序列变体进行高通量测序，再结合机器学习建立 AI 模型，成功识别出其核心序列模式，并发现约60%的人类基因含有该起始序列。这一成果是 AI 与实验结合解读基因组信息的重要进展，也为未来解码全部人类基因表达密码打下基础。",
+  "key_points": [
+   "研究团队利用 AI 分析约50万个起始序列变体，成功识别出人类基因启动的关键 DNA 序列模式。",
+   "新发现的起始序列存在于约60%的人类基因中，说明它是个普遍的调控元件，对基因正确表达至关重要。",
+   "AI 模型能预测突变对起始序列功能的影响，有助揭示与基因失调相关的疾病机制，如癌症。",
+   "该模型还可用于设计人工启动子，实现基因开关的定制，为合成生物学和基因治疗提供新工具。"
+  ],
+  "impact": "对 AI 行业而言，展示了 AI 在基因组学解读中的强大能力，可能加速 AI 驱动的生物发现；对开发者，新数据和模型可用于构建更好的基因预测与分析工具；对普通用户，未来有助于理解遗传变异与疾病风险，推动个性化医疗发展。",
+  "tools": "可关注 UCSC 基因组浏览器浏览人类 DNA 序列；使用 TensorFlow/PyTorch 构建序列模型；参考 ENCODE 项目获取调控元件数据；也可关注作者实验室后续开源模型。"
+ }
+}
