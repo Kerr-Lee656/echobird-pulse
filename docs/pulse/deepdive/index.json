@@ -3238,5 +3238,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T14:45:00Z",
   "fetched_at": "2026-08-22T16:45:15.660317+00:00"
+ },
+ "f1a3aa3683d6": {
+  "id": "f1a3aa3683d6",
+  "url": "https://modelcontextprotocol.io/development/roadmap",
+  "title": "MCP Roadmap Update",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T18:34:09Z",
+  "fetched_at": "2026-08-22T18:50:40.113879+00:00"
+ },
+ "47e5fa4d38e9": {
+  "id": "47e5fa4d38e9",
+  "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+  "title": "When AI art has no author: Generated images can't trace to training data (study)",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T17:50:30Z",
+  "fetched_at": "2026-08-22T18:50:58.645888+00:00"
+ },
+ "8c2f342ea8fe": {
+  "id": "8c2f342ea8fe",
+  "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+  "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T17:06:04Z",
+  "fetched_at": "2026-08-22T18:51:18.163601+00:00"
+ },
+ "6c32d0743715": {
+  "id": "6c32d0743715",
+  "url": "https://huggingface.co/blog/mayafree/model-dna",
+  "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T15:20:59Z",
+  "fetched_at": "2026-08-22T18:51:27.572682+00:00"
  }
 }
