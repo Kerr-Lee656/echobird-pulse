@@ -1,0 +1,23 @@
+{
+ "id": "b384779a182a",
+ "url": "https://thenextweb.com/news/china-ai-chip-firms-equity-talent-retention",
+ "title": "China’s AI and chip firms are handing out shares to keep their engineers",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-22T20:38:42.563572+00:00",
+ "content": "Chinese chip companies are running unusually broad equity schemes to keep engineers, with Cambricon covering 85.3% of its workforce and AMEC more than 97%. Europe’s semiconductor sector has a talent gap estimated at 65,000 workers.\nChinese chip companies are giving away equity at a scale that looks less like a bonus scheme and more like a defensive measure. Cambricon has unlocked around 600,000 shares for 124 core staff, worth an average of 5.57mn yuan each, or about $828,000.\nThe breadth is the more striking number. The same company has granted 5mn shares to 944 employees, which is 85.3% of its workforce, in a plan running to 2028.\nIt is not alone in that approach. Zhongji InnoLight, which makes optical transceivers for AI data centres, allocated 2.48mn shares to 99 key personnel with average yields above 26mn yuan, and the chip equipment maker AMEC has a restricted stock plan covering more than 97% of its staff.\nCash is moving in the same direction. ByteDance and Tencent have reportedly offered pay increases of up to 150% and bonuses of around 35% to secure AI talent.\nThe pressure behind it is domestic as much as geopolitical. Chinese firms are poaching from one another while export controls have made domestic chip design a national priority, which concentrates demand on a small pool of engineers.\nThe awards are not unconditional. Cambricon has tied an incentive plan to a revenue target of roughly $14.8bn, which turns retention into a performance instrument rather than a gift.\nEurope’s problem is described in the opposite terms. The European Chips Skills Academy has put the continent’s semiconductor talent gap at 65,000 workers, in a region that has more AI talent than the United States by headcount.\nWhat Europe lacks is the instrument rather than the people. Many of its relevant employers are listed incumbents, research institutes or university spinouts, and employee share schemes differ so much between member states that equity is a harder tool to reach for.\nIts answer has largely been training. Skills academies, apprenticeships and Chips Act programmes address supply, on a timescale measured in graduate cohorts rather than quarters.\nThe American answer is simply money. TNW has reported that Anthropic pays the highest salaries in AI research, to the point that its chief executive has worried aloud about people joining for the pay.\nSo three regions are answering the same shortage differently. China is offering ownership, America is offering cash, and Europe is offering courses, which is the only one of the three that cannot be accepted immediately.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "中国AI芯片企业大规模股权激励留人才，覆盖超八成员工。",
+  "background": "美国出口管制使中国芯片设计成为国家优先事项，国内企业互相挖角，人才池却很小。为稳住工程师，寒武纪、AMEC等公司推出覆盖绝大多数员工的股权激励，寒武纪还绑定了营收目标。与此同时，美国靠高薪、欧洲靠培训应对同类短缺，而中国选择“所有权”作为武器，凸显人才争夺白热化。",
+  "key_points": [
+   "寒武纪、AMEC等芯片公司推出覆盖绝大部分员工的股权激励计划，寒武纪覆盖85.3%，AMEC超97%，规模罕见，更像防御性留人策略。",
+   "激励金额巨大：寒武纪为核心员工解锁约60万股，人均价值约82.8万美元；中际旭创关键人员平均收益超2600万元人民币。",
+   "压力来自国内挖角与出口管制叠加，人才需求集中在少数工程师身上，企业不得不长期绑定核心团队。",
+   "寒武纪将激励计划与约148亿美元营收目标挂钩，把留人机制变成业绩工具，并非无条件赠予。",
+   "全球应对短缺的方式不同：美国用高薪吸引人才，欧洲用技能培训，中国则以股权所有权留人，各有优劣。"
+  ],
+  "impact": "对AI行业，股权激励将成中国芯片企业常态，加剧人才流动，并推动更复杂的业绩绑定设计。对开发者，人才可获得可观股权收益，但需承担业绩压力，跳槽谈判筹码增加。对普通用户，中国芯片自主化加速，长期可能降低进口依赖，但短期成本仍高，产品或服务价格可能受影响。",
+  "tools": "可关注开源RISC-V指令集和开放EDA工具如OpenROAD，跟进芯片设计；行业数据可参考SEMI、IC Insights报告。"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "0dd751125e37",
+ "url": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
+ "title": "人工智能测绘揭示了北极冻结的隐蔽阶段，这将对气候产生影响",
+ "source": "phys.org",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-22T17:09:21.576Z",
+ "fetched_at": "2026-08-22T20:39:21.379798+00:00",
+ "content": "AI mapping reveals hidden stage of Arctic freeze with climate implications\nSadie Harley\nScientific Editor\nRobert Egan\nSenior Editor\nAs autumn gives way to winter across the Arctic, the ground doesn't immediately freeze solid. Instead, soils often linger near the freezing point for days or even weeks in a phase called the zero curtain. In a new NASA-led study, researchers produced high-resolution maps of the Arctic zero curtain.\nUnderstanding the duration, intensity and extent of this phenomenon should help scientists better predict how thawing permafrost, or ground that is frozen for an extended length of time, could affect Earth's climate.\nHow frozen soil stalls\nThe zero curtain works much like a glass of ice water. The water remains at the freezing point because incoming heat melts the ice rather than raising the temperature. The same effect occurs within Arctic soil during spring. In autumn, the reverse happens: As water freezes, it releases heat that holds the ground near the freezing point before it can cool further.\nThe near-freezing conditions allow microbes in the soil to remain active longer, releasing carbon dioxide and methane into the atmosphere. Arctic permafrost stores an estimated 1.9 trillion tons (1.7 trillion metric tons) of organic carbon, which is nearly twice the amount currently in Earth's atmosphere. As frozen ground thaws, more of that carbon could be released as microbes take advantage of the expanding zero curtain's moist conditions.\nMapping a longer thaw window\nIn Scientific Reports researchers describe an artificial intelligence framework called GeoCryoAI that combines satellite observations and model outputs with field measurements dating back to 1891 to create the first detailed maps of zero-curtain conditions across the Arctic region.\nThe maps show that spring thaw generally produces much longer zero-curtain periods than autumn freeze-up and that regions with higher moisture levels experience longer zero-curtain periods.\nThe team designed GeoCryoAI to work with data from the U.S.–India NISAR (NASA-ISRO Synthetic Aperture Radar) mission, which could help scientists observe how frozen landscapes respond to a changing climate and improve forecasts of future greenhouse gas emissions.\nPublication details\nB. A. Gay et al, Resolving circumarctic zero-curtain phenomena with AI-integrated earth observations, Scientific Reports (2026). DOI: 10.1038/s41598-026-61719-9\nJournal information: Scientific Reports\nProvided by NASA",
+ "report": {
+  "summary": "AI绘制北极零幕地图，揭示冻土碳释放关键阶段。",
+  "background": "北极永久冻土储存约1.9万亿吨有机碳，约为大气碳含量的两倍。气候变暖导致冻土解冻，可能释放大量温室气体。土壤冻结过程中存在“零幕”阶段，地温在冰点附近徘徊，微生物保持活跃，加速碳分解。此前缺乏对这一现象的空间分布理解。NASA团队利用人工智能框架GeoCryoAI，整合卫星观测、模型输出及自1891年以来的实地测量数据，首次生成北极高分辨率零幕地图，为预测气候变化反馈提供关键依据。",
+  "key_points": [
+   "零幕现象：秋季土壤冻结时释放潜热，使地温在冰点附近维持数天至数周，类似冰水混合物，延缓完全冻结。",
+   "碳释放风险：零幕期间微生物继续活动，释放二氧化碳和甲烷。永久冻土碳储量约1.9万亿吨，一旦释放将加剧气候变化。",
+   "AI框架GeoCryoAI：结合卫星遥感、模型和1891年以来的现场测量，生成首个北极零幕高分辨率地图，填补观测空白。",
+   "关键发现与展望：春季解冻期零幕更长，高湿地区更显著；框架兼容NISAR雷达任务，助力未来碳排放预测。"
+  ],
+  "impact": "对AI行业，展示AI融合多源地球观测数据的潜力，推动气候科学智能化。对开发者，GeoCryoAI提供处理时序遥感数据的范式，可借鉴其迁移学习方法，应用于其他地表监测。对普通用户，该研究帮助科学家更准确预测冻土碳释放，间接影响气候模型和极端天气预警，最终服务于减排决策。整体上，AI正成为理解地球系统关键过程的重要工具。",
+  "tools": "关注NASA-ISRO NISAR卫星任务的雷达数据，以及Google Earth Engine平台用于遥感分析。GeoCryoAI框架由NASA团队开发，可关注NASA官方开源仓库及论文补充材料，学习其数据融合方法。另外，可参考Permafrost Carbon Network数据。"
+ }
+}

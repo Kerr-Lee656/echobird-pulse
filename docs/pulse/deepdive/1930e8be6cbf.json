@@ -1,0 +1,23 @@
+{
+ "id": "1930e8be6cbf",
+ "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+ "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+ "source": "BBC News (世界新闻)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-22T17:02:06Z",
+ "fetched_at": "2026-08-22T20:39:47.194897+00:00",
+ "content": "Watch: Moment humanoid robot beats Usain Bolt's 100m record\nA robot has outperformed humans by running faster than Usain Bolt's 100m sprint world record at the World Humanoid Robot Games in China.\nThe humanoid robot, developed by the Beijing Innovation Centre of Humanoid Robotics, ran the distance in 9.39 seconds at the event.\nEight-time Olympic gold medallist Bolt set the world record for humans in 2009, running 100m in 9.58 seconds.\nThe robot beat two others including one made by Chinese smartphone maker Honor - which the manufacturer says ran the distance in 9.32 seconds in a test run.\nOther events at the robot games, which started on Saturday, include boxing and football, but also household tasks such as folding laundry.\nThe BBC's China correspondent Laura Bicker reports from Beijing.\nRelated topics\n- ChinaUpdates from your News topics will appear in My News and in a collection on the News homepage.\n- BeijingUpdates from your News topics will appear in My News and in a collection on the News homepage.\n- RoboticsUpdates from your News topics will appear in My News and in a collection on the News homepage.\n- Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+ "report": {
+  "summary": "人形机器人百米跑9.39秒，超越博尔特世界纪录。",
+  "background": "首届世界人形机器人运动会在北京举行，北京创新中心研发的机器人以9.39秒跑完100米，比博尔特2009年创造的9.58秒世界纪录快0.19秒。近年来，中国大力推动机器人产业向具身智能升级，此次大事件设置跑步、拳击、足球和叠衣服等项目，旨在测试机器人在动态平衡、感知和复杂操作等方面的能力。荣耀等企业也参加赛事，其机器人测试成绩达到9.32秒，引发对人形机器人量产速度的讨论。",
+  "key_points": [
+   "北京创新中心的机器人以9.39秒跑完100米，比博尔特世界纪录快0.19秒，证明人形机器人运动控制已达突破性水平。",
+   "荣耀制造的机器人在测试中跑出9.32秒，比冠军更快，显示中国科技企业正密集布局人形机器人，产业竞争加剧。",
+   "除短跑外，运动会还设拳击、足球和叠衣服等项目，反映人形机器人追求的不只是速度，更是复杂任务下的实用性。",
+   "机器人能超越人类顶尖短跑者，得益于电机、减速器与AI步态算法的协同进步，是具身智能的重要里程碑。",
+   "首届世界人形机器人运动会为中国提供了向全球展示机器人技术的舞台，未来或将催生更丰富的赛道和商业场景。"
+  ],
+  "impact": "对AI行业而言，具身智能获得真实世界验证，运动控制算法和硬件设计成为焦点；开发者需关注低成本高动态机器人的开发，以及仿真到现实的迁移。对普通用户来说，未来可能看到更灵巧的机器人进入家庭承担家务。但机器人速度超越人类也引发伦理和安全讨论，比赛需设置严格规则，避免无序竞争。",
+  "tools": "可关注ROS 2（机器人编程框架）、MuJoCo（物理仿真引擎）、NVIDIA Isaac Sim（具身智能仿真平台）等开源工具，从仿真步态控制开始上手人形机器人开发。同时留意北京创新中心是否开源相关算法，以便跟踪最新进展。"
+ }
+}

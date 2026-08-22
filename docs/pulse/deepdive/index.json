@@ -3274,5 +3274,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T15:20:59Z",
   "fetched_at": "2026-08-22T18:51:27.572682+00:00"
+ },
+ "e0cf4087263d": {
+  "id": "e0cf4087263d",
+  "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+  "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-22T20:38:04.237046+00:00"
+ },
+ "e49bd79c160a": {
+  "id": "e49bd79c160a",
+  "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws",
+  "title": "OpenAI calls for California to strengthen its AI safety laws",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-22T20:38:15.308405+00:00"
+ },
+ "058d495cab2c": {
+  "id": "058d495cab2c",
+  "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
+  "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-22T20:38:23.648671+00:00"
+ },
+ "b384779a182a": {
+  "id": "b384779a182a",
+  "url": "https://thenextweb.com/news/china-ai-chip-firms-equity-talent-retention",
+  "title": "China’s AI and chip firms are handing out shares to keep their engineers",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-22T20:38:42.563572+00:00"
+ },
+ "e3b01de29e31": {
+  "id": "e3b01de29e31",
+  "url": "https://hub.baai.ac.cn/view/57343",
+  "title": "药物筛选联合机器学习发现儿童痴呆潜在神经保护药物",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T20:39:04.002059+00:00"
+ },
+ "0dd751125e37": {
+  "id": "0dd751125e37",
+  "url": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
+  "title": "人工智能测绘揭示了北极冻结的隐蔽阶段，这将对气候产生影响",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T17:09:21.576Z",
+  "fetched_at": "2026-08-22T20:39:21.379798+00:00"
+ },
+ "1930e8be6cbf": {
+  "id": "1930e8be6cbf",
+  "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+  "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+  "source": "BBC News (世界新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T17:02:06Z",
+  "fetched_at": "2026-08-22T20:39:47.194897+00:00"
+ },
+ "92ba46e36366": {
+  "id": "92ba46e36366",
+  "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+  "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-22T19:00:00.000Z",
+  "fetched_at": "2026-08-22T20:41:03.711670+00:00"
  }
 }
