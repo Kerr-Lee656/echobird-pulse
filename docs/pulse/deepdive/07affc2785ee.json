@@ -1,0 +1,23 @@
+{
+ "id": "07affc2785ee",
+ "url": "https://github.com/google/adk-go",
+ "title": "google/adk-go — An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-22T10:42:46.528345+00:00",
+ "content": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.\nImportant Links: Docs & Samples & Python ADK & Java ADK & Kotlin ADK & TypeScript ADK & ADK Web.\nAgent Development Kit (ADK) is a flexible and modular framework that applies software development principles to AI agent creation. It is designed to simplify building, deploying, and orchestrating agent workflows, from simple tasks to complex systems. While optimized for Gemini, ADK is model-agnostic, deployment-agnostic, and compatible with other frameworks.\nThis Go version of ADK is ideal for developers building cloud-native agent applications, leveraging Go's strengths in concurrency and performance.\n- Idiomatic Go: Designed to feel natural and leverage the power of Go.\n- Rich Tool Ecosystem: Utilize pre-built tools, custom functions, or integrate existing tools to give agents diverse capabilities.\n- Code-First Development: Define agent logic, tools, and orchestration directly in Go for ultimate flexibility, testability, and versioning.\n- Modular Multi-Agent Systems: Design scalable applications by composing multiple specialized agents.\n- Deploy Anywhere: Easily containerize and deploy agents, with strong support for cloud-native environments like Google Cloud Run.\nTo add ADK Go to your project, run:\ngo get google.golang.org/adk/v2\nThis project is licensed under the Apache 2.0 License - see the LICENSE file for details.\nThe exception is internal/httprr - see its LICENSE file.",
+ "report": {
+  "summary": "谷歌开源Go版AI代理开发工具包ADK，代码优先，灵活可控。",
+  "background": "谷歌此前已推出Python、Java、TypeScript等多语言版本的Agent Development Kit (ADK)，旨在将软件工程原则应用于AI代理开发。此次发布的Go版（google/adk-go）专为云原生应用设计，利用Go在并发和性能上的优势，支持从简单到复杂代理工作流的构建、评估与部署。该工具链模型无关、部署无关，可与Gemini及其他模型配合使用，进一步扩大了ADK在Go开发者社区中的覆盖范围。",
+  "key_points": [
+   "代码优先：直接用Go定义代理逻辑、工具和工作流，便于测试、版本控制和维护。",
+   "丰富工具生态：支持预构建工具、自定义函数以及集成现有工具，赋予代理多样化能力。",
+   "模块化多代理系统：可组合多个专业代理构建可扩展应用，适合复杂业务场景。",
+   "随处部署：轻松容器化并支持Google Cloud Run等云原生环境，部署灵活。",
+   "惯用Go风格：设计贴合Go语言习惯，充分发挥并发和性能优势，适合高性能代理服务。"
+  ],
+  "impact": "对AI行业而言，多语言ADK生态进一步降低了Go社区进入AI代理开发的门槛，推动代理技术栈多元化。对开发者，提供了一种高性能、可测试、易于版本化的代理构建方式，尤其适合云原生场景。对普通用户，基于Go构建的代理有望带来更低延迟和更高稳定性的AI服务体验。",
+  "tools": "可关注官方文档和示例（github.com/google/adk-go），以及现有Python、Java、TypeScript等版本ADK。若想快速上手，可执行 go get google.golang.org/adk/v2 集成到Go项目中，并参考Cloud Run部署指南。"
+ }
+}
