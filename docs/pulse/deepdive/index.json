@@ -2914,5 +2914,113 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-22T10:42:46.528345+00:00"
+ },
+ "2596f1ee9b10": {
+  "id": "2596f1ee9b10",
+  "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053005.html",
+  "title": "韩国计划设立芯片收益基金，用于支持青年及人工智能投资",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T07:33:19.547Z",
+  "fetched_at": "2026-08-22T13:00:18.544978+00:00"
+ },
+ "36b0cb4a58f5": {
+  "id": "36b0cb4a58f5",
+  "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html",
+  "title": "Riot Platforms (RIOT) 与 CleanSpark (CLSK)：比特币矿商正转型为人工智能“房东”。Riot 刚刚签署了一份价值 90 亿美元的租赁协议，以此证明这一点",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T07:17:34.355Z",
+  "fetched_at": "2026-08-22T13:00:37.394335+00:00"
+ },
+ "67720c7e8707": {
+  "id": "67720c7e8707",
+  "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+  "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T06:29:39.085Z",
+  "fetched_at": "2026-08-22T13:01:13.122259+00:00"
+ },
+ "54c2ab02a554": {
+  "id": "54c2ab02a554",
+  "url": "https://hub.baai.ac.cn/view/57324",
+  "title": "FlagEval-Robo 正式发布：「仿真 + 真机」双轨评测，为具身智能建立真实能力标尺",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T13:01:24.325787+00:00"
+ },
+ "c0233d319a63": {
+  "id": "c0233d319a63",
+  "url": "https://hub.baai.ac.cn/view/57320",
+  "title": "Claude Code 等 AI 编程工具被系统性攻破：仅需一个假工具即可实现远程代码执行",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T13:01:37.915030+00:00"
+ },
+ "7a81b8febb38": {
+  "id": "7a81b8febb38",
+  "url": "https://hub.baai.ac.cn/view/57323",
+  "title": "从结构预测到生成：全原子模型驱动的可编程核酸适配体设计",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T13:01:47.382879+00:00"
+ },
+ "2591e0cc3118": {
+  "id": "2591e0cc3118",
+  "url": "https://www.ithome.com/0/992/941.htm",
+  "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T03:35:46Z",
+  "fetched_at": "2026-08-22T13:02:32.921396+00:00"
+ },
+ "7754a067a26f": {
+  "id": "7754a067a26f",
+  "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+  "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T11:45:40Z",
+  "fetched_at": "2026-08-22T13:03:30.126543+00:00"
+ },
+ "7e5ae0694616": {
+  "id": "7e5ae0694616",
+  "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+  "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T11:27:29Z",
+  "fetched_at": "2026-08-22T13:04:21.537919+00:00"
+ },
+ "f2fbeebb3160": {
+  "id": "f2fbeebb3160",
+  "url": "https://www.heise.de/en/news/Rights-infringing-copies-of-NEINhorn-Carlsen-sues-OpenAI-11420677.html",
+  "title": "Rights-infringing copies of \"NEINhorn\": Carlsen sues OpenAI",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T08:46:16Z",
+  "fetched_at": "2026-08-22T13:04:45.960626+00:00"
+ },
+ "d415fb5e64f5": {
+  "id": "d415fb5e64f5",
+  "url": "https://www.instantdb.com/essays/instant_team_joins_openai",
+  "title": "The Instant team joins OpenAI",
+  "source": "Hacker News (11pts, 8c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T05:41:43Z",
+  "fetched_at": "2026-08-22T13:05:02.386733+00:00"
+ },
+ "258cade2cefa": {
+  "id": "258cade2cefa",
+  "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+  "title": "GPT 5.6 Sol 20% price reduction",
+  "source": "Hacker News (76pts, 62c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T04:33:06Z",
+  "fetched_at": "2026-08-22T13:05:15.434280+00:00"
  }
 }

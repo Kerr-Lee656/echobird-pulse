@@ -1,0 +1,23 @@
+{
+ "id": "2596f1ee9b10",
+ "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053005.html",
+ "title": "韩国计划设立芯片收益基金，用于支持青年及人工智能投资",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-22T07:33:19.547Z",
+ "fetched_at": "2026-08-22T13:00:18.544978+00:00",
+ "content": "SEOUL, Aug 21 (Reuters) - South Korea plans to create a new fund to channel tax windfalls from the country's semiconductor boom into supporting younger generations and invest in future growth industries such as artificial intelligence, the budget ministry said on Friday.\nThe proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy homes and start families, while also supporting investments in AI, regional development and talent development, according to a ministry press release.\nThe fund would be financed mainly by tax revenue exceeding a benchmark based on the average growth in domestic tax receipts over the past decade.\nIt would accumulate excess tax revenue in strong years that could later be used to help cushion periods of weaker revenue, according to the ministry.\nSouth Korean chipmakers Samsung Electronics and SK Hynix have seen their earnings soar as the AI boom creates insatiable demand for chips.\nThe government did not provide an official estimate of the fund's size. South Korean media said it could exceed 100 trillion won ($72.28 billion) based on government projections for next year's tax revenue and expected inflows from other sources.\nUnder the plan, youth programmes would support employment, housing, asset building, marriage and childbirth, while investment in growth industries would focus on AI and other strategic technologies.\nPresident Lee Jae Myung has pledged to expand opportunities for young people as the country grapples with low birth rates, housing affordability concerns and labour market challenges.\nGovernment data showed the youth unemployment rate rose to 6.8% in July, while Lee recently warned that the spread of AI could further cloud job prospects for younger workers.\nThe fund is also tied to an overhaul of education funding that would redirect more resources toward talent development, higher education and lifelong learning.\nThe government plans to submit related legislation to parliament alongside its 2027 budget proposal next month.\n($1 = 1,383.5000 won)\n(Reporting by Kyu-seok ShimEditing by Ed Davies)",
+ "report": {
+  "summary": "韩国拟利用芯片税收超额收益设立基金，投向青年及AI产业。",
+  "background": "AI芯片需求激增使三星、SK海力士等韩国芯片巨头盈利暴增，政府税收因之大幅超出历史平均基准。为应对青年失业率上升、低生育率和住房负担，韩国计划设立“未来应对基金”，将超额税收用于就业、住房、婚姻生育支持，并投资AI等未来增长行业。基金预计超100万亿韩元，相关法案将随2027年预算案提交国会。",
+  "key_points": [
+   "基金来源：基于过去十年税收平均增速设定基准，超额部分累积成“未来应对基金”，以备景气低谷使用。",
+   "青年支援：资金用于就业、住房、资产建设、婚育等项目，应对青年失业率升至6.8%和人口危机。",
+   "AI投资：重点投向人工智能等战略技术，支持区域发展和人才培育，同时应对AI可能带来的就业替代。",
+   "规模可观：韩媒预测基金可能超过100万亿韩元（约722.8亿美元），但官方未给出正式估算。",
+   "教育联动：该计划还涉及教育改革，将更多资源引向人才培养、高等教育和终身学习。"
+  ],
+  "impact": "对AI行业，韩国政府以国家级资金支持AI和芯片生态，可能加速本土AI研发和基础设施建设，利好相关企业和从业者；对开发者，意味着更多政策补贴、优惠和项目机会，但也需关注AI伦理和就业转型；对普通用户，青年有望获得更直接的就业和住房补助，但AI技术普及可能改变就业市场，长期需要国家和个人共同适应。",
+  "tools": "可关注韩国经济财政部官网发布的基金细节和立法动态；AI领域可跟踪Hugging Face、PyTorch等开源生态，以及韩国科技信息通信部的AI战略文件。对于芯片，可参考三星和SK海力士的公开技术路线图。"
+ }
+}

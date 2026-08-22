@@ -1,0 +1,23 @@
+{
+ "id": "258cade2cefa",
+ "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+ "title": "GPT 5.6 Sol 20% price reduction",
+ "source": "Hacker News (76pts, 62c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T04:33:06Z",
+ "fetched_at": "2026-08-22T13:05:15.434280+00:00",
+ "content": "GPT-5.6 Sol\nDefault\nFrontier model for complex professional work\nFrontier model for complex professional work\nReasoning\nHighest\nSpeed\nFast\nPrice\n$4•$20\nInput•Output\nInput\nText, image\nOutput\nText\nGPT-5.6 Sol is the frontier model in the GPT-5.6 family. It roughly\ncorresponds to the unsuffixed model tier used in earlier GPT-5 families.\nThe gpt-5.6 alias routes requests to GPT-5.6 Sol.\nReasoning.effort supports: none, low, medium (default), high, xhigh, and max.\n1,050,000 context window\n128,000 max output tokens\nFeb 16, 2026 knowledge cutoff\nReasoning token support\nPricing\nPricing is based on the number of tokens used, or other metrics based on the model type. For tool-specific models, like search and computer use, there’s a fee per tool call. See details in the pricing page.\nText tokens\nPer 1M tokens\nInput\n$4.00\nCached input\n$0.40\nOutput\n$20.00\nQuick comparison\nInput\nCached input\nOutput\nGPT-5.5\n$5.00\nGPT-5.6 Sol\n$4.00\nGPT-5.4\n$2.50\nGPT-5.6 Sol costs $4 per million input tokens and $20 per million output tokens, a 20% reduction in input pricing and a 33% reduction in output pricing. GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026.\nPrompts with >272K input tokens are priced at 2x input and 1.5x output for the full request.\nCache writes are billed at 1.25x the uncached input token rate.\nModalities\nText\nInput and output\nImage\nInput only\nAudio\nNot supported\nVideo\nNot supported\nEndpoints\nChat Completions\nv1/chat/completions\nResponses\nv1/responses\nRealtime\nv1/realtime\nRealtime translation\nv1/realtime/translations\nRealtime transcription\nv1/realtime/transcription_sessions\nAssistants\nv1/assistants\nBatch\nv1/batch\nFine-tuning\nv1/fine-tuning\nEmbeddings\nv1/embeddings\nImage generation\nv1/images/generations\nVideos\nv1/videos\nImage edit\nv1/images/edits\nSpeech generation\nv1/audio/speech\nTranscription\nv1/audio/transcriptions\nTranslation\nv1/audio/translations\nModeration\nv1/moderations\nCompletions (legacy)\nv1/completions\nFeatures\nStreaming\nSupported\nFunction calling\nSupported\nStructured outputs\nSupported\nFine-tuning\nNot supported\nTools\nTools supported by this model when using the Responses API.\nWeb search\nSupported\nFile search\nSupported\nImage generation\nSupported\nCode interpreter\nSupported\nHosted shell\nSupported\nApply patch\nSupported\nSkills\nSupported\nComputer use\nSupported\nMCP\nSupported\nTool search\nSupported\nSnapshots\nSnapshots let you lock in a specific version of the model so that performance and behavior remain consistent. Below is a list of all available snapshots and aliases for GPT-5.6 Sol.\ngpt-5.6-sol\ngpt-5.6-sol\ngpt-5.6-sol\nRate limits\nRate limits ensure fair and reliable access to the API by placing specific caps on requests, tokens, audio duration, or other usage within a given time period. Your usage tier determines how high these limits are set and automatically increases as you send more requests and spend more on the API.",
+ "report": {
+  "summary": "OpenAI 宣布 GPT-5.6 Sol 降价，输入降 20%，输出降 33%。",
+  "background": "GPT-5.6 Sol 是 OpenAI 推出的 GPT-5.6 系列旗舰模型，定位于复杂专业任务，支持超长上下文和多种推理强度。此前 GPT-5.5 等高端模型价格较高，阻碍了大规模商业应用。OpenAI 此次降价延续了 AI 大模型行业的价格竞争趋势，同时以促销价吸引开发者在 2026 年 11 月前加快采用。该模型对应早期 GPT-5 的无后缀版本，并成为 gpt-5.6 别名指向的默认模型。",
+  "key_points": [
+   "降价幅度明确：输入从每百万 tokens 5 美元降至 4 美元，降幅 20%；输出价格降幅达 33%，促销价至少持续到 2026 年 11 月 21 日。",
+   "超强上下文能力：支持 105 万 token 的上下文窗口和 12.8 万的最大输出 token，适合处理超长文档和复杂推理。",
+   "高度灵活的推理控制：可调 reasoning effort 从 none 到 max 共 6 档，开发者能平衡速度与深度推理。",
+   "工具生态完善：集成 Web 搜索、文件搜索、图片生成、代码解释器、计算机使用、MCP 等多种工具，适配 Responses API。",
+   "特殊定价规则：超过 27.2 万输入 token 的提示词按 2 倍输入、1.5 倍输出计费，缓存写入按未缓存输入价格 1.25 倍计费。"
+  ],
+  "impact": "对 AI 行业而言，GPT-5.6 Sol 降价将加剧推理模型价格战，迫使其他厂商跟进优化成本。对开发者，显著降低构建高智能应用的 API 成本，尤其是长上下文和推理密集型场景，从而催生更多 Agent 和自动化工具。对普通用户，通过基于该模型的 SaaS 产品可能获得更低价格或更高性能的体验，但需注意促销期后的价格调整。",
+  "tools": "开发者可关注 OpenAI 官方 API 文档（platform.openai.com）中的 gpt-5.6-sol 模型，使用 Responses API 或 Chat Completions API 调用。同时可借助 LangChain、LlamaIndex 等开源框架快速集成，或通过 OpenRouter 等聚合平台比较价格与性能。"
+ }
+}

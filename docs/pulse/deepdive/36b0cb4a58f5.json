@@ -1,0 +1,23 @@
+{
+ "id": "36b0cb4a58f5",
+ "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html",
+ "title": "Riot Platforms (RIOT) 与 CleanSpark (CLSK)：比特币矿商正转型为人工智能“房东”。Riot 刚刚签署了一份价值 90 亿美元的租赁协议，以此证明这一点",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-22T07:17:34.355Z",
+ "fetched_at": "2026-08-22T13:00:37.394335+00:00",
+ "content": "Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It\nRiot Platforms, Inc. (NASDAQ:RIOT) struck a $9.1 billion, 20-year computing deal with Anthropic this week, leasing 191 megawatts of power at its Rockdale, Texas campus. The deal could grow to $16.1 billion if extended twice by five years each. Shares initially jumped more than 20% before giving back most of the gain.\nWhy This Matters\nRiot and fellow bitcoin miner CleanSpark, Inc. (NASDAQ:CLSK) are both completing a shift from mining bitcoin to renting out power and data center space to AI companies.\nThat raises the real question: is this a genuine, durable business model change, or a temporary boost dressed up while bitcoin mining economics stay weak?\nThe Bull and Bear Case: Riot Platforms, Inc. (NASDAQ:RIOT)\nThe Anthropic deal alone is expected to generate $9.1 billion in revenue over 20 years. It follows Riot's earlier deal with AMD, giving the Rockdale site what Compass Point analyst Michael Donovan called a \"two-tenant campus carrying $9.8 billion of contracted data center revenue.\" Riot Platforms, Inc. (NASDAQ:RIOT)'s own second-quarter revenue beat expectations too, at $174.2 million versus the $154.3 million analysts modeled, helped by the data center business. Analyst Donovan reiterated a buy rating and $29 price target, arguing that tighter scrutiny of new power projects by Texas grid operator ERCOT could actually raise the value of power capacity Riot has already secured.\nShares gave back almost their entire initial pop on the Anthropic news, a sign investor enthusiasm cooled fast. The pivot itself shows weak underlying bitcoin economics, where falling prices, rising competition, and shrinking mining rewards squeeze miners until some operate at a loss. Riot Platforms, Inc. (NASDAQ:RIOT) is now betting its future largely on long-term AI tenant contracts instead of bitcoin price appreciation. It is a bet that depends on customers like Anthropic needing this specific site for the next two decades.\nThe Bull and Bear Case: CleanSpark, Inc. (NASDAQ:CLSK)\nCleanSpark, Inc. (NASDAQ:CLSK) signed its own 20-year, $6.6 billion triple-net lease at its Sandersville site with a high investment-grade tenant. CEO Matt Schultz said the firm has already fully funded the equity portion of that project while pre-paying for long-lead equipment to stay on schedule. CFO Gary Vecchiarelli disclosed the firm has \"materially de-risked execution while preserving balance sheet flexibility,\" even with weak bitcoin mining economics still weighing on results.\nThe numbers show how much bitcoin mining has hurt results: fiscal third-quarter revenue fell 30.5% year over year to $138.0 million, and the company swung to a $239.8 million net loss from $257.4 million in net income a year earlier. Adjusted EBITDA fell to negative $113.0 million from a positive $377.7 million. CleanSpark, Inc. (NASDAQ:CLSK)'s promise to convert \"infrastructure optionality into durable cash flows\" is still just that, a promise, since Sandersville lease revenue hasn't started flowing yet.",
+ "report": {
+  "summary": "比特币矿商Riot与CleanSpark转型AI房东，Riot签90亿美元租约。",
+  "background": "比特币挖矿行业正经历寒冬：币价下跌、竞争加剧、区块奖励减半，导致许多矿商亏损。然而矿商们手握大量电力和数据中心资源，这些成为AI公司急需的算力基础设施。Riot Platforms与CleanSpark等头部矿商开始转向“房地产”模式，将园区电力与机房租给AI企业。Riot本周与Anthropic签下91亿美元、20年期租约，CleanSpark也签下66亿美元合约，标志这一转型进入加速期。",
+  "key_points": [
+   "Riot与Anthropic达成91亿美元、20年的电力租赁协议，涉及得州Rockdale园区191兆瓦容量，若两次延期五年总价值可达161亿美元。",
+   "消息公布后Riot股价一度涨超20%但随后回吐大部分涨幅，显示市场对转型故事仍存疑虑，担心比特币挖矿基本面疲软只是被短期利好掩盖。",
+   "CleanSpark也签下66亿美元、20年的三净租约，但公司财季营收同比下滑30.5%，净亏损达2.398亿美元，经营压力巨大。",
+   "分析师指出，德克萨斯州电网监管趋严使已获批的电力容量更稀缺，Riot等手握电力的矿商估值可能上升，但长期依赖单一AI客户风险不小。",
+   "两家公司的共同逻辑是：将挖矿基础设施转化为稳定的AI租约现金流，以摆脱对比特币价格波动的依赖，但这需要未来20年持续履约。"
+  ],
+  "impact": "对AI行业而言，这标志着数据中心供给端的重大变化，矿商通过转型为AI公司提供大规模电力和机房，有助于缓解算力短缺。开发者可能受益于算力资源增加，但租约长期绑定可能推高锁定成本。普通用户则可能间接感受到能源价格与AI服务成本波动。对矿商本身，这是从高风险挖矿向稳定租金收入的战略转向，成功与否取决于AI需求是否持续增长以及合同执行能力。",
+  "tools": "可关注Riot和CleanSpark的投资者演示文稿及财报；跟踪德克萨斯州ERCOT电网容量数据；关注Anthropic、AMD等租户的算力需求动态。若想了解AI数据中心租赁趋势，可参考Compass Point等投研机构报告，以及CoreWeave等AI云服务商的市场动向。"
+ }
+}

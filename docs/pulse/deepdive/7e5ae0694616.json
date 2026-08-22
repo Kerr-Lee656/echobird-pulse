@@ -1,0 +1,22 @@
+{
+ "id": "7e5ae0694616",
+ "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+ "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+ "source": "Hacker News (5pts, 2c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T11:27:29Z",
+ "fetched_at": "2026-08-22T13:04:21.537919+00:00",
+ "content": "Dutch regulator fines Uber €825 mil. for letting algorithm deactivate drivers' accounts\nThe Dutch Data Protection Authority (AP) has fined Uber €825 million for deactivating driver accounts through automated systems and without adequately informing them. This violates Europe’s General Data Protection Regulation (GDPR), the AP said in a decision made on Monday, Reuters reported after seeing the decision.\nAccording to the AP, Uber’s automated systems temporarily suspended the accounts of multiple drivers who were suspected of fraud in Europe between 2020 and 2022. In some cases, drivers with low customer ratings were suspended permanently.\nThat violates the drivers' rights under the GDPR, which bans companies from letting a computer algorithm make decisions that have a significant impact on people’s lives, the AP said. Being suspended from a platform individual drivers depend upon for their livelihood is considered to be substantial.\n“The AP has determined that Uber violated drivers’ rights, specifically the right not to be subject to automated decision-making that has significant consequences,” Reuters quoted from the AP’s decision. “Uber has also violated their right to be informed.”\nThe investigation stemmed from a complaint by Uber drivers in France. The AP handled the investigation because Uber's European headquarters is located in the Netherlands.\nUber said it would appeal against the decision, arguing that it did not permanently deactivate accounts without human review. The company told Reuters that it no longer makes permanent decisions about deactivation solely through automated systems.\n“We strongly disagree with this decision and disproportionate fine,” an Uber spokesperson told Reuters. They said Uber takes drivers’ rights seriously and its current policies include human reviews and opportunities for drivers to dispute.\nIt is believed to be the second-highest penalty issued under the GDPR to date, only being topped by a 1.2-billion euro fine imposed on Meta in 2023. That decision was issued by an Irish regulator for accusations that Meta unlawfully transferred European Facebook user data to the United States. Meta also appealed against that fine.",
+ "report": {
+  "summary": "荷兰监管以Uber算法违规停用司机账户违反GDPR为由，罚款8.25亿欧元。",
+  "background": "荷兰数据保护局（AP）因法国司机投诉展开调查，因Uber欧洲总部位于荷兰而取得管辖权。调查发现2020至2022年间，Uber自动系统临时或永久停用涉嫌欺诈或低评分司机的账户，且未充分告知司机。GDPR禁止算法在无人工干预下做出对个人有重大影响的决策，而停用账户直接影响司机生计，构成违规。这是GDPR生效以来第二高罚款，仅次于Meta的12亿欧元。Uber表示将上诉，称现有流程已包含人工审查和申诉机制。",
+  "key_points": [
+   "荷兰AP认定Uber自动系统在2020至2022年间停用司机账户，违反GDPR关于自动化决策的规定。",
+   "违规核心在于Uber未充分告知司机，且算法决策对司机生计造成重大影响，属于严重侵权。",
+   "8.25亿欧元罚款为GDPR历史上第二高，仅次于Meta的12亿欧元，体现欧洲对算法治理的强硬态度。",
+   "Uber否认永久停用仅靠算法，称当前已有人工审查和申诉渠道，并决定提起上诉。"
+  ],
+  "impact": "对AI行业而言，此案警示任何自动化决策系统都必须具备透明性和人工干预机制，否则可能面临巨额处罚。对开发者来说，需在算法设计中融入可解释性、通知义务和申诉流程，以符合GDPR等法规。对普通用户尤其是平台从业者，此案强化了个人免受“黑箱算法”操控生计的权利，让平台在滥用自动化决策时承担更高合规成本。总体来看，该案成为算法问责的里程碑，将推动全球科技企业重新审视自动化决策的边界与责任。",
+  "tools": "可关注IBM AI Fairness 360、Explainable AI (XAI) 库等开源工具，用于检测和解释算法决策；同时可参考GDPR数据保护影响评估（DPIA）模板，帮助评估自动化系统的合规风险。"
+ }
+}
