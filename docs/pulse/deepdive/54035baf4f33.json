@@ -1,0 +1,23 @@
+{
+ "id": "54035baf4f33",
+ "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+ "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T21:59:05Z",
+ "fetched_at": "2026-08-22T22:39:42.610375+00:00",
+ "content": "Twitch now lets users opt out of Amazon’s use of content from their channels to train Amazon’s “generative AI content models.” The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training.\nIn an updated support page, Twitch confirms that users must opt out if they don’t want their “streams, VODs, clips, stream chats, and pictures and text on your channel [to] be used in future training of a model developed by Amazon whose purpose is to generate or synthesize text, audio, images, or video.”\nTo opt out, users must go to the proper settings at www.twitch.tv/settings/security.\nThe support page adds:\nWhen you allow training, that means that your content may be used for future Gen AI model improvements. An example of what happens when you allow your content to be used for training a Gen AI content model is that your audio might help refine models that create speech to text, which would help improve captions at Twitch but would also help improve captions across Amazon.\nTwitch users are automatically opted in to AI training and seemingly have been for at least a couple of years. When asked at an event that news publication The Information held in 2024 if Amazon uses Twitch to train AI models, Twitch’s chief monetization officer at the time, Mike Minton, said, “Yeah, for sure.” He added: “I mean, I think obviously within the bounds of user trust within the bounds of privacy regulations, which vary all around the world, but of course we have a role to play in that.”",
+ "report": {
+  "summary": "Twitch 用户现可主动退出内容被用于亚马逊 AI 训练。",
+  "background": "Twitch 作为亚马逊旗下直播平台，其海量直播、聊天和视频内容一直是 AI 训练的优质数据源。早在 2024 年，Twitch 高管就公开承认亚马逊使用平台内容训练 AI，但当时并未提供退出机制。随着全球对 AI 训练数据来源和用户隐私的关注升温，Twitch 在用户压力与监管趋严的背景下，终于上线了退出选项。但默认仍是“自动同意”，用户需手动操作才能保护自己的内容不被用于模型改进。",
+  "key_points": [
+   "Twitch 更新支持页面，明确直播、回放、剪辑、聊天和频道图文都可能被用于亚马逊生成式 AI 模型训练。",
+   "用户默认自动参与训练，必须在设置中手动关闭才能退出，入口位于 www.twitch.tv/settings/security。",
+   "训练用途包括改进语音转文字、字幕生成等，不仅服务 Twitch，还可能跨亚马逊生态使用。",
+   "早在 2024 年 Twitch 高管就承认使用内容训练 AI，但直到今天才提供退出机制，存在两年多的“默认抓取”空白期。",
+   "退出仅影响未来训练，已用于现有模型的数据不会撤回，因此用户数据权益保护仍不彻底。"
+  ],
+  "impact": "对 AI 行业而言，Twitch 此举是内容平台在数据合规上的一次实质性让步，可能推动其他直播或 UGC 平台效仿，但“默认同意”仍让平台占据主动。对开发者来说，训练数据的可获得性下降，未来模型训练更依赖公开数据或付费授权，数据成本上升。对普通用户，尤其主播，获得了一定控制权，但仍需主动了解设置，否则内容会被无感使用，且历史数据无法追回。",
+  "tools": "关注 Twitch 官方设置页面可以管理退出选项；若想检查自己的内容是否被采集，可使用亚马逊数据门户（Amazon Data Request）申请数据副本；对开发者，可参考 Twitch 开发者文档了解 API 与数据治理变化，或关注 GDPR/CCPA 合规工具如 OneTrust 来评估平台数据处理策略。"
+ }
+}

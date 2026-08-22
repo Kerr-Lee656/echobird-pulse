@@ -1,0 +1,23 @@
+{
+ "id": "ffccace0ba14",
+ "url": "https://github.com/anomalyco/opencode",
+ "title": "anomalyco/opencode — The open source coding agent.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-22T22:39:19.012960+00:00",
+ "content": "The open source AI coding agent.\nEnglish | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt\n# YOLO\ncurl -fsSL https://opencode.ai/install | bash\n# Package managers\nnpm i -g opencode-ai@latest        # or bun/pnpm/yarn\nscoop install opencode             # Windows\nchoco install opencode             # Windows\nbrew install anomalyco/tap/opencode # macOS and Linux (recommended, always up to date)\nbrew install opencode              # macOS and Linux (official brew formula, updated less)\nsudo pacman -S opencode            # Arch Linux (Stable)\nparu -S opencode-bin               # Arch Linux (Latest from AUR)\nmise use -g opencode               # Any OS\nnix run nixpkgs#opencode           # or github:anomalyco/opencode for latest dev branch\nTip\nRemove versions older than 0.1.x before installing.\nOpenCode is also available as a desktop application. Download directly from the releases page or opencode.ai/download.\n# macOS (Homebrew)\nbrew install --cask opencode-desktop\n# Windows (Scoop)\nscoop bucket add extras; scoop install extras/opencode-desktop\nThe install script respects the following priority order for the installation path:\n- $OPENCODE_INSTALL_DIR - Custom installation directory\n- $XDG_BIN_DIR - XDG Base Directory Specification compliant path\n- $HOME/bin - Standard user binary directory (if it exists or can be created)\n- $HOME/.opencode/bin - Default fallback\n# Examples\nOPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash\nXDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash\nOpenCode includes two built-in agents you can switch between with the Tab key.\n- build - Default, full-access agent for development work\n- plan - Read-only agent for analysis and code exploration\n  - Denies file edits by default\n  - Asks permission before running bash commands\n  - Ideal for exploring unfamiliar codebases or planning changes\nAlso included is a general subagent for complex searches and multistep tasks.\nThis is used internally and can be invoked using @general in messages.\nLearn more about agents.\nFor more info on how to configure OpenCode, head over to our docs.\nIf you're interested in contributing to OpenCode, please read our contributing docs before submitting a pull request.\nIf you are working on a project that's related to OpenCode and is using \"opencode\" as part of its name, for example \"opencode-dashboard\" or \"opencode-mobile\", please add a note to your README to clarify that it is not built by the OpenCode team and is not affiliated with us in any way.",
+ "report": {
+  "summary": "OpenCode开源AI编码代理，设命令行与桌面版，支持多平台安装。",
+  "background": "随着AI编程助手（如GitHub Copilot、Cursor）的流行，开发者对可控、可定制的开源替代方案需求日益增长。OpenCode正是此类工具，以开源形式提供多平台安装方式、双代理模式及桌面应用，强调透明度与社区协作，旨在降低AI编码工具的使用门槛并促进生态多样化。",
+  "key_points": [
+   "支持YOLO一行脚本及npm、brew、scoop、pacman等包管理器，覆盖macOS、Linux、Windows和Arch，安装灵活便捷。",
+   "内置build与plan两个代理，通过Tab键切换：build拥有全权限用于开发，plan为只读代理，适合分析代码和规划变更。",
+   "提供@general通用子代理，可执行复杂搜索与多步骤任务，增强自动化处理能力。",
+   "发布桌面应用，支持brew cask和scoop安装，为非命令行用户提供更友好的图形界面。",
+   "安装目录可通过环境变量自定义，遵循XDG规范，兼容不同系统习惯。"
+  ],
+  "impact": "对AI行业，OpenCode等开源代理打破了商业工具的主导，促进编码AI民主化和社区创新。对开发者，可自由审计和修改代码，避免供应商锁定，同时节省成本。对普通用户，桌面应用降低了尝试门槛，但其核心功能仍面向专业开发，可能激发更广泛的AI辅助编程兴趣。",
+  "tools": "可关注OpenCode官方文档及GitHub仓库，体验其双代理功能。对比项目包括Aider（命令行AI结对编程）、Continue（VSCode/JetBrains插件）、Tabby（自托管编码助手），便于了解不同开源方案的取舍。"
+ }
+}

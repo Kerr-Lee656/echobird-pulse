@@ -3346,5 +3346,59 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-08-22T19:00:00.000Z",
   "fetched_at": "2026-08-22T20:41:03.711670+00:00"
+ },
+ "98a6c4b899c1": {
+  "id": "98a6c4b899c1",
+  "url": "https://finance.yahoo.com/technology/ai/articles/ai-absurd-spending-boom-hyperscalers-162709082.html",
+  "title": "AI领域的荒谬支出热潮？超大规模云服务商将102%的云收入用于资本支出",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T16:53:28.714Z",
+  "fetched_at": "2026-08-22T22:37:36.203883+00:00"
+ },
+ "77e0527256cd": {
+  "id": "77e0527256cd",
+  "url": "https://news.mydrivers.com/1/1145/1145675.htm",
+  "title": "不做参数追随者！中诚华隆 HL200 推理芯片发布：能效比 5.12、集群可扩至万卡",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T22:37:55.773986+00:00"
+ },
+ "b7f977092949": {
+  "id": "b7f977092949",
+  "url": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
+  "title": "人工智能岗位的招聘广告开出的年薪高达17.7万美元——是非人工智能岗位的两倍多——但女性仅占新聘人员的26%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-22T15:25:47.592Z",
+  "fetched_at": "2026-08-22T22:38:30.953070+00:00"
+ },
+ "ffccace0ba14": {
+  "id": "ffccace0ba14",
+  "url": "https://github.com/anomalyco/opencode",
+  "title": "anomalyco/opencode — The open source coding agent.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-22T22:39:19.012960+00:00"
+ },
+ "b4484a96aa90": {
+  "id": "b4484a96aa90",
+  "url": "https://github.com/Tencent/WeKnora",
+  "title": "Tencent/WeKnora — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-22T22:39:33.801067+00:00"
+ },
+ "54035baf4f33": {
+  "id": "54035baf4f33",
+  "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+  "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T21:59:05Z",
+  "fetched_at": "2026-08-22T22:39:42.610375+00:00"
  }
 }

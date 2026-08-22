@@ -1,0 +1,23 @@
+{
+ "id": "b7f977092949",
+ "url": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
+ "title": "人工智能岗位的招聘广告开出的年薪高达17.7万美元——是非人工智能岗位的两倍多——但女性仅占新聘人员的26%",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-22T15:25:47.592Z",
+ "fetched_at": "2026-08-22T22:38:30.953070+00:00",
+ "content": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires\nArtificial intelligence may be rattling the job market, but for workers with the right skills, the disruption comes with a lucrative upside.\nNew research from LinkedIn shows the typical AI-related job listing advertises a salary of roughly $177,000, compared with about $80,000 for a non-AI role. It is the kind of pay gap that makes the AI boom look less like a threat and more like an opportunity, at least for those positioned to take advantage of it.\nMust Read\n-       Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n-       Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n-       The tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\nThe trouble is, women are not sharing equally in that opportunity. Women remain underrepresented across much of the technology industry, and the latest hiring data suggests AI could widen that divide. In the U.S., women accounted for just 26% of hires into jobs requiring AI skills in 2025, compared with 50% of hires into non-AI roles.\nJackie Cook, founder and CEO of Momentum Group, says many women are already doing work that could reasonably be considered AI experience — redesigning workflows, analyzing data or building products — without necessarily thinking of themselves as \"AI experts.\"\n\"Who decides they're qualified enough to apply can shape the applicant pool before hiring even begins, and if that self-selection compounds with lower AI adoption and employers who define 'AI talent' narrowly, women risk being underrepresented in exactly the roles now commanding a wage premium, carrying today's pay gap into the next generation of work,\" Cook told Moneywise.\nThere is evidence that women who use the technology are benefiting from it. Gusto's 2026 research found that 54% of women who used AI to launch a business said the technology made the process easier, compared with 47% of men.\n\"The women who use it are getting real value,\" Cook said. \"My question is whether enough of them are raising their hand and calling it AI expertise.\"\nThe AI ladder is narrowing\nWomen may be getting filtered out of the AI boom before a resume ever lands on a hiring manager's desk — and when they are hired, they're not climbing as quickly either.\nDeepika Sidana, a senior manager and enterprise AI leader who also serves as Professional Development Director for the Society of Women Engineers' New York chapter, says the problem is much bigger than skills or lack thereof.",
+ "report": {
+  "summary": "AI岗位年薪17.7万美元远超非AI，但女性仅占新聘人员26%。",
+  "background": "AI热潮推动相关岗位薪资大幅上涨，典型AI岗位年薪达17.7万美元，是非AI岗位的两倍多。然而，性别失衡问题加剧：2025年美国AI相关岗位新聘人员中女性仅占26%，远低于非AI岗位的50%。专家指出，女性常低估自身AI相关经验，自我筛选导致申请池缩小，叠加雇主对“AI人才”定义过窄，使性别差距延续到高薪工作中。尽管女性使用AI创业受益明显，但主动自称“AI专家”的比例仍低。",
+  "key_points": [
+   "AI岗位平均年薪17.7万美元，是非AI岗位（约8万）的两倍多，薪资溢价明显。",
+   "女性在AI相关岗位新聘人员中仅占26%，而非AI岗位女性占50%，性别差距显著。",
+   "许多女性已从事AI相关的工作，但不会将其视为AI经验，自我筛选影响了申请机会。",
+   "使用AI创业的女性中54%认为技术降低了创业难度，高于男性（47%），但女性较少自称为AI专家。",
+   "性别失衡的根源不仅是技能，还包括招聘定义、组织文化及晋升通道的隐性障碍。"
+  ],
+  "impact": "对AI行业而言，女性参与不足可能导致产品开发和决策缺乏多元视角，加剧算法偏见。对开发者来说，主动把现有经验“翻译”为AI技能、参与社区可提升竞争力。对普通用户，AI产品可能更偏向服务特定人群，多元参与的缺失值得关注。长期看，若不改善，性别薪资差距将延续到下一代高薪工作中。",
+  "tools": "可关注Women in AI、Ada Developers Academy等女性科技社群；学习AI技能可用Coursera、DeepLearning.AI、fast.ai等开放课程；招聘者可使用Textio等工具优化职位描述，减少无意识偏见。"
+ }
+}
