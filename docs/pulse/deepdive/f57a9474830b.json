@@ -1,0 +1,22 @@
+{
+ "id": "f57a9474830b",
+ "url": "https://github.com/envoyproxy/ai-gateway",
+ "title": "envoyproxy/ai-gateway — Manages Unified Access to Generative AI Services built on Envoy Gateway",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-22T14:40:01.425847+00:00",
+ "content": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.\nWhen using Envoy AI Gateway, we refer to a two-tier gateway pattern. The Tier One Gateway functions as a centralized entry point, and the Tier Two Gateway handles ingress traffic to a self-hosted model serving cluster.\n- The Tier One Gateway handles authentication, top-level routing, and global rate limiting\n- The Tier Two Gateway provides fine-grained control over self-hosted model access, with endpoint picker support for LLM inference optimization.\nEnvoy AI Gateway supports a wide range of AI providers, making it easy to integrate with your preferred LLM services:\n- Blog introducing Envoy AI Gateway.\n- Documentation for Envoy AI Gateway.\n- Quickstart to use Envoy AI Gateway in a few simple steps.\n- Concepts to understand the architecture and resources of Envoy AI Gateway.\n- Talks and Presentations about Envoy AI Gateway.\n- Slack: Join the Envoy Slack workspace if you're not already a member. Otherwise, use the Envoy AI Gateway channel to start collaborating with the community.\nWe adhere to the CNCF Code of conduct\nThe Envoy AI Gateway team and community members meet every Monday. Please register for the meeting, add agenda points, and get involved. The meeting details are available in the public document.\nTo contribute to the project via pull requests, please read the CONTRIBUTING.md file which includes information on how to build and test the project.\nThe proposal of using Envoy Gateway as a Cloud Native LLM Gateway inspired the initiation of this project.",
+ "report": {
+  "summary": "Envoy AI Gateway开源项目，基于Envoy Gateway统一管理生成式AI服务访问。",
+  "background": "随着生成式AI服务爆发式增长，企业面临多模型、多提供商的接入与管理难题。Envoy Gateway作为云原生网关的成熟方案，其社区提出将其扩展为LLM网关注入AI能力。Envoy AI Gateway应运而生，通过两层网关模式统一管理流量，兼顾集中管控与自托管模型精细化调度，旨在为AI服务提供标准化、高性能的流量入口。",
+  "key_points": [
+   "两层网关架构：Tier One负责集中认证、路由和全局限流；Tier Two管理自托管模型入口，支持端点选择优化推理。",
+   "兼容多种AI提供商，开发者可灵活接入不同LLM服务，无需为每家单独构建适配层。",
+   "基于Envoy Gateway构建，继承其高性能、可扩展性和云原生生态优势。",
+   "开源社区驱动，遵循CNCF行为准则，定期会议和公开协作机制便于开发者参与。"
+  ],
+  "impact": "对AI行业而言，Envoy AI Gateway推动AI服务接入标准化，降低多模型治理复杂度。对开发者，它简化了网关配置和提供商集成，提升运维效率。对普通用户，统一网关可带来更稳定、可靠且可控的AI服务体验，尤其在自托管模型场景下能优化推理性能。",
+  "tools": "可关注Envoy Gateway及本项目的GitHub仓库、文档和Quickstart。若对比其他AI网关方案，也可研究LiteLLM、Kong AI Gateway等，了解不同架构取舍。"
+ }
+}

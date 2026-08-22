@@ -1,0 +1,22 @@
+{
+ "id": "cf5ca8422848",
+ "url": "https://www.ithome.com/0/993/003.htm",
+ "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-22T14:37:39.871992+00:00",
+ "content": "IT之家 8 月 22 日消息，全球最大 AI 聚合平台 OpenRouter 于 8 月 20 日上线匿名 AI 模型 Ox Alpha，免费开放 1 周时间，目前种种线索指向智谱公司。\n开发者 Ben Davis 让 Ox Alpha 完成了 DeepSWE（该基准用于衡量 AI 读取真实代码库、识别漏洞并生成有效补丁的能力）的十项测试任务。\n这个来历不明的匿名模型得分约为 80%，而 Claude Fable 5 为 65%，GPT-5.6 Sol 为 52%。Davis 本人也表示，鉴于该模型来源不明，这一结果令他困惑不解。IT之家附上相关跑分结果如下：\nOpenRouter 的列表确认了以下规格：上下文窗口达 1,048,576 个 token，支持文本、图像和视频的多模态输入，每次响应最大输出 131,072 个 token。该模型在预览期间免费使用。\n终端编程智能体 OpenCode 也通过其免费套餐提供该模型，并声称每日可处理 100 万亿个 token。\n研究人员通过对 25 个提示词进行分词器指纹分析，发现 Ox Alpha 的 token 数量与 GLM-5.3 几乎完全吻合，仅存在恒定 75 个 token 的包装层偏差。此外，视频编码器的行为模式和 API 响应特征也与智谱的架构高度吻合。",
+ "report": {
+  "summary": "匿名AI模型Ox Alpha限免上线，跑分超Claude，线索指向智谱。",
+  "background": "OpenRouter于8月20日上线匿名AI模型Ox Alpha，限时免费一周。开发者Ben Davis用DeepSWE基准测试其代码修复能力，得分约80%，远超Claude Fable 5的65%和GPT-5.6 Sol的52%。该模型支持1M上下文和多模态输入，但来源不明。研究人员通过分词器指纹分析发现其与智谱GLM-5.3高度吻合，视频编码器及API特征也指向智谱，引发行业关注。",
+  "key_points": [
+   "Ox Alpha在DeepSWE基准上得分约80%，显著高于Claude Fable 5的65%和GPT-5.6 Sol的52%，代码修复能力惊人。",
+   "模型上下文窗口达104万token，支持文本、图像和视频输入，最大输出131,072 token，规格属于顶级水平。",
+   "OpenRouter及OpenCode均免费提供该模型，OpenCode声称每日可处理100万亿token，暗示背后有强大算力支撑。",
+   "分词器指纹分析显示Ox Alpha与智谱GLM-5.3几乎完全匹配，仅差75个token包装层，视频编码器特征也高度吻合。"
+  ],
+  "impact": "若Ox Alpha确为智谱模型，将大幅提升国产AI在国际基准上的竞争力，也可能改变开源vs闭源的格局。对开发者而言，免费高算力模型能显著降低实验成本，但匿名来源的可靠性仍需警惕。普通用户可能在未来享受到更强大的AI编程和多模态助手，同时需关注数据隐私与模型透明度问题。",
+  "tools": "可关注OpenRouter平台体验Ox Alpha，或使用OpenCode终端编程智能体。智谱的开源GLM系列模型及分词器分析工具（如tiktoken）也有助于追踪模型来源和进行对比测试。"
+ }
+}

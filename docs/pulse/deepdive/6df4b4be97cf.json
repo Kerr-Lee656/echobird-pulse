@@ -1,0 +1,22 @@
+{
+ "id": "6df4b4be97cf",
+ "url": "https://arxiv.org/abs/2608.13573",
+ "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T14:16:26Z",
+ "fetched_at": "2026-08-22T14:40:15.736690+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 3 Jul 2026]\n    Title:A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing\nView PDF\n            Abstract:Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in production. As a result, they do not fully capture how LLM serving workloads evolve over time or how user-model interactions shape production traffic.\nIn this work, we further the understanding of real-world LLM serving workloads through both a global characterization and a longitudinal study of a one-year production trace from Chutes. Unlike prior studies, our trace captures full production behavior across many models and users, including both popular and long-tail models. We analyze the workload from aggregate, temporal, model-level, and user-level perspectives, revealing workload evolution and user-model structure that are typically hidden behind aggregate views. To support future research, we will release the full one-year trace with the paper, enabling downstream studies of production behavior without relying on sampled or synthetically generated workloads.\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "一年期LLM服务轨迹发布，揭示负载演化与缓存均衡",
+  "background": "LLM服务已成为关键云负载，但现有研究规模有限、观察期短，难以反映真实生产环境的演化。本论文基于Chutes平台的一年期完整生产轨迹，涵盖多模型多用户，包括长尾模型，从多维度分析工作负载演化与用户-模型交互结构，并公开数据集以推动后续研究。",
+  "key_points": [
+   "现有LLM服务负载研究多局限于短时段，缺乏对生产环境中用户交互模式的长期观察，难以真实反映工作负载演化。",
+   "本文首次公开Chutes平台一年期的完整生产轨迹，覆盖大量模型和用户，包含热门与长尾模型，数据维度更全面。",
+   "通过聚合、时间、模型和用户四个层面分析，揭示出聚合视图下隐藏的工作负载变化和用户-模型结构特征。",
+   "论文将随文发布全量一年期轨迹数据，为后续服务系统研究提供真实基准，避免依赖采样或合成数据。"
+  ],
+  "impact": "对AI行业而言，真实长期轨迹有助于设计更合理的评测基准，推动缓存与负载均衡技术优化；对开发者，可利用公开数据集验证和调优LLM服务系统，提升资源利用率；对普通用户，长期看服务响应更快、稳定性更高，成本也可能下降。",
+  "tools": "可关注vLLM、SGLang、Ray Serve等开源服务框架，以及论文发布的一年期轨迹数据集，用于负载模拟和性能评测。"
+ }
+}

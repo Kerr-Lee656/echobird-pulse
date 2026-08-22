@@ -3022,5 +3022,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T04:33:06Z",
   "fetched_at": "2026-08-22T13:05:15.434280+00:00"
+ },
+ "2f1888afd601": {
+  "id": "2f1888afd601",
+  "url": "https://www.huxiu.com/article/4885148.html?f=rss",
+  "title": "Codex开始“反杀”Claude Code了吗？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T08:24:49Z",
+  "fetched_at": "2026-08-22T14:37:31.969342+00:00"
+ },
+ "cf5ca8422848": {
+  "id": "cf5ca8422848",
+  "url": "https://www.ithome.com/0/993/003.htm",
+  "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T14:37:39.871992+00:00"
+ },
+ "f709e12423f1": {
+  "id": "f709e12423f1",
+  "url": "https://www.theblockbeats.info/flash/362951",
+  "title": "Gemini 3.7 Flash 成爆款：上线一周破增长纪录",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-22T14:37:52.404035+00:00"
+ },
+ "2a6d6f47025d": {
+  "id": "2a6d6f47025d",
+  "url": "https://aiera.com.cn/2026/08/22/other/admin/110103/%e9%9c%87%e6%92%bc%ef%bc%81openai%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90codex-harness",
+  "title": "震撼！OpenAI全面开源Codex Harness",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-22T08:06:55Z",
+  "fetched_at": "2026-08-22T14:38:04.790760+00:00"
+ },
+ "a888e4bd0ceb": {
+  "id": "a888e4bd0ceb",
+  "url": "https://www.ithome.com/0/993/004.htm",
+  "title": "广东市场监管召开平台企业行政指导会，点名“充电宝产品质量风险”“AI 生成虚假宣传”等",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-22T07:00:25Z",
+  "fetched_at": "2026-08-22T14:38:21.545451+00:00"
+ },
+ "f57a9474830b": {
+  "id": "f57a9474830b",
+  "url": "https://github.com/envoyproxy/ai-gateway",
+  "title": "envoyproxy/ai-gateway — Manages Unified Access to Generative AI Services built on Envoy Gateway",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-22T14:40:01.425847+00:00"
+ },
+ "6df4b4be97cf": {
+  "id": "6df4b4be97cf",
+  "url": "https://arxiv.org/abs/2608.13573",
+  "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T14:16:26Z",
+  "fetched_at": "2026-08-22T14:40:15.736690+00:00"
+ },
+ "708cc51eea4c": {
+  "id": "708cc51eea4c",
+  "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+  "title": "80% of developers find AI coding more addictive than helpful",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T14:14:30Z",
+  "fetched_at": "2026-08-22T14:40:22.887915+00:00"
+ },
+ "8a4d5416ea3b": {
+  "id": "8a4d5416ea3b",
+  "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+  "title": "The New MCP Roadmap",
+  "source": "Hacker News (17pts, 7c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T13:31:34Z",
+  "fetched_at": "2026-08-22T14:40:40.496992+00:00"
  }
 }
