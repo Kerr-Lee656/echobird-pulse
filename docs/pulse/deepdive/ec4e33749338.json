@@ -1,0 +1,22 @@
+{
+ "id": "ec4e33749338",
+ "url": "https://aiera.com.cn/2026/08/23/other/admin/110261/%e8%b0%b7%e6%ad%8ctpu%e4%b9%8b%e7%88%b6%ef%bc%8c%e8%a2%abanthropic%e8%bf%9e%e5%a4%9c%e6%8c%96%e8%b5%b0%e4%ba%86%ef%bc%81",
+ "title": "谷歌TPU之父，被Anthropic连夜挖走了！",
+ "source": "新智元",
+ "site_name": "新智元",
+ "published_at": "2026-08-23T02:53:33.581Z",
+ "fetched_at": "2026-08-23T03:14:53.966346+00:00",
+ "content": "新智元报道  \n \n \n \n \n新智元报道\n谷歌TPU之父，跳槽Anthropic了？\n今天一大早，AI圈被这个消息刷屏了。\n外媒曝出猛料：Anthropic成功挖角前谷歌高管、大名鼎鼎的「TPU之父」Amir Salek！\n看来，Anthropic要自己造芯片了。\n此前，Anthropic就从OpenAI那里挖来了自研芯片骨干。\n很显然，现在真正的AGI决战，已经从软件层杀到了芯片上！\n要想自研芯片，最核心的永远是「天才大脑」。\nAnthropic这次的挖人，可谓精准打击。\n在半导体和AI算力圈，Amir Salek这个名字是如雷贯耳。\n他，就是大名鼎鼎的谷歌TPU之父，是这个项目长达9年的核心灵魂人物。\n在加入谷歌之前，Salek就曾在老黄麾下效力，领导了Nvidia的SoC设计团队，深谙GPU和复杂芯片架构的底层逻辑。\n2013年，他加入谷歌。在这9年里，他不仅从零到一建立起了谷歌的定制硅片团队，更是一口气主导交付了前七代TPU！\n要知道，TPU是谷歌当年为了摆脱英伟达依赖、专门为AI机器学习打造的「算力神器」。\n正是因为有了TPU，谷歌才有跟英伟达叫板的底气。\n2022年离开谷歌后，Salek并没有闲着，加入全球顶尖的私募股权公司Cerberus Capital Management担任高级董事总经理。\n这让他不仅懂技术，更懂资本运作，以及企业级芯片项目的商业扩张。\n如今，这位集技术、管理与商业嗅觉于一身的「TPU之父」，正式向Anthropic的计算主管James Bradbury汇报。\n而且，Anthropic不光是挖了谷歌的墙角，连OpenAI的底牌也没放过。\n就在今年6月，Clive Chan悄无声息地跳槽到了Anthropic。\n他是OpenAI自研芯片团队的第二位硬件员工，更是OpenAI内部高度机密的自研芯片项目（代号Jalapeno）的早期核心成员。\n现在Anthropic的芯片团队，已经完美集齐了「Google TPU的创始负责人」 + 「OpenAI自研芯片的核心大牛」。\n正巧，本月Anthropic刚刚宣告本月正式组建内部的Custom Silicon部门，看来，他们已经准备掀桌子了。\n话说，Anthropic融了那么多钱，背后还有亚马逊AWS和谷歌云撑腰，为什么非要吃力不讨好地去自己造芯？直接买英伟达的H100不香吗？\n答案就是：买得起，但耗不起；受制于人，不如自己成神。\n老黄的显卡固然好用，但机器昂贵，供不应求。\n据报道，Anthropic在2026年的算力支出估计为190亿美元，而其推理成本在2025年超出预算 23%。该公司2025年的毛利率为40%，与其告知投资者计划在预期纳斯达克上市前达到的77%毛利率目标之间存在显著差距。\n对Anthropic这种立志AGI的巨头来说，「英伟达税」能少交点就少交点。\n自己造芯，才是王道。\n而且，通用GPU毕竟不是为Claude量身定制的。\n苹果的M芯片能秒杀一众传统PC处理器，就是因为软硬件协同设计。\nAnthropic也想对Claude做通用的事。\n如果让懂Claude大模型算法的人，和设计底层芯片的人坐在一起，就能让「模型+芯片」深度绑定。\n未来的Claude，可能会以更低的成本，达到远超同行的推理速度和智能水平。\n而且，有了内部的芯片部门，Anthropic就不用为了稀缺的数据中心设施抢破头排队了。\n这让他们不仅能根据自身需求定制硬件，还能有效缓解供应链瓶颈。\n而且，在招揽Amir Salek的同时，Anthropic正在全球开展一场惊人的「算力基建大扫货」。\n首先，他们的第一手准备，是稳住现有巨头。\nAnthropic并没有一刀切断与现有供应商的联系。据透露，他们依然在大量购买英伟达、亚马逊和谷歌的芯片。\n第二手准备，就是重金押注外部初创，买下未来产能。\nAnthropic还极其罕见地向外部芯片公司砸下重金。\n近期，他们向英国的一家AI芯片初创公司Fractile开出了一笔高达2.5亿美元的初始承诺订单。\n据悉，Fractile正在开发一种全新的硬件架构，号称能以极低的功耗实现LLM推理。\nAnthropic这波操作，等于是既自己造芯片，又买断了极具潜力的第三方芯片初创产能。\n第三手准备，就是疯狂圈地，抢夺数据中心和电力。\n近期，Anthropic悄悄达成了一系列基础设施协议，合作对象甚至包括了Riot Platforms Inc.（美国最大挖矿公司之一）和 Volta Infra Holdings Ltd.。\n某市场的周期波动，让大量矿场正在谋求转型。\nAnthropic正在下场，疯狂抄底。\n显然，他们正在以激进的姿态，构建起自己独属的算力堡垒。\n如今，大模型巨头之间的竞争，已经完全变味了。\n以前拼的是算法和数据，后来拼的是融资。\n到现在，战火已经烧到了芯片制造上。\n谁能率先完成「模型架构+底层硅片」的闭环，谁就能在推理成本上断崖式领先。\n如今，OpenAI有Jalapeno芯片，Anthropic有Amir Salek带队打造的Claude专属TPU。\n谁掌握了算力，谁就能定义AGI。\n参考资料：\nhttps://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware\nhttps://www.techtimes.com/articles/325089/20260820/anthropic-bet-250m-unshipped-silicon-why-fractile-earned-pre-revenue-contract.htm\n编辑：Aeneas",
+ "report": {
+  "summary": "谷歌TPU之父Amir Salek跳槽Anthropic，助力自研芯片。",
+  "background": "大模型竞争已从算法层延伸到芯片层。Anthropic为降低对英伟达的依赖、控制高昂推理成本，正组建定制芯片部门，此前已从OpenAI挖来自研芯片核心成员。此次挖来谷歌TPU项目灵魂人物Amir Salek，加上投资外部芯片初创、抢占数据中心资源，意图构建完整的算力闭环，为AGI决战铺路。",
+  "key_points": [
+   "Anthropic挖来谷歌TPU之父Amir Salek，他曾主导前七代TPU研发，兼具技术、管理与资本运作经验，将负责自研芯片。",
+   "此前已从OpenAI挖来芯片骨干Clive Chan，如今芯片团队集齐谷歌和OpenAI两大阵营核心人才，加速硬件布局。",
+   "自研芯片目的是摆脱英伟达依赖，避免高昂算力支出和供应链瓶颈，同时通过软硬件协同优化Claude模型性能。",
+   "Anthropic双管齐下：一方面向英伟达等继续购买芯片，另一方面向英国初创Fractile下2.5亿美元订单，并囤积数据中心和电力资源。"
+  ],
+  "impact": "对AI行业，芯片自研成为巨头标配，竞争门槛抬高，可能改变算力市场格局。对开发者，未来模型推理成本或降低，但生态可能分化为不同硬件平台。对普通用户，Claude等模型有望更快更便宜，但算力垄断也可能带来新的集中化风险。",
+  "tools": "关注谷歌TPU开源生态（如TensorFlow、JAX）、Anthropic的硬件动态，以及Fractile等新型推理芯片项目。开发者可学习TPU编程模型（XLA、Pallas）和OpenAI Triton，为异构算力做好准备。"
+ }
+}

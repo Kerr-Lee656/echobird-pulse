@@ -3526,5 +3526,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T22:04:49Z",
   "fetched_at": "2026-08-23T02:03:41.384306+00:00"
+ },
+ "ec4e33749338": {
+  "id": "ec4e33749338",
+  "url": "https://aiera.com.cn/2026/08/23/other/admin/110261/%e8%b0%b7%e6%ad%8ctpu%e4%b9%8b%e7%88%b6%ef%bc%8c%e8%a2%abanthropic%e8%bf%9e%e5%a4%9c%e6%8c%96%e8%b5%b0%e4%ba%86%ef%bc%81",
+  "title": "谷歌TPU之父，被Anthropic连夜挖走了！",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-23T02:53:33.581Z",
+  "fetched_at": "2026-08-23T03:14:53.966346+00:00"
+ },
+ "04e7e6736c4a": {
+  "id": "04e7e6736c4a",
+  "url": "https://aiera.com.cn/2026/08/23/other/admin/110248/%e7%aa%81%e5%8f%91%ef%bc%8cgpt-5-6-sol%e5%a4%a7%e9%99%8d%e4%bb%b7%ef%bc%81openai%e6%8a%8a%e4%bb%b7%e6%a0%bc%e6%88%98%e7%83%a7%e5%88%b0%e6%97%97%e8%88%b0",
+  "title": "突发，GPT-5.6 Sol大降价！OpenAI把价格战烧到旗舰",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-23T02:53:33.581Z",
+  "fetched_at": "2026-08-23T03:15:10.544655+00:00"
+ },
+ "256ad69b3a97": {
+  "id": "256ad69b3a97",
+  "url": "https://www.ithome.com/0/993/149.htm",
+  "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T03:15:19.431174+00:00"
+ },
+ "0e5fac83d957": {
+  "id": "0e5fac83d957",
+  "url": "https://www.ithome.com/0/993/141.htm",
+  "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T03:15:33.371064+00:00"
+ },
+ "1396ac52938e": {
+  "id": "1396ac52938e",
+  "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html",
+  "title": "Meta Platforms（META）凭借新推出的编程代理在价格上压倒了Anthropic和OpenAI",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T02:13:38.421Z",
+  "fetched_at": "2026-08-23T03:15:41.818376+00:00"
+ },
+ "00cfa5ec7f30": {
+  "id": "00cfa5ec7f30",
+  "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+  "title": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T03:15:51.401589+00:00"
+ },
+ "3868f1bd9364": {
+  "id": "3868f1bd9364",
+  "url": "https://niyikiza.com/posts/agents-to-agents/",
+  "title": "Ordinary agent tool calls can create shadow delegation",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T22:24:24Z",
+  "fetched_at": "2026-08-23T03:17:08.170303+00:00"
+ },
+ "de07e5fbed4c": {
+  "id": "de07e5fbed4c",
+  "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+  "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+  "source": "Hacker News (10pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T19:11:34Z",
+  "fetched_at": "2026-08-23T03:17:21.408081+00:00"
  }
 }

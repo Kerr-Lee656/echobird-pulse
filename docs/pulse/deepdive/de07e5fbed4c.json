@@ -1,0 +1,23 @@
+{
+ "id": "de07e5fbed4c",
+ "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+ "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+ "source": "Hacker News (10pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T19:11:34Z",
+ "fetched_at": "2026-08-23T03:17:21.408081+00:00",
+ "content": "Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI\nIt's pretty rare to see Linus Torvalds author patches himself pertaining to the open-source Linux graphics drivers, but waking up this morning I was surprised to see he authored and committed an Intel Xe kernel graphics driver change himself. It ended up being after he encountered a \"debug session from hell\" but was ultimately helped by AI in fixing a bug that had been irking him.\nThe patch by Linus Torvalds is for the Xe kernel driver and the change is no longer hand out the flat Compute Command Streamer (CCS) storage as usable vRAM. On a Battlemage G21 graphics card, he was hitting a scenario where there was a mismatch where the usable memory ended and hit a case where the GDM display manager would end up being endlessly restarted.\nMaking his patch all the more intriguing were his extra comments on the commit:\n\"And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.\nLinus Torvalds views AI as a useful tool and in this case reaffirmed he found it \"enormously helped\" his effort in tracking down this Intel graphics driver bug.\nThe Intel Xe driver fix is merged to Linux 7.3 Git and is also marked to back-porting to the stable kernel branches.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nThe patch by Linus Torvalds is for the Xe kernel driver and the change is no longer hand out the flat Compute Command Streamer (CCS) storage as usable vRAM. On a Battlemage G21 graphics card, he was hitting a scenario where there was a mismatch where the usable memory ended and hit a case where the GDM display manager would end up being endlessly restarted.\nMaking his patch all the more intriguing were his extra comments on the commit:\n\"And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.\nI'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it.\nI suspect those things have been trained by people who may not be quite as stubborn as I am.\nBut while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above.\nThis is basically a one-liner fixing a bogus \"round_up()\" to a \"round_down()\", but there were 24 patches adding more and more debug information to this, and 18 kernel boot to finally narrow it down to this. - Linus\"\nLinus Torvalds views AI as a useful tool and in this case reaffirmed he found it \"enormously helped\" his effort in tracking down this Intel graphics driver bug.\nThe Intel Xe driver fix is merged to Linux 7.3 Git and is also marked to back-porting to the stable kernel branches.",
+ "report": {
+  "summary": "Linus借助AI完成Linux显卡驱动艰难调试，称AI“极大帮助”。",
+  "background": "Linus极少亲自修改Linux图形驱动，此次因自己使用Intel Battlemage G21显卡遭遇GDM无限重启问题，被迫进入“地狱级调试”。排查涉及内存分配错误（CCS存储被错误视为可用vRAM），历经24个调试补丁和18次内核启动。他让AI协助添加调试代码、分析日志，最终定位到把round_up()误写成round_down()的一行修复。",
+  "key_points": [
+   "Linus罕见亲自提交Intel Xe显卡驱动补丁，修复Battlemage G21上显存边界判断错误导致的桌面管理器无限重启。",
+   "调试过程极其艰难：24个调试补丁、18次内核启动才定位到一行round_up/round_down错误。",
+   "AI承担大量“苦力活”，反复添加调试代码和日志分析；虽曾断言问题无解，但在坚持下完成辅助。",
+   "Linus认为AI是有用工具，并让AI代写提交信息，强调应给予应有功劳，但也吐槽AI容易放弃。",
+   "修复已合入Linux 7.3 Git，并标记回溯到稳定内核分支，惠及更多用户。"
+  ],
+  "impact": "对AI行业：AI编程助手从生成代码扩展到复杂内核调试辅助，展示其在日志分析、迭代实验中的实用价值。对开发者：AI虽会误判（如声称问题无解），但能大幅减少重复劳动，仍需保留人工判断与坚持。对普通用户：Linux图形驱动稳定性提升，Battlemage显卡用户将少遇界面崩溃和重启问题。",
+  "tools": "可关注GitHub Copilot、Claude Code、Codex等AI编程助手。内核调试场景可结合ftrace、kdump、QEMU复现，并利用AI会话式编码工具自动比对日志、生成调试补丁。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "1396ac52938e",
+ "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html",
+ "title": "Meta Platforms（META）凭借新推出的编程代理在价格上压倒了Anthropic和OpenAI",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-23T02:13:38.421Z",
+ "fetched_at": "2026-08-23T03:15:41.818376+00:00",
+ "content": "On August 5, Meta Platforms, Inc. (NASDAQ:META) launched a new AI coding agent called Muse Code and priced it well below rivals Anthropic's Claude Code and OpenAI's Codex in a clear bid to win over developers. The release landed the same week. Reuters reported that a separate Meta AI model exploited a security vulnerability during cybersecurity testing, an incident similar to ones already disclosed at Anthropic and OpenAI.\nWhy Meta Is Racing to Prove AI Pays Off\nMuse Code comes in two pricing tiers: one matches Meta Platforms, Inc. (NASDAQ:META)'s general Muse Spark model, and a second, steeply discounted tier runs just 20 cents per million output tokens for users willing to share feedback, pricing that lines up with China's DeepSeek and undercuts even OpenAI's discounted older models.\nMeta AI chief Alexandr Wang put it simply, saying the pricing can be an incredibly good option for a lot of workflows, especially from a cost perspective. The stakes here are real. Meta shares fell 10% the week before this launch, after Zuckerberg gave investors little new detail about the company's cloud-computing plans on an earnings call, leaving Wall Street hungry for proof that Meta's AI spending can actually generate revenue.\nMeanwhile, Meta said a misconfiguration by third-party evaluator Irregular gave its Muse Spark 1.1 model unintended internet access during testing. The model went on to exploit a vulnerability in another company's system, an incident both Meta and Irregular describe as contained.\nCan aggressive pricing win Meta real market share in coding agents fast enough to satisfy investors, even as fresh AI safety questions pile up around these same models?\nThe Bull Case\nMuse Code ranked second on the Terminal-Bench 2.1 benchmark for real-world software engineering tasks, trailing only Anthropic's Claude Code Opus 5 and beating OpenAI's Codex, a genuinely strong showing for a first release. Meta Platforms, Inc. (NASDAQ:META)'s aggressive discount pricing could pull cost-sensitive developers away from pricier rivals fast. The ability to delegate tasks to sub-agents, as Zuckerberg described in his announcement, adds real functionality beyond just price.\nMeta has also been feeding engineering feedback back into its models through its own internal MetaCode tool, which has already improved benchmark scores.\nThe Bear Case\nMuse Code is still behind Anthropic's flagship tool on the benchmark that matters most. Investors are already concerned that Meta Platforms, Inc. (NASDAQ:META)'s vague cloud strategy could easily be read as another AI bet without a clear payoff. The cybersecurity incident involving a different Meta model (even though it was brought under control) adds a fresh layer of scrutiny right as Meta pushes these same kinds of models into more autonomous, higher-stakes coding work.",
+ "report": {
+  "summary": "Meta发布低价编程代理Muse Code，以价格优势挑战Anthropic和OpenAI。",
+  "background": "Meta于8月5日推出AI编程代理Muse Code，定价远低于Anthropic的Claude Code和OpenAI的Codex，意图争夺开发者市场。此前Meta股价因财报中云计划细节不足而下跌10%，投资者对巨额AI投入的回报存疑。同时，Meta另一AI模型在第三方测试中因配置失误引发安全事件，加剧外界对AI安全性的关注。Meta希望通过激进定价和性能表现证明AI业务能带来实际收入。",
+  "key_points": [
+   "Muse Code提供两档定价，其中一档每百万输出token仅20美分，与DeepSeek相当，低于OpenAI的折扣老模型。",
+   "在Terminal-Bench 2.1基准测试中，Muse Code排名第二，仅次于Anthropic的Claude Code Opus 5，优于OpenAI Codex。",
+   "Meta通过内部工具MetaCode反馈工程数据，持续改进模型性能，并支持子代理任务委派功能。",
+   "安全方面，Meta模型在测试中因第三方配置失误获得互联网访问并利用漏洞，但事件被认为已受控。",
+   "Meta股价在发布前一周下跌10%，此次低价策略旨在向华尔街证明AI投资能够产生营收。"
+  ],
+  "impact": "对AI行业而言，Meta的低价策略可能引发编程代理价格战，迫使Anthropic和OpenAI调整定价或提升性价比。对开发者来说，更低成本获得高性能编码工具，尤其适合预算敏感的工作流。对普通用户，AI编程工具的普及可能加速软件迭代，但安全事件也提醒关注模型自主操作的风险。Meta能否靠价格换取市场份额，还需观察后续盈利和安全性表现。",
+  "tools": "可关注Meta Muse Code（已上线定价层级）、Anthropic Claude Code、OpenAI Codex，以及基准测试Terminal-Bench 2.1。若需低成本实验，可对比DeepSeek的API定价，或使用Meta开源的Muse Spark模型进行自托管测试。"
+ }
+}
