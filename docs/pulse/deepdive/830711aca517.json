@@ -1,0 +1,23 @@
+{
+ "id": "830711aca517",
+ "url": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm",
+ "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-23T20:38:03.629625+00:00",
+ "content": "Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to deploy. In particular, HEIR can compile pre-trained AI models built for conventional, unencrypted inputs so they can instead operate on encrypted data.\nAccording to Google homomorphic encryption (HE) addresses several challenges with end-to-end encryption, including enabling services such as spam and virus detection to operate on encrypted user data, mitigating the risk of exposing proprietary AI models when they are deployed on users' devices, and more.\nA solution to these issues is homomorphic encryption, a rapidly maturing technology that fundamentally alters this trade-off by allowing computations to be performed directly on encrypted data. Servers can process ciphertexts and return encrypted results without exposing any underlying information.\nIn this context, HEIR is an open-source compiler toolchain and development platform for HE that can adapt pre-trained AI models designed to operate on unencrypted data to instead process encrypted inputs. Google has used HEIR to enable private content recommendations without exposing user data, detect credit card fraud while protecting sensitive financial information, identify network intrusions without revealing packet contents to the service provider, and recognize hotwords in audio streams without disclosing the underlying recordings.\nHEIR uses an intermediate representation as an abstraction layer to \"represent and scale complex models across diverse dialects\". According to Google, application developers can write a program in Python, annotate which data types should be encrypted, and then use HEIR to compile the code for homomorphic execution.\nGoogle provides a set of demos showcasing how pre-trained PyTorch models can be compiled to FHE. Currently the process is not yet automated, and involves a few steps, beginning with using torch_mlir to export the PyTorch model to MLIR.\nOne concern raised by several Hacker News readers is performance. Sabretooth1405 noted that \"from my understanding HE and other techniques have very high overheads(~10^3) on inference tasks and thus aren't very commercially viable\". dhx provided some concrete figures, noting that a 64 bit equality operation takes 80ms, addition and subtraction 100ms, division as much as 8 seconds. However, odo1242 pointed out that the outlook for LLMs may be more favorable, since their computations rely heavily on addition and multiplication, while branching, among the operations that FHE handles most poorly, is not entirely relevant.\nUser patters offered another perspective on the performance question, noting that \"1000x overhead would make some image classification tasks go from 1ms to 1s. That’s viable for some applications\". Bringing the discussion back to the broader privacy trade-off, meindnoch argued that \"the most private AI is the one running on my own hardware, not in some giant data center\" while Chris2048 similarly suggested that \"when you want to keep a query/data private it's maybe worth the extra $ KW\" required for a local deployment.\nWhile Google includes benchmarking code in HEIR's repo, it has not provided any figures about its relative speed when applied to LLMs.",
+ "report": {
+  "summary": "谷歌推出HEIR编译器，旨在简化同态加密AI推理的部署。",
+  "background": "传统加密技术无法在加密数据上直接计算，导致云服务在处理用户数据时必须解密，带来隐私泄露风险。同态加密（HE）允许在密文上直接运算，但现有AI模型无法直接适配，且编译器工具链缺失。谷歌此前已用HE实现垃圾邮件检测、信用卡欺诈识别等隐私保护场景，此次开源HEIR，正是为了将支持明文输入的预训练AI模型自动编译为可处理加密数据的版本，降低开发者使用门槛。",
+  "key_points": [
+   "HEIR是谷歌开源的编译器工具链，基于中间表示（IR）抽象层，支持将预训练AI模型转换为同态加密版本。",
+   "开发者只需在Python中标注哪些数据类型需要加密，即可用HEIR编译为同态执行代码，无需重写模型。",
+   "目前流程尚未完全自动化，需借助torch_mlir将PyTorch模型导出为MLIR，再接续HEIR编译，谷歌提供了示例。",
+   "性能仍是主要争议：同态加密推理开销可能高达1000倍，但LLM以加法和乘法为主，分支操作少，性能前景相对乐观。",
+   "对某些延迟不敏感的应用（如图像分类从1ms变1s）仍可接受，且本地部署是隐私保护的另一种思路。"
+  ],
+  "impact": "对AI行业而言，HEIR有望推动隐私保护计算从学术走向实用，尤其利好金融、医疗等敏感数据场景；对开发者来说，它降低了同态加密的编译门槛，但性能调优仍是挑战；对普通用户，未来可能享受到不泄露隐私的云端AI服务，而无需完全信任服务商。",
+  "tools": "关注谷歌HEIR开源仓库、torch_mlir（PyTorch到MLIR的导出工具）、MLIR编译器基础设施，以及HEIR中附带的基准测试代码。可尝试运行其官方demo，验证预训练模型编译到FHE的流程。"
+ }
+}

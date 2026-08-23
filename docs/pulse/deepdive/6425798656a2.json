@@ -1,0 +1,22 @@
+{
+ "id": "6425798656a2",
+ "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+ "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-23T20:37:46.201824+00:00",
+ "content": "Twitch and Amazon hit with lawsuit for training AI with streamers' content\nThe class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.\nA streamer has taken a stand against Twitch and Amazon using his content to train AI models. Warren Pandiscia, a streamer based in Connecticut, filed a class action lawsuit earlier this week, as first reported by Courthouse News. The complaint accused Twitch and Amazon of not obtaining licensing or permission before using his Twitch streams and videos as a \"dataset necessary to fuel Amazon's AI products.\"\nEarlier this month, Twitch Support posted on X that it added an option to opt out of \"having your channel content used to train generative AI content models across Amazon.\" Shortly after, Twitch hosted an episode of its recurring Patch Notes stream where Mike Minton, the company's chief product officer, said \"if it was opt-in, nobody would opt in,\" when asked by a viewer why the Twitch settings for AI training aren't opt-in but instead enabled by default, requiring users to opt out if they don't want to participate.\nNow, the latest class action lawsuit claims that Twitch and Amazon committed a breach of contract when the companies decided to use its streamers as \"free training stock for separate commercial AI products.\" The complaint also accused the two companies of benefitting from their streamers, who \"lost money or property as a result of defendants' unlawful, unfair and fraudulent practices.\"\nAmazon isn't the only company that's been hit with a lawsuit for allegedly using content creators for AI training. Earlier this year, three YouTubers filed a class action lawsuit against Apple, accusing the company of scraping copyrighted content to train its AI models.",
+ "report": {
+  "summary": "主播指控Twitch与亚马逊未经同意用直播内容训练AI遭集体诉讼",
+  "background": "Twitch是亚马逊旗下的游戏直播平台，其海量用户生成内容被视为训练生成式AI的优质语料。此前，Twitch新增了“退出”选项，允许主播选择不让内容用于训练Amazon的AI模型，但该选项默认开启，用户需手动关闭。后来Twitch产品主管在直播中表示，如果做成自愿加入的opt-in形式，“不会有人选择参与”，这番言论引发强烈不满。康涅狄格州主播Warren Pandiscia随即发起集体诉讼，指控平台从未获得授权或许可，将主播内容当作“免费训练素材”，违反合同并损害用户利益。此前苹果也因类似AI训练数据问题被YouTuber起诉。",
+  "key_points": [
+   "主播Warren Pandiscia发起集体诉讼，指控Twitch与亚马逊未经许可或授权，将其直播和视频作为数据集训练AI，违反合同并涉及欺诈性做法。",
+   "Twitch近期新增退出机制，但默认开启，用户需手动关闭；产品主管称“若改为自愿加入，没人会选”，此番言论加剧外界批评。",
+   "诉讼指出，主播成了“免费训练素材”，平台利用其内容开发商业AI产品时未给予分成或补偿，导致主播蒙受金钱和财产损失。",
+   "同类诉讼频发：今年早些时候三名YouTuber起诉苹果，指控其抓取版权内容训练AI，反映创作者权益纠纷正在行业蔓延。"
+  ],
+  "impact": "该案凸显AI训练数据获取的法律灰色地带。对AI行业而言，若败诉将迫使企业建立更透明的授权机制，不能默认使用用户生成内容；对开发者意味着使用公共数据需评估版权风险，避免“抓了再说”；对普通用户和创作者来说，权利意识提升，平台应提供清晰的知情同意选项，否则信任受损。",
+  "tools": "如想关注AI训练数据合规，可了解Common Crawl（网页语料）、LAION（图文数据集）、Hugging Face Datasets（模型训练数据集平台）；创作者可用Glaze或Nightshade工具对抗未经授权的图像抓取和模型训练。"
+ }
+}

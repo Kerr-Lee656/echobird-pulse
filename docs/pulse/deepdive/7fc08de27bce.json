@@ -1,0 +1,23 @@
+{
+ "id": "7fc08de27bce",
+ "url": "https://github.com/Significant-Gravitas/AutoGPT",
+ "title": "Significant-Gravitas/AutoGPT — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-23T20:38:59.222235+00:00",
+ "content": "Get 10 hours back every week.\n  Describe what you want done. AutoGPT builds the agent, runs it, and reports back.\nGet started · Tour · Pricing · Docs · Discord · Self-host\nAutoGPT lets you build, deploy, and run AI agents that carry out complete workflows. Describe an outcome in plain English or shape every step in the visual builder, then run the agent on demand, on a schedule, or from a trigger.\n185,000+ GitHub stars. Cited by:\nThe hosted Platform is publicly available. We manage the infrastructure, model access, credentials, reliability, and updates so you can focus on the work your agents perform.\nGet started on AutoGPT Platform →\n- AutoPilot, Agents, Marketplace, and Build\n- 45+ connected platforms and hundreds of AI models\n- No model API keys or infrastructure setup\n- Agents that run on demand, on schedules, and from triggers\nThe hosted Platform is a paid service with usage-based agent runs. Compare plans and pricing →\nNote\nSelf-hosting is the free path. You provide the infrastructure and model API keys, and you maintain the deployment. If you want zero setup, use the managed Platform.\nmacOS and Linux:\ncurl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh\nWindows PowerShell:\npowershell -c \"iwr https://setup.agpt.co/install.bat -o install.bat; ./install.bat\"\nBoth paths use the same repository. Choose the managed Platform when you want agents running immediately; self-host when infrastructure control matters more than operational convenience.\nEvery agent run consumes real model usage, compute, storage, secrets management, and operational support. The managed Platform covers that infrastructure and funds continued development of the open-source project.\nSelf-hosting remains available without a license fee for people and teams that want to provide and operate those resources themselves.\nConnect the apps that are yours. AutoGPT provides access to hundreds of AI models and connects agents to 45+ platforms, including:\nGmail · Google Calendar · Google Docs · Google Sheets · GitHub · Slack · Discord · Notion · HubSpot · Linear · Airtable · Jira · Salesforce · Stripe · Webflow\nLooking for the original standalone AutoGPT agent? It remains available in classic/ under the MIT License.\nDeutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文",
+ "report": {
+  "summary": "AutoGPT 发布托管平台，让用户用自然语言构建和运行 AI 代理。",
+  "background": "AutoGPT 最初是 GitHub 上一个爆红的自主 AI 代理项目，凭借 18.5 万星标成为开源社区现象级工具。但早期版本偏技术化，普通用户难以驾驭。此次官方推出托管平台，将复杂的基础设施、模型接入和运维打包成服务，同时保留免费自托管路径，标志着 AutoGPT 从实验性项目转向企业级可用的 AI 代理平台，目标是用自然语言连接 45+ 应用生态。",
+  "key_points": [
+   "AutoGPT 支持用纯英语描述目标，自动生成并运行 AI 代理，完成完整工作流，无需写代码。",
+   "提供可视化构建器，可逐步编排代理步骤，并支持按需、定时或触发方式运行。",
+   "托管平台负责基础设施、模型密钥和运维，用户无需配置即可使用，费用按运行量计费。",
+   "自托管路径仍免费，用户可自行提供算力和模型密钥，适合注重数据控制的团队。",
+   "已集成 Gmail、GitHub、Slack、Notion 等 45+ 平台，可调用数百种 AI 模型。"
+  ],
+  "impact": "对普通用户，降低 AI 自动化门槛，无需编程即可让代理处理邮件、文档等日常任务；对开发者，提供了可扩展的代理框架和 API，可快速集成到业务流程；对行业来说，AutoGPT 托管模式标志着开源 AI 工具商业化范式转变，但也引发对模型成本透明度和数据隐私的讨论。",
+  "tools": "可关注 AutoGPT 官方仓库、AutoGPT Platform 托管服务、可视化构建器，以及自托管安装脚本（macOS/Linux 和 Windows）。同时可探索 classic/ 目录下的原始开源代理版本。"
+ }
+}

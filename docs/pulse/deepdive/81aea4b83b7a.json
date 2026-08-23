@@ -1,0 +1,23 @@
+{
+ "id": "81aea4b83b7a",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-free-cash-flow-went-143500432.html",
+ "title": "尽管亚马逊的经营现金流增长了33%，但其自由现金流却出现了76亿美元的负值。AI资本支出实际上正在造成这样的差距。",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-23T15:33:11.886Z",
+ "fetched_at": "2026-08-23T20:38:27.217468+00:00",
+ "content": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.\nThe earnings statement is where most investors go first when assessing a company's financial results. On that score, Amazon (NASDAQ: AMZN) looks like it had a breakout quarter in the second quarter of 2026, with earnings of $5.75 per diluted share, up from $1.68 in the same quarter of 2025. But there's a winkle here, and the story gets even more complicated when you step back and examine the cash flow statement.\nAmazon's quarter wasn't really as good as it looks\nEarnings are created by complying with generally accepted accounting principles (GAAP). They are, even at the best of times, just a hazy snapshot of a company's performance. That's highlighted by Amazon's $5.75 second-quarter earnings figure, which includes $69 billion in \"other\" income. That isn't likely to be repeated, as it is related to the company's investment in Anthropic. And if Anthropic's value declines, that benefit could actually reverse.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nBut the presence of that number, which was actually larger than the company's $51.3 billion in operating income, highlights why investors also look at the cash flow statement. The cash flow statement shows where the company's cash is generated and how it is used. For years, large technology companies like Amazon generated huge amounts of cash, allowing them to amass large cash balances to fund their businesses, capital investment needs, and acquisitions.\nArtificial intelligence (AI) has changed the cash flow story. Over the past 12 months, Amazon generated around $161.4 billion in cash, up 33% year over year, but spent $169 billion, meaning the company spent around $7.6 billion more in cash than its business generated. Those are very large numbers, with AI spending driving a significant share of the company's capital investment plan.\nThere's more spending to come in the AI arms race\nThis is worth knowing because spending on artificial intelligence appears to be heating up rather than cooling down. And if Amazon isn't generating enough cash to cover its spending, it will need to find money elsewhere. Which is where another cash flow number comes into play: the nearly $77 billion the company raised over the past year from the sale of long-term debt.\nThis ties the story to the balance sheet, where Amazon's long-term debt rose from $65.6 billion at the end of 2025 to nearly $128.9 billion at the end of the second quarter of 2026. If you own Amazon or are considering buying it, you need to look beyond its earnings and pay close attention to the negative impact of AI spending on its cash flow statement and balance sheet.",
+ "report": {
+  "summary": "亚马逊经营现金流增长但自由现金流为负76亿美元，AI资本支出是主因。",
+  "background": "投资者通常首先看利润表，但亚马逊2026年第二季度利润看似亮眼，实则包含来自Anthropic投资的690亿美元一次性收益。现金流表则揭示了更复杂的真相：过去12个月经营现金流增长33%至1614亿美元，但AI相关资本开支高达1690亿美元，导致自由现金流出现76亿美元缺口。为填补这一缺口，亚马逊大量举债，长期债务从658亿美元增至1289亿美元。这反映出AI军备竞赛正深刻改变大型科技公司的现金流结构。",
+  "key_points": [
+   "利润表虚高：第二季度每股收益5.75美元，但其中690亿美元来自Anthropic投资的公允价值收益，不可持续且可能反转。",
+   "现金流缺口：经营现金流增长33%达1614亿美元，但资本支出更高，自由现金流为负76亿美元。",
+   "AI支出驱动：资本开支主要由AI基础设施驱动，且未来支出只会增加，缺口可能扩大。",
+   "举债补缺口：过去一年通过发行长期债务筹资约770亿美元，长期债务接近翻倍。",
+   "投资者需警惕：仅看利润会误判财务健康，必须关注现金流和资产负债表。"
+  ],
+  "impact": "对AI行业而言，亚马逊的巨额投入说明AI基础设施竞赛仍在升温，可能带动英伟达等上游厂商需求，但也增加行业整体债务风险。对开发者来说，云服务价格和可用性可能受资本开支影响，但长期看更多算力供给未必立即降价。对普通用户，亚马逊可能通过提高服务费用或广告来回收投资，或者未来面临财务压力时的成本转嫁。整体而言，AI支出正在重塑科技巨头的财务逻辑，盈利与现金流的背离值得警惕。",
+  "tools": "可关注Wind或YCharts等财务数据平台分析亚马逊现金流；开源工具OpenBB可抓取财报数据；同时跟踪Anthropic估值变化和AI芯片供应链信息，如NVIDIA财报及Databricks的AI应用指标。"
+ }
+}

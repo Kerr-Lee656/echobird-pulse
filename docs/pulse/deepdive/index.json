@@ -4129,5 +4129,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T16:24:21Z",
   "fetched_at": "2026-08-23T18:51:26.856318+00:00"
+ },
+ "6425798656a2": {
+  "id": "6425798656a2",
+  "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+  "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T20:37:46.201824+00:00"
+ },
+ "66f257bc7814": {
+  "id": "66f257bc7814",
+  "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+  "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T20:37:54.420249+00:00"
+ },
+ "830711aca517": {
+  "id": "830711aca517",
+  "url": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm",
+  "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T20:38:03.629625+00:00"
+ },
+ "479e76cb6407": {
+  "id": "479e76cb6407",
+  "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
+  "title": "随着人工智能重塑电网格局，私募股权正瞄准公用事业领域",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T19:01:25.156Z",
+  "fetched_at": "2026-08-23T20:38:14.768232+00:00"
+ },
+ "81aea4b83b7a": {
+  "id": "81aea4b83b7a",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-free-cash-flow-went-143500432.html",
+  "title": "尽管亚马逊的经营现金流增长了33%，但其自由现金流却出现了76亿美元的负值。AI资本支出实际上正在造成这样的差距。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T15:33:11.886Z",
+  "fetched_at": "2026-08-23T20:38:27.217468+00:00"
+ },
+ "7fc08de27bce": {
+  "id": "7fc08de27bce",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "title": "Significant-Gravitas/AutoGPT — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-23T20:38:59.222235+00:00"
+ },
+ "fb3fb0769a12": {
+  "id": "fb3fb0769a12",
+  "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+  "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T18:27:33Z",
+  "fetched_at": "2026-08-23T20:39:26.096485+00:00"
  }
 }
