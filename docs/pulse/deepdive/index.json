@@ -3715,5 +3715,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T02:25:10Z",
   "fetched_at": "2026-08-23T07:02:19.852629+00:00"
+ },
+ "d5c52e06782b": {
+  "id": "d5c52e06782b",
+  "url": "https://www.ithome.com/0/993/185.htm",
+  "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T08:47:45.798972+00:00"
+ },
+ "a9f6542ae191": {
+  "id": "a9f6542ae191",
+  "url": "https://www.ithome.com/0/993/226.htm",
+  "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T08:05:55Z",
+  "fetched_at": "2026-08-23T08:48:00.753037+00:00"
+ },
+ "104c4b3f4118": {
+  "id": "104c4b3f4118",
+  "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+  "title": "AI Agent 安全新趋势：Authority 概念兴起",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T08:48:17.438766+00:00"
+ },
+ "9ff8e2782d9f": {
+  "id": "9ff8e2782d9f",
+  "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+  "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T04:50:53Z",
+  "fetched_at": "2026-08-23T08:49:02.722280+00:00"
+ },
+ "8c331425944e": {
+  "id": "8c331425944e",
+  "url": "https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot",
+  "title": "How much is crawling your content worth to an AI bot?",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-22T22:35:45Z",
+  "fetched_at": "2026-08-23T08:49:13.691640+00:00"
  }
 }
