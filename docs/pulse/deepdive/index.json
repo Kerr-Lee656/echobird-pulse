@@ -3886,5 +3886,41 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-23T13:03:55.289487+00:00"
+ },
+ "6140011bc012": {
+  "id": "6140011bc012",
+  "url": "https://www.huxiu.com/article/4885285.html?f=rss",
+  "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T11:00:21Z",
+  "fetched_at": "2026-08-23T14:39:54.534876+00:00"
+ },
+ "84391594da91": {
+  "id": "84391594da91",
+  "url": "https://www.tmtpost.com/8113322.html",
+  "title": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T14:40:10.261428+00:00"
+ },
+ "d674462655e2": {
+  "id": "d674462655e2",
+  "url": "https://www.ithome.com/0/993/242.htm",
+  "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T14:40:18.836505+00:00"
+ },
+ "ea35ca1c2e3a": {
+  "id": "ea35ca1c2e3a",
+  "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+  "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T11:42:54Z",
+  "fetched_at": "2026-08-23T14:42:18.839835+00:00"
  }
 }
