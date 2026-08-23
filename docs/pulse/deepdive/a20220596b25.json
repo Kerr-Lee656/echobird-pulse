@@ -1,0 +1,23 @@
+{
+ "id": "a20220596b25",
+ "url": "https://github.com/twentyhq/twenty",
+ "title": "twentyhq/twenty — The open alternative to Salesforce, designed for AI.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-23T13:03:55.289487+00:00",
+ "content": "Website · Documentation · Roadmap · Discord · Figma\nTwenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves. Twenty is the CRM you build, ship, and version like the rest of your stack.\nLearn more about why we built Twenty\nThe fastest way to get started. Sign up at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date.\nScaffold a new app with the Twenty CLI:\nnpx create-twenty-app my-app\nDefine objects, fields, and views as code:\nimport { defineObject, FieldType } from 'twenty-sdk/define';\nexport default defineObject({\n  nameSingular: 'deal',\n  namePlural: 'deals',\n  labelSingular: 'Deal',\n  labelPlural: 'Deals',\n  fields: [\n    { name: 'name', label: 'Name', type: FieldType.TEXT },\n    { name: 'amount', label: 'Amount', type: FieldType.CURRENCY },\n    { name: 'closeDate', label: 'Close Date', type: FieldType.DATE_TIME },\n  ],\n});\nThen ship it to your workspace:\nnpx twenty app:publish --private\nSee the app development guide for objects, views, agents, and logic functions.\nRun Twenty on your own infrastructure with Docker Compose, or contribute locally via the local setup guide.\nTwenty gives you the building blocks of a modern CRM (objects, views, workflows, and agents) and lets you extend them as code. Here's a tour of what's in the box.\nWant to go deeper? Read the User Guide for product walkthroughs, or the Documentation for developer reference.\n- TypeScript\n- Nx\n- NestJS, with BullMQ, PostgreSQL, Redis\n- React, with Jotai, Linaria and Lingui\nThanks to these amazing services that we use and recommend for code review (Greptile), catching bugs (Sentry) and translating (Crowdin).\nStar the repo · Discord · Feature requests · Releases · X · LinkedIn · Crowdin · Contribute",
+ "report": {
+  "summary": "开源可编程CRM，AI原生，替代Salesforce。",
+  "background": "传统CRM如Salesforce功能全面但定制复杂、成本高，难以快速适应业务变化。企业也急需将AI能力融入客户管理流程。Twenty以开源方式提供可编程CRM基础设施，通过代码定义对象和流程，原生支持AI代理，让CRM像软件一样迭代，降低定制门槛。",
+  "key_points": [
+   "开源CRM替代方案：定位为Salesforce的开源替代，提供现代CRM所需构建块，可灵活定制。",
+   "CRM即代码：通过TypeScript和CLI，用代码定义对象、字段和视图，支持版本管理，像开发软件一样管理CRM。",
+   "AI原生设计：内置代理和逻辑函数，可扩展工作流，为AI驱动的客户管理提供基础。",
+   "灵活部署：支持云端快速启动或自托管，一分钟建工作区，也可用Docker Compose部署。",
+   "技术栈现代：基于NestJS、React、PostgreSQL等主流技术，便于开发者贡献和二次开发。"
+  ],
+  "impact": "对AI行业，Twenty将CRM与AI代理结合，促进业务流程自动化，可能催生更多AI原生企业应用。对开发者，提供编程式CRM开发体验，降低定制成本，便于集成到现有技术栈。对普通用户，有望获得更个性化、更灵活的CRM系统，且因开源而数据自主可控。",
+  "tools": "可关注Twenty CLI（npx create-twenty-app）快速创建应用，使用twenty-sdk定义数据模型，通过Docker Compose自托管。也可参与GitHub社区，利用Discord和Figma设计资源进行协作。"
+ }
+}

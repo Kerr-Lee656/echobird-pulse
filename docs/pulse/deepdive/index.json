@@ -3814,5 +3814,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T09:21:44Z",
   "fetched_at": "2026-08-23T10:39:53.351270+00:00"
+ },
+ "b3e32199fa6b": {
+  "id": "b3e32199fa6b",
+  "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-wants-bring-20-075000062.html",
+  "title": "埃隆·马斯克计划引入20吉瓦的计算能力。这对内存芯片股可能意味着什么？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T09:26:07.852Z",
+  "fetched_at": "2026-08-23T13:01:37.073734+00:00"
+ },
+ "76749dce0ae2": {
+  "id": "76749dce0ae2",
+  "url": "https://www.ithome.com/0/993/234.htm",
+  "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T09:02:48Z",
+  "fetched_at": "2026-08-23T13:01:45.648899+00:00"
+ },
+ "e2be3d2926c0": {
+  "id": "e2be3d2926c0",
+  "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+  "title": "随着中国企业扩大人工智能投资，阿里巴巴宣布进行102亿美元的配售",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T08:53:13.765Z",
+  "fetched_at": "2026-08-23T13:01:57.788220+00:00"
+ },
+ "d8d3587ef279": {
+  "id": "d8d3587ef279",
+  "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+  "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T08:53:13.741Z",
+  "fetched_at": "2026-08-23T13:02:16.086156+00:00"
+ },
+ "32faae706619": {
+  "id": "32faae706619",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "title": "Comfy-Org/ComfyUI — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-23T13:03:12.696316+00:00"
+ },
+ "248c571e4aa6": {
+  "id": "248c571e4aa6",
+  "url": "https://github.com/NVIDIA-NeMo/Speech",
+  "title": "NVIDIA-NeMo/Speech — A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-23T13:03:27.854307+00:00"
+ },
+ "24684c1ecca2": {
+  "id": "24684c1ecca2",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "title": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-23T13:03:39.627527+00:00"
+ },
+ "a20220596b25": {
+  "id": "a20220596b25",
+  "url": "https://github.com/twentyhq/twenty",
+  "title": "twentyhq/twenty — The open alternative to Salesforce, designed for AI.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-23T13:03:55.289487+00:00"
  }
 }
