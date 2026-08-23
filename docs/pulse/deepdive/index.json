@@ -3598,5 +3598,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-22T19:11:34Z",
   "fetched_at": "2026-08-23T03:17:21.408081+00:00"
+ },
+ "231aeec5e9f9": {
+  "id": "231aeec5e9f9",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-tesla-building-205700208.html",
+  "title": "埃隆·马斯克旗下的SpaceX和特斯拉正在建设一座价值168亿美元的芯片工厂，其规模是地球上最大建筑的5倍。这对这两只股票意味着什么？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T04:05:43.289Z",
+  "fetched_at": "2026-08-23T04:51:52.188689+00:00"
+ },
+ "b8190ad9de2d": {
+  "id": "b8190ad9de2d",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-tpu-chips-generated-revenue-195000115.html",
+  "title": "Alphabet的TPU芯片在上个季度首次创造了营收。以下是为什么这一项目比头条新闻中的云业务数据更重要的原因。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T02:29:13.559Z",
+  "fetched_at": "2026-08-23T04:51:59.401407+00:00"
+ },
+ "06c97a28c1bb": {
+  "id": "06c97a28c1bb",
+  "url": "https://wallstreetcn.com/articles/3780066",
+  "title": "报道：英伟达客户被告知AI相关服务器涨价超15%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T04:52:16.789124+00:00"
+ },
+ "43ee641bb16f": {
+  "id": "43ee641bb16f",
+  "url": "https://news.mydrivers.com/1/1145/1145691.htm",
+  "title": "80台人形机器人亮相世界人形机器人运动会，实现全自主群体协同",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T04:52:25.345209+00:00"
  }
 }
