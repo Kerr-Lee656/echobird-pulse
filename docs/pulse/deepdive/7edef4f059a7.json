@@ -1,0 +1,23 @@
+{
+ "id": "7edef4f059a7",
+ "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-ai-boss-205228358.html",
+ "title": "Alphabet（GOOGL）：谷歌AI负责人刚刚卸任。DeepMind是否正在分崩离析？",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-23T02:45:27.811Z",
+ "fetched_at": "2026-08-23T07:00:31.790107+00:00",
+ "content": "Demis Hassabis, the Nobel Prize-winning co-founder of Google DeepMind, is stepping down from running the AI lab day-to-day. He's becoming DeepMind's chairman and taking on a new role as Alphabet Inc. (NASDAQ:GOOGL)'s chief scientist, while Koray Kavukcuoglu, DeepMind's US-based chief technology officer, takes over operations as senior vice president reporting directly to CEO Sundar Pichai, without the CEO title. The same week, longtime chief scientist Jeff Dean left along with three other senior researchers to launch a new startup called Discovery Loop. Alphabet Inc. (NASDAQ:GOOGL) shares fell 4% on the news.\nWhy This Matters\nThe reorganization lands at a rough moment when Gemini 3.5 Pro has now missed three release deadlines while Anthropic and OpenAI keep shipping. That leaves investors wondering whether this is a smart restructuring meant to fix a stalling AI effort or a sign Google's AI leadership is unraveling right when it can least afford it.\nThe Bull Case\nEven if Alphabet Inc. (NASDAQ:GOOGL)'s Google isn't leading on raw model intelligence, it still has advantages few rivals can match: its own cloud business, custom TPU chips, and distribution across products used by billions of people, backed by $132 billion in net income last year. Artificial Analysis CEO Micah Hill-Smith argued Google \"could end up doing very well\" in the AI race overall because of that broader ecosystem, even without the top model. Kavukcuoglu was already more involved than Hassabis in DeepMind's work with Google Cloud, and people close to the cloud division reportedly welcomed his promotion as a sign the company will prioritize shipping products over pure research. That kind of tighter focus is exactly what several DeepMind engineers say has been missing on coding and agentic AI.\nThe Bear Case\nThis management swap also means the company is losing a lot of its smartest people. Jeff Dean, Noam Shazeer, and John Jumper have all left within months of each other, and current employees describe deep frustration over sustained 60-hour work weeks, plus a controversial Pentagon defense deal that triggered resignations and sparked the first unionization drive at a frontier AI lab. More than 580 employees signed an open letter urging Pichai to reconsider the deal. Google's models \"are currently not competitive with the bleeding edge\" on intelligence and coding benchmarks. On top of that, Gemini 3.5 Pro remains unreleased after three missed deadlines even as rivals keep pace. Some employees describe the reorganization as a shift of power away from London toward Mountain View, undermining DeepMind's independence at precisely the moment it needs clear direction.",
+ "report": {
+  "summary": "哈萨比斯卸任DeepMind日常管理，核心人才流失引发谷歌AI前景担忧。",
+  "background": "谷歌DeepMind联合创始人、诺贝尔奖得主Demis Hassabis宣布卸任实验室日常运营负责人，转任董事长并出任Alphabet首席科学家，运营交由CTO Koray Kavukcuoglu。同期，长期担任首席科学家的Jeff Dean等多名资深研究员离职创业。这一人事变动发生在Gemini 3.5 Pro三次跳票、OpenAI与Anthropic持续发布新模型的竞争压力下，引发投资者对谷歌AI战略稳定性的质疑。谷歌股价因此下跌4%，内部也出现对工作强度和国防合同争议的不满情绪。",
+  "key_points": [
+   "哈萨比斯转为董事长和Alphabet首席科学家，Koray Kavukcuoglu接管DeepMind运营并直接向皮查伊汇报，组织重心向美国总部迁移。",
+   "Jeff Dean、Noam Shazeer、John Jumper等顶尖AI人才数月内相继离职，新创业公司Discovery Loop成立，人才流失迹象明显。",
+   "Gemini 3.5 Pro已错过三个发布期限，编码和智能基准上被认为不具领先优势，而对手持续迭代，市场耐心正在耗尽。",
+   "员工每周工作60小时、五角大楼国防合作引发580多人联名反对并催生工会化努力，内部士气与方向感堪忧。",
+   "谷歌拥有云服务、TPU芯片和数十亿用户分发渠道，去年净利1320亿美元，生态优势仍被部分分析师视为长期竞争力。"
+  ],
+  "impact": "对AI行业而言，顶级人才从谷歌流向创业公司，会加剧模型研发的多元竞争，也可能催生下一代技术路线。对开发者来说，谷歌模型的发布延迟意味着短期内更多选择OpenAI或Anthropic，但谷歌云和TPU基础设施仍是可靠备选。对普通用户，Gmail、搜索、安卓等产品中的AI体验可能受内部重组影响，但长期看生态整合能力或让谷歌仍保持服务可用性，只是“最智能”的竞赛暂时落后。",
+  "tools": "可关注Google AI Studio和Gemini API跟进最新模型状态；Vertex AI用于企业级部署；开源生态可关注DeepMind的AlphaFold、JAX等框架，以及TPU相关的TensorFlow工具。"
+ }
+}

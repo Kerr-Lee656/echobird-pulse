@@ -1,0 +1,23 @@
+{
+ "id": "9bb687528f6c",
+ "url": "https://popy.app/apps/corral",
+ "title": "Activity Monitor for AI Application on Mac OS X",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-23T04:23:35Z",
+ "fetched_at": "2026-08-23T07:01:24.702698+00:00",
+ "content": "Activity Monitor for Your Local AI Agents\nA free, open-source Mac app that shows you every Claude Code, Codex and Cursor process running — which project it belongs to, how long you have really left it sitting there, and what it is costing you.\nmacOS 13+ · MIT · no permissions, no telemetry, no network code\nFive rows named after a version number. Which one is the session you abandoned last Tuesday?\nThe same processes, named by the project each one is sitting in.\nFifteen agents. Eleven projects. One list that makes sense.\nCorral supports Claude Code, Claude for desktop, Codex, Cursor and its CLI agent, and Windsurf.\nThe project, not the version\nClaude Code installs itself as ~/.local/share/claude/versions/2.1.228, so the process name is the version. Corral reads each process's working directory instead, and the list reads heroshot, recall, appcleaner.\nIdle time you can trust\nNot “quiet since this app opened”. Corral reads the last write to each agent's terminal, which the kernel has been stamping all along — so an agent you walked away from on Tuesday says idle 3.1d the first second you look.\nThe whole footprint\nEvery agent's children too: MCP servers, dev servers still holding port 3000, and the caffeinate each session starts — which is why a pile of forgotten agents is also a Mac that never sleeps.\nStops things properly\nQuit asks, Force Quit insists, and either way the children go first. Kill the agent alone and its MCP servers are reparented to launchd, where they sit forever with nobody to talk to.\nClears what they leave behind\nCaches, superseded versions, VM images and logs, grouped by what removal actually costs you — and never your conversation history. On one real machine that came to 14 GB.\nCosts nothing to run\nA refresh takes about 8 ms across 550 processes — 0.4% of one core. A monitor that shows you what is eating your CPU has no business being on that list, so the number is measured, not assumed.\n$ corral --list --search recall\n  2 of 17 agents match \"recall\"\n  Claude Code 2.1.228  ·  pid 298\n    project   ~/code/recall\n    up        5.5d    cpu 2.0m    mem 185 MB    idle 16.2h\n    tty       /dev/ttys005\n    children  4 — mcp-server (pid 324), node (pid 325), …\nRound them up, get your Mac back.\nFree, open source, and it asks for no permissions at all. Open it once and find out how many agents you have been leaving running.",
+ "report": {
+  "summary": "开源Mac应用Corral，监控本地AI代理进程及资源占用。",
+  "background": "随着Claude Code、Codex等终端AI编程工具普及，开发者常同时运行多个代理会话，而系统活动监视器只能显示模糊的进程名（如版本号），难以区分项目、闲置时间及资源消耗。遗忘的代理会持续占用CPU、内存和端口，甚至阻止Mac休眠。Corral针对这一痛点，通过读取进程工作目录和终端写入时间，将代理按项目归类，并清晰展示闲置时长、子进程和清理空间，帮助用户找回失控的本地AI进程。",
+  "key_points": [
+   "按项目而非版本号识别进程：读取工作目录，将Claude Code 2.1.228等晦涩进程名映射为“heroshot”“recall”等实际项目，一眼分辨。",
+   "真实闲置时间：通过内核记录的最后终端写入时间计算，而非App打开后静默时长，可精准定位数天前遗弃的会话。",
+   "完整占用视图：涵盖代理的子进程（MCP服务器、开发服务器、caffeinate），解释为何遗留代理会导致Mac无法睡眠。",
+   "安全终止与清理：先杀子进程再退出主进程，避免孤儿进程；可清理缓存、旧版本、VM镜像等，最多释放14GB且不动对话历史。",
+   "极高效率：刷新550个进程仅需8ms，CPU占用0.4%，自身不拖累系统，且完全开源、无权限、无遥测。"
+  ],
+  "impact": "对AI行业：推动本地AI工具链的进程治理标准化，显示“负责任的AI开发”不仅是模型层，也包括资源管理。对开发者：提供直观的代理生命周期控制，避免多项目并行时的资源泄漏与成本浪费，提升生产力。对普通用户：即使不写代码，也能通过类似工具理解本地AI后台行为，降低对未知进程的焦虑。",
+  "tools": "可关注Corral（https://popy.app/apps/corral）及其GitHub仓库；终端用户可结合`ps -o pid,command`、`lsof -i`检查子进程，或用`htop`按进程树观察，但Corral已整合上述能力。"
+ }
+}

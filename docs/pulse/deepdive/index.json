@@ -3634,5 +3634,86 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-08-23T04:52:25.345209+00:00"
+ },
+ "54686d4371de": {
+  "id": "54686d4371de",
+  "url": "https://www.huxiu.com/article/4885247.html?f=rss",
+  "title": "拿游戏录像训练机器人，这家公司两个月估值从 23 亿涨到 60 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T07:00:00.542667+00:00"
+ },
+ "28a4f4ebbbc6": {
+  "id": "28a4f4ebbbc6",
+  "url": "https://www.theblockbeats.info/flash/363039",
+  "title": "阿里巴巴拟配售800亿港元新股，募资全部投向AI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T07:00:09.379527+00:00"
+ },
+ "af72f3110a11": {
+  "id": "af72f3110a11",
+  "url": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
+  "title": "优步将百度的无人驾驶机器人出租车引入迪拜",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T05:41:27.177Z",
+  "fetched_at": "2026-08-23T07:00:18.817871+00:00"
+ },
+ "7edef4f059a7": {
+  "id": "7edef4f059a7",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-ai-boss-205228358.html",
+  "title": "Alphabet（GOOGL）：谷歌AI负责人刚刚卸任。DeepMind是否正在分崩离析？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T02:45:27.811Z",
+  "fetched_at": "2026-08-23T07:00:31.790107+00:00"
+ },
+ "f14de2186d42": {
+  "id": "f14de2186d42",
+  "url": "https://www.ithome.com/0/993/136.htm",
+  "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T00:52:23Z",
+  "fetched_at": "2026-08-23T07:00:40.657809+00:00"
+ },
+ "9bb687528f6c": {
+  "id": "9bb687528f6c",
+  "url": "https://popy.app/apps/corral",
+  "title": "Activity Monitor for AI Application on Mac OS X",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T04:23:35Z",
+  "fetched_at": "2026-08-23T07:01:24.702698+00:00"
+ },
+ "79fa8d49efad": {
+  "id": "79fa8d49efad",
+  "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+  "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+  "source": "Hacker News (11pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T04:03:46Z",
+  "fetched_at": "2026-08-23T07:01:49.051347+00:00"
+ },
+ "de2c90e9cd4a": {
+  "id": "de2c90e9cd4a",
+  "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
+  "title": "AI Power Scaling Cuts Both Ways",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T03:24:32Z",
+  "fetched_at": "2026-08-23T07:01:56.330384+00:00"
+ },
+ "b007265302fc": {
+  "id": "b007265302fc",
+  "url": "https://www.jepeake.com/ai-chip-architectures",
+  "title": "AI Chip Architectures",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T02:25:10Z",
+  "fetched_at": "2026-08-23T07:02:19.852629+00:00"
  }
 }

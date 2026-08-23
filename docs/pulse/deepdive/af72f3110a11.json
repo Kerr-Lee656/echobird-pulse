@@ -1,0 +1,23 @@
+{
+ "id": "af72f3110a11",
+ "url": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
+ "title": "优步将百度的无人驾驶机器人出租车引入迪拜",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-23T05:41:27.177Z",
+ "fetched_at": "2026-08-23T07:00:18.817871+00:00",
+ "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nUber Technologies Inc. and Baidu Inc. launched fully driverless Apollo Go robotaxis on Uber's platform in Dubai on Thursday.\nThe launch marks the first deployment under the companies' multiyear partnership. New Horizon Luxury Transport will operate the fleet.\nDriverless Rides Available On Uber\nDubai riders who request UberX or Uber Comfort may now be matched with Baidu's fully driverless Apollo Go vehicles. Users can also select the \"Autonomous\" option in the Uber app to increase their chances of getting a robotaxi.\nDon't Miss:\n-       A single bad hire can set a startup back years. Here are the 5 hires founders most often misjudge — and why\n-       Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast\nThe service initially covers select areas in Umm Suqeim and Jumeirah. The companies plan to expand the operating area.\nThe rollout uses Apollo Go's sixth-generation RT6. The fully electric robotaxi carries up to three passengers and has more than 30 sensors. It also processes driving data onboard in real time.\nBaidu said Apollo Go now operates across 28 cities worldwide. Its fleets have logged more than 350 million autonomous kilometers, including over 240 million kilometers without a human driver.\nSee Also: Avoid the #1 Investing Mistake: How Your 'Safe' Holdings Could Be Costing You Big Time\nUber Expands Autonomous Network\nDubai is the first market to launch under Uber and Baidu's partnership. The companies plan to eventually deploy thousands of Apollo Go vehicles across Uber's global network.\nThe expansion also supports Uber's broader autonomous vehicle strategy. The company works with more than 30 autonomous vehicle partners.\n\"Launching in Dubai marks the first time our multi-partner vision comes to life on public roads,\" said Sarfraz Maredia, Uber's global head of autonomous.\nImage via Shutterstock\nRead Next:\n-       Skip the Regrets: The Essential Retirement Tips Experts Wish Everyone Knew Earlier.\n-       Think you're saving enough for your kids? You might be dangerously off — see why\nBuilding Wealth Across More Than Just the Market\nBuilding a resilient portfolio means thinking beyond a single asset or market trend. Economic cycles shift, sectors rise and fall, and no one investment performs well in every environment. That's why many investors look to diversify with platforms that provide access to real estate, fixed-income opportunities, precious metals, and even self-directed retirement accounts. By spreading exposure across multiple asset classes, it becomes easier to manage risk, capture steady returns, and create long-term wealth that isn't tied to the fortunes of just one company or industry.",
+ "report": {
+  "summary": "优步与百度在迪拜推出完全无人驾驶机器人出租车服务。",
+  "background": "百度旗下Apollo Go是全球领先的自动驾驶出行平台，已在全球28个城市运营，累计自动驾驶里程超3.5亿公里。此次与优步达成多年合作，首次在迪拜落地，由当地运营商New Horizon Luxury Transport负责车队运营。这是优步多合作伙伴自动驾驶战略的重要一步，旨在通过整合多家技术供应商，在全球范围扩大无人驾驶出行覆盖。迪拜作为首个落地城市，因其开放的政策和对未来交通的积极布局，成为理想的试点市场。",
+  "key_points": [
+   "迪拜用户可通过优步App选择UberX、Uber Comfort或“Autonomous”选项，体验完全无人驾驶的百度Apollo Go车辆。",
+   "本次使用的是Apollo Go第六代RT6车型，全电动、最多载客3人，配备超过30个传感器，支持车载实时数据处理。",
+   "这是优步与百度多年合作下首个落地市场，双方计划最终在优步全球网络中部署数千辆Apollo Go无人车。",
+   "百度Apollo Go已覆盖全球28个城市，累计无人驾驶里程超过2.4亿公里，为规模化运营提供数据和技术支撑。",
+   "优步已与30多家自动驾驶伙伴合作，迪拜是“多伙伴愿景”首次在公开道路上的实践。"
+  ],
+  "impact": "对行业而言，优步开放平台与百度技术结合，验证了自动驾驶跨区域落地的可行模式，可能加速全球Robotaxi商业化竞争。对开发者来说，Apollo平台的开源生态和RT6硬件方案值得关注，相关数据接口和仿真工具将助力算法迭代。对普通用户，在迪拜可率先体验无安全员的无人出租车，未来其他城市或逐步跟进，出行方式将更智能、更便宜，但就业和监管挑战也会随之而来。",
+  "tools": "可关注百度Apollo开放平台（apollo.auto）获取开源代码与仿真工具；优步的Uber Autonomous服务页面了解部署进度；此外可追踪Apollo Go公开数据集和传感器方案，适合开发者研究自动驾驶感知与决策技术。"
+ }
+}
