@@ -5,18 +5,18 @@
  "source": "Mashable",
  "site_name": "TechURLs",
  "published_at": null,
- "fetched_at": "2026-08-22T18:48:19.019189+00:00",
+ "fetched_at": "2026-08-23T02:01:52.025685+00:00",
  "content": "Civil society groups push FTC to sue AI companies over book destruction\nEarlier this month, we reported on the disturbing trend of AI companies using and then destroying physical copies of books to train their agentic AI, in a practice so eerily reminiscent of book burning that it's spooking even devotees of artificial intelligence.\nWell, according to Axios, the FTC is now being urged to investigate the practice, not, as we might like, for crimes against humanity, but for violations of antitrust law, since every book destroyed is one less book available for competing AI agents to use.\nAxios reports that \"[m]ore than a dozen civil society groups,\" including Demand Progress Education Fund, the Consumer Federation of America, and the Institute for Local Self-Reliance, are urging the FTC to investigate these practices, particularly those involving rare books. In their letter, they \"urge the FTC to view this practice not in isolation but rather as the latest escalation in a documented pattern of anticompetitive conduct designed to create an insurmountable systemic moat around AI incumbents.\"\nYou May Also Like\nThe problem is all the more acute because these companies are allegedly targeting older books — especially those published before 2022 — since those books are guaranteed not to have been written by AI and are far more likely to have been well edited.\nThe letter continues:\n\"Unlike a standard data acquisition strategy, this hoard-and-destroy practice could serve as yet another structural mechanism to raise rival companies' costs and deny start-ups and fledgling competitors a key source material essential to competing in the AI marketplace.\"\nRecall OpenAI CEO Sam Altman's description of knowledge as a utility that could be sold to you \"like electricity and water\"? That business proposition looks a lot less wholesome when it involves the wholesale destruction of books, our first and still-unsurpassed repository for human knowledge, most of which can still be acquired cheaply or freely loaned from a local library.\nSadder still is the fact that our best practical defense against this modern book burning isn't an ethical one but a legal one: that it would be bad for other businesses.",
  "report": {
-  "summary": "民间团体敦促FTC以反垄断起诉AI公司销毁书籍、垄断训练数据。",
-  "background": "近期曝出AI公司为训练智能体，大量购买并销毁实体书，尤其针对2022年前出版的旧书和稀有书，以确保竞争对手无法获得这些高质量数据。这种行为类似焚书，引发社会警觉。十余个公民社会组织联合致信FTC，认为这不仅是不道德，更构成反垄断违规——每销毁一本书，就等于抬高其他AI公司的获取成本，筑起难以逾越的数据护城河。FTC被要求调查这一系统性排挤新创企业的做法。",
+  "summary": "民间团体敦促FTC以反垄断起诉AI公司销毁图书的行为。",
+  "background": "AI公司为训练模型大量购买并销毁实体书，尤其针对2022年前出版的老书，以确保数据质量并垄断稀缺资源。这种做法导致竞争对手无法获取这些书籍，被视为通过“囤积销毁”构建竞争壁垒。多个公民社会组织联合致信FTC，要求以反垄断法调查。此举引发对AI伦理和知识保存的担忧，行为被比作现代焚书，但法律手段成为唯一有效应对。",
   "key_points": [
-   "AI公司销毁实体书以独占训练数据，优先瞄准2022年前出版的旧书和稀缺书，因为内容更纯正、编辑质量高。",
-   "十多个民间团体（如Demand Progress、消费者联合会）联名致信FTC，要求按反垄断法调查，而非仅道德谴责。",
-   "团体认为销毁书籍是系统性反竞争策略，通过抬高竞争者成本、断绝新创公司获得关键语料，强化行业垄断地位。",
-   "OpenAI提出知识像水电一样可售卖，但这一愿景在销毁人类知识载体的现实中显得讽刺，法律反而成了最后防线。"
+   "AI公司通过购买并销毁实体书获取训练数据，重点瞄准2022年前出版的书籍，以保证内容非AI生成且编辑质量高。",
+   "逾十二个公民组织敦促FTC调查，认为该行为是反竞争策略，旨在建立“不可逾越的系统性护城河”。",
+   "销毁图书导致竞争对手难以获取稀有书籍，抬高进入成本，阻碍初创企业参与AI竞争。",
+   "这种行为被视为现代“焚书”，引发伦理争议，但当前最有效的反制手段却是反垄断法律，而非道德呼吁。"
   ],
-  "impact": "对AI行业而言，数据独占将加剧巨头与初创之间的差距，形成赢者通吃的垄断格局；开发者和研究人员可能更难获取合法高质量训练语料，被迫依赖低质或合成数据，影响模型能力分化。对普通用户，这意味着未来AI服务的选择变少、价格可能被巨头主导，且人类珍贵文化资源被悄悄灭失。事件若成立反垄断判例，将推动AI公司重新审视数据获取方式，也可能激励更多公共数据池建设。",
-  "tools": "可关注数据溯源与透明度工具，如Spawning AI的“Have I Been Trained”（查询作品是否被用）、开源语料库Common Crawl（免费网页数据）、以及FTC官网的案件追踪页面，跟进此事的监管动态。"
+  "impact": "对AI行业而言，巨头通过控制稀缺数据源进一步巩固垄断地位，压制创新；开发者与初创企业获取高质量训练数据的成本与门槛将大幅提高，生存空间收窄。对普通用户，知识普及和文化遗产保存面临威胁，长期可能削弱信息多样性。此案若成立，将确立反垄断法在AI数据获取中的应用先例，倒逼行业转向数据来源透明化和合规化，但对“焚书”行为本身仍缺乏伦理约束。",
+  "tools": "可关注Internet Archive的数字图书馆计划，获取扫描书籍；利用开源数据集The Pile、Common Crawl了解数据收集方式；跟进Data Provenance Initiative等数据溯源项目，识别训练数据来源。"
  }
 }

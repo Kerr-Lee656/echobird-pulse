@@ -1,0 +1,22 @@
+{
+ "id": "616d03ef5f69",
+ "url": "https://arxiv.org/abs/2608.02859",
+ "title": "The crisis of AI-generated mathematics",
+ "source": "Hacker News (5pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-22T22:04:49Z",
+ "fetched_at": "2026-08-23T02:03:41.384306+00:00",
+ "content": "Mathematics > History and Overview\n  [Submitted on 3 Aug 2026]\n    Title:The crisis of AI-generated mathematics\nView PDF HTML (experimental)\n            Abstract:In this essay, I present the case for total opposition to the use of artificial intelligence in mathematics. I offer proposals for how individuals, departments, journals, and institutions can act in concert to make sure that mathematics survives the coming crisis.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "AI生成数学引发危机，文章呼吁全面抵制以守护数学。",
+  "background": "近年来，大语言模型和自动化证明工具被引入数学研究，能快速生成猜想、证明草稿甚至完整论文。但AI产出常伴随幻觉、逻辑漏洞和不可复现性，令数学界担忧其侵蚀严谨性。本文作者认为这种趋势已构成‘危机’，主张学界应从个人到机构层面联合抵制AI参与数学创作，以保护数学的真实性与可靠性。",
+  "key_points": [
+   "作者旗帜鲜明地反对AI用于数学，认为会摧毁数学的严谨本质和人类创造性。",
+   "AI生成的数学内容存在幻觉风险，可能污染知识体系，误导后续研究。",
+   "呼吁个人、系所、期刊和机构协同行动，建立审查和禁用机制。",
+   "强调数学需要人类直觉与逻辑，不能用统计模式替代证明。"
+  ],
+  "impact": "对数学界而言，这是一次关于工具与伦理的激烈辩论，可能催生更严格的AI使用规范。对AI开发者来说，意味着需要正视生成内容的可靠性问题，而非只追求能力提升。对普通用户，提示了AI输出并非都可信赖，尤其在依赖严密逻辑的领域，人类判断仍不可替代。",
+  "tools": "若想跟踪相关讨论，可关注arXiv、MathOverflow上的争议帖子；也可了解Lean、Coq等证明助手，它们代表了AI与数学协作的另一条路径。"
+ }
+}

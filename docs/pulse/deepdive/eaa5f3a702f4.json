@@ -1,0 +1,23 @@
+{
+ "id": "eaa5f3a702f4",
+ "url": "https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs",
+ "title": "Nvidia AI server prices are rising more than 15% from early next year",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-23T02:00:29.566774+00:00",
+ "content": "Nvidia’s largest customers have been notified that servers containing its AI chips will rise in price by more than 15% in many cases from early next year, driven by memory costs. The company reports quarterly earnings next week.\nNvidia’s biggest customers have been told what the memory shortage is going to cost them. Servers containing its AI chips will rise in price by more than 15% in many cases, on systems shipping from early next year.\nThe increases reach the newest hardware. Systems built around the Vera Rubin and Grace Blackwell chips are affected, with the size of the rise depending on the chip generation and the memory configuration.\nThe warnings came through the middlemen. Companies that assemble servers under contract for operators including Microsoft, Google and Oracle have notified their customers, and Nvidia did not respond to requests for comment.\nWhat makes this notable is who is passing on the cost. Nvidia holds a gross margin of about 75% and is the most valuable listed company in the world, and it is still not absorbing this.\nThe leverage sits with three companies. Samsung, SK hynix and Micron produce most of the world’s DRAM, and while output is rising it has not caught up with demand from AI infrastructure.\nConsumers met this first. Apple and Qualcomm have both said component costs are pushing prices up, Nvidia raised its gaming card prices this month and AMD followed within days, while Amazon Web Services has already put GPU prices up 20%.\nEurope’s exposure runs through public money as much as private. The EU has committed around €20bn to a set of AI gigafactories, and a French consortium has bid $10bn for one site.\nThose bids and budgets were built on last year’s hardware prices. A 15% increase on the servers such a facility exists to buy is a material change to a plan drawn up before the memory market tightened.\nCommercial European operators are buying into the same market. Nebius is tripling Nvidia capacity at its Finnish data centre, on economics that have just moved.\nThe build-out was already getting harder. Project delays, labour shortages, tighter capital markets and local opposition have complicated data centre plans, and this adds cost to all of it.\nNvidia reports quarterly earnings next week, which is when the useful question gets asked. Not whether demand is holding, but who ends up paying for memory, because at the moment the answer appears to be everyone downstream.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Nvidia AI服务器因内存成本上涨下月起涨价超15%，波及下游客户。",
+  "background": "AI算力需求激增导致DRAM内存供给紧张，三星、SK海力士、美光三大厂商主导定价。Nvidia已通知大客户，搭载AI芯片的服务器从明年初起涨价超15%，涉及Vera Rubin和Grace Blackwell等新一代硬件。此前消费端已现涨价潮，苹果、高通、AMD及云厂商AWS均已调价，欧洲AI算力项目预算正面临成本重估。",
+  "key_points": [
+   "内存短缺直接推高服务器成本，Nvidia对多款AI服务器提价超15%，从明年初交付产品开始执行。",
+   "涨价覆盖最新AI芯片平台，Vera Rubin和Grace Blackwell服务器均受影响，幅度因内存配置而异。",
+   "三星、SK海力士、美光控制全球DRAM供应，产能扩张未追上AI基础设施需求，议价权集中。",
+   "下游微软、谷歌、甲骨文等云巨头已通过代工商获知涨价，成本将转嫁给最终用户。",
+   "欧洲AI算力项目预算基于旧价，法国财团百亿美元计划面临成本超支风险。"
+  ],
+  "impact": "AI行业整体成本上升，云服务商和算力提供商将把涨价转嫁给企业和开发者，AI应用开发和使用成本增加。普通用户可能看到云服务、AI订阅或消费电子产品价格上涨。英伟达虽毛利率高，仍选择传导成本，凸显内存供应链瓶颈对AI产业扩张的制约。",
+  "tools": "可关注DRAM现货与合约价格指数（如Dramexchange），以及Nvidia、AMD财报电话会议中关于内存成本的表述。开发者可留意AWS、Azure的GPU实例定价调整，评估算力成本变化。"
+ }
+}
