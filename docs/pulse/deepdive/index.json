@@ -4048,5 +4048,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T14:37:05Z",
   "fetched_at": "2026-08-23T16:46:15.063935+00:00"
+ },
+ "a918b15723c9": {
+  "id": "a918b15723c9",
+  "url": "https://reinvently.co.uk/tools/ed-o-meter",
+  "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T18:47:25.721129+00:00"
+ },
+ "94fc4e379574": {
+  "id": "94fc4e379574",
+  "url": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely",
+  "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T18:47:42.107284+00:00"
+ },
+ "22eba649f583": {
+  "id": "22eba649f583",
+  "url": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
+  "title": "OpenAI wants California to strengthen its newly passed AI safety law",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T18:47:50.823177+00:00"
+ },
+ "dde0faca45ef": {
+  "id": "dde0faca45ef",
+  "url": "https://www.techradar.com/pro/this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-ai-firms-to-do-something-about-rising-data-center-opposition",
+  "title": "'This has become a sleeper issue for the entire election cycle': Republican Party tells top AI firms to do something about rising US data center opposition",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T18:48:11.320456+00:00"
+ },
+ "eb4497b24aa8": {
+  "id": "eb4497b24aa8",
+  "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+  "title": "We must not grant AI agents legal personhood",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T17:25:03Z",
+  "fetched_at": "2026-08-23T18:48:29.182897+00:00"
+ },
+ "faa3e9d0982e": {
+  "id": "faa3e9d0982e",
+  "url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+  "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis 时刻」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T18:48:44.441047+00:00"
+ },
+ "f66e93056b71": {
+  "id": "f66e93056b71",
+  "url": "https://www.ithome.com/0/993/297.htm",
+  "title": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T13:32:27Z",
+  "fetched_at": "2026-08-23T18:49:06.212543+00:00"
+ },
+ "304371c70a7e": {
+  "id": "304371c70a7e",
+  "url": "https://www.ithome.com/0/993/296.htm",
+  "title": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T13:30:33Z",
+  "fetched_at": "2026-08-23T18:49:30.869344+00:00"
+ },
+ "8ba34749db81": {
+  "id": "8ba34749db81",
+  "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+  "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+  "source": "Hacker News (195pts, 82c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T16:24:21Z",
+  "fetched_at": "2026-08-23T18:51:26.856318+00:00"
  }
 }

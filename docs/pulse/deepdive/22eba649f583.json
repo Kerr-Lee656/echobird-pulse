@@ -1,0 +1,23 @@
+{
+ "id": "22eba649f583",
+ "url": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
+ "title": "OpenAI wants California to strengthen its newly passed AI safety law",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-23T18:47:50.823177+00:00",
+ "content": "OpenAI wants California to strengthen its newly passed AI safety law\nOpenAI wants California to toughen up the AI safety law it helped get across the finish line less than a year ago.\nIn a post from OpenAI's Global Affairs team on LinkedIn, the company laid out its case for amending SB 53, the Transparency in Frontier Artificial Intelligence Act, which Governor Gavin Newsom signed into law back in Sept. 2025. OpenAI says the law needs new teeth, specifically, requirements that frontier AI models be monitored during training or evaluation for signs that they could bypass a third party's security controls or obtain confidential information they shouldn't have.\nThe company is also pushing for beefed-up cybersecurity across the entire model development process, aimed at preventing AI systems from circumventing their internal safeguards.\nYou May Also Like\nFor context, SB 53 was already a pretty significant piece of legislation when it passed. According to the Governor's office, the law requires large frontier AI developers to publish safety frameworks, establishes a formal channel for reporting critical safety incidents to California's Office of Emergency Services, protects whistleblowers, and grants the state Attorney General the authority to levy civil penalties on companies that don't comply.\nIt also created CalCompute, a public computing consortium meant to give safety and equity research a boost, and it requires the state to revisit the law annually as the tech beneath it shifts. Newsom pitched it at the time as proof that California could protect the public without choking off the AI industry that has become such a huge part of the state's economy. It was also called a stopgap for Washington's inability to pass anything resembling a real federal AI policy.\nIt makes sense, then, that OpenAI is calling its broader strategy \"reverse federalism\" — the idea being that while Congress continues to sit on its hands on comprehensive AI legislation, states can move first on compatible safety standards that can eventually be turned into national policy.\nThe company was careful to frame this as forward-looking rather than reactive, insisting that the ask isn't \"to write rules for one particular incident\" but to build a framework that catches problems earlier and ensures lessons are shared industry-wide. Such demands are all well and good, and one that conveniently keeps OpenAI in the room to shape what those standards look like.\nDisclosure: Ziff Davis, Mashable’s parent company, in April 2025 filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.\nChance Townsend is the General Assignments Editor at Mashable, covering tech, video games, dating apps, digital culture, and whatever else comes his way. He has a Master's in Journalism from the University of North Texas and is a proud orange cat father. His writing has also appeared in PC Mag and Mother Jones.\nIn his free time, he cooks, loves to sleep, and greatly enjoys Detroit sports. If you have any tips or want to talk shop about the Lions, you can reach out to him on Bluesky @offbrandchance.bsky.social or by email at [email protected].",
+ "report": {
+  "summary": "OpenAI呼吁加州加强其新通过的AI安全法，增加监控与网络安全要求。",
+  "background": "2025年9月，加州州长纽森签署了SB 53《前沿人工智能透明度法案》，要求大型AI开发商发布安全框架、报告安全事故、保护举报人，并设立公共计算联盟CalCompute。该法被视为联邦AI立法停滞下的州级先行举措。如今，OpenAI在领英上发文呼吁修订该法，主张在模型训练或评估阶段监测AI是否试图绕过第三方安全控制或获取保密信息，并强化整个开发流程的网络安全，以防止AI突破内部防护。OpenAI将这一策略称为“反向联邦主义”，希望州级标准最终上升为国家政策。",
+  "key_points": [
+   "OpenAI要求加严SB 53，新增对前沿模型训练或评估期间的安全监控，以检测AI尝试绕过安全控制或窃取机密信息的行为。",
+   "公司主张在整个模型开发流程中加强网络安全，防止AI系统规避自身内置的安全防护机制。",
+   "OpenAI将策略称为“反向联邦主义”，即在国会无作为时，由州先制定兼容标准，未来转化为国家政策。",
+   "SB 53已要求安全框架、事故报告、举报人保护及司法部民事处罚权，OpenAI希望在此基础上“加齿”。",
+   "OpenAI强调提议是前瞻性框架，而非针对特定事件，旨在更早发现问题并行业共享教训。"
+  ],
+  "impact": "对AI行业而言，更严格的监控和网络安全要求将增加开发成本，但可能提升公众信任并减少事故风险。开发者需在训练和评估流程中嵌入安全监测工具，并承担更多合规责任。普通用户可能受益于更安全的AI系统，减少数据泄露或恶意行为风险。同时也需警惕监管过度可能抑制创新，以及大公司参与立法可能形成“监管俘获”的隐忧。",
+  "tools": "可关注加州CalCompute公共计算联盟进展；参考OpenAI安全评估框架、Anthropic的 Responsible Scaling Policy；开发者可用Python库如TransformerLens进行模型内部机制分析，或使用OpenAI Evals评估模型行为，以应对潜在合规要求。"
+ }
+}

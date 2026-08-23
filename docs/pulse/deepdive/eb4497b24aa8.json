@@ -1,0 +1,22 @@
+{
+ "id": "eb4497b24aa8",
+ "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+ "title": "We must not grant AI agents legal personhood",
+ "source": "Hacker News (黑客新闻)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-23T17:25:03Z",
+ "fetched_at": "2026-08-23T18:48:29.182897+00:00",
+ "content": "We must not grant AI agents legal personhood \nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeks\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nStandard Digital\n$45 per month\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nPremium Digital\nComplete coverage\n$75 per month\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nFT Digital Edition\n$16.99 per month\nOur digitised version of the FT newspaper, for easy reading on any device.\nCheck whether you already have access via your university or organisation.\nTerms & Conditions apply\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "文章反对赋予AI代理法律人格，强调责任应由人类承担。",
+  "background": "近年来，AI代理（如自主交易系统、自动驾驶）自主性不断增强，引发法律主体性讨论。有人建议给予AI法人资格以简化合同与责任，但作者认为风险极大。授予法律人格意味着AI可成为权利义务主体，却无法真正理解或承担后果，可能导致责任真空。此前欧盟、美国等也在辩论是否应对AI进行人格化，但主流观点倾向于将AI视为工具，而非法律实体。文章是从法律和伦理角度发出的警告。",
+  "key_points": [
+   "AI代理没有自我意识和道德能力，授予法律人格将使它们成为无法被追责的‘替罪羊’，真正操作者反而隐身。",
+   "法律人格会破坏现有责任体系，当AI出错时，受害者可能无法找到实际负责人，赔偿和惩罚都落空。",
+   "企业可能利用AI代理的独立人格来隔离风险、规避监管，将违规行为推诿给算法，造成追责困难。",
+   "正确的路径是让AI开发者和使用者承担严格责任，同时建立可追溯的审计机制和透明日志，而不是赋予AI人格。"
+  ],
+  "impact": "对AI行业，若否决人格化，企业需加强内控和保险设计；对开发者，意味着必须为算法行为负责，提升安全测试投入；对普通用户，受害时可直接追究公司责任，维权路径更清晰。同时，也要求法律明确算法透明度与责任归属，避免灰色地带。",
+  "tools": "可关注欧盟AI治理框架、NIST AI风险管理框架等政策工具；技术上可关注模型可解释性工具如SHAP、LIME，以及责任追踪平台如MLflow的模型审计功能。"
+ }
+}
