@@ -3922,5 +3922,131 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T11:42:54Z",
   "fetched_at": "2026-08-23T14:42:18.839835+00:00"
+ },
+ "89e7c92b661d": {
+  "id": "89e7c92b661d",
+  "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+  "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:41:16.161604+00:00"
+ },
+ "5ee836977474": {
+  "id": "5ee836977474",
+  "url": "https://www.techradar.com/pro/ai-isnt-killing-jobs-yet-over-50-of-uk-businesses-say-ai-is-creating-roles-as-massive-upskilling-push-begins",
+  "title": "AI isn't killing jobs yet: Over 50% of businesses say AI is creating roles as massive upskilling push begins",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:41:29.054538+00:00"
+ },
+ "91ef7cebc409": {
+  "id": "91ef7cebc409",
+  "url": "https://news.qq.com/rain/a/20260823A0C1Z000",
+  "title": "让 AI Agent「试玩」世界模型，长程目标评测有了新基准 PlayWorld",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:41:40.820987+00:00"
+ },
+ "f65f60ed35eb": {
+  "id": "f65f60ed35eb",
+  "url": "https://daily.dev/posts/one-pull-to-wipe-them-all-sr44hok5a",
+  "title": "Malicious PR injected wipe command into Amazon Q Developer, reached nearly 1 million VS Code users",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:41:57.155817+00:00"
+ },
+ "cb153cbed24d": {
+  "id": "cb153cbed24d",
+  "url": "https://www.huxiu.com/article/4885316.html?f=rss",
+  "title": "DeepSeek、智谱与Kimi：前沿竞争中的生存空间",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:42:09.886429+00:00"
+ },
+ "a4166c8eece6": {
+  "id": "a4166c8eece6",
+  "url": "https://www.ithome.com/0/993/313.htm",
+  "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T15:09:37Z",
+  "fetched_at": "2026-08-23T16:43:27.090489+00:00"
+ },
+ "3e355f002799": {
+  "id": "3e355f002799",
+  "url": "https://www.ithome.com/0/993/301.htm",
+  "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:43:35.087614+00:00"
+ },
+ "6710d8a10dac": {
+  "id": "6710d8a10dac",
+  "url": "https://www.qbitai.com/2026/08/478164.html",
+  "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:43:50.875941+00:00"
+ },
+ "fd98f1f1c0ed": {
+  "id": "fd98f1f1c0ed",
+  "url": "https://www.ithome.com/0/993/258.htm",
+  "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:44:06.587756+00:00"
+ },
+ "359b74d1beeb": {
+  "id": "359b74d1beeb",
+  "url": "https://www.theblockbeats.info/flash/363063",
+  "title": "英伟达开源模型战略浮出水面：从卖铲子转向挖金矿",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:44:21.716157+00:00"
+ },
+ "5fa123690099": {
+  "id": "5fa123690099",
+  "url": "https://www.ithome.com/0/993/263.htm",
+  "title": "美国多地官员因 AI 数据中心项目遭死亡威胁与枪击",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-23T16:44:32.647504+00:00"
+ },
+ "a01fe2c8756a": {
+  "id": "a01fe2c8756a",
+  "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+  "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-23T15:30:00.000Z",
+  "fetched_at": "2026-08-23T16:45:36.307183+00:00"
+ },
+ "736c2f98ab12": {
+  "id": "736c2f98ab12",
+  "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-23T15:00:00.000Z",
+  "fetched_at": "2026-08-23T16:45:55.976174+00:00"
+ },
+ "00f8f02993ad": {
+  "id": "00f8f02993ad",
+  "url": "https://veruscite-data.com/share/-7KyAgTQ6aqub5ilvQ_6_SVg2wkbjhp95pLeG3QFa-o",
+  "title": "A Google DeepMind paper has multiple hallucinated references",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T14:37:05Z",
+  "fetched_at": "2026-08-23T16:46:15.063935+00:00"
  }
 }

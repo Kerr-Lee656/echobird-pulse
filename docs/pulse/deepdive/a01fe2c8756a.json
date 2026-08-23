@@ -1,0 +1,23 @@
+{
+ "id": "a01fe2c8756a",
+ "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+ "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-23T15:30:00.000Z",
+ "fetched_at": "2026-08-23T16:45:36.307183+00:00",
+ "content": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley.\n“When people talk about just one of these, privacy or safety, they’re prioritizing the wrong thing, and what we have to prioritize as a country is compromise,” Langley said during a recent interview with Fox News. “How do we have our safety, and how do we balance privacy?”\nLangley’s Fox News appearance was just the latest interview he’s given as the company faces a growing public outcry around concerns that Flock’s surveillance cameras, drones, and license plate recognition technology could be misused.\nThese concerns aren’t just hypothetical. The Washington Post recently identified 46 cases where police officers have been accused of using Flock technology for unauthorized purposes, including to stalk their wives, girlfriends, or exes.\nAfter listening to an interview with one of the alleged victims, Langley told CBS News, “I apologize. It kills me that she went through that.” At the same time, he insisted, “I don’t think that Flock created police abuse. I think we’re the first company to ever shine a light on it and build the tools to find it.”\nJust as the data center backlash has become a potent issue on both the left and the right, both Democratic and Republican politicians have begun to take aim at Flock.\nOn the left, Michigan’s Democratic Senate nominee Abdul El-Sayed recently accused his opponent Mike Rogers of supporting “this mass proliferation of Flock cameras, any and everywhere, watching your every move to collect information without you even noticing.” And Vermont Senator Bernie Sanders posted, “STOP AI MASS SURVEILLANCE. STOP FLOCK.”\nOn the right, three House Republicans recently introduced a bill that would prohibit the federal government from purchasing automated surveillance systems that use facial recognition, biometric IDs, or license plate recognition, “including a Flock Safety camera.”\nFlock has already made some changes in response to the criticism, reducing the default data retention time from 30 days to seven days and requiring that a case code be entered before accessing data. But both of these changes can be overridden — for example, police can save data for a longer time period by using a setting called Evidence Mode.\nIn its response to Flock’s announced changes, the American CIvil Liberties Union said, “While Flock has not shortened the default retention period to the ACLU’s recommended 48 hours, its proposal may be a step in the right direction. Whether this is a real change or just another Flock PR move, however, will depend on how its ‘Evidence Mode’ operates.”\nFor his part, Langley has said that state regulators should “pass bills that make [the illegal use of Flock data] a criminal offense.” And during his Fox News interview, he pointed to the changes the company has already made, while also saying, “Today, it is too often that in Flock and in other technologies, there’s no regulation. There’s no accountability, and we think that’s wrong.”\nTechCrunch will also be asking Langley about these issues when he appears on-stage at our Disrupt conference in October.",
+ "report": {
+  "summary": "Flock CEO称需在隐私与安全间折中，回应监控技术滥用及两党批评。",
+  "background": "Flock Safety 是美国监控公司，提供车牌识别摄像头、无人机等设备，主要卖给警方。近期《华盛顿邮报》曝光46起警察利用Flock技术进行未授权操作的案例，包括跟踪前任或伴侣，引发公众强烈反弹。两党政治人物罕见同声批评：左翼担心大规模监控，右翼提出立法禁止联邦政府采购相关设备。CEO朗利一边道歉，一边辩称公司并未制造滥用，并通过缩短默认数据保留时间等方式回应，但ACLU质疑这可能是公关动作。围绕隐私与安全的矛盾成为焦点。",
+  "key_points": [
+   "CEO在Fox采访中呼吁折中，称不能只谈隐私或安全，但“折中”提法未回应如何具体约束警方滥用，被批空泛。",
+   "《华盛顿邮报》发现46起警察滥用Flock技术事件，包括跟踪前伴侣，说明技术被用于个人目的，风险真实存在。",
+   "两党罕见同声批评：左翼称大规模监控，右翼立法禁止联邦政府采购，显示监控议题已超越党派分歧。",
+   "Flock将数据默认保留从30天降至7天，并增加案件编号要求，但Evidence Mode可绕过，ACLU质疑仍是公关。",
+   "CEO承认行业缺乏监管与问责，呼吁州立法将非法使用入刑，但拒绝承认产品本身加剧了滥用风险。"
+  ],
+  "impact": "对AI行业，监控技术扩张遭遇监管警钟，企业需把隐私设计前置，否则会面临政治和舆论反噬；对开发者，开源监控/AI工具需要加入伦理边界，否则技术中立说法不再被接受；对普通用户，需要警惕“安全”名义下的数据收集，并监督执法机构权限。事件也表明，技术公司声称的透明与改进若可被轻易绕过，公信力难恢复。",
+  "tools": "可关注Flock Safety官方透明度页面与ACLU对监控技术的评估报告；对技术细节感兴趣，可研究开源车牌识别项目OpenALPR（现为Rekor）和差分隐私工具，用于理解监控能力与隐私保护边界。"
+ }
+}

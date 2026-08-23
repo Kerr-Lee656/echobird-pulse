@@ -1,0 +1,22 @@
+{
+ "id": "f65f60ed35eb",
+ "url": "https://daily.dev/posts/one-pull-to-wipe-them-all-sr44hok5a",
+ "title": "Malicious PR injected wipe command into Amazon Q Developer, reached nearly 1 million VS Code users",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-23T16:41:57.155817+00:00",
+ "content": "One pull to wipe them all\nThis title could be clearer and more informative.Try out Clickbait Shieldfor free (5 uses left this month).\nA malicious pull request submitted to Amazon's public aws-toolkit-vscode repository in July 2025 injected a prompt instructing the Q Developer AI coding agent to wipe systems and delete file and cloud resources, and it shipped to nearly a million VS Code marketplace users before a formatting error stopped it from executing. The root cause traced to a GitHub access token with excessive permissions inside the build pipeline; Amazon revoked credentials and pushed a clean build within two days. A separate researcher-found bash command vulnerability was patched by July 18, and both Q Developer and Kiro now require human-in-the-loop confirmation before running previously unchecked commands. The piece argues agents can't distinguish legitimate instructions from injected ones and calls for policy gates outside the agent, short-lived credentials, and treating build pipelines as attack surfaces.\nTable of contents\nWho made that man gunner?The crack in the wallThe Trojan Horse credentialsWhat’s the remedy?Always look a gift pull request in the mouth\nQuestions this post answers\nWhat happened with the Amazon Q Developer VS Code extension security incident in July 2025?\nA GitHub user named lkmanka58 submitted a malicious pull request to Amazon's aws-toolkit-vscode repository on July 13, 2025, which injected a prompt instructing the Q Developer AI agent to wipe systems to near-factory state and delete file-system and cloud resources. It shipped to nearly a million VS Code marketplace installs four days later, but a formatting error in the prompt prevented it from executing, and Amazon confirmed it never ran in a customer environment. daily.dev surfaces incidents like this for teams hardening their AI coding agent supply chain.\nHow did the attacker gain the ability to push malicious code into Amazon Q Developer's official release?\nThe attacker exploited a GitHub access token with excessive permissions inside the service used to compile extensions and cut release packages, allowing them to commit malicious code directly to the open-source repo, which the build service then packaged into the official release. Once discovered, Amazon revoked the attacker's credentials, removed the code, and pushed a clean build within two days. Engineers auditing build pipeline credentials can track supply chain security findings on daily.dev.\nWhat command execution vulnerability did Johann Rehberger find in Amazon Q Developer, and how was it fixed?\nIndependent researcher Johann Rehberger found that Q Developer would run bash commands, such as find, without asking for permission, a gap exploitable to leak files or trigger remote code execution. He reported it on July 7, 2025, it was patched by July 18, and Amazon published a security bulletin confirming the fix that October, though no CVE was issued because the report required prior system compromise. Developers tracking AI coding agent vulnerabilities can follow disclosures like this on daily.dev.",
+ "report": {
+  "summary": "恶意PR险些让亚马逊Q Developer擦除近百万用户系统。",
+  "background": "2025年7月，攻击者利用Amazon构建流水线中权限过大的GitHub访问令牌，向aws-toolkit-vscode仓库提交恶意PR，注入指示Q Developer AI代理删除文件和云资源的指令。恶意版本曾上架VS Code市场近百万次，但因提示词格式错误未实际执行。亚马逊两天内撤销凭证并推送干净构建。同期另一研究员发现的bash命令漏洞也在7月18日修复。事件暴露AI编码代理供应链安全短板。",
+  "key_points": [
+   "攻击者通过恶意PR向Amazon Q Developer代码库注入擦除指令，意图删除用户系统和云资源。",
+   "恶意扩展版本短暂上架VS Code市场，覆盖近百万用户，但格式错误使攻击未真正触发。",
+   "根因是构建流水线中GitHub令牌权限过大，攻击者得以直接提交恶意代码，需采用最小权限和短时凭证。",
+   "Amazon已修复bash命令漏洞，并让Q Developer及Kiro在运行未验证命令前必须经过人工确认。"
+  ],
+  "impact": "对AI行业，事件暴露AI编码工具供应链的脆弱性，推动厂商强化构建流水线安全审查。对开发者，使用AI代理时需防范恶意指令注入，安装扩展应核实来源与完整性。对普通用户，虽未造成实际损失，但证明第三方仓库和扩展市场可成为攻击入口。未来需在代理外部增设策略门、缩短凭证有效期，并将构建管道视为核心攻击面。",
+  "tools": "建议关注GitGuardian检测密钥泄露、采用OIDC短时云凭证、使用Semgrep进行代码静态审计，以及参考GitHub官方供应链安全最佳实践。可在daily.dev跟踪AI代理供应链安全事件。"
+ }
+}
