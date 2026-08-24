@@ -1,0 +1,23 @@
+{
+ "id": "4e2da12d1385",
+ "url": "https://arxiv.org/abs/2608.20439",
+ "title": "Wrong-Physics Backdoors in Neural PDE Operators",
+ "source": "arXiv cs.LG",
+ "site_name": "arXiv cs.LG",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T09:08:11.567735+00:00",
+ "content": "Computer Science > Machine Learning\n  [Submitted on 20 Aug 2026]\n    Title:Wrong-Physics Backdoors in Neural PDE Operators\nView PDF HTML (experimental)\n            Abstract:Neural PDE operators are increasingly trained on reusable solver archives, yet validation often relies on clean prediction error and parameter-agnostic plausibility checks. We introduce cross-parameter relinking, a data-poisoning primitive that makes a triggered input select a valid solution from the same PDE family under an incorrect physical parameter. We term this a wrong-physics backdoor: the output remains physically plausible but is wrong for the intended parameter. The attack exploits tensor-to-parameter provenance failures in multi-parameter archives by stamping the surrogate input and relinking its supervision to a cached alternate-parameter solution for the same latent sample. Across 476 attack campaigns, we evaluate Burgers, advection-diffusion, two-dimensional Navier-Stokes, and an elliptic Poisson case. Fourier Neural Operators and DeepONet provide the primary evidence, with Transformer, GRU, and LSTM models as support. FNO reaches a backdoor success rate of 1.0000 on both advection-diffusion and two-dimensional Navier-Stokes while retaining low clean relative L2 error. Clean-label, label-only, and shuffled controls show that high attack success alone is insufficient: successful attacks must move predictions toward the intended alternate-physics target while preserving bounded clean error. These results expose a structural validation gap: smoothness or generic solver-like behavior is insufficient unless the provenance of the intended physical parameter is also verified.\n    \nCurrent browse context:\ncs.LG\n  \n    Change to browse by:\n    \n  \n    References & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          \n              IArxiv Recommender\n              (What is IArxiv?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "研究者揭示神经PDE算子可被植入“错误物理”后门，输出看似合理但参数错误。",
+  "background": "神经PDE算子（如FNO、DeepONet）在求解偏微分方程时表现出色，常基于已有求解器生成的大规模数据集训练。然而，这类数据集的构建和验证通常只关注整体预测误差，缺少对每个样本物理参数来源的核验。本研究提出一种数据投毒攻击“跨参数重链接”，通过将触发输入的监督标签替换为同一PDE家族在错误物理参数下的缓存解，使模型在遇到触发时输出物理上平滑、看似合理但参数错误的解，且干净样本误差依然很低。这一攻击在476个实验中成功率极高，暴露了当前AI for Science模型验证流程的结构性漏洞。",
+  "key_points": [
+   "提出“跨参数重链接”投毒方式：将触发样本的标签替换为同一PDE在其他参数下的解，让模型学会错误的物理参数映射。",
+   "FNO在advection-diffusion和二维Navier-Stokes上后门成功率高达1.0000，同时保持极低干净误差，隐蔽性极强。",
+   "后门输出在物理上合理，传统误差指标无法察觉，必须验证预测对应的物理参数是否与输入一致。",
+   "对照实验证明，高攻击成功率不等于有效攻击，还必须满足向错误参数目标偏移且干净误差有界。",
+   "研究揭示验证缺口：仅靠预测平滑性或泛化行为不足以保证安全，需建立参数来源的可追溯验证机制。"
+  ],
+  "impact": "对AI行业，物理模型数据集可能被投毒，导致科研结论不可靠；对开发者，需在训练流程中加入数据溯源、参数一致性检查和后门防御；对普通用户，模型可能在特定输入下给出看似正常但物理参数错误的结果，在工程、气候、能源等关键应用场景将带来安全隐患。",
+  "tools": "可关注微软NeuralOperator库（含FNO、DeepONet实现）和DeepXDE等PDE建模框架进行复现；数据管理可用DVC追踪数据版本与来源；后门防御可参考Neural Cleanse、TABOR等检测工具。"
+ }
+}

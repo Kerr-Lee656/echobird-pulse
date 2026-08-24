@@ -1,0 +1,22 @@
+{
+ "id": "31910c95d295",
+ "url": "https://arxiv.org/abs/2608.20825",
+ "title": "Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T09:07:25.929584+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 21 Aug 2026]\n    Title:Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress\nView PDF\n            Abstract:Artificial intelligence systems increasingly make consequential judgments - which patient is deteriorating, which building is safe to enter, whether an image is authentic and are trusted on the strength of how accurately and confidently they predict. The safeguards that certify them are correspondingly prediction-based: accuracy, calibration and conformal coverage all measure how well a model performs. Whether such checks are sufficient to establish model trustworthiness has remained unclear. Here we prove that they cannot. We establish a separation theorem showing that a reliable model and a compromised one can be identical under every prediction-side certificate, including accuracy, calibration and coverage, yet differ arbitrarily in explanation fidelity and deployment behaviour. Detecting this failure requires access to the model's decision mechanism in addition to its predictions. We introduce the competence envelope as an operational framework that combines prediction and explanation certification into a single deployable criterion. Across diverse datasets and model classes, the proposed framework reveals failure modes that prediction-side certification alone does not capture. Certification against failures that are invisible in prediction behaviour therefore requires evidence about the model's decision mechanism as well as its outputs.\n    \nSubmission history\nFrom: Nataliya Shakhovska Prof [view email]\n[v1] Fri, 21 Aug 2026 07:45:17 UTC (3,204 KB)\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "预测指标认证无法保障AI可信，需结合解释认证，论文提出能力包络框架。",
+  "background": "AI在医疗、安防等关键领域做出高风险决策，其可信度通常依据预测准确率、校准度和覆盖度等指标认证。然而，论文作者通过分离定理证明，两个模型在所有这些预测侧指标上可能完全一致，但解释逻辑和部署行为却截然不同，其中一个可能是被篡改的。这暴露了仅靠预测认证的重大漏洞。为此，论文提出“能力包络”框架，将预测认证与解释认证结合，作为可操作的部署准则，并用多组实验验证其有效性。",
+  "key_points": [
+   "分离定理：一个可靠模型与一个被破坏的模型在准确率、校准、覆盖率等预测认证上可以完全相同，但解释和实际行为差异极大。",
+   "仅看预测结果无法发现这类隐患，必须检查模型的决策机制和内部逻辑，才能识别伪装成正常的异常模型。",
+   "论文提出能力包络框架，把预测认证和解释认证整合成一个统一的部署标准，比单一预测认证更全面。",
+   "在多个数据集和模型上的实验表明，预测侧认证无法捕获的失败模式，能力包络能够有效暴露。"
+  ],
+  "impact": "对AI行业，意味着现有认证标准必须升级，不能只盯着准确率等预测指标，解释可验证性将成为合规新要求。对开发者，部署AI时需额外提供决策机制的证据，否则可能被监管或用户质疑。对普通用户，可减少“数据好看但行为诡异”的AI带来的风险，尤其在医疗、金融等场景中提升安全信任度。",
+  "tools": "可关注可解释性工具如SHAP、LIME、Captum、Alibi Explain，用于解释验证；不确定性和校准工具如MAPIE（保形预测）也相关。能力包络目前为论文框架，暂无官方代码，可跟踪作者后续开源。"
+ }
+}

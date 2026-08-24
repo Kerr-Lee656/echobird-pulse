@@ -4507,5 +4507,113 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-24T04:00:00.000Z",
   "fetched_at": "2026-08-24T07:21:33.929563+00:00"
+ },
+ "6ee313c2a42e": {
+  "id": "6ee313c2a42e",
+  "url": "https://www.ithome.com/0/993/561.htm",
+  "title": "全部用于投资全栈 AI 能力，消息称阿里 800 亿港元配售获近 3 倍超额认购",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T07:07:58Z",
+  "fetched_at": "2026-08-24T09:03:50.337827+00:00"
+ },
+ "50821c9dccf4": {
+  "id": "50821c9dccf4",
+  "url": "https://www.ithome.com/0/993/526.htm",
+  "title": "国内首款 3nm 智驾芯片，小米玄戒 D100 官宣明年商用",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T06:36:51Z",
+  "fetched_at": "2026-08-24T09:04:09.022173+00:00"
+ },
+ "82216750b60b": {
+  "id": "82216750b60b",
+  "url": "https://slashdot.org/story/26/08/24/0359209/one-third-of-web-pages-are-now-written-with-ai-says-pew-research",
+  "title": "One-Third of Web Pages are Now Written With AI, Says Pew Research",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T09:04:24.588694+00:00"
+ },
+ "e80b363a66b9": {
+  "id": "e80b363a66b9",
+  "url": "https://www.36kr.com/p/3952867368648073",
+  "title": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T09:04:38.228547+00:00"
+ },
+ "de7dbe01c805": {
+  "id": "de7dbe01c805",
+  "url": "https://www.aibase.com/zh/news/30564",
+  "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米「隐形」肿瘤，两月补漏 15 例",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T09:04:50.260278+00:00"
+ },
+ "2dcbd0571325": {
+  "id": "2dcbd0571325",
+  "url": "https://www.aibase.com/zh/news/30565",
+  "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T09:04:59.072116+00:00"
+ },
+ "0e84f7386af8": {
+  "id": "0e84f7386af8",
+  "url": "https://www.leiphone.com/category/industrynews/XGOehdmO7fBF2xnb.html",
+  "title": "阿里视频大模型 Wan3.0 正式上线，行业评价「稳定、真实、有质感」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T09:05:09.145177+00:00"
+ },
+ "a17d0733147b": {
+  "id": "a17d0733147b",
+  "url": "https://www.ithome.com/0/993/512.htm",
+  "title": "行业首颗 6nm 3D 晶圆级堆栈的 AI 加速芯片：小米玄戒 O100 官宣",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T06:29:02Z",
+  "fetched_at": "2026-08-24T09:05:19.612134+00:00"
+ },
+ "31910c95d295": {
+  "id": "31910c95d295",
+  "url": "https://arxiv.org/abs/2608.20825",
+  "title": "Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T09:07:25.929584+00:00"
+ },
+ "cdf7791eba05": {
+  "id": "cdf7791eba05",
+  "url": "https://arxiv.org/abs/2608.20845",
+  "title": "RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T09:07:40.129400+00:00"
+ },
+ "a2562186fadf": {
+  "id": "a2562186fadf",
+  "url": "https://arxiv.org/abs/2608.20940",
+  "title": "The Logic of Machine Self-Preservation",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T09:07:54.893052+00:00"
+ },
+ "4e2da12d1385": {
+  "id": "4e2da12d1385",
+  "url": "https://arxiv.org/abs/2608.20439",
+  "title": "Wrong-Physics Backdoors in Neural PDE Operators",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T09:08:11.567735+00:00"
  }
 }

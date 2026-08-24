@@ -1,0 +1,22 @@
+{
+ "id": "82216750b60b",
+ "url": "https://slashdot.org/story/26/08/24/0359209/one-third-of-web-pages-are-now-written-with-ai-says-pew-research",
+ "title": "One-Third of Web Pages are Now Written With AI, Says Pew Research",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T09:04:24.588694+00:00",
+ "content": "One-Third of Web Pages are Now Written With AI, Says Pew Research (pewresearch.org) 20\n\t\t\t\n\t\t \t\n\t\t\t\tA Pew Research senior data scientist analyzed 500,000 English-language webpages from the past five years with an AI detection tool to estimate how many were likely written or edited by AI:\n \nOf all the pages in this sample, 10% show significant signs of AI authorship... If we filter old webpages out of our samples and look at only the pages published after the release of ChatGPT, the trend is even more pronounced. In the July 2026 snapshot, signs of AI authorship can be found in over one-third of pages published after ChatGPT was released. This is in line with other studies that have shown that large shares of recently published pages on the internet were likely written or substantially edited by AI.\n \nAI-authored text is not evenly spread across the web. When ChatGPT was first released, the kinds of linguistic patterns that can signal AI authorship appeared at similar rates across the main top-level web domains (.com, .org, .edu and .gov). But in samples from 2026, around one-in-ten pages with a .com domain show signs of AI authorship — about double the share on .org domains (4.6%), and 10 times the rate on .edu or .gov domains (both around 1%).\nThey even identified specific ways online text has changed, \"comparing the internet of today to a snapshot from 2023.\"\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nOf all the pages in this sample, 10% show significant signs of AI authorship... If we filter old webpages out of our samples and look at only the pages published after the release of ChatGPT, the trend is even more pronounced. In the July 2026 snapshot, signs of AI authorship can be found in over one-third of pages published after ChatGPT was released. This is in line with other studies that have shown that large shares of recently published pages on the internet were likely written or substantially edited by AI.\nAI-authored text is not evenly spread across the web. When ChatGPT was first released, the kinds of linguistic patterns that can signal AI authorship appeared at similar rates across the main top-level web domains (.com, .org, .edu and .gov). But in samples from 2026, around one-in-ten pages with a .com domain show signs of AI authorship — about double the share on .org domains (4.6%), and 10 times the rate on .edu or .gov domains (both around 1%).\nThey even identified specific ways online text has changed, \"comparing the internet of today to a snapshot from 2023.\"\n- Em dashes appear twice as often\n- Oxford commas increased 63%.\n- Words used more frequently by AI (like \"delve,\" \"interplay\" or \"testament\") have more than doubled in usage.\n- \"Negative parallelism\" comparisons (\"it's not just X, it's Y\") have nearly tripled.",
+ "report": {
+  "summary": "皮尤研究显示，ChatGPT发布后新网页中超三分之一疑似由AI生成或编辑。",
+  "background": "ChatGPT于2022年底发布后，生成式AI大幅降低了内容生产成本，大量网站开始用AI批量产出文章。皮尤研究中心高级数据科学家用AI检测工具分析了50万条过去五年发布的英文网页，发现整体约10%有显著AI写作痕迹；若只看ChatGPT发布后新增页面，2026年7月这一比例已超过三分之一。这与此前多项研究结论一致：技术不均衡分布在高商业价值域名的内容中，AI也在悄然改变网络文本的语言风格。",
+  "key_points": [
+   "皮尤分析50万英文网页，整体约10%有显著AI写作痕迹；ChatGPT发布后的新网页中，2026年7月超三分之一疑似AI生成或大幅编辑。",
+   "AI内容分布不均：.com域名约10%有AI痕迹，是.org的两倍，是.edu和.gov的十倍，说明商业内容更依赖AI生产。",
+   "AI写作正在重塑网络文风：破折号使用翻倍，牛津逗号增加63%，delve、interplay等AI高频词翻倍，'不是X而是Y'式对比句式增长近三倍。",
+   "研究依赖AI检测工具，结果应视为估计而非绝对真相；随着AI模型的进化，检测误差可能进一步加大。"
+  ],
+  "impact": "对AI行业而言，内容可检测性和来源透明度将成刚需，AI检测、水印和内容溯源工具会越来越重要。开发者需要在内容生成流程中主动标记AI身份，避免被搜索算法或平台降权。普通用户面对海量同质化AI文本，需要更警惕信息真实性，学会交叉验证来源；AI内容可能让信息检索变得更高效，也更需要媒体素养。",
+  "tools": "可关注GPTZero、Originality.ai等AI文本检测工具，以及Google SynthID等水印方案；研究者可结合Common Crawl数据集和Pew公开方法做内容趋势分析。"
+ }
+}
