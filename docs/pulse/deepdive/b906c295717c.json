@@ -1,0 +1,23 @@
+{
+ "id": "b906c295717c",
+ "url": "https://www.aibase.com/news/30542",
+ "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T02:54:29.358Z",
+ "fetched_at": "2026-08-24T05:03:15.987561+00:00",
+ "content": "On Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He stated outright that tech companies were \"basically digging their own graves for the problems they created, which is why they are facing deserved opposition\" — these facilities, costing billions and covering hundreds of acres, have failed to win public support and instead sparked widespread opposition across the country.\nSeven in ten Americans oppose them, forcing the governor to shift\nSurveys by Pew and Gallup show a significant proportion of the public opposes having data centers nearby. Gallup reported that seven in ten Americans oppose building them locally, with nearly half strongly opposing it. Critics filled planning meetings, launched petitions, and even filed lawsuits. For conservative politicians like Abbott, this is an awkward reality before the midterm elections: he must walk a tightrope between voters' wishes and Trump's full support for AI, which is accelerating federal approvals and backing the $50 billion \"Stargate\" plan for OpenAI and Oracle.\nAbbott initially strongly supported the Texas project for job creation and tax benefits, but strong public resistance from Abilene to Sulphur Springs forced him to change course. He has introduced new standards, instructing the utility commission and grid to protect residents from cost impacts, suggesting a ban on development in rural areas and requiring projects to be audited first; earlier this month, his government halted about 1,800 data center projects. In his view, the resistance comes from building too quickly and developers not seeking community support first — \"gaining the support of local residents is crucial.\"",
+ "report": {
+  "summary": "州长称AI数据中心遭反对是行业自掘坟墓，七成美国人抵制。",
+  "background": "AI热潮推动科技巨头大规模建设数据中心，但这些设施占地巨大、耗电耗水，引发当地居民对电价、环境及生活质量的担忧。得州此前因就业和税收积极引入项目，阿博特也大力支持。然而从阿比林到萨尔弗斯普林斯，多地出现强烈抗议，迫使州政府暂停约1800个项目并酝酿新规。与此同时，特朗普政府力挺AI和OpenAI的“星际之门”计划，让这位保守派州长在中期选举前陷入选民意愿与白宫路线之间的拉扯。",
+  "key_points": [
+   "民调显示约七成美国人反对在自家附近建AI数据中心，近半强烈反对，批评者通过请愿、诉讼等方式施压。",
+   "阿博特最初支持数据中心带来的就业和税收，但公众抵制迫使他转向，暂停约1800个项目并推动新审计标准。",
+   "他认为问题根源是科技公司建设过快、未先争取社区支持，直言行业在“自掘坟墓”。",
+   "政治层面，阿博特必须在选民诉求与特朗普对AI（含500亿“星际之门”计划）的支持之间走钢丝。",
+   "新规倾向于保护居民免受成本冲击，可能禁止农村地区开发并要求项目先通过审计再落地。"
+  ],
+  "impact": "对AI行业而言，数据中心选址将更难，企业必须把社区沟通和电网成本计入前期规划，否则扩张会到处碰壁。开发者可能看到算力供给和岗位机会减少，项目停滞带来不确定性。普通用户则可能因政策保护而避免电价上涨和资源过度消耗，但也可能感受到AI服务落地变慢。长期看，这场博弈会推动更透明、更可持续的数据中心建设模式。",
+  "tools": "可关注Data Center Map查看全球数据中心分布，用Electricity Maps监测电网实时负荷，或查阅各州公用事业委员会公开文件，了解项目审批和社区听证信息。"
+ }
+}

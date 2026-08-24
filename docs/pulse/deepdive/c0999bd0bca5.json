@@ -1,0 +1,23 @@
+{
+ "id": "c0999bd0bca5",
+ "url": "https://www.aibase.com/news/30543",
+ "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T02:54:29.358Z",
+ "fetched_at": "2026-08-24T05:02:51.553791+00:00",
+ "content": "Sam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individuals, leaving the vast majority of consumers without a voice in how technology shapes the world. He advocated for \"the right approach is to let people have deep control over the future, with society and models evolving together.\"\n\"Trading freedom for security\" could lead to monopolies\nAltman pointed out another contradiction: he is also concerned about AI getting out of human control, but his fear of this risk may actually lead to the first scenario. He implied at Anthropic's CEO Amode, who has repeatedly warned that the Mythos model poses a \"very real threat\" to cybersecurity, finance, and critical infrastructure, and has called for government regulation. In Altman's view, this is \"trading a lot of freedom for security.\"\nThe disagreement focuses on the \"open weights\" approach: Anthropic was the only major company that did not sign a joint letter supporting open weights last month, while China has used this to follow Silicon Valley at low cost. NVIDIA, Meta, and Microsoft have also called on the United States to follow suit. Although OpenAI has not open-sourced its cutting-edge models, it still released two open-weight models, gpt-oss-120b and 20b, last year. Altman also said that U.S. AI leaders have not clearly explained to the public how the technology empowers people's autonomy in life, and he believes AI is creating the largest wave of small business startups in history.",
+ "report": {
+  "summary": "奥尔特曼担忧AI被少数主体掌控，呼吁公众深度参与AI治理与未来塑造。",
+  "background": "围绕AI开源与治理的路线之争近期激化。OpenAI CEO萨姆·奥尔特曼在播客中坦言，技术可能被少数巨头垄断，公众丧失发言权；而他的前同事、Anthropic CEO达里奥·阿莫迪则主张严格监管，警告前沿AI威胁关键基础设施。这一分歧背后是开放权重模式的博弈：Meta、英伟达等呼吁开放，中国正借此低成本追赶，Anthropic则拒签支持开放权重的联名信。开源与安全的矛盾成为行业核心议题。",
+  "key_points": [
+   "奥尔特曼担心AI被少数公司、模型或个人掌控，普通消费者将失去对技术发展方向的话语权。他主张让公众深度参与AI治理，使社会与模型共同进化。",
+   "他同时承认害怕AI失控，但强调为安全而牺牲自由可能助长垄断。他暗批Anthropic CEO阿莫迪的监管呼吁是“用大量自由换安全”。",
+   "开放权重成为核心分歧点：Anthropic是唯一未签署支持开放权重联名信的大厂，而英伟达、Meta、微软都在呼吁美国跟进，同时中国正以低成本方式追赶硅谷。",
+   "OpenAI虽未开源最前沿模型，但已发布gpt-oss-120b和20b两个开放权重模型，显示其开放与谨慎之间的摇摆立场。",
+   "奥尔特曼认为AI正催生历史上最大的小企业创业浪潮，但美国AI领袖未能向公众解释技术如何赋能个人自主权，沟通存在明显缺位。"
+  ],
+  "impact": "对AI行业而言，开源与安全之争将影响技术生态格局，若由少数巨头主导，创新可能受限；对开发者，开放权重模型降低了使用门槛，但需注意依赖上游巨头，并关注合规与安全风险；对普通用户，公众如果缺少发言权，AI发展方向可能偏离公共利益，亟需建立多方参与的治理机制。",
+  "tools": "可关注OpenAI的gpt-oss系列开放权重模型，Meta的Llama系列开源模型，Anthropic的Claude安全评估方法；通过Hugging Face平台比较模型权重开放程度，并参与AI治理相关的公共讨论与倡议。"
+ }
+}

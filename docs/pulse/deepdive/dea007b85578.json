@@ -1,0 +1,23 @@
+{
+ "id": "dea007b85578",
+ "url": "https://finance.yahoo.com/technology/ai/articles/americans-turning-against-ai-anthropic-135133328.html",
+ "title": "美国人开始抵制人工智能——Anthropic称这可能影响其IPO",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-24T00:37:37.386Z",
+ "fetched_at": "2026-08-24T05:04:18.086286+00:00",
+ "content": "Anthropic will name negative sentiment towards artificial intelligence (AI) and data centers as a risk factor in its IPO prospectus, people familiar with the matter told CNBC.\nThe document is expected within weeks. Anthropic filed confidentially in June and has since held preliminary meetings with bankers and investors in San Francisco.\nAnthropic Fields Investor Questions Before Public Debut\nCompanies disclose risk factors to warn investors and to shield themselves legally. Anthropic will point to a public mood that has hardened against new data center projects.\nChief Financial Officer Krishna Rao is fielding questions on competition and margin pressure from open-source models, the sources said. Investors are also asking what happens if data center construction slows.\nThis question matters because compute capacity tracks directly with revenue at AI labs. Anthropic's annualized revenue run rate topped $65 billion in July, roughly $25 billion above OpenAI's level.\nThe company is valued at nearly $1 trillion in private markets. Investors expect a public float of around $2 trillion. BeInCrypto reported that Anthropic expects its IPO to match or beat SpaceX's record stock market debut.\nFollow us on X to get the latest news as it happens\nSurveys Show US Opposition to Data Centers Hardening\nPolling supports the disclosure. A Gallup survey conducted in March found that 7 in 10 Americans oppose a local AI data center, with 48% strongly opposed.\nOpposition has since deepened. A Heatmap Pro poll of 2,045 registered voters, conducted August 8 to 13 by Embold Research, put opposition at 75%, up from 42% a year earlier.\nJob anxiety runs alongside it. Pew Research found that 71% of adults expect AI to cut US jobs over the next two decades, up from 64% in 2024.\nPoliticians have responded. Pennsylvania Governor Josh Shapiro signed an executive order imposing strict standards on data center development. In New York, Governor Kathy Hochul has also ordered a pause on permits for large new data centers.\nSubscribe to our YouTube channel to watch leaders and journalists provide expert insights\nhttps://youtu.be/u2msuT0YoLg\nRead the Original story Americans are Turning Against AI — Anthropic Says It Could Hurt IPO by Kamina Bashir at beincrypto.com",
+ "report": {
+  "summary": "美民众对AI抵制升温，Anthropic IPO招股书将列其为风险因素。",
+  "background": "Anthropic已于6月秘密提交IPO申请，预计数周内公布招股书，并将美国公众对AI和数据中心的负面情绪列为风险因素。民调显示，反对AI数据中心的美国登记选民比例从一年前的42%升至75%，宾夕法尼亚和纽约州已实施限制措施。投资者同时担忧开源模型竞争和利润率压力，以及数据中心建设放缓会影响算力收入。Anthropic年化收入超650亿美元，私人估值近万亿，此次IPO备受瞩目。",
+  "key_points": [
+   "Anthropic将在IPO招股书中将公众反AI情绪列为风险因素，以警示投资者并规避法律风险。",
+   "民调反对AI数据中心的比例从42%升至75%，政策层面出现更严格限制，情绪持续恶化。",
+   "投资者重点关注开源模型竞争和利润率压力，以及数据中心建设放缓对算力与收入的影响。",
+   "Anthropic年化收入超650亿美元，私人估值近万亿，预期IPO规模可能创纪录。",
+   "就业焦虑加剧，71%成年人预期AI将减少美国就业机会，推动政界采取行动。"
+  ],
+  "impact": "对AI行业而言，反AI情绪和监管收紧可能减缓数据中心扩张，带来算力成本和供应风险。对开发者，开源模型竞争加剧，商业变现难度增加，但可倒逼创新。对普通用户，AI服务部署可能更谨慎，就业焦虑也可能促使技术应用更注重社会影响。整体来看，AI行业正从高速扩张转向公众信任和合规约束并重的新阶段。",
+  "tools": "关注Anthropic官方发布的IPO招股书和财报；可在Hugging Face上对比开源模型（如Llama 3）；用BillTrack50追踪美国各州AI数据中心法案；开发者可试用Claude API或开源模型进行本地部署。"
+ }
+}

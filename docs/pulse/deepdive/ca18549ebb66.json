@@ -1,0 +1,22 @@
+{
+ "id": "ca18549ebb66",
+ "url": "https://arxiv.org/abs/2608.20841",
+ "title": "Foundation Models for Partial Causal Identification",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T05:08:12.837130+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 21 Aug 2026]\n    Title:Foundation Models for Partial Causal Identification\nView PDF\n            Abstract:This paper investigates the development of causal foundation models for bounding the effect of interventions and counterfactuals from observational data. We show that a canonical prior can be defined with full support over the space of structural causal models with discrete observables. With this canonical prior, we translate the problem of bounding counterfactuals into that of learning distributions over functions that map data (and possibly structural assumptions) to a causal query of interest. This extends the promising causal foundational modelling paradigm to the estimation of partially-identifiable causal effects, i.e., under unobserved confounding, where multiple values are equally compatible with the observed data and prior structural assumptions.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "提出因果基础模型，从观测数据界定干预与反事实效果，处理未观测混杂下的部分可识别问题。",
+  "background": "因果推断长期依赖结构假设才能从观测数据中识别因果效应，但现实常存在未观测混杂，导致效应无法被唯一确定，只能得到合理区间。近年来，基础模型范式开始应用于因果推断，但已有工作主要聚焦于完全可识别情形。本文作者希望将这一范式推广到更普遍的部分可识别场景，通过定义具有完全支持的规范先验，将反事实界定转化为学习数据到因果查询的分布映射，从而在不牺牲统计一致性的前提下，输出与观测兼容的效应范围。",
+  "key_points": [
+   "提出因果基础模型，专门用于从观测数据中界定干预和反事实的效果，填补了基础模型在部分因果识别领域的空白。",
+   "构造了一个具有完全支持的规范先验，覆盖离散可观测变量的结构因果模型空间，为学习提供了理论保障。",
+   "将反事实界定问题转化为学习从数据到因果查询的概率分布映射，使模型能输出多个兼容的因果效应值。",
+   "将因果基础模型范式扩展至存在未观测混杂的场景，能够估计部分可识别的因果效应，适用于更真实的因果推断任务。"
+  ],
+  "impact": "对AI行业，这项研究推动因果推断与基础模型结合，使模型在缺失关键变量时仍能给出可信的因果结论，提升决策稳健性。对开发者，未来可利用此类模型进行反事实分析，无需手动指定完整结构，降低建模门槛。对普通用户，相关技术可应用于医疗、政策等领域的效应评估，提供更透明、保守的建议，避免单一数值误导。",
+  "tools": "可关注DoWhy、EconML、YLearn等开源因果推断库，它们提供工具变量、敏感性分析等支持；若想复现本文思路，可关注Pyro或NumPyro进行概率编程，便于实现规范先验与分布映射。也可通过Hugging Face浏览因果基础模型的最新工作。"
+ }
+}

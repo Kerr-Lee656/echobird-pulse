@@ -4336,5 +4336,140 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T16:30:44Z",
   "fetched_at": "2026-08-24T03:18:08.105626+00:00"
+ },
+ "6d5544f6a7a0": {
+  "id": "6d5544f6a7a0",
+  "url": "https://www.aibase.com/news/30551",
+  "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:01:07.163253+00:00"
+ },
+ "227e23e67691": {
+  "id": "227e23e67691",
+  "url": "https://www.aibase.com/news/30550",
+  "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:01:24.261713+00:00"
+ },
+ "7262708c44f8": {
+  "id": "7262708c44f8",
+  "url": "https://www.aibase.com/news/30549",
+  "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:01:43.423945+00:00"
+ },
+ "b9b2ec567470": {
+  "id": "b9b2ec567470",
+  "url": "https://www.aibase.com/news/30548",
+  "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:02:02.066505+00:00"
+ },
+ "c47e7f515dca": {
+  "id": "c47e7f515dca",
+  "url": "https://www.aibase.com/news/30546",
+  "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:02:29.243815+00:00"
+ },
+ "c0999bd0bca5": {
+  "id": "c0999bd0bca5",
+  "url": "https://www.aibase.com/news/30543",
+  "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:02:51.553791+00:00"
+ },
+ "b906c295717c": {
+  "id": "b906c295717c",
+  "url": "https://www.aibase.com/news/30542",
+  "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T02:54:29.358Z",
+  "fetched_at": "2026-08-24T05:03:15.987561+00:00"
+ },
+ "f5e5ded3a895": {
+  "id": "f5e5ded3a895",
+  "url": "https://www.ithome.com/0/993/363.htm",
+  "title": "填补国产空白：东南大学手术机器人具备接近人手的精细力觉感知能力，跨越 2400 公里成功完成 3 例手术",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T01:43:02Z",
+  "fetched_at": "2026-08-24T05:03:28.474747+00:00"
+ },
+ "dea007b85578": {
+  "id": "dea007b85578",
+  "url": "https://finance.yahoo.com/technology/ai/articles/americans-turning-against-ai-anthropic-135133328.html",
+  "title": "美国人开始抵制人工智能——Anthropic称这可能影响其IPO",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T00:37:37.386Z",
+  "fetched_at": "2026-08-24T05:04:18.086286+00:00"
+ },
+ "c45b44d53914": {
+  "id": "c45b44d53914",
+  "url": "https://github.com/anthropics/claude-plugins-community",
+  "title": "anthropics/claude-plugins-community — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-24T05:06:21.654918+00:00"
+ },
+ "845eec4b2016": {
+  "id": "845eec4b2016",
+  "url": "https://arxiv.org/abs/2608.20569",
+  "title": "Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T05:06:36.045879+00:00"
+ },
+ "49382e364f0a": {
+  "id": "49382e364f0a",
+  "url": "https://arxiv.org/abs/2608.20743",
+  "title": "Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T05:06:53.801106+00:00"
+ },
+ "cb432f59a9eb": {
+  "id": "cb432f59a9eb",
+  "url": "https://arxiv.org/abs/2608.20799",
+  "title": "Dynamic Context Scheduling: Learning Beyond the Static Universe",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T05:07:42.069910+00:00"
+ },
+ "79f127bc4460": {
+  "id": "79f127bc4460",
+  "url": "https://arxiv.org/abs/2608.20820",
+  "title": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T05:07:59.207702+00:00"
+ },
+ "ca18549ebb66": {
+  "id": "ca18549ebb66",
+  "url": "https://arxiv.org/abs/2608.20841",
+  "title": "Foundation Models for Partial Causal Identification",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T05:08:12.837130+00:00"
  }
 }

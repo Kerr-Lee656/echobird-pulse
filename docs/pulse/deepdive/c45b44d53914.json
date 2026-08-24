@@ -1,0 +1,22 @@
+{
+ "id": "c45b44d53914",
+ "url": "https://github.com/anthropics/claude-plugins-community",
+ "title": "anthropics/claude-plugins-community — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-24T05:06:21.654918+00:00",
+ "content": "Community-contributed plugins for Claude Cowork and Claude Code.\nA read-only mirror of the community plugin marketplace. The .claude-plugin/marketplace.json file here is the list of community plugins available to install. It is synced nightly from Anthropic's internal review pipeline.\nEvery plugin listed here has been submitted via claude.ai, passed automated security scanning, and been approved for distribution.\nInstall plugins from claude.com/plugins.\nclaude plugin marketplace add anthropics/claude-plugins-community\nclaude plugin install <plugin-name>@claude-community\nSubmit via clau.de/plugin-directory-submission. Pull requests opened directly against this repo are closed automatically — all changes flow from the internal review pipeline.\n- anthropics/claude-plugins-official — Anthropic-maintained plugins\n- anthropics/knowledge-work-plugins — role-specific knowledge-work plugins",
+ "report": {
+  "summary": "Anthropic推出Claude社区插件市场，插件经安全审查后分发。",
+  "background": "Claude Code是Anthropic的编码助手，为拓展功能，Anthropic在官方插件之外建立了社区插件市场。开发者通过指定渠道提交插件，经过自动安全扫描和人工审查后，被纳入一个只读镜像仓库。该仓库每天同步内部审查管道的结果，确保用户安装的插件都经过验证。这标志着Anthropic正在构建类似App Store的插件生态，为AI工具的功能扩展提供规范化路径。",
+  "key_points": [
+   "社区插件市场与官方插件分离，为第三方开发者提供公开分发渠道，鼓励生态创新。",
+   "所有插件都经过自动化安全扫描及批准，降低恶意代码风险，保障用户使用安全。",
+   "仓库为只读镜像，不接受Pull Request，所有更新来自内部审查管道，保证一致性。",
+   "用户可通过CLI命令直接添加市场并安装插件，操作简单，如claude plugin install。"
+  ],
+  "impact": "对AI行业而言，安全的社区插件市场将加速模型工具生态繁荣，标准化审核成为趋势。开发者获得新的分发平台，可触及海量Claude用户，但需遵守平台规则。普通用户可快速扩展Claude功能，不过仍需关注插件来源和权限，审慎安装第三方能力。",
+  "tools": "可关注Claude Code的插件命令行：claude plugin marketplace add anthropics/claude-plugins-community和claude plugin install <plugin>@claude-community。同时可浏览GitHub仓库及Anthropic官方插件市场，了解最新动态。"
+ }
+}

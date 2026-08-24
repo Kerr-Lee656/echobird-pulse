@@ -1,0 +1,23 @@
+{
+ "id": "6d5544f6a7a0",
+ "url": "https://www.aibase.com/news/30551",
+ "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T02:54:29.358Z",
+ "fetched_at": "2026-08-24T05:01:07.163253+00:00",
+ "content": "Recently, SuperCLUE released the latest OnDevice mobile phone-side large model evaluation ranking. In this competition focusing on the local operation capabilities of smartphones, vivo's BlueLM3.5Nano3B model performed impressively, securing the top position in the overall ranking with a score of 89.86.\nLooking at the specific evaluation results, this 3B parameter small model not only topped the list in the edge-side field, but its score is also approaching that of major cloud-based large models such as Google's Gemini3.6Flash, Doubao Seed2.1pro, and Qwen3.8Max. In the subsequent rankings of the edge-side list, Qwen3.59B and Qwen3.54B scored 87.82 and 85.16 respectively, placing second and third. Other participants include GLM4.6V Flash, Gemma4E4B it, and Gemma4E2B it.\nWith the accelerating popularization of edge-side AI, the advantages of local operation mode are gradually becoming apparent. The core value of edge-side large models lies in their ability to perform image and text reasoning directly on the phone without requiring a constant internet connection. All user input content remains on the device, providing a more secure and private experience.\nAlthough constrained by the physical limitations of smartphone hardware, the parameter size of edge-side models cannot be infinitely scaled like cloud-based models, and they still have limitations when handling ultra-complex tasks. However, vivo's achievement of an excellent score with a 3B parameter model proves that small-volume edge-side models can also achieve a high technical ceiling. This suggests that future smartphone AI experiences will no longer rely excessively on the network, allowing smooth operation even in offline environments. Of course, benchmark scores only reflect laboratory performance, and actual daily usage effects still depend on the deep system optimization by major smartphone manufacturers.",
+ "report": {
+  "summary": "vivo蓝心3B模型登顶端侧大模型榜，性能逼近云端巨头。",
+  "background": "随着端侧AI普及，手机本地运行大模型成为趋势，可离线使用并保护隐私。SuperCLUE发布最新评测，聚焦手机端侧模型能力。vivo蓝心3B参数模型以89.86分夺冠，超越多款更大参数模型，甚至接近云端顶级模型。这反映了小参数模型通过优化也能实现高性能，端侧AI未来将更少依赖网络。",
+  "key_points": [
+   "vivo蓝心3B模型以89.86分登顶端侧榜，证明小参数量也能达到高水准。",
+   "端侧模型可离线运行，用户数据不出设备，隐私安全性显著优于云端方案。",
+   "排名第二、第三的均为Qwen3.5系列（9B和4B），显示国产模型在端侧优势明显。",
+   "尽管受限于手机硬件，端侧模型在超复杂任务上仍有短板，但日常使用已足够。",
+   "评测分数仅代表实验室表现，实际体验取决于厂商的系统级优化。"
+  ],
+  "impact": "对AI行业而言，端侧模型性能提升将推动移动端AI应用爆发，降低对云端算力的依赖。对开发者来说，小参数高精度模型降低了部署门槛，便于在手机等设备上集成。对普通用户，未来手机AI助手将更流畅、更私密，离线也能使用智能功能。",
+  "tools": "可关注SuperCLUE评测体系了解模型排名；开发者可尝试开源工具如llama.cpp、MLC-LLM部署端侧模型，或参考Qwen3.5系列模型进行本地优化。"
+ }
+}

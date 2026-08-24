@@ -1,0 +1,23 @@
+{
+ "id": "7262708c44f8",
+ "url": "https://www.aibase.com/news/30549",
+ "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T02:54:29.358Z",
+ "fetched_at": "2026-08-24T05:01:43.423945+00:00",
+ "content": "The anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly climbing to the top of the platform's model rankings, breaking the single-day model usage record.\nAccording to the latest data from OpenRouter, the cumulative usage of Ox Alpha by the top five applications, including Hermes Agent and Claude Code, has already exceeded 40 trillion Tokens, indicating that its popularity is rapidly spreading from the community to global developers and real-world agent workflows.\nCurrently, the developer of Ox Alpha remains undisclosed. OpenRouter officially defines it as a reasoning model aimed at coding, continuous agent tasks, and production workflows, and emphasizes that it is developed and operated by an anonymous third party. (OpenRouter) Community technical analysis has found that its technical fingerprints, such as the Tokenizer, are highly similar to the Zhipu GLM series, leading some to believe it may originate from Zhipu. At the same time, several researchers from Google DeepMind have posted on social media suggesting that the model may be related to the new version of Gemini, but Google and other manufacturers have not officially acknowledged this yet.\nWhile the identity of Ox Alpha remains unknown, its large-scale usage has already become a focus of attention. As AI Agents move from model testing into actual production processes such as software development and code execution, the actual usage in workloads has become an important indicator of capability and market influence.",
+ "report": {
+  "summary": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超40万亿Token。",
+  "background": "Ox Alpha近期匿名上线OpenRouter，凭借高推理性能迅速登顶，并刷新单日使用纪录。OpenRouter将其定位为面向编码和Agent任务的推理模型，但开发者身份不明。社区通过Tokenizer等技术指纹发现与智谱GLM相近，也有人猜测来自Gemini新版，均未获官方确认。这一现象发生在AI Agent从测试走向软件开发和代码执行的背景之下，实际调用量正成为衡量模型影响力的重要指标。",
+  "key_points": [
+   "Ox Alpha以匿名身份在OpenRouter发布，短时间内登上模型排行榜首位，并打破平台单日用量纪录。",
+   "其累计调用量已超过40万亿Token，主要由Hermes Agent、Claude Code等应用贡献，显示真实生产级Agent工作流正在大规模采用。",
+   "OpenRouter官方将其标为匿名第三方开发的推理模型，强调面向编码、连续Agent任务和生产工作流，但拒绝透露具体开发者。",
+   "社区技术分析发现其Tokenizer与智谱GLM系列高度相似，也有DeepMind研究者暗示与新版Gemini相关，但各方均未正式回应。",
+   "该事件标志AI Agent从实验测试进入实际软件开发和代码执行，实际使用量正取代测试分数成为模型能力与市场影响力的新标准。"
+  ],
+  "impact": "对AI行业，匿名高性能模型冲击现有竞争格局，加剧模型来源透明度讨论；对开发者，可利用OpenRouter低成本接入测试，但需警惕依赖不明提供方，建议结合合规评估；对普通用户，Agent应用可能因更强推理能力而提升体验，但模型出处未知也带来安全与信任风险。",
+  "tools": "开发者可通过OpenRouter平台查看模型实时用量与排名；若要对比来源，可关注智谱GLM系列在Bigmodel开放平台的接口；测试Agent场景时，可借助Hermes Agent或Claude Code等工具，验证Ox Alpha在编程与多步任务中的实际表现。"
+ }
+}

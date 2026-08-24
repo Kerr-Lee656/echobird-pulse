@@ -1,0 +1,22 @@
+{
+ "id": "79f127bc4460",
+ "url": "https://arxiv.org/abs/2608.20820",
+ "title": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T05:07:59.207702+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 21 Aug 2026]\n    Title:Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence\nView PDF HTML (experimental)\n            Abstract:Large language models (LLMs) are vulnerable to multi-turn jailbreak attacks that progressively manipulate conversation context. Existing certified robustness methods are limited to single-turn inputs; naive multi-turn composition yields bounds that degrade exponentially in the number of turns. We introduce Multi-Turn Certified Robustness (MTCR), a framework that models conversational safety via State-Adversarial MDPs and defines $k$-turn certified robustness as the worst-case safety probability across $k$ adversarial turns. MTCR comprises: (i) compositional certification via embedding-space mode decomposition, yielding tighter certified lower bounds than naive multiplication; (ii) $(\\alpha,\\beta)$-safety persistence, improving the degradation rate from $\\underline{p}^{k}$ to $\\beta^k$ (with $\\beta > \\underline{p}$) and yielding interpretable horizon estimates; (iii) matching information-theoretic upper bounds establishing tightness; and (iv) a unified algorithm combining these results. Experiments on six LLMs under $\\epsilon$-bounded and Crescendo-style attacks confirm that empirical safety consistently exceeds the certified bounds.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "提出MTCR框架，实现LLM多轮对话安全性的可证明认证鲁棒性。",
+  "background": "大语言模型面临多轮越狱攻击风险，攻击者可通过逐步操纵对话上下文绕过安全对齐。现有认证鲁棒性方法主要针对单轮输入，若直接组合多轮认证，安全界会随轮次指数级退化，难以提供有效保障。本文提出MTCR框架，从理论到实践系统性地解决多轮场景下的安全认证问题。",
+  "key_points": [
+   "MTCR将多轮对话建模为状态对抗MDP，定义k轮认证鲁棒性为最坏情况安全概率，为多轮安全提供严格数学框架。",
+   "采用嵌入空间模式分解组合认证，显著提升下界紧度，避免朴素乘法导致的指数级退化。",
+   "引入(α,β)-安全持久性，将安全概率退化率从p^k改进为β^k，并给出可解释的安全性持续回合估计。",
+   "信息论上界与统一算法证明方法紧致且可实现；在六个LLM上经e-bounded和Crescendo攻击验证，经验安全超越认证界。"
+  ],
+  "impact": "多轮安全认证从经验防御走向可证明保障，有助于建立对对话式AI的信任。对开发者，提供可操作的认证工具，能评估并加固模型，避免无效防御。对普通用户，降低被诱导输出有害内容的风险。整体上推动客服、教育、医疗等安全关键领域的大模型落地。",
+  "tools": "可关注arXiv论文页面获取代码和后续版本，alphaXiv讨论与解读，Hugging Face上的安全评估模型与数据集，以及scite引用追踪。深入研究可关注作者开源实现。"
+ }
+}
