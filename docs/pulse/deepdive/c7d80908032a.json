@@ -1,0 +1,22 @@
+{
+ "id": "c7d80908032a",
+ "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+ "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T03:16:13.102175+00:00",
+ "content": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content (engadget.com) 9\n\t\t\t\n\t\t \t\n\t\t\t\tA class action filed this week accused Amazon's Twitch gaming service of using video streams to fuel its AI products without licensing or obtaining permission, reports Engadget:\nEarlier this month, Twitch Support posted on X that it added an option to opt out of \"having your channel content used to train generative AI content models across Amazon.\" Shortly after, Twitch hosted an episode of its recurring Patch Notes stream where Mike Minton, the company's chief product officer, said \"if it was opt-in, nobody would opt in,\" when asked by a viewer why the Twitch settings for AI training aren't opt-in but instead enabled by default, requiring users to opt out if they don't want to participate.\nNow, the latest class action lawsuit claims that Twitch and Amazon committed a breach of contract when the companies decided to use its streamers as \"free training stock for separate commercial AI products.\"",
+ "report": {
+  "summary": "Twitch和亚马逊因未经许可用主播内容训练AI遭集体诉讼。",
+  "background": "近期，Twitch宣布默认允许平台视频流用于亚马逊生成式AI训练，用户需手动关闭“选项”才能退出。在官方直播中，首席产品官直言若改成主动加入则“没人会选”，引发创作者强烈不满。随后，一群主播发起集体诉讼，指控Twitch和亚马逊违约，将主播内容当作“免费训练素材”用于商业AI产品，未获许可也未付费。这起案件反映了AI数据采集与创作者权益之间日益尖锐的矛盾，也标志直播行业成为AI版权纠纷的新战场。",
+  "key_points": [
+   "集体诉讼指控Twitch和亚马逊违反合约，将主播视频流用于训练商业AI产品，未获授权或分成。",
+   "Twitch仅提供“选择退出”机制，默认开启；高管公开称若设为“选择加入”则无人参与，引发舆论反弹。",
+   "原告认为主播内容具有商业价值，平台不应无偿使用，实质是“把创作者当作免费数据工”。",
+   "该诉讼是AI训练数据版权争议的最新一例，未来更多平台可能面临类似集体诉讼压力。"
+  ],
+  "impact": "对AI行业而言，此案将提醒企业在利用UGC内容训练模型时需更谨慎处理授权条款，否则面临法律风险。对开发者来说，获取训练数据不能默认“抓取即合法”，需建立合规许可机制。对普通主播和创作者，这意味着其上传内容可能被AI产品间接变现，维权意识和主动选择退出显得尤为重要。若原告胜诉，可能推动平台将AI训练设置改为默认关闭，并带来合理的补偿机制。",
+  "tools": "可关注“Have I Been Trained”查询个人作品是否被大模型训练集收录；使用“Spawning”为创作者提供AI训练退出与许可管理；另可关注“Glaze”等工具，通过扰动技术降低AI模仿创作者风格的风险。"
+ }
+}

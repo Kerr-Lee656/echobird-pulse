@@ -1,0 +1,23 @@
+{
+ "id": "76e6a5ce8a3c",
+ "url": "https://thenextweb.com/news/ai-layoff-reversals-worker-trust-works-councils",
+ "title": "Employers are quietly rehiring the people AI replaced, and paying them less to come back",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T03:16:40.918186+00:00",
+ "content": "Forrester reports that 55% of employers regret laying off workers for AI and expects half of AI-attributed layoffs to be quietly reversed, with jobs returning offshore or at significantly lower wages. In Europe, a revised directive will require consultation before such decisions, backed by financial penalties.\nThe companies that cut jobs for AI are having second thoughts. Forrester reports that 55% of employers regret laying workers off for AI, and expects half of all AI-attributed layoffs to be quietly reversed.\nThat reversal is not the happy ending it sounds like. Forrester says the jobs come back offshore or at significantly lower wages, which means the correction costs the worker rather than the employer.\nThe fear has not moved with the evidence. A Reuters Ipsos poll found 53% of Americans worry AI will put someone in their household out of work, and TNW has asked what AI is doing to European jobs on the same question.\nInside the workplace the number is identical. A 2026 Software Finder report found 53% of workers worry AI tools will make their role feel less necessary.\nGartner’s Jackie Swanson describes the gap precisely. “Every organization has an AI adoption roadmap. Almost none of them have an honest plan for what AI is doing to their people, their pace and their pipeline of future leaders,” she wrote.\nThe fixes companies are reaching for are all voluntary. Ironclad’s chief technology officer taught internal classes, the syrup maker Torani has gone 103 years without a layoff, and Superhuman lets teams choose their own tools.\n“We don’t start with a top-down AI mandate,” said Kenny Mendes, Superhuman’s chief people officer. Teams close to a problem pick up a tool themselves, which he says stops the change reading as cost-cutting.\nIn Europe none of this is a management philosophy. Informing and consulting workers before a decision that reshapes their work is a legal duty, in a region still arguing over whether rules can protect jobs without slowing innovation.\nThat duty is about to get sharper. Directive 2025/2450 revises the European Works Councils rules, must be transposed by 1 January 2028, and requires consultation in good time and in a form that allows a thorough assessment before decisions are taken.\nIt also arrives with money attached. Member states must impose effective and dissuasive financial sanctions calculated with company turnover in the mix, in a period when Meta alone cut 8,000 jobs while redirecting billions toward AI infrastructure.\nSo the two continents are having different arguments. America is debating whether to tell workers what AI is doing to their jobs, while Europe is settling when, in what form, and what it costs to get it wrong.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "调查：55%雇主后悔AI裁员，半数岗位回归但薪资更低。",
+  "background": "企业曾以AI替代大量岗位，如今却开始后悔。Forrester报告显示55%的雇主表示后悔，并预计半数AI相关裁员将悄悄逆转——但这些岗位往往以海外外包或更低薪资回归，代价由员工承担。与此同时，员工对AI的失业恐惧并未消退，53%的美国人担心家人被AI夺走工作。在欧洲，修订后的《欧洲工人委员会指令》（2025/2450）将强制企业在重组决策前与员工协商，并配套财务处罚，使跨大西洋在AI治理上形成鲜明对比。",
+  "key_points": [
+   "Forrester调查显示55%的雇主后悔因AI裁员，预计半数此类裁员将被悄悄逆转。",
+   "逆转并非好消息：回归岗位多转移至海外或以更低工资招回，员工成为代价承担者。",
+   "员工恐惧与证据脱节：53%美国人担忧家庭失业风险，53%员工担心自身角色被AI弱化。",
+   "Gartner指出企业普遍缺乏对AI影响员工、节奏和领导梯队的诚实规划。",
+   "欧洲新指令要求企业决策前充分协商员工代表，并按营业额比例处以罚款，强制落地咨询义务。"
+  ],
+  "impact": "对AI行业而言，企业将更谨慎地以裁员作为AI收益的捷径，转而关注人机协作；对开发者，这意味着AI工具需强调增强而非替代，才能获得组织信任；对普通用户，美国失业焦虑仍高企，而欧洲员工将获得更强的法律保护。跨大西洋的不同路径可能塑造AI应用的差异化生态，欧洲的强制协商或让AI落地更慢但更稳。",
+  "tools": "暂无直接开源工具，但可关注Forrester研究、欧盟官方立法（Directive 2025/2450）追踪机制，以及人力资源技术平台（如Workday）对AI影响的合规分析模块。"
+ }
+}

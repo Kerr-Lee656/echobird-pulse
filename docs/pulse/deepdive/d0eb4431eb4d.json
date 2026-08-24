@@ -1,0 +1,23 @@
+{
+ "id": "d0eb4431eb4d",
+ "url": "https://github.com/AlpinDale/gpt2.cmake",
+ "title": "Implementation of GPT-2 in pure CMake",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T03:16:01.803827+00:00",
+ "content": "GPT-2 in pure CMake, executed with Q16.16 integer arithmetic.\nmkdir -p checkpoint\ncurl -L -o checkpoint/model.safetensors https://huggingface.co/openai-community/gpt2/resolve/main/model.safetensors\ncurl -L -o checkpoint/vocab.json      https://huggingface.co/openai-community/gpt2/resolve/main/vocab.json\ncurl -L -o checkpoint/merges.txt      https://huggingface.co/openai-community/gpt2/resolve/main/merges.txt\npython3 tools/gen_full.py\ncmake -P gpt2_full.cmake -DPROMPT=\"Hello\" -DN=2python3 tools/gen_tables.py\npython3 tools/gen_model.py\ncmake -P gpt2.cmake\nBSD 3-Clause. See LICENSE.",
+ "report": {
+  "summary": "用纯CMake实现GPT-2推理，以定点数运算完成文本生成。",
+  "background": "GPT-2是OpenAI推出的预训练语言模型，通常依赖PyTorch等深度学习框架。CMake是C++项目的构建工具，并不常用于算法实现。该GitHub项目创造性地在纯CMake脚本中实现了GPT-2推理，使用Q16.16定点算术替代浮点运算，使CMake语言也能运行神经网络。项目提供了完整的下载和运行指令，展示了对编程语言边界的拓展和另类应用。",
+  "key_points": [
+   "纯CMake语言实现整个GPT-2推理流程，不需要Python或C++编译器，仅依靠CMake脚本运行，展示了构建工具的编程极限。",
+   "采用Q16.16定点数算术模拟浮点计算，避免依赖浮点硬件或库，在无浮点处理能力的嵌入式环境中也能运行神经网络。",
+   "提供清晰的下载和运行指令，用户可一键运行，根据给定提示生成文本，并支持调整生成长度和模型大小等参数。",
+   "项目提供完整版和精简版两个实现，后者通过预生成查找表和模型数据来加速执行，减少运行时计算量。",
+   "项目采用BSD 3-Clause许可证，允许自由使用、修改和分发，适合学习和二次开发，也便于集成到其他项目。"
+  ],
+  "impact": "对AI行业而言，这是技术趣味主义的体现，展示神经网路可部署到非传统环境；对开发者，CMake的高级用法和程序生成技巧值得学习；对普通用户，无需安装深度学习框架即可体验GPT-2，但性能受限，适合实验和教学而非生产环境。",
+  "tools": "可关注CMake官方文档（cmake.org）学习脚本语言能力，还可查看类似用脚本实现AI的项目如ggml（C/C++的LLM推理库），以及作者的其他实验性仓库。"
+ }
+}

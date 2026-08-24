@@ -1,0 +1,23 @@
+{
+ "id": "a1dee112f5c1",
+ "url": "https://arxiv.org/abs/2607.26212",
+ "title": "Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges",
+ "source": "Hacker News (3pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-23T16:30:44Z",
+ "fetched_at": "2026-08-24T03:18:08.105626+00:00",
+ "content": "Computer Science > Software Engineering\n  [Submitted on 28 Jul 2026]\n    Title:Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges\nView PDF HTML (experimental)\n            Abstract:Multi-Agent Debate (MAD) is a promising paradigm for improving the accuracy and robustness of Large Language Model (LLM)-based agentic systems. It enables multiple agents to exchange arguments, critique each other's outputs, and iteratively converge towards a solution. However, research remains fragmented, with inconsistent terminology and no rigorous synthesis of MAD design dimensions. We present a systematic literature review characterizing 141 primary studies on MAD. We derive a three-dimensional taxonomy covering debate participants, the interaction mechanisms structuring the exchange, and the agreement protocols governing debate resolution, supported by formal notations to render MAD configurations. Our analysis reveals that the field has implicitly converged on a narrow design pattern - static, fully connected topologies, verbatim exchange, short-term memory and voting resolution strategies - adopted by convention rather than systematic comparison, while promising alternatives remain marginal. Because any MAD setting reflects roughly a dozen interacting design decisions, cross-study comparison is unreliable when these are left implicit. We position the taxonomy as a descriptive map of the research landscape, a framework for controlled benchmarking, and potentially as a schema for machine-readable MAD specifications. As future work, we propose formalizing it into an executable specification, enabling cost-aware benchmarking and automated tuning of debate configurations.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "综述141项多智能体辩论研究，提出三维分类法，指出当前设计模式过于单一。",
+  "background": "大语言模型（LLM）驱动的智能体系统在处理复杂任务时仍会出错。多智能体辩论（MAD）让多个智能体相互讨论、批评并收敛到更优答案，被视为提升准确性和鲁棒性的有效途径。然而，该领域发展迅速却缺乏系统梳理：术语混乱、设计维度模糊，各研究常凭习惯选择配置。本文系统综述141项研究，提炼出参与者、交互机制、协议三个维度，并发现当前主流配置高度同质化。这项工作旨在为领域提供描述性地图、基准框架与可扩展规范，推动更严谨的对比和设计。",
+  "key_points": [
+   "MAD让多个大模型智能体互相批判、迭代修改输出，能显著提升答案准确性和鲁棒性，正成为增强智能体的重要范式。",
+   "作者系统梳理141项研究，提出由参与者、交互机制、协议组成的三维分类法，用形式化符号统一描述辩论设计。",
+   "当前多数研究墨守成规：静态全连接拓扑、逐字交换、短期记忆和投票决策，而动态拓扑、长期记忆等替代方案很少被探索。",
+   "该分类法可作研究地图、受控基准框架，也能转成机器可读规范，为跨研究比较和可复现实验打下基础。",
+   "未来方向是把分类法升级为可执行规范，支持成本感知的自动调优，让辩论配置不再靠约定俗成，而是数据驱动选择。"
+  ],
+  "impact": "对AI行业，该综述为多智能体辩论领域提供了统一语言和地图，有助于研究者跳出默认配置，探索更高效的设计，推动智能体系统走向成熟。对开发者，三维分类法可指导设计受控实验和基准测试，帮助选择适合场景的辩论策略，同时也要权衡成本和性能。对普通用户，未来基于此开发的AI可能在复杂任务上更准确、更稳健，但多智能体协作也可能增加响应时间和开销。",
+  "tools": "可关注微软AutoGen、LangChain多智能体模块、CrewAI等开源框架，用于搭建辩论实验；论文分类法可作为设计基准的参考，也可利用arXiv的Connected Papers挖掘后续相关研究。"
+ }
+}

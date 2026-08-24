@@ -4291,5 +4291,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T23:56:28Z",
   "fetched_at": "2026-08-24T02:00:52.470683+00:00"
+ },
+ "d0eb4431eb4d": {
+  "id": "d0eb4431eb4d",
+  "url": "https://github.com/AlpinDale/gpt2.cmake",
+  "title": "Implementation of GPT-2 in pure CMake",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T03:16:01.803827+00:00"
+ },
+ "c7d80908032a": {
+  "id": "c7d80908032a",
+  "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+  "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T03:16:13.102175+00:00"
+ },
+ "5441192b942a": {
+  "id": "5441192b942a",
+  "url": "https://news.slashdot.org/story/26/08/23/2058201/openai-faces-safety-scrutiny-after-introducing-chatgpt-for-teens",
+  "title": "OpenAI Faces Safety Scrutiny After Introducing 'ChatGPT For Teens'",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T03:16:27.685538+00:00"
+ },
+ "76e6a5ce8a3c": {
+  "id": "76e6a5ce8a3c",
+  "url": "https://thenextweb.com/news/ai-layoff-reversals-worker-trust-works-councils",
+  "title": "Employers are quietly rehiring the people AI replaced, and paying them less to come back",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T03:16:40.918186+00:00"
+ },
+ "a1dee112f5c1": {
+  "id": "a1dee112f5c1",
+  "url": "https://arxiv.org/abs/2607.26212",
+  "title": "Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T16:30:44Z",
+  "fetched_at": "2026-08-24T03:18:08.105626+00:00"
  }
 }
