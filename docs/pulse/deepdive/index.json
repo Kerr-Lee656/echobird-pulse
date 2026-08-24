@@ -5101,5 +5101,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-24T17:23:48Z",
   "fetched_at": "2026-08-24T19:01:44.156113+00:00"
+ },
+ "3e6ae02d2641": {
+  "id": "3e6ae02d2641",
+  "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+  "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T20:47:16.470754+00:00"
+ },
+ "995143a76c08": {
+  "id": "995143a76c08",
+  "url": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
+  "title": "Inner Mongolia signs $27bn of AI computing projects",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T20:47:29.067051+00:00"
+ },
+ "e24a79b33926": {
+  "id": "e24a79b33926",
+  "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
+  "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T20:47:49.137386+00:00"
+ },
+ "e7e2d0be34e4": {
+  "id": "e7e2d0be34e4",
+  "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+  "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体能效新标准：每瓦特吞吐量提升高达 30 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T20:47:58.079458+00:00"
+ },
+ "7aadc05d024a": {
+  "id": "7aadc05d024a",
+  "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics",
+  "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T20:48:10.606522+00:00"
+ },
+ "7c5c1b9d99ad": {
+  "id": "7c5c1b9d99ad",
+  "url": "https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4",
+  "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+  "source": "Meta Engineering Blog（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-24T18:02:29.000Z",
+  "fetched_at": "2026-08-24T20:50:01.669889+00:00"
+ },
+ "1ce5e00ca95b": {
+  "id": "1ce5e00ca95b",
+  "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+  "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T16:59:03Z",
+  "fetched_at": "2026-08-24T20:50:14.552917+00:00"
+ },
+ "ed2eb5f54491": {
+  "id": "ed2eb5f54491",
+  "url": "https://arxiv.org/abs/2608.16603",
+  "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+  "source": "Hacker News (58pts, 72c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T16:30:21Z",
+  "fetched_at": "2026-08-24T20:50:31.469353+00:00"
  }
 }
