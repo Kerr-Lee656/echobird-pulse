@@ -4759,5 +4759,104 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-24T04:00:00.000Z",
   "fetched_at": "2026-08-24T10:56:43.041765+00:00"
+ },
+ "fe7206e585bd": {
+  "id": "fe7206e585bd",
+  "url": "https://aiera.com.cn/2026/08/24/other/admin/110441/%e4%bb%8e%e6%89%8b%e6%9c%ba%e8%bf%88%e5%90%91%e5%85%a8%e5%9c%ba%e6%99%af-ai%ef%bc%8c%e5%b0%8f%e7%b1%b3%e7%8e%84%e6%88%92o3%e3%80%81o100%e3%80%81d100-%e4%b8%89%e6%ac%be%e8%87%aa%e7%a0%94%e8%8a%af",
+  "title": "从手机迈向全场景 AI，小米玄戒O3、O100、D100 三款自研芯片齐发",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-24T08:35:30.875Z",
+  "fetched_at": "2026-08-24T13:11:57.946125+00:00"
+ },
+ "d7d882563725": {
+  "id": "d7d882563725",
+  "url": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china",
+  "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:12:13.023301+00:00"
+ },
+ "b02282a12f1a": {
+  "id": "b02282a12f1a",
+  "url": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
+  "title": "Arm Holdings (ARM) 调整战略，开始销售自有数据中心芯片",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T12:05:17.208Z",
+  "fetched_at": "2026-08-24T13:12:30.592471+00:00"
+ },
+ "f666aeb50164": {
+  "id": "f666aeb50164",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-hong-113019173.html",
+  "title": "阿里巴巴通过在香港发售股票为人工智能业务筹集100亿美元",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T11:49:30.247Z",
+  "fetched_at": "2026-08-24T13:12:44.393240+00:00"
+ },
+ "5fe6935fa204": {
+  "id": "5fe6935fa204",
+  "url": "https://www.huxiu.com/article/4885572.html?f=rss",
+  "title": "阿里800亿融资全投AI，算力烧钱大战进入下半场",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T10:52:32Z",
+  "fetched_at": "2026-08-24T13:13:05.350382+00:00"
+ },
+ "abb5aa1c7032": {
+  "id": "abb5aa1c7032",
+  "url": "https://www.ithome.com/0/993/696.htm",
+  "title": "消息称蔚来智驾负责人任少卿创立具身智能公司，蔚来将战略投资",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T10:46:59Z",
+  "fetched_at": "2026-08-24T13:13:20.290368+00:00"
+ },
+ "344eb897dc18": {
+  "id": "344eb897dc18",
+  "url": "https://thenextweb.com/news/hugging-face-exploring-sale-13bn-valuation",
+  "title": "Hugging Face explores a sale at a $13bn valuation, nearly triple its last one",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:13:43.276280+00:00"
+ },
+ "0a068b3b9749": {
+  "id": "0a068b3b9749",
+  "url": "https://www.36kr.com/p/3953230805876099",
+  "title": "独家 | 字节AI 生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 \"豆包工作\"",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:14:02.190966+00:00"
+ },
+ "191947403d65": {
+  "id": "191947403d65",
+  "url": "https://github.com/langchain-ai/deepagents",
+  "title": "langchain-ai/deepagents — The batteries-included agent harness.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:14:47.436448+00:00"
+ },
+ "4169b2192033": {
+  "id": "4169b2192033",
+  "url": "https://github.com/elizaOS/eliza",
+  "title": "elizaOS/eliza — Open source agentic operating system",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:15:08.031464+00:00"
+ },
+ "77b4be38215d": {
+  "id": "77b4be38215d",
+  "url": "https://github.com/ollama/ollama",
+  "title": "ollama/ollama — Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-24T13:15:22.558520+00:00"
  }
 }
