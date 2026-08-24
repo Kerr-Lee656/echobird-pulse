@@ -5173,5 +5173,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-24T16:30:21Z",
   "fetched_at": "2026-08-24T20:50:31.469353+00:00"
+ },
+ "113584368e84": {
+  "id": "113584368e84",
+  "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+  "title": "LLMs could control their host machines by exploiting inference engines",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T22:42:35.423958+00:00"
+ },
+ "c8908b80da5d": {
+  "id": "c8908b80da5d",
+  "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
+  "title": "OpenAI wants California to toughen the AI law it once fought",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T22:43:11.549580+00:00"
+ },
+ "3d084b39d1c9": {
+  "id": "3d084b39d1c9",
+  "url": "https://daily.dev/posts/mtia-300-meta-s-first-training-chip-with-built-in-nics-and-communication-offloading-engines-jpxe0edsp",
+  "title": "Meta reveals MTIA 300 training chip with built-in NICs and communication offload engines",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T22:43:19.352687+00:00"
+ },
+ "8aa4e1ea387a": {
+  "id": "8aa4e1ea387a",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-could-outdo-spacex-ipo-102500548.html",
+  "title": "Anthropic的首次公开募股（IPO）或将超越SpaceX。以下是投资者目前对其估值的看法及原因。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T19:02:05.236Z",
+  "fetched_at": "2026-08-24T22:43:40.601985+00:00"
+ },
+ "d2835f9807e2": {
+  "id": "d2835f9807e2",
+  "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+  "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T22:07:06Z",
+  "fetched_at": "2026-08-24T22:44:50.532148+00:00"
+ },
+ "4694cfbe3b29": {
+  "id": "4694cfbe3b29",
+  "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+  "title": "AI text watermarking and quality loss",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T22:05:51Z",
+  "fetched_at": "2026-08-24T22:44:57.996350+00:00"
+ },
+ "86ea0b00c6f9": {
+  "id": "86ea0b00c6f9",
+  "url": "https://www.anthropic.com/research/india-brief-economic-index",
+  "title": "India Country Brief: The Anthropic Economic Index",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T21:46:54Z",
+  "fetched_at": "2026-08-24T22:45:11.469493+00:00"
+ },
+ "53d003a4cbef": {
+  "id": "53d003a4cbef",
+  "url": "https://www.servethehome.com/arms-agi-data-center-cpu-at-hot-chips-2026/",
+  "title": "Arm's AGI Data Center CPU at Hot Chips 2026 – ServeTheHome",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T20:47:52Z",
+  "fetched_at": "2026-08-24T22:45:30.170630+00:00"
+ },
+ "153e1f15380e": {
+  "id": "153e1f15380e",
+  "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+  "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T19:48:45Z",
+  "fetched_at": "2026-08-24T22:45:48.689529+00:00"
  }
 }
