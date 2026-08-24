@@ -1,0 +1,22 @@
+{
+ "id": "1dff4c5162e7",
+ "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+ "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+ "source": "Hacker News (4pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-23T23:56:28Z",
+ "fetched_at": "2026-08-24T02:00:52.470683+00:00",
+ "content": "Twitch and Amazon hit with lawsuit for training AI with streamers' content\nThe class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.\nA streamer has taken a stand against Twitch and Amazon using his content to train AI models. Warren Pandiscia, a streamer based in Connecticut, filed a class action lawsuit earlier this week, as first reported by Courthouse News. The complaint accused Twitch and Amazon of not obtaining licensing or permission before using his Twitch streams and videos as a \"dataset necessary to fuel Amazon's AI products.\"\nEarlier this month, Twitch Support posted on X that it added an option to opt out of \"having your channel content used to train generative AI content models across Amazon.\" Shortly after, Twitch hosted an episode of its recurring Patch Notes stream where Mike Minton, the company's chief product officer, said \"if it was opt-in, nobody would opt in,\" when asked by a viewer why the Twitch settings for AI training aren't opt-in but instead enabled by default, requiring users to opt out if they don't want to participate.\nNow, the latest class action lawsuit claims that Twitch and Amazon committed a breach of contract when the companies decided to use its streamers as \"free training stock for separate commercial AI products.\" The complaint also accused the two companies of benefitting from their streamers, who \"lost money or property as a result of defendants' unlawful, unfair and fraudulent practices.\"\nAmazon isn't the only company that's been hit with a lawsuit for allegedly using content creators for AI training. Earlier this year, three YouTubers filed a class action lawsuit against Apple, accusing the company of scraping copyrighted content to train its AI models.",
+ "report": {
+  "summary": "Twitch和Amazon因未经同意用主播内容训练AI被集体诉讼。",
+  "background": "Twitch近期默认开放主播内容用于Amazon AI训练，仅提供关闭选项，引发主播不满。其CPO甚至称“如果是选择加入，没人会选”，进一步激化矛盾。主播Warren Pandiscia发起集体诉讼，指控两家公司未获许可、违约并利用主播牟利。此前已有YouTuber起诉苹果非法抓取内容训练AI，反映出创作者对平台滥用内容的普遍担忧。",
+  "key_points": [
+   "康涅狄格州主播起诉Twitch和Amazon，称其未经许可将视频流用于AI训练，要求赔偿损失。",
+   "Twitch将AI训练默认设为开启，用户需手动关闭，而非主动选择参与，引发隐私和权益争议。",
+   "诉讼指称Amazon将主播内容当作“免费训练材料”，构成违反合同和不公平商业行为。",
+   "类似案件频发：今年早些时候三名YouTuber也起诉苹果非法抓取内容训练AI。"
+  ],
+  "impact": "对AI行业，此案敲响警钟：训练数据需获得明确授权，否则将面临法律风险。对开发者，滥用网络内容可能引发集体诉讼，应建立合规数据获取流程。对普通用户，创作内容可能被默认用于AI训练，需主动检查平台设置，维护自己的权益。",
+  "tools": "关注Twitch渠道设置中的“AI训练退出”选项；可参考平台透明度工具如“Have I Been Trained”检查内容是否被大模型使用；开发者可关注Spawning AI等数据授权工具。"
+ }
+}

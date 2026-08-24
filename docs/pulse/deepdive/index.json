@@ -4210,5 +4210,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-23T18:07:43Z",
   "fetched_at": "2026-08-23T22:39:07.555640+00:00"
+ },
+ "b88874a5f795": {
+  "id": "b88874a5f795",
+  "url": "https://aiera.com.cn/2026/08/24/other/admin/110431/anthropic%e3%80%8c%e5%b7%b4%e6%8b%bf%e9%a9%ac%e8%ae%a1%e5%88%92%e3%80%8d%e6%9b%9d%e5%85%89%ef%bc%81%e6%95%b0%e7%99%be%e4%b8%87%e6%97%a7%e4%b9%a6%e8%a2%ab%e5%88%87%e8%84%8a%e5%96%82%e7%bb%99asi",
+  "title": "Anthropic「巴拿马计划」曝光！数百万旧书被切脊喂给ASI",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-24T00:38:41.813Z",
+  "fetched_at": "2026-08-24T01:57:35.226357+00:00"
+ },
+ "77cd6faabbaa": {
+  "id": "77cd6faabbaa",
+  "url": "https://aiera.com.cn/2026/08/24/other/admin/110281/github%e4%b8%87%e6%98%9fagent%e6%95%b4%e9%94%85%e7%ab%af%e8%bf%9bopenai%ef%bc%81%e3%80%8cai%e7%89%88firebase%e3%80%8d%e5%ae%a3%e5%b8%83%e5%85%a8%e9%98%9f%e5%8a%a0%e5%85%a5",
+  "title": "Github万星Agent整锅端进OpenAI！「AI版Firebase」宣布全队加入",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-24T00:38:41.813Z",
+  "fetched_at": "2026-08-24T01:57:46.922972+00:00"
+ },
+ "57ba2708b61e": {
+  "id": "57ba2708b61e",
+  "url": "https://www.ithome.com/0/993/326.htm",
+  "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T01:58:01.630900+00:00"
+ },
+ "aa2d636e9a8a": {
+  "id": "aa2d636e9a8a",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html",
+  "title": "人工智能领域的债务热潮正推高着所有人的资本成本",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-23T23:49:12.087Z",
+  "fetched_at": "2026-08-24T01:58:14.614680+00:00"
+ },
+ "792c3e168af7": {
+  "id": "792c3e168af7",
+  "url": "https://www.ithome.com/0/993/329.htm",
+  "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-23T23:28:42Z",
+  "fetched_at": "2026-08-24T01:59:05.111791+00:00"
+ },
+ "9064ba013021": {
+  "id": "9064ba013021",
+  "url": "https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power",
+  "title": "China is shifting its new data centers to rural Eastern locations as it looks for extra AI power",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T01:59:19.982060+00:00"
+ },
+ "afd300f326ca": {
+  "id": "afd300f326ca",
+  "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+  "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T01:59:37.633189+00:00"
+ },
+ "45b7b7bb9b7d": {
+  "id": "45b7b7bb9b7d",
+  "url": "https://www.itbear.com.cn/html/2026-08/1516126.html",
+  "title": "OpenAI 推 ChatGPT 青少年版，儿童安全专家：安全机制待考验",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T01:59:52.359776+00:00"
+ },
+ "1dff4c5162e7": {
+  "id": "1dff4c5162e7",
+  "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+  "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-23T23:56:28Z",
+  "fetched_at": "2026-08-24T02:00:52.470683+00:00"
  }
 }

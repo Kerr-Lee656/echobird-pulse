@@ -1,0 +1,23 @@
+{
+ "id": "77cd6faabbaa",
+ "url": "https://aiera.com.cn/2026/08/24/other/admin/110281/github%e4%b8%87%e6%98%9fagent%e6%95%b4%e9%94%85%e7%ab%af%e8%bf%9bopenai%ef%bc%81%e3%80%8cai%e7%89%88firebase%e3%80%8d%e5%ae%a3%e5%b8%83%e5%85%a8%e9%98%9f%e5%8a%a0%e5%85%a5",
+ "title": "Github万星Agent整锅端进OpenAI！「AI版Firebase」宣布全队加入",
+ "source": "新智元",
+ "site_name": "新智元",
+ "published_at": "2026-08-24T00:38:41.813Z",
+ "fetched_at": "2026-08-24T01:57:46.922972+00:00",
+ "content": "新智元报道  \n \n \n \n \n新智元报道\nOpenAI又整出大动静了！\n刚刚，YC S22的明星创业公司Instant宣布：整个团队正式加入OpenAI。\n而大约一周前，Instant才刚刚发布1.0版本，云托管服务将持续运行至8月31日。 万名客户挥泪告别这一平台。\n但对OpenAI来说，这笔收购的战略意图非常清晰：给Agent补上「记忆层」。\n这场收购，看似突如其来，实则早在两年前，就已埋下了伏笔。\n2024年，Instant团队宣布完成了一笔340万美元的种子轮融资。投资阵容豪华，堪称「神仙打架」：\n投资方包括Y Combinator和SV Angel，以及多位知名天使投资人，如前Firebase CEO James Tamplin、「硅谷黄埔军校」YC联合创始人、原总裁Paul Graham、OpenAI联创兼总裁Greg Brockman和原谷歌首席科学家Jeff Dean。\n当时，全世界还在为GPT-4的每个小版本更新狂欢，OpenAI的联创Greg Brockman已经下注AI基础设施。\n要理解OpenAI为什么对Instant如此垂涎，我们首先得搞清楚Instant到底做什么。\n用一句话来概括：Instant是给AI Agent（智能体）搭建后端基础设施的终极利器——数据库、权限验证、实时同步、离线缓存，一站式全包。\n在硬核开发者圈子里，大家给它起了一个更响亮、更直白的名字：「AI时代的Firebase」。\n当年，Google买下Firebase，直接垄断了无数移动App的后端，让前端工程师几行代码就能搞定复杂的数据库读写和实时同步。\n而今天，Instant在AI时代做着一模一样的事情，只是这一次，服务的主体从「人类用户」变成了「AI Agent」。\n在AI编码领域，Instant交出的一份华丽的「成绩单」：\n• GitHub星标： 刚刚强势突破10,000星大关；\n• 开发者规模： 官方数据显示，已服务全球超过17,000名注册开发者；\n• 应用数量： 在其平台上构建的App数量超过400,000个；\n• 交易体量： 累计处理了令人咋舌的25亿笔交易。\n这是一个已经在高并发、高负载的生产环境中被反复验证过的工业级基建。\nOpenAI自己有全世界最聪明的AI大模型，难道还写不出一个数据库？为什么非要花重金买下Instant？\n这里藏着AI Agent当前发展阶段致命的痛点：持久状态管理和实时数据一致性。\n简单来说：目前的AI，患有严重的「失忆症」和「并发综合征」。\n眼下，AI Agent的能力边界正在以不可思议的速度疯狂外扩。\n它们在接管你的日历，自动和几十个合作伙伴协调开会时间。\n它们甚至在自动阅读GitHub上的Issue，自己写代码，自己提交PR，自己修复Bug。\nEinsteinArena等平台让多个Agent在公开问题集上协作竞争。截至2026年中，Agent已发现至少12项超越人类或此前AI的SOTA成果，例如将11维接吻数（kissing number）下界从593提升至604。\n但开发者把Agent推向生产时，撞上一堵数据墙。\n举个例子：你的Agent要订下午3点的会，老板的Agent强行插入另一个日程，你本人同时把3点改成了「休息」。\n三个操作，同一条数据，同一毫秒。后端扛不住，系统直接崩溃，或数据大乱，日程全废。\n大模型的智商再高，也解决不了底层数据的读写冲突。这是一个纯粹的工程问题。\n一个真正能在现实世界跑起来的Agent，必须具备强大的「记忆」和「多线程协作」能力。\n它必须能够实时读写数据、处理海量并发操作、在断网或离线状态下将数据缓存，并在恢复网络的一瞬间，用极其复杂的算法（比如CRDT算法）完美地解决合并冲突。\n而这，恰恰就是Instant团队过去整整4年死磕的「脏活累活」。\n他们把实时同步、冲突解决、离线优先这些极其深奥的后端难题，封装成了「开箱即用」的SDK。\n现在，任何一个开发者，只需要引入几行代码，就能让他们的AI Agent拥有无懈可击的持久化记忆和实时协作能力。\n对OpenAI来说，这凑要给Agent补上最核心的「记忆层」（Memory Layer）和「状态层（State Layer）」。\n无论是处理代码的Codex，还是GPT系列的各类原生Agent，亦或是未来不间断自主运行的「长周期AI工作流（Long-horizon workflows）」，都需要坚如磐石的后端，来持久化它们的状态。\nOpenAI买下的是Agent真正走向「全自动运转」的最后一块拼图。\nInstant的故事，始于2021年。\n根据官方发布的告别信，2021年，创始团队在博客上分享了一个关于「在浏览器中运行数据库」的构想。\nInstant的两位核心创始人，Joe Averbukh和Stepan Parunashvili，都曾是Facebook和Airbnb的资深/主任工程师。\n在Facebook任职期间，他们亲眼目睹了一个支持复杂权限表达的「图数据库（Graph-based Database）」是如何让成千上万的工程师在极度复杂的系统中保持恐怖的开发速度的。\n「为什么不能把这种体验带给全世界的开发者？」\n带着这个极客狂想，他们创立了Instant。\n他们的目标极其宏大：打造Firebase的「图数据库继任者」。保留Firebase那种令人上瘾的开箱即用感，但底层换成更强大的关系型结构（基于AWS Aurora），并原生支持「本地优先（Local-first）」和「实时协作」。\n起初，这只是一个单纯的想法，但随着他们自己开发的App越来越多，他们深刻地感受到：管理状态、处理同步、解决数据冲突，这些简直是开发者的集体噩梦。\n于是，2022年他们杀入了顶级孵化器Y Combinator（YC S22），打造出了第一个原型，并发布了「Version 0」。\n「将一个原型变成生产级别的产品，是一段漫长的旅程。」\nInstant在官方信中这样写道。这段旅程虽然艰辛，却充满了极客特有的浪漫与狂喜。\n之后，为了解决技术问题，各路大神相继加入：Daniel Woelfel在极早期加入团队，死磕并解决了同步技术中最棘手的冲突问题；当需要让TypeScript SDK变得真正符合人体工程学、让开发者「用起来爽」时，Drew Harris加入了团队，完成了这项壮举。\n（从右至左：Joe Averbukh, Stepan Parunashvili, Daniel Woelfel, Drew Harris）\n社区里的Mark Shlick、Nikita Prokopov、Alex Reichert等开源贡献者，更是众人拾柴火焰高。\n如果你将视野拉宽，跳出Instant这单个案例，你会发现：2026年，OpenAI已经开启了疯狂的「扫货模式」。\n数据不会撒谎。2026年至今，OpenAI的M&A（并购）交易数量，已经接近去年全年的总和。\n我们来看看OpenAI最近的购物清单里都有什么：\nOpenAI买的，没有一个是做AI模型的公司，但有多家做开发者基础设施的公司！\n这是一个明确的信号：OpenAI正在完成一次史诗级的蜕变——从一家「做模型的公司」，进化为一家「做平台的公司」。\n奥特曼比谁都清楚：单纯卖引擎，是做不成帝国的。只有把底盘、变速箱、中控系统、甚至整条高速公路都掌握在自己手里，才能建立真正的霸权。\n现在，OpenAI正在一块、一块地把这些「基础设施」买回来，拼在一起。\n试想一下未来的场景：当一个开发者想要做一个AI应用时，他打开OpenAI Cloud，不仅能调用最强的大模型，还能直接用Instant的能力一键生成Agent数据库，用Statsig的能力一键开启A/B测试，用Astral的工具链一键部署。\n这就是AI时代的「苹果生态」！这将是OpenAI最大的护城河。\n参考资料：\n编辑：大卫",
+ "report": {
+  "summary": "OpenAI收购AI版Firebase公司Instant，整队加入补Agent记忆层。",
+  "background": "Instant是YC孵化的为AI Agent提供后端基础设施的创业公司，涵盖数据库、权限、实时同步等功能，被誉为“AI时代的Firebase”。2024年完成340万美元种子轮融资，OpenAI联创Greg Brockman等参投。2026年发布1.0版本后，团队整体加入OpenAI。OpenAI此举旨在为自家Agent补上持久记忆与状态管理能力，解决AI“失忆”和并发冲突等生产环境痛点。这也标志着OpenAI从模型公司向平台公司转型，加速扫货开发者基础设施。",
+  "key_points": [
+   "Instant是AI Agent后端工具，开源仓库超1万星，服务1.7万开发者，累计处理25亿笔交易。",
+   "OpenAI收购核心意图是给Agent增加记忆层和状态层，解决多Agent并发读写冲突。",
+   "Instant采用类似Firebase的本地优先+实时同步方案，用CRDT算法处理离线合并。",
+   "2026年OpenAI已大量收购开发者基础设施公司，构建类似苹果生态的全栈平台。",
+   "该团队曾获YC、SV Angel及Greg Brockman等投资，成立四年后整体并入OpenAI。"
+  ],
+  "impact": "对AI行业而言，OpenAI强化Agent基础设施，将加速自主智能体从原型走向生产，推动平台化竞争。对开发者，Instant的SDK可能整合进OpenAI生态，降低构建复杂Agent后端的门槛，但需关注其服务关闭后的迁移。对普通用户，未来AI助手将拥有持久记忆和更稳定的协作能力，日程冲突、状态丢失等问题有望大幅减少。",
+  "tools": "可关注Instant的GitHub仓库（获取SDK与架构思路）、Firebase（传统后端参考）、CRDT库如Yjs或Automerge（本地优先同步方案）。若使用OpenAI生态，可留意Codex及后续平台集成的状态管理能力。"
+ }
+}
