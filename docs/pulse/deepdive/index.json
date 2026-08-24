@@ -4615,5 +4615,149 @@
   "site_name": "arXiv cs.LG",
   "published_at": "2026-08-24T04:00:00.000Z",
   "fetched_at": "2026-08-24T09:08:11.567735+00:00"
+ },
+ "b92486f3de22": {
+  "id": "b92486f3de22",
+  "url": "https://www.qbitai.com/2026/08/478427.html",
+  "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T10:52:36.285957+00:00"
+ },
+ "57781dd6ac76": {
+  "id": "57781dd6ac76",
+  "url": "https://www.aibase.com/zh/news/30572",
+  "title": "小米发布玄戒 O3/O100/D100 三款自研 AI 芯片，搭建人车家全生态算力底座",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T10:52:52.568404+00:00"
+ },
+ "6fa0c69d7995": {
+  "id": "6fa0c69d7995",
+  "url": "https://www.aibase.com/zh/news/30568",
+  "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出15例漏诊肿瘤",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T10:53:04.896182+00:00"
+ },
+ "f7b9e8ee7576": {
+  "id": "f7b9e8ee7576",
+  "url": "https://hub.baai.ac.cn/view/57357",
+  "title": "数学的终结：40 位顶尖数学家齐聚 OpenAI 秘密会议",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T10:53:20.659251+00:00"
+ },
+ "a3d6c8b7c554": {
+  "id": "a3d6c8b7c554",
+  "url": "https://www.aibase.com/news/30577",
+  "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T08:35:30.875Z",
+  "fetched_at": "2026-08-24T10:53:31.477438+00:00"
+ },
+ "32eacbd8e2a2": {
+  "id": "32eacbd8e2a2",
+  "url": "https://www.aibase.com/news/30576",
+  "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T08:35:30.875Z",
+  "fetched_at": "2026-08-24T10:53:40.111024+00:00"
+ },
+ "7156d80cedc9": {
+  "id": "7156d80cedc9",
+  "url": "https://www.aibase.com/news/30571",
+  "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T08:35:30.875Z",
+  "fetched_at": "2026-08-24T10:53:51.363832+00:00"
+ },
+ "0ba376110dee": {
+  "id": "0ba376110dee",
+  "url": "https://www.ithome.com/0/993/581.htm",
+  "title": "韩国通过《个人信息保护法》修正案，允许 AI 开发使用个人数据",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T07:31:09Z",
+  "fetched_at": "2026-08-24T10:54:07.413552+00:00"
+ },
+ "5c844fdd5b78": {
+  "id": "5c844fdd5b78",
+  "url": "https://www.huxiu.com/article/4885484.html?f=rss",
+  "title": "美智库: “我们摸底了中美1181家企业, 发现中国AI在物理世界的布局让人担忧”",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T07:11:32Z",
+  "fetched_at": "2026-08-24T10:54:26.159214+00:00"
+ },
+ "41d026475496": {
+  "id": "41d026475496",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-10-billion-hong-044723823.html",
+  "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能支出所需资金",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T07:01:20.264Z",
+  "fetched_at": "2026-08-24T10:54:44.756687+00:00"
+ },
+ "eec09370179f": {
+  "id": "eec09370179f",
+  "url": "https://www.aibase.com/news/30568",
+  "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T06:34:56.440Z",
+  "fetched_at": "2026-08-24T10:55:07.525528+00:00"
+ },
+ "134956fe4667": {
+  "id": "134956fe4667",
+  "url": "https://www.aibase.com/news/30567",
+  "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-24T06:34:56.440Z",
+  "fetched_at": "2026-08-24T10:55:16.487944+00:00"
+ },
+ "0ea437a255f1": {
+  "id": "0ea437a255f1",
+  "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+  "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-08-24T09:30:00.000Z",
+  "fetched_at": "2026-08-24T10:56:04.998663+00:00"
+ },
+ "e845ffbc7ba2": {
+  "id": "e845ffbc7ba2",
+  "url": "https://arxiv.org/abs/2608.20401",
+  "title": "World models of environment, agent and joint agent-environment systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T10:56:20.883358+00:00"
+ },
+ "c348750cfc8e": {
+  "id": "c348750cfc8e",
+  "url": "https://arxiv.org/abs/2608.20485",
+  "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T10:56:29.341934+00:00"
+ },
+ "1a9971988a1f": {
+  "id": "1a9971988a1f",
+  "url": "https://arxiv.org/abs/2608.20630",
+  "title": "SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T10:56:43.041765+00:00"
  }
 }

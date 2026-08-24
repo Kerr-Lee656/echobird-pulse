@@ -1,0 +1,22 @@
+{
+ "id": "134956fe4667",
+ "url": "https://www.aibase.com/news/30567",
+ "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T06:34:56.440Z",
+ "fetched_at": "2026-08-24T10:55:16.487944+00:00",
+ "content": "Alibaba officially launched the new video generation large model Wan3.0 on August 24. This upgrade marks a comprehensive breakthrough in Alibaba's video generation field, with deep advancements in core dimensions such as generation duration, universal creation, comprehensive reference, and realistic world reproduction.\nIn terms of generation capability, Wan3.0 significantly increases the single video generation duration to 30 seconds, greatly expanding the narrative space of a single shot. At the same time, the model has, for the first time, achieved support for input of multiple mainstream document formats, including doc, xls, ppt, pdf, and md, allowing text, tables, and presentation slides to be directly converted into vivid visual content.\nTo address common issues such as visual inconsistencies and style drift in video generation, Wan3.0 demonstrates strong stability at a fine-grained level. Whether it is character appearance, prop details, sound configuration, spatial relationships, or overall visual style, the model maintains high consistency before and after, striving to accurately reproduce the physical and logical laws of the real world.",
+ "report": {
+  "summary": "阿里发布Wan3.0视频生成大模型，支持30秒生成及多文档输入。",
+  "background": "视频生成大模型是当前AI竞争的热点，OpenAI Sora、快手可灵等相继推出，但普遍存在生成时长有限、不同镜头间人物和风格不一致的问题。阿里通义万相系列此前已积累多模态能力，此次Wan3.0以超长生成和强一致性为突破口，意图在影视、营销、办公等场景抢占应用高地。",
+  "key_points": [
+   "单次生成时长提升至30秒，显著扩展单镜头叙事空间，接近短片制作门槛。",
+   "首次支持doc、xls、ppt、pdf、md等文档格式直接转视频，降低创作门槛。",
+   "在人物外貌、道具、声音、空间关系及视觉风格上保持高度一致，解决风格漂移痛点。",
+   "强调对现实世界物理和逻辑规律的复现，提升视频真实感与可用性。"
+  ],
+  "impact": "对AI行业而言，Wan3.0将视频生成的竞争焦点从“能生成”转向“可控、一致、实用”。开发者可利用其文档转视频能力构建自动化内容生产工具，降低视频制作成本。普通用户未来可快速将PPT、PDF等转为宣传视频或短视频，极大简化创作流程。但需注意版权与虚假信息风险，以及算力成本对普及的制约。",
+  "tools": "可关注通义万相官网及阿里云Model Studio平台；开源生态可对比同类的快手可灵、智谱CogVideoX，以及可控生成工具ComfyUI-AnimateDiff，了解不同模型的一致性与表现力差异。"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "1a9971988a1f",
+ "url": "https://arxiv.org/abs/2608.20630",
+ "title": "SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T10:56:43.041765+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 21 Aug 2026]\n    Title:SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL\nView PDF HTML (experimental)\n            Abstract:SQL systems increasingly expose AI functions for tasks such as classification, extraction, filtering, ranking, retrieval, joining, and summarization. Despite their diverse APIs, these functions play only three relational roles: transforming individual rows, aggregating groups, or generating relationships between row pairs. We present SAGE (Self-Adaptive Generative Execution), a unified logical and physical framework that captures these roles with three typed primitives, AI_SCALAR, AI_AGG, and AI_JOIN, and composes them naturally with standard relational operators. All primitives share a confidence-gated execution interface while supporting physical strategies tailored to their relational shape. The main challenge is AI_JOIN, where SAGE analyzes the predicate, decomposes compound conditions when possible, and uses a recipe card together with a small label-free probe to select among complete execution strategies. Across a broad audit of public AI operators and evaluations spanning scalar, aggregate, and join workloads, this formulation covers common AI functionality while consistently improving execution quality and efficiency. SAGE achieves the strongest overall SemBench performance and, on a representative factorable join, reduces pairwise model calls by more than two orders of magnitude, yielding a 358-fold measured cost reduction.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "SAGE提出统一代数框架，将SQL AI函数归为三类原语，大幅提升执行效率。",
+  "background": "随着大模型普及，SQL数据库开始集成分类、抽取、排序等AI函数，但这些API各自为政，缺乏统一的理论模型和优化手段。本文作者观察到，尽管AI函数形态各异，其关系语义无非是行级变换、分组聚合和行对连接三类。SAGE提出三种类型化原语，并配套置信门控执行接口和自适应物理策略，特别针对最复杂的AI_JOIN设计了谓词分解与探针选择机制。在SemBench等基准测试中，SAGE展现了全面的性能优势。",
+  "key_points": [
+   "SAGE将AI函数抽象为AI_SCALAR、AI_AGG、AI_JOIN三种原语，与标准关系算子自然组合，统一了SQL中AI功能的逻辑模型。",
+   "所有原语共享置信门控接口，允许根据模型预测质量动态决定执行路径，兼顾准确性与成本控制。",
+   "针对AI_JOIN，SAGE通过谓词分解和配方卡加无标签探针，自动选择执行策略，避免大量无效成对模型调用。",
+   "实验表明SAGE在SemBench上综合表现最佳；在可分解连接场景中，成对调用减少超两个数量级，实测成本降低358倍。"
+  ],
+  "impact": "对AI行业而言，该框架有望成为SQL数据库集成AI功能的标准范式，降低碎片化带来的适配成本；对开发者，SAGE提供了清晰的优化接口，可直接编排复杂AI查询并获得可预测的性能提升；对普通用户，数据库驱动的AI应用将响应更快、使用成本更低，促进智能数据服务在更多场景落地。",
+  "tools": "建议关注SAGE官方实现（若发布）、SemBench基准测试工具、DuckDB机器学习扩展和PostgreSQL pgvector，以实践SQL内AI函数。"
+ }
+}

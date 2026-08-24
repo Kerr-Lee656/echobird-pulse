@@ -1,0 +1,22 @@
+{
+ "id": "eec09370179f",
+ "url": "https://www.aibase.com/news/30568",
+ "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T06:34:56.440Z",
+ "fetched_at": "2026-08-24T10:55:07.525528+00:00",
+ "content": "The liver cancer diagnostic AI model DAMO LiON, developed by Alibaba DAMO Academy in collaboration with institutions such as Shengjing Hospital, China Medical University, has recently been published in the top international medical journal Nature Medicine. The model can identify small liver lesions through enhanced CT images, especially those that are easy to miss, such as liver metastases.\nIn a two-month real-world prospective clinical trial, DAMO LiON assisted in reading images for more than 10,000 patients, identifying 15 malignant tumors that had been previously missed. Most of these lesions were approximately 1 cm in diameter and enabled patients to receive timely surgery or medication treatment.\nResearch shows that after using AI-assisted image reading, doctors' reading time was reduced by 27%, and their sensitivity to malignant tumors increased by 11.5%. At the same time, junior doctors were able to achieve the diagnostic level of senior doctors with AI assistance.\nAccording to the introduction, DAMO LiON uses an improved network architecture, paying attention to the relationship between lesions and the entire liver, while retaining local texture and boundary information. It can also integrate different phases of enhanced CT images, capturing changes in small lesions at different scanning stages, thereby improving the ability to identify complex cases such as fatty liver, liver cirrhosis, and postoperative livers.",
+ "report": {
+  "summary": "达摩院肝癌AI模型刊于《自然·医学》，两个月揪出15例漏诊肿瘤。",
+  "background": "肝癌早期症状隐蔽，增强CT是常用筛查手段，但微小病灶尤其是肝转移瘤容易漏诊。此前AI辅助诊断研究多为回顾性数据，缺乏真实临床验证。达摩院联合盛京医院等机构研发DAMO LiON，通过真实世界前瞻性试验证明其临床价值，结果发表在《自然·医学》。这一突破不仅展示AI在复杂医疗场景中的可靠性，也为后续监管审批和规模化落地提供了高等级证据。",
+  "key_points": [
+   "DAMO LiON通过增强CT识别微小肝脏病灶，尤其易漏诊的肝转移瘤，真实临床试验中辅助筛查超万名患者，发现15例此前漏诊的恶性肿瘤，多数约1厘米。",
+   "AI辅助读片使医生读片时间缩短27%，对恶性肿瘤的敏感性提升11.5%，初级医生在AI支持下可达到高级医生诊断水平。",
+   "模型采用改进网络结构，兼顾病灶与全肝关系及局部纹理边界，并整合多期增强CT影像，提升对脂肪肝、肝硬化、术后肝等复杂病例的识别能力。",
+   "该研究为真实世界前瞻性试验，登上《自然·医学》，为AI影像在肝癌早筛中的临床落地提供了高质量循证依据。"
+  ],
+  "impact": "对AI医疗行业，这是从科研走向临床的重要案例，有助于建立医生信任和监管标准，加速AI影像产品审批。对开发者，多期影像融合和全局-局部特征建模方法值得借鉴，也凸显真实世界数据的重要性。对普通患者，AI辅助诊断能减少漏诊，尤其对1厘米左右的小肿瘤，可争取更早手术或用药机会，带来实际生存获益。",
+  "tools": "可查阅《自然·医学》论文了解DAMO LiON技术细节；开源医学影像框架MONAI、nnU-Net可用于复现和开发类似病灶分割模型；阿里云医疗AI平台或提供相关合作入口。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "e845ffbc7ba2",
+ "url": "https://arxiv.org/abs/2608.20401",
+ "title": "World models of environment, agent and joint agent-environment systems",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T10:56:20.883358+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 23 Jul 2026]\n    Title:World models of environment, agent and joint agent-environment systems\nView PDF\n            Abstract:World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there is a prior distinction: which channel they model. We consider three cases: the environment channel $O_{:} \\mid A_{:}$, the agent channel $A_{:} \\mid O_{:}$, and the realised joint process $(A, O)_{:}$, equivalently viewed as a channel with no inputs. Using computational mechanics, we define canonical predictive models for these three cases as $\\epsilon$-transducers or $\\epsilon$-machines. Canonical environment models recover standard predictive state representations, while the other two give analogous notions of canonical models for the agent and the joint system. We then build canonical support-restricted environment and agent models induced by closed-loop coupling, whose predictive equivalences range over continuations supported by the realised interaction. The key structural result is that canonical support-restricted environment states factor through the canonical joint causal states, and their transition structure is induced directly from the joint model; the agent-side construction is dual. Finally, we give a POMDP/controller example in which the unrestricted environment model has infinitely many states while the canonical support-restricted model induced by the coupling is finite. The framework clarifies what different world models are models of, and how coupling and support restriction can change their canonical predictive structure and complexity.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "论文按通道将世界模型分为环境、智能体与联合系统三类，并用计算力学统一其规范预测结构。",
+  "background": "世界模型是模型强化学习的核心组件，传统上根据预测变量（观测、奖励、状态等）进行分类。本文提出更根本的区分：模型所建模的“通道”——环境通道、智能体通道还是联合过程。作者借助计算力学中的epsilon-machine和epsilon-transducer，为三类通道分别定义规范预测模型，并引入“支持受限”概念分析闭环耦合下的模型结构。该框架旨在厘清不同世界模型究竟在建模什么，以及耦合如何改变其状态复杂度和预测等价性。",
+  "key_points": [
+   "提出通道分类法：世界模型应首先区分建模环境通道、智能体通道还是联合过程，这一区分比预测变量更根本。",
+   "用计算力学定义规范模型：三类通道分别形式化为epsilon-transducer或epsilon-machine，统一了环境预测状态表示与智能体/联合系统的对应概念。",
+   "支持受限模型与分解：闭环耦合下，规范支持受限的环境状态可通过联合因果状态分解，转移结构由联合模型诱导，智能体侧对偶成立。",
+   "示例揭示复杂度差异：POMDP中非受限环境模型状态无限，而耦合诱导的支持受限模型状态有限，说明交互情境可简化世界模型。",
+   "理论框架意义：为多智能体交互和开放式环境的建模提供新工具，澄清现有世界模型在“做谁的模型”以及模型复杂度来源。"
+  ],
+  "impact": "对AI行业，这项框架有助于设计更精准且更简化的世界模型，尤其是在多智能体系统中清晰区分自身模型与环境模型，减少计算冗余。对开发者，提供理论依据来构建交互相关的支撑受限模型，仅在持续耦合中保留必要状态，避免状态爆炸。对普通用户，这意味着更高效、适应性更强的强化学习智能体可能面世，能在真实动态环境中以更低资源做出可靠决策。",
+  "tools": "可关注计算力学和隐马尔可夫建模工具：hmmlearn（Python HMM库）、PyPhi（因果分析）、Gymnasium和EnvPool（环境交互模拟）用于验证该框架；另有学术工具如Causal States相关开源实现可辅助复现epsilon-machine。"
+ }
+}

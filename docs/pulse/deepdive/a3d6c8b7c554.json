@@ -1,0 +1,23 @@
+{
+ "id": "a3d6c8b7c554",
+ "url": "https://www.aibase.com/news/30577",
+ "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-24T08:35:30.875Z",
+ "fetched_at": "2026-08-24T10:53:31.477438+00:00",
+ "content": "American legal AI unicorn Harvey announced that it has developed a legal-specific model called Harvey Tenet, based on the open-weight model Kimi K3 from Moonshot AI, through post-training technology. This means that China's open-weight model has entered the training system of a leading vertical AI company in the United States for the first time.\nPreviously, Harvey mainly relied on closed-source models such as OpenAI and Anthropic to provide legal services, covering more than 2,400 organizations and 200,000 lawyers, with clients including many world-class corporate legal departments. Public information shows that its current valuation is 11 billion dollars, with an annualized revenue of about 350 million dollars, making it the highest-valued legal AI unicorn. It is currently raising funds at a valuation of about 15.5 billion dollars. From reliance on closed-source models to adopting a Chinese open-source foundation, the implementation of Tenet also reflects the increasing practical trust in open-weight models in vertical markets.",
+ "report": {
+  "summary": "美国法律AI独角兽Harvey基于中国Kimi K3开源模型推出法律专用模型Tenet。",
+  "background": "Harvey是估值110亿美元的法律AI独角兽，服务超2400家机构和20万律师，此前主要依赖OpenAI、Anthropic等闭源模型。如今其基于月之暗面开源的Kimi K3权重模型，通过后训练打造出法律专用模型Tenet，标志着中国开源权重模型首次进入美国头部垂直AI公司的训练体系。这一转变源于开源模型性能快速提升，以及在垂直行业中定制化、数据安全与控制权需求的增强。Harvey正在以约155亿美元估值融资，年化收入约3.5亿美元。",
+  "key_points": [
+   "Harvey Tenet基于Moonshot AI的Kimi K3开源权重模型，通过后训练技术构建，而非从零训练，显示出开源模型作为基座的实用性。",
+   "这是中国开源模型首次被美国头部垂直AI独角兽用于商业产品，打破了此前OpenAI/Anthropic闭源模型在该领域的垄断地位。",
+   "Harvey现有规模庞大：覆盖2400多家机构、20万律师，年化收入约3.5亿美元，估值110亿美元并正以155亿美元融资，Tenet将直接对核心业务产生影响。",
+   "开源权重模型在垂直市场的信任度提升，因其允许模型定制、数据隐私保护与成本控制，尤其适合法律等对安全要求高的行业。",
+   "该案例可能推动更多中国开源模型（如DeepSeek、Qwen等）出海，但也可能引发美国监管对开源模型供应链安全的关注。"
+  ],
+  "impact": "对AI行业而言，开源模型从技术demo走向商业化刚需场景，证明开源权重路线可替代闭源API，头部垂直公司愿意切换。对开发者，意味着可基于中国开源模型做深度后训练，构建行业专用解决方案，降低依赖单一供应商的风险。对普通用户，法律服务质量有望因垂直优化而提升，但需关注跨境数据合规与模型安全审计。整体上，中国开源模型出海进入新阶段，但也面临地缘政治与技术信任的双重考验。",
+  "tools": "关注Moonshot AI的Kimi K3模型权重（可通过Hugging Face等平台获取）；后训练框架如LLaMA-Factory、Axolotl；法律领域可用Harvey Tenet的演示或API（若开放）。开源社区可参考OpenAI的evals或LangChain进行垂直评测。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "c348750cfc8e",
+ "url": "https://arxiv.org/abs/2608.20485",
+ "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T10:56:29.341934+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:Terminal Agents: A Survey of AI Agents in Command-Line Environments\nView PDF HTML (experimental)\n            Abstract:Large language model agents increasingly act through terminals, yet existing surveys disperse terminal-mediated behavior across software engineering, tool use, and computer-use research. We regard terminal agents as systems whose dominant progress-bearing action--observation loop is mediated by terminal command execution, textual feedback, and stateful environment interaction. Using terminal-mediated execution as an organizing lens, this survey establishes workload-level boundaries and connects system architecture, competence acquisition, and evaluation through a seven-dimensional terminal competence profile. Our synthesis shows that realized behavior is jointly shaped by the model, interface, harness, runtime, and environment. Executable trajectories ground learning in action consequences, verification, and recovery, whereas prevailing evaluations emphasize final outcomes and expose process quality, recovery, and governance unevenly. Bounded fixed-condition diagnostics illustrate two implications: benchmark families expose different process signals, and matched system comparisons reveal benchmark-dependent performance and limits of component attribution. These findings motivate explicit reporting of system and runtime conditions, supported by replayable traces and process-level evidence. The framework provides a unified basis for studying terminal-mediated agency across software engineering and emerging application domains.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "综述终端AI代理，提出七维能力框架与评测建议。",
+  "background": "大模型代理越来越多地通过命令行终端执行任务，但现有研究将这种行为分散在软件工程、工具调用和计算机使用等不同领域，缺乏统一视角。该综述将终端代理定义为以命令执行为核心的“动作-观察”循环系统，试图建立统一的分析框架，梳理系统架构、能力获取与评估方法，填补该交叉领域的空白。",
+  "key_points": [
+   "首次系统化梳理终端代理，将其作为独立研究对象，连接软件工程与新兴应用场景。",
+   "提出七维“终端能力画像”，涵盖流程质量、恢复能力、治理等多个维度，用于刻画代理行为。",
+   "揭示真实行为由模型、接口、框架、运行时和环境共同决定，不能只归因于单一组件。",
+   "现有评测过度关注最终结果，对过程质量、恢复力和治理的考察不足。",
+   "建议未来报告明确系统与运行时条件，并提供可重放轨迹和过程级证据，提升可比性。"
+  ],
+  "impact": "对AI行业而言，该框架有助于统一终端代理的研发与评测标准，推动代理从“能出结果”走向“过程可靠”。开发者可参考七维画像设计更稳健的终端代理，并关注过程可观测性。普通用户将看到更可靠、可解释的命令行自动化工具，减少黑箱操作带来的风险。",
+  "tools": "可关注Anthropic Claude Code、OpenAI Codex CLI等终端代理框架，以及BashBench、SWE-bench等过程级评测基准，以便实际跟踪和测评代理能力。"
+ }
+}
