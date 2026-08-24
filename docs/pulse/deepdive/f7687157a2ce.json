@@ -1,0 +1,22 @@
+{
+ "id": "f7687157a2ce",
+ "url": "https://arxiv.org/abs/2608.20490",
+ "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T07:21:05.839833+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 20 Aug 2026]\n    Title:Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts\nView PDF HTML (experimental)\n            Abstract:AI ethics frameworks treat values such as fairness, transparency, and accountability as universal and uniformly operationalizable across contexts. We examined how 14 experts across 10 countries made sense of AI in practice, reinterpreted core values, and envisioned governance alternatives. We found that AI deployment is characterized by structurally unequal conditions, marked by infrastructural constraints, extractive practices, and a \"mystification\" of technology, which fundamentally shape perceptions of risks and opportunities. Our findings reveal that experts reinterpret values to fit local moral logics: privacy as collective and relational rather than individual; transparency as trust-building accountability rather than technical disclosure; and fairness as equity in access and representation rather than parity in outcomes. We identify these as translation gaps between encoded global frameworks and situated local practices. Finally, we propose pathways toward plural governance that redistributes epistemic authority and treats ethical negotiation as an ongoing, context-sensitive process rather than a settled technical standard.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "全球AI伦理标准在实际应用中因地域文化差异而失效，需转向多元治理。",
+  "background": "近年来，AI伦理框架普遍将公平、透明、问责等价值观视为放之四海而皆准的准则，但现实部署中却屡屡出现水土不服。本研究访谈了10个国家的14位专家，发现不同地区的基础设施、资源分配和权力结构存在显著不平等，导致当地人对AI风险的感知、对价值内涵的解读都与西方预设不同。例如，隐私在部分文化中被视为集体关系而非个人权利，透明被理解为信任建立而非技术披露。这种“翻译鸿沟”揭示了全球伦理标准与本地实践之间的脱节，促使学界反思是否应继续推行统一的伦理规范。",
+  "key_points": [
+   "专家发现不同国家重新定义AI伦理：隐私被视为集体关系，公平侧重访问权限而非结果平等，透明侧重问责而非技术公开。",
+   "全球伦理框架常忽略基础设施落后、资源攫取和“技术神秘化”等结构性不平等，导致风险感知和机会判断失真。",
+   "研究提出“翻译鸿沟”概念，即编码化的全球标准与本地实践之间的断裂，而非简单执行不到位。",
+   "呼吁“多元治理”模式，将伦理协商视为持续、依赖具体情境的过程，而非固化技术标准。"
+  ],
+  "impact": "对AI行业而言，意味着不能再用单一模板开发全球化产品，需针对不同市场调整伦理策略。对开发者来说，需警惕代码中隐含的西方价值观，并主动引入本地化数据与反馈机制。对普通用户，这提醒我们AI服务应当尊重本地文化习惯，避免强加外部标准。最终，AI治理将从“统一规范”转向“主权国家自定义+多方协商”的混合模式，推动更公平的价值分配。",
+  "tools": "可关注arXiv的AI伦理论文库、Hugging Face的模型卡（Model Cards）工具，以及Connected Papers（相关论文图谱）和scite Smart Citations（引用语境分析）来追踪该领域后续研究。"
+ }
+}

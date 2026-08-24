@@ -1,0 +1,22 @@
+{
+ "id": "44cc6624880c",
+ "url": "https://arxiv.org/abs/2608.20425",
+ "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-24T04:00:00.000Z",
+ "fetched_at": "2026-08-24T07:20:57.248979+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 19 Aug 2026]\n    Title:Who Delegates to AI? Evidence from 53,000 Agent Configurations\nView PDF\n            Abstract:A growing literature measures how far occupations are exposed to AI, but these measures capture where AI could perform tasks, not whether workers have adopted it. We propose a new layer of exposure, delegated exposure, which records whether a worker has committed a task to AI by building it into a workflow. We operationalize it as the Agentic Adoption Index (AAI), which measures how closely an occupation's tasks match the agentic routines practitioners have already built and shared. We embed roughly 53,000 agent skill specifications from the Manus Skills Marketplace, compute their semantic similarity to about 18,000 O*NET task statements, and aggregate to the occupation level. Three findings follow. First, the occupations where delegation concentrates differ sharply from those pre-AI frameworks identified as most at risk. Second, the AAI tracks what AI could do more closely than what workers currently use it for. Third, the AAI peaks below the top of the wage distribution and at the bachelor's level, declining at both extremes. Technical availability explains most of this variation, but not the shortfall among the most educated occupations, so feasibility alone cannot account for who adopts. That shortfall may reflect work that resists advance specification, or professional discretion over the pace of codification. Distinguishing the two, and tracking how these measures diverge over time, will require repeated measurement.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "用5.3万AI代理配置衡量委派采用，揭示实际人机分工。",
+  "background": "此前AI暴露度研究多基于任务属性推断AI潜力，但无法反映真实采用情况。本文提出“委派暴露”新维度，从Manus Skills Marketplace收集约5.3万个AI代理技能配置，将其与O*NET的1.8万条任务描述做语义相似度匹配，聚合到职业层面，形成“代理采用指数(AAI)”。该方法用人们实际构建并共享的工作流，倒推出哪些职业真正把任务交给了AI。",
+  "key_points": [
+   "AAI显示的实际委派职业分布，与传统AI暴露度预测的“高风险职业”明显不同，说明潜力不等于落地。",
+   "AAI与AI技术能力边界的相关性高于与工人实际使用行为的相关性，说明当前采用仍受工具供给驱动。",
+   "AAI在工资分布中下部及本科学历处达到峰值，高学历和高收入职业反而偏低，技术可用性无法完全解释这一缺口。",
+   "高学历职业委派偏少可能源于工作难以预先结构化，或专业人士对编码节奏的自主控制，需重复测量来区分。"
+  ],
+  "impact": "对AI行业，AAI提供了从真实工作流出发的需求地图，帮助企业优先开发被实际采用的代理技能。对开发者，语义匹配+职业聚合的方法可以迁移到其他平台，用于追踪代理生态的演变。对普通用户，研究发现学历过高反而减少委派，提示AI应用设计需兼顾不同职业的认知习惯，而非仅追求技术可行性。政策制定者可借助AAI识别“表面安全”的职业，提前应对隐性替代。",
+  "tools": "可关注Manus Skills Marketplace（数据源）、O*NET database（任务描述）、sentence-transformers等语义相似度工具；另可参考论文链接中的alphaXiv、Connected Papers等文献工具。"
+ }
+}

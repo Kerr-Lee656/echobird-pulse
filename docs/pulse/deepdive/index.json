@@ -4471,5 +4471,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-24T04:00:00.000Z",
   "fetched_at": "2026-08-24T05:08:12.837130+00:00"
+ },
+ "44cc6624880c": {
+  "id": "44cc6624880c",
+  "url": "https://arxiv.org/abs/2608.20425",
+  "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T07:20:57.248979+00:00"
+ },
+ "f7687157a2ce": {
+  "id": "f7687157a2ce",
+  "url": "https://arxiv.org/abs/2608.20490",
+  "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T07:21:05.839833+00:00"
+ },
+ "fd43790c04ba": {
+  "id": "fd43790c04ba",
+  "url": "https://arxiv.org/abs/2608.20622",
+  "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T07:21:19.101940+00:00"
+ },
+ "72cd252135c7": {
+  "id": "72cd252135c7",
+  "url": "https://arxiv.org/abs/2608.20755",
+  "title": "Natural-Language-Guided Generator-Agnostic Shortlisting for Protein Binder Design",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:00:00.000Z",
+  "fetched_at": "2026-08-24T07:21:33.929563+00:00"
  }
 }
