@@ -1,0 +1,22 @@
+{
+ "id": "e3eda6967983",
+ "url": "https://aihot.virxact.com/items/cmt7e0g7y232wro738qg82x67",
+ "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+ "source": "NVIDIA Blog（RSS）",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-08-24T15:00:19.000Z",
+ "fetched_at": "2026-08-24T16:56:55.152105+00:00",
+ "content": "按该来源的展示范围，站内仅提供摘要。\n前往原站阅读（在新标签页打开）\nNVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍\nAI 导读\nNVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。\nNVIDIA Blog（RSS）\n精选\n63\nAI 编辑部评分，满分 100\nNVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍\nNVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。\n推荐理由\n对电力受限的 AI 工厂，每兆瓦吞吐量 30 倍提升与 token 成本同步下降，意味着同等能源预算下可承载的 agentic 负载量级不同，部署决策中的成本模型可能改写。\n来源：NVIDIA Blog（RSS）· blogs.nvidia.com",
+ "report": {
+  "summary": "Vera Rubin NVL72树立能效标杆，智能体负载每瓦特工作量提升30倍。",
+  "background": "AI智能体正从演示走向生产，但大规模部署受制于算力消耗和电费。NVIDIA上一代GB300 NVL72是主力的Blackwell机架系统，处理长链条智能体任务时能耗和token成本偏高。Vera Rubin是NVIDIA下一代GPU架构，搭配NVL72机架系统，针对智能体负载专门优化。据官方实测，每兆瓦吞吐量比GB300 NVL72最高提升30倍，每百万token成本降至1/35，被视为改写AI工厂性价比的重要产品。",
+  "key_points": [
+   "Vera Rubin NVL72面向智能体场景，每兆瓦吞吐量较上代GB300 NVL72最高提升30倍，直接缓解数据中心电力受限的瓶颈。",
+   "每百万token成本最高降低35倍，让大规模agent应用不再被推理费拖累，云厂商的成本模型可能被重新定义。",
+   "效率提升源于新一代Vera Rubin架构与NVL72系统级协同，针对智能体工作流做专用优化，而非简单堆硬件。",
+   "NVIDIA实测数据将影响算力采购决策，同等电力预算下可承载更多agent任务，推动AI工厂向能效优先转型。"
+  ],
+  "impact": "对AI行业，能效跃升可缓解算力扩张与电力供给的矛盾，加速智能体商业化落地；对开发者，token成本骤降意味着可以放心构建长链路、多轮调用应用，探索更高自主性；对普通用户，智能体产品的使用费用有望降低，同时因吞吐提升，响应速度更快、体验更流畅。",
+  "tools": "可关注NVIDIA NIM微服务（一键部署优化模型）、TensorRT-LLM（推理加速）以及NeMo框架（定制智能体），用于在Vera Rubin平台上实现类似收益。"
+ }
+}

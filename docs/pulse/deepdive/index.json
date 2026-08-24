@@ -4903,5 +4903,104 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-08-24T13:47:26.000Z",
   "fetched_at": "2026-08-24T14:59:40.786491+00:00"
+ },
+ "d9a0d687ee87": {
+  "id": "d9a0d687ee87",
+  "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+  "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T16:54:57.071106+00:00"
+ },
+ "1c7df553144d": {
+  "id": "1c7df553144d",
+  "url": "https://hub.baai.ac.cn/view/57417",
+  "title": "英伟达 AI 服务器将涨价 15%！1GW 数据中心成本激增 50 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T16:55:07.140205+00:00"
+ },
+ "ee169d5a9ba5": {
+  "id": "ee169d5a9ba5",
+  "url": "https://www.ithome.com/0/993/742.htm",
+  "title": "苹果 Apple Store 应用 AI 助手悄悄上线，目前处于早期预览状态",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T14:19:49Z",
+  "fetched_at": "2026-08-24T16:55:14.388092+00:00"
+ },
+ "b29cf32b771e": {
+  "id": "b29cf32b771e",
+  "url": "https://finance.yahoo.com/technology/ai/articles/openai-cfo-just-told-employees-135036521.html",
+  "title": "OpenAI首席财务官刚刚向员工表示，公司将在2027年或更早时间进行首次公开募股",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T14:13:36.014Z",
+  "fetched_at": "2026-08-24T16:55:26.194290+00:00"
+ },
+ "a555f53e8a12": {
+  "id": "a555f53e8a12",
+  "url": "https://www.ithome.com/0/993/738.htm",
+  "title": "路透社母公司汤森路透花 4000 万美元研发 AI 模型，基于阿里千问",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T13:57:55Z",
+  "fetched_at": "2026-08-24T16:55:36.933091+00:00"
+ },
+ "ae76c7f30eca": {
+  "id": "ae76c7f30eca",
+  "url": "https://juejin.cn/post/7676809743765241862",
+  "title": "腾讯正式上线AI应用生成平台：一句话生成 App，还能直接上架商店",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-08-24T12:04:43.444Z",
+  "fetched_at": "2026-08-24T16:55:45.330252+00:00"
+ },
+ "6fa02c4f9ef7": {
+  "id": "6fa02c4f9ef7",
+  "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+  "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-24T15:24:18.000Z",
+  "fetched_at": "2026-08-24T16:56:36.657781+00:00"
+ },
+ "e3eda6967983": {
+  "id": "e3eda6967983",
+  "url": "https://aihot.virxact.com/items/cmt7e0g7y232wro738qg82x67",
+  "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+  "source": "NVIDIA Blog（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-24T15:00:19.000Z",
+  "fetched_at": "2026-08-24T16:56:55.152105+00:00"
+ },
+ "a8a77e450426": {
+  "id": "a8a77e450426",
+  "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+  "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-24T15:00:00.000Z",
+  "fetched_at": "2026-08-24T16:57:04.381532+00:00"
+ },
+ "b8414a69a0e9": {
+  "id": "b8414a69a0e9",
+  "url": "https://aicybr.com/blog/xiaomi-ai-cube-xring-o100-local-ai",
+  "title": "Xiaomi AI Cube and Xring O100: 1.22 TB/S, 330 Tokens/S and 120B Local AI",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T13:11:51Z",
+  "fetched_at": "2026-08-24T16:57:26.214964+00:00"
+ },
+ "109065e30fac": {
+  "id": "109065e30fac",
+  "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+  "title": "Continuous Diffusion Language Models",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T10:08:52Z",
+  "fetched_at": "2026-08-24T16:57:38.602065+00:00"
  }
 }

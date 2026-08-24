@@ -1,0 +1,23 @@
+{
+ "id": "d9a0d687ee87",
+ "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+ "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+ "source": "BBC News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T16:54:57.071106+00:00",
+ "content": "Twitch and Amazon face legal action over using livestreams to train AI\n- Published\nAmazon is facing a lawsuit, external over its move to train its AI models on videos people broadcast on the popular streaming platform Twitch.\nThe move faced backlash from users when it was announced in August - with people having the option to opt-out if they do not want their data used this way.\nThe class action lawsuit has been brought on behalf of millions of streamers who use Twitch, alleging its parent company Amazon used their videos to train AI without their permission or proper compensation.\nTwitch and Amazon have not commented on the lawsuit.\nStreamers on the platform reportedly produced, external more than 215 million hours of content in the first few months of 2026 alone.\nThe lawsuit was brought by Connecticut-based streamer Warren Pandiscia.\nIt claims Twitch breached its contract with users by using that content as AI training data for Amazon's models without obtaining their permission.\nIt adds streamers should not have their work commercially exploited to develop AI without consent or compensation.\nThe lawsuit seeks damages for streamers whose content was allegedly used to train AI, as well as an order preventing Amazon from continuing the alleged practice.\nIt is not clear when Amazon began collecting Twitch users' data to train its AI models.\nTwitch's chief product officer Mike Minton previously said he did not know if users' data had been scraped for training before it gave people the opportunity to opt-out.\nHe said he was unsure what Amazon \"has done in terms of model training and what they've used and not used\".\nIn Twitch's own FAQs about AI training, it said a person's audio might be used to \"refine models that create speech to text\".\nIt said this would help improve automatic subtitles on Twitch streams as well as Amazon videos.\nThose that want to disable the feature would need to navigate to the Settings tab in their Streamer Dashboard, click the Security and Privacy tab, then scroll down to near the bottom of the options and toggle off \"training for Generative AI\".\nHowever, the opt-out only applies to individual streams, meaning creators' content could still be used for AI training when they appear in a stream where the feature remains enabled.\nAmazon, which bought Twitch for nearly $1bn (£740m) in 2014, has made AI a major focus as it competes with Google, Meta and other tech giants.\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.\nRelated topics\n  - Published5 December 2025",
+ "report": {
+  "summary": "亚马逊因用 Twitch 直播训练 AI 遭主播集体诉讼",
+  "background": "亚马逊于 2014 年斥资近 10 亿美元收购直播平台 Twitch。2025 年 8 月，亚马逊宣布将使用平台上用户直播的视频来训练 AI 模型，引发主播强烈反弹，随后提供了选择退出（opt-out）功能。如今，康涅狄格州主播 Warren Pandiscia 代表数百万主播提起集体诉讼，指控 Twitch 违反用户合同，未经许可将内容用于 AI 训练，且未给予补偿。Twitch 高管承认不确定此前数据是否已被用于训练，选择退出也仅适用于单个直播，出现在他人直播中仍可能被收集。当前亚马逊正与谷歌、Meta 等巨头在 AI 领域竞争，此案凸显了用户数据使用的法律与伦理争议。",
+  "key_points": [
+   "集体诉讼指控亚马逊未经主播允许，将数百万小时的 Twitch 直播内容用于训练自有 AI 模型，违反用户协议并要求赔偿及停止侵权。",
+   "用户可在设置中关闭“生成式 AI 训练”选项，但该设置仅对本人直播有效，若出现在他人的直播中仍可能被当作训练数据。",
+   "Twitch 产品主管坦言不确定亚马逊在提供选择退出之前是否已经抓取用户数据，引发外界对平台透明度与数据隐私的质疑。",
+   "Twitch 平台内容量极为庞大，仅 2026 年初的几个月内就产生了超过 2.15 亿小时的直播内容，使其成为 AI 训练的“金矿”。",
+   "亚马逊和 Twitch 目前未对诉讼发表评论，该案或为科技公司使用 UGC 训练 AI 树立重要的法律先例。"
+  ],
+  "impact": "对 AI 行业而言，这起诉讼可能重塑内容版权与数据训练的边界，促使企业更谨慎地处理用户生成内容。对开发者来说，需警惕训练数据来源的合法性与合规审查，避免陷入侵权纠纷。对普通用户，尤其是主播和内容创作者，应主动了解平台隐私设置，重视自身数据权益，并关注法律进展以维护自身利益。",
+  "tools": "创作者可关注 Twitch 后台“设置-安全与隐私”中的“生成式 AI 训练”开关；研究者可跟进 EFF（电子前沿基金会）发布的 AI 数据隐私指南与维权模板；开发者可关注开源合规工具如 Credo AI 及数据溯源项目，以评估训练数据的合法性。"
+ }
+}
