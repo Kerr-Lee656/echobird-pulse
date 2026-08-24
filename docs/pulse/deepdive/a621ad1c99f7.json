@@ -1,0 +1,22 @@
+{
+ "id": "a621ad1c99f7",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html",
+ "title": "有报道称苹果或将采购中国产芯片，存储股应声下挫：闪迪下跌9%，美光和西部数据均下跌7%",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-24T15:49:22.924Z",
+ "fetched_at": "2026-08-24T19:00:09.386664+00:00",
+ "content": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%\nQuick Read\n-       SanDisk dropped 9% and Micron fell 7% after reports the Trump administration may let Apple source memory from Chinese suppliers ahead of Xi's U.S. visit.\n-       KC Rajkumar calls the selloff an overreaction, noting that CXMT can't qualify for Apple iPhones and YMTC has committed its newest NAND to domestic customers.\n-       Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Micron Technology didn't make the cut. Grab the names FREE today.\nMemory stocks are sliding Monday morning after weekend reports that Washington may permit Apple (NASDAQ:AAPL) to source memory chips from Chinese suppliers. The policy shift would land squarely on the U.S. and Korean players that dominate the group.\nSanDisk (NASDAQ:SNDK) stock is down 9% to $1,458.29, leading the group lower. Meanwhile, Micron Technology (NASDAQ:MU) stock is down 7% to $897.86 in early Monday trading, the cleanest read-through to any shift in Apple's DRAM sourcing.\nWestern Digital (NASDAQ:WDC) stock is down 7% to $429.49 on similar sector-wide pressure, and SK Hynix (NASDAQ:SKHY) stock is down 5% to $154.48 as the selling spans geographies. The Roundhill Memory ETF (CBOE:DRAM) is down 7% to $53.62, matching the individual names almost exactly and signaling that traders aren't sorting between NAND and DRAM exposure.\nThe uniformity is the tell. This looks like a policy-headline shock landing on a sector that had already run enormously, with SanDisk stock up 572% year to date through Friday's close and Micron Technology stock up 239% YTD through Friday's close. Gains like that invite exactly this kind of gap risk (we wrote a free handbook on riding a mania and planning the exit here: The Bubble Survivor's Handbook).\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Micron Technology didn't make the cut. Grab the names FREE today.\nWeekend Report on Chinese Memory Sourcing\nReports circulating over the weekend said the Trump administration may permit Apple to source DRAM from China's CXMT and NAND flash memory from YMTC. The move is described as a possible diplomatic gesture ahead of President Xi Jinping's planned U.S. visit, expected on or around September 24. Apple has said it is \"evaluating all options\" on memory supply and that Chinese sourcing \"could help us on the supply side and perhaps the pricing side.\"\nThe stakes concentrate at Micron. As the dominant U.S. supplier of the high-density lpDDR5x DRAM Apple uses in iPhones and Macs, Micron Technology shares carry the most direct read-through to any shift in Apple's memory sourcing decision.",
+ "report": {
+  "summary": "传苹果可能采购中国存储芯片，美光、闪迪等存储股大幅下挫。",
+  "background": "AI热潮带动存储芯片需求，美光和闪迪等股价年内暴涨，板块估值高企。周末有报道称，特朗普政府可能在习近平访美前允许苹果从中国长鑫存储采购DRAM、从长江存储采购NAND，作为外交姿态。这一消息直接冲击美国及韩国存储厂商，引发恐慌性抛售，但分析师认为市场反应过度，因为中国厂商短期难以满足苹果iPhone的供应要求。",
+  "key_points": [
+   "苹果或获准从中国采购内存芯片，存储股集体大跌：闪迪跌9%，美光、西部数据跌7%，SK海力士跌5%，存储ETF同步跌7%。",
+   "报道称特朗普政府可能在习近平访美前放松限制，作为外交姿态；苹果回应称正评估所有内存供应选项，涉及定价和供应链。",
+   "分析师认为抛售过度：长鑫存储DRAM无法通过苹果iPhone认证，长江存储最新NAND已承诺供应国内客户，实际冲击有限。",
+   "此前板块涨幅巨大，闪迪年内涨572%、美光涨239%，高涨幅放大消息冲击，市场出现获利回吐和恐慌性抛售。"
+  ],
+  "impact": "短期看，政策不确定性加剧存储板块波动，高估值股票面临回调风险。对AI行业而言，存储芯片是算力基础设施的关键，若供应链转向中国，可能重塑成本和地缘格局。开发者需关注内存价格波动对云端成本和AI推理开销的影响。普通用户或会在未来看到设备价格和存储产品定价变化，但短期内采购调整难以落地。",
+  "tools": "可关注TrendForce集邦咨询的DRAM/NAND报价与供需报告，以及CFM闪存市场行业数据；开源方面可用yfinance抓取存储股行情，smartmontools监控硬件状态。"
+ }
+}

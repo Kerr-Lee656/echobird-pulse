@@ -1,0 +1,23 @@
+{
+ "id": "408b8ae4d5e7",
+ "url": "https://thenextweb.com/news/taiwan-indicts-nvidia-manager-chip-smuggling-eu-gap",
+ "title": "Taiwan indicts Nvidia manager over chips shipped to China",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T18:59:17.590591+00:00",
+ "content": "Taiwanese prosecutors have indicted a senior Nvidia manager and eight others over an alleged scheme that shipped 74 servers containing B300 chips to China via Japan and Indonesia. They are seeking five years for forgery and breach of trust.\nThe first known criminal case against an Nvidia employee over AI chip smuggling has reached indictment. Taiwanese prosecutors have charged a senior manager surnamed Chang, whom they call the “core figure” of the scheme, and are seeking five years for forgery and breach of trust.\nHe was detained in July, and Bloomberg has been unable to reach him since. Nvidia as a company has not been accused of wrongdoing.\nThe volumes are modest by black-market standards and specific by legal ones. Seventy-four servers containing high-end B300 chips allegedly reached China through Japan and Indonesia, and another 56 were seized before they could leave.\nEight others were charged alongside him. They include two senior Super Micro employees and staff from four more firms, among them the reseller Albatron and Flying Tiger, named as the purported end user.\nThe economics explain the risk. TNW has reported B300 servers changing hands in China for around $1mn apiece, close to double the American price.\nWhat should trouble the industry is the safeguard that failed. Super Micro’s Taiwan arm will not sell to a buyer that has not passed checks by its own and Nvidia’s staff, including an in-person audit for orders of eight units or more.\nProsecutors say that audit was staged. Chang and one of the indicted Super Micro employees took “unsuspecting” colleagues to a data centre and concealed that Flying Tiger had never leased enough space for the hardware.\nChang then reported the inspection as complete. Super Micro approved a sale of 130 servers, delivered in three phases, of which 74 were routed onward to Chinese buyers.\nNvidia’s answer has been to shrink the approved list. The company has cut more than half its Asian customers from the whitelist that Flying Tiger had managed to join.\nEurope watches this with a gap in its own rules. Advanced AI accelerators are not controlled on the EU’s dual-use list, after a Russian veto at the Wassenaar Arrangement blocked multilateral agreement, leaving national measures and American extraterritorial reach to do the work.\nSo the controls that caught this were Taiwanese and American. The Commission’s reform of its own export regime has been pending since last year, while the servers move through whichever jurisdiction is slowest.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "台湾起诉英伟达经理等9人，涉向中国走私AI芯片服务器。",
+  "background": "美国为遏制中国AI发展，对先进AI芯片实施出口管制，英伟达B300等高端产品禁止对华销售。然而高额利润催生走私链条。台湾检方发现，英伟达台湾区经理张某伙同超微等公司人员，通过伪造审计，将装有B300芯片的服务器经日本、印尼转运至中国。这是首例英伟达员工被刑事起诉的芯片走私案。欧盟因内部机制问题，未将AI加速器纳入统一管制清单，导致监管存在漏洞。该案暴露了跨国供应链合规审查的脆弱性。",
+  "key_points": [
+   "首例刑事案件：台湾检方起诉英伟达经理张某及8名共犯，涉将74台B300服务器经日本印尼转运中国，另有56台被查获，张某或面临5年刑期。",
+   "审计欺诈手法：涉案人员安排不知情同事参观数据中心，隐瞒终端用户未租用足够空间的事实，伪造审计通过，从而骗取超微和英伟达合规审批。",
+   "高额利润驱动：B300服务器在华黑市售价约100万美元，几乎是美国价格两倍，巨额价差刺激走私冒险。",
+   "英伟达回应：英伟达已将亚洲客户白名单削减过半，以压缩风险，但供应链合规漏洞仍需行业警惕。",
+   "欧盟规则缺口：欧盟两用物项清单未管制先进AI加速器，因俄罗斯在瓦森纳安排否决，导致管制依赖国内法与美国域外法，欧盟改革滞后。"
+  ],
+  "impact": "对AI行业而言，本案促使芯片厂商收紧合规流程，白名单缩水，跨境交易审查更严，间接推高合规成本。对开发者，尤其在中国或依赖亚洲供应链的开发者，获取高端AI芯片可能更困难，或需转向替代方案。对普通用户，短期影响有限，但若管制持续，AI产品性能和供给可能受到约束，价格上升。同时，事件提醒所有跨国科技企业，需强化出口管制内部审计，避免因个别员工行为陷入法律风险。",
+  "tools": "可关注美国BIS官网和瓦森纳安排清单更新，以及合规服务商（如Kharon、Visual Compliance）的贸易筛查平台；开源社区也有出口管制清单解析脚本（GitHub搜索'export-control-list'），便于跟踪管制变化。"
+ }
+}

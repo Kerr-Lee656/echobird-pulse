@@ -5002,5 +5002,104 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-24T10:08:52Z",
   "fetched_at": "2026-08-24T16:57:38.602065+00:00"
+ },
+ "299f42df9591": {
+  "id": "299f42df9591",
+  "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+  "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T18:58:41.410339+00:00"
+ },
+ "052ca13d07ab": {
+  "id": "052ca13d07ab",
+  "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+  "title": "Hugging Face reportedly in talks to be acquired for $13B",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T18:58:53.767874+00:00"
+ },
+ "408b8ae4d5e7": {
+  "id": "408b8ae4d5e7",
+  "url": "https://thenextweb.com/news/taiwan-indicts-nvidia-manager-chip-smuggling-eu-gap",
+  "title": "Taiwan indicts Nvidia manager over chips shipped to China",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T18:59:17.590591+00:00"
+ },
+ "9fe149148400": {
+  "id": "9fe149148400",
+  "url": "https://thenextweb.com/news/twitch-amazon-pandiscia-class-action-terms-rewrite-ai-training",
+  "title": "Twitch and Amazon face a class action over livestream AI training",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T18:59:41.919033+00:00"
+ },
+ "ef905af27c86": {
+  "id": "ef905af27c86",
+  "url": "https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html",
+  "title": "燧原科技启动科创板发行，全栈技术体系支撑 AI 芯片商业化落地",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T18:59:53.888757+00:00"
+ },
+ "a621ad1c99f7": {
+  "id": "a621ad1c99f7",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html",
+  "title": "有报道称苹果或将采购中国产芯片，存储股应声下挫：闪迪下跌9%，美光和西部数据均下跌7%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T15:49:22.924Z",
+  "fetched_at": "2026-08-24T19:00:09.386664+00:00"
+ },
+ "506ca250dc49": {
+  "id": "506ca250dc49",
+  "url": "https://www.qbitai.com/2026/08/478568.html",
+  "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-24T19:00:17.963682+00:00"
+ },
+ "7a0a534e4969": {
+  "id": "7a0a534e4969",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-60-billion-ai-debt-135948337.html",
+  "title": "博通这笔600亿美元的人工智能债务交易背后，隐藏着一个3700亿美元的疑问，而华尔街上无人愿对此作出解答",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T14:13:36.038Z",
+  "fetched_at": "2026-08-24T19:00:27.848127+00:00"
+ },
+ "068eeffa63c0": {
+  "id": "068eeffa63c0",
+  "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+  "title": "New York AI data center fight comes to Geneva",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T18:39:26Z",
+  "fetched_at": "2026-08-24T19:01:10.868679+00:00"
+ },
+ "b78a651aed7d": {
+  "id": "b78a651aed7d",
+  "url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
+  "title": "A Drone Guided by A.I. Killed Three Ukrainians",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T17:24:43Z",
+  "fetched_at": "2026-08-24T19:01:22.179631+00:00"
+ },
+ "4abd2658e8a4": {
+  "id": "4abd2658e8a4",
+  "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+  "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T17:23:48Z",
+  "fetched_at": "2026-08-24T19:01:44.156113+00:00"
  }
 }
