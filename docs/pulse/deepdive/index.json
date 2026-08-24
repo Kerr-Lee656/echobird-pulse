@@ -4858,5 +4858,50 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-08-24T13:15:22.558520+00:00"
+ },
+ "7d620d90cc1c": {
+  "id": "7d620d90cc1c",
+  "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+  "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T14:57:56.443780+00:00"
+ },
+ "527945ffc92a": {
+  "id": "527945ffc92a",
+  "url": "https://thenextweb.com/news/xpeng-robotics-900m-funding-round",
+  "title": "XPENG’s robotics arm has raised more than $900M ahead of its humanoid production run",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-24T14:58:18.965759+00:00"
+ },
+ "ee25c1146026": {
+  "id": "ee25c1146026",
+  "url": "https://www.ithome.com/0/993/711.htm",
+  "title": "“国产 GPU 四小龙”之一，燧原科技 9 月 2 日申购",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-24T11:33:33Z",
+  "fetched_at": "2026-08-24T14:58:31.887987+00:00"
+ },
+ "ca97ebd52438": {
+  "id": "ca97ebd52438",
+  "url": "https://github.com/langchain-ai/open_deep_research",
+  "title": "langchain-ai/open_deep_research",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-24T14:59:33.378715+00:00"
+ },
+ "4d38648c033d": {
+  "id": "4d38648c033d",
+  "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+  "title": "Hugging Face reportedly in talks to be acquired for $13B",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-24T13:47:26.000Z",
+  "fetched_at": "2026-08-24T14:59:40.786491+00:00"
  }
 }

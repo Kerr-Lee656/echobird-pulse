@@ -1,0 +1,23 @@
+{
+ "id": "7d620d90cc1c",
+ "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+ "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-24T14:57:56.443780+00:00",
+ "content": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nHumanoid robots smash Usain Bolt’s 100-meter record\nLiterally ‘smashing’ — the bots can’t stop without colliding into a crash pad.\nIt’s one of several notable achievements to take place at the event, which can best be described as a sort of annual robot olympics that’s designed to showcase advancements in bipedal bot technology. After launching in 2025, 2,056 robots from 16 countries are participating in this year’s World Humanoid Robot Games, which includes categories for sprinting, jumping, football, boxing, and more. Tiangong Ultra also ran the 400-meter race in 38.16 seconds — beating the 43.03 second world record set by Wayde van Niekerk in 2016.\nUnlike human athletes, however, these sprinting bots don’t typically get to perform a victory lap after crossing the finish line. Several videos show the robots colliding into cushioned walls at impressive speeds, where they (or the pieces of what’s left of them) get collected and carried away on a stretcher. Watching the various robot models actually run is both amusing and a little unsettling, given the bizarre way they move to dash so quickly.",
+ "report": {
+  "summary": "中国机器人以9.39秒打破博尔特百米纪录。",
+  "background": "2026年北京世界人形机器人运动会举办，旨在展示双足机器人技术进步。2025年首届举办后，今年有16国2056台机器人参赛，涵盖短跑、跳远等项目。此次天工Ultra以9.39秒跑完百米，超越博尔特2009年创造的9.58秒世界纪录，但机器人无法自行停下，需撞击缓冲垫减速。",
+  "key_points": [
+   "天工Ultra以9.39秒完成百米，比博尔特纪录快0.19秒，荣耀机器人Lightning以9.47秒紧随其后。",
+   "天工Ultra还以38.16秒跑完400米，远超2016年范尼凯克43.03秒的人类纪录。",
+   "机器人冲刺后无法平稳刹车，会撞上缓冲墙，被担架抬走，场面滑稽又带点惊悚。",
+   "该赛事类似“机器人奥运会”，展示双足机器人运动能力，今年有2056台参赛，规模远超去年。",
+   "机器人跑步姿态怪异，快速奔跑时动作不自然，观看体验既有趣又令人不安。"
+  ],
+  "impact": "对AI行业而言，这标志着双足机器人运动控制和动态平衡取得突破，但高速下稳定制动仍是难题。对开发者来说，可借鉴其步态算法，探索更高速度与安全停机结合。对普通用户，未来服务机器人有望更快响应，但更需关注安全与可靠设计。",
+  "tools": "可关注北京人形机器人创新中心开源的天工系列平台、波士顿动力Spot SDK、MIT的Cheetah软体机器人研究框架，及ROS 2用于双足运动控制的仿真工具。"
+ }
+}

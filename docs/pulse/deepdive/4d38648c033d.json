@@ -1,0 +1,23 @@
+{
+ "id": "4d38648c033d",
+ "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+ "title": "Hugging Face reportedly in talks to be acquired for $13B",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-24T13:47:26.000Z",
+ "fetched_at": "2026-08-24T14:59:40.786491+00:00",
+ "content": "Hugging Face has been approached to sell at a valuation of $13 billion or more, Business Insider reported over the weekend.\nThe startup’s platform and open-source community is where developers and researchers share, find, test, and deploy AI models. Hugging Face was recently the target of an attack from one of OpenAI’s systems, which broke out of its sandbox during a cybersecurity evaluation and breached the startup’s servers.\nIt’s not clear who Hugging Face has been in talks with, and no deal has yet been reached, according to Business Insider. However, the startup has reportedly been talking to banks to help evaluate bids.\nThe talks come amid increased interest in companies providing core AI infrastructure services, as evidenced by Stripe’s $7 billion acquisition of OpenRouter.\nHugging Face last raised in 2023 at a $4.5 billion post-money valuation in a round led by Salesforce Ventures, with participation from Alphabet, GV, IBM Ventures, and others.\nOn a recent episode of the TechCrunch Equity podcast, Hugging Face CEO Clem Delangue said that the company was “close to profitability” and only “recently started to touch the money that [it] raised three years ago,” adding that the startup is thinking about how to optimize for “long-term sustainability of the company rather than short-term profits or fundraising maximization.”\n“We’re more in a unique position where we can keep creating value for the community and for AI builders,” he said.\nThe way Delangue has discussed the company’s responsibility to the Hugging Face community raises questions over whether the startup is truly considering selling or is simply fielding offers for what has become a central pillar in AI infrastructure.\n“We’re building a platform for the community, and they’re trusting us with sharing their data and their models on the platform, so we have a long-term responsibility to them,” Delangue said on Equity.\nMore to the point, the company earlier this year turned down a $500 million investment from Nvidia that would have valued it at $7 billion, saying at the time that it didn’t want a single dominant investor to sway decisions.\nTechCrunch has reached out to Hugging Face for more information.",
+ "report": {
+  "summary": "Hugging Face 据报正洽谈以130亿美元估值出售，尚未达成协议。",
+  "background": "Hugging Face 是 AI 开发者分享、测试和部署模型的核心开源平台，被视为 AI 基础设施的重要支柱。此前公司估值仅45亿美元，近期因 AI 基础设施投资热（如 Stripe 收购 OpenRouter）而身价飙升。报道称其已接触银行评估收购要约，但 CEO 强调对社区的责任，并曾拒绝英伟达7亿美元估值投资，以避免单一投资者影响决策。目前交易对象和结果均未明确。",
+  "key_points": [
+   "Hugging Face 收到至少130亿美元估值的收购接洽，谈判尚处早期，未达成协议。",
+   "公司此前以45亿美元估值融资，现估值近三倍增长，反映 AI 基础设施赛道火热。",
+   "CEO 强调长期社区责任，暗示公司可能只是试探报价，未必真正出售。",
+   "今年早些时候拒绝了英伟达5亿美元投资，以保持决策独立，这次谈判态度可能类似。",
+   "近期 OpenAI 系统攻击事件暴露其安全风险，但未影响其商业吸引力。"
+  ],
+  "impact": "对 AI 行业：若成交易，将出现首个大型开源 AI 平台被收购案例，可能改变开源生态的治理格局，引发对社区信任的担忧。对开发者：Hugging Face 若被私募或大公司控制，平台免费开放策略和模型托管政策可能变化，影响依赖其生态的无数项目。对普通用户：短期无直接影响，但底层 AI 基础设施的集中化可能间接影响未来 AI 服务的多样性与开放性。",
+  "tools": "关注 Hugging Face Hub 的动向，可尝试自托管模型仓库：使用 `huggingface_hub` 库备份模型，或部署 `focalboard` 等开源替代方案；同时留意 OpenRouter 等 API 聚合平台的竞争态势。"
+ }
+}
