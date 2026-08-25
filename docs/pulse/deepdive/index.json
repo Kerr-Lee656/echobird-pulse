@@ -5362,5 +5362,68 @@
   "site_name": "Ars Technica",
   "published_at": "2026-08-24T21:32:16.000Z",
   "fetched_at": "2026-08-25T01:57:40.005510+00:00"
+ },
+ "0a6a23bbcbc7": {
+  "id": "0a6a23bbcbc7",
+  "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology",
+  "title": "Energy-hungry AI data centers spur new power transformer technology",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T03:12:35.621089+00:00"
+ },
+ "f870058dbf49": {
+  "id": "f870058dbf49",
+  "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
+  "title": "人工智能发现六种利用商用3D打印机打印火箭级合金的方法",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-24T21:41:21.500Z",
+  "fetched_at": "2026-08-25T03:13:20.970580+00:00"
+ },
+ "753d40691b7d": {
+  "id": "753d40691b7d",
+  "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
+  "title": "Thomson Reuters Standard for High Stakes AI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T02:54:21Z",
+  "fetched_at": "2026-08-25T03:14:14.789652+00:00"
+ },
+ "030c1b4ac95d": {
+  "id": "030c1b4ac95d",
+  "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
+  "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T02:23:16Z",
+  "fetched_at": "2026-08-25T03:14:26.408123+00:00"
+ },
+ "60d5a75f79ba": {
+  "id": "60d5a75f79ba",
+  "url": "https://news.bloomberglaw.com/privacy-and-data-security/alabama-investigates-openai-following-rogue-ai-hacking-incident",
+  "title": "Alabama Investigates OpenAI on HuggingFace Hacking Incident",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T00:06:22Z",
+  "fetched_at": "2026-08-25T03:14:45.050858+00:00"
+ },
+ "9653616f3dfa": {
+  "id": "9653616f3dfa",
+  "url": "https://mehmetmhy.com/posts/modern_moat/",
+  "title": "AI Is Dissolving Software Moats. China Did It to Hardware First",
+  "source": "Hacker News (1pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-24T23:54:17Z",
+  "fetched_at": "2026-08-25T03:14:58.329530+00:00"
+ },
+ "7b1bff0cd099": {
+  "id": "7b1bff0cd099",
+  "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+  "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-08-24T21:45:53.000Z",
+  "fetched_at": "2026-08-25T03:15:56.028520+00:00"
  }
 }
