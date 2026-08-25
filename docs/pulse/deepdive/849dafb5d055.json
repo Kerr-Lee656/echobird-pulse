@@ -1,0 +1,22 @@
+{
+ "id": "849dafb5d055",
+ "url": "https://github.com/github/gh-aw",
+ "title": "github/gh-aw — GitHub Agentic Workflows",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-08-25T13:15:36.093410+00:00",
+ "content": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nGitHub Agentic Workflows (gh-aw) lets developers define AI-powered repository automation in Markdown with YAML frontmatter and run AI agents securely through GitHub Actions. The gh-aw GitHub CLI extension compiles each agentic workflow into a standard GitHub Actions workflow.\nUse conventional GitHub Actions for deterministic builds, tests, linting, deployments, and reproducible scripts. Add an agentic workflow when a task needs reasoning or interpretation, such as issue triage, pull-request review, CI failure investigation, documentation maintenance, dependency analysis, or repository reporting. GitHub Agentic Workflows complements existing CI/CD; it does not replace it.\nBuilt-in AI engines include GitHub Copilot, Claude Code, OpenAI Codex, Google Gemini, and Pi. Agent jobs are read-only and sandboxed by default, and configured GitHub writes are normally applied through validated safe-outputs jobs with scoped permissions.\nNote\nReleases 0.68.4 through 0.71.3 are being retired due to a bug that impacts billing. If you are running one of these versions, please upgrade to the latest release as soon as possible.\nAn agentic workflow has two parts: YAML frontmatter configures triggers, permissions, tools, and the AI engine; the Markdown body tells the AI agent what to accomplish. The gh aw compile command validates this source and generates the .lock.yml workflow that GitHub Actions executes. Learn how GitHub Agentic Workflows works.\nSecurity and permissions\nSecurity, permissions, and controlled writes are core design concerns. The supported agent-job path defaults to read-only GitHub access and sandboxed execution. Safe outputs buffer configured writes, validate them, and apply them in separate jobs with scoped permissions. These controls are configurable, so workflow authors must review permissions, tools, network access, and generated files before deployment. Learn how GitHub Agentic Workflows handles security and permissions.\nUsing agentic workflows in your repository requires careful attention to security considerations and careful human supervision, and even then things can still go wrong. Use it with caution, and at your own risk.\nGitHub Agentic Workflows is supported by companion projects that provide additional security and integration capabilities:\nAgent Workflow Firewall (AWF) - Network egress control for AI agents, providing domain-based access controls and activity logging for secure workflow execution\nMCP Gateway - Routes Model Context Protocol (MCP) server calls through a unified HTTP gateway for centralized access management\ngh-aw-actions - Shared library of custom GitHub Actions used by compiled workflows, providing functionality such as MCP server file management\nWorkshop\nTip\nReady to learn GitHub Agentic Workflows hands-on? The Factory Tour Workshop is a self-contained, step-by-step workshop repository designed to teach you how to build, run, and customize agentic workflows from scratch.",
+ "report": {
+  "summary": "GitHub发布gh-aw：用Markdown定义AI自动化工作流，安全运行于Actions。",
+  "background": "随着AI编程助手的普及，仓库自动化开始从确定性脚本走向需要推理的智能任务。GitHub 官方推出 gh-aw 扩展，允许开发者用 Markdown + YAML 描述 AI 代理工作流，并转换为标准 GitHub Actions 执行。这延续了 GitHub 将 AI 集成到开发者工作流的战略，同时通过沙箱、只读默认和可控写入来解决安全顾虑。",
+  "key_points": [
+   "开发者可用 Markdown 正文加 YAML 配置定义 AI 代理任务，通过 gh aw compile 命令编译为标准 GitHub Actions 工作流，复用现有 CI/CD 基础设施。",
+   "内置 Copilot、Claude Code、OpenAI Codex、Gemini 和 Pi 等多种 AI 引擎，可按需切换，适应不同任务和成本偏好。",
+   "默认安全设计：代理任务在沙箱中只读运行，写入操作经安全输出缓冲和验证后，由带受限权限的独立任务执行，防止越权改动。",
+   "gh-aw 定位是补充而非替代传统 CI/CD——构建、测试等确定性流程仍用普通 Actions，推理类任务如 issue 分诊、PR 审查、CI 故障排查交给代理。"
+  ],
+  "impact": "对 AI 行业而言，这为智能代理提供了官方、可审计、受控的执行环境，推动 agent 从实验走向工程化。开发者能低成本地为仓库注入 AI 自动化，同时保持 GitHub 生态的安全边界。普通用户将从更智能的 issue 处理和代码审查中受益，但需理解并接受建模带来的新风险。",
+  "tools": "建议关注 gh-aw 本体、安全组件 Agent Workflow Firewall（网络出口控制）、MCP Gateway（统一 MCP 调用管理），以及官方 Factory Tour Workshop 教学仓库，可快速上手。"
+ }
+}

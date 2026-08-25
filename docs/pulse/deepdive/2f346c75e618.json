@@ -1,0 +1,23 @@
+{
+ "id": "2f346c75e618",
+ "url": "https://hub.baai.ac.cn/view/57435",
+ "title": "Hugging Face 探索出售，估值或达 130 亿美元",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-25T13:13:47.513816+00:00",
+ "content": "新智元报道  \n新智元报道\n最重要的 AI 开源平台 Hugging Face（抱抱脸）正在探索出售，接触买家中，估值可能达到 130 亿美元（约 870 亿元人民币）甚至更高。\n据 Business Insider 援引知情人士消息，这家 AI 开发者平台已聘请投行评估买家兴趣，但尚未达成交易。\nhttps://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8\n2023 年，Hugging Face 的估值还是 45 亿美元（PitchBook 数据）。\n不到三年，翻了近三倍——而这家公司没有训练过任何一个前沿大模型。\n消息传出后，X 上的反应迅速分化。\n一部分人认为 130 亿美元合理甚至偏低，另一部分人的第一反应是担忧：如果一家大公司收购了 Hugging Face，开源生态会不会被收编？\n更有甚者直接写道：「They want to shutdown open source.」\n这种担忧有现成的前车之鉴。\n2018 年微软宣布收购 GitHub 时，开源社区同样炸开了锅。\n微软在开发者心中的形象长期与闭源和「Embrace, extend, extinguish」绑定在一起。消息公布后几天内，一批坚定的开源支持者把代码迁到了 GitLab。\nGitLab 三年后上市，市值一度超过 165 亿美元，比微软当年收购 GitHub 的价格翻了一倍多。\n后来微软确实没有动 GitHub 的开源根基，但迁移已经发生了。\nHugging Face 的 CEO Clément Delangue 自己也在近期的播客里说过，他担忧的是「少数几家大公司最终控制一切」。\n如果收购方恰好就是其中一家，社区的信任危机将比当年 GitHub 更严重，因为 Hugging Face 对开源 AI 生态的集中度更高。\nHugging Face 2016 年在纽约成立，三位法国联合创始人 Clément Delangue、Julien Chaumond 和 Thomas Wolf 最初做的是一款聊天机器人。\n从左至右：Julien Chaumond、Thomas Wolf 、Clément Delangue\n转折发生在 2018 年前后：团队开源了 Transformers 库，Hugging Face 从此变成 AI 模型的集散地。\n截至 2026 年春季，平台托管了超过 200 万个公开模型和 50 万个数据集，注册用户超过 1300 万。\n各大开源模型公司都在上面发布模型，财富 500 强中超过 30% 开设了认证账号。\n业内常把它叫做「AI 界的 GitHub」：GitHub 托管代码，Hugging Face 托管模型，功能不同，生态位一样。\n过去一年半，Hugging Face 的扩张方向远超「模型托管」四个字。\n2026 年 2 月，llama.cpp 的创建者 Georgi Gerganov 带着 GGML 团队加入 Hugging Face。\nllama.cpp 是目前最主流的本地大模型推理引擎，支撑着大量开发者在消费级硬件上跑大模型。\nHugging Face 的官方博客称项目保持完全开源和社区治理，团队拥有技术方向的全部自主权。\n效果很明确：开源 AI 本地推理层最关键的一块基础设施，现在由 Hugging Face 供养。\n硬件上，Hugging Face 在 2025 年 4 月收购了法国开源机器人公司 Pollen Robotics，开始卖机器人。\n产品线从 7 万美元的工业人形机器人 Reachy 2 延伸到 100 美元的 3D 打印机械臂 SO-101。\nReachy 2\nSO-101\n2026 年 5 月，团队又推出了一款 2500 美元的开源人形机器人 LeRobot Humanoid。\n7 月，NVIDIA 把 Isaac GR00T 1.7 和 Isaac Teleop 整合进 LeRobot 平台，NVIDIA 的 300 万机器人开发者和 Hugging Face 的 1600 万 AI 开发者在同一个开源工作流里汇合。\n加上此前对 Gradio（机器学习演示工具）和 XetHub（大文件版本控制）的收购，Hugging Face 已完成五次并购。\n据多家第三方数据平台估算，其年化经常性收入（ARR）在 2026 年突破 1 亿美元，员工人数在 800 人左右。\n130 亿美元贵不贵，2018 年微软收购 GitHub 的故事是最直接的参照。\n当时 GitHub 有 2800 万开发者、8500 万个代码仓库，是全球最大的代码托管平台。\n它的上一轮估值停在 2015 年的 20 亿美元，从未盈利，年收入约 3 亿美元。\n微软出价 75 亿美元，约 25 倍年收入。\n市场起初觉得贵，后来的事实证明，微软买到的是整个软件开发生态的入口——GitHub 的开发者社区后来成了 Copilot 等 AI 编程工具的天然分发渠道。\nHugging Face 走的是同一条路，只是标的物从代码换成了 AI 模型。\n130 亿美元对应约 130 倍 ARR，溢价倍数远高于当年的 GitHub，但买方算的账可能一样：开发者在哪里找模型，生态就在哪里。\n不只是 Hugging Face，Stripe 也刚以约 80 亿美元收购 AI 模型路由平台 OpenRouter，资本正在集中涌向 AI 基础设施的分发和路由层。\nHugging Face 的投资方包括 Lux Capital、Addition 和 Salesforce Ventures，谷歌、亚马逊、英伟达等巨头也做了战略投资。\n安全是另一个变量。\n2026 年 7 月，OpenAI 披露其一个 AI 智能体在受控网络安全测试中逃逸，自行上网并入侵了 Hugging Face。\n对一家托管着数百万模型的平台来说，安全能力在估值谈判中的权重不会低。\n这是 130 亿美元估值里最大的悖论：Hugging Face 的价值建立在开源社区的信任之上，而出售本身可能动摇这种信任。\n买方花大价钱买到了 AI 世界的分发层，但分发层的价值取决于开发者是否继续留在上面。\n当年 GitHub 挺过了这一关，Hugging Face 能不能挺过去，取决于谁来买、怎么买、以及买完之后第一件事做什么。\n参考资料：\n编辑：马可\n内容中包含的图片若涉及版权问题，请及时与我们联系删除",
+ "report": {
+  "summary": "AI开源平台Hugging Face拟出售，估值130亿美元，引发担忧。",
+  "background": "Hugging Face 2016年成立，因开源Transformers库成为AI模型托管核心，被称为“AI界的GitHub”，托管超200万模型、50万数据集和1300万用户。2023年估值45亿美元，如今拟出售，估值130亿美元。消息引发对比2018年微软收购GitHub的担忧：开源社区担心平台被大公司收编，动摇开源生态信任。",
+  "key_points": [
+   "Hugging Face已聘请投行评估买家兴趣，估值或达130亿美元，是2023年45亿美元的近三倍，但交易尚未确定。",
+   "平台托管超200万模型、50万数据集，注册用户超1300万，财富500强超30%开设认证账号，是AI模型分发的基础入口。",
+   "社区担忧收购方可能收编开源生态，因为AI开源集中度高；微软2018年收购GitHub引发迁移潮的前例加深了不信任。",
+   "Hugging Face近年持续扩张：收编llama.cpp团队、收购Pollen Robotics和Gradio等，并与NVIDIA合作，向本地推理和机器人基础设施延伸。",
+   "130亿美元对应约130倍ARR，收购方买的是开发者入口；但出售可能动摇平台赖以生存的信任，最终取决于买家身份和后续治理。"
+  ],
+  "impact": "对AI行业：模型托管与路由层成为资本争夺焦点，收购可能重塑开源AI分发格局。对开发者：若平台被大厂控制，模型发布、访问和治理规则或将变化，应关注替代平台与多平台发布策略。对普通用户：AI应用生态可能更集中，短期内服务不变，长期则可能影响开源模型的可获得性与创新节奏。",
+  "tools": "可关注Hugging Face Hub、Transformers、llama.cpp、Gradio、XetHub、LeRobot；若想寻找替代入口，可关注OpenRouter、Replicate、Kaggle Models、GitHub Models等平台。"
+ }
+}

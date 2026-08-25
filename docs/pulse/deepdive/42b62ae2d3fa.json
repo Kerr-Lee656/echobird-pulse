@@ -1,0 +1,22 @@
+{
+ "id": "42b62ae2d3fa",
+ "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+ "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T11:20:26Z",
+ "fetched_at": "2026-08-25T13:17:44.600424+00:00",
+ "content": "The Securities and Exchange Commission has reportedly subpoenaed several major Wall Street lenders to glean more information about their role in the near-collapse of AI-focused hedge fund Situational Awareness.\nRegulators are seeking insights into Situational Awareness's trades, use of leverage and communications with the investment banks, which include Goldman Sachs, JP Morgan, Citigroup and Bank of America, according to Reuters, citing a source familiar with the matter.\nSituational Awareness plunged from about $45 billion to around $10 billion in late July after it was hammered in last month's tech sell-off.\nThe hedge fund, led by former OpenAI researcher Leopold Aschenbrenner, was forced to unwind much of its publicly listed portfolio of large, concentrated, levered positions — which included SK Hynix and CoreWeave — after losses sparked several margin calls among its prime brokers.\nCitadel, Ken Griffin's giant multi-strategy hedge fund, stepped in to buy the positions at a discount, understood to be around 10%. Griffin said in an investor letter Friday that Citadel has since offloaded about 80% of the risk associated with the Situational Awareness portfolio. SK Hynix and CoreWeave have since rallied.\nGoldman Sachs, JP Morgan and Citigroup declined to comment on the matter. CNBC has also contacted Bank of America for comment.\nThe debacle has cast light on the various ways in which leverage is increasingly underpinning the wider AI boom.\nThe information request does not mean the banks, or Situational Awareness — which was driven by reported leverage of up to 400% — have been accused of any wrongdoing by the SEC. Such regulatory inquiries can conclude without any enforcement action.\n\"It is to be expected that regulators would closely examine any funds that are high profile, produce significant returns, or have particularly dramatic drawdowns,\" Situational Awareness said in a statement.\n\"We are a highly-regulated business and will cooperate to the fullest extent with any regulatory request.\"\nThe New York Times first reported the subpoenas.",
+ "report": {
+  "summary": "SEC传唤华尔街银行调查AI对冲基金Situational Awareness高杠杆崩溃事件。",
+  "background": "Situational Awareness是一家由前OpenAI研究员Leopold Aschenbrenner创立的AI主题对冲基金，巅峰规模约450亿美元。7月底科技股抛售潮中，该基金因高达400%的杠杆持仓遭遇连环追加保证金通知，被迫大规模平仓，资产骤降至约100亿美元。Citadel以约10%折扣接手其包含SK Hynix和CoreWeave的集中杠杆头寸。SEC现已传唤高盛、摩根大通、花旗、美银等主要银行，调查该基金的交易、杠杆使用及与银行的沟通。",
+  "key_points": [
+   "杠杆风险暴露：基金使用高达400%杠杆，在科技股调整中触发连环margin call，被迫平仓，凸显高杠杆策略在AI主题投资中的脆弱性。",
+   "监管介入：SEC传唤高盛、摩根大通、花旗、美银等银行，调查基金交易、杠杆使用及沟通记录，但传票不等于指控，调查可能无果而终。",
+   "巨头救场：Citadel以约10%折扣购入基金抛售的头寸，已剥离约80%风险，SK Hynix和CoreWeave随后反弹，显示市场消化冲击。",
+   "AI泡沫警示：事件暴露AI热潮中杠杆融资的普遍性，AI基础设施类股票的高波动性被杠杆放大，类似风险可能在其他AI基金中潜伏。"
+  ],
+  "impact": "对AI行业而言，该事件将促使监管机构更严格审视AI相关投资的高杠杆操作，可能加强信息披露和杠杆限制。对开发者来说，AI基础设施投资的波动可能影响算力成本和云服务定价，尤其是依赖CoreWeave等供应商的开发者。对普通用户而言，AI赛道的金融风险可能间接影响相关科技公司的融资能力和产品迭代速度，但短期影响有限。",
+  "tools": "可关注SEC EDGAR数据库查询监管文件动态，跟踪AI基金仓位变化；Bloomberg Terminal或Wind可实时监控SK Hynix、CoreWeave等股票波动及杠杆工具使用情况。"
+ }
+}

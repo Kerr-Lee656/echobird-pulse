@@ -1,0 +1,23 @@
+{
+ "id": "597afe2a8cda",
+ "url": "https://aiearnings.dev/",
+ "title": "Recent public co filings analyzed: AI not generating profit yet",
+ "source": "Hacker News (7pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T12:24:59Z",
+ "fetched_at": "2026-08-25T13:16:55.185749+00:00",
+ "content": "Recorded\nThe audited record supports exactly the narrow wording shown.\n30 days ending Aug 17, 2026\nWhat 30 days of earnings disclosures actually show\nFilings often mention AI. Far fewer companies explain what they spend, what changed financially, or whether the investment pays back.\n253 / 428 · 59.1% of unique periodic filers mentioned AI or machine learning; 47 / 411 · 11.4% of adopters named an internal financial or operating path.\n18 / 411 named a spending path, 3 / 411 gave a number, and only Incyte gave a ring-fenced total.\n13 / 411 measured something, usually operations; 2 / 411 tied AI to a current issuer cost effect.\n1 / 411: Broadridge’s $25M FY2027 AI-driven productivity outlook. It is forward, not realized.\n0 / 411 showed a comparable pair. The 10% return calculation is NOT COMPUTED, not zero.\n22 providers sit outside the 411 and are shown separately so their much larger dollars do not distort adopter percentages.\nAll 500 have a disposition, all 433 reporters were adjudicated, and 0 remain unresolved.\n500 issuer universe\n433 reporters adjudicated\n411 adopters\n22 providers\n0 unresolved\nHow to read each claim\nThe source is real, but mixed attribution or scope makes the everyday interpretation too broad.\nNo qualifying disclosure was found. This never means zero activity or return.\nThis record cannot reveal undisclosed AI, the blended-program AI share, net profits, or annual S&P prevalence.\nShow me the evidence\n03 / Company evidence\nSearch all 433 in-window reporter records. Open any row for the disclosure, the limit on its meaning, and the retained source.\nClear one or more filters to widen the evidence set.\n04 / Providers\nTwenty-two AI technology providers are excluded from the 411-company percentages. Their larger spending and revenue evidence generally still lacks an isolated bottom-line return.\n22provider-side issuers\nNine core providers and thirteen AI technology vendors are retained for comparison, not blended into the 411-company adopter denominator.\n05 / Methodology\nThe study grades what companies actually disclosed during one fixed window. It does not fill silence with estimates.\nFive access-limited source sets stay in the denominator.\nNo disclosure means no qualifying evidence was found in the retained sources. It does not mean zero activity, spend, or benefit.\nExternal AI product and infrastructure economics do not enter the adopter numerator. Incidental vendors remain only when they fail the provider materiality test.\nTime saved, usage, seats, model quality, and anecdotes need an economic bridge before they can qualify as realized financial gain.\nThe observation window is July 19–August 17, 2026. Each percentage names its applicable denominator above.\nPayPal’s $1.5B target covers a broader restructuring, AI, and automation program, so it cannot become an AI-only savings amount.\nA missing spend-to-return comparison is not a 0% return. The 10% return test is disabled until a valid dated cash-flow method exists.\nThese compact codes are preserved for auditability. The page leads with their plain-English meaning.\n06 / Downloads\nThe site is a browsing layer. These retained artifacts remain the source of truth.",
+ "report": {
+  "summary": "财报分析显示多数公司提及AI却未披露盈利，回报难证实。",
+  "background": "近年来企业竞相布局AI，但投资回报缺乏透明度。该网站对2026年7-8月期间433家上市公司财报进行审计发现，尽管59%提及AI，但绝大多数未披露具体支出或财务影响，无法验证AI是否创造利润。这反映了AI商业化进程中普遍存在的“披露赤字”，与市场的高预期形成对比。",
+  "key_points": [
+   "59.1%的定期申报公司提及AI或机器学习，但仅11.4%的采用者披露了内部财务或运营路径，多数流于表面。",
+   "在411家采用者中，仅18家披露支出路径，3家给出具体数字，只有Incyte给出围栏总额，财务透明度极低。",
+   "仅13家衡量运营指标，2家将AI与成本影响挂钩，绝大多数公司未建立从技术使用到财务回报的量化桥接。",
+   "唯一给出明确金额的是Broadridge的2500万美元FY2027生产力前景，但它是前瞻性指引而非已实现收益。",
+   "没有任何一家公司提供可比较的投入产出对，因此10%回报率计算被标记为“未计算”而非零，显示证据缺失。"
+  ],
+  "impact": "对AI行业而言，该分析揭示AI盈利叙事缺乏实证支持，可能促使投资者更审慎；对开发者，需聚焦解决实际问题的可量化方案；对普通用户，应警惕AI产品宣传中的夸大成分，关注实际价值。整体上推动行业从概念炒作向财务可验证转型。",
+  "tools": "建议关注aiearnings.dev网站及其方法论，使用SEC EDGAR数据库查询原始财报，结合Python库如sec-api或finbert进行文本分析，以持续跟踪AI披露趋势和验证公司声明。"
+ }
+}

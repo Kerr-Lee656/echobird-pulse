@@ -5776,5 +5776,185 @@
   "site_name": "The Verge",
   "published_at": "2026-08-25T09:15:03.000Z",
   "fetched_at": "2026-08-25T10:54:48.099162+00:00"
+ },
+ "f64bdbdeaa14": {
+  "id": "f64bdbdeaa14",
+  "url": "https://thenextweb.com/news/taiwan-indicts-nine-ai-server-smuggling",
+  "title": "Nine charged in Taiwan over 130 Nvidia B300 servers bound for China",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:10:32.812240+00:00"
+ },
+ "ea1d67243eb7": {
+  "id": "ea1d67243eb7",
+  "url": "https://thenextweb.com/news/uk-ukraine-ai-military-declaration-burnham",
+  "title": "The UK and Ukraine have signed a declaration on AI-enabled military capabilities",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:10:52.253672+00:00"
+ },
+ "62003111f3b5": {
+  "id": "62003111f3b5",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "title": "OpenAI disrupts Russian covert influence campaign using AI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:11:03.725955+00:00"
+ },
+ "54abbfd55802": {
+  "id": "54abbfd55802",
+  "url": "https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html",
+  "title": "BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:11:14.625092+00:00"
+ },
+ "2db06ba5209d": {
+  "id": "2db06ba5209d",
+  "url": "https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html",
+  "title": "突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:11:55.628843+00:00"
+ },
+ "2708a24c846a": {
+  "id": "2708a24c846a",
+  "url": "https://www.huxiu.com/article/4885865.html?f=rss",
+  "title": "从WAIC到“硅和平”，6场国际峰会揭示全球AI治理5大趋势",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T09:48:21Z",
+  "fetched_at": "2026-08-25T13:12:37.968907+00:00"
+ },
+ "33c6250f509a": {
+  "id": "33c6250f509a",
+  "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+  "title": "汤森路透推出自有“前沿”模型",
+  "source": "www.thomsonreuters.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T09:09:50.147Z",
+  "fetched_at": "2026-08-25T13:12:45.826155+00:00"
+ },
+ "e8b2e3f2a893": {
+  "id": "e8b2e3f2a893",
+  "url": "https://www.qbitai.com/2026/08/479192.html",
+  "title": "开源国产8B模型，比肩闭源Image 2了！",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:13:05.259276+00:00"
+ },
+ "52c6b18a95f3": {
+  "id": "52c6b18a95f3",
+  "url": "https://www.qbitai.com/2026/08/479132.html",
+  "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:13:27.395671+00:00"
+ },
+ "2f346c75e618": {
+  "id": "2f346c75e618",
+  "url": "https://hub.baai.ac.cn/view/57435",
+  "title": "Hugging Face 探索出售，估值或达 130 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:13:47.513816+00:00"
+ },
+ "d7d39d6d4b15": {
+  "id": "d7d39d6d4b15",
+  "url": "https://hub.baai.ac.cn/view/57436",
+  "title": "准确刻画化学键断裂的从头算波函数基础模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:13:57.458068+00:00"
+ },
+ "65d0b1eae0bf": {
+  "id": "65d0b1eae0bf",
+  "url": "https://www.aibase.com/zh/news/30599",
+  "title": "纳德拉示警企业：别把「Token 资本」押注单一模型，当心命运被外包",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:14:17.141670+00:00"
+ },
+ "386c24cf5e18": {
+  "id": "386c24cf5e18",
+  "url": "https://github.com/cloudflare/cloudflare-os",
+  "title": "cloudflare/cloudflare-os — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:15:01.603991+00:00"
+ },
+ "849dafb5d055": {
+  "id": "849dafb5d055",
+  "url": "https://github.com/github/gh-aw",
+  "title": "github/gh-aw — GitHub Agentic Workflows",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-25T13:15:36.093410+00:00"
+ },
+ "0c6b106ff394": {
+  "id": "0c6b106ff394",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+  "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T13:01:22Z",
+  "fetched_at": "2026-08-25T13:15:45.044016+00:00"
+ },
+ "79f6641c4618": {
+  "id": "79f6641c4618",
+  "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+  "title": "Accel-backed Keenable is indexing the web for AI agents",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-25T13:00:00.000Z",
+  "fetched_at": "2026-08-25T13:16:08.723004+00:00"
+ },
+ "597afe2a8cda": {
+  "id": "597afe2a8cda",
+  "url": "https://aiearnings.dev/",
+  "title": "Recent public co filings analyzed: AI not generating profit yet",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T12:24:59Z",
+  "fetched_at": "2026-08-25T13:16:55.185749+00:00"
+ },
+ "42b62ae2d3fa": {
+  "id": "42b62ae2d3fa",
+  "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+  "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T11:20:26Z",
+  "fetched_at": "2026-08-25T13:17:44.600424+00:00"
+ },
+ "5fa23260b3e7": {
+  "id": "5fa23260b3e7",
+  "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
+  "title": "America's immigration policy is driving away future AI leaders",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T11:14:25Z",
+  "fetched_at": "2026-08-25T13:18:04.600819+00:00"
+ },
+ "5e3a193672e0": {
+  "id": "5e3a193672e0",
+  "url": "https://huggingface.co/engram-ae/Nemotron-3.5-Lightning-Omni-30B-A3B-GGUF",
+  "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T10:35:52Z",
+  "fetched_at": "2026-08-25T13:18:25.615026+00:00"
  }
 }
