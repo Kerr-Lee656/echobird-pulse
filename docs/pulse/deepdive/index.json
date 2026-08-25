@@ -6064,5 +6064,104 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T12:35:31Z",
   "fetched_at": "2026-08-25T15:07:50.544298+00:00"
+ },
+ "b8a7b6f8afd0": {
+  "id": "b8a7b6f8afd0",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+  "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T16:54:14.277198+00:00"
+ },
+ "62cca4b630ea": {
+  "id": "62cca4b630ea",
+  "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html",
+  "title": "基于阿里千问，路透社推出首个自研大模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T16:54:31.984052+00:00"
+ },
+ "06507ac6debb": {
+  "id": "06507ac6debb",
+  "url": "https://hub.baai.ac.cn/view/57447",
+  "title": "英伟达计划斥资60亿美元打造全球顶尖开源AI模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T16:54:42.375892+00:00"
+ },
+ "ab86217528c1": {
+  "id": "ab86217528c1",
+  "url": "https://thenextweb.com/news/lambda-3bn-pre-ipo-round",
+  "title": "Lambda is raising up to $3bn before an IPO, months after borrowing $917m for chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T16:56:00.086476+00:00"
+ },
+ "05da62484925": {
+  "id": "05da62484925",
+  "url": "https://www.techradar.com/pro/the-ai-spending-spree-is-over-here-are-5-steps-to-prepare-for-the-next-wave-of-consumption",
+  "title": "The AI spending spree is over. Here are 5 steps to prepare for the next wave of consumption",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T16:56:08.811999+00:00"
+ },
+ "fc5be82e7373": {
+  "id": "fc5be82e7373",
+  "url": "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/",
+  "title": "Portable Computer is Perplexity's new local AI agent – why it's a game changer",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T16:35:30Z",
+  "fetched_at": "2026-08-25T16:58:25.013393+00:00"
+ },
+ "0b07fafd4cc9": {
+  "id": "0b07fafd4cc9",
+  "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+  "title": "Dylan Patel – Anthropic and OpenAI will have most of world’s compute by 2028",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T16:26:07Z",
+  "fetched_at": "2026-08-25T16:59:15.101266+00:00"
+ },
+ "92fc44ac8d36": {
+  "id": "92fc44ac8d36",
+  "url": "https://www.agno.com/articles/arc-agi-arcade",
+  "title": "100.00 RHAE on the ARC-AGI-3 public set",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T16:22:22Z",
+  "fetched_at": "2026-08-25T16:59:24.683684+00:00"
+ },
+ "1faad6550681": {
+  "id": "1faad6550681",
+  "url": "https://www.cnn.com/2026/08/24/tech/openai-subpoena-hugging-face-attorney-general-alabama",
+  "title": "Alabama Coming for OpenAI",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T16:00:35Z",
+  "fetched_at": "2026-08-25T16:59:37.088082+00:00"
+ },
+ "7976446c0381": {
+  "id": "7976446c0381",
+  "url": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
+  "title": "OpenAI's upcoming JalapeñO chip looks like it'll be an inference beast",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T15:43:41Z",
+  "fetched_at": "2026-08-25T16:59:48.613532+00:00"
+ },
+ "1aec04b1fdaf": {
+  "id": "1aec04b1fdaf",
+  "url": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc",
+  "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+  "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-25T15:32:57.000Z",
+  "fetched_at": "2026-08-25T17:00:35.361533+00:00"
  }
 }
