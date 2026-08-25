@@ -1,0 +1,22 @@
+{
+ "id": "dc38143bc0f4",
+ "url": "https://slashdot.org/story/26/08/25/1848204/perplexity-and-nvidia-launch-fully-local-ai-agent-with-zero-token-costs",
+ "title": "Perplexity and Nvidia Launch Fully Local AI Agent With Zero Token Costs",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T22:43:59.744064+00:00",
+ "content": "Perplexity and Nvidia Launch Fully Local AI Agent With Zero Token Costs 27\n\t\t\t\n\t\t \t\n\t\t\t\tPerplexity and Nvidia have launched \"Portable Computer,\" a local-first version of Perplexity's agent platform that runs AI models, files, tools, and workflows directly on Nvidia-powered Linux hardware. Local tasks incur no token charges and keep data on-device by default, with users asked for permission before the system escalates a step to a cloud model. VentureBeat reports:  For Nvidia, which has spent the past two years selling the world on trillion-dollar AI data centers, the announcement signals something subtler but strategically important: the chipmaker believes local AI has crossed a threshold from hobbyist curiosity to practical tool -- and it wants to sell the hardware that runs it.\n \n\"Local AI reached an inflection point,\" said Nader, Nvidia's director of developer technology, who focuses on developer tooling and open source. \"For the longest time, it was hobbyists and enthusiasts, and they were running these quantized models that were quantized down to be super tiny... And while that's cool, it's not super practical. But all that changed with a lot of these new open source models that have come out that are super useful.\"\n \n[...] Portable Computer arrives today for Pro, Max, Enterprise Pro, and Enterprise Max subscribers on Linux, with Windows support following in September. Any RTX GPU with at least 24GB of VRAM -- roughly a GeForce RTX 3090 or newer -- clears the bar, a threshold Nate called \"sort of the floor where we really want to make sure that we can deliver a great experience, but balance that with making it broadly available.\"\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n\"Local AI reached an inflection point,\" said Nader, Nvidia's director of developer technology, who focuses on developer tooling and open source. \"For the longest time, it was hobbyists and enthusiasts, and they were running these quantized models that were quantized down to be super tiny... And while that's cool, it's not super practical. But all that changed with a lot of these new open source models that have come out that are super useful.\"\n[...] Portable Computer arrives today for Pro, Max, Enterprise Pro, and Enterprise Max subscribers on Linux, with Windows support following in September. Any RTX GPU with at least 24GB of VRAM -- roughly a GeForce RTX 3090 or newer -- clears the bar, a threshold Nate called \"sort of the floor where we really want to make sure that we can deliver a great experience, but balance that with making it broadly available.\"",
+ "report": {
+  "summary": "Perplexity与Nvidia推出本地AI代理Portable Computer，零token费用，数据默认离线。",
+  "background": "过去本地AI只是爱好者用量化小模型，实用性差。随着新开源模型能力提升，本地AI变得实用。Nvidia认为拐点已到，与Perplexity合作推出本地优先代理平台，既满足隐私需求，也为Nvidia硬件打开新市场。该平台允许在RTX GPU上运行AI代理，本地任务不耗token，需要时经用户许可才调用云端。",
+  "key_points": [
+   "Portable Computer是本地优先的AI代理，模型、文件、工具和工作流全部在本地Nvidia硬件上运行，本地任务不产生token费用。",
+   "数据默认保存在设备上，若某个步骤需要升级到云端模型，必须先获得用户许可，强调隐私和可控。",
+   "现面向Linux上的Pro/Max等订阅用户推出，Windows版本9月跟进；硬件门槛是拥有至少24GB显存的RTX GPU，如RTX 3090。",
+   "Nvidia称本地AI已从发烧友玩具转变为实用工具，合作也意在推动其AI硬件销售。"
+  ],
+  "impact": "对AI行业，本地与云端混合模式成为新方向，云厂商可能面临推理流量分流。开发者可构建隐私敏感、零边际成本的应用，但需适配多种硬件。普通用户获得数据不出本机的AI助手，不过需要购置高配置GPU，且有订阅门槛。",
+  "tools": "关注Perplexity的Portable Computer；运行开源模型的本地工具如Ollama、llama.cpp；Nvidia的RTX系列GPU与本地推理栈NIM，适合搭建零token成本的AI环境。"
+ }
+}

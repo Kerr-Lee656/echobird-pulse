@@ -1,0 +1,23 @@
+{
+ "id": "bee8e2bfb76b",
+ "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich",
+ "title": "Waymo robotaxis are headed to Munich",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T22:46:45.151324+00:00",
+ "content": "Waymo said Tuesday it plans to launch a robotaxi service in Munich, months after the Alphabet-owned autonomous vehicle company set up an entity in Germany.\nThe company still must weave its way through mapping and testing, as well as clear regulatory hurdles before it can launch commercial operations.\nWaymo will begin, as it has in the other 11 cities where it has commercial robotaxi operations, by first manually driving its vehicles to map the streets of Munich. It will then test its autonomous vehicles with human safety drivers behind the wheel, before removing them. Waymo typically allows its employees, media, and other invited guests to ride in its driverless vehicles at this stage.\nThe company will eventually open its robotaxis to limited service, and eventually to all riders once it receives the regulatory approval required to operate commercially. Waymo said in a blog post on Tuesday that it is working with Germany’s Federal Motor Transport Authority (KBA), state authorities, and local officials, and expects to open commercial ride-hailing to the public toward the end of 2027.\nWaymo’s entry into Germany comes more than five years after the country’s lawmakers adopted legislation to allow driverless vehicles on public roads, and in that process making it the first country in the European Union to create a legal framework for Level 4 autonomous driving. Level 4 autonomy is a designation by the Society of Automobile Engineers (SAE) that means the self-driving system handles all the driving, with no expectation of a human taking over, in certain conditions or environments.\nThis legal framework has made Germany a hotspot for autonomous vehicle testing. Today, several companies, including Mobileye and Volkswagen, hold permits to test their autonomous vehicles in the country, according to the KBA’s latest data. Waymo does not currently have any permits.\nHowever, the vast majority, including U.K. self-driving startup Wayve, and Israel-based Autobrains, hold Level 3 permits. Level 3, or conditional automated driving, is a system that can handle all the driving within specific operating conditions, such as low speeds on highways, but the driver must be able to take over when needed.\nGermany isn’t the only overseas hotspot for AV developers. The U.K., especially London, is shaping up as another robotaxi battleground. Waymo has said it plans to launch a commercial service in London in 2026, which will pit it against Wayve and its partner Uber. Chinese tech giant Baidu has also started testing autonomous vehicles in the city as part of its partnership with Lyft and Freenow.",
+ "report": {
+  "summary": "Waymo宣布将进军慕尼黑，计划2027年底推出无人驾驶出租车服务。",
+  "background": "Waymo此前已在11个城市运营商业robotaxi，此次进军慕尼黑是其欧洲扩张的关键一步。德国早在2021年就通过了允许L4级自动驾驶车辆上路的法律，成为欧盟首个建立相关法律框架的国家，吸引了多家企业测试。Waymo尚未获得德国测试许可，需先完成地图采集、安全员测试等流程，并取得监管批准。慕尼黑作为德国汽车产业重镇，将成为Waymo在欧洲与Mobileye、Wayve等对手竞争的前沿阵地。",
+  "key_points": [
+   "Waymo计划在慕尼黑开展robotaxi服务，已成立德国实体，但需完成测绘、测试和监管审批。",
+   "Waymo将沿用此前模式：先人工驾驶采集地图，再带安全员测试，最终移除安全员并开放服务。",
+   "预计2027年底向公众开放商业运营，需获得德国联邦机动车运输管理局（KBA）及地方批准。",
+   "德国是欧盟首个为L4自动驾驶立法国家，但现有测试许可多为L3级别，Waymo尚无许可。",
+   "伦敦成为另一热门战场，Waymo计划2026年落地，与Wayve、Uber及百度等竞争。"
+  ],
+  "impact": "对AI行业，Waymo进入欧洲验证了L4技术跨区域适配能力，推动自动驾驶法规和生态成熟。对开发者，可能带来更多与Waymo平台集成或数据服务的机会。对普通用户，慕尼黑居民将体验全无人驾驶打车，出行方式可能发生改变，但需等待至2027年底且初期服务范围有限。",
+  "tools": "可关注Waymo官方开发者平台（Waymo Open Dataset）用于研究自动驾驶数据；德国KBA官网查询测试许可动态；开源仿真工具CARLA或SUMO可模拟自动驾驶场景，帮助理解L4级技术部署与测试流程。"
+ }
+}

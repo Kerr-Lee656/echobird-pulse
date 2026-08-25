@@ -1,0 +1,23 @@
+{
+ "id": "6c3d6616e6fb",
+ "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+ "title": "台湾以走私“高端”AI服务器至中国为由起诉9人",
+ "source": "www.theguardian.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-25T19:17:24.405Z",
+ "fetched_at": "2026-08-25T22:46:35.603969+00:00",
+ "content": "Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI rivalry between China and the United States.\nProsecutors said the servers involved were graphics processing units known as “B300,” which have been banned from sale to China.\nSeventy-four servers arrived in China successfully, according to the prosecutors. Of those, 50 were sent through Indonesia, 16 delivered directly to China and eight sent to Japan first, then Hong Kong, before they landed in mainland China.\nAnother attempt involving 56 servers failed, and the servers remain in Taiwan, said the prosecutor’s office.\nAI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the US and China. Washington began imposing restrictions on Nvidia’s exports of advanced chips to China in 2022 and tightened them in subsequent years. In April 2025, the US required licenses for exports of Nvidia’s H20 chips to China before allowing some sales to resume later that year.\nUnder export controls, any sale by Nvidia of high-end AI servers – the computer infrastructure that houses the chips needed to power AI systems – requires a strict review process, according to a document from Keelung District prosecutors’ office in Taiwan. The document also said purchases of more than eight high-end AI servers require company staff to conduct on-site checks to the clients.\n“We will work with the Taiwan authorities to help them resolve the allegations as quickly as possible,” Patrick Rutherford, an Nvidia spokesperson, said in a written statement.\nSuper Micro said in a written statement that the arrests of two of its former employees were due to its cooperation with the Taiwanese authorities and the company will continue to work to “enhance its robust export compliance program to protect American innovation”.\nProsecutors are seeking the maximum five-year sentences for four of the nine defendants, including Chang, an Nvidia manager identified just by his family name. Chang was the “key figure” responsible for “authorizing the release of the B300 GPUs” in this case but “demonstrated a clearly poor attitude following the offense”, the document said.\nSome of the defendants set up a company in Japan, which helped successfully transfer eight of the servers, prosecutors said. Some allegedly created fake websites and falsified information to evade export restrictions.",
+ "report": {
+  "summary": "台湾起诉9人涉嫌走私高端AI服务器至中国，含英伟达和超微员工。",
+  "background": "美国自2022年起对英伟达等公司实施对华先进芯片出口管制，并逐步收紧，2025年4月还要求H20芯片出口许可。台湾地区作为全球先进半导体制造重镇，成为规避管制的走私通道。此次案件涉及被禁售的B300 GPU服务器，检方指控嫌疑人通过印尼、日本、香港等路线迂回运往中国大陆，甚至设置虚假公司网站伪造信息，暴露出出口管控的执行漏洞，也凸显中美AI算力竞争的白热化。",
+  "key_points": [
+   "台湾检方起诉9人，包括英伟达一名经理和超微两名前员工，涉嫌非法出口被禁的B300 GPU服务器。",
+   "74台服务器成功运抵中国大陆，路线包括经印尼、直送以及经日本和香港中转；另有56台被截获。",
+   "美国对华AI芯片管制是事件背景，B300属禁售范围，任何高端AI服务器出口都需严格审查。",
+   "英伟达经理被指为授权放行的关键人物，检方因其事后态度恶劣而求处最高五年刑期。",
+   "嫌疑人通过在日本设立公司、创建虚假网站和伪造信息等手段规避出口限制。"
+  ],
+  "impact": "该事件说明高端AI芯片出口管制存在灰色地带，将促使美台等地加强执法和供应链审查。对开发者而言，获取顶级算力变得更难且风险更高，可能加速中国国产AI芯片和开源替代方案的研发。对普通用户，直接影响有限，但中长期可能影响AI产品供给和成本，并加剧技术阵营分化。",
+  "tools": "可关注美国商务部BIS出口管制清单了解合规要求；NVIDIA官网出口合规页面；超微公司合规声明。开发者和研究人员也可关注华为昇腾等国产AI芯片生态，以及RISC-V开源硬件项目作为替代路径。"
+ }
+}

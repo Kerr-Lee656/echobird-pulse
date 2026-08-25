@@ -6352,5 +6352,86 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-08-25T19:03:47.000Z",
   "fetched_at": "2026-08-25T20:47:03.921541+00:00"
+ },
+ "dc38143bc0f4": {
+  "id": "dc38143bc0f4",
+  "url": "https://slashdot.org/story/26/08/25/1848204/perplexity-and-nvidia-launch-fully-local-ai-agent-with-zero-token-costs",
+  "title": "Perplexity and Nvidia Launch Fully Local AI Agent With Zero Token Costs",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:43:59.744064+00:00"
+ },
+ "e15f8fac7258": {
+  "id": "e15f8fac7258",
+  "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+  "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:44:10.673950+00:00"
+ },
+ "e825eacb926a": {
+  "id": "e825eacb926a",
+  "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+  "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:44:18.682496+00:00"
+ },
+ "327da927d065": {
+  "id": "327da927d065",
+  "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
+  "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:44:35.753246+00:00"
+ },
+ "452c4784b985": {
+  "id": "452c4784b985",
+  "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+  "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:45:23.647716+00:00"
+ },
+ "6c3d6616e6fb": {
+  "id": "6c3d6616e6fb",
+  "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+  "title": "台湾以走私“高端”AI服务器至中国为由起诉9人",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T19:17:24.405Z",
+  "fetched_at": "2026-08-25T22:46:35.603969+00:00"
+ },
+ "bee8e2bfb76b": {
+  "id": "bee8e2bfb76b",
+  "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich",
+  "title": "Waymo robotaxis are headed to Munich",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T22:46:45.151324+00:00"
+ },
+ "dda5df77d1d1": {
+  "id": "dda5df77d1d1",
+  "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
+  "title": "国际货币基金组织表示，随着投资范围扩展至美国以外地区，人工智能将推动全球经济增长",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T18:13:32.448Z",
+  "fetched_at": "2026-08-25T22:47:01.882100+00:00"
+ },
+ "99e7761c77f8": {
+  "id": "99e7761c77f8",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
+  "title": "OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T21:49:33Z",
+  "fetched_at": "2026-08-25T22:47:57.916679+00:00"
  }
 }

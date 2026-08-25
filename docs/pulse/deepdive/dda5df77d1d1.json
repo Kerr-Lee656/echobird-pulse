@@ -1,0 +1,23 @@
+{
+ "id": "dda5df77d1d1",
+ "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
+ "title": "国际货币基金组织表示，随着投资范围扩展至美国以外地区，人工智能将推动全球经济增长",
+ "source": "www.ft.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-25T18:13:32.448Z",
+ "fetched_at": "2026-08-25T22:47:01.882100+00:00",
+ "content": "AI to fuel global growth as investment spreads beyond US, IMF says\nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeks\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nStandard Digital\n$45 per month\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nPremium Digital\nComplete coverage\n$75 per month\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nFT Digital Edition\n$16.99 per month\nOur digitised version of the FT newspaper, for easy reading on any device.\nCheck whether you already have access via your university or organisation.\nTerms & Conditions apply\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "IMF称AI投资扩至美国以外，将推动全球经济增长",
+  "background": "国际货币基金组织（IMF）在最新报告中对人工智能的全球经济影响给出积极展望。随着AI投资从美国硅谷加速扩散至欧洲、亚洲乃至新兴市场，IMF认为这一通用技术有望重塑生产力格局，成为全球经济增长的新引擎。报告出炉正值全球经济面临增速放缓、逆全球化挑战的节点，IMF的表态为市场注入了信心。然而，IMF同时警示，AI可能加剧收入不平等和国家间技术鸿沟，呼吁政策制定者提前布局配套措施，确保技术红利被广泛共享。",
+  "key_points": [
+   "AI投资全球化：IMF指出，AI投资不再局限于美国，正加速流向欧洲、亚洲等地区，形成全球性技术扩散。",
+   "生产率提升预期：AI广泛应用预期将提高劳动生产率、降低企业成本，从而支撑全球经济长期增长。",
+   "政策调整需求：IMF呼吁各国制定相应政策，应对AI对就业结构的冲击，确保技术红利惠及更广泛人群。",
+   "风险与监管：报告提醒，AI带来的数据安全、算法偏见等风险需要国际协调监管机制加以规范。",
+   "全球增长新引擎：在传统增长动力减弱背景下，AI被视为推动经济复苏和转型的关键力量。"
+  ],
+  "impact": "对AI行业而言，全球投资扩张带来更大市场与竞争，加速技术迭代；对开发者来说，AI技能需求激增，既要掌握前沿算法，也需考虑伦理与合规；对普通用户，AI应用将更加普及，生活和生产效率提升，但部分岗位可能面临转型压力，再教育成为必需。整体上，AI正成为全球经济和日常生活的底层驱动。",
+  "tools": "建议关注以下工具以跟进AI应用：TensorFlow和PyTorch用于模型开发，Hugging Face Transformers提供预训练模型；OpenAI API与LangChain适合构建智能化应用；若关注AI治理，可参考OECD AI政策观察平台。"
+ }
+}
