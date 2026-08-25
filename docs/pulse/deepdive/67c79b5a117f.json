@@ -1,0 +1,22 @@
+{
+ "id": "67c79b5a117f",
+ "url": "https://www.aibase.com/news/30598",
+ "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-25T04:28:55.591Z",
+ "fetched_at": "2026-08-25T10:51:31.207292+00:00",
+ "content": "Recently, WikiHow, the world's largest collaborative \"how-to\" lifestyle guide encyclopedia, has officially filed a lawsuit against AI industry giant OpenAI in the U.S. District Court for the Southern District of New York. The core focus of this lawsuit is that OpenAI擅自 scraped over 11,000 tutorial articles covering daily tasks to professional skills without permission, used them to train ChatGPT and the GPT series large language models, and is suspected of infringing at least 1,200 registered copyrights.\nAs a platform dedicated to building the most practical and comprehensive guide to everything, WikiHow detailed in its complaint the serious commercial impact caused by the large model. After being \"fed\" with massive tutorial data, the current ChatGPT can directly reproduce WikiHow's text content based on user prompts and autonomously generate complete tutorials on similar topics. This approach of replacing human work with AI allows users to get answers without visiting the original website.\nThe lawsuit states that this not only greatly reduces the cost, effort, and time required to produce similar content, but also directly diverts and cuts down WikiHow's core traffic and revenue. In the long term, such copyright infringement may gradually erode the motivation of creators to continue producing high-quality articles. Therefore, WikiHow requests the court to order OpenAI to compensate and issue an injunction to completely stop OpenAI from continuing to infringe its intellectual property rights.\nRegarding this significant lawsuit, an OpenAI spokesperson later publicly responded that the company's AI models were trained entirely using publicly available data, and this behavior is based on the legal principle of \"fair use.\" As of now, the official spokesperson and attorney for WikiHow have not made further public comments on this response. This case is undoubtedly another key indicator for measuring the boundaries between AI training and traditional copyright protection.",
+ "report": {
+  "summary": "WikiHow起诉OpenAI未经许可抓取超1.1万篇文章训练大模型，指控其侵权并分流流量。",
+  "background": "生成式AI需要海量数据训练，互联网内容成为主要来源，引发版权争议。WikiHow作为全球最大生活指南平台，发现ChatGPT能直接复现其教程并生成类似内容，导致用户不再访问原网站，核心流量和收入受损。此前《纽约时报》等媒体已起诉OpenAI，该案是AI训练数据与版权边界争议的最新标志性案例。",
+  "key_points": [
+   "WikiHow在纽约南区法院起诉OpenAI，指控其未经许可爬取超1.1万篇教程文章，侵犯至少1200项注册版权。",
+   "诉讼称ChatGPT能根据用户提示直接复现WikiHow内容，自动生成类似教程，替代人工创作，分流核心流量和收入。",
+   "WikiHow认为长期侵权会削弱创作者持续生产高质量文章的动力，要求法院判令赔偿并发布禁令，禁止OpenAI继续侵权。",
+   "OpenAI回应称训练使用公开数据，基于“合理使用”原则，但WikiHow方面尚未进一步回应，案件仍在发酵。"
+  ],
+  "impact": "对AI行业而言，此案将重新界定大模型训练数据的合规边界，技术公司可能被迫调整数据获取策略，增加授权成本。对开发者来说，若OpenAI败诉，使用网络内容训练模型将面临更高法律风险，需更关注数据来源的合法性。对普通用户，AI生成的教程内容可能减少，或需更谨慎辨别版权信息，但长期看有助于推动更规范、可持续的AI服务生态。",
+  "tools": "可关注Hugging Face Datasets、Common Crawl等公开数据集，了解常见训练数据来源；开发者可查阅OpenAI官方模型卡与数据透明度说明，跟进案件进展。AI文本检测工具如GPTZero可辅助判断内容是否由AI生成，但需注意其局限性。"
+ }
+}

@@ -5704,5 +5704,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T07:14:50Z",
   "fetched_at": "2026-08-25T09:00:05.165698+00:00"
+ },
+ "b333aa00f7d2": {
+  "id": "b333aa00f7d2",
+  "url": "https://hub.baai.ac.cn/view/57434",
+  "title": "HuggingFace 传将以超 130 亿美元估值出售",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T10:49:19.797300+00:00"
+ },
+ "7194dc6e8a50": {
+  "id": "7194dc6e8a50",
+  "url": "https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html",
+  "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T10:49:33.220996+00:00"
+ },
+ "e64eed0ab954": {
+  "id": "e64eed0ab954",
+  "url": "https://www.aibase.com/news/30599",
+  "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-25T06:26:14.721Z",
+  "fetched_at": "2026-08-25T10:49:55.846764+00:00"
+ },
+ "69edcef98399": {
+  "id": "69edcef98399",
+  "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+  "title": "英伟达一名员工被指控向中国走私先进芯片",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T05:57:42.956Z",
+  "fetched_at": "2026-08-25T10:50:46.499638+00:00"
+ },
+ "67c79b5a117f": {
+  "id": "67c79b5a117f",
+  "url": "https://www.aibase.com/news/30598",
+  "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-25T04:28:55.591Z",
+  "fetched_at": "2026-08-25T10:51:31.207292+00:00"
+ },
+ "ad0981a7e88b": {
+  "id": "ad0981a7e88b",
+  "url": "https://hub.baai.ac.cn/view/57427",
+  "title": "GitHub 万星 Agent 后端项目 Instant 团队加入 OpenAI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T10:51:42.936884+00:00"
+ },
+ "b67760a63fc8": {
+  "id": "b67760a63fc8",
+  "url": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
+  "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T09:52:58Z",
+  "fetched_at": "2026-08-25T10:52:31.299082+00:00"
+ },
+ "6c2861183e87": {
+  "id": "6c2861183e87",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+  "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-08-25T09:15:03.000Z",
+  "fetched_at": "2026-08-25T10:54:48.099162+00:00"
  }
 }
