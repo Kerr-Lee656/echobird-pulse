@@ -1,0 +1,23 @@
+{
+ "id": "0972ae02ad72",
+ "url": "https://daily.dev/posts/eomhvwuug",
+ "title": "Alibaba open-sources Qwen3.8-Max weights and releases 27B model for local use",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-25T01:52:55.027643+00:00",
+ "content": "Inside Alibaba's Two New Models, Qwen3.8-Max and Qwen3.8-27B\nAlibaba released downloadable weights for Qwen3.8-Max, a 2.4 trillion-parameter mixture-of-experts vision-language model, alongside the smaller Qwen3.8-27B, within a week of unveiling the Max model on August 2. This marks the first time Alibaba has open-sourced weights for its top-tier Max line, though the released weights are text-only and lack the full 1-million-token context window of the hosted API version. Qwen3.8-Max ranks fifth overall and second among open models on Artificial Analysis' Intelligence Index, tops the 𝜏³-Banking benchmark, and places highly on vision and web-dev coding arenas, though it generates more tokens per task, raising effective cost. Qwen3.8-27B, released under Apache 2.0, is described as the most capable model that can currently run locally on consumer hardware. The release follows competitive pressure from Moonshot AI's Kimi K3 and Z.ai's GLM-5.3 in the open-weights race among Chinese AI labs.",
+ "report": {
+  "summary": "阿里开源Qwen3.8-Max权重，并发布27B本地可运行模型",
+  "background": "阿里8月2日发布Qwen3.8-Max，一周后即开放权重，首次让顶级Max系列可下载。当前国内开源大模型竞争激烈，月之暗面Kimi K3、智谱GLM-5.3等纷纷发力开放权重，阿里此举意在巩固开源生态优势。Max版本为2.4万亿参数MoE视觉语言模型，但开放权重仅含文本能力且不支持百万级上下文；27B版本则主打消费级硬件本地运行，Apache 2.0协议。",
+  "key_points": [
+   "Qwen3.8-Max权重首次开放，但仅有文本能力，缺少API版的百万token上下文窗口，适合研究而非完全复现完整体验。",
+   "Max在Artificial Analysis智能指数中排名第五、开源模型第二，并在银行基准τ³-Banking上登顶，综合能力强劲。",
+   "Max生成每任务token数更多，导致实际使用成本偏高，开发者需权衡质量与推理开销。",
+   "Qwen3.8-27B采用Apache 2.0，被称当前消费级硬件能本地运行的最强模型，适合隐私敏感或离线场景。",
+   "发布紧随Kimi K3和GLM-5.3之后，显示中国AI实验室在开源权重赛道上的激烈竞争和快速迭代节奏。"
+  ],
+  "impact": "对AI行业而言，阿里开放Max权重将推动开源模型能力上限提升，缩小与闭源模型的差距，加剧头部玩家竞争。对开发者，这意味着能用顶尖模型进行二次研究和微调，但需注意文本限定和高token消耗带来的成本。对普通用户，27B模型可本地部署，提供更可控的隐私体验，但需要较高配置的消费级硬件，门槛仍未完全消除。",
+  "tools": "可关注Hugging Face上的Qwen3.8系列权重仓库；本地推理推荐Ollama或LM Studio，服务端部署可用vLLM、SGLang；评估可参考Artificial Analysis榜单。"
+ }
+}

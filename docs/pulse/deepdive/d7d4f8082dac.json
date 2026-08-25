@@ -1,0 +1,22 @@
+{
+ "id": "d7d4f8082dac",
+ "url": "https://www.ithome.com/0/993/798.htm",
+ "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-25T00:20:52Z",
+ "fetched_at": "2026-08-25T01:53:27.388270+00:00",
+ "content": "IT之家 8 月 25 日消息，科技媒体 Windows Latest 昨日（8 月 24 日）发布博文，从 BetaWiki Discord 频道挖掘出更多线索，指出微软 Project Aion 主要面向企业用户，定位为没有开始菜单的 AI 系统。\nIT之家曾于今年 7 月报道，微软曾于 2024 年启动开发 Project Aion 系统项目，内部名为 CopilotOS，围绕着 Copilot AI 构建，描述为用户表达、娱乐、学习和处理日常事务的主要入口。\nAion 被描述为“一款可以在运行 AOSP、Win3 甚至 Windows 11 的各种新型 AI 专用设备上运行的智能体 Copilot 操作系统”。\n底层方面，该系统基于 Microsoft Edge 浏览器和 Web3 轻量化 Windows 代码库构建，是完全针对 AI 场景设计开发的系统，没有传统开始菜单和桌面图标，一切均基于 AI 交互实现。\n系统没有开始菜单、桌面图标和传统任务栏应用。用户点击 Copilot 按钮后，会看到以姓名开头的问候语，例如“Good afternoon, Nathan”，随后出现 3 张卡片：“Stay on Top”“Create something new”和“News of the day”。\n下方“My Stuff”区域提供 Edge、Teams、Outlook、OneDrive、Microsoft 365、Figma 和 Visual Studio Code 等应用入口。\n用户在“Ask me anything”输入框中输入内容时，系统会提供自动补全建议。例如输入“techc”，系统会推荐 TechCrunch；按下回车后，页面会在普通 Edge 标签页中打开。\n输入“to do”后，Microsoft To Do 会通过 Edge 的画中画模式，以浮动窗口形式出现。用户询问毛伊岛餐饮信息时，启动器会变成聊天窗口，并列出餐厅名称及 Tripadvisor 等旅行网站链接。\n如果用户随后询问下周一的会议安排，系统会在旁边打开第 2 个独立聊天窗口。每段对话都会变成独立应用，拥有单独图标，并支持最小化和关闭。\n任务栏会根据对话内容生成图标，例如用鸡尾酒杯代表毛伊岛餐饮对话，用日历代表会议对话。关闭聊天后，对话会保存为“My Stuff”中的卡片，用户可以从原位置重新打开。\nSpaces（空间）是按目标组织任务的功能。泄露截图展示了名为“TURKEY TRIP”的空间，描述和目标卡片写着“Planning a trip to Turkey in September”。\n页面还提供 Personal 主题、Creative 对话风格，以及 Edge、WhatsApp、YouTube、Word、Turkish Airlines、Expedia 和 Airbnb 等应用入口，并配有“一键起草行程”操作。\n泄露演示显示，Aion 能够搜索 SharePoint 和电子邮件。用户询问“Scott Schenone 最近在做什么”时，Copilot 自动识别其为高级设计总监，并从内部文件中总结他参与的 Lanai 项目及近期工作。\n在搜索框中输入斜杠，会触发微软内部称为 Context IQ 上下文智能的功能，从 Microsoft 365 调取同事和文件，并直接加入提示词。\n用户要求起草邮件时，系统会在类似 Outlook 的编辑窗口中生成内容，并提供 Casual、Professional、Funny 和 Undead Pirate Captain 等语气选项。用户无需打开 Outlook 即可发送邮件。\n相关阅读：\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+ "report": {
+  "summary": "微软曝光AI智能体系统Aion，以Copilot为核心，无传统桌面，重塑交互体验。",
+  "background": "微软早在2024年启动Project Aion，内部称CopilotOS，旨在围绕Copilot构建全新AI操作系统。此次泄露显示其面向企业用户，基于Edge和轻量化Windows代码库，去除开始菜单和桌面图标，一切通过AI对话完成。这是微软将AI作为系统核心而非附属功能的重要尝试，与当前主流Windows中Copilot作为辅助功能形成对比。",
+  "key_points": [
+   "Aion是微软内部开发的全新AI操作系统，代号CopilotOS，主要面向企业用户，彻底移除传统开始菜单和桌面图标，交互完全由AI驱动。",
+   "系统基于Edge浏览器和轻量级Windows代码构建，每个AI对话都会变成独立应用，可最小化、关闭，并生成任务栏图标，如用鸡尾酒杯代表餐饮对话。",
+   "内置Context IQ功能，能自动从Microsoft 365调取同事和文件上下文，支持搜索SharePoint和邮件，辅助起草邮件并可选多种语气。",
+   "Spaces空间功能允许按目标组织任务，例如规划土耳其旅行，系统提供相关应用入口和“一键起草行程”操作，体现智能体工作流。"
+  ],
+  "impact": "对AI行业：标志操作系统从“应用为中心”向“对话为中心”转变，可能推动更多厂商探索AI原生OS。对开发者：需要适应新的应用形态，对话即应用，开发模式转向智能体编排和上下文集成。对普通用户：操作门槛降低，但隐私和数据安全需关注，企业场景可能最先受益，日常使用可能颠覆传统桌面习惯。",
+  "tools": "建议关注：微软Copilot、Windows 11的AI功能、Microsoft 365 Copilot、Edge浏览器AI特性；开源方面可关注AutoGen、Semantic Kernel等智能体框架，用于构建类似对话式应用。"
+ }
+}
