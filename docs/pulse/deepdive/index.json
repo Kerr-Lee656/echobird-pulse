@@ -5569,5 +5569,104 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-25T04:00:00.000Z",
   "fetched_at": "2026-08-25T04:59:34.384173+00:00"
+ },
+ "a1c3ed89fe8a": {
+  "id": "a1c3ed89fe8a",
+  "url": "https://aiera.com.cn/2026/08/25/other/admin/110493/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%83%bd%e6%91%81%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%81%e5%86%85%e5%ad%98%e7%96%af%e6%b6%a8%ef%bc%8cai%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%a2%ab%e6%9b%9d%e6%b6%a8%e4%bb%b7%e8%b6%85",
+  "title": "英伟达都摁不住了！内存疯涨，AI服务器被曝涨价超15%",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-25T00:38:12.780Z",
+  "fetched_at": "2026-08-25T07:08:25.799162+00:00"
+ },
+ "04f2d8f76cb4": {
+  "id": "04f2d8f76cb4",
+  "url": "https://www.aibase.com/zh/news/30598",
+  "title": "WikiHow 起诉 OpenAI：指控其未经许可抓取教程文章训练大模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T07:08:37.688630+00:00"
+ },
+ "4cb1e645eef6": {
+  "id": "4cb1e645eef6",
+  "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
+  "title": "美国希望在机器人技术竞赛中占据领先地位。但在硬件方面，它仍然依赖中国。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T04:21:50.407Z",
+  "fetched_at": "2026-08-25T07:08:58.689747+00:00"
+ },
+ "b65284292ed0": {
+  "id": "b65284292ed0",
+  "url": "https://www.ithome.com/0/993/911.htm",
+  "title": "Arm 成立 36 年来首颗自研芯片：AGI CPU 细节披露，1000 亿晶体管、支持 6TB 内存",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T03:31:46Z",
+  "fetched_at": "2026-08-25T07:09:06.849140+00:00"
+ },
+ "a8d2a0941a0f": {
+  "id": "a8d2a0941a0f",
+  "url": "https://news.ycombinator.com/item?id=49429926",
+  "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T06:46:17Z",
+  "fetched_at": "2026-08-25T07:10:13.631011+00:00"
+ },
+ "febf15d3760a": {
+  "id": "febf15d3760a",
+  "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+  "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T06:43:03Z",
+  "fetched_at": "2026-08-25T07:10:33.017987+00:00"
+ },
+ "1d6f34dcc45b": {
+  "id": "1d6f34dcc45b",
+  "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+  "title": "New technology lets cloud AI models process your data without privacy leaks",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T06:11:42Z",
+  "fetched_at": "2026-08-25T07:10:41.449551+00:00"
+ },
+ "316e243dc4fb": {
+  "id": "316e243dc4fb",
+  "url": "https://github.com/robert-auger/safer-dependencies",
+  "title": "Safer-dependencies is a security layer for Claude Code that audits dependencies",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:39:58Z",
+  "fetched_at": "2026-08-25T07:10:54.815505+00:00"
+ },
+ "5628b8905edb": {
+  "id": "5628b8905edb",
+  "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+  "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:22:30Z",
+  "fetched_at": "2026-08-25T07:11:09.690718+00:00"
+ },
+ "89a7f100456c": {
+  "id": "89a7f100456c",
+  "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+  "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:08:43Z",
+  "fetched_at": "2026-08-25T07:11:24.960088+00:00"
+ },
+ "3285dfc4bc0e": {
+  "id": "3285dfc4bc0e",
+  "url": "https://arxiv.org/abs/2608.21366",
+  "title": "Reviewing Model Collapse and Countermeasures",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T07:11:39.058542+00:00"
  }
 }

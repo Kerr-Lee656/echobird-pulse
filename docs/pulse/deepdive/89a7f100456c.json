@@ -1,0 +1,23 @@
+{
+ "id": "89a7f100456c",
+ "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+ "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+ "source": "Hacker News (2pts, 2c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T04:08:43Z",
+ "fetched_at": "2026-08-25T07:11:24.960088+00:00",
+ "content": "Super AI Station is the definitive AI development platform, packing 20 PFLOPS of FP4 data-center-grade NVIDIA GB300 performance into a form factor for deskside tower or 5U rack-mounted deployment. Supermicro’s serviceable, closed-loop liquid-cooled architecture enables near-silent operation and 24/7 reliability that scales seamlessly from office to data center. The ultimate AI factory on-ramp, Supermicro’s Super AI Station supports NVIDIA’s industry-leading AI software stack to run AI agents locally at trillion-parameter scale, with zero re-architecting as you scale up.\n- Data Center-Level Performance in a Local AI Supercomputer\n  - Same NVIDIA GB300 architecture as large AI factories\n  - Delivers 20 PFLOPS of FP4 AI performance\n  - 748GB combined coherent memory to run trillion-parameter frontier models locally\n- Start from the Deskside, Expand to AI Factories\n  - Compact, all-in-one solution for deskside tower or 5U rackmount deployment\n  - Quiet, fully serviceable liquid-cooled system on a standard NEMA 5-20 outlet\n  - Native NVIDIA software support, including NemoClaw, with no code re-architecting to upscale\n- Build Enterprise AI Locally with Complete Control\n  - Run AI agents and models securely by storing and processing proprietary data on-prem\n  - Robust security features, including hardware root of trust, secure boot, and full air-gapped deployment capabilities ensure maximum data protection\n  - Up to 7 Multi Instance GPUs (MIG) instances on a single system\n- Agentic AI & AI Development\n- Data Science & Predictive Analytics\n- AI Model Training & Fine-Tuning\n- Multi-User Support and Private Cloud\nDevelop and Deploy AI Agents Locally with Supermicro and NVIDIA\nThe Super AI Station features native support for the NVIDIA AI Enterprise (NVAIE) software stack, including the open-source NemoClaw that builds on the explosive popularity of OpenClaw, adding privacy and security guardrails for a safer, more secure agentic AI development and deployment environment. The Super AI Station provides the dedicated computing power to build tools and software that self-evolving agents need to complete their tasks autonomously. With the added security, enterprises using the Super AI Station will be able to deploy autonomous agents across proprietary workflows within policy boundaries, providing the architectural foundation for secure, always-on AI systems.",
+ "report": {
+  "summary": "Supermicro发布Super AI Station，以桌面型液冷提供数据中心级AI算力。",
+  "background": "随着大语言模型参数突破万亿规模，企业在享受AI能力的同时，也开始担忧云上数据安全、成本和高延迟。Supermicro与NVIDIA合作，将数据中心级GB300算力浓缩到桌面塔式或5U机架中，推出Super AI Station。该平台提供20 PFLOPS FP4性能和748GB相干内存，支持本地运行万亿参数模型和AI代理，同时保留与大型AI工厂相同的架构和软件栈，让企业既能本地掌控数据，又能无缝扩展至云端或数据中心。",
+  "key_points": [
+   "超强算力：20 PFLOPS FP4性能和748GB相干内存，能本地运行万亿参数级前沿模型，达到数据中心水平。",
+   "灵活形态：桌面塔式或5U机架两用，封闭式液冷系统安静且便于维护，标准插座供电即可长时间运行。",
+   "无缝扩展：采用与大型AI工厂相同的GB300架构，软件无需重新编写即可从办公室平滑升级到数据中心。",
+   "安全可控：支持本地存储处理数据，具备硬件信任根、安全启动和物理隔离部署，适合敏感业务场景。",
+   "原生软件生态：支持NVIDIA AI Enterprise和NemoClaw，后者基于OpenClaw增加安全护栏，便于开发自主AI代理。"
+  ],
+  "impact": "对AI行业而言，该产品将数据中心级算力下沉到企业本地，推动AI部署从集中云向分布式边缘演进。开发者可借助完整原生软件栈，在本地安全调试和部署万亿参数大模型，降低云依赖和合规风险。普通用户能从企业更严格的数据隐私保护中受益，同时未来基于AI代理的服务可能更快、更可靠。整体上，这标志着企业AI从“租云算力”向“自建AI工厂入门”转变。",
+  "tools": "建议关注NVIDIA AI Enterprise软件栈、开源OpenClaw及其增强版NemoClaw，以及Supermicro的液冷机架产品；开发者可参考NVIDIA NeMo框架和TensorRT-LLM进行本地模型优化。"
+ }
+}

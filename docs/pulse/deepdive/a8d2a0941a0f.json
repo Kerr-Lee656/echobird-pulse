@@ -1,0 +1,22 @@
+{
+ "id": "a8d2a0941a0f",
+ "url": "https://news.ycombinator.com/item?id=49429926",
+ "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T06:46:17Z",
+ "fetched_at": "2026-08-25T07:10:13.631011+00:00",
+ "content": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS 8.0, high).\nWhat I found: the MCP Toolbox's HTTP source makes outbound requests to a URL a caller can influence. It validated that first URL, but not where a redirect sent it next, and it did no filtering on the destination address at all. If the server you're calling answers with a redirect to 169.254.169.254, the toolbox follows it like any other response and hands back whatever's there. In a cloud environment, what's there is often the credential the environment itself is running on. The credential is never in the request you sent, the environment supplies it at the destination, and the toolbox just walked you to the door.\nWhy this is sharper in agent tooling specifically: in most software, \"an attacker controls this input\" is a condition you argue about. In a tool-calling agent, it's closer to the default. The URL argument here isn't typed by a person who trusts it, it's chosen by a model that's usually just finished reading a web page, a database row, or a file it doesn't control. The thing that makes this exploitable, a caller-influenced destination, isn't an edge case for a server like this, it's the normal operating condition.\nWhat I sent Google, and what happened: I reported the finding with a reproduction and a suggested fix shape, validate on every hop not just the first request, reject private and link-local ranges including the IPv6 forms that encode an IPv4 address. Google's engineering team reviewed it, and the fix that shipped in pull request #3448 does the right version of all of that: an SSRFGuard that validates the destination on every redirect hop and resists DNS rebinding, configurable network boundaries, and early validation of the configured base URL at initialization so misconfiguration fails fast instead of at request time. Eight days from report to merged fix. CVE-2026-14540 was published a few weeks later, and I'm named in the official CVE record as the finder.\nThe part I'm not publishing yet: I've been auditing other official MCP servers for the same pattern, not just Google's. Some pin the destination correctly, some don't. Where I've found something, I'm reporting it privately first and I'll write about it once a fix is out, the same way I did here. This post is only the Google case, because it's the only one that's public.\nIf you're building something with this shape yourself, the question worth asking is small enough to hold in your head: can a value your caller influenced change which host receives a credentialed request, with nothing checking that destination first? If yes, you have this bug, whether or not anyone's found it yet.\nCVE record: https://www.cve.org/CVERecord?id=CVE-2026-14540\nFix: https://github.com/googleapis/mcp-toolbox/pull/3448",
+ "report": {
+  "summary": "谷歌MCP工具盒存在SSRF漏洞，8天修复并致谢发现者。",
+  "background": "MCP（Model Context Protocol）让AI代理安全调用外部数据和服务，谷歌官方发布MCP Toolbox作为参考实现。作者发现其HTTP源存在SSRF漏洞：只校验初始URL，未校验重定向目标，攻击者可借跳转访问云元数据接口（如169.254.169.254）获取运行环境凭证。由于该工具由模型选择调用URL，而非人工输入，利用条件在Agent场景中成为默认情况。谷歌收到报告后8天内完成修复，引入逐跳校验的SSRFGuard，并分配CVE-2026-14540（CVSS 8.0）。作者表示正在审计其他官方MCP服务器，类似问题会先私下报告。",
+  "key_points": [
+   "漏洞源于HTTP源只校验初始URL，未校验重定向目标，可跳转至云元数据地址169.254.169.254获取凭证。",
+   "谷歌8天内修复：通过PR #3448引入SSRFGuard，逐跳校验目标地址，禁止私有网段和DNS重绑定，还提前校验配置。",
+   "Agent安全特殊性：URL由模型选择而非用户，模型常读取不可信内容，因此受影响目标并非边角情况，而是默认场景。",
+   "作者表示正在审计其他官方MCP服务器，同类问题将先私下报告；开发人员应自查：调用方影响的目标主机是否经过校验。"
+  ],
+  "impact": "对AI行业，此事件凸显MCP服务器需把SSRF防护纳入设计核心，否则模型可控URL会成为攻击面；对开发者，应实施逐跳校验、封禁私网地址并关注官方修复参考；对普通用户，此类漏洞可能威胁云环境底层凭证，但该CVE已修复，实际利用风险需结合部署判断。",
+  "tools": "可参考Google MCP Toolbox的SSRFGuard实现（PR #3448）；建议使用Interactsh或Burp Suite Collaborator测试重定向SSRF；关注CVE-2026-14540记录了解细节。"
+ }
+}

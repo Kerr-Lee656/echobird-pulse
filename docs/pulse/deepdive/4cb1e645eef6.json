@@ -1,0 +1,22 @@
+{
+ "id": "4cb1e645eef6",
+ "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
+ "title": "美国希望在机器人技术竞赛中占据领先地位。但在硬件方面，它仍然依赖中国。",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-25T04:21:50.407Z",
+ "fetched_at": "2026-08-25T07:08:58.689747+00:00",
+ "content": "The brains may come from the US, but the body could very well be Made In China.\nAt Physical Intelligence, a San Francisco-based startup, cofounder and researcher Sergey Levine is building the models, or brains, designed to provide intelligence for a range of robots — be they warehouse robots or humanoid machines. Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nIn an episode of The Peterman Pod published Monday, Levine said the US robotics industry has its own advantages against competition abroad, but the one area that could significantly advance America's progress is building the hardware supply chain.\n\"Availability of reliable low-cost hardware is a big deal. And right now, hardware used for robotics research — a lot of that does come from China,\" Levine said. \"It's good. It's relatively inexpensive. It's of high quality and meets the standards that people generally need. But it'd be awfully nice to be able to source all of that domestically as well. I don't think there's anything impossible about that.\"\nBuilding an AI capable of making robots smart enough to handle a wide range of tasks is only part of the industry's challenge.\nIn the US in particular, robotics leaders have said sourcing the physical components for robots — the motors, chassis, batteries, sensors, and other materials — will be a major bottleneck for scaling, and that companies often rely on China to fill the gaps.\n\"The United States is no longer competitive in manufacturing, and we're falling further behind every day. Any company that builds hardware can tell you that if you source from China instead of making it here, it's generally 5 to 10 times cheaper,\" Evan Beard, CEO of Standard Bots, said during a congressional hearing in April.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing. China's progress, according to the report, is due in part to its electric vehicle ecosystem, which shares some of the components needed in robots.\nUS robotics executives and policymakers say China's rapid progress in robotics and AI — combined with a strong manufacturing base — could hamper America's ability to effectively compete in what they view as a critical emerging industry.\nThe concern is heightened as Washington sees China as a strategic adversary. In July, the Federal Communications Commission effectively blocked new foreign-made humanoids and other advanced robots from entering the US market, citing national security concerns.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"\n\"I think that it's important to sort of fully embrace that this is a holistic thing and not something where we can do just one piece of it and outsource everything else,\" he said.\nHave a tip? Contact this reporter via email at lloydlee@businessinsider.com or Signal at lloydlee.71. Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "美国机器人软件领先，但硬件供应链依赖中国，成竞争短板。",
+  "background": "美国在机器人AI和软件领域占据领先地位，但机器人物理部件的制造严重依赖中国。随着中国在机器人及零部件制造上的快速进步，美国政界担心战略劣势。FCC甚至禁止外国机器人进入美国市场，但硅谷从业者认为禁令可能阻断低成本硬件来源。专家呼吁重建国内供应链，以维持竞争力。",
+  "key_points": [
+   "美国机器人公司聚焦AI“大脑”软件，但电机、传感器等硬件“身体”多从中国采购，因为中国产品便宜且质量达标，形成依赖。",
+   "中国在机器人零部件制造上占主导，例如处理全球90%的永磁体，美国采购成本比本土制造低5至10倍，供应链优势明显。",
+   "美国FCC以国家安全为由禁止外国机器人入境，虽然保护本土制造，但研究者警告会切断低成本硬件来源，增加开发难度。",
+   "专家呼吁美国不能只做AI，还要重建电机、电池等硬件产业链，让机器人生态整体健康发展，才能与中国竞争。"
+  ],
+  "impact": "对AI行业，依赖中国硬件意味着供应链受地缘政治影响，存在断供风险；对开发者，FCC禁令可能推高研发成本，但开源工具可降低门槛；对普通用户，机器人量产受阻，价格和普及进程可能被拖慢。美国需在政策和供应链间找到平衡，否则竞争劣势难解。",
+  "tools": "可关注Physical Intelligence的机器人模型、开源仿真平台MuJoCo和ROS 2，以及斯坦福的Aloha开源平台，以便跟踪机器人AI与硬件生态。"
+ }
+}
