@@ -6163,5 +6163,122 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-08-25T15:32:57.000Z",
   "fetched_at": "2026-08-25T17:00:35.361533+00:00"
+ },
+ "ea439fd97588": {
+  "id": "ea439fd97588",
+  "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+  "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:56:54.263752+00:00"
+ },
+ "0c7fd5172055": {
+  "id": "0c7fd5172055",
+  "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+  "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:57:02.940774+00:00"
+ },
+ "8c2a677c8695": {
+  "id": "8c2a677c8695",
+  "url": "https://thenextweb.com/news/xiaomi-xring-d100-driving-chip-tsmc-europe-gap",
+  "title": "Xiaomi unveils custom 3nm chip for intelligent driving",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:57:43.531044+00:00"
+ },
+ "60a510e53a47": {
+  "id": "60a510e53a47",
+  "url": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027",
+  "title": "Waymo is coming to Munich, with commercial service targeted for late 2027",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:57:58.773034+00:00"
+ },
+ "bdd3e03f9bdf": {
+  "id": "bdd3e03f9bdf",
+  "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6",
+  "title": "Apple Reveals M6 as First-Ever 2nm Chip",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:58:14.261680+00:00"
+ },
+ "bd1292578b9f": {
+  "id": "bd1292578b9f",
+  "url": "https://www.businessinsider.com/google-unveils-gemini-enterprise-for-legal-law-tech-push-2026-8",
+  "title": "Google is taking on Anthropic and OpenAI in the legal AI race",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T18:58:26.905777+00:00"
+ },
+ "a30920238400": {
+  "id": "a30920238400",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
+  "title": "苹果新款 Mac mini，搭载 M6 和 M5 Pro 芯片",
+  "source": "www.apple.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T15:17:34.974Z",
+  "fetched_at": "2026-08-25T18:58:40.769821+00:00"
+ },
+ "c9a91acdabb4": {
+  "id": "c9a91acdabb4",
+  "url": "https://www.ithome.com/0/994/256.htm",
+  "title": "OpenAI 奥尔特曼承认自己高估 AI 普及速度：最大阻力其实是改变用户习惯",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T15:09:13Z",
+  "fetched_at": "2026-08-25T18:59:02.032814+00:00"
+ },
+ "6c15204b974c": {
+  "id": "6c15204b974c",
+  "url": "https://www.ithome.com/0/994/253.htm",
+  "title": "OpenAI 秀肌肉，与博通共研的 Jalapeño 芯片将向英伟达 GB300 发起挑战",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T14:53:05Z",
+  "fetched_at": "2026-08-25T18:59:09.545962+00:00"
+ },
+ "9fde7bd5a528": {
+  "id": "9fde7bd5a528",
+  "url": "https://www.ithome.com/0/994/252.htm",
+  "title": "基于下一代 Qwen4 架构所构建的多模态 MoE 模型，阿里千问预告明晚开源 Qwen3.8-Flash-Next",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T14:51:37Z",
+  "fetched_at": "2026-08-25T18:59:23.859284+00:00"
+ },
+ "f77911b86262": {
+  "id": "f77911b86262",
+  "url": "https://aiandeducation.mit.edu/",
+  "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T18:29:18Z",
+  "fetched_at": "2026-08-25T19:01:00.746014+00:00"
+ },
+ "a11504bdd7e0": {
+  "id": "a11504bdd7e0",
+  "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+  "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T17:12:34Z",
+  "fetched_at": "2026-08-25T19:01:10.414189+00:00"
+ },
+ "cfc73f3e58d6": {
+  "id": "cfc73f3e58d6",
+  "url": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/",
+  "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T17:02:50Z",
+  "fetched_at": "2026-08-25T19:01:25.874782+00:00"
  }
 }

@@ -1,0 +1,23 @@
+{
+ "id": "cfc73f3e58d6",
+ "url": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/",
+ "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T17:02:50Z",
+ "fetched_at": "2026-08-25T19:01:25.874782+00:00",
+ "content": "Meta developed its own transport protocol for higher-throughput Ethernet-based scale-out networks running AI workloads.\nThe aptly named MetaRoCE is a remote direct memory access (RDMA) transport designed entirely from scratch. Unlike conventional high-performance protocols, MetaRoCE deliberately sprays packets out of order to achieve mass cross-sectional bandwidth and network utilization. Each write carries its destination in every packet, meaning a send will land correctly even if messages arrive out of order.\nMeta engineers argued that standard RDMA’s sequential sending of packets stalls network speeds, with receiving network interface card (NIC) hardware being forced to wait until the missing packet arrives to patch the gap. With MetaRoCE, data is written straight to its final memory location as it lands, or as the hyperscaler put it, “the fabric sees packets, but the NIC sees intent.”\n“Traditional architectures centralize intelligence in the fabric, relying on switches to enforce losslessness and maintain order,” a company blog post explains. “By moving intelligence to the endpoint, MetaRoCE decomposes the network into many fine-grained logical paths, each with its own real-time telemetry.”\nThe Facebook parent tested MetaRoCE on AMD hardware, leveraging the Pensando programmable NICs across a 64-node cluster. Results showed that in packet loss conditions that would typically degrade a protocol like RDMA over converged Ethernet version 2 (RoCEv2), MetaRoCE maintained around 86% throughput at just 1% packet loss.\nMeta’s home-brewed protocol was found to have consistently maintained higher throughput and lower flow completion times than rival alternatives, even when scaled across four- and eight-plane topologies with up to 4,000 concurrent connections.\n“By designing for loss from day one and pushing intelligence to the edge, you get a transport that performs better in ideal conditions and degrades gracefully when things go wrong,” Meta engineers wrote.\nMetaRoCE was teased a few weeks prior at Advancing AI, where senior director for data center and AI networking Omar Baldonado and AMD’s Soni Jiandani told The Cube that the Pensando NIC running the transport would make vast pools of graphic processing unit (GPU) resources more accessible and efficient.\nAlthough designed for scale-out networking, Meta said the concept could be applied to scale-up inside the rack to help remove sources of latency, including reorder buffers and priority-based flow control (PFC), as packets are sent out unsequentially by design. While on the distributed computing or scale-across side, Meta engineers claim it could be used to reduce the time between disparate links.\nMeta confirmed it was opening the full spec to the Open Compute Project (OCP), a move that is set to coincide with the OCP Global Summit in mid-October, and that while it was tested on AMD NICs, additional implementations were planned with “other vendors.”\n“We’re building this in the open because the challenges ahead benefit from broad industry collaboration. If you’re building NICs, switches, or AI infrastructure, we invite you to join us,” Meta’s blog concludes.",
+ "report": {
+  "summary": "Meta自研MetaRoCE协议，乱序发送提升AI网络吞吐，并开源至OCP。",
+  "background": "传统AI集群多依赖RoCEv2等RDMA协议，这类协议要求网络无损且按序传输，一旦丢包或乱序，接收端就得等待补包，性能急剧下降。Meta为超大规模AI训练设计全新传输协议MetaRoCE，把“智能”从交换机移到端点网卡，故意将数据包乱序喷洒出去，每个包自带目的地，接收后直接写入内存，无需重排等待。测试中，1%丢包率下仍能维持约86%吞吐。Meta已宣布将规范开源至OCP，推动行业协作。",
+  "key_points": [
+   "MetaRoCE从零设计RDMA传输，用乱序喷洒代替传统顺序发包，每个包都携带目标地址，到达即写入内存，无需等待缺失包补齐。",
+   "核心思路是“端点智能”：传统网络靠交换机维持无损和顺序，MetaRoCE把控制逻辑移入NIC，拆分为多条细粒度逻辑路径并实时监控。",
+   "在AMD Pensando可编程NIC上、64节点集群实测中，1%丢包时吞吐保持约86%，而RoCEv2在类似条件下会明显退化。",
+   "扩展到四平面、八平面拓扑和4000并发连接时，MetaRoCE依然保持更高吞吐和更低流完成时间，扩展性表现稳定。",
+   "Meta已将完整规范提交到OCP，并邀请更多NIC、交换机和AI基础设施厂商共同参与，后续计划支持更多硬件供应商。"
+  ],
+  "impact": "对AI行业而言，MetaRoCE打破了传统无损网络和昂贵交换机设计的路径依赖，可能推动更便宜、更高效的GPU集群组网方式，让大规模AI训练不再被网络丢包卡脖子。对开发者来说，开源规范意味着可以深入参与网络协议和智能网卡研发，后续云厂商也可能将其落地为服务。对普通用户，影响是间接的：AI训练成本有望下降、速度提升，最终反映为更快更好的AI产品和服务。",
+  "tools": "建议关注OCP（Open Compute Project）即将发布的MetaRoCE开放规范；相关硬件可参考AMD Pensando可编程NIC。想理解技术背景，可对照学习RoCEv2、RDMA、PFC等传统网络协议，便于对比MetaRoCE的乱序设计优势。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "bd1292578b9f",
+ "url": "https://www.businessinsider.com/google-unveils-gemini-enterprise-for-legal-law-tech-push-2026-8",
+ "title": "Google is taking on Anthropic and OpenAI in the legal AI race",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T18:58:26.905777+00:00",
+ "content": "Google is making a play for law firms with a new suite of tools built for the world's most scrupulous profession.\nThe company on Tuesday unveiled Gemini Enterprise for Legal, a bundle of pre-built Gemini skills and virtual assistants, known as agents, that can plug into the systems where a firm's data lives and carry out tasks.\nGoogle and other tech companies are seeing dollar signs in the legal sector. Since early this year, Anthropic has been courting lawyers with plugins for document review and drafting. OpenAI is building out a legal software team led by Ironclad founder Jason Boehmig. Microsoft also debuted a legal agent this year.\nLaw firms are under pressure from clients to move faster and show they're not billing associates for work that agents can do. In-house legal teams are looking for ways to automate more work themselves, so they can send less to outside counsel and shrink their legal bills.\nGoogle's suite of AI tools positions it as a central hub for that legal work. Lawyers will be able to use Gemini Enterprise for Legal to review and negotiate contracts, track regulatory changes, and search case files and internal documents. Google said in a blog post that client data, model outputs, and other information won't be used to train Google's foundation models.\nIn its blog post, Google said that general-purpose artificial intelligence is \"nowhere near sufficient\" for lawyers, whose work relies on trust and accuracy. It said it developed Gemini Enterprise for Legal with input from attorneys at law firms, including Cleary Gottlieb and Freshfields, to bring better tools to their work.\nCustomers can also connect Gemini's agents to the systems that contain their internal documents. For litigation, Google has partnered with Everlaw and Relativity. For wrangling cases and contracts, it's tapped iManage, NetDocuments, and Docusign. Other partners include Thomson Reuters, Harvey, and Legora.\nThose partnerships may help explain why legal tech stocks mostly held steady or saw only modest drops in early trading Tuesday. Shares of Thomson Reuters slid about 3%, one day after announcing its first AI model, while DocuSign was down less than 2%.\nIn February, a small legal release from Anthropic wiped out tens of billions of dollars in market value from legal tech and information services companies, as investors worried the company's push into legal would edge out incumbents.\nNow, Google appears to be taking a deliberately conciliatory approach.",
+ "report": {
+  "summary": "谷歌推出法律AI套件，加入法律科技竞争。",
+  "background": "法律行业长期依赖人工处理合同、案例检索等繁琐工作，客户日益要求律所提高效率、降低成本。2026年以来，Anthropic、OpenAI、微软等科技巨头相继布局法律AI，竞争升温。谷歌此次发布Gemini Enterprise for Legal，以预构建技能和AI代理为核心，可直接嵌入律所现有系统，试图在这一高价值垂直领域占据一席之地。",
+  "key_points": [
+   "谷歌发布Gemini Enterprise for Legal，包含可接入律所系统的AI代理，支持合同审阅、监管追踪和案例检索等任务。",
+   "Anthropic、OpenAI、微软也在争抢法律市场，OpenAI更组建了由Ironclad创始人领导的法律软件团队。",
+   "律所面临客户降价和提速压力，企业法务部门则希望以AI自动化减少外部律师费用。",
+   "谷歌强调客户数据和模型输出不会用于训练基础模型，以消除律所对数据安全的顾虑。",
+   "谷歌选择与Everlaw、Relativity、Thomson Reuters等法律科技公司合作，而非正面颠覆，这种态度赢得市场温和反应。"
+  ],
+  "impact": "AI正在将法律从劳动密集型行业转向技术密集型行业。谷歌入局会加速法律AI的标准化，同时倒逼传统法律科技公司强化自身模型或与巨头合作。对开发者而言，这提供了基于Gemini构建法律垂直应用的新机会，但需注重合规和可解释性。对普通用户，未来法律文件的处理成本可能下降，法律服务更加可及，但AI的准确性和责任归属仍需要严格监管和验证。",
+  "tools": "可关注Gemini Enterprise for Legal官方文档，以及其合作伙伴Everlaw、Relativity、iManage、NetDocuments、Docusign、Harvey和Legora。若想自建类似Agent，可参考LangChain或LlamaIndex结合企业知识库实现合同审查和文档检索。"
+ }
+}

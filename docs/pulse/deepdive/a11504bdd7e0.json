@@ -1,0 +1,23 @@
+{
+ "id": "a11504bdd7e0",
+ "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+ "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+ "source": "Hacker News (4pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T17:12:34Z",
+ "fetched_at": "2026-08-25T19:01:10.414189+00:00",
+ "content": "AI/LLM Usage Becoming A \"Denial of Service Attack\" On Open-Source Project Maintainers\nThe latest criticism of the increased burden placed on open-source software project maintainers caused by AI / LLM agents is around too many bug reports effectively causing a \"denial of service\" attack on project maintainers.\nOpen-source Linux virtualization software engineer Daniel Berrangé of Red Hat's virtualization engineering team brought up this interesting analogy with the influx of bug reports today affecting QEMU. In a matter of minutes were 125+ separate bug reports sent in by one user for QEMU. They ultimately were about Undefined Behavior Sanitizer (UBSan) outputs and assertions without any really pressing bug report. These bug reports were without any proposed patches/fixes and just low effort submissions.\nThe Red Hat engineer explained on Mastodon:\n\"QEMU has been hit by a single reporter filing over 125 separate bug reports in under 10 minutes, all for ubsan reports. The reports ignored the bug template and showed no sign of any human analysis of the ubsan output and had no proposed fix.\"\nUltimately, Daniel concluded, \"this is effectively a denial of service attack on the project maintainers.\"\nFor this user C4oy1zZ / anwardawa981 and the 132 bug reports created today, was reported to GitLab as abusive behavior. With the 132 bug reports, many of them were created simply seconds apart.\nDaniel went on to suggest GitLab enact rate limiting the number of bug reports that can be opened by a single reporter if they are not a project member.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nOpen-source Linux virtualization software engineer Daniel Berrangé of Red Hat's virtualization engineering team brought up this interesting analogy with the influx of bug reports today affecting QEMU. In a matter of minutes were 125+ separate bug reports sent in by one user for QEMU. They ultimately were about Undefined Behavior Sanitizer (UBSan) outputs and assertions without any really pressing bug report. These bug reports were without any proposed patches/fixes and just low effort submissions.\nThe Red Hat engineer explained on Mastodon:\n\"QEMU has been hit by a single reporter filing over 125 separate bug reports in under 10 minutes, all for ubsan reports. The reports ignored the bug template and showed no sign of any human analysis of the ubsan output and had no proposed fix.\"\nUltimately, Daniel concluded, \"this is effectively a denial of service attack on the project maintainers.\"\nFor this user C4oy1zZ / anwardawa981 and the 132 bug reports created today, was reported to GitLab as abusive behavior. With the 132 bug reports, many of them were created simply seconds apart.\nDaniel went on to suggest GitLab enact rate limiting the number of bug reports that can be opened by a single reporter if they are not a project member.",
+ "report": {
+  "summary": "AI批量提交低质bug报告，被指对开源维护者发动DoS攻击。",
+  "background": "随着AI/LLM工具被广泛用于自动生成代码和测试，一些用户开始利用它们大量提交自动化生成的bug报告。近日，红帽工程师Daniel Berrangé发现QEMU项目在10分钟内收到同一用户提交的125+份UBSan相关报告，这些报告无视模板、缺乏人工分析、也没有修复建议，纯属低质量灌水，123份报告被GitLab标记为滥用行为。Daniel指出，这类行为实质上是对项目维护者的拒绝服务攻击，并建议GitLab对非项目成员实施提交速率限制，以缓解日益严重的AI垃圾工单问题。",
+  "key_points": [
+   "红帽工程师指出，QEMU在10分钟内收到同一用户提交的125+份bug报告，均为UBSan相关，质量极低且无修复方案。",
+   "这些报告无视模板、未显示人工分析痕迹，被定性为滥用行为，GitLab已介入处理。",
+   "Daniel将这种现象类比为拒绝服务攻击，认为大量低质报告会耗尽维护者精力。",
+   "他建议GitLab对非项目成员实施rate limiting，防止短时间内批量提交工单。",
+   "这反映了AI自动化工具正在放大开源维护者的负担，成为新的协作挑战。"
+  ],
+  "impact": "对AI行业而言，此类滥用行为可能引发对LLM生成内容的信任危机，并促使平台强化反滥用机制。对开发者来说，开源维护者将不得不花费更多时间筛选低质工单，降低真正问题的处理效率。普通用户可能看到开源项目反应变慢，或被迫使用更严格的提交门槛，影响参与体验。长期看，项目方可能需要引入AI识别垃圾工单或强制贡献者认证，提高协作成本。",
+  "tools": "可关注GitLab的速率限制和滥用举报功能；类似GitHub的Issue模板、AutoML分类工具（如IssueLabeler）以及AI检测工具（如GPTZero）或可辅助过滤AI生成的低质报告。"
+ }
+}

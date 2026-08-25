@@ -1,0 +1,23 @@
+{
+ "id": "8c2a677c8695",
+ "url": "https://thenextweb.com/news/xiaomi-xring-d100-driving-chip-tsmc-europe-gap",
+ "title": "Xiaomi unveils custom 3nm chip for intelligent driving",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T18:57:43.531044+00:00",
+ "content": "Xiaomi has unveiled the Xring D100, an in-house 3nm chip for intelligent driving that will replace Nvidia hardware in its cars from 2027. The company has invested more than 21bn yuan, about $3.1bn, since restarting its chip programme.\nXiaomi is designing Nvidia out of its cars. The company has unveiled the Xring D100, an in-house chip for what it calls intelligent driving, replacing the Nvidia Drive hardware that has powered the SU7 and YU7 so far.\nThe specification is ambitious. A 20-core CPU and 16-core NPU on a 3-nanometre process, supporting up to 160GB of unified memory, which Xiaomi says is enough to run a 200-billion-parameter model on the vehicle itself.\nIt is not the only Chinese company doing this. BYD, Nio and Xpeng are all working on in-house silicon, and Alibaba has built its own AI chip to reduce the same dependency.\nOne number is conspicuously absent. Xiaomi has not published a figure for trillions of operations per second, which is what actually determines whether all that capacity becomes performance.\nThe spending behind it is substantial. Xiaomi says it has invested more than 21bn yuan, about $3.1bn, since restarting its chip programme, and now employs a chip team of nearly 3,000 people.\nCommercial use starts in 2027. The D100 arrives alongside the O100 accelerator and the O3 mobile processor, which debuts in a folding phone and is made by TSMC on the same 3nm node.\nThe cars are the more consequential half. Nvidia has supplied the brain of every Xiaomi EV so far, and from 2027 it will not.\nThat makes this independence from Nvidia rather than from Taiwan. Tesla, Rivian and Xiaomi have all built their own driving silicon, and every one of those chips is fabricated in the same place.\nEurope could not manufacture this chip at all. Its flagship new plant, ESMC in Dresden, will run 28 and 22-nanometre planar CMOS alongside 16 and 12-nanometre FinFET, according to TSMC’s own plans.\nThat is not a small facility. It costs more than €10bn, carries €5bn of approved German state aid, and is jointly owned with Bosch, Infineon and NXP, three of the most important automotive chip firms in the world.\nIt is also several generations away from 3nm. Xiaomi’s EV arm lost 2.6bn yuan last quarter and is spending on silicon anyway, while Europe’s chip industry keeps asking for a Chips Act 2.0.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "小米发布自研3nm智驾芯片Xring D100，2027年起替代英伟达硬件。",
+  "background": "小米汽车SU7和YU7此前均采用英伟达Drive平台，但为降低对美企依赖并提升软硬一体化能力，小米重启芯片项目，投入超210亿元、组建近3000人团队。此次发布的Xring D100采用3nm工艺，集成20核CPU和16核NPU，支持160GB统一内存，宣称可本地运行2000亿参数模型。类似地，比亚迪、蔚来、小鹏也在自研芯片，反映中国车企正加速芯片自主化。",
+  "key_points": [
+   "Xring D100基于台积电3nm工艺，拥有20核CPU和16核NPU，支持160GB统一内存，可车载运行超大模型。",
+   "小米未公布算力TOPS数字，而该指标才是决定实际性能的关键，引发外界对真实能力的猜测。",
+   "该芯片2027年商用，届时小米汽车将彻底停止使用英伟达Drive硬件，实现智驾芯片自给。",
+   "自研使小米摆脱对英伟达的依赖，但未摆脱对台积电代工的依赖，地缘风险依然存在。",
+   "欧洲先进制程落后，其最新晶圆厂仍停留在16/12nm，无法制造3nm芯片，凸显技术代差。"
+  ],
+  "impact": "对AI行业而言，车载大模型本地化运行成为趋势，算力芯片竞争从英伟达一家独大转向车企自研。对开发者，小米自研芯片意味着智能驾驶生态可能封闭化，适配英伟达CUDA的算法需迁移。对普通用户，芯片性能决定智驾体验和未来OTA升级能力，但缺乏算力数据需观望实际效果。",
+  "tools": "可关注小米官方芯片发布文档、台积电3nm工艺进展，以及英伟达Drive Thor平台对比。开源项目可参考NVIDIA DriveWorks、Apollo自动驾驶平台，用于理解智驾芯片上下游生态。"
+ }
+}

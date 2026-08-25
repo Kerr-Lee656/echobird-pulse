@@ -1,0 +1,23 @@
+{
+ "id": "60a510e53a47",
+ "url": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027",
+ "title": "Waymo is coming to Munich, with commercial service targeted for late 2027",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T18:57:58.773034+00:00",
+ "content": "Waymo has announced it is laying the groundwork for autonomous ride-hailing in Munich, starting with high-definition mapping and manual driving in the coming weeks. It aims to open a commercial service to the public toward the end of 2027.\nMunich is getting robotaxis, though not for a while. Waymo says it is laying the groundwork for fully autonomous ride-hailing in the city, with vehicles appearing on local streets in the coming weeks under manual control.\nThe sequence is deliberate. High-definition mapping comes first, then testing with trained autonomous specialists behind the wheel, before the company aims to open a commercial service to the public toward the end of 2027.\nIt arrives with numbers behind it. Waymo reports more than 20 million trips completed and hundreds of thousands of commercial rides a week, on a sixth-generation fleet built to be cheaper to build.\n“Munich is a world-class hub for mobility and engineering, and becoming part of this city marks an important milestone in our global expansion,” said co-chief executive Tekedra Mawakana, promising investment in local fleet operations and jobs.\nThe company also brought its safety case. It says data from more than 350 million fully autonomous kilometres shows 16 times fewer serious injury crashes than human drivers, alongside 14 times fewer injury crashes involving pedestrians.\nBerlin’s welcome is where it gets interesting. Waymo “has now recognised Germany’s potential as a location offering legal certainty,” said Christian Hirte, parliamentary state secretary at the federal transport ministry.\nThen he kept going. “Our goal must be to ensure that we in Europe not only use these technologies but also develop and operate them here,” Hirte said, in the same statement welcoming an American company to Munich.\nThat tension has a date on it. Germany passed the world’s first framework for commercialising Level 4 vehicles in 2021, and no German company has used it to run a driverless commercial fleet at scale.\nThe domestic contender is a shuttle. Volkswagen’s MOIA is putting autonomous ID. Buzz vehicles into Hamburg, while Wayve is on an Uber waitlist in London and Verne runs a commercial service in Zagreb.\nBavaria wants the pace picked up. “Now we need to move quickly from testing to real-world deployment,” said Florian Herrmann of the Bavarian State Chancellery, promising to “cut red tape and remove regulatory barriers.”\nSo Germany wrote the rulebook and is now hosting the company that read it most carefully, which is roughly where Europe stands on autonomy generally.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Waymo进军慕尼黑，计划2027年底推出商用无人驾驶出租车服务。",
+  "background": "Waymo是Alphabet旗下自动驾驶公司，已在多地运营并完成超2000万次行程。此次进入慕尼黑是其全球扩张的重要一步。德国2021年通过全球首个L4级自动驾驶商业化法律框架，但本土车企尚未大规模落地无人驾驶车队。Waymo将先在慕尼黑进行高清地图采集和人工驾驶测试，再逐步过渡到自动驾驶，最终于2027年底商业化，此举考验欧洲对美企技术的接受度与自身产业雄心。",
+  "key_points": [
+   "Waymo在慕尼黑按照先地图采集、后人工驾驶测试、再无人驾驶的顺序推进，目标2027年底面向公众商用。",
+   "Waymo拥有规模化运营数据：累计超2000万次行程，每周数十万次商业出行，第六代车队造价更低。",
+   "其安全数据显示，350万公里自动驾驶中严重受伤事故率为人类驾驶员的1/16，行人受伤事故率为1/14。",
+   "德国虽在2021年率先为L4级商业化作立法，但缺少本土运营案例，而Waymo率先抓住政策机遇。",
+   "德国政界对美企进入态度复杂：既认可法律确定性，又强调欧洲应自主开发运营相关技术。"
+  ],
+  "impact": "对AI行业而言，Waymo落地慕尼黑将加剧欧洲自动驾驶竞争，促使大众MOIA、Wayve等本土玩家加速布局，并推动监管细化。开发者则可能获得新的数据合作和本地就业机会，但也要面对美国技术标准对欧洲的影响。普通用户最直接的改变是，慕尼黑居民有望在2027年后用上更安全、便捷的无人出租车，但短期内仍以体验测试为主，实际出行选择有限。",
+  "tools": "可关注Waymo开放数据集进行自动驾驶研究，或使用开源模拟器CARLA测试算法；同时可关注德国联邦运输部相关L4级法规动态。"
+ }
+}

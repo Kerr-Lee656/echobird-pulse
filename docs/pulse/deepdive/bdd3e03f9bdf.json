@@ -1,0 +1,22 @@
+{
+ "id": "bdd3e03f9bdf",
+ "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6",
+ "title": "Apple Reveals M6 as First-Ever 2nm Chip",
+ "source": "Mac Rumors",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T18:58:14.261680+00:00",
+ "content": "Apple today announced the M6 chip, its first built using a 2-nanometer process and featuring a Dual 16-core Neural Engine.\nApple says the 2nm process packs greater transistor density into a smaller die, contributing to the chip's overall gains in performance and power efficiency.\nThe M6 chip features a larger, more powerful 12-core CPU, two more cores than the M5, made up of two super cores, four performance cores, and six efficiency cores. Apple says the chip delivers the world's fastest single-threaded performance and up to 1.2x faster multithreaded performance than the M5, and up to 2.4x faster than the M1.\nThe chip also features a 12-core GPU, with two more cores than the M5, with a Neural Accelerator built into each core. Apple says this delivers nearly a 30% increase in peak GPU compute for AI compared to the M5, and more than 8x compared to the M1, resulting in faster prompt processing for on-device LLMs.\nThe GPU also gains updates to the shader core architecture, Dynamic Caching, and hardware-accelerated ray tracing, along with a 50% increase in geometry rates for more complex graphics.\nThe M6 introduces a Dual 16-core Neural Engine, offering up to 2x the peak compute of previous generations. Apple says system frameworks can automatically use both engines at once, allowing applications to run AI models faster.\nThe chip supports up to 32GB of unified memory and up to 170GB/s of unified memory bandwidth, which is a 10% increase over M5 and 2.5x more than the M1.\nThe M6 debuts in the new Mac mini, which launches on Tuesday, September 22.",
+ "report": {
+  "summary": "苹果发布M6芯片，采用2nm工艺，CPU/GPU/AI性能全面提升。",
+  "background": "苹果自研M系列芯片持续迭代，从M1到M5逐步提升性能。M6是首款采用2nm制程的芯片，由台积电代工，带来更高晶体管密度和能效。在半导体行业向先进制程迈进时，苹果率先在PC芯片上采用2nm，巩固其性能领先地位。M6将率先搭载于9月22日发布的Mac mini，为后续Mac系列升级奠定基础。",
+  "key_points": [
+   "M6采用全球领先的2nm制程，拥有更高晶体管密度，带来更小的芯片尺寸与显著的性能功耗比提升，成为苹果首款2nm芯片。",
+   "CPU升级为12核，包括2个超级核、4个性能核和6个能效核，单线程性能全球最快，多线程比M5快1.2倍，比M1快2.4倍。",
+   "GPU增至12核并内置神经加速器，AI峰值计算比M5提升近30%，比M1提升8倍以上，同时渲染和光线追踪性能大幅增强。",
+   "全新双16核神经引擎，峰值计算达到前代两倍，系统框架可自动调度，使端侧AI模型运行更快速；统一内存最高32GB，带宽170GB/s。"
+  ],
+  "impact": "对AI行业，M6大幅提升端侧AI计算能力，促使AI应用从云端向设备端迁移。对开发者，可利用双神经引擎和GPU加速运行更大规模模型，开发更智能的应用。对普通用户，Mac mini等设备将获得更快的响应和更强的多任务性能，同时功耗更低。",
+  "tools": "开发者可关注Apple的Core ML、Create ML框架，以及开源机器学习框架MLX，以充分利用M6的神经引擎和GPU。同时，可借助Xcode性能分析工具优化应用。"
+ }
+}
