@@ -5425,5 +5425,149 @@
   "site_name": "Ars Technica",
   "published_at": "2026-08-24T21:45:53.000Z",
   "fetched_at": "2026-08-25T03:15:56.028520+00:00"
+ },
+ "f77a330c55f5": {
+  "id": "f77a330c55f5",
+  "url": "https://yro.slashdot.org/story/26/08/24/2155211/sec-investigating-near-implosion-of-ai-hedge-fund",
+  "title": "SEC Investigating Near-Implosion of AI Hedge Fund",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T04:53:06.048532+00:00"
+ },
+ "446b8014ca36": {
+  "id": "446b8014ca36",
+  "url": "https://www.tmtpost.com/8115448.html",
+  "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T04:53:26.787214+00:00"
+ },
+ "67e4f1dbf483": {
+  "id": "67e4f1dbf483",
+  "url": "https://www.huxiu.com/article/4885682.html?f=rss",
+  "title": "OpenAI 与 DeepSeek 同时开放 Harness，开源正在变成一场生态战争",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T00:35:43Z",
+  "fetched_at": "2026-08-25T04:53:36.617645+00:00"
+ },
+ "b3fd46bd5d88": {
+  "id": "b3fd46bd5d88",
+  "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+  "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:38:01Z",
+  "fetched_at": "2026-08-25T04:54:59.114468+00:00"
+ },
+ "2daba8ad7f31": {
+  "id": "2daba8ad7f31",
+  "url": "https://github.com/Layr-Labs/d-inference/issues/705",
+  "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:35:49Z",
+  "fetched_at": "2026-08-25T04:55:19.732972+00:00"
+ },
+ "36500b5a5d20": {
+  "id": "36500b5a5d20",
+  "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+  "title": "Code maintainability plummets in the AI coding era",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T04:21:41Z",
+  "fetched_at": "2026-08-25T04:55:40.117564+00:00"
+ },
+ "f902f6817e96": {
+  "id": "f902f6817e96",
+  "url": "https://arxiv.org/abs/2608.21382",
+  "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:56:37.038917+00:00"
+ },
+ "5064ae015908": {
+  "id": "5064ae015908",
+  "url": "https://arxiv.org/abs/2608.21417",
+  "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:57:24.092048+00:00"
+ },
+ "824d14d4bfa1": {
+  "id": "824d14d4bfa1",
+  "url": "https://arxiv.org/abs/2608.21501",
+  "title": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:57:42.469318+00:00"
+ },
+ "eaaec9be3dc5": {
+  "id": "eaaec9be3dc5",
+  "url": "https://arxiv.org/abs/2608.21601",
+  "title": "K-Bench: measuring model performance on real scientific agent requests",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:57:54.842664+00:00"
+ },
+ "ba0a3c1c3d3a": {
+  "id": "ba0a3c1c3d3a",
+  "url": "https://arxiv.org/abs/2608.21833",
+  "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:58:17.107909+00:00"
+ },
+ "16ed7cf7b40e": {
+  "id": "16ed7cf7b40e",
+  "url": "https://arxiv.org/abs/2608.21841",
+  "title": "AI Watchdog: Agent Interfaces for Detecting and Defending Against Manipulative Dark Patterns in AI Conversations",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:58:38.967241+00:00"
+ },
+ "987b893df0d3": {
+  "id": "987b893df0d3",
+  "url": "https://arxiv.org/abs/2608.21898",
+  "title": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:58:53.077039+00:00"
+ },
+ "10f599908513": {
+  "id": "10f599908513",
+  "url": "https://arxiv.org/abs/2608.21942",
+  "title": "TessIndex: Capability Verified Identity System for the Agent Economy",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:59:03.453774+00:00"
+ },
+ "7f4e52146df8": {
+  "id": "7f4e52146df8",
+  "url": "https://arxiv.org/abs/2608.21976",
+  "title": "Closed-loop AI achieves certifiable engineering design",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:59:20.099660+00:00"
+ },
+ "32e9f9cb0c25": {
+  "id": "32e9f9cb0c25",
+  "url": "https://arxiv.org/abs/2608.21985",
+  "title": "Redteaming Leading Arabic LLMs with ASAS",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:00:00.000Z",
+  "fetched_at": "2026-08-25T04:59:34.384173+00:00"
  }
 }

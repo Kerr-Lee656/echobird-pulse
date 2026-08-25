@@ -1,0 +1,22 @@
+{
+ "id": "5064ae015908",
+ "url": "https://arxiv.org/abs/2608.21417",
+ "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-25T04:00:00.000Z",
+ "fetched_at": "2026-08-25T04:57:24.092048+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 13 Aug 2026]\n    Title:Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol\nView PDF HTML (experimental)\n            Abstract:Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively corrects ABB RAPID robot programs from natural language task descriptions. A dual-stream retrieval-augmented generation (RAG) pipeline grounds code generation in verified technical documentation and production templates, reducing domain-specific errors produced by ungrounded language models. A custom Model Context Protocol (MCP) server connects the language-model client directly to ABB RobotStudio for automated code upload, simulation execution, and diagnostic feedback. The evaluation combines a 30-query retrieval benchmark, scoped code-generation checks, and RobotStudio case studies in a simulated pickand- place manufacturing cell. The simulation loop exposes execution failures that static and semantic checks alone cannot catch, including suction release-height errors, unreachable placement targets, and configuration-dependent recovery motions. The results show how RAG and MCP can connect grounded code generation with executable feedback from industrial robot simulation software, while reducing but not eliminating expert setup and final supervision.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "结合RAG与MCP，实现机器人程序自动生成及仿真验证修正。",
+  "background": "柔性制造中产品型号更换频繁，工业机器人需要快速重新编程，传统手工编写RAPID程序耗时且依赖专家。大语言模型虽能辅助代码生成，但缺乏领域知识容易产生幻觉。检索增强生成（RAG）可从技术文档和模板中获取依据，模型上下文协议（MCP）则让LLM能连接外部工具。本研究将两者结合，通过ABB RobotStudio仿真环境提供执行反馈，形成“生成-验证-修正”闭环，探索减少人工干预的自动化路径。",
+  "key_points": [
+   "双流RAG管道从技术文档和生产模板中检索知识，为代码生成提供依据，显著减少无根据语言模型产生的领域错误。",
+   "自定义MCP服务器连通LLM与ABB RobotStudio，实现代码自动上传、仿真运行和诊断回传，形成闭环修正机制。",
+   "仿真验证能暴露静态检查无法发现的执行问题，如吸盘释放高度错误、不可达放置目标等，体现实体校验价值。",
+   "系统虽然减少了专家工作量，但并未消除专家设置和最终监督，完全自主的机器人编程仍有距离。"
+  ],
+  "impact": "对AI行业，该研究展示了RAG与MCP在物理世界任务中的结合方式，推动语言模型从文本生成走向具身智能与自动化操作。对开发者，提供了一个将LLM与商业仿真软件集成的可参考范式，可迁移至其他工业控制系统。对普通用户，未来有望通过自然语言指令配置机器人产线，降低自动化改造门槛，但当前仍需专业工程人员参与关键环节。",
+  "tools": "建议关注MCP协议规范及官方SDK、LangChain/LlamaIndex等RAG框架，以及ABB RobotStudio的仿真接口；开源机器人仿真工具如CoppeliaSim也可用于类似闭环实验。"
+ }
+}

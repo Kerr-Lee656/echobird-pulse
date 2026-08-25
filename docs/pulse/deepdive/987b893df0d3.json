@@ -1,0 +1,22 @@
+{
+ "id": "987b893df0d3",
+ "url": "https://arxiv.org/abs/2608.21898",
+ "title": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-25T04:00:00.000Z",
+ "fetched_at": "2026-08-25T04:58:53.077039+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 22 Aug 2026]\n    Title:Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning\nView PDF HTML (experimental)\n            Abstract:Web agents promise to automate complex digital workflows, but their training remains limited by synthetic environments that look plausible while hiding broken links, inconsistent states, or infeasible tasks. We address the gap between scalable environment generation and trustworthy agent learning by constructing synthetic web environments that are executable, auditable, and grounded in backend state. Our framework represents each generated website as a structured scaffold of pages, navigation links, database records, state-change markers, and task constraints, then verifies and repairs structural, semantic, consistency, and feasibility defects before policy training. During interaction, ordinary UI transitions are executed deterministically, while persistent backend updates are invoked only through validated state-change markers, enabling dense rewards compiled from verified task-progress predicates. Across 500 synthetic environments spanning six domains, our method reduces task-blocking defects and improves feasible-task rate from 48.6% to 94.8%, while producing stronger PPO policies and improving transfer to WebArena, WebShop, and MiniWoB++ without LLM calls at evaluation time. These results show that verified synthetic environments can serve as a scalable and reliable training substrate for compact web agents, shifting synthetic webagent learning from surface-level plausibility toward executable, state-grounded supervision.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "验证合成网页环境将智能体任务可行率从48.6%提升至94.8%",
+  "background": "网页智能体（Web Agent）的训练依赖合成环境，但现有环境往往“看起来合理”却暗藏死链、状态不一致和不可执行的任务，导致智能体在仿真中学习到错误策略，难以迁移到真实场景。本文针对这一问题，提出一种可验证的合成网页环境框架：将网站建模为包含页面、导航链接、数据库记录、状态变更标记和任务约束的结构化脚手架，并自动检测和修复结构性、语义性、一致性及可行性缺陷。通过将后端状态与界面交互解耦，使环境既具备可扩展性，又保证执行结果的可靠性。",
+  "key_points": [
+   "现有合成环境存在死链和不可达任务等隐藏缺陷，导致智能体学到虚假关联，模型表现看似正常但实际不可用。",
+   "新框架用结构化脚手架表示网站，覆盖页面、链接、数据库和状态标记，并自动验证修复缺陷，确保环境真实可执行。",
+   "训练时UI变更确定性执行，后端更新只经过校验标记触发，从而从任务谓词编译出稠密奖励，提升PPO策略学习效果。",
+   "在500个跨6个领域的合成环境中，任务可行率从48.6%提高到94.8%，且迁移至WebArena、WebShop和MiniWoB++均有提升。"
+  ],
+  "impact": "对AI行业而言，该研究将合成环境从“表面仿真”推向“可信基础”，为智能体训练提供了可扩展且可审计的新范式。对开发者来说，无需在评估时调用LLM，即可低成本获得高质量训练数据和更稳定的策略，大幅降低Web自动化项目的开发门槛。对普通用户，未来基于此类技术的浏览器助手能更可靠地完成跨网站复杂操作，减少因环境不一致导致的执行失败。",
+  "tools": "可关注WebArena、WebShop、MiniWoB++等基准测试来对比模型迁移效果；强化学习训练可使用PPO及其库（如RLlib、Stable-Baselines3）。若需复现验证框架，可参考论文中关于脚手架和状态变更标记的设计思路。"
+ }
+}
