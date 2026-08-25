@@ -1,0 +1,23 @@
+{
+ "id": "2c65799cfcac",
+ "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+ "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+ "source": "Hacker News (2pts, 5c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T07:55:38Z",
+ "fetched_at": "2026-08-25T08:59:40.278929+00:00",
+ "content": "Dutch lawyer fined €2,300 for using AI-hallucinated citation\nA Dutch lawyer made an expensive mistake in a lawsuit concerning the sale of a company. The lawyer representing the buyer cited a Supreme Court ruling that does not exist. The seller argued that the citation was an AI hallucination. The error is costing the lawyer’s firm over €2,300, AT5 reported.\nThe lawyer for the buying party cited a Supreme Court ruling from a previous lawsuit. But the seller’s representation could find no record of such a ruling ever happening. They accused the lawyer of using an AI tool, like ChatGPT or Gemini, which hallucinated the citation.\nThe lawyer denied using AI, but was also unable to show where he found the citation.\nThe court ruled that it was difficult to prove the use of AI, but that this was irrelevant to the damages caused by the lawyer.\n“The court deems the inclusion of a non-existent case law as a citation reprehensible,” the judge said. “For this has cost both the plaintiff and the court unnecessary extra time and attention.”\nThe court ruled that the lawyer’s firm must reimburse the money spent by the plaintiff on counterarguments against the non-existent ruling.\nBecause the buying party lost the case, they must also pay a total of €26,000 in legal costs to the seller. That includes the fine of €2,135 for the non-existent citation.",
+ "report": {
+  "summary": "荷兰律师因引用AI幻觉虚构的最高法院判例，被判罚约2300欧元。",
+  "background": "随着生成式AI在法律等专业领域的应用，AI幻觉成为现实风险。本案中，律师在买卖公司诉讼中引用了不存在的最高法院判例，对方指控其使用了ChatGPT或Gemini等AI工具。律师否认但无法说明来源。法院认为无论是否使用AI，引用虚构判例都造成诉讼资源浪费，需承担赔偿责任。此前美国已有类似判例，此案进一步凸显AI幻觉在司法场景的法律后果。",
+  "key_points": [
+   "律师引用了一个不存在的最高法院判例，卖方指其为AI幻觉，但律师否认并无法提供出处。",
+   "法院认为难以证实AI使用，但引用虚假判例本身就具有可谴责性，浪费了双方和法院的时间。",
+   "律所须赔偿原告用于反驳虚构判例的费用，法院认定损害与是否使用AI无关。",
+   "买方败诉，须支付26000欧元法律费用，其中2135欧元是针对虚构引文的罚款。",
+   "此案警示AI生成内容在专业领域可能造成严重后果，使用前必须验证。"
+  ],
+  "impact": "AI行业需提升模型事实性和引用可靠性，减少幻觉现象。开发者应构建检索增强生成（RAG）等可溯源工具，确保AI输出有据可查。普通用户则需意识到AI信息并非一定真实，尤其在法律、医疗等高风险场景必须人工审核。此案也可能推动法院和律师协会出台AI使用规范，明确责任边界。",
+  "tools": "可关注开源RAG框架（如LangChain、LlamaIndex）用于构建带引用验证的检索系统，同时配合权威法律数据库（如荷兰的rechtspraak.nl）进行交叉核对；也可使用AI引用检查工具（如Scite）辅助验证。"
+ }
+}

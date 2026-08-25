@@ -5668,5 +5668,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-25T04:00:00.000Z",
   "fetched_at": "2026-08-25T07:11:39.058542+00:00"
+ },
+ "3be95230c580": {
+  "id": "3be95230c580",
+  "url": "https://www.tbench.ai/",
+  "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T08:38:40Z",
+  "fetched_at": "2026-08-25T08:59:24.454711+00:00"
+ },
+ "2c65799cfcac": {
+  "id": "2c65799cfcac",
+  "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+  "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+  "source": "Hacker News (2pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T07:55:38Z",
+  "fetched_at": "2026-08-25T08:59:40.278929+00:00"
+ },
+ "f7742c002d68": {
+  "id": "f7742c002d68",
+  "url": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
+  "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T07:37:25Z",
+  "fetched_at": "2026-08-25T08:59:55.089770+00:00"
+ },
+ "b9e941445f3b": {
+  "id": "b9e941445f3b",
+  "url": "https://github.com/exoharness/exo",
+  "title": "Exo: A recursive agent harness that can modify itself at runtime",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T07:14:50Z",
+  "fetched_at": "2026-08-25T09:00:05.165698+00:00"
  }
 }
