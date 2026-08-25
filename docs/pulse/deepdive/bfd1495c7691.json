@@ -1,0 +1,23 @@
+{
+ "id": "bfd1495c7691",
+ "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+ "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-25T14:22:04.000Z",
+ "fetched_at": "2026-08-25T15:06:23.301247+00:00",
+ "content": "At the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new system. Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the-art inference processors.\n“The bottom line is that the results show a very, very significant performance advance over state of the art,” said Richard Ho, OpenAI’s head of hardware, in a press call. “Jalapeño can serve more AI work per unit of power, while also returning responses more quickly. It’s very efficient to serve a lot of customers, but it can also be very low latency.”\nNotably, that comparison is against an Nvidia Blackwell system — but by the time Jalapeño reaches full deployment, the competition may have advanced significantly. Ho estimated that Jalapeño would deploy at the end of 2026 “in very small volumes,” with more significant deployment coming in 2027.\nFirst announced last October, Jalapeño was developed by OpenAI in close collaboration with Broadcom, with OpenAI’s own models assisting in the development process. The company plans to make Jalapeño a multigenerational platform, allowing AI products, models, chips, and memory all developed in concert.\nBecause of that full-stack approach, OpenAI was able to address specific phases in the inference process that often cause friction during inference processing. In particular, Jalapeño is designed to minimize delays during the prefill and communication phases of processing, which OpenAI says often act as bottlenecks.\n“We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post presenting the results. “This means that model state, including the KV cache used while generating a response, can be explicitly placed and kept local while the system activates the right combination of compute, memory, and networking for each inference phase.”",
+ "report": {
+  "summary": "OpenAI自研芯片Jalapeño在基准测试中展现出显著的推理性能与能效优势。",
+  "background": "OpenAI为降低对英伟达依赖、优化推理成本，于去年10月宣布与博通合作开发定制AI芯片Jalapeño。此次在Hot Chips大会公布首批基准测试结果，对标英伟达Blackwell系统，在每千瓦吞吐量和每用户token数上均领先。芯片采用全栈设计，针对推理中的预填充和通信瓶颈进行优化，计划2026年底小规模部署，2027年扩大规模。",
+  "key_points": [
+   "Jalapeño在InferenceX基准测试中，每千瓦吞吐量和每用户token数均优于当前最先进的英伟达Blackwell系统，性能提升显著。",
+   "芯片专为推理阶段优化，通过减少数据移动和通信延迟，解决预填充和通信阶段的瓶颈问题，提升响应速度。",
+   "该芯片由OpenAI与博通联合开发，采用多代际平台策略，实现模型、芯片、内存协同设计，并利用OpenAI自有模型辅助开发。",
+   "预计2026年底小规模部署，2027年规模化，但届时英伟达等竞争对手也可能推出更强产品，优势能否保持存疑。",
+   "OpenAI强调其低延迟和高能效特性，既能服务大量用户，又能满足对响应速度敏感的应用场景。"
+  ],
+  "impact": "对AI行业而言，Jalapeño若量产成功，将打破英伟达在推理芯片市场的垄断，推动定制芯片竞争，可能降低AI算力成本。对开发者来说，更低的推理成本和延迟意味着可以构建更复杂的实时AI应用，但初期供应量小，普通开发者短期难以直接获益。对普通用户，未来AI服务可能更快更便宜，尤其体现在聊天机器人、实时翻译等场景。不过，该芯片尚未大规模落地，实际影响需待2027年部署后验证。",
+  "tools": "可关注OpenAI官方硬件博客及Hot Chips大会资料；若想跟进推理性能测试，可研究SemiAnalysis的InferenceX基准测试框架。开发者可关注英伟达Blackwell系统及开源推理优化框架如vLLM，以便对比理解Jalapeño的改进方向。"
+ }
+}

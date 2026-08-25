@@ -1,0 +1,23 @@
+{
+ "id": "f0fe60763ef5",
+ "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+ "title": "Gamma acquires Accel-backed design startup Lica",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-25T15:00:00.000Z",
+ "fetched_at": "2026-08-25T15:06:14.980596+00:00",
+ "content": "Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort.\nLica started off as an app that could turn screenshots and recordings into project presentations and videos. Founded by Priyaa Kalyanaraman and Purvanshi Mehta in 2023, the company a year later raised $4 million from investors including Accel, South Park Commons, and Village Global. Over the past couple of years, it has focused on working with e-commerce sites to create marketing videos that adhere to brand guidelines.\nKalyanaraman said Lica wanted to build AI models around communication methods, including video and design, and the founders were familiar with Gamma’s CEO, Lee Grant, as both companies are backed by Accel and South Park Commons. Those conversations eventually led to the acquisition.\n“We have a very similar North Star vision of wanting to make visual communication easy. We focused a lot on frontier research and making sure that became accessible to users. But that’s just one part of the solution. Gamma had focused a lot on building distribution, taking the application to 100 million-plus users. Given how fast things are moving, we decided to join forces,” Kalyanaraman told TechCrunch.\nGamma will continue to focus on helping people build presentations, but like other design companies, it’s also started offering image generation. The company says it now wants to explore different formats of communication with the new research division.\n“Presentations for us are today a core use case, but how do we expand what presentations look and feel like, and how do people engage with them in the future? What visuals are possible? How interactive are they? These [questions] all require us to think deeply about the core responsibility of communication. This is why we’re excited to invest in this area, because we don’t think anybody else is thinking at that level,” Lee said.\nLica’s Mehta said the new research division would work on customizing the presentation and communication styles of AI models for different audiences and tastes.\n“The point of the presentation is to communicate a large goal. We are thinking about building a platform where these two goals can be personalized to such an extent that you just get a really good output, and then you’re able to edit for different audiences,” she said.\nGamma didn’t reveal what products it plans to build as a result of this acquisition, but it did say that it wants to create fluid, multimodal presentations and other communication modalities.\nAI presentation startups have received tons of investor attention and money over the last few years. Prezent raised $50 million in two rounds; Gamma raised $68 million at a $2.1 billion valuation; and Presentations.ai was also backed by Accel. We’re even starting to see some consolidation in this category: Earlier this month, OpenAI acquired NextSlide.",
+ "report": {
+  "summary": "演示初创Gamma收购设计公司Lica，建立设计研究实验室。",
+  "background": "Lica成立于2023年，由Priyaa Kalyanaraman和Purvanshi Mehta创立，曾获Accel等400万美元投资，专注于电商营销视频和设计AI。Gamma是演示文稿初创，估值21亿美元，用户超1亿。双方有共同投资者，此次收购旨在结合Lica的研究能力和Gamma的分发能力，探索多模态演示和视觉沟通。",
+  "key_points": [
+   "Gamma收购Accel支持的Lica，成立设计研究实验室，由Lica联合创始人领导。",
+   "Lica最初做截图和录制转演示文稿，后转向电商营销视频，并获得400万美元融资。",
+   "双方愿景一致：让视觉沟通更简单，Lica侧重前沿研究，Gamma侧重分发和用户规模。",
+   "Gamma将扩展演示之外的格式，探索多模态、交互式视觉沟通。",
+   "AI演示赛道整合加剧，此前OpenAI收购了NextSlide。"
+  ],
+  "impact": "对AI行业，演示工具向多模态和个性化演进，研究驱动设计成为新焦点。对开发者，可能提供更灵活的API或平台，用于定制演示和视觉内容。对普通用户，未来演示工具将更智能化，能自动生成符合品牌和受众的内容。",
+  "tools": "可关注Gamma、Lica（被收购后可能整合）、OpenAI NextSlide（类似），以及开源演示工具如Reveal.js等。"
+ }
+}

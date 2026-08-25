@@ -5956,5 +5956,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T10:35:52Z",
   "fetched_at": "2026-08-25T13:18:25.615026+00:00"
+ },
+ "ab88fff1aee0": {
+  "id": "ab88fff1aee0",
+  "url": "https://www.techradar.com/pro/salesforce-ai-agent-platform-hasnt-delivered-meaningful-growth-two-years-after-launch-customers-report-finds",
+  "title": "Salesforce AI agent platform hasn't delivered meaningful growth two years after launch, customers report finds",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T15:03:14.384375+00:00"
+ },
+ "f1c76f23a788": {
+  "id": "f1c76f23a788",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "title": "Quantization-Aware Healing: A 4-bit compressed model outperforms its full-precision original",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T15:03:23.525464+00:00"
+ },
+ "b96486af4056": {
+  "id": "b96486af4056",
+  "url": "https://hub.baai.ac.cn/view/57445",
+  "title": "美国正在把「国运」押在 AI 上？【智库观察】",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T15:03:47.512737+00:00"
+ },
+ "f3641b80e1a8": {
+  "id": "f3641b80e1a8",
+  "url": "https://hub.baai.ac.cn/view/57442",
+  "title": "菲尔兹奖得主都栽了！Claude 终结 78 年悬案，或成最重要 AI 数学成果",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T15:03:58.221939+00:00"
+ },
+ "67ca7f8e160d": {
+  "id": "67ca7f8e160d",
+  "url": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
+  "title": "分析显示，在人工智能热潮中，美国新建的燃气发电装机容量是中国的一倍",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T10:29:36.978Z",
+  "fetched_at": "2026-08-25T15:04:56.856408+00:00"
+ },
+ "87c821e7e9ef": {
+  "id": "87c821e7e9ef",
+  "url": "https://www.36kr.com/p/3954101013904513",
+  "title": "刚刚，小米发布AI芯片全家桶，雷军曝光隐藏彩蛋：芯片很贵，别拆",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-08-25T10:20:43.360Z",
+  "fetched_at": "2026-08-25T15:05:19.592380+00:00"
+ },
+ "97b126ef8020": {
+  "id": "97b126ef8020",
+  "url": "https://github.com/NVIDIA/Megatron-LM",
+  "title": "NVIDIA/Megatron-LM — Ongoing research training transformer models at scale",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-25T15:06:06.440267+00:00"
+ },
+ "f0fe60763ef5": {
+  "id": "f0fe60763ef5",
+  "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+  "title": "Gamma acquires Accel-backed design startup Lica",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-25T15:00:00.000Z",
+  "fetched_at": "2026-08-25T15:06:14.980596+00:00"
+ },
+ "bfd1495c7691": {
+  "id": "bfd1495c7691",
+  "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+  "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-25T14:22:04.000Z",
+  "fetched_at": "2026-08-25T15:06:23.301247+00:00"
+ },
+ "60cde09ab906": {
+  "id": "60cde09ab906",
+  "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+  "title": "Release v0.2.0 · ggml-org/llama.cpp",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T14:09:02Z",
+  "fetched_at": "2026-08-25T15:06:42.212730+00:00"
+ },
+ "87c1695a1d84": {
+  "id": "87c1695a1d84",
+  "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+  "title": "Anthropic tells staff to work from home due to possible security team strike",
+  "source": "Hacker News (39pts, 32c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T14:00:27Z",
+  "fetched_at": "2026-08-25T15:07:09.864101+00:00"
+ },
+ "336c0c6c7ed1": {
+  "id": "336c0c6c7ed1",
+  "url": "https://fsfe.org/news/2026/news-20260825-01.de.html",
+  "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into FS?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T12:35:31Z",
+  "fetched_at": "2026-08-25T15:07:50.544298+00:00"
  }
 }

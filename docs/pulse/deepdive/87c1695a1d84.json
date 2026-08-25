@@ -1,0 +1,23 @@
+{
+ "id": "87c1695a1d84",
+ "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+ "title": "Anthropic tells staff to work from home due to possible security team strike",
+ "source": "Hacker News (39pts, 32c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T14:00:27Z",
+ "fetched_at": "2026-08-25T15:07:09.864101+00:00",
+ "content": "Anthropic told staff in its San Francisco offices to start this week working from home because of a possible strike by its offices' security workers. The union representing those workers said that was news to them.\nLast week, the AI company received a notice from its security staffing firm, Allied Universal, saying that its employees might go on strike, according to a person familiar with the matter. Anthropic then told its own workers they shouldn't come into San Francisco offices on Monday and Tuesday just in case, the person said.\nAllied Universal did not respond to requests for comment from Business Insider.\nThe Service Employees International Union (SEIU), which represents workers at Allied, told Business Insider it is in protracted contract negotiations with Allied and other California security firms. The union said it had not called a strike authorization vote or issued any strike threats for this week.\nSEIU covers thousands of security workers in California and has been negotiating for a new contract since April. The union is pushing for higher wages, better healthcare, and more comprehensive job training.\nAnthropic declined to comment on the stay-at-home mandate.\nSecurity spending has ramped up in the wider tech industry over the past few years. The Wall Street Journal reported that Anthropic and OpenAI have dealt with several threats against their employees.\nAnthropic has a hybrid in-office policy that generally requires staff to be in the office at least 25% of the time, according to job postings.\nAnthropic is expected to file for its initial public offering as soon as August, having filed its confidential S-1 draft in June. On secondary markets, investors have propelled the company to a $1.5 trillion valuation.\nHave something to share? Contact Langley via email at hlangley@businessinsider.com or Signal at 628-228-1836. Contact Council via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "Anthropic因安保可能罢工让旧金山员工居家办公，工会否认罢工计划。",
+  "background": "Anthropic位于旧金山的办公室因安保人员可能罢工而要求员工居家办公。上周，Anthropic收到安保承包商Allied Universal的通知称可能罢工，随后通知员工暂时不要进办公室。然而代表安保工人的SEIU工会表示，他们并未发起罢工投票，双方仍在就新合同进行谈判，谈判自4月已开始，涉及工资、医保和培训。近年来科技公司安保支出上升，Anthropic和OpenAI都曾面对针对员工的威胁。同时，Anthropic正筹备IPO，二级市场估值达1.5万亿美元，此次事件对其运营稳定性构成考验。",
+  "key_points": [
+   "Anthropic因安保公司Allied Universal通知可能罢工，要求旧金山员工周一、周二居家办公，以防万一。",
+   "SEIU工会表示未收到罢工通知，也未发起罢工授权投票，目前与安保公司谈判已持续数月，诉求包括加薪、医保和培训。",
+   "近年科技行业安保支出猛增，Anthropic与OpenAI均面临过针对员工的威胁，安全风险成为行业焦点。",
+   "Anthropic通常要求员工至少25%时间到办公室，此次突发事件打乱了正常办公安排，混合办公模式受到挑战。",
+   "Anthropic已提交IPO机密文件，最快8月上市，二级市场估值1.5万亿美元，事件可能影响投资信心。"
+  ],
+  "impact": "此次事件反映出AI顶级公司面临物理安全与劳资纠纷的双重压力，可能促使行业重新审视外包安保模式。对开发者而言，灵活远程办公或许是常态，但需警惕信息安全风险；对普通用户来说，Anthropic产品服务预计不受影响，但公司运营的连续性可能出现短暂波动。同时，在IPO关键时刻，任何运营风险都可能影响投资者信心。",
+  "tools": "可关注开源加密通讯工具Signal和Matrix，以及远程办公安全管理平台如osquery、OpenVPN等，用于保障分散团队的安全沟通和访问控制。"
+ }
+}

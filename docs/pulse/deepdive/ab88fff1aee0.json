@@ -1,0 +1,23 @@
+{
+ "id": "ab88fff1aee0",
+ "url": "https://www.techradar.com/pro/salesforce-ai-agent-platform-hasnt-delivered-meaningful-growth-two-years-after-launch-customers-report-finds",
+ "title": "Salesforce AI agent platform hasn't delivered meaningful growth two years after launch, customers report finds",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T15:03:14.384375+00:00",
+ "content": "Salesforce AI agent platform hasn't delivered meaningful growth two years after launch, customers report finds\nCustomers are still working out how to benefit from AI agents\n- Agentforce is now worth around $1.2 billion annually, and climbing\n- Customers aren't so sure about their data readiness and agentic maturity\n- Many AI projects could be cancelled as users experiment with use cases\nEven though Salesforce says its Agentforce business has reached a staggering $1.2 billion in annual recurring revenue, a new report has revealed that partners aren't actually seeing that same surge in revenue.\nWhile the company may be bringing in plenty of revenue from pilots and trials, it seems that customers are yet to see the meaningful results they were hoping for, holding them back from large-scale deployments.\nA new TD Cowen report (via The Register) backs this up, uncovering customer dissatisfaction, particularly around data readiness and agent maturity.\nAgentforce isn't delivering... yet\nAccording to the survey, 11% of partners hadn't see much immediate interest, with more than half (56%) anticipating upcoming interest but acknowledging that customers need time for initiatives to mature. Only one-third said there was strong interest in Agentforce at this moment in time.\nThe report also uncovered a 10pp drop in Salesforce partners meeting or beating commercial targets, at 33% this quarter compared with 43% last quarter, with TD Cowen describing adoption as \"subdued.\"\nThis latest report reflects similar findings from an earlier KeyBanc Capital Markets study (via The Register), where analysts found that customer data still isn't good enough to fully benefit from agentic AI. Around two years after Agentforce was introduced, customers are also dissatisfied with the product's maturity itself.\nMore broadly, though, it could just be a sign of the broader landscape rather than an Agentforce problem. Last year, Gartner predicted that more than two in five AI projects would be cancelled by the end of 2027 due to factors like \"unclear business value\" – in other words, this expensive and senseless period of experimentation is just a natural part of the process as users find their feet and reveal the true use cases.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nSalesforce is still filled with optimism after transitioning to become an AI-first company – after an \"outstanding\" quarter, CEO Marc Benioff described agentic AI as \"the biggest growth opportunity for [the company's] customers.\"\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "Salesforce Agentforce年收入达12亿美元，但客户报告指其两年未带来显著增长。",
+  "background": "Agentforce是Salesforce押注AI代理的核心产品，于2023年推出，旨在通过自动化客服、销售等场景驱动新增长。Salesforce宣称其年经常性收入已达12亿美元，但TD Cowen调查却显示合作伙伴与客户并未感受到同步收益。客户普遍认为自身数据就绪度不足，产品成熟度有限，导致试点多而规模化部署少。这并非个例，Gartner预测超过40%的AI项目将在2027年前因业务价值不清晰而取消，反映行业整体仍在探索agentic AI的真正价值。",
+  "key_points": [
+   "Agentforce虽然年经常性收入已达12亿美元，但客户并未感受到相应增长，收入主要源于试点项目，而非大规模生产部署。",
+   "调查显示仅三分之一的合作伙伴对Agentforce有强烈兴趣，56%认为客户需要更多时间成熟，短期需求仍显低迷。",
+   "合作伙伴商业目标达标率环比下滑10个百分点，从43%跌至33%，TD Cowen将当前采用状况描述为“低迷”。",
+   "客户自身数据就绪度不足，对代理成熟度亦不满意，数据质量短板成为阻碍规模化落地的主要瓶颈。",
+   "Gartner预测到2027年底超40%的AI项目将被取消，原因多为“业务价值不清晰”，显示行业仍在试错阶段。"
+  ],
+  "impact": "对AI行业而言，Agentforce案例表明单靠概念难以驱动增长，厂商需从实际业务价值出发优化agent成熟度。对开发者来说，盲目搭建agent不如先夯实数据底座，提升RAG、工具调用等关键能力。对普通用户企业来说，应理性评估AI投资的ROI，避免被厂商的ARR数字迷惑，应重点验证数据质量与场景适配度。",
+  "tools": "可关注Salesforce Agentforce、Data Cloud、Einstein Trust Layer等官方工具；开源侧可关注LangChain、LlamaIndex用于构建和评估agent，同时借助Great Expectations等数据质量工具检查数据就绪度。"
+ }
+}
