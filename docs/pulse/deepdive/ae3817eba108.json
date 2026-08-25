@@ -1,0 +1,22 @@
+{
+ "id": "ae3817eba108",
+ "url": "https://zenodo.org/records/19882078",
+ "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T20:24:36Z",
+ "fetched_at": "2026-08-25T20:46:03.591143+00:00",
+ "content": "Deterministic Frontier-Scale Language Model Inference with Signed Receipts.\nAuthors/Creators\nDescription\nWe describe a protocol that produces byte-identical outputs from frontier-scale language model inference\nand binds each output to a portable, offline-verifiable signed receipt. The construction has three parts.\nFirst, an inference substrate that runs models up to seventy-two billion dense parameters and forty-seven\nbillion mixture-of-experts active parameters on NVIDIA H100, with cross-vendor extension to AMD\nInstinct MI300X. Output hashes match byte-for-byte across fresh process launches in every configuration\nmeasured; at single-GPU bf16 with eager attention the AMD and NVIDIA hashes are themselves byte-\nidentical, including over fifty-one tokens of compounding frontier-scale generation, and at two-GPU\ntensor-parallel they differ as predicted by the underlying NCCL-ring versus RCCL-fabric all-reduce\ntopology. Both are individually deterministic. Second, a canonical CBOR receipt schema with an Ed25519\nsignature over a domain-separated message, implemented in Go, Python, and Rust, with cross-language\nbyte-identity verified end-to-end and AMD-produced receipts verifying byte-for-byte through a Rust\nverifier built on x86 NVIDIA hardware. Third, a probabilistic spot-check verifier that re-executes a\nsmall sample of receipts and rejects on mismatch; we prove a soundness lemma of the form 1−(1−f )k\nand validate it empirically across seventy adversary-verifier configurations with seven hundred thousand\nMonte Carlo trials. Verification costs about eighty microseconds per receipt on a single core. Eleven\nthousand sequential warm-model inferences ran without a single byte-identity failure. The contribution is\nthe construction itself: a primitive that gives issuer-independent fabrication soundness for AI inference at\nproduction cost, without a hardware-vendor dependency and without zero-knowledge proofs.\nFiles\n      \n        Whitepaper.pdf\n        \n      \n    \n    \n      \n        Files\n         (496.1 kB)\n        \n      \n    \n    Additional details\n              \n                Software\n              \n            \n          - Repository URL\n- http://github.com/KuroKernel/ocx-protocol\n- Programming language\n- Rust\n- Development Status\n- Active",
+ "report": {
+  "summary": "实现跨厂商72B大模型字节一致推理，并附带离线可验证签名收据。",
+  "background": "大模型推理通常存在浮点误差和硬件差异，导致不同GPU上输出不一致，给审计、取证和可复现性带来挑战。该研究提出一套协议，在NVIDIA H100和AMD MI300X上运行高达72B稠密参数模型，通过标准化推理栈和签名收据实现字节级一致输出。协议基于确定性内核、环状/网状all-reduce拓扑差异建模，并设计了CBOR收据格式和Ed25519签名，支持跨语言验证。其目标是在生产成本下提供不依赖硬件厂商的伪造抵抗力，无需零知识证明，为AI推理的可信计算奠定基础。",
+  "key_points": [
+   "跨厂商一致性：在H100和MI300X上单GPU bf16配置下，输出哈希逐字节相同，包括51个token的生成；双GPU张量并行时差异可归因于NCCL与RCCL的通信拓扑。",
+   "确定性推理：所有配置下新进程启动输出哈希均匹配，连续11000次推理无一次字节不一致，证明协议可稳定复现。",
+   "签名收据：设计标准CBOR收据，用Ed25519签名域分离消息，Go、Python、Rust实现跨语言验签，AMD收据能在NVIDIA硬件上验证。",
+   "概率抽查验证器：重新执行少量收据样本，证明拒绝概率为1-(1-f)^k，并通过七十种对抗配置、七十万次蒙特卡洛实验验证。"
+  ],
+  "impact": "对AI行业，该协议提供了无需硬件专有依赖的可验证推理方案，有望成为AI审计和合规的基础设施。对开发者，可基于开源仓库ocx-protocol实现确定性部署，降低跨厂商迁移成本。对普通用户，未来可验证AI输出是否被篡改，增强对云端模型服务的信任。",
+  "tools": "关注GitHub仓库KuroKernel/ocx-protocol（Rust实现），以及相关CBOR和Ed25519库。可参考NCCL与RCCL通信拓扑差异进行多卡调试，使用spot-check verifier进行输出抽查。"
+ }
+}

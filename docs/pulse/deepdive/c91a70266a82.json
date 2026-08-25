@@ -1,0 +1,23 @@
+{
+ "id": "c91a70266a82",
+ "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+ "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+ "source": "Hacker News (2pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T20:21:15Z",
+ "fetched_at": "2026-08-25T20:46:23.516943+00:00",
+ "content": "This is an automated check to get rid of most bots. If you have JavaScript enabled, it should redirect to the real page soon. If you don't, it still should redirect soon, but you can click here if you're fast.",
+ "report": {
+  "summary": "Codeberg更新服务条款，禁止以AI生成内容为主的仓库。",
+  "background": "Codeberg是欧洲非营利性代码托管平台，以自由软件和伦理原则著称。近年来，大量AI自动生成、内容空洞的仓库涌入平台，占用资源并污染社区氛围。为遏制这一趋势，Codeberg修改服务条款，明确拒绝‘主要含AI生成内容’的仓库。此举在开源社区引发广泛讨论，核心争议在于如何界定AI辅助与纯生成内容的边界。",
+  "key_points": [
+   "新条款规定，若仓库主要内容由AI生成，将被拒绝收录。这是对平台资源滥用和垃圾信息的直接回应。",
+   "政策主要针对大量低质量、重复的自动创建仓库，而非阻止开发者使用AI辅助编码工具。",
+   "用户需确保提交内容包含实质性人工贡献，但如何判定‘主要’由AI生成仍存模糊地带，引发争议。",
+   "Codeberg作为自由软件平台标杆，其决策可能影响GitHub等商业托管服务跟进类似政策。",
+   "社区反应两极：赞同者认为可净化仓库质量，反对者担心会抑制AI相关的创新和实验性项目，且执法标准难统一。"
+  ],
+  "impact": "对AI行业：此举为生成式AI在代码托管领域划出底线，或促使AI项目更注重实用性与人工监督。对开发者：需谨慎处理AI生成代码，避免仅靠模型产出无意义内容，建议展示人工整合过程。对普通用户：可减少在Codeberg浏览时的低质量内容干扰，提升信任度，但可能错过个别有潜力的AI实验项目。",
+  "tools": "可关注Codeberg官方TOS更新历史。开发者可用GitHub、GitLab的AI合规功能，或使用GitGuardian等工具审查代码来源。对AI生成内容检测，可参考GPTZero或Turnitin等文本检测方案。"
+ }
+}

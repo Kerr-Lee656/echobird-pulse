@@ -6280,5 +6280,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T17:02:50Z",
   "fetched_at": "2026-08-25T19:01:25.874782+00:00"
+ },
+ "ea00bd88e2c2": {
+  "id": "ea00bd88e2c2",
+  "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+  "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-25T20:44:34.341685+00:00"
+ },
+ "d697c654368b": {
+  "id": "d697c654368b",
+  "url": "https://www.36kr.com/p/3954275398729089",
+  "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-25T20:44:54.430244+00:00"
+ },
+ "9655630c9391": {
+  "id": "9655630c9391",
+  "url": "https://github.com/JairValle/mrea-framework",
+  "title": "MREA – Open-source governance framework for multi-role AI agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T20:40:30Z",
+  "fetched_at": "2026-08-25T20:45:53.470039+00:00"
+ },
+ "ae3817eba108": {
+  "id": "ae3817eba108",
+  "url": "https://zenodo.org/records/19882078",
+  "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T20:24:36Z",
+  "fetched_at": "2026-08-25T20:46:03.591143+00:00"
+ },
+ "c91a70266a82": {
+  "id": "c91a70266a82",
+  "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+  "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T20:21:15Z",
+  "fetched_at": "2026-08-25T20:46:23.516943+00:00"
+ },
+ "0df6206ec380": {
+  "id": "0df6206ec380",
+  "url": "https://minimax3.com/",
+  "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T19:45:15Z",
+  "fetched_at": "2026-08-25T20:46:38.354837+00:00"
+ },
+ "302d4c55dd2f": {
+  "id": "302d4c55dd2f",
+  "url": "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs/",
+  "title": "JetBrains Releases Junie Local, Its Coding Agent On-Device to Macs",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T19:04:27Z",
+  "fetched_at": "2026-08-25T20:46:51.894932+00:00"
+ },
+ "a14ffe864c76": {
+  "id": "a14ffe864c76",
+  "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+  "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-25T19:03:47.000Z",
+  "fetched_at": "2026-08-25T20:47:03.921541+00:00"
  }
 }

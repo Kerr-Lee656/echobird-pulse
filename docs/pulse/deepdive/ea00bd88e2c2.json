@@ -1,0 +1,23 @@
+{
+ "id": "ea00bd88e2c2",
+ "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+ "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-25T20:44:34.341685+00:00",
+ "content": "Sam Altman says he misjudged how quickly AI would scramble the economy.\nIn an interview with David Senra, posted on Sunday, the OpenAI CEO said he believed GPT-4's 2023 release would quickly put more software businesses \"up for grabs.\" Instead, he said he's seen customers and companies largely sticking with familiar products and routines.\n\"I think it means we've all been too ambitious on timelines,\" Altman said. \"People keep doing the same things they're doing. They keep buying from the same company. They keep sort of wanting to use their tools in the same way.\"\nHe called that slower adoption cycle a \"positive in many ways.\"\nAltman's comments offer a more measured assessment than previous predictions at the start of the generative-AI boom.\nAI labs — including OpenAI and Anthropic — have spent years promoting the technology's potential to make companies leaner, start new businesses with fewer employees, and transform the economy. Anthropic's CEO Dario Amodei famously said the tech could eliminate 50% of all entry-level white-collar work in five years.\nSilicon Valley's AI predictions have had sweeping impacts, with consequences reverberating all the way to Wall Street. Several software-as-a-service stocks posted big declines in the first quarter of 2026, as investors increasingly bet that companies like Salesforce, Atlassian, and Asana would have to compete with AI tools capable of building bespoke operating systems. It was called the SaaSpocalypse.\nStill, turning that potential into widespread corporate adoption is proving more complicated, Altman said. He likened that AI transition to customers shopping for their next at-home movie at Blockbuster in the early 2000s — right when Netflix had already started its DVD home-delivery model.\n\"It was amazing to me that people still went to Blockbuster,\" he said. \"That is an example that has stuck in my head of like force of habit, and the way people do things and changing behavior is just much harder than the tech nerds realize.\"\nAltman has described that resistance in his own work life, too. In the same interview, he said he still manually works through his inbox, even though OpenAI's Codex could handle more of the task.\nOpenAI didn't respond to a request for comment from Business Insider.",
+ "report": {
+  "summary": "奥特曼承认AI改变经济速度慢于预期，企业习惯难改。",
+  "background": "2023年GPT-4发布后，奥特曼曾预期软件行业将迅速被AI重构，大量SaaS公司会被AI原生工具取代。然而两年后，企业客户仍坚持使用原有软件和流程，采用速度远低于预期。华尔街已因AI冲击SaaS股引发“SaaSpocalypse”抛售，但实际落地阻力巨大。奥特曼在访谈中反思自己过于激进的时间线，并类比Netflix出现后人们仍去Blockbuster租片的惯性，强调行为改变比技术突破更难。",
+  "key_points": [
+   "奥特曼承认曾高估AI颠覆经济速度，GPT-4并未像预想那样让软件市场迅速洗牌。",
+   "企业和客户仍购买同一家公司的产品、沿用原有工具，习惯惯性成为AI落地最大阻力。",
+   "他认为这种慢节奏其实是好事，给了社会和企业缓冲时间去适应技术变化。",
+   "与华尔街的SaaSpocalypse恐慌形成对比——现实采用远慢于投资者预期。",
+   "奥特曼自曝仍手动处理邮件，即使Codex本可代劳，体现连自己都难改旧习惯。"
+  ],
+  "impact": "对AI行业来说，这给过度乐观的商业化预测泼了冷水，公司需更重视场景落地而非堆砌模型能力。对开发者而言，应把精力放在降低客户迁移成本、集成现有工作流上，而非推销颠覆式方案。对普通用户，无需焦虑AI会瞬间取代工作，适应是渐变过程，教育和再培训的时间窗口更充裕。",
+  "tools": "若想跟进企业AI落地，可关注LangChain（构建业务工作流）、OpenAI Codex（辅助编码）、以及RAG框架（如LlamaIndex）用于企业知识库集成。另可参考Microsoft Copilot、Notion AI等嵌入式助手，观察它们如何融入现有用户习惯。"
+ }
+}
