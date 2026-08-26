@@ -6973,5 +6973,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T06:36:19Z",
   "fetched_at": "2026-08-26T09:04:47.839845+00:00"
+ },
+ "93885974b5c5": {
+  "id": "93885974b5c5",
+  "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+  "title": "Debian polls its developers on AI: permit or ban?",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T10:31:37Z",
+  "fetched_at": "2026-08-26T10:53:23.667242+00:00"
+ },
+ "dc23cbcd073a": {
+  "id": "dc23cbcd073a",
+  "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+  "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T10:23:53Z",
+  "fetched_at": "2026-08-26T10:53:36.105323+00:00"
+ },
+ "3db85bd2df24": {
+  "id": "3db85bd2df24",
+  "url": "https://mrkt30.com/deepseek-v4-flash-overtaking-american-ai-models/",
+  "title": "Is DeepSeek-V4-Flash Overtaking American AI Models?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T09:47:03Z",
+  "fetched_at": "2026-08-26T10:53:46.001980+00:00"
  }
 }
