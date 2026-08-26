@@ -1,0 +1,23 @@
+{
+ "id": "03b16224233a",
+ "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+ "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-08-26T00:40:59.000Z",
+ "fetched_at": "2026-08-26T01:59:40.543510+00:00",
+ "content": "Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding.\nThe fresh capital totals nearly $200 million according to a regulatory filing. That additional capital is an extension of a $400 million Series B led by Radical Ventures that the company announced in June at a $2 billion valuation, the people said. The new capital brings the round’s total funding to $600 million.\nGeneralist and 8VC didn’t respond to a request for comment.\nGeneralist was founded in 2024 by former Google DeepMind researchers Pete Florence and Andy Zeng, along with former Boston Dynamics engineer Andrew Barry. It received early backing from 8VC and Radical Ventures as well as Nvidia, Union Square Ventures, Bezos Expeditions, and AI researcher Fei-Fei Li.\nUntil recently, the startup operated quietly and with little publicity.\nGeneralist is developing an AI foundation model that can work with various robots. It claims its newly released Gen 1.5 model enables robots to master new tasks from video demonstrations as short as 3 to 12 seconds long.\nThe startup is working with a handful of customers, using their feedback to tailor the model for specific use cases, according to one source.\nGeneralist isn’t alone in its pursuit of building a brain for a broad range of robots. Other competitors include Physical Intelligence, which is reportedly valued at $11 billion, and SoftBank-backed Skild AI, valued at $14 billion, as well as Genesis AI, which was in talks as of last month to raise capital at a $3 billion valuation.\nThe funding surge reflects a bet from some investors that robotics may soon reach its own “ChatGPT moment,” meaning that robots will be able to perform general tasks without being explicitly trained for each one. However, because robots cannot be trained on the entirety of the internet’s data the way LLMs can, some VCs warn that a truly general robotics model may still be years away.",
+ "report": {
+  "summary": "机器人创企Generalist融资后估值达30亿美元。",
+  "background": "Generalist由前Google DeepMind研究员和Boston Dynamics工程师于2024年创立，专注开发可适配多种机器人的AI基础模型。此前公司低调运行，今年6月刚完成4亿美元B轮融资，估值20亿美元。此次由8VC领投的追加融资近2亿美元，使B轮总额达6亿美元，估值升至30亿美元。当前机器人领域投资热潮涌动，Physical Intelligence、Skild AI等竞品估值更高，投资人正押注机器人迎来类似ChatGPT的通用智能突破。",
+  "key_points": [
+   "Generalist估值达30亿美元，本轮追加融资近2亿美元由8VC领投，B轮累计融资6亿美元。",
+   "创始团队来自Google DeepMind和Boston Dynamics，早期获英伟达、贝索斯等支持。",
+   "其Gen 1.5模型号称仅需3-12秒视频演示就能让机器人学会新任务，降低训练门槛。",
+   "公司正与少量客户合作，根据反馈定制模型，主攻机器人通用大脑方向。",
+   "竞品包括估值110亿美元的Physical Intelligence和140亿美元的Skild AI，行业竞争激烈。"
+  ],
+  "impact": "对AI行业而言，通用机器人模型被视为下一个技术爆发点，但真实世界数据稀缺使其落地难度高于大语言模型。对开发者来说，这类模型可能简化机器人编程，让技能学习从手动编码转向视频示范。对普通用户，未来家用或服务机器人有望更灵活适应新环境，但距离成熟产品仍需数年，投资热潮可能伴随泡沫风险。",
+  "tools": "关注Generalist官网及Gen 1.5发布细节，对比竞品Physical Intelligence的π0模型、Skild AI的通用机器人基础模型。开源社区可关注RoboSuite、RLBench等机器人学习基准，以及NVIDIA Isaac Lab等仿真工具，用于训练和测试类似通用模型。"
+ }
+}

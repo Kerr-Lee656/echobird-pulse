@@ -1,0 +1,23 @@
+{
+ "id": "0c3404c5844b",
+ "url": "https://finance.yahoo.com/technology/ai/articles/micron-sees-no-end-ai-053539087.html",
+ "title": "美光首席执行官对AI内存短缺敲响警钟——随着需求持续增长，供应可能要到2028年才能跟上：美光股价下跌4%（更新）",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-25T21:41:51.172Z",
+ "fetched_at": "2026-08-26T01:58:13.328462+00:00",
+ "content": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)\nEditor's Note: The story has been refreshed with the latest market price action and a revised headline.\nMicron Technology Inc. (NASDAQ:MU) CEO Sanjay Mehrotra said memory supply shows no sign of catching up with artificial intelligence-driven demand, citing long-term customer agreements locking in years of committed supply as evidence that the current boom is structural, not cyclical.\n'We See No End'\n\"We see no end when supply catches up with demand, and the demand continues to grow,\" Mehrotra told CNBC's Jim Cramer on Friday.\nHe said Micron's five-year customer agreements, which can be extended, give the company \"assurance of demand,\" even as \"nothing ever goes in a straight line.\"\n\"Today there is no AI without memory,\" Mehrotra said, adding that AI systems increasingly require higher-performance, lower-power memory that will eventually extend demand beyond data centers into autonomous vehicles, robotics and AI-enabled consumer devices.\nA Structural Shift\nDaniel Newman, CEO of The Futurum Group, said on X that Mehrotra \"finally said the quiet part out loud,\" adding the AI-driven demand cycle \"may never end\" as data center buildouts give way to robotics, autonomy and physical AI.\n      $MU CEO finally said the quiet part out loud. The AI powered demand cycle may never end. AI data center boom and then comes robots, autonomy, and physical AI. The memory wall is growing taller. 👀 https://t.co/UKnkf3fPbJ\n— Daniel Newman (@danielnewmanUV) August 23, 2026\nYorkville Ives Senior Managing Director Dan Ives told CNBC the memory trade has become \"foundational, not cyclical,\" estimating demand-to-supply ratios in AI memory at roughly 15-to-1.\n\"Memory players, right now it's their world and everyone else is paying rent,\" Ives added.\nOn Thursday, Micron disclosed the launch of Micron Research Labs, a $10 billion, 10-year investment in a U.S.-based research hub anchored by a flagship campus in Boise, aimed at advancing memory and AI technologies.\nNot Everyone Agrees Memory Demand Is Permanent\nARK Invest founder Cathie Wood has taken the opposite view, avoiding memory suppliers like Micron and SK Hynix Inc. (NASDAQ:SKHY) as today's extraordinary pricing is more likely to invite competition and engineering workarounds than persist indefinitely.\nSupply Relief Could Be Years Away\nEven as Samsung Electronics Co., Ltd., SK Hynix and Micron all expand capacity, meaningful production relief is unlikely before 2028 at the earliest, according to Counterpoint Research Director MS Hwang, since AI demand is now pulling in conventional DRAM alongside high-bandwidth memory.",
+ "report": {
+  "summary": "美光CEO警告AI内存短缺，供应或2028年才能跟上，股价跌4%",
+  "background": "AI算力爆发带动高带宽内存（HBM）和DRAM需求激增，但内存产能扩张周期长，供应明显滞后。美光CEO桑杰·梅赫罗特拉表示，AI拉动内存储存在结构性增长，五年期客户协议已锁定未来供应，当前“看不到供需平衡的尽头”。尽管三星、SK海力士和美光均在扩产，Counterpoint Research认为有效供给最早要到2028年才能缓解。市场对长期高景气与短期估值过高的分歧加剧，美光股价当日下跌4%。",
+  "key_points": [
+   "美光CEO称五年期客户协议锁定需求，AI内存短缺是结构性而非周期性，供应追上需求“看不到尽头”。",
+   "分析师称AI内存供需比约15比1，内存厂商掌握定价权，算力扩张正向机器人、自动驾驶和物理AI蔓延。",
+   "美光宣布投资100亿美元设立研究实验室，押注高性能低功耗内存技术，应对AI与终端设备需求。",
+   "方舟投资创始人Cathie Wood持相反观点，认为当前高价格会吸引竞争和工程变通方案，而非无限持续。",
+   "三星、SK海力士和美光均在扩产，但Counterpoint Research认为有效供给要到2028年才可能明显改善。"
+  ],
+  "impact": "AI内存将成为与算力同等重要的瓶颈，HBM和先进DRAM的供应能力直接影响GPU集群交付速度，云厂商和模型公司需提前锁定产能并承担涨价成本。对开发者而言，内存成本上升可能传导至云服务价格，推理和训练成本难以下降。对普通用户，内存短缺与高价格会推高AI手机、PC和汽车等终端售价，但也会加速高带宽、低功耗内存技术的商业化落地。",
+  "tools": "可关注美光、SK海力士、三星的财报和HBM3E/HBM4路线图；跟踪JEDEC的HBM标准、Counterpoint的内存供需报告，以及Micron Research Labs的研究方向。"
+ }
+}

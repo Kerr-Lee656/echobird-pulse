@@ -6433,5 +6433,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T21:49:33Z",
   "fetched_at": "2026-08-25T22:47:57.916679+00:00"
+ },
+ "f26d6ac253ea": {
+  "id": "f26d6ac253ea",
+  "url": "https://thenextweb.com/news/openai-head-of-data-centres-chris-malone-departure",
+  "title": "OpenAI confirms its data centre chief left as it pivots to leasing",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T01:57:25.607669+00:00"
+ },
+ "42e2cebf0911": {
+  "id": "42e2cebf0911",
+  "url": "https://tech.slashdot.org/story/26/08/25/2116226/new-zealand-introduces-under-16-social-media-ai-companion-ban",
+  "title": "New Zealand Introduces Under-16 Social Media, AI Companion Ban",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-25T22:00:00Z",
+  "fetched_at": "2026-08-26T01:57:38.653838+00:00"
+ },
+ "7325462993ce": {
+  "id": "7325462993ce",
+  "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html",
+  "title": "阿里巴巴在创纪录的100亿美元股票发行后推出Wan 3.0人工智能视频模型",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T21:41:51.176Z",
+  "fetched_at": "2026-08-26T01:57:52.564351+00:00"
+ },
+ "0c3404c5844b": {
+  "id": "0c3404c5844b",
+  "url": "https://finance.yahoo.com/technology/ai/articles/micron-sees-no-end-ai-053539087.html",
+  "title": "美光首席执行官对AI内存短缺敲响警钟——随着需求持续增长，供应可能要到2028年才能跟上：美光股价下跌4%（更新）",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-25T21:41:51.172Z",
+  "fetched_at": "2026-08-26T01:58:13.328462+00:00"
+ },
+ "dfd8b256b800": {
+  "id": "dfd8b256b800",
+  "url": "https://thenextweb.com/news/anthropic-ipo-30-trillion-addressable-market",
+  "title": "Anthropic is expected to pitch investors a $30tn market opportunity",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T01:58:22.644496+00:00"
+ },
+ "b63f5e6ead02": {
+  "id": "b63f5e6ead02",
+  "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions",
+  "title": "Claude's memory now works across both chats and Cowork sessions",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T01:58:33.633190+00:00"
+ },
+ "59c37baddd67": {
+  "id": "59c37baddd67",
+  "url": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
+  "title": "Apple unveils M6 and M5 Ultra chips with a big jump in AI performance",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T01:58:48.339850+00:00"
+ },
+ "03b16224233a": {
+  "id": "03b16224233a",
+  "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+  "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-26T00:40:59.000Z",
+  "fetched_at": "2026-08-26T01:59:40.543510+00:00"
+ },
+ "642b797777b3": {
+  "id": "642b797777b3",
+  "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
+  "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T00:33:36Z",
+  "fetched_at": "2026-08-26T01:59:50.362412+00:00"
  }
 }

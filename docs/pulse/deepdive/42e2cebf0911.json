@@ -1,0 +1,22 @@
+{
+ "id": "42e2cebf0911",
+ "url": "https://tech.slashdot.org/story/26/08/25/2116226/new-zealand-introduces-under-16-social-media-ai-companion-ban",
+ "title": "New Zealand Introduces Under-16 Social Media, AI Companion Ban",
+ "source": "Slashdot (科技资讯)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-25T22:00:00Z",
+ "fetched_at": "2026-08-26T01:57:38.653838+00:00",
+ "content": "New Zealand Introduces Under-16 Social Media, AI Companion Ban (jurist.org) 23\n\t\t\t\n\t\t \t\n\t\t\t\tNew Zealand has introduced legislation that would ban children under 16 from social media platforms and AI companion services. \"We have protections to keep children safe in the real world and we need them in the virtual world too,\" said Prime Minister Christopher Luxon in announcing the bill. Jurist.org reports:  The Online Safety (Minimum Age and Child Safety Risk Assessment) Bill would require an age restriction on platforms with harmful features for children. These features include recommender systems, endless feeds, feedback features and time-limited features. The bill also seeks to restrict underage users from accessing AI companion services. However, it explicitly excludes messaging apps, professional networking sites, gaming and music platforms, and other educational and health tools.\n \nNotably, age verification through self-declared dates of birth and formal identification does not satisfy the platforms' duty under the law. It also requires platforms to verify their users' age through other methods such as facial scans and user activity patterns. The bill would also require platforms to conduct child safety risk assessments for all users under 18 and protect them from harmful content such as bullying, violence, and sexually explicit materials.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nNotably, age verification through self-declared dates of birth and formal identification does not satisfy the platforms' duty under the law. It also requires platforms to verify their users' age through other methods such as facial scans and user activity patterns. The bill would also require platforms to conduct child safety risk assessments for all users under 18 and protect them from harmful content such as bullying, violence, and sexually explicit materials.",
+ "report": {
+  "summary": "新西兰立法禁止16岁以下未成年人使用社交媒体和AI伴侣服务。",
+  "background": "新西兰政府近期提出《在线安全（最低年龄和儿童安全风险评估）法案》，旨在为儿童营造更安全的网络环境。总理拉克森强调，现实世界有保护儿童的措施，虚拟世界也需要同等保护。此举与澳大利亚等国的未成年人社交媒体限制趋势一致，同时将日益流行的AI陪伴服务纳入监管。此前，多个国家担忧AI聊天机器人可能对未成年人心理健康产生负面影响，而社交媒体算法推送也被认为会加剧网络欺凌和不良内容接触。该法案是新西兰在数字安全立法上的重要一步。",
+  "key_points": [
+   "主要内容是禁止16岁以下儿童使用社交媒体和AI陪伴服务，但聊天应用、职业网站、游戏音乐及教育健康工具被明确排除在外。",
+   "法律不认可用户自报生日或提供身份证件作为合规年龄验证，要求平台采用面部扫描、用户活动模式等更严格的技术手段。",
+   "平台还必须对所有18岁以下用户进行儿童安全风险评估，并采取措施保护他们免受欺凌、暴力和色情等有害内容侵害。",
+   "法案针对推荐系统、无尽信息流、反馈点赞等被视为对儿童有害的功能设置年龄限制，旨在减少算法对未成年人的负面影响。"
+  ],
+  "impact": "对AI行业，特别是AI伴侣和社交平台，将面临更高的合规成本和更严格的技术要求，可能促使企业调整产品设计。对开发者而言，需要开发或集成可靠的年龄验证方案，如生物识别和行为分析，同时兼顾隐私。对普通用户，尤其未成年人，其在线行为将受到更多监控和限制，但也能减少接触不良内容的风险。该法案可能引发其他国家效仿，推动全球儿童在线安全标准升级。",
+  "tools": "可关注年龄验证技术如Yoti、ID.me（支持面部扫描和证件核验），以及行为分析工具（如Hive、Sift）用于识别用户年龄模式。开发者可参考OpenAI的儿童安全指南或Meta的年龄验证方案，并关注新西兰官方法案最新动态。"
+ }
+}

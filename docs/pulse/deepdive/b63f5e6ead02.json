@@ -1,0 +1,23 @@
+{
+ "id": "b63f5e6ead02",
+ "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions",
+ "title": "Claude's memory now works across both chats and Cowork sessions",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-26T01:58:33.633190+00:00",
+ "content": "Claude's memory now works across both chats and Cowork sessions\nPlus, Anthropic is giving users more control over what memories Claude saves.\nSince last summer, Claude has had the ability to remember past conversations, but often those \"memories\" have been fragmented. Sometimes by design, and at other times due to limitations in Claude's architecture. That's partly changing today, with Anthropic releasing a major update to its memory feature set.\nThe company's models can now access and carry over memories across both Claude the chatbot and Claude Cowork. Cowork, if you need a reminder, is the computer use agent Anthropic released at the start of the year. You can use it to automate rote tasks you repeat often through the day. \"When Cowork runs a task in the cloud, what Claude remembers from your chats is there, and vice versa,\" says Anthropic. In practice, this means you'll need to repeat yourself less often when using Cowork since Claude will have access to context from your chats. Today's update is well-timed since it builds on a recent upgrade Anthropic released for its Claude for Chrome browser extension where it made Cowork available through the plugin. Since that change, conversations you have in the Chrome side panel now become part of your usage history.\nAnthropic is also giving users more control over Claude's memory. Over the last few weeks, users have been able to see the chatbot's memories organized by topic, and edit the specifics of each topic from Claude's settings menu. To that the company is adding a new \"include sensitive topics in memory\" option. \"By default, Claude does not store topics related to personal or sensitive subject matter, like your health, race, ethnicity, religious beliefs, politics, gender identity, and other similar areas,\" explains Anthropic.\nIf you flip on the sensitive topics toggle, Claude will begin adding those topics to its memory. Each time it does so, you will see a notification. Anthropic notes Claude won't retroactively add past conversations to its memory, and that you can turn off the feature at any time, as well as edit and delete what it saves. As for why it's making this change now, the company reasons \"what some consider sensitive, others may consider useful for Claude to remember.\" Anthropic notes Claude will not save certain information, including your social security number, criminal history, immigration status, even if you have the sensitive topics toggle enabled.\nMemory is available (and enabled by default) for all Free, Pro and Max accounts. On mobile, update to the latest version of the Claude Android or iOS app to see the new updates.",
+ "report": {
+  "summary": "Claude记忆功能升级，跨聊天与Cowork同步，并新增敏感话题记忆控制。",
+  "background": "自去年夏天Claude具备记忆功能以来，记忆碎片化问题一直存在。Anthropic此次发布重大更新，使记忆在Claude聊天和Cowork（计算机使用代理）间共享，减少重复描述。同时，用户可查看、编辑记忆，并新增敏感话题记忆开关，默认不存储个人敏感信息，但用户可自愿开启。该更新针对Chrome扩展中Cowork的集成，加强上下文连续性。",
+  "key_points": [
+   "记忆跨会话共享：Claude聊天记录与Cowork任务自动共享上下文，用户无需重复说明背景，提升自动化效率。",
+   "敏感话题可控：默认不记健康、政治等敏感信息，新增开关可开启，并实时通知，且不会追溯旧对话。",
+   "记忆管理能力：用户可在设置中按主题查看、编辑或删除Claude存储的记忆，增强透明度和可控性。",
+   "覆盖所有用户：记忆功能对Free、Pro、Max账户默认开启，移动端需更新App。",
+   "隐私保护底线：即使开启敏感开关，社会安全号码、犯罪记录、移民状态等仍不会被保存。"
+  ],
+  "impact": "对AI行业，推动聊天机器人和代理工具的记忆标准化，向用户赋权方向发展。对开发者，需关注如何构建跨会话、跨工具的上下文系统。对普通用户，使用更便捷、个性化更强，但需权衡记忆带来的隐私风险，可通过设置掌控。",
+  "tools": "可关注Anthropic的Claude应用及Chrome扩展，其中Cowork代理功能已集成。开发者可参考Anthropic API中关于记忆和工具使用的文档，以及浏览器扩展开发相关资源。"
+ }
+}
