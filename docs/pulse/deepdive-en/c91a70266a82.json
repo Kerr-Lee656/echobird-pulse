@@ -1,0 +1,24 @@
+{
+ "id": "c91a70266a82",
+ "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+ "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+ "source": "Hacker News (3pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-25T20:21:15Z",
+ "fetched_at": "2026-08-26T12:47:05.433058+00:00",
+ "content": "This is an automated check to get rid of most bots. If you have JavaScript enabled, it should redirect to the real page soon. If you don't, it still should redirect soon, but you can click here if you're fast.",
+ "report": {
+  "summary": "Codeberg updates its Terms of Service to ban predominantly AI-generated code repositories, aiming to curb bot spam.",
+  "background": "Codeberg, a non-profit, community-driven GitHub alternative, has long positioned itself as an ethical, sustainable home for open-source projects. Unlike commercial platforms, it relies on volunteer moderation and shared community values. The influx of AI-generated repositories—often created at scale by automated scripts using tools like ChatGPT or Copilot—has overwhelmed maintainers with low-quality content, dubious licenses, and spam. While individual AI-assisted commits are acceptable, a repository that is predominantly AI-generated provides little human oversight and threatens the trust and quality bar of the platform. This TOS change reflects a broader tension in open source: how to embrace AI assistance while preserving genuine human contribution and accountability.",
+  "key_points": [
+   "Codeberg's updated Terms of Service explicitly reject repositories whose content is predominantly created by AI. This targets mass-generated repos that often contain unverified code, vague metadata, or spam-like documentation, not projects that use AI as a supporting aid. The rule aims to preserve the platform's integrity and ensure a human can be held responsible for the code.",
+   "The change was made via a commit to the Codeberg/org repository, showing a transparent, public governance process. Community members can review the exact wording of the TOS diff and track how the policy evolved — a stark contrast to proprietary platforms that change terms without public discussion.",
+   "Automated bots are a primary motivation. Codeberg's notice page even includes a JavaScript redirect to filter non-human visitors, hinting at the scale of automated abuse. By updating the TOS, Codeberg gains a legal and policy basis to remove existing bot-created repos and reject future ones without focusing on each project individually.",
+   "The policy focuses on 'predominantly' AI content, leaving room for interpretation. Developers using AI coding assistants for snippets, tests, or boilerplate are likely unaffected. The intent is not to forbid AI tools but to ensure substantial human authorship, review, and responsibility. Clear definitions will probably evolve as edge cases emerge.",
+   "This move could influence other collaborative coding platforms. As AI-generated code becomes easier to create, maintainers of Git forges, package managers, and open-source foundations may adopt similar policies to maintain quality. It also sets a precedent for ethical standards around AI disclosure in software development."
+  ],
+  "impact": "For the AI industry, Codeberg's policy signals a growing demand for transparency and human accountability in AI-generated code—tool vendors may need to build provenance features into their systems. Developers who rely heavily on AI for entire repositories will need to disclose and add meaningful human contribution or risk being barred from certain communities. Regular users benefit from fewer junk repositories and a higher signal-to-noise ratio when searching for open-source software. However, enforcement will be tricky: determining 'predominantly AI' requires technical analysis and judgment, which could burden volunteer moderators. This policy may also push AI-generated projects to other platforms, creating a divide between human-curated and mass-produced code ecosystems.",
+  "tools": "For readers wanting to host a community-controlled Git platform, consider Forgejo (a hard fork of Gitea, used by Codeberg) — it's open source and self-hostable. To detect AI-generated content in repositories, look into tools like GPTZero for text or Jina AI's 'DetectGPT' style packages. For manual review, use git history tools like git-filter-repo to inspect commit patterns and contributor authenticity. Codeberg's own public governance repository is worth following to see how the TOS policy evolves."
+ },
+ "lang": "en"
+}

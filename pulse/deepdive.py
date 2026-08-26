@@ -175,7 +175,9 @@ def fetch_article(url: str) -> str:
 
 
 # ── 步骤 3: 深度报告生成 ─────────────────────────────
-REPORT_SYSTEM = """你是 AI 领域的资深记者 + 技术分析师。基于一篇新闻的标题和正文，撰写结构化深度报告。
+# 2026-08-26: 双语报告（英文 feed 生成英文报告，中文 feed 生成中文报告）
+# 英文站直接读 deepdive-en/，无需 OpenTools 端 LLM 实时翻译（治本）
+REPORT_SYSTEM_ZH = """你是 AI 领域的资深记者 + 技术分析师。基于一篇新闻的标题和正文，撰写结构化深度报告。
 
 要求：
 - summary: 一句话摘要（30字内）
@@ -187,11 +189,29 @@ REPORT_SYSTEM = """你是 AI 领域的资深记者 + 技术分析师。基于一
 只输出 JSON：
 {"summary": "...", "background": "...", "key_points": ["...", "..."], "impact": "...", "tools": "..."}"""
 
+REPORT_SYSTEM_EN = """You are a senior AI journalist and technical analyst. Write a structured deep-dive report based on a news headline and its article content.
 
-def gen_report(title: str, url: str, content: str) -> dict:
+Requirements:
+- summary: one-sentence summary (under 30 words)
+- background: background context (causes, industry context, 100-200 words)
+- key_points: 3-5 key points (40-80 words each, plain language)
+- impact: impact analysis (what it means for the AI industry, developers, and regular users, 100-150 words)
+- tools: related tools / open-source project suggestions (if readers want to follow up or try it, which tools to watch, 50-100 words; omit if none)
+
+Output JSON only:
+{"summary": "...", "background": "...", "key_points": ["...", "..."], "impact": "...", "tools": "..."}"""
+
+
+def gen_report(title: str, url: str, content: str, lang: str = "zh") -> dict:
+    """生成深度报告。lang=zh → 中文报告；lang=en → 英文报告。"""
+    sys_prompt = REPORT_SYSTEM_EN if lang == "en" else REPORT_SYSTEM_ZH
+    if lang == "en":
+        user_msg = f"Title: {title}\nURL: {url}\n\nArticle:\n{content[:MAX_CONTENT_CHARS]}"
+    else:
+        user_msg = f"标题：{title}\n原文链接：{url}\n\n正文：\n{content[:MAX_CONTENT_CHARS]}"
     out = _llm([
-        {"role": "system", "content": REPORT_SYSTEM},
-        {"role": "user", "content": f"标题：{title}\n原文链接：{url}\n\n正文：\n{content[:MAX_CONTENT_CHARS]}"},
+        {"role": "system", "content": sys_prompt},
+        {"role": "user", "content": user_msg},
     ], max_tokens=2500, timeout=180)
     try:
         m = re.search(r"\{[\s\S]*\}", out)
@@ -206,8 +226,13 @@ def item_id(url: str) -> str:
 
 
 def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> int:
-    """入口：读 feed → 筛标题 → 抓正文 → 写报告。返回深挖条数。"""
-    DEEP_DIR.mkdir(parents=True, exist_ok=True)
+    """入口：读 feed → 筛标题 → 抓正文 → 写报告。返回深挖条数。
+    2026-08-26: feed 文件名含 -en → 生成英文报告到 deepdive-en/；否则中文到 deepdive/"""
+    # 语言判定：-en.json 结尾 → 英文；否则中文
+    lang = "en" if feed_file.rstrip("/").endswith("-en.json") else "zh"
+    deep_dir = DEEP_DIR if lang == "zh" else DOCS_DIR / "deepdive-en"
+    index_file = deep_dir / "index.json"
+    deep_dir.mkdir(parents=True, exist_ok=True)
     feed_path = DOCS_DIR / feed_file
     if not feed_path.exists():
         print(f"[deepdive] feed 不存在: {feed_path}", file=__import__("sys").stderr)
@@ -215,7 +240,7 @@ def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> i
 
     feed = json.loads(feed_path.read_text(encoding="utf-8"))
     items = feed.get("items", [])
-    print(f"[deepdive] feed {len(items)} 条，开始标题筛选…")
+    print(f"[deepdive] feed {len(items)} 条 (lang={lang})，开始标题筛选…")
 
     picked = screen_titles(items)
     print(f"[deepdive] 标题筛选命中 {len(picked)} 条值得深挖")
@@ -227,9 +252,9 @@ def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> i
 
     done = 0
     index = {}
-    if INDEX_FILE.exists():
+    if index_file.exists():
         try:
-            index = json.loads(INDEX_FILE.read_text(encoding="utf-8"))
+            index = json.loads(index_file.read_text(encoding="utf-8"))
         except Exception:
             index = {}
 
@@ -246,8 +271,8 @@ def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> i
         if len(content) < 200:
             print(f"  ⚠️ 正文过短/抓取失败 ({len(content)} 字)，跳过")
             continue
-        print(f"  正文 {len(content)} 字，生成报告…")
-        report = gen_report(it.get("title", ""), url, content)
+        print(f"  正文 {len(content)} 字，生成{'英文' if lang == 'en' else '中文'}报告…")
+        report = gen_report(it.get("title", ""), url, content, lang)
         if not report:
             print("  ⚠️ 报告生成失败，跳过")
             continue
@@ -262,8 +287,9 @@ def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> i
             "fetched_at": datetime.now(timezone.utc).isoformat(),
             "content": content,
             "report": report,
+            "lang": lang,
         }
-        (DEEP_DIR / f"{iid}.json").write_text(
+        (deep_dir / f"{iid}.json").write_text(
             json.dumps(entry, ensure_ascii=False, indent=1), encoding="utf-8"
         )
         index[iid] = {
@@ -272,10 +298,10 @@ def run_deepdive(feed_file: str = "latest-24h.json", dry_run: bool = False) -> i
             "published_at": it.get("published_at"), "fetched_at": entry["fetched_at"],
         }
         done += 1
-        print(f"  ✅ 已生成: {iid}")
+        print(f"  ✅ 已生成: {iid} ({lang})")
 
-    INDEX_FILE.write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"[deepdive] 完成：新增 {done} 篇深度报告（累计 {len(index)} 篇）")
+    index_file.write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"[deepdive] 完成：新增 {done} 篇{'英文' if lang == 'en' else '中文'}深度报告（累计 {len(index)} 篇）")
     return done
 
 

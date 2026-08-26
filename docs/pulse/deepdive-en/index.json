@@ -1,0 +1,29 @@
+{
+ "99e7761c77f8": {
+  "id": "99e7761c77f8",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
+  "title": "OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T21:49:33Z",
+  "fetched_at": "2026-08-26T12:45:30.728314+00:00"
+ },
+ "61ca547e363e": {
+  "id": "61ca547e363e",
+  "url": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
+  "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T20:47:48Z",
+  "fetched_at": "2026-08-26T12:45:44.312167+00:00"
+ },
+ "c91a70266a82": {
+  "id": "c91a70266a82",
+  "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+  "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-25T20:21:15Z",
+  "fetched_at": "2026-08-26T12:47:05.433058+00:00"
+ }
+}
