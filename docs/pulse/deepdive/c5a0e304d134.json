@@ -1,0 +1,23 @@
+{
+ "id": "c5a0e304d134",
+ "url": "https://www.ithome.com/0/994/296.htm",
+ "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-25T23:00:23Z",
+ "fetched_at": "2026-08-26T03:20:09.239876+00:00",
+ "content": "感谢IT之家网友 愚公骑马 的线索投递！\n            IT之家 8 月 26 日消息，消息源 @synthwavedd 今天（8 月 26 日）在 X 平台发布推文，爆料称 OpenAI 已完成预训练下一代模型，内部代号为 Bel，是 Doug 模型的直接继任者，总参数量超过 10T。\n消息称 OpenAI 希望将 Bel 模型打造成为 GPT-6 之后的基座模型，甚至冲击通用人工智能（AGI）阈值模型。\n通用人工智能（Artificial General Intelligence，简称 AGI）是一种假设的智能系统，能够像人一样学习、理解和执行人类能做的任何智力任务。与当前只能处理特定任务的狭义人工智能不同，AGI 具备跨领域的泛化能力、推理能力以及适应未知环境的自我学习能力。\nIT之家翻译消息源观点如下：\n这些模型的探索都可能让 Anthropic 感到压力。OpenAI 认为，面对即将公开发布的 Astra，Anthropic 并没有拿得出手的应对方案，据我了解事实也的确如此，主要受算力条件所限。Anthropic 已经做好心理准备，今年余下大部分时间里局势会偏向 OpenAI，但他们相信明年初就能重回领先地位。",
+ "report": {
+  "summary": "曝OpenAI完成超10T参数模型Bel预训练，目标冲击AGI。",
+  "background": "当前全球AI竞赛白热化，OpenAI与Anthropic等前沿实验室竞争激烈。此前OpenAI曾推出GPT-4、GPT-4o等模型，持续扩大参数规模并探索新架构；Anthropic则凭借Claude系列主打安全与对齐。据最新爆料，OpenAI已预训练下一代模型Bel，总参数超10T，是内部模型Doug的继任者，计划作为GPT-6之后的基座模型，直接冲击AGI阈值。消息源还称，面对OpenAI即将发布的Astra，Anthropic因算力受限难以应对，但预计明年年初会重新领先。该消息未获官方证实，但反映了大模型竞争的深层动向。",
+  "key_points": [
+   "OpenAI被曝已完成下一代模型Bel的预训练，参数量超过10T，是此前Doug模型的直接继任者。",
+   "Bel被定位为GPT-6之后的基座模型，目标直指通用人工智能AGI阈值，方向远超现有窄AI。",
+   "爆料称Anthropic压力很大，因算力受限拿不出应对OpenAI即将发布的Astra的方案。",
+   "Anthropic预计今年剩余时间被动，但相信明年初可重回领先，暗示竞争格局未定。",
+   "目前仅为消息源爆料，未经OpenAI证实，参数规模大不等于能力全面领先，需保持谨慎。"
+  ],
+  "impact": "对AI行业而言，超大规模预训练再次成为焦点，将加剧算力军备竞赛，推动更极致的效率优化。对开发者来说，未来可基于更强基座模型构建复杂应用，但API成本和云依赖也会上升，需要关注部署策略。对普通用户，短期内感知有限，长期可能迎来更智能、更懂上下文的助手，同时也要警惕滥用的风险与内容安全挑战。",
+  "tools": "可关注OpenAI API和官方公告跟踪Bel/GPT进展，用Hugging Face模型库查看开源对比，用LMSYS Chatbot Arena做盲测；开源阵营可体验Llama 3.1、Mistral Large等模型，了解非封闭生态的追赶速度。"
+ }
+}
