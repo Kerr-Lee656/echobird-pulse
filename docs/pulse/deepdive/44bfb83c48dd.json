@@ -1,0 +1,23 @@
+{
+ "id": "44bfb83c48dd",
+ "url": "https://arxiv.org/abs/2608.24046",
+ "title": "Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-26T04:00:00.000Z",
+ "fetched_at": "2026-08-26T07:13:08.126939+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 25 Aug 2026]\n    Title:Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment\nView PDF HTML (experimental)\n            Abstract:When an AI algorithm makes decisions that affect more than one person, aligning it becomes a problem of social choice: how should people's divergent preferences about system behavior be reconciled and aggregated into a single coherent model? The standard approach to aligning frontier AI models$\\unicode{x2013}$reinforcement learning from human feedback$\\unicode{x2013}$largely sidesteps this question and has poor social choice guarantees. However, it remains unclear what alternative should replace it. We show that, by focusing directly on an algorithm's welfare consequences, the alignment problem can be reformulated as linear optimization over a convex impact space, which makes it amenable to the standard toolkit of welfare economics and mechanism design. This reformulation clarifies how alignment protocols translate into welfare consequences and, conversely, how a social planner's desired constraints on welfare consequences can be translated back into alignment protocols. We apply this transformation to show that voting-by-issues and random-dictatorship mechanisms are strategyproof and unanimous. Demonstrating the reverse direction, we also apply the impact representation to derive a family of alignment protocols that maximize utilitarian social welfare subject to various social desiderata, such as bounds on individual or group harm. We illustrate the welfare implications of these alignment protocols empirically using real human preferences over kidney allocation, charitable food distribution, LLM responses, and trolley problems.\n    \nSubmission history\nFrom: Zachary Wojtowicz [view email]\n[v1] Tue, 25 Aug 2026 04:09:26 UTC (2,051 KB)\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "AI对齐实为社会选择问题，可用福利经济学优化求解。",
+  "background": "当AI模型影响多人时，对齐本质上是如何在冲突偏好之间取舍的社会选择问题。目前主流方法RLHF将人类反馈简单平均，忽略了偏好的多样性与公平性，缺乏机制设计上的保证。本文作者从算法对个体福利的实际影响出发，把对齐重新形式化为凸影响空间上的线性优化，从而将福利经济学和机制设计的成熟工具引入AI对齐。这为设计更公平、可验证的对齐协议提供了理论框架，并用多种真实人类偏好数据进行了实证检验。",
+  "key_points": [
+   "标准RLHF简单聚合人类反馈，缺少社会选择层面的公平性保证，可能导致偏好被扭曲。",
+   "本文将对齐问题转化为影响空间上的线性优化，使福利经济学和机制设计工具可以直接应用。",
+   "证明了投票式问题与随机独裁机制是策略证明且一致的，即用户无法谎报偏好获利，结果也满足民主原则。",
+   "反向应用影响表示，可设计出在限制个体或群体伤害的同时最大化总体福利的对齐协议族。",
+   "实验使用肾分配、食物捐赠、大模型回答和电车难题等真实偏好数据，验证了理论的有效性。"
+  ],
+  "impact": "对AI行业而言，提供了超越RLHF的理论指导，推动对齐从试错走向可论证的福利优化；对开发者，启发他们在训练和评估时显式考虑多方偏好与约束，而非简单求平均；对普通用户，意味着未来AI系统在群体决策时能更公平地权衡不同人的利益，减少被忽视或有偏见的反馈。总之，该研究让AI对齐更接近一个可设计、可审计的公共选择过程。",
+  "tools": "目前暂无直接开源代码，可关注论文作者主页或arXiv更新。理论方面建议学习福利经济学和机制设计经典文献；实践方面可尝试开源RLHF库如TRL（Transformer Reinforcement Library）或RLHF-Reward-Modeling，以对比本文提出的方法。"
+ }
+}

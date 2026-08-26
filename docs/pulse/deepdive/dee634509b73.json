@@ -1,0 +1,22 @@
+{
+ "id": "dee634509b73",
+ "url": "https://www.aibase.com/zh/news/30625",
+ "title": "机器人初创公司 Generalist 完成新一轮融资，估值达 30 亿美元",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-08-26T07:08:21.056972+00:00",
+ "content": "机器人初创公司\nGeneralist 由前谷歌 DeepMind 研究员 Pete Florence、Andy Zeng 以及前波士顿动力工程师 Andrew Barry 于2024年联合创立，早期曾获8VC、Radical Ventures、英伟达、Union Square Ventures、Bezos Expeditions 及知名 AI 研究员李飞飞等机构与个人的投资。\n该公司专注于研发可与各类机器人协同工作的 AI 基础模型。其最新发布的1.5代模型能够让机器人通过观看仅3到12秒的视频演示快速掌握全新任务。目前 Generalist 正在与少数客户合作，通过实际应用反馈调整模型以适配特定场景。\n当前机器人行业正在迎来针对通用任务的模型研发热潮。除 Generalist 外，估值110亿美元的 Physical Intelligence、估值140亿美元的 Skild AI 以及估值30亿美元的 Genesis AI 均在该赛道展开竞争。尽管资本热捧反映出投资者对机器人行业迎来“ChatGPT 时刻”的预期，但由于机器人无法直接使用全网数据进行训练，通用模型的技术突破与商业化落地仍需时日。",
+ "report": {
+  "summary": "Generalist 完成新一轮融资，估值30亿美元，专注机器人通用AI模型。",
+  "background": "Generalist 由前谷歌 DeepMind 研究员 Pete Florence、Andy Zeng 和前波士顿动力工程师 Andrew Barry 于2024年创立，早期获8VC、Radical Ventures、英伟达、贝索斯探险基金及李飞飞等投资。公司主打能与多种机器人协同工作的AI基础模型，其1.5代模型可通过3到12秒视频演示让机器人学会新任务。目前行业正掀起通用机器人模型热潮，Physical Intelligence、Skild AI、Genesis AI 等竞对估值更高。资本期待机器人“ChatGPT时刻”，但机器人无法直接用全网数据训练，技术突破和商业化仍需时间。",
+  "key_points": [
+   "Generalist 由 DeepMind 前研究员和波士顿动力前工程师联合创立，早期获得英伟达、贝索斯及李飞飞等明星资本支持。",
+   "最新1.5代模型仅需观看3到12秒演示视频，机器人就能掌握新任务，主打小样本快速泛化能力。",
+   "赛道竞争白热化：Physical Intelligence 估值110亿美元、Skild AI 140亿美元、Genesis AI 30亿美元，资本集体押注机器人基础模型。",
+   "机器人无法像大语言模型那样直接用互联网海量数据训练，通用模型在真实世界的数据获取与泛化仍是核心瓶颈。"
+  ],
+  "impact": "对AI行业而言，机器人基础模型成为继大语言模型后的新风口，吸引顶级人才和资本，有望推动具身智能加速发展。对开发者来说，这类模型可能降低机器人技能编程门槛，让“教”机器人看视频即可，但实际部署仍需大量调优。对普通用户，未来家政、陪伴等服务机器人有望更易适应个性化环境，但短期内产品化有限，更多是实验性落地。",
+  "tools": "可关注 Physical Intelligence 的 π0 模型、Skild AI 的机器人基础模型，以及英伟达 Isaac 机器人平台。开源方向可留意 Google 的 RT-X 与 Hugging Face 的 LeRobot 项目，便于上手机器人操控与模仿学习实验。"
+ }
+}

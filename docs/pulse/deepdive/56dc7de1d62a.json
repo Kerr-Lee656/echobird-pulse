@@ -1,0 +1,23 @@
+{
+ "id": "56dc7de1d62a",
+ "url": "https://arxiv.org/abs/2608.24069",
+ "title": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-26T04:00:00.000Z",
+ "fetched_at": "2026-08-26T07:13:25.579585+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 25 Aug 2026]\n    Title:Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems\nView PDF HTML (experimental)\n            Abstract:LLM-based multi-agent trading systems, in which specialized agents collaborate through structured communication to produce trading decisions, are moving rapidly from research prototypes to live deployments that control real assets. The same inter-agent communication that makes them effective also exposes them: a corrupted signal can propagate to the final decision and translate into realized financial loss. Unlike prior attacks that presume privileged access to system internals, we restrict the adversary to what is practically reachable---the source data and prompts agents consume---yielding a low-barrier, and thus democratized threat model instantiated as role-specific adversaries.\nWe present the first systematic empirical study in the financial domain to characterize how an adversarial signal enters a multi-agent trading system and how far it survives toward the decision. Along the role axis, we decompose a widely-used trading pipeline into four functional roles---Analyst, Researcher, Trader, and Risk Manager---and pair each with an attack matched to its interface. Along the structural axis, we evaluate four communication topologies under data- and agent-level attacks, using the Adversarial Signal Preservation Score (APS) as a post-hoc lens on why some designs are more robust than others. We conduct experiments across five assets, two backbones, and two target directions. A central finding is that no architecture is inherently robust. These findings provide insights for the future design of safer and more robust agentic trading systems.\nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "论文揭示LLM多智能体交易系统易受投毒攻击，且无架构天然免疫。",
+  "background": "LLM多智能体交易系统由分析师、研究员、交易员等角色通过结构化通信协作产生决策，正从研究走向控制真实资产的部署。但智能体间的通信也成攻击面：被污染的信号可沿链路传播至最终决策，造成直接财务损失。以往攻击被要求具备系统内部特权，本文则将威胁模型降维至攻击者仅需操纵源数据或提示，提出角色级对手，并在金融领域首次系统研究攻击如何进入及存续。",
+  "key_points": [
+   "攻击门槛极低：攻击者只需控制训练数据、市场数据或提示语，无需系统内部权限，任何人都可尝试。",
+   "角色各有弱点：分析师、研究员、交易员、风险经理四个职能分别对应数据投毒、逻辑误导、决策干扰等不同攻击面。",
+   "四种通信拓扑均不免疫：链式、星形、图状等架构在数据投毒下都出现信号传播，没有架构具备本质鲁棒性。",
+   "毁伤直达决策：被污染信号可穿透多层智能体，最终影响买卖方向与仓位，造成真实交易亏损。",
+   "度量方式创新：提出的APS评分可事后衡量攻击信号保留程度，帮助解释为何某些设计看似更稳实则脆弱。"
+  ],
+  "impact": "对AI行业而言，该研究警示多智能体系统的安全评估不能只看单智能体能力，需考虑跨角色信息流。开发者应构建输入验证、异常通信检测和冗余决策机制，避免直接信任非结构化数据。普通用户需认清自动化交易并非“稳赚”，尤其在数据来源不可控时更易被操纵，同时监管机构也应关注此类新型市场操纵风险。",
+  "tools": "可关注该论文配套代码与APS评估脚本；安全测试可借助IBM ART（Adversarial Robustness Toolbox）、微软PyRIT，或garak等LLM漏洞扫描框架；开发可用LangChain/LangGraph模拟不同多智能体拓扑，复现攻击路径。"
+ }
+}

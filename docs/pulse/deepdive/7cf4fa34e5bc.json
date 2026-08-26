@@ -1,0 +1,23 @@
+{
+ "id": "7cf4fa34e5bc",
+ "url": "https://www.aibase.com/news/30624",
+ "title": "消息称OpenAI 秘密预训练 Bel 模型：超 10T 参数，剑指 GPT-6 后 AGI 基座",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-26T02:55:54.916Z",
+ "fetched_at": "2026-08-26T07:09:09.204236+00:00",
+ "content": "Message source @synthwavedd broke the news on the X platform that OpenAI has completed the pre-training of its next-generation model Bel, the direct successor to the internal code name Doug, with a total parameter count exceeding 10T. Reports say OpenAI hopes to build Bel as the foundational model after GPT-6, and even challenge the threshold of Artificial General Intelligence (AGI).\nAGI refers to a hypothetical system that can learn, understand, and perform any intellectual task like a human, unlike narrow AI which can only handle specific tasks. It has the ability to generalize across domains, reason, and adapt to unknown environments through self-learning.\nThe leak states that OpenAI believes in the face of the upcoming Astra, Anthropic is limited by computational power and has no impressive response plan. The latter has already prepared themselves for the situation to favor the opponent in the remaining time, but they believe they can regain the leading position early next year.",
+ "report": {
+  "summary": "OpenAI秘密预训练超10T参数模型Bel，瞄准GPT-6后AGI基座。",
+  "background": "据外媒爆料，OpenAI已完成下一代模型Bel的预训练，其参数规模超过10T，直接继承内部代号Doug的模型。OpenAI希望将Bel打造为GPT-6之后的基础模型，甚至挑战AGI。这一消息反映出全球AI竞赛的激烈程度：OpenAI与Anthropic等头部玩家的技术博弈不断升级。尽管消息源为X平台用户，未经官方证实，但已引发行业对万亿参数模型和AGI路径的广泛讨论。Anthropic或因算力限制面临短期劣势，但据称正计划明年初重夺领先地位。",
+  "key_points": [
+   "史无前例的规模：Bel参数超10T，远超现有主流模型，训练成本或达数十亿美元，但推理成本极高，实际部署面临挑战。",
+   "定位GPT-6后基座：OpenAI将Bel作为下一代核心模型，可能整合多模态、推理和规划能力，成为AGI研究的基础平台。",
+   "直接冲击AGI目标：OpenAI试图通过超大规模模型逼近AGI，但AGI定义仍存争议，科学界对纯算力路线普遍持谨慎态度。",
+   "加剧与Anthropic竞争：爆料称Anthropic因算力不足暂无应对方案，但其预期明年初可反超，显示两大阵营的攻防节奏。",
+   "消息存疑：来源为社交平台用户，无内部文件佐证，需警惕炒作成分或信息混淆，官方未作任何回应。"
+  ],
+  "impact": "对AI行业而言，若Bel属实，将再次抬高模型规模的天花板，推动算力基础设施升级，同时加剧头部玩家之间的人才和资源争夺。对开发者来说，未来可能通过更强大的API获取高级能力，但也面临被大模型生态绑定的风险，需同时关注开源替代方案。对普通用户，智能助手等产品体验有望跃升，但超大规模模型带来的能源消耗、隐私与AGI安全伦理问题也将更受关注。",
+  "tools": "若想跟进大规模模型预训练技术，可关注DeepSpeed、Megatron-LM等分布式训练框架；推理优化可看vLLM、TensorRT-LLM。开源模型方面，可跟进LLaMA-3、Mistral或Qwen系列，了解当前较低成本方案的边界。Hugging Face Transformers是上手基础工具的入口。"
+ }
+}

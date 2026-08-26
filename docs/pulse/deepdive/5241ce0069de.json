@@ -1,0 +1,23 @@
+{
+ "id": "5241ce0069de",
+ "url": "https://www.aibase.com/news/30630",
+ "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-26T04:29:06.181Z",
+ "fetched_at": "2026-08-26T07:08:30.040282+00:00",
+ "content": "Apple recently officially announced the new Mac Studio and Mac mini equipped with the newly released M6 and M5 Ultra chips, marking a historic leap in desktop hardware and local artificial intelligence computing power.\nAs the core highlight of this product lineup, the M6 is Apple's first self-developed chip using 2-nanometer process technology. In terms of architecture design, it features a more powerful CPU with 12 cores and a 12-core GPU, and for the first time, it introduces two 16-core neural engines (Neural Engine). According to official data and test results, when running large language models (LLMs) in LM Studio, the Mac mini equipped with the M6 chip demonstrates terrifying performance superiority in prompt processing speed, showing a 13.5 times increase compared to the early M1 version, and a 4.8 times leap compared to the previous generation M4 version. In addition, the Mac mini (M5 Pro) presented at the same time also performs impressively, with LLM prompt processing performance 8.5 times faster than M2 Pro and 4 times faster than M4 Pro.\nFor professional and heavy AI workloads, Apple has introduced the most powerful chip in its history — M5 Ultra. This chip uses the next-generation UltraFusion technology to achieve a \"four-Die\" (four-chip packaging) architecture for the first time in the M-series system-on-chip (SoC). In terms of specific configuration, the M5 Ultra can have up to 36-core CPU and 80-core GPU, and it also features a unified memory bandwidth of up to 1.2TB/s, which is 50% higher than that of the previous generation M3 Ultra.\nFrom the trend of large model applications on the edge, the collective surge in hardware computing power not only provides powerful local reasoning support for professional developers but also allows desktop devices to completely free themselves from excessive dependence on the cloud when handling large AI tasks, marking the official entry of personal computers into a new era of edge-side large model computing power.",
+ "report": {
+  "summary": "苹果发布M6与M5 Ultra芯片，2纳米工艺和四Die架构大幅提升边缘AI算力。",
+  "background": "苹果持续强化桌面设备的本地AI能力。此次发布的M6是首款采用2纳米制程的自研芯片，配合双神经引擎，显著加速大模型推理；同时M5 Ultra通过四芯片封装技术，将统一内存带宽提升至1.2TB/s，瞄准专业级AI负载。这标志着个人电脑正从云端依赖转向端侧大模型计算，各产品线性能对比前代均有数倍跃升。",
+  "key_points": [
+   "M6芯片采用2纳米工艺，12核CPU+12核GPU，并首次集成双16核神经引擎，专攻AI推理加速。",
+   "在LM Studio中，M6版Mac mini的大模型提示处理速度比M1快13.5倍，比M4快4.8倍，性能飞跃明显。",
+   "M5 Ultra首次实现M系列四芯片封装（四Die），最高36核CPU、80核GPU，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
+   "M5 Pro同样升级，LLM提示处理速度比M2 Pro快8.5倍、比M4 Pro快4倍，覆盖中高端桌面场景。",
+   "苹果以全系芯片性能暴涨推动边缘大模型计算，使桌面设备在AI任务上大幅减少云端依赖。"
+  ],
+  "impact": "对AI行业而言，桌面端本地推理能力大幅增强，可降低云端算力成本并提升数据隐私性。开发者能更高效地在本地运行和调试大模型，加速AI应用原型开发。普通用户则可在Mac上流畅使用大模型应用，享受低延迟、离线可用的智能体验，推动端侧AI生态成熟。",
+  "tools": "可关注LM Studio用于本地跑大模型，以及Apple的MLX框架和Core ML工具，用于优化和部署模型到新芯片。"
+ }
+}
