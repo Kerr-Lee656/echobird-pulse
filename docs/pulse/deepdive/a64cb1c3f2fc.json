@@ -1,0 +1,24 @@
+{
+ "id": "a64cb1c3f2fc",
+ "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
+ "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-26T20:01:09.411621+00:00",
+ "content": "Bill Gates posted a long essay to his Gates Notes site today, showing just how much the Microsoft co-founder has been thinking about the social impacts of AI.\nGates is mostly in the Responsible AI camp, arguing that Pacing the Frontier, the open letter published by AI employees pushing for an AI slowdown, would be a good idea, but expressing skepticism that it would be sustainable.\nHe also expressed excitement about AI’s benefits to science and healthcare, but worried about the labor impacts — all pretty familiar stuff if you follow Anthropic’s policy work.\nBut there were a few genuinely new ideas that could change the conversation if they take off. For starters, he proposes a “robot tax”:\nRight now, if you’re an employer and you hire someone, you pay payroll taxes on their earnings. But if you buy a robot, you can usually write it off right away as a business expense. The tax system nudges you toward replacing people with machines. \nA tax would slow the rush away from human labor a little and raise money for retraining and a stronger safety net.\nHe also proposes setting aside certain jobs as “Human Reserved,” essentially barring AI from being used in certain tasks. It’s an interesting idea, and one that would be easy for policy-makers to enact:\nWe might set something aside as Human Reserved for economic reasons. For example, we may do it because allowing machines to take over a certain role will displace a large number of people who can’t easily change jobs. You can’t tell a 55-year-old who has worked in construction their whole career that they need to go work at an elder care facility and expect them to find it fulfilling. \nSometimes the decision to make something Human Reserved will be driven by other factors. In health, for example, imagine a robot giving you the awful news that you have an incurable disease. There’s no technical reason why it couldn’t. Yet it shouldn’t.\nThe Human Reserved domain will evolve over time — for example, we should consider setting aside some jobs now and phasing in AI slowly over years or decades with a commitment to preserve some jobs.\nWe should also note that both ideas would put a pretty serious dent in the profits of the major labs, which may be why we haven’t heard much about them until now.\nIn addition, there are still a lot of unanswered questions about who exactly would set these rules and what exactly the rules would say, if they were to be rolled out.",
+ "report": {
+  "summary": "盖茨提议征收机器人税并设立“人类保留”岗位以缓解AI冲击。",
+  "background": "比尔·盖茨在Gates Notes发布长文，讨论AI的社会影响。他认同“放缓AI”的公开信，但怀疑其可持续性。盖茨关注AI对科学和医疗的益处，同时担忧劳动力市场冲击。他提出两项新政策建议：机器人税和“人类保留”岗位，旨在减缓自动化替代人类劳动的速度，并为再培训和安全网提供资金。这些想法直指AI利益分配问题，但也可能影响大型实验室的利润。",
+  "key_points": [
+   "机器人税：目前雇人需缴工资税，但购买机器人可抵税，制度偏向机器替代人。征税可减缓替代速度，并筹集再培训资金。",
+   "人类保留岗位：将某些工作设为AI禁用，例如建筑工人转岗困难，或由机器人告知绝症消息缺乏人性关怀。",
+   "逐步演进：人类保留领域应随时间调整，可先保留部分岗位，再花数十年缓慢引入AI。",
+   "利润冲突：这类政策会显著削减大型AI实验室的利润，因此此前主流讨论鲜有提及。",
+   "规则未定：由谁制定规则、具体内容如何，目前尚无明确答案。"
+  ],
+  "impact": "对AI行业，机器人税会增加自动化成本，可能减缓部署速度，但倒逼企业更重视社会伦理。开发者需要关注政策合规，并在设计时预留人类岗位接口。普通用户方面，就业保护和安全网能缓解转型阵痛，但政策落地仍需博弈，短期内AI岗位替代仍会加速。",
+  "tools": "可关注Gates Notes原文及Anthropic的负责任扩展政策（Responsible Scaling Policy），以及OpenAI的治理研究项目。开源工具如AI Fairness 360有助于评估算法公平性。"
+ },
+ "lang": "zh"
+}
