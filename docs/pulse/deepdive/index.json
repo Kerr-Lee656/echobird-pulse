@@ -6856,5 +6856,122 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-26T04:00:00.000Z",
   "fetched_at": "2026-08-26T07:13:25.579585+00:00"
+ },
+ "cd28f80ff3fd": {
+  "id": "cd28f80ff3fd",
+  "url": "https://aiera.com.cn/2026/08/26/other/admin/110619/claude%e4%b8%a4%e4%b8%aa%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%ae%9e%e6%b5%8b%e6%b5%81%e5%87%ba%ef%bc%81%e7%a9%ba%e9%97%b4%e6%8e%a8%e7%90%86%e5%b0%81%e7%a5%9e%ef%bc%8c%e7%ae%97%e5%8a%9b%e7%9b%b4%e6%8e%a5",
+  "title": "Claude两个新模型实测流出！空间推理封神，算力直接榨干了",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-26T00:38:50.948Z",
+  "fetched_at": "2026-08-26T09:01:12.149652+00:00"
+ },
+ "9af53dc3e0be": {
+  "id": "9af53dc3e0be",
+  "url": "https://www.aibase.com/news/30631",
+  "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-26T06:28:56.271Z",
+  "fetched_at": "2026-08-26T09:01:25.604375+00:00"
+ },
+ "d5fd7c5d262e": {
+  "id": "d5fd7c5d262e",
+  "url": "https://www.ithome.com/0/994/517.htm",
+  "title": "占 16 字节：曝微软 Win11 画图 / 照片向 AI 生图嵌入 128-bit 隐藏标识符",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T06:08:03Z",
+  "fetched_at": "2026-08-26T09:01:38.182874+00:00"
+ },
+ "3d3e4353ef9d": {
+  "id": "3d3e4353ef9d",
+  "url": "https://www.aibase.com/zh/news/30621",
+  "title": "苹果新 Mac 全线升级：M6 芯片与 M5 Ultra 登场，主打本地 AI 算力",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T09:01:50.880330+00:00"
+ },
+ "754b3ee6ca67": {
+  "id": "754b3ee6ca67",
+  "url": "https://www.aibase.com/zh/news/30623",
+  "title": "国产航天垂直大模型「华山」完成在轨实测验证",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T09:02:07.802456+00:00"
+ },
+ "5e54bf36a4a7": {
+  "id": "5e54bf36a4a7",
+  "url": "https://www.aibase.com/zh/news/30614",
+  "title": "谷歌杀入法律 AI：Gemini Enterprise 推出专用法律工具，剑指律所赛道",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T09:02:20.130303+00:00"
+ },
+ "a69c9a3424a7": {
+  "id": "a69c9a3424a7",
+  "url": "https://www.aibase.com/zh/news/30613",
+  "title": "Stability AI 完成 7600 万美元 B 轮融资，索尼与环球音乐等巨头参投",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T09:02:37.791410+00:00"
+ },
+ "7de9943f8546": {
+  "id": "7de9943f8546",
+  "url": "https://www.aibase.com/news/30622",
+  "title": "英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-26T02:55:54.916Z",
+  "fetched_at": "2026-08-26T09:02:50.588782+00:00"
+ },
+ "626a5e4fcb23": {
+  "id": "626a5e4fcb23",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "title": "TauricResearch/TradingAgents — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-26T09:04:03.367521+00:00"
+ },
+ "19637493f6c5": {
+  "id": "19637493f6c5",
+  "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+  "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T08:32:34Z",
+  "fetched_at": "2026-08-26T09:04:12.596806+00:00"
+ },
+ "be7f6a7890f6": {
+  "id": "be7f6a7890f6",
+  "url": "https://www.cyera.com/research/nemoclaw-one-website-visit-to-hijack-your-ai-agent",
+  "title": "Drive-By Agent Hijacking: One Website Visit, Persistent Model Poisoning",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T08:17:58Z",
+  "fetched_at": "2026-08-26T09:04:22.839758+00:00"
+ },
+ "add8adcb25c2": {
+  "id": "add8adcb25c2",
+  "url": "https://www.ithome.com/0/993/865.htm",
+  "title": "ByteDance Launches AI Office Product \"Doubao Work\"",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T07:48:50Z",
+  "fetched_at": "2026-08-26T09:04:33.783870+00:00"
+ },
+ "45380a0d827c": {
+  "id": "45380a0d827c",
+  "url": "https://arxiv.org/abs/2608.14614",
+  "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T06:36:19Z",
+  "fetched_at": "2026-08-26T09:04:47.839845+00:00"
  }
 }

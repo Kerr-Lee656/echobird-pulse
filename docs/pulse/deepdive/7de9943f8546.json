@@ -1,0 +1,22 @@
+{
+ "id": "7de9943f8546",
+ "url": "https://www.aibase.com/news/30622",
+ "title": "英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-26T02:55:54.916Z",
+ "fetched_at": "2026-08-26T09:02:50.588782+00:00",
+ "content": "According to reports, NVIDIA is investing 6 billion dollars to build one of the most powerful open-source artificial intelligence models in the world. According to the Wall Street Journal, NVIDIA will obtain a technology license from Poolside and allocate more than 100 employees to the Nemotron project.\nIn addition, NVIDIA will make an additional 1 billion dollar investment in Poolside, which has a pre-investment valuation of 12 billion dollars. Its goal is to challenge leading Chinese open-source AI companies such as DeepSeek and Kimi, while directly competing with U.S. cutting-edge labs like OpenAI and Anthropic. Open source is seen as an important direction for future development, and NVIDIA's move further highlights its strategic investment in the field of open-source models.",
+ "report": {
+  "summary": "英伟达联手Poolside投资60亿美元打造开源AI模型，剑指DeepSeek和OpenAI。",
+  "background": "随着开源AI模型迅速崛起，DeepSeek、Kimi等中国模型在性能和开放性上屡创佳绩，给闭源巨头OpenAI、Anthropic带来压力。英伟达此前已推出Nemotron系列开源模型，但声量有限。此次联手AI创企Poolside，获得其技术许可并追加投资，旨在整合双方优势，构建世界级开源模型。这标志着英伟达从硬件霸主向AI模型层深度渗透，开源生态正成为全球AI竞争的新焦点。",
+  "key_points": [
+   "英伟达将投入60亿美元并从Poolside获得技术许可，动用超100名员工专注Nemotron项目，规模空前。",
+   "英伟达向Poolside追加10亿美元投资，Poolside投前估值达120亿美元，双方绑定加深。",
+   "目标直指DeepSeek、Kimi等中国开源模型，也正面挑战OpenAI、Anthropic等前沿闭源实验室。",
+   "此举凸显开源AI被视为未来关键方向，硬件巨头正通过资本和技术介入重塑行业格局。"
+  ],
+  "impact": "对AI行业而言，开源与闭源竞争将白热化，推动模型能力快速提升，同时改变英伟达作为“卖铲人”的中立角色。对开发者，可期待更多高性能开源模型，但需面对生态碎片化和算力依赖。对普通用户，开源竞争可能带来更丰富、更低成本的AI应用，但短期内前沿能力仍集中在少数巨头手中。整体看，这轮军备竞赛将加速AI民主化进程。",
+  "tools": "建议关注NVIDIA Nemotron系列在Hugging Face上的开源版本；可试用Poolside的代码生成模型；同时关注DeepSeek和Kimi的开源项目，用Ollama或vLLM进行本地部署测试，对比性能。"
+ }
+}

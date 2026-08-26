@@ -1,0 +1,23 @@
+{
+ "id": "45380a0d827c",
+ "url": "https://arxiv.org/abs/2608.14614",
+ "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-26T06:36:19Z",
+ "fetched_at": "2026-08-26T09:04:47.839845+00:00",
+ "content": "Computer Science > Machine Learning\n  [Submitted on 10 Jul 2026]\n    Title:DumpsterCluster: From Dumpster Diving to Serving LLaMA-70B on $60 GPUs\nView PDF HTML (experimental)\n            Abstract:As AI datacenters retire functional GPUs, vast quantities of still capable accelerators enter secondary markets. This paper investigates whether these retired GPUs can find a productive afterlife to form a DumpsterCluster that can serve modern LLM inference, and under what conditions such repurposing is economically viable and environmentally sustainable. We physically built a 128-GPU DumpsterCluster from scratch using only second-hand components and ran it for one year. At current market prices (\\$22K for the DumpsterCluster vs. \\$600K for an 8-GPU B200 system), the economic advantages are substantial. Through pipeline-parallel optimizations, our V100 based DumpsterCluster achieves competitive LLaMA-70B throughput, validating production viability. However, our deployment reveals critical context dependencies. Older GPUs consume significantly more energy per token, making total cost of ownership favorable only in regions with inexpensive electricity. Under grid-average carbon intensity, second-hand systems can produce approximately 4x higher total carbon emissions per token for 8B models, and over 40x for 70B models, compared to current-generation hardware. These findings show that GPU afterlife is not universally sustainable - hardware repurposing must be strategically coupled with low carbon energy sources. When deployed in regions with favourable energy economics and clean electricity, second-hand GPUs offer a viable pathway for expanding AI capacity while advancing affordability, energy security, and environmental responsibility.\n    \nCurrent browse context:\ncs.LG\n  \n    References & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          \n              IArxiv Recommender\n              (What is IArxiv?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "研究二手GPU构建集群服务LLaMA-70B的经济性与可持续性",
+  "background": "AI算力需求激增，数据中心频繁更换GPU，大量退役但仍可用的加速器流入二手市场。作者从垃圾堆中回收零件，自建128-GPU集群并运行一年，测试其能否承担LLM推理任务。研究背景是高端GPU价格昂贵，小团队和初创公司难以负担，同时电子垃圾问题日益严重。这项研究试图回答：二手GPU能否成为廉价算力来源，以及其经济成本和环境代价是否可控。",
+  "key_points": [
+   "作者用二手组件搭建128-GPU V100集群，总成本仅2.2万美元，而8卡B200系统需60万美元，成本优势显著。",
+   "通过流水线并行优化，V100集群可服务LLaMA-70B，吞吐量接近现代硬件，证明二手硬件在生产环境可用。",
+   "但老GPU每token功耗更高，总拥有成本仅在电价低廉地区才有利，需结合当地能源成本进行决策。",
+   "碳排放方面，二手系统在平均电网碳强度下，8B模型每token碳排放约为新硬件4倍，70B模型超40倍，环境代价大。",
+   "结论：GPU“来世”并非普遍可持续，必须与低碳能源结合，才能兼顾性价比与环保责任。"
+  ],
+  "impact": "对AI行业而言，该研究提供了低成本扩展算力的新路径，尤其适合预算有限的科研机构；但警示企业不能只贪图硬件便宜而忽视能源与碳排放成本。对开发者来说，二手GPU集群降低了实验门槛，可更灵活地测试大型模型。对普通用户，AI服务可能因算力成本下降而变得更便宜，但若使用高碳电力，长期环境负担将加剧，需要平衡价格与可持续性。",
+  "tools": "可关注vLLM和Ray Serve等推理服务框架，用于在异构GPU集群上部署LLM；Hugging Face Transformers帮助模型加载与并行；NVIDIA NGC容器和CUDA生态可提升二手GPU的兼容性。建议结合Green Algorithms等工具估算碳排放，优化能源策略。"
+ }
+}
