@@ -115,5 +115,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T11:27:39Z",
   "fetched_at": "2026-08-26T15:08:43.922891+00:00"
+ },
+ "626a5e4fcb23": {
+  "id": "626a5e4fcb23",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "title": "TauricResearch/TradingAgents — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-26T17:02:32.094955+00:00"
+ },
+ "4d1450729e6f": {
+  "id": "4d1450729e6f",
+  "url": "https://github.com/apache/maka",
+  "title": "apache/maka — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-26T17:02:45.148462+00:00"
+ },
+ "14fe8b996dca": {
+  "id": "14fe8b996dca",
+  "url": "https://github.com/janhq/jan",
+  "title": "janhq/jan — Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-26T17:02:57.187323+00:00"
+ },
+ "db75d4703225": {
+  "id": "db75d4703225",
+  "url": "https://github.com/genkit-ai/genkit",
+  "title": "genkit-ai/genkit — Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-26T17:03:12.860713+00:00"
+ },
+ "a08afaa58eb8": {
+  "id": "a08afaa58eb8",
+  "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+  "title": "Bill Gates warns 'there is no plan' for the 'upheaval' AI will cause",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T16:51:18Z",
+  "fetched_at": "2026-08-26T17:03:24.079547+00:00"
+ },
+ "6a1bf7ad225a": {
+  "id": "6a1bf7ad225a",
+  "url": "https://waymo.com/blog/2026/08/10ailessons/",
+  "title": "AI Lessons from Driving 200M Autonomous Miles",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T16:46:33Z",
+  "fetched_at": "2026-08-26T17:03:57.656804+00:00"
+ },
+ "743bd5be09cf": {
+  "id": "743bd5be09cf",
+  "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
+  "title": "Inside The Warehouse Where Amazon Scans and Destroys Books for AI Training",
+  "source": "Hacker News (9pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T14:30:56Z",
+  "fetched_at": "2026-08-26T17:05:06.777177+00:00"
  }
 }

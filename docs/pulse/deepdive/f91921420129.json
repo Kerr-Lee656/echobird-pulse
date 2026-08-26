@@ -1,0 +1,24 @@
+{
+ "id": "f91921420129",
+ "url": "https://www.ithome.com/0/994/765.htm",
+ "title": "Ox Alpha 现身：智谱开源 GLM-5.3-Flash 原生多模态模型，限时折扣价为 GLM-5.3 的 1/20",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-26T14:21:30Z",
+ "fetched_at": "2026-08-26T16:58:50.243348+00:00",
+ "content": "IT之家 8 月 26 日消息，智谱今晚上线并开源 GLM-5.3-Flash (320B-A18B)，这是 GLM-5 系列的首个原生多模态模型。该模型总参数量为 320B（3200 亿），激活参数仅 18B（180 亿）。\n智谱在正式发布前，以匿名模型 Ox-Alpha（中文社区称作牛来）在 OpenCode 和 OpenRouter 上进行了大规模测试。Ox-Alpha 迅速成为当周最受欢迎的模型，创下双平台调用量新高。而这些请求流量全部由国产芯片提供算力支持。\nGLM-5.3-Flash 能力超过 GLM-5.2，在全球权威的 Artificial Analysis Intelligence Index（AA 综合智能指数）中取得 57 分，进入全球前沿模型能力区间，与 Anthropic 最受欢迎的模型 Claude Opus 4.8 得分持平。在自研 Z.ai Code Bench 体感评估中，其编程表现与 Claude Opus 4.8 相当。\n与此同时，GLM-5.3-Flash 定价为 GLM-5.3 的 1/10，限时折扣内为 GLM-5.3 的 1/20，为 Opus 4.8 的 1/40。\n官方表示，GLM-5.3-Flash 在各项基准测试和实际使用中，全面超越参数量高出一倍的 GLM-5.2，定价却仅为后者的 1/10。\n据介绍，这得益于其全新模型架构。GLM-5.3-Flash 的架构专为极低成本而设计，总参数量与 GLM-4.5 相当（355B vs. 320B），但激活参数量（32B → 18B）与层数（92 → 45）几乎减半。结合最新的 30T Token 多模态预训练语料，GLM-5.3-Flash 能够以更少的计算资源实现更强的性能。\nGLM-5.3-Flash 同时进行了多项架构升级，是首个采用稀疏注意力与线性注意力混合架构的开源前沿模型，在保持精准长上下文能力的同时，大幅降低长上下文服务成本；并采用流形约束超连接（Manifold-Constrained Hyper-Connections，mHC）提升模型 Scaling 能力。\n官方表示，GLM-5.3-Flash 视觉能力被原生融入 Coding 循环，使模型能够主动观察界面、渲染结果与交互反馈，并据此持续测试和改进。无论是前端开发、游戏构建、Blender 3D 场景，还是 BUA、CUA 驱动的真实环境操作，模型都能在代码、浏览器和图形界面之间协同完成任务。\nGLM-5.3-Flash 进一步拓展至 Office、金融研究和专业文档等工作场景。它能够自主拆解复杂目标、调用合适工具、检查并优化输出，完成从研究分析、模型构建到 PPTX、PDF、DOCX、XLSX 成品交付的完整工作流。\nGLM-5.3-Flash 正式面向全球开源，已接入 ZCode 等编码平台，并纳入 GLM Coding Plan（每天限量发放 10,000 张体验卡），同步开放 API 调用。\n此外，GLM Coding Plan 全员额度已重置，所有用户后台「用量统计」可见使用额度回满。\nIT之家附相关链接：\n- BigModel 开放平台：https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5.3-flash\n- Z.ai：https://docs.z.ai/guides/vlm/glm-5.3-flash\n- GLM Coding Plan：https://bigmodel.cn/glm-coding\n- HuggingFace：https://huggingface.co/zai-org/GLM-5.3-Flash\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+ "report": {
+  "summary": "智谱开源GLM-5.3-Flash原生多模态模型，性能对标Claude Opus 4.8，价格仅为1/40。",
+  "background": "智谱于8月26日发布并开源GLM-5.3-Flash，这是GLM-5系列首个原生多模态模型。发布前以匿名模型Ox-Alpha在OpenCode和OpenRouter上测试，迅速成为当周最受欢迎模型，且算力全部由国产芯片支撑。该模型采用总参数320B、激活18B的稀疏架构，结合30T Token多模态语料，以极低成本实现性能跃升。此次开源延续了智谱在国产大模型领域的高频迭代策略，意在通过价格战和技术创新抢占全球市场份额，尤其对标Anthropic等国际头部厂商。",
+  "key_points": [
+   "GLM-5.3-Flash采用320B总参数、18B激活参数的混合架构，首次将稀疏注意力和线性注意力结合，长上下文成本大幅降低。",
+   "在AA综合智能指数获57分，与Claude Opus 4.8持平；编程表现在Z.ai Code Bench中同样对标Opus 4.8，全面超越GLM-5.2。",
+   "定价为GLM-5.3的1/10，限时折扣至1/20，仅为Opus 4.8的1/40，主打极致性价比。",
+   "视觉能力原生融入编码循环，可观察界面、渲染结果并交互反馈，支持前端、游戏、3D场景及办公自动化工作流。",
+   "模型已全面开源，接入ZCode平台并纳入GLM Coding Plan，每天限量发放10000张体验卡，同步开放API。"
+  ],
+  "impact": "对AI行业而言，智谱以低价高性能模型冲击市场，可能引发新一轮价格战，并验证国产芯片支撑前沿模型的可行性。对开发者，开源的320B稀疏模型降低了推理成本，便于在长上下文和多模态场景中构建应用，但需适应混合注意力架构的部署细节。对普通用户，更低的API价格和办公自动化能力将加速AI工具在日常工作流中的普及，但需注意限量体验卡可能带来的排队问题。",
+  "tools": "开发者可关注HuggingFace上的GLM-5.3-Flash权重，通过BigModel开放平台或Z.ai申请API调用；体验GLM Coding Plan获取每日体验卡。相关工具包括ZCode编码平台、OpenRouter匿名测试渠道，以及用于长上下文服务的稀疏注意力推理框架（如vLLM、SGLang）需及时适配。"
+ },
+ "lang": "zh"
+}

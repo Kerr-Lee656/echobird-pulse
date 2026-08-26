@@ -7144,5 +7144,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-26T10:23:42Z",
   "fetched_at": "2026-08-26T15:03:42.379158+00:00"
+ },
+ "fb586a988ac8": {
+  "id": "fb586a988ac8",
+  "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+  "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T16:58:21.922001+00:00"
+ },
+ "63350b0fa253": {
+  "id": "63350b0fa253",
+  "url": "https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription",
+  "title": "Meta plans to launch its OpenClaw rival, Hatch, within weeks",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T16:58:33.095870+00:00"
+ },
+ "00a24573d3ca": {
+  "id": "00a24573d3ca",
+  "url": "https://thenextweb.com/news/ox-alpha-zhipu-glm-open-weights-censorship-fingerprint",
+  "title": "The stealth model that beat DeepSeek belongs to Zhipu",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T16:58:41.375248+00:00"
+ },
+ "f91921420129": {
+  "id": "f91921420129",
+  "url": "https://www.ithome.com/0/994/765.htm",
+  "title": "Ox Alpha 现身：智谱开源 GLM-5.3-Flash 原生多模态模型，限时折扣价为 GLM-5.3 的 1/20",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T14:21:30Z",
+  "fetched_at": "2026-08-26T16:58:50.243348+00:00"
+ },
+ "ca46ab1fb205": {
+  "id": "ca46ab1fb205",
+  "url": "https://www.ithome.com/0/994/761.htm",
+  "title": "科学家以 AI 解码 60 亿 DNA 碱基“密码”，“起始子”研究取得突破",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T14:12:50Z",
+  "fetched_at": "2026-08-26T16:58:58.482559+00:00"
  }
 }
