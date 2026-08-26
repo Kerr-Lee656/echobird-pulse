@@ -25,5 +25,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T20:21:15Z",
   "fetched_at": "2026-08-26T12:47:05.433058+00:00"
+ },
+ "30408fcb3ffa": {
+  "id": "30408fcb3ffa",
+  "url": "https://nameocean.net/article/the-missing-piece-in-ai-agent-policy-how-well-knownagent-policyjson-could-change-web-automation/",
+  "title": "The Missing Piece in AI Agent Policy: can your bot make an account?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T13:12:27Z",
+  "fetched_at": "2026-08-26T13:19:51.886934+00:00"
+ },
+ "16269cb03eb1": {
+  "id": "16269cb03eb1",
+  "url": "https://aihot.virxact.com/items/cmta2x13k03t3rolwmr6pzc67",
+  "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+  "source": "@Alibaba_Qwen",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-26T12:34:01.000Z",
+  "fetched_at": "2026-08-26T13:21:44.870082+00:00"
+ },
+ "736c2f98ab12": {
+  "id": "736c2f98ab12",
+  "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "title": "Is it legal to train AI models on copyrighted books?",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T12:29:41Z",
+  "fetched_at": "2026-08-26T13:24:06.387319+00:00"
+ },
+ "fb586a988ac8": {
+  "id": "fb586a988ac8",
+  "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+  "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+  "source": "Hacker News (35pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T12:11:19Z",
+  "fetched_at": "2026-08-26T13:24:29.855318+00:00"
+ },
+ "c7ea416884a4": {
+  "id": "c7ea416884a4",
+  "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
+  "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
+  "source": "Hacker News (9pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T11:24:38Z",
+  "fetched_at": "2026-08-26T13:25:30.697580+00:00"
+ },
+ "55e2afb929d7": {
+  "id": "55e2afb929d7",
+  "url": "https://arxiv.org/abs/2608.22153",
+  "title": "Quantifying AI data center nitrogen oxide (NOx) emissions from space",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T11:02:11Z",
+  "fetched_at": "2026-08-26T13:25:49.188993+00:00"
  }
 }

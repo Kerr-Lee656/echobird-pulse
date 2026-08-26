@@ -7000,5 +7000,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T09:47:03Z",
   "fetched_at": "2026-08-26T10:53:46.001980+00:00"
+ },
+ "cf508d131168": {
+  "id": "cf508d131168",
+  "url": "https://juejin.cn/post/7677899267893461034",
+  "title": "汤森路透的座上宾？Qwen3.5-397B-A17B到底有什么本事？",
+  "source": "掘金 · 人工智能本周最热",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T13:16:07.403469+00:00"
+ },
+ "345c0d0cf7af": {
+  "id": "345c0d0cf7af",
+  "url": "https://www.aibase.com/zh/news/30642",
+  "title": "月之暗面携 Kimi K3 与美云巨头洽谈 30% 分成，中国 AI 出海深入巨头腹地",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T13:17:01.365899+00:00"
+ },
+ "3ad746a1784a": {
+  "id": "3ad746a1784a",
+  "url": "https://www.aibase.com/zh/news/30643",
+  "title": "京东发布「超脑」大模型 3.0，亿级包裹路径规划提速至秒级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T13:17:10.408106+00:00"
+ },
+ "b0b1882196d9": {
+  "id": "b0b1882196d9",
+  "url": "https://www.aibase.com/news/30645",
+  "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-26T10:23:46.040Z",
+  "fetched_at": "2026-08-26T13:17:25.085974+00:00"
+ },
+ "3fb1db3d2cb1": {
+  "id": "3fb1db3d2cb1",
+  "url": "https://www.huxiu.com/article/4886191.html?f=rss",
+  "title": "阿里增发加码AI投资，这是一场谁也不敢退场的竞逐",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T10:10:01Z",
+  "fetched_at": "2026-08-26T13:17:46.410364+00:00"
+ },
+ "1c8b9f5cbb29": {
+  "id": "1c8b9f5cbb29",
+  "url": "https://www.ifanr.com/1676738",
+  "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-08-26T09:46:32Z",
+  "fetched_at": "2026-08-26T13:18:00.935118+00:00"
+ },
+ "ceadc80fd584": {
+  "id": "ceadc80fd584",
+  "url": "https://www.ithome.com/0/994/658.htm",
+  "title": "华为投标埃及政府 AI 数据中心项目：拟出口至少 1408 颗昇腾 950 芯片并提议 12 个月完成基建",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T09:24:11Z",
+  "fetched_at": "2026-08-26T13:18:20.419069+00:00"
  }
 }
