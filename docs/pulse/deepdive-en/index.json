@@ -79,5 +79,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T11:02:11Z",
   "fetched_at": "2026-08-26T13:25:49.188993+00:00"
+ },
+ "046e4738a504": {
+  "id": "046e4738a504",
+  "url": "https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study/",
+  "title": "90% of executives say AI hasn't boosted productivity",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T13:56:00Z",
+  "fetched_at": "2026-08-26T15:05:23.132566+00:00"
+ },
+ "4dae5b5526f3": {
+  "id": "4dae5b5526f3",
+  "url": "https://zizka.ai/blog/the-eu-ai-act-a-strategic-roadmap-for-cios-and-ctos",
+  "title": "The EU AI Act: A Strategic Roadmap for CIOs and CTOs",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T13:24:44Z",
+  "fetched_at": "2026-08-26T15:05:44.154268+00:00"
+ },
+ "5af4a43ef104": {
+  "id": "5af4a43ef104",
+  "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5",
+  "title": "Bill Gates calls for 'human reserved' jobs to protect labour force from AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T12:40:18Z",
+  "fetched_at": "2026-08-26T15:06:01.366993+00:00"
+ },
+ "13daff5cc23c": {
+  "id": "13daff5cc23c",
+  "url": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/",
+  "title": "As Ubuntu embraces AI, Debian discusses banning all AI-generated code",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T11:27:39Z",
+  "fetched_at": "2026-08-26T15:08:43.922891+00:00"
  }
 }

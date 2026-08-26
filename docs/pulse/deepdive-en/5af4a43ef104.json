@@ -1,0 +1,24 @@
+{
+ "id": "5af4a43ef104",
+ "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5",
+ "title": "Bill Gates calls for 'human reserved' jobs to protect labour force from AI",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-26T12:40:18Z",
+ "fetched_at": "2026-08-26T15:06:01.366993+00:00",
+ "content": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI\nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeks\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nFT Edit\n$49 per year\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\nStandard Digital\n$45 per month\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nPremium Digital\nComplete coverage\n$75 per month\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nCheck whether you already have access via your university or organisation.\nTerms & Conditions apply\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "Bill Gates proposes reserving certain jobs exclusively for humans to safeguard employment as AI advances.",
+  "background": "Gates has long warned about AI's disruptive impact on labor. In recent remarks, he suggested that while AI will transform many sectors, some roles—especially those requiring human empathy, judgment, and social connection—should remain off-limits to automation. This idea extends the 'human-in-the-loop' concept into institutionalized human-only positions. It reflects broader debates on universal basic income, AI regulation, and workforce retraining. Gates's comments come amid accelerating AI adoption in white-collar jobs, from customer service to coding. He advocates for proactive policy, not just market forces, to manage the transition. The 'human reserved' concept is analogous to protected designations, aiming to guarantee a baseline of employment.",
+  "key_points": [
+   "Gates proposes formalizing 'human reserved' job categories, similar to reserved parking, where employers must choose humans over AI for certain roles. This would preserve jobs that rely on uniquely human qualities, though it is an idea to spark debate rather than a fully formed policy.",
+   "The focus is on roles involving empathy, care, and personal interaction, such as therapists, teachers, and caregivers. In these positions, human presence is intrinsically valuable, and AI might assist but should not fully replace people.",
+   "Gates acknowledges that AI will eliminate some jobs but argues society can choose which tasks to automate. Without deliberate intervention, market efficiency could lead to excessive automation, worsening inequality and social disruption.",
+   "His call adds to debates on AI safety, labor laws, and safety nets. It suggests governments and companies need new employment frameworks, potentially combining universal basic income with guaranteed human work slots.",
+   "Critics may question economic feasibility and global applicability, especially in developing countries where cost pressure is strong. Still, Gates's influence could push the idea into mainstream policy conversations."
+  ],
+  "impact": "For the AI industry, this idea could shape automation strategies, encouraging companies to avoid fully automating customer-facing or care-oriented workflows. Developers may need to build AI that augments rather than replaces human workers, incorporating 'human-first' design standards. For ordinary workers, especially in service fields, it offers hope that jobs may be protected, while raising questions about eligibility and enforcement. The proposal reframes AI's future not as an inevitable wave of replacement but as a societal choice, requiring legislation and coordination. However, implementation remains difficult, and without global agreement, the impact on workers could remain unequal.",
+  "tools": ""
+ },
+ "lang": "en"
+}

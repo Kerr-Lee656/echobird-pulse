@@ -1,0 +1,23 @@
+{
+ "id": "fc0104a464e2",
+ "url": "https://www.aibase.com/news/30643",
+ "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-26T10:23:46.040Z",
+ "fetched_at": "2026-08-26T15:03:34.878062+00:00",
+ "content": "On August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compared to version 2.0, the new model has been optimized in terms of operational efficiency, system resilience, and operational costs, further enhancing the intelligence level of the logistics supply chain.\nAccording to the introduction, the \"Super Brain\" large model 3.0 has compressed the solving time for end-to-end optimal route planning of hundreds of millions of packages from minutes to seconds, achieving precise scheduling from warehousing to delivery, enabling packages to complete fulfillment more efficiently. The system covers the entire logistics process and coordinates and optimizes warehousing, transportation, and delivery through AI.\nJD.com stated that the \"Super Brain\" large model 3.0 is the first industrial-level large model application integration in the logistics industry that is guided by AI throughout the entire process from warehousing to delivery, and it is also one of the largest applications of AI large models in the full supply chain scenario so far.\nCurrently, JD.com is accelerating the construction of the world's largest physical world operation center and continuously promoting the integration of AI technology with the real economy. As the logistics industry enters an intelligent upgrade phase, industrial-level AI large models are evolving from single-point applications to overall supply chain operations, becoming an important technical foundation for improving efficiency and reducing operational costs.",
+ "report": {
+  "summary": "京东发布超脑大模型3.0，亿级包裹路径规划提速至秒级。",
+  "background": "在第十八届国际交通技术与设备展览会上，京东正式发布“超脑”大模型3.0。相比2.0版本，新模型在运营效率、系统韧性、运营成本等方面做了优化，将亿级包裹的端到端最优路径规划求解时间从分钟级压缩到秒级，覆盖仓储、运输、配送全流程。京东称这是物流行业首个全流程AI引导的工业级大模型应用，也是目前全供应链场景中AI大模型最大规模的应用之一。当前物流业进入智能升级阶段，大模型正从单点应用走向整体供应链运营。",
+  "key_points": [
+   "超脑3.0将亿级包裹端到端最优路径规划从分钟级压缩到秒级，实现仓储到配送的精准调度，显著提升履约效率。",
+   "系统覆盖物流全流程，通过AI协同优化仓储、运输、配送各环节，实现整体供应链的智能决策和调度。",
+   "京东称这是物流行业首个全流程AI引导的工业级大模型应用，也是全供应链场景中AI大模型最大规模应用之一。",
+   "相比2.0版本，超脑3.0在运营效率、系统韧性和运营成本方面均获得优化，进一步降低物流运营成本。"
+  ],
+  "impact": "对AI行业而言，超脑3.0展示了工业级大模型在复杂物流场景中的落地能力，推动大模型从对话生成走向决策优化。对开发者来说，其工程化路径和算法实践提供了物流优化领域的参考范例。对普通用户，包裹配送将更快、更准，物流体验有望明显提升。同时，这一应用也加剧了物流行业的智能化竞争，促使其他企业加速布局供应链大模型。",
+  "tools": "可关注京东物流科技开放平台；路径规划方面可研究OSRM、VROOM等开源引擎，以及强化学习框架RLlib，用于复现并优化类似调度问题。"
+ },
+ "lang": "zh"
+}

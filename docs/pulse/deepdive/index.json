@@ -7063,5 +7063,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-26T09:24:11Z",
   "fetched_at": "2026-08-26T13:18:20.419069+00:00"
+ },
+ "07c36ca1dc0b": {
+  "id": "07c36ca1dc0b",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+  "title": "U.S. gov't moves to suppress pushback on data centers",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T15:01:28.189096+00:00"
+ },
+ "6181c344a7e9": {
+  "id": "6181c344a7e9",
+  "url": "https://thenextweb.com/news/alabama-subpoena-openai-hugging-face-deceptive-trade-practices",
+  "title": "Alabama wants the name of everyone at OpenAI who raised a safety concern",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T15:01:46.068677+00:00"
+ },
+ "c7ea416884a4": {
+  "id": "c7ea416884a4",
+  "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
+  "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T15:02:36.805599+00:00"
+ },
+ "ee4d61976972": {
+  "id": "ee4d61976972",
+  "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
+  "title": "Inside OpenAI’s Reboot",
+  "source": "TIME Magazine",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T15:02:55.223831+00:00"
+ },
+ "9ea2cd499094": {
+  "id": "9ea2cd499094",
+  "url": "https://hub.baai.ac.cn/view/57471",
+  "title": "黄仁勋、李飞飞、林斌等投资机器人AI公司Generalist",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T15:03:05.809824+00:00"
+ },
+ "61dedead2958": {
+  "id": "61dedead2958",
+  "url": "https://www.ifanr.com/1676824",
+  "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-08-26T12:07:59Z",
+  "fetched_at": "2026-08-26T15:03:15.568541+00:00"
+ },
+ "a0f0b4c44ee5": {
+  "id": "a0f0b4c44ee5",
+  "url": "https://www.ithome.com/0/994/708.htm",
+  "title": "面壁智能：MiniCPM 系列开源模型全球累计下载量突破 5000 万次",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T10:55:00Z",
+  "fetched_at": "2026-08-26T15:03:23.090601+00:00"
+ },
+ "fc0104a464e2": {
+  "id": "fc0104a464e2",
+  "url": "https://www.aibase.com/news/30643",
+  "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-26T10:23:46.040Z",
+  "fetched_at": "2026-08-26T15:03:34.878062+00:00"
+ },
+ "918e3face669": {
+  "id": "918e3face669",
+  "url": "https://www.ithome.com/0/994/697.htm",
+  "title": "智谱确认 Ox Alpha AI 模型为 GLM 系列新版本，将发布权重",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T10:23:42Z",
+  "fetched_at": "2026-08-26T15:03:42.379158+00:00"
  }
 }
