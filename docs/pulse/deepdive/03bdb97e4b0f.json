@@ -1,0 +1,24 @@
+{
+ "id": "03bdb97e4b0f",
+ "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
+ "title": "Anthropic signs $45B compute deal with Britain’s Nscale",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-26T23:30:25.423956+00:00",
+ "content": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale’s flagship West Virginia data centre development, covering about 460 megawatts. Nscale is a London company preparing a US listing as soon as next month.\nAnthropic has agreed to spend $45B renting computing power, and the landlord is British. The six-year deal covers capacity at Nscale’s flagship data centre development in West Virginia, amounting to around 460 megawatts.\nThat is a substantial quantity of electricity. Bloomberg puts it at roughly what 345,000 American homes draw at any one time.\nThe hardware is next generation. Nscale will use Nvidia’s Vera Rubin chips, which begin coming online late next year, in the first of three buildings on a campus reaching about 1.35 gigawatts when finished.\nNscale itself is a two-year-old London company. It is preparing a US initial public offering as soon as next month, and TNW questioned the basis of that listing three weeks ago.\nThe question was about what a backlog means. Nscale’s $51B of contracted revenue is future revenue that counts in full the moment a deal is signed, against roughly $100mn booked in a recent quarter.\nThis agreement is now the largest single entry in that column. It follows a year in which Anthropic has signed compute deals with a week-old startup, with Fluidstack for $50B and with SpaceX for $45B .\nMicrosoft got to West Virginia first and left. It signed a letter of intent for the site in March and walked away during the summer, which is how Anthropic became the tenant.\nThe site’s own economics are enormous. Developing the full campus and an on-site power plant will cost about $71B according to planning documents, of which $47B is the chips.\nAll of this is happening in front of a listing. Anthropic was valued at $965B in May and is expected to list at record size, which makes secured capacity a story for the prospectus as much as for the engineers.\nEurope’s involvement is the company, not the concrete. Nscale has Sheryl Sandberg and former British deputy prime minister Nick Clegg on its board, and is building a campus in Norway for Microsoft.\nBut the flagship is in Appalachia and the listing is in New York. Britain’s largest AI infrastructure business is spending its capital and selling its shares somewhere other than home.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic签下45亿美元算力租约，承租英国Nscale西弗吉尼亚数据中心。",
+  "background": "Anthropic为支撑AI大模型训练与推理，持续锁定算力资源。此前已与Fluidstack、SpaceX等签下巨额算力协议。Nscale是成立两年的英国公司，手握510亿美元合同收入，正筹备美国IPO。其西弗吉尼亚园区原由微软意向锁定，但微软夏季退出，Anthropic接手。该园区总规模1.35吉瓦，首阶段采用英伟达Vera Rubin芯片，开发成本约710亿美元。此次交易既是Anthropic上市前的算力背书，也是Nscale收入账本上最大单笔合同。",
+  "key_points": [
+   "Anthropic将以六年450亿美元租用Nscale西弗吉尼亚园区约460兆瓦算力，相当于34.5万美国家庭用电量。",
+   "Nscale将部署英伟达下一代Vera Rubin芯片，首批2026年底上线，园区总计三栋楼、峰值1.35吉瓦。",
+   "Nscale是成立仅两年的伦敦公司，已准备最快下月赴美IPO，近期季度收入仅约1亿美元，但合同收入达510亿美元。",
+   "微软曾签约该园区但夏天放弃，Anthropic顺势成为租户，园区开发及自备电厂总成本约710亿美元，其中芯片占470亿美元。",
+   "Anthropic估值已达9650亿美元，此次算力协议既服务工程需求，也为其创纪录IPO招股书增添筹码。"
+  ],
+  "impact": "对AI行业而言，算力军备竞赛进一步加剧，巨额长期租约成为头部模型公司锁定稀缺资源的常态，中小玩家更难获得优质算力。对开发者，Anthropic算力增强可能带来更强大模型和更稳定的API服务，但成本压力或转嫁给下游。对普通用户，AI产品能力有望快速迭代，但也需关注集中化带来的风险。对英国，Nscale的产能和IPO均在美国，欧洲虽拥有公司却难留住基建红利，凸显AI算力地缘失衡。",
+  "tools": "关注Anthropic的Claude API及模型卡；跟进Nscale的IPO招股书；关注英伟达Vera Rubin平台动态。若需测算电力与算力比，可参考Open Compute Project的能效指标。"
+ },
+ "lang": "zh"
+}

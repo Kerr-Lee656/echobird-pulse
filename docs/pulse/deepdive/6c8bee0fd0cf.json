@@ -1,0 +1,23 @@
+{
+ "id": "6c8bee0fd0cf",
+ "url": "https://mashable.com/tech/bill-gates-ai-tax-proposal-to-protect-human-workers",
+ "title": "Bill Gates proposes a token tax on AI to protect human workers",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-26T23:29:58.616609+00:00",
+ "content": "Bill Gates proposes a 'token tax' on AI to protect human workers\nAs anti-AI sentiment continues to spread, one tech industry leader is now floating an idea for how to deal with it.\nIn a 6,000-word essay posted on his Gates Notes website, billionaire and former Microsoft head Bill Gates explains his fears about artificial intelligence and offers a few proposals for addressing them. Gates also discussed his concerns in a wide-ranging interview with the New York Times.\nOne of the most notable ideas Gates proposes is a new tax on AI, which he calls the \"token tax.\"\nYou May Also Like\nAs Gates explains, businesses pay payroll taxes on human employees. However, if AI replaces a worker's job, that same company gets to write the purchase off as a business expense.\n\"The tax system nudges you toward replacing people with machines,\" Gates says, explaining how his previously proposed robot tax would also play a role alongside the AI-specific tax.\nGates says the tax would help slow the impact of AI's growth on labor and that the money it raises could be used for job retraining and building a stronger social safety net. He also says that the tax could be set up to avoid affecting \"purely beneficial uses of AI,\" which he describes as \"making medicine and education cheaper.\"\nIn addition to the tax, Gates also proposed \"Human Reserved\" jobs, which would be set aside specifically for human beings. Gates classified jobs that workers would have difficulty transitioning from as potential Human Reserved employment. He also proposed that jobs requiring a human touch, such as caregiving, should be Human Reserved.\nWe might set something aside as Human Reserved for economic reasons. For example, we may do it because allowing machines to take over a certain role will displace a large number of people who can’t easily change jobs. You can’t tell a 55-year-old who has worked in construction their whole career that they need to go work at an elder care facility and expect them to find it fulfilling.\nSometimes the decision to make something Human Reserved will be driven by other factors. In health, for example, imagine a robot giving you the awful news that you have an incurable disease. There’s no technical reason why it couldn’t. Yet it shouldn’t.\nFor years, executives within the AI industry have talked about how the technology will dramatically change the job market and put people out of work.\n“Entire classes of jobs will go away and not come back,” OpenAI CEO Sam Altman previously stated.\n\"You should be worried about where the technology we're building is going,\" warned Anthropic CEO Dario Amodei, who has said AI could \"wipe out\" half of all white-collar jobs.\nA study found that tens of thousands of jobs were lost due to AI last year, and economists are warning that more AI job losses are on the way.\nNow, many people are revolting against AI. Companies are facing backlash from consumers over \"AI slop.\" Data centers are deeply unpopular on both sides of the aisle. Even some politicians are now taking stances against data center construction due to anti-AI sentiment among their constituents.\nSome within the AI industry, such as Altman, are suddenly backtracking on their previous dire warnings about AI and jobs. It will be interesting to see how AI leaders like Altman and Amodei react to Gates's essay, and if proposals like this can make a dent in rising anti-AI sentiment.\nTopics Artificial Intelligence Politics Work",
+ "report": {
+  "summary": "盖茨提议对AI征税以保护人类就业，引发热议。",
+  "background": "随着AI技术快速发展，大量岗位面临被替代风险，反AI情绪日益高涨。OpenAI CEO奥尔特曼曾警告“整类工作将消失”，Anthropic CEO阿莫迪也预言AI可能“抹去”一半白领岗位。在此背景下，比尔·盖茨在个人博客发表长篇长文，提出“代币税”和“人类保留岗位”等设想，试图在技术发展与劳动保护间寻找平衡。该提议呼应了他此前关于机器人税的言论，并可能影响关于AI监管的公共讨论。",
+  "key_points": [
+   "盖茨提议对AI使用征收“代币税”，因为现行税制更偏向用机器替代人力，企业可享受购买AI的税收减免，而雇佣人力需缴税。",
+   "税收收入将用于职业再培训和社会保障，同时设计上避免影响医疗、教育等“纯有益”的AI应用。",
+   "盖茨还建议设立“人类保留岗位”，如护理等需要人情味的工作，以及大龄工人难以转行的职业，限制AI介入。",
+   "目前AI行业领袖如奥尔特曼、阿莫迪曾警告AI将大量取代工作，但面对反AI浪潮，部分人开始转调，盖茨的提案或影响后续讨论。"
+  ],
+  "impact": "对AI行业而言，若征税落地可能增加企业采用AI的成本，倒逼更谨慎的部署；对开发者来说，需关注“代币税”是否影响模型调用和商业化路径；对普通用户，征税资金若投入再培训，可能缓解就业焦虑，但也可能延缓AI相关服务的价格下降。整体而言，盖茨的提议将AI治理从技术伦理推向财政政策层面，为全球政策制定者提供了新思路。",
+  "tools": "关注AI就业影响可参考OpenAI的经济影响研究、世界经济论坛未来就业报告；政策分析可关注布鲁金斯学会的AI治理文章。开发者可跟踪GitHub上关于AI税模拟或自动化替代评估的开源项目（如AI-Job-Impact），并关注各国立法动态。"
+ },
+ "lang": "zh"
+}

@@ -7234,5 +7234,104 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-26T15:20:51Z",
   "fetched_at": "2026-08-26T20:02:52.029779+00:00"
+ },
+ "a07dd04de28e": {
+  "id": "a07dd04de28e",
+  "url": "https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb",
+  "title": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:29:50.141064+00:00"
+ },
+ "6c8bee0fd0cf": {
+  "id": "6c8bee0fd0cf",
+  "url": "https://mashable.com/tech/bill-gates-ai-tax-proposal-to-protect-human-workers",
+  "title": "Bill Gates proposes a token tax on AI to protect human workers",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:29:58.616609+00:00"
+ },
+ "5ea28608f6ab": {
+  "id": "5ea28608f6ab",
+  "url": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan",
+  "title": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:30:16.225622+00:00"
+ },
+ "03bdb97e4b0f": {
+  "id": "03bdb97e4b0f",
+  "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
+  "title": "Anthropic signs $45B compute deal with Britain’s Nscale",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:30:25.423956+00:00"
+ },
+ "b4dc44837f04": {
+  "id": "b4dc44837f04",
+  "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers",
+  "title": "Leaked Images Give First Look at Apple's AI Servers",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:30:45.785048+00:00"
+ },
+ "1313d4b7169c": {
+  "id": "1313d4b7169c",
+  "url": "https://www.qbitai.com/2026/08/479919.html",
+  "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:31:07.188935+00:00"
+ },
+ "722689699cb0": {
+  "id": "722689699cb0",
+  "url": "https://www.ft.com/content/3fc189d6-28e7-4a2b-b77e-5c94bf513955?syn-25a6b1a6=1",
+  "title": "OpenAI表示，其耗时一周才发现其AI模型已入侵Hugging Face",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-26T19:17:48.465Z",
+  "fetched_at": "2026-08-26T23:31:18.118171+00:00"
+ },
+ "8b3c62dc5737": {
+  "id": "8b3c62dc5737",
+  "url": "https://www.huxiu.com/article/4886285.html?f=rss",
+  "title": "AI 开始直接学习物理世界：一场新的基础模型分叉",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T18:22:38Z",
+  "fetched_at": "2026-08-26T23:31:57.997227+00:00"
+ },
+ "5e34d55ce795": {
+  "id": "5e34d55ce795",
+  "url": "https://finance.yahoo.com/economy/policy/articles/fed-doesn-t-know-financing-090000783.html",
+  "title": "美联储不知道这3万亿美元的人工智能热潮是由谁在提供资金支持的",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-26T18:14:24.417Z",
+  "fetched_at": "2026-08-26T23:32:23.712005+00:00"
+ },
+ "34c855ce504c": {
+  "id": "34c855ce504c",
+  "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model",
+  "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:32:46.797981+00:00"
+ },
+ "23d97aec1d72": {
+  "id": "23d97aec1d72",
+  "url": "https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium",
+  "title": "Huawei bid to build Egypt’s AI data centres, and Washington is scrambling",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T23:33:06.016083+00:00"
  }
 }

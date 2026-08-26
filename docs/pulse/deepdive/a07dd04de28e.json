@@ -1,0 +1,24 @@
+{
+ "id": "a07dd04de28e",
+ "url": "https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb",
+ "title": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-26T23:29:50.141064+00:00",
+ "content": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB (geekwire.com) 9\n\t\t\t\n\t\t \t\n\t\t\t\tAmazon has agreed to acquire DuckLabs, bringing the team behind the popular open-source DuckDB database into AWS. \"The deal fits Amazon's broader push to turn S3, its flagship cloud storage service, into a place where customers analyze data rather than just store it,\" reports GeekWire. \"It gives Amazon a team experienced in building fast, lightweight analytics software that runs directly against data sitting in cloud storage.\" The DuckDB project itself will remain free and open source under the MIT license, overseen by the independent DuckDB Foundation. From the report:  Employees of DuckLabs will join Amazon Web Services, including co-founders and DuckDB creators Hannes Muhleisen and Mark Raasveldt, who will continue leading the team and setting the project's technical direction. They will remain based in Amsterdam, where the team will continue developing DuckDB and related projects. [...] Financial terms were not disclosed. Amazon said it has signed a definitive agreement and expects the acquisition to close shortly. DuckLabs said it expects to become part of AWS in early September. Jordan Tigani, the CEO of MotherDuck, which sells a cloud service built on DuckDB, sees Amazon's acquisition as a predictable move to turn DuckDB's growing popularity into an AWS business. \"That's Amazon's playbook, after all: wait until an open source project gets big enough, then launch it as a service,\" he wrote in a blog post, adding that \"they're not acquiring Duck Labs just because they love open source.\"\n \nTigani also believes the deal could ultimately strengthen DuckDB, since Amazon has an incentive to keep the project open and widely adopted: \"If DuckDB becomes the standard, it is going to drive a lot more compute on their infrastructure, which is where they make their money.\"\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nTigani also believes the deal could ultimately strengthen DuckDB, since Amazon has an incentive to keep the project open and widely adopted: \"If DuckDB becomes the standard, it is going to drive a lot more compute on their infrastructure, which is where they make their money.\"",
+ "report": {
+  "summary": "亚马逊收购DuckLabs，DuckDB团队加入AWS，项目保持开源。",
+  "background": "DuckDB是近年流行的开源嵌入式分析型数据库，以轻量快速著称，常用于本地数据分析。亚马逊一直希望将S3从单纯存储服务发展为数据分析平台，过去曾多次采用“等开源项目成熟后推出托管服务”的策略。收购DuckLabs正是为了获得核心团队，将DuckDB的查询能力与S3结合，吸引更多客户在AWS上运行分析工作负载。",
+  "key_points": [
+   "亚马逊已签署协议收购DuckLabs，DuckDB的创始团队将整体加入AWS，并继续常驻阿姆斯特丹，负责制定项目技术方向。",
+   "交易不会改变DuckDB的开源属性，项目仍采用MIT许可证，由独立的DuckDB基金会管理，社区使用不受影响。",
+   "此番收购是亚马逊推动S3从存储向分析平台转型的关键一步，目标是让用户能直接用轻量查询引擎分析云端数据。",
+   "分析人士指出，亚马逊惯于将成熟开源项目转化为云服务，未来很可能推出DuckDB托管服务，以带动更多计算消耗。",
+   "MotherDuck等基于DuckDB的现有云厂商可能面临直接竞争，但行业内也看到开源生态获得更强支撑的正面效应。"
+  ],
+  "impact": "对AI行业而言，DuckDB与S3结合能显著降低海量数据分析的延迟和成本，为AI模型训练与推理提供高效的数据管道。对开发者来说，DuckDB保持开源且获得AWS资源支持，生态和工具链更值得信赖，云端部署也更容易。对普通用户，S3中存储的数据将获得更轻量快速的查询体验，企业级分析门槛降低，相关云服务的价格也可能更亲民。",
+  "tools": "关注DuckDB官方仓库和文档；AWS的S3、Athena等服务；若想体验云端DuckDB，可关注MotherDuck或等AWS后续推出的托管服务。"
+ },
+ "lang": "zh"
+}

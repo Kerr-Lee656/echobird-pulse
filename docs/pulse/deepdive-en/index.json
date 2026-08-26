@@ -232,5 +232,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T18:16:12Z",
   "fetched_at": "2026-08-26T20:06:04.151464+00:00"
+ },
+ "e4e2b79ffb40": {
+  "id": "e4e2b79ffb40",
+  "url": "https://claude.com/blog/cowork-built-in-browser",
+  "title": "Claude gets its own browser in Cowork",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T23:26:55Z",
+  "fetched_at": "2026-08-26T23:35:06.619657+00:00"
+ },
+ "b05723195a53": {
+  "id": "b05723195a53",
+  "url": "https://www.ibtimes.com/mark-zuckerberg-reportedly-wanted-ai-replace-meta-workers-plan-collapsed-within-months-3806823",
+  "title": "Mark Zuckerberg Wanted AI to Replace Meta Workers- Plan Collapsed Within Months",
+  "source": "Hacker News (7pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T22:45:19Z",
+  "fetched_at": "2026-08-26T23:35:30.938272+00:00"
+ },
+ "e518d876024c": {
+  "id": "e518d876024c",
+  "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+  "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-26T21:37:39.000Z",
+  "fetched_at": "2026-08-26T23:35:58.097763+00:00"
+ },
+ "33551649b533": {
+  "id": "33551649b533",
+  "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+  "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-08-26T21:25:27.000Z",
+  "fetched_at": "2026-08-26T23:36:16.481628+00:00"
+ },
+ "45baf9970a54": {
+  "id": "45baf9970a54",
+  "url": "https://nypost.com/2026/08/25/tech/over-a-third-of-webpages-created-after-chatgpts-debut-show-signs-of-ai-writing-study-finds/",
+  "title": "Over a third of webpages created after ChatGPT's debut show signs of AI writing",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T20:52:50Z",
+  "fetched_at": "2026-08-26T23:36:51.579550+00:00"
+ },
+ "62ca29d8cdc2": {
+  "id": "62ca29d8cdc2",
+  "url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
+  "title": "Bill Gates proposes major limits on AI development",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-26T20:19:46Z",
+  "fetched_at": "2026-08-26T23:37:07.116618+00:00"
  }
 }
