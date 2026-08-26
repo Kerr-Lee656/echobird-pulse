@@ -1,0 +1,23 @@
+{
+ "id": "3b1492e611b0",
+ "url": "https://www.ithome.com/0/994/319.htm",
+ "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-08-26T00:07:16Z",
+ "fetched_at": "2026-08-26T04:56:22.347973+00:00",
+ "content": "IT之家 8 月 26 日消息，Alphabet 旗下谷歌周二扩展了其 Gemini Enterprise 人工智能平台，推出面向律师和律所的新工具，进一步加剧了科技公司争夺法律行业 AI 需求的竞争。\n谷歌表示，Gemini Enterprise for Legal 将帮助律所利用 AI 处理日常工作以及复杂任务，让律师能够将更多精力投入到价值更高的专业服务，同时确保数据的安全性和保密性。\nGemini Enterprise for Legal 新增的插件支持与法律软件和数据平台集成，并提供一系列 AI 智能体。谷歌称，这些 AI 智能体能够处理专业化的法律及行政工作，无需大量人工监督。\nAlphabet 去年 10 月面向企业客户推出了 Gemini Enterprise，希望通过 AI 产品吸引更多企业客户。Google Cloud 目前已成为 Alphabet 增长最快的业务之一。\n除了法律行业外，谷歌周二还宣布推出面向金融服务行业的相关工具，并计划在未来陆续推出更多针对特定行业的产品。\nIT之家注意到，包括 Anthropic 在内的竞争对手近期也在不断扩展企业级 AI 产品，其中也包括面向法律行业的服务。德勤发布的一份关于 2026 年法律行业 AI 应用情况的报告显示，律所正在大力投资 AI 技术，而这场行业转型仍处于早期阶段。\n拥有路透社和 Westlaw 法律研究数据库的汤森路透，也是谷歌争夺法律行业市场份额的竞争对手之一。该公司周一推出了自主研发的大语言模型 Thomson 1.0。该模型基于汤森路透的法律研究内容进行训练，主要面向专业工作场景。公司表示，该模型采用开源技术构建，并利用了其数十年来积累的大量“权威”法律内容。\n谷歌表示，其平台将与汤森路透旗下的其他法律科技平台，以及法律 AI 软件开发商 Harvey、Legora 等公司的产品实现直接且安全的连接。\n律所正在迅速采用生成式 AI 工具，用于协助法律研究、起草法律文件以及执行其他法律任务。与此同时，许多律所也开始将 AI 应用于客户管理、案件管理等业务运营环节，希望降低成本并提高工作效率。\n谷歌云产品负责人 Amrita Mehrok 表示，谷歌的新产品针对律所的实际需求进行了灵活设计，律所可以根据自身需求，在平台集成的多种 AI 模型之间进行选择。\n一些大型律所已经与 AI 服务商建立战略合作关系，有的甚至开始自行开发 AI 平台。谷歌表示，Weil Gotshal、Cleary Gottlieb、Freshfields 和 Williams & Connolly 等律所都参与了 Gemini Enterprise for Legal 的合作开发。\nWeil Gotshal 联合管理合伙人 Jonathon Soler 在接受采访时表示，客户越来越希望律师能够使用 AI，并借助 AI 提升工作效率。\nCleary Gottlieb 管理合伙人 Jeffrey Karpf 则表示，与谷歌的合作将使该律所有机会“参与创建面向部署 AI 的律所所需的实用工具”。",
+ "report": {
+  "summary": "谷歌推出面向律所的 Gemini Enterprise for Legal，加剧法律 AI 领域竞争。",
+  "background": "Alphabet 于去年推出 Gemini Enterprise 企业平台，现扩展至法律行业，旨在通过 AI 吸引更多客户。律所正快速采用生成式 AI 进行法律研究、文件起草和客户管理，以降低成本。竞争对手包括汤森路透（自研模型 Thomson 1.0）、Anthropic 等。德勤报告显示法律行业 AI 转型仍处早期，大型律所已与 AI 服务商建立合作，谷歌则联合多家律所共同开发新工具。",
+  "key_points": [
+   "谷歌推出 Gemini Enterprise for Legal，支持与法律软件集成，并配备可独立处理法律与行政工作的 AI 智能体，旨在减少人工监督。",
+   "新平台可与汤森路透、Harvey、Legora 等第三方产品连接，并允许律所在多种 AI 模型之间灵活选择，适应不同需求。",
+   "Weil Gotshal、Cleary Gottlieb 等大型律所参与合作开发，客户越发希望律师使用 AI 提升效率，促使律所主动拥抱新技术。",
+   "汤森路透抢先推出自研大语言模型 Thomson 1.0，基于数十年法律内容训练，直接与谷歌争夺法律 AI 市场份额。",
+   "法律行业 AI 应用正从专业工作延伸至客户管理、案件管理等运营环节，行业整体尚处早期转型阶段。"
+  ],
+  "impact": "对 AI 行业，谷歌加入法律赛道将加剧云厂商与专业数据库公司的竞争，推动垂直行业大模型与工具链成熟。对开发者，Gemini 插件和 AI 智能体开放了新的集成机会，可围绕法律流程构建应用。对普通用户，律所效率提升可能降低法律服务成本，但需关注数据安全与 AI 幻觉风险，专业审查依然必要。",
+  "tools": "可关注 Google Cloud 的 Gemini Enterprise、Gemini API 和 AI 智能体平台；汤森路透的 Thomson 1.0；以及法律 AI 初创公司 Harvey、Legora 的产品。开发者可基于 Gemini API 或 LangChain 构建自定义法律工作流。"
+ }
+}

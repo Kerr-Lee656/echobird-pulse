@@ -6604,5 +6604,95 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-25T20:33:26Z",
   "fetched_at": "2026-08-26T03:21:31.033860+00:00"
+ },
+ "81aae5a2216a": {
+  "id": "81aae5a2216a",
+  "url": "https://thenextweb.com/news/aria-australia-charts-ban-ai-generated-music-madonna-cover",
+  "title": "Australia’s charts now require a human to sing the lead vocal",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-26T04:55:27.541692+00:00"
+ },
+ "f0bacff75b0e": {
+  "id": "f0bacff75b0e",
+  "url": "https://news.pedaily.cn/202608/568110.shtml",
+  "title": "Ilya 交卷，黄仁勋砸 50 亿押注 SSI，首个模型疑本周发布",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-26T04:56:12.051525+00:00"
+ },
+ "3b1492e611b0": {
+  "id": "3b1492e611b0",
+  "url": "https://www.ithome.com/0/994/319.htm",
+  "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-26T00:07:16Z",
+  "fetched_at": "2026-08-26T04:56:22.347973+00:00"
+ },
+ "740fe0618351": {
+  "id": "740fe0618351",
+  "url": "https://arxiv.org/abs/2608.23642",
+  "title": "AI Agents Push Humans Out of the Loop",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:57:07.333370+00:00"
+ },
+ "90f759324383": {
+  "id": "90f759324383",
+  "url": "https://arxiv.org/abs/2608.23643",
+  "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:57:19.836249+00:00"
+ },
+ "fede902dc6ec": {
+  "id": "fede902dc6ec",
+  "url": "https://arxiv.org/abs/2608.23807",
+  "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:58:02.007256+00:00"
+ },
+ "f848971b4542": {
+  "id": "f848971b4542",
+  "url": "https://arxiv.org/abs/2608.23834",
+  "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:58:13.270062+00:00"
+ },
+ "16640bb192e6": {
+  "id": "16640bb192e6",
+  "url": "https://arxiv.org/abs/2608.23870",
+  "title": "Granite.Trust Policy Tools: Shareable, Actionable Policies for Generative AI Applications",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:58:21.480980+00:00"
+ },
+ "b0dc096ec231": {
+  "id": "b0dc096ec231",
+  "url": "https://arxiv.org/abs/2608.23906",
+  "title": "Quantifying System-Level Harms from AI Adoption in Complex Sociotechnical Systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:59:10.613287+00:00"
+ },
+ "9df84a40bdb3": {
+  "id": "9df84a40bdb3",
+  "url": "https://arxiv.org/abs/2608.23922",
+  "title": "Data Mixing as Mixture Experiment: Response Surface Methodology and Optimal Design for Large Language Model Pretraining",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:00:00.000Z",
+  "fetched_at": "2026-08-26T04:59:21.768346+00:00"
  }
 }

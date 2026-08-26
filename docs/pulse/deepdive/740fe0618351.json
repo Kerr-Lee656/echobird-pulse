@@ -1,0 +1,22 @@
+{
+ "id": "740fe0618351",
+ "url": "https://arxiv.org/abs/2608.23642",
+ "title": "AI Agents Push Humans Out of the Loop",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-26T04:00:00.000Z",
+ "fetched_at": "2026-08-26T04:57:07.333370+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 24 Aug 2026]\n    Title:AI Agents Push Humans Out of the Loop\nView PDF HTML (experimental)\n            Abstract:AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the development and deployment of AI agent systems do not support effective human oversight -- they contribute to its degradation. To address this, a top priority in the advancement of AI agents should be supporting the situated goals and cognitive requirements of effective human oversight, treating the human needs of overseers at the same level of importance as AI agent capability. To put this idea into practice, we connect work on automation and human-computer interaction to AI agent processes, outlining design-level affordances and organizational protocols that (1) support overseers in exercising critical judgement and (2) counteract the skill atrophy that arises from extended use of automation. We urge developers and deployers to adopt these or similar approaches. Without explicit support for the cognitive demands of effective human-agent interaction, AI agent systems will continue to passively incentivize the degradation of the very human skills they rely on.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "AI代理自主性增强，人类监督能力反而退化，亟需重新设计以支持人类监督。",
+  "background": "随着AI代理（如自主决策系统）被赋予越来越多权限，如何确保其安全可控成为焦点。业界普遍主张通过“人类在环”（Human-in-the-Loop）来监督AI，但该论文指出这并非易事：现有AI代理设计缺乏对监督者认知需求的支持，同时长期使用AI系统本身会削弱人类的判断力和注意力。论文主张将监督者需求置于与AI能力同等重要的地位，并结合自动化与人机交互研究，提出设计层面的改进和组织协议，以对抗技能萎缩。",
+  "key_points": [
+   "人类监督并非万能解药：AI代理越自主，监督越困难，现有“人在环中”方案存在天然缺陷。",
+   "当前AI设计妨碍监督：代理系统不透明、反馈不及时，导致监督者难以有效介入或预判风险。",
+   "AI使用导致认知退化：长时间依赖自动化会使人丧失批判性思维和技能，形成恶性循环。",
+   "监督者需求应优先：开发者必须把支持人的认知需求作为AI代理设计的首要目标。",
+   "具体对策包括人机交互设计改进和组织流程保障，以维持人的关键判断力。"
+  ],
+  "impact": "对AI行业而言，这警示单方面追求代理能力可能带来失控风险，需将可监督性纳入核心指标。对开发者来说，需重新设计交互界面和决策流程，确保人类能关键时刻介入。对普通用户，意味着AI不是越自动越好，保持人类主动性和判断力至关重要，否则会逐步丧失对技术的掌控。"
+ }
+}

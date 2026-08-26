@@ -1,0 +1,23 @@
+{
+ "id": "f848971b4542",
+ "url": "https://arxiv.org/abs/2608.23834",
+ "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
+ "source": "arXiv cs.AI",
+ "site_name": "arXiv cs.AI",
+ "published_at": "2026-08-26T04:00:00.000Z",
+ "fetched_at": "2026-08-26T04:58:13.270062+00:00",
+ "content": "Computer Science > Artificial Intelligence\n  [Submitted on 24 Aug 2026]\n    Title:Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention\nView PDF HTML (experimental)\n            Abstract:The key-value (KV) cache is a primary capacity and bandwidth bottleneck in long-context LLM serving. We present Minima-KV, a retention-preserving hierarchy for mixed-format paged attention. Recent and protected Anchor pages remain in FP8, while older non-anchor pages move to packed TQ3; every live-request page remains addressable. Format-specific kernels compute partial attention states and combine them through a globally normalized online-softmax merge, enabling direct heterogeneous decode without a cache-sized dense shadow. Across separate, configuration-bound Qwen3.6-27B profiles on a single 96-GB NVIDIA RTX PRO 6000 Blackwell GPU, deployment accounting reports 18.3 KiB of attention KV per live token, corresponding to 3.50x compression relative to BF16 and 1.75x relative to FP8. A materializing quality profile matches its dense control on 16K RULER needle-in-a-haystack tasks. On the same 503-question LongBench v2 set, measured deltas are -0.80, -0.60, and -0.40 percentage points at 16K, 32K, and 64K. A separate single-pair direct-decode canary with two 59,008-token requests measures 3.625x active-KV compression and 0.9821x throughput relative to its control, routes all 16 full-attention layers without fallback, and retains no dense shadow. These results establish a practical mixed-format path for compressing long-context state without evicting live-request KV pages.\n    \nReferences & Citations\n    \n    Loading...\nBibliographic and Citation Tools\n            Bibliographic Explorer (What is the Explorer?)\n          \n        \n            Connected Papers (What is Connected Papers?)\n          \n        \n            Litmaps (What is Litmaps?)\n          \n        \n            scite Smart Citations (What are Smart Citations?)\n          \n        Code, Data and Media Associated with this Article\n            alphaXiv (What is alphaXiv?)\n          \n        \n            CatalyzeX Code Finder for Papers (What is CatalyzeX?)\n          \n        \n            DagsHub (What is DagsHub?)\n          \n        \n            Gotit.pub (What is GotitPub?)\n          \n        \n            Hugging Face (What is Huggingface?)\n          \n        \n            ScienceCast (What is ScienceCast?)\n          \n        Demos\nRecommenders and Search Tools\n              Influence Flower (What are Influence Flowers?)\n            \n          \n              CORE Recommender (What is CORE?)\n            \n          arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+ "report": {
+  "summary": "Minima-KV用混合格式分页注意力实现KV缓存压缩，保活态高压缩比。",
+  "background": "长上下文LLM服务中，KV缓存是容量和带宽的主要瓶颈。传统压缩方法要么牺牲质量，要么需要额外数据结构。Minima-KV提出保留性层级：近期和受保护页面用FP8，老旧非保护页面用紧凑TQ3，所有活页面保持可寻址。通过在线softmax合并异构格式的注意力状态，实现无需密集影子缓存的直接解码。在Qwen3.6-27B上验证了高压缩比和质量保持，为长上下文推理提供实用路径。",
+  "key_points": [
+   "混合格式分页：FP8保护锚点页+ TQ3压缩旧页，兼顾关键信息保真和整体压缩率。",
+   "全局归一化在线softmax合并：不同格式的内核计算结果可直接结合，无需缓存级密集影子。",
+   "实测压缩比：相比BF16达3.50倍，相比FP8达1.75倍，每活跃token仅18.3 KiB。",
+   "质量损失极低：16K RULER任务与密集基线持平，LongBench v2下降不足1个百分点。",
+   "吞吐影响小：直接解码测试压缩3.6倍，吞吐为基线0.98，无回退，无密集影子。"
+  ],
+  "impact": "对AI行业，Minima-KV大幅降低长上下文推理的显存和带宽需求，有望提升单卡服务能力并降低成本。对开发者，提供了一种不驱逐活页的压缩方案，可集成到现有分页注意力系统中，简化部署。对普通用户，长上下文模型响应更快、更便宜，支持更多历史信息，提升实用体验。",
+  "tools": "关注vLLM（分页注意力）、FlashAttention、以及论文可能的开源实现。若跟进，可结合PyTorch编写FP8/TQ3自定义内核，参考在线softmax论文如FlashDecoding。"
+ }
+}
