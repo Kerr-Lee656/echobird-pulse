@@ -322,5 +322,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-27T05:42:42Z",
   "fetched_at": "2026-08-27T09:45:13.972389+00:00"
+ },
+ "23bc40d77640": {
+  "id": "23bc40d77640",
+  "url": "https://prospect.org/2026/08/27/anthropic-reenlists-for-war-defense-department-ai/",
+  "title": "Anthropic Gets Ready to Vie for Defense Contracts Again",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T18:58:48Z",
+  "fetched_at": "2026-08-27T20:29:45.808443+00:00"
+ },
+ "76f70ada1da2": {
+  "id": "76f70ada1da2",
+  "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+  "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+  "source": "Hacker News (53pts, 16c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T18:34:40Z",
+  "fetched_at": "2026-08-27T20:30:09.957493+00:00"
+ },
+ "6dff286e749a": {
+  "id": "6dff286e749a",
+  "url": "https://int21.ai/insights/pushing-gpt-5-6-sol-to-100-on-arc-agi-3-public/",
+  "title": "Pushing GPT-5.6 Luna from 0% to 56% on ARC-AGI-3 Public",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T18:19:25Z",
+  "fetched_at": "2026-08-27T20:30:54.709990+00:00"
+ },
+ "de667486e0c2": {
+  "id": "de667486e0c2",
+  "url": "https://www.telegraph.co.uk/business/2026/08/27/swarm-of-700-ai-bots-went-rogue-in-hacking-attack/",
+  "title": "Swarm of 700 AI bots went rogue in hacking attack",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T17:29:54Z",
+  "fetched_at": "2026-08-27T20:32:53.179409+00:00"
+ },
+ "fffbb4240725": {
+  "id": "fffbb4240725",
+  "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+  "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-08-27T16:52:42.000Z",
+  "fetched_at": "2026-08-27T20:33:12.860247+00:00"
  }
 }

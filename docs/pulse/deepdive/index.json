@@ -7333,5 +7333,86 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-08-26T23:33:06.016083+00:00"
+ },
+ "37745597ccd0": {
+  "id": "37745597ccd0",
+  "url": "https://aiera.com.cn/2026/08/27/other/admin/110897/%e5%b0%8f%e9%b9%8f%e7%ac%ac%e4%ba%8c%e4%bb%a3vla%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%bf%8e%e6%9d%a5%e9%a6%96%e6%ac%a1%e9%87%8d%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%8cai%e5%bc%80%e5%a7%8b%e7%90%86%e8%a7%a3",
+  "title": "小鹏第二代VLA大模型迎来首次重大升级，AI开始理解“时间”",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-27T17:03:23.626Z",
+  "fetched_at": "2026-08-27T20:25:55.756965+00:00"
+ },
+ "63686ef5a8c0": {
+  "id": "63686ef5a8c0",
+  "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+  "title": "Nvidia projects $673B in sales as AI demand widens",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:26:06.658374+00:00"
+ },
+ "f8007037bdb9": {
+  "id": "f8007037bdb9",
+  "url": "https://tech.slashdot.org/story/26/08/27/0032219/how-metas-plan-to-replace-workers-with-ai-agents-fell-apart",
+  "title": "How Meta's Plan To Replace Workers With AI Agents Fell Apart",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:26:23.308770+00:00"
+ },
+ "99c07b5e58f4": {
+  "id": "99c07b5e58f4",
+  "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+  "title": "OpenAI’s executive exodus has one big winner",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:26:32.473242+00:00"
+ },
+ "2064f6632cad": {
+  "id": "2064f6632cad",
+  "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale",
+  "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:26:43.684690+00:00"
+ },
+ "b58499bc9124": {
+  "id": "b58499bc9124",
+  "url": "https://thenextweb.com/news/nvidia-hugging-face-13bn-acquisition-talks",
+  "title": "Nvidia is reportedly in talks to buy Hugging Face for $12.9bn",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:26:53.928846+00:00"
+ },
+ "86c9edac9f33": {
+  "id": "86c9edac9f33",
+  "url": "https://thenextweb.com/news/uclh-ai-assisted-pituitary-tumour-surgery",
+  "title": "London surgeons remove brain tumour in first AI-assisted operation of its kind",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:27:27.732782+00:00"
+ },
+ "62e642ad60b0": {
+  "id": "62e642ad60b0",
+  "url": "https://thenextweb.com/news/salesforce-anthropic-claudeforce-partnership",
+  "title": "Salesforce is putting Claude at the centre of its products, and itself inside Claude",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:27:39.077920+00:00"
+ },
+ "6644f2d547fa": {
+  "id": "6644f2d547fa",
+  "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
+  "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-27T20:27:47.343525+00:00"
  }
 }
