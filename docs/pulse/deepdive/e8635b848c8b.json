@@ -1,0 +1,23 @@
+{
+ "id": "e8635b848c8b",
+ "url": "https://www.aibase.com/news/30655",
+ "title": "价格砍至四十分之一！智谱开源原生多模态大模型GLM-5.3-Flash",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-27T05:40:37.822Z",
+ "fetched_at": "2026-08-27T09:40:51.091659+00:00",
+ "content": "Recently, Zhipu officially launched and open-sourced the first native multimodal model of the GLM-5 series, GLM-5.3-Flash (320B-A18B), promoting cutting-edge artificial intelligence technology to be more accessible with leading performance and ultra-low pricing.\nThe model's capabilities have reached the global forefront. In the Artificial Analysis Intelligence Index evaluation, it scored 57 points, equaling Claude Opus4.8, with comparable programming abilities and superior comprehensive performance compared to the larger parameter model GLM-5.2. Before its official release, the model was tested publicly under the anonymous identity \"Ox-Alpha\" and topped the usage charts on OpenCode and OpenRouter platforms.\nThe cost advantage is a core highlight. The price of GLM-5.3-Flash is only one-tenth of the same series GLM-5.3, with a limited-time discount as low as one-twentieth, equivalent to one-fortieth the price of Opus4.8, significantly lowering the entry barrier for using cutting-edge models.\nIn terms of architecture, the model adopts a hybrid structure of sparse attention and linear attention, making it the first open-source cutting-edge model to implement this solution, combined with manifold constraint super connection technology. Compared to previous generations, the attention computation has decreased by 3.01 times, and the KV cache has been reduced by 4.44 times, balancing long context capabilities with inference costs. At the same time, it is natively integrated with visual capabilities, capable of independently completing tasks such as front-end development, 3D modeling, and document creation using visual feedback, showing strong performance in professional scenarios like financial reports and legal documents.\nNotably, the model's full traffic is supported by domestic chip clusters. The team developed a self-researched inference engine, relying on the EPD separation architecture and multiple memory optimization solutions, achieving a threefold improvement in end-to-end inference performance, with hardware utilization efficiency comparable to mainstream NVIDIA GPUs, proving the feasibility of domestic computing power supporting large-scale cutting-edge model inference.\nCurrently, GLM-5.3-Flash is fully open-sourced, offering API interfaces, online experience channels, and has been launched on intelligent Agent platforms such as ZCode and AutoClaw. It also offers daily experience cards for ten thousand uses, open for global developers to use.\nOnline Experience\nZ.ai: https://chat.z.ai\nZhipu Qingyan App: https://chatglm.cn",
+ "report": {
+  "summary": "智谱开源GLM-5.3-Flash多模态模型，价格仅为Opus4.8四十分之一，性能持平。",
+  "background": "当前AI大模型领域，国际巨头如OpenAI、Anthropic等主导高端模型，但闭源且价格昂贵。国内厂商智谱AI持续布局开源路线，此前已推出GLM系列。此次发布的GLM-5.3-Flash是GLM-5系列首个原生多模态模型，以极低成本提供接近顶尖模型的性能，同时采用国产芯片集群支撑推理，展现了国产AI的竞争力。这一举措可能加剧开源与闭源模型的竞争，推动AI应用普及。",
+  "key_points": [
+   "性能对标顶级模型：评测得分57分与Claude Opus4.8持平，编程能力相当，综合表现优于更大参数的GLM-5.2，匿名测试登顶OpenCode等平台。",
+   "价格大幅降低：定价仅为同系列GLM-5.3的十分之一，限时折扣低至二十分之一，相当于Opus4.8的四十分之一，极大降低使用门槛。",
+   "架构创新与多模态：采用稀疏注意力+线性注意力混合结构，注意力计算减3倍，KV缓存减4倍，原生视觉能力可完成前端开发、3D建模等任务。",
+   "国产算力验证：全流量由国产芯片集群支持，自研推理引擎提升三倍性能，硬件利用率媲美NVIDIA GPU，证明国产算力可行。"
+  ],
+  "impact": "对AI行业，此举将加剧开源与闭源模型竞争，推动定价合理化，并验证国产算力在顶尖模型推理中的可行性。对开发者，开源和低价降低了多模态AI应用的开发门槛，可自由定制和部署。对普通用户，能以极低成本使用媲美顶级模型的AI能力，无论是文档处理还是创意生成都将更加普及。",
+  "tools": "关注智谱AI官方GitHub获取模型权重与文档；体验Z.ai或智谱清言App。开发者可试用ZCode、AutoClaw等智能Agent平台，或通过OpenRouter等渠道调用API。"
+ },
+ "lang": "zh"
+}

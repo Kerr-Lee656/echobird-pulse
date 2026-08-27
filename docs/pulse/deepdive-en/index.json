@@ -286,5 +286,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-26T20:19:46Z",
   "fetched_at": "2026-08-26T23:37:07.116618+00:00"
+ },
+ "c1af6b58492f": {
+  "id": "c1af6b58492f",
+  "url": "https://github.com/browser-use/browser-use",
+  "title": "browser-use/browser-use — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-27T09:42:46.322299+00:00"
+ },
+ "191947403d65": {
+  "id": "191947403d65",
+  "url": "https://github.com/langchain-ai/deepagents",
+  "title": "LangChain-AI/deepagents: agent harness",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T09:14:49Z",
+  "fetched_at": "2026-08-27T09:43:19.059503+00:00"
+ },
+ "8e38112b54f3": {
+  "id": "8e38112b54f3",
+  "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+  "title": "Independent investigation of agents' behavior in OpenAI/Hugging Face incident",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T07:47:52Z",
+  "fetched_at": "2026-08-27T09:43:51.360782+00:00"
+ },
+ "2d7a05f154e9": {
+  "id": "2d7a05f154e9",
+  "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+  "title": "OpenAI staff observed warning signs before AI agents attack on Hugging Face",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-27T05:42:42Z",
+  "fetched_at": "2026-08-27T09:45:13.972389+00:00"
  }
 }

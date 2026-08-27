@@ -1,0 +1,23 @@
+{
+ "id": "23dfafd8cfb7",
+ "url": "https://www.aibase.com/news/30658",
+ "title": "英伟达拟超130亿美元收购Hugging Face 微软亦参与接触谈判",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-27T05:40:37.822Z",
+ "fetched_at": "2026-08-27T09:40:33.104348+00:00",
+ "content": "As reported by Business Insider on August 27, NVIDIA is currently in deep discussions with the open-source AI platform Hugging Face regarding a potential acquisition valued at over $13 billion (approximately 87.592 billion Chinese yuan). If the deal is finalized, it would become one of NVIDIA's largest acquisitions in history.\nPreviously, Microsoft also had preliminary meetings with Hugging Face but did not proceed to in-depth negotiations. At the end of last year, Hugging Face rejected a $500 million investment from NVIDIA (at the time, the company was valued at around $7 billion), citing the reason of avoiding intervention by a dominant investor in the company's decisions.\nAs the \"GitHub\" of the AI world, Hugging Face hosts millions of models and datasets. In terms of commercialization, according to The Information's data this week, its annualized revenue grew by 50% within two months and exceeded $150 million, nearly doubling from $70 million in 2023 and $130 million in 2024. Based on a Freemium model, its paid conversion rate ranges from 3% to 5%, and it has accumulated over 2,000 enterprise customers.",
+ "report": {
+  "summary": "英伟达拟超130亿美元收购Hugging Face，微软亦曾接触谈判。",
+  "background": "Hugging Face被誉为AI界的GitHub，托管数百万模型和数据集，是开源AI生态的核心平台。此前英伟达曾提出5亿美元投资，但被Hugging Face拒绝，因其担心大投资者的干预。如今英伟达拟以超130亿美元收购，微软也参与了初步接触但未深入。Hugging Face商业化进展迅速，年化收入从2023年的7000万美元增长至超1.5亿美元，企业客户超2000家。",
+  "key_points": [
+   "英伟达拟以超130亿美元收购Hugging Face，若达成将成为其史上最大收购之一，彰显对AI开源生态的重视。",
+   "Hugging Face此前拒绝英伟达5亿美元投资，原因是避免大投资者干预决策，如今面对更高报价态度或生变。",
+   "微软曾与Hugging Face初步接触但未深入谈判，目前英伟达在收购竞争中处于领先位置。",
+   "Hugging Face年化收入超1.5亿美元，付费转化率3%-5%，企业客户超2000家，商业模式已初步验证。"
+  ],
+  "impact": "对AI行业而言，英伟达若成功收购将掌控AI模型分发入口，进一步强化从芯片到平台的全栈垄断。对开发者，开源平台的中立性可能受挑战，但也能获得更强算力支持。对普通用户，Hugging Face服务或与英伟达技术深度整合，使用体验可能变化，同时需警惕生态封闭风险。",
+  "tools": "建议关注Hugging Face平台自身（含Transformers、Datasets等库），以及英伟达的AI Enterprise、NeMo框架，用于模型部署和定制化开发。"
+ },
+ "lang": "zh"
+}

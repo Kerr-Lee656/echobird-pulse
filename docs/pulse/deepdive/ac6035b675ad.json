@@ -1,0 +1,24 @@
+{
+ "id": "ac6035b675ad",
+ "url": "https://thenextweb.com/news/gemini-live-spark-voice-agentic-tasks-dma-rival-assistants",
+ "title": "Gemini Live gains agentic tasks, voice inbox control and personal intelligence",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-27T09:38:44.901996+00:00",
+ "content": "Google has added four capabilities to Gemini Live, letting spoken commands trigger background agents that work across Docs, Sheets and Drive, alongside hands-free Gmail control and a spoken daily brief. Its DMA settlement requires it to let rival assistants reach comparable functionality on Android by July 2027.\nGoogle has given its voice assistant the ability to keep working after you stop talking. Gemini Live can now pass a spoken instruction to Spark, which runs multi-step jobs across Docs, Sheets, Drive and the web over days, with the app closed.\nThree smaller additions arrive with it. A spoken daily brief that merges Gmail and Calendar, hands-free inbox control covering search, summarise, star, archive and delete, and Personal Intelligence, which remembers past chats and reads connected apps.\nThe design assumption is stated openly. Google says 63% of Gemini users already speak to it, and product director Neel Joshi wrote that “speaking a prompt out loud is often the quickest way to get help with Gemini.”\nSome of this is a second appearance. Spark and Daily Brief both arrived at I/O in May, and what is genuinely new is reaching them by voice in an unbroken conversation.\nThe tiers matter more than the features. Spark needs a Google AI Pro subscription or higher and Daily Brief needs AI Plus, so the agentic half sits behind the more expensive plan.\nIn Europe this lands on an obligation Google already carries. Its settlement with the Commission requires it to let rival assistants on Android reach comparable functionality, including voice wake commands and in-app actions, by July 2027.\nThat bar just moved. Every capability added to Gemini Live is also, in the EU, a specification for what a competitor must eventually be allowed to build.\nThe data side is a separate question under the same law. Article 5(2) of the Digital Markets Act stops a gatekeeper cross-using personal data from a designated service in other services it provides separately, absent specific consent.\nTwo of the four apps Google names are designated. Search and YouTube are core platform services under Alphabet’s designation, while Gmail and Photos are not.\nGoogle’s answer is that nothing happens unless you ask. Users have to connect their apps in the Personal Intelligence settings before any of it works.\nWhat the announcement never says is where. It names no countries, no languages and no European carve-out, from a company whose assistant skipped Europe at launch once already.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌Gemini Live新增语音代理任务、每日简报、Gmail免提控制和个性化智能。",
+  "background": "Google在I/O大会曾发布Spark和Daily Brief，此次通过语音在连续对话中实现。更新正值欧盟DMA法规压力下，谷歌需向竞争对手开放类似功能。个人智能涉及跨应用数据使用，受DMA第5(2)条限制，用户需主动授权才能连接应用。高级功能采取订阅分层，普通用户无法使用代理能力。",
+  "key_points": [
+   "Gemini Live现在能通过语音指令触发Spark后台代理，在Docs、Sheets和Drive上执行多步骤任务，即使关掉应用也能持续运行数天。这标志着语音助手从问答升级到代理式执行。",
+   "新增每日语音简报，自动合并Gmail和日历内容；同时支持免提邮件控制，用户可语音搜索、总结、标星、归档和删除邮件。",
+   "个人智能（Personal Intelligence）会记住历史对话并读取已连接应用，但必须在设置中手动授权，谷歌强调未经用户要求不会启动。",
+   "功能分层明显：Spark需要Google AI Pro订阅，每日简报需要AI Plus，导致真正的代理能力被放在付费墙后。",
+   "在欧盟，由于DMA和解协议，谷歌必须在2027年7月前允许竞争对手助手达到类似功能，所以本次更新的每一项都会成为开放标准。"
+  ],
+  "impact": "对AI行业：语音助手从单轮问答转向复杂的多步骤代理任务，意味着AI竞品需要构建更深的多应用集成能力，欧盟开放条款将促使巨头之间的功能对齐。对开发者：需要针对Gemini API和Agent框架进行适配，同时也可能迎来更多跨应用数据访问机会，但需注意用户隐私合规。对普通用户：日常操作更便捷，比如语音处理邮件、获取简报，但高级功能要付费，且个人数据被AI读取，隐私风险需自行权衡。",
+  "tools": "想体验可订阅Google AI Pro；开发者可查看Gemini API与Agent开发文档；开源替代可关注LangChain、AutoGPT等自主代理框架。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "53a965c5840a",
+ "url": "https://www.aibase.com/news/30662",
+ "title": "亚马逊追订 200 万颗英伟达 GPU，AI 算力军备赛再升一级",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-27T05:40:37.822Z",
+ "fetched_at": "2026-08-27T09:40:01.976524+00:00",
+ "content": "Amazon and NVIDIA announced on August 26 that they are deepening their collaboration. The former will deploy an additional 2 million NVIDIA GPUs in its data centers over the next two years. These chips, which include Blackwell Ultra, Rubin, and Rubin Ultra, are mainly used for large model training and inference, and are planned to be gradually integrated into AWS data centers in 2027 and 2028.\nSelf-developed and purchased chips go hand in hand, but NVIDIA still leads\nThe news came as NVIDIA revealed its quarterly earnings call. Just five months ago, Amazon had committed to deploying over 1 million GPUs, but the unexpectedly fast growth in demand has forced the order to double; the amount was not disclosed, but the potential value is estimated to be in the hundreds of billions of dollars based on the price of high-end GPUs. Notably, Amazon is accelerating the development of its self-made Trainium and Graviton chips to reduce dependency, with the annualized revenue run rate of custom chips already exceeding $25 billion, yet NVIDIA still maintains its leading position through this major order.\nThe cooperation goes beyond just buying cards. NVIDIA's networking, open models, CPUs, data software, and robotics platforms will be more widely integrated into AWS. Vera CPUs are partially integrated with Rubin and partially delivered independently, and have been progressing since the third quarter. Both sides are extending towards warehouse automation, with Amazon adopting \"physical AI\" technology stacks such as Omniverse, Cosmos, and Isaac to drive a fleet of robots.\nNVIDIA's same-day quarterly report confirms the fervor for computing power: second-quarter revenue reached $96.2 billion, exceeding expectations, with $89 billion from the data center segment, up 117% year-over-year. It is expected to reach $108 billion in the third quarter, with Rubin already in mass production this quarter. The company also promised to invest $279 billion to secure supply and capacity. Huang Renxun said that AI has generated profitable \"tokens,\" but the market is still focused on the core question—whether the tens of billions of infrastructure investments can be converted into profit as expected.",
+ "report": {
+  "summary": "亚马逊追订200万颗英伟达GPU，AI算力军备赛进一步升级。",
+  "background": "亚马逊与英伟达8月26日宣布深化合作，未来两年内部署额外200万颗GPU。此前5个月亚马逊刚承诺100万颗，需求增长远超预期，订单翻倍。尽管亚马逊自研Trainium芯片年化收入超250亿美元，但英伟达仍通过这笔大单保持主导。双方将合作扩展至网络、CPU和机器人等领域，反映云厂商在大模型训练推理上的算力军备竞赛白热化。",
+  "key_points": [
+   "亚马逊宣布未来两年内部署额外200万颗英伟达GPU，涵盖Blackwell Ultra、Rubin及Rubin Ultra系列，计划2027到2028年逐步上线。",
+   "该订单价值未披露，但按高端GPU价格估算或达数千亿美元，相比五个月前100万颗翻倍，凸显AI算力需求增长远超预期。",
+   "亚马逊正在加速自研Trainium和Graviton芯片，自定义芯片年化收入已超250亿美元，但此次追加订单表明其仍难以摆脱对英伟达的依赖。",
+   "双方合作超出单纯采购，英伟达网络方案、Vera CPU、开放模型及Omniverse等将融入AWS，并用于亚马逊仓库机器人的“物理AI”技术栈。",
+   "英伟达同日财报显示第二季度收入962亿美元，数据中心贡献890亿美元，同比增长117%，Rubin已量产，印证算力需求火爆。"
+  ],
+  "impact": "对AI行业而言，这笔天量订单将锁定英伟达未来几年的产能，进一步抬高算力基础设施投资门槛，可能加剧云厂商之间的军备竞赛。对开发者来说，更多GPU实例意味着更充分的模型训练和推理资源，但短期云服务成本难以降低。普通用户将看到更强大、响应更快的AI应用落地，但也要警惕巨额资本开支若无法盈利，行业可能面临调整。",
+  "tools": "可关注NVIDIA Blackwell/Rubin架构、AWS Trainium自定义芯片，以及NVIDIA Omniverse、Isaac等机器人开发套件。开发者可在AWS实例中体验最新GPU，或通过Trainium SDK尝试自研芯片的推理优化。"
+ },
+ "lang": "zh"
+}

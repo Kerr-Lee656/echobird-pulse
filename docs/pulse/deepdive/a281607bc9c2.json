@@ -1,0 +1,24 @@
+{
+ "id": "a281607bc9c2",
+ "url": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts",
+ "title": "Australia's recording association bans AI-made music from charts",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-27T09:38:25.168998+00:00",
+ "content": "Australia's recording association bans AI-made music from charts\nSongs using gen-AI as a support tool will still be allowed.\nThe Australian Recording Industry Association announced today that any tracks wholly generated with AI will not be eligible for inclusion on the nation's music charts. The Code of Practice for the charts will allow songs that use generative AI to be counted, but only if the track in question \"is substantially human made\" and \"raises no stream or chart manipulation concerns.\" These rules will apply to the charts beginning this Friday. Tracks not eligible for the charts will also not be able to win an ARIA Award.\n\"The ARIA Charts will always remain a transparent measurement of the music Australia consumes, but a chart that rewards unlicensed AI output would undercut the very basis of the recorded music we exist to represent,\" said ARIA CEO, Annabelle Herd. \"We call on all parties who have a role in deciding the music played and promoted to Australian audiences, particularly radio, to support human artistry and implement similar changes across their own codes.\"\nThis is a step in the direction that much of the global recording industry has been pushing for. ARIA's new policies echo the recommendations around AI use recently laid out by the International Federation of the Phonographic Industry, or IFPI, in July. Last month, a group of major labels also called for charting organizations to prohibit the inclusion of AI slop. That effort included support from the big three of Sony Music, Universal Music Group and Warner Music Group.",
+ "report": {
+  "summary": "澳大利亚唱片协会禁止纯AI生成音乐进入排行榜。",
+  "background": "随着生成式AI音乐泛滥，全球唱片行业开始抵制未经授权的AI作品进入主流榜单。国际唱片业协会IFPI于7月发布AI使用建议，环球、索尼、华纳三大唱片公司也联合呼吁排行榜机构封禁AI“垃圾音乐”。此次澳大利亚唱片工业协会（ARIA）率先落地政策，明确规定纯AI生成曲目不得参与排行及ARIA奖项评选，但辅助性AI制作仍被允许，旨在平衡技术创新与人类艺术保护。",
+  "key_points": [
+   "纯AI生成音乐将被排除在澳大利亚音乐排行榜和ARIA奖项之外。",
+   "使用生成式AI辅助、但实质为人类创作的歌曲仍可上榜。",
+   "新规自本周五生效，并强调防止灌水和榜单操纵行为。",
+   "ARIA呼吁广播电台等播放机构采取类似政策，支持人类艺术创作。",
+   "该政策与IFPI建议及三大唱片公司的诉求一致，反映行业趋势。"
+  ],
+  "impact": "对AI行业，将限制纯AI音乐在商业变现渠道中的流通，倒逼AI音乐工具转向辅助创作。对开发者而言，需调整产品定位，强调人机协作与版权合规。对普通用户，排行榜将更侧重艺术家原创，但AI辅助音乐仍可获得曝光，听众需关注作品背后的创作透明度。",
+  "tools": "若想了解榜单规范可关注ARIA官网；跟进IFPI关于AI的行业准则。开发者可参考AI音乐生成工具如Suno、Udio，并探索Human-in-the-loop的创作流程，或使用LALAL.AI做音频分离辅助人类制作。"
+ },
+ "lang": "zh"
+}
