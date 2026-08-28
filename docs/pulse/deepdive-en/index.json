@@ -466,5 +466,68 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-08-28T04:00:00.000Z",
   "fetched_at": "2026-08-28T06:15:18.677714+00:00"
+ },
+ "fea5f6e87ebd": {
+  "id": "fea5f6e87ebd",
+  "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+  "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-28T18:19:40.000Z",
+  "fetched_at": "2026-08-28T18:42:00.597104+00:00"
+ },
+ "a1395b4e087f": {
+  "id": "a1395b4e087f",
+  "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+  "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-08-28T18:07:55.000Z",
+  "fetched_at": "2026-08-28T18:42:24.367205+00:00"
+ },
+ "4f3141d06364": {
+  "id": "4f3141d06364",
+  "url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
+  "title": "Songs created by AI banned from Australia's music charts",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T17:29:31Z",
+  "fetched_at": "2026-08-28T18:42:39.742923+00:00"
+ },
+ "772ab747040e": {
+  "id": "772ab747040e",
+  "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+  "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+  "source": "Anthropic：Research（发表成果 · 网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-28T17:25:56.000Z",
+  "fetched_at": "2026-08-28T18:42:51.342793+00:00"
+ },
+ "de58f2f7593a": {
+  "id": "de58f2f7593a",
+  "url": "https://arxiv.org/abs/2608.23691",
+  "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+  "source": "Hacker News (12pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T17:01:12Z",
+  "fetched_at": "2026-08-28T18:43:06.288993+00:00"
+ },
+ "a26da70aec30": {
+  "id": "a26da70aec30",
+  "url": "https://www.servethehome.com/sambanovas-sn50-rdu-for-ai-at-hot-chips-2026/",
+  "title": "SambaNova's SN50 RDU for AI at Hot Chips 2026 – ServeTheHome",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T16:57:12Z",
+  "fetched_at": "2026-08-28T18:43:28.686156+00:00"
+ },
+ "c47d47880eef": {
+  "id": "c47d47880eef",
+  "url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+  "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+  "source": "@Zai_org",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-28T15:04:44.000Z",
+  "fetched_at": "2026-08-28T18:45:04.608891+00:00"
  }
 }

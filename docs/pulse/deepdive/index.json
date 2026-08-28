@@ -7486,5 +7486,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-08-27T22:13:21.271Z",
   "fetched_at": "2026-08-28T06:09:34.150581+00:00"
+ },
+ "51579e565d50": {
+  "id": "51579e565d50",
+  "url": "https://thenextweb.com/news/softbank-another-10bn-loan-openai-stake",
+  "title": "SoftBank seeks a second $10bn loan against its OpenAI stake",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:38:48.877460+00:00"
+ },
+ "f9f25f1006a0": {
+  "id": "f9f25f1006a0",
+  "url": "https://thenextweb.com/news/nvidia-pauses-ai-cloud-revenue-sharing-deals",
+  "title": "Nvidia has paused parts of the revenue-sharing programme it launched in July",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:39:13.873248+00:00"
+ },
+ "3dc456310ffa": {
+  "id": "3dc456310ffa",
+  "url": "https://thenextweb.com/news/anthropic-matx-7bn-acquisition-abandoned",
+  "title": "Anthropic planned a $7bn takeover of chip startup MatX, then walked away",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:39:36.509783+00:00"
+ },
+ "3b3d7061b61c": {
+  "id": "3b3d7061b61c",
+  "url": "https://thenextweb.com/news/nvidia-h200-china-zero-revenue-guidance-europe-gigafactories",
+  "title": "Nvidia ships first H200 chips to China, but expects no data-centre revenue from them",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:39:46.561842+00:00"
+ },
+ "017aa83422b4": {
+  "id": "017aa83422b4",
+  "url": "https://www.techradar.com/pro/security/openai-reveals-group-calling-for-greater-cybersecurity-protection-against-ai-signs-up-microsoft-google-and-many-more",
+  "title": "OpenAI reveals group calling for greater cybersecurity protection against AI, signs up Microsoft, Google and many more",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:39:57.285802+00:00"
+ },
+ "717b1ff58082": {
+  "id": "717b1ff58082",
+  "url": "https://www.36kr.com/p/3958390719593861",
+  "title": "Claude「肉身」降临，接管全球设备，A社祭出硬件版MCP",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:40:14.449866+00:00"
+ },
+ "897a32192dbf": {
+  "id": "897a32192dbf",
+  "url": "https://hub.baai.ac.cn/view/57512",
+  "title": "DeepSeek 前 7 个月营收约 7000 万美元，API 毛利 82.9%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:40:23.449600+00:00"
+ },
+ "fb5e778af146": {
+  "id": "fb5e778af146",
+  "url": "https://hub.baai.ac.cn/view/57513",
+  "title": "OpenAI 首次公开入侵 Hugging Face 完整报告",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:40:47.261684+00:00"
+ },
+ "d0d277d58aae": {
+  "id": "d0d277d58aae",
+  "url": "https://www.leiphone.com/category/industrynews/r1n2DqDnYM9CiY9L.html",
+  "title": "腾讯混元发布并开源新一代大语言模型 Hy4 preview",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T18:40:58.172711+00:00"
  }
 }

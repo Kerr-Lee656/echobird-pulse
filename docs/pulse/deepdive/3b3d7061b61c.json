@@ -1,0 +1,24 @@
+{
+ "id": "3b3d7061b61c",
+ "url": "https://thenextweb.com/news/nvidia-h200-china-zero-revenue-guidance-europe-gigafactories",
+ "title": "Nvidia ships first H200 chips to China, but expects no data-centre revenue from them",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-28T18:39:46.561842+00:00",
+ "content": "Nvidia shipped its first H200 processors to China under a new US licensing scheme, and they accounted for less than 1% of $89B in quarterly data centre revenue. Its $108B forecast for the current quarter assumes no data centre computing revenue from China at all.\nNvidia has started shipping H200 processors to China and told investors to expect nothing from it. The chips went out in the quarter to 26 July under a new US licensing scheme, and accounted for less than 1% of $89B in data centre revenue.\nThe forecast is the part worth reading twice. Nvidia expects $108B in the current quarter and assumes no data centre computing revenue from China at all.\nJensen Huang says even that is being held back. “The unconstrained growth would be a lot higher,” he said, putting real demand well above the 70% figure the company has guided for next year.\nRead from here, the numbers land differently. A single supplier can write the world’s second-largest economy out of its forecast and still guide up by roughly a fifth.\nEurope’s answer is seven buildings. The Commission has opened bidding on up to seven AI gigafactories at €30B, split roughly €10B public and €20B private.\nAbout €1B of the public share is actually committed. The rest depends on the next long-term budget, which a Commission official pointedly declined to pre-empt.\nSet those figures beside each other. Nvidia books roughly a billion dollars of data centre revenue a day, so the money Europe has firmly committed to seven gigafactories is about a day of its supplier’s sales.\nEach site is meant to house at least 100,000 advanced chips. Every one of them will be bought on the open market from the company that just guided $108B.\nThe prices are moving the wrong way for a buyer. Nvidia has told customers that server prices rise by more than 15% from early next year.\nThe schedule does not help either. Construction is due to start in early 2027 with the first sites running by mid-2028.\nTNW has argued that the sovereignty framing around all this is thin. Renting the same silicon from a European address is an illusion of independence rather than the thing itself.\nSo the H200 story is really about leverage. Nvidia can lose a market the size of China and grow, and Europe is negotiating for buildings it has not yet funded, with chips it does not make.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英伟达向中国出货H200，但预计中国数据中心收入为零。",
+  "background": "在美国新许可制度下，英伟达首次向中国交付H200芯片，但该部分收入占比不足数据中心总营收的1%。英伟达对下季度营收的预期高达1080亿美元，且完全不含中国数据中心收入，表明其已适应对华出口限制。与此同时，欧洲计划建设七座AI超级工厂，但已承诺的公共资金仅约10亿欧元，相当于英伟达一天的销售额，凸显欧洲在AI算力竞赛中的弱势地位。",
+  "key_points": [
+   "英伟达已向中国出货首批H200芯片，但收益微乎其微，仅占季度数据中心收入89亿美元的不到1%。",
+   "公司预测本季度收入1080亿美元，但明确假设中国数据中心计算收入为零，显示其增长不依赖中国市场。",
+   "黄仁勋表示，即使如此高的预测仍受限制，实际需求远超指引，暗示供应瓶颈而非需求不足。",
+   "欧洲斥资建设AI超级工厂，但已承诺的公共资金仅约10亿欧元，约等于英伟达一天的销售额，资金缺口巨大。",
+   "英伟达计划明年起服务器价格上调超15%，且欧洲工厂最早2027年动工，时间与成本均不利。"
+  ],
+  "impact": "英伟达主导地位进一步强化，即使失去中国市场仍能高速增长，显示出AI算力供应链的高度集中。开发者可能面临更贵的算力和更严的出口限制，尤其是中国开发者获取高端芯片愈发困难。普通用户则可能因AI服务成本上升而间接承担更高费用。欧洲的自主算力尝试目前象征意义大于实际，短期内难以改变依赖格局。",
+  "tools": "可关注英伟达官方H200技术文档与CUDA生态；欧洲EuroHPC项目及AI超级工厂招标动态；开源大模型如Llama 3在国产芯片上的适配进展，以了解替代路径。"
+ },
+ "lang": "zh"
+}
