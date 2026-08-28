@@ -1,0 +1,24 @@
+{
+ "id": "8e09a8bfe051",
+ "url": "https://www.aibase.com/news/30684",
+ "title": "英伟达急刹\"抽成换算力\"计划，疑为规避反垄断审查",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-28T01:53:15.845Z",
+ "fetched_at": "2026-08-28T06:09:10.775073+00:00",
+ "content": "According to a report by The Wall Street Journal, citing informed sources, NVIDIA has suspended a new financing program aimed at AI cloud service providers. The plan was intended to provide credit support to cloud service providers in exchange for a percentage of the revenue generated from cloud business based on NVIDIA's computing power. It was halted less than two months before its scheduled launch in July.\nInternal Concerns Trigger Regulatory Red Lines\nSome NVIDIA employees have expressed concerns to existing and potential customers, believing that the project could trigger antitrust reviews. There is also heightened sensitivity towards the chip giant's excessive intervention in customer operations. NVIDIA has also required some customers to only rent out computing power equipped with its own chips to \"approved\" parties, and prefers to distribute computing power to multiple small startups rather than concentrate it on large clients, further intensifying the monopoly controversy.\nA NVIDIA spokesperson said that the new model launched in July aims to help the AI ecosystem access computing power, and it is still operational and will continue to be optimized. However, it has been disclosed that the company originally planned to offer buyback guarantees when customers failed to rent out computing power, allowing it to profit from hardware sales while taking a share of cloud business revenue. This \"both supplier and shareholder\" design is the core reason for the regulatory concerns. NVIDIA may adjust the plan and integrate it into other businesses, seeking a balance between expansion and compliance.",
+ "report": {
+  "summary": "英伟达暂停以算力换云收入分成计划，规避反垄断风险。",
+  "background": "英伟达计划推出一项面向AI云服务商的融资方案：提供信贷支持，换取客户基于其算力所获云业务收入的一定比例分成，原定7月上线。然而，内部员工和客户担忧此举可能触发反垄断审查，且英伟达被曝要求客户仅向“获批方”出租其芯片算力，并偏好将算力分散给多家初创而非大客户，加剧垄断争议。该计划在设计上同时扮演供应商和股东角色，成为监管关注核心。",
+  "key_points": [
+   "英伟达暂停了原定7月推出的算力换收入分成融资计划，距上线不到两个月。",
+   "内部员工和客户担忧该计划会引起反垄断审查，英伟达对客户运营干预过深。",
+   "计划曾包含回购担保条款：客户算力租不出去时英伟达回购，既赚硬件又分云收入。",
+   "英伟达要求客户仅向批准方出租其芯片算力，并倾向将算力分散给多家小初创，引发垄断争议。",
+   "英伟达发言人否认计划终止，称仍在运营优化，但可能调整并整合进其他业务。"
+  ],
+  "impact": "对AI行业：算力分配和云服务模式可能重新平衡，避免芯片厂商过度控制算力生态；对开发者：短期内租赁算力的灵活性和选择可能受限，但长期更公平的算力市场利于创新；对普通用户：AI服务成本与供应稳定性可能受影响，监管介入有望防止算力垄断导致的价格上涨。",
+  "tools": "关注英伟达官方公告及监管动向（美国FTC、欧盟委员会），可跟踪The Wall Street Journal等深度报道；开源社区可关注GPU算力调度工具如Kubernetes、Slurm，以及云原生AI平台如Ray，以保持对算力生态演进的敏感度。"
+ },
+ "lang": "zh"
+}

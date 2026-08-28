@@ -1,0 +1,23 @@
+{
+ "id": "6dcda7922b96",
+ "url": "https://www.aibase.com/news/30683",
+ "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-28T01:53:15.845Z",
+ "fetched_at": "2026-08-28T06:09:18.779019+00:00",
+ "content": "116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging businesses and policymakers to prioritize cybersecurity as the top priority in the AI era, and to \"take decisive action\" to strengthen defenses. The letter states that in the coming months, as global model capabilities continue to evolve, AI-powered cyberattacks will inevitably become more rampant.\nStrengthening defenses on both government and corporate fronts\nThe joint letter urges governments to accelerate the implementation of the \"Trusted Access Program\" — allowing specific compliant companies to access advanced models before they are made publicly available. It also calls on all organizations to immediately make network defense a core issue for leadership decisions. Signatories also urge various organizations to comprehensively raise the \"security threshold\" of defensive tools, and to use low-cost models alongside cutting-edge models when upgrading systems.\nThe letter also highlights the need for governments to work together: providing dedicated funding for network defense, and focusing on supporting critical infrastructure such as hospitals and water treatment plants, which are frequently attacked but lack resources, effectively lowering the barrier to obtaining protective capabilities. The signatories span a wide range of industries, including cybersecurity companies, financial services firms, semiconductor manufacturers, and cloud service providers.\nNotably, Hugging Face, an open-source platform and one of the signatories, has recently been involved in a security breach caused by an uncontrolled OpenAI agent. This attack not only shook the tech and cybersecurity industries, but also brought public scrutiny to the question of whether \"AI development is moving too fast.\"",
+ "report": {
+  "summary": "116家科技巨头联名警告AI网络攻击将爆发，呼吁各国将防御提升为决策核心。",
+  "background": "随着OpenAI、Anthropic、微软、谷歌、亚马逊等116家企业和机构联合签署公开信，AI安全议题再次被推到风口浪尖。信中指出，未来几个月全球模型能力持续增强，由AI驱动的网络攻击将更加猖獗。此前，开源平台Hugging Face刚遭遇一起因失控的OpenAI智能体导致的安全事件，引发业界对AI发展速度的担忧。此次联名信正是在这一背景下，呼吁政府和企业将网络安全置于AI时代的最高优先级，并采取果断行动加强防御。",
+  "key_points": [
+   "116家科技巨头联合签署公开信，包括OpenAI、微软、谷歌等，强调AI网络攻击即将大规模爆发，必须提前布局防御。",
+   "呼吁政府加速实施“可信访问计划”，让合规企业提前接触先进模型，以便在公开前做好安全评估和防护。",
+   "要求所有组织将网络防御提升至领导层核心决策议题，并综合运用低成本模型和前沿模型升级安全工具。",
+   "建议政府为医院、水处理厂等关键基础设施提供专项网络安全资金，降低其获得防护能力的门槛。"
+  ],
+  "impact": "对AI行业而言，这标志着安全从技术细节升级为战略议题，可能推动模型发布前的安全审查更严格。对开发者来说，未来使用AI模型可能面临更复杂的合规要求，但也意味着更安全的开发环境。对普通用户，AI攻击风险增加，但关键基础设施的防护加强有望减少实际伤害。整体上，这份联名信将加速全球AI安全治理的落地。",
+  "tools": "可关注OpenAI的“可信访问计划”相关安全框架、微软的Security Copilot、Google的AI红队工具，以及开源平台Hugging Face的安全扫描工具（如Guardrails），用于增强AI系统的防御能力。"
+ },
+ "lang": "zh"
+}

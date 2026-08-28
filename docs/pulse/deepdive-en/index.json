@@ -367,5 +367,104 @@
   "site_name": "Wired AI",
   "published_at": "2026-08-27T16:52:42.000Z",
   "fetched_at": "2026-08-27T20:33:12.860247+00:00"
+ },
+ "a7a73112040f": {
+  "id": "a7a73112040f",
+  "url": "https://github.com/andrewyng/aisuite",
+  "title": "andrewyng/aisuite — Simple, unified interface to multiple Generative AI providers",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:10:29.128480+00:00"
+ },
+ "97b126ef8020": {
+  "id": "97b126ef8020",
+  "url": "https://github.com/NVIDIA/Megatron-LM",
+  "title": "NVIDIA/Megatron-LM — Ongoing research training transformer models at scale",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:10:46.845695+00:00"
+ },
+ "620b0c85e2e5": {
+  "id": "620b0c85e2e5",
+  "url": "https://github.com/ai-dynamo/dynamo",
+  "title": "ai-dynamo/dynamo — A Datacenter Scale Distributed Inference Serving Framework",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:11:00.307917+00:00"
+ },
+ "286c73249272": {
+  "id": "286c73249272",
+  "url": "https://github.com/docker/docker-agent",
+  "title": "docker/docker-agent — AI Agent Builder and Runtime by Docker Engineering",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:11:12.647719+00:00"
+ },
+ "b6648a2b1e87": {
+  "id": "b6648a2b1e87",
+  "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+  "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T05:32:55Z",
+  "fetched_at": "2026-08-28T06:12:42.698537+00:00"
+ },
+ "e8ab7c7f6b9e": {
+  "id": "e8ab7c7f6b9e",
+  "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+  "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T05:16:47Z",
+  "fetched_at": "2026-08-28T06:12:52.017683+00:00"
+ },
+ "b6b997646f53": {
+  "id": "b6b997646f53",
+  "url": "https://arxiv.org/abs/2608.10257",
+  "title": "GenRec: An LLM-Backed Recommendation Ranker at Netflix",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T05:00:59Z",
+  "fetched_at": "2026-08-28T06:13:07.267286+00:00"
+ },
+ "f1059b45da33": {
+  "id": "f1059b45da33",
+  "url": "https://arxiv.org/abs/2608.26167",
+  "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-28T04:00:00.000Z",
+  "fetched_at": "2026-08-28T06:13:28.770240+00:00"
+ },
+ "1356666515ba": {
+  "id": "1356666515ba",
+  "url": "https://arxiv.org/abs/2608.26190",
+  "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-28T04:00:00.000Z",
+  "fetched_at": "2026-08-28T06:14:38.889704+00:00"
+ },
+ "22e9439185d0": {
+  "id": "22e9439185d0",
+  "url": "https://arxiv.org/abs/2608.26218",
+  "title": "Same Model, Different Harness: Different Coding-Agent Results",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-28T04:00:00.000Z",
+  "fetched_at": "2026-08-28T06:14:59.044125+00:00"
+ },
+ "670e2eafaac5": {
+  "id": "670e2eafaac5",
+  "url": "https://arxiv.org/abs/2608.26225",
+  "title": "Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-08-28T04:00:00.000Z",
+  "fetched_at": "2026-08-28T06:15:18.677714+00:00"
  }
 }

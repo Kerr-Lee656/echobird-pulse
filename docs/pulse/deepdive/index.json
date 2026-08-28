@@ -7414,5 +7414,77 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-08-27T20:27:47.343525+00:00"
+ },
+ "5a4b2f5dc688": {
+  "id": "5a4b2f5dc688",
+  "url": "https://www.36kr.com/p/3957173999451521",
+  "title": "英伟达前AI总监颠覆Transformer，5万亿上下文物理AI，推演整个宇宙",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:07:34.707404+00:00"
+ },
+ "a976d8642e1f": {
+  "id": "a976d8642e1f",
+  "url": "https://www.aibase.com/zh/news/30681",
+  "title": "谷歌发布 Gemini Omni 1.1 Flash 视频生成模型，支持直出 4K 分辨率",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:07:43.379919+00:00"
+ },
+ "d3170fd8beea": {
+  "id": "d3170fd8beea",
+  "url": "https://hub.baai.ac.cn/view/57501",
+  "title": "神秘「牛来」模型揭晓：智谱发布 GLM-5.3-Flash",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:07:57.694983+00:00"
+ },
+ "1fc9b7c501a2": {
+  "id": "1fc9b7c501a2",
+  "url": "https://news.mydrivers.com/1/1146/1146984.htm",
+  "title": "SK海力士CEO：AI需求激增，内存短缺预计持续至2030年底",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:08:15.012583+00:00"
+ },
+ "28bdaef71934": {
+  "id": "28bdaef71934",
+  "url": "https://www.aibase.com/zh/news/30680",
+  "title": "Meta 被曝每年最高向 Anthropic 支付百亿美元，重金押注外部大模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-28T06:08:29.069059+00:00"
+ },
+ "8e09a8bfe051": {
+  "id": "8e09a8bfe051",
+  "url": "https://www.aibase.com/news/30684",
+  "title": "英伟达急刹\"抽成换算力\"计划，疑为规避反垄断审查",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-28T01:53:15.845Z",
+  "fetched_at": "2026-08-28T06:09:10.775073+00:00"
+ },
+ "6dcda7922b96": {
+  "id": "6dcda7922b96",
+  "url": "https://www.aibase.com/news/30683",
+  "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-28T01:53:15.845Z",
+  "fetched_at": "2026-08-28T06:09:18.779019+00:00"
+ },
+ "ee6a6ad8a9e6": {
+  "id": "ee6a6ad8a9e6",
+  "url": "https://phys.org/news/2026-08-ai-potentially-stable-protein-sequences.html",
+  "title": "AI模型设计出了比自然界中已发现的更稳定的蛋白质序列",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-27T22:13:21.271Z",
+  "fetched_at": "2026-08-28T06:09:34.150581+00:00"
  }
 }
