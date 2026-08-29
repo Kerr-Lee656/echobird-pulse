@@ -7648,5 +7648,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-08-28T18:28:20.792Z",
   "fetched_at": "2026-08-29T02:53:14.495991+00:00"
+ },
+ "3e8a964589aa": {
+  "id": "3e8a964589aa",
+  "url": "https://aiera.com.cn/2026/08/29/other/admin/111242/claude%e3%80%8c%e8%82%89%e8%ba%ab%e3%80%8d%e9%99%8d%e4%b8%b4%ef%bc%8c%e6%8e%a5%e7%ae%a1%e5%85%a8%e7%90%83%e8%ae%be%e5%a4%87%ef%bc%81a%e7%a4%be%e7%a5%ad%e5%87%ba%e7%a1%ac%e4%bb%b6%e7%89%88mcp",
+  "title": "Claude「肉身」降临，接管全球设备！A社祭出硬件版MCP",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-29T04:43:48.743Z",
+  "fetched_at": "2026-08-29T11:02:44.084143+00:00"
+ },
+ "64eb034e6f9d": {
+  "id": "64eb034e6f9d",
+  "url": "https://aiera.com.cn/2026/08/29/other/admin/111096/%e4%b8%a4%e5%ae%b6ai%e5%b7%a8%e5%a4%b4%ef%bc%8c%e5%90%9e%e5%99%ac%e5%85%a8%e7%90%831-3%e6%96%b0%e5%a2%9e%e7%ae%97%e5%8a%9b%ef%bc%81%e6%98%8e%e5%b9%b4%e9%80%bc%e8%bf%91%e4%b8%80%e5%8d%8a",
+  "title": "两家AI巨头，吞噬全球1/3新增算力！明年逼近一半",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-29T04:43:48.743Z",
+  "fetched_at": "2026-08-29T11:02:57.177730+00:00"
+ },
+ "d0e5614bdcb4": {
+  "id": "d0e5614bdcb4",
+  "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+  "title": "Google further buries search results under AI mode",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-29T11:03:09.617772+00:00"
+ },
+ "1396e631fc84": {
+  "id": "1396e631fc84",
+  "url": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
+  "title": "Diamonds, Crescents and Wildcats: Intel shows off its hardware for the next generation of agentic AI workloads",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-29T11:03:26.451197+00:00"
+ },
+ "1a428fce41e5": {
+  "id": "1a428fce41e5",
+  "url": "https://finance.yahoo.com/news/nvidia-pauses-revenue-sharing-deals-223140237.html",
+  "title": "据《华尔街日报》报道，英伟达暂停了与人工智能云服务公司的收入分成协议",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-29T03:48:21.550Z",
+  "fetched_at": "2026-08-29T11:03:37.823255+00:00"
+ },
+ "54cf8a10aeec": {
+  "id": "54cf8a10aeec",
+  "url": "https://www.ithome.com/0/995/847.htm",
+  "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-29T00:11:17Z",
+  "fetched_at": "2026-08-29T11:03:46.118783+00:00"
  }
 }

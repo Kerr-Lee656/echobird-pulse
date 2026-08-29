@@ -1,0 +1,23 @@
+{
+ "id": "d0e5614bdcb4",
+ "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+ "title": "Google further buries search results under AI mode",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T11:03:09.617772+00:00",
+ "content": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google’s results page; instead of seeing part of an AI Overview with a “Show more” button you can click, you’ll Google will show a full AI Overview at the top of your search, an “Ask anything” box under that, and then the list of links. It can lead to a lot of scrolling.\nGoogle further buries search results under AI mode\nGoogle now automatically expands its AI search summaries for some queries.\nIt’s unclear exactly what Google’s criteria is for the auto-expanding AI Overviews. Before writing this story, I was seeing them with most of my test searches. But now, AI Overviews usually just show the initial part of the response and the “Show more” button. My most consistent query to get the auto-expanding AI Overview is “what is the best game on switch 2”, but even that hasn’t been consistent across searches and browsers.\n“For some queries, AI Overviews may dynamically expand for topics where our systems determine it’s most useful for people,” Google spokesperson Jennifer Kutz says in a statement to The Verge. “Our research has shown that with this dynamic experience, users find Search more helpful and engage deeper in follow-up exploration.” Kutz also says that “If users have already begun scrolling to view content below the AI Overview, we cancel expansion so that the user doesn’t lose their reading position.”",
+ "report": {
+  "summary": "Google自动展开AI摘要，搜索结果被推得更低，用户需更多滚动。",
+  "background": "Google在搜索结果顶部引入AI Overviews后，正逐步扩大其影响范围。此次更新针对部分查询，自动展开完整AI摘要，取代原先的“Show more”按钮，进一步挤压传统链接的展示空间。此前Google已因AI摘要引发内容来源争议，但仍在加速AI化搜索，以应对Bing、Perplexity等竞品。谷歌发言人表示，动态展开由系统判断“最有用”的场景，且用户滚动后会自动取消，避免打断阅读。这一变化反映了AI优先的搜索策略，却也加剧了出版商和SEO从业者对流量流失的担忧。",
+  "key_points": [
+   "部分搜索会自动展开完整AI摘要，而非显示“Show more”，传统链接被推得更远，用户需大量滚动才能看到。",
+   "触发条件不透明，The Verge测试时发现结果时有时无，最稳定的查询“Switch 2最佳游戏”也不总是触发。",
+   "Google称动态展开基于系统对“有用性”的判断，且用户开始滚动后会取消展开，以保留阅读位置。",
+   "这是Google AI优先搜索策略的延续，进一步模糊传统链接与AI答案的边界，影响点击率和内容分发。"
+  ],
+  "impact": "对AI行业，Google正引领搜索AI化，可能促使竞品跟进更激进的摘要展开。对开发者，SEO流量分配面临更大不确定性，内容如何被AI引用将更关键。对普通用户，简单问题能更快获取答案，但深入信息需不断滚动，且来源可见性下降，可能影响信息判断。整体上，搜索正从“链接列表”转向“AI对话”，生态各方都需适应新规则。",
+  "tools": "若想跟踪此变化，可关注Search Engine Roundtable的持续报道；对比测试可用Perplexity、ChatGPT等AI搜索工具；开发者可研究Google AI Overview的展示逻辑和结构化数据适配，以优化内容可见性。"
+ },
+ "lang": "zh"
+}

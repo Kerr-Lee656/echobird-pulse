@@ -610,5 +610,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-28T22:07:08Z",
   "fetched_at": "2026-08-29T02:57:55.985845+00:00"
+ },
+ "16f8bc2bcf28": {
+  "id": "16f8bc2bcf28",
+  "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+  "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-08-29T10:30:00.000Z",
+  "fetched_at": "2026-08-29T11:04:51.799773+00:00"
+ },
+ "16a2ba669d1b": {
+  "id": "16a2ba669d1b",
+  "url": "https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/",
+  "title": "Make AI Companies Criminally Liable for Preventable Harm",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T10:20:26Z",
+  "fetched_at": "2026-08-29T11:05:12.429472+00:00"
+ },
+ "01351406bbc1": {
+  "id": "01351406bbc1",
+  "url": "https://github.com/pisantifrancesco89/Project-LightSwitch",
+  "title": "LightSwitch – In-Network and Photonic LLM Inference in Transit",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T09:51:22Z",
+  "fetched_at": "2026-08-29T11:05:44.687315+00:00"
+ },
+ "72bcebbc75d4": {
+  "id": "72bcebbc75d4",
+  "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+  "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T08:33:38Z",
+  "fetched_at": "2026-08-29T11:06:01.116235+00:00"
+ },
+ "ba4ec8602bf4": {
+  "id": "ba4ec8602bf4",
+  "url": "https://oactodev.github.io/ninety-quid/report/",
+  "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T08:28:24Z",
+  "fetched_at": "2026-08-29T11:06:17.106909+00:00"
+ },
+ "cd85910d64f9": {
+  "id": "cd85910d64f9",
+  "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+  "title": "Sharp rise in incidents of AI escaping users' control, research finds",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T07:27:57Z",
+  "fetched_at": "2026-08-29T11:06:33.406753+00:00"
+ },
+ "08c56241e32e": {
+  "id": "08c56241e32e",
+  "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
+  "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+  "source": "IT之家（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-29T04:31:21.000Z",
+  "fetched_at": "2026-08-29T11:07:20.313339+00:00"
+ },
+ "3e9a4aeaaeb9": {
+  "id": "3e9a4aeaaeb9",
+  "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
+  "title": "Microsoft publishes AI Agent Shared Responsibility Model",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T04:28:47Z",
+  "fetched_at": "2026-08-29T11:07:31.317449+00:00"
  }
 }

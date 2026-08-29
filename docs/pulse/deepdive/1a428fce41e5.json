@@ -1,0 +1,24 @@
+{
+ "id": "1a428fce41e5",
+ "url": "https://finance.yahoo.com/news/nvidia-pauses-revenue-sharing-deals-223140237.html",
+ "title": "据《华尔街日报》报道，英伟达暂停了与人工智能云服务公司的收入分成协议",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-29T03:48:21.550Z",
+ "fetched_at": "2026-08-29T11:03:37.823255+00:00",
+ "content": "Aug 27 (Reuters) - Nvidia has paused some deals in a new financing initiative that offered credit support to AI cloud companies in exchange for a share of revenue, the Wall Street Journal reported on Thursday, citing people familiar with the matter.\nSome Nvidia employees expressed concerns to current and potential customers that the initiative could draw antitrust scrutiny, the report said.\nThe chip giant stepped back from the program last week, the Journal said, adding that the company could still revamp the initiative or fold it into another program.\n\"The new business model we introduced in July that opens up compute access to the fast-growing AI ecosystem is still in place and continues to evolve due to high demand,\" an Nvidia spokesperson said.\nThe reported move comes less than two months after Nvidia announced the program. The company introduced it as a new business model designed to support financing needs at AI cloud firms so that they can purchase its expensive chips.\nNvidia had sought to rent the compute capacity back if its cloud customers were unable to sell it. It would also earn a share of their cloud revenues derived from Nvidia-powered capacity, on top of the money made on the chips sale itself.\nThe employees said there are sensitivities around the extent to which Nvidia can dictate how its customers do business, according to the Journal.\nIn the early weeks of the program, Nvidia irked some potential partners with the extent of control it sought, the report said.\nThe company told some customers that they could only rent the chips out to approved customers and signaled it preferred the capacity to be distributed among multiple smaller AI firms rather than one large customer, the Journal said.\n(Reporting by Deborah Sophia in Bengaluru; Editing by Leroy Leo and Joyjeet Das)",
+ "report": {
+  "summary": "英伟达暂停与AI云公司的收入分成协议，因担忧反垄断审查。",
+  "background": "英伟达于2024年7月推出了一项新融资模式：向AI云公司提供信用支持，帮助它们购买昂贵的GPU芯片，作为交换，英伟达可获得这些公司云收入的分成，并有权在其无法售出算力时回收计算能力。该模式旨在扩大AI算力生态，但推出后引发争议。据《华尔街日报》报道，英伟达员工担忧此举可能招致反垄断审查，且英伟达在协议中试图限制客户转售对象和客户规模，令部分潜在合作伙伴不满。英伟达上周已暂停部分此类交易，但表示该模式仍在运行并因高需求持续演变。",
+  "key_points": [
+   "英伟达暂停了部分AI云融资协议，该协议以芯片购买信用支持换取云收入分成，涉及反垄断风险。",
+   "内部员工和潜在客户担心英伟达过度控制客户业务，比如限制芯片只能租给获批客户，引发监管敏感性。",
+   "英伟达曾要求算力分散给多个小AI公司而非单一巨头，这种条款可能被视为滥用市场支配地位。",
+   "英伟达官方表示新业务模式仍在运行，因高需求不断演进，暂停并非全面废除，可能调整后重新推出。",
+   "事件距该项目7月宣布不到两个月，显示英伟达在高利润芯片之外探索金融杠杆时遭遇监管与市场摩擦。"
+  ],
+  "impact": "对AI行业而言，英伟达此举可能缓解中小AI云厂商对供应链捆绑的担忧，但短期算力融资渠道收紧，可能影响初创公司获取GPU。对开发者来说，若协议调整，算力获取成本和灵活性可能变化，需关注后续替代方案。对普通用户而言，AI云服务市场的竞争格局可能因此微调，但最终影响不大。该事件也警示芯片巨头在垂直整合时需要谨慎平衡创新与反垄断合规。",
+  "tools": "可关注英伟达官方融资计划更新，以及AI云服务商如CoreWeave、Lambda Labs的定价和融资动态。开源社区可关注vLLM、Ray等分布式推理工具，以优化算力使用效率，降低对单一供应商的依赖。"
+ },
+ "lang": "zh"
+}
