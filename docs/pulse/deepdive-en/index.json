@@ -682,5 +682,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-29T04:28:47Z",
   "fetched_at": "2026-08-29T11:07:31.317449+00:00"
+ },
+ "ec3f36b4902a": {
+  "id": "ec3f36b4902a",
+  "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+  "title": "80% Prompt Injection Success Rate Against Claude Auto Mode",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T15:23:29Z",
+  "fetched_at": "2026-08-29T16:44:58.715726+00:00"
+ },
+ "5d37cae122d7": {
+  "id": "5d37cae122d7",
+  "url": "https://www.theopenlake.com/blog/introducing-openlake",
+  "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T15:00:32Z",
+  "fetched_at": "2026-08-29T16:45:14.058545+00:00"
+ },
+ "d89b6614789c": {
+  "id": "d89b6614789c",
+  "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+  "title": "Major security weaknesses found in leading open AI models",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T14:15:36Z",
+  "fetched_at": "2026-08-29T16:47:25.187926+00:00"
+ },
+ "619ca67f2222": {
+  "id": "619ca67f2222",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+  "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T14:07:07Z",
+  "fetched_at": "2026-08-29T16:47:41.302299+00:00"
+ },
+ "a85aa69b831b": {
+  "id": "a85aa69b831b",
+  "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+  "title": "Nvidia’s AI advantage is moving beyond the GPU",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-29T13:00:00.000Z",
+  "fetched_at": "2026-08-29T16:48:04.417104+00:00"
+ },
+ "b40b994c97ee": {
+  "id": "b40b994c97ee",
+  "url": "https://www.debian.org/vote/2026/vote_002#texte",
+  "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T10:09:52Z",
+  "fetched_at": "2026-08-29T16:48:20.492206+00:00"
  }
 }

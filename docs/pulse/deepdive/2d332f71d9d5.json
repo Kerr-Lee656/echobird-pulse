@@ -1,0 +1,23 @@
+{
+ "id": "2d332f71d9d5",
+ "url": "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
+ "title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T16:42:50.520192+00:00",
+ "content": "OpenAI is ending its contract to supply models to Cursor following SpaceX’s $60B acquisition, with access shutting off on 12 November and its forthcoming Astra model withheld. Cursor and SpaceXAI shipped Grok 4.5 together in July, which is available in Cursor on every plan.\nOpenAI is ending its contract to supply models to Cursor. The shutoff date is 12 November, the company said on Saturday.\nThe reason given is unusually direct. OpenAI said it cannot be confident SpaceX will use its technology within its terms of service, “based on our experience with Elon Musk’s companies violating contracts“.\nBloomberg reported it first. OpenAI published the same notice on X and on its own website.\nTwo grounds are named, both about earlier conduct. SpaceX’s acquisition of Twitter breached OpenAI’s terms, the company said, and xAI violated them in a way Musk admitted under oath this year.\nThe buyer completed its purchase this month. SpaceX closed the $60B all-stock acquisition of Cursor after agreeing it in June.\nOpenAI says it gave the maximum notice its contract allows, about two and a half months. Astra, its next model, will not be supplied to Cursor at all. It added that it is ready to go above and beyond to support developers moving off.\nThe leverage in that is thinner than it looks. Cursor and SpaceXAI shipped Grok 4.5 together in July, a model Musk called Opus-class, available in Cursor on every plan.\nSo OpenAI is removing a supplier from a company that now owns a frontier lab. The gesture costs Cursor less than it would have in June, when the deal had only been agreed.\nWhat it costs developers is real. Europe wrote rules for exactly this dependency, and since September 2025 cloud customers have been able to switch on two months’ notice and port their assets within 30 days. From January 2027 the provider cannot charge for any of it.\nWhether those rules reach this is unresolved. The definition sweeps in as-a-service models broadly, and nobody has ruled on whether a model API counts as one.\nThere is a further gap in them. The switching rules protect a customer who wants to leave a provider, not a customer whose provider decides to leave. Nobody drafted for a supplier walking out.\nWhich is where European developers on Cursor now sit. Seventy-five days of notice, granted by a contract they never saw, with nothing statutory underneath it.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI终止向Cursor供应模型，因SpaceX收购及历史违约",
+  "background": "SpaceX以600亿美元全股票收购AI编程工具Cursor，并于本月完成。OpenAI随即宣布终止向Cursor供应模型，理由是马斯克旗下公司曾违反合同条款，包括推特收购与xAI的违约行为。此前Cursor已与SpaceXAI合作，推出Grok 4.5模型，并在所有套餐提供。OpenAI还拒绝提供新一代模型Astra。该事件暴露AI模型供应商依赖问题，欧洲监管正试图通过云切换规则提供保护，但尚不明确模型API是否适用。",
+  "key_points": [
+   "OpenAI以马斯克旗下公司违规为由，宣布11月12日起停止向Cursor供应模型，并拒绝提供Astra。",
+   "Cursor已与SpaceXAI合作推出Grok 4.5，在终止OpenAI供应后仍可依赖该模型，实际影响有限。",
+   "OpenAI称已按合同给予最长约两个半月的通知期，欧洲云切换规则要求两个月通知，但未覆盖供应商主动退出。",
+   "欧洲监管标准尚未明确模型API是否属于云服务，开发者在供应商退出时缺乏法定保护。"
+  ],
+  "impact": "对AI行业而言，模型供应与资本收购交织加剧供应商风险，企业更需多模型策略。开发者面临可用模型突然中断的不确定性，尤其欧洲开发者保障不足。普通用户可能看到Cursor集成模型的变化，但Grok 4.5的存在降低了体验冲击。事件也推动各方审视欧盟云切换规则的适用范围。",
+  "tools": "开发者可关注VSCode开源插件Continue、终端工具Aider，或使用Ollama运行本地模型作为替代；也可留意Cursor中Grok 4.5的实际表现及欧盟云切换规则进展。"
+ },
+ "lang": "zh"
+}
