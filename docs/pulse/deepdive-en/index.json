@@ -529,5 +529,86 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-08-28T15:04:44.000Z",
   "fetched_at": "2026-08-28T18:45:04.608891+00:00"
+ },
+ "02eab667df44": {
+  "id": "02eab667df44",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "title": "anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-29T02:54:07.755247+00:00"
+ },
+ "f45867b00b73": {
+  "id": "f45867b00b73",
+  "url": "https://github.com/livekit/agents",
+  "title": "livekit/agents — A framework for building realtime voice AI agents 🤖🎙️📹",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-29T02:54:51.222796+00:00"
+ },
+ "a20220596b25": {
+  "id": "a20220596b25",
+  "url": "https://github.com/twentyhq/twenty",
+  "title": "twentyhq/twenty — The open alternative to Salesforce, designed for AI.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-29T02:55:06.886185+00:00"
+ },
+ "dfc11cd2d5ae": {
+  "id": "dfc11cd2d5ae",
+  "url": "https://github.com/vllm-project/semantic-router",
+  "title": "vllm-project/semantic-router — A programmable Mixture-of-Models router for heterogeneous LLM inference",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-29T02:55:19.722143+00:00"
+ },
+ "325ab617f515": {
+  "id": "325ab617f515",
+  "url": "https://github.com/Wholiver/metis",
+  "title": "Metis Agent, open source, that boosts AI/LLM coding performance by 50%",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T02:36:07Z",
+  "fetched_at": "2026-08-29T02:55:54.347445+00:00"
+ },
+ "3b706c936a32": {
+  "id": "3b706c936a32",
+  "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
+  "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+  "source": "@thsottiaux",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-29T01:47:44.000Z",
+  "fetched_at": "2026-08-29T02:56:45.048116+00:00"
+ },
+ "6250f4a56d69": {
+  "id": "6250f4a56d69",
+  "url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895",
+  "title": "Anthropic Just Beat The Pentagon in Court",
+  "source": "Hacker News (13pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T23:31:34Z",
+  "fetched_at": "2026-08-29T02:57:24.217301+00:00"
+ },
+ "d0e5614bdcb4": {
+  "id": "d0e5614bdcb4",
+  "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+  "title": "Google further buries search results under AI mode",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-08-28T22:48:11.000Z",
+  "fetched_at": "2026-08-29T02:57:42.115840+00:00"
+ },
+ "8152c5575eb2": {
+  "id": "8152c5575eb2",
+  "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+  "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-28T22:07:08Z",
+  "fetched_at": "2026-08-29T02:57:55.985845+00:00"
  }
 }

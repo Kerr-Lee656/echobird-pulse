@@ -1,0 +1,24 @@
+{
+ "id": "29926293af6c",
+ "url": "https://yro.slashdot.org/story/26/08/28/009205/us-considers-fresh-round-of-tariffs-on-semiconductors",
+ "title": "US Considers Fresh Round of Tariffs On Semiconductors",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T02:50:50.355480+00:00",
+ "content": "US Considers Fresh Round of Tariffs On Semiconductors (cnbc.com) 119\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from CNBC: U.S. President Donald Trump's administration is reportedly considering new tariffs on semiconductors used in the U.S., as tech giants race to beat China in the artificial intelligence infrastructure build-out. The duties will be imposed on an expanded range of tech products made alongside chips, including laptops, data center servers and gaming hardware, eight people familiar with the matter told Politico in a report published Thursday.\n \nThe measures, which are still in the early phases and subject to significant changes over the next few months, will be introduced via a staggered rollout period, according to the report. The White House did not immediately respond to a request for comment from CNBC, but told Politico: \"Reshoring semiconductor manufacturing is a top priority for President Trump, whose policies have already secured hundreds of billions of dollars of investments in this key sector.\" The tech industry is pushing back on the tariffs, warning they could raise chip costs, slow data-center construction, and undermine the very AI expansion the administration wants to promote. \"This may be the single dumbest way imaginable to pursue American dominance in AI,\" said one tech official from a major industry group that also served in the first Trump administration. \"It's like kneecapping yourself at the starting line.\"\n \nLobbyists say they have repeatedly urged officials to \"tread carefully\" because U.S. demand is surging while domestic chip capacity remains far too limited. The industry argues that factories take years to build and current domestic production cannot come close to satisfying demand.\n \nOne tech representative said \"the math literally just does not work,\" noting that proposed duty-free allowances \"wouldn't cover the hyperscalers alone.\" Meanwhile, the Computer and Communications Industry Association warned that higher costs and uncertainty could put the massive data-center buildout \"in jeopardy.\"\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nThe measures, which are still in the early phases and subject to significant changes over the next few months, will be introduced via a staggered rollout period, according to the report. The White House did not immediately respond to a request for comment from CNBC, but told Politico: \"Reshoring semiconductor manufacturing is a top priority for President Trump, whose policies have already secured hundreds of billions of dollars of investments in this key sector.\" The tech industry is pushing back on the tariffs, warning they could raise chip costs, slow data-center construction, and undermine the very AI expansion the administration wants to promote. \"This may be the single dumbest way imaginable to pursue American dominance in AI,\" said one tech official from a major industry group that also served in the first Trump administration. \"It's like kneecapping yourself at the starting line.\"\nLobbyists say they have repeatedly urged officials to \"tread carefully\" because U.S. demand is surging while domestic chip capacity remains far too limited. The industry argues that factories take years to build and current domestic production cannot come close to satisfying demand.\nOne tech representative said \"the math literally just does not work,\" noting that proposed duty-free allowances \"wouldn't cover the hyperscalers alone.\" Meanwhile, the Computer and Communications Industry Association warned that higher costs and uncertainty could put the massive data-center buildout \"in jeopardy.\"",
+ "report": {
+  "summary": "美国拟对半导体及科技产品加征新关税，行业称将拖累AI发展。",
+  "background": "近年来美国为争夺AI主导权，大力推动半导体制造回流，但本土产能有限。与此同时，中国在AI基础设施领域快速追赶，美国科技巨头急需扩建数据中心。特朗普政府拟对芯片及周边产品加征新关税，意图迫使制造业回流，却遭到行业强烈反对。业界认为，此举将推高成本、拖延建设，反而削弱美国AI竞争力。政策仍在初期，未来数月将调整，但已引发广泛担忧。",
+  "key_points": [
+   "美国拟对进口半导体及笔记本电脑、数据中心服务器、游戏硬件等加征新关税，计划分阶段推出。",
+   "白宫强调半导体回流优先，称已获数千亿美元投资，但业界指国内产量远不够满足当前激增需求。",
+   "科技行业与游说团体反对，警告这将抬高芯片成本、减缓数据中心建设，阻碍AI扩张。",
+   "有前政府官员称这是‘最愚蠢的方式’，免税额连超大规模数据中心需求都覆盖不了。",
+   "计算机与通信业协会警告高成本与不确定性使大规模数据中心建设‘陷入险境’。"
+  ],
+  "impact": "对AI行业而言，关税将直接抬高芯片与服务器成本，拖延数据中心建设，削弱美国AI投资的回报率。开发者可能面临云服务涨价或资源紧张，影响模型训练与部署。对普通用户，AI产品和服务价格可能上升，普及速度放慢。长期看，若制造回流成功则有利，但短期阵痛明显。全球供应链可能重组，各国或加强本土芯片投入。",
+  "tools": "关注美国贸易代表办公室(USTR)官网跟踪关税细则；可使用开源芯片架构RISC-V降低对特定芯片依赖；成本监控可参考云服务商定价页面或使用CloudZero等FinOps工具；政策影响可阅读SIA(半导体行业协会)报告。"
+ },
+ "lang": "zh"
+}

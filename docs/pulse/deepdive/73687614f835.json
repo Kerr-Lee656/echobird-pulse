@@ -1,0 +1,23 @@
+{
+ "id": "73687614f835",
+ "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
+ "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T02:52:10.303113+00:00",
+ "content": "Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”\nThe fund will focus on hardware, bucking the firm’s typical focus on the scaling power of software. In a post on the venture capital firm’s website, a16z says the fund will focus on investing in the infrastructure that powers AI — a swath that includes everything from computer chips and memory to data centers and robots.\n“We need faster, more efficient systems. We need cheaper and higher-bandwidth memory across the memory hierarchy. We need faster and more scalable interconnects between nodes and systems. We need power efficient edge devices for AI to explore and interact with the world. And of course we need all the cooling, materials, electrical, and real estate build out to support them,” the post reads.\nAI is the “strongest tool ever developed for solving problems and bestowing abundance,” the firm writes, calling its advancement a “social and national imperative.”",
+ "report": {
+  "summary": "a16z设立11亿美元基金，专注AI硬件基础设施投资。",
+  "background": "Andreessen Horowitz（a16z）长期以投资软件和互联网公司著称，但此次推出的“Machine Age”基金却反其道而行，募资11亿美元押注AI的“物理层建设”。随着AI模型规模扩大，算力、内存、数据中心和机器人等硬件基础设施成为瓶颈。a16z认为，AI是解决人类问题的强大工具，其发展需要全社会加速投入。该基金将覆盖芯片、内存、互联、边缘设备以及配套的冷却、材料、电力和地产等全链条，标志着VC对AI投资从软件应用向实体基础设施的深度延伸。",
+  "key_points": [
+   "a16z成立11亿美元“机器时代”基金，明确转向AI硬件，打破其以往专注软件投资的传统。",
+   "投资范围涵盖AI基础设施全链条：从芯片、内存到数据中心、机器人，以及冷却、材料、电力和地产。",
+   "基金动机源于AI对更快系统、更便宜高带宽内存、可扩展互连和高效边缘设备的需求。",
+   "a16z将AI称为解决人类问题的“最强工具”，视其推进为社会和国家优先事项。"
+  ],
+  "impact": "对AI行业而言，巨额资本注入将加速硬件创新，缓解算力与能耗瓶颈，推动AI规模化落地。开发者可获得更强大、高效的基础设施，降低训练和推理成本。普通用户将受益于更智能、更普及的AI应用场景，如机器人和边缘设备。但硬件投资周期长、风险高，可能加剧资源集中，需关注可持续性与公平性。",
+  "tools": "可关注RISC-V开源芯片生态、NVIDIA CUDA与TensorRT等算力栈，以及OpenBMC等数据中心管理项目。若想跟踪硬件趋势，可留意MLPerf基准和IEEE相关标准。"
+ },
+ "lang": "zh"
+}

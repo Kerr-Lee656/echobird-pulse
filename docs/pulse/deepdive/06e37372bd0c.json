@@ -1,0 +1,24 @@
+{
+ "id": "06e37372bd0c",
+ "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+ "title": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T02:50:29.673994+00:00",
+ "content": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules (theguardian.com) 31\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from The Guardian: A US judge ruled on Thursday that the Trump administration broke the law when it designated Anthropic as a supply chain risk earlier this year, finding that the government had unlawfully targeted the AI firm for refusing to comply with defense department demands. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita Lin said in a 59-page decision.\n \nLin's ruling barred the federal agencies named in the lawsuit from enforcing Donald Trump's order to stop using Anthropic's tools and overturned the designation of the company as a \"supply chain risk\" by the defense secretary, Pete Hegseth. The status, usually reserved for foreign firms, would have blocked government agencies from doing business with Anthropic. The case emerged out of a months-long feud between Anthropic and the Pentagon at the start of the year. Anthropic refused to allow the government to use its Claude AI model for fully autonomous lethal weapons or domestic mass surveillance, resulting in Hegseth accusing the company of \"arrogance and betrayal\".\n \nLin put a temporary pause on the government's punitive measures in March, stating that the government's actions looked like an attempt to \"cripple Anthropic\" for exercising its first amendment rights. The ruling this week makes that temporary suspension permanent, although the government may appeal. \"We welcome the court's ruling that this supply chain risk designation was unlawful,\" an Anthropic spokesperson said.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nLin's ruling barred the federal agencies named in the lawsuit from enforcing Donald Trump's order to stop using Anthropic's tools and overturned the designation of the company as a \"supply chain risk\" by the defense secretary, Pete Hegseth. The status, usually reserved for foreign firms, would have blocked government agencies from doing business with Anthropic. The case emerged out of a months-long feud between Anthropic and the Pentagon at the start of the year. Anthropic refused to allow the government to use its Claude AI model for fully autonomous lethal weapons or domestic mass surveillance, resulting in Hegseth accusing the company of \"arrogance and betrayal\".\nLin put a temporary pause on the government's punitive measures in March, stating that the government's actions looked like an attempt to \"cripple Anthropic\" for exercising its first amendment rights. The ruling this week makes that temporary suspension permanent, although the government may appeal. \"We welcome the court's ruling that this supply chain risk designation was unlawful,\" an Anthropic spokesperson said.",
+ "report": {
+  "summary": "美法官裁定五角大楼将Anthropic列为供应链风险违法，撤销禁令。",
+  "background": "今年年初，Anthropic与五角大楼因AI军用问题爆发冲突。Anthropic拒绝让政府将其Claude模型用于完全自主致命武器和国内大规模监控，国防部长Hegseth对此不满，指责其“傲慢和背叛”，并将公司指定为“供应链风险”——这一身份通常针对外国企业，会阻止政府机构与Anthropic合作。Anthropic随即提起诉讼，法官3月已暂停政府惩罚性措施，本周的裁决将暂停转为永久，但政府仍可上诉。",
+  "key_points": [
+   "法官裁定政府行为违法，指出国家安全不能成为惩罚和报复批评者的空白支票。",
+   "撤销了Hegseth对Anthropic的供应链风险指定，并禁止联邦机构执行特朗普政府的停用命令。",
+   "事件核心是Anthropic拒绝让Claude用于全自主致命武器和国内大规模监控，引发与五角大楼的矛盾。",
+   "法官认为政府行动意在“打击Anthropic”行使第一修正案权利，此前的临时暂停现转为永久禁令。",
+   "Anthropic对裁决表示欢迎，但美国政府仍可选择上诉，后续司法博弈可能继续。"
+  ],
+  "impact": "对AI行业而言，这一裁决确立了企业有权拒绝危害性用途而不受政府报复的司法先例，可能增强AI公司在伦理红线上的话语权。对开发者来说，意味着在承接政府项目时可更放心地坚持安全准则，不必担心被“拉黑”。对普通用户，这有助于防止AI技术被滥用于大规模监控和自主杀人武器，保护公民权利与公共安全。",
+  "tools": "暂无直接相关工具，建议关注Anthropic官方Claude使用政策及AI伦理资源（如Asilomar AI Principles、IEEE Ethically Aligned Design）。"
+ },
+ "lang": "zh"
+}

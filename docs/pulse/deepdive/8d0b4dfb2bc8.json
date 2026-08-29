@@ -1,0 +1,23 @@
+{
+ "id": "8d0b4dfb2bc8",
+ "url": "https://tech.slashdot.org/story/26/08/28/216235/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+ "title": "OpenAI, Anthropic, Google, and 100 Other Companies Call For Action To Defend Against Rogue AI",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T02:49:57.235125+00:00",
+ "content": "OpenAI, Anthropic, Google, and 100 Other Companies Call For Action To Defend Against Rogue AI (techcrunch.com) 22\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from TechCrunch: Over a hundred tech companies -- including OpenAI, Anthropic, Google, and Microsoft -- have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats. The letter -- which was also signed by prominent cyber firms like CrowdStrike, Okta, and Fortinet, as well as prominent financial institutions and internet infrastructure firms -- calls for the adoption of new forms of cyber defense, while also encouraging governments at the \"local, national, and international levels\" to collaborate on security. \"In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,\" the letter states. \"The companies and public services our communities depend on -- from hospitals to water treatment plants to the infrastructure that powers the internet -- are at risk.\"\n \n[...] The letter further suggests the mobilization of a \"collective response,\" one in which \"new partnerships\" are formed \"to raise security standards and find new solutions to emerging cyber threats.\" Several of the AI companies that have signed the letter are still actively developing ever more advanced AI models, highlighting their conflicted position. At the same time, they are also offering programs to use frontier AI models for defensive purposes, including OpenAI's Daybreak program, Anthropic's Mythos, and Microsoft's new cyber platform Perception.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n[...] The letter further suggests the mobilization of a \"collective response,\" one in which \"new partnerships\" are formed \"to raise security standards and find new solutions to emerging cyber threats.\" Several of the AI companies that have signed the letter are still actively developing ever more advanced AI models, highlighting their conflicted position. At the same time, they are also offering programs to use frontier AI models for defensive purposes, including OpenAI's Daybreak program, Anthropic's Mythos, and Microsoft's new cyber platform Perception.",
+ "report": {
+  "summary": "百余家科技公司联名呼吁公私合作，共同防御恶意AI发起的网络攻击。",
+  "background": "随着大语言模型能力快速提升，AI被滥用于网络攻击的风险日益凸显。在此背景下，OpenAI、Anthropic、谷歌、微软等百余家企业签署公开信，呼吁政府与企业协同构建新型防御体系，应对即将到来的AI恶意攻击浪潮。这封信由网络安全、金融和互联网基础设施领域公司联合背书，反映出行业对AI安全问题的紧迫态度。但签署方本身也在开发更先进的AI模型，凸显其自身立场矛盾。",
+  "key_points": [
+   "超过100家科技企业（含OpenAI、谷歌、微软等）签署公开信，呼吁共同应对AI相关网络威胁。",
+   "公开信警告，AI驱动的网络攻击将在数月内变得更普遍、更复杂，医院、水处理厂等关键设施面临风险。",
+   "信函呼吁地方政府、国家及国际层面加强协作，并建立“集体响应”机制，提高安全标准。",
+   "签署方同步推出防御性AI计划，如OpenAI的Daybreak、Anthropic的Mythos、微软的Perception，意图加强防护。"
+  ],
+  "impact": "对AI行业而言，此次联合行动将推动安全标准成为AI发展的核心议题，可能催生新的合规框架。开发者需要将安全设计融入模型生命周期，并关注防御性AI工具的接入。普通用户则将受益于关键基础设施防护能力的提升，但短期内可能面临攻击渗透率上升的现实威胁。整体而言，这标志着AI安全从个体责任转向集体协作。",
+  "tools": "可关注OpenAI Daybreak、Anthropic Mythos、微软Perception等防御性AI平台，以及OWASP AI安全指南和MITRE ATLAS对抗攻击知识库，帮助评估和加固AI系统。"
+ },
+ "lang": "zh"
+}

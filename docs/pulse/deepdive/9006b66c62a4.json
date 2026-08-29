@@ -1,0 +1,23 @@
+{
+ "id": "9006b66c62a4",
+ "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+ "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-08-28T18:28:20.792Z",
+ "fetched_at": "2026-08-29T02:53:14.495991+00:00",
+ "content": "The Trump administration’s blacklisting of Anthropic was illegal, a federal judge ruled in an order vacating government directives against the use of the firm’s AI technology.\nThe government illegally retaliated against Anthropic by designating it a supply-chain risk to national security, said yesterday’s ruling by Judge Rita Lin in the US District Court for the Northern District of California. The maker of Claude AI technology was barred by the US after it refused to drop restrictions on the use of its products for lethal autonomous warfare and mass surveillance of Americans, the ruling said.\n“The undisputed record shows that the challenged actions constituted unlawful retaliation in violation of the First Amendment,” Lin wrote in an order that granted key portions of Anthropic’s motion for summary judgment.\nAs Lin noted, Trump and Defense Secretary Pete Hegseth “ordered all federal agencies to permanently stop using Anthropic’s products, and banned all defense contractors from doing any business with Anthropic, even if unrelated to the military.” Lin vacated those government actions and ordered the Trump administration to rescind the directives that she deemed illegal.\nNational security is not blank check to retaliate\n“Though the Department of War is undisputedly free to select the AI vendor of its choice, the evidence demonstrates that the broad measures imposed on Anthropic were illegal and baseless,” Lin wrote, referring to the Trump administration’s preferred name for the Department of Defense. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” she added.\nThe Trump administration provided only a “slim” justification to the court, Lin wrote, stating that the federal defendants “have now backed away from the thrust of their risk assessment, which relied on Anthropic having backdoor access to its technology once deployed in a national security system. It is now clear that Anthropic undisputedly lacks any such access and that, as Defendants concede, Anthropic’s technology is itself no riskier to the national security than any other ‘black box’ artificial intelligence model.”",
+ "report": {
+  "summary": "联邦法官裁定特朗普政府将Anthropic列入黑名单违法，属非法报复。",
+  "background": "特朗普政府以国家安全为由，将AI公司Anthropic列入供应链风险黑名单，禁止联邦机构及国防承包商使用其技术。起因是Anthropic拒绝取消对其产品用于致命自主武器和监控美国公民的限制。Anthropic提起诉讼，指控政府因其政治立场和企业政策进行报复。加州北区联邦法官Rita Lin裁定，政府行为违反第一修正案，构成非法报复，并撤销相关指令。",
+  "key_points": [
+   "法官认定特朗普政府将Anthropic列入黑名单是对其拒绝放宽AI使用限制的非法报复，违反第一修正案。",
+   "政府称Anthropic技术构成国家安全风险，但法庭发现其缺乏后门访问权，且与其它AI模型风险无异。",
+   "裁决撤销了联邦机构禁用Anthropic产品及禁止国防承包商与其业务往来的指令。",
+   "法官强调‘国家安全’不能成为惩罚和报复政府批评者的空白支票。"
+  ],
+  "impact": "该裁决保护了AI公司基于道德立场制定产品使用政策的权利，防止政府以安全名义打压异见。对AI行业而言，强化了商业决策与政府权力之间的法律边界；对开发者来说，意味着可自主设置AI的伦理红线而不必担心政治报复；对普通用户，则保障了AI技术使用的多样性，避免因政治因素被单方面剥夺服务。",
+  "tools": "关注Anthropic的Claude系列模型及其使用政策；相关法律案例可参考美国宪法第一修正案诉讼；若想跟进AI伦理与安全治理，可关注Anthropic的负责任扩展政策（RSP）及政府AI采购规则。"
+ },
+ "lang": "zh"
+}

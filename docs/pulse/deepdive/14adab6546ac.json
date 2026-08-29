@@ -1,0 +1,23 @@
+{
+ "id": "14adab6546ac",
+ "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+ "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T02:51:46.325584+00:00",
+ "content": "Training AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given us an early look at what it might look like in practice.\nOn Friday, Anthropic published a new paper titled “Automated Researchers Can Reliably Mitigate Alignment Failures,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks. When given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.\nLed by Anthropic fellow Chen Yueh-Han, the system replicates much of the traditional approach to research. Each automated system searches the available literature, proposes a method, and trains the model using that method for 30 minutes, gradually increasing the benchmark over several iterations. Effective methods are preserved while ineffective ones are discarded, allowing the system to operate quickly and at a great scale.\n“Overall, these results provide early evidence that automated alignment post-training could become practical in the near term,” the paper reads.\nThe paper is a step toward recursive self-improvement, which many see as the next significant step in AI progress. If models can improve their own alignment training, it’s plausible they could improve training practices more broadly — at which point, human AI researchers might soon become obsolete.\nThe paper isn’t shy about addressing this idea, explicitly comparing the Automated Alignment Researcher (AAR) to its human equivalent. “The best AAR method beats what experienced humans propose, on average within six hours,” the paper reads. “Human guided research directions do not lead to stronger performance.”\nThere’s even a cost comparison, in case anyone wasn’t convinced. “An AAR costs roughly $4 per hour in API inference against the $150 per hour we pay our human researchers.”\nIn fairness, the paper also points out a few limitations to this approach. The automated system only works insofar as the benchmarks reflect the actual alignment goals, and even then there’s significant work to be done in establishing and maintaining those benchmarks — not to mention maintaining and expanding on the literature the automated researchers are drawn from.",
+ "report": {
+  "summary": "Anthropic新研究展示AI可自主改善对齐训练，成本远低于人类研究员。",
+  "background": "近年，用AI训练AI成为各大AI实验室追逐的前沿方向，特别是针对对齐问题的自动化研究。Anthropic研究员Chen Yueh-Han领导的团队在论文中展示了自动化对齐研究员（AAR）系统，它通过检索文献、提出方法并短时训练模型，实现对齐基准的显著改进。这一成果被视为递归自我改进的早期实践，但论文也承认其依赖基准设计和文献库质量，距离实际应用仍有距离。",
+  "key_points": [
+   "自动化对齐研究员（AAR）能循环搜索文献、提出训练方法并迭代优化，保留有效方案，实现高效快速研究。",
+   "在10个对齐基准上，AAR全部提升模型性能且不损害整体能力，证明自动化对齐后训练具备可行性。",
+   "论文称最优AAR平均6小时内超过人类专家提议，成本仅约每小时4美元，远低于人类研究员的150美元。",
+   "这是递归自我改进的早期证据，可能让人类AI研究者逐渐边缘化，但最终效果仍受限于基准质量和文献覆盖。"
+  ],
+  "impact": "对行业而言，该技术将大幅降低对齐研究成本，可能引发自动化研究竞赛，加速AI自我改进进程；对开发者，需要适应并利用此类自动化工具，同时加强基准设计和验证，防止优化偏差；对普通用户，AI安全性有望提升，但也会加剧对AI失控和人类角色被取代的担忧，促使监管和伦理讨论更紧迫。",
+  "tools": "可关注Anthropic官方研究博客及该论文原文；开源评估工具如EleutherAI的lm-evaluation-harness可用于复现基准测试；AutoML框架（如Optuna、AutoKeras）可借鉴自动化调参思路；追踪OpenAI、DeepMind的类似自我改进研究以对比进展。"
+ },
+ "lang": "zh"
+}
