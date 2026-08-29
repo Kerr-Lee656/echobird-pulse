@@ -7783,5 +7783,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-29T07:37:49Z",
   "fetched_at": "2026-08-29T16:43:59.112530+00:00"
+ },
+ "87dc39ec3c63": {
+  "id": "87dc39ec3c63",
+  "url": "https://lwn.net/Articles/1091231",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:53:56.526155+00:00"
+ },
+ "ec3126d6bd37": {
+  "id": "ec3126d6bd37",
+  "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+  "title": "Nvidia’s AI advantage is moving beyond the GPU",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:54:40.153793+00:00"
+ },
+ "27f69368ad64": {
+  "id": "27f69368ad64",
+  "url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+  "title": "OpenAI cuts off Cursors AI models, deepening feud with Musk",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:54:55.452202+00:00"
+ },
+ "19aa33a15782": {
+  "id": "19aa33a15782",
+  "url": "https://www.36kr.com/p/3960005089770887",
+  "title": "Claude开始训练Claude，4美元一小时，跑赢150美元人类研究员",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:55:25.597790+00:00"
+ },
+ "24c5d68b20e0": {
+  "id": "24c5d68b20e0",
+  "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+  "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:55:39.574659+00:00"
+ },
+ "3eff24f30151": {
+  "id": "3eff24f30151",
+  "url": "https://news.mydrivers.com/1/1147/1147334.htm",
+  "title": "美国拟推新规：禁止中国 AI 企业通过第三国远程调用英伟达算力",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-29T20:55:48.294371+00:00"
+ },
+ "15f1ad77a08b": {
+  "id": "15f1ad77a08b",
+  "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+  "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+  "source": "www.phoronix.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-29T09:40:21.179Z",
+  "fetched_at": "2026-08-29T20:56:06.955049+00:00"
  }
 }

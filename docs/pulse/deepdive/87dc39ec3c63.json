@@ -1,0 +1,24 @@
+{
+ "id": "87dc39ec3c63",
+ "url": "https://lwn.net/Articles/1091231",
+ "title": "Debian votes to allow \"responsible use of generative AI\"",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-29T20:53:56.526155+00:00",
+ "content": "Debian votes to allow \"responsible use of generative AI\"\n\tDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that requires technical expertise, judgment, review,\n\tand collaboration.\nThe Debian Project nevertheless expects that all contributions submitted to Debian, regardless of how and with which tools they were produced, satisfy the same standards of quality, correctness, maintainability, and legal compliance. The use of a generative AI tool does not diminish the contributor's responsibility for the work they submit. Contributors are expected to understand, review, test, and, where appropriate, modify AI-assisted output before incorporating it into Debian.",
+ "report": {
+  "summary": "Debian表决允许负责任地使用生成式AI，但质量责任在贡献者。",
+  "background": "Debian 项目长期以严格的质量和自由软件原则著称，此前对 AI 生成代码持谨慎态度。社区内关于是否接受 AI 辅助开发的讨论持续已久。此次投票结果正式明确了立场：既不全面禁止，也不大力提倡，而是将 AI 工具视为可选的效率工具，同时强调所有贡献必须达到既有标准。这反映了开源社区在 AI 浪潮下寻求平衡的典型趋势——既要拥抱生产力提升，又要守住质量和法律合规底线。",
+  "key_points": [
+   "Debian 明确表示不背书也不禁止生成式 AI 工具，允许贡献者在开发、文档编写等环节使用。",
+   "AI 辅助输出的代码或文档仍需满足与人工贡献完全相同的质量、正确性、可维护性及法律合规标准。",
+   "使用 AI 工具不减轻贡献者责任，提交前必须自行理解、审查、测试并适当修改 AI 生成内容。",
+   "该决议旨在让志愿者把有限时间投入更需专业判断的工作，提升整体效率。",
+   "这是大型 OS 发行版首次就 AI 使用达成明确正式共识，或影响其他社区政策。"
+  ],
+  "impact": "对 AI 行业而言，Debian 的认可为生成式 AI 在开源开发中的合法性提供了样板，可能加速 AI 代码助手在关键基础设施项目中的渗透。对开发者来说，这意味着可以光明正大地使用 Copilot、ChatGPT 等工具，但必须保留专业审查能力，不能盲目提交。对普通用户而言，Debian 的严格质量标准依然有效，AI 污染带来的安全风险被机制性拦截，但最终依赖贡献者的责任心。",
+  "tools": "关注 Debian 开发者常用的 AI 辅助工具：GitHub Copilot、Codeium、Tabby（自托管代码助手）；以及用于 AI 生成代码审查的 CodeQL、SonarQube。若想参与 Debian 开发，可留意其邮件列表和 wiki 中关于 AI 使用的新指南。"
+ },
+ "lang": "zh"
+}
