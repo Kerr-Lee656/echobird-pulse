@@ -943,5 +943,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-30T14:06:54Z",
   "fetched_at": "2026-08-30T19:25:14.842601+00:00"
+ },
+ "e0f10c970866": {
+  "id": "e0f10c970866",
+  "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
+  "title": "The Shape and Feel of the Post-AI Data Stack",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T22:36:54Z",
+  "fetched_at": "2026-08-30T22:46:36.860296+00:00"
+ },
+ "b82470da9351": {
+  "id": "b82470da9351",
+  "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+  "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T21:48:20Z",
+  "fetched_at": "2026-08-30T22:47:46.002475+00:00"
+ },
+ "ba15b64c9539": {
+  "id": "ba15b64c9539",
+  "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+  "title": "Debian community allows contributors to use AI",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T21:14:17Z",
+  "fetched_at": "2026-08-30T22:47:55.784539+00:00"
+ },
+ "252ce094ce45": {
+  "id": "252ce094ce45",
+  "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T19:18:05Z",
+  "fetched_at": "2026-08-30T22:49:06.376040+00:00"
+ },
+ "9803f2cbb950": {
+  "id": "9803f2cbb950",
+  "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full",
+  "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T17:00:54Z",
+  "fetched_at": "2026-08-30T22:49:52.222589+00:00"
+ },
+ "bc7c527df0fe": {
+  "id": "bc7c527df0fe",
+  "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
+  "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T16:22:53Z",
+  "fetched_at": "2026-08-30T22:50:17.538164+00:00"
  }
 }

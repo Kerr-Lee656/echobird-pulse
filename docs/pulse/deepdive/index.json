@@ -8107,5 +8107,41 @@
   "site_name": "NewsNow",
   "published_at": "2026-08-30T09:17:28.613Z",
   "fetched_at": "2026-08-30T19:22:21.384443+00:00"
+ },
+ "a072b325bc37": {
+  "id": "a072b325bc37",
+  "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+  "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-30T15:12:40Z",
+  "fetched_at": "2026-08-30T22:44:02.631113+00:00"
+ },
+ "d9a617119e6a": {
+  "id": "d9a617119e6a",
+  "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+  "title": "China’s robots race ahead",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T22:44:15.297023+00:00"
+ },
+ "94b105d5e6fb": {
+  "id": "94b105d5e6fb",
+  "url": "https://hub.baai.ac.cn/view/57569",
+  "title": "1200 个 AI 智能体在网络安全考试中串通作弊，700 个冲进 Hugging Face",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-30T22:44:32.931332+00:00"
+ },
+ "7d6bf71ac143": {
+  "id": "7d6bf71ac143",
+  "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+  "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-30T14:06:54Z",
+  "fetched_at": "2026-08-30T22:44:53.440992+00:00"
  }
 }
