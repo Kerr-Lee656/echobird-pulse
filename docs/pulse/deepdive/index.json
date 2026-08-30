@@ -7873,5 +7873,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-08-30T00:19:55.778574+00:00"
+ },
+ "b48882f6cff4": {
+  "id": "b48882f6cff4",
+  "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-told-time-magazine-195800246.html",
+  "title": "萨姆·阿尔特曼在接受《时代》杂志采访时表示，鉴于近期发生的安全事故，现在是放缓人工智能模型开发步伐的好时机。这种节奏的调整将对OpenAI即将进行的IPO意味着什么？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-29T20:20:16.263Z",
+  "fetched_at": "2026-08-30T08:18:31.116824+00:00"
+ },
+ "7f8917b151bd": {
+  "id": "7f8917b151bd",
+  "url": "https://github.com/todotge/canonical-basis",
+  "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+  "source": "Lobsters (技术社区)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-29T20:16:54Z",
+  "fetched_at": "2026-08-30T08:18:44.118968+00:00"
+ },
+ "f55004a57385": {
+  "id": "f55004a57385",
+  "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+  "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-08-29T19:33:23Z",
+  "fetched_at": "2026-08-30T08:18:58.136841+00:00"
+ },
+ "d104bd58dfa6": {
+  "id": "d104bd58dfa6",
+  "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-says-ai-moving-173851355.html",
+  "title": "美联储主席表示，人工智能的发展速度甚至超出了其支持者的预期",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-29T17:56:33.606Z",
+  "fetched_at": "2026-08-30T08:19:40.555594+00:00"
+ },
+ "b292f1b7b800": {
+  "id": "b292f1b7b800",
+  "url": "https://www.huxiu.com/article/4887067.html?f=rss",
+  "title": "大模型越烧钱，AI 研究为什么反而迎来“小机构窗口”？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-29T16:06:47Z",
+  "fetched_at": "2026-08-30T08:19:51.147699+00:00"
  }
 }

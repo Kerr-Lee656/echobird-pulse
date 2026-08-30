@@ -817,5 +817,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-29T19:52:56Z",
   "fetched_at": "2026-08-30T00:21:49.440725+00:00"
+ },
+ "0d0ffaf4d300": {
+  "id": "0d0ffaf4d300",
+  "url": "https://lwn.net/Articles/1087134/",
+  "title": "Debian weighs eight options in vote on LLM usage",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T07:24:43Z",
+  "fetched_at": "2026-08-30T08:21:48.466225+00:00"
+ },
+ "dc9b18dbc496": {
+  "id": "dc9b18dbc496",
+  "url": "https://slashdot.org/submission/17350256/microsoft-admits-ai-training-in-new-user-privacy-statment",
+  "title": "Microsoft Admits AI Training in New User Privacy Statment",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T04:30:35Z",
+  "fetched_at": "2026-08-30T08:22:36.655892+00:00"
+ },
+ "aac6226dcd5b": {
+  "id": "aac6226dcd5b",
+  "url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
+  "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+  "source": "@AYi_AInotes",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-30T00:54:08.000Z",
+  "fetched_at": "2026-08-30T08:23:00.120139+00:00"
  }
 }
