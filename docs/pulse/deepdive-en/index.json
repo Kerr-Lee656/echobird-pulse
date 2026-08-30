@@ -916,5 +916,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-30T09:41:40Z",
   "fetched_at": "2026-08-30T14:59:45.137565+00:00"
+ },
+ "15f1ad77a08b": {
+  "id": "15f1ad77a08b",
+  "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+  "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+  "source": "Hacker News (1pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T15:40:04Z",
+  "fetched_at": "2026-08-30T19:24:41.373323+00:00"
+ },
+ "297a831c5d49": {
+  "id": "297a831c5d49",
+  "url": "https://arxiv.org/abs/2608.14071",
+  "title": "Scaling Domain Data Repetition in LLM Pretraining",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T14:38:32Z",
+  "fetched_at": "2026-08-30T19:24:58.379336+00:00"
+ },
+ "92830e6d697d": {
+  "id": "92830e6d697d",
+  "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+  "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+  "source": "Hacker News (88pts, 35c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T14:06:54Z",
+  "fetched_at": "2026-08-30T19:25:14.842601+00:00"
  }
 }

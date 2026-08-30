@@ -1,0 +1,24 @@
+{
+ "id": "de7ce73262f9",
+ "url": "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm",
+ "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics in Claude’s training data",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-30T19:20:04.833881+00:00",
+ "content": "Sony Music Publishing and Warner Chappell have sued Anthropic in California over song lyrics allegedly taken from pirate archives, naming Dario Amodei and Benjamin Mann personally and seeking up to $150,000 per composition. A Munich court ruled in November 2025 that memorising lyrics inside a model is reproduction and that the text and data mining exception does not cover it.\nSony Music Publishing and Warner Chappell have sued Anthropic in a Northern California court. Dario Amodei and Benjamin Mann are named personally, Business Insider reported.\nThe language is not restrained. The publishers allege a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale“.\nThe works named are familiar. Eye of the Tiger, Hallelujah, September, Livin’ On a Prayer and Great Balls of Fire are among them, alongside Mariah Carey and Taylor Swift compositions.\nThe route alleged is one Anthropic has been here for before. The complaint points to Library Genesis and Pirate Library Mirror, the same archives behind the $1.5B settlement it reached with authors.\nThe publishers want a jury and statutory damages. Up to $150,000 for each composition used in training, which is the statutory ceiling for wilful infringement rather than a figure any court has awarded.\nSet that against what the last case paid. Authors received about $3,000 a title, split with their publisher, leaving roughly $1,500 each side.\nThe gap between those two figures is the whole negotiation. One is a number two sides agreed on, the other is an opening demand in a case nobody has answered yet.\nA European court has already answered a version of this question, and it was about song lyrics too. The defendant was a different company.\nThe Regional Court of Munich ruled against OpenAI in November 2025, finding that memorising lyrics inside a model is reproduction, and that outputs reciting them are communication to the public.\nIt also found the text and data mining exception did not cover it. Permanent memorisation goes beyond transient analysis, and the rightsholder had opted out. The judgment is not final.\nEurope’s exception carries a second condition that matters more here. It applies only to works the miner had lawful access to, and a pirate library is never lawful access.\nOn top of that sits the AI Act. General purpose model providers must keep a copyright policy and publish a summary of their training data, policed by an enforcement unit in Brussels.\nWhich is the asymmetry worth naming. American rightsholders go to court to find out what was taken from them, and European ones are entitled to be told.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "索尼音乐与华纳查普尔起诉Anthropic，指控其用盗版歌词训练Claude并索赔。",
+  "background": "Anthropic此前因使用Library Genesis等盗版存档训练模型，已与作者达成15亿美元和解，每标题约赔偿3000美元。此次索尼音乐与华纳查普尔联合起诉，索赔金额高达每首15万美元，并点名CEO Dario Amodei等人。与此同时，2025年11月慕尼黑法院裁定OpenAI在类似案件中败诉，认定模型记忆歌词构成复制，且欧洲文本与数据挖掘例外不适用于永久记忆，这为版权方提供了有力判例支持。",
+  "key_points": [
+   "版权方指控Anthropic通过盗版网站大规模抓取歌词用于训练，索赔每首最高15万美元，并要求陪审团审判。",
+   "公司CEO Dario Amodei和Benjamin Mann被列为个人被告，这在AI版权诉讼中较为罕见，意在追究高管个人责任。",
+   "慕尼黑法院2025年11月裁定，AI模型永久记忆歌词属于复制行为，TDM例外不适用，且输出歌词构成向公众传播。",
+   "此前作者和解案每首歌曲实际赔偿约3000美元，本次索赔额是50倍，反映版权方在新判例支持下提高要价。",
+   "欧美在训练数据透明度上存在不对称：美国靠诉讼取证，欧盟则通过AI法案要求模型供应商公开训练数据摘要。"
+  ],
+  "impact": "对AI行业而言，音乐版权诉讼与欧洲判例叠加，意味着训练数据合法性成为核心风险点，模型记忆内容可能被认定为复制。开发者需建立更严格的版权合规流程，包括数据溯源与过滤机制，否则面临巨额赔偿。普通用户未来使用Claude等模型时，可能发现模型不再能生成或复述歌词，更广泛地，AI产品在内容生成上将更加保守，避免触碰版权雷区。",
+  "tools": "可关注美国版权局（copyright.gov）的版权登记查询系统，用于核查训练数据权属；欧盟AI Act的公开数据库（digital-strategy.ec.europa.eu）用于跟踪模型供应商合规披露；开源工具如Hugging Face的Dataset Card和Copyright Detector（copydetect）可辅助审计训练数据中的版权内容。"
+ },
+ "lang": "zh"
+}

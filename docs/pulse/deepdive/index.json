@@ -8008,5 +8008,104 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-08-30T14:55:47.411481+00:00"
+ },
+ "0110ec2d4556": {
+  "id": "0110ec2d4556",
+  "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+  "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:19:51.463213+00:00"
+ },
+ "de7ce73262f9": {
+  "id": "de7ce73262f9",
+  "url": "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm",
+  "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics in Claude’s training data",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:20:04.833881+00:00"
+ },
+ "49adf2046003": {
+  "id": "49adf2046003",
+  "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers",
+  "title": "Inside Meta’s push to put robots to work in data centers",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:20:26.833027+00:00"
+ },
+ "dbb636460e25": {
+  "id": "dbb636460e25",
+  "url": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
+  "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:20:42.114552+00:00"
+ },
+ "906593affc7a": {
+  "id": "906593affc7a",
+  "url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+  "title": "Why investors should be concerned about the growing backlash to AI data centers",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:20:57.295115+00:00"
+ },
+ "ba8e7c933123": {
+  "id": "ba8e7c933123",
+  "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+  "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:21:16.432966+00:00"
+ },
+ "a98ab09ebb08": {
+  "id": "a98ab09ebb08",
+  "url": "https://www.36kr.com/p/3961453579746437",
+  "title": "Plaud 发布首款 AI 耳机，但重点不是耳机",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:21:33.154169+00:00"
+ },
+ "110ea02750c6": {
+  "id": "110ea02750c6",
+  "url": "https://www.ithome.com/0/996/239.htm",
+  "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-30T19:21:45.443333+00:00"
+ },
+ "332f9a8dda1c": {
+  "id": "332f9a8dda1c",
+  "url": "https://www.ithome.com/0/996/218.htm",
+  "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T11:07:11Z",
+  "fetched_at": "2026-08-30T19:22:02.604767+00:00"
+ },
+ "1756d6fb3aec": {
+  "id": "1756d6fb3aec",
+  "url": "https://juejin.cn/post/7678516020860960831",
+  "title": "英伟达129亿美元收购Hugging Face",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-08-30T09:17:28.613Z",
+  "fetched_at": "2026-08-30T19:22:11.898725+00:00"
+ },
+ "fd9bc9f70553": {
+  "id": "fd9bc9f70553",
+  "url": "https://juejin.cn/post/7679222800792338483",
+  "title": "OpenAI 断供 Cursor：这不是商业决定，是战争行为",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-08-30T09:17:28.613Z",
+  "fetched_at": "2026-08-30T19:22:21.384443+00:00"
  }
 }

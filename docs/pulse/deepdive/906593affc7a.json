@@ -1,0 +1,24 @@
+{
+ "id": "906593affc7a",
+ "url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+ "title": "Why investors should be concerned about the growing backlash to AI data centers",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-30T19:20:57.295115+00:00",
+ "content": "You've probably seen the protests and spirited town halls full of concerned citizens opposing a new data center in their backyard.\nIt's part of a growing grassroots trend that's mobilized people across the political spectrum. The noisy, water-hogging structures, they say, are a blight on their communities, and some projects have been canceled as a result of the opposition.\nUnlike other bottlenecks within the AI trade like power and memory compute, which have resulted in a kind of scarcity that's been bullish for assets linked to those industries, market experts say public hate for AI data centers is a risk investors need to be aware of.\n\"Markets operate within rules set by voters and governments…and those rules are becoming more restrictive,\" Nohshad Shah, head of fixed income sales EMEA at Citadel Securities, wrote last week. \"The next compute bottleneck may not be silicon, or even electricity…it may be permission.\"\nSo far, the movement to oppose data centers has proven successful in many places.\nAccording to The Atlantic Council think tank, 75 data center projects across the US, worth roughly $130 billion, were delayed or cancelled when local communities stood together in protest in the first quarter of 2026. A Fayetteville, Georgia resident who helped block a data center construction project in his home town told Business Insider that the experience showed him how much power locals truly have to stymie new projects.\nMeanwhile, governors such as New York's Kathy Hochul and Pennsylvania's Josh Shapiro have cracked down on data centers. The trend prompted Morgan Stanley analysts to flag local opposition movements as a growing problem for the AI trade, a sentiment that more investors are coming to share.\nAndrejka Bernatova, founder and CEO of investment firm Dynamix Corporation, told Business Insider that while she still sees power as a major constraint for the data center movement, she also views local opposition as a problem that shouldn't be written off.\n\"I think investors absolutely need to pay attention to it,\" she told Business Insider. \"We are already seeing firsthand that the growth of AI and data centers is constrained by power. If you then add permitting, siting and local community opposition, obviously that makes getting these projects built even harder.\"\nOthers say that it has already become a problem for the AI trade and that investors should position accordingly. Max Kulyk, CEO of wealth management firm Chicory Wealth, said that his team regards it as a significant risk that is likely to get worse.\n\"A slowdown results in fewer orders for the physical inputs and semiconductors into datacenters, while also limiting the compute available for AI models,\" he said. \"It could also delay revenue for some companies that took on large amounts of debt to finance their datacenter buildouts. This outcome hurts semiconductors, physical AI inputs, and hyperscalers alike.\"\nBrian Mulberry, chief market strategist at Zacks Investment Management, has a similar concern, noting that data opposition could slow the AI adoption rate at a time when a dearth of compute power is already pushing token prices up, making it hard for businesses to pay for their AI use.\n\"I would say that land is the next concern in the data center build out with a fair amount of Not In My BackYard (NIMBY) that is showing up in local and mid-term politics that does make sense as a bottleneck,\" he added.",
+ "report": {
+  "summary": "投资人愈发担忧AI数据中心引发的社区反对",
+  "background": "AI热潮推动数据中心大规模扩张，但这些设施因噪音、耗水等问题引发越来越多当地居民抗议。草根反对运动已在美国多地造成项目停滞，2026年一季度就有75个项目被推迟或取消，总价值约1300亿美元。与电力、芯片等供应链瓶颈不同，这类社会反对给AI投资带来额外不确定性，地方政府也开始介入，使“许可”可能成为继硅和电力之后的下一个算力瓶颈。摩根士丹利等机构已将其视为AI交易中的重大风险。",
+  "key_points": [
+   "美国一季度75个数据中心项目因社区抗议被推迟或取消，涉及投资约1300亿美元，凸显反对运动的实际影响力。",
+   "纽约州和宾州州长已对数据中心加强限制，摩根士丹利警告称地方反对运动正成为AI交易日益严重的风险。",
+   "投资者指出，除电力外，许可、选址和社区反对将使数据中心建设更难，或成为下一个算力瓶颈。",
+   "数据中心放缓将减少对芯片和基础设施的需求，并限制AI可用算力，拖累半导体企业和超大规模云厂商的营收。",
+   "算力短缺已推高AI使用价格，反对活动进一步减缓采用率，使得企业使用AI的成本更加高昂。"
+  ],
+  "impact": "对AI行业而言，数据中心建设受阻将延长算力短缺周期，推高模型训练和推理成本，可能拖累相关企业收入与投资回报。对开发者来说，可获得的计算资源更加紧张，API调用价格可能上升，模型迭代速度放缓。对普通用户，AI产品与服务可能涨价或体验进步变慢，但社区反对也促使科技公司更加重视环保和本地协商，未来项目选址或更审慎。",
+  "tools": "可关注大西洋理事会等智库报告，以及数据中心地图工具（如Cloudscene/Datacenter Map）追踪全球项目动态，辅助评估NIMBY风险。"
+ },
+ "lang": "zh"
+}
