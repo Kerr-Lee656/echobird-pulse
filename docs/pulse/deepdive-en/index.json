@@ -844,5 +844,77 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-08-30T00:54:08.000Z",
   "fetched_at": "2026-08-30T08:23:00.120139+00:00"
+ },
+ "379642deb53f": {
+  "id": "379642deb53f",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "title": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:56:48.526379+00:00"
+ },
+ "a50d216def4c": {
+  "id": "a50d216def4c",
+  "url": "https://github.com/cursor/plugins",
+  "title": "cursor/plugins — Cursor plugin specification and official plugins",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:57:00.238622+00:00"
+ },
+ "099e989fc296": {
+  "id": "099e989fc296",
+  "url": "https://github.com/warpdotdev/warp",
+  "title": "warpdotdev/warp — Warp is an agentic development environment, born out of the terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:57:20.279560+00:00"
+ },
+ "849dafb5d055": {
+  "id": "849dafb5d055",
+  "url": "https://github.com/github/gh-aw",
+  "title": "github/gh-aw — GitHub Agentic Workflows",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:57:33.486846+00:00"
+ },
+ "3f3288610210": {
+  "id": "3f3288610210",
+  "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+  "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T13:15:33Z",
+  "fetched_at": "2026-08-30T14:58:17.348823+00:00"
+ },
+ "aa194f570edc": {
+  "id": "aa194f570edc",
+  "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+  "title": "90 days of attacks on AI infrastructure",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T13:08:58Z",
+  "fetched_at": "2026-08-30T14:58:36.273794+00:00"
+ },
+ "461b8f9aa729": {
+  "id": "461b8f9aa729",
+  "url": "https://claude.com/programs/team-plan-for-scientists",
+  "title": "Claude Team Plan for Scientists",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T12:33:38Z",
+  "fetched_at": "2026-08-30T14:58:49.393648+00:00"
+ },
+ "973b9d62e0a7": {
+  "id": "973b9d62e0a7",
+  "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html",
+  "title": "General resolution: LLM usage in Debian: Results",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-30T09:41:40Z",
+  "fetched_at": "2026-08-30T14:59:45.137565+00:00"
  }
 }

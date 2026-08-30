@@ -7918,5 +7918,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-08-29T16:06:47Z",
   "fetched_at": "2026-08-30T08:19:51.147699+00:00"
+ },
+ "9cd31f617175": {
+  "id": "9cd31f617175",
+  "url": "https://hub.baai.ac.cn/view/57563",
+  "title": "Nat. Rev. Drug Discov.｜AI 制药十年复盘：技术进步很快，为何临床影响仍然有限",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:52:22.350974+00:00"
+ },
+ "dd184add15d1": {
+  "id": "dd184add15d1",
+  "url": "https://hub.baai.ac.cn/view/57558",
+  "title": "OpenAI 高管：ChatGPT 与 Codex 合体，终局是个人 AGI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:52:30.773470+00:00"
+ },
+ "0e84bed4f813": {
+  "id": "0e84bed4f813",
+  "url": "https://www.ithome.com/0/996/195.htm",
+  "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T09:12:57Z",
+  "fetched_at": "2026-08-30T14:53:09.900250+00:00"
+ },
+ "73f239b1260b": {
+  "id": "73f239b1260b",
+  "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-locked-279-billion-042000577.html",
+  "title": "英伟达刚刚对内存芯片下了一注，金额高达2790亿美元",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-30T08:52:11.048Z",
+  "fetched_at": "2026-08-30T14:53:28.502395+00:00"
+ },
+ "6fd61811830c": {
+  "id": "6fd61811830c",
+  "url": "https://www.ithome.com/0/996/120.htm",
+  "title": "预估为 GPT-6 AI 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T05:25:15Z",
+  "fetched_at": "2026-08-30T14:54:38.052181+00:00"
+ },
+ "71b41cb7a8a6": {
+  "id": "71b41cb7a8a6",
+  "url": "https://www.huxiu.com/article/4887103.html?f=rss",
+  "title": "天数智芯盈利了，但钱不是卖芯片赚的",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T05:07:07Z",
+  "fetched_at": "2026-08-30T14:54:48.656079+00:00"
+ },
+ "a8c7b7e5c30d": {
+  "id": "a8c7b7e5c30d",
+  "url": "https://www.ithome.com/0/996/102.htm",
+  "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T03:28:49Z",
+  "fetched_at": "2026-08-30T14:55:09.170959+00:00"
+ },
+ "8258c92f5df8": {
+  "id": "8258c92f5df8",
+  "url": "https://www.huxiu.com/article/4887089.html?f=rss",
+  "title": "“模型公司每赚100美元，云厂商拿走近40美元”",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T02:52:47Z",
+  "fetched_at": "2026-08-30T14:55:21.721097+00:00"
+ },
+ "98cebd89dcc3": {
+  "id": "98cebd89dcc3",
+  "url": "https://www.huxiu.com/article/4887088.html?f=rss",
+  "title": "机器人真正的分水岭：每单位新增真机数据，能换来多少泛化能力",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-30T02:36:51Z",
+  "fetched_at": "2026-08-30T14:55:34.565706+00:00"
+ },
+ "1ae226b9b652": {
+  "id": "1ae226b9b652",
+  "url": "https://yro.slashdot.org/story/26/08/29/2149242/anthropic-sued-by-sony-warner-for-allegedly-stealing-tens-of-thousands-of-songs-torrenting-copyrighted-works",
+  "title": "Anthropic Sued By Sony, Warner For Allegedly Stealing Tens of Thousands of Songs, Torrenting Copyrighted Works",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-30T14:55:47.411481+00:00"
  }
 }
