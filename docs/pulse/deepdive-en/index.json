@@ -781,5 +781,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-29T14:02:10Z",
   "fetched_at": "2026-08-29T21:01:37.761103+00:00"
+ },
+ "d6b37a5c0173": {
+  "id": "d6b37a5c0173",
+  "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+  "title": "AI surveillance in schools raises safety and equity concerns",
+  "source": "Hacker News (2pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T22:15:32Z",
+  "fetched_at": "2026-08-30T00:21:02.604978+00:00"
+ },
+ "d750556c657f": {
+  "id": "d750556c657f",
+  "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+  "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T22:07:07Z",
+  "fetched_at": "2026-08-30T00:21:13.203867+00:00"
+ },
+ "546486f39a0e": {
+  "id": "546486f39a0e",
+  "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
+  "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T20:52:56Z",
+  "fetched_at": "2026-08-30T00:21:25.649256+00:00"
+ },
+ "e89956a45517": {
+  "id": "e89956a45517",
+  "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+  "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-29T19:52:56Z",
+  "fetched_at": "2026-08-30T00:21:49.440725+00:00"
  }
 }

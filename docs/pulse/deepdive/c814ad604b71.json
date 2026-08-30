@@ -1,0 +1,24 @@
+{
+ "id": "c814ad604b71",
+ "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+ "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-30T00:18:41.568574+00:00",
+ "content": "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.”\nThe lawsuit, which was filed late Friday in the U.S. District Court for the Northern District of California, was first reported by Music Business Worldwide. The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude.\n“We disagree with the publishers’ claims and we intend to defend ourselves robustly in court,” an Anthropic spokesperson wrote in an emailed statement sent to TechCrunch.\nThis isn’t the first intellectual property lawsuit Anthropic has faced. Some of the same lawyers behind this lawsuit also represent Concord Music Group and Universal Music Group in a case filed in January and led the Bartz v. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude. Anthropic was ordered to pay $1.5 billion in the landmark Bartz case after a judge ruled that while it was legal for the AI lab to use copyrighted works, it was not legal to acquire that content through piracy.\nWhile the cases make similar arguments, there are key differences. This latest lawsuit is particularly broad and builds off the other cases, including by accusing Anthropic of “flagrant piracy” through illegal torrenting to obtain millions of copies of books, including those that contain lyrics and sheet music.\nArticle was updated to include Anthropic’s comment.",
+ "report": {
+  "summary": "索尼、华纳起诉Anthropic，指控其盗用版权作品训练AI。",
+  "background": "Anthropic因训练Claude模型使用版权内容已多次被诉。此前Bartz案中，法院裁定其使用版权作品合法，但通过盗版获取内容非法，并判赔15亿美元。此次索尼音乐、华纳等出版商联合起诉，指控Anthropic通过非法种子下载和抓取大量含歌词和乐谱的书籍，属于“公然盗版”，要求赔偿。案件在加州北区法院提起，Anthropic回应将积极抗辩。",
+  "key_points": [
+   "索尼音乐、华纳等出版商起诉Anthropic及其联合创始人，指控其通过非法种子下载、爬取盗版内容训练Claude模型。",
+   "原告称Anthropic的行为是“公然盗窃”，涉及数千部版权作品，包括歌词和乐谱，构成大规模侵权。",
+   "Anthropic回应不同意指控，表示将在法庭强力辩护，但未否认具体行为细节。",
+   "此前Anthropic已在Bartz案中败诉，被判赔15亿美元，此次新诉讼范围更广，并直接指控“恶意盗版”。",
+   "案件既涉及AI训练数据的合法性，也延续了版权方与AI公司之间的核心法律争议。"
+  ],
+  "impact": "对AI行业而言，此案可能进一步收紧训练数据获取规则，倒逼企业转向授权数据或自研合规数据源。对开发者来说，若败诉，使用爬取数据微调模型的风险会显著增大。对普通用户，可能影响Claude等产品的功能或内容可用性，但长期看有助于建立更健康的版权生态。",
+  "tools": "可关注版权合规数据平台如Common Crawl（需注意使用条款）、OpenAI的Shutterstock合作模式，或开源工具如Copyright Clearance Center的API、Datasette进行数据溯源审查。"
+ },
+ "lang": "zh"
+}
