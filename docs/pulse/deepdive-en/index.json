@@ -1213,5 +1213,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-31T16:44:15Z",
   "fetched_at": "2026-08-31T20:09:28.770708+00:00"
+ },
+ "0bc2d6d5c851": {
+  "id": "0bc2d6d5c851",
+  "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+  "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T22:41:19Z",
+  "fetched_at": "2026-08-31T23:54:03.500931+00:00"
+ },
+ "9f91ecf945ee": {
+  "id": "9f91ecf945ee",
+  "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
+  "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T21:17:30Z",
+  "fetched_at": "2026-08-31T23:54:18.166158+00:00"
+ },
+ "160c21ceecbd": {
+  "id": "160c21ceecbd",
+  "url": "https://www.amppublic.com/research/openrouter",
+  "title": "You Probably Don't Get Why Stripe Bought OpenRouter",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T20:59:42Z",
+  "fetched_at": "2026-08-31T23:54:34.173061+00:00"
+ },
+ "526773c44b55": {
+  "id": "526773c44b55",
+  "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
+  "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T20:15:02Z",
+  "fetched_at": "2026-08-31T23:55:14.595763+00:00"
+ },
+ "77e651c0246f": {
+  "id": "77e651c0246f",
+  "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+  "title": "The Pentagon now has its own version of ChatGPT and Grok",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-31T20:13:45.000Z",
+  "fetched_at": "2026-08-31T23:55:30.587343+00:00"
+ },
+ "6a011adca855": {
+  "id": "6a011adca855",
+  "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+  "title": "Bank of England chief warns new AI models threaten global financial stability",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T19:40:25Z",
+  "fetched_at": "2026-08-31T23:56:03.592084+00:00"
  }
 }
