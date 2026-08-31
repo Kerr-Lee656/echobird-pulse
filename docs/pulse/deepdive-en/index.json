@@ -1141,5 +1141,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-31T11:19:16Z",
   "fetched_at": "2026-08-31T13:50:16.544679+00:00"
+ },
+ "5db32562f211": {
+  "id": "5db32562f211",
+  "url": "https://www.nber.org/papers/w35684",
+  "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T19:43:24Z",
+  "fetched_at": "2026-08-31T20:06:12.767738+00:00"
+ },
+ "c1eb56fdf047": {
+  "id": "c1eb56fdf047",
+  "url": "https://arxiv.org/abs/2606.05608",
+  "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T19:37:29Z",
+  "fetched_at": "2026-08-31T20:06:39.298232+00:00"
+ },
+ "ba23b444bdf6": {
+  "id": "ba23b444bdf6",
+  "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+  "title": "Instagram puts new limits on undisclosed AI profiles",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-31T19:16:59.000Z",
+  "fetched_at": "2026-08-31T20:07:30.003936+00:00"
+ },
+ "7d455b02fc76": {
+  "id": "7d455b02fc76",
+  "url": "https://scottaaronson.blog/?p=10032",
+  "title": "Anthropic's LLM Watermarking",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T18:59:17Z",
+  "fetched_at": "2026-08-31T20:07:56.227792+00:00"
+ },
+ "1a0e767ddab6": {
+  "id": "1a0e767ddab6",
+  "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+  "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-08-31T18:35:11.000Z",
+  "fetched_at": "2026-08-31T20:08:27.831712+00:00"
+ },
+ "e61516fc5f0a": {
+  "id": "e61516fc5f0a",
+  "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+  "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+  "source": "Google Research",
+  "site_name": "Google Research",
+  "published_at": "2026-08-31T17:19:40.000Z",
+  "fetched_at": "2026-08-31T20:08:47.417093+00:00"
+ },
+ "327f2d8fe027": {
+  "id": "327f2d8fe027",
+  "url": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
+  "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+  "source": "Runway：News（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-08-31T17:03:47.000Z",
+  "fetched_at": "2026-08-31T20:09:09.542844+00:00"
+ },
+ "c445af829502": {
+  "id": "c445af829502",
+  "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+  "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+  "source": "Hacker News (20pts, 11c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-08-31T16:44:15Z",
+  "fetched_at": "2026-08-31T20:09:28.770708+00:00"
  }
 }

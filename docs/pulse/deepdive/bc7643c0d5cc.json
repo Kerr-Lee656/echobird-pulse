@@ -1,0 +1,24 @@
+{
+ "id": "bc7643c0d5cc",
+ "url": "https://www.aibase.com/news/30724",
+ "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-31T10:14:02.968Z",
+ "fetched_at": "2026-08-31T20:03:46.957734+00:00",
+ "content": "Sony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court for the Northern District of California. In addition to the AI company Anthropic, the plaintiffs directly named the two co-founders, Dario Amodei and Benjamin Mann, as individual defendants, an unusual move that places the founders on the defendant list.\n\"One of the most open acts of intellectual property theft in history\"\nIn a 48-page complaint, the plaintiffs accuse Anthropic of mass stealing thousands of copyrighted musical works, including lyrics and sheet music, without authorization through methods such as BT seed downloads and web crawlers. This includes multiple classic songs by well-known artists like Taylor Swift. The materials were used to train the Claude large model and achieve product iteration and commercial profits through infringing data, which the plaintiffs have characterized as \"one of the largest and most blatant acts of intellectual property theft in history.\"\nRegarding the claim for damages, the plaintiffs are requesting the court to issue an injunction to prevent Anthropic from continuing to use the relevant copyrighted materials. Under U.S. copyright law, each infringing work can be claimed up to $150,000, with an additional $25,000 for each instance of altered or removed copyright management information. With tens of thousands of works involved, if all claims are at the maximum level, the total claim amount could reach several billion dollars.\nAnthropic publicly responded that it does not agree with all the accusations made by the publishers and will actively defend itself in court to protect its rights. This is not the first time the company has been involved in a copyright lawsuit — it has previously faced multiple lawsuits from writers, publishers, Universal, and Concord, among others, and had previously reached a $1.5 billion settlement with a group of writers. This latest lawsuit comes at a critical period when Anthropic is preparing for a significant IPO, undoubtedly adding uncertainty to its listing process.",
+ "report": {
+  "summary": "索尼等35家音乐出版商起诉Anthropic侵权训练AI，索赔或达数十亿美元。",
+  "background": "AI大模型训练常依赖海量网络数据，其中包含受版权保护的作品，引发全球性诉讼潮。Anthropic此前已遭遇作家、环球音乐等多家起诉，并曾与作家群体达成15亿美元和解。此次索尼音乐、华纳查佩尔等35家出版商联合起诉，直指Anthropic未经授权抓取歌词和乐谱训练Claude，甚至将两位创始人列为被告，索赔金额按每件作品15万美元计算可能高达数十亿美元。诉讼正值Anthropic准备IPO，给其上市前景蒙上阴影。",
+  "key_points": [
+   "35家音乐出版商联合起诉Anthropic，包括索尼、华纳查佩尔等，罕见地直接将两位创始人列为共同被告。",
+   "诉状称Anthropic通过BT下载和爬虫批量获取受版权保护的歌词乐谱，包括泰勒·斯威夫特作品，用于训练Claude并商业化，被斥为'史上最大胆侵权'。",
+   "按美国版权法，每件侵权作品最高索赔15万美元，加每件修改版权信息2.5万美元，若全额支持总和可达数十亿美元。",
+   "Anthropic否认所有指控，称将积极抗辩。此前已有多起诉讼，并与作家群体达成15亿美元和解。",
+   "此次起诉发生在Anthropic筹备IPO的关键节点，可能影响估值与投资者信心，甚至延缓上市进程。"
+  ],
+  "impact": "对AI行业而言，此案将强化训练数据版权合规意识，推动从'爬取'转向'授权'模式；对开发者，意味着使用公开数据训练模型的风险剧增，需引入数据溯源和版权审查流程；对普通用户，未来AI生成内容中涉及音乐歌词等可能受到更多限制，创作型产品体验或受影响。整体上，案件结果或成为AI版权边界的标志性判例，影响全球AI公司数据实践。",
+  "tools": "可关注Hugging Face Datasets筛选带明确许可证的数据集；使用Copyrighted Data Detection等开源工具进行数据合规检查；参考Anthropic公开的模型卡及训练数据说明；关注OSC开放版权数据集项目。建议跟进案件进展并与法律团队协作评估风险。"
+ },
+ "lang": "zh"
+}

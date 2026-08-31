@@ -1,0 +1,24 @@
+{
+ "id": "4a8c51c44870",
+ "url": "https://www.aibase.com/news/30719",
+ "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-31T10:14:02.968Z",
+ "fetched_at": "2026-08-31T20:04:16.823926+00:00",
+ "content": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the national standard \"Requirements for Collaboration between Human and Intelligent Customer Service,\" which will be implemented on September 1st. This is China's first national standard focusing on the collaborative mechanism between human and intelligent customer service, meaning that intelligent customer service is no longer a company's \"shield from liability.\"\nThe responsibility for AI customer service \"miscommunication\" lies with the operator\nUnder the new rules, operators cannot simply use reasons such as \"artificial intelligence answers do not represent the company's position\" or \"algorithm-generated content has no legal effect\" to avoid fulfilling commitments. Companies must take responsibility for the content of intelligent customer service responses. This directly addresses the pain point of intelligent customer service \"reading but misresponding\" without any accountability, formally including AI outputs within the scope of the operator's responsibilities.\nAt the same time, several other regulations will also come into effect: The \"Management Measures for the Development of Micro-Short Plays\" will be implemented on September 1st, categorizing micro-short plays based on investment amount and theme into three categories, implementing classified filing, public disclosure, and distribution permits, and listing 11 prohibited contents such as endangering national security, distorting national history, and infringing on minors, requiring AI-generated micro-short plays to add a notice label in a prominent position in each episode; The \"Management Measures for Online Marketing of Financial Products\" will prohibit the use of terms like \"low threshold,\" \"instant arrival,\" and \"low interest rate\" for loan products starting September 30th.\nNew regulations for people's livelihood also take effect simultaneously\nBeijing's \"Guidelines for the Use of Green Packaging by Food Delivery Merchants\" will take effect on September 1st, setting packaging rules for each type of meal based on the soup, temperature, and form of the food, helping to \"thin out\" food delivery packaging; The amended decision on the \"Regulations on the Administration of Housing Accumulation Fund\" will take effect on September 20th, removing the requirement for the ratio of rent income when withdrawing for rental housing, adding new scenarios for withdrawal for renovation and property management fees, and reducing the loan review period from 15 days to 10 days. In addition, the entry and exit management regulations will take effect on September 15th, requiring genuine and legal reasons for going abroad to combat overseas fraud and illegal employment; The People's Bank of China and the State Administration for Market Regulation have clearly stipulated that it is forbidden to buy and sell circulating RMB, except for commemorative coins and similar situations; Shanghai has expanded the family sharing usage scope of the accumulated balance in employees' medical insurance personal accounts.",
+ "report": {
+  "summary": "9月起AI客服“已读乱回”须担责，微短剧、外卖等新规落地。",
+  "background": "近年来，智能客服被广泛使用，但常出现“已读乱回”却无人担责的情况，企业常以“AI回复不代表公司立场”为由搪塞。此次新规首次从国家标准层面明确了人机协同客服的权责关系，要求运营商对智能客服的回复内容负责。同时，微短剧行业因AI生成内容泛滥而面临监管补位，金融营销、外卖包装等领域的新规也同期施行，反映出AI应用和社会治理的同步深化。",
+  "key_points": [
+   "AI客服“已读乱回”将担责：运营商不能再用“AI回复无效”等理由回避责任，智能客服内容被视为企业行为，维权有据。",
+   "微短剧分类备案：按投资和主题分三类管理，AI生成微短剧需每集显著标注，11类内容被禁止，加强行业规范。",
+   "金融营销禁用诱导词：9月30日起，贷款产品不得使用“低门槛”“秒到账”等说法，保护金融消费者。",
+   "外卖包装“瘦身”：按餐品汤、温、形制定包装规则，减少过度包装，推动绿色消费。",
+   "公积金新政便民：租房提取不再设收入比例门槛，新增装修和物业费提取场景，贷款审批缩短至10天。"
+  ],
+  "impact": "对AI行业，责任边界清晰有助于倒逼企业提升客服系统质量，减少“甩锅”现象；对开发者，需在AI输出环节引入审核和溯源机制，规避法律风险；对普通用户，遇到智能客服乱答复时投诉索赔更有依据，消费者权益得到实质性保障。总体上，监管从“鼓励创新”转向“规范与责任并重”，推动AI应用良性发展。",
+  "tools": "可关注Rasa（开源对话平台）用于构建可审计的客服流程；LangSmith用于追踪AI输出日志；开源内容审核库如Cleanlab辅助检测异常回复；微软Presidio用于敏感信息管控，帮助满足合规要求。"
+ },
+ "lang": "zh"
+}

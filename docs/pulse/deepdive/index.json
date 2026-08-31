@@ -8332,5 +8332,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-08-31T13:46:11.477277+00:00"
+ },
+ "6fdfd9389f6c": {
+  "id": "6fdfd9389f6c",
+  "url": "https://thenextweb.com/news/nhs-ai-scribes-errors-healthwatch-mhra",
+  "title": "AI scribes are getting drug names and diagnoses wrong in NHS records",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T20:02:28.971058+00:00"
+ },
+ "f0a26da0fa8e": {
+  "id": "f0a26da0fa8e",
+  "url": "https://thenextweb.com/news/sb-energy-openai-warrants-ohio-campus",
+  "title": "SB Energy gave OpenAI $5.5bn in warrants to sign a 20-year lease",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T20:02:45.634219+00:00"
+ },
+ "1ec467d2c386": {
+  "id": "1ec467d2c386",
+  "url": "https://www.36kr.com/p/3961814974282886",
+  "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T20:02:54.332847+00:00"
+ },
+ "d66f16ba5912": {
+  "id": "d66f16ba5912",
+  "url": "https://www.aibase.com/news/30726",
+  "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T10:14:02.968Z",
+  "fetched_at": "2026-08-31T20:03:09.741726+00:00"
+ },
+ "62e7e18a5e77": {
+  "id": "62e7e18a5e77",
+  "url": "https://www.aibase.com/news/30725",
+  "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T10:14:02.968Z",
+  "fetched_at": "2026-08-31T20:03:23.399963+00:00"
+ },
+ "bc7643c0d5cc": {
+  "id": "bc7643c0d5cc",
+  "url": "https://www.aibase.com/news/30724",
+  "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T10:14:02.968Z",
+  "fetched_at": "2026-08-31T20:03:46.957734+00:00"
+ },
+ "48c87be8ae64": {
+  "id": "48c87be8ae64",
+  "url": "https://www.aibase.com/news/30722",
+  "title": "Claude遭大规模盗号，大批账号被强制注销",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T10:14:02.968Z",
+  "fetched_at": "2026-08-31T20:03:58.523081+00:00"
+ },
+ "4a8c51c44870": {
+  "id": "4a8c51c44870",
+  "url": "https://www.aibase.com/news/30719",
+  "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T10:14:02.968Z",
+  "fetched_at": "2026-08-31T20:04:16.823926+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "62e7e18a5e77",
+ "url": "https://www.aibase.com/news/30725",
+ "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-31T10:14:02.968Z",
+ "fetched_at": "2026-08-31T20:03:23.399963+00:00",
+ "content": "Recently, Tencent officially launched the preview version of HuanYuan Hy4. The release of this version not only came earlier than Morgan Stanley's previous expectation of September, but also directly fulfilled the commitment made by Tencent's management during the second-quarter earnings call to launch it within the year. Since the appointment of Yao Shunyu, Chief AI Scientist, in the fourth quarter of 2025, the update speed of Tencent's model has significantly improved. From the release of the Hy3 preview version in April, the official release of Hy3 in July, to the early appearance of the Hy4 preview version, the market generally expects that the official release of Hy4, originally scheduled for the fourth quarter of this year, will likely be launched ahead of schedule.\nIn terms of technical architecture, the HuanYuan Hy4 preview version adopts a mixture of experts architecture, achieving a significant leap in model size and long-text processing capabilities. Its total parameter count reaches 770 billion, doubling the 295 billion parameters of the previous generation Hy3; the activated parameter count is increased to 49 billion, higher than the 21 billion of the previous generation; the context window now supports up to 1 million tokens, far exceeding the 256 thousand tokens of the previous generation.\nIn terms of performance, with the support of high-quality training data and software-hardware collaborative design, the Hy4 preview version has already secured a position in the industry's top tier. In Tencent's internal double-blind evaluation, the model achieved an average score of 2.99 out of 4, slightly surpassing similar products; in the third-party competition arena's code ability ranking, the model also ranks among the top. In addition to conventional benchmark tests, the model's productivity improvements in real-world scenarios such as software development, office efficiency, game development, and research are also significant. These core advantages are highly aligned with Tencent's main businesses such as gaming, advertising, and cloud services, and are expected to translate into long-term commercial growth.\nBased on Tencent's significant progress in the field of artificial intelligence and its solid fundamentals, Morgan Stanley maintains an attractive view of the industry and reiterates its \"overweight\" rating, setting a target price of 550 HKD. The institution expects that between 2026 and 2028, Tencent's revenue and core profitability will maintain steady growth, with expected price-to-earnings ratios and return on equity demonstrating strong market competitiveness.",
+ "report": {
+  "summary": "腾讯混元Hy4预览版发布，参数规模倍增，大摩看高至550港元。",
+  "background": "腾讯在2025年第四季度任命姚顺宇为首席AI科学家后，大模型迭代显著提速。此前Hy3预览版于4月发布、7月正式上线，如今Hy4预览版提前亮相，早于大摩此前预期的9月，也兑现了管理层在二季度财报会上年内发布的承诺。市场普遍预计，原定四季度正式发布的Hy4有望提前。技术层面，Hy4采用混合专家架构，总参数达7700亿，激活参数490亿，上下文窗口扩展至100万tokens，较上代大幅提升。性能上，Hy4在腾讯内部双盲评测中得分2.99/4，并在第三方代码能力排名中位居前列，与游戏、广告、云等主业高度协同，被看好转化为长期商业价值。",
+  "key_points": [
+   "发布节奏超预期：Hy4预览版早于大摩预期，兑现管理层承诺，正式版有望提前上线。",
+   "参数规模倍增：总参数达7700亿，激活参数490亿，上下文窗口支持100万tokens，较上代翻倍以上。",
+   "性能表现优异：内部双盲评测平均分2.99/4，代码能力排名靠前，在开发、办公、游戏等场景生产力提升明显。",
+   "商业协同明确：AI能力与腾讯游戏、广告、云业务深度融合，预期转化为长期收入增长。",
+   "大摩维持看好：重申增持评级，目标价550港元，预计2026-2028年收入及核心利润率稳步增长。"
+  ],
+  "impact": "对AI行业而言，混元Hy4的快速迭代表明国产大模型竞争进入白热化阶段，技术实力与落地场景并重。对开发者，百万级上下文和更强的代码能力降低了复杂应用开发门槛，可探索更多Agent和长文档处理场景。对普通用户，未来腾讯系产品（如微信、游戏、办公软件）的智能体验将明显提升。同时，这一进展强化了市场对腾讯AI商业化潜力的信心，可能带动相关产业链投资热度。",
+  "tools": "可关注Hugging Face上的混元模型仓库、腾讯云AI平台（如TI平台），以及MoE架构开源项目如Mixtral、DeepSeek-V3等。评测方面可参考LMSYS Chatbot Arena和BigCodeBench代码榜单，持续跟踪模型迭代表现。"
+ },
+ "lang": "zh"
+}

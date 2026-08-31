@@ -1,0 +1,24 @@
+{
+ "id": "f0a26da0fa8e",
+ "url": "https://thenextweb.com/news/sb-energy-openai-warrants-ohio-campus",
+ "title": "SB Energy gave OpenAI $5.5bn in warrants to sign a 20-year lease",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-31T20:02:45.634219+00:00",
+ "content": "SB Energy has handed OpenAI warrants now worth about $5.5bn, and it did so to keep OpenAI as a tenant. The Wall Street Journal reported the arrangement on Monday.\nThe direction matters and is easy to get backwards. SB Energy, the SoftBank-owned power and data centre developer, is the issuer, and OpenAI is the recipient, which makes this a landlord paying its anchor tenant rather than a customer taking a stake.\nThe instruments were granted in January and valued then at $3.6bn. By the end of June, they were worth $5.5bn, an increase of roughly $1.9bn driven by the rising value of the underlying equity rather than by anything OpenAI did.\nWhat they buy is a signature on a very long lease. OpenAI has committed to 20 years at SB Energy’s planned campus in southern Ohio, a ten-gigawatt site announced in mid-August with first operations targeted for 2028.\nOpenAI and SoftBank each put $500m into SB Energy, paired with a lease on a 1.2-gigawatt facility in Texas, and the warrants were awarded in the same period.\nTen gigawatts is a figure worth pausing on. It is roughly the electrical demand of a mid-sized European country, committed to a single campus by a company that did not exist in its current form five years ago.\nSB Energy is also preparing to go public, targeting between $5bn and $7bn in proceeds. OpenAI is expected to hold a single-digit percentage stake after that listing, which turns a tenant into a shareholder at exactly the moment public investors are asked to value the company.\nNvidia is in the same structure from a third direction. It has been weighing an investment of about $3bn in SB Energy tied to the Ohio project, according to The Information.\nLine those up, and the arrangement is circular by design. The chip supplier, the power developer, the model company and the parent that owns two of the four all hold financial positions in the same buildout, and each one’s valuation depends partly on the others continuing to commit.\nSoftBank has now committed more than $64bn across OpenAI equity, the joint SB Energy investments and Stargate. The stated logic is to own the model layer through OpenAI and the physical layer through SB Energy, which requires both to keep working.\nThis is not the only place the pattern shows up. Nvidia has been in talks to guarantee $250bn of OpenAI data centre debt, also in Ohio, and lenders have grown noticeably more careful about the sector.\nThe financing has been getting harder rather than easier. Oracle’s $16.3bn data centre package needed PIMCO to anchor $10bn after US banks stepped back, which is not what a comfortable market looks like.\nSoftBank has been raising against the same expectations. It signed a $40bn bridge facility in March to fund its OpenAI commitments, and has spent the months since looking for something permanent to replace it.\nWarrants are a useful instrument in that environment because they cost nothing today. SB Energy pays only if its own equity appreciates, and the dilution lands on whoever buys into the IPO rather than on the balance sheet now.\nThere is also a question of who bears the risk if demand disappoints. A twenty-year lease is a liability on OpenAI’s side and an asset on SB Energy’s, and the warrants make OpenAI a beneficiary of the value its own signature creates.\nNeither OpenAI nor SB Energy has commented publicly on the terms, and the reporting rests on unnamed sources.\nWhat is on the record is the shape of the commitment: twenty years, ten gigawatts, and a set of instruments that have already appreciated by more than half before the site has broken ground.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "软银旗下SB Energy向OpenAI发放55亿美元认股权证，换取20年租约。",
+  "background": "AI算力需求激增使数据中心电力供应成为核心瓶颈。OpenAI作为最大AI公司之一，需要锁定长期电力保障；而软银系SB Energy作为电力与数据中心开发商，则需确保大租户落地以支撑融资和IPO。为了吸引OpenAI签下俄亥俄州10吉瓦园区20年租约，SB Energy选择以认股权证作为激励，而非现金折扣。该权证在1月授予时价值36亿美元，随OpenAI股权升值至55亿。这一安排反映了AI基础设施领域高额投融资需求、多方利益绑定以及融资环境趋紧的现实。",
+  "key_points": [
+   "权证方向罕见：由房东SB Energy发给租户OpenAI，相当于房东用未来股权增值换取租约，而非客户入股。",
+   "权证价值已从1月36亿涨至6月55亿，涨幅超一半，但园区尚未破土动工，价值全靠OpenAI股价带动。",
+   "交易结构呈循环：软银、OpenAI、英伟达均交叉持股或投资同一基础设施，各方估值相互依赖。",
+   "10吉瓦园区规模惊人，约等于一个中等欧洲国家的用电量，凸显超大AI数据中心的能源需求。",
+   "融资环境日益严峻，权证这种零即时现金成本的激励方式成为开发商保留大客户的重要手段。"
+  ],
+  "impact": "对AI行业而言，此交易显示算力基础设施正被少数巨头通过股权、债务和租赁深度捆绑，可能加剧集中化与循环担保风险。对开发者，未来算力供给可能更依赖此类巨型园区，成本与接入条件或受制于商业协议。对普通用户，大规模数据中心意味着AI服务持续扩展，但若融资或履约出现问题，也可能带来服务不稳定或电价上调等间接影响。",
+  "tools": "可关注SB Energy后续IPO招股书及OpenAI融资动态，以了解权证行权与股权结构变化；同时可跟踪美国能源信息署(EIA)的电力需求预测，以及云厂商数据中心选址舆情分析工具（如Greenpeace Click Clean）来评估能源使用影响。"
+ },
+ "lang": "zh"
+}

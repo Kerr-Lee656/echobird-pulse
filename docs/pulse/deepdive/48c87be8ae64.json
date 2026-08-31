@@ -1,0 +1,24 @@
+{
+ "id": "48c87be8ae64",
+ "url": "https://www.aibase.com/news/30722",
+ "title": "Claude遭大规模盗号，大批账号被强制注销",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-31T10:14:02.968Z",
+ "fetched_at": "2026-08-31T20:03:58.523081+00:00",
+ "content": "Recently, the Anthropic platform experienced a large-scale account security incident, with many Claude users being forcibly logged out without prior warning. Moreover, the official even urgently removed payment methods such as Visa and Mastercard bound in the user's backend. The crisis behind this was not an arbitrary operation by the official side, but rather a covert hunting campaign launched by hackers against global AI users. Today, the hackers' target has shifted from bank card balances to expensive AI computing power and API quotas.\nAccording to the official statement from Anthropic, the culprit behind this security incident is various information-stealing malware lurking in users' computers. On Windows systems, common types of malware include Vidar, Lumma, StealC, RedLine, and Acreed; while on Mac systems, AMOS (Atomic Stealer) is mainly active. These malware often disguise themselves as cracked games, software updates, or unofficial resources, secretly infiltrating users' computer systems, stealing passwords from browsers, browsing history, encrypted wallet keys, and even locally stored Cookies and Session authentication credentials.\nMany users are confused about why their accounts were still breached even though they had changed their passwords and enabled strict two-factor authentication (2FA). The core reason lies in the hackers' strategy of \"bypassing the front end and directly stealing the access card.\" After the malware steals the user's Session (session Cookie), hackers can perfectly replicate the same environment on their own devices and achieve passwordless login, rendering two-factor authentication meaningless. As long as the active session is not manually revoked, attackers can continue to use the old session to steal quotas.\nWith the high cost of computing power today, stealing AI computing power has evolved into a lucrative underground black market. After obtaining the login credentials of Claude, hackers mainly monetize them in two ways: one is to package hundreds of stolen accounts into a shell website and sell \"unlimited chat\" quotas at low prices to unsuspecting users; the second is to generate API Keys in the background using stolen Sessions and connect to a proxy API selling platform, charging by Token for profit. Since stealing credit cards easily triggers the bank's strict risk control, while \"stealing computing power\" can quickly and seamlessly convert into cash in the gray area, it has become the \"digital gold\" in the eyes of hackers.\nFaced with serious security threats, Anthropic took extreme and decisive measures to prevent users from suffering more severe financial losses—forcibly logging out infected users' accounts and directly physically deleting the credit card information saved in the account. If your Claude quota suddenly gets completely consumed, the sidebar shows completely unfamiliar conversation history, or your bound credit card suddenly disappears, you are likely to have been compromised.\nTo guard against such security risks, users need to take thorough defensive measures: first, do not rely solely on changing passwords, but must log in to each key account and manually select \"log out of all devices\" in the security settings; second, thoroughly clean up browser Cookies and website data to cut off the malware's continuous access permissions; finally, firmly avoid downloading any cracked games or software from non-official channels, and when confirming an infection with high-risk malware, back up files and reinstall the system to ensure complete safety. In this era where AI is deeply integrated into productivity, protecting account credentials is equivalent to protecting core digital assets.",
+ "report": {
+  "summary": "Claude遭大规模盗号，强制注销并删除绑卡。",
+  "background": "黑客的攻击目标从银行卡转向昂贵的AI算力，通过信息窃取木马盗取Claude用户的会话凭证。即使修改密码并启用2FA，只要会话Cookie被偷，黑客仍可免密登录并盗用配额。Anthropic被迫强制注销受影响账号并删除绑定银行卡以止损。",
+  "key_points": [
+   "黑客利用Vidar、Lumma等木马窃取浏览器存储的会话Cookie，绕过密码和2FA直接登录。",
+   "只要活跃会话未手动注销，黑客就能持续盗刷Claude配额，修改密码也无济于事。",
+   "盗号变现方式有两种：打包成低价无限聊天网站，或生成API Key按token转卖。",
+   "Anthropic紧急强制注销用户并删除绑定的信用卡，防止更大财产损失。",
+   "用户需手动退出所有设备、清理Cookie，并避免下载破解软件以防感染。"
+  ],
+  "impact": "对AI行业，账号安全成为AI服务商必须重蹈的核心议题，否则信任崩塌；对开发者，API Key和会话管理需纳入安全基线，警惕算力被洗劫；对普通用户，AI账号已等同数字资产，需改变只依赖密码的惯性，主动管理会话和设备。",
+  "tools": "建议定期使用Malwarebytes或Bitdefender查杀木马；在Claude设置中手动注销所有设备；可关注Anthropic官方安全公告和浏览器Cookie清理工具（如Cookie AutoDelete）。"
+ },
+ "lang": "zh"
+}
