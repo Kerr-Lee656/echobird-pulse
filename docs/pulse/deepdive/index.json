@@ -8143,5 +8143,113 @@
   "site_name": "Zeli",
   "published_at": "2026-08-30T14:06:54Z",
   "fetched_at": "2026-08-30T22:44:53.440992+00:00"
+ },
+ "640777d045d5": {
+  "id": "640777d045d5",
+  "url": "https://aiera.com.cn/2026/08/31/other/admin/111510/openai%e6%96%b0%e7%8e%8bastra%e9%a6%96%e6%b5%8b%e6%9b%9d%e5%85%89%ef%bc%8c%e5%89%8d%e7%ab%af%e4%b8%8d%e5%ad%98%e5%9c%a8%e4%ba%86%ef%bc%9f",
+  "title": "OpenAI新王Astra首测曝光，前端不存在了？",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-31T02:14:45.998Z",
+  "fetched_at": "2026-08-31T05:28:19.300592+00:00"
+ },
+ "603cb4558e72": {
+  "id": "603cb4558e72",
+  "url": "https://aiera.com.cn/2026/08/31/other/admin/111490/openai%e5%ae%98%e5%ae%a3%ef%bc%9a%e4%bd%a0%e7%9a%84%e6%95%b0%e6%8d%ae%e4%b8%80%e5%ad%97%e4%b8%8d%e7%95%99%ef%bc%81anthropic%e9%9a%94%e5%a4%a9%e6%9d%be%e5%8f%a3%ef%bc%9a%e4%bd%a0%e5%8f%af%e4%bb%a5",
+  "title": "OpenAI官宣：你的数据一字不留！Anthropic隔天松口：你可以自己保管",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-31T02:14:45.998Z",
+  "fetched_at": "2026-08-31T05:28:31.403914+00:00"
+ },
+ "5053f64cbb4d": {
+  "id": "5053f64cbb4d",
+  "url": "https://aiera.com.cn/2026/08/31/other/admin/111410/chatgpt%e6%96%b0%e6%a8%a1%e5%9e%8bbel%e8%a2%ab%e6%9b%9d%e9%a2%84%e8%ae%ad%e7%bb%83%e5%ae%8c%e6%88%90%ef%bc%81%e5%8f%82%e6%95%b0%e9%ab%98%e8%be%be10%e4%b8%87%e4%ba%bf",
+  "title": "ChatGPT新模型Bel被曝预训练完成！参数高达10万亿",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-08-31T02:14:45.998Z",
+  "fetched_at": "2026-08-31T05:28:45.041764+00:00"
+ },
+ "2774c51a7d73": {
+  "id": "2774c51a7d73",
+  "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+  "title": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:29:05.462575+00:00"
+ },
+ "24da6c00e277": {
+  "id": "24da6c00e277",
+  "url": "https://www.aibase.com/zh/news/30707",
+  "title": "索尼与华纳起诉Anthropic，指控其大规模使用版权音乐训练AI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:29:50.900790+00:00"
+ },
+ "e5af7108587b": {
+  "id": "e5af7108587b",
+  "url": "https://www.aibase.com/zh/news/30710",
+  "title": "华为联合瑞金医院发布瑞智病理大模型 RuiPath 2.0，已落地90余家医院",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:30:30.783348+00:00"
+ },
+ "e269759c59aa": {
+  "id": "e269759c59aa",
+  "url": "https://www.aibase.com/news/30702",
+  "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-08-31T02:14:45.998Z",
+  "fetched_at": "2026-08-31T05:30:45.142734+00:00"
+ },
+ "a705c997cf69": {
+  "id": "a705c997cf69",
+  "url": "https://www.ithome.com/0/996/284.htm",
+  "title": "苹果新 CEO 特努斯 9 月 1 日上任，人工智能将成为其任期内的首要任务",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-08-31T00:51:07Z",
+  "fetched_at": "2026-08-31T05:30:57.292141+00:00"
+ },
+ "ac06a694ae27": {
+  "id": "ac06a694ae27",
+  "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-claude-revenue-surges-1-133046476.html",
+  "title": "独家报道：随着Anthropic在ChatGPT领域取得进展，Claude营收激增1,000%",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-08-31T00:19:32.664Z",
+  "fetched_at": "2026-08-31T05:31:07.213951+00:00"
+ },
+ "d597d3e381da": {
+  "id": "d597d3e381da",
+  "url": "https://mashable.com/tech/texas-blocks-funding-flock-ai-surveillance-cameras-amid-backlash",
+  "title": "Texas blocks funding for Flock as backlash grows against AI surveillance cameras",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:31:20.219758+00:00"
+ },
+ "7c050336570d": {
+  "id": "7c050336570d",
+  "url": "https://thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
+  "title": "MIT report says AI can complete almost any undergraduate assignment it sets",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:31:49.063599+00:00"
+ },
+ "47d335f393c8": {
+  "id": "47d335f393c8",
+  "url": "https://juejin.cn/post/7678975158596239369",
+  "title": "一个 SKILL.md 拿下 2.3 万 Star：让 Codex/Claude Code 少说废话、先给答案",
+  "source": "掘金 · 人工智能本周最热",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:32:12.162294+00:00"
  }
 }

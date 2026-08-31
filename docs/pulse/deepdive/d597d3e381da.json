@@ -1,0 +1,24 @@
+{
+ "id": "d597d3e381da",
+ "url": "https://mashable.com/tech/texas-blocks-funding-flock-ai-surveillance-cameras-amid-backlash",
+ "title": "Texas blocks funding for Flock as backlash grows against AI surveillance cameras",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-31T05:31:20.219758+00:00",
+ "content": "Texas blocks funding for Flock as backlash grows against AI surveillance cameras\nFlock's AI surveillance cameras are increasingly being targeted by its critics across the country. No, we're not just talking about vigilantes who are taking the cameras down in their towns. We're talking about politicians now, too. And it's a bipartisan effort; an anti-Flock position is being taken up by both Republican and Democratic politicians.\nCase in point: Texas Governor Greg Abbot, a Republican, has just recently blocked funding for Flock across the state. Abbott ordered that all state agencies stop funding the AI surveillance camera company in an order issued on Thursday night.\nAbbot's order came just as The Texas Tribune was going to publish a report on how the state of Texas spent at least $30 million in grants provided to local agencies to acquire the Flock cameras. According to the report, the money came from a higher fee levied by Texas lawmakers on Texans' car insurance policies.\nYou May Also Like\n- Play our Big Guessing Game: Make your predictions now for a chance to win a new Apple Watch. Time's running out!\nJust days before Abbot blocked Flock funding in the state, his Democratic challenger, Gina Hinojosa, released a campaign ad criticizing Governor Abbot over Flock.\nThe Democratic candidate's ad warns Texans that there are \"10,000 Flock cameras reading your [license] plate, logging where you sleep and pray\" all with \"no warrant needed\" in \"Greg Abbot's Texas.\"\nNumerous reports have been trickling in from around the country regarding law enforcement officers misusing Flock cameras and their data in order to stalk and harass individuals. The concern over Flock cameras has led to websites popping up, like Have I Been Flocked?, that warn users if their license plate has been captured by a Flock camera.\nThe blowback against Flock is not just happening in Texas, either. Both Republican and Democratic candidates in states like Michigan and Pennsylvania have run on anti-surveillance platforms and criticized their opponents for supporting policies that led to Flock installations in their states. Michigan Democratic Senate candidate Abdul El-Sayed has even taken to calling his opponent, Republican Mike Rogers, the nickname \"Mass Surveillance Mike\" over the issue.\nLast week, Republican Senator Josh Hawley of Missouri announced an investigation into Flock Safety, the company behind Flock cameras, to determine how it handles the data it captures.\nWith more than 120,000 Flock cameras across 49 states, it's safe to say that Flock has become a real issue for citizens. Now it's become a bipartisan concern for politicians, too.",
+ "report": {
+  "summary": "得州州长叫停政府资助Flock AI监控摄像头，跨党派反弹加剧。",
+  "background": "Flock Safety在全美部署超12万台AI车牌识别摄像头，警方被曝滥用数据跟踪骚扰民众。得州通过汽车保险附加费拨款至少3000万美元购置摄像头，引发隐私担忧。共和党州长阿博特在媒体曝光前夜下令停止资助，民主党对手也借机攻击，两党罕见立场一致。",
+  "key_points": [
+   "得州州长阿博特周四晚责令所有州机构停止资助Flock，正值报道称该州花至少3000万美元购置摄像头，资金来自汽车保险附加费。",
+   "民主党候选人希诺霍萨发布广告，警告1万摄像头无需搜查令即可读取车牌、记录行踪，形成选举压力。",
+   "全美出现多起执法人员滥用Flock数据跟踪骚扰案例，催生“我被Flock拍了吗”等查询网站，提醒车主车牌是否被记录。",
+   "密歇根、宾夕法尼亚等州候选人以反监控为竞选主张，密歇根民主党人甚至称对手为“大规模监控迈克”。",
+   "密苏里州共和党参议员霍利宣布调查Flock Safety的数据处理方式，两党共同施压监管。"
+  ],
+  "impact": "对AI行业，带有监控性质的产品将面临更严格的合规与伦理审查，商业模式可能受阻；对开发者而言，隐私设计与数据治理成为必修课，否则技术落地会遭遇公众抵制；对普通用户，车牌等数据被持续记录可能被用于追踪，社会需在公共安全与个人隐私间寻求平衡。此事件可能推动更多州立法限制AI监控资金投入。",
+  "tools": "可关注“Have I Been Flocked?”网站查询个人车牌是否被Flock摄像头拍摄；查阅电子前沿基金会（EFF）的监控技术报告；若想了解车牌识别技术原理，可研究开源项目Plate Recognizer等。"
+ },
+ "lang": "zh"
+}

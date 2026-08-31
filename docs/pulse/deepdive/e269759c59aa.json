@@ -1,0 +1,24 @@
+{
+ "id": "e269759c59aa",
+ "url": "https://www.aibase.com/news/30702",
+ "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-08-31T02:14:45.998Z",
+ "fetched_at": "2026-08-31T05:30:45.142734+00:00",
+ "content": "ByteDance had originally planned to launch the DouBao large model 2.2 in August, but it will be appropriately delayed. The core reason for this delay is that the internal team hopes to comprehensively enhance the model's capabilities in programming, tool calling, and Agent intelligence through more thorough pre-training and post-training, aiming to achieve a significant performance improvement by extending the development cycle.\nAs a key technical enhancement between two generations of large models, DouBao Large Model 2.2 adopts a more solid development approach. It does not wait for the next generation of ultra-large models to be fully developed before addressing pain points such as coding, nor does it adopt a simple daily iteration model. According to the plan, the Seed team has set one of its main goals for 2026 as pushing the Coding capability into the top tier of the industry, and expects it to demonstrate industry impact comparable to cutting-edge products like Zhipu GLM-5.2 and Kimi-K3 by the end of the year.\nAt the strategic level, Zhang Yiming clearly stated that the company will not rely on AI distillation technology to improve models in the future. Liang Rubo also emphasized at the mid-year all-staff meeting that ByteDance will resolutely adhere to its self-research route in the field of large language models. The team is willing to accept short-term relative backwardness, focus on mastering the fundamentals, and persist in long-term technological optimization.",
+ "report": {
+  "summary": "字节跳动推迟豆包2.2发布，专注深度对齐与自研",
+  "background": "大模型行业竞争白热化，代码能力与Agent智能成为各家比拼焦点。字节跳动原计划8月推出豆包大模型2.2，但内部决定延长开发周期，通过更充分的预训练和后训练全面提升编程、工具调用及Agent能力。管理层同时明确反对依赖AI蒸馏技术，坚持自研路线。此举旨在避免简单日更或等待下一代的被动局面，以扎实的技术积累换取长期竞争力。",
+  "key_points": [
+   "豆包2.2推迟发布，原定8月延后，核心原因是团队希望通过更充分训练提升编程、工具调用和Agent智能，追求显著性能跃升。",
+   "字节明确表态不再依赖AI蒸馏技术来改进模型，张一鸣强调要摆脱对已有模型的模仿，走真正的原创技术路线。",
+   "梁汝波在全员会上强调坚持大模型自研，愿意接受短期相对落后，专注掌握基础能力并做长期技术优化。",
+   "Seed团队将2026年目标定为编程能力进入行业一流，年底要接近或比肩智谱GLM-5.2和Kimi-K3等前沿产品。",
+   "战略上选择更扎实的中间版本迭代，既不干等下一代超大模型，也不走简单日常更新的路径，体现深度对齐的决心。"
+  ],
+  "impact": "对AI行业而言，字节反对蒸馏、坚持自研的态度会促使国内厂商重新审视快速跟风策略，推动更重视底层创新。对开发者来说，短期等到豆包2.2的编程和Agent能力可能更晚，但未来可用模型的稳定性和真实能力或将更可靠。对普通用户，字节系产品短期内不会有豆包大版本功能更新，但后续体验可能更扎实，尤其在复杂编程任务上减少“表面聪明、实际翻车”的情况。",
+  "tools": "可关注字节跳动火山方舟上的豆包大模型API、Seed团队后续开源成果，以及竞品如智谱GLM、Kimi K3作为能力参照；开发者也可通过Trae等字节系编程助手体验其Coding能力进展。"
+ },
+ "lang": "zh"
+}

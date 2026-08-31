@@ -1,0 +1,23 @@
+{
+ "id": "7c050336570d",
+ "url": "https://thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
+ "title": "MIT report says AI can complete almost any undergraduate assignment it sets",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-31T05:31:49.063599+00:00",
+ "content": "An MIT committee report says AI can produce credible responses to almost any written assignment in its undergraduate curriculum and has driven measurable shifts in campus culture in under three years. In the EU, systems that monitor students during tests are high-risk under the AI Act and emotion recognition in education has been prohibited since February 2025.\nMIT says artificial intelligence can now credibly complete almost any undergraduate assignment it sets. Its ad hoc AI committee published the finding this week, Futurism reported.\nThe list is not narrow. The report covers essays, maths and science problems, proofs and coding assignments, and says the models produce credible solutions across all of them.\nThe more interesting finding is not about cheating. In under three years the technology has driven what the committee describes as major shifts in campus culture.\nAttendance at office hours is down. Participation in online discussions has fallen, and the report cites anecdotal evidence of fewer study groups in dorms and libraries. None of that is a cheating problem.\nOther universities have already reacted. Chicago’s law school banned phones and laptops in first-year classes, and Princeton dropped an honour code more than a century old.\nThe direction of travel is supervision. If you cannot trust the work, you watch the person doing it, which is a very old answer to a new question.\nThat is where European law starts rather than ends. On this continent the watching is the regulated activity, not the cheating.\nUniversities were already using AI to catch cheating before any of this, and TNW called the practice creepy at the time.\nThe AI Act has a view on it. Education is one of the areas it singles out for the strictest treatment short of an outright prohibition.\nSystems used for monitoring and detecting prohibited behaviour of students during tests are high-risk under Annex III, alongside admissions and the evaluation of learning outcomes.\nThose obligations were due this month. The Digital Omnibus pushed them back to 2 December 2027, which buys institutions and their software suppliers another sixteen months.\nThe prohibitions were not pushed. Emotion recognition in education has been banned outright since February 2025, and the EU can inspect models and fine providers.\nSo the American argument is about whether to watch students at all. The European one was settled first, and it is about how closely.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "MIT报告称AI能完成几乎所有本科作业，并已改变校园文化。",
+  "background": "过去几年，以ChatGPT为代表的大模型快速崛起，学生开始尝试用AI完成作业。MIT新成立的AI委员会对本科课程的所有作业类型进行测试，发现AI几乎都能产出可信答案。更微妙的是，AI在不到三年内导致校园文化明显变化，如办公时间参与度下降、学习小组减少。面对这一冲击，美国高校转向加强监督，而欧盟则通过《AI法案》将教育监控视为高风险，同时明令禁止情感识别。这一事件凸显了AI对传统教育的颠覆，以及全球对该问题的监管分歧。",
+  "key_points": [
+   "MIT报告显示，AI能完成论文、数学、科学、证明和编程等几乎所有本科书面作业，且答案可信度高。",
+   "更深远的是校园文化转变：办公时间出勤率下降、在线讨论减少、学习小组变少，并非单纯作弊问题。",
+   "美国高校转向物理监督：芝加哥法学院禁用手机电脑，普林斯顿放弃百年荣誉守则，试图用监管应对AI。",
+   "欧盟《AI法案》将教育监控列为高风险，义务延至2027年，但情感识别自2025年2月起已被全面禁止。"
+  ],
+  "impact": "对AI行业：教育场景下的AI应用将面临更严格合规要求，尤其在欧洲，情感识别等被禁止，促使企业转向透明、可解释的辅助工具。对开发者：需确保产品符合《AI法案》风险等级，避免踩到红线，同时探索帮助学习而非替代学习的模式。对普通用户：学生和教师需重新定义学术诚信，AI既是学习助手也是潜在作弊工具，大学可能加强监督，教育体验将趋于混合模式。",
+  "tools": "可关注开源大模型（如Llama）用于教学辅助的定制化开发，以及AI生成内容检测工具（如GPTZero、Turnitin）的伦理争议。同时可参考欧盟AI法案的合规工具包，确保教育AI不触及高风险场景。"
+ },
+ "lang": "zh"
+}

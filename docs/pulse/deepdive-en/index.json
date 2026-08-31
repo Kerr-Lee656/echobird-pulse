@@ -997,5 +997,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-30T16:22:53Z",
   "fetched_at": "2026-08-30T22:50:17.538164+00:00"
+ },
+ "1970f2aab6a8": {
+  "id": "1970f2aab6a8",
+  "url": "https://github.com/unslothai/unsloth",
+  "title": "unslothai/unsloth — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:34:15.372329+00:00"
+ },
+ "517eac85218e": {
+  "id": "517eac85218e",
+  "url": "https://github.com/openinterpreter/openinterpreter",
+  "title": "openinterpreter/openinterpreter — A coding agent for open models like Kimi K3",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:34:51.629610+00:00"
+ },
+ "0af70dc4df45": {
+  "id": "0af70dc4df45",
+  "url": "https://github.com/workweave/router",
+  "title": "workweave/router — Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-08-31T05:35:14.034378+00:00"
+ },
+ "1cd00a2d8c72": {
+  "id": "1cd00a2d8c72",
+  "url": "https://arxiv.org/abs/2608.27512",
+  "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-08-31T04:00:00.000Z",
+  "fetched_at": "2026-08-31T05:36:05.595271+00:00"
+ },
+ "17a80ae73e74": {
+  "id": "17a80ae73e74",
+  "url": "https://arxiv.org/abs/2608.28198",
+  "title": "Performative Privacy: When Differential Privacy Maximizes Utility",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-08-31T04:00:00.000Z",
+  "fetched_at": "2026-08-31T05:37:16.458983+00:00"
+ },
+ "a18682240618": {
+  "id": "a18682240618",
+  "url": "https://arxiv.org/abs/2608.28308",
+  "title": "Deriving Scaling Laws for OpenEuroLLM Models: Learning Rate, Batch Size and Loss",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-08-31T04:00:00.000Z",
+  "fetched_at": "2026-08-31T05:37:55.396306+00:00"
  }
 }
