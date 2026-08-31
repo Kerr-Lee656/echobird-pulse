@@ -1,0 +1,24 @@
+{
+ "id": "8686d4571995",
+ "url": "https://www.ft.com/content/6af706a3-6e63-46c2-926b-85461a355e9b",
+ "title": "ChatGPT faces tougher rules under EU online safety regime",
+ "source": "Hacker News (5pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-31T11:57:51Z",
+ "fetched_at": "2026-08-31T13:49:41.473611+00:00",
+ "content": "ChatGPT faces tougher rules under EU online safety regime\nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeks\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nStandard Digital\n$45 per month\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nPremium Digital\nComplete coverage\n$75 per month\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nFT Digital Edition\n$16.99 per month\nOur digitised version of the FT newspaper, for easy reading on any device.\nCheck whether you already have access via your university or organisation.\nTerms & Conditions apply\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "The EU is moving to apply its online safety regime to ChatGPT, imposing stricter transparency, moderation, and accountability rules on the AI chatbot.",
+  "background": "ChatGPT has escaped major platform regulation because it was designed as an AI system rather than a traditional online service. But EU regulators are increasingly treating it as an intermediary that distributes content to millions of users. Under the Digital Services Act, platforms must assess systemic risks, moderate illegal content, and publish transparency reports. The AI Act separately regulates the model itself, but the DSA would regulate how ChatGPT interacts with users. This dual enforcement approach reflects Brussels’ strategy of closing regulatory gaps: no matter whether a service is built on AI or conventional software, if it shapes online public discourse, it must follow stricter accountability rules. The move follows user complaints about hallucinations, hateful outputs, and lack of recourse.",
+  "key_points": [
+   "The Digital Services Act will now apply to ChatGPT, meaning it must conduct systemic risk assessments and take steps to mitigate societal harms like misinformation and illegal content, rather than only complying with the AI Act.",
+   "ChatGPT will need transparent content moderation policies and clear mechanisms for users to complain against or appeal outputs, giving individuals more power when they encounter false or harmful AI-generated information.",
+   "The EU is demanding more detailed reporting, including data on how the chatbot is used, how risks are identified, and what measures are taken, which could force OpenAI to reveal more about its internal operations.",
+   "Failure to comply could lead to fines reaching up to 6% of global annual revenue, introducing serious financial pressure that may shape how OpenAI designs future model releases and deployments in Europe.",
+   "This enforcement sets a precedent across the industry, potentially pushing other AI chatbot developers like Google and Meta to proactively meet DSA-style obligations in their product design and governance."
+  ],
+  "impact": "For the AI industry, this signals that chatbot providers must integrate platform-style compliance—content moderation, risk auditing, and user redress—alongside model safety practices. Developers will need to build logging systems, output filters, and complaint-handling APIs from the start, raising engineering costs. Regular users gain more transparency and ability to challenge AI outputs, but may see ChatGPT become more restrictive or even reduce features in Europe to avoid liability. The broader trend could accelerate a 'Brussels effect' where global AI products adopt EU standards, improving trust but potentially slowing rapid innovation.",
+  "tools": "To monitor and implement similar compliance, follow open-source projects like Hugging Face's Evaluate and Datasets for bias/performance testing, IBM AI Fairness 360 for fairness metrics, and AI Explainability 360 for explainability tools. Also watch EU's Digital Service Act Digital Tools and the AI Act Implementation Framework, plus the recent EU AI Office repository for guidance and risk-assessment templates."
+ },
+ "lang": "en"
+}

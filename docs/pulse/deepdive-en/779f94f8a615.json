@@ -1,0 +1,23 @@
+{
+ "id": "779f94f8a615",
+ "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
+ "title": "EU Commission Designates ChatGPT, Reddit and Roblox Under the DSA",
+ "source": "Hacker News (9pts, 1c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-08-31T12:52:50Z",
+ "fetched_at": "2026-08-31T13:48:43.453164+00:00",
+ "content": "These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation.\nFollowing the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users’ physical and mental well-being, fundamental rights, electoral processes and public security.\nFind further information about:\n- Supervision of the designated very large online platforms and search engines under DSA\n- Digital Services Act – main aspects of the regulation\n- User rights under the Digital Services Act – an overview",
+ "report": {
+  "summary": "EU Commission designates ChatGPT, Reddit, Roblox as very large online platforms under the DSA, imposing stricter risk-management and content-safety duties by January 2027.",
+  "background": "The Digital Services Act (DSA) is the EU's landmark regulation for digital services, designed to create safer and more transparent online environments. Under the DSA, services that reach at least 45 million average monthly users in the EU can be designated as 'very large online platforms' (VLOPs) or 'very large online search engines' (VLOSEs), triggering additional obligations beyond the baseline rules. ChatGPT, Reddit and Roblox each declared that they meet this user threshold, allowing the European Commission to formally designate them. The designation is notable because it extends the DSA's enhanced oversight beyond traditional social media to include an AI chatbot and gaming platforms. Once notified, these services must within four months adapt how they moderate content, assess algorithmic risks, and protect users' rights in the EU.",
+  "key_points": [
+   "The DSA classifies digital services reaching over 45 million average monthly users in the EU as 'very large online platforms' or 'very large online search engines.' ChatGPT, Reddit and Roblox each announced they have crossed this threshold, allowing the European Commission to formally designate them and trigger enhanced obligations.",
+   "As of the notification, the three services have four months—until January 2027—to align with the DSA's additional obligations for very large platforms. This includes conducting systemic risk assessments, adapting moderation and design processes, and putting mitigation measures in place.",
+   "Enhanced scrutiny covers illegal content, effects on minors, physical and mental well-being, fundamental rights, electoral processes and public security. The Commission will evaluate algorithmic systems, including recommender engines and AI, raising the compliance bar for ChatGPT as well as user-generated content platforms.",
+   "Designated services are subject to direct supervision by the European Commission. It can demand internal documents, carry out on-site inspections and audits, and impose fines or other sanctions if platforms fail to address systemic risks within the DSA timeline."
+  ],
+  "impact": "For AI developers, ChatGPT's designation confirms that DSA obligations can apply to AI chatbots just as they do to conventional platforms. Developers must now bake in transparency, content governance and age-appropriate design from the start. For Reddit and Roblox, moderation systems and user safeguards become more rigorous across the EU, affecting global product policies. Users gain clearer complaint channels, reasoned data removal notices, and new protections for minors and mental health. The designation also tests how EU regulators supervise AI borderlines, shaping future enforcement and compliance costs for generative AI services.",
+  "tools": "Follow ongoing enforcement through the European Commission's DSA Transparency Database, which publishes platforms' statements of reasons for removing illegal content. For researchers and developers, the Digital Services Act data access mechanism is being established; there is no official open-source compliance kit yet. Watch the Commission's Digital Decade dashboard for supervision updates."
+ },
+ "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "a0651f8d4969",
+ "url": "https://slashdot.org/story/26/08/31/0525235/openai-to-cut-off-ai-models-for-spacex-owned-cursor",
+ "title": "OpenAI To Cut Off AI Models For SpaceX-owned Cursor",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-08-31T13:42:04.846686+00:00",
+ "content": "OpenAI To Cut Off AI Models For SpaceX-owned Cursor (reuters.com) 13\n\t\t\t\n\t\t \t\n\t\t\t\t\"OpenAI said on Friday that it plans to stop providing AI models to Cursor, the coding-tool company now owned by Elon Musk's SpaceX,\" reports Reuters:\n\"We are making this choice because we cannot be confident that SpaceX will use our technology within our terms of service, based on our experience with Elon Musk's companies violating contracts,\" OpenAI said in a blog post... However, Michael Truell, a co-founder of Cursor and now an executive at SpaceX, said on X that the company was speaking with the OpenAI team to resolve this issue. \n \nHours after OpenAI's announcement, Anthropic, which rivals both firms but has an ongoing partnership with SpaceX, said it planned to increase compute to support Claude models in Cursor, according to Tom Brown, one of the co-founders of the firm...\n \nIn its blog post, OpenAI said that X, formerly known as Twitter and now part of SpaceX, had breached the terms of its contract with OpenAI after Musk acquired the platform. \"To work with a large partner like SpaceX, we typically rely on custom contracts to ensure compliance with our terms of service and that the integration provides for safety at scale,\" the AI company added.\nThe article also notes Elon Musk's response Saturday in a post on X.com: \"I couldn't care less.\" He accused Altman and OpenAI President Greg Brockman of being \"untrustworthy,\" while repeating his assertion that they \"stole an open source nonprofit.\"\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nHours after OpenAI's announcement, Anthropic, which rivals both firms but has an ongoing partnership with SpaceX, said it planned to increase compute to support Claude models in Cursor, according to Tom Brown, one of the co-founders of the firm...\nIn its blog post, OpenAI said that X, formerly known as Twitter and now part of SpaceX, had breached the terms of its contract with OpenAI after Musk acquired the platform. \"To work with a large partner like SpaceX, we typically rely on custom contracts to ensure compliance with our terms of service and that the integration provides for safety at scale,\" the AI company added.\nThe article also notes Elon Musk's response Saturday in a post on X.com: \"I couldn't care less.\" He accused Altman and OpenAI President Greg Brockman of being \"untrustworthy,\" while repeating his assertion that they \"stole an open source nonprofit.\"",
+ "report": {
+  "summary": "OpenAI因马斯克公司违规，停止向SpaceX旗下Cursor供模型，Anthropic接盘。",
+  "background": "OpenAI联合创始人马斯克与CEO奥特曼积怨已久。马斯克此前收购推特（X）后，OpenAI指控其违反合同条款。如今SpaceX收购了AI编程工具Cursor，OpenAI以“不信任合规”为由切断模型供应。此举既是合同纠纷的延续，也凸显AI模型供应商对下游合作方的控制权。Anthropic则迅速表态增加算力支持，借机扩大市场份额。",
+  "key_points": [
+   "OpenAI宣布停止向Cursor提供AI模型，理由是SpaceX可能违反服务条款，并提及马斯克公司有违约史。",
+   "Cursor联合创始人表示正与OpenAI沟通解决，但马斯克在X上回应“毫不在乎”，并指责奥特曼不诚实。",
+   "Anthropic在消息发布几小时后宣布增加算力，支持Cursor中的Claude模型，直接承接被断供的客户。",
+   "事件显示AI模型供应已成为商业博弈筹码，马斯克与OpenAI的个人恩怨影响行业合作格局。"
+  ],
+  "impact": "对AI行业，模型供应商的断供行为将加剧生态割裂，企业可能更倾向多模型部署以降低风险。对开发者，Cursor用户可能面临模型切换成本，但Anthropic的介入提供了备选方案，短期影响可控。对普通用户，该事件反映了AI工具背后的商业竞争和权力斗争，未来大模型选择可能受非技术因素影响。",
+  "tools": "开发者可关注Cursor的官方公告及Anthropic Claude API，以了解模型切换进展；也可通过OpenAI API评估备选方案。推荐使用LiteLLM或OpenRouter等统一接口，方便在不同模型间快速迁移。"
+ },
+ "lang": "zh"
+}

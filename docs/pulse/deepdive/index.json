@@ -8251,5 +8251,86 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-08-31T05:32:12.162294+00:00"
+ },
+ "bf930fd7a0b5": {
+  "id": "bf930fd7a0b5",
+  "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+  "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:41:17.893551+00:00"
+ },
+ "a0651f8d4969": {
+  "id": "a0651f8d4969",
+  "url": "https://slashdot.org/story/26/08/31/0525235/openai-to-cut-off-ai-models-for-spacex-owned-cursor",
+  "title": "OpenAI To Cut Off AI Models For SpaceX-owned Cursor",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:42:04.846686+00:00"
+ },
+ "0ddcbc2bc7e4": {
+  "id": "0ddcbc2bc7e4",
+  "url": "https://thenextweb.com/news/lumi-ai-supercomputer-bull-finland-eurohpc",
+  "title": "Europe has ordered a €388M AI supercomputer from its own state-owned champion",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:42:14.678394+00:00"
+ },
+ "c251461e330c": {
+  "id": "c251461e330c",
+  "url": "https://thenextweb.com/news/openai-outcome-based-pricing-enterprise",
+  "title": "OpenAI has started letting some customers pay only when the AI works",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:42:33.897456+00:00"
+ },
+ "8bc0e35c7fa9": {
+  "id": "8bc0e35c7fa9",
+  "url": "https://thenextweb.com/news/meta-anthropic-10bn-spending-projection",
+  "title": "Meta projected spending up to $10bn a year on Anthropic’s AI models",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:43:25.508264+00:00"
+ },
+ "888260aab476": {
+  "id": "888260aab476",
+  "url": "https://thenextweb.com/news/fsb-ai-cyber-risk-financial-stability",
+  "title": "AI-driven cyber attacks are now the top risk to the financial system, the FSB says",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:44:16.459283+00:00"
+ },
+ "fc75f1967a7f": {
+  "id": "fc75f1967a7f",
+  "url": "https://www.qbitai.com/2026/08/481893.html",
+  "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:45:25.221676+00:00"
+ },
+ "c756076bfaf1": {
+  "id": "c756076bfaf1",
+  "url": "https://www.aibase.com/zh/news/30730",
+  "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:45:47.651312+00:00"
+ },
+ "419e3bbab27d": {
+  "id": "419e3bbab27d",
+  "url": "https://www.aibase.com/zh/news/30724",
+  "title": "索尼等35家音乐出版商起诉Anthropic，称其大规模盗用音乐作品并索赔数十亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-08-31T13:46:11.477277+00:00"
  }
 }
