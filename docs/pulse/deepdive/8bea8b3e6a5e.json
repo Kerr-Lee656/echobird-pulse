@@ -1,0 +1,23 @@
+{
+ "id": "8bea8b3e6a5e",
+ "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence",
+ "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+ "source": "Mac Rumors",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-01T05:05:27.900352+00:00",
+ "content": "Apple today submitted new evidence in its lawsuit against OpenAI, with the hope that the new information will persuade the judge to grant an expedited discovery process.\nApple filed a theft of trade secrets lawsuit against OpenAI employees Chang Liu and Tang Tan in July, accusing them of using multiple methods to steal data from Apple. Liu kept an Apple-issued MacBook after he left for OpenAI, and Apple got it back after the lawsuit was filed. Apple now says forensic analysis of the laptop has uncovered more evidence of Liu's use of Apple information and his attempts to hide what he'd done.\nFrom the lawsuit:\n- Mr. Liu not only downloaded a confidential Apple circuit schematic but also used it in his work at OpenAI;\n- Far from his unauthorized access to Apple's third-party cloud storage being unknown to him, Mr. Liu and others at OpenAI were well-aware of that access;\n- Mr. Liu, upon learning of Apple's internal investigation of him, sent instructions for destroying evidence to an OpenAI colleague who confirmed she would comply; and\n- Mr. Liu used a tool in his work at OpenAI that has the same name as an internal Apple engineering application used for Apple development work.\nLiu downloaded the circuit schematic from Apple in March, two months after he left the company. Liu used the schematic to run a simulation using electrical engineering tool LTspice, and then messaged people telling them he ran the simulation for power conversion development work. Liu described how he trained an AI agent to run LTspice.\nAccording to the filing, he said he was \"[f]eeling AI all day long,\" and that \"[i]n the past hour,\" his AI \"agent learned how to run LTspice, look at result, tune compensation parameter.\" \"I try to make a behavior buck,\" he wrote. \"With voltage outer and current inner. Everything ideal. It still took me a day.. now it's two hour. Including learning fresh.\"\n\"Oh man! Why do they even need you then?\" the person Liu was talking to reportedly replied.\nLiu used the Apple schematic on a Mac mini that later synced to the MacBook he took from Apple, which is why Apple knows about it. Apple now wants to investigate the Mac mini and other devices Liu still has in his possession.\nApple says the \"shocking evidence\" is proof that its trade secrets are in active use and evidence is being destroyed, which is why expedited discovery is needed.\nApple initially asked for expedited discovery earlier this month, also requesting an injunction preventing OpenAI from using its trade secrets. OpenAI responded by asking the court to dismiss the lawsuit, claiming the accusations were \"meritless.\" OpenAI also published a public statement calling the lawsuit \"careless, aggressive and oddly personal\" and stating that it does not \"have, nor want, any of their trade secrets\" because it is \"much more interested in building innovative products and technologies that push the frontier.\"\nJudge Edward J. Davila is set to hear arguments in the case on October 1.",
+ "report": {
+  "summary": "苹果诉讼OpenAI新证据：前工程师用盗取电路图训练AI代理。",
+  "background": "苹果7月起诉OpenAI员工刘昌和唐坦盗取商业机密，指控其从苹果窃取数据。刘昌离职后保留苹果MacBook，苹果起诉后追回，法医分析发现更多证据：他下载机密电路原理图，在OpenAI用LTspice仿真，并训练AI代理操作该工具，甚至收到苹果内部调查消息后指示同事删证据。苹果要求加快取证并申请禁令，OpenAI则称指控“毫无根据”，案件将于10月1日听证。",
+  "key_points": [
+   "苹果法医分析显示，前工程师刘昌从苹果下载机密电路图，并在OpenAI工作中使用该图进行电源转换仿真。",
+   "刘昌训练AI代理自动运行LTspice仿真并调参，自称效率从一天缩短到两小时，引发“还需要你吗”的调侃。",
+   "刘昌得知苹果调查后，曾让OpenAI同事删除证据，同事答应；他还使用了与苹果内部工程应用同名的工具。",
+   "苹果以“证据正被销毁”为由申请加速取证和禁令，OpenAI反驳诉讼“毫无根据”，法官10月1日听证。"
+  ],
+  "impact": "对AI行业，商业秘密争议暴露大模型公司获取训练数据与资深人才时的灰色地带，可能引发更多竞业诉讼。对开发者，需警惕使用前雇主专有代码和图纸，合法合规尤为重要。对普通用户，该案若导致OpenAI被限制使用部分技术，可能影响相关产品功能和更新节奏，但短期影响有限，因为案件仍在早期阶段。",
+  "tools": "可关注LTspice（电路仿真工具）了解技术背景；AI代理开发可参考LangChain、AutoGen等开源框架；苹果内部工具名未公开。关注诉讼文档可留意更新。"
+ },
+ "lang": "zh"
+}

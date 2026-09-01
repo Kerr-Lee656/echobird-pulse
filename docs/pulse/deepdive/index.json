@@ -8404,5 +8404,113 @@
   "site_name": "AIbase",
   "published_at": "2026-08-31T10:14:02.968Z",
   "fetched_at": "2026-08-31T20:04:16.823926+00:00"
+ },
+ "063362140159": {
+  "id": "063362140159",
+  "url": "https://aiera.com.cn/2026/09/01/other/admin/111654/%e9%a6%96%e4%be%8bai%e8%87%aa%e4%b8%bb%e9%bb%91%e5%ae%a2%e6%94%bb%e5%87%bb%e6%9b%9d%e5%85%89%ef%bc%81claude%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%be%b7%e5%b7%9e%e5%a4%a7%e5%ad%a6%e7%94%9f%e4%b8%80%e4%ba%ba",
+  "title": "首例AI自主黑客攻击曝光！Claude失控，德州大学生一人抓包",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-09-01T02:33:15.458Z",
+  "fetched_at": "2026-09-01T05:02:56.972087+00:00"
+ },
+ "aa405c7caac1": {
+  "id": "aa405c7caac1",
+  "url": "https://aiera.com.cn/2026/09/01/other/admin/111533/co-scientist%e5%8d%87%e7%ba%a7%ef%bc%9aai%e8%b5%b0%e5%87%ba%e5%b1%8f%e5%b9%95%ef%bc%8c%e9%a6%96%e6%ac%a1%e5%9c%a8%e7%9c%9f%e5%ae%9e%e5%ae%9e%e9%aa%8c%e5%ae%a4%e3%80%8c%e9%80%a0%e5%87%ba%e3%80%8d",
+  "title": "Co-Scientist升级：AI走出屏幕，首次在真实实验室「造出」半导体",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-09-01T02:33:15.458Z",
+  "fetched_at": "2026-09-01T05:03:09.302206+00:00"
+ },
+ "4a0cd0f565fc": {
+  "id": "4a0cd0f565fc",
+  "url": "https://www.aibase.com/zh/news/30737",
+  "title": "智谱 MaaS 业务爆发：上半年收入 8.25 亿元，Token 调用量飙升 40 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:03:57.244363+00:00"
+ },
+ "b26c5e9b8842": {
+  "id": "b26c5e9b8842",
+  "url": "https://www.aibase.com/zh/news/30735",
+  "title": "DeepSeek 开源首个视觉实验模型 DeepSeek-V4-Flash-Vision-Exp，3050 亿参数对标行业顶尖",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:04:14.901228+00:00"
+ },
+ "e13c6a384172": {
+  "id": "e13c6a384172",
+  "url": "https://www.aibase.com/zh/news/30742",
+  "title": "腾讯混元 4 大模型发布：770B 参数，支持百万上下文",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:04:30.614867+00:00"
+ },
+ "cfb772230362": {
+  "id": "cfb772230362",
+  "url": "https://www.ithome.com/0/996/759.htm",
+  "title": "英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:04:43.701132+00:00"
+ },
+ "d8e11362d9bf": {
+  "id": "d8e11362d9bf",
+  "url": "https://www.ithome.com/0/996/728.htm",
+  "title": "英伟达宣布向联发科投资 35 亿美元，深化 AI、PC 芯片、汽车领域合作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:04:50.178375+00:00"
+ },
+ "b684b6378814": {
+  "id": "b684b6378814",
+  "url": "https://news.slashdot.org/story/26/08/31/1745218/bank-of-england-chief-warns-new-ai-models-threaten-global-financial-stability",
+  "title": "Bank of England Chief Warns New AI Models Threaten Global Financial Stability",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:04:59.312802+00:00"
+ },
+ "cf3d8ead7771": {
+  "id": "cf3d8ead7771",
+  "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+  "title": "The Pentagon now has its own version of ChatGPT and Grok",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:05:11.181212+00:00"
+ },
+ "8bea8b3e6a5e": {
+  "id": "8bea8b3e6a5e",
+  "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence",
+  "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:05:27.900352+00:00"
+ },
+ "c0c0ef6c930f": {
+  "id": "c0c0ef6c930f",
+  "url": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
+  "title": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:05:45.568414+00:00"
+ },
+ "139a3d61a29a": {
+  "id": "139a3d61a29a",
+  "url": "https://www.36kr.com/newsflashes/3964037684043271",
+  "title": "OpenAI 广告业务年化营收达 10 亿美元，为 IPO 与估值提供支撑",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:05:56.596281+00:00"
  }
 }

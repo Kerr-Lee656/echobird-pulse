@@ -1267,5 +1267,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-08-31T19:40:25Z",
   "fetched_at": "2026-08-31T23:56:03.592084+00:00"
+ },
+ "b03e856411c0": {
+  "id": "b03e856411c0",
+  "url": "https://github.com/jingyaogong/minimind",
+  "title": "jingyaogong/minimind — 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:08:23.224028+00:00"
+ },
+ "c750f525fc3d": {
+  "id": "c750f525fc3d",
+  "url": "https://github.com/microsoft/qlib",
+  "title": "microsoft/qlib — Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:08:33.865180+00:00"
+ },
+ "f172eeaa69cf": {
+  "id": "f172eeaa69cf",
+  "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+  "title": "Open-LLM-VTuber/Open-LLM-VTuber — Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:08:48.760651+00:00"
+ },
+ "716cf9e2237a": {
+  "id": "716cf9e2237a",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "title": "asgeirtj/system_prompts_leaks — Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:09:04.552320+00:00"
+ },
+ "ef789c16b9ac": {
+  "id": "ef789c16b9ac",
+  "url": "https://github.com/FalkorDB/FalkorDB",
+  "title": "FalkorDB/FalkorDB — A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:09:23.782981+00:00"
+ },
+ "b72e94f5f1b2": {
+  "id": "b72e94f5f1b2",
+  "url": "https://github.com/opencode-ai/opencode",
+  "title": "opencode-ai/opencode — A powerful AI coding agent. Built for the terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-01T05:09:34.523506+00:00"
+ },
+ "d5a79aec56b4": {
+  "id": "d5a79aec56b4",
+  "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+  "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-09-01T04:36:54.000Z",
+  "fetched_at": "2026-09-01T05:09:58.869429+00:00"
+ },
+ "1f273c6dc063": {
+  "id": "1f273c6dc063",
+  "url": "https://arxiv.org/abs/2608.28632",
+  "title": "AutoScientist-Quant: Self-Evolving Coding Agents for Automatic Research in Quantitative Investment",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-01T04:00:00.000Z",
+  "fetched_at": "2026-09-01T05:10:16.245612+00:00"
+ },
+ "54cb9465585b": {
+  "id": "54cb9465585b",
+  "url": "https://arxiv.org/abs/2608.28945",
+  "title": "Automated Researchers Can Reliably Mitigate Alignment Failures",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-01T04:00:00.000Z",
+  "fetched_at": "2026-09-01T05:11:42.969929+00:00"
  }
 }
