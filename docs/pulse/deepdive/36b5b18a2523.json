@@ -1,0 +1,24 @@
+{
+ "id": "36b5b18a2523",
+ "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+ "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+ "source": "www.bbc.co.uk",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-01T05:21:18.396Z",
+ "fetched_at": "2026-09-01T11:39:35.605703+00:00",
+ "content": "Flock's rapidly expanding AI surveillance network facing growing backlash in US\nA network of AI licence plate readers run by a private company called Flock is rapidly expanding across the US.\nThere are now about 130,000 across the country, mostly used by law enforcement agencies.\nThe expansion has led to privacy concerns and protests.\nBBC Verify examines Flock's system and the growing backlash against it - as Jake Horton reports.\nProduced by Krystal Campos. Graphics by Leo Scutt-Richter.\nRelated topics\n- SurveillanceUpdates from your News topics will appear in My News and in a collection on the News homepage.\n- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.\n- PrivacyUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+ "report": {
+  "summary": "美国Flock AI车牌监控网络快速扩张，引发隐私抗议浪潮。",
+  "background": "Flock Safety是美国一家科技公司，向执法机构销售AI车牌识别摄像头，通常安装在城市街道、社区入口和停车场。目前全美已有约13万台设备，形成庞大监控网络，主要用于车辆追踪和案件侦破。支持者认为该网络能有效预防犯罪、提高破案效率，但隐私倡导者担忧无差别监控、数据长期留存及滥用问题。随着扩张速度加快，多座城市出现社区抵制和抗议活动，反对声浪日益高涨，BBC Verify也对此进行了核实调查。",
+  "key_points": [
+   "规模惊人：Flock在全美布设约13万台AI车牌读取器，覆盖多州，且仍以高速增长，构成庞大的车辆行踪追踪网络。",
+   "私人主导监控：该系统由Flock公司运营，而非政府，引发问责缺失疑虑——私人企业掌控关键公共监控基础设施。",
+   "隐私严重受侵：摄像头持续抓拍所有车辆，自动记录车牌和位置，形成长期行踪档案，普通民众因此面临日常被监视风险。",
+   "反对声浪四起：多个城市出现社区抗议、抵制安装活动，民众担忧无差别监控侵犯公民自由，要求限制或拆除设备。",
+   "争议亟待平衡：BBC Verify调查显示，支持者强调破案效率，而批评者呼吁透明监管，如何在安全与隐私间取得平衡成焦点。"
+  ],
+  "impact": "对AI行业而言，Flock案例展示了AI监控技术的商业成功与监管真空，可能刺激更多同类产品，但也会推动隐私保护技术发展。对开发者，需警惕技术被滥用于大规模监控，设计时应嵌入隐私伦理和合规机制。对普通用户，车辆行踪日常被记录，隐私边界被持续压缩，需主动关注监控立法并捍卫自身权利。",
+  "tools": "可关注ACLU的“Community Control Over Police Surveillance”数据库和EFF的“Street Level Surveillance”项目，了解监控技术影响；开源车牌识别系统OpenALPR（现Rekor）的技术文档也有助于理解底层原理。"
+ },
+ "lang": "zh"
+}

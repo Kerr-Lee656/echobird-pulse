@@ -8512,5 +8512,113 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-01T05:05:56.596281+00:00"
+ },
+ "459e7be4204b": {
+  "id": "459e7be4204b",
+  "url": "https://thenextweb.com/news/anthropic-lambda-35bn-cloud-deal",
+  "title": "Anthropic has signed a $35bn cloud deal with Nvidia-backed Lambda",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T11:36:33.723706+00:00"
+ },
+ "46f1170c10a5": {
+  "id": "46f1170c10a5",
+  "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+  "title": "Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T11:36:45.567581+00:00"
+ },
+ "ffdc35af3631": {
+  "id": "ffdc35af3631",
+  "url": "https://www.aibase.com/zh/news/30756",
+  "title": "Runway 发布首个界面世界模型 Solaris，实时逐帧生成动态交互界面",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T11:36:55.565753+00:00"
+ },
+ "3342868ce5c4": {
+  "id": "3342868ce5c4",
+  "url": "https://www.aibase.com/zh/news/30755",
+  "title": "DeepSeek 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，专供 Agent 视觉任务",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T11:37:14.657277+00:00"
+ },
+ "484b3067c49d": {
+  "id": "484b3067c49d",
+  "url": "https://www.aibase.com/news/30753",
+  "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-01T08:59:29.965Z",
+  "fetched_at": "2026-09-01T11:37:35.002183+00:00"
+ },
+ "11e574eba5e4": {
+  "id": "11e574eba5e4",
+  "url": "https://www.aibase.com/news/30751",
+  "title": "MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-01T08:59:29.965Z",
+  "fetched_at": "2026-09-01T11:37:44.011013+00:00"
+ },
+ "d2f6568729ce": {
+  "id": "d2f6568729ce",
+  "url": "https://www.aibase.com/news/30745",
+  "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-01T08:59:29.965Z",
+  "fetched_at": "2026-09-01T11:37:59.504104+00:00"
+ },
+ "a1827e78566b": {
+  "id": "a1827e78566b",
+  "url": "https://www.ithome.com/0/996/961.htm",
+  "title": "我国专家牵头制定，全球首个腿式机器人国际标准正式发布",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T07:11:39Z",
+  "fetched_at": "2026-09-01T11:38:45.838819+00:00"
+ },
+ "6ec4541320ab": {
+  "id": "6ec4541320ab",
+  "url": "https://www.ithome.com/0/996/950.htm",
+  "title": "韩国公布史上最大规模财政支出计划：2027 年预算达 821 万亿韩元，押注 AI 与芯片产业",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T06:57:06Z",
+  "fetched_at": "2026-09-01T11:38:55.008384+00:00"
+ },
+ "9faf5c98a8ad": {
+  "id": "9faf5c98a8ad",
+  "url": "https://www.huxiu.com/article/4887586.html?f=rss",
+  "title": "英伟达算力账本：一场800亿算力承诺背后的杠杆博弈",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T06:00:38Z",
+  "fetched_at": "2026-09-01T11:39:17.157759+00:00"
+ },
+ "36b5b18a2523": {
+  "id": "36b5b18a2523",
+  "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+  "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+  "source": "www.bbc.co.uk",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-01T05:21:18.396Z",
+  "fetched_at": "2026-09-01T11:39:35.605703+00:00"
+ },
+ "0477c6b275fc": {
+  "id": "0477c6b275fc",
+  "url": "https://www.huxiu.com/article/4887559.html?f=rss",
+  "title": "国产大模型双雄，狭路相逢智谱胜？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T04:07:34Z",
+  "fetched_at": "2026-09-01T11:39:50.025256+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "d2f6568729ce",
+ "url": "https://www.aibase.com/news/30745",
+ "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-01T08:59:29.965Z",
+ "fetched_at": "2026-09-01T11:37:59.504104+00:00",
+ "content": "Manus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight months of acquisition and divestiture fluctuations with Meta, this AI laboratory based in Singapore has restarted as an independent entity, continuing to strive to push the boundaries of general AI agent technology.\nAccording to the official statement, Manus will operate as an independent agent laboratory, with the founding team continuing to lead the company's development comprehensively. The company emphasized its unwavering pursuit of product innovation, committed to creating more powerful general artificial intelligence agents for users worldwide, helping them efficiently tackle complex tasks and achieve greater accomplishments in daily work and life.\nThis independent operation marks the formal end of Manus' integration process with Meta. Looking back at the timeline: In December 2025, Meta completed the acquisition of Manus for approximately $2 billion, aiming to integrate its technology into products such as Meta AI. However, in April 2026, the National Development and Reform Commission of China prohibited the transaction and required its reversal, based on relevant foreign investment security review mechanisms. Subsequently, both parties initiated operations and data separation. By mid-August, Manus had completed critical data compliance processing, including backup and migration arrangements for some data generated since the acquisition, and gradually restored service stability.\nAfter independence, Manus has clearly defined its next stage product direction: deeper integration into users' daily workflows, more direct interaction with the real world, and more proactive task execution on behalf of users. The company stated that it will continue to transform cutting-edge capabilities into practical products, further enhancing the autonomous planning, dynamic execution, and result delivery capabilities of AI agents.\nDuring the transition period of the split, the Manus platform continuously iterated features, including cloud computing, conversation branching, and intelligent planning modes, while maintaining strong commercial growth. According to related reports, even during the regulatory review period, its annual recurring revenue (ARR) achieved significant growth, and team stability remained high. Looking ahead, as the full implementation of independent operations takes place, the market generally expects Manus to accelerate product innovation and technological breakthroughs, especially in maintaining its leading position in the field of general AI agents.\nManus specially thanked users who recently completed data backup and recovery, expressing sincere gratitude for their patience and trust, and announced that more innovations are coming. As a product once hailed as \"the world's first general intelligent agent,\" Manus' return to independence is not only the conclusion of a business and compliance adjustment but may also inject new competitive vitality and development momentum into the AI agent sector. The industry will continue to monitor its subsequent product roadmap and market performance.",
+ "report": {
+  "summary": "Manus 经历 Meta 收购与剥离后正式独立，继续开发通用 AI 代理。",
+  "background": "Manus 是新加坡的通用 AI 代理平台，曾被誉为“全球首个通用智能体”。2025 年 12 月，Meta 以约 20 亿美元收购 Manus，计划整合进 Meta AI。但 2026 年 4 月，中国发改委依据外商投资安全审查机制禁止该交易并要求逆转，双方随之开展运营与数据分离。到 8 月中旬，Manus 完成数据合规处理并恢复服务稳定，如今以独立实验室身份重新起跑，聚焦通用智能体的产品创新。",
+  "key_points": [
+   "Manus 正式脱离 Meta 独立运营，创始团队继续全面领导，结束约八个月的收购与剥离波折。",
+   "该收购因中国发改委的外商投资安全审查被否决，双方被迫完成数据备份、迁移等合规处理。",
+   "独立后 Manus 将更深入日常工作流、增强与现实世界交互，并主动代理用户执行复杂任务。",
+   "过渡期内平台持续迭代云计算、对话分支、智能规划等功能，年度经常性收入仍显著增长。",
+   "市场预期独立运营将加速其产品创新，并为通用 AI 代理赛道注入新的竞争活力。"
+  ],
+  "impact": "对 AI 行业而言，Manus 独立运营让通用代理赛道重回“多强竞争”，可能吸引更多资本和研发投入。对开发者，这是一个可集成和二次开发的智能任务平台，后续开放能力值得跟踪。对普通用户，未来能借助更成熟的智能体自动完成复杂工作，提升效率，但也需关注数据迁移和隐私安全。",
+  "tools": "可关注 Manus 官方平台动态；开源方向可参考 AutoGPT、MetaGPT 等通用代理框架，以及 LangChain 用于工作流编排，便于理解智能体实现逻辑。"
+ },
+ "lang": "zh"
+}

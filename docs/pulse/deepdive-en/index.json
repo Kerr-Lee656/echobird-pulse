@@ -1348,5 +1348,23 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-01T04:00:00.000Z",
   "fetched_at": "2026-09-01T05:11:42.969929+00:00"
+ },
+ "78cba02c36d1": {
+  "id": "78cba02c36d1",
+  "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+  "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T09:06:46Z",
+  "fetched_at": "2026-09-01T11:42:59.913829+00:00"
+ },
+ "62f6f871a2b7": {
+  "id": "62f6f871a2b7",
+  "url": "https://www.defenseone.com/technology/2026/08/us-military-chatgpt/415719/",
+  "title": "The US military gets its own ChatGPT today",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T07:58:59Z",
+  "fetched_at": "2026-09-01T11:43:14.127445+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "3342868ce5c4",
+ "url": "https://www.aibase.com/zh/news/30755",
+ "title": "DeepSeek 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，专供 Agent 视觉任务",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-01T11:37:14.657277+00:00",
+ "content": "DeepSeek 在 Hugging Face 上线了 DeepSeek-V4-Flash-Vision-Exp，这是 V4 家族首款实验性多模态模型，采用 MIT License。模型参数量达 305B，基于 V4-Flash-0731 底座，在原有语言模型基础上接入视觉编码器和 Aligner，经持续训练获得图像理解能力。\n不做“看图说话”，专攻多模态 Agent\n与传统多模态模型主打视觉问答不同，DeepSeek 为这个 Vision 版本划定了全新赛道：官方重点强调多模态 Agent 能力，让 Agent 直接读取网页截图、软件界面、图表等视觉信息，再结合工具调用继续执行任务。换言之，这双“眼睛”不是给人看的，而是给 Agent 用的。\n此次开源内容相当完整，包括模型权重、Tokenizer、Prompt Encoding 参考实现以及一份最小化 PyTorch 推理实现，覆盖视觉编码器、Aligner、DFlash Attention、MoE、Hyper-Connections 等核心模块。社区跟进迅速，Hugging Face 页面上已出现 7 个面向 llama.cpp、LM Studio、Ollama 的量化版本。\n时间线上也有值得注意的细节：8 月 21 日该模型先上线 DeepSeek API，当时只能调用、不给权重，开发者可通过 API 同时输入文字和图片，图片按 Token 计费；十天后权重才正式开放，本地部署和二次开发由此成为可能。这种“先卖 API 再开源”的节奏，也透露出 DeepSeek 对其以 API 服务为主的定位。\n性能逼近 Claude Opus 4.8，官方措辞依旧克制\n从跑分来看，加入视觉能力后纯文本 Agent 能力基本不受影响：Terminal Bench 2.1 从 82.7 涨到 83.9，DeepSWE 从 54.4 涨到 59.3，反而超过 Opus 4.8 的 58.0。多模态 Agent 提升更明显：ApexBench Pass@1 达到 36.5，Agents' Last Exam 以 27.3 超过 Opus 4.8 的 25.7，ZeroBench Pass@5 也以 35.0 压过对手的 34.0。\n不过 DeepSeek 并未宣称“全面超越”：NL2Repo 项目上其得分 57.7，与 Opus 4.8 的 69.7 差距不小。官方表述也保持克制，仅称“多模态 Agent 能力接近 Claude Opus 4.8”。把近期更新串起来看，DeepSeek 正在拼装一套完整的 Agent 技术栈：模型负责推理和工具调用，Harness 负责持续执行任务，Vision 则让 Agent 能直接读取电脑里的视觉信息，此次开源正是这块拼图的关键落子。",
+ "report": {
+  "summary": "DeepSeek开源首款多模态模型，专攻Agent视觉任务",
+  "background": "DeepSeek在Hugging Face上线了DeepSeek-V4-Flash-Vision-Exp，这是V4家族首个多模态实验模型，参数量305B，基于V4-Flash-0731底座，新增视觉编码器和Aligner，通过持续训练获得图像理解能力。与传统多模态模型主打看图问答不同，这款模型面向多模态Agent，让Agent直接读取网页截图、软件界面和图表，再结合工具调用执行任务。时间线上，8月21日先上线API、只调用不给权重，十天后才开放MIT许可的完整权重，体现以API服务为主、开源促进生态的节奏。社区已快速跟进，出现多个面向llama.cpp、LM Studio、Ollama的量化版本。官方称其多模态Agent能力接近Claude Opus 4.8，部分跑分甚至反超，但整体表述保持克制。",
+  "key_points": [
+   "首款多模态实验模型，305B参数，MIT协议开源，基于V4-Flash底座加视觉编码器与Aligner，目标是Agent而非看图说话。",
+   "专攻多模态Agent：让Agent直接读取网页截图、软件界面、图表等视觉信息，再结合工具调用继续执行任务，传统视觉问答不是重点。",
+   "先API后开源：8月21日上线API供调用，十天后开放权重，既维持API服务定位，也让本地部署和二次开发成为可能。",
+   "多模态Agent跑分接近或小超Claude Opus 4.8，且加入视觉后纯文本Agent能力不降反升，但官方措辞依旧克制。",
+   "开源内容完整，包含权重、Tokenizer、Prompt Encoding参考和PyTorch推理实现，社区已出现llama.cpp、LM Studio、Ollama量化版。"
+  ],
+  "impact": "对AI行业而言，多模态Agent的开源门槛被拉低，DeepSeek正补齐模型、Harness、Vision三块Agent技术栈，竞争重心从聊天转向自动执行任务。对开发者来说，可以本地部署和微调，无需依赖API即可构建能看懂界面的智能体，量化版本也降低了硬件门槛。对普通用户，未来的AI助手能直接观察屏幕和文档，替代人操作软件、处理图表，生产力工具将更自动化。",
+  "tools": "可关注Hugging Face模型页和DeepSeek API；本地部署可用llama.cpp、LM Studio、Ollama的社区量化版；想复现Agent流程可参考官方PyTorch推理实现和Prompt Encoding示例。"
+ },
+ "lang": "zh"
+}
