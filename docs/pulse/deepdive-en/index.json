@@ -1366,5 +1366,23 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-01T07:58:59Z",
   "fetched_at": "2026-09-01T11:43:14.127445+00:00"
+ },
+ "1ba2a225315a": {
+  "id": "1ba2a225315a",
+  "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+  "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T15:50:23Z",
+  "fetched_at": "2026-09-01T16:38:41.904023+00:00"
+ },
+ "47869e35bd7d": {
+  "id": "47869e35bd7d",
+  "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
+  "title": "Alabama AG Launches Investigation into OpenAI for AI Data Breach",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T14:11:14Z",
+  "fetched_at": "2026-09-01T16:39:07.167499+00:00"
  }
 }

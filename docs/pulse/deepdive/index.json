@@ -8620,5 +8620,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-01T04:07:34Z",
   "fetched_at": "2026-09-01T11:39:50.025256+00:00"
+ },
+ "16d8f7b2a2c6": {
+  "id": "16d8f7b2a2c6",
+  "url": "https://www.huxiu.com/article/4887156.html?f=rss",
+  "title": "AI的下一场资源争夺，不是电，而是水？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T07:00:00Z",
+  "fetched_at": "2026-09-01T16:37:00.051314+00:00"
+ },
+ "e1de1de6e052": {
+  "id": "e1de1de6e052",
+  "url": "https://www.huxiu.com/article/4887592.html?f=rss",
+  "title": "34位CEO 谈智能体AI：没人准备好，但没人等得起",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T06:01:50Z",
+  "fetched_at": "2026-09-01T16:37:17.261570+00:00"
+ },
+ "698267c7f094": {
+  "id": "698267c7f094",
+  "url": "https://www.huxiu.com/article/4887571.html?f=rss",
+  "title": "吴恩达最新访谈：AI拿走一部分工作后，人真正值钱的是什么？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T04:45:08Z",
+  "fetched_at": "2026-09-01T16:37:26.687776+00:00"
  }
 }
