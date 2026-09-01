@@ -8647,5 +8647,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-01T04:45:08Z",
   "fetched_at": "2026-09-01T16:37:26.687776+00:00"
+ },
+ "735dc5333bb8": {
+  "id": "735dc5333bb8",
+  "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+  "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:01:34.016276+00:00"
+ },
+ "72669a621f4f": {
+  "id": "72669a621f4f",
+  "url": "https://thenextweb.com/news/brazil-ai-election-rules-tse-deepfake",
+  "title": "Brazil is defining what a deepfake is, five weeks before it votes",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:02:23.170575+00:00"
+ },
+ "a2aff935077f": {
+  "id": "a2aff935077f",
+  "url": "https://thenextweb.com/news/anthropic-resumes-external-cyber-testing",
+  "title": "Anthropic has resumed the tests in which its models attacked real companies",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:02:33.350823+00:00"
+ },
+ "a825e4bcaa68": {
+  "id": "a825e4bcaa68",
+  "url": "https://www.techradar.com/pro/chatgpt-reddit-and-roblox-moved-into-eu-regulatory-section-for-very-large-platforms-must-defend-rights-electoral-processes-and-public-security",
+  "title": "ChatGPT, Reddit and Roblox moved into EU regulatory section for 'very large platforms' — must defend rights, electoral ​processes and public ​security",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:02:51.345965+00:00"
+ },
+ "9b0dd23a5a8a": {
+  "id": "9b0dd23a5a8a",
+  "url": "https://hub.baai.ac.cn/view/57610",
+  "title": "Co-Scientist 升级：AI 走出屏幕，首次在真实实验室「造出」半导体",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:03:03.095872+00:00"
+ },
+ "5125c2853c01": {
+  "id": "5125c2853c01",
+  "url": "https://www.leiphone.com/category/yanxishe/LyUNV8iNxl2VuE3X.html",
+  "title": "阿里开源 Qwen3.8-27B 本地实测：性能很强，但 Agent 适配仍待补课",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-01T21:03:19.067421+00:00"
+ },
+ "5f2dd52e67ed": {
+  "id": "5f2dd52e67ed",
+  "url": "https://www.aibase.com/news/30758",
+  "title": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-01T14:22:58.217Z",
+  "fetched_at": "2026-09-01T21:03:52.238605+00:00"
+ },
+ "5d2695259c19": {
+  "id": "5d2695259c19",
+  "url": "https://finance.yahoo.com/technology/ai/articles/two-u-tech-giants-power-133300584.html",
+  "title": "两家美国科技巨头助力沙特实现人工智能愿景",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-01T13:37:19.821Z",
+  "fetched_at": "2026-09-01T21:04:13.899715+00:00"
+ },
+ "83cf61187876": {
+  "id": "83cf61187876",
+  "url": "https://www.ithome.com/0/997/155.htm",
+  "title": "安全公司曝光黑客组织 Aurora 内部信息：利用 Cursor AI 制定攻击计划、使用 Zig 语言开发勒索软件",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T13:14:16Z",
+  "fetched_at": "2026-09-01T21:04:21.806570+00:00"
+ },
+ "3e252216bbd9": {
+  "id": "3e252216bbd9",
+  "url": "https://www.huxiu.com/article/4887741.html?f=rss",
+  "title": "CPU在智能体AI时代迎来复兴？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T13:09:40Z",
+  "fetched_at": "2026-09-01T21:04:34.653350+00:00"
  }
 }

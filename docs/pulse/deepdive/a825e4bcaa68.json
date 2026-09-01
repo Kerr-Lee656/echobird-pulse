@@ -1,0 +1,24 @@
+{
+ "id": "a825e4bcaa68",
+ "url": "https://www.techradar.com/pro/chatgpt-reddit-and-roblox-moved-into-eu-regulatory-section-for-very-large-platforms-must-defend-rights-electoral-processes-and-public-security",
+ "title": "ChatGPT, Reddit and Roblox moved into EU regulatory section for 'very large platforms' — must defend rights, electoral ​processes and public ​security",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-01T21:02:51.345965+00:00",
+ "content": "ChatGPT, Reddit and Roblox moved into EU regulatory section for 'very large platforms' — must defend rights, electoral processes and public security\nEU adds three more platforms to the 'Very Large' list\n- The EU just added ChatGPT to its list of Very Large Online Search Engines, alongside Google\n- Reddit and Roblox have also been designated as Very Large Online Platforms\n- They'll need to adhere to greater requirements by January 2027\nThe European Union has designated ChatGPT as a Very Large Online Search Engine (VLOSE) and Reddit and Roblox as Very Large Online Platforms (VLOP), putting them in the same enhanced regulatory tier as the likes of Google, Facebook, TikTok and Amazon.\nThe three companies triggered the switch when they amassed around 45 million monthly average users within the EU, which correlates to 10% of the bloc's rough population.\nImportantly, the European Commission effectively ended up treating ChatGPT's web search functionality as part of the search market, rather than seeing the platform as a GenAI platform.\nEU adds three more platforms to its 'Very Large' list\nChatGPT had reported around 120 million monthly users in the European Union alone in September 2025, putting it way above the 45 million threshold. By March 2026 it had surpassed 159 million monthly EU users.\nReddit and Roblox count 57 million and 48 million respectively, sitting them much closer to the threshold.\nAs for the impacts, the VLOSE/VLOP rules extend much further than the standard DSA requirements the three companies are already subjected to, spanning \"the dissemination of illegal content, the negative effects on minors, users' physical and mental well-being, fundamental rights, electoral processes and public security.\" They'll also be subjected to greater transparency and reporting requirements, with the Commission getting more oversight over their ongoings.\n\"These new designations mean that ChatGPT, Reddit and Roblox will now be held to a higher standard of scrutiny and accountability in the European Union,\" EVP Henna Virkkunen wrote.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nThe three companies will need to comply with the greater requirements by January 2027.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "欧盟将ChatGPT列为超大型搜索引擎，Reddit和Roblox列为超大型平台，强化监管。",
+  "background": "欧盟数字服务法（DSA）旨在建立更安全的数字空间，对超大型平台规定额外义务。此前已有Google、Meta等被指定。此次新增基于用户数超4500万阈值，ChatGPT因网页搜索功能被归为搜索引擎而非单纯生成式AI，显示AI服务正融入传统数字服务监管框架。Reddit和Roblox则因社区规模达标。该决定将在2027年1月生效，要求这些平台在内容审核、风险防范、透明度等方面系统性调整，也反映出欧盟对AI影响选举和公共安全的担忧。",
+  "key_points": [
+   "欧盟认定ChatGPT的网页搜索功能属于搜索服务，将其列为超大型在线搜索引擎，与Google同级，AI搜索需承担更高合规责任。",
+   "Reddit和Roblox因欧盟月均用户分别达5700万和4800万，被列为超大型在线平台，须在2027年1月前遵守更严格DSA要求。",
+   "新监管范围涵盖非法内容、未成年人保护、用户身心健康、基本权利、选举过程和公共安全，远超一般平台义务。",
+   "三家公司将面临更高透明度和定期报告要求，欧盟委员会获得更强监督权，违规可能面临巨额罚款。",
+   "该决定体现欧盟将AI服务与传统数字平台统一监管的趋势，为全球AI监管提供了可参照的样本。"
+  ],
+  "impact": "对AI行业，AI搜索和聊天产品首次被明确纳入DSA超大型平台监管，意味着合规成本上升，产品设计需前置风险评估，可能影响模型训练和数据使用方式。对开发者，需要为欧盟市场建立专门的内容审核、用户保护和透明度机制，技术架构需增加审计和报告模块。对普通用户，将获得更高安全保障和更清晰的信息披露，但某些个性化或搜索功能可能因合规限制而调整。该案例可能被其他司法辖区借鉴，推动全球AI治理趋严。",
+  "tools": "可关注欧盟DSA透明度数据库（Digital Services Act Transparency Database）查看平台义务履行情况；开源AI审计工具如Fairlearn、AI Explainability 360可辅助合规评估；还可跟踪欧盟委员会已发布的DSA合规指南。"
+ },
+ "lang": "zh"
+}

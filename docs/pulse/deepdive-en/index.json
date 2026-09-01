@@ -1384,5 +1384,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-01T14:11:14Z",
   "fetched_at": "2026-09-01T16:39:07.167499+00:00"
+ },
+ "a101021e89ae": {
+  "id": "a101021e89ae",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+  "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-01T20:45:49.000Z",
+  "fetched_at": "2026-09-01T21:05:33.070506+00:00"
+ },
+ "7734742dd6a2": {
+  "id": "7734742dd6a2",
+  "url": "https://openai.com/index/path-to-astra/",
+  "title": "OpenAI: Path to Astra: critical capabilities and frontier safeguards",
+  "source": "Hacker News (8pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T20:20:41Z",
+  "fetched_at": "2026-09-01T21:05:50.451663+00:00"
+ },
+ "7f9647b2b19c": {
+  "id": "7f9647b2b19c",
+  "url": "https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html",
+  "title": "ARC-AGI Without Pretraining (2025)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T20:16:22Z",
+  "fetched_at": "2026-09-01T21:06:09.673961+00:00"
+ },
+ "0cc0c91ea77b": {
+  "id": "0cc0c91ea77b",
+  "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+  "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-09-01T20:00:00.000Z",
+  "fetched_at": "2026-09-01T21:06:31.922395+00:00"
+ },
+ "677c3b3cdbc5": {
+  "id": "677c3b3cdbc5",
+  "url": "https://finance.yahoo.com/technology/ai/articles/apple-says-openai-destroying-evidence-210352338.html",
+  "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T19:32:02Z",
+  "fetched_at": "2026-09-01T21:06:47.926076+00:00"
+ },
+ "4cdab270052f": {
+  "id": "4cdab270052f",
+  "url": "https://areyto.media/x-suspensions",
+  "title": "X suspended 6 of our 7 openly-labeled AI accounts for \"inauthentic behaviors\"",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T18:53:35Z",
+  "fetched_at": "2026-09-01T21:07:12.171303+00:00"
+ },
+ "28b14b1fd62f": {
+  "id": "28b14b1fd62f",
+  "url": "https://ai.google.dev/gemini-api/docs/video-understanding",
+  "title": "Gemini Agentic Video Understanding",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T18:51:25Z",
+  "fetched_at": "2026-09-01T21:07:28.064291+00:00"
+ },
+ "ba3ccd9e9d20": {
+  "id": "ba3ccd9e9d20",
+  "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+  "title": "GitSpawn: A Single Flaw Lets Untrusted Repos Run Code in Claude Code, and Others",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T18:06:19Z",
+  "fetched_at": "2026-09-01T21:08:28.067412+00:00"
+ },
+ "91dad0068ec2": {
+  "id": "91dad0068ec2",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T18:03:17Z",
+  "fetched_at": "2026-09-01T21:08:38.831488+00:00"
  }
 }
