@@ -1537,5 +1537,14 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-01T21:21:14Z",
   "fetched_at": "2026-09-02T00:14:47.269094+00:00"
+ },
+ "090eb8b1be76": {
+  "id": "090eb8b1be76",
+  "url": "https://arxiv.org/abs/2609.00137",
+  "title": "Recursive Criticality of AI Self-Improvement",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-02T04:00:00.000Z",
+  "fetched_at": "2026-09-02T04:27:17.733368+00:00"
  }
 }
