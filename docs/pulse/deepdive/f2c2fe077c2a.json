@@ -1,0 +1,24 @@
+{
+ "id": "f2c2fe077c2a",
+ "url": "https://mashable.com/tech/apple-reveals-shocking-evidence-openai-trade-secrets-lawsuit",
+ "title": "Apple reveals ‘shocking evidence’ in OpenAI trade secrets lawsuit",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-02T00:08:54.528795+00:00",
+ "content": "Apple reveals ‘shocking evidence’ in OpenAI trade secrets lawsuit\nApple's lawsuit against OpenAI and two of its former employees over alleged stolen trade secrets is heating up.\nIn a new filing, Apple says it has found \"shocking evidence\" and is asking the court for expedited discovery. Apple claims the limited information it found after a former employee's work laptop was returned to the company shows that \"its trade secrets are being used and evidence is being destroyed.”\nApple filed a lawsuit in July against OpenAI, its hardware company, io Products, and two Apple employees who now work at OpenAI. Apple claims that former iPhone engineer Chang Liu and OpenAI Chief Hardware Officer Tang Yew Tan utilized Apple's trade secrets to develop hardware products for the AI company. The latter previously worked at Apple for 24 years.\nYou May Also Like\nLast chance: Guess what Apple will release in September in our Big Guessing Game: Apple edition. Enter now for a chance to win an Apple Watch!\nWhile the evidence is redacted from the public in the filing, Apple says that “initial forensic analysis” of Chang Liu's MacBook revealed that the former engineer used a downloaded confidential Apple circuit schematic in his work at OpenAI. Liu also used a tool with the same name as an internal Apple engineering application in his work for OpenAI.\nApple further claims it has evidence that other employees at OpenAI were aware of Liu's unauthorized access to Apple's third-party cloud storage. In addition, Apple says Liu sent instructions to destroy evidence to another OpenAI employee after discovering that Apple was conducting an internal investigation of him, and that the other OpenAI employee confirmed that she would comply.\nAccording to Apple, Liu used an AI agent on the Apple circuit schematic, which \"may create irreversible and continually propagating uses of the trade secret\" as the AI model could utilize Apple's data for model training.\nLiu's MacBook from his time at Apple also synced with a Mac mini, which was used to run the schematic, so Apple is now requesting that the desktop computer be provided as evidence as well.\nEarlier this month, OpenAI went public with a response denying any wrongdoing. OpenAI also provided text messages, which it says refute some of Apple's claims.\nApple previously sent legal preservation letters to roughly 40 other OpenAI employees who used to work at Apple. In its lawsuit, Apple said that it believes the initial evidence was \"just the tip of the iceberg\" when it comes to OpenAI's use of its trade secrets. More than 400 former Apple employees now work at OpenAI, according to Apple.\nDisclosure: Ziff Davis, Mashable’s parent company, in April 2025 filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.",
+ "report": {
+  "summary": "苹果在诉OpenAI窃密案中称发现惊人证据，申请加速取证。",
+  "background": "苹果于今年7月对OpenAI、其硬件公司io Products及两名转投OpenAI的前员工提起诉讼，指控他们利用苹果商业秘密开发AI硬件。最新法庭文件中，苹果表示对前工程师刘畅归还的MacBook进行初步取证后，发现其下载了苹果保密电路原理图并用于OpenAI工作，还出现指使销毁证据的迹象。苹果因此请求法院批准加速取证。OpenAI否认指控，并公开短信反驳。苹果还称，目前已有超过400名前员工在OpenAI任职，此案正在升级。",
+  "key_points": [
+   "苹果称从前员工刘畅的MacBook中发现其下载了苹果保密电路原理图，并将该图用于OpenAI的硬件开发，还使用了与苹果内部应用同名的工具。",
+   "苹果指控刘畅在得知内部调查后，曾指示另一名OpenAI员工销毁证据，对方表示会配合，苹果称掌握相关沟通记录。",
+   "苹果担忧刘畅用AI代理处理电路原理图，可能让商业秘密被模型训练吸收，造成不可逆转且不断扩散的泄露风险。",
+   "苹果已申请快速取证，并要求提交与MacBook同步的Mac mini作为额外证据，以追查数据流向。",
+   "OpenAI否认所有指控，称提供的短信能反驳苹果说法；双方证据攻防战预计将延续。"
+  ],
+  "impact": "此案凸显AI浪潮下商业秘密保护与人才流动之间的激烈冲突，可能促使科技公司强化离职员工设备审查和数据边界。对开发者而言，跳槽时切勿携带或混用前雇主机密资料，否则可能面临法律风险；企业也应完善数据合规和数字取证流程。对普通用户，案件结果将影响AI硬件开发中是否存在不当技术来源，以及法律如何界定AI模型训练对私有数据的合理使用，进而影响产品创新与市场信任。",
+  "tools": "可关注数字取证工具如Autopsy及The Sleuth Kit，用于分析设备数据；企业防泄露（DLP）平台如Varonis或Code42；若关注AI训练数据风险，可参考OWASP LLM Top 10指南及微软Counterfit安全评估框架。"
+ },
+ "lang": "zh"
+}

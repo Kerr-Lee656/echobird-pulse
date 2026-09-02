@@ -1465,5 +1465,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-01T18:03:17Z",
   "fetched_at": "2026-09-01T21:08:38.831488+00:00"
+ },
+ "6eb73169f84c": {
+  "id": "6eb73169f84c",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "title": "NVIDIA/OpenShell — OpenShell is the safe, private runtime for autonomous AI agents.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:11:51.644820+00:00"
+ },
+ "93c575322cd5": {
+  "id": "93c575322cd5",
+  "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+  "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T23:54:51Z",
+  "fetched_at": "2026-09-02T00:12:11.017214+00:00"
+ },
+ "a365c20a83ae": {
+  "id": "a365c20a83ae",
+  "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
+  "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T23:18:04Z",
+  "fetched_at": "2026-09-02T00:12:28.693295+00:00"
+ },
+ "ff0e435e75d8": {
+  "id": "ff0e435e75d8",
+  "url": "https://openrouter.ai/inception/mercury-2.5-preview",
+  "title": "Inception: Mercury 2.5 Preview on OpenRouter",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T22:38:00Z",
+  "fetched_at": "2026-09-02T00:13:20.795850+00:00"
+ },
+ "c097ba37b0cc": {
+  "id": "c097ba37b0cc",
+  "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+  "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-01T22:08:24.000Z",
+  "fetched_at": "2026-09-02T00:14:00.593707+00:00"
+ },
+ "84e4d2c86a8f": {
+  "id": "84e4d2c86a8f",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+  "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-01T22:01:36.000Z",
+  "fetched_at": "2026-09-02T00:14:16.260136+00:00"
+ },
+ "ad90e6779ea3": {
+  "id": "ad90e6779ea3",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-09-01T21:39:07.000Z",
+  "fetched_at": "2026-09-02T00:14:28.745143+00:00"
+ },
+ "ce10c44d9189": {
+  "id": "ce10c44d9189",
+  "url": "https://arxiv.org/abs/2608.26263",
+  "title": "SKILL.state: Scalable Long-Horizon Agent Skills",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-01T21:21:14Z",
+  "fetched_at": "2026-09-02T00:14:47.269094+00:00"
  }
 }

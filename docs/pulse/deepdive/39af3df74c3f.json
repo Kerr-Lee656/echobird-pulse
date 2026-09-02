@@ -1,0 +1,23 @@
+{
+ "id": "39af3df74c3f",
+ "url": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda",
+ "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-02T00:08:39.914535+00:00",
+ "content": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda (reuters.com) 16\n\t\t\t\n\t\t \t\n\t\t\t\tAnthropic has reportedly signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a roughly 350-megawatt Texas data center being developed by Hut 8. \"Lambda will install Nvidia chips at the Hut 8 facility, with the arrangement designed to expand the pool of Nvidia computing resources available to power Anthropic's Claude AI products,\" reports Quartz. From the report:  The arrangement is a further sign of how Nvidia is positioning itself as a facilitator of computing access across the AI industry. It also benefited Lambda, which counts Nvidia as an investor and was able to land a major Anthropic contract without having to independently source or lease the underlying data center space, according to the Journal.\n \nThe data center covers roughly 350 megawatts of capacity, according to Bloomberg. Hut 8, which began as a bitcoin mining company before moving into AI data centers, disclosed in July that an investment-grade customer had signed 15-year leases for its Texas campus, with a base contract value of $19.6 billion, without naming the tenant.\n \nThe Lambda deal is the latest in a series of large computing agreements Anthropic has pursued. Last week, the company agreed to spend $45 billion to rent capacity from Nscale's West Virginia data center campus. It has also signed deals worth $50 billion with neocloud Fluidstack Ltd. and $45 billion with SpaceX, according to Bloomberg.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nThe data center covers roughly 350 megawatts of capacity, according to Bloomberg. Hut 8, which began as a bitcoin mining company before moving into AI data centers, disclosed in July that an investment-grade customer had signed 15-year leases for its Texas campus, with a base contract value of $19.6 billion, without naming the tenant.\nThe Lambda deal is the latest in a series of large computing agreements Anthropic has pursued. Last week, the company agreed to spend $45 billion to rent capacity from Nscale's West Virginia data center campus. It has also signed deals worth $50 billion with neocloud Fluidstack Ltd. and $45 billion with SpaceX, according to Bloomberg.",
+ "report": {
+  "summary": "Anthropic与Nvidia支持的Lambda签350亿美元云协议，为Claude锁定算力。",
+  "background": "AI模型训练和部署需要海量算力，Anthropic作为头部AI公司，一直在积极锁定GPU资源。Nvidia作为芯片巨头，通过投资云服务商、提供芯片和网络，将自己置于算力生态的核心位置。Lambda是Nvidia投资的初创云厂商，而Hut 8原为比特币矿企，近年转型AI数据中心。此次交易是Anthropic近期一系列巨额算力合同的最新一例，此前已与Nscale、Fluidstack、SpaceX等达成数百亿美元协议，反映出AI行业对算力的疯狂争夺。",
+  "key_points": [
+   "协议规模巨大：Anthropic与Lambda签署350亿美元云计算协议，使用Hut 8在德州的350兆瓦数据中心，为Claude系列AI模型提供算力。",
+   "Nvidia深度参与：Lambda将在该设施安装Nvidia芯片，Nvidia通过投资和合作，将自身定位为AI算力连接者，推动GPU生态扩张。",
+   "Hut 8转型加速：这家前比特币矿企转向AI数据中心，特斯拉基地15年租约基础合同价值196亿美元，表明传统矿场正改造成AI算力中心。",
+   "Anthropic疯狂囤算力：近期已累计签署超千亿美元算力租约，包括Nscale的450亿、Fluidstack的500亿和SpaceX的450亿，凸显其算力需求紧迫。"
+  ],
+  "impact": "对AI行业，算力军备竞赛加剧，云服务商和基础设施公司估值飙升，Nvidia生态进一步巩固。对开发者，Claude产品可能获得更稳定的算力支撑，但巨额成本或通过API价格转嫁。对普通用户，AI服务短期可能面临涨价压力，但长期算力扩张有望带来更强大、更普及的AI应用。",
+  "tools": "想跟进可关注Lambda的GPU云平台（Lambda Labs）和Nvidia的DGX Cloud；开发者可调用Anthropic Claude API体验其模型能力；相关基础设施动态可关注Hut 8的公开披露。"
+ },
+ "lang": "zh"
+}

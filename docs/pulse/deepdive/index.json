@@ -8737,5 +8737,104 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-01T13:09:40Z",
   "fetched_at": "2026-09-01T21:04:34.653350+00:00"
+ },
+ "e7232d52f37f": {
+  "id": "e7232d52f37f",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:08:26.327218+00:00"
+ },
+ "39af3df74c3f": {
+  "id": "39af3df74c3f",
+  "url": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda",
+  "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:08:39.914535+00:00"
+ },
+ "f2c2fe077c2a": {
+  "id": "f2c2fe077c2a",
+  "url": "https://mashable.com/tech/apple-reveals-shocking-evidence-openai-trade-secrets-lawsuit",
+  "title": "Apple reveals ‘shocking evidence’ in OpenAI trade secrets lawsuit",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:08:54.528795+00:00"
+ },
+ "f8f19910bbf7": {
+  "id": "f8f19910bbf7",
+  "url": "https://thenextweb.com/news/us-g20-hands-off-ai-regulation",
+  "title": "The US will ask the G20 not to build anything to govern AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:09:06.308894+00:00"
+ },
+ "e041755bb275": {
+  "id": "e041755bb275",
+  "url": "https://www.techradar.com/pro/openai-lifts-the-lid-on-its-in-house-jalapeno-chip-with-benchmarks-claiming-it-beats-nvidias-gb300",
+  "title": "OpenAI lifts the lid on its in-house Jalapeño chip - with benchmarks claiming it beats Nvidia's GB300",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:09:18.472249+00:00"
+ },
+ "54a64e69846e": {
+  "id": "54a64e69846e",
+  "url": "https://www.techradar.com/pro/meta-is-testing-robot-arms-inside-data-centers-that-could-replace-up-to-80-percent-of-human-workload",
+  "title": "Meta is testing robot arms inside data centers that could replace up to 80% of human workload",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:09:33.673801+00:00"
+ },
+ "47b227149ee6": {
+  "id": "47b227149ee6",
+  "url": "https://www.techradar.com/pro/pentagon-launches-chatgpt-and-grok-models-tailored-to-warfighter-needs",
+  "title": "Pentagon launches ChatGPT and Grok models tailored to 'warfighter needs'",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:09:49.579522+00:00"
+ },
+ "3cea9787b787": {
+  "id": "3cea9787b787",
+  "url": "https://hub.baai.ac.cn/view/57620",
+  "title": "OpenAI 将终止向 Cursor 提供模型，Anthropic 或补位",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-02T00:09:58.485790+00:00"
+ },
+ "f76265e90401": {
+  "id": "f76265e90401",
+  "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
+  "title": "新型人工智能模型绘制了控制蛋白质功能的离子结合位点图谱",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-01T17:53:31.842Z",
+  "fetched_at": "2026-09-02T00:10:18.927708+00:00"
+ },
+ "555b86ad6550": {
+  "id": "555b86ad6550",
+  "url": "https://www.worldlabs.ai/blog/atlas",
+  "title": "Atlas: A World Model for Spatial Intelligence",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-09-01T17:36:02Z",
+  "fetched_at": "2026-09-02T00:10:35.536640+00:00"
+ },
+ "7e470a706467": {
+  "id": "7e470a706467",
+  "url": "https://mvakde.github.io/blog/44-on-arc-1",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "Lobsters (技术社区)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-01T17:15:18Z",
+  "fetched_at": "2026-09-02T00:10:44.087187+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "3cea9787b787",
+ "url": "https://hub.baai.ac.cn/view/57620",
+ "title": "OpenAI 将终止向 Cursor 提供模型，Anthropic 或补位",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-02T00:09:58.485790+00:00",
+ "content": "梦瑶 发自 凹非寺\n量子位 | 公众号 QbitAI\n山姆·奥特曼，又名硅谷·纯恨战神，又出手了。\n这不嘛，Cursor前脚刚改姓马，后脚OpenAI就要给其断粮了。。。\n就在SpaceX豪掷600亿美元收购Cursor母公司Anysphere后仅仅两周，OpenAI突然宣布：\n将动用合同里的「控制权变更」条款，并计划于2026年11月12日正式停止向Cursor供应模型。\n理由超直给——\n马斯克这人《前科》忒多，商业征信这块儿俺们信不过哈～\n甚至OpenAI还专门翻起了旧账，什么Twitter违反合同，xAI曾违反OpenAI的服务条款全扒出来了。\n消息一出，马斯克本人火速上线，丝毫不在意，甚至还有点想骂人：\nI couldn’t care less，顺带不忘夹带私货骂句奥特曼「混蛋」。\n看热闹的网友这下也彻底绷不住了，直接跑到OpenAI帖子下面直接开怼：\n或许贵司应该考虑把公司名改成Closed AI哈～\n咋说呢，《硅圈》还是太乱了。。。\nSpaceX刚买下Cursor，OpenAI就要断供\n话说，这场《断供》大戏的导火索，还要从两周前说起。。。\n8月14日，Cursor正式宣布加入SpaceX。\n其实早在今年4月，双方就已经开始合作，随后SpaceX拿到了收购Cursor的选择权。\n最后的结果，大家也看到了——\nSpaceX以600亿美元全股票交易拿下Cursor母公司Anysphere，并在本月正式完成收购。\n那几天，双方谈论的关键词还全是《愿景》《算力》《一起搞大事》。\nCursor当时还表示，加入SpaceX后它还将获得「全球最大的GPU集群」支持，从而训练能力更强、运行成本更低的模型，太有奔头了！！！\n甚至，连双方合作的成果，都已经提前端上桌了——\nGrok 4.6。\nCursor公开数据显示，Grok 4.6在多项Agent编程和知识工作基准上已经达到前沿水平。\n在Artificial Analysis Intelligence Index上的综合成绩甚至追平GPT-5.6 Sol。\n但Cursor估计自己也没想到。\n加入马斯克阵营之后，先吃到的除了算力红利，还有马斯克多年攒下来的「商业信用账单」。。。\n收购前脚刚落地，OpenAI后脚就出手了。\n8月28日，OpenAI专门发布了一篇公告，标题就叫：《我们关于Cursor被SpaceX收购后的决定》。\n开篇第一段，直接甩结论——\nOpenAI已经通知SpaceX，将逐步终止向Cursor提供OpenAI模型，最终停止日期定在11月12日。\n之所以还给两个多月缓冲期，是因为OpenAI选择按照合同允许的最长通知期执行，让开发者尽可能多保留一段时间的使用权限。（蛮贴心.jpg)\n至于为啥要断供，OpenAI几乎没怎么绕弯子，翻译成人话就一句：\n马斯克这人的「商业征信」，在我们这儿不太行。。。\n根据我们过去与Elon Musk旗下公司打交道的经历，我们无法确信SpaceX会按照服务条款使用我们的技术。\n紧接着，开始逐条翻！旧！账！\n第一笔，是Twitter。\nOpenAI称，马斯克收购Twitter之后，这家公司曾经违反与OpenAI签订的合同条款。\n第二笔，是xAI。\nOpenAI进一步表示，今年早些时候，马斯克在宣誓作证时承认，xAI也曾违反OpenAI的服务条款。\n偏偏好巧不巧，Cursor此前和OpenAI签订的定制协议里，还真留了这么一道保险栓：\n一旦公司控制权发生变化，OpenAI拥有一段有限的合同取消窗口。\nSpaceX收购Cursor，刚好把这个窗口直接触发了？？？\n这时候，火已经烧到Cursor家门口了，大当家马斯克终于下场。\n结果回应的态度也相当《老马》——\n毫不在意哈。\n然后，顺嘴把Sam Altman和Greg Brockman一起骂了。（真滴很·老马）\n死去的回忆，怎么突然…突然又回来了…\n毕竟马斯克和奥特曼之间的恩怨已久这事儿，大家应该都略有耳闻。\n就在今年上半年，双方才刚打完一场围绕1500亿美元诉讼的官司。\n马斯克指控OpenAI背离创立时的非营利使命；美国联邦陪审团最终判马斯克败诉，其中一个关键理由，就是起诉时间已经超过法律允许期限。\n官司刚告一段落，如今战场又从法庭打到了模型API。\n只能说，「硅」圈的太乱了。。。\nCursor：OpenAI只占5%，Claude火速补位！\n当然，马斯克敢回一句「I couldn’t care less」，多少也是有底气的。\n因为OpenAI现在对Cursor，可能真没那么重要了。。。\nCursor联合创始人Michael Truell在回应中表示，目前OpenAI模型大约只占Cursor用户流量的5%。\n这个数字，多少有点给OpenAI的「断供威力」泼冷水了。\n要知道，早期Cursor很大程度建立在第三方前沿模型之上，OpenAI也是它最早的一批模型供应商。\nMichael Truell还专门强调，Cursor很早就是OpenAI的客户，双方合作多年，他们一直相信OpenAI的平台能够成为业务背后的「中立基础设施」。\n所以眼下Cursor也没有直接掀桌。\n按照他的说法，团队仍在和OpenAI沟通，希望事情还有转圜余地。\n但Cursor这边还在谈，另一家和奥特曼也《结下梁子》的老朋友，已经闻着味儿赶来了——\nA社。（笑）\n就在OpenAI宣布断供数小时后，Anthropic联合创始人Tom Brown迅速表态——\nAnthropic准备增加算力投入，继续支持Cursor里的Claude。\n这时间点，就很微妙了。\nOpenAI因为马斯克给Cursor撤位，转头来补位的，又是另一家和OpenAI火药味正浓的Anthropic。\n一圈看下来，Cursor这边模型倒是没断粮。。。\n只是供应商之间的关系，多少有点《全员有仇》了。（doge）\n更关键的是，对Cursor其实也是好事儿，因为也意味着现在自己的底牌也越来越多了。\n一边，是Claude这样的外部顶级模型火速补位。\n另一边，加入SpaceX之后，它又有了更大规模的GPU资源，和SpaceXAI合作的Grok 4.6也已经摆上桌。\n这么一看，OpenAI撤掉的那5%，短期内还真未必伤筋动骨？？？\n反倒是这场断供，把AI模型市场越来越明显的一面给照了出来——\n以后一个AI产品能接谁家的模型，可能真得先查查两边老板有没有陈年旧账和爱恨情仇。\n不然一不小心，就可能一脚献身于硅谷《顶级恩怨局》了。。。\n参考链接：\n[1]https://x.com/elonmusk/status/2093572368434127259\n[2]https://cursor.com/cn/blog/joining-spacex\n[3]https://x.com/NotTomBrown/status/2093541294027280657\n一键三连「点赞」「转发」「小心心」\n欢迎在评论区留下你的想法！\n— 完 —\n🌟 点亮星标 🌟\n内容中包含的图片若涉及版权问题，请及时与我们联系删除",
+ "report": {
+  "summary": "OpenAI因马斯克收购Cursor将断供模型，Anthropic或补位。",
+  "background": "Cursor母公司Anysphere被SpaceX以600亿美元收购，触发OpenAI合同中的控制权变更条款。OpenAI以马斯克旗下公司有违约前科为由，宣布2026年11月12日起停止向Cursor供应模型。Cursor联合创始人回应称OpenAI模型仅占其流量的5%，且Anthropic已表态支持，同时Grok 4.6已上线，事件折射AI模型供应受商业恩怨影响。",
+  "key_points": [
+   "OpenAI动用控制权变更条款，因SpaceX收购Cursor而宣布2026年11月12日停止供应模型，理由是马斯克商业信用不佳。",
+   "OpenAI翻旧账，称Twitter曾违反合同、xAI曾违反服务条款，强化断供的正当性。",
+   "Cursor联合创始人回应，OpenAI模型仅占用户流量5%，冲击有限，并称仍在沟通。",
+   "Anthropic在数小时内表态增加算力支持Cursor中的Claude，火速补位。",
+   "Cursor获SpaceX GPU集群支持，Grok 4.6已达前沿水平，模型多元化降低断供影响。"
+  ],
+  "impact": "对AI行业而言，模型供应商将更重视合同中的控制权变更条款，收购与合作愈发受创始人关系影响。开发者需警惕单一模型依赖，Cursor事件提示多模型接入的必要性。普通用户短期无感，但长期可能看到AI产品间生态壁垒加深，模型选择更多由资本关系而非技术决定。",
+  "tools": "关注Cursor（cursor.com）的模型切换动态；Anthropic Claude API（anthropic.com/claude）和Grok（x.ai）可作为替代模型接入；开发者可评估OpenRouter等聚合平台降低单一供应商风险。"
+ },
+ "lang": "zh"
+}

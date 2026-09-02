@@ -1,0 +1,24 @@
+{
+ "id": "54a64e69846e",
+ "url": "https://www.techradar.com/pro/meta-is-testing-robot-arms-inside-data-centers-that-could-replace-up-to-80-percent-of-human-workload",
+ "title": "Meta is testing robot arms inside data centers that could replace up to 80% of human workload",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-02T00:09:33.673801+00:00",
+ "content": "Meta is testing robot arms inside data centers that could replace up to 80% of human workload\nMeta's robotics strategy continues to play out\n- Meta continues to test data center robots for tasks like power cycling and network connections\n- The company already has a number of models being tested at different campuses\n- One worker worries robots could replace 80% of data center technicians\nMeta is now said to be exploring whether it can perform some data center and server tasks with robots instead of human technicians, including power cycling devices and swapping network cables.\nAccording to new Ars Technica reporting, the company has already deployed a simple, finger-like robot that can physically press the power button on hardware like Mac minis.\nThe company also demonstrated a self-driving robot in 2023 that was cable of moving heavy server racks, so it's not the first time Meta has been exploring how to automate its growing data center footprint.\nMeta continues to look at ways to automate data center tasks\nAccording to the latest reports, some of those earlier robots have already been deployed at its Iowa and Virginia facilities, and it's the Iowa campus that looks to be one of the company's biggest testing grounds. For the past year or so, the Facebook's parent company has reportedly been testing two two-arm robots for cable-related work, under human supervision.\nA separate scissor-lift-style machine with a robotic arm is also rolling around Meta's Ohio campus in a trial for jobs like reseating components.\nHowever, the growing complexity of AI data centers also presents its own challenges for robots, making fine motor skills far more important for costly and vital components.\nNaturally, worker feedback hasn't always been so positive. Besides one unnamed employee warning that robots could replace 80% of the human roles before long, many also complain that autonomous robots spend far too long charging their batteries – not working.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nStill, robots are clearly still part of the company's plan. Robotics exec Eric Xu previously described a future where robots are used for incident response, environmental monitoring and preventative maintenance.\n\"America is in the middle of its biggest infrastructure boom since World War II, and there’s a major shortage of skilled workers to fill the roles; we need more workers, not fewer,\" company spokesperson Francis Brennan told Ars Technica.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "Meta测试数据中心机器人，可替代最高80%人工工作。",
+  "background": "Meta为应对AI数据中心快速扩张和熟练工短缺，持续探索运维自动化。早在2023年，它就展示过能搬运服务器机架的自动驾驶机器人；如今又在爱荷华、弗吉尼亚等园区部署了多种机械臂，执行按电源键、插拔电缆等任务。俄亥俄园区还测试了剪叉式升降机机器人用于重新插拔组件。尽管有员工担心机器人会取代大量技术岗位，Meta官方回应称美国正面临基建潮和工人缺口，机器人是补充而非替代。这背后是AI基础设施成本与人力效率的深层博弈。",
+  "key_points": [
+   "机器人已上岗：Meta在爱荷华等园区部署了手指状机器人和双臂机器人，能完成按电源键、插拔网线等基础运维操作。",
+   "重型任务也有方案：该公司2023年就展示过自动驾驶机器人，可搬运沉重的服务器机架，证明机器人不只是做轻巧活。",
+   "多园区试点推进：爱荷华主要测试电缆相关双臂机器人，俄亥俄则测试剪叉式升降机械臂，用于重新插拔内部组件。",
+   "员工喜忧参半：有员工警告机器人可能替代80%技术人员，同时抱怨自主机器人充电时间太长，实际干活效率并不高。",
+   "官方强调补缺口：Meta发言人表示美国基建热导致技术工人短缺，机器人是为了应对“需要更多工人”的现实，而非单纯裁员。"
+  ],
+  "impact": "对AI行业而言，数据中心机器人能降低运维成本、加速算力扩张，但也会倒逼企业重新设计基础设施以适配自动化。对开发者来说，服务器操作会逐渐转向机器人友好型接口，未来可能需掌握远程自动化运维技能。对普通用户，AI服务成本有望下降或更稳定，但技术岗位就业结构将面临转型压力，低技能运维工作可能被机器人逐步替代。",
+  "tools": "可关注Meta的Habitat模拟平台（用于机器人技能训练），以及ROS 2、RoboCasa等开源机器人操作框架；数据中心运维方向可学习Ansible、Terraform等基础设施即代码工具，提前适应自动化趋势。"
+ },
+ "lang": "zh"
+}
