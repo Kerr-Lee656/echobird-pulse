@@ -1546,5 +1546,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-02T04:00:00.000Z",
   "fetched_at": "2026-09-02T04:27:17.733368+00:00"
+ },
+ "7a137689de8a": {
+  "id": "7a137689de8a",
+  "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
+  "title": "Child abuse survivor sues xAI, alleging Grok generated new illegal images of her",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T11:07:10Z",
+  "fetched_at": "2026-09-03T11:15:55.148303+00:00"
+ },
+ "d5865b812982": {
+  "id": "d5865b812982",
+  "url": "https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services",
+  "title": "£100M competition to back British AI companies to fix public services",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T10:19:45Z",
+  "fetched_at": "2026-09-03T11:16:06.797442+00:00"
+ },
+ "332fa9bfe240": {
+  "id": "332fa9bfe240",
+  "url": "https://chinaonchina.com/article/gemini-3-8-flash-debuts-promptly-mocked-by-rivals",
+  "title": "Gemini 3.8 Flash Arrives, Promptly Mocked by Rivals",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T10:16:41Z",
+  "fetched_at": "2026-09-03T11:16:27.231798+00:00"
+ },
+ "70971995c81a": {
+  "id": "70971995c81a",
+  "url": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/",
+  "title": "Anthropic Sued for False Advertising on Claude Max Subscription Usage Limits",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T09:50:05Z",
+  "fetched_at": "2026-09-03T11:17:19.931280+00:00"
  }
 }

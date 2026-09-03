@@ -1,0 +1,23 @@
+{
+ "id": "8a200a75b11a",
+ "url": "https://www.ithome.com/0/997/852.htm",
+ "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-03T03:49:55Z",
+ "fetched_at": "2026-09-03T11:13:00.530866+00:00",
+ "content": "IT之家 9 月 3 日消息，Anthropic 今天（9 月 3 日）在 X 平台发布推文，宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，可以在后台操控用户 Mac。\n在适配要求方面，官方要求使用 macOS 15 以及更高系统版本，桌面必须保持唤醒状态，Claude Desktop 应用需保持打开。IT之家附上相关截图如下：\n在本次更新之后，在 macOS 平台上，用户在处理其它工作的同时，Claude 可以在后台通过屏幕交互完成点击、输入和导航操作。如需 Claude 接管全屏，可在设置中调整为“完全控制”模式。\n该功能同时服务于 Claude Cowork 和 Claude Code 两个产品。Cowork 面向文档处理、文件整理、研究综合等知识工作，Code 专注开发任务。\n目前仅限 Pro 和 Max 个人订阅用户，Team 和 Enterprise 计划尚未开放。Linux 版本处于测试阶段，暂不支持电脑控制功能。",
+ "report": {
+  "summary": "Anthropic升级Claude Code/Cowork，支持后台操控Mac完成点击输入等操作。",
+  "background": "随着AI代理（Agent）技术快速发展，Anthropic持续强化Claude在真实电脑环境中的自主操作能力。此次升级基于此前发布的“电脑使用”功能，将原本需要用户全程值守的屏幕操控变为后台执行，使AI能边处理任务边让用户做其他事。行业里OpenAI、Google等也在押注“AI代理”方向，但多停留在模拟器或云端环境；Anthropic直接绑定macOS桌面应用，意味着AI离真正替代人类操作本地软件又近一步。",
+  "key_points": [
+   "Claude现可在macOS 15+上后台操控Mac，通过屏幕交互完成点击、输入和导航，无需用户紧盯屏幕，桌面需保持唤醒且Claude Desktop打开。",
+   "功能覆盖两个产品：Claude Cowork专注文档整理、研究总结等知识工作，Claude Code面向开发编码任务，分工明确。",
+   "默认可能采取保守操作，若需全程接管可切换至“完全控制”模式，赋予Claude全屏操作权限，兼顾效率与安全。",
+   "仅Pro和Max个人订阅用户可用，Team/Enterprise暂未开放；Linux版本仍在测试且暂不支持该操控能力，推广节奏谨慎。"
+  ],
+  "impact": "对AI行业而言，这是“AI代理”从聊天走向真实生产力软件的标志性案例，将倒逼竞争对手加速布局桌面端Agent能力。对开发者，Claude Code可在后端并行处理编码任务时解放双手，但需警惕AI误操作或权限滥用风险，做好代码审查。对普通用户，Claude Cowork可帮助整理文件、批量操作应用，但Mac需保持唤醒且应用常驻，可能影响原有使用习惯；隐私敏感操作仍需人工确认，总体提升了AI助手从“问答”到“代劳”的实用价值。",
+  "tools": "可关注Anthropic官方Claude Desktop及Claude Code/Cowork产品；开发者可研究Anthropic的computer use API（基于屏幕截图+坐标操作），或尝试开源替代如OpenInterpreter、UI-TARS等桌面Agent框架，用于对比或自建自动化流程。"
+ },
+ "lang": "zh"
+}
