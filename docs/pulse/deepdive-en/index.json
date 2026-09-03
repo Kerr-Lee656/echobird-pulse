@@ -1582,5 +1582,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-03T09:50:05Z",
   "fetched_at": "2026-09-03T11:17:19.931280+00:00"
+ },
+ "ca0a2fc92792": {
+  "id": "ca0a2fc92792",
+  "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+  "title": "OpenAI's new reasoning technique alarms AI safety experts",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T16:11:24Z",
+  "fetched_at": "2026-09-03T16:28:15.871282+00:00"
+ },
+ "90c599e2da9d": {
+  "id": "90c599e2da9d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-03T16:00:00.000Z",
+  "fetched_at": "2026-09-03T16:28:35.404485+00:00"
+ },
+ "95322e5aab92": {
+  "id": "95322e5aab92",
+  "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+  "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+  "source": "Hacker News (8pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T15:26:27Z",
+  "fetched_at": "2026-09-03T16:28:56.167740+00:00"
+ },
+ "e4d46e039345": {
+  "id": "e4d46e039345",
+  "url": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
+  "title": "The Chinese wholesale market for Claude and ChatGPT accounts",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T15:04:58Z",
+  "fetched_at": "2026-09-03T16:30:01.083133+00:00"
+ },
+ "2b0379511ea0": {
+  "id": "2b0379511ea0",
+  "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "source": "Google DeepMind",
+  "site_name": "Google DeepMind",
+  "published_at": "2026-09-03T15:02:08.000Z",
+  "fetched_at": "2026-09-03T16:30:16.685069+00:00"
+ },
+ "b904b6399bed": {
+  "id": "b904b6399bed",
+  "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+  "title": "ChatGPT Healthcare Epic Integration",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T14:33:01Z",
+  "fetched_at": "2026-09-03T16:32:31.257010+00:00"
+ },
+ "76c812875705": {
+  "id": "76c812875705",
+  "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+  "title": "An AI agent sliced through an enterprise defenses in 10 hours",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T13:33:26Z",
+  "fetched_at": "2026-09-03T16:35:55.704735+00:00"
  }
 }

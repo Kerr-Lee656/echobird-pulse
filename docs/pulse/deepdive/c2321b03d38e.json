@@ -1,0 +1,24 @@
+{
+ "id": "c2321b03d38e",
+ "url": "https://www.aibase.com/news/30811",
+ "title": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-03T12:20:14.780Z",
+ "fetched_at": "2026-09-03T16:25:57.517394+00:00",
+ "content": "On September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-research and development approach, while also developing specialized robots for data centers. The relevant business has been integrated into the OpenAI Robotics team, led by Aditya Ramesh. This plan aims to assist skilled workers in building infrastructure in the short term, and in the long run, it seeks to popularize all-around personal assistants, deepening the collaborative design between hardware and machine learning.\nAt the same time, OpenAI's layout in the cross-industry AI hardware ecosystem is accelerating. The first hardware terminal designed by Jonathan Ive, former chief designer of Apple (internal code name \"Gumdrop\"), is expected to be launched in 2027 with a price exceeding $300. This device is positioned as a screenless portable AI computer, shaped like a donut and the size of an ice hockey puck, equipped with movable parts to enhance the human-like interactive experience, aiming to create a \"physical embodiment\" of ChatGPT. The hardware team currently has about five products under development, with Foxconn already involved in prototype production.\nAmid rapid business expansion and preparations for the 2027 IPO, OpenAI still faces two major challenges. On one hand, Apple filed lawsuits and applied for preliminary injunctions in July and August of the same year, accusing OpenAI of stealing trade secrets of unreleased products through poaching; OpenAI denied these allegations.\nOn the other hand, despite OpenAI's annualized revenue surpassing $20 billion in 2025 and second-quarter revenue reaching $6.7 billion in 2026 (an 18% increase quarter-on-quarter), growth has shown signs of slowing down, with operating losses continuing to expand. In comparison, the competitor Anthropic achieved quarterly revenue exceeding $11.5 billion during the same period and realized operational profitability, exerting positive market pressure on OpenAI. OpenAI's recent in-depth expansion into integrated software and hardware marks the acceleration of general artificial intelligence (AGI) toward embodied and terminal real-world applications.",
+ "report": {
+  "summary": "OpenAI宣布全栈自研人形机器人，并计划2027年发布乔纳森设计的AI终端。",
+  "background": "OpenAI在ChatGPT取得商业成功后，开始向硬件和实体机器人领域扩张。CEO Sam Altman于9月2日明确表示将全栈自研人形机器人及数据中心专用机器人，业务由Aditya Ramesh领导的机器人团队负责。同时，OpenAI与苹果前设计总监乔纳森·艾夫合作的首款无屏AI终端（代号Gumdrop）预计2027年发布，售价超300美元。这一布局正值OpenAI面临增长放缓、运营亏损扩大以及苹果商业秘密诉讼等挑战，但竞争对手Anthropic已实现季度盈利，促使OpenAI加速软硬一体化战略。",
+  "key_points": [
+   "OpenAI确认以全栈自研模式开发人形机器人，短期服务于基建技工，长期目标是普及全能个人助理，并已成立专门机器人团队。",
+   "首款AI终端由乔纳森·艾夫主导，外形类似冰球，无屏可穿戴，内置活动部件增强交互，目标是成为ChatGPT的物理化身，2027年发布。",
+   "硬件开发已有约5款产品在研，富士康参与原型机制造，显示OpenAI正从纯软件公司转向软硬件一体化生态。",
+   "苹果起诉OpenAI挖角窃取未发布产品商业机密，并申请禁令，OpenAI否认，反映出跨行业人才竞争白热化。",
+   "尽管OpenAI年化收入超200亿美元，但增速放缓、运营亏损扩大；对手Anthropic季度收入超115亿美元且实现盈利，给OpenAI带来市场压力。"
+  ],
+  "impact": "对AI行业而言，OpenAI亲自下场做机器人将加速具身智能与终端融合，可能改变AI商业模式，从卖服务转向卖硬件。对开发者，新的硬件平台和机器人API将带来开发机会，但生态尚未成熟。对普通用户，2027年可能看到一类无屏AI随身设备，交互更有实体感，不过高定价和隐私问题需要关注。同时，OpenAI与苹果的纠纷可能影响行业人才流动和技术路线选择。",
+  "tools": "可关注OpenAI Robotics团队后续开源框架，以及苹果前设计总监联合打造的设备生态；相关领域可留意机器人仿真工具MuJoCo、Isaac Sim，以及边缘AI部署框架如TensorFlow Lite、ONNX Runtime。"
+ },
+ "lang": "zh"
+}
