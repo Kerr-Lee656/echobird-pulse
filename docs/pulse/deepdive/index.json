@@ -8890,5 +8890,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-03T02:25:00Z",
   "fetched_at": "2026-09-03T11:13:15.070767+00:00"
+ },
+ "345cc884bc05": {
+  "id": "345cc884bc05",
+  "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+  "title": "ChatGPT, Claude, and Grok Are Down",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T20:59:15.140440+00:00"
+ },
+ "2fa113fc74c4": {
+  "id": "2fa113fc74c4",
+  "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+  "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T20:59:30.637399+00:00"
+ },
+ "de11ae3cf242": {
+  "id": "de11ae3cf242",
+  "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
+  "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T20:59:42.474121+00:00"
+ },
+ "8c45bd88ef62": {
+  "id": "8c45bd88ef62",
+  "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+  "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T20:59:50.316440+00:00"
+ },
+ "e6c21b730e42": {
+  "id": "e6c21b730e42",
+  "url": "https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks",
+  "title": "Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:00:08.938809+00:00"
+ },
+ "90c599e2da9d": {
+  "id": "90c599e2da9d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:00:25.018684+00:00"
+ },
+ "d5ea4bcadd66": {
+  "id": "d5ea4bcadd66",
+  "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:00:40.763169+00:00"
+ },
+ "944bbf91c153": {
+  "id": "944bbf91c153",
+  "url": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1",
+  "title": "Hugging Face 遭遇的攻击为人们敲响了关于人工智能风险的警钟",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-03T17:03:28.571Z",
+  "fetched_at": "2026-09-03T21:00:55.307225+00:00"
+ },
+ "f3caf1a9ff2c": {
+  "id": "f3caf1a9ff2c",
+  "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
+  "title": "人工智能提出了一些新的物理实验方案，其性能可能优于人类设计的实验装置",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-03T16:31:48.805Z",
+  "fetched_at": "2026-09-03T21:01:14.280388+00:00"
+ },
+ "bcb555b78c28": {
+  "id": "bcb555b78c28",
+  "url": "https://www.huxiu.com/article/4888423.html?f=rss",
+  "title": "车企扎堆造机器人：四个轮子的焦虑与两条腿的赌局",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-03T16:22:51Z",
+  "fetched_at": "2026-09-03T21:01:39.439322+00:00"
  }
 }

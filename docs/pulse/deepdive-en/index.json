@@ -1645,5 +1645,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-03T13:33:26Z",
   "fetched_at": "2026-09-03T16:35:55.704735+00:00"
+ },
+ "82a901da1b9b": {
+  "id": "82a901da1b9b",
+  "url": "https://github.com/anthropics/skills",
+  "title": "anthropics/skills — Public repository for Agent Skills",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:03:16.629997+00:00"
+ },
+ "fa3b77f0574e": {
+  "id": "fa3b77f0574e",
+  "url": "https://github.com/datacurve-ai/deep-swe",
+  "title": "datacurve-ai/deep-swe — Measuring frontier coding agents on original, long-horizon engineering tasks",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:04:07.859310+00:00"
+ },
+ "2133703e2610": {
+  "id": "2133703e2610",
+  "url": "https://github.com/casdoor/casdoor",
+  "title": "casdoor/casdoor — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-03T21:04:28.882978+00:00"
+ },
+ "ff1868da76fb": {
+  "id": "ff1868da76fb",
+  "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+  "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-03T19:36:29.000Z",
+  "fetched_at": "2026-09-03T21:05:04.928638+00:00"
+ },
+ "8aa591b1f158": {
+  "id": "8aa591b1f158",
+  "url": "https://artificialanalysis.ai/articles/gemini-3-8-flash",
+  "title": "Google has released Gemini 3.8 Flash, its fourth Flash model in under four month",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T19:32:17Z",
+  "fetched_at": "2026-09-03T21:05:24.933126+00:00"
+ },
+ "8c7b9340dbc3": {
+  "id": "8c7b9340dbc3",
+  "url": "https://aihot.virxact.com/items/cmtlx9epa0qcxrow5bt068c9u",
+  "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+  "source": "The Decoder：AI News（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-03T19:25:40.000Z",
+  "fetched_at": "2026-09-03T21:06:27.807651+00:00"
+ },
+ "94e53cc55990": {
+  "id": "94e53cc55990",
+  "url": "https://aihot.virxact.com/items/cmtlwa4r50pj3row543ys30bl",
+  "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+  "source": "@satyanadella",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-03T18:58:12.000Z",
+  "fetched_at": "2026-09-03T21:06:54.505107+00:00"
+ },
+ "b2aba8a30192": {
+  "id": "b2aba8a30192",
+  "url": "https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/",
+  "title": "Nvidia's Open Secure AI Alliance Moves to Linux Foundation",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-03T18:37:46Z",
+  "fetched_at": "2026-09-03T21:07:13.367903+00:00"
  }
 }

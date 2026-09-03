@@ -1,0 +1,24 @@
+{
+ "id": "90c599e2da9d",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+ "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-03T21:00:25.018684+00:00",
+ "content": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.\nNvidia launches free tool that links idle computers into a personal AI data center\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\nLet’s get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It’s open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple’s M4 chips or newer will also work.\nThe key thing here is that PAIR uses your in-home systems when they’re idle to avoid interfering with other tasks. And this disaggregated system of computers can work in parallel to chew through lots of processing requests — which should be helpful for an agentic workflow that breaks complex tasks into smaller jobs. This should prevent large bottlenecks on a single GPU, and Nvidia says PAIR can adapt as devices join or leave the network — including if a user does something like start playing a game on their desktop PC.\nIn a media briefing, Nvidia product manager Seth Schneider painted a picture of a household filled with powerful computers that could be doing much more with PAIR: a dad with both an Nvidia RTX Spark laptop and a DGX Spark desktop, a mom with an RTX 5090 laptop, a daughter with a gaming desktop, and a son with a MacBook Pro. In this incredibly extreme case, Schneider estimates this house has about 165 teraflops of underutilized compute. “It’s truly a treasure trove of free tokens just sitting in homes today,” he says, even when accounting for the electricity costs in the average American home.\nNvidia says PAIR is secured by pairing all devices through a six-digit code and then securing the channel via mTLS (Mutual Transport Layer Security), to create an encrypted communication line that’s trusted in both directions between computers. The Nvidia PAIR beta is available today, with support for Windows, Linux, and macOS.\nPAIR does seem like a clever solution if you already have some beefy computers in your home and you want to run your own local AI. Upon my asking who PAIR is really for, and what kind of setups are actually realistic, Schneider said Nvidia envisions most PAIR users will have something like one MacBook or Windows laptop and one gaming PC.\nIn addition to PAIR, Nvidia is also announcing that three major AI agent apps — Perplexity Portable Computer, Hermes Agent, and OpenClaw — will offer simplified local setup with Nvidia GPUs on Windows. The new setup experiences are designed to allow users to get local agents up and running in just a few clicks, reducing the initial manual configuration necessary.",
+ "report": {
+  "summary": "英伟达推免费工具PAIR，集合闲置电脑当个人AI数据中心。",
+  "background": "PAIR是英伟达发布的一款免费开源软件，目标是把家中多台电脑的闲置算力“拧成一股绳”，用于跑本地大模型和AI Agent任务。此前本地AI推理往往受单张GPU显存和算力限制，大型agentic工作流很容易遇到瓶颈。英伟达认为家庭里已有大量被闲置的高性能电脑，若通过局域网互联调度，就等于建了一个“个人AI数据中心”。PAIR正是在这一背景下出现，希望让本地AI拥有更强算力，同时减少对云端API的依赖。",
+  "key_points": [
+   "PAIR不是硬件路由器，而是一款免费开源软件，能自动发现并连接同一局域网内的兼容电脑，组成本地推理资源池。",
+   "兼容范围较广：支持RTX 20系列及以上、RTX Pro、DGX Spark，也支持苹果M4或更新芯片，覆盖Windows、Linux、macOS。",
+   "它只在电脑空闲时调用算力，并可根据设备加入/退出动态调整，例如用户开始玩游戏时会自动让出资源，不影响日常使用。",
+   "安全性方面：设备通过6位配对码绑定，之后使用mTLS双向加密通信，保证传输链路可信。",
+   "英伟达还宣布为Perplexity Portable Computer、Hermes Agent、OpenClaw等AI Agent应用提供Windows+Nvidia GPU一键式本地安装体验。"
+  ],
+  "impact": "对AI行业而言，PAIR让“分布式本地推理”变得更可行，推动AI算力从云端向家庭边缘扩散，也反映出agentic workflow对多机并行算力的真实需求。对开发者来说，这意味着无需昂贵的多卡服务器，就能利用手头多台设备搭建小型推理集群，调试和运行本地Agent更灵活。对普通用户，它降低了本地大模型的算力门槛，但仍有兼容性和网络配置要求；若家中恰好有游戏PC和MacBook，确实能榨干闲置性能，只是距离“一键变成数据中心”还有一段距离。",
+  "tools": "可关注Nvidia PAIR官方beta页面与开源仓库，配合Ollama、LM Studio做本地模型推理；Perplexity Portable Computer、Hermes Agent、OpenClaw这几款Agent应用也适合快速体验本地部署。"
+ },
+ "lang": "zh"
+}

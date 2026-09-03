@@ -1,0 +1,24 @@
+{
+ "id": "e6c21b730e42",
+ "url": "https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks",
+ "title": "Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-03T21:00:08.938809+00:00",
+ "content": "Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks (arstechnica.com) 5\n\t\t\t\n\t\t \t\n\t\t\t\tGoogle released Gemini 3.8 Flash, its third Flash model in six weeks, claiming it's their best reasoning and coding model yet (topping the DeepSWE leaderboard). Ars Technica reports:  Gemini 3.8 Flash comes in two variations. There's the standard Flash, which Google describes as a \"workhorse\" model that's good for anything from agentic tasks to software development. Then we have Gemini 3.8 Flash Cyber, which runs on the same foundations but has been tuned for vulnerability detection and mitigation.\n \nFor developers, Google has the same pitch as it did for the 3.7 Flash release just a couple of weeks ago. API access to the model is available at an \"introductory rate\" through the end of the year: $0.75 per million input tokens and $3.75 per million output tokens. The regular price will be $1.50 / $7.50, but it's likely there will be new models available long before the price changes. Google probably sees the lower prices as a necessity given that other AI labs have recently dropped token pricing to keep increasingly wary businesses engaged with AI tools.\n \n[...] Gemini 3.8 Flash will be available across the Google ecosystem starting today, but Gemini 3.8 Flash Cyber is currently limited to trusted testers and governments. Like the past Flash release, you'll need a Pro or Ultra subscription to access Gemini 3.8 Flash in the Gemini app, but you can always visit AI Studio if you want to tinker with it for free.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nFor developers, Google has the same pitch as it did for the 3.7 Flash release just a couple of weeks ago. API access to the model is available at an \"introductory rate\" through the end of the year: $0.75 per million input tokens and $3.75 per million output tokens. The regular price will be $1.50 / $7.50, but it's likely there will be new models available long before the price changes. Google probably sees the lower prices as a necessity given that other AI labs have recently dropped token pricing to keep increasingly wary businesses engaged with AI tools.\n[...] Gemini 3.8 Flash will be available across the Google ecosystem starting today, but Gemini 3.8 Flash Cyber is currently limited to trusted testers and governments. Like the past Flash release, you'll need a Pro or Ultra subscription to access Gemini 3.8 Flash in the Gemini app, but you can always visit AI Studio if you want to tinker with it for free.",
+ "report": {
+  "summary": "谷歌六周内第三次推出Flash模型，主打推理与编程，并设低价吸引开发者。",
+  "background": "Google在六周内连续推出三款Flash系列模型，刚发布3.7 Flash没几周，又上线3.8 Flash，显示其发布节奏明显加速。与此同时，AI实验室普遍下调token价格，以留住日渐谨慎的企业客户，Google因此用“介绍性价格”推广新品，让开发者能以更低成本尝试。Flash系列一直被定位为兼顾性能与效率的“工作马”，覆盖智能体、软件开发等高频场景；此次还细分出Cyber版本，专门面向漏洞检测与安全防御，从而拓展更多行业应用。",
+  "key_points": [
+   "六周内第三款Flash模型登场，定位“工作马”，负责智能体任务到软件开发等各类日常AI工作。",
+   "官方称它是目前最强推理与编码模型，在DeepSWE排行榜登顶；实际表现是否全面领先仍需第三方验证。",
+   "除标准版还有Cyber版，专注于漏洞检测与缓解，目前仅向可信测试者和政府开放，商用安全场景暂受限。",
+   "API定价以接近半价促销，输入每百万tokens 0.75美元、输出3.75美元，年底后恢复1.5/7.5美元，开发者要留意窗口期。",
+   "在Gemini App中需Pro或Ultra订阅，但AI Studio仍可免费体验；Google生态内逐批开放，不同地区可能有延迟。"
+  ],
+  "impact": "对AI行业来说，六周三发意味着模型迭代周期在缩短，各厂商被迫跟进性能与价格，竞争进一步加剧；开发者能以便宜价格调用前沿模型，快速试错，但模型换代太快，迁移成本也随之上升；普通用户看到AI能力不断增强，但新功能多被订阅墙挡住，免费可玩的入口越来越少，长期看强AI服务可能越来越像付费会员制产品。",
+  "tools": "想尝鲜可关注Google AI Studio和Gemini API文档，留意官方定价与限免额度；模型排名可参考DeepSWE榜单。Cyber版本目前只对可信测试者和政府开放，普通用户可申请早期访问计划。"
+ },
+ "lang": "zh"
+}
