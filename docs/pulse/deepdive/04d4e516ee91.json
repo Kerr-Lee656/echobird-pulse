@@ -1,0 +1,24 @@
+{
+ "id": "04d4e516ee91",
+ "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
+ "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-03T00:14:03.884181+00:00",
+ "content": "Google hasn’t released a frontier-level Gemini Pro AI model since early 2026, but it sure loves rolling out new Gemini Flash variants. Today, Google is announcing its third Flash model release in just six weeks, making it more likely that we’ll never see the promised Gemini 3.5 Pro. But no matter, says Google, because Gemini 3.8 Flash is its best reasoning and coding model yet.\nGemini 3.8 Flash comes in two variations. There’s the standard Flash, which Google describes as a “workhorse” model that’s good for anything from agentic tasks to software development. Then we have Gemini 3.8 Flash Cyber, which runs on the same foundations but has been tuned for vulnerability detection and mitigation.\nFor developers, Google has the same pitch as it did for the 3.7 Flash release just a couple of weeks ago. API access to the model is available at an “introductory rate” through the end of the year: $0.75 per million input tokens and $3.75 per million output tokens. The regular price will be $1.50 / $7.50, but it’s likely there will be new models available long before the price changes. Google probably sees the lower prices as a necessity given that other AI labs have recently dropped token pricing to keep increasingly wary businesses engaged with AI tools.\nGoogle has offered its usual raft of benchmark numbers, which appear to show Gemini 3.8 Flash competing with (or even beating) larger and more expensive models. The numbers show a marginal improvement over Gemini 3.7 Flash in most tests, but the gains are larger in coding evaluations.",
+ "report": {
+  "summary": "谷歌六周内发布第三款Flash模型，Gemini 3.8 Flash主打推理和编程。",
+  "background": "自2026年初以来，谷歌一直未推出旗舰级Gemini Pro模型，反而密集更新轻量级Flash系列。此次发布的Gemini 3.8 Flash是六周内第三款，并新增了面向漏洞检测的Cyber版本。谷歌延续低价策略，以“入门价”吸引开发者，同时其他AI实验室也在降价竞争。这一系列动作让外界猜测，此前承诺的Gemini 3.5 Pro可能不会再面世，谷歌正将重心全面转向快速迭代的实用型模型。",
+  "key_points": [
+   "Gemini 3.8 Flash发布，是谷歌六周内第三个Flash模型，延续高频迭代节奏，进一步表明其产品重心已转向轻量级模型。",
+   "提供标准版和Cyber版两个变体，后者在相同基座上针对漏洞检测与修复进行了专门调优，面向安全场景。",
+   "API采取限时优惠定价：每百万输入0.75美元、输出3.75美元，正常价格翻倍，意在吸引开发者在年底前接入试用。",
+   "基准测试相比3.7 Flash总体小幅提升，在编程编码项上进步更明显，据称可媲美更大更贵的竞品模型。",
+   "谷歌持续推Flash而非Pro，推高了Gemini 3.5 Pro可能被放弃的可能性，因为新Flash已经覆盖了多数用户需求。"
+  ],
+  "impact": "对AI行业而言，谷歌连发小模型加剧了性价比竞争，迫使对手在价格和迭代速度上跟进；对开发者，低价的Flash模型适合快速搭建智能体和编码工具，但版本频繁更换需注意适配成本；对普通用户，更小更快的模型意味着相关AI应用会更便宜、响应更快，但前沿长跑能力可能被牺牲。整体看，市场正从“拼参数”转向“拼实际可用性”。",
+  "tools": "若想体验或跟进Gemini 3.8 Flash，可关注Google AI Studio和Gemini API，官方已开放入门价接入；此外可在LMArena查看该模型与其他产品的对比跑分，或使用OpenRouter等第三方平台快速尝试多种模型。"
+ },
+ "lang": "zh"
+}

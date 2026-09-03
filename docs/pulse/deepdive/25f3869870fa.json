@@ -1,0 +1,23 @@
+{
+ "id": "25f3869870fa",
+ "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school",
+ "title": "NYC Public Schools Ban AI Use Through Middle School",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-03T00:13:13.616479+00:00",
+ "content": "NYC Public Schools Ban AI Use Through Middle School 47\n\t\t\t\n\t\t \t\n\t\t\t\tNew York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports:  In a statement to ABC News, New York City Mayor Zohran Mamdani said that the city is implementing a moratorium on generative AI for students in pre-school or 2-K through eighth grade and will spend the next year \"studying the impacts of this technology.\" Mamdani wrote in part, \"the tech industry wants us to believe that A.I.-powered early education is not only inevitable, but necessary.\" \"We do not see it that way,\" he added.\n \n[...] The district said it is implementing the most expansive AI moratorium in the nation, eliminating software that uses student-facing AI and banning companion chatbots. The city's AI moratorium does not apply to high school students. The district said it will offer twice-yearly AI literacy classes designed to help high school students \"think critically\" about the technology before they start to \"rely\" on it.\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n[...] The district said it is implementing the most expansive AI moratorium in the nation, eliminating software that uses student-facing AI and banning companion chatbots. The city's AI moratorium does not apply to high school students. The district said it will offer twice-yearly AI literacy classes designed to help high school students \"think critically\" about the technology before they start to \"rely\" on it.",
+ "report": {
+  "summary": "纽约最大学区禁止学前至八年级学生用生成式AI，2026-27学年生效。",
+  "background": "随着生成式AI疯狂涌入教育市场，美国各州态度分裂：一些学校积极引入，另一些则担忧隐私、依赖和思维退化。纽约市长Mamdani明确反对科技业所谓“AI早教不可避免”的叙事，宣布在全美最大公立学区实施最严格的AI暂停令，并利用未来一年研究影响，再决定后续政策。此举既回应了家长焦虑，也为全美教育科技监管树立风向标。",
+  "key_points": [
+   "禁令适用于学前班至八年级，覆盖超过五十万学生，是全美范围最广的AI限制，高中除外，执行期为2026-27学年。",
+   "政策将移除一切面向学生的生成式AI功能，并明令禁止陪伴聊天机器人，以防范依赖、不当内容及隐私风险。",
+   "高中生可以继续使用AI，但必须参加每年两次的AI素养课程，校方希望他们先学会批判性思考，再“依赖”技术。",
+   "市长Mamdani批评科技界将AI早教包装为“必然且必要”，决定用一年研究周期，为后续监管提供实证依据。"
+  ],
+  "impact": "对教育AI公司，进入纽约市场的门槛骤增，必须证明产品不会伤害儿童；对开发者，需重新思考适龄设计，强化内容过滤和可解释性；对普通用户，低龄学生暂时免于AI过度介入，但家长也可能焦虑数字竞争力落后，尤其资源匮乏学区的差距或进一步拉大。此政策将成为全美其他学区的重要参照。",
+  "tools": "教育者可关注AI检测与治理工具，如GPTZero、Turnitin的AI写作检测；家长可参考Common Sense Media的AI评分；研究者可关注纽约市教育局后续报告，或使用MIT媒体实验室的AI素养课程包跟进实践。"
+ },
+ "lang": "zh"
+}
