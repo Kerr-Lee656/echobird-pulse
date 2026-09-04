@@ -1,0 +1,23 @@
+{
+ "id": "4fa981661ece",
+ "url": "https://www.techradar.com/pro/federal-agencies-sued-amid-allegations-trump-admin-could-be-using-ai-safety-framework-to-hide-ai-manipulation-and-corruption",
+ "title": "Federal agencies sued amid allegations Trump admin could be using AI safety framework to hide AI manipulation and corruption",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T04:28:06.442541+00:00",
+ "content": "Federal agencies sued amid allegations Trump admin could be using AI safety framework to hide AI manipulation and corruption\nProtect Democracy slates Trump's AI testing framework\n- Four federal agencies criticized for failing to share the framework's details\n- We don't know anything about who's involved and how models are tested\n- Protect Democracy wants a court order by the end of the month\nFour separate US federal agencies are being sued over the Trump administration's secret framework for testing frontier AI models before they get released.\nProtect Democracy argues that \"almost no details\" have been shared about how the framework works, who participates in it, how companies are selected or what legal authority underpins the reviews.\nThe nonprofit warns the secrecy is especially significant because the government could potentially influence which AI models can be released and who can access them.\nUS government agencies sued over AI framework\nThis comes after weeks of battle between Claude-maker Anthropic and the US Government following revisions to the availability of Mythos 5 and an attempt by President Trump to blacklist the company.\nProtect Democracy wants the government to disclose the framework's details, its participation terms, the identities of participants, rules governing access to frontier models and the contractual arrangements. The group also wants an injunction preventing agencies from withholding records that are not classified.\nThe government bodies in question include the Office of the National Cyber Director, the Office of Science and Technology Policy, and the Departments of both the Treasury and Commerce.\nThe White House has argued that aspects of the evaluation legitimately need to remain a secret, and national security-related tests could contain classified information.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\n\"Just because things are unclassified, that doesn’t mean we are going to broadcast them to everyone,\" a White House spokesperson said.\nProtecting Democracy isn't the only entity concerned about the framework. US Representative Greg Casar (D-Tx.) accused Trump of \"completely failing to keep us safe from the dangers of AI\" and being \"too busy cashing in to protect our jobs or national security.\"\nWith Congress also in the dark, Protect Democracy argues the details are needed for both congressional oversight and public accountability.\nThe group is now seeking a court order for disclosure of the non-classified framework and related details by September 30.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "美政府秘密AI安全框架遭起诉，被指掩盖AI操纵与腐败。",
+  "background": "特朗普政府建立了一套评估前沿AI模型的保密框架，但几乎未公开细节。非营利组织Protect Democracy起诉国家网络主任办公室、科技政策办公室、财政部和商务部等四个联邦机构，要求披露框架的参与方、测试规则和法律依据，认为其可能被用来操控模型发布与访问权限，掩盖不当行为。此前Anthropic的模型发布就曾受到政府干预，特朗普还试图将该公司列入黑名单。白宫称部分测试涉及国家安全需保密，但国会同样不知情，加剧了问责与透明度争议。",
+  "key_points": [
+   "四机构被诉：Protect Democracy起诉国家网络主任办公室、科技政策办公室、财政部和商务部，要求公开AI安全框架的非机密细节。",
+   "核心担忧：该框架能决定哪些前沿模型可发布及谁能访问，保密状态可能掩护政府干预AI市场或掩盖腐败。",
+   "冲突升级：此前Anthropic与政府就模型发布产生摩擦，特朗普曾试图将该公司列入黑名单，使此次诉讼更具火药味。",
+   "官方回应：白宫称部分测试涉及国家安全需保密，但原告坚持认为非机密信息也必须透明，已请求法院在9月30日前下令披露。"
+  ],
+  "impact": "对AI行业而言，政策不透明加大合规不确定性，企业可能因政治原因被限制发布模型而不敢创新；开发者或面临访问权限波动和评估标准不明的问题；普通用户则担忧AI系统被操纵且缺乏独立监督。此案若获胜，将推动AI治理透明化，否则可能为秘密行政干预开先例。",
+  "tools": "建议关注EleutherAI的lm-evaluation-harness等开源评估工具，了解模型测试的公开实践；可通过MuckRock等平台跟踪信息公开请求进展；同时留意Anthropic官方模型卡，观察其自述的透明度做法。"
+ },
+ "lang": "zh"
+}

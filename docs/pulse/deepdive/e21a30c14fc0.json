@@ -1,0 +1,23 @@
+{
+ "id": "e21a30c14fc0",
+ "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime",
+ "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T04:26:54.338794+00:00",
+ "content": "Four Major AI Models Suffer Rare Overlapping Downtime 29\n\t\t\t\n\t\t \t\n\t\t\t\tChatGPT, Claude, Grok, and Gemini all suffered significant service disruptions within roughly the same few-hour window Thursday morning. OpenAI and Anthropic reported elevated errors and later restored service, while Grok remained impaired and third-party monitoring indicated a likely Gemini outage despite no public acknowledgment from Google. Ars Technica reports:  Other major Internet services, including Amazon Web Services, Microsoft Azure, and Cloudflare, have not reported any major issues as of press time Thursday, though issue reports on DownDetector did spike somewhat for all three this morning.\n \nWhile the affected frontier models go down occasionally, having all four experience interruptions in the same short period is practically unheard of. Claude reports 99.4 percent uptime for its services over the last 90 days and last reported a similar three-hour \"partial outage\" on August 24. OpenAI reports 99.63 percent uptime for ChatGPT and 100 percent uptime for ChatGPT Codex in the same period. ChatGPT's so-called \"Work Mode\" reported an hours-long period of \"elevated latency\" on August 31.\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nWhile the affected frontier models go down occasionally, having all four experience interruptions in the same short period is practically unheard of. Claude reports 99.4 percent uptime for its services over the last 90 days and last reported a similar three-hour \"partial outage\" on August 24. OpenAI reports 99.63 percent uptime for ChatGPT and 100 percent uptime for ChatGPT Codex in the same period. ChatGPT's so-called \"Work Mode\" reported an hours-long period of \"elevated latency\" on August 31.",
+ "report": {
+  "summary": "四大AI模型同现罕见重叠宕机，服务陆续恢复。",
+  "background": "近期AI服务稳定性备受关注。在周四上午的几小时内，ChatGPT、Claude、Grok和Gemini四大前沿AI模型几乎同时出现显著服务中断。OpenAI和Anthropic报告错误率上升后已恢复，Grok仍受影响，Gemini疑似宕机但谷歌未公开承认。同时，AWS、Azure、Cloudflare等大型基础设施未报告重大问题，说明故障并非源于底层云服务。尽管单个模型偶发宕机，但四大模型在同一时段集体中断极为罕见，引发业界对AI服务供应链共同依赖点的猜测。",
+  "key_points": [
+   "ChatGPT、Claude、Grok、Gemini在周四早间同一数小时内均遭服务中断，属史上罕见重叠故障。",
+   "OpenAI与Anthropic先后报告错误率升高，并已恢复服务；Grok仍部分受损，谷歌未承认Gemini故障。",
+   "AWS、Azure和Cloudflare等云巨头未报告重大异常，排除常见底层云故障，指向更隐蔽的共因。",
+   "各模型90天可用性均超99.4%，说明此类大规模中断属小概率事件，但多模型同时失效影响面被放大。"
+  ],
+  "impact": "对AI行业而言，此次事件暴露了大模型服务在供应链或网络依赖上的潜在共同脆弱点，推动企业强化多供应商冗余设计。对开发者来说，提醒不能过度依赖单一模型API，需建立降级和容错机制。对普通用户，影响主要体现在特定时段无法访问AI助手，整体可用性仍高，但像工作流依赖AI的任务可能短暂中断。",
+  "tools": "建议关注各厂商官方状态页（如status.openai.com、status.anthropic.com），以及第三方监控工具DownDetector、Pingdom，用于实时追踪服务可用性；开源项目如Uptime Kuma可自建监控告警。"
+ },
+ "lang": "zh"
+}

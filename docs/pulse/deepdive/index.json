@@ -8980,5 +8980,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-03T16:22:51Z",
   "fetched_at": "2026-09-03T21:01:39.439322+00:00"
+ },
+ "e21a30c14fc0": {
+  "id": "e21a30c14fc0",
+  "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime",
+  "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-04T04:26:54.338794+00:00"
+ },
+ "4fa981661ece": {
+  "id": "4fa981661ece",
+  "url": "https://www.techradar.com/pro/federal-agencies-sued-amid-allegations-trump-admin-could-be-using-ai-safety-framework-to-hide-ai-manipulation-and-corruption",
+  "title": "Federal agencies sued amid allegations Trump admin could be using AI safety framework to hide AI manipulation and corruption",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-04T04:28:06.442541+00:00"
+ },
+ "2037c3a42cb0": {
+  "id": "2037c3a42cb0",
+  "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+  "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-04T04:28:16.373355+00:00"
+ },
+ "1afe6d32150f": {
+  "id": "1afe6d32150f",
+  "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
+  "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-04T04:28:53.696147+00:00"
  }
 }
