@@ -1,0 +1,24 @@
+{
+ "id": "925ac6758b06",
+ "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
+ "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T00:06:11.443862+00:00",
+ "content": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts (axios.com) 52\n\t\t\t\n\t\t \t\n\t\t\t\tOpenAI has released GPT-6 Astra, a new model that president Greg Brockman called a \"generational leap\" and suggested may represent the arrival of AGI. \"I think it might be about this model,\" Brockman said in a briefing with reporters. He ended the briefing by saying: \"Welcome to the AGI era.\" Axios reports:  Astra pushes AI agents closer to doing complex professional work on their own -- while also raising questions about how safely they can be deployed. OpenAI said that Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas.\n \nThe company also said this is its first model to use other models in a significant role in supervising Astra's training. GPT-6 Astra will first be available to a limited set of organizations in OpenAI's Daybreak Access program and will be available \"in the coming days\" for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.\n \nOpenAI said earlier this week that Astra would be released soon, but that its most powerful cybersecurity capabilities would remain limited to a small group of trusted testers. Astra is the first model OpenAI has designated as reaching its \"critical\" cybersecurity threshold under its preparedness framework -- meaning it can potentially find and exploit previously unknown vulnerabilities across well-protected systems without step-by-step human guidance. OpenAI previously slowed Astra's release to add safety testing after determining that its cyber capabilities could reach the critical threshold. Further reading: OpenAI's New Reasoning Technique Alarms AI Safety Experts\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nThe company also said this is its first model to use other models in a significant role in supervising Astra's training. GPT-6 Astra will first be available to a limited set of organizations in OpenAI's Daybreak Access program and will be available \"in the coming days\" for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.\nOpenAI said earlier this week that Astra would be released soon, but that its most powerful cybersecurity capabilities would remain limited to a small group of trusted testers. Astra is the first model OpenAI has designated as reaching its \"critical\" cybersecurity threshold under its preparedness framework -- meaning it can potentially find and exploit previously unknown vulnerabilities across well-protected systems without step-by-step human guidance. OpenAI previously slowed Astra's release to add safety testing after determining that its cyber capabilities could reach the critical threshold. Further reading: OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+ "report": {
+  "summary": "OpenAI发布GPT-6 Astra，宣称迈入AGI时代。",
+  "background": "OpenAI正式推出GPT-6 Astra，总裁Greg Brockman称其为“代际飞跃”，并暗示AGI可能已经到来。该模型基于OpenAI史上最大规模训练，动用Stargate基地超10万块GPU，并首次让其他模型深度参与训练监督。此前因安全担忧，OpenAI推迟了Astra的发布，以补充测试。Astra的网络安全能力达到OpenAI“关键”阈值，成为首个获此认定的模型，其最强网络攻防能力仅限可信测试者使用。这一发布标志着AI自主工作能力迈上新台阶，也加剧了安全与AGI竞赛的讨论。",
+  "key_points": [
+   "OpenAI发布GPT-6 Astra，总裁称其为‘代际飞跃’，并宣告‘欢迎来到AGI时代’，引发业界对AGI真实性的激烈争论。",
+   "Astra采用超过10万块GPU的史上最大训练规模，并首次利用其他模型监督本身的训练过程，技术路线颇具创新性。",
+   "Astra被认定为OpenAI首个达到‘关键’网络安全门槛的模型，可在无逐步人类指令下发现利用未知漏洞，相关能力仅限可信测试者。",
+   "模型将先面向Daybreak Access计划的部分组织，随后数天内向ChatGPT Plus/Pro/Business/Enterprise及API开发者开放，高级安全功能受限。",
+   "因网络能力可能触及关键阈值的担忧，OpenAI此前推迟发布并加强了安全测试，凸显前沿AI安全与能力释放之间的张力。"
+  ],
+  "impact": "对AI行业而言，GPT-6 Astra可能重新定义AGI标准，迫使竞争对手调整研发节奏，并加速围绕AI安全与监管的讨论。开发者将获得更强大的自主代理能力，但需注意其网络安全功能限制及合规要求。普通用户短期内可在ChatGPT中体验更智能的助手，但越强大的能力也意味着更高的滥用风险，公众需对‘AGI时代’宣传保持理性审视。",
+  "tools": "可关注OpenAI官方API与ChatGPT Plus/Enterprise接入，体验Astra能力；安全研究者可参考OpenAI的Preparedness Framework和Evals评估工具，了解其安全测试与关键阈值判定方法。"
+ },
+ "lang": "zh"
+}

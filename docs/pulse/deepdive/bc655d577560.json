@@ -1,0 +1,24 @@
+{
+ "id": "bc655d577560",
+ "url": "https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center",
+ "title": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T00:06:57.675774+00:00",
+ "content": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center 24\n\t\t\t\n\t\t \t\n\t\t\t\tNvidia has launched PAIR, a free open-source tool that links compatible computers on a home network so they can pool idle processing power for local AI inference and agentic workloads. \"While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also work,\" reports The Verge. From the report:  The key thing here is that PAIR uses your in-home systems when they're idle to avoid interfering with other tasks. And this disaggregated system of computers can work in parallel to chew through lots of processing requests -- which should be helpful for an agentic workflow that breaks complex tasks into smaller jobs. This should prevent large bottlenecks on a single GPU, and Nvidia says PAIR can adapt as devices join or leave the network -- including if a user does something like start playing a game on their desktop PC.\n \n[...] Nvidia says PAIR is secured by pairing all devices through a six digit code and then securing the channel via mTLS (Mutual Transport Layer Security), to create an encrypted communication line that's trusted in both directions between computers. The Nvidia PAIR beta is available today, with support for Windows, Linux, and macOS.\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n[...] Nvidia says PAIR is secured by pairing all devices through a six digit code and then securing the channel via mTLS (Mutual Transport Layer Security), to create an encrypted communication line that's trusted in both directions between computers. The Nvidia PAIR beta is available today, with support for Windows, Linux, and macOS.",
+ "report": {
+  "summary": "英伟达发布免费开源工具PAIR，聚合闲置电脑算力成个人AI数据中心。",
+  "background": "随着大模型和智能体应用普及，本地AI推理需求上升，但高性能GPU成本高、利用率低。许多家庭和办公室的电脑在大部分时间处于闲置状态，造成算力浪费。英伟达推出PAIR工具，允许用户将同一局域网内的多台兼容设备（如RTX 20系及以上GPU、Apple M4芯片）连接成分布式计算池，利用闲置算力处理AI任务。此举既能降低个人使用AI的门槛，也进一步巩固了英伟达在算力生态中的地位。",
+  "key_points": [
+   "PAIR是英伟达免费开源的PAIR（Personal AI Resource）工具，能将家庭网络中闲置的电脑互联，形成个人AI数据中心。",
+   "支持Nvidia GeForce RTX 20系及以上、RTX Pro、DGX Spark以及Apple M4或更新芯片，覆盖范围和兼容性较好。",
+   "系统只在设备空闲时调用算力，且能动态适应设备加入或离开；当用户玩游戏时，设备会自动退出，避免影响日常使用。",
+   "针对智能体（agentic）场景优化，可将复杂任务拆分成小任务并行处理，减少单卡瓶颈，提高整体推理效率。",
+   "安全方面通过六位码配对，并使用mTLS加密通信，同时支持Windows、Linux和macOS，现已开放测试。"
+  ],
+  "impact": "对整个AI行业而言，PAIR降低了分布式推理的技术门槛，推动算力利用从“买卡”向“凑卡”转变，可能影响边缘计算和私有AI部署的普及速度。对开发者来说，这意味着可以利用手头多种设备构建低成本推理集群，但也需适配不同的硬件及网络环境。对普通用户而言，PAIR让闲置电脑产生价值，但操作仍有一定技术门槛，主要适合GeForce用户或Mac M4用户尝鲜。",
+  "tools": "想实际使用可关注NVIDIA PAIR的官方GitHub仓库和beta版下载页。配合CUDA、NVIDIA容器工具或Docker可以简化环境搭建。开发agent工作流时可以尝试将其与LangChain或LlamaIndex等框架结合，把PAIR作为本地推理后端。"
+ },
+ "lang": "zh"
+}
