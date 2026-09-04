@@ -1,0 +1,23 @@
+{
+ "id": "a8a1777eb47b",
+ "url": "https://www.ithome.com/0/998/393.htm",
+ "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-04T06:00:35Z",
+ "fetched_at": "2026-09-04T11:19:52.553690+00:00",
+ "content": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。\n谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Gemini。\n迁移工作将在随后数周内分批完成，设备完成切换后，用户将无法在手机、平板电脑或配对设备上继续使用或切换回 Google Assistant。\n此次调整范围不仅限于手机和平板电脑。用户将 Gemini 设为移动设备默认助理后，与手机配对的兼容设备也会同步改用 Gemini，包括 Wear OS 智能手表以及受支持的耳机等。通过手机投屏使用 Android Auto 的车辆同样会切换至 Gemini，但内置谷歌系统的汽车在 9 月 4 日之后仍将保留 Google Assistant。此外，Gemini 还将逐步扩展至 Google TV 和 Google Home 智能音箱等设备。\n公开报道显示，Google Assistant 自 2016 年推出以来，长期承担 Android 生态中的语音交互任务，包括语音搜索、提醒事项、智能家居控制等功能。\n相比之下，Gemini 基于生成式 AI 模型，能够处理更复杂的自然语言需求，支持内容生成、多轮对话及更强的信息理解能力。\n谷歌此前已宣布 Gemini 最终将在安卓手机、平板、汽车、手表、电视等设备上全面取代 Google Assistant。若设备不满足 Gemini 最低配置要求（安卓 9 及以上系统、至少 2GB 运存），或用户所在地区尚未开放 Gemini 服务，Google Assistant 将暂时保留可用，直至整体退役计划结束。\n相关阅读：",
+ "report": {
+  "summary": "谷歌助理移动端退役，Gemini全面接棒成为默认AI助手。",
+  "background": "Google Assistant 自2016年推出，一直是安卓生态的语音交互核心，提供语音搜索、提醒和智能家居控制等功能。随着ChatGPT等生成式AI崛起，传统语音助手在复杂对话和内容生成上明显落后，谷歌也需要加速将AI能力整合到现有产品。此次从移动端开始的退役只是分阶段计划的第一步，后续Google TV、Home音箱等设备也将逐步由Gemini接替，最终形成全设备覆盖。",
+  "key_points": [
+   "9月4日起，移动设备上的Google Assistant逐步停止，符合条件的安卓设备将自动切换至Gemini，且无法回退。",
+   "切换范围覆盖手机、平板、Wear OS手表、耳机及Android Auto投屏设备，但内置谷歌系统的汽车暂时保留旧助手。",
+   "Gemini基于生成式AI，支持多轮对话、内容生成和复杂自然语言理解，能力远超传统Assistant。",
+   "不满足安卓9及2GB运存要求或所在地区暂未开放Gemini的设备，旧助理将保留至整体退役结束。"
+  ],
+  "impact": "对行业而言，这是传统语音助手向生成式AI迭代的标志性节点，其他厂商会跟进。对开发者，旧版Actions与对话流程将淘汰，需快速转向Gemini平台，但新AI能力也带来更广的应用空间。对普通用户，日常交互将更智能、更自然，手机上可体验内容生成等新功能，但低配置设备与未开放地区暂时无法使用，存在体验割裂期。",
+  "tools": "普通用户可体验Gemini App；开发者可关注Google AI Studio、Gemini API和Android Gemini SDK，以便在应用中集成新能力；原有Google Assistant Action开发者建议参考官方迁移文档，用Dialogflow CX重建会话逻辑。"
+ },
+ "lang": "zh"
+}

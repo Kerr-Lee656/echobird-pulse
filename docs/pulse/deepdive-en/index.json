@@ -1717,5 +1717,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-03T18:37:46Z",
   "fetched_at": "2026-09-03T21:07:13.367903+00:00"
+ },
+ "baf574b9dee3": {
+  "id": "baf574b9dee3",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
+  "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T10:19:06Z",
+  "fetched_at": "2026-09-04T11:22:11.095692+00:00"
+ },
+ "488000f70daa": {
+  "id": "488000f70daa",
+  "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+  "title": "Nvidia's AVO harness boosts Opus 5 to 100% on ARC-AGI 3",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T09:32:09Z",
+  "fetched_at": "2026-09-04T11:22:26.552664+00:00"
+ },
+ "e4b3a764fa6f": {
+  "id": "e4b3a764fa6f",
+  "url": "https://pressgazette.co.uk/platforms/amazon-and-meta-ai-bots-account-for-most-website-visits/",
+  "title": "Amazon and Meta AI bots account for most website visits",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T08:38:13Z",
+  "fetched_at": "2026-09-04T11:22:42.699264+00:00"
+ },
+ "fffbcba03b0b": {
+  "id": "fffbcba03b0b",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "title": "NeoMME: Multimodal encoders trained from scratch with a single Transformer",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T06:01:36Z",
+  "fetched_at": "2026-09-04T11:23:18.691858+00:00"
+ },
+ "2cd80569ac32": {
+  "id": "2cd80569ac32",
+  "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data",
+  "title": "Cerebras and Compute Nordic Finland Announces AI Data Centre in Mikkeli, Finland",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T05:47:53Z",
+  "fetched_at": "2026-09-04T11:23:28.468037+00:00"
  }
 }

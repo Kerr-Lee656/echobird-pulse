@@ -1,0 +1,23 @@
+{
+ "id": "96f323c76a43",
+ "url": "https://www.aibase.com/news/30838",
+ "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-04T06:43:50.683Z",
+ "fetched_at": "2026-09-04T11:17:56.322276+00:00",
+ "content": "According to Bloomberg, data center developer Crusoe has completed a new round of $3 billion funding, valuing the company at $30 billion. The company's client list includes Meta, Microsoft, and OpenAI.\nThis round of funding was led jointly by Atreides Management and Valor Equity Partners, with Mubadala Capital, a subsidiary of Abu Dhabi's sovereign wealth fund Mubadala, participating in the investment.\nValuation Tripled in 10 Months\nThis new funding comes just 10 months after Crusoe's previous round of financing — in October of last year, the company raised $1.38 billion at a valuation of $10 billion. The valuation has tripled in less than a year.\nCrusoe was founded in 2018 as a cryptocurrency mining operation that used flared natural gas to generate electricity, and later transitioned into a large-scale AI infrastructure and cloud service provider, known for developing large-scale data center campuses for clients such as Oracle and OpenAI.\nRecently Secured a $13 Billion Cloud Contract with Jane Street, Possibly Preparing for an IPO\nAt the same time as the funding announcement, Bloomberg reported that Crusoe recently signed a five-year cloud contract worth approximately $13 billion with quantitative trading firm Jane Street, providing GPU and AI infrastructure.\nAdditionally, Axios reported last month that Crusoe has met with investment banks such as Goldman Sachs and Morgan Stanley to discuss potential IPO plans.",
+ "report": {
+  "summary": "AI数据中心开发商Crusoe融资30亿美元，估值300亿，再签130亿美元大单。",
+  "background": "Crusoe成立于2018年，最初利用天然气伴生气发电进行加密货币挖矿，后转型为AI数据中心与云服务商，为Oracle、OpenAI等建设大型数据中心。去年10月公司融资13.8亿美元、估值100亿美元；时隔不到一年，新融资30亿美元、估值升至300亿美元，客户包括Meta、微软和OpenAI。近期又与量化巨头Jane Street签下130亿美元云合同，并与投行磋商IPO，折射出AI算力需求驱动下的基建独角兽高速扩张。",
+  "key_points": [
+   "估值10个月翻三倍：去年10月Crusoe融资时估值100亿美元，本轮后达300亿美元，凸显AI基础设施领域的资本热度。",
+   "豪华客户阵容：Meta、微软、OpenAI均为客户，最近又拿到量化交易公司Jane Street约130亿美元的五年云合同。",
+   "起源与转型：公司2018年靠火炬气发电挖矿起家，如今转型为AI数据中心开发商，专攻大规模GPU算力园区。",
+   "IPO信号：外媒报道Crusoe已与高盛、摩根士丹利会谈，探讨上市可能，后续或成资本市场关注标的。"
+  ],
+  "impact": "对AI行业，数据中心成为算力竞赛的核心资产，Crusoe等高估值融资将加快算力供给，但能耗和电力配套仍是最紧约束。对开发者，算力供应商增多有望降低GPU云价格，但也可能导致依赖特定基础设施提供商，需关注可移植性。对普通用户，AI应用背后的算力基建投资将支撑更复杂模型与产品，长期可能改善服务体验，但短期内成本也可能转嫁到订阅费用上。",
+  "tools": "如想跟进AI数据中心与算力市场，可关注Bloomberg、The Information等报道；开发者可试用AWS、Azure、Lambda Labs或Crusoe生态的GPU云实例，并关注Kubernetes、Ray等集群调度项目。"
+ },
+ "lang": "zh"
+}

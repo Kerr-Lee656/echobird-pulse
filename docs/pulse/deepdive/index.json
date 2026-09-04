@@ -9016,5 +9016,95 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-04T04:28:53.696147+00:00"
+ },
+ "bf620ff8ba1f": {
+  "id": "bf620ff8ba1f",
+  "url": "https://aiera.com.cn/2026/09/04/other/admin/111986/meta%e5%8f%91%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b%e6%89%93%e5%93%8d%e4%bb%b7%e6%a0%bc%e6%88%98%ef%bc%8c%e5%b0%8f%e6%89%8e%e5%af%b9%e8%b0%b7%e6%ad%8c%e8%b4%b4%e8%84%b8%e5%bc%80%e5%a4%a7%ef%bc%81",
+  "title": "Meta发最强模型打响价格战，小扎对谷歌贴脸开大！北大校友立大功",
+  "source": "新智元",
+  "site_name": "新智元",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:15:00.393370+00:00"
+ },
+ "7d1c5454340e": {
+  "id": "7d1c5454340e",
+  "url": "https://www.aibase.com/zh/news/30835",
+  "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-04T11:17:08.022383+00:00"
+ },
+ "9bda7a2caf75": {
+  "id": "9bda7a2caf75",
+  "url": "https://www.aibase.com/zh/news/30814",
+  "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-04T11:17:30.824973+00:00"
+ },
+ "96f323c76a43": {
+  "id": "96f323c76a43",
+  "url": "https://www.aibase.com/news/30838",
+  "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:17:56.322276+00:00"
+ },
+ "3b1843dcfa98": {
+  "id": "3b1843dcfa98",
+  "url": "https://www.aibase.com/news/30832",
+  "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:18:43.186307+00:00"
+ },
+ "cd1a8099ac54": {
+  "id": "cd1a8099ac54",
+  "url": "https://www.aibase.com/news/30824",
+  "title": "OpenAI发布GPT-6Astra:行业迈入AGI时代，性能多维跃升并重塑安全边界",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:18:51.534629+00:00"
+ },
+ "bac2569cff17": {
+  "id": "bac2569cff17",
+  "url": "https://www.aibase.com/news/30823",
+  "title": "OpenAI砸下10亿美元重金：为全球关键基础设施筑起AI网络安全防线",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:19:09.125274+00:00"
+ },
+ "3570ec1e3d06": {
+  "id": "3570ec1e3d06",
+  "url": "https://www.aibase.com/news/30821",
+  "title": "沙特国家级AI平台正式落地：借力中国MiniMax开源模型，打造阿拉伯语智能新生态",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-04T06:43:50.683Z",
+  "fetched_at": "2026-09-04T11:19:32.585162+00:00"
+ },
+ "a8a1777eb47b": {
+  "id": "a8a1777eb47b",
+  "url": "https://www.ithome.com/0/998/393.htm",
+  "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-04T06:00:35Z",
+  "fetched_at": "2026-09-04T11:19:52.553690+00:00"
+ },
+ "c4506bfb47d6": {
+  "id": "c4506bfb47d6",
+  "url": "https://www.huxiu.com/article/4888534.html?f=rss",
+  "title": "大厂Agent集体杀入金融腹地",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-04T05:08:44Z",
+  "fetched_at": "2026-09-04T11:20:13.210571+00:00"
  }
 }
