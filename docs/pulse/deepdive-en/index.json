@@ -1762,5 +1762,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-04T05:47:53Z",
   "fetched_at": "2026-09-04T11:23:28.468037+00:00"
+ },
+ "d83893992ecc": {
+  "id": "d83893992ecc",
+  "url": "https://github.com/google-deepmind/weathernext",
+  "title": "google-deepmind/weathernext",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-04T16:24:04.145565+00:00"
+ },
+ "98255810d4c4": {
+  "id": "98255810d4c4",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "title": "NVIDIA/SkillSpector — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-04T16:24:18.867055+00:00"
+ },
+ "ad904a51b176": {
+  "id": "ad904a51b176",
+  "url": "https://github.com/google/skills",
+  "title": "google/skills — Agent Skills for Google products and technologies",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-04T16:24:34.294225+00:00"
+ },
+ "a3f2914aef61": {
+  "id": "a3f2914aef61",
+  "url": "https://github.com/microsoft/power-platform-skills",
+  "title": "microsoft/power-platform-skills — A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-04T16:25:10.782918+00:00"
+ },
+ "0acc1a722096": {
+  "id": "0acc1a722096",
+  "url": "https://www.emergingtrajectories.com/lh/frontier-ai-in-china/",
+  "title": "Understanding China's Frontier AI Landscape",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T16:04:18Z",
+  "fetched_at": "2026-09-04T16:25:56.222163+00:00"
+ },
+ "6fe8f3c9710a": {
+  "id": "6fe8f3c9710a",
+  "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+  "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-04T16:04:08.000Z",
+  "fetched_at": "2026-09-04T16:26:09.866454+00:00"
+ },
+ "865d547adb89": {
+  "id": "865d547adb89",
+  "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first",
+  "title": "US urged to consider military strikes to stop China achieving AGI first",
+  "source": "Hacker News (5pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T15:07:50Z",
+  "fetched_at": "2026-09-04T16:27:04.786718+00:00"
+ },
+ "990cefb4d55a": {
+  "id": "990cefb4d55a",
+  "url": "https://github.com/ifm-ai/uno",
+  "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T14:57:50Z",
+  "fetched_at": "2026-09-04T16:27:40.405393+00:00"
  }
 }

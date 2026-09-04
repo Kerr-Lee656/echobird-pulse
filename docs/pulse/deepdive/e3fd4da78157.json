@@ -1,0 +1,24 @@
+{
+ "id": "e3fd4da78157",
+ "url": "https://tech.slashdot.org/story/26/09/04/0427208/tesla-launches-steering-wheel-free-cybercab-robotaxi-in-austin",
+ "title": "Tesla Launches Steering-Wheel-Free Cybercab Robotaxi In Austin",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T16:21:17.229898+00:00",
+ "content": "Tesla Launches Steering-Wheel-Free Cybercab Robotaxi In Austin (businessinsider.com) 67\n\t\t\t\n\t\t \t\n\t\t\t\tTesla has begun offering public rides in Austin in its purpose-built Cybercab, a two-seat robotaxi with no steering wheel or pedals. \"You can go outside, take rides,\" said Ashok Elluswamy, Tesla's VP of AI. \"Anyone can take rides. It's open to the entire public.\" Previously, the fleet consisted only of Model Ys.\n \nTexas records show Tesla had registered 45 Cybercabs as of Thursday, though the company has not disclosed how many are currently carrying passengers. Tesla also says it eventually wants consumers to be able to buy the vehicles for under $30,000. Business Insider reports: Videos posted online by Tesla influencers and content creators who were invited to the Austin event showed that the Cybercab can be hailed through the Robotaxi app. In a video posted by David Moss, an autonomous-vehicle content creator, Robotaxi users could open the car's butterfly doors through the app. After the riders enter the car, the doors closed automatically, Moss said in the video. The launch comes nearly two years after Tesla first unveiled the Cybercab at its \"We, Robot\" event in Burbank, California.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nTexas records show Tesla had registered 45 Cybercabs as of Thursday, though the company has not disclosed how many are currently carrying passengers. Tesla also says it eventually wants consumers to be able to buy the vehicles for under $30,000. Business Insider reports: Videos posted online by Tesla influencers and content creators who were invited to the Austin event showed that the Cybercab can be hailed through the Robotaxi app. In a video posted by David Moss, an autonomous-vehicle content creator, Robotaxi users could open the car's butterfly doors through the app. After the riders enter the car, the doors closed automatically, Moss said in the video. The launch comes nearly two years after Tesla first unveiled the Cybercab at its \"We, Robot\" event in Burbank, California.",
+ "report": {
+  "summary": "特斯拉在奥斯汀推出无方向盘Cybercab，面向公众开放Robotaxi服务。",
+  "background": "特斯拉于2024年在“We, Robot”活动上首次发布Cybercab概念，两年来其Robotaxi服务一直依赖改装版Model Y在奥斯汀运营。此次投入的Cybercab是专为无人驾驶设计的量产车型，完全取消方向盘和踏板，标志着特斯拉从“改装车+监督”到“原生化无人车”的关键转变。奥斯汀作为特斯拉工程与AI总部所在地，承担了FSD算法迭代和车队运营的任务。与此同时，Waymo已在多个城市实现商业运营，特斯拉需要加速证明其纯视觉技术路线的商业化能力。",
+  "key_points": [
+   "Cybercab是专为自动驾驶设计的双座车，取消方向盘和踏板，采用蝴蝶门，乘客通过App一键叫车并可远程控制开门。",
+   "特斯拉已在奥斯汀向所有公众开放Robotaxi服务，不再局限于内部或受邀者，任何人均可通过App体验。",
+   "德州记录显示特斯拉注册45辆Cybercab，但实际投入运营数量未公布，目前服务范围与车辆数量都受限。",
+   "特斯拉计划未来以低于3万美元的价格向消费者销售Cybercab，这意味着个人车主也可拥有完全无人驾驶汽车。",
+   "该服务距2024年Cybercab首次亮相已近两年，是特斯拉从概念到商业化落地的标志性进展。"
+  ],
+  "impact": "对AI行业，Cybercab落地进一步验证了纯视觉自动驾驶替代激光雷达方案的可能性，给行业提供了低成本量产样本；对开发者而言，FSD的数据收集、安全验证和监管合规成为未来工作重点，开源仿真与决策模型研究将更活跃；对普通用户，特斯拉带来新的无人出行选择，但初期车辆少、覆盖区域有限，且定价与服务质量还需观察。整体标志着自动驾驶从测试走向日常公共出行。",
+  "tools": "想跟进可关注Tesla Robotaxi官方应用；开发者可学习CARLA或百度Apollo开源仿真平台，用于构建自动驾驶路测场景；也可关注Tesla AI官方账号与FSD说明文档，了解端到端技术进展。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "ad904a51b176",
+ "url": "https://github.com/google/skills",
+ "title": "google/skills — Agent Skills for Google products and technologies",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-09-04T16:24:34.294225+00:00",
+ "content": "This repository contains Agent Skills for Google products and technologies, including Google Cloud.\nNote\nThis repository is under active development.\nnpx skills add google/skills\nFrom the npx install command, you can select the specific skills from this\nrepo to install.\nThis repo also bundles Google product plugins (Skills + MCP servers) for agent harnesses.\nIf you need help or encounter issues with these skills, search for existing issues or open a new one in the GitHub Issue Tracker.\nWe welcome contributions to improve our skills. You can help by:\n- Reporting bugs or inaccuracies in the skill Markdown files.\n- Suggesting new skills to add to this repository (for example, Google technologies or recipes) by filing a feature request.\nYou are free to copy, modify, and distribute these skills under the terms of the\nApache 2.0 license. See the LICENSE file for details.",
+ "report": {
+  "summary": "Google released an open-source repository of Agent Skills for Google products and Cloud, installable via npx and available under Apache 2.0.",
+  "background": "Agent Skills are packaged, natural-language instructions and tools that help AI agents perform tasks across external services. As MCP (Model Context Protocol) becomes a common connector layer, companies are publishing reusable skill collections rather than forcing developers to build integrations from scratch. Google's new repository centralizes Agent Skills for Google products and Google Cloud, and it also bundles product plugins consisting of Skills plus MCP servers for agent harnesses. This enables agents built in different frameworks to call Google services using standardized, shareable definitions. The project is under active development, and Google explicitly invites community contributions—both bug fixes to skill documentation and feature requests for new Google-related skills or recipes. It is released under the permissive Apache 2.0 license, allowing developers to copy, modify, and distribute the skills in their own products. The repo signals Google's effort to participate in the emerging open ecosystem of agent capabilities rather than locking them inside a single proprietary platform.",
+  "key_points": [
+   "Installation is simple: developers run `npx skills add google/skills` and then interactively choose which specific skills from the repository to install, making it easy to pull only the Google integrations needed for a project.",
+   "The repository bundles Google product plugins that pair Skills with MCP servers, giving agent harnesses ready-made connectivity to Google products and Google Cloud without requiring custom glue code or manual API wrappers.",
+   "The project is explicitly under active development, meaning APIs, skill formats, and metadata may change frequently; developers should expect updates and check the GitHub issue tracker for known problems before deploying critical workflows.",
+   "Google encourages community involvement: users can report bugs or inaccuracies in the skill Markdown files, suggest new skills for Google technologies or recipes, and file feature requests, helping the repository evolve beyond what Google alone would maintain.",
+   "All skills are available under the Apache 2.0 license, so developers can freely copy, modify, and redistribute them—including in commercial products—with only attribution and license preservation required.",
+   ""
+  ],
+  "impact": "For the AI industry, this is another sign that agent capabilities are becoming modular, shareable assets rather than proprietary lock-in. Google's use of MCP servers alongside Skills reinforces MCP as an interoperability standard, while the Apache 2.0 license lowers legal friction for adoption. Developers gain a fast path to connect assistants with Gmail, Calendar, Drive, and Google Cloud, but they should also prepare for rough edges during early development. Regular users may ultimately see more capable, Google-integrated assistants in apps and customer support tools, potentially raising expectations for how well agents handle real-world productivity tasks. The bigger implication: skill repositories may become the new app stores, and Google is positioning itself early as a major supplier of building blocks.",
+  "tools": "Watch the official google/skills GitHub repository for skill updates and new additions. Developers who want to follow up should explore the `skills` CLI tool used by the `npx skills add` command, and study the bundled MCP servers referenced in the repo. Google's Agentspace and the broader MCP ecosystem (including modelcontextprotocol/servers) are useful adjacent resources. Since skills are plain Markdown files, reading them directly is the best way to understand each integration."
+ },
+ "lang": "en"
+}

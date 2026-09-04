@@ -1,0 +1,24 @@
+{
+ "id": "f24bdcbc61ac",
+ "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+ "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-04T16:21:24.129445+00:00",
+ "content": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\nMicrosoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers\nThe first Project Zenith devices ship with AMD’s Ryzen AI Halo chips.\n“Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,” explains Logan Iyer, CVP of Windows platform and developer at Microsoft. “On these devices, developers can run 30B+ parameter models locally and unmetered — accelerating experimentation while helping reduce reliance on metered cloud tokens.”\nAMD announced the first Project Zenith device on stage at IFA earlier today, a miniature PC powered by Ryzen AI Halo chips. There will be more Project Zenith devices “in the coming months,” including ones with different silicon.\nThese Project Zenith devices will include preinstalled developer tools like Visual Studio Code, GitHub Copilot, PowerToys, WinAppCLI, and Windows Dev Skills. The File Explorer has also been configured to show file extensions, hidden files, and the full path in the title bar. Microsoft has also disabled recently used files and folders and sync provider tips, as well as enabling long-path support. Start menu tips and account notifications are also turned off, and the PowerToys Command Palette is enabled by default.\nSome of these changes feel like ones that should just be enabled by default on every Windows 11 install, particularly anything that removes the annoying distractions in the operating system. Microsoft has been on a mission this year to greatly improve Windows 11, and Project Zenith is the developer-side effort.\n“Project Zenith is the result of listening to developers about what they need from Windows today, and where they want the platform to go next,” says Iyer. “As AI continues to transform software development, we are committed to evolving Windows alongside the community that builds on it.”",
+ "report": {
+  "summary": "微软推出开发者专用Windows体验Project Zenith，主打无干扰和本地大模型运行。",
+  "background": "微软在年初Build大会上预告了面向开发者的Windows优化版本，如今正式命名为Project Zenith。首款设备由AMD在IFA上发布，搭载Ryzen AI Halo芯片，配备64GB以上统一内存。该版本预配置了开发工具和去干扰设置，目标是在本地运行300亿参数大模型，减少对云端API的依赖，配合微软今年改善Windows 11的整体战略。",
+  "key_points": [
+   "Project Zenith是专为开发者定制的Windows版本，预装VS Code、GitHub Copilot、PowerToys等工具，开箱即用。",
+   "设备至少64GB统一内存，可本地运行300亿参数大模型，降低开发者的云端token成本。",
+   "系统默认开启显示文件扩展名、隐藏文件、完整路径，关闭最近文件、账户通知等干扰项，专注编码。",
+   "首款设备由AMD推出，采用Ryzen AI Halo芯片，后续还有搭载其他芯片的机型上市。",
+   "微软称该方案源于倾听开发者需求，旨在让Windows随AI开发趋势演进。"
+  ],
+  "impact": "对开发者而言，Project Zenith降低了本地AI开发门槛，避免云端费用和隐私顾虑，但硬件成本可能较高。对AI行业，它推动了端侧大模型设备普及，可能改变开发工具的分发方式。普通用户也能间接受益——微软把去干扰设置做得更好，未来可能推广到所有Windows版本，减少系统弹窗和广告。",
+  "tools": "关注Windows Dev Skills、PowerToys Command Palette、WinAppCLI；若要自行配置类似环境，可参考微软的“开发者模式”和PowerToys设置，或用GitHub Copilot、VS Code体验预装工具链。"
+ },
+ "lang": "zh"
+}
