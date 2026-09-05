@@ -2041,5 +2041,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-05T17:16:41Z",
   "fetched_at": "2026-09-05T20:26:55.023507+00:00"
+ },
+ "6dab8f5db905": {
+  "id": "6dab8f5db905",
+  "url": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/",
+  "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T23:14:52Z",
+  "fetched_at": "2026-09-05T23:55:24.911148+00:00"
+ },
+ "a13c9f2d4462": {
+  "id": "a13c9f2d4462",
+  "url": "https://www.thecooldown.com/green-tech/global-south-data-workers-ai-labor-organization/",
+  "title": "Workforce behind AI spans 160M workers, many in the Global South",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T23:02:55Z",
+  "fetched_at": "2026-09-05T23:55:46.226459+00:00"
+ },
+ "2ebcc99a5b4a": {
+  "id": "2ebcc99a5b4a",
+  "url": "https://nightrun.io/",
+  "title": "An LLM runtime that boots from USB",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T21:59:24Z",
+  "fetched_at": "2026-09-05T23:56:46.304289+00:00"
+ },
+ "496e1a600c32": {
+  "id": "496e1a600c32",
+  "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+  "title": "America's two largest school districts impose AI moratoriums",
+  "source": "Hacker News (36pts, 27c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T21:43:22Z",
+  "fetched_at": "2026-09-05T23:57:05.623252+00:00"
  }
 }
