@@ -1987,5 +1987,59 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-09-05T18:05:27.000Z",
   "fetched_at": "2026-09-05T18:17:32.361254+00:00"
+ },
+ "ec2b8bd43eef": {
+  "id": "ec2b8bd43eef",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "title": "NousResearch/hermes-agent — The agent that grows with you",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:24:21.087768+00:00"
+ },
+ "8c3dc2a0187c": {
+  "id": "8c3dc2a0187c",
+  "url": "https://github.com/openai/codex",
+  "title": "openai/codex — Lightweight coding agent that runs in your terminal",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:24:33.930850+00:00"
+ },
+ "5550b1522e49": {
+  "id": "5550b1522e49",
+  "url": "https://github.com/livekit/livekit",
+  "title": "livekit/livekit — End-to-end realtime stack for connecting humans and AI",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:25:09.244451+00:00"
+ },
+ "9834091fe75d": {
+  "id": "9834091fe75d",
+  "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+  "title": "Flathub bans AI-coded apps – with some exceptions",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T17:58:41Z",
+  "fetched_at": "2026-09-05T20:26:17.253432+00:00"
+ },
+ "ef3836001fed": {
+  "id": "ef3836001fed",
+  "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+  "title": "How Much of the Internet Is Written with AI?",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T17:30:22Z",
+  "fetched_at": "2026-09-05T20:26:36.552274+00:00"
+ },
+ "6e30ab0f615e": {
+  "id": "6e30ab0f615e",
+  "url": "https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/",
+  "title": "OpenAI boosts Astra's eval metrics, and continues to change others",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T17:16:41Z",
+  "fetched_at": "2026-09-05T20:26:55.023507+00:00"
  }
 }

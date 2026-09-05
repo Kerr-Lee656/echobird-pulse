@@ -9106,5 +9106,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-04T05:08:44Z",
   "fetched_at": "2026-09-04T11:20:13.210571+00:00"
+ },
+ "cff4f6003a1c": {
+  "id": "cff4f6003a1c",
+  "url": "https://mashable.com/tech/rogue-ai-agents-commandeered-german-website-and-used-it-as-a-messaging",
+  "title": "Rogue AI agents commandeered German website and used it as a messaging board",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:21:22.912982+00:00"
+ },
+ "ce80e243d8bb": {
+  "id": "ce80e243d8bb",
+  "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+  "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:22:38.689265+00:00"
+ },
+ "0d4f0b3cfbdf": {
+  "id": "0d4f0b3cfbdf",
+  "url": "https://www.qbitai.com/2026/09/484683.html",
+  "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:22:48.448147+00:00"
+ },
+ "28598e0477dd": {
+  "id": "28598e0477dd",
+  "url": "https://juejin.cn/post/7681266980104421382",
+  "title": "三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-09-05T17:26:06.285Z",
+  "fetched_at": "2026-09-05T20:22:57.962403+00:00"
+ },
+ "f8c63f3a8773": {
+  "id": "f8c63f3a8773",
+  "url": "https://www.ithome.com/0/998/836.htm",
+  "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-05T15:14:29Z",
+  "fetched_at": "2026-09-05T20:23:05.577679+00:00"
+ },
+ "9ef32d79fb39": {
+  "id": "9ef32d79fb39",
+  "url": "https://www.ithome.com/0/998/833.htm",
+  "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-05T14:46:46Z",
+  "fetched_at": "2026-09-05T20:23:22.922400+00:00"
+ },
+ "ad262e08b53f": {
+  "id": "ad262e08b53f",
+  "url": "https://www.gelonghui.com/live/2652932",
+  "title": "DeepSeek 被曝将采购 16 万颗华为昇腾 950DT 芯片",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-05T20:23:36.081863+00:00"
  }
 }
