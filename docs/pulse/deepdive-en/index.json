@@ -1933,5 +1933,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-05T00:42:24.000Z",
   "fetched_at": "2026-09-05T04:26:48.765408+00:00"
+ },
+ "faa318861b48": {
+  "id": "faa318861b48",
+  "url": "https://github.com/github/github-mcp-server",
+  "title": "github/github-mcp-server — GitHub's official MCP Server",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-05T15:14:50.334662+00:00"
+ },
+ "50c25932e332": {
+  "id": "50c25932e332",
+  "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+  "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T13:30:38Z",
+  "fetched_at": "2026-09-05T15:15:32.060572+00:00"
+ },
+ "bdb8449f1321": {
+  "id": "bdb8449f1321",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+  "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T13:09:53Z",
+  "fetched_at": "2026-09-05T15:15:47.954493+00:00"
+ },
+ "7be4ff05919e": {
+  "id": "7be4ff05919e",
+  "url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+  "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+  "source": "IT之家（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-05T07:53:01.000Z",
+  "fetched_at": "2026-09-05T15:17:45.444401+00:00"
+ },
+ "2744896f62b9": {
+  "id": "2744896f62b9",
+  "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+  "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+  "source": "The Decoder：AI News（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-05T07:41:03.000Z",
+  "fetched_at": "2026-09-05T15:18:03.520921+00:00"
  }
 }
