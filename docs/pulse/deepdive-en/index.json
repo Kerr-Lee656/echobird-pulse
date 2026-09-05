@@ -1870,5 +1870,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-04T20:20:33Z",
   "fetched_at": "2026-09-04T20:52:30.229422+00:00"
+ },
+ "c7bac135042a": {
+  "id": "c7bac135042a",
+  "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+  "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-04T23:15:11.000Z",
+  "fetched_at": "2026-09-05T00:06:29.763841+00:00"
+ },
+ "c53b9c99c82f": {
+  "id": "c53b9c99c82f",
+  "url": "https://arxiv.org/abs/2609.01449",
+  "title": "Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T23:06:12Z",
+  "fetched_at": "2026-09-05T00:06:43.377444+00:00"
+ },
+ "f884878c34f8": {
+  "id": "f884878c34f8",
+  "url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+  "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+  "source": "IT之家（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-04T22:52:38.000Z",
+  "fetched_at": "2026-09-05T00:07:06.531666+00:00"
+ },
+ "6ab8f88b9ec4": {
+  "id": "6ab8f88b9ec4",
+  "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+  "title": "Abliteration.ai is making a business out of removing AI guardrails",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T22:32:52Z",
+  "fetched_at": "2026-09-05T00:07:19.715473+00:00"
+ },
+ "ac4ec989a2a7": {
+  "id": "ac4ec989a2a7",
+  "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+  "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-04T21:12:11.000Z",
+  "fetched_at": "2026-09-05T00:08:20.529035+00:00"
+ },
+ "c8d8f2a1e93d": {
+  "id": "c8d8f2a1e93d",
+  "url": "https://www.dallasfed.org/research/economics/2026/0901",
+  "title": "Job postings show early signs of AI automation impact",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-04T19:12:15Z",
+  "fetched_at": "2026-09-05T00:09:22.708680+00:00"
  }
 }
