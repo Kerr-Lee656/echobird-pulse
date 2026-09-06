@@ -1,0 +1,23 @@
+{
+ "id": "632e747639f1",
+ "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+ "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-06T23:52:31.323376+00:00",
+ "content": "Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do.\nNow a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry.\nIn fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. (Uber has already partnered with a long list of autonomous vehicle companies.) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch.\nWhile sources emphasized that robotaxis don’t represent the entirety of Atoms’ plans, this direction seems consistent with Kalanick’s description of the round as “unfinished business.”\nIt also fits with Atoms’ acquisition of Pronto, an autonomous mining startup led by Uber’s former self-driving chief Anthony Levandowski. (Levandowski was convicted of stealing trade secrets and sentenced to 18 months in prison, but was then pardoned by President Donald Trump.)",
+ "report": {
+  "summary": "Kalanick旗下Atoms据报将涉足Robotaxi业务。",
+  "background": "Kalanick是Uber联合创始人，2017年被迫离职。今年夏天其新创业公司Atoms完成由Andreessen Horowitz领投的17亿美元融资，但他未透露具体方向。据FT报道，Atoms正计划大规模招聘和收购，并已与Uber接触，讨论将其Robotaxi技术用于Uber平台。此前Atoms还收购了前Uber自动驾驶负责人Levandowski创办的Pronto，方向逐渐清晰。Kalanick称这笔融资是“未竟事业”，暗示想回到出行领域。",
+  "key_points": [
+   "Atoms完成17亿美元融资，由Andreessen Horowitz领投，计划用于大规模招聘和收购，目标是成为自动驾驶行业的主要玩家。",
+   "据金融时报报道，Atoms已与Uber讨论如何把其Robotaxi技术用于网约车平台；Uber此前已向Atoms投资1亿美元。",
+   "Atoms早前收购了Pronto，一家自动驾驶采矿公司，由其创始人、前Uber自动驾驶负责人Levandowski领导；Levandowski曾因窃密获刑后被赦免。",
+   "消息源强调Robotaxi只是规划一部分，但结合Kalanick所说的“未竟事业”，他的目标是重返出行领域的核心。"
+  ],
+  "impact": "对AI/自动驾驶行业：Kalanick自带融资号召力和行业人脉，可能加剧Robotaxi赛道竞争，推动技术并购和人才争夺，尤其是与Uber的深度绑定可能改变现有Robotaxi运营格局。对开发者/从业者：Atoms大规模招聘将创造自动驾驶、AI算法和工程岗位；与Uber合作带来真实落地场景，有利于技术迭代。对普通用户：未来可能在Uber上叫到AtomsRobotaxi，增加出行选择；若竞争提速，Robotaxi商业化落地和价格战可能更快到来。",
+  "tools": "可关注A16Z投资动态、Uber自动驾驶合作页面；技术侧可研究开源自动驾驶框架Apollo和Autoware，以及nuScenes等数据集，了解Robotaxi感知与规划技术。"
+ },
+ "lang": "zh"
+}
