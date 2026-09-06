@@ -1,0 +1,24 @@
+{
+ "id": "56de870bcd68",
+ "url": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
+ "title": "EU tech chief says AI guardrails are coming to the US anyway",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-06T20:26:39.736941+00:00",
+ "content": "Henna Virkkunen told Axios at the G20 innovation ministerial that the US and the EU keep arriving at similar AI protections, Europe by regulating in advance and America through courts and state law. She made the argument at the summit where Washington launched the Carolina Principles urging governments not to create new AI rules or regulators.\nEurope’s tech chief says the United States will end up with AI guardrails whatever this administration says about them. Henna Virkkunen told Axios in Chapel Hill that the two systems keep reaching similar places by different routes.\n“The differences are not so big when we look at it in practice,” she said. “In Europe, we have regulation in advance, and in the USA they are often coming with the court cases.”\nShe made the argument at a summit where her host was making the opposite one. Michael Kratsios launched the Carolina Principles on 1 September, urging G20 governments not to build new AI rules or regulators, Al Jazeera reported.\nPolicymakers “should not treat every emerging technology as a first-of-its-kind policy problem“, Kratsios said. Elon Musk and Mark Zuckerberg appeared at the same ministerial.\nVirkkunen’s answer is that America already has rules, just not federal ones. She counted hundreds of them at state level, before anyone reaches a courtroom.\nThe claim is testable, and the past week tests it.\nOn 31 August the Commission designated ChatGPT under the DSA as a very large online search engine, with Reddit and Roblox as platforms. All three have four months to comply.\nThe next day it sent its first requests for information to more than 30 AI providers under the AI Act. Commission spokesman Thomas Regnier said the questionnaires concerned mostly safety and copyright.\nIn America the comparable rules arrived through a courtroom. Meta settled with 51 attorneys general in August, agreeing to block teenagers overnight and cap them at two hours a day across Instagram and Facebook.\nVirkkunen reads that as convergence, and it is. It also carries a price of $12.19B over ten years, for defaults European law expects platforms to work towards on their own.\nThe asymmetry runs the other way too. The unit inside the AI Office that evaluates frontier models is a team of 36.\nThirty-six people sending questionnaires to more than 30 companies, against 51 attorneys general and a settlement worth billions. Both produce rules, and they do not produce them at the same speed.\nMovement is coming from the European side as well. Brussels agreed in May to thin out the AI Act, pushing high-risk obligations to December 2027, which may be part of why its tech chief can say the gap is small.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "欧盟科技主管称美国终将通过法院和州法建立AI护栏，与欧盟殊途同归。",
+  "background": "欧盟早已通过《人工智能法案》对AI进行事前监管，而美国联邦层面却反对新规则，甚至推出《卡罗来纳原则》劝阻各国立法。但美国各州已制定数百项AI相关法规，法院判例也不断形成事实约束，如Meta与51位州检察长和解。欧盟官员认为尽管路径不同，美欧最终会走向类似的AI保护标准。同时，欧盟自身也将高风险AI义务推迟至2027年底，以缓解执行压力。",
+  "key_points": [
+   "欧盟认为美欧AI监管实际差异不大，只是路径不同：欧盟预先立法，美国依靠法院判例和州法。",
+   "美国虽无联邦AI法，但已有数百项州级规则，法院案件正逐步形成事实上的行业标准。",
+   "欧盟已依据DSA将ChatGPT指定为超大型平台，并向30多家AI提供商发出AI法案问询，时限四个月。",
+   "美国通过法院和解实现类似监管目标，如Meta承诺限制未成年人使用时间，但成本高达120亿美元。",
+   "欧盟AI办公室前沿模型团队仅36人，相比美国51位总检察长，执法速度和资源存在明显不对称。"
+  ],
+  "impact": "对AI行业而言，美欧监管逐渐收敛意味着跨境合规可复用，但碎片化的州法与判例增加不确定性和诉讼风险。开发者需同时关注欧盟AI法案与美国州级法规，尤其是在未成年人保护、版权等方向。普通用户则可能看到平台主动强化安全措施，但保护水平因司法管辖区而异。欧盟官员表态也说明全球AI治理正从“是否监管”转向“如何趋同”。",
+  "tools": "可关注 AIact.io 了解欧盟AI法合规要求；使用 NCSL AI Legislation tracker 追踪美国各州AI法案；参考 AI Incident Database 观察典型判例与事故趋势，帮助你提前适应不断演变的监管环境。"
+ },
+ "lang": "zh"
+}

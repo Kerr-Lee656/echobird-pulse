@@ -2212,5 +2212,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-06T08:00:00.000Z",
   "fetched_at": "2026-09-06T18:22:04.434194+00:00"
+ },
+ "d061345db1a3": {
+  "id": "d061345db1a3",
+  "url": "https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc",
+  "title": "The first AI-run ransomware attack copied its Bitcoin address out of a tutorial",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T19:06:50Z",
+  "fetched_at": "2026-09-06T20:30:01.823991+00:00"
+ },
+ "b9a3774ba082": {
+  "id": "b9a3774ba082",
+  "url": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
+  "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T19:00:52Z",
+  "fetched_at": "2026-09-06T20:30:13.802549+00:00"
+ },
+ "8190fd3e1ba7": {
+  "id": "8190fd3e1ba7",
+  "url": "https://arxiv.org/abs/2608.30607",
+  "title": "ByteX: A Unified AI Search Engine at ByteDance",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T18:19:06Z",
+  "fetched_at": "2026-09-06T20:31:14.028392+00:00"
+ },
+ "3784d7aba971": {
+  "id": "3784d7aba971",
+  "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "title": "Research acceleration: The view inside OpenAI",
+  "source": "Hacker News (73pts, 47c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T15:08:44Z",
+  "fetched_at": "2026-09-06T20:32:00.354824+00:00"
+ },
+ "4a5e13499792": {
+  "id": "4a5e13499792",
+  "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+  "title": "New York City pausing some AI tools in schools",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T14:10:20Z",
+  "fetched_at": "2026-09-06T20:32:10.173308+00:00"
  }
 }

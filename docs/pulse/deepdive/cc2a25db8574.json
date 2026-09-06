@@ -1,0 +1,24 @@
+{
+ "id": "cc2a25db8574",
+ "url": "https://mashable.com/tech/openai-microsoft-face-another-publishing-lawsuit",
+ "title": "OpenAI, Microsoft face copyright lawsuit from local newspapers",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-06T20:26:26.879692+00:00",
+ "content": "OpenAI, Microsoft face copyright lawsuit from local newspapers\nOpenAI and Microsoft face another lawsuit from news organizations the Seattle Times and Newsday, which accuse the tech giants of using their sites to train AI without permission.\nThe lawsuit, filed in the Southern District of New York, alleges that the companies scraped paywalled content and added it to training datasets used for ChatGPT, Microsoft Copilot, and the new AI-powered Bing.\nThe chatbots were able to reproduce entire passages and closely paraphrase reporters' work, the publishers claim. The lawsuit demands that the tech companies destroy any existing copies of the published material, as well as training datasets or AI models that incorporate it, Reuters reported.\nYou May Also Like\n\"We feel strongly that we must defend our content — which we spend millions of dollars a year to produce — from being used without our consent or compensation,\" wrote Seattle Times president and CEO Alan Fisco in a message to employees.\nOpenAI said in a response to the press that the company only uses publicly available materials grounded in fair use for model training. Microsoft said it was surprised by the lawsuit, but was willing to \"sit down and explore solutions\" with the publishers.\nThe AI developer and its collaborator, Microsoft, have faced several court battles over its training data and alleged copyright infringement, including an ongoing lawsuit with the New York Times and a cohort of other publishers. The Times has argued that the company's products compete with the news outlet by reproducing its work without appropriately transforming it under existing fair use protections.\nLast week, the Trump administration filed a Statement of Interest (SOI) in the case, with the Department of Justice (DOJ) writing that a decision siding with the New York Times would be a hit to local newsrooms and independent journalism. The DOJ argued that AI can be harnessed by small publishers to stay competitive with mainstream news outlets.\nThe brief also claims a Times win would \"threaten national security\" by stalling AI advancement and giving foreign competitors an edge. The administration has used this argument to attempt to thwart litigation against AI data centers, as well.\nDisclosure: Ziff Davis, Mashable’s parent company, in April 2025 filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.\nChase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.",
+ "report": {
+  "summary": "地方报纸起诉OpenAI和微软，指控擅用新闻训练AI并要求销毁相关内容。",
+  "background": "AI公司使用新闻内容训练大模型已成为全球版权纠纷的焦点。此前，《纽约时报》等媒体已起诉OpenAI，指控其未经授权复制受版权保护的文章并与新闻媒体直接竞争。此次《西雅图时报》和Newsday加入诉讼，称OpenAI和微软爬取了其网站上的付费墙内容，用于训练ChatGPT、微软Copilot和新版Bing。科技公司以“合理使用”作为主要抗辩理由，但新闻出版商认为其权益受到严重侵害。与此同时，特朗普政府司法部递交意见书，警告若裁决支持《纽约时报》，可能损害地方新闻业，并称会“威胁国家安全”，使案件带上更多政治色彩。值得注意的是，Mashable母公司Ziff Davis也已对OpenAI提起诉讼，行业对抗愈发激烈。",
+  "key_points": [
+   "《西雅图时报》与Newsday在纽约联邦法院起诉OpenAI和微软，指控其未经许可使用包括付费墙在内的新闻报道训练AI，构成版权侵权。",
+   "原告诉称聊天机器人可以逐字复制或近义改写记者文章，要求法院下令销毁涉事数据、模型及训练数据集，并停止继续使用其内容。",
+   "OpenAI回应称，其仅使用公开材料，且符合合理使用原则；微软则表示对诉讼感到意外，并愿意与出版商坐下来探索解决方案。",
+   "本次诉讼是在《纽约时报》等已起诉OpenAI的背景下出现，地方报纸的加入表明新闻行业对AI数据采集行为的普遍不满。",
+   "特朗普政府司法部提交意见，认为支持《纽约时报》将打击地方新闻并阻碍AI发展，倾向于保护科技公司，为案件增加了政策层面的博弈。"
+  ],
+  "impact": "对AI行业而言，这一系列诉讼将重新划定训练数据合法使用的边界，可能推动科技公司转向购买授权或使用更规范的数据源，塑造未来生成式AI的发展路径。对开发者意味着，未来使用爬取数据训练模型需更加谨慎，可能需要引入合规性审查与数据溯源机制，否则将承担侵权风险。对普通用户来说，若出版商胜诉，聊天机器人对新闻内容的复现能力可能受限，但长远看有利于维持新闻行业的可持续性，确保原创内容不被免费掠夺，从而保护公共信息生态。",
+  "tools": "想跟进AI训练数据版权问题，可关注Common Crawl数据集或EleutherAI的The Pile项目，了解常用语料的构成和版权争议。还可通过CourtListener检索美国法院公开文书，追踪本案及《纽约时报》诉讼的具体进展。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "1eac723aa05a",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-delivers-one-best-quarters-153715826.html",
+ "title": "Snowflake交出了有史以来最出色的季度业绩之一。华尔街对人工智能热潮反应热烈",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-06T16:43:06.319Z",
+ "fetched_at": "2026-09-06T20:27:20.656826+00:00",
+ "content": "Snowflake (SNOW) stock is having a big moment. Shares jumped about 17% on Monday after the cloud data company reported a much stronger fiscal second quarter and raised its outlook. That reaction matters. Investors have spent much of 2026 debating whether artificial intelligence would hurt traditional software companies or create a new growth cycle for them. Snowflake is giving the bulls a strong answer.\nThe company is not just selling data storage anymore. Its AI tools are pushing customers to use more of the platform. That is exactly what investors wanted to see. Product revenue accelerated for the third straight quarter, while management lifted its full-year forecast. The result is a stronger growth story and a better profitability story at the same time. Still, SNOW is not cheap. The market is already pricing in a lot of success.\nMore News from Barchart\n-       Why It's Time to Load Up on SoFi Stock\n-       A $1.4 Billion Reason to Buy GameStop Stock Now\n-       TIME Left Nvidia CEO Jensen Huang Off Its 100 Most Influential People in AI List — But Paris Hilton and Ben Affleck Made the Cut\n-       Tired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\nSNOW Stock Has Rallied Sharply in 2026\nSnowflake shares are up about 62% year to date. Much of that gain came from better AI execution, stronger consumption, and major cloud partnerships.\nThe latest jump came after the company showed AI demand was translating into real revenue. The main risk is valuation. A stock that has already moved this far has little room for disappointment. SNOW trades at roughly 24 times trailing sales and about 24 times enterprise value to revenue. Those are rich numbers. The broader software industry median enterprise value to revenue is around 1.9 times.\nThat premium is not hard to understand. Snowflake is growing much faster than the average software company. But investors are paying heavily for that growth, so execution now matters even more.\nAI Is Turning Into a Real Catalyst for Snowflake\nThe latest quarter shows why the market is getting excited. Snowflake reported $1.55 billion in revenue, up 35% year over year. Product revenue reached $1.49 billion, up 37%. That was the key figure because it shows customers are spending more on the core platform.\nAI appears to be driving much of that acceleration. Snowflake said AI products contributed about half of the recent growth acceleration. Its CoCo coding assistant and CoWork enterprise AI product also gained traction.\nSnowflake also has a five-year, $6 billion partnership with Amazon Web Services. Earlier this year, it announced a $200 million multi-year partnership with OpenAI. These moves could help Snowflake capture more enterprise AI workloads and increase consumption across its platform. CEO Sridhar Ramaswamy put it simply: \"AI continues to compound our advantages, creating a flywheel effect across the business.\"",
+ "report": {
+  "summary": "Snowflake交出史上最佳季度，AI推动增长，股价大涨17%，华尔街热烈欢迎。",
+  "background": "2026年，华尔街一直在争论AI究竟会冲击传统软件公司，还是开启新的增长周期。Snowflake作为云数据平台，过去主要依赖数据存储和消费，而最新财报显示AI工具正带动客户更频繁使用其平台，产品收入连续三个季度加速增长，这表明AI需求能切实转化为收入。公司同时上调全年预测，并与AWS、OpenAI达成重大合作。不过，其股价已大幅上涨，估值远超行业均值，高预期之下容错空间变小。",
+  "key_points": [
+   "财报强劲：营收15.5亿美元同比增35%，产品收入增37%，股价单日大涨17%。",
+   "AI成核心驱动：AI产品贡献约一半增长加速，CoCo和CoWork工具迅速获得采用。",
+   "巨头合作加持：与AWS签60亿美元五年协议，另与OpenAI达成2亿美元合作。",
+   "高估值是隐忧：SNOW今年涨约62%，市销率约24倍，行业中位数仅约1.9倍。"
+  ],
+  "impact": "对AI行业而言，Snowflake用数据证明AI是软件公司收入的真实引擎，而非泡沫叙事；对开发者，意味着需要掌握数据平台与AI工具结合能力，像CoCo、CoWork这类产品将普及到企业工作流；对普通用户，企业AI应用将更务实，体验上会看到更多智能数据助手落地。整体上，本次业绩会强化市场对AI应用层的信心，但也提醒后来者须用连续增长证明估值。",
+  "tools": "建议关注Snowflake AI Data Cloud及其CoCo编程助手、CoWork企业AI，以及与OpenAI、AWS的集成方案。可通过Snowflake官方试用账号体验AI驱动数据查询和分析，或在开发者文档中学习调用其AI函数与API来搭建应用。"
+ },
+ "lang": "zh"
+}

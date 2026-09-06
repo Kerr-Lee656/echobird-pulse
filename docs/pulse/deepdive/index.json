@@ -9322,5 +9322,59 @@
   "site_name": "NewsNow",
   "published_at": "2026-09-06T11:25:33.566Z",
   "fetched_at": "2026-09-06T18:18:14.575849+00:00"
+ },
+ "cc2a25db8574": {
+  "id": "cc2a25db8574",
+  "url": "https://mashable.com/tech/openai-microsoft-face-another-publishing-lawsuit",
+  "title": "OpenAI, Microsoft face copyright lawsuit from local newspapers",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-06T20:26:26.879692+00:00"
+ },
+ "56de870bcd68": {
+  "id": "56de870bcd68",
+  "url": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
+  "title": "EU tech chief says AI guardrails are coming to the US anyway",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-06T20:26:39.736941+00:00"
+ },
+ "319a72162ebe": {
+  "id": "319a72162ebe",
+  "url": "https://www.36kr.com/p/3971642393686535",
+  "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-06T20:27:00.937977+00:00"
+ },
+ "1eac723aa05a": {
+  "id": "1eac723aa05a",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-delivers-one-best-quarters-153715826.html",
+  "title": "Snowflake交出了有史以来最出色的季度业绩之一。华尔街对人工智能热潮反应热烈",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-06T16:43:06.319Z",
+  "fetched_at": "2026-09-06T20:27:20.656826+00:00"
+ },
+ "aa938d13a658": {
+  "id": "aa938d13a658",
+  "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-cash-could-reshape-ai-160300685.html",
+  "title": "英伟达的现金储备或将重塑一家AI云服务竞争对手",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-06T16:28:08.168Z",
+  "fetched_at": "2026-09-06T20:28:29.604188+00:00"
+ },
+ "525153b81ac0": {
+  "id": "525153b81ac0",
+  "url": "https://thenextweb.com/news/anthropic-claude-fermat-last-theorem-lean-buzzard",
+  "title": "The man paid to prove Fermat by hand says Claude did it in 11 days",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-06T20:28:42.730800+00:00"
  }
 }
