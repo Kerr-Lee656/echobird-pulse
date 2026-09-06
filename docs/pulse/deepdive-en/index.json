@@ -2122,5 +2122,14 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-05T22:03:35Z",
   "fetched_at": "2026-09-06T04:39:39.148722+00:00"
+ },
+ "d5b8d11769dc": {
+  "id": "d5b8d11769dc",
+  "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+  "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-09-06T10:00:00.000Z",
+  "fetched_at": "2026-09-06T10:56:16.247008+00:00"
  }
 }
