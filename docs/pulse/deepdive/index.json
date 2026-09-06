@@ -9268,5 +9268,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-06T06:46:16Z",
   "fetched_at": "2026-09-06T15:30:56.800651+00:00"
+ },
+ "b0d97d183813": {
+  "id": "b0d97d183813",
+  "url": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions",
+  "title": "OpenAI’s AGI number came from a harness, not the model",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:16:14.646497+00:00"
+ },
+ "a153ea88dde0": {
+  "id": "a153ea88dde0",
+  "url": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan",
+  "title": "Google 开源 Mantis：AI 代理漏洞扫描框架，减少误报",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:16:47.459597+00:00"
+ },
+ "3bbec67c8889": {
+  "id": "3bbec67c8889",
+  "url": "https://news.mydrivers.com/1/1149/1149053.htm",
+  "title": "微软发布全新 Windows 11 版本 Project Zenith，专为 AI 开发者打造",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:17:03.084205+00:00"
+ },
+ "146124204d96": {
+  "id": "146124204d96",
+  "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-memory-pricing-turned-140002011.html",
+  "title": "英伟达表示，内存价格已变得“极端”，且“明年还将进一步上涨”，但该公司自身的涨价措施已落实到位",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-06T13:35:05.051Z",
+  "fetched_at": "2026-09-06T18:17:11.202932+00:00"
+ },
+ "ee57b998ced3": {
+  "id": "ee57b998ced3",
+  "url": "https://mashable.com/tech/ai-generated-child-sexual-abuse-material-ruling",
+  "title": "How AI child sexual abuse material is colliding with free speech protections",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:18:01.421908+00:00"
+ },
+ "92428b67932b": {
+  "id": "92428b67932b",
+  "url": "https://juejin.cn/post/7681969753800523795",
+  "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-09-06T11:25:33.566Z",
+  "fetched_at": "2026-09-06T18:18:14.575849+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "a153ea88dde0",
+ "url": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan",
+ "title": "Google 开源 Mantis：AI 代理漏洞扫描框架，减少误报",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-06T18:16:47.459597+00:00",
+ "content": "Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Mantis to address the high rate of false positives and hallucinated vulnerabilities produced by conventional AI-powered code scanning.\nWhile sloppiness in AI code scanning frequently leads to hallucinated bugs and weak true-positive rates under 7%, we designed Mantis to be effective by combining industry-standard agentic techniques like critic and review agents with sandboxed reproduction of vulnerabilities for grounding.\nGoogle explains that Mantis analyzes repository history, previous security fixes, architecture, and threat models rather than blindly scanning files using brute force. It then summarized the analyzed files into a hierarchical tree containing directory and repository-level context, reducing token usage by 85% while retaining important structural information.\nMantis uses industry-standard agentic techniques, such as critic and reviewer agents to filter out false positives and prioritize meaningful findings. It can also reproduce findings in a sandboxed environment, providing evidence that a finding is a real vulnerability in a safe and controlled way, rather than relying solely on the LLM's judgement.\nMantis is part of Google's \"[internal approach to find and fix vulnerabilities at machine-speed]\"(https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally). In addition to critic and reviewer agents, Mantis uses a strategist agent to evaluate the high-level code structure, threat models, and dependency graphs, as well as research agents that use internal code searches to examine raw source files in depth, tracing data flows, control flows, and sanitization logic.\nMantis is organized as a modular skill suite including over 15 tools that can be executed sequentially or in parallel, including mantis-summarize, mantis-review, mantis-critic, and many more. The stages communicate with one another by reading and writing to a shared state stored on disk.\nMantis supports multiple models as well as combining different models for different phases:\nTo maximize the speed and efficiency of your automated pipeline, you should strategically pair the right AI model class with the specific task. You do not need to use the heaviest, most advanced frontier models for every stage.\nFor example, Google recommends using a \"flash\" or \"lite\" model variant for tasks that do not require logic depth, such as rapid classification tasks using mantis-researcher or clustering of similar text patterns with mantis-dedupe. More powerful models are better suited for tasks requiring deep contextual understanding and zero-shot problem solving, such as mantis-reproduce, which writes functional crash reproducers, and mantis-patch, which generates side-effect-free fixes for the codebase.\nEvery vulnerability scanning system inevitably produces false positives, sometimes in a \"frustrating number\". Mantis addresses this with the mantis-review stage, which applies a rule-based negative filter to eliminate likely false positives. However, Google emphasizes that the filter should be used cautiously: low-risk findings should not automatically be classified as false positives, as an overly broad negative filter could reduce the system’s ability to detect genuine vulnerabilities.\nMantis is available on GitHub. You can get a detailed breakdown of all available stages and inter-stage contracts, along with best practices for using the framework, in the agent reference guide.",
+ "report": {
+  "summary": "Google开源Mantis框架，用AI代理自动化漏洞扫描并减少误报。",
+  "background": "传统AI代码扫描工具常产生大量幻觉漏洞，真实阳性率不足7%，导致安全团队不堪重负。Google内部为应对这一挑战开发了Mantis，旨在以机器速度发现和修复漏洞。继将AI用于内部安全实践后，Google决定开源该框架，让更多组织能利用代理化、沙箱验证的漏洞管理能力，提升扫描准确性和自动化程度。",
+  "key_points": [
+   "Mantis结合批评家与审查代理，过滤误报，并通过沙箱复现漏洞来提供实证，减少对LLM判断的盲目依赖。",
+   "它分析仓库历史、安全修复和威胁模型，将文件摘要为层级树，相比暴力扫描降低85%的token消耗，同时保留关键结构。",
+   "框架包含超过15个模块化工具，如summarize、review、critic等，各阶段通过磁盘共享状态通信，可串行或并行执行。",
+   "支持多模型混合使用，建议轻量模型处理分类/去重，强模型用于复现漏洞和生成补丁，以优化速度与成本。",
+   "mantis-review阶段用规则负面过滤器剔除明显误报，但Google提醒过滤条件不宜过宽，以免漏掉真实低风险漏洞。"
+  ],
+  "impact": "对AI行业而言，Mantis展示了如何用代理协作和沙箱验证提升AI安全工具的可靠性，将成为漏洞扫描领域的参考范式。对开发者来说，开源框架降低了构建精准安全流水线的门槛，可减少人工审核大量误报的负担。对普通用户而言，依赖开源软件的项目可能因漏洞被更快、更准地发现和修复而变得更安全。",
+  "tools": "可关注GitHub上的Mantis项目及官方agent参考指南。相关生态还包括CodeQL、Semgrep、SARIF工具，以及Google的OSS-Fuzz等自动化安全测试平台，可用于对比或补充Mantis的扫描能力。"
+ },
+ "lang": "zh"
+}

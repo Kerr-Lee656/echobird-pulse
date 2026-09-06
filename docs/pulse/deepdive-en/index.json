@@ -2131,5 +2131,86 @@
   "site_name": "Wired AI",
   "published_at": "2026-09-06T10:00:00.000Z",
   "fetched_at": "2026-09-06T10:56:16.247008+00:00"
+ },
+ "2cc5eab13f08": {
+  "id": "2cc5eab13f08",
+  "url": "https://github.com/openai/skills",
+  "title": "openai/skills — Skills Catalog for Codex",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:19:59.739207+00:00"
+ },
+ "b4484a96aa90": {
+  "id": "b4484a96aa90",
+  "url": "https://github.com/Tencent/WeKnora",
+  "title": "Tencent/WeKnora — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-06T18:20:14.456239+00:00"
+ },
+ "36e2bba17c60": {
+  "id": "36e2bba17c60",
+  "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+  "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-06T16:45:00.000Z",
+  "fetched_at": "2026-09-06T18:20:24.269334+00:00"
+ },
+ "0006eef1de46": {
+  "id": "0006eef1de46",
+  "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+  "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T16:17:36Z",
+  "fetched_at": "2026-09-06T18:20:33.608924+00:00"
+ },
+ "392b19fefb26": {
+  "id": "392b19fefb26",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+  "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T15:19:43Z",
+  "fetched_at": "2026-09-06T18:20:48.011110+00:00"
+ },
+ "db97858f867c": {
+  "id": "db97858f867c",
+  "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+  "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T11:31:41Z",
+  "fetched_at": "2026-09-06T18:21:25.991536+00:00"
+ },
+ "fdf8f1ab21b8": {
+  "id": "fdf8f1ab21b8",
+  "url": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
+  "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T10:11:56Z",
+  "fetched_at": "2026-09-06T18:21:44.402660+00:00"
+ },
+ "594db09129f0": {
+  "id": "594db09129f0",
+  "url": "https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1",
+  "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+  "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-06T09:00:00.000Z",
+  "fetched_at": "2026-09-06T18:21:54.728514+00:00"
+ },
+ "486669c17100": {
+  "id": "486669c17100",
+  "url": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
+  "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+  "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-06T08:00:00.000Z",
+  "fetched_at": "2026-09-06T18:22:04.434194+00:00"
  }
 }

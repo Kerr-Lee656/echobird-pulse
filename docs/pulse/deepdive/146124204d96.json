@@ -1,0 +1,24 @@
+{
+ "id": "146124204d96",
+ "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-memory-pricing-turned-140002011.html",
+ "title": "英伟达表示，内存价格已变得“极端”，且“明年还将进一步上涨”，但该公司自身的涨价措施已落实到位",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-06T13:35:05.051Z",
+ "fetched_at": "2026-09-06T18:17:11.202932+00:00",
+ "content": "Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year,’ But Its Own Price Increases Are Already Executed\nNvidia (NVDA) CFO Colette Kress told investors last week that the company is seeing \"extreme pricing conditions in memory,\" that the increases have \"exceeded our prior expectations,\" and that they are \"headed even higher into next year.\" Colette Kress said this in prepared remarks on Nvidia's fiscal second-quarter earnings call on Aug. 26, and then delivered the line companies almost never say plainly: \"As a result, we are resetting expectations today.\"\nMemory is not an exotic part. It is the DRAM in a phone, the RAM in a laptop, the storage in a game console, and one of the most expensive ingredients in a graphics card… and three companies make nearly all of it. Kress was describing the market for AI server memory, not the shelf price of a laptop, and Nvidia said nothing at all about consumer devices. But those products draw on the same suppliers and the same fabs, which is why a chip company's margin guidance is worth reading even if you never buy a chip.\nMore News from Barchart\n-       Why It's Time to Load Up on SoFi Stock\n-       A $1.4 Billion Reason to Buy GameStop Stock Now\n-       TIME Left Nvidia CEO Jensen Huang Off Its 100 Most Influential People in AI List — But Paris Hilton and Ben Affleck Made the Cut\n-       Our exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!\nThe guidance is where the admission gets specific. Gross margin was 75% in the quarter that was just reported. Kress guided to 74% in the current quarter and told analysts that Nvidia expects \"margins to bottom in Q4 in the 71% to 72% range before settling at 72% to 73% in [fiscal 2028] as executed price increases take effect in Q1.\" Executed, not contemplated. Nvidia is absorbing part of the memory bill and passing part of it forward, and it has already decided how much.\nSponsored Content: Invest in the Platform Giving Everyday Investors Access to Private Markets\nThe company also volunteered the cause, which is the unusual part. \"Memory scarcity today is being driven in large part by the AI buildout itself,\" Kress said, and \"unlike a component that simply raises our cost with no offset benefit, tighter memory supply is a symptom of the same demand surge that's driving our own growth.\" Nvidia is not presenting itself as a bystander to the shortage.\nIt is also the largest single buyer inside it. Nvidia's supplier purchase commitments stood at roughly $279 billion in its most recent quarterly filing — capacity reserved years ahead of when the parts are needed. Tom's Hardware reports that about $160 billion of that relates to memory specifically. That split is not obviously a disclosed line item in the filing, and it should be read as that outlet's reporting rather than as a company figure.",
+ "report": {
+  "summary": "英伟达称内存价格极端且明年续涨，已执行自身涨价以应对。",
+  "background": "AI服务器对高带宽内存（HBM）和DRAM的需求爆发，导致内存市场供不应求。全球内存市场几乎由三星、SK海力士、美光三家垄断，产能扩张周期长，AI算力建设潮加剧了短缺。英伟达作为最大买家，其财报显示毛利率将下滑，但公司并非被动承受——已提前锁定约160亿美元内存产能并执行涨价转嫁成本。这一表态罕见地承认供应链压力，也反映AI硬件成本结构正在发生系统性变化。",
+  "key_points": [
+   "内存价格暴涨超预期：英伟达CFO称内存定价已进入'极端'状态，涨幅超预期，且明年还会更高，直接冲击AI服务器成本。",
+   "毛利率将明显下滑：英伟达预计本季毛利率降至74%，四季度触底71%-72%，2028财年回升至72%-73%，显示短期利润承压。",
+   "涨价已执行而非计划：英伟达明确表示'已执行的价格上涨'将从明年一季度生效，说明已将部分成本转嫁给客户，而非独自消化。",
+   "短缺由AI自建驱动：公司主动归因于AI建设需求本身，而非普通供应链问题，暗示内存越紧张越验证AI景气度，形成自我强化循环。",
+   "巨额采购锁定产能：英伟达供应商采购承诺高达2790亿美元，其中约1600亿与内存相关，提前数年锁定产能以保障供应。"
+  ],
+  "impact": "对AI行业而言，内存成本上升将推高AI服务器价格，可能延缓部分企业算力采购节奏，但头部云厂商仍会继续投入。对开发者来说，模型训练和推理的云端成本可能上升，或促使更高效利用显存、使用量化技术。对普通用户，消费级显卡和内存条也可能涨价，但幅度弱于服务器端，PC升级成本或增加。英伟达作为龙头已率先涨价，其他芯片厂商大概率跟进，整个AI硬件供应链正经历成本重构。",
+  "tools": "关注内存市场动态可跟踪TrendForce集邦咨询的DRAM/HBM报告；开发者可关注英伟达TensorRT-LLM（优化显存占用）、vLLM（高效推理）；消费级用户可通过PCPartPicker对比显卡内存价格趋势。开源工具如llama.cpp的量化功能也有助于降低显存需求。"
+ },
+ "lang": "zh"
+}
