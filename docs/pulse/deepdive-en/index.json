@@ -2077,5 +2077,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-05T21:43:22Z",
   "fetched_at": "2026-09-05T23:57:05.623252+00:00"
+ },
+ "092df39a0999": {
+  "id": "092df39a0999",
+  "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+  "title": "LLM-as-a-Verifier",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T03:52:57Z",
+  "fetched_at": "2026-09-06T04:37:22.652094+00:00"
+ },
+ "a8511c6e80b7": {
+  "id": "a8511c6e80b7",
+  "url": "https://arxiv.org/abs/2609.04058",
+  "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T03:07:07Z",
+  "fetched_at": "2026-09-06T04:37:58.139396+00:00"
+ },
+ "80dc700c663a": {
+  "id": "80dc700c663a",
+  "url": "https://github.com/NVIDIA/Personal-AI-Router",
+  "title": "Nvidia Personal AI Router (Pair)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-06T02:54:01Z",
+  "fetched_at": "2026-09-06T04:38:08.105271+00:00"
+ },
+ "6df0f5d81c2b": {
+  "id": "6df0f5d81c2b",
+  "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+  "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-05T22:49:55.000Z",
+  "fetched_at": "2026-09-06T04:38:50.101932+00:00"
+ },
+ "16f32d862c58": {
+  "id": "16f32d862c58",
+  "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+  "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-05T22:03:35Z",
+  "fetched_at": "2026-09-06T04:39:39.148722+00:00"
  }
 }

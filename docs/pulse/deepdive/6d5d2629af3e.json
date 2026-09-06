@@ -1,0 +1,23 @@
+{
+ "id": "6d5d2629af3e",
+ "url": "https://news.ycombinator.com/item?id=49577512",
+ "title": "陶对未来解决纳维-斯托克斯方程有限时间爆发问题的AI解决方案的担忧",
+ "source": "news.ycombinator.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-05T15:47:53.468Z",
+ "fetched_at": "2026-09-06T04:34:26.570074+00:00",
+ "content": "Hacker News\nnew\n|\npast\n|\ncomments\n|\nask\n|\nshow\n|\njobs\n|\nsubmit\nlogin\nTao's reservations on future AI-only solutions to NS finite-time blowup problem\n3 points\nby\nogogmad\n13 hours ago\n|\nhide\n|\npast\n|\nfavorite\n|\n1 comment\nhttps://mathstodon.xyz/@tao/117207849921390904\nhelp\nbtrettel\n12 hours ago\n[–]\nGuidelines\n|\nFAQ\n|\nLists\n|\nAPI\n|\nSecurity\n|\nLegal\n|\nApply to YC\n|\nContact\nSearch:",
+ "report": {
+  "summary": "陶哲轩对仅靠AI解决NS方程爆发问题持谨慎态度，强调严格数学证明不可替代。",
+  "background": "纳维-斯托克斯方程是否存在有限时间爆破解，是克雷数学研究所悬赏的千禧年难题之一。近年AI与形式化证明工具发展迅猛，一些人设想未来可让AI独立攻克这类难题。陶哲轩虽积极尝试用AI辅助数学研究，但在其帖子中指出，完全依赖AI解决NS方程定性问题存在风险：数值模拟只能提供证据，而非严格证明；AI产生的推理过程若不透明，也无法被人类验证。这一表态也反映了数学界对“AI即答案”叙事的普遍保留态度。",
+  "key_points": [
+   "陶哲轩认为，AI数值模拟即使高度精确，也不能替代严格的数学证明，有限时间爆发需要严格的解析论证，而非计算证据。",
+   "AI单独给出的“证明”可能是黑箱式、人类无法逐行检查的，这在数学中不可接受，因为验证往往比发现更关键。",
+   "若未来数学家只依赖AI结果，可能会失去对证明结构、几何直觉和真正机制的理解，退化为盲目相信机器输出。",
+   "他并非完全否定AI，而是主张AI应作为辅助工具，用于寻找路径、验证步骤或生成反例，最终证明仍需人类或可验证的机器可读证明（如形式化证明）支撑。"
+  ],
+  "impact": "对AI行业而言，这提醒研发者：在数学等高严谨性领域，模型的“正确率”不如可解释性和可验证性重要，盲目追求“AI独立解难题”会引发信任危机。对开发者来说，需更重视形式化验证工具（如Lean、Coq）与AI模型的结合，让AI输出可被机器检查。对普通用户来说，这是又一个警示：AI的结论不能直接等同于权威真相，尤其在安全攸关的推理场景中，必须保留人工审查与逻辑复核的环节。",
+  "tools": "想要跟进AI数学证明的读者，可关注Lean并学习其中形式化证明方案；也可观察AlphaProof、AlphaGeometry等谷歌DeepMind模型在竞赛与公开数学问题上的进展；同时可参考陶哲轩参与的Interactive Theorem Proving社区，或体验GitHub Copilot等辅助编码工具配合证明助手的做法。"
+ },
+ "lang": "zh"
+}

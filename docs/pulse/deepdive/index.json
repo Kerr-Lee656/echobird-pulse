@@ -9169,5 +9169,23 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-05T20:23:36.081863+00:00"
+ },
+ "6d5d2629af3e": {
+  "id": "6d5d2629af3e",
+  "url": "https://news.ycombinator.com/item?id=49577512",
+  "title": "陶对未来解决纳维-斯托克斯方程有限时间爆发问题的AI解决方案的担忧",
+  "source": "news.ycombinator.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-05T15:47:53.468Z",
+  "fetched_at": "2026-09-06T04:34:26.570074+00:00"
+ },
+ "93568ca9928a": {
+  "id": "93568ca9928a",
+  "url": "https://www.ithome.com/0/998/810.htm",
+  "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-06T04:34:35.115628+00:00"
  }
 }
