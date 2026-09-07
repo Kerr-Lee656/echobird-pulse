@@ -1,0 +1,23 @@
+{
+ "id": "b5898210effe",
+ "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+ "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-07T04:32:13.392972+00:00",
+ "content": "Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments.\nAnthropic settled a copyright class action suit last year, after a judge ruled that training AI models on copyrighted material is legal under fair use doctrine, but pirating that material was not. The deal received final approval in July, allowing the payments to move forward.\nUnder the terms of the settlement, the authors of nearly 500,000 titles will be paid $3,000 for each pirated work. If the book is still in-print with a traditional publisher, the money will be split 50-50 between author and publisher. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment.\nBut writers have been posting on social media that publishers seem to be claiming more than their fair share of some payments. For example, mystery and thriller author April Henry asked, “WTF is HarperCollins playing at? They claimed one of my books on the Anthropic Settlement that reverted back at least 17 years ago AND on the same day I got a credit alert saying they had been added as my employer! (which they never were).”\nAt the popular blog Writers Beware, Victoria Strauss wrote that she’s been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they’re only entitled to 50%.\nIn both cases, Strauss said she’s “reluctant to attribute to malice what can be plausibly explained by poor recordkeeping” — and she noted that some publishers have already said this is a mistake that they’ve asked Anthropic to fix.\nSimilarly, Authors Guild CEO Mary Rasenberger told The New York Times that she doesn’t see this as “a grab by the publishers” and that she doesn’t believe publishers are “specifically trying to screw any author over.” Instead, she argued that this is the predictable result of bad record-keeping and a confusing settlement process.\nStrauss also acknowledged that any complaints she’s seen are just “a peek through a small crack in a massive wall.”\n“But the unusually large number of reports I’ve received over the last two days, as well as the fact that authors are reporting the exact same errors over and over, suggest to me that these aren’t the kind of routine glitches you might expect from such a large operation, but something much more wide[s]pread and systemic,” she wrote.\nAnd publishers aren’t the only ones seeking a cut of the payments. Strauss said she’s gotten complaints that a number of literary agencies are also making claims, which she said is surprising since “agents are not rightsholders in the books that they sell.”\nAuthor Courtney Milan (the pen name of former law clerk and law professor Heidi Bond) was more blunt in a post on Bluesky, writing, “Apparently some agents are trying to claim percentages on the Anthropic settlement, and I do not REMOTELY think they should do this, what the fuck, stop that shit!”\nMilan and the Authors Guild also shared more details about how authors can dispute their payment allocations. (One tricky issue: When the rights to a specific book reverted. In order for an author to make a 100% claim on a book, the rights reversion needs to have happened before August 10, 2022, which is the “download date” in the settlement.)",
+ "report": {
+  "summary": "作者投诉出版商与代理错分Anthropic和解金",
+  "background": "Anthropic去年就版权集体诉讼达成15亿美元和解。法院认定AI训练版权内容属合理使用，但盗版非法。约50万部作品的作者每部可获3000美元；若图书仍由传统出版社在版，则作者与出版社对半分成。如今发放阶段，作者反映出版社和代理对已失去权利的作品或超额索取分成。",
+  "key_points": [
+   "多家出版社对早已权利回归作者的书仍提出分成要求，例如HarperCollins声称一本17年前回归的书归自己，还误将作者列为雇员。",
+   "部分出版社对仅有权获50%的图书主张100%分成，作者认为与协议条款不符。",
+   "文学代理机构也介入分钱，但代理并非版权所有者，作者呼吁其停止不当索求。",
+   "争议可能是普遍系统性问题而非个别差错，作者可选择异议，但需注意2022年8月10日权利回归关键日期。"
+  ],
+  "impact": "对AI行业而言，此案确立付费内容训练需遵守版权边界，和解分配混乱可能促使未来授权合同更明确。开发者需关注数据来源合法性，避免直接复制盗版内容。普通用户和作者应留意权利归属日期，及时行使异议权，防止合法赔偿被侵蚀。",
+  "tools": "作者可通过Anthropic和解官网提交争议申请；关注Authors Guild和Writers Beware博客获取相关指导。"
+ },
+ "lang": "zh"
+}
