@@ -2257,5 +2257,23 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-06T14:10:20Z",
   "fetched_at": "2026-09-06T20:32:10.173308+00:00"
+ },
+ "751aa5d252c8": {
+  "id": "751aa5d252c8",
+  "url": "https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html",
+  "title": "Adobe ends an 18-year era as AI pressure mounts",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-07T18:18:08Z",
+  "fetched_at": "2026-09-07T18:46:52.365529+00:00"
+ },
+ "677f2b5ecdf5": {
+  "id": "677f2b5ecdf5",
+  "url": "https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2",
+  "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+  "source": "The Decoder：AI News（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-07T18:12:41.000Z",
+  "fetched_at": "2026-09-07T18:48:07.978093+00:00"
  }
 }
