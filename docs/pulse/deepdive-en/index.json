@@ -2311,5 +2311,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-07T19:57:45Z",
   "fetched_at": "2026-09-08T04:33:50.933484+00:00"
+ },
+ "c84d080928cf": {
+  "id": "c84d080928cf",
+  "url": "https://github.com/stacklok/toolhive",
+  "title": "stacklok/toolhive — ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-08T11:18:11.269738+00:00"
+ },
+ "d76376601356": {
+  "id": "d76376601356",
+  "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+  "title": "Gen AI Tools Are Now Being Used to Push 'Slop Jihad'",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T11:01:03Z",
+  "fetched_at": "2026-09-08T11:18:23.024948+00:00"
+ },
+ "2618f0348c21": {
+  "id": "2618f0348c21",
+  "url": "https://www.washingtonexaminer.com/policy/technology/4715947/openai-hires-chuck-schumer-daughter-regulatory-talks/",
+  "title": "OpenAI hires Chuck Schumer's daughter as lead lobbyist during regulatory talks",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T10:55:04Z",
+  "fetched_at": "2026-09-08T11:18:42.946543+00:00"
  }
 }
