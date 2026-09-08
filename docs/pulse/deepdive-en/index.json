@@ -2275,5 +2275,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-07T18:12:41.000Z",
   "fetched_at": "2026-09-07T18:48:07.978093+00:00"
+ },
+ "20c169671e86": {
+  "id": "20c169671e86",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+  "title": "WeatherNext 3: Our most advanced global weather AI model",
+  "source": "Hacker News (10pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-07T23:56:41Z",
+  "fetched_at": "2026-09-08T04:33:04.847506+00:00"
+ },
+ "23adbec9b990": {
+  "id": "23adbec9b990",
+  "url": "https://cupcake.eqtylab.io/security-disclaimer/",
+  "title": "The Operational Limits of Agent Security (Dec 2025)",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-07T23:02:50Z",
+  "fetched_at": "2026-09-08T04:33:17.189283+00:00"
+ },
+ "51172d279e0b": {
+  "id": "51172d279e0b",
+  "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+  "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-07T20:22:54Z",
+  "fetched_at": "2026-09-08T04:33:39.043529+00:00"
+ },
+ "d6213d566d52": {
+  "id": "d6213d566d52",
+  "url": "https://www.newyorker.com/news/the-financial-page/has-the-ai-job-apocalypse-been-postponed",
+  "title": "Has the A.I. Job Apocalypse Been Postponed?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-07T19:57:45Z",
+  "fetched_at": "2026-09-08T04:33:50.933484+00:00"
  }
 }
