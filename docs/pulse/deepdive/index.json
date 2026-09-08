@@ -9511,5 +9511,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-08T08:46:47Z",
   "fetched_at": "2026-09-08T16:39:21.355400+00:00"
+ },
+ "b4f131d2c003": {
+  "id": "b4f131d2c003",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+  "title": "Google DeepMind Releases AlphaGenome Atlas",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:07:14.707373+00:00"
+ },
+ "900e1a000b8f": {
+  "id": "900e1a000b8f",
+  "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics",
+  "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:07:27.331023+00:00"
+ },
+ "74c406336e1d": {
+  "id": "74c406336e1d",
+  "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids",
+  "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:07:38.751194+00:00"
+ },
+ "2f431554cf89": {
+  "id": "2f431554cf89",
+  "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+  "title": "Mistral raises €3B as sovereign AI becomes big business",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:07:55.202265+00:00"
+ },
+ "b4bb1a7929b5": {
+  "id": "b4bb1a7929b5",
+  "url": "https://thenextweb.com/news/china-japan-dichlorosilane-anti-dumping-duty-chip-fabs",
+  "title": "China put a 99.2% duty on a chemical chip fabs need",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:08:17.380316+00:00"
+ },
+ "312eb3e99645": {
+  "id": "312eb3e99645",
+  "url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers",
+  "title": "The Growing Push to Ban Superintelligent AI",
+  "source": "TIME Magazine",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-08T21:08:26.450983+00:00"
  }
 }

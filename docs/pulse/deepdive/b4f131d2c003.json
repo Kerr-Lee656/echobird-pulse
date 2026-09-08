@@ -1,0 +1,24 @@
+{
+ "id": "b4f131d2c003",
+ "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+ "title": "Google DeepMind Releases AlphaGenome Atlas",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-08T21:07:14.707373+00:00",
+ "content": "AlphaGenome Atlas: a high-resolution map of human DNA\nThe human genome is made of about 3 billion base pairs of DNA — but much of it remains a mystery. Scientists understand the 2% of the human genome that codes for proteins relatively well, but have only limited knowledge of the remaining 98%. Our AlphaGenome model has already shown how single changes in these non-coding DNA regions can disrupt molecular processes like protein production, but the bigger picture remained unclear.\nToday, we're introducing AlphaGenome Atlas, a database that predicts the effects of every possible single nucleotide variant in the human genome. We used the AlphaGenome AI model to pre-calculate the regulatory impact of all 9 billion single-letter genetic changes, resulting in a massive, 1-petabyte dataset. Our new Atlas helps scientists rapidly query this vast information.\nTo help researchers rapidly navigate this, the Atlas introduces the AlphaGenome Variant Impact (AVI) score. This single, easy-to-use score combines predictions for both coding and non-coding regions, allowing researchers to quickly prioritize the most promising avenues for research without sifting through thousands of data points.\nEmpowering researchers to solve biological mysteries\nAlphaGenome Atlas is already acting as a powerful augmentation partner for the scientific community, accelerating research in areas like:\n- Rare genomic variations: At the Broad Institute, Laura Covill and her team used the AVI score to prioritize variants for unsolved rare disease research. The tool highlighted a critical variant in the DNM1 gene, predicting that it created an incorrect splice site. This provided crucial supporting evidence to successfully solve the case.\n- Complex traits: Identifying rare, non-coding variants linked to complex traits is difficult due to statistical noise. Dr. Gareth Hawkes applied AlphaGenome Atlas to data from 54,000+ UK Biobank participants. By grouping variants based on predicted molecular effects, he uncovered 22% more non-coding genetic associations. Focusing on the top 1% of impactful variants, he identified 19 genetic regions linked to body mass index (BMI), directing the next stage of targeted research.\nOpening access to researchers and biologists worldwide\nAlphaGenome Atlas is available today through an intuitive website portal that requires zero coding skills, democratizing access for clinical researchers and biologists worldwide. This is part of our ongoing commitment to accelerate genomic discovery and science, for everyone.\nAlphaGenome Atlas provides grounded genomic insights that will accelerate the pace of biological discovery.\nRead more on the Google DeepMind blog.",
+ "report": {
+  "summary": "谷歌发布AlphaGenome Atlas，预测人类全基因组90亿种单碱基变异的影响。",
+  "background": "人类基因组约30亿碱基对，其中编码蛋白质的仅占2%，其余98%为非编码区，功能长期不明。此前DeepMind推出AlphaGenome模型，已能预测非编码区单点突变对分子过程的影响，但缺乏全局视角。此次发布的AlphaGenome Atlas基于该AI模型，预先计算了人类基因组中所有可能的单核苷酸变异（约90亿种）的调控影响，形成1PB级数据库，并引入简化的AVI评分，帮助科研人员快速筛选关键变异，加速罕见病和复杂性状研究。",
+  "key_points": [
+   "AlphaGenome Atlas是一个包含约90亿种单碱基变异影响预测的数据库，覆盖编码区与非编码区，总量达1PB。",
+   "新推出的AVI评分将编码和非编码预测整合为单一指标，方便研究者快速排序和筛选高优先级变异，无需处理海量原始数据。",
+   "实际案例中，Broad Institute团队借助AVI评分成功确诊一例罕见病，锁定DNM1基因的错误剪接位点。",
+   "英国生物样本库数据分析中，利用该工具将非编码遗传关联发现率提升22%，并识别出19个与BMI相关的基因区域。",
+   "提供零代码网页门户，面向全球临床医生和生物学家开放，降低使用门槛。"
+  ],
+  "impact": "对AI行业而言，AlphaGenome Atlas展示了大规模基因组AI预测从模型走向基础设施的可能性，推动AI for Science落地。对开发者来说，1PB数据库和AVI评分提供了可查询的新数据资源，便于开发基因注释、变异解读工具。对普通用户，尤其是罕见病患者，意味着未来遗传病诊断率可能提升，能更准确锁定致病突变，推动精准医学发展。",
+  "tools": "可关注Google DeepMind发布的AlphaGenome模型及AlphaGenome Atlas官网门户；配套的AlphaGenome数据论文和技术报告可查阅Google DeepMind博客。对变异注释感兴趣的开发者可参考Ensembl VEP、ClinVar等公开基因数据库进行交叉验证。"
+ },
+ "lang": "zh"
+}
