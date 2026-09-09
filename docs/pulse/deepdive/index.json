@@ -9565,5 +9565,32 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-08T21:08:26.450983+00:00"
+ },
+ "23787967f132": {
+  "id": "23787967f132",
+  "url": "https://hub.baai.ac.cn/view/57800",
+  "title": "DeepSeek 一口气扩招 150 人！0 个 AI 研究岗",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-09T04:37:46.900381+00:00"
+ },
+ "0dde0f17187d": {
+  "id": "0dde0f17187d",
+  "url": "https://www.aibase.com/news/30914",
+  "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-09T02:04:15.113Z",
+  "fetched_at": "2026-09-09T04:38:38.303359+00:00"
+ },
+ "d948bf3abeb6": {
+  "id": "d948bf3abeb6",
+  "url": "https://www.ithome.com/0/999/987.htm",
+  "title": "三星电子与 Mistral AI 达成战略合作，联手打造半导体专用人工智能模型",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-09T01:00:56Z",
+  "fetched_at": "2026-09-09T04:39:14.023976+00:00"
  }
 }

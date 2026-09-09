@@ -1,0 +1,24 @@
+{
+ "id": "0dde0f17187d",
+ "url": "https://www.aibase.com/news/30914",
+ "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-09T02:04:15.113Z",
+ "fetched_at": "2026-09-09T04:38:38.303359+00:00",
+ "content": "On September 8th local time, OpenAI announced that its internal, undisclosed AI model (which has performance far exceeding the recently released GPT-6 Astra) has successfully solved the \"Navier-Stokes existence and smoothness problem,\" one of the seven \"Millennium Prize Problems\" proposed by the Clay Mathematics Institute in 2000, which has puzzled the mathematical community for about 90 years.\nPreviously, Anthropic had announced last month that its internal research model, Claude, made significant progress in solving the Riemann Hypothesis, raising the long-term lower bound of the zero point ratio on the critical line of the Riemann zeta function from 41.6% to 67.2%.\nAgent Collaboration Generates Proof, Lean Formal Verification Completed in 17 Hours\nOpenAI stated that the team had around 10,000 AI agents collaborate to generate the proof within approximately 88 hours. The proof shows that a initially smooth stationary fluid might develop a \"singularity,\" where velocity increases infinitely, within a finite time. The proof achieved this singularity by designing a \"vortex\" that rotates and stretches inward, maintaining finite energy under physical laws; the proof is based on the premise of smooth external forces, corresponding to the \"C\" and \"D\" scenarios in the official problem statement.\nOpenAI provided an analysis of the proof and formal verification using the Lean programming language, which was completed by GPT-6 Astra in approximately 17 hours. OpenAI researcher Sébastien Bubeck called this an \"amazing peak\" of the trajectory seen over the past twelve months.\nControversy Over Priority and Tao's Concerns\nThe announcement quickly sparked controversy. On the previous day, New York University mathematics professor Tristan Buckmaster and Anthropic researcher Levant Alpoge had published related research on fluid equations. Buckmaster questioned whether OpenAI had only turned its resources to its ongoing \"externally driven\" approach after learning about their progress and worried that his research data stored in OpenAI Codex might have been used for training or reference, but he did not receive a clear response. Bubeck denied these accusations, emphasizing that neither researchers nor AI agents accessed specific user data, but OpenAI also admitted that \"it cannot be ruled out\" that anonymized data from its products may have helped improve the model.\nMathematician Terence Tao compared such problems to a \"lighthouse\" that attracts scientists' efforts, while warning that if AI can solve the most difficult problems without deep human involvement, it may weaken human understanding of mathematics. It is estimated that the computational cost could reach between $15 million and $22.5 million (approximately 101 million to 151 million yuan). OpenAI stated that it does not intend to claim the $1 million (approximately 6.728 million yuan) prize from the Clay Mathematics Institute.",
+ "report": {
+  "summary": "OpenAI用上万AI智能体88小时攻克千禧年难题，引发学界争议与担忧",
+  "background": "Navier-Stokes方程是Clay数学研究所2000年公布的千禧年大奖难题之一，关乎流体是否会有限时间内出现奇点。OpenAI宣称其内部未公开模型派出约1万名AI智能体协作88小时生成证明，并由其高性能模型用Lean语言在17小时内完成形式化验证。此前Anthropic也宣称内部模型在黎曼猜想上取得重大进展。两项事件表明AI数学推理进入新阶段，但优先级、数据使用和人类理解退化等问题也随之浮现。",
+  "key_points": [
+   "OpenAI称1万名AI智能体协作约88小时生成证明，通过设计可产生有限时间奇点的涡旋，对应官方问题中C/D情形。",
+   "证明由Lean语言完成约17小时形式化验证，研究者称这是过去12个月AI研究轨迹的“惊人高峰”。",
+   "发布前夜，NYU教授Buckmaster与Anthropic研究员已发表相关流体方程研究，引发优先权与数据使用争议，OpenAI否认但未完全排除。",
+   "数学家陶哲轩将这类问题比喻为“灯塔”，点赞AI能力的同时警告：若无深度人类参与，AI破解最难题可能削弱人类对数学的理解。",
+   "估算算力成本达1500万至2250万美元，OpenAI表示不申领Clay数学研究所的100万美元奖金。"
+  ],
+  "impact": "对AI行业：大规模AI智能体长时协作与自动形式化验证，标志科研加速从“聊天助手”转向可验证的自主发现。对开发者：Lean等证明工具和智能体编排能力将变得重要，需关注长任务运行中的可控性与可解释性。对普通用户：AI若率先突破人类千年难题，可能改变数学发现的信任机制；若过程不公开、不透明，将引发公平性、数据隐私和学术规范争议。",
+  "tools": "可关注Lean 4及Mathlib形式化数学库；参考DeepMind AlphaProof、AlphaGeometry等AI数学系统；若要复现智能体大规模协作，可研究LangGraph、MetaGPT等Agent编排框架，并跟进相关研究团队的预印本与开源代码。"
+ },
+ "lang": "zh"
+}
