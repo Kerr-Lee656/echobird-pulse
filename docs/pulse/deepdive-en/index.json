@@ -2374,5 +2374,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-08T14:39:35Z",
   "fetched_at": "2026-09-08T16:43:10.090078+00:00"
+ },
+ "608c188f6387": {
+  "id": "608c188f6387",
+  "url": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
+  "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T22:32:51Z",
+  "fetched_at": "2026-09-09T00:16:10.309104+00:00"
+ },
+ "d0f44acf841c": {
+  "id": "d0f44acf841c",
+  "url": "https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/",
+  "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T22:23:07Z",
+  "fetched_at": "2026-09-09T00:16:26.218246+00:00"
+ },
+ "002deb7700e5": {
+  "id": "002deb7700e5",
+  "url": "https://fedscoop.com/anthropic-government-responses-pentagon-battle-continues-claude/",
+  "title": "Anthropic faces different government responses as Pentagon battle continues",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T19:23:58Z",
+  "fetched_at": "2026-09-09T00:18:14.615497+00:00"
+ },
+ "a62a1495bf78": {
+  "id": "a62a1495bf78",
+  "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push",
+  "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-08T19:09:43Z",
+  "fetched_at": "2026-09-09T00:19:18.479858+00:00"
  }
 }
