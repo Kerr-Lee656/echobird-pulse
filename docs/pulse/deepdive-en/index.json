@@ -2446,5 +2446,23 @@
   "site_name": "Hugging Face",
   "published_at": "2026-09-09T15:36:24.000Z",
   "fetched_at": "2026-09-09T16:44:56.233035+00:00"
+ },
+ "b71f2285f032": {
+  "id": "b71f2285f032",
+  "url": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej",
+  "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
+  "source": "@gdb",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-09T19:31:31.000Z",
+  "fetched_at": "2026-09-09T21:01:55.401252+00:00"
+ },
+ "3e3015af9daa": {
+  "id": "3e3015af9daa",
+  "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+  "title": "Google's AI genome system evaluates every possible one-base change",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-09-09T16:34:18.000Z",
+  "fetched_at": "2026-09-09T21:04:31.222483+00:00"
  }
 }

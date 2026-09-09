@@ -1,0 +1,23 @@
+{
+ "id": "b1f71c628f33",
+ "url": "https://www.aibase.com/news/30932",
+ "title": "OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-09T14:01:13.524Z",
+ "fetched_at": "2026-09-09T20:57:53.460166+00:00",
+ "content": "Harrison Kim, General Manager of OpenAI in South Korea, said at a press conference on Wednesday: \"One of the areas where we have made the most significant progress and received the most recognition in our collaboration with Samsung Electronics is joint production and research for the next-generation chips we are developing.\"\nKim also stated that Samsung Electronics is \"one of the largest companies in the world using ChatGPT,\" and the company's employees in South Korea and overseas use ChatGPT in areas such as R&D, marketing, and sales.\nHe also pointed out that as chip technologies continue to advance to enable faster and more complex computations, the demand for memory chips will continue to grow, making collaboration with South Korean semiconductor suppliers a priority for OpenAI's local office.",
+ "report": {
+  "summary": "OpenAI与三星深化合作，共同开发和制造下一代AI芯片。",
+  "background": "随着生成式AI模型规模持续扩大，OpenAI面临算力瓶颈和高昂芯片成本，正积极推动自研芯片以降低对单一供应商的依赖。三星电子是全球领先的存储芯片制造商，并在先进制程代工领域快速扩张，其HBM等存储技术与AI加速器紧密关联。OpenAI韩国总经理近日表示，双方在下一代芯片联合研发和制造上取得显著进展，并称三星是ChatGPT最大企业用户之一，显示合作已从硬件延伸到企业应用。此次表态标志着双方合作进一步深化。",
+  "key_points": [
+   "OpenAI韩国负责人表示，与三星合作中进展最大、认可最高的是下一代芯片的联合生产与研究，意味着定制AI芯片开发进入实质阶段。",
+   "三星电子被描述为全球使用ChatGPT规模最大的企业之一，其韩国及海外员工在研发、营销、销售等多个业务领域依赖生成式AI工具。",
+   "随着芯片技术不断进步，更快更复杂计算对内存芯片的需求将上升，OpenAI将加强与韩国半导体供应商的协作以确保供应稳定。",
+   "OpenAI将韩国设为本地办公室并将与当地供应商合作作为优先事项，显示韩国在AI芯片供应链中的战略地位日益重要。"
+  ],
+  "impact": "对行业而言，OpenAI与三星合作将推动芯片供应链多元化，促进HBM和先进代工等技术进一步演进。对开发者来说，未来模型推理成本可能下降，并有望出现针对三星芯片优化的工具链与运行时。对普通用户，搭载更强AI芯片的终端设备可能带来更流畅的智能体验，三星设备也可能更深度集成ChatGPT能力。",
+  "tools": "可关注OpenAI Triton开源GPU编程库，用于编写高效内核；三星HBM和Exynos SoC的技术资料也值得跟踪。开发者可通过OpenAI API提前了解模型更新，保持对芯片合作动向的敏感度。"
+ },
+ "lang": "zh"
+}
