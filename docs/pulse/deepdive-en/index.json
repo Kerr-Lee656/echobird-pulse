@@ -2410,5 +2410,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-08T19:09:43Z",
   "fetched_at": "2026-09-09T00:19:18.479858+00:00"
+ },
+ "732eeea46bd2": {
+  "id": "732eeea46bd2",
+  "url": "https://github.com/Tencent/teamai-cli",
+  "title": "Tencent/teamai-cli — Make Every Team AI Native",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-09T16:39:50.809758+00:00"
+ },
+ "0b71c258c757": {
+  "id": "0b71c258c757",
+  "url": "https://omnafy.com/blog/deadbugz-malicious-mcp-server/",
+  "title": "Deadbugz: A new kind of malicious MCP server",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-09T16:31:51Z",
+  "fetched_at": "2026-09-09T16:41:35.633178+00:00"
+ },
+ "6a9c4c3b80f3": {
+  "id": "6a9c4c3b80f3",
+  "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+  "title": "Anthropic researchers say AI could cause human extinction by 2030",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-09T16:26:33Z",
+  "fetched_at": "2026-09-09T16:41:54.513510+00:00"
+ },
+ "46660cb2ea43": {
+  "id": "46660cb2ea43",
+  "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-09-09T15:36:24.000Z",
+  "fetched_at": "2026-09-09T16:44:56.233035+00:00"
  }
 }
