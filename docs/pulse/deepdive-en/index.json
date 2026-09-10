@@ -2464,5 +2464,59 @@
   "site_name": "Ars Technica",
   "published_at": "2026-09-09T16:34:18.000Z",
   "fetched_at": "2026-09-09T21:04:31.222483+00:00"
+ },
+ "06b6387dd348": {
+  "id": "06b6387dd348",
+  "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "title": "PrimeIntellect-ai/prime-agent — A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T00:16:43.964854+00:00"
+ },
+ "7fc830dbf036": {
+  "id": "7fc830dbf036",
+  "url": "https://github.com/huggingface/funes",
+  "title": "huggingface/funes — Durable, searchable memory of your past agent sessions.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T00:17:20.295402+00:00"
+ },
+ "0a027f0b4f2e": {
+  "id": "0a027f0b4f2e",
+  "url": "https://github.com/googleapis/mcp-toolbox",
+  "title": "googleapis/mcp-toolbox — MCP Toolbox for Databases is an open source MCP server for databases.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T00:18:00.876544+00:00"
+ },
+ "0286b52989ae": {
+  "id": "0286b52989ae",
+  "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+  "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-10T00:00:37.000Z",
+  "fetched_at": "2026-09-10T00:18:14.812892+00:00"
+ },
+ "491ca37c6658": {
+  "id": "491ca37c6658",
+  "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+  "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-09T23:57:29Z",
+  "fetched_at": "2026-09-10T00:18:26.534340+00:00"
+ },
+ "2c4d8c5eb6ee": {
+  "id": "2c4d8c5eb6ee",
+  "url": "https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/",
+  "title": "Astrophysical Journal adopts new guidelines on AI use",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-09T23:32:17Z",
+  "fetched_at": "2026-09-10T00:18:35.838069+00:00"
  }
 }
