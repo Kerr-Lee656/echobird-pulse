@@ -1,0 +1,25 @@
+{
+ "id": "42a231cb2a1e",
+ "url": "https://www.aibase.com/news/30957",
+ "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-10T08:29:12.436Z",
+ "fetched_at": "2026-09-10T11:16:50.705851+00:00",
+ "content": "DeepSeek V4.1 Flash model is released. It is the smallest model in its new series of model structures, with native multi-modal visual understanding capabilities. The design of the new model structure aims to achieve higher capability limits, faster reasoning speed, greater throughput, and scalability to larger parameter models.\nInput Activation Only 8B, HBM Requirement Reduced to 1/4\nDeepSeek V4.1 Flash is a 552B parameter MoE model that adopts a new Causal-Encoder-Decoder structure, with asymmetric input and output—input activation is only 8B, while output activation is 16B, significantly lower in cost than similarly sized models known so far. The new model also uses a new pre-training method and has been further trained on a larger scale through reinforcement learning, successfully surpassing the intelligence level of several flagship models including DeepSeek V4 Pro in benchmark tests.\nIn addition, the new generation model greatly reduces the size of the KV Cache, reducing the requirement for HBM to 1/4 compared to the previous generation, and for SSD to 1/8; compared to the original model, the KV Cache is only 1/437. In Agent usage scenarios, cache hit costs often account for a large proportion, and the compression of KV Cache significantly reduces the usage cost of Agent-type tasks.\nAPI Has Been Synchronized, V4 Pro Will Be Routed on September 14\nDeepSeek V4.1 Flash has been synchronized on the DeepSeek API, natively supporting multi-modal, and can be called by changing the model name to deepseek-flash. The old version models V4 Flash and V4 Flash Vision Exp have been discontinued. For compatibility reasons, the model names deepseek-v4-flash and deepseek-v4-flash-vision-exp will be temporarily routed to V4.1 Flash.\nAfter multiple tests, V4.1 Flash has comprehensively surpassed V4 Pro in performance, cost, speed, and total time indicators. Therefore, the official plans to orderly discontinue V4 Pro: after 12:00 Beijing Time on September 14, 2026, until the release of V4.1 Pro, requests accessing deepseek-v4-pro will be redirected to V4.1 Flash and billed at the V4.1 Flash price.\nTencent (WorkBuddy, CodeBuddy) and OpenCode, as official partners, have now fully integrated DeepSeek V4.1 Flash. Thanks to architectural innovations, the official has accordingly reduced the pricing of V4.1 Flash, while still adopting peak-valley pricing—off-peak prices are half of peak-hour prices. The new pricing takes effect starting at 12:00 on September 10, 2026. Model weights and technical reports have been synchronized and made available on Hugging Face.",
+ "report": {
+  "summary": "DeepSeek 发布 552B MoE 模型 V4.1 Flash，性能超越 V4 Pro 且成本大降",
+  "background": "混合专家（MoE）架构已成大模型主流路线，靠稀疏激活把推理成本压下来，但 Agent 类应用反复调用带来的 KV Cache 开销，逐渐成为真实成本的大头。DeepSeek 此前已有 V4 Flash、V4 Pro 等型号，此次 V4.1 是一次架构级换代：用新的 Causal-Encoder-Decoder 非对称结构，同时解决能力上限、推理速度、吞吐与多模态四个问题。官方称其基准测试已超过包括 V4 Pro 在内的多款旗舰模型，并同步开源权重、下调 API 价格，加速旧型号退场。",
+  "key_points": [
+   "模型总参数 552B 但输入激活仅 8B、输出 16B，属于不对称设计，同等规模下推理成本明显更低。",
+   "采用全新 Causal-Encoder-Decoder 结构，原生支持多模态视觉理解，系列定位为该架构中最小的一款。",
+   "KV Cache 被大幅压缩，HBM 需求降至上一代 1/4、SSD 降至 1/8，对反复调用的 Agent 任务降本最明显。",
+   "API 已同步，改模型名为 deepseek-flash 即可调用；腾讯 WorkBuddy/CodeBuddy、OpenCode 等已集成。",
+   "V4 Pro 将于 2026 年 9 月 14 日 12:00 后逐步下线，请求被路由到 V4.1 Flash 并按 Flash 价格计费。",
+   "权重与技术报告已在 Hugging Face 同步发布，采用峰谷定价，低谷价格为高峰价的一半。"
+  ],
+  "impact": "对行业而言，这延续了“大参数、小激活”的稀疏化路线，把竞争焦点从跑分转向单位任务成本，尤其是缓存与显存占用；开源权重加低价 API 会进一步压缩同档位闭源模型的定价空间。对开发者，迁移成本极低——改一个模型名即可，旧型号被迫退役，需要尽快检查线上依赖与计费逻辑。对普通用户，多模态与 Agent 产品的调用成本下降，意味着更多免费额度或更低订阅价，同时响应速度会更快。",
+  "tools": "想跟进可先看 Hugging Face 上发布的 V4.1 Flash 权重与技术报告，通过 DeepSeek API（模型名 deepseek-flash）实测对比成本；本地部署可关注 vLLM、SGLang 等推理框架的适配进展；应用侧可参考已集成的腾讯 CodeBuddy/WorkBuddy 与 OpenCode，观察其 Agent 场景的缓存优化实践。"
+ },
+ "lang": "zh"
+}
