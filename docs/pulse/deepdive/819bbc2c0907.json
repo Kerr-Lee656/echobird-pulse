@@ -1,0 +1,25 @@
+{
+ "id": "819bbc2c0907",
+ "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9",
+ "title": "Salesforce has held talks to buy Listen Labs, an AI customer research platform, for around $2 billion",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-10T04:38:03.031288+00:00",
+ "content": "Salesforce could be on the hunt for acquisitions to beef up its AI capabilities.\nThe software giant has recently been in talks to buy Listen Labs, an AI-powered customer research platform for around $2 billion, according to people familiar with the matter. The talks have not been finalized and could ultimately be unsuccessful, according to a person with knowledge of the deal.\nSalesforce and Listen Labs did not respond to requests for comment.\nListen Labs was founded in 2023 by Alfred Wahlforss and Florian Juengermann, who first met as undergraduates at Harvard University while building an AI avatar app that went viral, attracting 20,000 users on its first day, according to Sequoia Capital. Juengermann was previously a national champion in competitive programming in Germany.\nThey used an early version of what would become Listen Labs to interview users, which helped them realize that using AI for market research would be extremely valuable.\nThe company's software automates much of the qualitative research process, which has typically been expensive and time-consuming.\nCustomers include Microsoft, Anthropic, Google, Nestle, Sweetgreen, and Perplexity. At the beginning of the year, Listen Labs said it had grown its annualized revenue by 15x and interviewed more than one million people in nine months.\nFor Salesforce, the deal would strengthen its broader quest to make its agentic AI platform, Agentforce, more than just about automating repetitive work. Listen Labs could boost Agentforce by understanding what customers are thinking. It could recommend which products they might buy and craft the perfect pitch for salespeople to close a deal.\nIf the deal were finalized, it would be part of a wave of AI acquisitions in recent weeks, with Nvidia acquiring HuggingFace for around $12.9 billion and Stripe buying OpenRouter for around $8 billion.\nSalesforce has been pushing to improve its AI efforts, with a particular focus on enterprise agents. The Information reported that they considered acquiring HuggingFace before it was sold to Nvidia.\nListen Labs was last valued at $500 million in a financing round earlier this year. Its backers include Sequoia Capital, Ribbit Capital, Conviction Partners, and Pear VC.",
+ "report": {
+  "summary": "Salesforce 洽谈约 20 亿美元收购 AI 用户研究平台 Listen Labs",
+  "background": "Salesforce 以 CRM 起家，近年把重心押在企业级 AI 智能体平台 Agentforce 上，希望 AI 不止做重复劳动。与此同时 AI 并购潮汹涌：Nvidia 收购 HuggingFace、Stripe 收购 OpenRouter，Salesforce 此前也曾动过 HuggingFace 的念头。Listen Labs 由两位哈佛本科生在 2023 年创立，用 AI 自动化传统上昂贵耗时的定性用户研究，恰好能补上 Agentforce「理解客户在想什么」的关键短板。",
+  "key_points": [
+   "交易规模约 20 亿美元，但谈判尚未敲定、仍可能告吹；Listen Labs 今年早些时候估值仅 5 亿美元，若成交相当于估值翻四倍。",
+   "产品价值清晰：把定性用户研究自动化，9 个月访谈超 100 万人，年化营收增长 15 倍。",
+   "客户阵容硬核：微软、Anthropic、谷歌、雀巢、Sweetgreen、Perplexity 都在用，说明企业付费需求真实存在。",
+   "创始团队是两位哈佛本科生，此前做过首日吸引 2 万用户的爆款 AI 头像应用，转型切入 AI 市场研究。",
+   "战略意图明确：让 Agentforce 不只执行任务，还能预判客户想买什么、并为销售生成完美话术，直接服务成交。",
+   "这是近期 AI 收购潮的一部分，Nvidia 收 HuggingFace、Stripe 收 OpenRouter，巨头正争抢数据与垂直场景。"
+  ],
+  "impact": "对 AI 行业：企业级 AI 并购明显加速，带真实数据与垂直场景的公司成为抢手资产，估值分化与整合风险同时上升。对开发者：AI＋用户研究赛道竞争升温，「智能体＋调研数据」成为新的产品方向，独立工具的生存空间被挤压。对普通用户：未来客服、销售和产品调研越来越多由 AI 完成，体验更个性化，但个人观点与数据被用于 AI 画像和训练的隐私顾虑也会同步放大。",
+  "tools": "想跟进可关注 Salesforce Agentforce（企业智能体平台）与 Listen Labs 的竞品 Dovetail、Qualtrics、UserTesting；若想自建 AI 用户研究流程，可用 LangGraph、AutoGen 等多智能体框架，搭配 LimeSurvey 等开源问卷系统。"
+ },
+ "lang": "zh"
+}

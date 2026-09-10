@@ -9637,5 +9637,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-09T12:57:59Z",
   "fetched_at": "2026-09-09T20:59:48.718532+00:00"
+ },
+ "57dd9233902d": {
+  "id": "57dd9233902d",
+  "url": "https://www.ithome.com/1/000/565.htm",
+  "title": "Anthropic 披露第四起 Claude 模型未经授权访问真实第三方系统的安全事件",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-09T23:53:07Z",
+  "fetched_at": "2026-09-10T04:37:12.771311+00:00"
+ },
+ "a56947d03909": {
+  "id": "a56947d03909",
+  "url": "https://www.engadget.com/2254167/microsoft-strikes-deal-with-national-teachers-union-to-not-use-school-data-to-train-ai",
+  "title": "Microsoft strikes deal with national teachers union to not use school data to train AI",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:37:36.867599+00:00"
+ },
+ "df27b358762f": {
+  "id": "df27b358762f",
+  "url": "https://thenextweb.com/news/google-methane-map-eu-rules",
+  "title": "Google and NASA JPL release an AI model that maps methane plumes worldwide",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:37:44.908347+00:00"
+ },
+ "fe9dec4dcd14": {
+  "id": "fe9dec4dcd14",
+  "url": "https://www.techradar.com/pro/openai-targets-argentinas-freezing-patagonia-for-usd25-billion-500mw-stargate-ai-data-center-green-capital-and-flexdomes-prep-120-to-3-000mw-wind-powered-server-farms-to-skirt-us-backlash",
+  "title": "OpenAI targets Argentina's freezing Patagonia for $25 billion 500MW Stargate AI data center — Green Capital and FlexDomes prep 120 to 3,000MW wind-powered server farms to skirt US backlash",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:37:53.025263+00:00"
+ },
+ "819bbc2c0907": {
+  "id": "819bbc2c0907",
+  "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9",
+  "title": "Salesforce has held talks to buy Listen Labs, an AI customer research platform, for around $2 billion",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:38:03.031288+00:00"
  }
 }

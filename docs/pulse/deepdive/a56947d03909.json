@@ -1,0 +1,24 @@
+{
+ "id": "a56947d03909",
+ "url": "https://www.engadget.com/2254167/microsoft-strikes-deal-with-national-teachers-union-to-not-use-school-data-to-train-ai",
+ "title": "Microsoft strikes deal with national teachers union to not use school data to train AI",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-10T04:37:36.867599+00:00",
+ "content": "Microsoft strikes deal with national teachers union to not use school data to train AI\nThe agreement establishes legally enforceable protections.\nMicrosoft and the American Federation of Teachers (AFT) have reached a deal that establishes privacy and safety protections regarding the use of AI in schools, according to a report by Politico. This includes an agreement by Microsoft to not use data from teachers or students to train AI models, with exceptions being carved out for \"narrow safety and security\" scenarios.\nThe legally enforceable standards also ban Microsoft from tracking students and stops its AI products from making decisions in schools without human oversight. The deal also requires that the company be transparent with educators and parents regarding how its tools work. Those all seem like something companies shouldn't need legally enforceable agreements to abide by, but here we are.\nWhen AI is used in schools, parents & educators deserve transparency, students deserve safety & everyone deserves strong privacy protections. That's what this agreement between @aft.org, @uft.org & @microsoft.com delivers w/enforceable safeguards that put students & families & educators first.\n— Randi Weingarten 🖇️📚✊🇺🇸 (@rweingarten.bsky.social) 2026-09-09T17:02:49.750Z\nAFT is the country's second-largest teachers union and is describing the deal as a \"first of its kind\" effort that seeks to fill in some gaps from the lack of any real federal guardrails for AI.\n\"We have forged a hard-fought, iron-clad privacy agreement with real teeth that protects students and families, because no one else, including the federal government, has stepped up to do the real work,\" AFT President Randi Weingarten said in a statement. \"We can get angrier and angrier, or we can act decisively; anything less than legally enforceable provisions is simply a wish list.\"\nAs for those \"real teeth,\" Microsoft would be liable for breach of contract if it violates any aspect of the aforementioned agreement. The protections become available to school districts on November 1. This has been the result of months of negotiations and the AFT is currently in active talks with OpenAI and Anthropic, hoping to get similar agreements in place.\nThis is just the latest push to regulate AI in schools. New York City recently announced a one-year moratorium on the technology for students up to eighth grade. Los Angeles went even further, announcing a one-year moratorium for all public school students.",
+ "report": {
+  "summary": "微软与全美教师联合会达成协议，禁止用师生数据训练AI并设安全护栏。",
+  "background": "美国学校加速引入AI，但联邦层面长期缺乏专门监管，引发隐私、偏见与过度监控担忧。纽约市和洛杉矶已先后推出针对公立学校的AI禁令或暂停令。全美第二大教师工会AFT经数月谈判，与微软达成首份具法律约束力的校园AI隐私协议，并正与OpenAI、Anthropic接触，希望复制该模式。",
+  "key_points": [
+   "微软承诺不利用教师和学生数据训练AI模型，仅在“狭窄的安全与安保”场景下例外，这一限制覆盖其校园AI产品。",
+   "协议具法律约束力，若微软违反条款将承担违约责任；相关保护从11月1日起向学区开放。",
+   "微软不得追踪学生，其AI产品也不能在无人类监督的情况下替学校做决定，关键评估、纪律等决策仍需人工把关。",
+   "微软必须向教育工作者和家长透明说明AI工具如何运作，包括数据使用和决策逻辑，以建立信任并便于外部监督。",
+   "AFT称协议填补联邦监管空白，并正与OpenAI、Anthropic谈判，寻求类似具有执行力的校园AI保护。"
+  ],
+  "impact": "对AI行业，校园合规可能成为教育AI采购新门槛，数据“不训练”承诺或扩散到更多厂商。对开发者，需在模型训练、日志与产品设计中落实数据隔离、人类复核和透明度。对普通用户尤其是学生家长，隐私与安全更有保障，但学校引入AI可能更谨慎，个性化学习工具落地速度或放缓。",
+  "tools": "可关注 Microsoft Copilot for Education、Azure OpenAI 的数据不用于训练选项、OpenAI Enterprise 与 Anthropic 的隐私条款，以及 AFT 协议文本和学校AI治理清单。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "df27b358762f",
+ "url": "https://thenextweb.com/news/google-methane-map-eu-rules",
+ "title": "Google and NASA JPL release an AI model that maps methane plumes worldwide",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-10T04:37:44.908347+00:00",
+ "content": "Google Research and NASA JPL have released a deep learning model that maps methane plumes globally at 60 metres, finding about 50% more than human analysts and 23,000 additional plumes, including at 24 of the 25 largest-emitting landfills. Europe’s Methane Regulation ordered a satellite monitoring tool and a super-emitter alert system, but it covers only oil, gas and coal.\nGoogle Research and NASA’s Jet Propulsion Laboratory have released a deep learning model that maps methane plumes worldwide from space, Google Research said. It flags around 50% more plumes than human analysts, and 23,000 more than the existing product.\nThe model is a vision transformer trained on 3.6 million simulated plumes. It reads raw spectra from EMIT, a NASA instrument on the International Space Station, at 60 metres per pixel.\nEurope already runs a version of this. The Copernicus atmosphere service switched on a methane hotspot explorer in February last year, built by Dutch researchers on Sentinel-5P data.\nThe two are not doing the same job. Sentinel-5P covers the planet daily at roughly 5.5 by 3.5 kilometres per pixel, a region rather than a site.\nSixty metres resolves a landfill cell. The paper reports plumes at 24 of the world’s 25 largest-emitting landfills, against 17 for the NASA product it replaces. UCLA built last year’s list of the worst sites from Carbon Mapper analysis of EMIT and Planet Labs data.\nWhich is where Europe’s own rules stop short.\nThe Methane Regulation applies to oil, gas and coal. It obliges the Commission to build a global monitoring tool on satellite data, and Article 31 alerts member states to super-emitting events.\nWaste is outside it. Prognos and the ifeu Institute estimated in January that municipal waste landfilled in Europe between 2022 and 2050 will release roughly 1.5 billion tonnes of carbon dioxide equivalent as methane.\nEurope’s high-resolution answer is still being built. AIRMO raised EUR 5M in March to launch its first satellite in early 2027, and the Copernicus CO2M mission is due in November of that year.\nWhat is available now costs nothing. The plume database sits on Earth Engine under a Creative Commons licence, the model is on Kaggle and the code on GitHub.\nThe limit is where the instrument looks. EMIT was built to map mineral dust in arid regions, and it flies on a space station orbit inclined at 51.6 degrees. Europe was never the target.\nSo the sharpest methane map in existence is a by-product of an American dust mission, given away.\nEuropean Earth observation has the opposite trouble, as TNW has reported: plenty of data and too few buyers. A regulator wanting facility-level methane attribution tomorrow would download Google’s file, then find the emitters it resolves best are the ones the regulation does not reach.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌联手NASA发布AI模型，全球60米精度追踪甲烷羽流",
+  "background": "甲烷是仅次于二氧化碳的温室气体，但排放源分散、监测成本高，长期依赖人工判读卫星影像。此前NASA的EMIT仪器虽能成像，分辨率与识别效率有限。欧盟《甲烷法规》要求建立全球监测工具和超级排放源预警，却只覆盖油气煤，把垃圾填埋场排除在外。与此同时，欧洲自建的Copernicus高分辨率方案（AIRMO卫星、CO2M任务）要等到2027年才上线，监测缺口明显。",
+  "key_points": [
+   "谷歌研究院与NASA喷气推进实验室发布深度学习模型，可直接从ISS上的EMIT光谱原始数据中识别甲烷羽流，分辨率达60米/像素，足以看清单个填埋单元。",
+   "模型是视觉Transformer，训练数据为360万个人造模拟羽流，识别出的羽流比人工分析多约50%，比被取代的NASA产品多出2.3万个。",
+   "在全球25个最大排放填埋场中，新模型发现24个有甲烷羽流，旧产品只找到17个，说明AI显著提升了弱信号和复杂地表的检出率。",
+   "数据以知识共享许可免费开放：羽流数据库在Google Earth Engine，模型在Kaggle，代码在GitHub，任何人都能直接调用。",
+   "局限也明显：EMIT本为探测干旱区矿物沙尘设计，ISS轨道倾角51.6度，欧洲并非观测重点，且法规覆盖范围与AI最擅长识别的对象错位。"
+  ],
+  "impact": "对AI行业，这是基础模型+遥感科学结合的样板，证明合成数据训练可弥补真实标注稀缺；对开发者，免费开放的模型与数据集降低了地球观测应用的准入门槛，创业和科研都能直接复用；对普通用户和监管者，设施级甲烷溯源第一次变得可行，但欧盟法规不覆盖废弃物，可能倒逼监管补漏，也意味着公众能比法规更早看到真实排放图景。",
+  "tools": "想跟进可关注：EMIT原始光谱数据（NASA LP DAAC）、Google Earth Engine上的甲烷羽流数据库、Kaggle上的模型权重与GitHub代码库；对照工具包括Carbon Mapper、Sentinel-5P甲烷热点浏览器，以及预计2027年发射的AIRMO和Copernicus CO2M卫星数据。"
+ },
+ "lang": "zh"
+}

@@ -2518,5 +2518,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-09T23:32:17Z",
   "fetched_at": "2026-09-10T00:18:35.838069+00:00"
+ },
+ "f36df30631aa": {
+  "id": "f36df30631aa",
+  "url": "https://github.com/openai/plugins",
+  "title": "openai/plugins — OpenAI Plugins",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:38:56.986786+00:00"
+ },
+ "f9d32508e24f": {
+  "id": "f9d32508e24f",
+  "url": "https://github.com/google/magika",
+  "title": "google/magika — Fast and accurate AI powered file content types detection",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:39:07.497332+00:00"
+ },
+ "c489e6fb5feb": {
+  "id": "c489e6fb5feb",
+  "url": "https://github.com/alibaba/open-code-review",
+  "title": "alibaba/open-code-review — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:39:15.421292+00:00"
+ },
+ "5ff4bf30ae94": {
+  "id": "5ff4bf30ae94",
+  "url": "https://github.com/infiniflow/ragflow",
+  "title": "infiniflow/ragflow — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-10T04:39:27.104252+00:00"
+ },
+ "907ee32b4c65": {
+  "id": "907ee32b4c65",
+  "url": "https://arxiv.org/abs/2609.05511",
+  "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-10T04:00:00.000Z",
+  "fetched_at": "2026-09-10T04:39:37.484733+00:00"
+ },
+ "af6cbd9e596e": {
+  "id": "af6cbd9e596e",
+  "url": "https://arxiv.org/abs/2609.05587",
+  "title": "Agents Trust Tools Too Much: Measuring Reliance on Unreliable Tools",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-10T04:00:00.000Z",
+  "fetched_at": "2026-09-10T04:39:51.243650+00:00"
+ },
+ "60233d1d102d": {
+  "id": "60233d1d102d",
+  "url": "https://arxiv.org/abs/2609.05643",
+  "title": "The convergent laboratory: when AI reasoning, autonomous experiments, high performance and quantum computing reshape chemistry",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-10T04:00:00.000Z",
+  "fetched_at": "2026-09-10T04:40:01.801320+00:00"
+ },
+ "a7dd78888c29": {
+  "id": "a7dd78888c29",
+  "url": "https://arxiv.org/abs/2609.05736",
+  "title": "Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-10T04:00:00.000Z",
+  "fetched_at": "2026-09-10T04:40:27.310897+00:00"
+ },
+ "25307eb27f64": {
+  "id": "25307eb27f64",
+  "url": "https://arxiv.org/abs/2609.05776",
+  "title": "DI-Bench: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-10T04:00:00.000Z",
+  "fetched_at": "2026-09-10T04:40:55.194408+00:00"
  }
 }
