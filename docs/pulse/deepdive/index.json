@@ -9736,5 +9736,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-10T08:03:29Z",
   "fetched_at": "2026-09-10T11:17:27.593084+00:00"
+ },
+ "b1849ee4b14b": {
+  "id": "b1849ee4b14b",
+  "url": "https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains",
+  "title": "Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T16:22:49.506582+00:00"
+ },
+ "4d7d182e6eae": {
+  "id": "4d7d182e6eae",
+  "url": "https://thenextweb.com/news/hawley-senate-probe-openai-hugging-face-16-questions",
+  "title": "A Republican senator is now investigating OpenAI over the Hugging Face incident",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T16:22:58.256899+00:00"
+ },
+ "f0e0ea34b40b": {
+  "id": "f0e0ea34b40b",
+  "url": "https://hub.baai.ac.cn/view/57852",
+  "title": "OpenAI 联合 MIT 宣布：AI 智能体成功自主接管量子计算机实验",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-10T16:23:13.365065+00:00"
  }
 }
