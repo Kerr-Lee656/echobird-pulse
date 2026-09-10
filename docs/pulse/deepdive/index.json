@@ -9763,5 +9763,41 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-10T16:23:13.365065+00:00"
+ },
+ "a7bf25c90bb0": {
+  "id": "a7bf25c90bb0",
+  "url": "https://www.ithome.com/1/001/015.htm",
+  "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-10T14:25:54Z",
+  "fetched_at": "2026-09-10T20:50:42.561274+00:00"
+ },
+ "8ed3b3226e98": {
+  "id": "8ed3b3226e98",
+  "url": "https://juejin.cn/post/7683375934587502643",
+  "title": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-09-10T13:56:15.230Z",
+  "fetched_at": "2026-09-10T20:50:51.777771+00:00"
+ },
+ "e29cd346e532": {
+  "id": "e29cd346e532",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+  "title": "Mathematicians want proof OpenAI didn't use their work",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T20:51:04.018189+00:00"
+ },
+ "5fe947fdbda6": {
+  "id": "5fe947fdbda6",
+  "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
+  "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-10T20:51:17.825103+00:00"
  }
 }

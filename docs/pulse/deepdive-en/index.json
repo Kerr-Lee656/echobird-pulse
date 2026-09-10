@@ -2599,5 +2599,14 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-10T04:00:00.000Z",
   "fetched_at": "2026-09-10T04:40:55.194408+00:00"
+ },
+ "3dffb20e2b3c": {
+  "id": "3dffb20e2b3c",
+  "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "title": "OpenAI Agents API",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-10T19:43:22Z",
+  "fetched_at": "2026-09-10T20:53:07.196283+00:00"
  }
 }
