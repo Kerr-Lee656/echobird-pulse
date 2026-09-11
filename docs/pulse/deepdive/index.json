@@ -9799,5 +9799,77 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-10T20:51:17.825103+00:00"
+ },
+ "e2f0aba62cc7": {
+  "id": "e2f0aba62cc7",
+  "url": "https://thenextweb.com/news/visa-mastercard-ant-international-know-your-agent-ai-agents",
+  "title": "Visa, Mastercard and Ant International team up on ID checks for AI agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:07:55.751714+00:00"
+ },
+ "90fc99b99dfd": {
+  "id": "90fc99b99dfd",
+  "url": "https://www.techradar.com/pro/even-microsofts-own-software-teams-are-struggling-with-the-avalanche-of-ai-generated-code",
+  "title": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:08:05.780196+00:00"
+ },
+ "5aa1beb376f7": {
+  "id": "5aa1beb376f7",
+  "url": "https://finance.yahoo.com/technology/ai/articles/cognition-ai-valued-48bn-2bn-091613681.html",
+  "title": "Cognition AI 完成 20 亿美元 E 轮融资后估值达 480 亿美元",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-10T19:34:50.846Z",
+  "fetched_at": "2026-09-11T00:08:15.550721+00:00"
+ },
+ "403f674bcee8": {
+  "id": "403f674bcee8",
+  "url": "https://cognition.com/blog/swe-2",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:08:26.107754+00:00"
+ },
+ "17653015d006": {
+  "id": "17653015d006",
+  "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945",
+  "title": "Amazon pilots ad services in ChatGPT",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:08:32.896700+00:00"
+ },
+ "b6ba2e025271": {
+  "id": "b6ba2e025271",
+  "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+  "title": "Meta’s Muse AI works and creeps me out",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:08:41.965052+00:00"
+ },
+ "255be3df08b0": {
+  "id": "255be3df08b0",
+  "url": "https://thenextweb.com/news/anthropic-mythos-5-1-uk-aisi-pre-release-testing-withheld",
+  "title": "Anthropic skipped UK pre-release tests for Mythos 5.1, the FT reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:09:01.943741+00:00"
+ },
+ "70cdf219808e": {
+  "id": "70cdf219808e",
+  "url": "https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut",
+  "title": "DeepSeek launches V4.1-Flash and retires V4-Pro, its flagship model",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T00:09:20.486473+00:00"
  }
 }

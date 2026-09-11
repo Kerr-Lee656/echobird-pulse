@@ -1,0 +1,28 @@
+{
+ "id": "5aa1beb376f7",
+ "url": "https://finance.yahoo.com/technology/ai/articles/cognition-ai-valued-48bn-2bn-091613681.html",
+ "title": "Cognition AI 完成 20 亿美元 E 轮融资后估值达 480 亿美元",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-10T19:34:50.846Z",
+ "fetched_at": "2026-09-11T00:08:15.550721+00:00",
+ "content": "US software company Cognition AI has raised $2bn in a Series E funding round, bringing its valuation to $48bn.\nThe funding was led by Andreessen Horowitz and Accel, both new investors in the company. Other participants in the round included existing investors General Catalyst, Founders Fund, and Avenir.\nThe investment attracted a wide range of investors, with Benchmark, Kleiner Perkins, Bessemer, Greylock, Altimeter, Lightspeed, Bond Capital, Atreides, Meritech, Valor, Lux, T. Rowe Price, 8VC, DST, D1, and Battery among those taking part.\nSince its previous funding round in May, Cognition AI said that its run-rate revenue increased from $492m to nearly $900m. The company attributes this growth to increased adoption of its AI tool, Devin, among a variety of large corporate customers.\nIdentified clients span several sectors, including chip design with Nvidia, financial services at Citi, aviation with GE Aerospace, automotive with Mercedes-Benz, and AI infrastructure at Modal.\nCognition AI describes its agentic AI tool Devin as software that allows engineering teams to automate processes such as incident investigation and security vulnerability triage.\nThe tool can also integrate with platforms including GitHub, Slack, and Linear to trigger workflow automations.\nEstablished in 2024, Cognition AI's approach is to enable engineers to focus on planning while delegating execution to automated agents, with the aim of increasing the ability to produce software and tackle complex tasks.\nThe company has expanded its presence internationally, opening offices in cities including Washington, D.C., Tokyo, London, Singapore, São Paulo, and Madrid, in addition to locations in San Francisco, New York, and Austin.\nCognition AI positions itself as an independent agent lab, allowing it to choose and combine models suited to specific tasks.\nIn July 2025, Cognition AI acquired Windsurf, a California-based company specialising in AI code generation, for an undisclosed sum. The deal included Windsurf's intellectual property, products, brand, and overall business operations, as well as its engineering, product, and go-to-market teams.\n\"Cognition AI valued at $48bn after $2bn Series E financing\" was originally created and published by Verdict, a GlobalData owned brand.",
+ "report": {
+  "summary": "Devin开发商Cognition融资20亿美元，估值480亿",
+  "background": "Cognition AI 是 AI 编程 Agent 赛道的头部公司，核心产品 Devin 定位为能自主完成开发任务的\"AI 软件工程师\"。自 2023 年成立以来，公司快速完成多轮高额融资，本轮 E 轮由 a16z 与 Accel 领投，估值冲上 480 亿美元。2025 年 7 月它收购了 AI 代码生成公司 Windsurf，进一步扩张产品线与团队。这轮融资反映出资本市场对\"Agent 替代部分软件工程工作\"这一叙事的高度认可，也延续了 2025 年 AI 编程工具军备竞赛的升温趋势。",
+  "key_points": [
+   "融资金额 20 亿美元、估值 480 亿美元，由新投资方 a16z 和 Accel 领投，General Catalyst、Founders Fund 等老股东跟投，另有二十余家机构参与，阵容极为豪华。",
+   "收入增长极快：从 5 月上一轮时的 4.92 亿美元年化收入，涨到如今近 9 亿美元，约五个月接近翻倍，说明产品已从尝鲜走向规模化采购。",
+   "客户名单含英伟达、花旗、GE 航空航天、奔驰、Modal 等跨行业巨头，涵盖芯片设计、金融、航空、汽车等领域，验证了企业级付费能力。",
+   "产品能力不只写代码：Devin 可自动进行事故排查、安全漏洞分诊，并接入 GitHub、Slack、Linear 触发工作流自动化。",
+   "公司坚持\"独立 Agent 实验室\"定位，可自由挑选组合不同大模型，并已收购 Windsurf，在旧金山之外于东京、伦敦、新加坡等地设点扩张。",
+   "算力基础设施，",
+   "让工程师专注规划、把执行交给 Agent",
+   "投资方阵容还包括 Benchmark、Kleiner Perkins、Lightspeed、DST、T. Rowe Price 等。",
+   "公司已在美国、东京、伦敦、新加坡、圣保罗、马德里等地开设办公室。"
+  ],
+  "impact": "对 AI 行业而言，480 亿美元估值把\"AI 编程 Agent\"从概念推向主流资产类别，可能进一步推高同类公司估值与融资热度。对开发者来说，这是双刃剑：重复性任务（事故排查、漏洞分诊、样板代码）会被大量自动化，人机协作与\"指挥 Agent\"的能力变得更值钱。对普通用户，软件交付速度和成本结构可能改善，但短期内更直接的变化是产品迭代更快、AI 功能更普遍。",
+  "tools": "想跟进可先试 Devin（cognition.ai）与已被其收购的 Windsurf 编辑器；同类对比工具包括 Cursor、GitHub Copilot、Claude Code 和 OpenAI Codex。开发者可从\"派 Agent 处理 issue/修漏洞\"的小场景入手，配合 GitHub、Slack、Linear 打通工作流。"
+ },
+ "lang": "zh"
+}

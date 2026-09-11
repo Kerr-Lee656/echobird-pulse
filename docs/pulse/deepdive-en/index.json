@@ -2608,5 +2608,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-10T19:43:22Z",
   "fetched_at": "2026-09-10T20:53:07.196283+00:00"
+ },
+ "ab2afd529906": {
+  "id": "ab2afd529906",
+  "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-10T21:51:59.000Z",
+  "fetched_at": "2026-09-11T00:11:01.910815+00:00"
+ },
+ "093f4b544ae2": {
+  "id": "093f4b544ae2",
+  "url": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
+  "title": "AI-powered biowarfare is coming; the Army lays plans to 'fight through' it",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-10T20:48:43Z",
+  "fetched_at": "2026-09-11T00:11:42.905123+00:00"
+ },
+ "75d468d1bf4a": {
+  "id": "75d468d1bf4a",
+  "url": "https://bntnews.bg/news/-gugal-shte-investira-nai-malko-13-mlrd-evro-v-infrastruktura-za-izkustven-intelekt-vav-finlandiya-1411559news.html",
+  "title": "Google to invest at least €13B in AI infrastructure in Finland",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-10T20:19:51Z",
+  "fetched_at": "2026-09-11T00:12:13.725615+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "e2f0aba62cc7",
+ "url": "https://thenextweb.com/news/visa-mastercard-ant-international-know-your-agent-ai-agents",
+ "title": "Visa, Mastercard and Ant International team up on ID checks for AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-11T00:07:55.751714+00:00",
+ "content": "Ant International, Mastercard and Visa have begun working together on a shared Know-Your-Agent framework. It covers AI agents that make purchases on behalf of users. The three companies announced the collaboration on Thursday, Singapore time. Reuters and CNBC also reported it.\nAccording to the announcement, the framework is meant to help card networks, digital wallets, agent platforms and marketplaces. It would let them onboard and identify AI agents across networks. Each network would keep its own verification and decision-making processes.\nWhat the framework covers\nThe companies listed three areas of work. The first is operator traceability across networks, which links each agent to a validated operator, cardholder or business. The second is shared certification, under which each agent is assessed against security and behavioural requirements. The third is continuous monitoring of each agent, using identity and transaction signals.\nEach company already has its own protocol for agent payments. They are Visa’s Trusted Agent Protocol, Mastercard Verifiable Intent and Ant International’s Agentic Mobile Protocol. The companies said they will now explore ways to work towards common principles.\nThe work will run through BuildFin.ai, a platform convened by the Monetary Authority of Singapore. It builds on the regulator’s Safeguards for Agentic Finance at Runtime, or SAFR, framework, and covers payment ecosystems in Singapore.\nWhat the companies said\nThe announcement cites a McKinsey projection that AI agents could orchestrate $3tn to $5tn of global consumer commerce by 2030.\nPablo Fourez, Mastercard’s chief digital officer, said in the announcement: “Interoperability across Know-Your-Agent frameworks is essential to making agentic commerce work at scale.” For Visa, Rubail Birwadker said: “As AI agents become a bigger part of how people discover and buy, trust must scale with them.” He is Visa’s global head of growth products and strategic partnerships.\nJiang-Ming Yang, Ant International’s chief innovation officer, gave an example of what interoperability would mean. “If [an] agent registers with Ant, they don’t need to register again with Visa, Mastercard,” he told CNBC’s Evelyn Cheng. He also told CNBC that AI agents’ potential for hallucination meant “we need to make sure people feel safe.”\nCards and wallets\nAnt International runs Alipay+, which it says connects 150 million merchants to more than 50 digital wallets and banking apps. Ant International separated from Hangzhou-based Ant Group nearly three years ago, CNBC noted. Ant Group runs Alipay in mainland China. TNW reported in July that Ant International raised $1.2bn for its global expansion.\nCNBC cited Worldpay figures for 2025. Digital wallets accounted for 56% of global e-commerce value and 33% of point-of-sale value.\nTNW has covered other AI shopping agents this year. Meta launched Muse, a personal agent that books and buys, on Tuesday. Amazon has put Alexa inside its search bar, and China’s tech giants are rolling out agents that shop for users. In March, Paris-based agentic commerce start-up Lemrock raised €6m.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Visa、万事达与蚂蚁国际共建AI代理身份验证框架",
+  "background": "随着AI代理开始代用户购物，支付网络面临身份、授权、责任归属与欺诈风险。此前Visa、Mastercard、蚂蚁国际各自推出代理支付协议，互不兼容，代理需在不同网络重复注册。新加坡金管局推动BuildFin.ai与SAFR框架，成为三方合作平台。麦肯锡预计2030年代理式消费可达3万亿至5万亿美元，数字钱包占电商价值过半，身份互认成为规模化的前提。",
+  "key_points": [
+   "三方建立共享Know-Your-Agent框架，覆盖代用户购物的AI代理，帮助卡组织、钱包、代理平台和商城跨网络识别与接入，同时各网络保留自身验证与决策流程。",
+   "框架聚焦三件事：跨网络操作者可追溯，将代理关联到已验证运营者、持卡人或企业；共享认证，按安全与行为要求评估代理；持续监控，结合身份与交易信号。",
+   "三方各自协议将探索互通：Visa Trusted Agent Protocol、Mastercard Verifiable Intent、Ant International Agentic Mobile Protocol，目标让代理一次注册、多网络可用。",
+   "合作通过新加坡金管局召集的BuildFin.ai推进，建立在SAFR运行时保障框架上，先覆盖新加坡支付生态，再寻求成为跨市场原则。",
+   "市场动力来自麦肯锡预测：到2030年AI代理可能促成3万亿至5万亿美元全球消费商务；但代理幻觉等风险要求安全与信任同步扩展。"
+  ],
+  "impact": "对AI行业，代理支付从单家协议走向互操作，可能形成类似3-D Secure的KYA标准，降低支付网络碎片化。开发者需适配身份注册、认证、监控API，并在产品中内置可追溯授权。普通用户可更放心让代理购物，但需关注授权范围、争议责任和隐私数据。若成功，钱包与代理平台将加速商业化。",
+  "tools": "可关注Visa Trusted Agent Protocol、Mastercard Verifiable Intent、Ant Agentic Mobile Protocol和新加坡金管局BuildFin.ai/SAFR文档；开发者可研究Verifiable Credentials、DID、OAuth 2.0授权与支付令牌化，用于构建代理身份与交易审计。"
+ },
+ "lang": "zh"
+}

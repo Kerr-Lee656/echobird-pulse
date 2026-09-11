@@ -1,0 +1,24 @@
+{
+ "id": "90fc99b99dfd",
+ "url": "https://www.techradar.com/pro/even-microsofts-own-software-teams-are-struggling-with-the-avalanche-of-ai-generated-code",
+ "title": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-11T00:08:05.780196+00:00",
+ "content": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code\nMicrosoft Edge developers say they're facing higher-than-ever workloads\n- Microsoft worries developers are submitting a higher volume of extensions due to AI\n- It's already made some review changes, but the Edge team has had to make further changes\n- Edge extensions will also be reassessed every 15 days to prove quality\nMicrosoft's Edge team has warned that vibe coding has contributed to a sharp rise in extension submissions for the browser simply because developers can build and tweak their extensions far more quickly.\nWhile the company largely sees this as a positive for the Edge ecosystem, which has always struggled against the likes of Chrome, it also worries about the additional pressure its own developers now face.\nEven though the team introduced an \"expedited review process\" in 2025, its \"review pipeline has experienced additional strain\" and review times are suboptimal.\nEdge has seen a huge rise in AI-generated extension submissions\nAs a result of this additional stress, the company says it's streamlined how extension submissions move through the review pipeline in order to reduce the amount of time developers wait for approval, but crucially, the changes do not reduce the number of checks or reduce the standards.\nOne of the changes include the addition of automated systems to identify known policy violations and security issues.\n\"Our objective is to make Edge the easiest place to build, publish, and grow an extension,\" Microsoft wrote, but the company clearly knows Edge falls short of Chrome in terms of outright user adoption.\nPer the latest Statcounter figures, Chrome accounts for 71% of all desktop browsing sessions, with Edge in a distant second place with an 11% market share.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nAt the same time, Microsoft is also making changes to its Featured badge, which assesses extensions across \"more than 60 quality signals.\" The increasingly automated system will now re-check extensions every 15 days – \"With this more frequent cadence, high-quality extensions can earn recognition sooner, and developers receive faster feedback on their investments in quality,\" the company added.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "微软Edge团队因AI生成代码激增而面临扩展审查压力。",
+  "background": "随着Copilot、Cursor等AI编程工具普及，“氛围编程”让开发者能更快构建和迭代浏览器扩展。微软Edge长期落后Chrome，本希望借此繁荣生态，但扩展提交量激增导致审查管线超负荷。2025年已推出快速审查流程，但仍不够，于是进一步优化流程，并引入自动化检查与更频繁的徽章复评。",
+  "key_points": [
+   "AI编程工具降低开发门槛，Edge扩展提交量因“氛围编程”大幅上升，微软视其为生态机会，也带来审查压力。",
+   "Edge审查管线承压，等待时间不理想；微软优化提交流程，但强调不减少检查项、不降低标准。",
+   "新增自动化系统，用于识别已知政策违规和安全问题，以分担人工审查压力。",
+   "Featured徽章将每15天复评一次，基于60多项质量信号，让优质扩展更快获认可、开发者更快获反馈。",
+   "Edge桌面市场份额约11%，远低于Chrome的71%，微软希望把Edge打造成最易构建、发布和增长扩展的平台。"
+  ],
+  "impact": "对AI行业，AI生成代码正把审查、安全和质量治理推成新瓶颈；对开发者，提效同时将面对更自动化和高频的质量复核，需重视合规与安全；对普通用户，扩展供给会更多，但平台需在开放与安全间平衡，15天复评有助于降低低质风险。",
+  "tools": "可关注 Microsoft Edge Add-ons 开发者门户、Partner Center 提交通道及 Edge 扩展政策文档；若做AI代码质量治理，可搭配 GitHub Copilot、ESLint、Semgrep、Snyk 等审查/安全扫描工具。"
+ },
+ "lang": "zh"
+}
