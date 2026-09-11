@@ -1,0 +1,24 @@
+{
+ "id": "28d1abf0819f",
+ "url": "https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots",
+ "title": "California Governor Signs Laws Protecting Kids From Risks of Social Media, AI Chatbots",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-11T20:57:42.104617+00:00",
+ "content": "California Governor Signs Laws Protecting Kids From Risks of Social Media, AI Chatbots (apnews.com) 35\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from the Associated Press: California Gov. Gavin Newsom signed a sweeping package of laws Thursday aimed at protecting children from the risks of technology, including social media and AI chatbots. The laws will penalize large social media companies up to $1 million per child if they are found negligent of harming children through their platforms, ban tech businesses from offering addictive feeds to anyone under 16, require operators of AI chatbots to perform risk assessments before rolling them out and allow families to opt out of receiving school-issued laptops.\n \nNewsom joined his wife and state lawmakers at a children's museum near San Francisco to stress the importance of protecting kids at a time when they have such easy access to social media and AI chatbots. \"We have designed cribs to be safe, chairs to be safe, car seats,\" Assemblymember Rebecca Bauer-Kahan said. \"Yet we've allowed technology to be handed to our children and never asked or expected it to be safe.\" [...]\n \nNewsom also signed laws Wednesday, which are supported by Anthropic, that are aimed at improving oversight of AI companies. One of the measures requires the state to create rules for independent organizations to evaluate the safety risks of AI models, and the other requires the state to create a registry of AI auditors, who'd have to be financially independent from the businesses they are auditing.\n\t\t \t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\nNewsom joined his wife and state lawmakers at a children's museum near San Francisco to stress the importance of protecting kids at a time when they have such easy access to social media and AI chatbots. \"We have designed cribs to be safe, chairs to be safe, car seats,\" Assemblymember Rebecca Bauer-Kahan said. \"Yet we've allowed technology to be handed to our children and never asked or expected it to be safe.\" [...]\nNewsom also signed laws Wednesday, which are supported by Anthropic, that are aimed at improving oversight of AI companies. One of the measures requires the state to create rules for independent organizations to evaluate the safety risks of AI models, and the other requires the state to create a registry of AI auditors, who'd have to be financially independent from the businesses they are auditing.",
+ "report": {
+  "summary": "加州签署法律保护儿童免受社交媒体和AI聊天机器人风险",
+  "background": "加州州长纽森签署一揽子法律，针对儿童使用科技产品的风险。近年美国多州和联邦持续推动未成年人网络保护，社交媒体成瘾、算法推荐、AI陪伴聊天引发心理健康、隐私和自伤等争议。加州作为科技监管先锋，此次把高额罚款、限制成瘾信息流、AI上线前风险评估纳入法律，并延续对AI独立评估和审计的监管思路，获得Anthropic等企业支持。",
+  "key_points": [
+   "大型社交媒体公司若因过失伤害儿童，最高可按每名儿童罚款100万美元，威慑力显著提升。",
+   "禁止科技公司向16岁以下用户提供成瘾性信息流，要求调整算法推荐，减少无限滚动和自动播放等设计。",
+   "AI聊天机器人运营者必须在面向儿童推出前进行风险评估，识别心理健康、性诱导、自伤等风险并缓解。",
+   "新法允许家庭选择不接收学校配发的笔记本电脑，回应家长对内容过滤、数据追踪和屏幕时间的担忧。",
+   "纽森还签署法律，要求州政府制定AI模型安全风险独立评估规则，并建立财务独立的AI审计师注册库。"
+  ],
+  "impact": "对AI行业，加州成为合规试验场，聊天机器人需预评估，审计生态兴起，合规成本上升。对开发者，儿童向AI产品需年龄验证、风险分类、日志与人工兜底，安全设计必须前置。对普通用户和家长，获得更多控制权和透明度，学校设备可退出，但平台可能限制部分功能或调整商业模式。",
+  "tools": "可关注 Common Sense Media、Connect Safely 等家长指南；开发侧可研究 NIST AI RMF、AI Safety Institute 评估框架、Anthropic/OpenAI 安全政策，以及 Llama Guard、Perspective API、Guardrails AI 等开源审核与护栏工具。"
+ },
+ "lang": "zh"
+}

@@ -9997,5 +9997,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-11T11:08:55Z",
   "fetched_at": "2026-09-11T16:27:38.816954+00:00"
+ },
+ "28d1abf0819f": {
+  "id": "28d1abf0819f",
+  "url": "https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots",
+  "title": "California Governor Signs Laws Protecting Kids From Risks of Social Media, AI Chatbots",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:57:42.104617+00:00"
+ },
+ "205117ad9f73": {
+  "id": "205117ad9f73",
+  "url": "https://thenextweb.com/news/enflame-shanghai-ipo-debut-tencent-ai-chips",
+  "title": "Tencent-backed chipmaker Enflame nearly triples in its Shanghai debut",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:58:12.110737+00:00"
+ },
+ "05e0d15f402a": {
+  "id": "05e0d15f402a",
+  "url": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
+  "title": "Amazon lets its advertisers buy ads in ChatGPT in a pilot with OpenAI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:58:25.931564+00:00"
+ },
+ "ea6765e9de0c": {
+  "id": "ea6765e9de0c",
+  "url": "https://thenextweb.com/news/uae-stargate-data-centre-redesign-iran-threat-underground",
+  "title": "The UAE is splitting up its $30bn AI data centre after Iran named it as a target",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:58:38.760792+00:00"
+ },
+ "4547ca20baf7": {
+  "id": "4547ca20baf7",
+  "url": "https://thenextweb.com/news/anthropic-ai-economic-scenarios-2030",
+  "title": "Anthropic maps three AI economies, from a mild boost to mass job loss",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:58:50.189071+00:00"
+ },
+ "626b0ed26a7b": {
+  "id": "626b0ed26a7b",
+  "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
+  "title": "Claude users found ways around safeguards for bioweapons research",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:58:56.557380+00:00"
+ },
+ "dce7b0e81cdc": {
+  "id": "dce7b0e81cdc",
+  "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+  "title": "UK government rejects 'kill switch' idea for dangerous AI",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T20:59:06.461159+00:00"
+ },
+ "bfe30ce6f5cf": {
+  "id": "bfe30ce6f5cf",
+  "url": "https://finance.yahoo.com/technology/ai/articles/amd-expands-rack-scale-ai-170203981.html",
+  "title": "随着代理型工作负载推动CPU需求增长，AMD进军机架级AI领域",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-11T17:15:58.191Z",
+  "fetched_at": "2026-09-11T20:59:18.676920+00:00"
  }
 }

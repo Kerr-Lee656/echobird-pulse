@@ -1,0 +1,24 @@
+{
+ "id": "626b0ed26a7b",
+ "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
+ "title": "Claude users found ways around safeguards for bioweapons research",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-11T20:58:56.557380+00:00",
+ "content": "Anthropic said it stopped multiple attempts by scientists this year to use its technology for research that could help develop biological weapons, as experts increasingly fear the threat that AI poses to public safety.\nThe startup gave five examples of times actors “circumvented controls” and made other efforts to “obfuscate” the purpose of their research to dodge safeguards. The cases involved some users in nations that it prohibits from accessing its models, which include Russia, China, and Iran.\n“We hope that by sharing these examples, we spark a conversation within the AI industry and with governments about emerging biological risks and how best to counter them,” Anthropic said in a report about efforts to use its models for malicious activity.\nThe case studies of possible biological misuse that the company provided included a researcher from an “unsupported region” who “spent weeks planning” experiments involving avian influenza with Claude, Anthropic’s AI model. The company said its safety filters restricted the work to its weakest models.\nIt emphasized it could not be sure that the scientists in its examples intended to cause harm. The same information needed to create biological weapons could also be used to develop a vaccine.\nAnthropic said it had banned the accounts mentioned in the report, but it did not disclose the names of the research institutions or the nations where the incidents took place.",
+ "report": {
+  "summary": "Anthropic披露五起用户绕过安全防护、疑似将Claude用于生物武器研究的案例",
+  "background": "随着大模型能力提升，AI 被滥用于生物领域的风险成为行业焦点。Anthropic 此前已发布多份威胁情报报告，并加强对生物相关查询的过滤。此次披露的五起案例发生在今年，用户来自俄罗斯、中国、伊朗等被禁地区，通过伪装研究目的、拆分提问等方式试图规避管控。公司强调无法确认当事人有恶意，因为制造生物武器的信息同样可用于疫苗研发。这延续了 AI 安全领域关于'双重用途'与模型开放边界的长期争论。",
+  "key_points": [
+   "Anthropic 公开了五起案例，用户试图'绕开管控'并'混淆'研究真实目的，账号均已被封禁。",
+   "其中一名来自受限地区的研究者用 Claude 花数周规划禽流感实验，安全过滤将其限制在能力最弱的模型上。",
+   "涉事用户部分位于 Anthropic 禁止访问的国家，包括俄罗斯、中国和伊朗。",
+   "公司未公布研究机构名称与具体国别，也承认无法确定这些人是否有意造成伤害。",
+   "Anthropic 称披露目的是推动 AI 行业与政府就新兴生物风险展开讨论。"
+  ],
+  "impact": "对 AI 行业而言，这标志着头部厂商开始主动公开滥用案例，安全报告或成合规标配，模型分级与访问地域限制会更严格。对开发者来说，生物、医药类应用的调用审核将趋严，涉及敏感领域的提示词工程需要更明确的合规设计。对普通用户，正常科研提问可能遇到更多误拦截，但整体公众安全风险有望被更早发现和遏制。",
+  "tools": "想跟进可关注 Anthropic 的 Threat Intelligence 报告与 Usage Policy，以及开源模型安全评测工具如 HarmBench、WMDP 生物风险基准；生物领域可参考 NIH 的双用途研究（DURC）指南，理解合规边界。"
+ },
+ "lang": "zh"
+}
