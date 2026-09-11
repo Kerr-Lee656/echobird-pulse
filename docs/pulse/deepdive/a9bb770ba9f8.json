@@ -1,0 +1,25 @@
+{
+ "id": "a9bb770ba9f8",
+ "url": "https://www.aibase.com/news/30992",
+ "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-11T07:03:15.450Z",
+ "fetched_at": "2026-09-11T11:16:05.658888+00:00",
+ "content": "OpenAI has officially launched the Agents API in its developer documentation, exposing the Codex harness through a REST API hosted by OpenAI. There is only one core endpoint: POST https://api.openai.com/v1/agents/sessions, which requires the OpenAI-Beta: agents=v1 header. The semantics are straightforward—OpenAI handles sessions, orchestration, context compression, and recovery, while the application provides tools and decides the execution environment.\nFour Core Concepts and a Set of Managed Capabilities\nThe documentation breaks down the concepts into four: Agent (model + instructions + tools + MCP server), Environment (optional sandbox or computer, where the agent reads and writes files, loads skills, and runs commands), Session (a persistent agent instance that processes tasks and responds to input), and Events and items (input and output during the session). The workflow is to create a session → assign a task → stream or webhook follow-up → continue or intervene.\nThe managed harness capabilities include running commands and code in a sandbox, applying skills and instructions, connecting to external data via tools or MCP, intervening at any time during the process, compressing previous context, delegating subtasks to subagents, and resuming from a breakpoint. Multi-agent functionality is enabled via agent.multi_agent, with a setting for max_concurrent_subagents; tools support three types: programmatic_tool_calling, mcp (HTTP transport), and web_search. Environments can be either self_hosted or an OpenAI-managed sandbox.\nData Limited to the US, Does Not Support ZDR, Community Questions Vendor Lock-in\nPricing follows the model: model usage is billed based on the selected model, OpenAI tools are billed at standard rates, and the managed sandbox is billed at container rates. However, there are two data-related restrictions worth noting—data residency is currently limited to the US, and it does not support Zero Data Retention (ZDR), even if you choose a self-hosted sandbox, it will not become ZDR compliant. The SDK covers Python, TS/JS, Go, Java, and Ruby, all unified under client.beta.agents.sessions.create(...).\nCommunity discussions mainly revolve around two points: whether it's worth handing over sessions to OpenAI for management, and the ambiguity of pricing. One user tested the sandbox network access configuration and found three modes: enabled, disabled, and restricted. In restricted mode, accessing external domains returns \"Domain forbidden.\" He also questioned the billing method—whether each agent session creates a new environment, whether environments are billed for at least an hour, and whether they can be actively closed to save costs.\nRegarding why use this API instead of running the SDK yourself, the community is split: critics argue \"this is more like strengthening vendor lock-in\"; supporters are practical—\"to avoid the hassle of maintaining a sandbox VM ourselves.\" From an architectural perspective, the essence of the Agents API is to server-ize the Codex client's harness, making long-running agents that can read and write files and split subtasks first-class API for any backend program, at the cost of handing over session state and execution environment to OpenAI.",
+ "report": {
+  "summary": "OpenAI 上线 Agents API，把 Codex 托管会话与沙箱对外开放",
+  "background": "过去一年，编码 Agent 从本地 CLI 与 SDK 起步，开发者要自己搭沙箱、管上下文、做断点恢复，工程成本很高。OpenAI 先以 Codex CLI、IDE 插件和云端 Codex 验证了这套 harness，如今把它 server 化，变成只有一个核心端点的 REST API。这背后是 Agent 基础设施层的竞争：Anthropic 有 Claude Agent SDK，MCP 已成为工具接入的事实标准，各家都在争夺“谁来托管长时运行的 Agent”。OpenAI 的选择是把会话状态和执行环境收进自家云，换取开箱即用的编排与沙箱能力。",
+  "key_points": [
+   "接口极简：只有一个 POST /v1/agents/sessions，请求需带 OpenAI-Beta: agents=v1 头，OpenAI 负责会话、编排、上下文压缩与断点恢复，应用只提供工具并决定执行环境。",
+   "四个核心概念：Agent（模型+指令+工具+MCP）、Environment（沙箱或计算机）、Session（持久 Agent 实例）、Events/items（会话输入输出）；流程是建会话→派任务→流式或 webhook 跟进→干预或续跑。",
+   "托管能力齐全：沙箱内跑命令和代码、加载 skills、接入 MCP 与 web_search、压缩历史上下文、把子任务委派给子代理、断点恢复，multi_agent 可设并发子代理上限。",
+   "计费与合规有硬限制：按所选模型、OpenAI 工具和托管容器分别计费；数据驻留目前仅限美国，且不支持零数据保留（ZDR），即使选择自托管沙箱也不会变成 ZDR 合规。",
+   "社区争议集中在两点：把会话交给 OpenAI 托管是否值得、定价是否透明（沙箱是否按小时计费、能否主动关闭省钱）；批评者认为这加剧供应商锁定，支持者则认为省去了自建沙箱的运维负担。",
+   "SDK 覆盖 Python、TS/JS、Go、Java、Ruby，统一入口为 client.beta.agents.sessions.create(...)，降低了多语言后端接入门槛。"
+  ],
+  "impact": "对行业：Agent 竞争从“谁的 SDK 好用”转向“谁的托管 harness 更强”，OpenAI 把会话状态和执行环境收进自家云，其他厂商大概率跟进同类 API，MCP 的地位进一步巩固。对开发者：长时运行的编码 Agent 门槛骤降，几行代码即可获得沙箱、压缩与恢复能力，但需权衡迁移成本、ZDR 合规与数据驻留仅限美国带来的限制。对普通用户：更多产品会内置能持续数小时读写文件、拆分任务的 Agent，体验更连贯，但数据流向与隐私边界也变得更难感知。",
+  "tools": "想上手可直接用 OpenAI Agents SDK（Python/TS/Go/Java/Ruby）配合官方 MCP 服务器；想对比或自建，可关注 Anthropic Claude Agent SDK、LangGraph、OpenHands、Codex CLI，沙箱层可选 E2B、Daytona 或 Firecracker/gVisor 自托管方案，以规避 ZDR 与数据驻留限制。"
+ },
+ "lang": "zh"
+}

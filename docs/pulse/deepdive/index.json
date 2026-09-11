@@ -9871,5 +9871,86 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-11T00:09:20.486473+00:00"
+ },
+ "36febae5eeab": {
+  "id": "36febae5eeab",
+  "url": "https://hub.baai.ac.cn/view/57869",
+  "title": "京东发布并开源 JoyAI-Echo WM 实时可交互世界模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-11T11:15:32.513725+00:00"
+ },
+ "a9bb770ba9f8": {
+  "id": "a9bb770ba9f8",
+  "url": "https://www.aibase.com/news/30992",
+  "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-11T07:03:15.450Z",
+  "fetched_at": "2026-09-11T11:16:05.658888+00:00"
+ },
+ "23391efed0a2": {
+  "id": "23391efed0a2",
+  "url": "https://www.aibase.com/news/30984",
+  "title": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-11T07:03:15.450Z",
+  "fetched_at": "2026-09-11T11:16:12.889332+00:00"
+ },
+ "14a9fae32078": {
+  "id": "14a9fae32078",
+  "url": "https://www.ithome.com/1/001/247.htm",
+  "title": "NS 方程争议发酵：数学家联名抗议，OpenAI 宣布退出数学黑客马拉松赞助",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-11T06:17:03Z",
+  "fetched_at": "2026-09-11T11:16:26.780459+00:00"
+ },
+ "0219ab24d504": {
+  "id": "0219ab24d504",
+  "url": "https://www.ithome.com/1/001/230.htm",
+  "title": "加利福尼亚州颁布美国首份人工智能安全保障法案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-11T05:41:47Z",
+  "fetched_at": "2026-09-11T11:16:39.449884+00:00"
+ },
+ "2ed7cd362c34": {
+  "id": "2ed7cd362c34",
+  "url": "https://www.ithome.com/1/001/219.htm",
+  "title": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-11T04:23:21Z",
+  "fetched_at": "2026-09-11T11:16:47.498744+00:00"
+ },
+ "89fc4858c545": {
+  "id": "89fc4858c545",
+  "url": "https://finance.yahoo.com/technology/ai/articles/forget-smartphones-qualcomm-just-landed-143705180.html",
+  "title": "别管智能手机了：高通刚与亚马逊达成了一项重磅AI合作协议",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-11T02:45:34.919Z",
+  "fetched_at": "2026-09-11T11:16:56.365263+00:00"
+ },
+ "fb7cb0497a31": {
+  "id": "fb7cb0497a31",
+  "url": "https://www.aibase.com/zh/news/30974",
+  "title": "算力需求超载！OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-11T11:17:18.062768+00:00"
+ },
+ "7f406688b06f": {
+  "id": "7f406688b06f",
+  "url": "https://www.aibase.com/zh/news/30978",
+  "title": "环球音乐联手 ElevenLabs：共建授权 AI 音乐平台，让乐迷与艺人同台创作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-11T11:17:32.990877+00:00"
  }
 }

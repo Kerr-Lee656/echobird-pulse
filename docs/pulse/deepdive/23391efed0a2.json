@@ -1,0 +1,23 @@
+{
+ "id": "23391efed0a2",
+ "url": "https://www.aibase.com/news/30984",
+ "title": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-11T07:03:15.450Z",
+ "fetched_at": "2026-09-11T11:16:12.889332+00:00",
+ "content": "Traditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, local time in the United States, Universal Music Group (UMG) announced an ongoing licensing agreement and broader strategic cooperation with ElevenLabs, an artificial intelligence audio research and product company. This is the first formal cooperation agreement that ElevenLabs has reached with a mainstream record company, marking a key step forward in copyright compliance and industrialization of AI music.\nAccording to the cooperation plan announced by both parties, the two companies will jointly build a new artificial intelligence music creation platform based on licensed music and artist participation. This platform, currently under development, will offer music fans innovative ways to create music together with participating artists and songwriters. The specific features supported include music remixing, medleys, new interpretations, and personalized voice experiences. In addition, both parties plan to continue developing more related products and immersive fan experiences in the future.\nRegarding the strategic significance of this collaboration, Lucian Grainge, Chairman and CEO of Universal Music Group, stated that the most exciting possibilities of artificial intelligence in the music field lie in keeping artists, songwriters, and fans at the core. Universal Music Group and ElevenLabs both believe that responsible artificial intelligence can effectively promote music discovery, further enhance the interaction between artists and fans, and open up new revenue sources for the entire creative community. ElevenLabs' leading technical advantages in the field of artificial intelligence audio have also injected new vitality into Universal Music Group's growing partner ecosystem. Both sides will work together to explore the infinite possibilities of human artistic creation in both creative and commercial aspects.",
+ "report": {
+  "summary": "环球音乐与ElevenLabs达成首个主流唱片公司授权合作，共建正版AI音乐平台",
+  "background": "AI音乐生成工具（如Suno、Udio）过去两年迅速普及，但因训练数据大量使用受版权保护的作品，遭到环球、索尼、华纳三大唱片公司起诉，行业长期陷于\"先侵权、后谈判\"的灰色地带。与此同时，ElevenLabs以语音克隆和音频生成技术闻名，一直在寻求合规化的商业路径。此次UMG主动抛来橄榄枝，是主流唱片公司首次与AI音频公司签署正式授权协议，标志着双方从诉讼对抗转向\"授权分成+共同开发\"的合作模式，为整个AI音乐产业提供了可复制的版权范本。",
+  "key_points": [
+   "这是ElevenLabs首次与主流唱片公司达成正式授权合作，意味着AI音乐从\"灰色使用\"走向\"正版授权\"的转折点。",
+   "双方将共建AI音乐创作平台，支持混音、串烧、新编曲和个性化人声体验，且必须有艺人和词曲作者参与授权。",
+   "UMG强调\"以艺术家和粉丝为核心\"，认为负责任的AI能帮音乐被发现、增强粉丝互动，并创造新收入来源。",
+   "平台目前仍在开发中，双方计划后续推出更多产品和沉浸式粉丝体验，商业模式尚待明确。"
+  ],
+  "impact": "对AI行业而言，这确立了大厂与唱片公司授权合作的新范式，可能倒逼Suno、Udio等公司加速与版权方谈判，推高合规成本但也打开正版商业空间。对开发者来说，未来做音乐类AI应用将更依赖官方授权API和分成机制，野蛮生长的窗口期收窄。对普通用户，AI翻唱、混音创作会变得合法且有艺人原声可玩，但使用范围和付费门槛也会更清晰。",
+  "tools": "想跟进可关注ElevenLabs官网及其音频生成API、Suno、Udio、Meta的MusicGen/AudioCraft开源模型，以及Stability AI的Stable Audio。做开发者可重点研究授权音乐API和数据合规方案，如udio与唱片公司的后续谈判进展。"
+ },
+ "lang": "zh"
+}
