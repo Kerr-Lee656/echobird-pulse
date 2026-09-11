@@ -2635,5 +2635,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-10T20:19:51Z",
   "fetched_at": "2026-09-11T00:12:13.725615+00:00"
+ },
+ "3888c0e32096": {
+  "id": "3888c0e32096",
+  "url": "https://github.com/vercel-labs/skills",
+  "title": "vercel-labs/skills — The open agent skills tool - npx skills",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-11T04:35:05.774975+00:00"
+ },
+ "265610dca0c5": {
+  "id": "265610dca0c5",
+  "url": "https://github.com/gpustack/gpustack",
+  "title": "gpustack/gpustack — A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-11T04:35:15.624457+00:00"
+ },
+ "9207e699adc3": {
+  "id": "9207e699adc3",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "title": "huggingface/speech-to-speech — Build voice agents with open-source models",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-11T04:35:25.856376+00:00"
+ },
+ "01cdafccc794": {
+  "id": "01cdafccc794",
+  "url": "https://github.com/google-deepmind/alphagenome",
+  "title": "google-deepmind/alphagenome — This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-11T04:35:39.627482+00:00"
+ },
+ "293f719eee49": {
+  "id": "293f719eee49",
+  "url": "https://arxiv.org/abs/2609.09448",
+  "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-11T04:00:00.000Z",
+  "fetched_at": "2026-09-11T04:35:49.951481+00:00"
+ },
+ "e14f794001b9": {
+  "id": "e14f794001b9",
+  "url": "https://arxiv.org/abs/2609.09647",
+  "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-11T04:00:00.000Z",
+  "fetched_at": "2026-09-11T04:36:04.473463+00:00"
+ },
+ "07c5cf8642f8": {
+  "id": "07c5cf8642f8",
+  "url": "https://arxiv.org/abs/2609.09875",
+  "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-11T04:00:00.000Z",
+  "fetched_at": "2026-09-11T04:36:11.943001+00:00"
+ },
+ "5b2855c90920": {
+  "id": "5b2855c90920",
+  "url": "https://arxiv.org/abs/2609.10263",
+  "title": "What Should an Agent Forget? Separating What Is Stored from What Is Used",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-11T04:00:00.000Z",
+  "fetched_at": "2026-09-11T04:36:25.569190+00:00"
+ },
+ "413edf4d37c5": {
+  "id": "413edf4d37c5",
+  "url": "https://arxiv.org/abs/2609.10441",
+  "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-11T04:00:00.000Z",
+  "fetched_at": "2026-09-11T04:36:49.813058+00:00"
  }
 }
