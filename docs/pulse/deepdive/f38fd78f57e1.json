@@ -1,0 +1,24 @@
+{
+ "id": "f38fd78f57e1",
+ "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-ai-chipmakers-raise-050223278.html",
+ "title": "独家报道：受高带宽内存短缺影响，中国人工智能芯片制造商纷纷提价",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-11T12:14:16.485Z",
+ "fetched_at": "2026-09-11T16:27:28.208320+00:00",
+ "content": "Sept 10 (Reuters) - Chinese AI chipmakers including Huawei Technologies and Cambricon have sharply raised prices for current and next-generation AI processors, three people familiar with the matter said, as soaring costs for high-bandwidth memory squeeze efforts to build domestic alternatives to Nvidia.\nHuawei has lifted the indicated price of its Ascend 950DT accelerator card, which integrates an AI processor with memory and other components, to above 250,000 yuan ($37,255), two people said.\nThe increase represents a jump of 20% to 50% from prices quoted to customers just two months ago, depending on contract terms, they said. Shenzhen-based Huawei has publicly said the 950DT, its most advanced AI chip, will be available in the fourth quarter of 2026.\nBeijing-based Cambricon has also repriced its next-generation chip, tentatively called the 690, at 20% to 30% above levels it indicated two months ago, two sources said, without giving an exact figure. Smaller rivals MetaX and Iluvatar CoreX have made similar increases, the sources said.\nThe people declined to be identified because the pricing discussions are not public.\nThe price hikes illustrate how a worldwide shortage of high-bandwidth memory (HBM) is reverberating through China's AI industry as Beijing presses companies to replace Nvidia products with home-grown alternatives.\nHBM is a crucial component for AI computing, consisting of vertically stacked memory chips that allow processors to access vast amounts of data at high speeds. The advanced HBM market is dominated by South Korea's SK Hynix and Samsung Electronics, and U.S.-based Micron Technology.\nSince Washington tightened controls on exports of certain advanced HBM products to China in December 2024, Chinese chipmakers have increasingly relied on grey-market channels to secure supplies, the sources said.\nSuch HBM typically costs several times what buyers outside China pay, they said. Because memory accounts for a large share of an AI accelerator's production cost, the higher prices are feeding directly into finished cards.\nHuawei has said the Ascend 950 series will use two proprietary HBM technologies: HiBL 1.0 for the 950PR and HiZQ 2.0 for the 950DT, without detailing where or how the memory is manufactured.\nThe 950DT is built mainly for developing AI models and generating responses, while the 950PR processes user requests before they are passed to the model.\nHuawei, Cambricon, MetaX and Iluvatar CoreX did not respond to requests for comment.\nOLDER HUAWEI CHIPS ALSO MORE EXPENSIVE",
+ "report": {
+  "summary": "HBM短缺推高成本，华为寒武纪等中国AI芯片提价",
+  "background": "美国自2024年12月收紧对华先进HBM出口后，中国AI芯片商更难获得高端存储。先进HBM市场由SK海力士、三星和美光主导，中国企业转向灰色渠道，成本可达海外买家的数倍。北京推动用国产芯片替代英伟达，而HBM占AI加速卡成本比重高，涨价因此从存储端传导至芯片成品。华为昇腾950DT预计2026年四季度上市，寒武纪690等下一代产品也受波及。",
+  "key_points": [
+   "华为将昇腾950DT加速卡指示价提至25万元人民币以上，较两个月前报价上涨20%至50%，具体幅度取决于合同条款。",
+   "寒武纪下一代芯片690报价较两个月前上调20%至30%；沐曦、天数智芯等较小厂商也采取类似涨价。",
+   "涨价主因是全球HBM短缺。美国限制先进HBM对华出口后，中国厂商依赖灰色市场，采购价常为海外数倍。",
+   "华为称昇腾950系列将采用自研HBM技术HiBL 1.0和HiZQ 2.0，但未说明由谁、在哪里制造。",
+   "HBM在AI加速卡成本中占比高，存储涨价直接推高成品卡价格；报道还提到华为老款芯片也更贵。"
+  ],
+  "impact": "对AI行业，国产算力报价上涨削弱替代英伟达的性价比，可能抑制训练和推理部署，并倒逼自研HBM与国产存储加速。对开发者，云和算力租赁成本或上升，需优化模型、推理效率并适配国产生态。对普通用户，AI服务价格可能间接上涨，产品迭代或放缓；若国产HBM突破，长期成本有望回落。",
+  "tools": "跟进可关注华为昇腾社区与CANN、寒武纪Neuware、沐曦MXMACA、天数智芯软件栈；模型侧看MindSpore、PaddlePaddle、vLLM多硬件适配。供应链数据可参考TrendForce、集邦咨询及国内半导体媒体。"
+ },
+ "lang": "zh"
+}

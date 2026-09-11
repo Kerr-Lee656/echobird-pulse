@@ -9952,5 +9952,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-11T11:17:32.990877+00:00"
+ },
+ "687d351c73ab": {
+  "id": "687d351c73ab",
+  "url": "https://thenextweb.com/news/loft-orbital-marlan-space-1bn-ai-satellites-mistral",
+  "title": "Loft Orbital and Marlan Space plan $1bn AI satellite fleet with Mistral",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T16:26:47.766868+00:00"
+ },
+ "1f11a36c6a97": {
+  "id": "1f11a36c6a97",
+  "url": "https://thenextweb.com/news/sergey-brin-gemini-microkitchen-google-deepmind",
+  "title": "Sergey Brin is back at Google, working on Gemini",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-11T16:26:58.584499+00:00"
+ },
+ "7797bee3af14": {
+  "id": "7797bee3af14",
+  "url": "https://www.aibase.com/zh/news/31001",
+  "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-11T16:27:14.057860+00:00"
+ },
+ "f38fd78f57e1": {
+  "id": "f38fd78f57e1",
+  "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-ai-chipmakers-raise-050223278.html",
+  "title": "独家报道：受高带宽内存短缺影响，中国人工智能芯片制造商纷纷提价",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-11T12:14:16.485Z",
+  "fetched_at": "2026-09-11T16:27:28.208320+00:00"
+ },
+ "c497f3290dfa": {
+  "id": "c497f3290dfa",
+  "url": "https://www.ithome.com/1/001/434.htm",
+  "title": "智能体时代的移动计算，Arm 通过一场大会给出自己的答案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-11T11:08:55Z",
+  "fetched_at": "2026-09-11T16:27:38.816954+00:00"
  }
 }
