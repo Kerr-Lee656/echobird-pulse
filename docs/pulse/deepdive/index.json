@@ -10069,5 +10069,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-11T17:15:58.191Z",
   "fetched_at": "2026-09-11T20:59:18.676920+00:00"
+ },
+ "100612fd29ec": {
+  "id": "100612fd29ec",
+  "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems",
+  "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T00:16:06.219044+00:00"
+ },
+ "f74f46e2933b": {
+  "id": "f74f46e2933b",
+  "url": "https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai",
+  "title": "UK Government Rejects 'Kill Switch' Idea For Dangerous AI",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T00:16:17.204492+00:00"
+ },
+ "5fa9ee23477e": {
+  "id": "5fa9ee23477e",
+  "url": "https://thenextweb.com/news/europes-first-truly-driverless-robotaxi-is-running-in-croatia-on-chinese-software",
+  "title": "Europe’s first truly driverless robotaxi is running in Croatia, on Chinese software",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T00:16:29.792088+00:00"
+ },
+ "e0fef2b3b1ae": {
+  "id": "e0fef2b3b1ae",
+  "url": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
+  "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T00:16:39.143954+00:00"
+ },
+ "30ca418aaf15": {
+  "id": "30ca418aaf15",
+  "url": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard",
+  "title": "AI agents are learning to spend money. Who will handle the payments?",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T00:16:50.846496+00:00"
+ },
+ "536fd16941c6": {
+  "id": "536fd16941c6",
+  "url": "https://capitalbnews.org/data-centers-permit-rules-epa",
+  "title": "The EPA is planning to scrap public review rules for data center pollution",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-09-11T18:05:21Z",
+  "fetched_at": "2026-09-12T00:17:03.460438+00:00"
  }
 }

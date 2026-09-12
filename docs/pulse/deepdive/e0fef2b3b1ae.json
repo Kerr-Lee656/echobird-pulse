@@ -1,0 +1,24 @@
+{
+ "id": "e0fef2b3b1ae",
+ "url": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
+ "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-12T00:16:39.143954+00:00",
+ "content": "OpenAI has stopped selling the $200 tier of ChatGPT Pro, saying demand for its Astra model is straining its systems. European organisations face a second constraint the pause does not touch, because Astra still has no EU data zone deployment and no paid option keeps processing inside the EU data boundary.\nOpenAI has paused new sign-ups to the $200 tier of ChatGPT Pro, TechCrunch reported, citing the load its newest model is putting on its systems. Astra launched on 3 September. Existing subscribers keep their plans.\nThe company’s help pages name the paused tier as Pro 20X. The $100 Pro plan remains on sale, along with Plus, Go, the API and enterprise accounts.\nFor European buyers the harder problem sits elsewhere. Astra reached Microsoft Foundry with no European data zone, and that has not changed.\nFoundry lists the model across 26 regions. All six of its data zone deployments are American.\nEuropean regions such as France Central and Germany West Central carry Astra only as a global deployment. Processing can then happen in any Azure region. No paid option keeps the model inside the EU data boundary.\nThibault Sottiaux, who leads product for Codex and ChatGPT, said the pause was the least disruptive option available. “We wanted to take the smallest step that allows us to continue giving the broadest access possible,” he wrote in a post quoted by TechCrunch.\nHe had said the previous day that demand for Astra was unprecedented. OpenAI also paused Astra in August, for a different reason, after deciding it could not rule out critical cyber capability.\nThat pause was about safety. This one is about supply.\nEuropean regulators are still working through the first. ENISA received access about a week after launch and is testing the model alongside Anthropic’s Mythos 5, according to the Commission.\nAnalysts read the freeze as a signal about allocation rather than a consumer inconvenience. Bhupendra Chopra, chief revenue officer at Kanerika, told Computerworld that frontier capacity is still rationed.\n“Consumer power users are the release valve,” he said. “Enterprise contracts are what the vendor protects.”\nHis advice was to treat model capacity as a supply chain dependency. A subscription buys a place in the queue, he said, while a fixed slice of compute comes only from a contract.\nThat is an awkward trade in Europe, because the contract that guarantees capacity does not guarantee where the data is processed. OpenAI says it is adding capacity as fast as it can, and gave no reopening date. Until an EU deployment appears, Europe’s cloud dependency applies to models as well as to servers.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Astra需求过载，OpenAI暂停200美元ChatGPT Pro新订阅",
+  "background": "Astra于9月3日发布，是OpenAI最新一代前沿模型。这并非它第一次被按下暂停键——8月OpenAI曾因无法排除其具备关键网络攻击能力而临时叫停，属安全考量；这次的暂停则是纯粹的算力供给问题。ENISA在发布约一周后获得访问权限，正与Anthropic的Mythos 5一同测试。对欧洲客户而言还有第二重困境：Astra上线Microsoft Foundry后始终没有欧盟数据区部署，数据驻留问题与算力紧张叠加，使欧洲企业的依赖风险进一步放大。",
+  "key_points": [
+   "被暂停的是200美元档Pro 20X的新注册，100美元Pro、Plus、Go、API和企业账户照常销售，已订阅用户不受影响。",
+   "OpenAI产品负责人称这是\"扰动最小的选择\"，目的是保持尽可能广泛的访问，同时坦言Astra的需求\"前所未有\"。",
+   "欧洲用户面临另一道门槛：Astra在Foundry的6个数据区部署全在美国，法国中部、德国中西部等欧洲区域只有全球部署，处理可落在任意Azure区域。",
+   "付费也无法把数据留在欧盟境内，合规客户陷入两难——能保证算力的合同，不保证数据处理地点。",
+   "分析师认为这本质是算力配给信号：消费级重度用户是\"泄压阀\"，企业合同才是厂商优先保护的对象。"
+  ],
+  "impact": "对AI行业而言，这是前沿模型产能瓶颈公开化的标志，算力配给正从幕后走向台前，模型容量被重新定义为供应链依赖。对开发者，API和大客户通道目前未受影响，但订阅制与容量保障的脱钩意味着团队需要重新评估供应商冗余与成本模型。对普通用户，最直接影响是200美元高阶档买不到，且短期内没有重开时间表；欧洲用户则还要额外面对数据治理与本地部署缺失带来的合规成本。",
+  "tools": "想跟进可关注：Microsoft Azure AI Foundry（查看Astra区域可用性与数据驻留选项）、OpenAI API与企业合同（获取相对稳定的容量分配）。若需数据留在欧盟，可评估Mistral、Aleph Alpha等欧洲本土模型，或基于开源模型自建推理，以规避跨境处理风险。"
+ },
+ "lang": "zh"
+}

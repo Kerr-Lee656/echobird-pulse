@@ -1,0 +1,24 @@
+{
+ "id": "f74f46e2933b",
+ "url": "https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai",
+ "title": "UK Government Rejects 'Kill Switch' Idea For Dangerous AI",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-12T00:16:17.204492+00:00",
+ "content": "UK Government Rejects 'Kill Switch' Idea For Dangerous AI 25\n\t\t\t\n\t\t \t\n\t\t\t\tThe UK government has rejected proposals for an emergency AI \"kill switch,\" arguing that blocking access to dangerous models inside Britain would do little if the same systems remained available or were developed elsewhere. The BBC reports:  The proposal to create a legal mechanism for the UK to switch off an AI model in an emergency has been brought to Parliament by lords and MPs in recent weeks as fears grow about the threat the tech poses. But the Cabinet Office - the part of government which leads on AI safety - said the UK \"cannot simply turn AI off\".\n \n\"Blocking access to models in the UK would not prevent them being developed or misused elsewhere,\" a spokesperson told BBC News. The government's opposition to the legislation does not prevent it from progressing through parliament, but makes it unlikely it will become law. \"Switching off access to an AI model in an emergency will do little to protect you,\" said former OpenAI researcher Daniel Kokotajilo. \"You're still going to be steamrolled by the super intelligences created in the US.\"\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n\"Blocking access to models in the UK would not prevent them being developed or misused elsewhere,\" a spokesperson told BBC News. The government's opposition to the legislation does not prevent it from progressing through parliament, but makes it unlikely it will become law. \"Switching off access to an AI model in an emergency will do little to protect you,\" said former OpenAI researcher Daniel Kokotajilo. \"You're still going to be steamrolled by the super intelligences created in the US.\"",
+ "report": {
+  "summary": "英国政府拒绝为危险AI设紧急“关停开关”，称单边封锁难挡他国开发。",
+  "background": "近两年各国加速AI安全立法：欧盟通过《AI法案》，美国出台行政令后又反复，英国则在2023年布莱切利宣言后成立AI安全研究所，整体走“促创新、轻立法”路线。随着前沿模型能力跃升，网络攻击、生物滥用等风险引发担忧。近期英国上议院议员与下院议员联合提出法案，要求建立法律机制，允许政府在紧急情况下切断某个AI模型在国内的访问。但负责AI安全的英国内阁办公室明确反对，理由是该技术天然跨境，单边关停无实际效果。",
+  "key_points": [
+   "提案核心：由议员推动立法，赋予英国政府在紧急状态下“关停”特定AI模型访问权的法定权力，被视为AI监管的“最后一根保险丝”。",
+   "政府驳回理由：AI模型可在境外开发、托管和调用，即便英国境内切断访问，也无法阻止其在别处被开发或滥用，属于单边管制失效。",
+   "程序后果：政府反对并不直接否决法案，议员仍可继续推动，但在缺乏执政党支持下，该法案几乎不可能最终成为法律。",
+   "专家质疑：前OpenAI研究员Kokotajlo直言关停意义有限——“你照样会被在美国造出来的超级智能碾压”，点出真正的风险源不在英国本土。",
+   "折射困境：争论焦点已从“要不要监管”变成“谁有权监管”，各国陷入单边行动无效、多边协调又难以落地的僵局。"
+  ],
+  "impact": "对AI行业而言，英国明确继续走“安全研究+自愿承诺”路线，前沿实验室短期内合规压力较小；对开发者，跨境部署模型时无需应对强制关停义务，但各国规则碎片化带来的司法风险在上升；对普通用户，日常几乎没有变化，代价是缺少一道理所当然的“保险丝”——真出现危险事件时，只能依赖企业自律与自愿协议。全球层面，这可能强化“监管洼地”竞争，推动企业把训练与部署迁往限制更少的司法辖区。",
+  "tools": "想跟进AI安全治理，可关注英国AI安全研究所（AISI）发布的评测框架及其开源工具Inspect，以及Garak、PyRIT等红队测试工具；政策侧可跟踪欧盟《AI法案》通用模型条款、OECD AI政策观察站，以及METR、AI 2027等前沿风险评估报告。"
+ },
+ "lang": "zh"
+}

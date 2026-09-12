@@ -1,0 +1,24 @@
+{
+ "id": "5fa9ee23477e",
+ "url": "https://thenextweb.com/news/europes-first-truly-driverless-robotaxi-is-running-in-croatia-on-chinese-software",
+ "title": "Europe’s first truly driverless robotaxi is running in Croatia, on Chinese software",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-12T00:16:29.792088+00:00",
+ "content": "Pony.ai and Verne have started fully driverless passenger rides in Zagreb, the first anywhere in Europe, with nobody in the driver’s seat and Uber taking the bookings. The pair want more than 2,000 robotaxis on European roads, but the only EU-wide approval route for a fully automated car is capped at 1,500 units a year and everything else runs on permission that stops at each national border.\nFully driverless passenger rides have started on public roads in Zagreb, the first anywhere in Europe, Pony.ai and Verne said. Nobody sits in the driver’s seat.\nThe rides follow a 22km route linking Verne’s headquarters, a central business district and Zagreb’s airport. Passengers book them through the Uber app.\nThe same partnership put Europe’s first commercial robotaxis on the road in Zagreb in April, with trained operators on board. Uber rides followed in August, with a safety driver.\nPony.ai’s seventh-generation system now makes the driving decisions, steering, braking and accelerating on its own. Verne watches the vehicles remotely. The car carries redundant sensors covering 360 degrees.\nThe base car is Chinese, an Arcfox Alpha T5 crossover. Verne has removed the front passenger seat for luggage and fitted a large screen where its backrest would be, InsideEVs reported.\nLondon is the useful comparison.\nUber and Wayve started Britain’s first robotaxi service on 3 September with a licensed safety driver in every car, legally responsible throughout. Transport for London approved the vehicles as private hire cars, not autonomous ones.\nCroatia has taken the person out. Britain has not.\nScaling is the harder question. Pony.ai already runs driverless services in four Chinese cities, and in August it said with Uber that more than 2,000 of its robotaxis would go on European roads, in Zagreb and four further cities. Verne’s chief executive Marko Pejkovic called the rides “a major milestone on the path to scaling autonomous mobility in Europe“.\nEuropean rules were not written for that number. A fully automated car can reach EU-wide approval only through the small series route, under Article 41 of the bloc’s type-approval regulation.\nGermany’s KBA puts the ceiling at 1,500 units a year across the whole union. The Commission lifted that limit in March, for cars that park themselves rather than for robotaxis.\nEverything else runs on national permission. The Zagreb rides are cleared under Croatian rules, and a Croatian clearance stops at the Croatian border.\nThat is why the map fills in one country at a time. WeRide is going to Denmark with GreenMobility in 2027, its sixth European country. Europe’s most advanced robotaxi is also its most local.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "欧洲首个真无人驾驶出租车在克罗地亚上线，采用中国软件。",
+  "background": "欧洲自动驾驶落地长期受制于碎片化法规：跨国统一审批难，各国许可不互认。此前 Pony.ai 与 Verne 已在萨格勒布推出带安全员的商业 robotaxi，并于 8 月接入 Uber。此次取消驾驶位安全员，意味着中国自动驾驶软件首次在欧洲公共道路承担完全无人驾驶载客，成为欧洲 robotaxi 监管与技术竞争的新样本。",
+  "key_points": [
+   "Pony.ai 与 Verne 在克罗地亚萨格勒布启动完全无人驾驶载客，车内驾驶位无人，乘客通过 Uber 下单，路线约 22 公里，连接总部、市中心与机场。",
+   "车辆基于中国北汽极狐 Alpha T5，搭载 Pony.ai 第七代系统，自主完成转向、刹车与加速；Verne 远程监控，车辆配 360 度冗余传感器。",
+   "这是渐进升级：4 月先推带操作员的商业 robotaxi，8 月接入 Uber 但仍配安全员，如今才真正移除驾驶位人员。",
+   "与伦敦对比鲜明：Uber 与 Wayve 9 月上线英国首个 robotaxi 服务，但每车仍有持牌安全员，且被 TfL 按私租车而非自动驾驶车监管。",
+   "规模化受欧洲法规卡脖子：全自动车走小系列审批，欧盟上限仅 1500 辆/年；其他靠各国许可，一出境即失效。Pony.ai 计划在欧洲投放超 2000 辆。"
+  ],
+  "impact": "对 AI 行业，这是中国自动驾驶全栈方案在欧洲的首次真无人验证，可能加速 robotaxi 国际化与监管竞速。对开发者，远程监控、冗余感知、功能安全与跨境合规将成为核心能力。对普通用户，克罗地亚机场线已可体验无安全员打车，但服务仍按国家/城市碎片化推进，短期难像网约车一样跨国普及。",
+  "tools": "想跟进可关注 Pony.ai、Verne、Uber 与 Wayve 的落地进展；开发者可研究百度 Apollo、Autoware 等自动驾驶开源栈，并用 CARLA 仿真测试感知与规控。"
+ },
+ "lang": "zh"
+}
