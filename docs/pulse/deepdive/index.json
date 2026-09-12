@@ -10204,5 +10204,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-12T13:00:39Z",
   "fetched_at": "2026-09-12T18:22:40.056066+00:00"
+ },
+ "1f0a791bbdf6": {
+  "id": "1f0a791bbdf6",
+  "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+  "title": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T22:16:06.638066+00:00"
+ },
+ "b9d28eb17909": {
+  "id": "b9d28eb17909",
+  "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+  "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T22:16:15.487169+00:00"
+ },
+ "922a5582a911": {
+  "id": "922a5582a911",
+  "url": "https://www.36kr.com/p/3979884174244613",
+  "title": "黄仁勋或砸100亿投注Anthropic巨额IPO！",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T22:16:23.610461+00:00"
+ },
+ "14f64bfead13": {
+  "id": "14f64bfead13",
+  "url": "https://finance.yahoo.com/technology/ai/articles/oil-next-50-years-trump-144401770.html",
+  "title": "“未来50年的石油”——特朗普盛赞人工智能数据中心能为社区带来财富和投资",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-12T15:02:47.257Z",
+  "fetched_at": "2026-09-12T22:16:56.772694+00:00"
+ },
+ "eb7de2988e48": {
+  "id": "eb7de2988e48",
+  "url": "https://www.ithome.com/1/001/653.htm",
+  "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-12T14:53:32Z",
+  "fetched_at": "2026-09-12T22:17:04.253672+00:00"
+ },
+ "08c04bcea1d2": {
+  "id": "08c04bcea1d2",
+  "url": "https://www.ithome.com/1/001/650.htm",
+  "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-12T14:27:39Z",
+  "fetched_at": "2026-09-12T22:17:12.822641+00:00"
  }
 }

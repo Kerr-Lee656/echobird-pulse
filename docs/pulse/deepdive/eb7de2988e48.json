@@ -1,0 +1,24 @@
+{
+ "id": "eb7de2988e48",
+ "url": "https://www.ithome.com/1/001/653.htm",
+ "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-12T14:53:32Z",
+ "fetched_at": "2026-09-12T22:17:04.253672+00:00",
+ "content": "IT之家 9 月 12 日消息，据《商业内幕》今天（12 日）凌晨报道，谷歌完成了对旧金山 AI 编程初创企业 Mechanize 的人才收购。\nMechanize 联合创始人塔迈 · 贝西罗格鲁的 LinkedIn 资料显示，他自 8 月起加入了谷歌 DeepMind 部门，另有报道称，Mechanize 十多名工程师也一同转投 DeepMind。\n交易财务条款现已公开，据信谷歌此前曾洽谈一笔价值 15 亿美元（IT之家注：现汇率约合 100.88 亿元人民币）的交易，以获得 Mechanize 的技术和人才。Mechanize 今年早些时候曾以 5 亿美元（现汇率约合 33.63 亿元人民币）估值融资 910 万美元（现汇率约合 6,120 万元人民币），目前由吉夫 · 阿萨迪担任 CEO。失去创始团队后，Mechanize 预计仍会继续运营其他业务。\n这种交易通常被称为人才收购（acqui-hire）。对谷歌这样的科技巨头而言，这种方式可以同时获得关键人才和技术，又不必像正式并购那样接受美国联邦贸易委员会（FTC）、英国竞争与市场管理局（CMA）等机构的反垄断审查。\n谷歌此前收拢 Windsurf 团队时也采取了类似方式，Windsurf 前 CEO 瓦伦 · 莫汉后来负责谷歌 Antigravity AI IDE。此次加入谷歌的 Mechanize 员工主要从事中期训练，希望借此提升模型实力，在与 Anthropic 和 OpenAI 的竞争中取得优势。\nMechanize 此前的技术和工程重点，就是提升 AI 模型完成软件工程和编程任务的能力。报道指出，这恰好是谷歌近期部分模型表现不佳的领域。除了创办 Mechanize，贝西罗格鲁还拥有 AI 模型测试经验，此前曾联合创立专门构建 AI 基准测试的 Epoch AI。\n接下来，这笔人才收购能否帮助谷歌解决 Gemini Pro 模型延期的问题值得关注。如果谷歌继续受阻，Anthropic 和 OpenAI 则可以凭借 GPT-6 Astra、Claude Fable 等模型进一步扩大领先优势。\n相关阅读：",
+ "report": {
+  "summary": "谷歌人才收购Mechanize团队，补齐AI编程短板。",
+  "background": "谷歌近期在AI编程和软件工程任务上表现不佳，Gemini Pro模型出现延期，与OpenAI、Anthropic的竞争压力增大。Mechanize是一家旧金山AI编程初创公司，专注提升模型完成软件工程任务的能力，今年早些时候以5亿美元估值融资910万美元。此前谷歌曾洽谈价值15亿美元的交易获取其技术与人才，最终以人才收购（acqui-hire）方式完成。这种方式可规避FTC、CMA等机构的反垄断审查，谷歌收编Windsurf团队时也采用过类似操作。",
+  "key_points": [
+   "谷歌以人才收购方式拿下Mechanize十多名工程师和联合创始人，避免正式并购带来的反垄断审查。",
+   "Mechanize创始人贝西罗格鲁8月加入谷歌DeepMind，主要从事中期训练，旨在提升模型实力。",
+   "Mechanize专攻AI编程与软件工程能力，这正是谷歌近期模型的短板，也是Gemini Pro延期后的补强重点。",
+   "这是谷歌短期内第二次类似操作，此前收编Windsurf团队，其前CEO负责谷歌Antigravity AI IDE。",
+   "失去创始团队后Mechanize仍继续运营其他业务，反映AI人才加速向巨头集中的行业趋势。"
+  ],
+  "impact": "对AI行业而言，编程能力正成为大模型竞争的核心战场，人才收购成为巨头规避监管、快速补强的常规手段。对开发者来说，AI编程助手竞争将更激烈，工具能力有望提升，但初创生态面临人才被抽血的风险。对普通用户，谷歌补齐编程短板后，Gemini等产品写代码、做软件的能力可能改善，未来AI编程工具会更普及、更好用。",
+  "tools": "可关注谷歌Gemini CLI与Antigravity IDE、Claude Code、Cursor、Windsurf等AI编程工具；想追踪评测基准可看Epoch AI；Mechanize若有开源项目或技术博客也值得跟进。"
+ },
+ "lang": "zh"
+}

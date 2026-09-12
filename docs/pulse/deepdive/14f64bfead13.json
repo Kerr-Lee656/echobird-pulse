@@ -1,0 +1,23 @@
+{
+ "id": "14f64bfead13",
+ "url": "https://finance.yahoo.com/technology/ai/articles/oil-next-50-years-trump-144401770.html",
+ "title": "“未来50年的石油”——特朗普盛赞人工智能数据中心能为社区带来财富和投资",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-12T15:02:47.257Z",
+ "fetched_at": "2026-09-12T22:16:56.772694+00:00",
+ "content": "‘The Oil of the Next 50 Years’ — Trump Touts AI Data Centers Delivering Wealth and Investment to Communities\nQuick Read\n-       Google (GOOG) doubled capex to $45 billion in a single quarter as Q2 revenue surged 24% to $120 billion and Cloud jumped 82%.\n-       Trump's wealth-creator pitch ignores that U.S. electricity prices are rising 61% faster than CPI while AI power demand is set to rise 14-fold by 2028.\n-       Just released. Our analysts combed the entire stock market and named the ten best stocks to buy right now, and Google didn't make the cut. Enter your email to see the names that beat GOOG. The report is free. Enter your email and see if any of your stocks made the cut.\nOn a recent appearance on Laura Ingraham's The Ingraham Angle, President Trump called AI data centers \"the oil of the next 50 years,\" arguing the buildout is delivering wealth and investment to American communities. He singled out Google (NASDAQ:GOOG) for building one in Europe, specifically Finland, and said he \"wasn't happy about that.\" He also claimed the community backlash against data centers was a PR campaign run by China.\nThe framing lands squarely on Google CEO Sundar Pichai, whose own words on the Q2 FY2026 call describe a company building the physical layer of that new economy at unprecedented scale.\nPichai Frames AI as a Secular Shift\nOn the July 22, 2026 call, Pichai told analysts: \"It feels like we are in very early innings of what feels like secular shift across multiple areas in our core information businesses.\" He added that Google is \"supply constrained\" and that \"the demand still outpaces that investment.\"\nThe financials support the framing. Q2 revenue reached $119.80 billion, up 24.2% year over year, with Google Cloud accelerating to $24.77 billion, up 82%. Cloud backlog hit $514 billion, and nearly 90% of the Fortune 100 use Gemini Enterprise. EPS came in at $9.11 against a $3.0427 estimate.\nFree Report, Just Released\nWhy Didn't GOOG Make The Top 10 List?\n24/7 Wall St has helped investors make money for over two decades, and our top analysts just finished ranking the definitive Top 10 Stocks To Buy Now. Not the ten biggest companies. Not the ten everyone is arguing about. The ten best stocks to buy right now.\nAnd GOOG didn't make the cut!\nThe report is free, and you can see why we think each stock is a top investment today.\nEnter Your Email and See the Ten →\nCapex at $45 Billion in One Quarter\nPichai said the payoff justifies the spend: \"Our AI investments are redefining what's possible across every part of our business.\" Q2 capital expenditures hit $44.92 billion, up 100.14% year over year, driving free cash flow to negative $5.855 billion. Long-term debt jumped from $46.5 billion to $98.2 billion, and full-year 2026 capex is guided to $175 billion to $185 billion.",
+ "report": {
+  "summary": "特朗普称AI数据中心是未来50年石油，谷歌激进扩张引关注。",
+  "background": "特朗普在电视节目中把AI数据中心称为“未来50年的石油”，称其将为美国社区带来财富与投资，同时批评谷歌在芬兰建数据中心，并把社区反对声称为中国主导的公关。与此同时，谷歌Q2财报显示AI基建投入空前：营收1198亿美元、云业务增82%、单季资本开支449.2亿美元，全年指引1750亿至1850亿美元。AI算力扩张与电价上涨、电力需求激增的矛盾正在显现。",
+  "key_points": [
+   "特朗普将AI数据中心类比为“未来50年的石油”，强调其能带来社区财富和投资；但他不满谷歌在芬兰建设，并称反对数据中心的声音是中国公关。",
+   "谷歌Q2营收达1198亿美元，同比增长24.2%；云业务营收247.7亿美元，猛增82%，云积压订单达5140亿美元，近九成财富100强使用Gemini Enterprise。",
+   "谷歌单季资本开支449.2亿美元，同比翻倍；全年资本开支指引1750亿至1850亿美元，自由现金流转为负58.55亿美元，长期债务从465亿升至982亿美元。",
+   "皮查伊称AI是多个核心业务的长期性转变，仍处早期；谷歌受供给约束，需求超过投资。但美国电价涨幅比CPI快61%，AI电力需求预计2028年增14倍。"
+  ],
+  "impact": "对AI行业，算力基建竞赛升级，资本开支、债务、电力供应成关键变量；对开发者，云AI与Gemini生态机会增多，但推理成本和算力供给约束更突出；对普通用户，AI服务会更普及，但电价、数据中心选址和社区利益冲突可能升温，创新与基础设施负担需再平衡。",
+  "tools": "可关注Google Cloud、Gemini Enterprise、TPU及数据中心投资动态；开源可看vLLM、TensorRT-LLM、Ray、Kubernetes/Kueue等推理调度工具，以及Electricity Maps等能耗监测项目。"
+ },
+ "lang": "zh"
+}
