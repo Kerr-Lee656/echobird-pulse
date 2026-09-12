@@ -1,0 +1,24 @@
+{
+ "id": "2407fa05450f",
+ "url": "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale",
+ "title": "Nvidia may put $10bn into Anthropic’s IPO, more than Europe’s largest AI round in full",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-12T18:21:57.957069+00:00",
+ "content": "Nvidia is in talks to invest up to $10bn in Anthropic’s initial public offering, which seeks as much as $100bn at a valuation near $2trn and would be the largest listing in history. Three days earlier it returned as an investor in Mistral’s EUR 3bn round, the largest ever raised by a European technology company and worth less than the cheque Nvidia is now weighing.\nNvidia is in talks to invest as much as $10B in Anthropic‘s initial public offering as an anchor investor, Reuters reported. Anthropic is seeking to raise up to $100B at a valuation of around $2T.\nThat would be the largest listing in history. SpaceX raised $75B in June and listed at $1.77T.\nTNW reported last month that a raise on that scale would be ten times Europe’s largest listing in decades, Porsche’s EUR 9.4B in 2022.\nNvidia is also Anthropic’s supplier, and has already committed up to $10B to the company separately. Anthropic’s quarterly revenue passed $11.5B in August, fourteen times a year earlier. Neither company has commented on the report.\nThree days before it appeared, Nvidia was doing something similar in Europe. It returned as an investor in Mistral’s EUR 3B round, which closed on 8 September at a valuation above EUR 21B.\nThat was the largest equity round a European technology company has ever raised.\nThe cheque Nvidia is weighing for Anthropic is bigger than all of it, and close to half of what Mistral is worth in total.\nBoth companies buy Nvidia chips.\nThe pattern has a name in the United States now. Nvidia invests in companies that buy its chips, then supplies them, and in some cases leases the hardware back. The Bank for International Settlements has warned that the terms of these arrangements are poorly disclosed.\nEurope runs a smaller version of the same circuit. ASML led Mistral’s previous round, and Mistral borrowed $830M from seven banks to buy 13,800 Nvidia chips for a data centre south of Paris.\nWhat the money is for differs. Mistral’s round funds compute inside Europe, a gigawatt of it by 2030, and a business built on selling sovereignty to governments and regulated industries.\nEmmanuel Macron called that a third way in AI. Anthropic’s proposition is that there is one way, and it is selling it.\nThe prospectus is expected this month, with the listing days before the midterms. European institutions will be offered a piece of it, priced in part by an American supplier that already owns a slice of the alternative.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英伟达拟百亿美元锚定Anthropic IPO",
+  "background": "英伟达正与Anthropic洽谈，拟在其IPO中最多投资100亿美元。Anthropic寻求最高募资1000亿美元，估值约2万亿美元，或成史上最大上市。三天前，英伟达刚参与Mistral 30亿欧元融资，后者为欧洲科技公司最大股权轮。两家公司都采购英伟达芯片，英伟达既是供应商又是投资方，“投资客户—卖芯片—回租硬件”模式引发国际清算银行对披露不足的警告。",
+  "key_points": [
+   "英伟达拟作为锚定投资者，最多向Anthropic IPO投资100亿美元；Anthropic目标募资至多1000亿美元，估值约2万亿美元，或刷新全球最大IPO纪录。",
+   "Anthropic 8月季度营收突破115亿美元，同比增长14倍；英伟达此前已另行承诺最多100亿美元，并是其芯片供应商，投资与供货深度绑定。",
+   "对比三天前Mistral 30亿欧元融资，英伟达对Anthropic的潜在支票更大，接近Mistral总估值一半，凸显美国AI资本规模远超欧洲。",
+   "英伟达形成“投资客户—卖芯片—有时回租硬件”的循环交易；国际清算银行警告相关安排披露不足，可能放大算力与资本泡沫风险。",
+   "欧洲走不同路线：Mistral借8.3亿美元买1.38万块英伟达芯片，在巴黎南建数据中心，主打算力主权；Anthropic则向全球售卖单一AI方案。"
+  ],
+  "impact": "对AI行业，资本进一步向头部集中，算力与资本闭环加深，监管将更关注循环交易和披露透明度。对开发者，Anthropic与Mistral资源更充足，但平台锁定、定价和供应依赖风险上升，开源与欧洲替代仍有空间。对普通用户，AI服务可能更快普及，但巨头联盟会左右选择，数据主权和价格透明度值得关注。",
+  "tools": "想跟进可关注：Anthropic Claude API与模型卡；Mistral的Le Chat、Mistral/Mixtral开源模型；英伟达CUDA、NIM与AI Enterprise；并留意Anthropic招股书及国际清算银行相关披露报告。"
+ },
+ "lang": "zh"
+}

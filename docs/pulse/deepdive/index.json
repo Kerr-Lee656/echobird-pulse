@@ -10168,5 +10168,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-12T06:58:00Z",
   "fetched_at": "2026-09-12T10:43:40.549761+00:00"
+ },
+ "2407fa05450f": {
+  "id": "2407fa05450f",
+  "url": "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale",
+  "title": "Nvidia may put $10bn into Anthropic’s IPO, more than Europe’s largest AI round in full",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-12T18:21:57.957069+00:00"
+ },
+ "c1d961027b22": {
+  "id": "c1d961027b22",
+  "url": "https://www.qbitai.com/2026/09/487796.html",
+  "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T18:22:08.684492+00:00"
+ },
+ "bb0f60fa27eb": {
+  "id": "bb0f60fa27eb",
+  "url": "https://www.qbitai.com/2026/09/487701.html",
+  "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T18:22:17.534639+00:00"
+ },
+ "3ef0b6e394b6": {
+  "id": "3ef0b6e394b6",
+  "url": "https://www.huxiu.com/article/4890703.html?f=rss",
+  "title": "智谱上市后募资，大模型战场变了",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-12T13:00:39Z",
+  "fetched_at": "2026-09-12T18:22:40.056066+00:00"
  }
 }
