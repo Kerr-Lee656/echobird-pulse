@@ -2716,5 +2716,23 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-11T04:00:00.000Z",
   "fetched_at": "2026-09-11T04:36:49.813058+00:00"
+ },
+ "876fe6c1edb8": {
+  "id": "876fe6c1edb8",
+  "url": "https://github.com/volcengine/OpenViking",
+  "title": "volcengine/OpenViking — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-12T04:37:28.201498+00:00"
+ },
+ "13cafb8278b4": {
+  "id": "13cafb8278b4",
+  "url": "https://arxiv.org/abs/2609.10712",
+  "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-12T04:00:00.000Z",
+  "fetched_at": "2026-09-12T04:38:18.083852+00:00"
  }
 }
