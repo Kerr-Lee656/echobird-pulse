@@ -10123,5 +10123,50 @@
   "site_name": "Zeli",
   "published_at": "2026-09-11T18:05:21Z",
   "fetched_at": "2026-09-12T00:17:03.460438+00:00"
+ },
+ "a2024b934617": {
+  "id": "a2024b934617",
+  "url": "https://hub.baai.ac.cn/view/57896",
+  "title": "GPT-6 Astra 登顶抗体可开发性预测，成 AlphaFold 之后最大震撼",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T10:43:02.923218+00:00"
+ },
+ "352c3b00ff05": {
+  "id": "352c3b00ff05",
+  "url": "https://hub.baai.ac.cn/view/57895",
+  "title": "Anthropic 承认 Claude 安全对齐存在缺陷，但「尚无解决方案」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T10:43:11.654716+00:00"
+ },
+ "bc0cb293e8e8": {
+  "id": "bc0cb293e8e8",
+  "url": "https://hub.baai.ac.cn/view/57897",
+  "title": "AI 数学的最后一道高墙，塌了！GPT-6 Astra 刷穿 FrontierMath Tier 4",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-12T10:43:21.268858+00:00"
+ },
+ "755d29026cc7": {
+  "id": "755d29026cc7",
+  "url": "https://www.ithome.com/1/001/587.htm",
+  "title": "Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-12T07:54:20Z",
+  "fetched_at": "2026-09-12T10:43:32.247643+00:00"
+ },
+ "2acfc59f7d5a": {
+  "id": "2acfc59f7d5a",
+  "url": "https://www.ithome.com/1/001/578.htm",
+  "title": "国家超算互联网注册用户量突破 170 万，国产算力占比超 95%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-12T06:58:00Z",
+  "fetched_at": "2026-09-12T10:43:40.549761+00:00"
  }
 }

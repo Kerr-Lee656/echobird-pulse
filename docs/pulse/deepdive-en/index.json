@@ -2734,5 +2734,59 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-12T04:00:00.000Z",
   "fetched_at": "2026-09-12T04:38:18.083852+00:00"
+ },
+ "1e47642bfb81": {
+  "id": "1e47642bfb81",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "title": "awslabs/aidlc-workflows — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-12T10:44:38.108702+00:00"
+ },
+ "d507377bd90d": {
+  "id": "d507377bd90d",
+  "url": "https://github.com/atlassian/atlassian-mcp-server",
+  "title": "atlassian/atlassian-mcp-server — Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-12T10:44:50.317120+00:00"
+ },
+ "fc37e5757c2a": {
+  "id": "fc37e5757c2a",
+  "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+  "title": "Perplexity trusts GPT‑6 Astra with end-to-end systems",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T09:05:37Z",
+  "fetched_at": "2026-09-12T10:46:49.995554+00:00"
+ },
+ "0977187d72c5": {
+  "id": "0977187d72c5",
+  "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+  "title": "AI may be denting computer science graduates' job prospects, UK data shows",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T08:57:43Z",
+  "fetched_at": "2026-09-12T10:47:03.198721+00:00"
+ },
+ "3c87705c98ee": {
+  "id": "3c87705c98ee",
+  "url": "https://github.com/google/artemis",
+  "title": "Artemis: Google's new AI agent framework for mobile test automation",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T06:34:28Z",
+  "fetched_at": "2026-09-12T10:47:14.842478+00:00"
+ },
+ "63d090b212ae": {
+  "id": "63d090b212ae",
+  "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+  "title": "Russian developers used Claude to build 'kamikaze' attack drone software",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T06:02:57Z",
+  "fetched_at": "2026-09-12T10:47:47.931050+00:00"
  }
 }
