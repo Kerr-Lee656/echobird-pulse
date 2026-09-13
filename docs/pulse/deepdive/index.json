@@ -10411,5 +10411,14 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-13T11:58:29.171Z",
   "fetched_at": "2026-09-13T16:16:17.694946+00:00"
+ },
+ "98410a2ae93d": {
+  "id": "98410a2ae93d",
+  "url": "https://slashdot.org/story/26/09/12/2318204/malicious-openai-agents-linked-to-rubygems-campaign-that-gained-rce-on-rubydoc-servers-in-may",
+  "title": "Malicious OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers in May",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T18:47:40.267110+00:00"
  }
 }
