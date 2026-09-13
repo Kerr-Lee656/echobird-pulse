@@ -1,0 +1,24 @@
+{
+ "id": "e6dd64aa6dd8",
+ "url": "https://mashable.com/tech/nvidia-could-bankroll-anthropic-ipo",
+ "title": "Nvidia may bankroll Anthropics massive IPO",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T00:01:36.079394+00:00",
+ "content": "Nvidia may bankroll Anthropic's massive IPO\nAnthropic is reportedly in talks with Nvidia to secure funding for its upcoming IPO, according to an exclusive report from Reuters. If the deal goes through, it'd make Anthropic's IPO one of the largest stock market debuts ever.\nReuters report cites two people familiar with the discussions between the Claude maker and Nvidia, although they weren't at liberty to speak publicly. According to Reuters, Anthropic is looking to raise as much as $100 billion in the offering, which would raise the company's valuation to around $2 trillion.\nThat would put Anthropic in the same financial weight class as some of the world's largest public companies, despite not yet being publicly traded itself. One source told Reuters that Nvidia is considering investing up to $10 billion as part of the deal, though the terms are still being worked out and could change.\nYou May Also Like\nAnthropic declined to comment on the discussions, and Nvidia did not respond to Reuters' request for comment.\nKnown as anchor investing, lining up a major investor ahead of an IPO has become common practice for companies planning especially large listings. A well-known backer buying in early can reassure the broader market that the offering is a safe bet. Reuters noted that Nvidia and Amazon played similar roles in chip designer Arm's IPO, while Saudi Arabia's sovereign wealth fund did the same for SpaceX.\nIf it goes forward, Anthropic's IPO would extend a wave of major stock listings this year, following Elon Musk's SpaceX going public in June. Citing Dealogic data, Reuters reported that U.S. IPOs, excluding blank-check companies, had already raised a record $137 billion through the end of August.\nNvidia and Anthropic already have significant financial ties. Reuters reported that Nvidia agreed last November to invest up to $10 billion in Anthropic as part of a broader partnership under which Anthropic committed to spending $30 billion on Microsoft's Azure cloud service, which runs on Nvidia chips.\nA new investment tied to the IPO would further deepen that relationship.\nChance Townsend is the General Assignments Editor at Mashable, covering tech, video games, dating apps, digital culture, and whatever else comes his way. He has a Master's in Journalism from the University of North Texas and is a proud orange cat father. His writing has also appeared in PC Mag and Mother Jones.\nIn his free time, he cooks, loves to sleep, and greatly enjoys Detroit sports. If you have any tips or want to talk shop about the Lions, you can reach out to him on Bluesky @offbrandchance.bsky.social, by email at [email protected], or on Signal at 224-417-6628.",
+ "report": {
+  "summary": "英伟达或注资Anthropic IPO，估值有望冲2万亿美元",
+  "background": "Anthropic 是 Claude 的开发商，与 OpenAI 正面竞争。路透独家报道称，它正与英伟达洽谈 IPO 锚定投资。双方早有深度绑定：去年 11 月英伟达同意投资至多 100 亿美元，Anthropic 则承诺在微软 Azure 上支出 300 亿美元，而 Azure 跑在英伟达芯片上。今年 AI 公司掀起上市潮，SpaceX 6 月上市，美股 IPO 年内募资已达创纪录的 1370 亿美元，锚定投资成为超大型 IPO 的常规操作。",
+  "key_points": [
+   "路透援引知情人士称，Anthropic 正与英伟达商谈 IPO 锚定投资，英伟达考虑投入至多 100 亿美元，条款仍在敲定中。",
+   "Anthropic 计划募资至多 1000 亿美元，上市后估值约 2 万亿美元，将跻身全球最大上市公司之列，成为史上最大 IPO 之一。",
+   "所谓锚定投资，就是上市前锁定知名大买家以稳定市场信心；英伟达和亚马逊曾在 Arm 上市时扮演同样角色。",
+   "双方关系已相当紧密：英伟达此前承诺投资 100 亿美元，换来 Anthropic 承诺采购 300 亿美元的 Azure 云服务。",
+   "Anthropic 拒绝置评，英伟达未回应；条款仍可能变化，交易未必最终达成。"
+  ],
+  "impact": "对 AI 行业：芯片巨头与头部模型公司的资本绑定进一步加深，算力与模型高度集中，可能引发“循环投资”和反垄断层面的质疑。对开发者：Claude 生态资金更充裕、迭代更快，但算力与云服务选择会受资本关系牵引，议价空间变小。对普通用户：短期可期待更稳定、更便宜的服务，长期则需警惕少数巨头垄断带来的定价权和创新放缓。",
+  "tools": "想跟进可关注 Claude API 与 Claude Code、MCP 协议；英伟达的 CUDA、NIM 推理微服务；追踪交易与上市动态可用 SEC EDGAR、Crunchbase、PitchBook。自建替代方案可参考 vLLM、SGLang 等开源推理框架。"
+ },
+ "lang": "zh"
+}

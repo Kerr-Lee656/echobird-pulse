@@ -2788,5 +2788,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-12T06:02:57Z",
   "fetched_at": "2026-09-12T10:47:47.931050+00:00"
+ },
+ "343f409b3424": {
+  "id": "343f409b3424",
+  "url": "https://github.com/obot-platform/obot",
+  "title": "obot-platform/obot — Complete AI Governance Platform from Obot AI",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-13T00:02:46.304713+00:00"
+ },
+ "74e0afcc3b68": {
+  "id": "74e0afcc3b68",
+  "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837",
+  "title": "Rivals Altman and Musk rally behind Dario Amodei's call for an AI slowdown",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T22:07:08Z",
+  "fetched_at": "2026-09-13T00:03:12.960113+00:00"
+ },
+ "593440c97619": {
+  "id": "593440c97619",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+  "title": "OpenAI's rogue AI tried to hack another company in May",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T22:07:06Z",
+  "fetched_at": "2026-09-13T00:03:27.911952+00:00"
+ },
+ "c0e1e822a4c9": {
+  "id": "c0e1e822a4c9",
+  "url": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w",
+  "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+  "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-12T20:18:42.000Z",
+  "fetched_at": "2026-09-13T00:04:46.969506+00:00"
+ },
+ "50a1b1beb457": {
+  "id": "50a1b1beb457",
+  "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+  "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+  "source": "Hacker News (15pts, 14c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-12T19:49:12Z",
+  "fetched_at": "2026-09-13T00:05:01.903668+00:00"
  }
 }

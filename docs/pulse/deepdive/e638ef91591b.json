@@ -1,0 +1,24 @@
+{
+ "id": "e638ef91591b",
+ "url": "https://thenextweb.com/news/altman-matches-pacing-eu-antitrust",
+ "title": "Sam Altman backs Dario Amodei’s call to slow down, and says OpenAI will do the same",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T00:01:26.421917+00:00",
+ "content": "Sam Altman says OpenAI will match Anthropic’s commitment to give independent evaluators employee-like access, a day after Dario Amodei asked the industry to slow down and asked Washington for a narrow antitrust waiver so competitors could coordinate. Europe has no waiver to grant, because Brussels abolished individual exemptions in 2004, and the only soft safe harbour it has since written for competitor standards covers sustainability.\nOpenAI has said it will match Anthropic’s safety commitment, a day after Dario Amodei asked the industry to slow down. “I agree with Dario that we need to pace the frontier,” Sam Altman wrote, as Axios reported.\nHe called independent evaluators with employee-like access a great idea, said OpenAI would do the same, and promised more to share soon. Pacing had been a primary topic of discussion inside OpenAI in recent weeks, he added.\nElon Musk, who runs xAI, was briefer. “Dario is right,” he posted.\nAmodei’s essay on Saturday asked frontier labs to let outside teams verify their safety work from inside their offices. Anthropic’s own version gives them desks, badges, company laptops and the right to publish what they find. It also asked Washington for something harder.\nHe wants a narrow waiver, so that competitors can hold safety conversations without the conversations themselves becoming the legal problem. Governments need not take part, he wrote, only permit the discussions.\nTwo of the largest labs have now agreed a common commitment in public, inside a day. That is the first rung of the three-step plan Amodei set out.\nIn Europe there would be nobody to ask.\nThe Commission stopped granting individual exemptions when Regulation 1/2003 took effect in 2004. Before that, companies notified their agreements to Brussels and waited. Competitors now assess their own against Article 101 and live with the answer.\nWhat Europe has instead is a precedent. It rewrote its horizontal cooperation guidelines in 2023, expanding them from 72 pages to 167.\nThe new text carries a 21-page chapter on sustainability agreements, including a soft safe harbour for standards that meet six conditions. It also reworked the chapters on standardisation and on information exchange between rivals.\nThat is close to the machinery Amodei is asking America to build. Europe has already built it once, for a different public good.\nThere is no equivalent chapter for safety standards, and nobody has asked for one.\nHis essay does not mention Europe, and neither did Altman’s reply. The Commission’s own tech chief said last week that global rules are needed.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Altman支持放缓AI呼吁，OpenAI将匹配外部安全评估",
+  "background": "Dario Amodei周六发文，呼吁前沿AI实验室放缓竞赛，允许外部独立评估者以类似员工身份进入内部核查安全，并向华盛顿申请窄范围反垄断豁免，让竞争对手能协调安全事务。次日Sam Altman公开赞同，称OpenAI将匹配Anthropic承诺。但欧洲自2004年起取消个别反垄断豁免，只有可持续协议软安全港先例，没有AI安全标准豁免通道。",
+  "key_points": [
+   "Altman称“同意Dario，需要给前沿竞赛定节奏”，并说独立评估者拥有类似员工权限是个好主意，OpenAI将照做，很快公布更多细节。",
+   "Amodei要求前沿实验室让外部团队进驻办公室，Anthropic已提供工位、门禁、公司电脑，并允许其公开发布发现。",
+   "他还向美国政府申请窄豁免，仅允许竞争对手讨论安全问题，不必政府参与；欧洲因2004年废除个别豁免，没有对应机制可批。",
+   "欧洲2023年横向合作指南用21页写可持续协议软安全港，可作为安全标准协调模板，但目前没有AI安全章节，也无人申请。",
+   "马斯克简短表态“Dario说得对”；两大实验室一天内公开共同承诺，是Amodei三步计划的第一步。"
+  ],
+  "impact": "对AI行业，安全评估与同行协调可能从自愿口号变成竞争门槛，头部实验室先结盟，反垄断法却可能拖慢跨公司合作。对开发者，外部审计、红队和可复现安全报告或成合规常态，需提前准备文档与接口。对普通用户，模型透明度与安全披露有望提升，但若欧洲缺席规则制定，全球标准可能由美国主导。",
+  "tools": "可关注：Inspect（英国AI安全研究所开源评估框架）、HELM（斯坦福模型评测）、MLCommons AI Safety、Model Cards、Red Teaming 工具，以及Anthropic/OpenAI未来公布的外部评估机制。"
+ },
+ "lang": "zh"
+}

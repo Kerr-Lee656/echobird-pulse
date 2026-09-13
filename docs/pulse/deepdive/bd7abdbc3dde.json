@@ -1,0 +1,24 @@
+{
+ "id": "bd7abdbc3dde",
+ "url": "https://daringfireball.net/linked/2026/09/12/buckmaster-statement",
+ "title": "Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem",
+ "source": "Daring Fireball",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T00:01:49.847085+00:00",
+ "content": "By John Gruber\nGlyphs 4: Create fonts, icons, logos. On your Mac.\nTristan Buckmaster, professor of mathematics at NYU, in his own statement, regarding his and Levent Alpöge’s interactions with employees at OpenAI regarding this week’s math-proof controversy:\n  I asked when the first prompt had been sent by them. This question was not answered directly by OpenAI for some time. Eventually it was agreed that it had been sent in the past few days, after information about our work had reached OpenAI.\nI asked whether the model had been trained on, or had access to, our sessions in Codex, into which we had been putting all our drafts for the whole of this project. I was told the model did not look up user data. I asked again, about training, and I did not get an answer.\nTwo proposals were offered to me. The first was that we post our Euler result, and that OpenAI post its Navier-Stokes result the next day. The second was that, after posting Euler, I alone write a paper presenting the Navier-Stokes result, acknowledging that an internal OpenAI model had resolved it. Sebastien twice asserted that he wanted Levent removed from authorship, and said it would all be simple if only it were not the case that, and it was so annoying that, Levent works at Anthropic. It was also said that if OpenAI posted after us, they would say that we deserved the Clay Prize, and that we were the “closest humans to the problem”. I declined both offers.\nI said that if OpenAI released its result in the way proposed I would go public with what happened. The reply was, “Why would you ruin your career?” I replied that I am an academic, and asked why he thought going public would ruin my career. The reply was, “If you don’t want me to be nice, then I don’t have to be nice.”\n“Sebastien” is Sebastien Bubeck, who came to OpenAI by way of Microsoft (shocker).\n★ Saturday, 12 September 2026",
+ "report": {
+  "summary": "纽约大学教授指控 OpenAI 利用其未公开工作抢先发布数学成果",
+  "background": "本周爆出数学证明优先权争议。NYU 教授 Tristan Buckmaster 与 Levent Alpöge 长期研究 Euler/Navier-Stokes 方程；Buckmaster 称，在信息传到 OpenAI 后，对方才发送 prompt，并可能让内部模型接触其 Codex 草稿。OpenAI 员工 Sebastien Bubeck 提出错开发布或由 Buckmaster 单独署名等方案，要求移除在 Anthropic 工作的 Alpöge。Buckmaster 拒绝并公开声明，引发 AI 公司是否“抢跑”学术成果、训练数据与署名伦理的争论。",
+  "key_points": [
+   "Buckmaster 称 OpenAI 是在获知其团队研究后才发出 prompt，质疑对方利用未公开信息“抢先”得到结果。",
+   "他追问模型是否训练过或访问过存放全部草稿的 Codex 会话，OpenAI 只称不查用户数据，未回答训练问题。",
+   "OpenAI 提出两方案：团队先发 Euler 成果，OpenAI 次日发 Navier-Stokes；或由 Buckmaster 单独写论文承认内部模型解决。",
+   "据其转述，Sebastien Bubeck 要求移除 Levent Alpöge 的作者身份，理由是他供职于 Anthropic，并称不配合就不必“客气”。",
+   "Buckmaster 拒绝交易并公开经过，争议核心是学术优先权、AI 训练数据合规、公司干预署名与职业威胁。"
+  ],
+  "impact": "对 AI 行业，此事将放大对模型训练数据来源、与学术合作伦理的审查；对开发者，使用 Codex 等云端编码工具时需关注数据保留与训练默认设置；对普通用户，AI 宣称解决数学难题时应等待同行评议与可验证证明，而非只看公司发布。",
+  "tools": "若想跟进：学习 Lean 4/Mathlib 做形式化验证；关注 Codex 的隐私与数据控制选项；跟踪 arXiv、Clay Mathematics Institute 及 OpenAI/Anthropic 的官方声明。"
+ },
+ "lang": "zh"
+}

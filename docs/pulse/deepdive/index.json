@@ -10258,5 +10258,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-12T14:27:39Z",
   "fetched_at": "2026-09-12T22:17:12.822641+00:00"
+ },
+ "e638ef91591b": {
+  "id": "e638ef91591b",
+  "url": "https://thenextweb.com/news/altman-matches-pacing-eu-antitrust",
+  "title": "Sam Altman backs Dario Amodei’s call to slow down, and says OpenAI will do the same",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T00:01:26.421917+00:00"
+ },
+ "e6dd64aa6dd8": {
+  "id": "e6dd64aa6dd8",
+  "url": "https://mashable.com/tech/nvidia-could-bankroll-anthropic-ipo",
+  "title": "Nvidia may bankroll Anthropics massive IPO",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T00:01:36.079394+00:00"
+ },
+ "bd7abdbc3dde": {
+  "id": "bd7abdbc3dde",
+  "url": "https://daringfireball.net/linked/2026/09/12/buckmaster-statement",
+  "title": "Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem",
+  "source": "Daring Fireball",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T00:01:49.847085+00:00"
  }
 }
