@@ -1,0 +1,24 @@
+{
+ "id": "47339adbd1c6",
+ "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+ "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T22:25:24.909800+00:00",
+ "content": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, according to The New York Times.\nObama made these comments on Thursday, at Democratic fundraising event where he was interviewed by House Minority Leader Hakeem Jeffries. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI.\nIn response, Obama said that once Democrats regain the House majority, they need to “put together a framework for a very public conversation.”\n“This is something that is moving very fast in private hands, and if we don’t get on top of it, I think can be dangerous,” Obama added. “If we do get on top of it, I do think it’s beneficial. I genuinely think it’s going to accelerate, for example, drug development in ways that can help us cure diseases.”\nIn a statement, Jeffries said the former president “is correct that decisive action must be taken on artificial intelligence.” Jeffries also said that “Republicans have abdicated their responsibility to govern on behalf of the American people.”\nThe NYT also reports that Obama has offered himself as a “sounding board” to AI executives and has spoken to both Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman. His comments come amidst growing concern around AI safety, particularly after an AI researcher resigned from Anthropic and claimed the leading AI companies are “racing straight to self-improving superintelligence and gambling with our lives.”\nOn Saturday, Amodei outlined a broad approach to “pacing the frontier,” which would include giving independent safety evaluators access to leading AI companies and models, as well as developing “common safety standards” between companies. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with employee-like access.”\nPresident Donald Trump, meanwhile, discussed AI safety concerns with reporters at an Irish golf event on Sunday. Bloomberg reports that Trump boasted that the United States is “the most sophisticated country in the world,” adding that he wants “to keep it that way because whoever wins AI wins.” (Earlier this year, the Trump administration released a legislative framework for AI that would preempt state laws and shift the child safety burden to parents.)\n“And we can put guardrails,” Trump said. “We can do this and that. But I think you have a lot of negative forces that are bringing it up that shouldn’t be bringing it up.”",
+ "report": {
+  "summary": "奥巴马呼吁民主党就AI安全制定明确计划",
+  "background": "随着生成式AI能力快速提升，AI安全与就业冲击成为美国政治议题。此前一名Anthropic研究员辞职并警告头部公司正“竞赛般冲向自我改进的超智能”，引发安全担忧。Anthropic CEO Amodei提出“控制前沿节奏”，主张独立评估与共同安全标准，OpenAI CEO Altman和马斯克均回应积极。与此同时，特朗普政府更强调美国在AI竞赛中取胜，并推出预占州法的立法框架。奥巴马此时发声，意在为民主党中期选举和夺回众议院后的AI议程定调。",
+  "key_points": [
+   "奥巴马在民主党筹款活动上表示，民主党应把AI列为“核心议程”，并制定非常清晰的计划，回应AI对经济和安全的冲击。",
+   "他建议民主党夺回众议院多数后，搭建框架推动一场公开的全国对话，因为AI在私营部门发展极快，不加以掌控可能危险。",
+   "奥巴马认为AI若被妥善引导将有益，例如加速药物研发、帮助治愈疾病，显示其立场并非单纯限制，而是安全与发展并重。",
+   "杰弗里斯呼应称必须果断行动，并批评共和党未尽治理责任；奥巴马已与Anthropic的Amodei和OpenAI的Altman等AI高管交流。",
+   "Amodei提出“控制前沿节奏”，包括独立安全评估和共同标准，Altman承诺OpenAI配合独立评估者；特朗普则强调“谁赢AI谁赢世界”，可设护栏但批评负面力量。"
+  ],
+  "impact": "对AI行业，AI安全将从企业自律转向更强烈的政治与监管议题，独立评估和共同标准可能成为事实规范。对开发者，未来可能面对更明确的合规、评估与透明度要求，但也获得参与标准制定的窗口。对普通用户，药物研发加速、经济冲击缓冲和儿童安全等将被纳入政策讨论，但两党路线分歧意味着短期难有统一联邦立法，州法与联邦法冲突风险上升。",
+  "tools": "想跟进AI安全治理，可关注：英国AISI的Inspect评估框架、NVIDIA Garak红队工具、Stanford HELM、OpenAI Evals；政策追踪可看OECD AI Policy Observatory、Stanford AI Index。"
+ },
+ "lang": "zh"
+}

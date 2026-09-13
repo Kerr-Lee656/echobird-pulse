@@ -2887,5 +2887,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-13T06:56:46Z",
   "fetched_at": "2026-09-13T16:19:52.853305+00:00"
+ },
+ "38ae21f68997": {
+  "id": "38ae21f68997",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "title": "multimodal-art-projection/YuE — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:27:09.294737+00:00"
+ },
+ "e5f75ba74c1e": {
+  "id": "e5f75ba74c1e",
+  "url": "https://arxiv.org/abs/2609.11873",
+  "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T22:06:45Z",
+  "fetched_at": "2026-09-13T22:27:20.364498+00:00"
+ },
+ "6dca95482b65": {
+  "id": "6dca95482b65",
+  "url": "https://osintsights.com/ai-deciphers-370-year-old-cipher-in-minutes",
+  "title": "Claude Fable 5.1 cracked a cipher that has survived for 370 years in 40 min.",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T20:56:37Z",
+  "fetched_at": "2026-09-13T22:27:55.681484+00:00"
+ },
+ "395acc6e88d3": {
+  "id": "395acc6e88d3",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+  "title": "Trump and Mike Johnson think the AI industry is overreacting",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-13T19:41:48.000Z",
+  "fetched_at": "2026-09-13T22:29:10.034169+00:00"
+ },
+ "82d034e8b7dc": {
+  "id": "82d034e8b7dc",
+  "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+  "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+  "source": "Hacker News (8pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T19:13:33Z",
+  "fetched_at": "2026-09-13T22:29:48.025591+00:00"
  }
 }

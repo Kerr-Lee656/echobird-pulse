@@ -10420,5 +10420,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-13T18:47:40.267110+00:00"
+ },
+ "93d84747fe50": {
+  "id": "93d84747fe50",
+  "url": "https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds",
+  "title": "Z.ai raises $5bn in Hong Kong including $3bn of zero-interest bonds",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:24:22.307547+00:00"
+ },
+ "42999c2d833b": {
+  "id": "42999c2d833b",
+  "url": "https://www.androidpolice.com/android-ai-agent-permissions-cage-built-before-agents-arrive",
+  "title": "Google built a security cage for AI agents on Android, but it's still empty",
+  "source": "Android Police",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:24:51.248651+00:00"
+ },
+ "405af91616a2": {
+  "id": "405af91616a2",
+  "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+  "source": "BBC News (世界新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-13T18:49:37Z",
+  "fetched_at": "2026-09-13T22:25:01.442007+00:00"
+ },
+ "47339adbd1c6": {
+  "id": "47339adbd1c6",
+  "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+  "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:25:24.909800+00:00"
+ },
+ "3ef90c419041": {
+  "id": "3ef90c419041",
+  "url": "https://thenextweb.com/news/altman-openai-no-ipo-2026-safety-ill-advised-moment",
+  "title": "Sam Altman rules out an OpenAI listing in 2026 and gives safety as the reason",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:25:35.373772+00:00"
+ },
+ "a9c9e563cd65": {
+  "id": "a9c9e563cd65",
+  "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
+  "title": "Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude — but it still took 11 days to write out",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:25:43.113977+00:00"
+ },
+ "4434b067381c": {
+  "id": "4434b067381c",
+  "url": "https://hub.baai.ac.cn/view/57934",
+  "title": "OpenAI 关停史上最快模型 Spark，发布到下线仅 7 个月",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T22:25:52.477482+00:00"
  }
 }

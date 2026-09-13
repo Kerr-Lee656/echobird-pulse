@@ -1,0 +1,24 @@
+{
+ "id": "93d84747fe50",
+ "url": "https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds",
+ "title": "Z.ai raises $5bn in Hong Kong including $3bn of zero-interest bonds",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T22:24:22.307547+00:00",
+ "content": "Z.ai, the Chinese model developer listed in Hong Kong as Zhipu, has raised about $5bn in a single move. Roughly $2bn came from placing 21.97 million new shares at HK$714, about 10 percent below the previous close.\nThe other $3bn came from RMB 20.14bn of convertible bonds maturing in September 2027, and those bonds carry no coupon at all.\nReuters reported the terms from the company’s filing. The bonds were priced to yield between minus 0.5 percent and zero, so buyers are taking a small certain loss on the debt in exchange for the option underneath it. They can convert at HK$892.5, a 25 percent premium to what the placement investors paid.\nLending money at a negative return only makes sense if the equity is what you actually want. On those terms, the bond is less a loan than a ticket, and the size of the book suggests plenty of people wanted one.\nThe money is earmarked for research, computing resources and infrastructure, expansion, strategic investments, possible acquisitions and working capital, which covers most things a company can legally do. The computing line is the one with a hard constraint behind it.\nZ.ai has already built a data centre without Nvidia, running instead on Chinese-made accelerators, and scaling that approach is expensive in a way that buying the market leader is not. The company has not said how much of the $5bn goes to compute, or what it plans to buy with it.\nIn June, after its stock rose roughly 2,000 percent from a January listing, Zhipu was preparing a placement of several billion dollars. Analysts at the time said the company would stay deeply unprofitable and would need to keep raising for about three years. The first of those years is going well.\nRevenue is climbing even though the product is largely free. Z.ai is approaching $1bn in sales while giving its strongest models away, and the stealth model that beat DeepSeek earlier this year was its GLM line. Open weights and a rising share price have so far proved compatible.\nZ.ai priced the placement against Friday’s close. Two days before that, the NSA, FBI and CISA had named the company in an advisory on industrial-scale distillation, one of six Chinese firms the agencies accuse of extracting capability from American models.\nThe advisory alleges Z.AI pulled billions of tokens from GPT-5.5 and Claude Opus by mid-2026. Beijing called the advisory unfounded. Hong Kong investors put $5bn in three days later.\nExport controls were written to restrict Chinese access to chips, and capital was never covered. Moonshot is reportedly raising $5bn of its own. Washington writes the rules on hardware, Hong Kong writes the cheques, and nothing in this week’s filing suggests the two are about to meet.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "智谱香港融资50亿美元，含30亿零息可转债",
+  "background": "智谱（Z.ai）今年1月港股上市后股价暴涨约2000%，6月起筹备数十亿美元配售。它主打免费开源的GLM系列，营收逼近10亿美元但仍深度亏损，分析师预计需连续融资约三年。与此同时中美在算力与资本两条线上分道扬镳：美国出口管制管得住芯片，却管不住香港资本市场；就在融资前三天，NSA、FBI、CISA刚点名智谱涉嫌大规模“蒸馏”美国模型，北京称指控无依据。",
+  "key_points": [
+   "融资结构：约20亿美元来自配售2197万新股（每股714港元，较前收盘折让约10%），另外30亿美元来自2027年9月到期的人民币201.4亿元可转债。",
+   "债券零息甚至负收益（-0.5%至0），买家愿意承担小额确定亏损，图的是转股权——转股价892.5港元，比配售投资者价格高25%。",
+   "资金用途覆盖研发、算力、基础设施、扩张、战略投资、潜在并购和营运资金；算力是硬约束：智谱已建成不用英伟达、改用国产加速器的数据中心。",
+   "商业化矛盾但成立：核心模型免费开放，营收仍接近10亿美元；今年一款GLM隐身模型曾击败DeepSeek，说明开源权重与股价上涨可以并存。",
+   "地缘张力明显：融资前三天被美国三机构在“工业级蒸馏”公告中点名，北京否认指控，香港投资人三天后仍投出50亿美元。"
+  ],
+  "impact": "对行业：证明中国大模型公司在硬件管制之外，可通过香港资本市场获得巨资，为“国产算力自主”路线加注，也对美国同行形成“开源免费+重金投入”的竞争压力。对开发者：GLM开源权重与低价API预计继续供给，是重要低成本选项，但模型训练与蒸馏的合规审查可能趋严。对普通用户：有望继续享受更便宜的AI服务，但中美技术割裂可能造成模型能力与可用性的地域差异。",
+  "tools": "想上手可关注智谱GLM系列开源权重与开放平台API，并与DeepSeek、Qwen对比做本地或低成本部署；追踪动态可看港交所披露易、Reuters与TNW；关注昇腾、寒武纪等国产加速器上的推理/训练框架生态。"
+ },
+ "lang": "zh"
+}
