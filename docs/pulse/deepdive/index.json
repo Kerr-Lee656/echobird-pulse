@@ -10294,5 +10294,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-13T04:43:40.317447+00:00"
+ },
+ "1ba92b1861d6": {
+  "id": "1ba92b1861d6",
+  "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+  "title": "Apple wants to train AI on your private personal data",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T11:45:47.364324+00:00"
+ },
+ "ca342f7c3f49": {
+  "id": "ca342f7c3f49",
+  "url": "https://www.36kr.com/p/3981130388929280",
+  "title": "突发，A社创始人呼吁AI圈踩刹车，奥特曼马斯克罕见力挺",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T11:46:16.812885+00:00"
+ },
+ "c8bf9b27f13c": {
+  "id": "c8bf9b27f13c",
+  "url": "https://hub.baai.ac.cn/view/57924",
+  "title": "Kimi 突发 K2.8：性能逼近 K3，百万上下文全员开放",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T11:46:29.120463+00:00"
+ },
+ "dd5e9cda3db6": {
+  "id": "dd5e9cda3db6",
+  "url": "https://www.36kr.com/p/3981230650522630",
+  "title": "全华班打造的 AI 程序员，估值 480 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T11:46:40.659052+00:00"
+ },
+ "3fc61fc3091f": {
+  "id": "3fc61fc3091f",
+  "url": "https://www.ithome.com/1/001/709.htm",
+  "title": "Anthropic CEO 阿莫迪呼吁放缓前沿 AI 模型开发后，xAI 马斯克、OpenAI 奥尔特曼等业界大佬赞同",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-13T01:45:22Z",
+  "fetched_at": "2026-09-13T11:47:18.613045+00:00"
+ },
+ "9c531c254f4c": {
+  "id": "9c531c254f4c",
+  "url": "https://withspecific.com/benchmarks/real-swe",
+  "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+  "source": "withspecific.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-13T01:18:53.561Z",
+  "fetched_at": "2026-09-13T11:47:27.505874+00:00"
  }
 }
