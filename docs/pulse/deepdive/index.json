@@ -10348,5 +10348,68 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-13T01:18:53.561Z",
   "fetched_at": "2026-09-13T11:47:27.505874+00:00"
+ },
+ "7026185e45df": {
+  "id": "7026185e45df",
+  "url": "https://thenextweb.com/news/xi-brics-open-source-ai-eu",
+  "title": "Xi pitches open-source AI to BRICS as Beijing weighs curbs on its own models",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T16:15:05.804795+00:00"
+ },
+ "73b75b373698": {
+  "id": "73b75b373698",
+  "url": "https://thenextweb.com/news/china-embodied-ai-data-eu-gap",
+  "title": "China’s data regulator plans standards for embodied AI, ten days after industry asked",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-13T16:15:13.835283+00:00"
+ },
+ "97767b88def3": {
+  "id": "97767b88def3",
+  "url": "https://www.36kr.com/p/3981250979036163",
+  "title": "突发，OpenAI今年不上市了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T16:15:22.292880+00:00"
+ },
+ "4de034818ae1": {
+  "id": "4de034818ae1",
+  "url": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
+  "title": "斜跃智能完成数亿元天使+轮融资，加速推进 Duplex Reasoning 全新范式具身基础模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T16:15:49.628017+00:00"
+ },
+ "f8fa3dde9a35": {
+  "id": "f8fa3dde9a35",
+  "url": "https://hub.baai.ac.cn/view/57927",
+  "title": "国产世界模型 Motus 2 发布：灵巧操作开始「自进化」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-13T16:16:00.157622+00:00"
+ },
+ "8b0ebcb9de11": {
+  "id": "8b0ebcb9de11",
+  "url": "https://www.ithome.com/1/001/843.htm",
+  "title": "谷歌 DeepMind 安全研究员离职，称 AI 五年内造成巨大危害的概率高得吓人",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-13T12:21:32Z",
+  "fetched_at": "2026-09-13T16:16:08.727169+00:00"
+ },
+ "fa1cdc88b24e": {
+  "id": "fa1cdc88b24e",
+  "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-chip-revenue-grew-110300181.html",
+  "title": "博通上季度AI芯片营收增长221%。一年前投资1,000美元，如今价值已达这一数额。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-13T11:58:29.171Z",
+  "fetched_at": "2026-09-13T16:16:17.694946+00:00"
  }
 }

@@ -2833,5 +2833,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-12T19:49:12Z",
   "fetched_at": "2026-09-13T00:05:01.903668+00:00"
+ },
+ "1bbd57eace7e": {
+  "id": "1bbd57eace7e",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
+  "title": "Chinese military researchers caught using Claude for air-defense and weapons",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T14:07:08Z",
+  "fetched_at": "2026-09-13T16:17:37.372519+00:00"
+ },
+ "55adac264e3c": {
+  "id": "55adac264e3c",
+  "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+  "title": "Codename MDASH brings agentic AI security scanning to US Government",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T11:56:01Z",
+  "fetched_at": "2026-09-13T16:17:51.957620+00:00"
+ },
+ "06b4c40871c9": {
+  "id": "06b4c40871c9",
+  "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+  "title": "GCC AI Policy Announcement",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T10:50:51Z",
+  "fetched_at": "2026-09-13T16:18:36.667824+00:00"
+ },
+ "00c6c167d563": {
+  "id": "00c6c167d563",
+  "url": "https://www.politico.eu/article/eu-response-ai-extinction-warnings/",
+  "title": "Keep calm and regulate on: Inside the EU's response to AI extinction warnings",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T07:50:57Z",
+  "fetched_at": "2026-09-13T16:19:26.475501+00:00"
+ },
+ "6d8b035670f7": {
+  "id": "6d8b035670f7",
+  "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+  "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T07:25:52Z",
+  "fetched_at": "2026-09-13T16:19:39.689531+00:00"
+ },
+ "421fb839eb4e": {
+  "id": "421fb839eb4e",
+  "url": "https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/",
+  "title": "Guidance on Using CC Licenses in an AI Ecosystem",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-13T06:56:46Z",
+  "fetched_at": "2026-09-13T16:19:52.853305+00:00"
  }
 }

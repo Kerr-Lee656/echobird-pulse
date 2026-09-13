@@ -1,0 +1,24 @@
+{
+ "id": "73b75b373698",
+ "url": "https://thenextweb.com/news/china-embodied-ai-data-eu-gap",
+ "title": "China’s data regulator plans standards for embodied AI, ten days after industry asked",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T16:15:13.835283+00:00",
+ "content": "China’s National Data Administration said it will develop standards for embodied AI data and guide local authorities on the work, ten days after seven companies asked it for exactly that. Europe regulates who may reach the data a machine generates but has no programme producing it, and the data labs promised in its Data Union Strategy have not been set up.\nChina’s data regulator will write standards for the data that trains robots, Bloomberg reported. The National Data Administration said it will guide local authorities on the work and support companies putting more money into data resources.\nThe statement followed a meeting on 10 September chaired by Liu Liehong, who heads the agency. Research institutes, technology companies and humanoid robotics organisations attended, and the agency said the industry is becoming more data-driven.\nThe industry asked for it first. Ten days earlier the same agency met seven companies which requested public data infrastructure for embodied AI and common data standards, MLex reported.\nThe constraint in humanoid robotics is no longer the model. It is hours of recorded reality.\nEmbodied AI foundation models need roughly 10 million hours of real training data, by the China Academy of Information and Communications Technology’s estimate. Somewhere between 100,000 and 1 million hours of high quality data exist worldwide.\nChina is building the supply.\nMore than 70 embodied AI training grounds are already operating, spread across over half of China’s provincial regions, with 46 more planned or under construction, TechNode reported. About 86% of them are aimed at industrial manufacturing.\nThe three clusters are the Yangtze River Delta, the Beijing-Tianjin-Hebei region and the Pearl River Delta.\nEurope has written the rules for this data without collecting much of it. The Data Act has applied since 12 September 2025 and governs who may reach the data a connected product generates, industrial machinery included.\nIt also stops that data being used to build a competing product. Design obligations bite on connected products placed on the EU market after 12 September 2026.\nThe nearest European equivalent to a Chinese training ground is a company. NEURA Robotics is building gyms, ten planned and five meant to be running by the end of this year, split between Europe, the United States and China.\nThe Commission published a Data Union Strategy on 19 November 2025 whose first priority is scaling up access to data for AI. Ten months on, most of those actions have not been carried out, including the data labs.\nNone of which hands China the market. Only 23% of Chinese enterprises surveyed this year were satisfied with the robots on offer, and a training ground collects hours rather than paying customers.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "国家数据局将制定具身智能数据标准，回应产业界的公共数据基建诉求",
+  "background": "具身智能（人形机器人）的最大瓶颈已从模型转向真实数据：中国信通院估算，具身智能基础模型需要约1000万小时真实训练数据，而全球高质量存量仅10万至100万小时。9月10日，国家数据局局长刘烈宏主持座谈会，研究机构、科技公司和机器人组织参会；十天前，七家企业刚向该局请求建设公共数据基础设施和统一数据标准。国家数据局随即表态将制定标准、指导地方并支持企业投入数据资源。与此同时，欧洲《数据法案》已生效但重规则轻供给，其数据联盟战略中的数据实验室迟迟未落地。",
+  "key_points": [
+   "数据成为卡脖子环节：模型不再是主要瓶颈，全球可用真实数据只够需求的1%到10%，谁掌握数据采集能力谁就领先。",
+   "中国已在铺量：70多个具身智能训练场投入运营，覆盖半数以上省份，另有46个在建或规划，约86%面向工业制造。",
+   "三大集群成型：长三角、京津冀、珠三角成为具身智能数据采集与训练的核心地带。",
+   "标准先行、政府定调：国家数据局将以标准和地方指导为抓手，把分散的企业自采数据变成可共享的公共资源。",
+   "欧洲规则强、供给弱：欧盟《数据法案》管谁可以访问机器产生的数据，却没有把数据生产出来，训练场级别的设施基本缺席。"
+  ],
+  "impact": "对AI行业而言，数据标准可能像当年的数据集与评测标准一样，成为具身智能竞争的新分水岭，中国有望在数据供给端建立规模优势。对开发者来说，公共数据基础设施和统一格式意味着更低的训练门槛与更可复用的数据集，但也可能面临合规与数据准入规则。对普通用户，短期不会直接感知，但机器人学习速度加快、成本下降，长期将影响工厂、物流和家庭服务机器人的成熟节奏。需注意，标准不等于商业化，目前仅23%的中国受访企业对市面机器人满意。",
+  "tools": "想跟进可关注开源具身数据与训练生态：Hugging Face 的 LeRobot、Open X-Embodiment 跨机器人数据集、智元 AgiBot World 开源数据集、斯坦福 RoboMimic，以及 OpenVLA、RT-2 等视觉-语言-动作模型；国内可留意各地具身智能训练场与数据局标准文件。"
+ },
+ "lang": "zh"
+}

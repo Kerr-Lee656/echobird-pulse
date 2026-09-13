@@ -1,0 +1,24 @@
+{
+ "id": "7026185e45df",
+ "url": "https://thenextweb.com/news/xi-brics-open-source-ai-eu",
+ "title": "Xi pitches open-source AI to BRICS as Beijing weighs curbs on its own models",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-13T16:15:05.804795+00:00",
+ "content": "Xi Jinping used the BRICS summit to propose a China-led community for open-source AI and to invite members into the World AI Cooperation Organization, a Beijing-founded body of 29 countries with no EU state among them. Europe drew its line in the AI Act, which exempts genuinely open models but not those carrying systemic risk, and has carried fines since August.\nXi Jinping used the BRICS summit to propose a Chinese-led community for open-source artificial intelligence, Bloomberg reported. He said it would “support the cooperation in developing and applying large language models“, alongside seminars and training courses.\nHe was speaking in New Delhi on Sunday. A day earlier he had invited BRICS members to join the World AI Cooperation Organization, a body Beijing founded in July.\nTwenty-nine countries signed the founding agreement on 16 July and the organisation is headquartered in Shanghai, China’s government said. Russia, Pakistan, Kazakhstan, Indonesia and Brazil are among them.\nNo European Union member state is.\nThe pitch did not carry the room either. The joint declaration issued on Saturday made no mention of it, asking instead for international cooperation on access to AI resources “while ensuring its safety, security, inclusiveness and reliability“.\nEurope settled the same question in a statute.\nThe AI Act exempts providers of genuinely free and open-source general purpose models from keeping technical documentation for regulators, from supplying it downstream and from appointing an EU representative, the Commission’s guidelines say. The weights, parameters and architecture have to be public, and the licence has to permit use and modification without monetisation.\nThe exemption stops at systemic risk. A model in that tier complies with everything, open licence or not, and every provider still has to publish a training data summary and a copyright policy.\nThose rules acquired teeth on 2 August, when the Commission gained the power to demand evaluations, restrict market access and fine 3% of global turnover.\nSo both blocs have a ceiling on openness. Europe’s is written down and reviewable in court.\nChina’s is not. Xi told the country’s own AI summit in July that development and security have to be balanced, and a social media account used to signal policy thinking has said the most powerful model features should be restricted.\nState security minister Chen Yixin, in a journal article published on Saturday, accused unnamed countries of using blacklists and closed ecosystems to “sever global AI industrial chains and supply chains“.\nHis own ministry of commerce spent a month this summer discussing whether to curb overseas access to Qwen, Doubao and GLM. Europe published its limit and can be sued over it, while Beijing is still deciding what its own is.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "习近平在金砖推开源AI，中国却权衡限制自家模型出口。",
+  "background": "中国7月成立世界AI合作组织，总部上海，29国签署，成员包括俄罗斯、巴基斯坦、印尼、巴西等，但无欧盟国家。习近平在金砖峰会提议由中国主导开源AI社区，并邀请成员加入该组织。与此同时，欧盟AI法案已对真正开源通用模型给予豁免，但对系统风险模型保留监管和最高3%全球营收罚款。中国内部则讨论是否限制Qwen、豆包、GLM等模型海外访问，安全与发展如何平衡尚未定论。",
+  "key_points": [
+   "习近平在金砖峰会提议建立中国主导的开源AI社区，支持大语言模型开发应用合作，并提供研讨会和培训课程。",
+   "中国7月成立世界AI合作组织，29国签署创始协议，总部上海，含俄巴印印尼等，但没有任何欧盟成员国加入。",
+   "欧盟AI法案豁免真正开源通用模型的部分义务，条件是权重、参数、架构公开且许可证允许使用修改；系统风险模型不豁免。",
+   "欧盟8月2日起可对违规AI模型要求评估、限制市场准入，并罚款最高全球营收3%，监管有明确法律边界和司法审查。",
+   "中国尚未公布自身开源边界，商务部曾讨论限制Qwen、豆包、GLM海外访问，金砖联合声明也未采纳该提议。"
+  ],
+  "impact": "对AI行业，开源正被地缘政治工具化，可能形成中美欧三套模型生态与合规体系。对开发者，使用中国开源模型需关注潜在出口限制和许可证，在欧盟部署系统风险模型则面临高合规成本。对普通用户，短期可能遇到地域性模型访问差异，长期若生态割裂，AI服务价格、可用性与创新速度都会受影响；但开源豁免仍利好透明、可本地部署的模型。",
+  "tools": "可关注Qwen、GLM、豆包等中国模型，以及DeepSeek、Llama、Mistral等开源生态；本地部署与合规可看Hugging Face模型卡、vLLM、Ollama；政策追踪可关注欧盟AI Act指南和世界AI合作组织动态。"
+ },
+ "lang": "zh"
+}
