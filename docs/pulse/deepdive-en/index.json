@@ -2932,5 +2932,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-13T19:13:33Z",
   "fetched_at": "2026-09-13T22:29:48.025591+00:00"
+ },
+ "f9d54d6e0514": {
+  "id": "f9d54d6e0514",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "title": "tashfeenahmed/freellmapi — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-14T04:52:06.541445+00:00"
+ },
+ "b599dd2f1ad4": {
+  "id": "b599dd2f1ad4",
+  "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "title": "TencentCloud/TencentDB-Agent-Memory — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-14T04:52:14.076926+00:00"
+ },
+ "bfbf301304c7": {
+  "id": "bfbf301304c7",
+  "url": "https://github.com/git-ai-project/git-ai",
+  "title": "git-ai-project/git-ai — A Git extension for tracking the AI-generated code in your repos",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-14T04:52:25.022101+00:00"
+ },
+ "b5590ec052a4": {
+  "id": "b5590ec052a4",
+  "url": "https://github.com/esengine/DeepSeek-Reasonix",
+  "title": "esengine/DeepSeek-Reasonix — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-14T04:52:35.943358+00:00"
+ },
+ "e4aeef26a7bd": {
+  "id": "e4aeef26a7bd",
+  "url": "https://arxiv.org/abs/2609.12163",
+  "title": "Certifying Concept Unlearning in Text-to-Image Diffusion Models",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-09-14T04:00:00.000Z",
+  "fetched_at": "2026-09-14T04:53:03.636049+00:00"
+ },
+ "074c66702be2": {
+  "id": "074c66702be2",
+  "url": "https://arxiv.org/abs/2609.12345",
+  "title": "ParaRecover: A Process-Level Benchmark for Error Localization and Recovery in Parallel Tool-Use Agents",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-09-14T04:00:00.000Z",
+  "fetched_at": "2026-09-14T04:53:26.982164+00:00"
  }
 }
