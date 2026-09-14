@@ -1,0 +1,24 @@
+{
+ "id": "f0d262958b57",
+ "url": "https://www.aibase.com/news/31029",
+ "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-14T09:21:39.800Z",
+ "fetched_at": "2026-09-14T12:41:37.399892+00:00",
+ "content": "Anthropic CEO Dario Amodei issued a call to halt the rapid advancement of cutting-edge AI, proposing a three-step plan centered around \"verifiability\": first, companies should introduce on-site third-party evaluators; then, push for coordination among the U.S. and its allies; and finally, seek global collaboration. He believes that the recursive self-improvement of AI has already begun, and within 6 to 12 months, agent groups might use botnets to take control of the internet. Therefore, it is necessary to slow down the pace of model capability enhancement, investing the extra time into safety-related areas such as operational reliability, alignment, explainability, and testing and evaluation.\nAmodei also spoke realistically about the qualifications for \"speed limits\": the U.S. must first maintain and expand its technological advantage over China before it can consider slowing down. However, global speed limits ultimately cannot avoid China's participation. He casually proposed a four-tier international agreement framework, but also admitted that comprehensive speed limits have low likelihood of being implemented in the short term.\nThis call received support from two other prominent figures in the industry. OpenAI CEO Sam Altman retweeted his statement in support, and Musk also expressed agreement. It is worth noting that previously, an Anthropic researcher, Jacob Coker, left the company and warned that AI could potentially extinguish humanity within 10 years. From internal researcher warnings to the CEO's public advocacy for speed limits, this company, which built its narrative around safety, is pushing the idea of \"slowing down\" from an idea onto the industry and policy agenda.",
+ "report": {
+  "summary": "Anthropic CEO 呼吁为前沿 AI 限速，Altman 与马斯克表态支持",
+  "background": "Anthropic 自成立起就以“安全”作为核心叙事，CEO Dario Amodei 多次公开强调 AI 的失控风险。此前公司研究员 Jacob Coker 离职并警告 AI 可能在十年内灭绝人类。与此同时，前沿模型能力迭代加速、智能体（Agent）大规模落地，AI 自我改进与滥用风险成为硅谷和华盛顿的共同议题；中美技术竞争加剧、算力出口管制持续收紧，也为“限速”讨论提供了政治土壤。",
+  "key_points": [
+   "三步走方案以“可验证”为核心：企业先引入现场第三方评估员，再推进美国与盟友协调，最终寻求全球合作，把信任建立在可检查的证据上。",
+   "Amodei 称 AI 递归自我改进已经开始，6 到 12 个月内智能体集群可能通过僵尸网络控制互联网，因此须放慢能力提升，把时间投入对齐、可解释性与运维可靠性。",
+   "他给出“限速”的现实前提：美国必须先保持并扩大对中国的技术优势，才有资格谈减速；但全球性限速最终绕不开中国的参与。",
+   "他顺手提出四级国际协议框架，却承认短期全面限速落地的可能性很低——这更像一次议程设置，而非可执行的政策提案。",
+   "OpenAI 的奥特曼转发支持、马斯克表示认同；叠加内部研究员离职警告，“减速”正从公司内部的担忧变成行业公开主张。"
+  ],
+  "impact": "对 AI 行业，“安全”正从公关话术升级为政策议题，可能催生第三方评估、发布前审查等新标准，抬高合规成本并改变模型迭代节奏。对开发者，Agent 类产品需更早考虑可观测性、可解释性与故障兜底，评估报告或成上线前置条件。对普通用户，能力提升短期可能放缓，但换来更稳定可控的体验；若“限速”与中美竞争绑定，也可能加速生态割裂，给开源与小模型更多空间。",
+  "tools": "想跟进可关注：Anthropic 的 Constitutional AI 与 Model Spec、OpenAI Preparedness Framework、METR 的自主能力评测、EleutherAI 的 lm-evaluation-harness、英国 AISI 与 ARC 的评估套件；Agent 工程侧可看 LangSmith、OpenTelemetry 等可观测性与安全护栏工具。"
+ },
+ "lang": "zh"
+}

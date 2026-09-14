@@ -1,0 +1,24 @@
+{
+ "id": "f0a0d83c56e3",
+ "url": "https://thenextweb.com/news/beijing-amodei-ai-slowdown-cold-war",
+ "title": "Beijing answers Amodei’s AI slowdown plan by calling it a Cold War script",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-14T12:40:28.754466+00:00",
+ "content": "Dario Amodei’s essay on Saturday made the case that the AI industry must slow itself down. It also asked Washington to “not sell powerful AI chips or semiconductor manufacturing equipment to China” and to crack down on smuggling and on remote access to data centres outside the country.\nChina’s commerce ministry called the essay “further proof that the US is pursuing technological hegemony in AI”, in remarks carried by the Global Times on Monday.\nThe paper built a full report around the theme, gathering three Chinese researchers to argue that the Anthropic chief wants cooperation and containment at the same time.\nXiang Ligang, a telecoms and technology policy observer, called the proposal inappropriate, groundless and hostile.\nHe said Amodei accepts that pacing AI would eventually require cooperation with China while advocating restrictions on chips, computing power and models to slow China down, and openly seeking to widen the American lead. Xiao Qian of Tsinghua’s Institute for AI International Governance pointed out that Anthropic competes with Chinese open-source models.\nLiu Shaoshan, who directs embodied AI at the Shenzhen Institute, put the sharpest version of the argument. Once AI is described as a technology that settles national security and the future of civilisation, he said, an AI company stops being an ordinary tech company and becomes “strategic infrastructure”.\nA separate Global Times commentary, circulated on WeChat under the headline “Targeting China’s AI: America’s ‘tech right’ rolls out a Cold War script”, called the plan a “quiet AI Cold War” and described it as hypocritical and short-sighted.\nAmodei’s essay proposes three steps: third-party evaluators with employee-like access, which Anthropic has committed to on its own; common safety standards and capability limits among frontier labs in democracies; and an eventual attempt to coordinate pacing with authoritarian governments.\nWe have covered the first two on Saturday, and Sam Altman matched them the same day. The export-control ask sat in the same document, and it is the part Beijing read.\nThe two governments have been circling this for weeks. The NSA, FBI and CISA named six Chinese firms over industrial-scale distillation on 9 September, and Beijing called that unfounded the next day.\nIn June, Wang Yi pitched a global AI cooperation organisation offering cheap models to developing countries while the G7 argued over who should get access to American ones.\nA Public First survey of 18,000 people across 15 countries, published days later, found that most already believed China had pulled ahead on capability.\nWhat has changed is who is being argued with. Beijing has spent months contesting export controls as government policy, and the commerce ministry has a standing script for that.\nThis time it aimed the script at a private company’s chief executive, on the strength of a post he published himself, two days after he asked his own industry to go slower. Trump, for his part, dismissed the slowdown case last week on the grounds that America has to win.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "北京批阿莫迪AI减速提议为冷战剧本",
+  "background": "Anthropic CEO达里奥·阿莫迪发文呼吁AI行业自我减速，并提出限制对华出售先进AI芯片和半导体设备、打击走私与远程访问境外数据中心。中国商务部称其证明美国追求AI技术霸权，环球时报组织学者反驳。此前中美已在出口管制、安全标准上博弈：美机构指控六家中国公司蒸馏，王毅提全球AI合作组织，民调显示多国认为中国能力领先。特朗普也拒绝减速，称美国必须赢。",
+  "key_points": [
+   "阿莫迪提出三步：让第三方评估者拥有类似员工权限；民主国家前沿实验室采纳共同安全标准与能力上限；最终尝试与威权政府协调AI发展节奏。",
+   "中方反驳称，该文一边承认协调AI最终需要与中国合作，一边主张限制芯片、算力和模型来拖慢中国，意在扩大美国领先，是敌意且无根据的。",
+   "清华学者指出Anthropic与中国开源模型存在竞争；深圳学者称，一旦AI被定义为关乎国家安全与文明未来，AI公司就不再普通，而成为“战略基础设施”。",
+   "环球时报社评称这是“安静的AI冷战”，批其虚伪短视；此前NSA、FBI、CISA指控六家中国公司大规模蒸馏，北京次日称毫无根据。",
+   "值得注意的变化是对象：北京过去主要批美国政府出口管制，这次直接针对私企CEO的两天前博文；特朗普则称美国必须赢，拒绝减速。"
+  ],
+  "impact": "对AI行业，安全治理进一步地缘政治化，前沿实验室的减速与安全标准提议被与出口管制绑定，全球协调更难。对开发者，芯片与算力获取、开源与闭源路线将更受国界影响，中国开源模型可能加速替代。对普通用户，短期或迎来更便宜多元的模型，但长期可能面对中美生态割裂、标准不互通及安全风险外溢。",
+  "tools": "想跟进AI安全评估，可关注Anthropic RSP、METR、HELM、lm-evaluation-harness、OpenCompass；想追中美模型生态，可关注Qwen、DeepSeek、Llama及各国AI安全 institute 的政策与评估报告。"
+ },
+ "lang": "zh"
+}

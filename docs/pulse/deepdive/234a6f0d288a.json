@@ -1,0 +1,25 @@
+{
+ "id": "234a6f0d288a",
+ "url": "https://www.aibase.com/news/31018",
+ "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-14T09:21:39.800Z",
+ "fetched_at": "2026-09-14T12:42:05.309901+00:00",
+ "content": "Elon Musk, CEO of xAI, revealed today on the X platform that Grok 4.8 will be an AI model with 2.5 trillion parameters and will be trained using a completely new C++ software stack. He also provided a clear timeline: Grok 4.8 will complete training this week and then proceed to the reinforcement learning phase.\nLooking back at the timeline, there was another incident. Musk previously announced that Grok 4.7 would be released on September 12, but later changed his mind, saying it might take a few more days before it is officially launched. The reason for the delay he mentioned was quite practical - the penalty for response length during the reinforcement learning phase was too heavy, causing the model to give up on difficult tasks too early and fail to learn how to carefully review its own work, which was a critical obstacle in the training process that needed to be resolved.",
+ "report": {
+  "summary": "马斯克：Grok 4.8 本周完成训练，参数 2.5 万亿，换用 C++ 新栈",
+  "background": "xAI 正以极快节奏迭代 Grok 系列。此前马斯克宣布 Grok 4.7 于 9 月 12 日发布，随后又以\"需要几天\"为由推迟，理由相当技术化：强化学习阶段对回答长度的惩罚过重，模型学会了尽早放弃难题、也不再仔细自查。如今 4.7 尚未落地，4.8 已宣称本周完成训练并转入强化学习阶段。这一连串消息正好落在大模型行业的两条主线上——参数规模继续膨胀，以及训练/后训练框架从 Python 生态向自研底层栈下沉。",
+  "key_points": [
+   "2.5 万亿参数是马斯克首次公开的 Grok 具体规模数字，远超此前版本，意味着训练算力和推理成本都会同步大幅上升。",
+   "全新 C++ 软件栈意味着 xAI 可能脱离 PyTorch/JAX 主流生态，换取更极致的训练效率，但也牺牲了开源生态与人才通用性。",
+   "时间线明确：本周完成预训练，随后进入强化学习。RL 阶段才是决定模型\"好不好用\"的关键，也是最容易翻车的地方。",
+   "Grok 4.7 延期暴露了奖励设计的脆弱性：回答长度惩罚过重，模型学会偷懒、过早放弃难题，也不愿检查自己的答案。",
+   "版本节奏异常激进——4.7 还没发布，4.8 已训练完成，说明版本号更像训练里程碑而非面向用户的产品发布。",
+   "马斯克一贯通过 X 平台\"边训练边直播\"式放料，本身也是一种低成本预热和吸引人才、资本注意的传播策略。"
+  ],
+  "impact": "对行业而言，2.5 万亿参数把\"规模竞赛\"的天花板又推高一截，同时自研 C++ 栈释放出\"框架层也是护城河\"的信号，可能促使更多厂商自建训练基础设施。对开发者来说，超大模型的微调与自部署门槛进一步升高，应用侧更依赖 API 与蒸馏小模型；同时也提示 RL 奖励设计是当前最实际的技术难点，值得投入。对普通用户，短期内感知是 Grok 更聪明、更愿意啃硬题，但订阅价格与响应延迟恐怕也难下降。",
+  "tools": "想跟进大模型训练与后训练，可关注 Megatron-LM、DeepSpeed（大规模预训练），vLLM、SGLang（高效推理），以及 OpenRLHF、verl、TRL（强化学习与 RLHF 实践）。若对自研系统栈感兴趣，可研究 C++ 训练框架与 CUDA/cuBLAS 优化。"
+ },
+ "lang": "zh"
+}

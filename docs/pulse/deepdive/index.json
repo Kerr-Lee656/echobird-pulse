@@ -10483,5 +10483,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-13T22:25:52.477482+00:00"
+ },
+ "f0a0d83c56e3": {
+  "id": "f0a0d83c56e3",
+  "url": "https://thenextweb.com/news/beijing-amodei-ai-slowdown-cold-war",
+  "title": "Beijing answers Amodei’s AI slowdown plan by calling it a Cold War script",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-14T12:40:28.754466+00:00"
+ },
+ "4f57fe480714": {
+  "id": "4f57fe480714",
+  "url": "https://thenextweb.com/news/transformative-ai-strategy-europe-aghion-vestager-15-percent-compute",
+  "title": "A Nobel laureate and a former EU commissioner say Europe has one year to act on AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-14T12:40:40.335736+00:00"
+ },
+ "78e6ceaa420f": {
+  "id": "78e6ceaa420f",
+  "url": "https://www.36kr.com/p/3981356827940482",
+  "title": "高中前不许碰 AI，纽约市给美国教育划下史上最狠红线",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-14T12:40:54.882530+00:00"
+ },
+ "bc1e8ea966dc": {
+  "id": "bc1e8ea966dc",
+  "url": "https://juejin.cn/post/7684102772083195958",
+  "title": "5000亿估值冲刺科创板，DeepSeek 为何急着上市？",
+  "source": "掘金 · 人工智能本周最热",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-14T12:41:03.941762+00:00"
+ },
+ "3bb13e3738c0": {
+  "id": "3bb13e3738c0",
+  "url": "https://www.aibase.com/zh/news/31025",
+  "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，「造 Agent」变成一次 API 调用",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-14T12:41:26.683998+00:00"
+ },
+ "f0d262958b57": {
+  "id": "f0d262958b57",
+  "url": "https://www.aibase.com/news/31029",
+  "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-14T09:21:39.800Z",
+  "fetched_at": "2026-09-14T12:41:37.399892+00:00"
+ },
+ "f23f0e92a1f0": {
+  "id": "f23f0e92a1f0",
+  "url": "https://www.aibase.com/news/31019",
+  "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-14T09:21:39.800Z",
+  "fetched_at": "2026-09-14T12:41:55.426910+00:00"
+ },
+ "234a6f0d288a": {
+  "id": "234a6f0d288a",
+  "url": "https://www.aibase.com/news/31018",
+  "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-14T09:21:39.800Z",
+  "fetched_at": "2026-09-14T12:42:05.309901+00:00"
  }
 }

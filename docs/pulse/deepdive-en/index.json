@@ -2986,5 +2986,77 @@
   "site_name": "arXiv cs.LG",
   "published_at": "2026-09-14T04:00:00.000Z",
   "fetched_at": "2026-09-14T04:53:26.982164+00:00"
+ },
+ "daf4d600f12a": {
+  "id": "daf4d600f12a",
+  "url": "https://www.swapupdate.in/papercut-attacker-uses-hundreds-of-ai-agents-to-compromise-440-instances/",
+  "title": "PaperCut Attacker (Russian Linked) Uses AI Agents to Compromise 440 Instances",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T12:18:36Z",
+  "fetched_at": "2026-09-14T12:43:13.279142+00:00"
+ },
+ "094437ab2cda": {
+  "id": "094437ab2cda",
+  "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+  "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+  "source": "Hacker News (27pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T12:01:32Z",
+  "fetched_at": "2026-09-14T12:43:22.951512+00:00"
+ },
+ "2fb19f20bf63": {
+  "id": "2fb19f20bf63",
+  "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
+  "title": "Tech stocks fall after calls for AI development to slow down",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T11:56:21Z",
+  "fetched_at": "2026-09-14T12:43:35.614009+00:00"
+ },
+ "380bc568f246": {
+  "id": "380bc568f246",
+  "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70",
+  "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T11:14:30Z",
+  "fetched_at": "2026-09-14T12:43:45.454912+00:00"
+ },
+ "3ae5635aeffc": {
+  "id": "3ae5635aeffc",
+  "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+  "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-09-14T11:00:00.000Z",
+  "fetched_at": "2026-09-14T12:43:57.707689+00:00"
+ },
+ "269b0492dafb": {
+  "id": "269b0492dafb",
+  "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+  "title": "Big AI sets out its terms for regulatory capture",
+  "source": "Hacker News (15pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T10:28:28Z",
+  "fetched_at": "2026-09-14T12:44:40.531224+00:00"
+ },
+ "3d47a45a716e": {
+  "id": "3d47a45a716e",
+  "url": "https://www.techpowerup.com/352663/ai-firms-are-reportedly-buying-nvidia-rtx-5090-gpus-in-bulk-for-server-use",
+  "title": "AI Firms Are Reportedly Buying Nvidia RTX 5090 GPUs in Bulk for Server Use",
+  "source": "Hacker News (1pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T09:49:43Z",
+  "fetched_at": "2026-09-14T12:45:11.926644+00:00"
+ },
+ "87dfd159c577": {
+  "id": "87dfd159c577",
+  "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+  "title": "Sam Altman spells out why the AI industry wants to slow down",
+  "source": "Hacker News (2pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-14T09:13:10Z",
+  "fetched_at": "2026-09-14T12:45:25.876935+00:00"
  }
 }

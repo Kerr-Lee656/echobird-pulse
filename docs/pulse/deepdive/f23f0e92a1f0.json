@@ -1,0 +1,24 @@
+{
+ "id": "f23f0e92a1f0",
+ "url": "https://www.aibase.com/news/31019",
+ "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-14T09:21:39.800Z",
+ "fetched_at": "2026-09-14T12:41:55.426910+00:00",
+ "content": "Anthropic has once again secured a large amount of computing power. According to sources, the developer of Claude has signed a six-year, $13.7 billion computing power procurement agreement with Rum Group. Rum Group originated in the social media sector and has long been connected with the Trump administration - meaning that Anthropic's list of computing power suppliers now includes another new name with political ties.\nThis is not an isolated move, but the latest in a series of major cloud computing deals that Anthropic has made over the past year. Its list of partners has expanded widely: large cloud service providers such as Google, technology companies such as SpaceX, and emerging small cloud vendors such as Nscale have all been brought on board. These agreements combined can provide at least 14.8 gigawatts of computing power, with total investments potentially reaching up to $517 billion over the next decade. At a time when demand for products such as Claude Code and Cowork is surging, this deal with Rum Group will further strengthen the computing infrastructure base.",
+ "report": {
+  "summary": "Anthropic 与 Rum Group 签下 137 亿美元六年算力大单，供应商阵营再扩容。",
+  "background": "Anthropic 过去一年几乎把「锁定算力」当成头号战略：一边与 Google 等云巨头合作，一边拉上 SpaceX、Nscale 等非传统玩家，累计协议算力至少 14.8 吉瓦，未来十年投资规模据称可能高达 5170 亿美元。与此同时，Claude Code、Cowork 等产品需求激增，算力成为最紧俏的生产要素。此次签约对象 Rum Group 起家于社交媒体，并长期与特朗普政府关系密切，意味着 Anthropic 的算力供应链进一步走向「多元化 + 政治色彩浓厚」。",
+  "key_points": [
+   "六年 137 亿美元：Anthropic 用长约锁定算力，避免未来涨价或断供风险。",
+   "供应商名单越来越杂：Google、SpaceX、Nscale 再加上 Rum Group，覆盖云巨头到新兴小厂。",
+   "总量惊人：所有协议合计至少 14.8 吉瓦算力，十年投资上限被提到 5170 亿美元。",
+   "需求端是推手：Claude Code、Cowork 等产品爆发式增长，直接倒逼基建扩张。",
+   "政治因素浮出水面：Rum Group 有特朗普圈层背景，AI 基建正与政治资本深度交织。"
+  ],
+  "impact": "对 AI 行业而言，头部模型公司正在用「十年长约」重画算力版图，议价权和供应链安全比短期成本更重要，中小玩家拿电拿卡的难度会进一步上升。对开发者来说，短期利好是 Claude 系列服务的容量与稳定性有保障，但也需警惕供应商集中度背后的地缘与合规风险。对普通用户，这意味着 Claude 类产品在高峰期更不容易被限流，但 AI 服务成本与价格最终仍会由这场天量基建投资来买单。",
+  "tools": "想跟进可关注：Anthropic API 与 Claude Code 官方文档；算力与云侧可看 AWS Bedrock、Google Vertex AI、Rumble Cloud；开源侧可用 vLLM、Ollama 自建推理；行业数据可追踪 Epoch AI、SemiAnalysis 的算力与数据中心统计。"
+ },
+ "lang": "zh"
+}
