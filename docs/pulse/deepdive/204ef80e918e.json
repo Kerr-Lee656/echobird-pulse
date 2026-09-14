@@ -1,0 +1,24 @@
+{
+ "id": "204ef80e918e",
+ "url": "https://www.aibase.com/news/31037",
+ "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-14T16:02:31.558Z",
+ "fetched_at": "2026-09-14T23:08:31.201317+00:00",
+ "content": "Anthropic wants regulators to put an end to \"illegal distillation,\" but Y Combinator president Garry Tan's response is: do nothing.\nIn September, Anthropic released its second threat intelligence report, accusing Chinese labs of conducting \"illegal distillation attacks\" — hiding identities and using fraud and stolen credentials to extract the capabilities of cutting-edge models. CEO Dario Amodei had previously called on U.S. regulators to crack down on distillation. Tan, however, took the opposite stance in a CNBC interview: \"I would do nothing. We can argue; there should be a U.S.-specific distillation mechanism.\"\nTwo arguments: API control is overstepping, and authors were never asked during training\nTan's position is straightforward: instead of banning distillation, let U.S. open-source weight labs distill from cutting-edge labs through the \"front door\" — openly and legally — not by stealing credentials, but through legitimate authorization.\nThis view is based on two arguments. First, closed model labs' control over what users \"can do with API outputs\" is overstepping. Tan's exact words were: \"Controlling what users and customers can do with outputs from closed-source model APIs feels suffocating. The government has a role here — normalizing the idea that intelligence trained on widely available data should be a public good, not locked behind restrictive service terms.\"\nSecond, proprietary labs also used copyrighted materials during training without asking anyone's permission — the recent $1.5 billion copyright settlement Anthropic reached in July is a clear example.\nThe real driver is fear of monopoly\n\"The nightmare scenario for AI, the apocalyptic scenario, is when only one company remains. It has the best capital channels, the best AI researchers, and suddenly becomes a monopolistic giant,\" Tan said. In his view, open-source weights are a counterbalance to this monopoly: \"They are at the forefront and drive progress. We want this to be fundable, a good business. You also need to give people freedom and access through open-source weight models.\"\nThis statement carries weight because of the timing: Anthropic's threat report had just been released, and the U.S. government was considering whether to take action against AI distillation. YC, the biggest supporter of the U.S. open-source startup ecosystem, saw Tan step forward and say \"don't ban it,\" effectively speaking on behalf of the entire open-source community.\nHowever, he did not answer a sharp question: What if U.S. labs truly opened the \"front door,\" and the distilled models were then sold or leaked? How to open the \"front door,\" how wide to open it, and whether there are walls behind it — Tan gave no answers — which is why \"do nothing\" sounds casual but is extremely vague in policy terms.",
+ "report": {
+  "summary": "YC总裁反对封杀模型蒸馏，主张开源实验室走合法授权“正门”获取能力",
+  "background": "2025年9月，Anthropic发布第二份威胁情报报告，指控部分中国实验室以隐藏身份、欺诈和窃取凭证的方式对前沿模型进行“非法蒸馏”，CEO Dario Amodei 此前已呼吁美国监管机构出手打击。蒸馏即用强模型输出训练小模型，长期是行业默认做法，但闭源厂商正试图用服务条款限制。YC 是美国开源创业生态最大的支持者，Garry Tan 在 CNBC 采访中公开唱反调，被视作替整个开源阵营发声。",
+  "key_points": [
+   "Garry Tan 的核心主张是“什么都不做”：与其封禁蒸馏，不如让美国开源权重实验室通过公开、合法的授权渠道，从顶尖闭源模型获取能力，而不是窃取凭证。",
+   "论据一：闭源厂商限制用户“如何使用 API 输出”属于越权，用公开可得数据训练出的智能应被当作公共品，而非锁在限制性服务条款后面。",
+   "论据二：闭源实验室自己训练时也大量使用版权材料且未获授权，Anthropic 7 月刚以 15 亿美元达成版权和解，这套标准并不一致。",
+   "真正的驱动是垄断恐惧：Tan 认为 AI 最可怕的场景是只剩一家公司——拥有最好的资本渠道和研究员，开源权重是唯一制衡力量。",
+   "批评在于：他没有回答“正门”开多大、蒸馏模型被转卖或泄露怎么办，口号听起来轻松，政策上却极其模糊。"
+  ],
+  "impact": "对 AI 行业，这场争论把“蒸馏是否合法”推上监管前台，可能影响美国后续立法以及闭源厂商 API 服务条款的边界，动摇其以能力控制构筑的护城河。对开发者，若合法蒸馏通道打开，获取前沿能力的成本将明显下降，开源权重生态更活跃；反之 API 条款会持续收紧。对普通用户，开源模型竞争意味着更低价格和更多可选产品，但滥用与安全风险也会同步上升。",
+  "tools": "想跟进可关注开源权重模型 Llama、Qwen、DeepSeek、Mistral；蒸馏与微调工具 Hugging Face TRL、Axolotl、Unsloth、LLaMA-Factory；合规与许可可查 Hugging Face 模型卡及 OpenRAIL 系列许可证。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5fb0414bbe77",
+ "url": "https://www.aibase.com/news/31035",
+ "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-14T16:02:31.558Z",
+ "fetched_at": "2026-09-14T23:08:45.672706+00:00",
+ "content": "Recently, Andon Labs conducted a rigorous Vending-Bench2 test, allowing an AI agent to start with $500 and run a vending machine simulation for a year. In this long-term business simulation challenge, GPT-6Astra performed impressively, achieving an average final account balance of $15,515. Even its worst round performance exceeded the best round performance of Claude Fable5.1, marking its first time at the top.\nReviewing the actual test performances of both, the main difference lies in supply chain management and rule execution. GPT-6Astra demonstrated strong long-term low-cost procurement capabilities, successfully reducing product prices to about 48% of the original price. Moreover, it maintained highly stable rule execution throughout the entire operation cycle, without any prepayment losses. By contrast, Claude Fable5.1 experienced rising procurement costs and suffered significant prepayment losses due to not strictly adhering to the rules.\nNot only did GPT-6Astra win overwhelmingly in the regular simulation, but it also performed outstandingly in more complex three-player competition tests. It refused to engage in illegal cooperation and won all three rounds smoothly. This test profoundly revealed a core trend in current AI agent development: long-term autonomy is becoming the key differentiator, and the crucial threshold to the next stage is how to consistently and stably convert correct judgments into correct actions.",
+ "report": {
+  "summary": "GPT-6 Astra 模拟经营一年夺冠，收益近 Claude 三倍",
+  "background": "AI Agent 评测正从单轮问答走向长周期自主任务。Andon Labs 的 Vending-Bench 系列用模拟售货机考察智能体在有限资金、真实供应链与规则约束下的经营能力，Vending-Bench2 把周期拉长到一年、起始资金 500 美元，涉及进货、定价、库存、预付款与合规等连续决策。此前该测试中 Claude 系列长期占优，本次 GPT-6 Astra 首次登顶。需注意标题中的型号名指向尚未正式发布的未来版本，数据来自单一评测方。",
+  "key_points": [
+   "开出台 500 美元本金，模拟经营一年后平均账户余额达 15,515 美元；即便最差的一轮，也高于 Claude Fable5.1 最好的一轮，首次拿下榜首。",
+   "胜负手在供应链：GPT-6 Astra 展现了长期低成本采购能力，把进货价压到原价约 48%，靠持续成本优势拉开利润差距。",
+   "规则执行更稳：整个运营周期未出现预付款损失；而 Claude Fable5.1 采购成本一路上升，还因未严格遵守规则造成明显预付款亏损。",
+   "在更复杂的三方竞争测试中，它拒绝参与违规合谋，三轮全部获胜，说明它不仅会算账，也能在博弈中守住合规底线。",
+   "测试揭示的核心趋势是：长周期自主性正成为智能体分水岭，真正的门槛不是判断对，而是能否长期稳定地把正确判断执行成正确动作。"
+  ],
+  "impact": "对行业而言，Agent 的比拼从“能否答对”转向“能否长期管好一盘生意”，记忆、成本控制与规则遵从成为新的能力坐标，企业级自动化落地的可信度门槛被抬高。对开发者，长程任务中错误会不断累积，状态管理、上下文记忆、约束校验与可观测性比单点模型能力更关键。对普通用户，AI 代管小生意、自动化运营变得可行，但仍需人工划定边界并定期监督。",
+  "tools": "想跟进可关注 Andon Labs 的 Vending-Bench 评测；Agent 框架可看 LangGraph、AutoGen、CrewAI、OpenAI Agents SDK，长期记忆用 Letta(MemGPT)；长程与规则遵从评测参考 τ-bench、GAIA、OSWorld；调试追踪用 LangSmith、LangFuse。"
+ },
+ "lang": "zh"
+}

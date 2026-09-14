@@ -1,0 +1,23 @@
+{
+ "id": "60145e25cbaf",
+ "url": "https://www.ithome.com/1/002/314.htm",
+ "title": "马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-14T15:05:59Z",
+ "fetched_at": "2026-09-14T23:08:55.922359+00:00",
+ "content": "IT之家 9 月 14 日消息，据路透社报道，埃隆 · 马斯克（Elon Musk）旗下的 X 公司与 SpaceXAI 于周一宣布，已在得克萨斯州联邦法院撤回针对苹果公司的诉讼。该诉讼此前指控苹果合谋非法垄断智能手机以及生成式 AI 聊天机器人市场。\n在一份法庭文件中，X 公司与 SpaceXAI 申请撤回去年对苹果提起的这起诉讼。文件并未说明撤诉原因，也没有提及双方是否达成和解。\n据IT之家了解，这起诉讼主张，苹果将 ChatGPT 独家集成到 iPhone 及其他苹果设备的 Apple Intelligence 功能中，此举违反反垄断法。诉状指控苹果在与 OpenAI 的合作中，非法排挤竞争对手。\nX 公司与 SpaceXAI 表示，将继续追究对 ChatGPT 开发方 OpenAI 的相关诉求，OpenAI 也是本案的被告之一。",
+ "report": {
+  "summary": "马斯克旗下 X 与 xAI 撤回对苹果的反垄断诉讼，但继续起诉 OpenAI。",
+  "background": "马斯克与 OpenAI 的恩怨由来已久：他早年参与创办 OpenAI 后退出，随后自立门户推出聊天机器人 Grok，并多次公开指责苹果在 App Store 排名中偏袒 OpenAI、打压 Grok。此前，X 与 xAI 在得克萨斯州联邦法院起诉苹果和 OpenAI，主张苹果把 ChatGPT 独家集成进 Apple Intelligence，构成对智能手机与生成式 AI 助手市场的非法垄断。此次撤回对苹果的诉求，但保留对 OpenAI 的追责，标志这场纠纷的矛头从“平台分发”转向“模型竞争”本身。",
+  "key_points": [
+   "撤诉对象只有苹果：X 与 xAI 已向法院申请撤回针对苹果的诉讼，法庭文件既未说明原因，也未透露双方是否达成和解。",
+   "原诉讼核心指控是“独家集成”：苹果把 ChatGPT 作为 Apple Intelligence 的唯一外部聊天机器人接入 iPhone，被指非法排挤 Grok 等竞品。",
+   "对 OpenAI 的追责继续：OpenAI 同为本案被告，X 与 xAI 明确表示相关诉求不会撤回，官司焦点转向模型层面的竞争。",
+   "这更像一次策略调整：放弃与掌握 iOS 分发权的苹果正面对抗，集中火力对付直接竞争对手 OpenAI，成本更低、叙事更清晰。"
+  ],
+  "impact": "对 AI 行业而言，平台与模型厂商的“独家结盟”将面临更谨慎的法律审视，苹果这类分发方可能被迫向多家 AI 开放入口。对开发者来说，iOS 上接入第三方大模型的机会窗口或变大，但平台协议条款的合规风险也需重新评估。对普通用户，短期内 iPhone 上的 AI 助手体验不会明显变化，长期看可选助手可能更加多元，而非默认只有 ChatGPT。",
+  "tools": "想跟进可关注 xAI 的 Grok（对比苹果集成的 ChatGPT）、OpenAI 官方公告，以及苹果 Apple Intelligence 的第三方模型接入政策；追踪案件进展可看美国得州联邦法院卷宗与路透社、IT之家等报道。"
+ },
+ "lang": "zh"
+}

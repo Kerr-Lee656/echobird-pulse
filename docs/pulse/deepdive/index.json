@@ -10555,5 +10555,32 @@
   "site_name": "AIbase",
   "published_at": "2026-09-14T09:21:39.800Z",
   "fetched_at": "2026-09-14T12:42:05.309901+00:00"
+ },
+ "204ef80e918e": {
+  "id": "204ef80e918e",
+  "url": "https://www.aibase.com/news/31037",
+  "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-14T16:02:31.558Z",
+  "fetched_at": "2026-09-14T23:08:31.201317+00:00"
+ },
+ "5fb0414bbe77": {
+  "id": "5fb0414bbe77",
+  "url": "https://www.aibase.com/news/31035",
+  "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-14T16:02:31.558Z",
+  "fetched_at": "2026-09-14T23:08:45.672706+00:00"
+ },
+ "60145e25cbaf": {
+  "id": "60145e25cbaf",
+  "url": "https://www.ithome.com/1/002/314.htm",
+  "title": "马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-14T15:05:59Z",
+  "fetched_at": "2026-09-14T23:08:55.922359+00:00"
  }
 }
