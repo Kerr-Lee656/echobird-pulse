@@ -10600,5 +10600,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-15T04:50:50.301856+00:00"
+ },
+ "ff1b74fe258f": {
+  "id": "ff1b74fe258f",
+  "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T11:41:16.432037+00:00"
+ },
+ "6a4ee224dab0": {
+  "id": "6a4ee224dab0",
+  "url": "https://www.36kr.com/p/3982956032408579",
+  "title": "GPT-6 Astra开放Plus，20美元只能拿它干活，不能聊天",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T11:41:25.840433+00:00"
+ },
+ "0aa8d1404abf": {
+  "id": "0aa8d1404abf",
+  "url": "https://www.aibase.com/zh/news/31056",
+  "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T11:41:45.290293+00:00"
+ },
+ "f5c4d54982a8": {
+  "id": "f5c4d54982a8",
+  "url": "https://www.aibase.com/zh/news/31044",
+  "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T11:41:54.066515+00:00"
+ },
+ "0354e365d07c": {
+  "id": "0354e365d07c",
+  "url": "https://www.aibase.com/news/31050",
+  "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-15T06:56:19.862Z",
+  "fetched_at": "2026-09-15T11:42:28.841623+00:00"
  }
 }
