@@ -1,0 +1,24 @@
+{
+ "id": "a665b9c321f5",
+ "url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
+ "title": "Google finally lets all engineers use Anthropic's Claude",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-15T04:50:39.404895+00:00",
+ "content": "Googlers have some of the best perks in Silicon Valley, but there's one thing many of them have long been denied: access to Anthropic's Claude.\nThat just changed.\nThe company recently made one of Anthropic's strongest coding models available to engineers across the company through its internal development tool, according to two employees and confirmed by a spokesperson.\nIt's a notable change inside Google, which has typically barred most employees from using outside coding tools such as Claude Code and OpenAI's Codex, expecting them to build with Gemini instead.\nThere have been exceptions: teams within Google DeepMind have had access to Claude for some time, and some employees have secured it for high-priority engineering projects, according to three people with knowledge of the matter.\nThe move is an acknowledgment of how competitive the AI coding race has become.\nGoogle has spent billions building Gemini and pushing employees to use its own AI tools, but when it comes to getting engineers to work faster, even Google is willing to turn to a rival.\nNow, staff across the company are permitted to use Anthropic's Opus 5 model for internal work — but only inside Antigravity, Google's internal version of its development platform.\nGoogle is a backer of Anthropic and announced plans earlier this year to invest up to $40 billion in the company.\n\"Engineers have access to select third-party models in Antigravity, which is aligned with our external Antigravity enterprise offering,\" a Google spokesperson said. \"Gemini remains our primary and foundational model for internal development, with third-party models available on a quota to support specialized use cases.\"\nThe spokesperson said Claude was being offered with per-user quotas for employees and was designed to be supplementary to Gemini.\nThe change was a long time coming for some engineers. Despite recent gains from its Flash 3.8 model, Google is still trailing Anthropic and OpenAI on coding, leaving some Googlers frustrated with Gemini's limitations.\nThat frustration was made worse by the fact that Claude access was previously limited to select teams, even as the company piled pressure on staff to show they were using AI to be more productive, Business Insider previously reported.\nGoogle isn't the only Big Tech company to give employees access to Claude after staff complaints. Amazon also started allowing employees to use the coding tool and Codex earlier this year.\nHave something to share? Contact this reporter via email at hlangley@businessinsider.com or Signal at 628-228-1836. Use a personal email address and a non-work device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "谷歌向全员工程师开放Anthropic Claude编码模型",
+  "background": "谷歌长期要求内部开发优先使用自研Gemini，并限制多数员工使用Claude Code、OpenAI Codex等外部编码工具，仅DeepMind及部分高优先级项目例外。随着AI编码竞赛加剧，Gemini在编码能力上仍落后于Anthropic和OpenAI，员工的不满与提升效率的压力促使谷歌转向竞品。谷歌同时是Anthropic的投资方，计划最高投资400亿美元，此次开放Claude Opus 5仅限内部Antigravity平台并设配额，Gemini仍被定位为基础模型。",
+  "key_points": [
+   "谷歌近期允许全体员工通过内部开发平台Antigravity使用Anthropic的Opus 5编码模型，但设有每用户配额，且定位为Gemini的补充。",
+   "此前谷歌多数工程师被禁止使用Claude Code、OpenAI Codex等外部编码工具，公司要求用Gemini，只有DeepMind等少数团队例外。",
+   "转变主因是AI编码竞争白热化：Gemini虽推出Flash 3.8等更新，但在编码上仍落后Anthropic和OpenAI，部分员工对Gemini限制感到沮丧。",
+   "谷歌是Anthropic的重要投资方，今年宣布计划最高投资400亿美元，开放Claude既承认对手优势，也符合其投资与生态布局。",
+   "Google发言人强调Gemini仍是内部开发的主要基础模型，第三方模型按配额用于专门场景；亚马逊此前也已允许员工使用Claude和Codex。"
+  ],
+  "impact": "对AI行业：谷歌自研优先策略出现松动，大厂开始承认外部模型在编码上的优势，多模型并用或成企业AI开发常态，模型竞争更聚焦实际生产力。对开发者：谷歌工程师可借Claude提升编码效率，但配额和平台限制仍在；外部开发者会看到更多企业可能跟进开放竞品模型。对普通用户：短期无直接变化，长期有望用到更快、更强的AI编码产品及由此催生的应用。",
+  "tools": "想跟进可关注 Anthropic Claude Code、Google Antigravity、OpenAI Codex 等商业工具；开源可尝试 Cline、Continue、Aider、OpenHands，它们支持多模型切换，适合体验编码代理工作流。"
+ },
+ "lang": "zh"
+}

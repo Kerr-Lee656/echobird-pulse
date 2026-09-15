@@ -10582,5 +10582,23 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-14T15:05:59Z",
   "fetched_at": "2026-09-14T23:08:55.922359+00:00"
+ },
+ "a665b9c321f5": {
+  "id": "a665b9c321f5",
+  "url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
+  "title": "Google finally lets all engineers use Anthropic's Claude",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T04:50:39.404895+00:00"
+ },
+ "420dda55b9e5": {
+  "id": "420dda55b9e5",
+  "url": "https://daily.dev/posts/wsj-openai-acquired-smartphone-camera-startup-glass-imaging-for-more-than-300m-the-startup-s-c-bktaflzrq",
+  "title": "OpenAI acquires camera startup Glass Imaging for over $300M",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T04:50:50.301856+00:00"
  }
 }
