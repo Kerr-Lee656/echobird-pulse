@@ -10645,5 +10645,77 @@
   "site_name": "AIbase",
   "published_at": "2026-09-15T06:56:19.862Z",
   "fetched_at": "2026-09-15T11:42:28.841623+00:00"
+ },
+ "a39bc5a87e26": {
+  "id": "a39bc5a87e26",
+  "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks",
+  "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:17:59.772916+00:00"
+ },
+ "9ec3a47f5729": {
+  "id": "9ec3a47f5729",
+  "url": "https://thenextweb.com/news/lagarde-ecb-europe-sovereign-ai-cut-off-risk-data-centres",
+  "title": "Europe must build its own AI or risk being cut off, says ECB’s Lagarde",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:12.542735+00:00"
+ },
+ "1f7c493e45db": {
+  "id": "1f7c493e45db",
+  "url": "https://thenextweb.com/news/jack-clark-anthropic-ai-kill-switch-mandatory-bbc",
+  "title": "AI kill switches may need to be mandatory, Anthropic’s Jack Clark tells BBC",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:18.936312+00:00"
+ },
+ "c5c702ffdec1": {
+  "id": "c5c702ffdec1",
+  "url": "https://thenextweb.com/news/openai-glass-imaging-acquisition-300m-smartphone-camera",
+  "title": "OpenAI buys camera startup Glass Imaging for over $300m, WSJ reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:25.021151+00:00"
+ },
+ "c8f4eeea2362": {
+  "id": "c8f4eeea2362",
+  "url": "https://thenextweb.com/news/temporal-550m-series-e-12-55bn-valuation-lightspeed",
+  "title": "Temporal raises $550m at $12.55bn to keep AI agents from failing",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:36.709509+00:00"
+ },
+ "9eef41d417f1": {
+  "id": "9eef41d417f1",
+  "url": "https://www.techradar.com/ai-platforms-assistants/the-big-ai-slowdown-battle-explained-5-things-you-need-to-know-about-trumps-ai-regulation-battle-with-openais-sam-altman-anthropics-dario-amodei-and-even-elon-musk",
+  "title": "The big AI 'slowdown' battle explained — 5 things you need to know about Trump's AI regulation battle with OpenAI's Sam Altman, Anthropic's Dario Amodei, and even Elon Musk",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:45.361959+00:00"
+ },
+ "f7104fafd941": {
+  "id": "f7104fafd941",
+  "url": "https://hub.baai.ac.cn/view/57984",
+  "title": "7 名博士生仅用 3 个月从零训练 7B 大模型：代码 + 数据 + 训练日志全公开",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:18:55.702365+00:00"
+ },
+ "9f32f205334a": {
+  "id": "9f32f205334a",
+  "url": "https://hub.baai.ac.cn/view/57973",
+  "title": "分子之心用 AI 把化学反应拍成电影，成果登 Science 子刊",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-15T21:19:04.825445+00:00"
  }
 }

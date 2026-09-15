@@ -1,0 +1,25 @@
+{
+ "id": "c8f4eeea2362",
+ "url": "https://thenextweb.com/news/temporal-550m-series-e-12-55bn-valuation-lightspeed",
+ "title": "Temporal raises $550m at $12.55bn to keep AI agents from failing",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-15T21:18:36.709509+00:00",
+ "content": "Temporal has raised $550m in a Series E round that values it at $12.55bn. That is more than double its valuation seven months ago. The company announced the round on 14 September.\nLightspeed Venture Partners led the round. Wellington Management, Growth Equity at Goldman Sachs Alternatives and Tiger Global were co-leads. T. Rowe Price and SV Angel also invested. Returning investors include Andreessen Horowitz, Sequoia, Index, GIC, Sapphire Ventures and Amplify.\nIn August, TNW reported that Temporal was in talks to raise about $500m at a $12bn valuation. The final round came in larger on both counts. Temporal was valued at $5bn in February, when it raised $300m in a round led by Andreessen Horowitz, Reuters reported.\nWhat Temporal sells\nTemporal makes open-source software that keeps applications running when something fails. Its core technology, which it calls Durable Execution, saves an application’s state at each step. If a server crashes or an outside service stops responding, the work resumes where it left off.\nThe software is free to use. Temporal makes money from Temporal Cloud, a managed version of the platform, according to Reuters.\nThe company says demand has grown as businesses put AI agents into production. Those agents can run for hours or days and call many tools and systems. Each step is another place for a task to fail.\nSamar Abbas, co-founder and chief executive, made the same point in the announcement. “As agents take on more critical work across more systems, every additional step creates another place to fail,” he said.\nThe numbers behind the valuation\nTemporal says its annualised revenue run rate has passed $250m, up more than 200% on a year earlier. It added that net dollar retention, a measure of how much existing customers increase their spending, has been above 200% since February.\nTemporal Cloud processed more than 1.9 trillion actions in August, the company says. That is up more than 350% year on year. It has more than 4,300 paying customers, including OpenAI, Snap, Nvidia, Netflix and JPMorgan Chase. Its other named users include Anysphere, the maker of Cursor, as well as Lovable, Scale AI, Salesforce and Shopify.\nOpenAI’s use of Temporal has grown 60-fold in under a year, the company wrote in a blog post.\nWhere the money goes\nThe money will go into research and development, developer and enterprise sales, and global operations. Its workforce has doubled to 570 people in the past year.\nThe company was founded in 2019 by Abbas and chief technology officer Maxim Fateev. The two had built workflow software together at Amazon Web Services. At Uber, they later created the open-source engine Cadence. The new round takes Temporal’s total funding to about $1.2bn.\nA crowded market for AI funding\nTemporal is not the only company selling this kind of software. Tech Funding News lists smaller rivals including Inngest, Trigger.dev and Restate, which have each raised far less.\nThe round lands during a wave of large AI deals. AI companies took 86% of US venture deal value in the first half of 2026, Reuters reported, citing the PitchBook-NVCA Venture Monitor. Recent examples include Harvey’s $550m round and Cognition’s Series E.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Temporal 融资 5.5 亿美元，估值飙至 125.5 亿美元",
+  "background": "Temporal 创立于 2019 年，两位创始人 Samar Abbas 与 Maxim Fateev 早年在 AWS 做工作流软件，后来在 Uber 打造了开源引擎 Cadence。公司的核心是「持久化执行（Durable Execution）」：把应用每一步的状态存下来，服务器崩溃或外部服务掉线后能从中断处接着跑。过去这类需求主要来自支付、订单等后端系统；如今企业把 AI Agent 推入生产环境，Agent 可能连续运行数小时甚至数天、反复调用各种工具和系统，失败点成倍增加，可靠性中间件的需求被彻底点燃。今年 2 月公司刚以 50 亿美元估值融资 3 亿美元，仅七个月后估值就翻了一倍多。",
+  "key_points": [
+   "5.5 亿美元 E 轮由 Lightspeed 领投，高盛、Tiger Global、T. Rowe Price 参与，a16z、红杉、Index 等老股东跟投；七个月内估值从 50 亿翻到 125.5 亿美元，累计融资约 12 亿美元。",
+   "商业模式很清晰：开源引擎免费给人用，真正赚钱的是托管版 Temporal Cloud 订阅服务，属于典型的「开源内核 + 云托管」打法。",
+   "业绩数据亮眼：年化收入超 2.5 亿美元、同比增长 200%以上，净收入留存率长期高于 200%，8 月单月处理 1.9 万亿次动作，付费客户超 4300 家。",
+   "客户名单几乎就是 AI 与互联网一线阵容：OpenAI、Nvidia、Netflix、Snap、JPMorgan、Cursor 母公司 Anysphere、Shopify，其中 OpenAI 的使用量不到一年增长 60 倍。",
+   "CEO 的判断点出了痛点：Agent 承担越多关键任务，每多一步就多一个失败点；同赛道还有 Inngest、Trigger.dev、Restate 等小玩家，但融资体量差得很远。",
+   "这轮钱将投向研发、开发者与企业销售和全球运营，团队一年内翻倍至 570 人，赌的是 AI Agent 从演示走向生产后的可靠性刚需。"
+  ],
+  "impact": "对 AI 行业：这轮融资确认了「生产级可靠性」是 Agent 落地的真瓶颈，资金正从模型层向中间件、编排与容错基础设施扩散，AI 已占美国风投交易额的绝大多数。对开发者：Temporal 逐渐成为长时任务与 Agent 编排的事实标准之一，掌握其 SDK 与工作流思维会成为加分项，同时开源版仍可自托管，小团队不必被云厂商绑定。对普通用户：这意味着后台的 AI 任务更少半途崩溃、重复执行或丢单，自动化流程的可靠性会默默提升，你可能感受不到它，但会少遇到 AI「干到一半失忆」。",
+  "tools": "想跟进可研究 Temporal 开源引擎与其 Python/TypeScript/Go/Java SDK，以及托管版 Temporal Cloud；轻量替代方案有 Inngest、Trigger.dev、Restate，老牌选择包括 Netflix Conductor 与 Uber Cadence。练手建议：写一个会调用外部 API、需要重试和断点续跑的长流程 Agent，体会「持久化执行」与普通异步任务队列的差别。"
+ },
+ "lang": "zh"
+}

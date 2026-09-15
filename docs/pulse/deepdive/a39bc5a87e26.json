@@ -1,0 +1,24 @@
+{
+ "id": "a39bc5a87e26",
+ "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks",
+ "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-15T21:17:59.772916+00:00",
+ "content": "Chris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg. Lehane is reportedly in Washington to work with U.S. lawmakers addressing catastrophic risks associated with AI.\nThe revelation comes in the wake of Anthropic CEO Dario Amodei’s essay, published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman, Google’s Demis Hassabis, and SpaceXAI’s Elon Musk, supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropic in embedding third-party evaluators into the company to monitor for safety.\nOn Tuesday, Lehane admitted that the three companies have been in talks for several weeks regarding AI safety. Some, including Altman, have noted that such talks could put the companies at risk of violating antitrust law if the coordination is found to suppress competition. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one.\nThe news confirms earlier reporting and hints that the companies were working together. In an interview with Fortune late last week, Altman hinted that he had been in private discussions with other AI leaders. This week, The Information reported that the three companies have been working together to create a standards body for the AI industry — something Altman reportedly told staff would need to happen without the support of the U.S. government.\nHassabis called on the U.S. in July to establish a new standards body to act as an AI watchdog, with the power to screen the world’s most advanced models and coordinate industrywide slowdowns if dangers progressed.\nPresident Trump, for his part, has dismissed safety concerns as a hoax and pushed back on the need for tighter regulations, saying any slowdown would give China a leg up in the race. His key AI advisor David Sacks — a longtime investor with a personal stake in much of the industry — echoed this, saying fears of existential risk from AI were overblown.\nAt the same Tuesday meeting, Lehane said that OpenAI supports a provision in the FRONTIER Act that would force top frontier labs to allow “independent verification organizations” into their companies to ensure models are developed safely.\nTechCrunch has reached out to Anthropic, Google, and OpenAI for comment.",
+ "report": {
+  "summary": "OpenAI、Anthropic、谷歌被曝已就AI安全密谈数周",
+  "background": "上周六，Anthropic CEO Dario Amodei 发文呼吁全行业联手放缓前沿AI研发节奏、避免灾难性风险，Sam Altman、Demis Hassabis、马斯克等纷纷声援，Altman 更表示 OpenAI 将效仿 Anthropic 引入第三方评估者。早在7月，Hassabis 就呼吁美国建立有权审查顶级模型、并可协调全行业减速的AI监管标准机构。而特朗普政府将安全担忧斥为\"骗局\"，认为任何放缓都会让中国占先。在此背景下，OpenAI 全球政策负责人 Chris Lehane 在华盛顿与议员沟通时，证实三家竞争对手已就AI安全私下磋商数周。",
+  "key_points": [
+   "三家互为竞争对手的前沿实验室罕见联手，OpenAI 政策负责人公开承认已密谈数周，并称不需要政府特别豁免。",
+   "最大争议是反垄断：协调行为可能被认定压制竞争，Amodei 建议政府给一项窄范围豁免，OpenAI 则认为没必要。",
+   "合作目标或指向建立行业标准机构，Altman 曾对员工表示，这件事恐怕无法依赖美国政府推动。",
+   "OpenAI 支持 FRONTIER Act 中的条款，要求顶尖实验室允许\"独立验证组织\"进驻，核查模型是否安全开发。",
+   "政策风向对立：特朗普称安全担忧是骗局，其AI顾问 Sacks 也认为存在性风险被夸大，减速等于送给中国优势。"
+  ],
+  "impact": "对AI行业，头部实验室正从纯竞争走向某种\"安全协调\"，标准制定权可能从政府转移到企业联盟手中，同时要承担反垄断审查风险。对开发者，第三方评估和独立验证可能成为发布前沿模型的前置条件，合规与审计成本上升，但也催生评测、审计类工具需求。对普通用户，模型迭代节奏或略有放缓，换来的是更高的安全透明度；但治理话语权仍集中在少数几家公司与华盛顿之间。",
+  "tools": "想跟进可关注：英国AI安全研究院开源的评测框架 Inspect、独立评测机构 METR 的任务级评估、EleutherAI 的 lm-evaluation-harness，以及各家发布的 System Card/Model Card 与第三方评估接入机制。"
+ },
+ "lang": "zh"
+}

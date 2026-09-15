@@ -1,0 +1,24 @@
+{
+ "id": "c5c702ffdec1",
+ "url": "https://thenextweb.com/news/openai-glass-imaging-acquisition-300m-smartphone-camera",
+ "title": "OpenAI buys camera startup Glass Imaging for over $300m, WSJ reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-15T21:18:25.021151+00:00",
+ "content": "OpenAI has bought Glass Imaging, a startup that uses AI to improve smartphone cameras, in a deal that values it at more than $300m. The Wall Street Journal reported the purchase on 14 September, citing people familiar with the matter.\nAccording to the WSJ, OpenAI bought the company quietly in recent months. Neither company has announced the deal. OpenAI did not immediately respond to a request for comment, TechCrunch reported.\nA funding round last year valued Glass Imaging at about $100m, The Information reported, citing the WSJ. The reported price is more than three times that figure.\nWhat Glass Imaging makes\nTwo former Apple engineers started the company in 2019, and it has its base in Los Altos, California. It had raised about $30m from investors before the deal, TechCrunch reported. Its website lists GV, LDV Capital, Future Ventures, Abstract Ventures, Ground Up, and Insight Partners as backers.\nIts software, GlassAI, trains custom neural networks for each camera system. Glass Imaging says the software reverses “lens aberrations and sensor imperfections” to get more image quality out of existing hardware. The company describes its goal as bringing “DSLR quality to smartphones.”\nThe software works at the moment the shutter fires, rather than editing a photo afterwards, TechCrunch reported. In a 2024 funding announcement, the company cited DXOMARK tests of its software on the Motorola Edge 40 Pro. Honor also uses the technology in its phones, according to Tech Funding News.\nTwo former Apple engineers\nChief executive Ziv Attar and chief technology officer Tom Bishop both worked at Apple. Glass Imaging says Bishop co-created the technology behind the iPhone’s Portrait Mode. Attar founded LinX Imaging in 2011, which Apple bought in 2015, and later led computational photography work at Apple.\nThe deal drew congratulations from imaging researcher Peyman Milanfar. “The camera is the future of intelligence,” he wrote on X.\nOpenAI’s hardware plans\nOpenAI bought io, the device startup of former Apple design chief Jony Ive, for $6.5bn in 2025. Greg Brockman, OpenAI’s president, has since confirmed the company is building “a family of devices.”\nReports say its first device will be a screen-free smart speaker. Other reports say OpenAI is working on a phone built around AI agents, as well as earbuds. More than 200 employees work on its hardware, according to Tech Funding News.\nGlass Imaging is the latest in a string of OpenAI acquisitions this year. Others include slide deck startup NextSlide and Northslope, which places engineers inside client businesses.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI 以超3亿美元低调收购手机影像AI公司 Glass Imaging。",
+  "background": "Glass Imaging 由两名前苹果工程师 Ziv Attar 和 Tom Bishop 于 2019 年创立，总部位于加州洛斯阿尔托斯，此前累计融资约 3000 万美元，投资方包括 GV、Insight Partners 等；去年一轮融资估值约 1 亿美元。其 GlassAI 软件为每套相机系统训练定制神经网络，在按下快门的瞬间反向修正镜头畸变与传感器缺陷，目标是把单反级画质带给手机，摩托罗拉 Edge 40 Pro 和荣耀部分机型已采用。此次收购价较上轮估值翻了三倍多。这也是 OpenAI 在 2025 年收购 Jony Ive 的 io（65 亿美元）之后，围绕硬件布局的又一动作。",
+  "key_points": [
+   "收购价超3亿美元，是 Glass Imaging 上轮1亿美元估值的三倍多，且交易低调完成、双方均未官宣。",
+   "核心技术是快门瞬间运行的定制神经网络，直接修正镜头和传感器缺陷，而非拍完再修图。",
+   "两位创始人都来自苹果：CTO Bishop 参与创造 iPhone 人像模式，CEO Attar 创办的 LinX 被苹果收购。",
+   "软件已落地商用，摩托罗拉 Edge 40 Pro 和荣耀手机都用过，DXOMARK 测试为其背书。",
+   "这是 OpenAI 硬件野心的延续——已收购 io 并组建 200 多人团队，传闻在做无屏音箱、AI 手机和耳机。"
+  ],
+  "impact": "对 AI 行业而言，这标志着大模型公司开始向上游硬件和感知层延伸，争夺“眼睛”这一数据入口，算力与光学结合的竞赛将升温。对开发者来说，端侧实时神经网络图像处理的需求会带动相关推理优化与 ISP 工具链的机会。对普通用户，未来 AI 设备的拍照能力可能显著强于传统手机，而手机厂商自研影像算法的护城河会被削弱，OpenAI 若做手机将直接与苹果、三星竞争。",
+  "tools": "想跟进可关注 GlassAI 的技术思路，以及端侧图像处理相关的开源项目，如 Real-ESRGAN、NAFNet 等图像复原模型，配合 ONNX Runtime、TFLite、Core ML 做移动端部署；相机管线可研究 Google HDR+、libcamera 与 OpenISP 等开源实现，理解快门瞬间计算的工程路径。"
+ },
+ "lang": "zh"
+}
