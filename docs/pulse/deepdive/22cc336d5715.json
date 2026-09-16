@@ -1,0 +1,24 @@
+{
+ "id": "22cc336d5715",
+ "url": "https://thenextweb.com/news/sk-hynix-intel-talks-us-memory-chips-ohio",
+ "title": "SK Hynix is in talks with Intel to make memory chips in the US, Reuters reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-16T21:16:10.982181+00:00",
+ "content": "According to an exclusive Reuters report, based on information from three individuals involved in the talks, SK Hynix is negotiating a deal that would mark the first time the South Korean company manufactures memory chips in the United States.\nOne possibility is for the company to lease part of Intel’s chip-making site in Ohio, and another is to form a joint venture with Intel and major cloud providers to secure a steady supply of memory.\nA source stated that no decisions had been reached, and SK Hynix told Reuters that it was looking at “a number of measures, including the establishment of further production bases”, but added that no agreement had been reached. Intel refused to comment on what it called speculation, although it said it is still investing in preparing its site in Ohio.\nIn July, Korea JoongAng Daily stated that SK Hynix was negotiating to buy the entire campus with a view to beginning front-end memory production within five years. According to Reuters, the arrangement would be either a lease or a joint venture, and in either case, the companies have not confirmed it.\nSK Hynix is also under pressure, according to a January Bloomberg report. US Commerce Secretary Howard Lutnick has stated that South Korean and Taiwanese chipmakers could face tariffs of up to 100% if they do not agree to establish operations in America.\nThe company holds a leading position in the high-bandwidth memory market, which involves stacked chips placed alongside AI processors, and demand from data centers has led to a memory shortage.\nThe current US commitment refers only to the later stage of the process. SK Hynix is constructing a $4bn packaging plant in West Lafayette, Indiana, at which HBM will be packaged rather than manufactured.\nAccording to Reuters, producing the memory itself in the United States would be more expensive, as labor, construction, and the supplier base all add to the cost compared with production at home.\nAlthough the South Korean Ministry of Trade stated that the final decision lies with the company, it added that a deal involving a ‘national core technology’ would be examined under the country’s Industrial Technology Protection Act.\nThe investors responded promptly; according to Stocktwits, Intel increased by about 5% and the US-listed shares of SK Hynix by about 3% in overnight trading following the report. SK Hynix had added those US shares in July when it went public on the Nasdaq.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "SK海力士洽谈在美生产存储芯片，或租用英特尔俄亥俄工厂",
+  "background": "SK海力士是全球第二大存储芯片商，在AI所需的高带宽内存（HBM）市场领先。随着AI数据中心需求激增，内存供应紧张。美国商务部长卢特尼克威胁，韩国和台湾芯片商若不赴美建厂，可能面临最高100%关税。SK海力士目前仅在印第安纳州建40亿美元封装厂，未涉及晶圆制造。此次与英特尔洽谈，可能租用其俄亥俄工厂或成立合资公司，以在美国本土生产内存。但成本更高，且韩国政府将审查是否涉及国家核心技术。",
+  "key_points": [
+   "谈判核心：SK海力士正与英特尔谈判，计划首次在美国本土制造存储芯片，方案包括租赁英特尔俄亥俄工厂部分厂区，或与英特尔及大型云厂商成立合资公司。",
+   "美国关税压力：美商务部长威胁，韩台芯片商若不赴美设厂，可能面临最高100%关税，这是SK海力士考虑在美生产的重要推手。",
+   "现状仅封装：SK海力士已在印第安纳州投资40亿美元建封装厂，用于HBM封装，但并非制造。此次谈判若成功，将把前端制造带到美国。",
+   "成本与监管障碍：在美国生产内存成本更高，因劳动力、建设、供应商配套都更贵；韩国政府表示，若涉及国家核心技术，将依《产业技术保护法》审查。",
+   "市场反应：消息传出后，英特尔股价盘后涨约5%，SK海力士美股涨约3%，显示投资者看好。"
+  ],
+  "impact": "对AI行业：缓解美国AI芯片供应链风险，HBM本土化生产可保障英伟达等AI加速器供应，但推高成本。对开发者：AI算力成本可能上升，但供应更稳定，HBM相关开发机会增多。对普通用户：AI服务价格或受内存成本影响，但长期看美国本土制造增强供应链韧性。",
+  "tools": "想跟进HBM与存储供应链，可关注TrendForce、SemiAnalysis的产业分析；开发者可留意CXL内存池化开源项目（如Linux CXL子系统）及NVIDIA HBM路线图；也可跟踪SK海力士HBM3E/HBM4产品页与英特尔俄亥俄工厂动态。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59775a1eb1b6",
+ "url": "https://www.aibase.com/news/31103",
+ "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-16T14:26:58.935Z",
+ "fetched_at": "2026-09-16T21:16:35.596569+00:00",
+ "content": "On September 16, iFLYTEK released the Spark-Audio-1.0-Preview, a large-scale speech foundation model. The most eye-catching tag is \"completely domestic\"—this model was trained using domestically developed computing power, effectively eliminating supply chain risks from the bottom up.\nIn terms of capabilities, Spark-Audio-1.0-Preview supports input in both text and speech modalities, and outputs in text format. It can handle a wide range of tasks: basic functions such as speech transcription, multilingual translation, and recognition of multiple dialects are just the beginning. It also covers environmental sound recognition, speaker identification, sentiment analysis, and complex audio Q&A. It covers recognition of 99 languages and 202 dialects. iFLYTEK summarizes this as a leap from \"hearing clearly\" to \"understanding thoroughly\"—in the past, machines focused on accurately converting sound waves into text; now, they can distinguish who is speaking, identify emotions in the tone, and detect sounds in the background.\nCurrently, Spark-Audio-1.0-Preview is officially open for experience, and the API will be launched on the iFLYTEK Open Platform later.",
+ "report": {
+  "summary": "科大讯飞发布全国产算力音频大模型，支持99种语言202种方言",
+  "background": "语音识别赛道长期由OpenAI Whisper、Google等海外模型占据主流，国内厂商在高端算力供应受限的背景下，训练自主大模型存在明显风险。科大讯飞以语音技术起家，此次推出的Spark-Audio-1.0-Preview是其星火大模型体系向音频领域的延伸，最大卖点是全流程使用国产算力完成训练，从底层规避供应链不确定性。同时它将语音模型从单纯的'转写工具'升级为能理解环境音、说话人身份与情绪的通用音频理解模型，呼应了业界从ASR走向'音频大模型'的趋势。",
+  "key_points": [
+   "全链路国产算力训练是最大标签，意味着训练环节不依赖海外芯片，供应链自主可控，对国内政企客户尤为关键",
+   "输入支持文字和语音双模态，输出为文本，可同时处理转写、翻译、方言识别等基础任务",
+   "能力从'听清'升级到'听懂'：能分辨说话人是谁、语气中的情绪，还能识别背景环境音",
+   "覆盖99种语言和202种方言，方言数量远超一般商用模型，对国内多语种场景适配度高",
+   "目前已开放体验，API后续上线讯飞开放平台，开发者可直接调用而无需自建模型"
+  ],
+  "impact": "对AI行业而言，这是国产算力能支撑起大规模语音基座模型的一次公开验证，可能推动更多厂商尝试非英伟达路线，也让音频大模型赛道的竞争从'能转写'转向'能理解'。对开发者，多语言多方言加音频理解能力意味着客服质检、会议纪要、内容审核等应用可以更快落地，API调用比自训模型门槛低得多。对普通用户，最直接的感受是方言也能被准确识别，语音助手能听出情绪和背景，交互体验更自然。",
+  "tools": "想跟进可关注讯飞开放平台的Spark-Audio API；开源侧可对比阿里的FunASR/SenseVoice、Qwen-Audio系列以及OpenAI Whisper，用于多语言转写与音频理解；做端侧部署可关注 sherpa-onnx 等推理框架。"
+ },
+ "lang": "zh"
+}

@@ -10798,5 +10798,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-16T13:27:34Z",
   "fetched_at": "2026-09-16T16:51:07.234630+00:00"
+ },
+ "41b2ab0b4aae": {
+  "id": "41b2ab0b4aae",
+  "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
+  "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-16T21:15:49.693642+00:00"
+ },
+ "dd42f49f5323": {
+  "id": "dd42f49f5323",
+  "url": "https://thenextweb.com/news/openai-rogue-agents-probed-hugging-face-may",
+  "title": "OpenAI’s rogue agents probed Hugging Face in May, two months before the breach, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-16T21:16:00.633605+00:00"
+ },
+ "22cc336d5715": {
+  "id": "22cc336d5715",
+  "url": "https://thenextweb.com/news/sk-hynix-intel-talks-us-memory-chips-ohio",
+  "title": "SK Hynix is in talks with Intel to make memory chips in the US, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-16T21:16:10.982181+00:00"
+ },
+ "30148e42a74b": {
+  "id": "30148e42a74b",
+  "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+  "title": "Emerald AI、Google 与 NVIDIA 成立联盟，推动灵活 AI 数据中心",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-16T21:16:21.738465+00:00"
+ },
+ "59775a1eb1b6": {
+  "id": "59775a1eb1b6",
+  "url": "https://www.aibase.com/news/31103",
+  "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-16T14:26:58.935Z",
+  "fetched_at": "2026-09-16T21:16:35.596569+00:00"
+ },
+ "8d81a894f750": {
+  "id": "8d81a894f750",
+  "url": "https://www.aibase.com/news/31101",
+  "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-16T14:26:58.935Z",
+  "fetched_at": "2026-09-16T21:16:44.984921+00:00"
+ },
+ "2df332362cbf": {
+  "id": "2df332362cbf",
+  "url": "https://www.huxiu.com/article/4891806.html?f=rss",
+  "title": "大模型的进步，为什么越来越难衡量了？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-16T14:08:30Z",
+  "fetched_at": "2026-09-16T21:17:01.705613+00:00"
+ },
+ "6b3412a02652": {
+  "id": "6b3412a02652",
+  "url": "https://www.ithome.com/1/003/301.htm",
+  "title": "英伟达、谷歌、Emerald AI 发起成立 AI 能源管理联盟，推动灵活型 AI 数据中心发展",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-16T13:37:57Z",
+  "fetched_at": "2026-09-16T21:17:09.858529+00:00"
  }
 }

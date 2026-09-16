@@ -1,0 +1,23 @@
+{
+ "id": "8d81a894f750",
+ "url": "https://www.aibase.com/news/31101",
+ "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-16T14:26:58.935Z",
+ "fetched_at": "2026-09-16T21:16:44.984921+00:00",
+ "content": "On September 16, the world's largest AI open-source community, Hugging Face, updated its ranking of the most popular (Most Likes) open-source large models. Qwen3.8-27B from Alibaba's Tongyi Lab surpassed a series of well-known models such as FLUX.1, DeepSeek-R1, Kimi-K3, and Meta-Llama-3, becoming the most popular open-source model in the history of Hugging Face.\nThe significance of this top position lies in its evaluation criteria — not benchmark scores or parameter size, but the genuine preferences of developers reflected through \"likes.\" Being highlighted alongside FLUX.1, a benchmark for image generation; DeepSeek-R1, a star in reasoning; and Kimi-K3 and Meta-Llama-3, long-standing strong competitors, indicates that Qwen3.8-27B has surpassed all previous open-source models in terms of practicality, ease of use, and community reputation.",
+ "report": {
+  "summary": "千问 Qwen3.8-27B 登顶 HF 最受欢迎开源模型",
+  "background": "Hugging Face 是全球最大的 AI 开源社区，其「Most Likes」榜单由开发者点赞累积而成，被视作比跑分更贴近真实使用体验的人气指标。长期以来榜单头部被 Meta Llama、DeepSeek-R1、FLUX.1、Kimi 等模型瓜分，中美团队交替领跑。阿里通义千问系列自开源以来持续迭代，凭借中等参数规模、低部署成本和活跃的生态适配，积累了大量开发者用户。此次 Qwen3.8-27B 登顶，是这一长期积累的集中体现。",
+  "key_points": [
+   "榜单拼的不是跑分和参数，而是开发者一个个点出来的「赞」，代表的是真实使用后的口碑。",
+   "被超越的名单横跨图像生成（FLUX.1）、推理（DeepSeek-R1）、通用对话（Llama、Kimi），含金量十足。",
+   "27B 属于「中等身材」，效果够用又能本地跑得动，是目前个人和中小企业最能落地的档位。",
+   "这是 Hugging Face 史上人气最高的开源模型，也意味着中国开源模型的社区话语权再上台阶。"
+  ],
+  "impact": "对行业而言，模型竞争的评价权正从跑分榜单转移到开发者口碑，中小参数模型的价值被重新确认。对开发者来说，一个中文友好、生态成熟、显存要求不高的基座模型可以直接拿来微调和部署，选型成本下降。对普通用户，这意味着更多便宜甚至免费的本地 AI 应用会加速出现，隐私和数据可控性也会更好。",
+  "tools": "想上手可关注：Ollama 或 LM Studio（一键本地运行）、vLLM 与 llama.cpp（推理部署与量化）、Hugging Face Transformers 与 ModelScope（下载权重与微调），以及 Qwen 官方 GitHub 仓库中的微调与工具调用示例。"
+ },
+ "lang": "zh"
+}
