@@ -3175,5 +3175,68 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-16T04:00:00.000Z",
   "fetched_at": "2026-09-16T04:54:43.719724+00:00"
+ },
+ "c184e60c159e": {
+  "id": "c184e60c159e",
+  "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+  "title": "Amazon launches Alexa+ in India with Hindi support",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-16T10:34:47.000Z",
+  "fetched_at": "2026-09-16T11:30:54.390480+00:00"
+ },
+ "e06185c2c32b": {
+  "id": "e06185c2c32b",
+  "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+  "title": "OpenAI 'temporarily' pauses new sign-ups and upgrades to $200 plan",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T10:16:19Z",
+  "fetched_at": "2026-09-16T11:31:29.575479+00:00"
+ },
+ "99b5eae67da2": {
+  "id": "99b5eae67da2",
+  "url": "https://latticeflow.ai/lp/political-bias-framework",
+  "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T08:51:44Z",
+  "fetched_at": "2026-09-16T11:32:21.625196+00:00"
+ },
+ "467dc9d43658": {
+  "id": "467dc9d43658",
+  "url": "https://mistral.ai/news/mistral-x-mozilla/",
+  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "source": "Hacker News (77pts, 17c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T08:08:57Z",
+  "fetched_at": "2026-09-16T11:32:34.772496+00:00"
+ },
+ "f318d7a12c34": {
+  "id": "f318d7a12c34",
+  "url": "https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/",
+  "title": "Sanders: \"If AI is coming for workers, it should bring a 4-day workweek with it\"",
+  "source": "Hacker News (12pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T07:13:41Z",
+  "fetched_at": "2026-09-16T11:33:11.926808+00:00"
+ },
+ "68a0ac33ab6a": {
+  "id": "68a0ac33ab6a",
+  "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+  "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T06:54:33Z",
+  "fetched_at": "2026-09-16T11:33:23.155656+00:00"
+ },
+ "049ed956b823": {
+  "id": "049ed956b823",
+  "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+  "title": "We don't need AI regulation – leave safety to us, Nvidia's Jensen Huang says",
+  "source": "Hacker News (3pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T06:26:37Z",
+  "fetched_at": "2026-09-16T11:33:56.789761+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "1f9c92eba1a4",
+ "url": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8?syn-25a6b1a6=1",
+ "title": "欧盟将对15岁以下儿童使用社交媒体和聊天机器人实施限制",
+ "source": "www.ft.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-16T08:47:24.185Z",
+ "fetched_at": "2026-09-16T11:27:57.570629+00:00",
+ "content": "EU to restrict social media and chatbots for children under 15\nSave over 40% on Standard Digital\nwas $540 now $299 for your first year.\nSave now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price.\nExplore more offers.\nTrial\nThen $75 per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial.\nPremium Digital\nComplete digital access with exclusive insights and industry deep dives on any device.\nSave now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price.\nCheck whether you already have access via your university or organisation.\nTerms & Conditions apply\n*Hand delivery availability confirmed when you enter your address.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "欧盟拟限制15岁以下儿童使用社交媒体和AI聊天机器人，强化未成年人数字保护。",
+  "background": "此前澳大利亚已立法禁止16岁以下未成年人使用社交媒体，并于2025年底生效，成为全球最严范本。欧盟方面，GDPR第8条允许成员国将数字同意年龄设在13至16岁之间，数字服务法（DSA）也已对大型平台展开未成年人保护调查。同时，Character.AI、OpenAI等公司因青少年心理健康与自伤事件在美国面临多起诉讼，公众对AI陪伴类产品的担忧迅速升温。此次欧盟拟以15岁为统一门槛，把社交媒体与生成式AI聊天机器人一并纳入限制，标志着监管从内容治理转向产品准入与交互设计本身。",
+  "key_points": [
+   "限制对象首次把社交媒体与AI聊天机器人并列，意味着陪伴型AI对话产品被视同高风险未成年人服务，而非普通工具。",
+   "15岁门槛介于GDPR的13至16岁区间，欧盟倾向于从严统一，避免各成员国标准碎片化导致的合规套利。",
+   "落地大概率要求年龄验证、默认关闭个性化推荐与陌生人互动、限制使用时长，并强制提供家长控制与青少年模式。",
+   "监管思路与澳大利亚禁令、美国多起AI致害诉讼形成合力，全球未成年人AI保护正从建议性指南走向硬性立法。",
+   "最大争议在于年龄验证与隐私的冲突，实名或生物特征验证可能带来数据泄露风险，也让中小平台难以承担成本。"
+  ],
+  "impact": "对AI行业，未成年人市场从增量变为合规雷区，产品设计必须默认安全，欧洲准入门槛显著抬高，头部厂商将把资源投向年龄识别与内容护栏。对开发者，年龄门控、内容分级过滤、家长仪表盘将从可选功能变成必选项，尤其影响陪伴型、情感型聊天应用的架构。对普通用户，15岁以下青少年的社交与AI使用将明显收窄，家长获得更强控制权，但成年用户也可能遭遇更频繁的验证流程与更保守的产品体验。",
+  "tools": "跟进可关注：Yoti、VerifyMy 等面向DSA合规的年龄验证方案；内容护栏方面有 Llama Guard、NVIDIA NeMo Guardrails、Azure AI Content Safety、OpenAI Moderation API；青少年保护与家长控制可参考 Google Family Link 与 Apple Screen Time 的实现思路；合规框架可查阅 DSA、GDPR 第8条及欧盟 AI 法案相关指南。"
+ },
+ "lang": "zh"
+}
