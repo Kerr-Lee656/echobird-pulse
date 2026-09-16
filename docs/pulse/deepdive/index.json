@@ -10717,5 +10717,32 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-15T21:19:04.825445+00:00"
+ },
+ "35c237ad8c3b": {
+  "id": "35c237ad8c3b",
+  "url": "https://www.aibase.com/zh/news/31067",
+  "title": "字节跳动上半年营收增30%、净利率降至16.7%：AI投入拖累利润，海外收入占比再创新高",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-16T04:51:08.988288+00:00"
+ },
+ "a22d8d3a8244": {
+  "id": "a22d8d3a8244",
+  "url": "https://www.aibase.com/zh/news/31070",
+  "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-16T04:51:20.049547+00:00"
+ },
+ "8f87e485d595": {
+  "id": "8f87e485d595",
+  "url": "https://reut.rs/4rk9E1W",
+  "title": "中国主要报纸称，人工智能并非“大国的专利”",
+  "source": "reut.rs",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-16T00:05:40.310Z",
+  "fetched_at": "2026-09-16T04:51:31.124462+00:00"
  }
 }

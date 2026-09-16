@@ -3130,5 +3130,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-15T21:20:53.000Z",
   "fetched_at": "2026-09-16T00:20:30.084099+00:00"
+ },
+ "f46ca6633e8a": {
+  "id": "f46ca6633e8a",
+  "url": "https://arxiv.org/abs/2609.16213",
+  "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-16T04:00:00.000Z",
+  "fetched_at": "2026-09-16T04:53:39.695261+00:00"
+ },
+ "cab4f1a04be9": {
+  "id": "cab4f1a04be9",
+  "url": "https://arxiv.org/abs/2609.16338",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-16T04:00:00.000Z",
+  "fetched_at": "2026-09-16T04:53:50.796050+00:00"
+ },
+ "ed2a9c01e265": {
+  "id": "ed2a9c01e265",
+  "url": "https://arxiv.org/abs/2609.16548",
+  "title": "QueryFormer: Winning Solution for KDD Cup 2026 Tencent UniRec Challenge",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-16T04:00:00.000Z",
+  "fetched_at": "2026-09-16T04:54:05.116976+00:00"
+ },
+ "168ae43b8433": {
+  "id": "168ae43b8433",
+  "url": "https://arxiv.org/abs/2609.16680",
+  "title": "little m: An AI Agent for Industrial Process Optimization",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-16T04:00:00.000Z",
+  "fetched_at": "2026-09-16T04:54:31.105865+00:00"
+ },
+ "acb1b9024fbc": {
+  "id": "acb1b9024fbc",
+  "url": "https://arxiv.org/abs/2609.16752",
+  "title": "Beyond Episodic AI: Cognitive Field Networks for Biologically Inspired Persistent Cognition",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-16T04:00:00.000Z",
+  "fetched_at": "2026-09-16T04:54:43.719724+00:00"
  }
 }

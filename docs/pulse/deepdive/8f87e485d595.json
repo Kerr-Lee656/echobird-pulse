@@ -1,0 +1,24 @@
+{
+ "id": "8f87e485d595",
+ "url": "https://reut.rs/4rk9E1W",
+ "title": "中国主要报纸称，人工智能并非“大国的专利”",
+ "source": "reut.rs",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-16T00:05:40.310Z",
+ "fetched_at": "2026-09-16T04:51:31.124462+00:00",
+ "content": "BEIJING, Sept 16 (Reuters) - AI is not a \"monopoly of great powers\" and the U.S. should work with China to manage risk to create a non-discriminatory development environment, China's top newspaper, the People's Daily, said in a commentary on Wednesday.\nThe U.S. and China are the two major driving forces of frontier AI development and the technology's global adoption. Both superpowers have been at loggerheads over AI policies and industry practices, with these issues slated to feature prominently in bilateral talks next week.\nSign up here.\nThe White House earlier this year accused China of stealing U.S. artificial intelligence labs' intellectual property on an industrial scale.\nAI is a new domain for human development and China encourages open-source and open practices, providing companies, including from the U.S., access to open-source models, the ruling Communist Party's official People's Daily wrote in a commentary.\n\"Artificial intelligence is a new domain for human development, not a monopoly of great powers, and must not become an arena for zero-sum competition,\" said the commentary published under the pen name \"Zhong Sheng\", meaning \"Voice of China\" and often used to give views on foreign policy.\nReports disclose that U.S. companies extensively \"distill\" Chinese models, it added.\n\"According to U.S. logic, when American enterprises use distillation it is an 'industry standard practice,' while when Chinese enterprises apply it, it constitutes an 'attack.' This is naked double standards,\" the paper said.\nDistillation is the process of training smaller AI models using the output of larger ones as part of an effort to lower the costs of training a powerful new AI tool.\nBy elevating an industry standard practice to a national security issue, the U.S. seeks a monopoly over the industry under the guise of combating distillation, the commentary added.\nHowever, China is willing to engage in \"constructive and professional\" discussions with the U.S. to advance the open, inclusive, universal, and beneficial development of AI, it said.\nReporting by Beijing newsroom; Writing by Ben Blanchard and Lincoln Feast.\nOur Standards: The Thomson Reuters Trust Principles.",
+ "report": {
+  "summary": "人民日报称AI非大国专利，呼吁中美合作避免零和竞争。",
+  "background": "中美是前沿AI发展的两大引擎，但在AI政策、产业实践和国家安全上摩擦不断。美国今年曾指控中国大规模窃取美AI实验室知识产权，AI议题预计成为下周中美双边会谈重点。人民日报以“钟声”署名发表评论，回应美方施压，强调中国鼓励开源开放，并指责美国在“蒸馏”技术上搞双重标准，试图以国家安全为名维持行业垄断。",
+  "key_points": [
+   "人民日报“钟声”文章称，AI不应是大国专利，也不能成为零和博弈场，呼吁中美共同管控风险。",
+   "文章指美企广泛“蒸馏”中国模型被称为行业惯例，中企类似做法却被视为攻击，这是赤裸裸双重标准。",
+   "中国强调鼓励开源开放，向包括美国企业在内的各方提供开源模型，与美方限制性做法形成对照。",
+   "事件发生在中美新一轮双边会谈前，AI政策与产业实践预计成为重要议题，双方分歧仍深。",
+   "蒸馏本是低成本训练小模型的常用技术，被政治化显示AI竞争正从技术蔓延到规则和话语权。"
+  ],
+  "impact": "对AI行业，中美在开源、模型蒸馏和安全监管上的规则竞争将加剧，可能影响全球技术标准与供应链。对开发者，开源模型和蒸馏技术仍会普及，但跨境合作、API访问与合规风险上升。对普通用户，短期可享更多开源模型和低成本AI应用；长期若技术脱钩或监管割裂，产品选择、价格和数据流动可能受损。",
+  "tools": "想跟进可关注开源模型如DeepSeek、Qwen、Llama、Mistral，以及Hugging Face、ModelScope上的模型卡；蒸馏与训练可看Hugging Face TRL、OpenLLM、vLLM；政策动态可关注人民日报“钟声”和路透社中美科技报道。"
+ },
+ "lang": "zh"
+}
