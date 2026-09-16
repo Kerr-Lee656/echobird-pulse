@@ -10771,5 +10771,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-16T07:08:12Z",
   "fetched_at": "2026-09-16T11:28:54.559880+00:00"
+ },
+ "ac5bfe85708a": {
+  "id": "ac5bfe85708a",
+  "url": "https://www.ithome.com/1/003/311.htm",
+  "title": "诺和诺德与 Anthropic 达成合作，用 Claude 大模型加速新药研发",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-16T14:12:33Z",
+  "fetched_at": "2026-09-16T16:50:28.855710+00:00"
+ },
+ "6ac27c68838b": {
+  "id": "6ac27c68838b",
+  "url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-16T13:51:15Z",
+  "fetched_at": "2026-09-16T16:50:52.633197+00:00"
+ },
+ "1d86d62ca0c2": {
+  "id": "1d86d62ca0c2",
+  "url": "https://www.ithome.com/1/003/297.htm",
+  "title": "消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-16T13:27:34Z",
+  "fetched_at": "2026-09-16T16:51:07.234630+00:00"
  }
 }
