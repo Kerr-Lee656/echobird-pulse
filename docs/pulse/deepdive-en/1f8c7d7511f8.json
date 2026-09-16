@@ -1,0 +1,24 @@
+{
+ "id": "1f8c7d7511f8",
+ "url": "https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9",
+ "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+ "source": "@arena",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-15T21:20:53.000Z",
+ "fetched_at": "2026-09-16T00:20:30.084099+00:00",
+ "content": "图像转 WebDev Arena 更新：四个新评估的模型版本已上榜！\n• 第 1 名 GPT-6 Astra （Max），由 @OpenAI 出品（1733 分）：比 GPT-5.6 Sol （xHigh） 高出 129 分，比排名第 2 的模型高出 23 分\n• 第 2 名 Claude Fable 5.1 （Max），由 @AnthropicAI 出品（1710 分）：比 Fable 5（1623 分）高出 87 分，比位列第 3 的 Claude Opus 5 （Max）（1665 分）高出 45 分\n• 第 4 名 Muse Spark 1.3 （Max），由 @AIatMeta 出品（1645 分）\n• 第 10 名 GLM-5.3-Flash，由 @Zai_org 出品（1588 分）\n其中，有三款已登上帕累托前沿：GPT-6 Astra （Max）、Muse Spark 1.3 （Max） 和 GLM-5.3-Flash，在性能与成本之间实现了高效平衡！\n按每 1M tokens 的混合价格计算： - 第 1 名 GPT-6 Astra （Max）：1733 分，$40/M - 第 3 名 Muse Spark 1.3 （Max）：1645 分，$3.50/M - 第 4 名 GLM-5.3 Flash：1588 分，$0.21/M\n图像转 WebDev 排行榜根据模型从图像和截图生成网站的能力，以及涉及多步推理和工具使用的智能体编程工作流，对模型进行排名。点击下方链接深入了解。",
+ "report": {
+  "summary": "Arena 图像转 WebDev 榜单更新：OpenAI 的 GPT-6 Astra 以 1733 分登顶，Anthropic、Meta 与智谱新模型同时上榜。",
+  "background": "图像转 WebDev（Image-to-WebDev）评测考察的是模型能否从设计稿、截图直接生成可用的网页，并进一步完成涉及多步推理与工具调用的智能体编程任务。这一方向近两年从「像素级还原」演化为「端到端交付」，因为产品团队越来越希望把 Figma 稿或竞品截图一键变成可运行的代码。与此同时，模型能力提升带来的成本压力让「性价比」成为核心指标，Arena 因此引入帕累托前沿，标出在性能与每百万 token 价格之间取得最优平衡的模型。本次更新中，OpenAI、Anthropic、Meta 与智谱几乎同期发布新版本，榜单排名与定价直接反映了头部厂商在前端生成这一高价值场景中的竞争态势。",
+  "key_points": [
+   "GPT-6 Astra（Max）以 1733 分登顶，比自家 GPT-5.6 Sol（xHigh）高出 129 分，比第二名模型高 23 分，优势虽不悬殊但已确立领先位置。",
+   "Anthropic 的 Claude Fable 5.1（Max）以 1710 分位居第二，较上一代 Fable 5 提升 87 分，同时领先同门 Claude Opus 5（Max）45 分，显示快速迭代版本正在反超旗舰系列。",
+   "Meta 的 Muse Spark 1.3（Max）以 1645 分排第四，智谱的 GLM-5.3-Flash 以 1588 分排第十，说明开源与低价阵营也在持续逼近第一梯队。",
+   "三款模型登上帕累托前沿：GPT-6 Astra、Muse Spark 1.3 和 GLM-5.3-Flash，分别在高端性能、中端均衡与极致低价三个位置占据最优解。",
+   "成本差距极其悬殊——每百万 token 混合价格从 GPT-6 Astra 的 40 美元，到 Muse Spark 1.3 的 3.5 美元，再到 GLM-5.3-Flash 的 0.21 美元，性能差不到 10%，价格差近 200 倍。"
+  ],
+  "impact": "对 AI 行业而言，图像转前端已从演示性质的能力展示，转变为可量化、可定价的工程赛道，帕累托前沿的出现意味着单纯刷榜不再有说服力，厂商必须同时证明性能与成本效率。对开发者来说，选择空间显著扩大：需要一次生成复杂交互页面的团队可以选 GPT-6 Astra，预算敏感、批量生成落地页或原型的工作流则可用 GLM-5.3-Flash 把单位成本压到几乎可忽略。对普通用户，最直接的变化是「截图变网站」类产品会更快、更便宜，设计到上线的中间环节被进一步压缩，非技术背景的创业者独立搭建产品页、营销站的门槛继续降低。",
+  "tools": "想跟进可关注 WebDev Arena 官方榜单与帕累托前沿图，实时对比性能与价格；动手实践可用 screenshot-to-code、v0、bolt.new、Lovable 等截图转代码工具；学术侧可参考 Design2Code、WebArena 数据集与评测方法；智能体编程工作流可试 OpenHands、Cline 等开源框架，把图像输入接入多步推理与工具调用链路。"
+ },
+ "lang": "en"
+}

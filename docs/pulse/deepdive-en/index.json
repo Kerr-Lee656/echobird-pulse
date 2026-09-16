@@ -3058,5 +3058,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-14T09:13:10Z",
   "fetched_at": "2026-09-14T12:45:25.876935+00:00"
+ },
+ "4c2595687694": {
+  "id": "4c2595687694",
+  "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
+  "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T23:37:11Z",
+  "fetched_at": "2026-09-16T00:17:39.407218+00:00"
+ },
+ "40d6f3955299": {
+  "id": "40d6f3955299",
+  "url": "https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt",
+  "title": "Moving coding-agent guardrails from prompts to hooks",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T23:18:00Z",
+  "fetched_at": "2026-09-16T00:18:56.124102+00:00"
+ },
+ "b6bb858f388b": {
+  "id": "b6bb858f388b",
+  "url": "https://claude.com/blog/salesforce-in-claude",
+  "title": "Salesforce in Claude",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T22:55:07Z",
+  "fetched_at": "2026-09-16T00:19:32.934468+00:00"
+ },
+ "39f595960fe5": {
+  "id": "39f595960fe5",
+  "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
+  "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T22:46:21Z",
+  "fetched_at": "2026-09-16T00:19:43.490995+00:00"
+ },
+ "e61f20edf811": {
+  "id": "e61f20edf811",
+  "url": "https://ministryofcyberaffairs.com/news/skill-poisioning-turning-ai-agents-into-malware-droppers-warns-china-s-national-cert-66b8bba4-9ffd-4583-a6c7-122e8149e0e8",
+  "title": "Skill Poisioning turning AI agents into malware droppers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T22:44:05Z",
+  "fetched_at": "2026-09-16T00:19:55.085873+00:00"
+ },
+ "cef426238c59": {
+  "id": "cef426238c59",
+  "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
+  "title": "Australian government paper proposes opt-out for AI training",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T22:20:16Z",
+  "fetched_at": "2026-09-16T00:20:08.358186+00:00"
+ },
+ "5dcb8ec818d7": {
+  "id": "5dcb8ec818d7",
+  "url": "https://noma.security/noma-labs/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+  "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-15T22:00:28Z",
+  "fetched_at": "2026-09-16T00:20:20.759509+00:00"
+ },
+ "1f8c7d7511f8": {
+  "id": "1f8c7d7511f8",
+  "url": "https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9",
+  "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+  "source": "@arena",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-15T21:20:53.000Z",
+  "fetched_at": "2026-09-16T00:20:30.084099+00:00"
  }
 }
