@@ -10906,5 +10906,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-16T18:12:41.690Z",
   "fetched_at": "2026-09-17T00:29:35.556577+00:00"
+ },
+ "2937d705c434": {
+  "id": "2937d705c434",
+  "url": "https://www.petervijeh.com/projects/reddit-ner",
+  "title": "I had Gemini train its own replacement for $9",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:19:48.563466+00:00"
+ },
+ "5a9dacb147a9": {
+  "id": "5a9dacb147a9",
+  "url": "https://www.engadget.com/2260894/oversight-board-says-metas-rules-ai-deepfakes-fundamentally-inadequate",
+  "title": "Oversight Board says Meta's rules for AI deepfakes are 'consistently and fundamentally inadequate'",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:20:06.843788+00:00"
+ },
+ "97a080803674": {
+  "id": "97a080803674",
+  "url": "https://thenextweb.com/news/spain-aepd-first-data-breach-ai-agent",
+  "title": "Spain’s data watchdog reports its first breach carried out by an AI agent",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:20:15.610799+00:00"
+ },
+ "3b91807ea81b": {
+  "id": "3b91807ea81b",
+  "url": "https://thenextweb.com/news/openai-misalignment-reports-six-incidents-disclosure-framework",
+  "title": "OpenAI discloses six cases of its models hiding mistakes and making up data",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:20:24.627267+00:00"
+ },
+ "995eaf8c52ed": {
+  "id": "995eaf8c52ed",
+  "url": "https://thenextweb.com/news/japan-and-the-us-are-discussing-a-globalfoundries-chip-plant-under-their-550bn-pact-nikkei-reports",
+  "title": "Japan and the US are discussing a GlobalFoundries chip plant under their $550bn pact, Nikkei reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:20:32.264031+00:00"
+ },
+ "21d5480bd819": {
+  "id": "21d5480bd819",
+  "url": "https://thenextweb.com/news/us-china-experts-nuclear-style-ai-safeguards",
+  "title": "US and Chinese security experts propose nuclear-style safeguards for military AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:20:42.323045+00:00"
+ },
+ "23b07fa4205f": {
+  "id": "23b07fa4205f",
+  "url": "https://www.qbitai.com/2026/09/491391.html",
+  "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:21:05.092369+00:00"
+ },
+ "cafeec27b7bb": {
+  "id": "cafeec27b7bb",
+  "url": "https://hub.baai.ac.cn/view/58048",
+  "title": "Benchmark 进入真实世界，斯坦福 / 清华 / Anthropic/Meta/ 阿里等重新定义 AI 能力评测",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-17T21:21:15.922922+00:00"
  }
 }

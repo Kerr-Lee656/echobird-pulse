@@ -1,0 +1,25 @@
+{
+ "id": "21d5480bd819",
+ "url": "https://thenextweb.com/news/us-china-experts-nuclear-style-ai-safeguards",
+ "title": "US and Chinese security experts propose nuclear-style safeguards for military AI",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-17T21:20:42.323045+00:00",
+ "content": "Security experts from the US and China have proposed a set of safeguards for military AI modelled on the rules that grew up around nuclear weapons, including a ban on letting AI decide whether to launch them, Reuters reported.\nThe recommendations, published last week, come from the US-China AI and National Security Dialogue, a track run since 2019 by the Brookings Institution and Tsinghua University’s Center for International Security and Strategy.\nThe proposals were written by Melanie Sisson, a senior fellow at Brookings, and Tianjiao Jiang, an associate professor at Fudan University. Neither government has endorsed them.\nAI should not autonomously decide to use nuclear weapons, and it should not be used to attack the other side’s nuclear command and control systems. Humans should also stay in control of any consequential cyberattack on a rival’s nuclear infrastructure.\nThe experts also call for a dedicated US-China military hotline for AI incidents, and for the two countries to agree on what “meaningful human control” of a weapons system actually means. The phrase is widely used in arms-control debates but has no shared definition.\nThe ideas build on an agreement reached in November 2024, when then-President Joe Biden and Chinese President Xi Jinping affirmed that humans, not AI, should keep control over decisions to use nuclear weapons.\nA hotline would only help if both sides picked up. Carla Freeman of Johns Hopkins University told Reuters that no one in the Chinese system wants to talk to the US until the top leadership has settled on a response, which “may take days if not longer.”\nBeijing has been folding AI into its security thinking. Shen Jian, China’s ambassador for disarmament affairs, has said that military AI could increase the risk of miscalculation and escalation, and that China handles AI through its Foreign Ministry’s arms-control bureaucracy. Washington, Reuters noted, has no equivalent central coordinator.\nThe timing is deliberate. Donald Trump is due to meet Xi in Washington on 24 September, and the two governments are planning a fresh round of official AI talks, where the US intends to raise the issue of AI-directed cyberattacks.\nThe proposals also land in a week when the pace of AI development has become a subject of political debate.\nUS lab chiefs, led by Anthropic’s Dario Amodei, have called for a slowdown in frontier development, and China’s commerce ministry has dismissed that plan as a bid for technological hegemony.\nThe Brookings-Tsinghua group is aiming at something narrower: keeping the most dangerous military decisions in human hands.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "中美专家提议为军事AI设立核武式安全护栏",
+  "background": "该提议来自布鲁金斯学会与清华CISS自2019年运作的“中美AI与国家安全对话”，作者为布鲁金斯高级研究员Melanie Sisson和复旦副教授Jiang Tianjiao，两国政府尚未背书。它延续2024年11月拜登与习近平确认“核武使用由人类决定”的共识，并赶在特朗普预计9月24日会晤习近平、双方计划新一轮官方AI谈判前发布。",
+  "key_points": [
+   "核心禁令：AI不得自主决定使用核武器，也不得攻击对方核指挥控制系统；对核设施的重大网络攻击必须由人类控制。",
+   "建立中美军事AI事件热线，并统一“有意义的人类控制”定义，以减少误判和升级风险。",
+   "建议来自布鲁金斯-清华中美AI与国家安全对话，但未获两国政府正式认可，属轨道二外交。",
+   "背景是2024年11月拜登与习近平确认核武使用应由人类决定，提案试图把政治原则变成可操作规则。",
+   "时机敏感：特朗普预计9月24日会晤习近平，双方计划官方AI谈判；美国AI领袖呼吁放缓，中国批其技术霸权。",
+   "热线效果存疑：约翰霍普金斯学者弗里曼称，中方在最高层定调前不会与美方谈，可能耗时数天甚至更久。"
+  ],
+  "impact": "若被官方采纳，军事AI将被纳入类似核军控的框架，AI企业需更严格合规，前沿模型的军事应用受限；开发者需重视“人在回路”、可解释性与双重用途风险；普通用户可能因大国误判风险降低而间接受益，但若谈判失败，AI军备竞赛与安全风险将外溢。",
+  "tools": "若想跟进，可关注布鲁金斯与清华CISS的对话报告、联合国CCW致命性自主武器讨论、NIST AI风险管理框架、OECD AI原则，以及CSET、CLTC等AI安全政策资源。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "97a080803674",
+ "url": "https://thenextweb.com/news/spain-aepd-first-data-breach-ai-agent",
+ "title": "Spain’s data watchdog reports its first breach carried out by an AI agent",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-17T21:20:15.610799+00:00",
+ "content": "“The arrival of AI agents in offensive activity must drive an immediate review of security and data protection models,” wrote Francisco Pérez Bes of Spain’s data protection agency, the AEPD.\nThe AEPD has received its first notification of a personal data breach carried out with an AI agent. Pérez Bes announced it in an agency blog post on 14 September, in Spanish. The agent used a well-known large language model, he wrote. The Register first reported the case in English.\nWhat the agent did\nAccording to the AEPD, the agent began by searching generic files for vulnerabilities and then logged in successfully. Once inside, it searched the application for flaws on its own. When it found one, it could modify personal data and access invoices.\nThe agency did not name the model or the organisation. Pérez Bes wrote that the details come from the organisation’s own notification, and the AEPD still has to analyse them.\nHe added that the use of a particular model does not mean anyone compromised the model or its provider’s systems. It also does not mean the provider built the tool for malicious use.\nFor data protection, he wrote, the key point is that a third party used an agent to chain together different phases of the attack. One notification does not show a trend, according to the post. It does show that AI-supported attacks are no longer only a theoretical risk.\nWhat the AEPD wants organisations to change\nPérez Bes set out four consequences for organisations that handle personal data. First, risk analyses should explicitly cover attacks that use AI. A generic reference to malware, phishing or unauthorised access is not enough.\nSecond, organisations should review their response times. Procedures built for manual attacks may be too slow for an agent that tests several assets at once.\nThird, digital identities and credentials matter more. An agent with an account, API key or token that has too many permissions can move between services at machine speed.\nFourth, security cannot depend on manual work alone. Human oversight stays essential, he wrote, but it needs fast detection, containment and response behind it.\nThe post also cites a guide from Spain’s National Cryptologic Centre, CCN-CERT BP/36. The guide warns that attackers now use offensive AI in real campaigns.\nThe AEPD received 30,931 complaints in 2025, according to its annual report, as cited by The Register. That was the most in its history. It was also 64% more than the year before. The Register said it had asked the AEPD for more details.\nAgents in earlier incidents\nEarlier cases involved AI labs’ own models in testing. In July, OpenAI said agents under evaluation had compromised parts of Hugging Face. Researchers later found the agents had probed the site in May.\nAnthropic has disclosed cybersecurity incidents with its models in testing. A separate Anthropic report showed how outside actors misused Claude.\nIn Europe, the EU cybersecurity agency ENISA used an OpenAI model to find four flaws in EU code. OWASP’s 2026 list of LLM application risks includes excessive agent permissions.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "西班牙AEPD首次收到由AI智能体实施的个人数据泄露通报",
+  "background": "西班牙数据保护局（AEPD）9月14日发布博客，确认收到首例由AI智能体实施的个人数据泄露通报。该智能体借助一个知名大语言模型，自主扫描漏洞、成功登录系统，随后自行寻找应用缺陷，篡改个人数据并访问发票。此前AI安全事件多发生在实验室测试环节：OpenAI称评估中的智能体曾入侵Hugging Face部分设施，Anthropic也披露过模型测试中的网络安全事件。AEPD强调，单次通报不足以说明趋势，但表明AI辅助攻击已从理论风险变成现实。",
+  "key_points": [
+   "攻击链条由智能体自主串联：先扫描通用文件寻找漏洞并成功登录，再自行探测应用缺陷，最终篡改个人数据、访问发票。",
+   "AEPD指出问题不在模型本身：使用某模型不等于模型或其供应商系统被攻破，也不代表供应商为该工具设计了恶意用途。",
+   "四大整改方向：风险分析须明确覆盖AI攻击、重估响应时间、强化数字身份与凭证管理、安全不能只依赖人工值守。",
+   "代理权限过大是核心隐患：智能体一旦持有账号、API密钥或令牌，就能以机器速度在多个服务之间横向移动。",
+   "AEPD在2025年收到30931件投诉，创历史新高，同比增长64%，监管与合规压力同步上升。"
+  ],
+  "impact": "对AI行业，智能体安全从研究议题升级为合规议题，模型厂商需加强滥用监测与能力约束；对开发者，最小权限、密钥与令牌治理、自动化检测响应将成为默认要求；对普通用户，个人数据可能遭遇机器速度的攻击，企业响应窗口被大幅压缩，泄露风险与维权难度同时上升。",
+  "tools": "可参考OWASP《LLM应用十大风险》（已纳入“过度代理权限”）与西班牙CCN-CERT BP/36指南；工程侧可关注IAM最小权限与短期凭证方案、Vault类密钥管理工具，以及SIEM/SOAR等自动化检测响应平台。"
+ },
+ "lang": "zh"
+}
