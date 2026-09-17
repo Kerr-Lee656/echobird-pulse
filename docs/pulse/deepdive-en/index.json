@@ -3364,5 +3364,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-17T13:20:55Z",
   "fetched_at": "2026-09-17T13:28:17.738604+00:00"
+ },
+ "546a8405fc67": {
+  "id": "546a8405fc67",
+  "url": "https://arxiv.org/abs/2609.17475",
+  "title": "200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T17:23:23Z",
+  "fetched_at": "2026-09-17T18:13:45.439396+00:00"
+ },
+ "b720849b5848": {
+  "id": "b720849b5848",
+  "url": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v",
+  "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+  "source": "Qwen：Blog Retrieval（API）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-17T17:18:08.000Z",
+  "fetched_at": "2026-09-17T18:13:58.888875+00:00"
+ },
+ "c78d0c6b782c": {
+  "id": "c78d0c6b782c",
+  "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+  "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-17T17:15:59.000Z",
+  "fetched_at": "2026-09-17T18:14:09.606313+00:00"
+ },
+ "18174d189841": {
+  "id": "18174d189841",
+  "url": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn",
+  "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+  "source": "Goodfire Research（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-17T16:38:32.000Z",
+  "fetched_at": "2026-09-17T18:14:48.848276+00:00"
+ },
+ "075f206ca440": {
+  "id": "075f206ca440",
+  "url": "https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef",
+  "title": "Financial Times – The era of AI warfare has arrived",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T16:19:00Z",
+  "fetched_at": "2026-09-17T18:15:17.943406+00:00"
+ },
+ "e78eec3a7fca": {
+  "id": "e78eec3a7fca",
+  "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+  "title": "EU president: AI agents escaping their environment preview what's coming",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T16:17:51Z",
+  "fetched_at": "2026-09-17T18:15:30.420662+00:00"
+ },
+ "a48ff010f25e": {
+  "id": "a48ff010f25e",
+  "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+  "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+  "source": "Hacker News (35pts, 62c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T15:26:23Z",
+  "fetched_at": "2026-09-17T18:17:43.173828+00:00"
  }
 }
