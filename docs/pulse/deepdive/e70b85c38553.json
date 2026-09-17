@@ -1,0 +1,24 @@
+{
+ "id": "e70b85c38553",
+ "url": "https://finance.yahoo.com/technology/ai/articles/cfos-brace-higher-ai-costs-091444325.html",
+ "title": "首席财务官们正为2027年前人工智能成本的上升做好准备",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-16T18:12:41.690Z",
+ "fetched_at": "2026-09-17T00:29:35.556577+00:00",
+ "content": "This story was originally published on CFO Dive. To receive daily news and insights, subscribe to our free daily CFO Dive newsletter.\nDive Brief:\n-       Sixty percent of finance leaders expect artificial intelligence costs and technical complexity to rise substantially through 2027, according to a recent Deloitte report.\n-       Those respondents also say they will need to adopt more sophisticated AI cost-management practices. In contrast, 35% plan to maintain their current practices because they expect AI costs and technical complexity to remain modest.\n-       \"AI costs can be difficult to manage and predict,\" the report said. \"Token consumption may be the most visible usage metric, but other factors, such as workload type, data center capacity, and hosting strategy can affect the cost of generating and scaling AI outputs in nonlinear and potentially volatile ways.\"\nDive Insight:\nDeloitte identified several challenges that can make AI costs harder for finance teams to track and manage. They include uncertainty around regulatory and compliance requirements, complex cloud and vendor billing for AI computing, and difficulty integrating AI usage data with enterprise resource planning and finance systems.\nWhen asked how they most often approve large AI and technology investments, 66% of respondents said they use an internally driven process that puts measurement at the forefront.\nAmong those respondents, 27% primarily rely on a \"stage-gate\" process, in which funding starts with a pilot and additional funding may be added if goals are met at each stage. Another 25% have a formal capital approval process that requires quantified return on investment and a business case.\nBut roughly a quarter of respondents said company mandates from either the C-suite or board drive most of their organization's tech investment decisions with no process used to gauge projects' values.\nThe findings show that finance is playing a major role in technology decisions. Fifty-four percent of finance leaders said they are leading enterprise AI and technology capital-allocation decisions, while 48% oversee AI and technology spending and cost controls, according to Deloitte.\n\"The CFO mandate is expanding from financial stewardship to helping shape how the enterprise invests in, governs and creates value from AI and technology,\" Ed Hardy, U.S. finance services leader at Deloitte, said in a press release on the findings.\nThe Deloitte survey included 1,434 finance leaders, including CFOs and executives one level below the CFO, at companies with annual revenue of at least $1 billion across 26 countries.\nRecommended Reading",
+ "report": {
+  "summary": "德勤调查：六成财务负责人预计2027年前AI成本与复杂度大增",
+  "background": "德勤对26国1434名财务负责人（公司年收入至少10亿美元）调查显示，AI正从技术实验进入大规模投入期。60%受访者预计到2027年AI成本与技术复杂度显著上升，35%认为仍可控。首席财务官们担忧AI成本难预测，正在从传统财务监督转向主导AI投资、治理与成本控制。",
+  "key_points": [
+   "60%财务负责人预计到2027年AI成本和技术复杂度会大幅上升，只有35%认为成本仍较温和，将维持现有管理方式。",
+   "AI成本难预测：Token消耗只是表面指标，工作负载类型、数据中心容量、托管策略等会非线性推高生成与扩展成本。",
+   "财务团队追踪AI成本面临合规不确定、云与供应商账单复杂、AI用量数据难接入ERP/财务系统等挑战。",
+   "在大型AI投资审批上，66%采用内部量化流程，其中27%用分阶段门径，25%要求量化ROI和商业案例；约四分之一仍由高管或董事会指令推动。",
+   "财务话语权上升：54%财务负责人主导企业AI/技术资本配置决策，48%监督AI/技术支出与成本控制。"
+  ],
+  "impact": "对AI行业，成本治理或成采购与扩张关键，厂商需提供更透明计费和FinOps能力。对开发者，需关注Token、推理架构与托管策略，否则项目ROI易失控，预算审批更严格。对普通用户，AI服务可能因成本压力涨价、限流或分层订阅，免费额度收紧；同时企业会更谨慎筛选高价值场景，推动应用从炫技走向务实。",
+  "tools": "可关注FinOps/LLM成本工具：OpenCost、Kubecost、CloudZero、Vantage用于云成本；Helicone、LangSmith、LiteLLM、Tokencost用于追踪Token/模型调用成本；Apptio、Cloudability适合企业财务集成。"
+ },
+ "lang": "zh"
+}

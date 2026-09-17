@@ -10870,5 +10870,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-16T13:37:57Z",
   "fetched_at": "2026-09-16T21:17:09.858529+00:00"
+ },
+ "2e99a446c418": {
+  "id": "2e99a446c418",
+  "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can",
+  "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T00:28:32.357437+00:00"
+ },
+ "2042ef53326f": {
+  "id": "2042ef53326f",
+  "url": "https://thenextweb.com/news/cohere-aleph-alpha-definitive-agreement-transatlantic-sovereign-ai",
+  "title": "Cohere and Aleph Alpha sign, with headquarters in Berlin and Toronto",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T00:28:50.162170+00:00"
+ },
+ "d67a4ef56ad9": {
+  "id": "d67a4ef56ad9",
+  "url": "https://thenextweb.com/news/reach-cuts-220-editorial-jobs",
+  "title": "Mirror publisher Reach cuts 220 editorial jobs as Google’s AI summaries hit traffic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-17T00:29:22.193185+00:00"
+ },
+ "e70b85c38553": {
+  "id": "e70b85c38553",
+  "url": "https://finance.yahoo.com/technology/ai/articles/cfos-brace-higher-ai-costs-091444325.html",
+  "title": "首席财务官们正为2027年前人工智能成本的上升做好准备",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-16T18:12:41.690Z",
+  "fetched_at": "2026-09-17T00:29:35.556577+00:00"
  }
 }

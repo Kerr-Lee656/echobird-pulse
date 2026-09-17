@@ -3283,5 +3283,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-16T17:32:43Z",
   "fetched_at": "2026-09-16T21:20:39.456892+00:00"
+ },
+ "c1dc57ecd41c": {
+  "id": "c1dc57ecd41c",
+  "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+  "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T22:16:15Z",
+  "fetched_at": "2026-09-17T00:31:01.720381+00:00"
+ },
+ "41a425e20140": {
+  "id": "41a425e20140",
+  "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+  "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+  "source": "Hacker News (1pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T21:59:47Z",
+  "fetched_at": "2026-09-17T00:32:22.355702+00:00"
+ },
+ "46aa3a71d146": {
+  "id": "46aa3a71d146",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+  "title": "The AI data center e-waste problem is huge — and getting bigger",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-16T20:40:46.000Z",
+  "fetched_at": "2026-09-17T00:32:55.727122+00:00"
+ },
+ "b773927348c0": {
+  "id": "b773927348c0",
+  "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+  "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-16T20:27:23Z",
+  "fetched_at": "2026-09-17T00:33:04.330108+00:00"
  }
 }

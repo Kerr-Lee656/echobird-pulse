@@ -1,0 +1,24 @@
+{
+ "id": "d67a4ef56ad9",
+ "url": "https://thenextweb.com/news/reach-cuts-220-editorial-jobs",
+ "title": "Mirror publisher Reach cuts 220 editorial jobs as Google’s AI summaries hit traffic",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-17T00:29:22.193185+00:00",
+ "content": "Reach, the publisher of the Daily Mirror, the Daily Express, and several regional newspapers, is cutting 220 editorial jobs and closing three local news websites.\nThe company says this is because Google now answers more questions with AI, leading to a sharp drop in website traffic.\nAccording to The Guardian, chief content officer David Higgerson told staff in a memo on Wednesday that Google traffic for the company had fallen by 46% compared to last year.\n“We are in the middle of a mammoth shift in how audiences want content and journalism.”\n“To ensure a sustainable future for our journalism, we must focus our investment in the areas where our audiences spend the most time and where our revenue reflects the value of our work.\nIn our newsrooms, that means less emphasis on story volume and more on original journalism and distinctive brands,” said David Higgerson, according to The Guardian.\nIt will result in around 60 new positions in subscriptions and video, meaning the overall loss will be nearly 160 posts. The online-only local brands KentLive, AberdeenLive, and GalwayBeo will be closing.\nHiggerson also referred to what he described as an “expansionist BBC”, stating that the broadcaster’s local programming matches that of commercial publishers about 70% of the time.\nAs the PA news agency reported, Higgerson said the company would “have to reduce its editorial organization next year” and that budgets for non-staff had been cut to avoid compulsory redundancies.\nThese job cuts follow Reach’s previous restructure a year ago, when about 600 editorial roles were at risk, and more than 300 jobs were lost. Since then, the company’s traffic problems have worsened.\nIn July, Reach’s half-year results showed a 55% drop in Google referrals and a 40% decrease in its website audience, according to Press Gazette. Chief executive Piers North said the company plans to shift away from high-volume publishing.\nThe new strategy focuses on “active engaged time” rather than the number of page views and uses original reporting, longer videos, and subscriptions.\nAlthough the Guardian states that Reach has around 50,000 digital subscribers and hopes to reach 75,000 by the end of the year, it also notes that the company’s shares have lost about 90% of their value over the past five years.\nReach is not the only one blaming Google, as other publishers have also seen significant drops in click-through rates since AI Overviews launched, and some have filed antitrust complaints over the feature.\nIn June, the UK’s Competition and Markets Authority decided that Google must allow publishers to opt out of AI results without affecting their search ranking. These new controls are expected to be fully available within nine months.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌AI摘要致流量暴跌，英国Reach出版社裁减220个编辑岗位。",
+  "background": "谷歌搜索的AI Overviews功能直接用AI生成答案，用户无需点击进入网站，导致新闻出版商的搜索流量大幅下滑。英国Reach集团旗下拥有《每日镜报》《每日快报》等媒体，其谷歌引流同比下降46%，半年内谷歌推荐流量跌55%、网站受众减少40%。此前一年Reach已裁员300余人，如今被迫再度重组，转向原创报道、视频与订阅模式。",
+  "key_points": [
+   "Reach谷歌搜索流量同比下滑46%，公司宣布裁员220人并关闭三家地方新闻网站",
+   "公司战略从追求报道数量转向原创新闻、长视频和付费订阅，新增约60个订阅与视频岗位",
+   "Reach将困境部分归因于BBC地方报道的扩张，称其内容与商业媒体重合度约70%",
+   "英国监管机构6月裁定谷歌须允许出版商在不影响搜索排名的情况下退出AI摘要，预计九个月内落地",
+   "五年来Reach股价已缩水约90%，数字订户仅5万，目标年底达7.5万"
+  ],
+  "impact": "对AI行业而言，这是生成式搜索商业模式外溢冲击内容生态的标志性案例，可能引发更多版权与反垄断博弈。对开发者，搜索流量红利进一步消退，依赖SEO获客的产品需重建分发渠道，AI答案优化与内容授权或成新方向。对普通用户，免费地方新闻和深度报道可能减少，信息源趋于同质化，长期看获取多元资讯的成本上升。",
+  "tools": "想跟进AI搜索对内容生态的影响，可关注Google AI Overviews与Search Console的流量变化、Cloudflare的AI爬虫控制与内容付费方案、Perplexity和Bing Copilot等AI搜索产品，以及ProRata、News/Media Alliance等探索内容授权与分成的项目。"
+ },
+ "lang": "zh"
+}
