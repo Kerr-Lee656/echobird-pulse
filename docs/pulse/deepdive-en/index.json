@@ -3319,5 +3319,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-16T20:27:23Z",
   "fetched_at": "2026-09-17T00:33:04.330108+00:00"
+ },
+ "b53be2308c59": {
+  "id": "b53be2308c59",
+  "url": "https://github.com/Tencent/BrowserSkill",
+  "title": "Tencent/BrowserSkill — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-17T13:27:32.867301+00:00"
+ },
+ "aee9f0d16c69": {
+  "id": "aee9f0d16c69",
+  "url": "https://github.com/strands-agents/harness-sdk",
+  "title": "strands-agents/harness-sdk — Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-17T13:27:45.537158+00:00"
+ },
+ "177d0ff11ed1": {
+  "id": "177d0ff11ed1",
+  "url": "https://github.com/hao-ai-lab/FastVideo",
+  "title": "hao-ai-lab/FastVideo — A unified inference and post-training framework for accelerated video generation.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-17T13:27:56.453030+00:00"
+ },
+ "401c6af5b51d": {
+  "id": "401c6af5b51d",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "title": "vercel-labs/agent-browser — Browser automation CLI for AI agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-17T13:28:06.969301+00:00"
+ },
+ "2a1eb8ad3493": {
+  "id": "2a1eb8ad3493",
+  "url": "https://github.com/th0t3p/m8m",
+  "title": "M8M – See what your AI remembers about you and detect memory poisoning",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T13:20:55Z",
+  "fetched_at": "2026-09-17T13:28:17.738604+00:00"
  }
 }
