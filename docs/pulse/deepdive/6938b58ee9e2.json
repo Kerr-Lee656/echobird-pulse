@@ -1,0 +1,24 @@
+{
+ "id": "6938b58ee9e2",
+ "url": "https://www.aibase.com/news/31159",
+ "title": "白帽黑客用 Claude 攻破 OpenAI 员工 ChatGPT 账户，拿到 6500 美元赏金",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-18T08:34:57.835Z",
+ "fetched_at": "2026-09-18T11:09:47.417404+00:00",
+ "content": "According to a report by The Wall Street Journal on September 18, independent security researchers successfully hacked into an OpenAI employee's ChatGPT account using Anthropic Claude, gaining access to the company's private software code repository.\nThe involved team came from the security company Hacktron AI, which had previously participated in OpenAI's bug bounty program. After discovering the vulnerability, the team quickly reported it to OpenAI, which then paid a bounty of $6,500 (approximately 43,692 RMB).\nThe Vulnerability was on Discourse, and the Token Actually Worked on ChatGPT\nThe intrusion began on July 23. On that day, Hacktron researchers discovered a vulnerability in how Discourse handled specific image files and used a special version of Claude Opus 4.8, available only to qualified cybersecurity professionals, to request code that exploits this vulnerability—this first attempt failed; that night, Anthropic released Opus 5, and the next day, Claude found a way to exploit it.\nThe exploited vulnerability is numbered CVE-2026-45788, an unrestricted upload vulnerability in the Discourse secure upload feature. Attackers can expose secure upload content if they know the protected upload URL, without requiring authentication to launch a remote attack. Discourse stated that it was notified on July 25 and fixed the issue the same day.\nThe attack allowed researchers to access the Discourse server hosting OpenAI's forum and obtain account login tokens. What they did not expect was that these tokens were effective on ChatGPT, including those of OpenAI employees, and could also be used to access OpenAI's GitHub service.\nAs a result, researchers were able to read files in a large software repository called \"Monorepo.\" According to insiders, Monorepo is the repository where OpenAI stores algorithm secrets to make models faster and more efficient, but it does not contain model weights. They stopped the attack after realizing they could access sensitive data, having previously submitted a document modification request with the label \"Hacktron AI Team PoC\" as proof (which was not accepted).\n\"We Are Just Three People with Claude and Codex Subscriptions\"\nMohan Pedhapati, CTO of Hacktron AI, said the attack shows that state-sponsored advanced cyber teams indeed have real opportunities to glimpse American AI secrets: \"I don't think we are smarter than foreign threats. We are just three people with Claude and Codex subscriptions.\"",
+ "report": {
+  "summary": "白帽团队借Claude攻破OpenAI员工ChatGPT账户，获6500美元赏金",
+  "background": "9月18日《华尔街日报》报道，安全公司Hacktron AI的三名研究员在参与OpenAI漏洞赏金计划期间，于7月23日发现论坛软件Discourse安全上传功能存在无限制上传漏洞（编号CVE-2026-45788），并借助仅对安全从业者开放的特殊版本Claude Opus 4.8尝试生成利用代码。首次失败后，Anthropic当晚发布Opus 5，次日Claude即找到利用方法。Discourse于7月25日接到通知并当天修复。事件折射出AI辅助攻防门槛骤降这一新趋势。",
+  "key_points": [
+   "攻击起点是Discourse论坛的图片上传漏洞，无需登录即可远程读取受保护的上传内容，Discourse当天即完成修复。",
+   "研究团队用Claude生成漏洞利用代码，首版模型失败、新模型上线第二天就成功，AI明显缩短了攻防周期。",
+   "真正的风险在于凭据复用：从论坛偷到的登录令牌居然能直接登录ChatGPT，甚至访问OpenAI员工的账户和GitHub服务。",
+   "借此他们读到了OpenAI存放算法优化机密的Monorepo仓库文件，但其中不含模型权重，团队发现后可访问敏感数据即主动停止。",
+   "OpenAI最终支付6500美元赏金。Hacktron CTO直言：我们只是三个买了Claude和Codex订阅的人，并不比国家级攻击者更聪明。"
+  ],
+  "impact": "对AI行业而言，这暴露了大模型厂商内部系统间的凭据隔离缺陷，论坛这类边缘服务成了通往核心资产的后门，安全预算需从模型本身扩展到账号与令牌体系。对开发者，AI已能自动生成漏洞利用代码，攻防双方效率同步提升，单靠隐藏漏洞的“安全”不再成立，令牌最小权限、会话隔离必须成为默认实践。对普通用户，同一账号令牌横向打通多服务意味着一次论坛泄露就可能危及聊天记录与绑定的其他账号，建议开启二次验证并定期清理授权。",
+  "tools": "想跟进这一方向，可关注：Discourse官方安全更新与CVE公告、OpenAI与Anthropic的漏洞赏金计划页面、OWASP关于SSO/令牌复用的防护指南；实际演练可用本地部署的Discourse环境，配合Claude、Codex等编程助手做漏洞复现，并搭配Burp Suite、Semgrep等工具做验证。"
+ },
+ "lang": "zh"
+}

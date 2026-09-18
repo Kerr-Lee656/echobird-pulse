@@ -1,0 +1,24 @@
+{
+ "id": "605b2bd9c167",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+ "title": "随着人工智能支出激增，KKR的私募债务交易规模翻倍至800亿美元",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-18T08:24:22.063Z",
+ "fetched_at": "2026-09-18T11:10:28.689032+00:00",
+ "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nKKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year's level as borrowers seek more flexible alternatives to traditional bank financing.\n• KKR stock is showing downward bias. What should traders watch with KKR?\nKKR structured or syndicated more than $80 billion of private investment-grade transactions during the first half of 2026, according to a company presentation reviewed by Bloomberg. By Sept. 1, the firm had surpassed twice the amount it originated throughout 2025.\nChris Sheldon, KKR co-head of credit and markets, stated that insurance capital is supporting many of these deals, as companies increasingly move assets off their balance sheets to raise cash while maintaining their credit ratings.\nRead Also:KKR's $5.9 Billion Integer Deal Helps Healthcare Dominate Private Equity in August\nThe firm has raised approximately $15 billion for credit from third parties so far this year, up 29% from the same period last year, the presentation noted.\nThe firm has structured deals for borrowers such as Kuwait Petroleum Corp., Enbridge Inc. and Samsung Electronics.\nSheldon also noted that the demand for AI infrastructure will drive demand for private credit over the next five years, and spending might outpace the $7.6 trillion of available capital.\nKKR was part of a group of six asset managers that announced a partnership last month with NVIDIA Corp. to mobilize more than $500 billion of third-party capital for the buildout of AI infrastructure over time.\nPrivate credit funds have been experiencing turmoil in the market this year amid rising concerns about asset quality and valuations, particularly in software lending.\nKKR's private credit fund for wealthy clients outside the U.S. saw redemption requests ease, even as withdrawl pressure continues across the North American private credit market.\nKKR-Income Trust I, a non-traded private credit fund which serves investors in Europe, the Middle East, Africa and the Asia-Pacific region, received withdrawal requests equal to approximately 2.5% of its net asset value in the third quarter.\nPhoto: Shutterstock\nRead Also:Private Equity Finds a New Way to Bet on AI: Data Center Services\nThis article KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes originally appeared on Benzinga.com\n© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.",
+ "report": {
+  "summary": "AI基建热潮推动KKR私募债务交易翻倍至800亿美元",
+  "background": "私募信贷正成为企业替代银行贷款的重要融资渠道，尤其在AI数据中心和能源基建等长期项目中。KKR近年扩张投资级私募融资业务，受益于保险资金、第三方资本涌入。但市场也担忧资产质量与估值，尤其是软件贷款领域，部分私募信贷基金面临赎回压力。",
+  "key_points": [
+   "KKR上半年完成超800亿美元私募投资级交易，到9月1日已超2025全年两倍，显示AI相关融资需求强劲。",
+   "保险资本是重要资金来源，企业将资产移出资产负债表融资并维持评级；KKR今年第三方信贷募资约150亿美元，同比增29%。",
+   "借款方包括科威特石油、Enbridge、三星电子等，私募债务提供比传统银行更灵活的结构和更快放款。",
+   "KKR预计未来五年AI基础设施将推升私募信贷需求，相关支出可能超过可用的7.6万亿美元资本。",
+   "KKR与英伟达等六家资管合作，拟动员超5000亿美元第三方资本建AI基建；但私募信贷市场正面临软件贷款估值与资产质量担忧。"
+  ],
+  "impact": "对AI行业，私募信贷和资管巨头联手可缓解数据中心、电力等重资产项目融资瓶颈，加速算力扩张。对开发者，算力供给和云成本可能受资本周期影响，长期利好但短期波动。对普通用户，AI服务普及会更快，但也要关注私募信贷风险向金融系统传导，可能影响投资与养老金产品。",
+  "tools": "可关注 Preqin、PitchBook、Bloomberg 追踪私募信贷与AI基建融资数据；用 SEC EDGAR 查 KKR 基金文件；留意 NVIDIA 及 KKR 官方公告。开源方面可跟踪数据中心能耗与算力经济模型项目。"
+ },
+ "lang": "zh"
+}

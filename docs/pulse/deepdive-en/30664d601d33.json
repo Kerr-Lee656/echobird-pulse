@@ -1,0 +1,23 @@
+{
+ "id": "30664d601d33",
+ "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+ "title": "Top Chinese AI models make 10% of OpenAI",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-09-18T10:28:14Z",
+ "fetched_at": "2026-09-18T11:12:45.367392+00:00",
+ "content": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report\nByteDance led the Chinese group in ARR at US$4 billion as of July, followed by Alibaba at US$2.4 billion in August, Rhodium Group found\nChinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor enthusiasm remains intense, according to US-based research firm Rhodium Group.\nThe Chinese AI models earned an estimated US$10.7 billion in annual recurring revenue (ARR) from March to August, a fraction of the more than US$100 billion combined for OpenAI and Anthropic, according to the Rhodium report published on Thursday.\nThe report covers DeepSeek, Moonshot AI, Z.ai, MiniMax, Alibaba Group Holding, ByteDance and Kuaishou Technology, which runs the Kling AI video generator.",
+ "report": {
+  "summary": "Chinese AI models from seven developers earned about $10.7B ARR, roughly 10% of OpenAI and Anthropic's combined revenue, despite high valuations.",
+  "background": "A Rhodium Group report highlights a stark mismatch between revenue and investor enthusiasm in China's AI sector. Seven major developers—DeepSeek, Moonshot AI, Z.ai, MiniMax, Alibaba, ByteDance, and Kuaishou—generated an estimated US$10.7 billion in annual recurring revenue from March to August, while OpenAI and Anthropic together exceed US$100 billion. The gap reflects intense domestic price wars, heavy reliance on open-weight models, immature enterprise monetization, and US export controls limiting access to advanced chips. Yet valuations remain elevated because investors bet on China's huge market, engineering talent, state support, and future AI adoption across consumer and business software.",
+  "key_points": [
+   "The seven Chinese AI developers combined earned about US$10.7 billion in annual recurring revenue from March to August, only around 10% of OpenAI and Anthropic's combined US$100 billion-plus ARR, according to Rhodium Group.",
+   "ByteDance led the Chinese group with US$4 billion ARR as of July, followed by Alibaba at US$2.4 billion in August. Other covered developers include DeepSeek, Moonshot AI, Z.ai, MiniMax, and Kuaishou, which makes Kling AI video generator.",
+   "High valuations persist despite modest revenue. Investors appear to be pricing in long-term potential, domestic scale, state backing, and strategic AI importance rather than current monetization levels.",
+   "Monetization remains difficult. Chinese labs face aggressive price competition, widespread open-weight releases, and a fragmented enterprise market, making it hard to convert strong technical benchmarks into recurring revenue comparable to US rivals."
+  ],
+  "impact": "The report signals that Chinese AI labs may struggle to close the revenue gap with OpenAI and Anthropic even as their models improve. For the industry, it could trigger more scrutiny of AI valuations and a shift toward measurable commercial traction. Developers benefit from cheap, capable open-weight Chinese models, but must weigh licensing, latency, and support risks. Regular users gain access to low-cost AI tools and video generators, yet quality, ecosystem lock-in, and data policies vary. Investors may reprice Chinese AI startups unless monetization accelerates through agents, enterprise contracts, and overseas expansion.",
+  "tools": "To follow: DeepSeek's open-weight models, Alibaba's Qwen, Moonshot's Kimi, Z.ai's GLM, MiniMax, and Kuaishou's Kling AI video generator. Use Hugging Face or OpenRouter to test these models; track Rhodium Group's China AI reports for revenue and valuation data. Evaluate total cost of ownership, latency, licensing, and compliance before production deployment."
+ },
+ "lang": "en"
+}

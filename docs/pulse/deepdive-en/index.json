@@ -3607,5 +3607,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-18T04:00:00.000Z",
   "fetched_at": "2026-09-18T04:46:04.393626+00:00"
+ },
+ "57ca1a039865": {
+  "id": "57ca1a039865",
+  "url": "https://github.com/microsoft/agent-lightning",
+  "title": "microsoft/agent-lightning — The absolute trainer to light up AI agents.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-18T11:12:08.202091+00:00"
+ },
+ "536033bba443": {
+  "id": "536033bba443",
+  "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+  "title": "Anthropic and OpenAI hunt for smaller data center deals",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T10:58:25Z",
+  "fetched_at": "2026-09-18T11:12:22.085970+00:00"
+ },
+ "69fc18ebf513": {
+  "id": "69fc18ebf513",
+  "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+  "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T10:35:28Z",
+  "fetched_at": "2026-09-18T11:12:35.255421+00:00"
+ },
+ "30664d601d33": {
+  "id": "30664d601d33",
+  "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+  "title": "Top Chinese AI models make 10% of OpenAI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T10:28:14Z",
+  "fetched_at": "2026-09-18T11:12:45.367392+00:00"
  }
 }

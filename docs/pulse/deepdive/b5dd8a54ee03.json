@@ -1,0 +1,25 @@
+{
+ "id": "b5dd8a54ee03",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-investors-know-205000356.html",
+ "title": "Anthropic 首次公开募股（IPO）日期：投资者在定价前需要了解什么",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-18T08:24:22.066Z",
+ "fetched_at": "2026-09-18T11:10:16.943605+00:00",
+ "content": "Anthropic, one of the world's fastest-growing AI companies, announced on June 1 that it had filed a confidential Form S-1 with the SEC for its planned IPO. It could price its offering by the end of the year, and it's reportedly targeting a valuation of $2 trillion -- which would surpass SpaceX's (NASDAQ: SPCX) $1.77 trillion to become the biggest IPO in history. That's more than double the valuation of $965 billion it reached after its last private funding round in May.\nShould investors chase Anthropic's eagerly anticipated IPO, or should they wait for the initial hype to die down? Let's see what investors should know before it goes public.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nAnthropic is growing like a weed, but its profitability is questionable\nAnthropic's annualized run rate exceeded $65 billion at the end of July, compared to roughly $9 billion at the end of 2025. That explosive growth was driven by the increased adoption of Claude (its family of large language models and AI assistants) among enterprise customers, the integration of its application programming interfaces (APIs) into other applications, and its cloud infrastructure partnerships with Amazon (NASDAQ: AMZN) Web Services (AWS) and Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google Cloud.\nAmazon and Alphabet both hold double-digit stakes in Anthropic, so its upcoming IPO could significantly boost their profits. Nvidia (NASDAQ: NVDA) has also reportedly been mulling a $10 billion investment in Anthropic's IPO to fortify its software optimization partnership and supply chain ties.\nAnthropic claims it was profitable on an \"adjusted\" basis in the second quarter of 2026 and expects to remain profitable in the third quarter. However, it's unclear what that \"adjusted\" figure actually includes.\nWithout seeing its S-1 filing, we should assume that it's still unprofitable by generally accepted accounting principles (GAAP) metrics -- which will include all of the equipment depreciation, interest expenses, revenue-sharing deals (with Amazon and Google), and model training costs that might have been scrubbed from its \"adjusted\" profits.\nSafety concerns could drive away its investors\nAnthropic's co-founder and CEO, Dario Amodei, recently called for a slowdown in AI development to set up more rigorous safety measures. Anthropic's chief competitor, OpenAI, has also cited similar concerns and postponed its own IPO plans.",
+ "report": {
+  "summary": "Anthropic 递交保密 S-1 启动 IPO，目标估值或达 2 万亿美元。",
+  "background": "Anthropic 于 6 月 1 日宣布已向 SEC 秘密提交 S-1 文件，计划年内完成定价，传闻目标估值 2 万亿美元——若成真将超过 SpaceX 的 1.77 万亿，成为史上最大 IPO，也远高于其 5 月上一轮私募融资时的 9650 亿美元。作为 Claude 系列模型的开发商，Anthropic 是当前增长最快的 AI 公司之一，背后站着亚马逊与谷歌两大云厂商股东，英伟达也被传考虑在 IPO 中投入约 100 亿美元。这标志着头部 AI 实验室开始走向公开资本市场。",
+  "key_points": [
+   "增长极猛：年化收入从 2025 年底约 90 亿美元飙升至 7 月底超 650 亿美元，主要靠企业客户采用 Claude、API 被集成进各类应用，以及与 AWS、谷歌云的合作。",
+   "盈利存疑：公司称 2026 年二季度按“调整后”口径已盈利，但未披露调整了什么；按 GAAP 计算，设备折旧、利息、与亚马逊谷歌的收入分成和模型训练成本都要计入，大概率仍亏损。",
+   "估值翻倍跳升：上一轮私募估值 9650 亿，IPO 目标 2 万亿，等于几个月内翻一倍多，上市后股价波动风险不小。",
+   "股东链条放大：亚马逊和谷歌各持双位数股份，英伟达或投 100 亿美元；Anthropic 上市会直接推高这些巨头的账面收益，并强化算力—模型—云的利益绑定。",
+   "安全立场是双刃剑：CEO Dario Amodei 公开呼吁放缓 AI 开发、加强安全监管，竞争对手 OpenAI 也因类似顾虑推迟 IPO，这类表态可能让部分追求短期回报的投资者却步。",
+   "散户需谨慎：在 S-1 正式公开前，外界看不到真实财务细节，“追新”容易被初期炒作套牢，等待热度回落再看基本面更稳妥。"
+  ],
+  "impact": "对 AI 行业而言，2 万亿美元估值若成立，将重新定义大模型公司的资本天花板，并可能引发 OpenAI、xAI 等竞品的上市竞赛。对开发者来说，Anthropic 拿到公开市场资金后，Claude 的 API 定价、算力和生态投入大概率继续扩张，但商业化压力也可能带来涨价或策略收紧。对普通用户，短期内不太会感受到变化，但 AI 助手会更深地嵌入企业软件与云服务；同时创始人的“安全优先”叙事，将让 AI 监管议题更多进入主流财经视野。",
+  "tools": "想跟进可关注：Anthropic 官方新闻页与 SEC EDGAR 上的 S-1 文件（披露后第一时间可查真实财务）；上手 Claude 可试 Claude 网页版、Claude Code 与 Console API；想理解其安全理念，可读 Constitutional AI 论文和 Claude 的 Model Spec，以及开源协议 MCP。"
+ },
+ "lang": "zh"
+}
