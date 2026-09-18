@@ -1,0 +1,25 @@
+{
+ "id": "b2416c074aa6",
+ "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-ai-startup-130000046.html",
+ "title": "前印孚瑟斯首席执行官创立的AI初创公司再获5300万美元融资",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-18T01:03:29.996Z",
+ "fetched_at": "2026-09-18T04:42:38.794764+00:00",
+ "content": "Hang Ten Systems, an AI startup founded by former Infosys CEO Vishal Sikka just four months ago, has expanded its seed funding by another $53 million. This new investment round was closed just five weeks after the initial $32 million seed round was closed, the company tells TechCrunch.\nThe fresh investment, led by Temasek's early-stage investment platform Xora, takes Hang Ten's total funding to $85 million. Mayfield, which led the startup's earlier investment, also participated. Other investors include Aramco Ventures, Intel CEO Lip-Bu Tan, Micron CEO Sanjay Mehrotra, and Yahoo co-founder Jerry Yang, who is also on its board.\nFounded in May, Hang Ten is betting that AI can fundamentally reshape how large companies build and maintain software. The startup advises companies — typically with over $10 billion in annual revenue — on AI strategy and also helps build and modernize software.\n\"The build part itself has basically become close to zero marginal cost, close to zero time,\" Sikka (pictured above) told TechCrunch. He argued that AI is shifting the focus of software development from writing code to defining requirements and validating whether systems perform as intended.\nThe thesis appears to be resonating with customers. Within 25 days of the first meeting with one customer, Hang Ten signed a multimillion-dollar contract to build a mission-critical software system, Sikka said, adding that he had never seen enterprise deals move that quickly.\nHang Ten is now working with a mix of existing customers and late-stage prospects spanning 21 major enterprises, Sikka said, with some prospects in the proposal or contract-negotiation stage. The startup has secured multiple seven-figure contracts and is pursuing eight-figure deals. Moreover, its customers span the U.S., Europe, the Middle East, and Asia, and include Fresenius Kabi, Saudi Aramco, and Siemens Energy.\nThe early customer wins prompted Xora to approach Hang Ten about investing, Sikka said, adding that Xora saw an opportunity to introduce the startup to other companies in Temasek's portfolio. Sikka declined to disclose Hang Ten's valuation but said the second round of seed funding was a bump up.\nWith the fresh capital, Hang Ten plans to expand its engineering, consulting, and sales teams. The Palo Alto-headquartered startup currently has about 20 to 25 employees across the U.S., the Middle East, and Australia, and expects to hire in Europe and India, Sikka said.\nHang Ten enters a crowded market in which AI model developers such as OpenAI and Anthropic are expanding their enterprise offerings, while traditional consulting firms are racing to embed generative AI into their own services.",
+ "report": {
+  "summary": "前印孚瑟斯CEO创立的AI初创Hang Ten再获5300万美元融资",
+  "background": "创始人Vishal Sikka曾任SAP首席技术官与印孚瑟斯CEO，是印度IT界的标志性人物。Hang Ten于2025年5月成立，仅四个月就完成两轮种子融资、总额8500万美元。此时正值生成式AI猛烈冲击企业软件与IT咨询业：AI写代码的成本和时间趋近于零，传统按人力计费的外包与咨询模式受到根本性质疑，而OpenAI、Anthropic也在抢滩企业市场，Sikka正是押注这一轮价值转移。",
+  "key_points": [
+   "融资节奏极快：首轮3200万美元关闭仅五周后，第二轮5300万美元即完成，由淡马锡旗下早期平台Xora领投，总融资额达8500万美元。",
+   "投资人阵容豪华：包括Mayfield、沙特阿美风投、英特尔CEO陈立武、美光CEO Mehrotra，以及雅虎联合创始人杨致远并出任董事。",
+   "商业模式独特：只服务年收入超100亿美元的超大企业，既做AI战略咨询，也直接帮客户构建和现代化改造关键软件系统。",
+   "客户推进迅猛：与某客户首次会面25天内就签下数百万美元核心系统合同，目前覆盖21家大企业，含费森尤斯卡比、沙特阿美与西门子能源。",
+   "核心理念：Sikka认为AI让“写代码”的边际成本与时间趋近于零，软件价值重心转向定义需求、验证系统是否真正达标。",
+   "资金用途：扩充工程、咨询与销售团队，公司目前仅20至25人，分布于美国、中东和澳洲，计划在欧洲和印度招人。"
+  ],
+  "impact": "对AI行业：AI原生服务商开始直接蚕食传统IT咨询与外包的蛋糕，资本明显向“AI+大企业落地”倾斜，纯模型层之外的交付能力成为新战场。对开发者：编码本身不再是护城河，需求拆解、系统架构判断和结果验证能力更值钱，工程师需转型为AI的编排者与验收者。对普通用户：企业软件有望迭代更快、成本更低，但也要面对关键系统由AI生成后的可靠性、合规与责任归属问题。",
+  "tools": "想跟进这一方向，可关注AI编码与工程工具Cursor、Claude Code、GitHub Copilot、Devin，以及做需求与效果验证的评估工具如LangSmith、Braintrust；企业落地可参考麦肯锡、埃森哲发布的生成式AI报告。"
+ },
+ "lang": "zh"
+}

@@ -11032,5 +11032,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-17T18:48:33.644Z",
   "fetched_at": "2026-09-18T00:15:30.904876+00:00"
+ },
+ "7e50f6eaffce": {
+  "id": "7e50f6eaffce",
+  "url": "https://www.ithome.com/1/003/922.htm",
+  "title": "谷歌最强数学推理 AI 模型曝光：100 万词元上下文，专攻数学难题",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-18T01:12:48Z",
+  "fetched_at": "2026-09-18T04:42:29.414750+00:00"
+ },
+ "b2416c074aa6": {
+  "id": "b2416c074aa6",
+  "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-ai-startup-130000046.html",
+  "title": "前印孚瑟斯首席执行官创立的AI初创公司再获5300万美元融资",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-18T01:03:29.996Z",
+  "fetched_at": "2026-09-18T04:42:38.794764+00:00"
+ },
+ "a4674bf04763": {
+  "id": "a4674bf04763",
+  "url": "https://finance.yahoo.com/energy/articles/data-centers-good-citizens-why-125801370.html",
+  "title": "数据中心可以成为“好公民”。正因如此，我们正与谷歌和英伟达合作，共同组建“人工智能能源管理联盟”",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-18T01:03:29.989Z",
+  "fetched_at": "2026-09-18T04:42:52.584838+00:00"
+ },
+ "a277817ae6f3": {
+  "id": "a277817ae6f3",
+  "url": "https://www.ithome.com/1/003/908.htm",
+  "title": "微软及 OpenAI 内部文件曝光：高管曾警告 AI 可能对新闻机构产生“毁灭性影响”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-18T00:25:42Z",
+  "fetched_at": "2026-09-18T04:43:00.476609+00:00"
+ },
+ "690d60e1a56c": {
+  "id": "690d60e1a56c",
+  "url": "https://www.ithome.com/1/003/902.htm",
+  "title": "谷歌最强 AI 模型：Gemini 4 Pro 开测，SVG 生图表现惊艳",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-18T00:03:24Z",
+  "fetched_at": "2026-09-18T04:43:09.720754+00:00"
+ },
+ "4eb68fe33f09": {
+  "id": "4eb68fe33f09",
+  "url": "https://www.ithome.com/1/003/896.htm",
+  "title": "OpenAI 披露 GPT-5.6 Sol 异常行为：AI 模型会留下指令要求“未来版本的自己”隐瞒自身错误",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-17T23:46:48Z",
+  "fetched_at": "2026-09-18T04:43:17.211318+00:00"
  }
 }

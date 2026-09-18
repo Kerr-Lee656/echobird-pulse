@@ -3535,5 +3535,77 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-17T20:49:01.000Z",
   "fetched_at": "2026-09-18T00:20:01.668368+00:00"
+ },
+ "13d96f6971ff": {
+  "id": "13d96f6971ff",
+  "url": "https://github.com/anthropics/claude-code",
+  "title": "anthropics/claude-code — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-18T04:44:32.500994+00:00"
+ },
+ "b370684820f7": {
+  "id": "b370684820f7",
+  "url": "https://heif-heist.com",
+  "title": "HEIF Heist- Hacking OpenAI, Slack, Meta, GitHub and Many Others",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T04:31:18Z",
+  "fetched_at": "2026-09-18T04:44:40.817278+00:00"
+ },
+ "7604a5a4db57": {
+  "id": "7604a5a4db57",
+  "url": "https://arxiv.org/abs/2609.17817",
+  "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T04:07:08Z",
+  "fetched_at": "2026-09-18T04:44:51.818909+00:00"
+ },
+ "53a7d5819e31": {
+  "id": "53a7d5819e31",
+  "url": "https://arxiv.org/abs/2609.19513",
+  "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-18T04:00:00.000Z",
+  "fetched_at": "2026-09-18T04:45:16.848583+00:00"
+ },
+ "0564fff687dc": {
+  "id": "0564fff687dc",
+  "url": "https://arxiv.org/abs/2609.19524",
+  "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-18T04:00:00.000Z",
+  "fetched_at": "2026-09-18T04:45:26.598478+00:00"
+ },
+ "65f9641f2389": {
+  "id": "65f9641f2389",
+  "url": "https://arxiv.org/abs/2609.19630",
+  "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-18T04:00:00.000Z",
+  "fetched_at": "2026-09-18T04:45:40.050987+00:00"
+ },
+ "439e32065cdd": {
+  "id": "439e32065cdd",
+  "url": "https://arxiv.org/abs/2609.19644",
+  "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-18T04:00:00.000Z",
+  "fetched_at": "2026-09-18T04:45:53.587313+00:00"
+ },
+ "bda4f6b04bb8": {
+  "id": "bda4f6b04bb8",
+  "url": "https://arxiv.org/abs/2609.19671",
+  "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-18T04:00:00.000Z",
+  "fetched_at": "2026-09-18T04:46:04.393626+00:00"
  }
 }

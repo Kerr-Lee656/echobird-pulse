@@ -1,0 +1,24 @@
+{
+ "id": "7e50f6eaffce",
+ "url": "https://www.ithome.com/1/003/922.htm",
+ "title": "谷歌最强数学推理 AI 模型曝光：100 万词元上下文，专攻数学难题",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-18T01:12:48Z",
+ "fetched_at": "2026-09-18T04:42:29.414750+00:00",
+ "content": "IT之家 9 月 18 日消息，消息源 @lyraxana 于 9 月 16 日在 X 平台发布推文，爆料称谷歌正基于 DeepThink V3 模型，构建内部代号为 Mathematica 的实验 AI 模型，主要针对繁重计算、复杂的符号问题求解特别优化，预估将成为谷歌最强数学推理 AI 模型。\nAPI 数据显示，该模型内部标识符为“models / deepthink-mathematica-tf-raw-thoughts”，支持高达 100 万个词元（token）的上下文窗口，同时输出限制为 65,536 个词元。\nIT之家注：上下文窗口指模型单次处理时可读取的文本单位总量；输出上限指模型单次回答可生成的文本单位数量。\n泄露配置还标注“UNSTABLE_EXPERIMENTAL”。这一状态名称表明，该版本属于不稳定实验版本。模型同时带有“Teamfood”标签，是谷歌用于内部员工测试的术语，意味着相关服务处于内部测试范围。\nTestingCatalog 指出，谷歌此前已推出面向高阶数学竞赛的 Gemini DeepThink IMO 模式，并在 9 月 15 日推出 Gemini 3.8 Live 和 Live Extended Thinking。",
+ "report": {
+  "summary": "谷歌内部数学专用AI模型Mathematica曝光，百万词元上下文、专攻符号求解。",
+  "background": "大模型竞争焦点正从语言生成转向复杂推理，数学成为衡量推理能力的核心标尺。2024年以来，DeepMind的AlphaProof、AlphaGeometry在IMO赛场摘银夺金，OpenAI o系列也用竞赛数学题展示推理实力。谷歌此前已推出面向IMO竞赛的Gemini DeepThink模式，并于9月15日更新Live与Live Extended Thinking。此次Mathematica泄露，说明谷歌正试图把数学能力从一次性演示，推进为独立的专用模型产品线。",
+  "key_points": [
+   "泄露模型内部代号Mathematica，基于DeepThink V3构建，专为繁重计算和复杂符号问题求解优化，被称作谷歌最强数学推理模型。",
+   "参数显示其支持100万词元上下文窗口，单次输出上限65,536词元，理论上可一次读入超长推导链或整本数学资料。",
+   "配置标注UNSTABLE_EXPERIMENTAL与Teamfood，说明这只是谷歌内部员工测试的不稳定实验版本，距离正式对外发布尚远。",
+   "消息来自X平台爆料者而非谷歌官方，模型真实能力缺乏实测数据，规格与实际表现需分开看待。",
+   "谷歌近期密集释放推理相关更新，数学推理明显是其与OpenAI、Anthropic竞争推理模型叙事的关键战场。"
+  ],
+  "impact": "对行业：数学是通用推理的硬骨头，若百万上下文与符号计算结合成功，AI可能从解题助手升级为科研协作者，进一步推高推理竞赛门槛。对开发者：超长上下文适合形式化验证、代码证明和长链路数据处理，但实验版接口不稳定，不宜过早绑定。对普通用户：短期难以直接用上，长期或体现在教育辅导、金融建模等需要严谨推导的场景，且“专攻数学”并不意味着日常对话体验同步提升。",
+  "tools": "想跟进可关注：谷歌Gemini DeepThink及IMO模式（AI Studio可试）、形式化数学工具Lean 4与Isabelle，开源数学推理模型DeepSeek-Math、Qwen2.5-Math，以及MathArena、AIME/IMO等评测榜单，用于横向对比模型的真实数学能力。"
+ },
+ "lang": "zh"
+}
