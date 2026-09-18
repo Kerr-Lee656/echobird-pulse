@@ -3643,5 +3643,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-18T10:28:14Z",
   "fetched_at": "2026-09-18T11:12:45.367392+00:00"
+ },
+ "7b1b9f93d6bb": {
+  "id": "7b1b9f93d6bb",
+  "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+  "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-09-18T15:00:08.000Z",
+  "fetched_at": "2026-09-18T16:26:08.950975+00:00"
+ },
+ "3f35846608bb": {
+  "id": "3f35846608bb",
+  "url": "https://kb.cert.org/vuls/id/212479",
+  "title": "PhantomFix: A fake bug to Sentry Seer gets a coding agent to run attacker code",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T13:44:48Z",
+  "fetched_at": "2026-09-18T16:27:41.565212+00:00"
+ },
+ "e9eb05e2bf38": {
+  "id": "e9eb05e2bf38",
+  "url": "https://github.com/humanlayer/12-factor-agents",
+  "title": "12-Factor Agents – Principles for building reliable LLM applications",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T13:02:24Z",
+  "fetched_at": "2026-09-18T16:28:37.306141+00:00"
  }
 }

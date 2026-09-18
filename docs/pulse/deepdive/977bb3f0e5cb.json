@@ -1,0 +1,24 @@
+{
+ "id": "977bb3f0e5cb",
+ "url": "https://www.ithome.com/1/004/319.htm",
+ "title": "MiniMax Code CLI 正式开源，在评测中取得 76.7% 的任务通过率",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-18T12:38:32Z",
+ "fetched_at": "2026-09-18T16:23:11.011404+00:00",
+ "content": "IT之家 9 月 18 日消息，MiniMax 今晚宣布，MiniMax Code CLI 的 v0.4.12 版本面向全球开发者正式开放，并且以 MIT 协议正式开放源代码。\n据介绍，MiniMax Code CLI 是 MiniMax Code 客户端的核心组件。在基于 FrontierHarness Eval 的本轮评测中，取得了 76.7% 的任务通过率，成功任务耗时中位数为 4 分 33 秒，两项指标均优于报告所列公开基线。\n官方表示，希望通过开源，让开发者能够审视工具调用和权限处理，构建可靠的企业级应用。也让社区参与发现问题、贡献修复。让使用更放心，让安全机制在实际使用和审查中持续完善。\nIT之家附相关链接：\n- 快速体验：\ncurl -fsSL https://filecdn.minimax.chat/public/install.sh | bash\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+ "report": {
+  "summary": "MiniMax Code CLI 以 MIT 协议开源，评测任务通过率 76.7%",
+  "background": "2024 年以来，终端里的 AI 编码代理（CLI Agent）成为大模型落地最热的形态之一，Anthropic 的 Claude Code、Google 的 Gemini CLI、OpenAI 的 Codex CLI 以及国内的 Qwen Code、iFlow CLI 相继推出，开源几乎成了国产厂商抢开发者的标准动作。MiniMax 此前已通过 M 系列模型和 MiniMax Agent 布局 Agent 赛道，此次把 MiniMax Code 客户端的核心组件 Code CLI 以 MIT 协议开放 v0.4.12 版本，官方强调的卖点不是模型能力，而是工具调用与权限处理可被审查，指向企业级落地的信任问题。",
+  "key_points": [
+   "v0.4.12 以 MIT 协议开源，全球开发者可直接获取源码，商用限制极少，属于最宽松的开源许可之一。",
+   "官方评测称任务通过率 76.7%、成功任务耗时中位数 4 分 33 秒，两项均称优于报告列出的公开基线。",
+   "需注意 FrontierHarness Eval 并非业界通用基准，属官方自述结果，含金量仍待第三方独立复现验证。",
+   "它的定位是 MiniMax Code 客户端的核心组件，也就是 Agent 执行任务的“发动机”，负责调用工具、执行命令。",
+   "开源的重点是让开发者审计工具调用和权限处理链路，用社区审查来打磨安全机制，而非单纯放出模型权重。"
+  ],
+  "impact": "对行业而言，CLI 编码 Agent 的竞争从“谁的模型强”延伸到“谁的执行内核可信、可审计”，开源与自建评测正在成为争夺开发者心智和评测话语权的双线战场。对开发者，多了一个可自托管、可读源码的编码 Agent 内核，便于私有化部署与二次开发，但也要自行评估其权限模型是否满足自身安全要求。对普通用户，终端里用自然语言完成编码任务的门槛继续降低，同时要警惕 Agent 自动执行命令带来的误操作与提示注入风险。",
+  "tools": "想上手可执行官方安装脚本 curl -fsSL https://filecdn.minimax.chat/public/install.sh | bash，装前建议先读脚本内容。横向对比可关注 Claude Code、Gemini CLI、OpenAI Codex CLI、Qwen Code、iFlow CLI。用于企业环境时，建议配合 Docker 或 DevContainer 做命令沙箱隔离，并追踪 FrontierHarness Eval 是否公开以自行复现。"
+ },
+ "lang": "zh"
+}

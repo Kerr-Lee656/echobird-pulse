@@ -1,0 +1,24 @@
+{
+ "id": "07c4fad2c77f",
+ "url": "https://www.businessinsider.com/geoffrey-hinton-ai-watchdogs-openai-anthropic-safety-2026-9",
+ "title": "“人工智能教父”支持一项新的监管计划，旨在从内部追踪OpenAI和Anthropic的人工智能风险",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-18T13:19:45.792Z",
+ "fetched_at": "2026-09-18T16:22:19.914890+00:00",
+ "content": "OpenAI and Anthropic have been calling for AI-risk watchdogs, and they just got their response.\nThe AI Evaluator Forum, which includes several watchdog groups, released a letter on Friday outlining \"minimum conditions\" that they believe labs like Anthropic and OpenAI should meet to work more effectively with those evaluating the risks of their technology.\nDozens of people from the AI ecosystem signed onto the letter, including the computer science pioneers Geoffrey Hinton, known as \"the Godfather of AI,\" and Stuart Russell.\nThis letter comes in response to Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman, who both committed to welcoming third-party evaluators into their companies to assess AI risk and give them employee-level access to information amid a wave of AI-related fear online this week.\n\"To be credible, embedded third-party evaluators must have scientific objectivity, transparency, independence, and robust protections against interference from the evaluated companies,\" the letter said.\nThe Friday letter says that evaluators should be allowed to be transparent and have \"unfiltered communication with the companies' boards and other privileged oversight bodies.\" They could also release findings publicly.\nThe group suggests that these evaluators be shielded from retaliation from the AI labs and granted access to \"the same relevant systems, data, tools, and physical spaces\" as company assessors would.\nThe letter also says that each lab should bring in \"differing viewpoints and areas of expertise,\" including on different types of risk. Those could include risks in biological sciences and loss of control.\nThe forum behind the letter includes METR, a nonprofit AI evaluation group that recently investigated OpenAI's security incident with Hugging Face, and the AI Verification and Evaluation Research Institute (AVERI), an organization led by former OpenAI employee Miles Brundage and other groups.\nOther tech leaders also weighed in on the debate earlier this week. Microsoft CEO Satya Nadella said his firm welcomes the \"embedded evaluators\" idea.\nHave a tip? Contact this reporter via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "AI教父Hinton等联署，要求OpenAI与Anthropic接受有独立保障的内部第三方风险评估",
+  "background": "此前OpenAI CEO 奥特曼与Anthropic CEO 阿莫代伊公开表示欢迎第三方评估者进驻公司，给予接近员工级别的信息访问权限，以回应外界对AI风险的担忧。这被视为AI实验室在监管压力下的主动让步。如今，由METR、AVERI等评估机构组成的AI评估者论坛发布公开信，为这种“嵌入式评估”设定最低条件，Hinton、Stuart Russell等数十位业界人士联署，微软CEO纳德拉也表态支持。这标志着AI安全治理从口头承诺走向可执行的制度设计。",
+  "key_points": [
+   "评估者必须保持科学客观、透明和独立，并拥有不受被评估公司干扰的保障机制",
+   "评估者可自由与董事会等监督机构沟通，并可公开披露评估结果，不受公司审查",
+   "评估者须免于公司报复，且能访问与内部人员相同的系统、数据、工具和物理空间",
+   "团队需涵盖生物安全、失控风险等不同专业视角，避免单一立场",
+   "这是对奥特曼、阿莫代伊“欢迎第三方进驻”承诺的具体条件回应，而非简单背书"
+  ],
+  "impact": "对AI行业而言，头部实验室的“自查自纠”模式可能被嵌入式外部监督取代，安全评估从公关话术变成可核查流程；对开发者来说，访问权限、日志与模型接口或将更规范透明，但也可能带来额外合规成本；对普通用户，这意味着前沿模型在高风险能力上的失控风险有望被更早发现和公开，但短期内模型发布节奏可能因审查而放缓。",
+  "tools": "想跟进可关注METR的评估方法论与公开报告、AVERI的第三方验证框架，以及OpenAI、Anthropic发布的安全与对齐相关论文；Hinton、Stuart Russell关于AI存在性风险的公开演讲与访谈也是理解该议题的重要入口。"
+ },
+ "lang": "zh"
+}
