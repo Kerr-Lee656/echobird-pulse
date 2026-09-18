@@ -3670,5 +3670,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-18T13:02:24Z",
   "fetched_at": "2026-09-18T16:28:37.306141+00:00"
+ },
+ "ddb7cd9af698": {
+  "id": "ddb7cd9af698",
+  "url": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
+  "title": "California governor signs order to explore AI kill switch",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T20:34:16Z",
+  "fetched_at": "2026-09-18T20:54:31.611195+00:00"
+ },
+ "4509f2bb634e": {
+  "id": "4509f2bb634e",
+  "url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
+  "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+  "source": "Anthropic：Newsroom（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-18T20:21:40.000Z",
+  "fetched_at": "2026-09-18T20:55:18.419062+00:00"
+ },
+ "e5c245eb467b": {
+  "id": "e5c245eb467b",
+  "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+  "title": "World model companies are keeping a lot of secrets",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-18T20:18:14.000Z",
+  "fetched_at": "2026-09-18T20:55:31.367085+00:00"
+ },
+ "fd3fc5a537c8": {
+  "id": "fd3fc5a537c8",
+  "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+  "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-09-18T19:20:50.000Z",
+  "fetched_at": "2026-09-18T20:56:53.104305+00:00"
  }
 }
