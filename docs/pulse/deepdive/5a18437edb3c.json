@@ -1,0 +1,24 @@
+{
+ "id": "5a18437edb3c",
+ "url": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-declared-paradigm-agentic-085000254.html",
+ "title": "萨蒂亚·纳德拉在2026年微软Build大会上宣布了“代理式人工智能”的“新范式”。以下是这一愿景如何体现在Azure的增长中。",
+ "source": "finance.yahoo.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-17T18:48:33.644Z",
+ "fetched_at": "2026-09-18T00:15:30.904876+00:00",
+ "content": "Satya Nadella Declared a \"New Paradigm\" for Agentic AI at Microsoft's Build Conference in 2026. Here's How That Vision Is Showing Up in Azure's Growth.\nMicrosoft (NASDAQ: MSFT) Azure's growth is accelerating in 2026, and much of that momentum is coming from agents writing code and handling other tasks -- workloads that drive higher cloud consumption.\nAzure revenue grew 43% year over year in the fiscal fourth quarter ended June 30, 2026. Azure also surpassed $100 billion in full-year revenue, and CEO Satya Nadella suggested the strength is likely to continue.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nAt the Microsoft Build conference on June 2, 2026, Nadella called the rise of agents \"a new paradigm.\" Unlike one-and-done chat interactions, agents can run continuously and work across a user's files and network. Azure is the cloud layer that powers those agents -- so more agent activity typically means more Azure usage.\nHigher agent usage drives more revenue for Azure\nOn its fiscal Q4 earnings call in July, management said customers were rapidly adopting Microsoft's database and analytics services to support AI agents. The number of customers using both Microsoft Fabric and Foundry -- a product that helps companies build custom agents -- grew 60% year over year last quarter.\nThose Foundry-built agents run on Azure, creating a tailwind for cloud growth. The number of Foundry customers consuming 1 trillion tokens -- the small pieces of text that models read or write -- annually grew 4x versus the year-ago quarter.\nCFO Amy Hood said additional Azure compute capacity brought online during the quarter was \"quickly monetized,\" yet Azure remains supply-constrained. Microsoft expects Azure revenue to accelerate again to about 45% year over year on a constant-currency basis in fiscal Q1 2027.\nMicrosoft helps enterprises run agents securely\nAzure is still a relatively small portion of Microsoft's $332 billion in annual revenue, but it's growing at more than twice the pace of the overall company. To support demand, Nadella said Microsoft is \"bringing capacity online faster than ever.\" That requires higher capital expenditures, but Microsoft is converting its revenue into higher cash flows. In the recent quarter, cash from operations rose 30% year over year to $55 billion in the quarter, supported by strong cloud billings and collections.\nThe stock fell earlier this year after investors worried that growing use of agents would lead to lower spending for its software and cloud services. However, the advantage for Microsoft is the trust it has spent years building with enterprises. Microsoft leaned into this advantage by introducing Agent 365, making it easier for companies to use the same security and governance controls they already use across Microsoft 365 and Azure for agents. Agent 365 has already registered 40 million agents within two months of launch.",
+ "report": {
+  "summary": "纳德拉宣布代理式AI新范式，Azure年收入破千亿美元。",
+  "background": "微软Build 2026上，纳德拉将可连续运行、跨文件与网络协作的AI代理称为“新范式”，区别于一次性聊天。Azure作为承载代理的云平台，代理越活跃，算力、数据库与分析等消耗越高。此前市场担心代理会减少软件与云支出，但微软凭借企业信任和Agent 365治理能力，把代理需求转化为Azure增长动能。",
+  "key_points": [
+   "Azure 2026财年Q4营收同比增43%，全年突破1000亿美元；代理写代码、处理任务带来更高云消耗，成为增长主引擎。",
+   "使用Microsoft Fabric与Foundry的客户数同比增60%；年消耗1万亿token的Foundry客户数同比增4倍，企业代理开发与运行需求爆发。",
+   "CFO称新增Azure算力“快速变现”，但供给仍受限；公司预计2027财年Q1按固定汇率营收增速再加快至约45%。",
+   "微软推出Agent 365，让企业沿用Microsoft 365与Azure的安全治理控制代理；上线两个月注册代理数达4000万，降低采用门槛。",
+   "微软年营收3320亿美元，Azure增速是整体两倍以上；经营现金流同比增30%至550亿美元，但需更高资本开支支撑算力扩张。"
+  ],
+  "impact": "对AI行业，代理式AI从概念走向云消耗与收入验证，竞争焦点转向代理运行平台、治理与算力供给。对开发者，Foundry、Fabric和Agent 365提供构建、数据与安全治理工具链，代理工程与token优化更关键。对普通用户，代理将更像持续工作的数字同事，跨应用自动处理任务，但隐私、权限与可靠性仍是普及前提。",
+  "tools": "可关注：Microsoft Foundry（构建自定义代理）、Microsoft Fabric（数据与分析底座）、Agent 365（代理安全治理）、Azure AI与Azure OpenAI。开源侧可看LangChain、AutoGen、Semantic Kernel、CrewAI，用于多代理编排与原型验证。"
+ },
+ "lang": "zh"
+}

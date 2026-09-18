@@ -3427,5 +3427,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-17T15:26:23Z",
   "fetched_at": "2026-09-17T18:17:43.173828+00:00"
+ },
+ "e47aee430f77": {
+  "id": "e47aee430f77",
+  "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+  "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T23:49:35Z",
+  "fetched_at": "2026-09-18T00:16:30.593202+00:00"
+ },
+ "ef5d03d383d7": {
+  "id": "ef5d03d383d7",
+  "url": "https://frenchbreaches.com/blog/mistral-ai-de-nouveau-piratee-un-hacker-revendique-la-totalite-de-son-code-source",
+  "title": "Mistral Hacked",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T23:40:10Z",
+  "fetched_at": "2026-09-18T00:16:38.946820+00:00"
+ },
+ "7d7b8810268e": {
+  "id": "7d7b8810268e",
+  "url": "https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz",
+  "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+  "source": "X：Sherwin Wu（@sherwinwu）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-17T23:36:26.000Z",
+  "fetched_at": "2026-09-18T00:16:48.663073+00:00"
+ },
+ "8981793a8aaf": {
+  "id": "8981793a8aaf",
+  "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+  "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-17T23:25:52.000Z",
+  "fetched_at": "2026-09-18T00:17:01.801170+00:00"
+ },
+ "10eee90727fd": {
+  "id": "10eee90727fd",
+  "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+  "title": "Google DeepMind launches institute to widen the AGI debate",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-17T23:21:17.000Z",
+  "fetched_at": "2026-09-18T00:17:10.834242+00:00"
+ },
+ "2a8e24bd79c7": {
+  "id": "2a8e24bd79c7",
+  "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+  "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T22:45:25Z",
+  "fetched_at": "2026-09-18T00:17:21.024256+00:00"
+ },
+ "3538ac0eb90a": {
+  "id": "3538ac0eb90a",
+  "url": "https://technode.com/2026/09/17/huawei-unveils-ascend-960-superpod-with-npo-technology-to-power-next-generation-ai-infrastructure/",
+  "title": "Huawei Ascend 960 SuperPoD uses NPO technology to power next-generation AI infra",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T22:41:10Z",
+  "fetched_at": "2026-09-18T00:17:31.542491+00:00"
+ },
+ "871b3fbbeb20": {
+  "id": "871b3fbbeb20",
+  "url": "https://www.orlandosentinel.com/2026/09/17/new-docs-in-a-i-copyright-suit-reveal-startling-admission-by-microsoft-exec-over-astonishing-theft/",
+  "title": "Docs in AI copyright suit reveal startling admission by Microsoft exec",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T22:37:44Z",
+  "fetched_at": "2026-09-18T00:18:02.742330+00:00"
+ },
+ "5f759f1230a0": {
+  "id": "5f759f1230a0",
+  "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+  "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T22:33:44Z",
+  "fetched_at": "2026-09-18T00:18:51.501644+00:00"
+ },
+ "bd0ac8962463": {
+  "id": "bd0ac8962463",
+  "url": "https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg",
+  "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+  "source": "@AIatMeta",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-17T22:33:21.000Z",
+  "fetched_at": "2026-09-18T00:18:59.977281+00:00"
+ },
+ "d37536eeb7cd": {
+  "id": "d37536eeb7cd",
+  "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+  "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-17T21:22:02Z",
+  "fetched_at": "2026-09-18T00:19:49.942599+00:00"
+ },
+ "dbbf2e8cb03b": {
+  "id": "dbbf2e8cb03b",
+  "url": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
+  "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+  "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-17T20:49:01.000Z",
+  "fetched_at": "2026-09-18T00:20:01.668368+00:00"
  }
 }

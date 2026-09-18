@@ -10978,5 +10978,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-17T21:21:15.922922+00:00"
+ },
+ "17dec5113acd": {
+  "id": "17dec5113acd",
+  "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+  "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-18T00:14:17.103459+00:00"
+ },
+ "f763ca49f567": {
+  "id": "f763ca49f567",
+  "url": "https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe",
+  "title": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-18T00:14:34.748463+00:00"
+ },
+ "53d0c8109223": {
+  "id": "53d0c8109223",
+  "url": "https://thenextweb.com/news/house-democrats-cancel-recess-ai-safety-jeffries",
+  "title": "House Democrats push Johnson to cancel the recess to legislate on AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-18T00:14:49.183505+00:00"
+ },
+ "44ea95a3a1a8": {
+  "id": "44ea95a3a1a8",
+  "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents",
+  "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-18T00:15:08.984230+00:00"
+ },
+ "0b989a364939": {
+  "id": "0b989a364939",
+  "url": "https://www.techradar.com/pro/security/irregular-ai-lab-spots-agents-switching-models-without-humans-instruction-in-agentic-self-modification-phenomenon",
+  "title": "Irregular AI lab spots agents switching models without humans instruction in ‘agentic self-modification’ phenomenon",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-18T00:15:17.447667+00:00"
+ },
+ "5a18437edb3c": {
+  "id": "5a18437edb3c",
+  "url": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-declared-paradigm-agentic-085000254.html",
+  "title": "萨蒂亚·纳德拉在2026年微软Build大会上宣布了“代理式人工智能”的“新范式”。以下是这一愿景如何体现在Azure的增长中。",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-17T18:48:33.644Z",
+  "fetched_at": "2026-09-18T00:15:30.904876+00:00"
  }
 }

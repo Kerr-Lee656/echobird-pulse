@@ -1,0 +1,24 @@
+{
+ "id": "f763ca49f567",
+ "url": "https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe",
+ "title": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-18T00:14:34.748463+00:00",
+ "content": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe\nThe companies will work together to develop the autonomous vehicle but it's not clear when it'll hit the streets.\nLucid is making a push into the European robotaxi market and it's teaming up with Bolt to do so. Bolt plans to deploy at least 25,000 autonomous vehicles based on Lucid's midsize platform across the continent. The ridesharing company plans to have 100,000 AVs on its platform by 2035, but it hasn't revealed when these particular robotaxis are likely to go into service.\nBolt, which plans to own and operate the Lucid fleet, will work with the automaker to develop the vehicle. The robotaxi will likely use NVIDIA's Hyperion autonomous vehicle architecture and it's being designed for Level 4 automation (in other words, the companies plan for it to run autonomously within defined boundaries).\nEarlier this year, Lucid showed off a two-seater robotaxi prototype based on the midsized platform, which is supposed to help the company produce vehicles that are cheaper than its current models. Lucid recently delayed the Cosmos SUV, its first EV that's based on the platform, to early 2027. It announced the delay a couple of months after it laid off around 18 percent of the workforce.\nLucid also has a robotaxi partnership with Uber and Nuro in the US. Uber plans to deploy 35,000 Lucid robotaxis in the country, including midsized vehicles and a model based on the Gravity SUV. Nuro has started testing the Gravity robotaxi with a safety driver behind the wheel in Houston and in the San Francisco Bay Area.",
+ "report": {
+  "summary": "Lucid与Bolt联手，计划在欧洲部署至少2.5万辆自动驾驶出租车",
+  "background": "Lucid是美国高端电动车厂商，主打豪华轿车，但销量与现金流承压：今年裁员约18%，基于中型平台的Cosmos SUV也推迟到2027年初。为找新增长点，它把中型平台押注在自动驾驶出租车上，已与Uber、Nuro在美国合作。Bolt是欧洲起家的出行平台，是Uber在欧洲的主要对手，正积极布局Robotaxi。此次合作意味着Lucid从「卖车」转向「卖无人驾驶运力」，也标志欧洲Robotaxi竞赛升温。",
+  "key_points": [
+   "规模不小：Bolt计划在欧洲部署至少2.5万辆基于Lucid中型平台的自动驾驶车，目标是2035年平台上有10万辆自动驾驶车。",
+   "分工明确：Bolt负责拥有和运营这支车队，Lucid负责造车，双方共同开发车辆，属于典型的「车厂+出行平台」组合。",
+   "技术路线：车辆预计采用英伟达Hyperion自动驾驶架构，设计目标为L4级，即在限定区域内实现无人驾驶。",
+   "时间未知：双方都没有公布这批Robotaxi何时真正上路，商用时间表仍是空白。",
+   "美国已有类似布局：Lucid与Uber、Nuro合作，Uber计划在美部署3.5万辆Lucid自动驾驶车，Nuro已在休斯顿和旧金山湾区带安全员路测。"
+  ],
+  "impact": "对行业而言，欧洲Robotaxi竞赛明显加码，形成「车厂+出行平台+芯片与自动驾驶方案商」的结盟模式，与Waymo、特斯拉等自研路线形成对比。对开发者来说，L4量产项目增多，感知、仿真、车队调度、远程接管等岗位和接口需求上升，英伟达生态价值进一步放大。对普通用户，未来几年在欧洲部分城市可能打到无人驾驶出租车，价格有望更低，但落地时间、监管审批与安全记录仍是关键变量。",
+  "tools": "想跟进可关注NVIDIA DRIVE Hyperion平台与Isaac仿真工具链、开源自动驾驶栈Autoware和Apollo、仿真测试平台CARLA，以及Nuro公开的自动驾驶技术资料；也可留意Lucid中型平台车型和Bolt的Robotaxi试点城市公告。"
+ },
+ "lang": "zh"
+}
