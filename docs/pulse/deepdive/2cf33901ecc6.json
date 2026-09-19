@@ -1,0 +1,24 @@
+{
+ "id": "2cf33901ecc6",
+ "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+ "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T07:21:09.469039+00:00",
+ "content": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions\nTested on nearly 40,000 real-world exams, the model outperformed most radiologists, according to a new study published in Science\nAlibaba Group Holding’s research arm, Damo Academy, has open-sourced an artificial intelligence model capable of identifying nearly 150 abdominal conditions – including cancers – by reading computed tomography (CT) scans, marking the latest step in the firm’s growing medical AI efforts.\nThe vision-language model, called Damo Radar, was designed to analyse contrast-enhanced CT scans covering 18 abdominal organs and identify a broad range of diseases and other abnormalities, such as malignant tumours, the institute said on Friday.\nThe model was trained using CT scans paired with clinical reports. In nearly 40,000 real-world examinations, it achieved an average area under the curve (AUC) of 0.913 across 146 clinical findings. An AUC of 1.0 represents perfect diagnostic accuracy.\nThe research team said the training method could eventually be extended to other types of medical imaging, calling the model “the world’s first expert-level generalist medical imaging model”.",
+ "report": {
+  "summary": "阿里达摩院开源腹部CT医疗AI，可识别近150种病变",
+  "background": "阿里达摩院此前已在医疗AI领域布局，如「平扫CT+AI」胰腺癌早筛。此次发布的Damo Radar是视觉语言模型，通过CT影像与临床报告配对训练，实现跨器官、跨病种泛化诊断。成果发表于《Science》，在近4万例真实检查中完成验证。医疗影像AI长期受困于「一病一模型」，泛化弱、标注贵，通用型影像诊断模型是行业公认的难点方向。",
+  "key_points": [
+   "模型名为Damo Radar，属视觉语言模型，可分析覆盖18个腹部器官的增强CT，识别恶性肿瘤等约150种病变。",
+   "在近4万例真实检查中，146项临床发现的平均AUC达0.913（满分1.0），研究称其表现优于多数放射科医生。",
+   "训练方式是CT影像与临床报告配对学习，而非逐病种人工标注，因此具备较强的跨病种泛化能力。",
+   "达摩院称其为「全球首个专家级通用医学影像模型」，训练方法有望扩展到X光、MRI等其他影像模态。",
+   "模型已开源，医院、科研机构与开发者可直接获取并验证，显著降低医学AI研究门槛。"
+  ],
+  "impact": "对AI行业，通用医学影像模型路线获顶刊验证，可能推动「基础模型+多模态」成为医疗AI主流范式；对开发者，开源权重意味着可做微调与垂直场景落地，但医疗合规、数据壁垒与算力成本仍是门槛；对普通用户，短期无法直接使用，长期有望缓解影像科医生短缺、提升基层筛查能力，前提是通过临床审批与真实部署验证。",
+  "tools": "可关注Damo Radar开源权重（达摩院/Science论文配套）、MONAI（医学影像深度学习框架）、nnU-Net（分割基线）、Hugging Face上的医疗多模态模型如LLaVA-Med、MedGemma，以及阿里云天池的医疗影像数据集与阿里云医疗AI接口。"
+ },
+ "lang": "zh"
+}

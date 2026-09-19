@@ -1,0 +1,23 @@
+{
+ "id": "87654fce9795",
+ "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+ "title": "AI hallucination nearly triggers US military operation",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T07:21:25.678672+00:00",
+ "content": "Military aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The operation was aborted at the last minute, narrowly averting a potential conflict with China, CNN reported on Friday.\nThe episode underscores a growing concern among military officials and outside experts: As decision-makers lean more heavily on AI, the errors these systems produce can travel up the chain of command before being questioned.\nThe intelligence report, which circulated during the war with Iran, said the vessel was carrying components for a nuclear weapons program.\nThe false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence. The chatbot misidentified the ship’s cargo manifest. The analyst then used the tool a second time to format the erroneous findings into an official-looking summary, which was circulated across command channels.\nThe near-miss comes as the U.S. military races to integrate AI to accelerate decision-making and maintain its edge over China. The Pentagon has described AI as delivering a significant advantage in speeding up its kill chain so commanders can respond in the right time. But the same speed that makes AI attractive may also allow hallucinations with insufficient human oversight.\n“It’s important for service members to understand the uncertainty inherent to LLMs,” said Jake Steckler, research scholar at GovAI and veteran U.S. Army officer, in a written response to TechCrunch. “But it’s especially critical for any decisions that could lead to use of force, like targeting, intelligence analysis, or operational planning. There are life and death consequences for those decisions.”\nStill, Steckler says, the incident should serve as a call to add more safeguards to AI, not a reason to avoid it. “These tools can be useful in the right contexts and with the right safeguards in place,” he said. “But prioritizing adoption speed over all else will likely lead to incidents that only make service members lose trust in these systems, which ultimately is only going to slow adoption.”",
+ "report": {
+  "summary": "AI幻觉误判货轮，美军对华行动险被叫停",
+  "background": "美军正加速把AI嵌入情报分析与作战决策，以缩短杀伤链、保持对华优势。今年春季对伊朗战争期间，一名特种作战司令部分析员用AI聊天机器人合成开源数据与机密信号情报，AI误读船舶货物清单，生成涉核武器部件的虚假情报，并被二次加工成正式摘要上传指挥链。搭载军机的武装行动已启动，最后一刻因发现情报系AI幻觉而中止，避免与中国潜在冲突。CNN报道称此事暴露AI错误沿指挥链传播的风险。",
+  "key_points": [
+   "虚假情报来自特种作战司令部分析员：他用AI聊天机器人合成开源数据与机密信号情报，AI误读了船舶货物清单。",
+   "分析员第二次使用AI，把错误结论包装成看似正式的情报摘要，使其在指挥系统内扩散，且未及时被人工质疑。",
+   "美军针对中国船只的武装行动已出动军机，在最后一刻被叫停，险些引发与中国的潜在冲突。",
+   "美军急于用AI加速决策和杀伤链，但AI带来的速度优势，也可能让幻觉在缺乏监督时快速放大。",
+   "专家认为应增加保障措施而非放弃AI；若只追求部署速度，会削弱军人信任，反而拖慢采用。",
+   ""
+  ]
+ },
+ "lang": "zh"
+}

@@ -11257,5 +11257,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-19T00:19:08.599933+00:00"
+ },
+ "2cf33901ecc6": {
+  "id": "2cf33901ecc6",
+  "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+  "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T07:21:09.469039+00:00"
+ },
+ "3e1dd1f8d677": {
+  "id": "3e1dd1f8d677",
+  "url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T07:21:17.584882+00:00"
+ },
+ "87654fce9795": {
+  "id": "87654fce9795",
+  "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+  "title": "AI hallucination nearly triggers US military operation",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T07:21:25.678672+00:00"
+ },
+ "032cc4cecf67": {
+  "id": "032cc4cecf67",
+  "url": "https://hub.baai.ac.cn/view/58084",
+  "title": "Anthropic 首曝 RSI 绝密报告：3 万智能体正自我迭代",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T07:21:47.969479+00:00"
+ },
+ "723c449cb1bb": {
+  "id": "723c449cb1bb",
+  "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+  "title": "关于中国核部件的AI幻觉险些导致美军发动袭击",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-18T23:18:40.462Z",
+  "fetched_at": "2026-09-19T07:24:38.360317+00:00"
  }
 }

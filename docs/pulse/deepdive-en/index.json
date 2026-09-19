@@ -3706,5 +3706,23 @@
   "site_name": "Ars Technica",
   "published_at": "2026-09-18T19:20:50.000Z",
   "fetched_at": "2026-09-18T20:56:53.104305+00:00"
+ },
+ "ea26a589490d": {
+  "id": "ea26a589490d",
+  "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c",
+  "title": "OpenAI expects to burn $280B by 2030",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-19T03:48:35Z",
+  "fetched_at": "2026-09-19T07:28:18.286498+00:00"
+ },
+ "2cf33901ecc6": {
+  "id": "2cf33901ecc6",
+  "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+  "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "source": "Hacker News (113pts, 13c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-18T23:54:42Z",
+  "fetched_at": "2026-09-19T07:28:52.031550+00:00"
  }
 }
