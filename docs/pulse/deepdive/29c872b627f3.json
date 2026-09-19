@@ -1,0 +1,24 @@
+{
+ "id": "29c872b627f3",
+ "url": "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9",
+ "title": "The AI capex boom won't sustain S&P 500 earnings much longer, Goldman says",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T17:17:15.004719+00:00",
+ "content": "Wall Street has cheered upbeat earnings this year, fueled by strong growth in tech, but the investors shouldn't count on the strong momentum lasting much longer, Goldman Sachs says.\nBen Snider, the bank's chief US equity strategist, recently laid out his team's thesis on how AI growth is likely to impact the market in the coming year. Even if capex spending stays strong, he's not convinced it will be enough to sustain this year's positive momentum.\n\"The AI investment boom has accounted for nearly half of S&P 500 earnings growth this year, and this tailwind should begin to fade next year even as capex spending continues to grow,\" Snider wrote in a note to investors on Thursday.\nSnider told Business Insider in July that investors should double down on popular AI infrastructure stocks, citing a bullish stance on the data center boom. Yet, as he looks beyond 2026, his latest view indicates that AI spending may be masking a more difficult reality for markets.\nSnider's focus is not on the notion that the AI bubble is likely to burst in the near future. Rather, his base case centers on the likelihood of S&P 500 earnings growth slowing down significantly over the next two years, partially because of problems ahead for chipmakers, which have been major beneficiaries of the AI spending by Big Tech firms.\n\"The recent surge in semiconductor profit margins leaves S&P 500 earnings vulnerable to a decline in chip prices,\" Snider stated. \"Our industry analysts expect supply to remain tight through 2027 but for the rate of margin expansion to slow next year.\"\nChip stocks have been a significant growth driver for the S&P 500 since the AI boom began in late 2022, surging on the combination of extremely high demand and limited supply. Others have said recently that surging chip costs could be problematic for the AI trade.\nGoldman previously predicted that the US would shoulder the brunt of a global AI-driven inflation surge, noting that AI chip prices were already troublingly high.\nNow, the possibility of cooling chip margins threatens to compromise the momentum that powered the AI trade in 2026.\n\"In a scenario where slowing AI infrastructure investment, increasing supply, and/or technological shift lowers semiconductor prices and profit margins, S&P 500 EPS growth would also disappoint,\" Snider noted.\nSnider also highlighted another factor that's helped fuel Big Tech's earnings growth, one that is likely to contribute to the deceleration that his team sees coming: income companies have earned from private investments.\nWhile these paper gains can be considered income, that doesn't mean that the company has actually generated any cash from them.\n\"We expect a much smaller contribution in 2027. The complete removal of this 'other income' next year would create a drag of 8 pp on S&P 500 earnings growth in 2027 relative to 2026, all else equal,\" Snider added.",
+ "report": {
+  "summary": "高盛警告：AI资本开支对美股盈利的拉动明年起将明显减弱",
+  "background": "自2022年底ChatGPT引爆AI热潮以来，英伟达等芯片股与超大规模云厂商的资本开支成为标普500上涨的核心引擎。华尔街今年普遍为亮眼财报欢呼，但高盛首席美股策略师Ben Snider在最新研报中指出，AI投资热潮贡献了今年标普500盈利增长近一半，这一顺风明年将开始消退。此前高盛还预测美国将承担全球AI驱动通胀的主要压力，芯片价格已高得令人担忧。此番观点并非预言AI泡沫破裂，而是提示盈利增速的实质性放缓。",
+  "key_points": [
+   "今年标普500企业盈利增长中，近一半来自AI投资热潮，高盛认为这种贡献明年将开始减弱，即便资本开支仍在增长。",
+   "芯片股是最大受益者，但利润率飙升后变得脆弱：分析师预计供应紧张持续到2027年，而利润率扩张速度明年就会放缓。",
+   "若AI基建投资放缓、芯片供应增加或技术路线转变压低芯片价格，标普500每股收益增长将随之令人失望。",
+   "另一个被忽视的推手是科技巨头来自私募投资的账面收益，并非真实现金，2027年这部分贡献将大幅缩水。",
+   "高盛测算，若明年‘其他收入’完全消失，将在其他条件不变下对2027年标普500盈利增长造成约8个百分点的拖累。"
+  ],
+  "impact": "对AI行业而言，这意味着资本开支故事的估值支撑正在被重新定价，‘投入越多盈利越好’的线性叙事受到挑战，市场焦点将从算力投入转向盈利兑现。对开发者来说，融资环境可能趋紧，AI基础设施与工具链公司需更早证明单位经济模型。对普通用户，短期AI产品价格战和补贴或仍在，但长期若投资降温，部分免费或低价AI服务的补贴力度可能收敛，云与算力成本下降反而可能利好应用层。",
+  "tools": "想跟踪这一趋势，可关注高盛美股策略研报、英伟达等芯片龙头财报电话会、半导体ETF（SOXX/SMH）走势，以及FactSet、Bloomberg的EPS一致预期数据。开发者侧可用开源项目OpenBB Terminal做宏观与板块数据抓取，FinGPT、Qlib等做财报情绪与量化分析，辅助判断AI资本开支周期拐点。"
+ },
+ "lang": "zh"
+}

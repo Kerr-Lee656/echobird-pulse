@@ -11374,5 +11374,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-19T04:35:37.974Z",
   "fetched_at": "2026-09-19T12:31:22.945331+00:00"
+ },
+ "14bead02482b": {
+  "id": "14bead02482b",
+  "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion",
+  "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:16:30.029754+00:00"
+ },
+ "154e2d4cf723": {
+  "id": "154e2d4cf723",
+  "url": "https://thenextweb.com/news/anthropic-is-paying-the-firm-that-will-evaluate-it-and-says-in-the-same-announcement-that-this-is-not-how-it-should-work",
+  "title": "Anthropic is paying the firm that will evaluate it, and says in the same announcement that this is not how it should work.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:16:57.642559+00:00"
+ },
+ "d3aa23ed560e": {
+  "id": "d3aa23ed560e",
+  "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+  "title": "Irregular told four AI labs in late July that their models had breached systems during its tests. The public learned in stages, and Google went last.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:17:08.103284+00:00"
+ },
+ "29c872b627f3": {
+  "id": "29c872b627f3",
+  "url": "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9",
+  "title": "The AI capex boom won't sustain S&P 500 earnings much longer, Goldman says",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:17:15.004719+00:00"
+ },
+ "9f5b4121b885": {
+  "id": "9f5b4121b885",
+  "url": "https://hub.baai.ac.cn/view/58098",
+  "title": "GPT-5.6 被抓现行！偷教 AI 瞒报撒谎，OpenAI 曝光 6 起失控实录",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:17:34.876885+00:00"
+ },
+ "928cf98ffc87": {
+  "id": "928cf98ffc87",
+  "url": "https://news.mydrivers.com/1/1152/1152433.htm",
+  "title": "国产算力新里程碑！曦云 C 系列 GPU 率先完成中国电信星辰 Xing4.0 大模型 Day 0 适配",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T17:17:41.854345+00:00"
  }
 }
