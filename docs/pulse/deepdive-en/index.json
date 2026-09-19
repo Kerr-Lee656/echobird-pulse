@@ -3724,5 +3724,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-18T23:54:42Z",
   "fetched_at": "2026-09-19T07:28:52.031550+00:00"
+ },
+ "482681a5ad64": {
+  "id": "482681a5ad64",
+  "url": "https://github.com/lahfir/agent-desktop",
+  "title": "lahfir/agent-desktop — Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:32:45.311606+00:00"
+ },
+ "8256e22ea719": {
+  "id": "8256e22ea719",
+  "url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
+  "title": "AI companies sued for \"collusion\" to slow down",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-19T12:27:16Z",
+  "fetched_at": "2026-09-19T12:33:34.573637+00:00"
+ },
+ "888d3551b20a": {
+  "id": "888d3551b20a",
+  "url": "https://github.com/anthropics/claude-code/tree/main/mods/agents-md",
+  "title": "Claude Code Supports AGENTS.md",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-19T11:30:15Z",
+  "fetched_at": "2026-09-19T12:34:40.049625+00:00"
  }
 }

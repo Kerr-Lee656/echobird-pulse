@@ -11302,5 +11302,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-18T23:18:40.462Z",
   "fetched_at": "2026-09-19T07:24:38.360317+00:00"
+ },
+ "38d006d075de": {
+  "id": "38d006d075de",
+  "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+  "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:00.273572+00:00"
+ },
+ "ad31a8f576c0": {
+  "id": "ad31a8f576c0",
+  "url": "https://thenextweb.com/news/xi-white-house-dinner-ai-ceos-guardrails-chips-not-moving",
+  "title": "Trump and Xi already talked AI guardrails once this year. Nothing was signed, and no chips shipped.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:08.768339+00:00"
+ },
+ "8d8931435429": {
+  "id": "8d8931435429",
+  "url": "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper",
+  "title": "Three researchers used Claude to reach OpenAI’s internal code. OpenAI paid $6,500 and closed the hole in 14 hours.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:20.095664+00:00"
+ },
+ "1f445b60ee9a": {
+  "id": "1f445b60ee9a",
+  "url": "https://www.qbitai.com/2026/09/492467.html",
+  "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:30.567785+00:00"
+ },
+ "be1cbf819468": {
+  "id": "be1cbf819468",
+  "url": "https://www.ithome.com/1/004/450.htm",
+  "title": "阿里千问发布同声传译大模型 Qwen3.8-LiveTranslate，支持原文译文同帧同出",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:40.804157+00:00"
+ },
+ "9c852c85134f": {
+  "id": "9c852c85134f",
+  "url": "https://www.theblockbeats.info/flash/367987",
+  "title": "AI 算力公司 Nscale 递交美股 IPO 申请，拟募资 30 亿美元，英伟达持股超 5%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-19T12:30:51.226778+00:00"
+ },
+ "481503b58818": {
+  "id": "481503b58818",
+  "url": "https://www.ithome.com/1/004/429.htm",
+  "title": "OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-19T04:54:21Z",
+  "fetched_at": "2026-09-19T12:31:13.700750+00:00"
+ },
+ "0dd033f2a0e6": {
+  "id": "0dd033f2a0e6",
+  "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+  "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
+  "source": "www.bbc.co.uk",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-19T04:35:37.974Z",
+  "fetched_at": "2026-09-19T12:31:22.945331+00:00"
  }
 }

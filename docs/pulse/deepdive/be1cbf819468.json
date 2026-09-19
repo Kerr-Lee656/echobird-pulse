@@ -1,0 +1,24 @@
+{
+ "id": "be1cbf819468",
+ "url": "https://www.ithome.com/1/004/450.htm",
+ "title": "阿里千问发布同声传译大模型 Qwen3.8-LiveTranslate，支持原文译文同帧同出",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-19T12:30:40.804157+00:00",
+ "content": "IT之家 9 月 19 日消息，阿里千问今日发布同声传译大模型 Qwen3.8-LiveTranslate ，模型以 Interleave 架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从 2.8 秒降至 2.3 秒。\n官方表示，在支持 60 种语言的基础上，Qwen3.8-LiveTranslate 新增三项能力让同传更广泛的应用于真实场景中：\n- 实时说话人分离，每句话归属清晰，音色复刻更稳定；\n- 原文译文同帧同出，双语同屏；\n- 长上下文消歧，联系前文读懂当下，人名术语翻译更精准。\nQwen3.8-LiveTranslate 采用基于 Hybrid MoE 的 Thinker–Talker 双模块设计，通过 Interleave 方式衔接流式理解、文本输出与语音生成。其中，Thinker 把视频、音频、原文与译文编排进同一条因果序列，按时序交替排列、端到端产出，让理解与翻译在单一序列内完成；Talker 再结合译文和源音频，把译文合成为保留原说话人音色的译文语音。\n在覆盖 14 个语向的多说话人长音频评测集 Omnilingua-MSpeaker 上，Qwen3.8-LiveTranslate 在翻译的忠实度、流畅度、简洁度以及说话人识别的错误率 DER（Diarization Error Rate，说话人分离错误率）四个维度上均优于目前行业主流实时同传系统。\n官方在公开 FLEURS 音频测试集上评测了 70 个语言方向的实时同传表现。Qwen3.8-LiveTranslate 在翻译质量、字均延迟、语音识别准确率以及语音合成质量四个维度上领先于上一代以及当前主流实时同传系统。\nIT之家附相关链接：\n- 尝鲜体验：https://omni.qwen.ai/live-translate\n- 模型 API：https://www.qianwenai.com/models/qwen3.8-livetranslate-flash-realtime\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+ "report": {
+  "summary": "阿里千问发布实时同传大模型，延迟降至2.3秒并支持音色复刻",
+  "background": "同声传译长期是语音AI最难啃的场景之一。传统方案靠语音识别、机器翻译、语音合成三段级联，误差层层累积、延迟动辄数秒，多人对话时还分不清谁在说话。2024年以来，端到端语音模型成为主流方向，OpenAI Realtime、Gemini Live 等把低延迟多模态交互推上台面。阿里千问此前已有 Qwen-Omni 系列全模态模型，此次把同传单独做成专用模型，主打会议、直播、跨境商务等真实落地场景。",
+  "key_points": [
+   "延迟再压缩：字均延迟从2.8秒降到2.3秒，用户几乎感觉不到“等翻译”的空档，体验更接近真人译员。",
+   "架构换血：采用 Hybrid MoE 的 Thinker–Talker 双模块，把视频、音频、原文、译文排进同一条因果序列，理解与翻译不再分步串行。",
+   "三项实用能力：实时说话人分离、原文译文同帧同屏、长上下文消歧，多人会议和人名术语密集的场景明显更靠谱。",
+   "评测领先：在多说话人评测集 Omnilingua-MSpeaker 和 FLEURS 的70个语向上，翻译质量、延迟、识别与合成等维度均优于主流实时同传系统。",
+   "支持60种语言，已开放网页尝鲜和实时 API，开发者可直接接入到自己的产品中。"
+  ],
+  "impact": "对行业而言，端到端同传成为多模态大模型的新战场，传统级联式同传方案将加速被替代，语音交互的竞争从“能听懂”转向“实时且像人”。对开发者来说，实时语音翻译的接入门槛进一步降低，会议记录、直播字幕、跨境客服等产品可以更快做出来。对普通用户，跨语言沟通正接近“无感”，但音色复刻也放大了深伪与隐私合规风险，平台需同步建立授权与标识机制。",
+  "tools": "想上手可直接体验 omni.qwen.ai/live-translate 网页版，或调用官方实时 API（qianwenai.com 的 live-translate-flash-realtime）；做对比可试 OpenAI Realtime API、Gemini Live，开源侧可参考 Whisper、SeamlessM4T 等流式方案。"
+ },
+ "lang": "zh"
+}
