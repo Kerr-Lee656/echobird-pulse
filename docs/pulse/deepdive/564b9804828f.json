@@ -1,0 +1,24 @@
+{
+ "id": "564b9804828f",
+ "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+ "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T00:18:47.658648+00:00",
+ "content": "Meta’s new AI assistant app, Muse, is now available on Mac.\nOn the Mac, Muse can interact with your files, messages, calendar, notes, and mail, all within their native applications.\nThe new app follows the launch of Muse on mobile and the web earlier this month, when it quickly rose to the top of the U.S. App Store charts.\nJust like on other platforms, you can control what Muse has access to on your Mac on an opt-in basis. In addition, the app will always ask for your approval before it performs sensitive actions, Meta says.\nThe desktop app comes at a time of intensifying competition between consumer-facing AI agents, which many in the industry believe will be the future of computing. The movement is disrupting the app industry, software-as-a-service businesses, and perhaps, eventually, even hardware, like the iPhone.\nIn addition to Muse, all the major players offer consumer-facing agentic AI. And other AI agents have found traction by letting people use AI agents via text messages. One of the first breakout hits in this space, Poke, exited to Cognition in July. Meanwhile, the newest AI assistant frequently brought up in tech circles these days, Instinct, is said to be raising more funds at a $10 billion valuation.\nFor now, the question is who can capture the most consumer market share in this space, and quickly. That’s led Muse and Instinct to rush to launch new features at a rapid pace — both rolled out voice calling this week, for instance.\nAs Mark Zuckerberg noted on X when announcing the Mac app, “The team is shipping fast.”",
+ "report": {
+  "summary": "Meta 的 AI 助手 Muse 登陆 Mac，可跨应用代用户执行操作",
+  "background": "Muse 本月初先在移动端和网页上线，迅速登上美国 App Store 榜首，如今扩展到 Mac 桌面端。这背后是消费级 AI Agent 竞赛的白热化：行业普遍认为能替用户「动手操作电脑」的智能体将重塑计算入口，进而冲击应用生态、SaaS 商业模式乃至 iPhone 等硬件。Meta、OpenAI 等巨头与 Poke、Instinct 等新秀都在抢跑，Muse 与 Instinct 本周甚至同步推出语音通话功能。",
+  "key_points": [
+   "Muse 能直接操作 Mac 上的文件、信息、日历、备忘录和邮件，且是在这些应用原生界面内完成，而非另起一个聊天框。",
+   "权限采用按需授权模式，敏感操作执行前必须经用户确认，Meta 强调用户可随时控制 Muse 能访问哪些数据。",
+   "Muse 移动端和网页版上线仅数周就登顶美区 App Store，说明消费级 AI Agent 已有真实的大众需求。",
+   "竞争焦点正从「聊天问答」转向「代为执行」，谁先抢占用户桌面和手机入口，谁就掌握下一代计算平台的话语权。",
+   "扎克伯格亲自在 X 上为 Mac 版站台，称团队「交付速度很快」，暗示 Meta 将保持高频迭代节奏。"
+  ],
+  "impact": "对 AI 行业而言，桌面端 Agent 的落地意味着竞争从模型能力转向系统级集成和生态卡位，苹果、微软的护城河面临直接挑战。对开发者来说，用户习惯让 AI 代劳操作后，独立 App 的流量入口价值可能被稀释，SaaS 按席位收费模式承压，需转向 Agent 可调用的 API 或插件形态。对普通用户，电脑开始变成「说一句就能办事」的工具，效率和便利性大幅提升，但把邮件、文件权限交给一家公司的隐私顾虑也随之放大。",
+  "tools": "可关注 Meta Muse（Mac/移动/网页版）体验桌面 Agent；同类可对比 OpenAI 的 Operator、Anthropic 的 Computer Use、以及 Poke、Instinct 等新秀。开发者可研究 MCP（模型上下文协议）等让 AI 安全调用本地应用与数据的标准，便于把自己的产品接入 Agent 生态。"
+ },
+ "lang": "zh"
+}

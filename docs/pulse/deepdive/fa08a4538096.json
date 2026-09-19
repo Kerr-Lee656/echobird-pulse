@@ -1,0 +1,25 @@
+{
+ "id": "fa08a4538096",
+ "url": "https://thenextweb.com/news/newsom-ai-kill-switch-order",
+ "title": "Newsom pitches an AI kill switch for California",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T00:18:55.256832+00:00",
+ "content": "Gavin Newsom has signed an executive order asking a working group to report within two months on strengthening California’s AI safety laws, including whether companies should build a kill switch for frontier models. He vetoed SB 1047, which required developers to be able to promptly enact a full shutdown, in September 2024.\nGavin Newsom signed an executive order on Friday telling a working group to report within two months on how to strengthen California’s AI safety laws, Bloomberg reported. Among the measures it should consider is making companies build a kill switch for frontier models.\nHe vetoed a bill that required one.\nSB 1047 would have obliged developers of covered models to be able to “promptly enact a full shutdown“, stopping operation and further training. Newsom vetoed it on 29 September 2024, arguing it regulated models by size and cost rather than by what they are used for. The bill was the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act.\nThat was almost two years ago to the day.\nThe order’s other idea is independent third parties writing safety plans for frontier companies. “We’re not waiting to act,” Newsom said. His office has not said who is in the working group.\nEurope did not ask companies to build the switch.\nSince 2 August the European Commission has been able to restrict, withdraw or recall a general-purpose model from the EU market, under a provision of the AI Act we covered this month. The power sits with the regulator rather than the developer.\nIt does not depend on a company implementing anything.\nThe AI Act separately requires that a human overseeing a high-risk system can interrupt it or bring it to a halt through a stop button. That rule covers deployed systems rather than the models underneath them. Those obligations are not yet in application.\nCalifornia is two months from a recommendation.\nThe gap on third parties looks similar. California’s SB 813 gives the state until January 2028 to certify organisations able to test frontier models, while Europe’s 60-member scientific panel was appointed on 1 June.\nNeither side has settled who pays for the compute. On the only worked example so far, the tester’s bill was met by the company being tested.\nNewsom has been on both sides of this. He encouraged the boom because it paid, and earlier this year promoted a partnership to put Anthropic’s Claude into state agencies. Anthropic and OpenAI are both based in California, and both would fall inside whatever his group recommends.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "加州州长纽森签行政令，拟为前沿AI模型强制装\"终止开关\"。",
+  "background": "2024年9月29日，纽森否决了SB 1047——该法案要求前沿模型开发者能\"迅速实施完全关停\"，停止运行与后续训练。他当时批评法案按模型规模和算力成本划线，而非按实际用途监管。如今他签署行政令，要求工作组在两个月内提交如何加强加州AI安全法的建议，其中就包括是否让企业自建\"终止开关\"，以及由独立第三方为前沿公司撰写安全计划。纽森此前一边助推AI产业繁荣，一边推动把Anthropic的Claude接入州政府机构，立场颇有摇摆。",
+  "key_points": [
+   "纽森2024年否决了要求企业自建关停能力的SB 1047，如今却让工作组重新评估\"终止开关\"，被视为立场回摆。",
+   "行政令还有一条思路：让独立第三方为前沿AI公司编写安全计划，避免企业既当运动员又当裁判。",
+   "欧盟AI Act走的是另一条路：8月2日起监管机构可直接限制、撤回或下架通用模型，权力在监管方而非企业。",
+   "欧盟另要求高风险系统的人类监督者能用\"停止按钮\"中断运行，但覆盖已部署系统，不涉及底层模型，且尚未生效。",
+   "加州SB 813要到2028年1月才能认证可测试前沿模型的机构，欧盟60人科学小组6月已就位，双方都还没解决算力费用谁出。",
+   "目前唯一完成的测试案例中，账单由被测试的公司支付，这为未来的独立性埋下隐忧。"
+  ],
+  "impact": "对AI行业而言，加州是全球前沿模型大本营，Anthropic与OpenAI都在辖内，一旦成文将直接改写合规成本；对开发者来说，\"终止开关\"意味着训练流程、权重存储和部署架构都要预留可被外部触发的断电机制，工程复杂度上升；对普通用户，政府多了一张紧急刹车，但真正的安全效果取决于触发标准和谁来监督。",
+  "tools": "想跟进AI安全评估，可关注英国AISI开源的Inspect评测框架、微软开源的PyRIT红队工具、NVIDIA的Garak漏洞扫描器，以及METR的前沿模型自主性评估报告。"
+ },
+ "lang": "zh"
+}

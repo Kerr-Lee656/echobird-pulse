@@ -1,0 +1,24 @@
+{
+ "id": "d277e19284fe",
+ "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+ "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T00:18:17.076082+00:00",
+ "content": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.\nWatch as Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into whether companies can agree on what slowing down means and who gets to police it. Plus, WordPress parent Automattic’s boardroom coup, and a couple of the week’s biggest deals.\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+ "report": {
+  "summary": "AI领袖提出“步调前沿”安全减速方案，执行路径仍存分歧。",
+  "background": "Anthropic研究员发出末日警告一周后，CEO Dario Amodei提出“步调前沿”方案，主张用独立安全评估员和民主国家AI实验室间协调来管理前沿AI开发。此前，AI安全与加速发展的争论已持续升温，各国监管碎片化，头部实验室既担心风险又不敢单边减速，英伟达黄仁勋则公开质疑该思路。TechCrunch Equity播客就此讨论：企业能否对“减速”达成共识，以及由谁来监督执行。",
+  "key_points": [
+   "Amodei的方案核心是引入独立安全评估机构，对前沿模型在发布前进行第三方风险审查，而非仅靠实验室自我承诺。",
+   "他主张民主国家的AI实验室相互协调，避免某家单方面放慢而被竞争对手超越，试图把安全变成集体行动。",
+   "提案已获部分行业人士支持，但英伟达CEO黄仁勋等人明确反对，显示安全派与加速派之间的裂痕仍在扩大。",
+   "最大争议在于：什么叫“减速”、谁来定义风险阈值、谁有权力叫停模型，目前都没有可执行的统一答案。",
+   "事件发生在Anthropic研究员末日警告一周后，反映前沿AI安全焦虑正从内部警告转向公开政策倡议。"
+  ],
+  "impact": "对AI行业，这可能推动独立评估和跨国协调成为前沿模型发布的前置条件，但缺乏强制力时易沦为自愿倡议；对开发者，模型评测、合规与透明度成本将上升；对普通用户，短期产品体验不变，长期则影响AI能力释放节奏、安全治理透明度与可用模型的多样性。黄仁勋的反对也说明算力与商业利益仍是关键阻力。",
+  "tools": "若想跟进，可关注 Anthropic 的 Responsible Scaling Policy、METR 的前沿模型评估、英国/美国 AI Safety Institute 的测试框架，以及 Apollo Research 的欺骗性对齐研究。"
+ },
+ "lang": "zh"
+}

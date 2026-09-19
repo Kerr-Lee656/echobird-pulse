@@ -1,0 +1,24 @@
+{
+ "id": "d3d8c06d8d9c",
+ "url": "https://www.techradar.com/pro/bill-to-make-ai-data-centers-pay-for-power-grid-upgrades-reaches-critical-milestone",
+ "title": "Bill to make AI data centers pay for power grid upgrades reaches critical milestone",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-19T00:19:08.599933+00:00",
+ "content": "Bill to make AI data centers pay for power grid upgrades reaches critical milestone\nRatepayer Protection Act gets 417-3 win\n- This new Act, with overwhelming, bipartisan support, could soon be enforced on a per-state basis\n- 100MW+ data centers would have to pay for new power generation and grid infrastructure\n- Public Citizen says the bill doesn't address other \"consumer and community impacts\"\nWith energy consumption now one of the most hotly debated topics surrounding new data center development, new rules could be set to come into play to force developers to pay for grid upgrades without pushing the impact onto local citizens.\nThe Ratepayer Protection Act, which passed on September 16 with 417 votes (and just three against it) would apply to medium and large campuses with peak demands of 100MW+.\nImpacted developments could end up having to foot the bill for new electricity generation capacity as well as the transmission and distribution infrastructure that goes along with it.\nUS data centers could soon be required to pay for grid upgrades\nWe also know that new projects can be years in the making, from initial ideation all the way through to construction and a go-live date, but under the proposed bill, operators would have to pay for the upgrades regardless of whether they pull out or stop buying grid power.\nHowever crucially, it's unlikely to be a blanket action that affects every region equally, because state regulators would need to consider adopting the rules on a more local basis.\nWhat this overwhelming, bipartisan support also confirms is that data centers have become a major political discussion, with US midterm elections just around the corner and citizens increasingly worried about rising utility bills.\nThe Ratepayer Protection Act comes after the White House announced the Ratepayer Protection Pledge, which set out similar plans. President Trump called on major hyperscalers to \"build, bring, or buy the new generation resources and electricity needed.\"\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nThe difference is that the Pledge would be a voluntary move by data center operators, whereas an enforced Bill would make it a legal requirement.\nStill, consumer rights org Public Citizen has criticized the Act for not going far enough. \"While a federal mandate forcing states to consider such a step provides opportunities for advocates to press for consumer protections, there are a myriad of other consumer and community impacts from data centers unaddressed in this bill,\" Energy Program director Tyson Slocum wrote (via Reuters).\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "美法案：超100MW AI数据中心须承担电网升级成本。",
+  "background": "AI数据中心能耗激增，电网压力和居民电费上涨成为焦点。9月16日，《Ratepayer Protection Act》以417票赞成、3票反对在众议院通过，获两党罕见支持。法案适用于峰值需求100MW以上的中大型数据中心园区，要求其承担新增发电、输电和配电基础设施成本，即使项目退出或停购电网电力也需支付。具体规则需各州监管机构考虑采纳。此前白宫推出自愿性Ratepayer Protection Pledge，而法案将其转为法律强制；中期选举临近，公用事业账单正成为政治议题。",
+  "key_points": [
+   "法案以417票赞成、3票反对通过，两党罕见一致，显示数据中心电价已成政治焦点。",
+   "峰值100MW以上中大型数据中心需承担新增发电、输电和配电升级成本，避免转嫁给普通用户。",
+   "即使项目退出或停止购电，运营商仍可能支付已承诺的升级费用，以降低先建后弃风险。",
+   "执行由各州监管机构自行考虑采纳，非全国统一强制，落地进度和力度可能因地区而异。",
+   "白宫此前推自愿性Ratepayer Protection Pledge，本法拟转为法律强制；Public Citizen批评其未覆盖其他社区影响。"
+  ],
+  "impact": "对AI行业，数据中心选址与成本模型将改变，电力可得性、电网容量和长期购电协议成为核心变量，可能推动向电力富余或可再生资源丰富地区集聚。对开发者，需提前做电网影响评估、储能与需求响应，并准备承担升级费用。对普通用户，短期有望避免为AI数据中心分摊电网成本，但州级落地不一，云和AI服务价格可能间接承压。",
+  "tools": "可关注 Electricity Maps、WattTime 追踪电网碳强度与需求响应；LBNL 数据中心能耗报告、OpenEI 获取美国电价与能源数据；PJM/MISO 等区域电网互联队列；Congress.gov 和州公用事业委员会（PUC）文件追踪立法。"
+ },
+ "lang": "zh"
+}
