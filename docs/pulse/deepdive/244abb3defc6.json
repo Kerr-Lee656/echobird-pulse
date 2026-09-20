@@ -1,0 +1,24 @@
+{
+ "id": "244abb3defc6",
+ "url": "https://www.aibase.com/news/31184",
+ "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-20T08:53:52.445Z",
+ "fetched_at": "2026-09-20T11:19:23.433566+00:00",
+ "content": "OpenAI has launched the official ChatGPT add-in for Word, available to all account plans worldwide, allowing even free users to experience it directly. This means another major player has joined the ranks of AI assistants in the most popular word processing software.\nThe add-in offers features that closely align with writers' daily needs: compiling scattered notes into a first draft, summarizing long reports, adjusting tone for different audiences, editing formatting, and unifying terminology. Paid and enterprise accounts can go further, accessing external materials and saving frequently used skills for repeated use. However, there are different levels of access: free users default to using the basic model, while enterprise users can preview the advanced model for free during specific periods; also, the quota for the Word add-in is shared with tools like Codex, not separate.\nIts limitations should also be clarified. The model can still make mistakes, the add-in only reads the current document and does not access other files, and the chat history with the web version of ChatGPT is not synchronized — so it's more like a collaborative partner next to the document, rather than an all-knowing writing brain.\nWhat's interesting is the changing landscape. Now, within the same Word window, there are three AI tools simultaneously: Microsoft's own Copilot, Claude for Word from Anthropic, and ChatGPT for Word from OpenAI. Office software is being reshaped by AI. At the same time, the ChatGPT desktop app has added the Appshots feature, which allows you to directly capture the content of any software window and send it to ChatGPT — the barrier to using AI is being further lowered, and people's role in document writing is shifting from \"typing by hand\" to \"giving instructions, reviewing changes, making judgments, and making decisions.\"",
+ "report": {
+  "summary": "ChatGPT 插件入驻 Word，免费可用，办公 AI 三强混战。",
+  "background": "Word 长期是微软 Copilot 的主场，此前 Anthropic 已推出 Claude for Word，如今 OpenAI 也上线官方 ChatGPT 插件，面向全球所有账户层级开放，连免费用户都能直接用，付费与企业账户功能更全。聊天机器人正从独立网页和 App 走进用户最高频的办公场景，办公软件成了大模型厂商争夺入口的新战场；与此同时 ChatGPT 桌面端新增 Appshots 截窗提问功能，形成配套。",
+  "key_points": [
+   "功能贴近写作日常：把零散笔记整理成初稿、总结长报告、按受众调整语气、统一术语和格式；付费与企业账户还能调用外部资料、保存常用技能反复使用。",
+   "权限分层明显：免费用户默认用基础模型，企业用户可在特定时段免费预览高级模型；Word 插件额度与 Codex 等工具共享，不是独立计算。",
+   "边界很清楚：模型仍会出错，插件只读当前文档、不碰其他文件，聊天记录也不与网页版同步，更像坐在文档旁边的搭档，而非全知写作大脑。",
+   "同一个 Word 窗口里已同时存在三套 AI：微软自家 Copilot、Anthropic 的 Claude for Word、OpenAI 的 ChatGPT for Word，办公软件正被 AI 重塑。",
+   "桌面端新增 Appshots，可直接截取任意软件窗口内容发给 ChatGPT，用 AI 的门槛被进一步拉低。"
+  ],
+  "impact": "对行业：办公入口争夺白热化，微软以平台身份自研并容纳两家外部模型，形成微妙竞合，模型厂商开始把分发押注在别人的软件里。对开发者：Office 插件与多模型并存成为新的集成战场，额度共享、模型分级的设计值得借鉴，也要应对兼容与成本问题。对普通用户：写文档从手打转向下指令、审稿、判断和决策，免费即可零门槛尝鲜，但需接受准确性和上下文受限。",
+  "tools": "可关注 Microsoft Copilot for Word、Anthropic 的 Claude for Word、ChatGPT 桌面版（含 Appshots）；想自己动手可试 LibreOffice 加本地模型插件，或用 AnythingLLM、Open WebUI 搭建私有文档问答与写作助手。"
+ },
+ "lang": "zh"
+}
