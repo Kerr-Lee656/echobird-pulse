@@ -11509,5 +11509,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-20T00:09:46.710589+00:00"
+ },
+ "6de181f50440": {
+  "id": "6de181f50440",
+  "url": "https://www.techradar.com/pro/every-solar-plant-is-a-latent-data-center-us-startup-plans-to-turn-wasted-solar-energy-into-gpu-ready-dcs-in-weeks-not-years-and-doesnt-use-water",
+  "title": "'Every solar plant is a latent data center': US startup plans to turn wasted solar energy into GPU-ready DCs in weeks, not years, without major water use",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T04:50:05.620353+00:00"
+ },
+ "4a6f49079c34": {
+  "id": "4a6f49079c34",
+  "url": "https://www.36kr.com/p/3990974842092552",
+  "title": "谷歌最新模型 Mathematica 泄露",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T04:50:14.172684+00:00"
+ },
+ "1c23f517d4c4": {
+  "id": "1c23f517d4c4",
+  "url": "https://www.36kr.com/p/3990930500221697",
+  "title": "Nature：AI 重生到 1900，这一世抢先爱因斯坦提出光量子",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T04:50:23.471444+00:00"
+ },
+ "1d34be0f5aa2": {
+  "id": "1d34be0f5aa2",
+  "url": "https://finance.yahoo.com/technology/ai/articles/manus-ai-seeks-500-million-175810693.html",
+  "title": "Manus AI 寻求 5 亿美元融资，在与 Meta 分拆后考虑在香港上市",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-20T00:13:40.875Z",
+  "fetched_at": "2026-09-20T04:50:37.215972+00:00"
+ },
+ "b30a9cf62869": {
+  "id": "b30a9cf62869",
+  "url": "https://www.huxiu.com/article/4892522.html?f=rss",
+  "title": "一个月跌了2500亿，具身智能仍遭疯抢",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-20T00:06:43Z",
+  "fetched_at": "2026-09-20T04:50:58.525404+00:00"
+ },
+ "e9eb45a95e9d": {
+  "id": "e9eb45a95e9d",
+  "url": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
+  "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能发展。这为何对ASML股东而言是一个预警信号？",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-19T23:58:19.183Z",
+  "fetched_at": "2026-09-20T04:51:06.796590+00:00"
+ },
+ "9403c5d7646e": {
+  "id": "9403c5d7646e",
+  "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+  "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+  "source": "www.bbc.co.uk",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-19T21:53:28.879Z",
+  "fetched_at": "2026-09-20T04:51:32.321864+00:00"
+ },
+ "157eb76f4ffb": {
+  "id": "157eb76f4ffb",
+  "url": "https://mashable.com/tech/judge-allows-most-of-reddit-lawsuit-against-anthropic-proceed",
+  "title": "Judge allows most of Reddits lawsuit against Anthropic to proceed",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T04:51:59.402526+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "157eb76f4ffb",
+ "url": "https://mashable.com/tech/judge-allows-most-of-reddit-lawsuit-against-anthropic-proceed",
+ "title": "Judge allows most of Reddits lawsuit against Anthropic to proceed",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-20T04:51:59.402526+00:00",
+ "content": "Judge allows most of Reddit's lawsuit against Anthropic to proceed\nReddit's lawsuit accusing Anthropic of illegally scraping user comments to train its Claude chatbot has cleared another hurdle. A San Francisco County Superior Court judge has allowed three of the platform's five claims to proceed while trimming back two others.\nIn an order dated Sept. 17 and filed the following day, Judge Harold Kahn overruled Anthropic's demurrer, a legal challenge arguing that even if Reddit's allegations are true, they don't amount to a valid claim. The judge will allow three of Reddit's claims against Anthropic to move forward: breach of contract, interference with contract, and violation of California's unfair competition law. Two other claims, unjust enrichment and trespass to chattels, were tossed out, but the judge will give Reddit a chance to fix and refile them by Oct. 16.\nThe case originated from a complaint Reddit filed in June 2025, when the company accused Anthropic of using automated bots to access its platform's content without permission and training Claude on the personal data of Reddit users without their consent.\nYou May Also Like\nAt the time, Reddit's chief legal officer Ben Lee said AI companies should not be allowed to scrape people's information and content without clear limitations on how that data can be used, according to the Associated Press. Reddit noted it had separately struck licensing deals in 2024 with companies including Google and OpenAI that it said would allow it to enforce protections such as users' right to delete their content.\nKahn also rejected Anthropic's argument that Reddit's User Agreement was an unenforceable \"browsewrap\" agreement. The AI company tried to argue that Reddit's terms of service don't constitute a binding contract because users never explicitly click \"I agree.\" The judge pointed to Reddit's allegations that Anthropic kept scraping the site more than 100,000 times even after Reddit's CEO publicly called out the behavior — evidence, he said, that Anthropic knew exactly what it was doing.\nAs stated earlier, Kahn dismissed Reddit's unjust enrichment and trespass claims, finding them too vague as written, but allowed the company to refile with more specificity.\nA Reddit spokesperson said in a statement:\n\"This ruling sends a strong message – AI companies don't get a free pass to ignore the law. AI companies cannot scrape data without a license in violation of basic contract law, user privacy commitments and fair business practices. As we look ahead to the next phase of this lawsuit, Reddit remains committed to holding unauthorized scrapers accountable and to protecting the trust of Reddit users.\"\nAnthropic did not immediately respond to a request for comment.\nChance Townsend is the General Assignments Editor at Mashable, covering tech, video games, dating apps, digital culture, and whatever else comes his way. He has a Master's in Journalism from the University of North Texas and is a proud orange cat father. His writing has also appeared in PC Mag and Mother Jones.\nIn his free time, he cooks, loves to sleep, and greatly enjoys Detroit sports. If you have any tips or want to talk shop about the Lions, you can reach out to him on Bluesky @offbrandchance.bsky.social, by email at [email protected], or on Signal at 224-417-6628.",
+ "report": {
+  "summary": "Reddit诉Anthropic案三项指控获准继续审理",
+  "background": "2024年，Reddit先后与Google、OpenAI签署内容授权协议，确立\"平台数据需付费授权\"的路线。2025年6月，Reddit起诉Anthropic，指控其用自动化机器人绕过授权抓取用户评论，并在未经同意的情况下训练Claude。同期《纽约时报》、多家作者与图库公司也对AI企业提起类似诉讼，核心争议集中在\"平台服务条款能否约束爬虫\"以及\"公开数据是否等于免费数据\"。本案因此被视为AI训练数据授权模式的风向标。",
+  "key_points": [
+   "旧金山高等法院法官Harold Kahn驳回Anthropic的抗辩，允许三项指控继续：违约、干扰合同、违反加州不正当竞争法。",
+   "另两项指控——不当得利与动产侵占——因表述过于笼统被驳回，但Reddit可在10月16日前修改并重新提交。",
+   "法官不接受Anthropic\"用户协议只是浏览即同意、不构成合同\"的说法，认定Reddit的服务条款可能具备约束力。",
+   "关键证据是Reddit CEO公开点名后，Anthropic仍抓取网站超过10万次，法官认为这说明其明知故犯。",
+   "Reddit强调2024年已与Google、OpenAI达成授权协议，正是为了有能力执行用户删除权等保护条款。"
+  ],
+  "impact": "对AI行业而言，\"先爬后谈\"的灰色空间被进一步压缩，训练数据正走向类似音乐版权的付费授权模式。对开发者来说，使用公开语料训练模型的法律风险明显上升，需要审查数据来源与授权链条，不能只依赖\"公开可得\"这一理由。对普通用户，平台更可能以用户协议名义替你维权，但数据被商业化后收益是否回馈用户，仍是悬而未决的问题。",
+  "tools": "想跟进合规数据实践，可关注Reddit官方付费API、Hugging Face上带license标签的数据集、Common Crawl的合规使用说明。数据溯源方面可参考Spawning的\"Do Not Train\"注册表、LAION的合规审查分支，以及各类robots.txt与ToS抓取审计工具，用于核查训练语料是否获得授权。"
+ },
+ "lang": "zh"
+}

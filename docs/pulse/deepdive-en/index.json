@@ -3832,5 +3832,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-19T23:44:09Z",
   "fetched_at": "2026-09-20T00:11:52.010167+00:00"
+ },
+ "44a79d124abd": {
+  "id": "44a79d124abd",
+  "url": "https://aihot.news/items/cmu96vqg8035srodqu63q13w4",
+  "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+  "source": "公众号：阶跃星辰（Step）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-20T02:00:00.000Z",
+  "fetched_at": "2026-09-20T04:52:32.710114+00:00"
+ },
+ "ddf4a8458221": {
+  "id": "ddf4a8458221",
+  "url": "https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/",
+  "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-20T00:53:02Z",
+  "fetched_at": "2026-09-20T04:52:48.938462+00:00"
+ },
+ "6246b46dc1f8": {
+  "id": "6246b46dc1f8",
+  "url": "https://aihot.news/items/cmu92ktj505lkrojrl223hicj",
+  "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+  "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-19T23:58:19.000Z",
+  "fetched_at": "2026-09-20T04:53:03.145952+00:00"
  }
 }

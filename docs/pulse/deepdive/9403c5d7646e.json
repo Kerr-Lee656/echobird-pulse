@@ -1,0 +1,24 @@
+{
+ "id": "9403c5d7646e",
+ "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+ "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+ "source": "www.bbc.co.uk",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-19T21:53:28.879Z",
+ "fetched_at": "2026-09-20T04:51:32.321864+00:00",
+ "content": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar\n- Published\nUS President Donald Trump has announced that he will form an \"AI Force\" and appoint an artificial intelligence tsar amid warnings about the emergent technology.\nIn a social media post on Saturday, he said his administration \"will not in any way hinder or stifle the growth\" of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.\nHis post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology's development.\nTrump offered no details or a timeline for his plan.\n- Why Trump is all-in on AI despite the warnings \n  - Published3 days ago\n\"AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country's GDP,\" he said on social media, adding that he wants the US to continue leading China in AI.\nAI now sits at the heart of the US-China rivalry as the world's two largest economies seek to gain an edge in advanced tech, and it is expected to be discussed when Trump meets President Xi Jinping next week.\nMeanwhile, Trump said his administration would use the existing criminal and civil justice system to target any bad actors using the AI.\nHe also repeated comments that criticism and concerns around the potential dangers of AI are a \"hoax\".\nClaims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it \"killing all humans\" - have raised alarm bells in recent weeks.\nMajor AI companies have been racing to develop better systems, including creating what they call super intelligence - theoretical tech which is smarter than humans.\nAI titans Anthropic, OpenAI and Google - the tech companies behind Claude, ChatGPT and Gemini, respectively - have also disclosed instances of security breaches or incidents in which their chatbots were used for \"malicious activity\".\nAnthropic head Dario Amodei recently called for AI development to slow down and proposed industry-wide deceleration and regulation, as well as independent monitoring of AI model development.\nSam Altman of OpenAI and Elon Musk of xAI have both said they agree with his recommendations.\nJack Clark, co-founder of Anthropic, told BBC that a \"kill switch\" that can be checked by a third party may need to be mandatory for the industry.\nThe warnings have prompted US lawmakers to propose legislation around the technology but Altman suggested this week that Washington has struggled to keep pace with the new tech and how to regulate it. He said people should have more faith in AI firms to keep it safe.\n\"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this,\" Altman told a conference in San Francisco.\nIn the UK, MPs across parties and peers have identified human rights risks posed by artificial intelligence and have argued that existing laws are ill-equipped to address the technology's rapid growth.\nThe Joint Committee on Human Rights (JCHR) has published a report calling for a new bill on AI to \"address the scale and seriousness\" of such threats.\n  - Published11 September",
+ "report": {
+  "summary": "特朗普宣布组建AI部队和任命AI沙皇，反对放缓AI。",
+  "background": "全球AI安全警告升温，Anthropic等公司披露风险，Dario Amodei、Sam Altman等呼吁放缓与监管；同时中美AI竞争加剧，美国内部对是否监管分歧加大。特朗普此时表态，意在释放去监管、保领先信号，回应外界担忧但未给实施细节。",
+  "key_points": [
+   "特朗普宣布将组建“AI Force”并任命人工智能沙皇，但未公布具体职责、预算或时间表，政策仍停留在方向性宣示。",
+   "他明确反对因安全担忧放缓AI开发，称不会阻碍或抑制产业增长，并再次把AI危险警告称为“骗局”。",
+   "特朗普看好AI经济影响，称其是下一次工业革命，可能占美国GDP的25%，并强调美国要领先中国。",
+   "监管思路偏向事后追责：用现有刑事和民事司法系统打击滥用AI者，而非设立新监管机构或暂停开发。",
+   "与特朗普相反，Anthropic、OpenAI等高管呼吁减速、独立监测甚至强制“kill switch”，英美立法机构也在推动新规。"
+  ],
+  "impact": "对AI行业，美国联邦信号偏向加速与去监管，可能刺激投资、算力和模型竞赛；开发者短期合规压力或减轻，但滥用追责风险上升；普通用户会更快接触AI产品，同时安全、隐私与信任争议加剧；全球监管将更分化，中美竞争成核心变量。",
+  "tools": "若想跟进，可关注OpenAI、Anthropic、Google政策博客与AI Safety Institute；开源评估可看HELM、MLCommons、EleutherAI；立法追踪可用Congress.gov和UK Parliament。"
+ },
+ "lang": "zh"
+}
