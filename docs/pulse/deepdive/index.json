@@ -11446,5 +11446,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-19T14:55:04Z",
   "fetched_at": "2026-09-19T20:37:26.227672+00:00"
+ },
+ "382f3242e6f5": {
+  "id": "382f3242e6f5",
+  "url": "https://news.slashdot.org/story/26/09/19/062210/fake-ai-intelligence-almost-made-the-us-military-start-a-war-with-china",
+  "title": "Fake AI Intelligence Almost Made the US Military Start a War With China",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:08:38.546397+00:00"
+ },
+ "fd29565670e2": {
+  "id": "fd29565670e2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+  "title": "Gemini went rogue, hacked three companies, and Google hid it",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:08:49.158447+00:00"
+ },
+ "df2c2279452d": {
+  "id": "df2c2279452d",
+  "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models",
+  "title": "California governor wants to implement a kill switch for frontier AI models",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:09:07.497807+00:00"
+ },
+ "1a53f405ee5c": {
+  "id": "1a53f405ee5c",
+  "url": "https://www.36kr.com/p/3989793664121609",
+  "title": "OpenAI 买下 iPhone 人像模式幕后功臣，要给 AI 装上一双新眼睛",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:09:17.104410+00:00"
+ },
+ "80456a92e5d3": {
+  "id": "80456a92e5d3",
+  "url": "https://www.36kr.com/p/3989689843137289",
+  "title": "OpenAI研究员自曝：你手中的GPT-6，根本不是为你训练的",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:09:25.923590+00:00"
+ },
+ "6c0fd784aace": {
+  "id": "6c0fd784aace",
+  "url": "https://www.36kr.com/p/3990050742107142",
+  "title": "Claude Code全面开放，接入AGENTS.md",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:09:36.643202+00:00"
+ },
+ "67e1a914d567": {
+  "id": "67e1a914d567",
+  "url": "https://wallstreetcn.com/articles/3782134",
+  "title": "甲骨文 180 亿 AI 贷款折价滞销，AI 融资链压力浮现",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:09:46.710589+00:00"
  }
 }

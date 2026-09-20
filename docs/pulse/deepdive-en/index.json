@@ -3787,5 +3787,50 @@
   "site_name": "GitHub Trending",
   "published_at": null,
   "fetched_at": "2026-09-19T20:38:49.249395+00:00"
+ },
+ "811ebbb72ff6": {
+  "id": "811ebbb72ff6",
+  "url": "https://github.com/docling-project/docling",
+  "title": "docling-project/docling — Get your documents ready for gen AI",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:11:04.989470+00:00"
+ },
+ "55c5e35b9bbd": {
+  "id": "55c5e35b9bbd",
+  "url": "https://github.com/VectifyAI/PageIndex",
+  "title": "VectifyAI/PageIndex — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:11:13.370880+00:00"
+ },
+ "a00764589e23": {
+  "id": "a00764589e23",
+  "url": "https://github.com/opendatalab/MinerU",
+  "title": "opendatalab/MinerU — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-20T00:11:25.771920+00:00"
+ },
+ "f97acd6e363a": {
+  "id": "f97acd6e363a",
+  "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+  "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-19T23:53:07Z",
+  "fetched_at": "2026-09-20T00:11:40.110887+00:00"
+ },
+ "e48b9daed812": {
+  "id": "e48b9daed812",
+  "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+  "title": "Gemini hacked three companies in first known breakout by Google's AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-19T23:44:09Z",
+  "fetched_at": "2026-09-20T00:11:52.010167+00:00"
  }
 }

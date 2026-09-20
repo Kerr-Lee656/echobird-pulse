@@ -1,0 +1,24 @@
+{
+ "id": "df2c2279452d",
+ "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models",
+ "title": "California governor wants to implement a kill switch for frontier AI models",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-20T00:09:07.497807+00:00",
+ "content": "California governor wants to implement a kill switch for frontier AI models\nNewsom’s executive order calls for an expert panel to develop new AI safety measures.\nWith AI models from major companies all recently breaking out of their constraints, California's governor proposed creating a \"kill switch\" as part of a comprehensive solution. In an executive order signed by Gavin Newsom on Friday, California will convene national experts to create new recommendations for AI safety during a two-month time frame.\n\"We're going to speed up our work on substantial and responsible AI oversight before it's too late,\" Newsom said in a press release. \"We're going to do this thoughtfully but with urgent velocity; the stakes are too high to wait or delay action.\"\nThe panel of experts will be tasked with submitting recommendations to Newsom's office, which would then update state laws surrounding AI safety. The governor's executive order detailed several specific inclusions, like embedding \"designated independent verification organizations\" in AI labs for periodic audits and evaluations. The expert panel will also be tasked with exploring a requirement for AI companies to file reports and risk assessments to a third-party organization and to disclose \"loss-of-control incidents,\" like the Hugging Face incident.\nNewsom isn't alone in calling for outside review of the latest AI models on an ongoing basis. Last week, Anthropic's CEO, Dario Amodei, proposed a three-step plan to slow down the development of AI. Amodei's proposal suggested that AI companies should agree to \"ongoing, employee-like access\" for third-party evaluators focused on safety and compliance.",
+ "report": {
+  "summary": "加州州长拟为前沿AI模型设“关闭开关”。",
+  "background": "加州是全球AI产业核心地带，硅谷大模型公司密集。近期多家公司模型被指突破限制、出现失控或安全事件，引发监管焦虑。纽森周五签署行政令，要求两个月内召集全国专家，提出AI安全建议并推动更新州法。此举与Anthropic CEO Dario Amodei上周呼吁放缓开发、引入第三方评估形成呼应，显示美国州级和行业层面对前沿AI风险治理正在加速。",
+  "key_points": [
+   "纽森签署行政令，要求两个月内召集全国专家，为前沿AI安全监管提出建议，随后推动更新加州法律。",
+   "拟在AI实验室嵌入独立验证组织，对模型进行定期审计和评估，并探索强制第三方报告与风险评估。",
+   "要求企业披露“失控事件”，例如Hugging Face事件，让模型越界、泄露或失控行为进入监管视野。",
+   "纽森称不能等待，要以紧迫速度推进负责任监管；背景是近期多家大模型接连出现突破约束的行为。",
+   "Anthropic CEO Amodei上周提出三步计划，主张让第三方安全评估员像员工一样长期访问AI公司。"
+  ],
+  "impact": "对AI行业，加州立法风向可能迫使前沿模型公司增加审计、报告与披露合规成本，并影响发布节奏；对开发者，需更重视模型评估、日志与事故响应，第三方审计或成常态；对普通用户，安全与透明度有望提升，但若监管过严，也可能延缓新功能普及并引发隐私与创新担忧。",
+  "tools": "可关注AI安全评估工具：EleutherAI的lm-evaluation-harness、OpenAI Evals、HELM、MLCommons；风险治理框架NIST AI RMF、模型卡；事故追踪可看AI Incident Database。"
+ },
+ "lang": "zh"
+}

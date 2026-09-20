@@ -1,0 +1,24 @@
+{
+ "id": "6c0fd784aace",
+ "url": "https://www.36kr.com/p/3990050742107142",
+ "title": "Claude Code全面开放，接入AGENTS.md",
+ "source": "36氪 · 24小时热榜",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-20T00:09:36.643202+00:00",
+ "content": "Claude Code全面开放，接入AGENTS.md\nClaude Code终于低头了。\n就在刚刚，Claude Code团队核心工程师Thariq在X上发了一条帖子，浏览量一个小时冲破百万。\n从当天上线的2.1.277版本起，项目文件夹里要是没有CLAUDE.md，Claude会自己去找AGENTS.md来读。\nGitHub上这个版本的更新记录，第一行就写了这件事。\n这条更新，开发者等了一年多。GitHub仓库里那条「请支持AGENTS.md」的Issue，从2025年8月挂到现在，累计5200多个点赞、300多条留言，是整个Claude Code仓库里票数最高的功能请求，高出第二名四倍。\n消息一出，Codex团队负责人Tibo第一时间跑来留言：\nYay! This is the way. Come to the light.\nAGENTS.md到底是什么\nCLAUDE.md和AGENTS.md，本质上都是写给AI的「项目说明书」。\n它们躺在代码仓库里，告诉编程智能体：这个项目怎么编译、测试怎么跑、代码按什么规矩写。每次你和AI开一轮新对话，它先把说明书读一遍，然后再动手干活。\n区别在于谁认。\nCLAUDE.md是Anthropic的自留地，只有Claude Code读。而AGENTS.md是OpenAI在2025年8月推出的通用格式，Codex用它，Cursor用它，GitHub Copilot用它，Gemini CLI用它，Devin也用它。\n到今天，全球超过六万个开源项目已经用上了AGENTS.md。\n去年12月，OpenAI把AGENTS.md捐给了Linux基金会新成立的智能体AI基金会（AAIF）。\n搞笑的是，这个基金会的铂金会员名单里，赫然有Anthropic的名字，Anthropic把自家的MCP协议也捐了进去。\n两家坐在同一个基金会里搞开放标准，自家最火的编程工具却一直不读对方说明书。\n这个别扭，拖了十三个月，直到这周才解开。\n开发者被两份说明书折腾了一年\n麻烦出在哪？出在现实中，团队不只用一个工具。\n张三用Claude Code，李四用Codex，王五用Cursor，同一个项目就得备两份几乎一模一样的说明书。\n改了这份忘了那份，AI就照着过期的那份干活，写出来的代码风格跟团队规范南辕北辙。\n开发者被逼出了一堆土办法。有人把CLAUDE.md软链接到AGENTS.md，有人在CLAUDE.md里写一行@AGENTS.md把另一份导进来。\n还有人挂个启动钩子，每次开会话把AGENTS.md的内容打印一遍塞给Claude。\nAI能替人写代码，人却还得替AI处理说明书的兼容问题。这个荒诞场景，持续了整整一年多。\n现在，这些土办法可以统统撤了。\n一个已经给其他编程智能体配好AGENTS.md的仓库，不用加CLAUDE.md，不用写导入，也不用改设置，打开就能用。\n真正的伏笔，藏在mod里\n如果故事到这里就结束了，那它最多算一个迟到的兼容性修复。\n但Thariq发了第二条帖子，信息量比第一条大得多。\n他说，mods是Anthropic接下来要推出的定制方式，用来改Claude Code自身的运行框架harness。\nAGENTS.md的支持是用Claude Code mods做出来的。\nAGENTS.md是第一个内置mod，源码已经放在官方仓库的mods/agents-md目录。\n什么是mod？你可以把它理解成给Claude Code装的「插件」。\n这次是官方自己先装了一个样板，Thariq的原话是：以后项目说明怎么读，开发者也能按自己的需要做一个版本。\n也就是说，Claude Code读什么、怎么读，往后不全由Anthropic一家说了算了。\n社区的反应证明了这一点。已经有人在AGENTS.md上线当天就动手拆源码，研究mod的钩子机制和生命周期。\n有人精辟地总结道：mods才是这次更新真正的主角，AGENTS.md只是它的第一个演示。\n说到harness的定制化，绕不开一个月前刚开源的\n模型、工具、技能、会话、沙箱、界面……全部拆成可插拔的组件。它甚至可以把Claude Code和Codex当成自己的子智能体来调度，不是竞品，是零件。\n那Claude Code的mods和\n不完全是。\nClaude Code的mods则是另一个思路：在成熟产品上开窗口。\nClaude Code本身是一个完整的、打磨过的产品，mods是在不拆掉外壳的前提下，让你能在特定环节插入自己的逻辑。\n一个是「从零搭积木」，一个是「在成品上开改装口」。\n两条路线各有取舍，但编程智能体的运行框架，开始不再是一个黑箱了。\n参考资料：\nhttps://x.com/trq212/status/2101009392611278961\nhttps://code.claude.com/docs/en/changelog\nhttps://code.claude.com/docs/en/memory.md\nclaude-code/mods/agents-md%20at%20main%20%C2%B7%20anthropics/claude-code\n本文来自微信公众号“新智元”，编辑：所罗门，36氪经授权发布。",
+ "report": {
+  "summary": "Claude Code 支持 AGENTS.md，并推出可插拔 mods 机制",
+  "background": "CLAUDE.md 与 AGENTS.md 都是写给 AI 的「项目说明书」，前者是 Anthropic 私有格式，后者是 OpenAI 于 2025 年 8 月推出的通用格式，已被 Codex、Cursor、Copilot、Gemini CLI、Devin 等采用，全球超六万个开源项目使用，并于去年 12 月捐给 Linux 基金会旗下的智能体 AI 基金会（AAIF）。Anthropic 也是该基金会铂金会员并捐出 MCP。但 Claude Code 一直只读自家格式，GitHub 上「请支持 AGENTS.md」的 Issue 挂了十三个月，成为仓库票数最高的功能请求，直到 2.1.277 版本才落地。",
+  "key_points": [
+   "Claude Code 2.1.277 起，项目里若没有 CLAUDE.md，会自动去读 AGENTS.md，已有该文件的仓库开箱即用，无需软链接或导入。",
+   "此前多工具混用要维护两份几乎相同的说明书，开发者靠软链接、@导入、启动钩子硬扛，改漏一份 AI 就按过期规范写代码。",
+   "AGENTS.md 由 OpenAI 推出并捐给 Linux 基金会，已被 Codex、Cursor、Copilot、Gemini CLI、Devin 等采用，六万多个开源项目在用。",
+   "AGENTS.md 只是第一个官方内置 mod，源码放在 mods/agents-md 目录；mods 是社区定制 Claude Code 运行框架的插件机制。",
+   "mods 走的是「在成熟产品上开改装口」路线，与从零搭积木的开源框架形成对照，智能体的运行框架开始不再是黑箱。"
+  ],
+  "impact": "对 AI 行业而言，说明书格式的开放标准进一步收敛，厂商的差异化壁垒从文件格式转向运行框架与产品体验。对开发者来说，一份 AGENTS.md 即可通吃多种编程智能体，切换工具和维护规范的成本大幅下降，还能通过 mods 定制自家工作流。对普通用户而言，AI 写出的代码更贴合项目规范，工具迁移不再折腾，长期看会推动 AI 编程工具更快普及、更好用。",
+  "tools": "想跟进可先读 AGENTS.md 官方规范并为仓库加一份；关注 Claude Code 官方仓库 mods/agents-md 目录的源码，研究 mod 的钩子与生命周期；同时对比体验 Codex、Cursor、GitHub Copilot、Gemini CLI 对 AGENTS.md 的支持，评估哪些环节值得自己做 mod。"
+ },
+ "lang": "zh"
+}
