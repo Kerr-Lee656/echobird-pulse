@@ -11617,5 +11617,32 @@
   "site_name": "AIbase",
   "published_at": "2026-09-20T08:53:52.445Z",
   "fetched_at": "2026-09-20T11:19:23.433566+00:00"
+ },
+ "856a6824909c": {
+  "id": "856a6824909c",
+  "url": "https://hub.baai.ac.cn/view/58116",
+  "title": "华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T16:02:16.947518+00:00"
+ },
+ "0b1f3b95568d": {
+  "id": "0b1f3b95568d",
+  "url": "https://www.aibase.com/zh/news/31189",
+  "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T16:02:25.444485+00:00"
+ },
+ "2b7c0d241110": {
+  "id": "2b7c0d241110",
+  "url": "https://www.aibase.com/news/31199",
+  "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-20T08:53:52.445Z",
+  "fetched_at": "2026-09-20T16:02:34.964916+00:00"
  }
 }

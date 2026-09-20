@@ -3859,5 +3859,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-19T23:58:19.000Z",
   "fetched_at": "2026-09-20T04:53:03.145952+00:00"
+ },
+ "dc0d248d4392": {
+  "id": "dc0d248d4392",
+  "url": "https://arxiv.org/abs/2609.04176",
+  "title": "Catalan's constant is irrational (proof with the help of AI)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-20T15:32:27Z",
+  "fetched_at": "2026-09-20T16:04:52.039059+00:00"
+ },
+ "8cf078285ecf": {
+  "id": "8cf078285ecf",
+  "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+  "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-20T14:35:11Z",
+  "fetched_at": "2026-09-20T16:05:18.019009+00:00"
+ },
+ "a9942542ed25": {
+  "id": "a9942542ed25",
+  "url": "https://agentexecutor.io/",
+  "title": "Google's Open Agentic Orchestrator",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-20T14:20:17Z",
+  "fetched_at": "2026-09-20T16:05:31.238158+00:00"
+ },
+ "3c83e894b3ea": {
+  "id": "3c83e894b3ea",
+  "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
+  "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+  "source": "@Alibaba_Qwen",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-20T13:52:24.000Z",
+  "fetched_at": "2026-09-20T16:05:40.469052+00:00"
  }
 }

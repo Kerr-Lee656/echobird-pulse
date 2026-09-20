@@ -1,0 +1,24 @@
+{
+ "id": "3c83e894b3ea",
+ "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
+ "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+ "source": "@Alibaba_Qwen",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-20T13:52:24.000Z",
+ "fetched_at": "2026-09-20T16:05:40.469052+00:00",
+ "content": "正文 · AI 翻译\nQwen-Image-2.1 现已在 ComfyUI 中支持！立即试用并分享你的作品！🖼️\nQwen-Image-2.1 现已在 ComfyUI 中获得支持！ 开放权重。一个 7B checkpoint，既能生成也能编辑。 → 原生 2K 图像生成 → 单次即可基于最多 10 张参考图进行指令编辑 → RGBA 输出，包含 alpha 通道\nQwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。\n官方宣布 Qwen-Image-2.1 已进入 ComfyUI 工作流，开源权重与单 7B 模型同时支持生成和编辑，方便用户直接上手搭建。\n来源：Qwen· x.com",
+ "report": {
+  "summary": "Alibaba's Qwen-Image-2.1, a 7B open-weight model that both generates native 2K images and edits from up to 10 references, now runs natively in ComfyUI.",
+  "background": "Qwen, Alibaba's model family, has been steadily pushing open-weight multimodal releases to compete with closed image generators like Midjourney, DALL·E and Google's Imagen, as well as open rivals such as Black Forest Labs' FLUX and Stability's Stable Diffusion line. The previous Qwen-Image releases established the family as credible open alternatives for text-to-image work. Two shifts made this release notable: consolidating generation and editing into one checkpoint rather than separate pipelines, and shipping day-one integration with ComfyUI, the node-based interface that has become the de facto standard for power users and production studios working with diffusion models. Publishing open weights alongside ComfyUI support means users can fine-tune, self-host and inspect the model without API lock-in, which matters increasingly as commercial image APIs tighten content policies and pricing.",
+  "key_points": [
+   "One model, two jobs: a single 7B checkpoint handles both text-to-image generation and instruction-based editing, removing the need to juggle separate generation and inpainting/editing pipelines in a workflow.",
+   "Native 2K output: the model generates at roughly 2048-pixel resolution without a separate upscaling pass, which reduces the typical multi-step upscale-and-refine chain that eats VRAM and time.",
+   "Multi-reference editing: it can take up to 10 reference images in a single pass, making it practical for consistent character, product or style work rather than one-shot edits based on a single source.",
+   "RGBA and alpha channel output: the model emits transparency directly, useful for graphic design, compositing, game assets and any workflow needing cutout-ready images instead of post-processed masks.",
+   "Open weights plus ComfyUI support: weights are downloadable for self-hosting and fine-tuning, and the ComfyUI node integration means users can drop it into existing graphs immediately."
+  ],
+  "impact": "For the AI image industry, this is another signal that open-weight models are converging on capabilities once reserved for closed APIs — multi-reference conditioning, high native resolution and unified generation-plus-editing in one checkpoint. For developers, a 7B model with permissive access means cheaper self-hosting, easier LoRA fine-tuning and no per-image API billing, though a 7B diffusion model still demands serious GPU memory and quantization care. For regular users, the practical win is ComfyUI's day-one node support: no custom forks or scripts to get started. The competitive pressure lands on proprietary vendors who charge per render for features like reference-image editing and transparent backgrounds, since those are now available locally and free.",
+  "tools": "Watch ComfyUI and ComfyUI Manager for the official Qwen-Image-2.1 nodes and example workflows. Hugging Face hosts the model weights and the Diffusers library usually adds pipeline support quickly, while GGUF and fp8 quantized builds make the 7B checkpoint runnable on consumer GPUs. For fine-tuning, look at diffusion-pipe, Kohya-style trainers and LoRA tooling. Also track the Qwen-Image model card on Hugging Face for licence terms and reference-image limits before building production pipelines."
+ },
+ "lang": "en"
+}
