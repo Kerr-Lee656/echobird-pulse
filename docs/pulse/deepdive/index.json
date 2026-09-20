@@ -11680,5 +11680,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-20T18:46:58.958310+00:00"
+ },
+ "b62c67598ce5": {
+  "id": "b62c67598ce5",
+  "url": "https://mashable.com/tech/google-gemini-hacks-three-companies",
+  "title": "Google Gemini allegedly hacked three companies on its own",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T22:25:43.287342+00:00"
+ },
+ "05eeeed8987d": {
+  "id": "05eeeed8987d",
+  "url": "https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot",
+  "title": "US employers use software to punish workers at sixteen times the European rate. The gap is the law.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T22:26:11.286183+00:00"
+ },
+ "e68e9df77101": {
+  "id": "e68e9df77101",
+  "url": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
+  "title": "Zuckerberg’s reason for refusing to coordinate on AI safety is now the argument in an antitrust suit against four rivals.",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-20T22:26:25.899688+00:00"
+ },
+ "f55f1ed9949f": {
+  "id": "f55f1ed9949f",
+  "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+  "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-09-20T17:38:50Z",
+  "fetched_at": "2026-09-20T22:26:35.601543+00:00"
+ },
+ "d7ba8d201fe9": {
+  "id": "d7ba8d201fe9",
+  "url": "https://news.qq.com/rain/a/20260920A0D50G00",
+  "title": "拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-20T22:26:45.686898+00:00"
  }
 }

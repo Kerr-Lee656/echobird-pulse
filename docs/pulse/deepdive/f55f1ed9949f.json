@@ -1,0 +1,24 @@
+{
+ "id": "f55f1ed9949f",
+ "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+ "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-09-20T17:38:50Z",
+ "fetched_at": "2026-09-20T22:26:35.601543+00:00",
+ "content": "Samsung Electronics (005930) is expected to more than double output of its HBM4 family of high-bandwidth memory chips next year, including sixth-generation HBM4 and seventh-generation HBM4E, as the company plans to raise demand for glass carriers by 2.5 times from this year. Glass carriers are glass supports that hold wafers in place while HBM DRAM is thinned.\nSamsung will increase outsourced cleaning volume for glass carriers, an essential material in HBM production, to 50,000 sheets a month next year from 20,000 sheets a month this year, according to semiconductor industry sources on the 20th. Glass carrier requirements stood at 10,000 sheets a month as recently as last year, doubling this year and set to rise 2.5-fold next year.\nA glass carrier is a support temporarily attached to the underside of an HBM DRAM wafer to prevent bending or cracking while the wafer is ground thin and drilled. Because HBM requires stacking multiple DRAM dies within a limited thickness, the technology for thinning wafers and the processes for controlling warpage become more important as stack counts rise.\nThe HBM4 and HBM4E products Samsung is preparing to scale up center on 12-layer and higher stacks. Industry analysts say that even accounting for the fact that glass carriers are reused after cleaning and that consumption varies by process loading method and yield, a 2.5-fold increase in related volume makes it highly likely that HBM4 and HBM4E output will grow at least twofold from this year.\nIn February, Samsung began mass-production shipments of HBM4 using 10-nanometer-class sixth-generation (1c) DRAM and a base die built on a 4-nanometer process. In May, it also provided 12-layer HBM4E samples to customers including Nvidia.\nThe industry expects Samsung's HBM production scale to grow nearly 40% to about 250,000 wafers next year from roughly 180,000 wafers this year, measured by average monthly wafer input. By product shipment mix, the HBM4 family is projected to rise from around 40% this year to about 80% next year as HBM4E mass production ramps up. \"As Samsung expands HBM production, it appears to be placing HBM4, a high-value product, at the center,\" an industry official said.",
+ "report": {
+  "summary": "三星HBM4产能明年拟翻倍以上，玻璃载板需求增2.5倍",
+  "background": "HBM是AI加速器的关键内存，长期由SK海力士领跑、三星追赶。三星在HBM3E时代因认证与良率问题落后，2026年2月才量产HBM4（基于10纳米级1c DRAM与4纳米基础裸片），5月向英伟达等客户送样12层HBM4E。由于HBM需在有限厚度内堆叠多层DRAM，晶圆薄化与翘曲控制的耗材——玻璃载板用量，成为判断真实产能扩张节奏的先行指标。",
+  "key_points": [
+   "玻璃载板外协清洗量将从今年2万片/月增至明年5万片/月，而去年仅1万片/月，两年增长5倍，是最直观的扩产信号。",
+   "产品结构大幅上移：HBM4家族占出货比重从今年约40%跃升至明年约80%，三星把高价值产品放在扩产中心。",
+   "按投片口径，三星HBM月均投片量预计从今年约18万片增至明年约25万片，增幅近40%。",
+   "技术门槛在于12层及以上堆叠，晶圆越薄越易弯曲破裂，玻璃载板在薄化与打孔工序中不可或缺。",
+   "HBM4E已向英伟达送样，产能扩张实质是为下一代AI加速器的放量做准备，而非单纯填补当下缺口。"
+  ],
+  "impact": "对AI行业而言，HBM供应瓶颈有望松动，英伟达等厂商下一代GPU的出货节奏将更顺畅，同时三星加速追赶SK海力士，可能改变存储三强的议价格局与价格走势。对开发者，更高带宽、更大容量的内存意味着长上下文推理和超大模型训练的成本压力下降，显存不再是首要瓶颈。对普通用户，AI服务的响应速度与调用价格有望进一步改善，终端侧AI功能也会更快普及。",
+  "tools": "想跟进可关注TrendForce、SemiAnalysis等产业分析源，以及美光、SK海力士财报中的HBM数据；关注玻璃载板与薄化设备相关材料厂商。开发者可留意NVIDIA各代GPU的HBM带宽参数，并用vLLM、TensorRT-LLM等框架做显存带宽优化实测。"
+ },
+ "lang": "zh"
+}
