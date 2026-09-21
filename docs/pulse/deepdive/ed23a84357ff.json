@@ -1,0 +1,25 @@
+{
+ "id": "ed23a84357ff",
+ "url": "https://www.aibase.com/news/31226",
+ "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-21T09:24:11.722Z",
+ "fetched_at": "2026-09-21T12:44:01.561666+00:00",
+ "content": "According to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase of 1.57% compared to the previous week. Among them, the weekly token usage of large models in China reached 67.46 trillion tokens, an increase of 10.28% compared to the previous week; while that of large models in the United States was 14.21 trillion tokens, a decrease of 34.7% compared to the previous week. The weekly token usage of large models in China has exceeded that of the United States for 21 consecutive weeks.\nIn last week's global token usage ranking, four out of the top five were from China. DeepSeek V4.1-Flash ranked first with 15.8 trillion tokens, an increase of 219% compared to the previous week. The model was released on September 10, focusing on improving coding, agent, and multimodal understanding capabilities. It uses a Causal-Encoder-Decoder architecture, and the global KV Cache is reduced to about 1/4 of that in V4-Flash. The cost for input cache hit, miss, and output per million tokens during idle time are 0.02 yuan, 1 yuan, and 4 yuan respectively, which are 60%, 33.3%, and 11.1% lower than the previous generation.\nHowever, a decrease in token price does not necessarily mean that the cost of individual tasks decreases simultaneously. According to Artificial Analysis testing, V4.1-Flash uses approximately 89,000 output tokens per task on average, higher than the 62,000 tokens of V4Flash0731, and it has been evaluated as relatively verbose in output.\nAdditionally, Zhipu GLM5.3Flash had a weekly token usage of 14.1 trillion tokens, ranking second; Tencent HuanYuan Hy4preview had a weekly token usage of 12.5 trillion tokens, ranking third; and DeepSeek-V4-Flash-0731 had a weekly token usage of 9.44 trillion tokens, ranking fifth.",
+ "report": {
+  "summary": "中国大模型周调用量67.46万亿Token，连续21周领先美国",
+  "background": "OpenRouter 是全球开发者调用各家大模型的主要聚合平台，其 Token 消耗量被视为衡量模型真实使用规模的硬指标。自 DeepSeek 掀起低价开源浪潮以来，中国模型以极低的 API 价格、开放的权重和较强的中文与代码能力，持续吸引海外中小开发者和应用厂商迁移。过去半年，中美调用量对比从胶着转向明显分化，美国侧受头部闭源模型涨价、限流与需求向少数模型集中影响，出现阶段性回落，中国侧则靠新模型密集迭代维持增长。",
+  "key_points": [
+   "中国周调用量67.46万亿Token，环比增10.28%；美国仅14.21万亿，环比大跌34.7%，中国已连续21周领先，差距接近5倍。",
+   "全球调用量前五名中有四个来自中国，DeepSeek V4.1-Flash以15.8万亿Token登顶，较上周暴涨219%。",
+   "V4.1-Flash于9月10日发布，主打编码、Agent与多模态理解，采用Causal-Encoder-Decoder架构，全局KV Cache压缩到V4-Flash的约四分之一。",
+   "价格进一步下探：每百万Token缓存命中0.02元、未命中1元、输出4元，分别比上代低60%、33.3%和11.1%。",
+   "但便宜不等于省钱。Artificial Analysis测试显示它单任务平均输出约8.9万Token，高于上代6.2万，被评价为“输出啰嗦”，实际单任务成本未必同步下降。",
+   "智谱GLM5.3Flash以14.1万亿Token居次，腾讯混元Hy4preview以12.5万亿排第三，DeepSeek-V4-Flash-0731以9.44万亿列第五。"
+  ],
+  "impact": "对行业而言，Token调用量正在取代跑分成为新的竞争标尺，中国模型靠性价比与开源策略抢下全球增量市场，但“单任务输出变长”也意味着价格战背后藏着Token通胀，厂商收入未必随调用量同步上涨。对开发者，迁移门槛和试错成本都很低，可优先用国产模型做主力、闭源模型做兜底，但要按“单任务总成本”而非单价做预算。对普通用户，AI应用会更便宜、中文体验更好，同时也更容易遇到冗长啰嗦的回答。",
+  "tools": "想跟进的读者可关注：OpenRouter 榜单与价格对比页，用于实时查看各模型调用量与费率；DeepSeek 官方 API 及开源权重、智谱 GLM、腾讯混元；Artificial Analysis 做成本与性能横向评测；推理侧可研究 vLLM、SGLang 等框架如何利用 KV Cache 压缩与前缀缓存进一步压低成本。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "dfd6f34fc4fb",
+ "url": "https://www.aibase.com/news/31233",
+ "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-21T09:24:11.722Z",
+ "fetched_at": "2026-09-21T12:43:45.195528+00:00",
+ "content": "Alibaba Group has appointed Liu Dayiheng, a senior AI researcher, as the head of the Qwen (Tongyi Qianwen) large language model team. This personnel change was revealed by two informed employees. Since the beginning of this year, the Qwen team has undergone multiple rounds of organizational restructuring, and Liu Dayiheng's appointment further clarifies the team's management structure, indicating that this core AI product line now has a clear leader.\nThe timing of this appointment is rather delicate. Alibaba's annual Cloud栖 Conference will open on Tuesday, and on the official website's list of speakers, Liu Dayiheng's personal portrait is placed in a very prominent position, right after the group chairman, Cai Xiangxin, and the CEO, Wu Yongming. The website explicitly labels his position as the head of the Qwen large language model project. Making a high-profile appearance under the spotlight of this annual technology event undoubtedly sets the stage for the new leader's debut.",
+ "report": {
+  "summary": "阿里任命刘大一恒执掌通义千问，云栖大会前正式亮相",
+  "background": "通义千问(Qwen)是阿里云最核心的大模型产品线，其开源系列在全球开发者社区影响力居前，衍生模型数量庞大。今年以来该团队经历多轮组织架构调整，管理层一度不够清晰。此次由资深AI研究者刘大一恒接任负责人，恰逢阿里年度云栖大会开幕前夕，官网演讲者名单将其排在集团主席、CEO之后，位置极为醒目，被视为新负责人高调亮相、团队管理架构正式落定的信号。",
+  "key_points": [
+   "刘大一恒出任通义千问大模型团队负责人，此前已有多轮组织调整，此次任命让这条核心产品线有了明确的一号位。",
+   "公布时点选在云栖大会开幕前夕，官网演讲者名单中他的排位仅次于集团主席和CEO，等于官方为新人做了一次高规格背书。",
+   "Qwen是阿里云AI战略的门面，既要持续迭代模型能力，也要扛起开源生态、云上API和商业化的三重任务。",
+   "国内大模型竞争白热化，DeepSeek等对手势头强劲，新负责人上任首战大概率是云栖大会上的模型与产品发布节奏。",
+   "对阿里内部而言，管理架构清晰意味着决策链缩短，团队有望在版本迭代和开源策略上更果断。"
+  ],
+  "impact": "对AI行业，阿里是中国大模型第一梯队玩家，换帅意味着Qwen后续的模型节奏、开源力度与定价策略可能出现调整，直接影响国内大模型竞争格局。对开发者，Qwen系列是许多人做应用和微调的基座，团队稳定与路线清晰有助于生态工具链延续，但也需留意API和开源许可的潜在变化。对普通用户，通义千问App及各类接入Qwen的产品体验迭代速度，可能与新团队的策略取向直接相关。",
+  "tools": "想跟进可关注：Qwen开源系列模型（如Qwen3、Qwen-VL、Qwen-Coder）及魔搭ModelScope社区、Hugging Face上的权重；调用侧可用阿里云百炼/DashScope API，体验侧可试用通义千问App与Qwen Chat网页版。"
+ },
+ "lang": "zh"
+}

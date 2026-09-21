@@ -1,0 +1,24 @@
+{
+ "id": "bc54c0e41c24",
+ "url": "https://www.aibase.com/news/31234",
+ "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-21T09:24:11.722Z",
+ "fetched_at": "2026-09-21T12:43:36.101986+00:00",
+ "content": "Unfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain through an internal advertising platform called \"bazaar.\" When a user opens ChatGPT, the client first generates a random identifier and takes a JWT token bound to the user's account, then writes a cross-site cookie named \"__obi\" in a cross-site environment. This cookie acts like an identity tag, and when the user later visits third-party websites that have implemented OpenAI ad pixels, their browsing actions on those websites will be directly linked back to their ChatGPT account.\nMore notably, this association does not require that you have ever entered any specific content in ChatGPT. Even if you have never mentioned related topics in the chat window, as long as you visit a site with the pixel, your web browsing behavior will be collected by OpenAI. In other words, the vast expanse of the web outside the chat interface has also been quietly incorporated into the profile. This discovery has already ranked third on HackerNews' popular list and has caused considerable discussion within the developer community.",
+ "report": {
+  "summary": "开发者实锤ChatGPT跨站追踪用户浏览足迹",
+  "background": "OpenAI一直被传探索广告变现，但此前未公开跨站追踪机制。安全研究者发现其内部广告平台“bazaar”通过__obi cookie和JWT令牌，将ChatGPT账号与第三方网站浏览行为关联。该发现登上HackerNews热门第三，引发开发者对隐私与合规的强烈关注。在AI商业化压力与全球隐私监管趋严的背景下，这一事件可能成为大模型广告模式的分水岭。",
+  "key_points": [
+   "打开ChatGPT时，客户端会生成随机标识并绑定账号JWT，写入跨站cookie“__obi”，作为身份标签。",
+   "第三方网站若嵌入OpenAI广告像素，用户浏览行为会直接回传并关联到其ChatGPT账号。",
+   "无需在对话中提及任何内容，只要访问带像素的网站，浏览足迹就被收集并纳入用户画像。",
+   "HackerNews热度第三，开发者社区热议隐私边界、知情同意缺失及潜在合规风险。",
+   "该机制可能违反GDPR/CCPA等法规，OpenAI尚未公开回应，监管审查风险上升。"
+  ],
+  "impact": "对AI行业，广告变现与隐私保护的冲突被摆上台面，可能推动更严格的跨站追踪监管。对开发者，需审计前端像素与cookie合规，避免无意中成为数据回传链条一环。对普通用户，浏览足迹被悄悄关联到ChatGPT账号，建议清理cookie、使用隐私工具并检查OpenAI隐私设置。",
+  "tools": "可关注uBlock Origin、Privacy Badger、Cookie AutoDelete拦截追踪；用浏览器开发者工具Application/Storage查看__obi；使用Firefox容器或独立浏览器配置隔离账号；定期检查OpenAI隐私设置。"
+ },
+ "lang": "zh"
+}
