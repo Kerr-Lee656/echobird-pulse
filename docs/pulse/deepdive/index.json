@@ -11761,5 +11761,50 @@
   "site_name": "AIbase",
   "published_at": "2026-09-21T09:24:11.722Z",
   "fetched_at": "2026-09-21T12:44:01.561666+00:00"
+ },
+ "0858e483249d": {
+  "id": "0858e483249d",
+  "url": "https://github.com/aru-labs/lossless-memory",
+  "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-21T19:24:13.889304+00:00"
+ },
+ "3cf1b4f66061": {
+  "id": "3cf1b4f66061",
+  "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
+  "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-21T19:24:23.505179+00:00"
+ },
+ "d947cdfa9abd": {
+  "id": "d947cdfa9abd",
+  "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+  "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-21T19:24:33.261543+00:00"
+ },
+ "eb5193642d79": {
+  "id": "eb5193642d79",
+  "url": "https://thenextweb.com/news/microsoft-theft-of-labor-doom-loop-unsealed-brief-openai",
+  "title": "A Microsoft scientist called AI training the largest theft of labor",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-21T19:24:46.979009+00:00"
+ },
+ "26b6fc66c848": {
+  "id": "26b6fc66c848",
+  "url": "https://www.aibase.com/zh/news/31240",
+  "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-21T19:25:17.723475+00:00"
  }
 }

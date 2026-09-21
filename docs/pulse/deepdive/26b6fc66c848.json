@@ -1,0 +1,25 @@
+{
+ "id": "26b6fc66c848",
+ "url": "https://www.aibase.com/zh/news/31240",
+ "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-09-21T19:25:17.723475+00:00",
+ "content": "微软用 AI 代理将 GitHub Copilot 运行时从 TypeScript 全量移植至 Rust，整个过程只花了约 12 万美元的 token 成本加一名工程师三周时间。\n这个运行时比多数用户想象得更要命：它支撑着 GitHub Copilot CLI、Copilot App、SDK 和 Copilot 云 Agent，还会出现在 VS Code、Visual Studio、Excel、Outlook、PowerPoint 以及一堆微软云服务中。原本它用 TypeScript 配 Node.js，好处是开发快，但规模化之后，启动速度和服务器密度都成了瓶颈。\n性能实测：每秒 7.55 次提升到 120 次，内存降九成\n微软杰出工程师 Stephen Toub 把整个过程写成了长文。数据显示，AI agents 把 43 万行 TypeScript 变成了 80 万行生产级 Rust，跨越 135 个 release、14.5 周，平均每天开 1.3 个移植用 PR。成本大头是 token——约 12 万美元，外加开发者三周人工。Toub 表示，这活儿要是纯手工，得花几年、砸几百万美元。\n性能收益相当实在：在一个基准测试中，原 TypeScript 实现每秒处理 7.55 个单轮会话生命周期，Rust 进程内跑到了 120 个，特定负载下实现 15.9 倍加速。内存占用差距更夸张——10 客户端的一批 agents，TypeScript 吃掉 1383MB，Rust 只要 126MB，因为 Rust 版本全程在进程内完成，无需像 TypeScript 那样为补全额外拉起后台子进程。\n“AI 疯狂吐代码”的画面几乎是反的\n有意思的是，这次移植也在给“AI 编程”祛魅。Toub 观察到，agents 花在收集信息上的时间远超写代码本身。“大众印象里 AI 疯狂吐代码的画面几乎是反的；在这个规模上，工作看起来更像迭代式调查——检查当前状态、形成假设、做一处针对性修改，然后循环。”\n最棘手的文件是 session.ts，3 万多行 TypeScript，触及运行时的方方面面。移植它花了 25 小时，光读文档就占 56 分钟、做了 122 次工具调用来澄清需求，随后 spawn 了 15 个子会话，每个都有自己的 worktree 和 agent 并开始互相通信；一个内置编排技能会找到所有活跃会话，给任务重叠的发消息请求协作。\n不过这次移植也暴露了用 AI 写 Rust 的坑：整个过程中出现了几十个回归——原本正常的东西改完不工作了。Toub 总结道：“如果编译通过就代表正确，那这句话只配当笑话听。”编译器并不知道函数顺序对不对、任务代价是否可接受。上周蒙特利尔 RustConf 上，顾问 Lisa Crossman 也警告别把编译器当“神谕”：“Rust 阻止 agent 写内存不安全的代码，但不阻止它写错误却正确的程序。”\n作为对照，Bun 作者 Jarred Sumner 最近几乎全用 Claude agents 把 Anthropic 的 JS 运行时从 53.5 万行 Zig 搬到 Rust，花了 16.5 万美元 token，在 Linux x64 glibc 上已通过 99.8% 的 Bun 既有测试——但 Zig 创始人 Andrew Kelley 至今称其代码为“没人审的垃圾”。连同这次 Copilot 运行时移植，“AI 大规模重写”正在成为一类可验证的工程现实：便宜、够快，但验收标准必须靠人去盯住“编译通过”之外的语义正确性。",
+ "report": {
+  "summary": "微软花12万美元用AI把Copilot运行时从TypeScript重写为Rust",
+  "background": "GitHub Copilot 的运行时并不只是插件背后的一小段代码，它支撑着 Copilot CLI、Copilot App、SDK 和云 Agent，还被嵌进 VS Code、Visual Studio、Excel、Outlook、PowerPoint 以及多款微软云服务。原来用 TypeScript + Node.js 实现，开发效率高，但规模化后启动速度和服务器密度成了硬瓶颈。微软杰出工程师 Stephen Toub 用长文披露：团队借助 AI 代理完成全量移植，共 135 个 release、14.5 周，平均每天合并 1.3 个移植 PR，成本主要来自约 12 万美元的 token，外加一名工程师三周人力。",
+  "key_points": [
+   "AI 把 43 万行 TypeScript 转成 80 万行生产级 Rust，纯手工估计要数年、数百万美元，这次只花约 12 万美元 token 加三周人工。",
+   "性能提升明显：单轮会话生命周期从每秒 7.55 次升到进程内 120 次，特定负载快 15.9 倍；10 个客户端 agent 的内存从 1383MB 降到 126MB。",
+   "内存大降的关键是 Rust 版本全程跑在进程内，不必像 TypeScript 那样为代码补全额外拉起后台子进程。",
+   "AI 的真实工作方式不是“疯狂吐代码”，而是迭代式调查：查现状、提假设、做一处小改动、再循环，读文档和调工具的时间远超写代码。",
+   "最难的 session.ts 有三万多行，移植耗时 25 小时，其中 56 分钟读文档、122 次工具调用澄清需求，随后拆出 15 个带独立 worktree 的子会话协同。",
+   "过程出现几十个回归：编译通过不等于正确。Toub 直言“编译通过就代表正确”只配当笑话，Rust 能阻止内存不安全，却拦不住逻辑写错的程序。"
+  ],
+  "impact": "对 AI 行业而言，“AI 大规模重写存量代码”从演示变成了可验证的工程现实，成本结构被彻底改写，但验收标准仍必须由人盯住语义正确性。对开发者来说，跨语言迁移、性能优化类重活的门槛大幅下降，新的核心技能变成任务拆解、多 agent 编排、回归测试与代码审查，而不是逐行手写。对普通用户，Copilot 相关产品会更快、更省资源，云侧单位算力能服务更多人，长期也可能反映在定价和可用性上。",
+  "tools": "想跟进可关注：Rust 工具链配合 cargo nextest、Criterion 做基准与回归；Claude Code、OpenAI Codex 等带子会话/worktree 编排能力的编程 agent；用 git worktree 隔离多 agent 并行任务；heaptrack、perf 做内存与性能剖析。对照案例是 Bun 用 Claude agents 把 53.5 万行 Zig 迁到 Rust，值得一并读其测试验收方式。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "3cf1b4f66061",
+ "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
+ "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+ "source": "Wired",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-21T19:24:23.505179+00:00",
+ "content": "Talks have begun between US and Chinese officials to propose a mechanism for the two countries to notify each other of artificial intelligence incidents which could threaten national security.\nThe framework, called the US China AI Dialogue, would also see representatives from both countries meet again to discuss the technology and try to align on common goals and threats, Treasury Secretary Scott Bessent said.\n“We think that, just like with any cross-border activity, that moving from opaque to more transparency between the number one and the number two AI powers in the world is very important,” Bessent told reporters on Sunday.\nBessent said the discussions picked up from where they had been left off after US President Donald Trump’s visit to Beijing in May. Since then, public safety concerns about the technology have grown. Security incidents over the summer, including OpenAI’s agents hacking Hugging Face, highlighted the capabilities of frontier models and how the industry’s safeguards have failed to keep pace.\nFears reached a fever pitch earlier this month after Anthropic employees warned AI could be on course to wipe out humanity. In recent weeks, leaders of the biggest frontier laboratories, including OpenAI’s Sam Altman, Anthropic’s Dario Amodei, and Elon Musk, have called for a slowdown in development of the technology while they set safety standards. In an essay suggesting steps for laboratories and governments to pace the technology’s development, Amodei had asked for government assistance in establishing international coordination, including with the Chinese Communist Party.\nTrump has so far mostly brushed off their calls, despite growing bipartisan support for regulating the industry. The US government already has sufficient criminal and regulatory power over developers, his administration has argued.\nHe’s not alone. Jensen Huang, chief executive officer of Nvidia, which builds AI infrastructure, pointed out that AI firms are already subject to cybersecurity and damage liability laws. “Apply that first,” he said in an interview with CBS News over the weekend. “Don’t let this doomsday narrative allow someone to relieve them of the laws that currently exist.”\nTrump has said any slowdown could cede the US lead in the technology to China—a danger because, in his own words: “WHOEVER WINS AI, WINS!” His chief science advisor David Sacks previously warned that “China is very unlikely to join a global agreement” on pacing the technology. Thomas Wolf, cofounder of open-source AI platform Hugging Face, which Nvidia recently agreed to buy, has questioned whether the US can build global cooperation while “explicitly stating you want to design it to keep widening your own lead.” “That seems like a pretty counterproductive way to start the conversation to me,” he wrote on X in response to Amodei’s essay.\nThe US is currently trying to temper China’s advance in AI by restricting exports of advanced chips and chipmaking technology to China. Officials did not discuss these US export controls in this weekend’s meetings, said Bessent, which also featured trade discussions and were “very successful” ahead of this week’s visit to Washington by Chinese President Xi Jinping.",
+ "report": {
+  "summary": "中美启动AI对话，拟建立国家安全级AI事件互相通报机制。",
+  "background": "这一机制名为“美中AI对话”，是特朗普今年5月访问北京后中断谈判的延续，本周习近平访美前在华盛顿重启，被美国财长贝森特称为“非常成功”。推动力来自今年夏天一系列安全事件——包括OpenAI的智能体入侵Hugging Face——暴露前沿模型能力与行业防护的脱节。与此同时，Altman、Amodei、马斯克等前沿实验室领袖公开呼吁放缓开发、建立国际协调，而特朗普政府倾向以现有法律应对，并继续用芯片出口管制压制中国。",
+  "key_points": [
+   "两国拟建立类似“事故通报”的机制：任何可能威胁国家安全的AI事件，双方互相预警，从信息不透明走向最低限度的透明。",
+   "对话接续特朗普5月访京的成果，本周习近平访美前举行，同时谈了贸易，但双方并未触及美国对华先进芯片与设备出口管制。",
+   "夏季的安全事件是直接推手：OpenAI的智能体攻击Hugging Face，被认为说明模型能力跑在了安全防护前面。",
+   "美国内部分歧明显：Altman、Amodei、马斯克要求减速并搞国际协调，特朗普坚持“谁赢AI谁赢世界”，黄仁勋则主张先用现有的网络安全与责任法律。",
+   "质疑声也不少：白宫科技顾问萨克斯认为中国不太可能加入全球协议，Hugging Face联合创始人沃尔夫也反问，一边扩大领先一边谈合作是否自相矛盾。"
+  ],
+  "impact": "对AI行业，治理议题从各国单边立法升级为大国之间的最低限度协调，重大AI事故可能像核事故一样被纳入外交通报。对开发者，前沿模型的安全披露与事故上报未来可能变成硬性合规要求，跨境API服务、开源模型分发与算力使用将面临更严审查。对普通用户，短期产品体验不变，但重大AI事故的信息更可能被公开，风险不再完全黑箱。整体看，象征意义大于硬约束，难点在核查、定义与互信。",
+  "tools": "想跟进可关注：AI Incident Database（AIID）用于检索全球AI事故案例；NIST AI风险管理框架作为合规参考；Anthropic的负责任扩展政策（RSP）与OpenAI的Preparedness Framework作为企业安全披露模板；Hugging Face的开源模型与评测工具，便于观察开源侧的治理动向。"
+ },
+ "lang": "zh"
+}
