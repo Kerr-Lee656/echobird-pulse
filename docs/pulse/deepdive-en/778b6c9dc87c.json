@@ -1,0 +1,24 @@
+{
+ "id": "778b6c9dc87c",
+ "url": "https://aihot.news/items/cmubqsb9b03v9rocigei56crg",
+ "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+ "source": "@ClementDelangue",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-21T21:03:48.000Z",
+ "fetched_at": "2026-09-21T23:19:07.548089+00:00",
+ "content": "正文 · AI 翻译\n太炸了！https://huggingface.co/collections/XiaomiMiMo/mimo-v26\nMiMo-V2.6-Pro 首次亮相，便成为 Artificial Analysis Intelligence Index 上排名第一的开放权重模型（46）。以每项 Intelligence Index 任务 $0.13 的成本，它跻身智能与每任务成本帕累托前沿。 @Xiaomi 刚刚发布了 MiMo-V2.6-Pro...\n小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。\n借 Artificial Analysis 的评测数据说明 MiMo-V2.6-Pro 的智能指数与成本位置，读者可据此评估其部署性价比。\n来源：clem 🤗· x.com",
+ "report": {
+  "summary": "Xiaomi's open-weight MiMo-V2.6-Pro tops Artificial Analysis's Intelligence Index at 46, nearly doubling its predecessor, at just $0.13 per task.",
+  "background": "The open-weight model race has intensified through 2024–2025, with Chinese labs — DeepSeek, Alibaba's Qwen, Moonshot's Kimi, Zhipu's GLM and MiniMax — releasing downloadable models that rival closed APIs. Xiaomi entered this space with its MiMo family, leveraging its hardware ecosystem and growing AI research team. Artificial Analysis's Intelligence Index is a composite benchmark aggregating reasoning, coding, math and knowledge evaluations, widely cited as a neutral scoreboard, and it also tracks cost per task — the axis that matters most for production economics. Xiaomi's jump from MiMo-V2.5-Pro (26) to V2.6-Pro (46) implies a substantial architecture, data or post-training upgrade rather than incremental tuning. For a consumer-electronics company, top-tier open weights serve dual purposes: developer credibility and a potential backbone for assistants across phones, cars and smart-home devices.",
+  "key_points": [
+   "MiMo-V2.6-Pro scored 46 on Artificial Analysis's Intelligence Index, the highest of any open-weight model tracked, roughly a 77% jump over MiMo-V2.5-Pro's 26. That is a single-generation leap of the kind usually seen across a full model-family cycle, placing Xiaomi alongside the leading Chinese open-weight labs.",
+   "Cost is the second headline: $0.13 per Intelligence Index task puts MiMo-V2.6-Pro on the intelligence-versus-cost Pareto frontier, meaning few models deliver more capability per dollar. For teams running high-volume workloads, that ratio often matters more than a few benchmark points, since inference spend scales with traffic.",
+   "Xiaomi is a consumer-hardware company, not a pure AI lab. Publishing weights under the MiMo collection on Hugging Face signals a platform strategy — building developer goodwill and a talent pipeline while potentially powering assistants across phones, EVs and smart-home devices.",
+   "Unverified details remain: parameter count, context window, license terms, training data, modality support and independent reproducibility are not stated in the announcement. Composite indices can over- or under-weight certain skills, so coding, long-context and agentic performance should be sanity-checked against task-specific benchmarks before production use.",
+   "The release reinforces a broader pattern: open-weight models from Chinese labs increasingly set the pace on public leaderboards, pressuring closed-model vendors on both capability and price. Each new top-scoring open model compresses the premium proprietary APIs can charge for mid-tier tasks."
+  ],
+  "impact": "For the AI industry, another top-scoring open-weight model narrows the capability gap closed labs use to justify premium pricing, squeezing margins and pushing differentiation toward tooling, safety, enterprise support and agentic products. For developers, MiMo-V2.6-Pro is a credible self-hostable or low-cost API option — useful for cost-sensitive pipelines, fine-tuning experiments and data-sovereign deployments — though license terms and actual serving costs must be checked first. For regular users, the effect is mostly indirect: cheaper inference makes AI assistants more affordable to embed in phones, cars and appliances, with Xiaomi's own devices the likeliest first home. The headline number is impressive, but real-world utility still depends on latency, reliability and ecosystem integration.",
+  "tools": "Start with the MiMo-V2.6 collection on Hugging Face (huggingface.co/collections/XiaomiMiMo/mimo-v26) for weights and model cards, and Artificial Analysis (artificialanalysis.ai) to compare the intelligence-versus-cost Pareto frontier. For serving, vLLM or SGLang handle high-throughput deployments, while llama.cpp, Ollama or LM Studio cover local quantized inference on consumer hardware. OpenRouter and similar routers offer quick API access for evaluation without infrastructure. Always confirm the license before commercial use."
+ },
+ "lang": "en"
+}
