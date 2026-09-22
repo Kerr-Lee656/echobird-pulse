@@ -3895,5 +3895,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-20T13:52:24.000Z",
   "fetched_at": "2026-09-20T16:05:40.469052+00:00"
+ },
+ "45df620626cb": {
+  "id": "45df620626cb",
+  "url": "https://www.gladia.io/blog/gladia-joins-ovh-groupe",
+  "title": "Gladia to join OVH Groupe, accelerating Europe's sovereign voice AI ambitions",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T11:08:09Z",
+  "fetched_at": "2026-09-22T11:33:55.139418+00:00"
+ },
+ "6d7bdfe8a986": {
+  "id": "6d7bdfe8a986",
+  "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+  "title": "JetBrains Air: A System of Products for Agentic Software Development",
+  "source": "Hacker News (14pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T11:00:58Z",
+  "fetched_at": "2026-09-22T11:34:04.016519+00:00"
+ },
+ "05952fe41f53": {
+  "id": "05952fe41f53",
+  "url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+  "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T10:49:16Z",
+  "fetched_at": "2026-09-22T11:34:14.847184+00:00"
+ },
+ "a24fd97eb3d0": {
+  "id": "a24fd97eb3d0",
+  "url": "https://ai.google.dev/gemini-api/docs/changelog",
+  "title": "Gemini 2.5 models extended indefinitely for aactive users",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T10:44:03Z",
+  "fetched_at": "2026-09-22T11:34:23.799492+00:00"
+ },
+ "689d78c6e007": {
+  "id": "689d78c6e007",
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "title": "Transformers now runs llama.cpp quants",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T10:41:46Z",
+  "fetched_at": "2026-09-22T11:34:32.789599+00:00"
+ },
+ "02ea023ead6b": {
+  "id": "02ea023ead6b",
+  "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+  "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T10:26:22Z",
+  "fetched_at": "2026-09-22T11:34:40.226110+00:00"
  }
 }
