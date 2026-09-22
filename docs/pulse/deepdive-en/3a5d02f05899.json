@@ -1,0 +1,24 @@
+{
+ "id": "3a5d02f05899",
+ "url": "https://aihot.news/items/cmucwdp630r65roedegalvwsl",
+ "title": "Anthropic 发布 Claude Opus 5.5，通信能力更强且按 token 定价更低",
+ "source": "@trq212",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-22T16:37:11.000Z",
+ "fetched_at": "2026-09-22T16:57:05.433650+00:00",
+ "content": "Opus 5.5 is the result of your feedback.\nIt communicates much better, it's priced cheaper per token than Opus 5.0 with the intelligence of Fable 5.1, it’s very token efficient and works across every effort level.\nAvailable now in Claude Code, let us know what you think.\nIntroducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to ru...",
+ "report": {
+  "summary": "Anthropic 发布 Claude Opus 5.5，表达能力更强、token 效率更高，每 token 价格比 Opus 5.0 低约 40%，已在 Claude Code 上线。",
+  "background": "Anthropic 的 Opus 系列长期是其能力天花板，也是价格最高的一档。过去一年，前沿模型竞争从单纯的跑分转向「单位成本智能」：OpenAI、Google 与开源阵营不断压低推理价格，同时把重心转向能长时间自主执行的编程与 Agent 场景。Claude Code 的流行让 Anthropic 直接面对开发者的成本敏感度——当模型被用于多轮、长上下文的自动化任务时，token 消耗会迅速累积，定价与 token 效率因此成为比峰值分数更实际的采购标准。此次 Opus 5.5 被定位为新 Claude 5.5 家族的首个模型，官方强调其来自用户反馈，说明迭代重点正从「更聪明」转向「更会沟通、更省钱、更稳定可用」，以回应实际使用中的抱怨与迁移诉求。",
+  "key_points": [
+   "能力定位：官方称 Opus 5.5 在大多数任务上达到 Claude Fable 5.1 的水平，意味着 Anthropic 试图用同一档智能覆盖原先需要「更大模型」的场景，而非单纯堆参数换分数。",
+   "价格与效率：每 token 成本比 Opus 5.0 低约 40%，同时被描述为「非常 token 高效」。对按量付费的团队而言，这通常比基准分提升更能直接改变预算与架构选择。",
+   "沟通体验：明确将「表达更好、沟通能力更强」列为卖点，并声称源自用户反馈，暗示上一代在指令遵循、输出冗余或解释清晰度上存在实际痛点。",
+   "全档位适用：支持从低到高的全部 effort（推理力度）档位，用户可在成本、延迟与质量之间自由取舍，适合把同一模型同时用于轻量补全和复杂重构。",
+   "发布节奏：作为 Claude 5.5 家族首个成员，直接落地 Claude Code，说明 Anthropic 选择先在最成熟、反馈最快的编码入口验证，再向 API 与更广场景铺开。"
+  ],
+  "impact": "对行业而言，这是「降价+提效」而非「刷新榜单」的发布，会进一步压缩前沿模型的溢价空间，迫使对手在同等智能下比拼每百万 token 的价格与延迟。对开发者，长上下文 Agent、代码库级重构、批量测试生成等原本因成本被劝退的用法变得可行，也更值得把高 effort 档位用在关键步骤上。对企业采购，评估维度应从单一基准分转向「完成任务的总花费」，包括重试与 token 膨胀。对普通用户，最直观的是 Claude Code 等工具更便宜、回答更清楚，但新旧模型的真实差距仍需自行用自有任务验证，避免被官方表述与单篇通稿带偏。",
+  "tools": "想跟进可关注：Claude Code 与 Anthropic API/Console（实际试用与计费对比）、Artificial Analysis 和 LMArena（价格与智能横向对比）、SWE-bench 与 Terminal-Bench（编码 Agent 实测）。竞品参考 OpenAI Codex CLI、Google Gemini CLI、开源 Aider 及 OpenRouter（多模型路由比价）。建议用自己的真实任务做 A/B 测试，重点记录完成率与总 token 花费，而非只看单次回答质量。"
+ },
+ "lang": "en"
+}

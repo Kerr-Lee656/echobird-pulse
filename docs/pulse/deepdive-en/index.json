@@ -3949,5 +3949,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-22T10:26:22Z",
   "fetched_at": "2026-09-22T11:34:40.226110+00:00"
+ },
+ "d148e3d2c284": {
+  "id": "d148e3d2c284",
+  "url": "https://github.com/dream-num/univer",
+  "title": "dream-num/univer — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-22T16:55:56.549183+00:00"
+ },
+ "9375771f2edb": {
+  "id": "9375771f2edb",
+  "url": "https://github.com/agentgateway/agentgateway",
+  "title": "agentgateway/agentgateway — Next Generation Agentic Proxy for AI Agents and MCP servers",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-22T16:56:09.369281+00:00"
+ },
+ "3a5d02f05899": {
+  "id": "3a5d02f05899",
+  "url": "https://aihot.news/items/cmucwdp630r65roedegalvwsl",
+  "title": "Anthropic 发布 Claude Opus 5.5，通信能力更强且按 token 定价更低",
+  "source": "@trq212",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-22T16:37:11.000Z",
+  "fetched_at": "2026-09-22T16:57:05.433650+00:00"
+ },
+ "321c1f0bfff3": {
+  "id": "321c1f0bfff3",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+  "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-22T16:30:00.000Z",
+  "fetched_at": "2026-09-22T16:57:18.589197+00:00"
+ },
+ "c4afb829eed9": {
+  "id": "c4afb829eed9",
+  "url": "https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
+  "title": "Privacy group slams EU for changing the data rules to cater to AI",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T15:59:23Z",
+  "fetched_at": "2026-09-22T16:58:14.648801+00:00"
+ },
+ "29c661d33d36": {
+  "id": "29c661d33d36",
+  "url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
+  "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+  "source": "@arena",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-22T15:13:34.000Z",
+  "fetched_at": "2026-09-22T16:59:18.508627+00:00"
  }
 }
