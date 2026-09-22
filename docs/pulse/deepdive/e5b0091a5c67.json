@@ -1,0 +1,25 @@
+{
+ "id": "e5b0091a5c67",
+ "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+ "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T21:16:33.424354+00:00",
+ "content": "Anthropic’s newest model, Opus 5.5, was released on Tuesday, setting a new state-of-the-art in coding and knowledge work performance, according to the company. Opus is the most capable and expensive tier in Anthropic’s three-tier Claude lineup; Sonnet sits in the middle, while Haiku is the fastest and cheapest. Notably, Anthropic says, the release outpaces the larger Fable model in many benchmarks and succeeded in a number of informal tasks that Fable failed to complete.\nThe new model is also significantly cheaper than its predecessor. Output tokens will be charged at $20 per million tokens for Opus 5.5, compared to $25 for the previous model. Other metrics have similar price drops. The model is also faster to run, reflecting an overall drop in the compute required to serve it.\nThe new version also makes significant changes to how Opus communicates, with the Opus 5.5 less likely to use jargon and more likely to put important information at the start of its messages.\nThe launch comes just two months after the release of Opus 5 on July 24. According to the announcement, Sonnet 5.5 and Haiku 5.5, which are the next tiers in the lineup, will be released “in the coming weeks,” with similar performance improvements.\nAnthropic says that Opus 5.5 is comparable to Mythos in its biology and cybersecurity capabilities, so its release is subject to the same safeguards as the company’s Fable model. Those safeguards limit how much the models can be used to discover exploits in compiled programs or developing recognizable biological weapons, among other tasks.\nOpus 5.5 is Anthropic’s first model release since CEO Dario Amodei embraced calls to pace the frontier, deliberately slowing down progress on AI capabilities to match the rate of progress on alignment.\n“I have become convinced that fully addressing the risks requires even more prudence,” Amodei wrote in a post earlier this month, “not just investing in risk prevention, but pacing the rate of capabilities advancement so that risk prevention has time to keep up.”\nOpus 5.5’s safety training was broadly similar to its predecessors, with alignment testing and pre-release evaluation by outside organizations like METR and Frontier Design. But Anthropic emphasized that more advanced training and evaluation systems were already being prepared for future models, including improved security and monitoring systems.\n“As AI becomes more capable, public policy should play a larger role in making sure the systems people rely on are safe. That capacity takes time to build, and we’ve started to put the infrastructure in place to support it,” the blog post reads. “We expect to share more details on these efforts soon.”",
+ "report": {
+  "summary": "Anthropic发布Opus 5.5：更强、更便宜，多项基准超越更大的Fable",
+  "background": "Anthropic的Claude分三档：Opus最强最贵、Sonnet居中、Haiku最快最便宜。前代Opus 5刚于7月24日发布，仅隔两个月就迭代到5.5，说明模型竞争节奏仍在加速。与此同时，更大的旗舰模型Fable被视为能力上限的标杆。CEO Dario Amodei本月公开主张\"放慢前沿速度\"（pacing the frontier），即刻意控制能力提升节奏，让对齐与安全防护跟上。Opus 5.5因此成为这一新策略下的首个发布，既继续提性能，也强调安全基建。",
+  "key_points": [
+   "性能刷新SOTA：官方称在编码和知识工作上创下新高，多项基准超过体量更大的Fable，还完成了Fable做不出的实操任务。",
+   "全面降价提速：输出token从每百万25美元降至20美元，其他计费项同步下调，推理更快，说明单次服务的算力需求整体下降。",
+   "说话方式变了：Opus 5.5更少用行话，倾向把关键信息放在回答开头，对集成到产品里的开发者更友好。",
+   "同门即将跟进：Sonnet 5.5和Haiku 5.5将在\"未来几周\"发布，性能有类似幅度提升，中低端档位也会受益。",
+   "安全按最高档处理：其生物与网络安全能力接近Mythos，沿用Fable同款防护，限制用于挖掘程序漏洞或开发生物武器。",
+   "节奏策略落地：这是Amodei主张\"放慢前沿\"后的首个发布，安全训练照旧，但称已在为未来模型准备更强的评估与监控体系。"
+  ],
+  "impact": "对行业而言，\"更强却更便宜\"再次压缩对手的定价空间，也说明模型效率提升正在取代单纯堆参数，Fable这类超大模型的存在感被自家小模型侵蚀。对开发者，同等预算能跑更多推理，成本结构改善，并可借更直白的输出减少提示词工程；但版本两个月一换，需关注API兼容与迁移成本。对普通用户，日常产品的AI回答会更通俗、重点更靠前，价格下降也会更快传导到订阅与用量定价上。安全护栏趋严，则意味着部分敏感用途被明确排除。",
+  "tools": "想跟进可关注：Anthropic API 与 Claude Code（可直接切换 Opus 5.5 对比成本与质量）、Anthropic Console 的用量与计费面板、METR 与 Frontier Design 发布的第三方评测报告，以及 SWE-bench、LMArena 等公开榜单查看编码与综合表现。若做迁移，建议先用自家真实任务集做A/B对比，再决定是否替换旧模型。"
+ },
+ "lang": "zh"
+}

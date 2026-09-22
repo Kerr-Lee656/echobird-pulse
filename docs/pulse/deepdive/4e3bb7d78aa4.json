@@ -1,0 +1,24 @@
+{
+ "id": "4e3bb7d78aa4",
+ "url": "https://thenextweb.com/news/dario-amodei-sam-altman-un-security-council-ai",
+ "title": "Dario Amodei and Sam Altman to brief UN Security Council on AI",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T21:17:14.202633+00:00",
+ "content": "Anthropic chief executive Dario Amodei will brief the UN Security Council on Wednesday, alongside OpenAI’s Sam Altman, at a session devoted to the future of AI, Bloomberg reported on Tuesday.\nYet Dario Amodei will attend the meeting remotely rather than in the chamber, according to Bloomberg.\nThe briefers listed also comprise Yoshua Bengio, who is co-chair of the UN’s panel on AI, and Clément Delangue, the chief executive of Hugging Face.\nLast week, an OpenAI spokesperson told Reuters that Sam Altman is expected to discuss OpenAI’s safety efforts and the importance of international cooperation and common safety standards, and that Chinese AI companies, such as DeepSeek and Moonshot, have been invited to make statements.\nThe UN body responsible for international peace and security, the council, first discussed AI in July 2023, when China cautioned that the technology must not become a “runaway horse”.\nThe session was initiated by France, which currently holds the rotating presidency of the council, and will address the malicious use of AI and the risk of losing control of advanced models, as stated in a French conceptual note.\nThe meeting takes place during the UN General Assembly, when world leaders meet in New York. It comes after a series of warnings about AI safety, including one from Amodei, and amid growing demands for countries to coordinate their approaches to regulating the technology.\nOn 12 September, Dario Amodei set out his position in an essay in which he asked AI companies to slow the pace at which they improve their models and suggested that independent evaluators should have continuous access to frontier labs. Altman and Elon Musk publicly supported this request.\nChina, as one of the five permanent members of the council, responded. According to its foreign ministry, two days later, “fearmongering, confrontation and vicious competition” would only serve to disrupt global AI governance.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AI巨头将在联合国安理会就AI安全与全球治理作简报",
+  "background": "联合国安理会2023年7月首次讨论AI，中国曾警告AI不能成为“脱缰野马”。本次会议由本月轮值主席国法国发起，在联合国大会期间举行，聚焦AI恶意使用和先进模型失控风险。此前Anthropic CEO Amodei发文呼吁放慢模型改进、让独立评估者持续访问前沿实验室，OpenAI的Altman和马斯克公开支持，中国随后批评“散布恐惧、对抗和恶性竞争”会扰乱全球AI治理。",
+  "key_points": [
+   "Anthropic CEO Dario Amodei与OpenAI CEO Sam Altman将在周三向联合国安理会简报AI未来；Amodei以远程方式参加，不出席会议厅。",
+   "同场简报者还包括联合国AI小组成员Yoshua Bengio和Hugging Face CEO Clément Delangue，显示政府、学界与开源社区共同参与。",
+   "会议重点包括AI被恶意使用、先进模型失控风险；法国起草的概念说明称会议在联合国大会期间举行，推动各国协调监管。",
+   "OpenAI称Altman将谈安全努力、国际合作与共同安全标准；DeepSeek、Moonshot等中国AI公司也受邀发言。",
+   "Amodei此前呼吁AI公司放慢模型改进、允许独立评估者持续访问前沿实验室；Altman与马斯克支持，但中国外交部批评“散布恐惧、对抗和恶性竞争”会干扰全球AI治理。"
+  ],
+  "impact": "对AI行业，意味着前沿安全从企业自律升级为联合国层面的地缘政治议题，可能推动共同标准与出口、算力等博弈。对开发者，未来模型评估、透明度、红队测试或成合规门槛，开源与闭源路线都需关注监管差异。对普通用户，短期影响有限，但中长期AI产品会受安全审查、内容标识和国际规则影响，可能更安全也更受约束。",
+  "tools": "可关注Hugging Face（开源模型与社区）、Anthropic/OpenAI安全报告与模型卡、DeepSeek/Moonshot Kimi；安全评估可跟进UK AISI的Inspect、EleutherAI lm-evaluation-harness、HELM等开源评测框架。"
+ },
+ "lang": "zh"
+}

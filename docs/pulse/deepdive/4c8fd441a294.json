@@ -1,0 +1,24 @@
+{
+ "id": "4c8fd441a294",
+ "url": "https://thenextweb.com/news/frontier-ai-joint-statement-21-countries-eu",
+ "title": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T21:16:54.176138+00:00",
+ "content": "A joint statement released today by the Dutch government has seen leaders and ministers from 21 countries, together with the European Commission, call for tighter control over frontier AI models, including mandatory testing before their release and the possibility of establishing a new international body to supervise them.\nThe list is headed by Norway’s Jonas Gahr Støre, with the president and prime minister of Finland coming next, and among the signatories are German Chancellor Friedrich Merz, Canadian Prime Minister Mark Carney, European Commission President Ursula von der Leyen, and the prime ministers of Australia, Spain, the Netherlands, and Singapore.\nThe statement claims that capable AI systems have recently been observed to escape safety tests, exploit security vulnerabilities, and gain unauthorized access to real-world systems.\nIt also states that scientists and executives have warned that progress in this area could outpace the capacity to manage the associated risks.\nIt states three requirements: AI companies should introduce transparent safety measures, including mandatory testing before a model is launched and assessment by qualified external experts with sufficient access to evaluate the risks.\nGovernments and regional bodies should coordinate common standards and share reports of serious safety incidents. They should also ensure countries in every region can access the scientific expertise and trusted evaluation needed to judge the technology.\nUN member states, it says, should build on existing mechanisms and consider establishing a new international body to set standards, verify compliance, and convene states when AI capabilities cross agreed-upon thresholds.\nThe leaders insist that AI must remain under human direction and control and be developed in line with international law, without deepening the divide between nations over who benefits from it.\nSeveral of the biggest AI powers are missing. The US, China, the UK, France, Japan, and India have not signed. That includes the UK, whose prime minister, Andy Burnham, said this week he wants to broker a global AI agreement during its coming G20 presidency.\nThe statement lands a day before the UN Security Council holds a session on AI during the General Assembly in New York, and the list remains open.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "21国与欧盟联署呼吁对前沿AI模型实施国际监管",
+  "background": "前沿AI治理自2023年英国布莱切利宣言、2024年首尔峰会以来持续升温，但始终缺乏有约束力的国际机制：欧盟AI法案侧重区域合规，美国转向放松监管，联合国仅设咨询性机构。2025年巴黎AI行动峰会暴露了美英与欧洲在安全与创新之间的分歧。此次由荷兰牵头、21国联署的声明，是在美中等AI大国缺席情况下，由欧洲与中等强国推动的'第三条路'，也为联大期间安理会AI磋商预热。",
+  "key_points": [
+   "荷兰政府牵头，21国领导人及欧盟委员会联署，要求对最强大的前沿AI模型加强管控，并首次明确提出可能设立新的国际监督机构。",
+   "声明提出三项要求：AI企业须公开透明安全措施、模型发布前强制测试，并由拥有充分权限的独立外部专家评估风险。",
+   "各国政府与区域组织应协调统一标准、共享严重安全事故报告，并帮助各地区获得评估所需科学与专业能力，避免能力鸿沟。",
+   "联合国成员国被建议在现有机制上，考虑建立新国际机构，负责制定标准、核验合规，并在AI能力越过约定门槛时召集各国。",
+   "值得注意：美国、中国、英国、法国、日本、印度等AI大国均未签署；声明在联大安理会AI会议前一天发布，签署名单仍开放。"
+  ],
+  "impact": "对AI行业而言，合规成本与不确定性上升，前沿实验室可能须在发布前接受第三方评测，跨国部署面对多套标准；对开发者，安全评测、红队测试与可解释性工具将从可选项变为准入门槛；对普通用户，风险披露和事故上报或更透明。但美中缺席意味着短期内难有全球统一约束，规则更可能先在欧洲及中等国家之间落地，形成碎片化治理格局。",
+  "tools": "想跟进可关注英国AI安全研究所开源的模型评测框架Inspect、MLCommons的AI安全基准、NIST AI风险管理框架，以及欧盟AI法案配套的通用AI行为准则；跟踪国际进展可读《国际AI安全报告》与Frontier Model Forum发布的行业实践。"
+ },
+ "lang": "zh"
+}

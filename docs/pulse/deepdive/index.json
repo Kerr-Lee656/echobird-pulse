@@ -11878,5 +11878,59 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-22T04:50:26.061195+00:00"
+ },
+ "26723f264142": {
+  "id": "26723f264142",
+  "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
+  "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:16:16.794989+00:00"
+ },
+ "52b311a05fba": {
+  "id": "52b311a05fba",
+  "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+  "title": "Meta patches Muse exploit that let attackers control the AI agent",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:16:25.247874+00:00"
+ },
+ "e5b0091a5c67": {
+  "id": "e5b0091a5c67",
+  "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+  "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:16:33.424354+00:00"
+ },
+ "9eac9247e400": {
+  "id": "9eac9247e400",
+  "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
+  "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:16:44.244473+00:00"
+ },
+ "4c8fd441a294": {
+  "id": "4c8fd441a294",
+  "url": "https://thenextweb.com/news/frontier-ai-joint-statement-21-countries-eu",
+  "title": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:16:54.176138+00:00"
+ },
+ "4e3bb7d78aa4": {
+  "id": "4e3bb7d78aa4",
+  "url": "https://thenextweb.com/news/dario-amodei-sam-altman-un-security-council-ai",
+  "title": "Dario Amodei and Sam Altman to brief UN Security Council on AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T21:17:14.202633+00:00"
  }
 }

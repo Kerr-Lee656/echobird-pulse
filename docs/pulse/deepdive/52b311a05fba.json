@@ -1,0 +1,24 @@
+{
+ "id": "52b311a05fba",
+ "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+ "title": "Meta patches Muse exploit that let attackers control the AI agent",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T21:16:25.247874+00:00",
+ "content": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta’s servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account.\nMeta patches Muse exploit that let attackers control the AI agent\n‘They should be thinking about security from the very start, and they are just not.’\nSeveral design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device, and allowing any app to control all of Muse’s undocumented settings. Proof-of-concept attacks developed by Wardle to test the exploit enabled him to take pictures and write malicious files to disk via Muse, which did not alert the user in many cases.\n“We can manipulate the agent and leverage its privileges to do whatever we want. So instead of us having to write a very comprehensive Mac malware stealer, we can just leverage the AI assistant itself,” Wardle told Ars Technica. “At the very least, they should be thinking about security from the very start, and they are just not.”\nThat stands in contrast with the emphasis that Meta placed on Muse’s privacy and security features when it announced the AI agent earlier this month. Meta patched the vulnerability in the hours following the Ars report being published, and asserts that real-world security concerns were minimal because the exploit required local access to the user’s device.\n“This was a local privilege escalation attack, not a remote exploit. Using it to do harm therefore requires malicious code already running on the user’s machine under their user account and the practical risk to users of the Muse Mac app was therefore quite low,” David Singleton of Meta Superintelligence Labs said on X. “Nonetheless, we have issued a hotfix to the app to address the issue.”\nWhile quickly addressed, the Muse exploit comes at a time when Meta’s AI agent is already being scrutinized as the company tries to claw back ground from rival AI providers. Amazon recently blocked Muse from accessing its e-commerce platform and claims Meta never obtained its permission to do so. Still, the launch has been successful for Meta — during its first 12 days, estimated downloads of the Muse mobile app have reportedly outpaced ChatGPT’s own 12-day debut in the US and Canada, with Meta stock climbing by 11 percent on Monday.",
+ "report": {
+  "summary": "Meta火速修复Muse零日漏洞，攻击者可借AI代理权限控制设备",
+  "background": "Muse是Meta本月刚推出的AI助手，覆盖macOS与移动端，发布时重点宣传隐私与安全。安全研究员Patrick Wardle发现一个零日漏洞：Muse的听写转写在云端而非设备端完成，且任何本地应用都能修改Muse未公开的设置项。攻击者可借此把转写流量重定向到自己的服务器，进而接管用户的Muse账户。Ars Technica报道后数小时，Meta即发布热修复。此事发生在Meta急于追赶OpenAI、Google等对手，且Muse已被Amazon封禁的敏感时刻。",
+  "key_points": [
+   "漏洞本质是本地提权：攻击者需先在本机运行恶意代码，之后就能借用Muse的权限拍照、往磁盘写恶意文件，且多数情况下不提醒用户。",
+   "根因在于设计取舍：录音转写在云端而非端上处理，加上任意应用可修改Muse全部未公开设置，让攻击者能把语音数据引流到自己的服务器。",
+   "危害方式很“省事”：不必再写一套复杂的Mac窃密木马，直接操纵AI助手自身的权限即可完成窃密与破坏，这也是研究者最担心的地方。",
+   "Meta回应称这是本地提权而非远程漏洞，需要用户机器上已有恶意代码，实际风险很低，但仍紧急推送了热修复，与其宣传的隐私安全形成反差。",
+   "时机尴尬：Amazon刚以未获授权为由封禁Muse访问其电商平台，不过Muse移动端上线12天下载量已超过ChatGPT在美加首秀同期，Meta股价周一涨11%。"
+  ],
+  "impact": "对AI行业而言，能读屏、录音、操作文件系统的AI代理正成为全新攻击面，安全必须从架构设计第一天就纳入，而不是事后打补丁。对开发者，这意味着端侧处理、最小权限、设置写入白名单应成为默认实践。对普通用户，风险总体有限，但事件揭示出AI助手其实握有极高系统权限，别随意运行来路不明的程序，也别把AI助手当作安全边界。",
+  "tools": "想跟进可关注安全研究员Patrick Wardle的Objective-See工具集（LuLu防火墙、BlockBlock、KnockKnock）用于监控Mac异常行为；端侧语音可用whisper.cpp或Apple Speech框架替代云端转写；威胁建模可参考OWASP LLM Top 10与MITRE ATLAS。"
+ },
+ "lang": "zh"
+}
