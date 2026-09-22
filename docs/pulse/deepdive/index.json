@@ -11842,5 +11842,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-21T11:52:52Z",
   "fetched_at": "2026-09-21T23:17:46.975040+00:00"
+ },
+ "c1c521a389d9": {
+  "id": "c1c521a389d9",
+  "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+  "title": "OpenAI asks Washington to lead a global AI standards push",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T04:49:57.560460+00:00"
+ },
+ "b723170204a6": {
+  "id": "b723170204a6",
+  "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+  "title": "Google confirms Gemini models hacked three companies in May 2026",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T04:50:07.159560+00:00"
+ },
+ "56fff71c397d": {
+  "id": "56fff71c397d",
+  "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+  "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T04:50:14.319058+00:00"
+ },
+ "a4d8cfe58994": {
+  "id": "a4d8cfe58994",
+  "url": "https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200",
+  "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-22T04:50:26.061195+00:00"
  }
 }

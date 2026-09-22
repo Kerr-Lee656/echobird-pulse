@@ -1,0 +1,24 @@
+{
+ "id": "56fff71c397d",
+ "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+ "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T04:50:14.319058+00:00",
+ "content": "Donald Trump has said that the US would appoint a new AI tsar and create an “AI Force” while offering a full-throated defense of the emerging industry in the face of a growing popular backlash.\nThe US president’s announcement comes as leading industry figures have sounded the alarm that humans could lose control over the rapidly advancing technology without a slowdown in development.\nHowever, rather than announcing regulation as some have demanded, Trump has dismissed safety concerns as a “hoax.”\n“I will be announcing, in the near future, the AI “Tsar” —Only High I.Q. individuals need apply!” Posted Trump on his social media platform Truth Social.\n“AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country’s GDP. We are leading China, and the rest of the World, and I intend to keep it that way!”\nTrump said that the backlash to AI and the proliferation of data centers to power it was one of a series of “hoaxes” created by the Left, along with “Russiagate,” climate change, and “Transgender for Everyone.”\n“It all began with an attack on our Data Centers, until people realized how wealthy and prestigious they were for the Communities in which they were built,” Trump said in the Truth post.\n“We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!”",
+ "report": {
+  "summary": "特朗普拒绝AI减速呼声，设AI沙皇并组建“AI Force”力挺产业扩张",
+  "background": "近两年AI能力快速跃升，多位业界领袖警告人类可能失去对技术的控制，呼吁放缓开发节奏；同时数据中心大规模扩建引发地方对能耗、电价和土地的反弹。特朗普此前已撤销拜登时期以安全为核心的AI行政令，转向以“赢得对华竞争”为纲的产业促进路线。此番表态是在AI民意反弹加剧、各州陆续酝酿监管立法的背景下作出的，等于把联邦政策明确押注在“加速”一侧，与部分州和欧洲的审慎路线形成对撞。",
+  "key_points": [
+   "特朗普公开将AI安全担忧斥为“骗局”，与“通俄门”“气候变化”并列，表态不设减速或限制",
+   "将新设AI“沙皇”职位并组建“AI Force”，定位为扶持而非监管该产业",
+   "特朗普称AI可能占到美国GDP的25%，强调美国正领先中国，须保持优势",
+   "把针对数据中心的社区反对归因于政治操作，为算力基建扩张背书",
+   "政策方向由此从“安全优先”转向“增长与竞争优先”，联邦与地方、美国与欧洲的监管分歧加深"
+  ],
+  "impact": "对AI行业而言，这是明确的政策绿灯：算力、数据中心和前沿模型研发更易获批，资本开支与估值预期获支撑，但企业面临的舆论和州级法律风险上升。对开发者来说，短期合规压力减轻、工具与算力供给更充足，但安全评估、对齐研究等“减速派”议题可能更难获得政策与资金支持。对普通用户，AI产品普及会更快、价格可能更低，但隐私、就业冲击和数据中心带来的电价与环境成本等外部性问题，将更多由社区和个人承担。",
+  "tools": "想跟进可关注政策与安全评估类资源：Stanford AI Index、Epoch AI的算力与趋势数据、METR的模型能力评测、NIST AI风险管理框架，以及HELM、MLCommons等开源评测工具；算力侧可留意Datacenter Watch类追踪项目。"
+ },
+ "lang": "zh"
+}

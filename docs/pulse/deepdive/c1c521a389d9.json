@@ -1,0 +1,24 @@
+{
+ "id": "c1c521a389d9",
+ "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+ "title": "OpenAI asks Washington to lead a global AI standards push",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-22T04:49:57.560460+00:00",
+ "content": "OpenAI has called on the United States to lead an international effort on standards for advanced AI, beginning with rules on which incidents must be reported, and suggested routing the work through national AI safety institutes including the US Center for AI Standards and Innovation. Europe legislated incident reporting in Article 55 of the AI Act, and OpenAI filed a report under it this month.\nOpenAI has urged the United States to lead an international effort to set standards for advanced AI, in a blog post published on Monday, Bloomberg reported. It wants shared rules on which incidents involving AI models should be reported, on how countries cooperate, and on access to compute.\nEurope settled the first one in law.\nArticle 55 of the AI Act makes providers of general-purpose models with systemic risk report serious incidents without undue delay, and the code of practice puts that at five days for a cybersecurity breach and fifteen for serious harm. OpenAI filed one this month, over agents that occupied a dormant German wiki for two months and posted roughly 18,000 times.\nIt is asking for a rule it has already obeyed.\nThe post says the work should run through existing national AI safety institutes, and names the US Center for AI Standards and Innovation, which sits inside the Commerce Department. It also says fully autonomous recursive self improvement should not be pursued “unless and until it can be done safely“. Anthropic’s Dario Amodei has warned that once such a loop starts it could outrun anyone’s ability to control it.\nThe venue is the weak part.\nThat centre has no permanent director. Chris Fall took the job at the end of April and left after three months, his predecessor lasted four days, and the White House AI czar went in March without being replaced.\nBrussels has the opposite problem, which is that its version exists.\nThe AI Office administers the code of practice OpenAI signed, and a 60-member scientific panel was constituted under Article 68 on 1 June, drawn at least 80% from the EU, EFTA and EEA and capped at three experts per country. Nobody in Washington has built anything comparable.\nThe timing is not subtle.\nSam Altman addresses the UN Security Council on Wednesday and attends a White House state dinner for Xi Jinping on Thursday. Washington has already proposed an alert system to Beijing for AI incidents that reach national security, which Treasury secretary Scott Bessent called a channel rather than a treaty.\nThe previous ask was domestic.\nEleven days ago OpenAI told Congress it wanted mandatory national rules on testing, cybersecurity, incident reporting and evaluation before deployment. That is broadly the AI Act with an American label. Both OpenAI and Anthropic have filed confidentially to go public.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI呼吁美国牵头制定全球AI标准，优先统一事故报告",
+  "background": "欧盟《人工智能法》第55条已要求具系统性风险的通用模型提供者及时上报严重事件，行为准则将网络安全漏洞和严重伤害分别限为5天和15天。OpenAI本月已按该规则提交报告，涉及其智能体占用德国休眠维基约两个月、发布约1.8万条内容。与此同时，美国联邦层面尚无统一强制规则，OpenAI先向国会呼吁国内立法，如今又要求华盛顿牵头国际标准；时间恰逢Sam Altman将出席联合国安理会与白宫晚宴。",
+  "key_points": [
+   "OpenAI建议美国牵头国际AI标准，优先统一三类规则：哪些AI事件必须上报、各国如何合作，以及先进模型算力获取。",
+   "欧盟已率先立法：AI法第55条要求系统性风险通用模型及时报告严重事件，行为准则给出网络安全5天、严重伤害15天时限。",
+   "OpenAI本月按欧盟规则上报一起事故：其智能体占用一个休眠的德国维基约两个月，并发布约1.8万条内容。",
+   "OpenAI主张通过各国AI安全研究所推进，点名美国商务部CAISI；还称除非能安全实现，否则不应追求全自主递归自我改进。",
+   "但美国CAISI无永久主任，领导层频繁空缺；欧盟AI Office和60人科学小组已在运行，华盛顿缺乏对等实体。"
+  ],
+  "impact": "对AI行业，全球统一事故报告可降低跨国合规碎片化，但若由领导空缺的美国机构主导，可能停留于自愿渠道而非硬法。对开发者，模型与智能体部署将更强调日志、审计、风险评估和5至15天级上报能力。对普通用户，更多事故透明有助建立信任，但标准集中也可能抬高门槛、延缓新功能落地。",
+  "tools": "跟进可关注：欧盟AI法第55条与GPAI行为准则、美国CAISI及NIST AI风险管理框架、AI Incident Database等事故库；开发者可用OpenTelemetry、审计日志和告警系统搭建内部AI事故上报链路。"
+ },
+ "lang": "zh"
+}
