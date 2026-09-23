@@ -1,0 +1,24 @@
+{
+ "id": "9d5f12e5dcba",
+ "url": "https://www.aibase.com/news/31297",
+ "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-23T08:54:59.660Z",
+ "fetched_at": "2026-09-23T13:38:39.034230+00:00",
+ "content": "The Cisco Talos security team released a blog post on September 22, revealing an AI-based malicious software called ClosedQuorum. This malware primarily targets the Windows 11 platform and, after successfully infiltrating a user's computer, uses AI models such as Google Gemini, DeepSeek, Qwen, and Mistral to make autonomous decisions, specifically to extract the most valuable information from the attack target.\nCalling Gemini, DeepSeek, and Other Models, Autonomous Decision-Making After Infiltration\nTalos conducted in-depth analysis and found that after successfully infiltrating a target device, ClosedQuorum uses multiple AI models to decide the attack plan, including stealing browser login credentials, extracting cryptocurrency information, persistently executing malicious software, and spreading the malware to other devices. What is alarming is that this malware is built using the Go language and can run completely automatically without human operators issuing commands—it uses reconnaissance information and a \"voting system\" to determine the next attack action.\nIn other words, traditional malware often relies on instructions sent remotely by attackers, but ClosedQuorum entrusts the decision of \"what to do next\" to AI. It first assesses its current environment, then selects the most profitable or advantageous attack path based on recommendations from multiple models, with almost no human intervention required throughout the process.\nThe First AI-Delegated C2 Implant Program, Greatly Increased Speed and Scalability\nTalos described ClosedQuorum as \"the first publicly documented Windows implant program,\" and its uniqueness lies in delegating tactical command and control (C2) decisions to a set of AI models. The team commented that this increases the speed and scalability of malicious operations—previously, tasks such as analyzing targets and formulating attack strategies required manual work, but now these can be quickly completed by models after infiltration, allowing attackers to penetrate more devices at a lower cost.\nC2 typically refers to the communication and control channel between malicious software and the attacker's server; however, ClosedQuorum transfers the \"decision-making authority\" within this channel to AI, meaning that even if the command server goes offline, the implanted program can continue the attack based on the information it has already obtained. This trend toward autonomy presents new challenges for traditional security defenses that rely on identifying C2 beacons through traffic characteristics.\nCurrently, Talos has publicly shared related technical analysis and reminded defenders to pay attention to such \"AI-driven, autonomous decision-making\" implant programs. For ordinary users, timely updating system patches, enabling multi-factor authentication, and being cautious with suspicious files and links remain fundamental measures to reduce the risk of being hacked and losing credentials or cryptocurrency.",
+ "report": {
+  "summary": "思科Talos披露首个由AI自主决策的Win11恶意软件ClosedQuorum",
+  "background": "传统恶意软件的指挥控制（C2）依赖攻击者远程下发指令，防御方可通过流量特征识别心跳信号拦截。随着大模型API价格下降、调用门槛降低，攻击者开始把\"决策权\"外包给AI。思科Talos团队9月22日发布博客，披露名为ClosedQuorum的Windows 11植入程序，它调用Gemini、DeepSeek、Qwen、Mistral等多个模型为攻击行动投票，被称作首个公开记录的\"AI代理C2\"恶意软件，标志攻击自动化进入新阶段。",
+  "key_points": [
+   "入侵后不再等远程指令，而是调用多个大模型对下一步攻击方案进行\"投票\"，自主选出最优路径。",
+   "攻击目标明确：窃取浏览器登录凭据、加密钱包信息、实现持久化驻留，并横向传播到其他设备。",
+   "用Go语言编写，全程自动运行，几乎不需人工干预，先侦察环境再决策，大幅提升攻击速度与规模。",
+   "即使攻击者的命令服务器下线，植入程序仍能凭已掌握的信息继续行动，传统C2流量检测手段因此失效。",
+   "Talos称其为首个被公开记录的AI代理式Windows植入程序，提醒防御方关注这一类新型威胁。"
+  ],
+  "impact": "对AI行业，模型API被武器化暴露出滥用检测与调用审计的空白，厂商需加强安全护栏；对开发者，Agent架构、多模型投票等设计被反向利用，提示在构建自动化系统时要考虑对抗与滥用场景；对普通用户，风险仍集中在凭据与钱包被盗，及时打补丁、开启多因素认证、谨慎点击可疑文件链接，依然是最有效的自保手段。",
+  "tools": "想深入了解可阅读思科Talos官方博客原文，并对照MITRE ATT&CK框架理解攻击链；防御侧可关注Windows Defender、CrowdStrike等EDR产品，开源方案如Wazuh、Zeek可用于流量与主机异常监测；开发者可关注模型厂商的API滥用监控与密钥权限最小化实践。"
+ },
+ "lang": "zh"
+}

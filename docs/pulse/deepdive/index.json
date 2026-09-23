@@ -12040,5 +12040,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-22T20:47:12Z",
   "fetched_at": "2026-09-23T07:45:50.774489+00:00"
+ },
+ "477401189abb": {
+  "id": "477401189abb",
+  "url": "https://www.aibase.com/news/31302",
+  "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T08:54:59.660Z",
+  "fetched_at": "2026-09-23T13:38:22.666103+00:00"
+ },
+ "a72d9b3f7459": {
+  "id": "a72d9b3f7459",
+  "url": "https://www.aibase.com/news/31299",
+  "title": "医疗 AI 走向全球普惠：Anthropic 携手 OpenEvidence，将临床决策支持工具免费覆盖百国",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T08:54:59.660Z",
+  "fetched_at": "2026-09-23T13:38:31.285433+00:00"
+ },
+ "9d5f12e5dcba": {
+  "id": "9d5f12e5dcba",
+  "url": "https://www.aibase.com/news/31297",
+  "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T08:54:59.660Z",
+  "fetched_at": "2026-09-23T13:38:39.034230+00:00"
+ },
+ "a4d0d410435f": {
+  "id": "a4d0d410435f",
+  "url": "https://www.aibase.com/news/31294",
+  "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T08:54:59.660Z",
+  "fetched_at": "2026-09-23T13:38:47.811089+00:00"
+ },
+ "46881e26fe95": {
+  "id": "46881e26fe95",
+  "url": "https://www.aibase.com/news/31289",
+  "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T08:54:59.660Z",
+  "fetched_at": "2026-09-23T13:38:55.749632+00:00"
+ },
+ "c2fa5e2c3063": {
+  "id": "c2fa5e2c3063",
+  "url": "https://www.ithome.com/1/006/344.htm",
+  "title": "荣耀 YOYO Claw、小米 miclaw、阶跃终端 AI 三款手机端侧生成式 AI 服务通过网信部门备案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-23T08:33:24Z",
+  "fetched_at": "2026-09-23T13:39:05.558508+00:00"
  }
 }

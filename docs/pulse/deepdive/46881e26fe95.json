@@ -1,0 +1,24 @@
+{
+ "id": "46881e26fe95",
+ "url": "https://www.aibase.com/news/31289",
+ "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-23T08:54:59.660Z",
+ "fetched_at": "2026-09-23T13:38:55.749632+00:00",
+ "content": "The World Health Organization (WHO) officially released a new report titled \"Ethical Review and Regulation of AI-Related Health Research\" on September 21, 2026. The report states that while artificial intelligence is reshaping health research at an unprecedented speed, accelerating scientific discovery, and improving health outcomes, AI health research could also introduce new risks without strong ethical safeguards and regulatory oversight, thereby endangering human rights, social equity, and public trust.\nRegarding existing ethical review mechanisms, the WHO warns that traditional systems often struggle to address the new risks brought by artificial intelligence, including algorithmic transparency, bias, fairness, accountability, privacy protection, and potential harms from rapidly deploying AI tools. To this end, the report clearly categorizes AI-related health research into three main types: research involving health-related data using AI; research conducted using AI tools and technologies; and health-related research specifically focused on AI tools and technologies themselves. Additionally, the report explores how to strengthen ethical oversight throughout the entire lifecycle of research, from design, ethical review, publication, regulation, to implementation.\nWith regard to the challenges and opportunities faced by low- and middle-income countries, the report emphasizes that although artificial intelligence holds great potential in addressing long-standing medical challenges, the majority of current AI research and technological development remains concentrated in high-income regions. Therefore, strengthening local leadership, capacity building, and broad participation in AI health research will be key to ensuring fair sharing of benefits and avoiding new forms of exclusion or inequality.\nThe WHO emphasizes that Research Ethics Committees (RECs) will continue to play a central role in protecting research participants, but they need additional expertise, training, and resources to effectively address increasingly complex AI-related research. Moreover, multiple stakeholders, including funders, scientific journals, data governance bodies, professional associations, and regulatory agencies, must work closely across disciplines and sectors to ensure that AI medical innovations remain safe, trustworthy, and beneficial to all humanity.",
+ "report": {
+  "summary": "世卫组织发布AI医疗研究伦理报告，呼吁全面升级监管机制。",
+  "background": "自2021年《医疗AI伦理与治理指南》以来，世卫组织持续加码AI医疗治理，2023—2024年相继针对大语言模型发布专项指引。与此同时，AI已深度渗透医学影像、药物发现、临床决策和真实世界研究，但多数国家的伦理审查委员会（REC）仍沿用传统医学研究框架，缺乏评估算法透明度、偏见与责任归属的能力。此次报告正是在AI医疗研究快速扩张、而监管明显滞后的背景下出台，试图为全球提供统一的分类与全生命周期审查思路。",
+  "key_points": [
+   "报告把AI医疗研究分为三类：用AI处理健康数据的研究、用AI工具开展的研究、以及专门研究AI工具本身的研究，分类监管。",
+   "世卫组织警告传统伦理审查机制已难以应对算法透明度、偏见、公平性、问责与隐私等新型风险。",
+   "强调从研究设计、伦理审查、发表、监管到落地实施的全生命周期监督，而非只在立项时审查一次。",
+   "指出AI医疗研究过度集中在高收入地区，呼吁加强中低收入国家的本地主导权与能力建设，避免新的不平等。",
+   "伦理审查委员会仍是核心守门人，但需要额外专业知识、培训和资源，并需资助方、期刊、监管机构等多方跨部门协作。"
+  ],
+  "impact": "对AI行业而言，医疗赛道的数据合规与模型可解释性门槛将被显著抬高，算法审计或成产品准入前置条件；对开发者，尤其是做医疗大模型和临床工具的团队，需要提前准备偏见评估、数据来源说明和全流程留痕文档；对普通用户，报告意在保护患者与受试者权益，让AI医疗产品更可信，但也意味着部分创新落地节奏可能放缓。对中低收入国家，则是一次争取研究话语权和公平受益的政策窗口。",
+  "tools": "想跟进可阅读WHO《医疗AI伦理与治理指南》及本报告原文；工程侧可关注模型卡（Model Cards）、数据卡（Datasheets for Datasets）等文档规范，以及Fairlearn、IBM AI Fairness 360、SHAP等开源公平性与可解释性工具，用于偏见检测和算法审计。"
+ },
+ "lang": "zh"
+}

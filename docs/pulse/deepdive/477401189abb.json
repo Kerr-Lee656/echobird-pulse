@@ -1,0 +1,24 @@
+{
+ "id": "477401189abb",
+ "url": "https://www.aibase.com/news/31302",
+ "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-23T08:54:59.660Z",
+ "fetched_at": "2026-09-23T13:38:22.666103+00:00",
+ "content": "Technology media The Information published a post on September 22, stating that Microsoft is preparing to push enterprise customers to adopt Copilot with a more aggressive pricing strategy, while also launching a \"super AI application.\" In the current intense competition for AI assistants, Microsoft is adopting a dual approach of \"reducing prices + upgrading,\" aiming to move Copilot from an office assistance tool to an automation platform that can directly handle tasks for enterprises.\nEnterprise subscriptions up to 50% off, possibly launched in October\nRegarding discounts, it is reported that Microsoft has informed its sales team that it will offer more significant discounts on Copilot AI subscriptions for enterprise customers, with a discount range of about 30% to 50%. These discounts are expected to be implemented as early as October: companies purchasing 1,000 or more licenses can get a 30% discount, while customers with purchases of 10,000 or more licenses may receive a maximum discount of 50%.\nFor Microsoft, this means trading profit for market penetration. Copilot was previously sold as an AI add-on to Microsoft 365 for enterprises, but its adoption and actual active usage have always been tested by both price and effectiveness. Encouraging large customers to purchase in bulk at the highest discount rate is clearly aimed at consolidating positions in the competition against other vendors' AI office solutions and reducing long-term customer acquisition costs.\nFrom Office Assistant to Automation Platform, Copilot Becomes a Super Application\nIn terms of product form, Microsoft plans to upgrade Copilot and launch what it calls a \"super AI application,\" integrating AI coding tools and intelligent agent skills similar to OpenClaw. In other words, Copilot will no longer just be a Q&A, summary, and content generation assistant embedded in Office.\nIn Microsoft's vision, this super application will cover basic assistance in office scenarios such as Word, Excel, PowerPoint, and Teams, and further extend into an automation platform: it can call tools, perform multi-step tasks, assist software development, and allow AI to truly participate in existing end-to-end workflows within enterprises. From \"helping you think and write\" to \"doing it for you,\" this positioning shift means Copilot will touch more complex business processes and place higher demands on model reliability, permission management, and data security.\nOverall, the price reduction aims to lower the trial threshold and quickly increase the number of installations, while the positioning of the super application aims to enhance usage depth and stickiness—when users entrust more processes to Copilot, Microsoft's influence in the enterprise AI market will also grow accordingly.",
+ "report": {
+  "summary": "微软Copilot企业版最高降价50%，升级为可自动执行任务的超级应用",
+  "background": "Copilot 此前一直作为 Microsoft 365 的 AI 附加组件销售，价格高、真实活跃使用率低，企业客户对“值不值”始终存疑。与此同时，Google Gemini、Anthropic 及各类 AI 办公助手在企业市场激烈抢单，AI 订阅的采购决策正从“尝鲜”转向“算账”。据 The Information 9 月 22 日报道，微软选择同时打两张牌：用大幅折扣快速拉高装机量，再把 Copilot 从“办公助手”重新包装为“能替企业干活的自动化平台”。",
+  "key_points": [
+   "折扣按采购量分档：购买 1000 个以上许可享 30% 折扣，1 万以上最高可享 50%，最早 10 月落地",
+   "本质是以利润换市场份额：通过大客户批量采购压低长期获客成本，阻击其他厂商的 AI 办公方案",
+   "产品形态升级为“超级 AI 应用”，在 Word、Excel、Teams 等办公能力之外，加入 AI 编码工具与智能体技能",
+   "定位从“帮你思考、帮你写”变为“替你干”：能调用工具、执行多步任务，进入企业端到端业务流程",
+   "代价是更高的技术与合规门槛：模型可靠性、权限管理、数据安全都将面临更严格的考验"
+  ],
+  "impact": "对 AI 行业，办公助手竞争从功能比拼转入价格战与“代理能力”比拼，可能带动同类产品跟进降价；对开发者，Copilot 平台化意味着更多 agent 与编码集成机会，但也可能挤压第三方工具空间；对普通用户，AI 将从“问答窗口”变成真正接管工单、报表、开发流程的同事，效率提升的同时也需要重新学习如何审核与授权 AI 的操作。",
+  "tools": "想跟进可关注 Microsoft 365 Copilot、Copilot Studio（自定义智能体）、GitHub Copilot、Azure AI Foundry，以及开源侧的 LangGraph、AutoGen、OpenHands 等智能体框架，用它们复现“定价+自动化平台”背后的技术路线。"
+ },
+ "lang": "zh"
+}
