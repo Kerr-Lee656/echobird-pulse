@@ -4057,5 +4057,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-22T19:41:37.000Z",
   "fetched_at": "2026-09-23T00:34:09.888917+00:00"
+ },
+ "5e86437385f3": {
+  "id": "5e86437385f3",
+  "url": "https://github.com/google/ax",
+  "title": "google/ax — Google's open agentic orchestration runtime",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-23T07:46:30.896306+00:00"
+ },
+ "48b18568b4dc": {
+  "id": "48b18568b4dc",
+  "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+  "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T07:27:25Z",
+  "fetched_at": "2026-09-23T07:46:46.190241+00:00"
+ },
+ "1b7a07575c93": {
+  "id": "1b7a07575c93",
+  "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+  "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T07:20:05Z",
+  "fetched_at": "2026-09-23T07:46:56.780088+00:00"
+ },
+ "f330de6f12df": {
+  "id": "f330de6f12df",
+  "url": "https://arxiv.org/abs/2609.26457",
+  "title": "Recursive self-improvement of AI research agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T07:07:09Z",
+  "fetched_at": "2026-09-23T07:47:08.023679+00:00"
+ },
+ "edb5453e033e": {
+  "id": "edb5453e033e",
+  "url": "https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n",
+  "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+  "source": "MarkTechPost（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-23T05:18:36.000Z",
+  "fetched_at": "2026-09-23T07:47:49.908217+00:00"
  }
 }
