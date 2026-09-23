@@ -12094,5 +12094,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-23T08:33:24Z",
   "fetched_at": "2026-09-23T13:39:05.558508+00:00"
+ },
+ "6e50a17d7e44": {
+  "id": "6e50a17d7e44",
+  "url": "https://thenextweb.com/news/sprind-nadi-ai-chip-design-challenge",
+  "title": "Germany and the Netherlands put €40M into using AI to design AI chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T18:24:19.880544+00:00"
+ },
+ "e23af148c9d6": {
+  "id": "e23af148c9d6",
+  "url": "https://thenextweb.com/news/anthropic-openevidence-free-medical-ai",
+  "title": "Anthropic and OpenEvidence to offer free medical AI to doctors in about 100 countries",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T18:24:47.303503+00:00"
+ },
+ "3c8cad0bae7f": {
+  "id": "3c8cad0bae7f",
+  "url": "https://www.36kr.com/p/3995149863587715",
+  "title": "刚刚，GPT-6 新模型掀桌，「白菜价」杀进 DeepSeek 腹地",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-09-23T14:31:05.688Z",
+  "fetched_at": "2026-09-23T18:25:07.529218+00:00"
+ },
+ "8b8138a32a2b": {
+  "id": "8b8138a32a2b",
+  "url": "https://www.qbitai.com/2026/09/496393.html",
+  "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-23T18:25:27.848439+00:00"
+ },
+ "1e469babf7d9": {
+  "id": "1e469babf7d9",
+  "url": "https://www.aibase.com/news/31313",
+  "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-23T14:31:05.688Z",
+  "fetched_at": "2026-09-23T18:25:39.509901+00:00"
  }
 }

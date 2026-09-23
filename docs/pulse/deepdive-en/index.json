@@ -4102,5 +4102,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-23T05:18:36.000Z",
   "fetched_at": "2026-09-23T07:47:49.908217+00:00"
+ },
+ "5dd922e14c0c": {
+  "id": "5dd922e14c0c",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "title": "HKUDS/CLI-Anything — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-23T18:26:59.233660+00:00"
+ },
+ "5e051ef34a6d": {
+  "id": "5e051ef34a6d",
+  "url": "https://github.com/browserbase/stagehand",
+  "title": "browserbase/stagehand — The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-23T18:27:09.062962+00:00"
+ },
+ "5798b3facc6f": {
+  "id": "5798b3facc6f",
+  "url": "https://blastradius.dpdns.org/",
+  "title": "What AI pays the people who train it",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T18:19:39Z",
+  "fetched_at": "2026-09-23T18:27:23.750466+00:00"
+ },
+ "e2fc6b2eca01": {
+  "id": "e2fc6b2eca01",
+  "url": "https://www.transparencycoalition.ai/news/illinois-california-governors-fast-track-ai-safety-measures-with-executive-orders",
+  "title": "Illinois, California governors fast-track AI safety measures with EOs",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T18:15:03Z",
+  "fetched_at": "2026-09-23T18:27:55.946207+00:00"
+ },
+ "04327f4006c9": {
+  "id": "04327f4006c9",
+  "url": "https://www.bbc.com/news/articles/c6rerlq99w30o",
+  "title": "UK to fight Russian disinformation and push new global AI standards Burnham says",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-23T17:51:58Z",
+  "fetched_at": "2026-09-23T18:28:48.095090+00:00"
  }
 }

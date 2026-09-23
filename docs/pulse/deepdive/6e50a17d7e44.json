@@ -1,0 +1,24 @@
+{
+ "id": "6e50a17d7e44",
+ "url": "https://thenextweb.com/news/sprind-nadi-ai-chip-design-challenge",
+ "title": "Germany and the Netherlands put €40M into using AI to design AI chips",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T18:24:19.880544+00:00",
+ "content": "The Netherlands’ newest government agency is now one month old and has already made its first move by deciding to use AI in the design of the chips that power AI.\nOn Wednesday, the National Agency for Disruptive Innovation (NADI) and Germany’s Federal Agency for Breakthrough Innovation (SPRIND) announced that they would commit €40 million over 20 months to small teams aiming to speed up chip design, Reuters reported.\nThe Chip Design Challenge organized by SPRIND has two stages and is aimed at the design of chips for both training and inference, which is the running of trained models.\nThe objective is to reduce development cycles from years to weeks, a goal which Jano Costard, head of challenges at SPRIND, described as “several orders of magnitude acceleration”.\nJelle Prins, one of NADI’s co-founders, argued against the current company. According to him, Nvidia chips may be powerful but are inefficient for inference, likening it to “doing your shopping with a truck”.\nNADI has received €500 million this month from the Dutch government; it is modeled on the US Defense Advanced Research Projects Agency.\nSPRIND, established in 2019, advised the Dutch government on the design of NADI, and the chip challenge is the first joint funding program between the two organizations.\nThe challenge comes after SPRIND’s first joint initiative with Sweden’s Vinnova earlier this year, and also follows its separate €125 million challenge to establish three European frontier AI labs.\nThe reason for the pairing is geographic: the Netherlands provides the chipmaking ecosystem associated with ASML, while Germany contributes research and manufacturing expertise.\nTogether, the two countries are involved in a broader European initiative to reduce dependence on American technology.\n“We expect to see more nations commit to backing pan-European, radical breakthroughs,” Costard said in the announcement.\nA sum of forty million euros won’t be enough to create a competitor to Nvidia; rather, the bet is that the slower stage in chipmaking, namely the design phase, is the area in which Europe can make the most progress.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "德荷联合投入4000万欧元，用AI加速AI芯片设计",
+  "background": "欧洲在AI芯片上长期依赖美国，Nvidia主导训练与推理市场。荷兰拥有ASML光刻生态，德国具备研究与制造基础，两国希望互补短板。荷兰本月新成立仿DARPA的机构NADI，并获政府5亿欧元注资；德国SPRIND自2019年运营，此前已与瑞典Vinnova合作，还单独出资1.25亿欧元筹建三个欧洲前沿AI实验室。此次芯片设计挑战赛是两机构首个联合资助项目，也是欧洲寻求技术主权的一环。",
+  "key_points": [
+   "4000万欧元、20个月，面向小团队，分两阶段，覆盖训练芯片与推理芯片设计两大类。",
+   "核心目标是把芯片开发周期从数年压缩到数周，SPRIND称要实现“数个数量级的加速”。",
+   "NADI联合创始人直言Nvidia推理能效低，像“开卡车去购物”，暗示专用推理芯片仍有空间。",
+   "分工清晰：荷兰提供ASML相关制造生态，德国提供研究与制造经验，避免重复投入。",
+   "40M远不足以挑战Nvidia，真正赌注是芯片流程中最慢的设计环节，并吸引更多国家跟进。"
+  ],
+  "impact": "对AI行业，这是欧洲首次把“AI设计芯片”上升到国家联合资助层面，若成功可能催生AI驱动的EDA新范式并削弱对美依赖；对开发者，中长期或出现更开放的芯片设计工具链和更便宜的推理硬件，但短期市场格局不变；对普通用户，推理成本若显著下降，AI服务价格和端侧AI体验有望改善，只是这需要数年才能兑现。",
+  "tools": "想跟进可关注开源EDA与AI辅助设计项目：OpenROAD、OpenLane、SkyWater开源PDK、Chipyard/Chisel，以及Google AlphaChip这类用强化学习做布局布线的方法；另可留意SPRIND与NADI官网的挑战赛公告与资助名单。"
+ },
+ "lang": "zh"
+}

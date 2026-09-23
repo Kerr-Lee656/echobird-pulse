@@ -1,0 +1,24 @@
+{
+ "id": "1e469babf7d9",
+ "url": "https://www.aibase.com/news/31313",
+ "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-23T14:31:05.688Z",
+ "fetched_at": "2026-09-23T18:25:39.509901+00:00",
+ "content": "According to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-owned data center developer. This is seen as one of the major steps for this AI company to reduce its reliance on cloud vendors.\nIf the deal is finalized, Anthropic will directly control a significant amount of computing power, no longer solely relying on third-party cloud platforms for allocation. The current negotiations are still in the early stage, and the final leasing scale, duration, and specific developer have not been determined yet. However, the goal of \"up to 1 gigawatt\" has shown Anthropic's strong demand for its own computing infrastructure. Some insiders said that Anthropic is also negotiating with Google for credit guarantees for this project. However, it is currently unclear which part of the project Google will be responsible for.",
+ "report": {
+  "summary": "Anthropic洽谈租赁最高1吉瓦算力，力图摆脱对云厂商依赖",
+  "background": "Anthropic 目前算力主要来自亚马逊 AWS 与谷歌云的芯片与云服务，两家也是其重要投资方。2025 年 11 月它又与微软、英伟达达成合作，承诺采购 Azure 算力。但头部大模型的训练与推理需求增长太快，单纯租用云服务难以保证供给与成本可控。OpenAI 的 Stargate、xAI 的 Colossus 已率先走自建或直租基础设施路线。此次 Anthropic 找上阿波罗旗下数据中心开发商，正是把“算力自主”提上日程。",
+  "key_points": [
+   "规模惊人：1 吉瓦约等于一座大型核电机组的输出，可支撑数十万块高端 GPU，投入预计达数百亿美元量级。",
+   "交易对手是阿波罗全球管理旗下的数据中心开发商，说明私募资本正成为 AI 基础设施的重要金主。",
+   "Anthropic 还在与谷歌洽谈为该项目的信用担保，谷歌既是股东又是云供应商，角色相当微妙。",
+   "核心目的是减少对 AWS、谷歌云等第三方平台的依赖，把算力从“租用服务”变成“可控资产”。",
+   "谈判仍处早期，租赁规模、期限与具体开发商均未敲定，最终能否落地存在不确定性。"
+  ],
+  "impact": "对 AI 行业：算力竞赛从抢芯片升级为抢电、抢地、抢资本，基建进一步金融化，云厂商在头部客户面前的议价权被削弱。对开发者：头部实验室扩张算力，可能带来更强模型和更充足的 API 容量，但也会抬高行业整体的成本与能耗门槛。对普通用户：短期感知有限，长期意味着模型能力继续快速迭代，同时数据中心的用电、用水等社会议题会被更频繁讨论。",
+  "tools": "想跟进可关注 Anthropic 官方 Claude API 与模型发布节奏，研究侧可看 SemiAnalysis、Epoch AI 的算力追踪数据；开发者若关心自建或混合推理，可研究 vLLM、SGLang 等推理框架，以及 AWS Trainium、Google TPU 生态。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "e23af148c9d6",
+ "url": "https://thenextweb.com/news/anthropic-openevidence-free-medical-ai",
+ "title": "Anthropic and OpenEvidence to offer free medical AI to doctors in about 100 countries",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T18:24:47.303503+00:00",
+ "content": "OpenEvidence, an AI tool used by American doctors, is now being offered in countries with limited access to medical literature.\nReuters reported that the company is working with Anthropic to give clinicians in low- and middle-income countries free access to a specialized version of its platform.\nThe initiative is being introduced in around 100 countries, including Uganda, Angola, Sudan, Haiti, and Mongolia, according to OpenEvidence, which provided the information to Reuters.\nThe financial terms were not disclosed by either company.\nOpenEvidence answers doctors’ clinical questions using peer-reviewed research and treatment guidelines. It is currently free for clinicians in the United States and Europe.\nThe companies say Anthropic provides the backend technology, while OpenEvidence adapts the system for each region’s healthcare needs.\nFounder Daniel Nadler told Reuters that US clinicians used the platform 42 million times in August.\nThis year, OpenEvidence stated that it has been working with health organizations in Rwanda and Botswana to modify its tools for situations in which disease patterns.\nThe resources available for diagnosis and the treatments on offer are very different from those found in richer countries; the project in Rwanda, carried out in partnership with the Rwanda Biomedical Center and Resolve to Save Lives, involved 45 local doctors and nurses who tested the tool and provided feedback on any necessary changes.\n“One hundred percent of what we are developing for these areas is designed to be context adaptive,” Nadler told Reuters.\nCritics of medical AI warn that systems trained mainly on data from high-income countries may not reflect how medicine is practiced elsewhere.\nIn response, Nadler points out that even in places where clinics do not always have electricity, most doctors still have smartphones.\nDaniela Amodei, president of Anthropic, said the project is something the market could not achieve on its own.\nIn her interview with Reuters, she explained that while the technology is now advanced enough, “market incentives by themselves would not cause it to happen” without some philanthropic effort.\nAlso, we reported this week that Anthropic has built a laboratory for physical biology as it expands into drug science.\nFor clinicians using the tool, the main issue is access, not AI itself. Dr Ahmed Bendary, a cardiologist at Benha University in Egypt, told Reuters that expanding the tool beyond the United States and Europe is especially important in places where access to major journals is limited.\nThe key question now is whether a tool built mostly on evidence from wealthy countries can be adapted for use in places like Mongolia and Sudan, one country at a time.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic与OpenEvidence向百国医生免费提供医疗AI",
+  "background": "OpenEvidence是一款面向临床医生的AI问答工具，利用同行评审研究和治疗指南回答诊疗问题，已在美国和欧洲免费。全球医疗资源分布不均，中低收入国家医生常难获取最新医学文献。此前OpenEvidence与卢旺达、博茨瓦纳卫生机构试点，让当地医护参与调适。此次Anthropic提供后端技术，双方将免费服务扩展至约100个国家，但医疗AI数据偏见与本地化适配仍是核心挑战。",
+  "key_points": [
+   "OpenEvidence与Anthropic合作，向约100个中低收入国家的医生免费提供专业医疗AI，覆盖乌干达、安哥拉、苏丹、海地、蒙古等。",
+   "OpenEvidence用同行评审研究和治疗指南回答临床问题，已在美国和欧洲免费；8月美国医生使用该平台达4200万次。",
+   "Anthropic提供后端技术，OpenEvidence按地区医疗需求调整；已在卢旺达、博茨瓦纳试点，45名当地医护参与测试并反馈。",
+   "争议在于医疗AI多基于高收入国家数据，可能不符合其他地区疾病谱和诊疗条件；公司强调系统可情境自适应，且医生普遍有智能手机。",
+   "Anthropic总裁称市场激励本身不会促成此事，需公益推动；Anthropic近期还建物理生物学实验室，向药物科学扩张。"
+  ],
+  "impact": "对AI行业，医疗垂直落地和公益合作模式将加速，但数据偏见与本地化是门槛。对开发者，低资源环境部署、区域知识库和RAG医疗应用涌现新机会。对普通用户，欠发达地区患者有望获得更可靠诊疗建议，但需配合监管与人工审核，避免误诊。",
+  "tools": "想跟进可关注OpenEvidence官网及Anthropic Claude API；开发者可用LangChain/LlamaIndex搭建医学RAG，结合PubMed、WHO指南。开源可看Meditron、BioMistral、PubMedBERT等医疗模型做本地化实验。"
+ },
+ "lang": "zh"
+}
