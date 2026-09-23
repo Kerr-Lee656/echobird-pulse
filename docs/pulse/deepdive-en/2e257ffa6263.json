@@ -1,0 +1,24 @@
+{
+ "id": "2e257ffa6263",
+ "url": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+ "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
+ "source": "Artificial Analysis 完整文章（网页）",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-22T19:41:37.000Z",
+ "fetched_at": "2026-09-23T00:34:09.888917+00:00",
+ "content": "按该来源的展示范围，站内仅提供摘要。\n前往原站阅读（在新标签页打开）\nArtificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降\nAI 导读\nArtificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。\nArtificial Analysis 完整文章（网页）\n精选\n81\nAI 编辑部评分，满分 100\nArtificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降\nArtificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。\n推荐理由\nArtificial Analysis 用自家基准拆解 GPT-6 两个新模型的降价幅度、幻觉变化和各评测升降，可帮读者判断换模型的成本收益。\n来源：Artificial Analysis 完整文章（网页）· artificialanalysis.ai\n事件后续 · 3查看事件全部 →",
+ "report": {
+  "summary": "Artificial Analysis benchmarked GPT-6 Sol and Luna, finding prices roughly half of GPT-5.6 equivalents but with mixed benchmark gains and regressions.",
+  "background": "Model pricing has become as important as raw capability in the frontier LLM race, as labs ship tiered families (a strong mid-tier model plus an ultra-cheap small one) and compete with increasingly capable open-weight alternatives. Artificial Analysis is a widely cited independent evaluator that runs its own standardized benchmark suite across quality, reasoning, speed, latency and hallucination rate, so its numbers are often used as the neutral reference when vendors announce new models. The GPT-5.x generation established a pattern of frequent incremental refreshes, meaning buyers now face a recurring question: does a cheaper, updated model actually beat the one already in production on the tasks that matter? This evaluation of GPT-6 Sol and Luna speaks directly to that question by pairing price cuts with a per-benchmark breakdown rather than a single headline score, and it lands in a market where inference costs are falling fast and teams routinely route different workloads to different model tiers.",
+  "key_points": [
+   "Pricing is the headline: Sol is listed at $2 per million input tokens and $10 per million output tokens, while Luna is $0.10/$0.50. Both are reported at roughly half the price of the same-named GPT-5.6 models, a substantial cut for teams running large volumes.",
+   "Benchmark results are mixed rather than uniformly better. Artificial Analysis reports some evaluations rising and others falling versus the previous generation, so the upgrade is not a clean win across every capability dimension.",
+   "Hallucination behavior is tracked separately and changed as well. Because reliability often matters more than raw scores in production, buyers need to check the hallucination and accuracy deltas for their own use cases before switching.",
+   "The two models target different tiers: Sol as a capable general-purpose workhorse, Luna as an ultra-low-cost option at about one-twentieth of Sol's output price, suited to classification, extraction and high-throughput tasks.",
+   "The report is framed as a cost-benefit decision aid, implicitly acknowledging that many teams will now consider migrating simply because the same quality is available more cheaply."
+  ],
+  "impact": "For the AI industry, this reinforces a shift from capability races to cost-performance races, where halving price on a refresh is a competitive weapon and margin pressure cascades to every lab and inference provider. Developers gain real leverage: workloads that were previously too expensive to run at scale become viable, and multi-model routing — cheap model by default, stronger model on escalation — becomes the standard architecture rather than an optimization. The mixed benchmark picture, however, means migration is no longer automatic; teams must re-run their own evals, since aggregate leaderboard movement can hide regressions on specific tasks. For regular users, cheaper tokens usually translate into lower subscription prices, higher usage limits, or more generous free tiers, but also into more silent model swaps under the same product name, making output quality feel less predictable over time.",
+  "tools": "To follow up, start with Artificial Analysis itself for its leaderboards and API-accessible benchmark data, then cross-check with LMArena for human preference and OpenRouter for live per-token pricing and easy A/B routing between Sol, Luna and rivals. For self-evaluation, use lm-evaluation-harness or promptfoo to rerun your own task suites, and Langfuse or Helicone to track cost and hallucination rates per model in production so you can verify whether the price cut actually holds up on your traffic."
+ },
+ "lang": "en"
+}

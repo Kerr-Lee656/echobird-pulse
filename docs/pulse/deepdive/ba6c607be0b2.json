@@ -1,0 +1,25 @@
+{
+ "id": "ba6c607be0b2",
+ "url": "https://thenextweb.com/news/meta-jumps-11-as-investors-bet-on-its-muse-agent",
+ "title": "Meta jumps 11% as investors bet on its Muse agent",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T00:29:01.785212+00:00",
+ "content": "Meta’s shares closed up 11.43% at $741.25 on Monday as investors piled into the company’s bet on AI agents. Trading volume hit 48.5 million shares, well above the three-month average, The Motley Fool reported.\nThe rally made Mark Zuckerberg about $25bn richer in a single session, lifting his fortune to an estimated $253.6bn, as Mary Whitfill Roeloffs reported for Forbes. That figure is Forbes’ own estimate, based on his roughly 13% stake, and TNW has not independently verified it.\nA product with a number attached\nThe catalyst was Muse, the personal AI agent Meta launched earlier this month with a free tier and plans at $20 and $100 a month. It books travel, sends email, and handles purchases on a user’s behalf, and in under two weeks it overtook ChatGPT and Claude in Apple’s iOS download rankings, The Motley Fool reported.\nWells Fargo analyst Ken Gawrelski raised his price target on the stock from $640 to $796 the same morning. Meta “now has a story to tell” on AI, Gawrelski wrote, according to Yahoo Finance, and he pointed to subscription revenue from heavy users as the upside.\nThat matters because investors have spent the year asking what Meta’s spending buys. In April, the company guided capital expenditure of $125bn to $145bn for 2026, the same quarter its daily users fell for the first time, and the stock dropped 9% after hours.\nThe superintelligence pitch\nMeta frames Muse as a first step towards something grander. In its launch post, the company wrote that it thinks “personal superintelligence will be one of the most transformative technologies of a lifetime”, echoing the essay Zuckerberg published this summer.\nThe market has now put a price on that language. Whether the product lives up to it is a separate question, and the first answers arrived fast.\nA rough 24 hours\nOn the same day as the rally, Amazon blocked Muse from its store, telling users that unauthorised AI agents break its conditions of use. For an agent sold on its ability to shop for you, losing the biggest online store in the US is not a small gap.\nThen, shortly after midnight on Tuesday, Meta shipped a hotfix for a flaw in the Muse Mac app, Gizmodo reported. Security researcher Patrick Wardle found that malicious software already on a Mac could hijack a user’s Muse session.\nMeta called the practical risk “quite low” because an attacker would first need code running on the machine, according to Gizmodo. Wardle disagreed, arguing that common social engineering tricks could get that code there.\nConnect is next\nMeta Connect, the company’s annual hardware and developer event, runs on 23 and 24 September. The company is expected to show camera-free smart glasses built around voice commands to Meta AI and Muse, TNW reported last week, citing The Information.\nWells Fargo has flagged Muse adoption as the number to watch there, Forbes reported. After Monday, Zuckerberg has about $25bn of fresh paper wealth, by Forbes’ count, riding on how it looks.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Meta因AI代理Muse获市场认可，股价单日大涨11%",
+  "background": "过去一年，投资者反复追问Meta巨额AI投入何时变现：公司给出2026年1250亿至1450亿美元资本支出指引，同期日活用户首次下滑，股价盘后一度跌9%。本月Meta上线个人AI代理Muse，提供免费层及每月20美元、100美元订阅，可代订行程、发邮件、下单购物，不到两周便在苹果iOS下载榜超越ChatGPT和Claude。这一产品给了市场一个可量化的故事，周一股价收涨11.43%至741.25美元，成交4850万股远超均值。",
+  "key_points": [
+   "Muse上线不足两周就在iOS下载量上超过ChatGPT和Claude，投资者把它当作Meta AI投入终于“能变现”的证据。",
+   "商业模式是订阅制：免费层加20美元、100美元月费，富国银行据此把目标价从640美元上调至796美元，看重重度用户付费。",
+   "扎克伯格单日账面财富增加约250亿美元，按福布斯估算其身家达2536亿美元，对应约13%持股。",
+   "隐忧同样明显：亚马逊以“未授权AI代理违反使用条款”封禁Muse，对一个主打代购的代理是致命缺口。",
+   "安全问题紧随其后：Mac版Muse被曝可被本机恶意软件劫持会话，Meta称实际风险“极低”，发现漏洞的研究者并不认同。",
+   "9月23日至24日的Meta Connect大会将展示围绕语音和Muse的智能眼镜，Muse采用率被列为观察指标。"
+  ],
+  "impact": "对行业而言，这是一次“订阅制个人代理”商业模式的公开验证，可能推动更多厂商从API和广告转向直接向用户收费，同时说明资本市场仍愿为超级智能叙事买单，但耐心与容忍度正在收窄。对开发者，代理代用户操作与平台条款、应用商店规则的冲突已成现实问题，权限沙箱、身份授权和可审计执行链路将从加分项变成刚需。对普通用户，更便宜甚至免费的AI代理会加速普及，但账号被封、会话被劫持等风险需要提前认知。",
+  "tools": "想跟进可先体验Meta Muse免费层；同类可关注OpenAI的代理功能、Anthropic Claude的计算机操作能力；自建方向有browser-use、OpenHands、AutoGPT等开源项目；安全侧可留意Patrick Wardle的Objective-See工具集，了解macOS代理类应用的风险面。"
+ },
+ "lang": "zh"
+}

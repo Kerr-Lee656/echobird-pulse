@@ -11932,5 +11932,104 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-22T21:17:14.202633+00:00"
+ },
+ "9f9481d4b39d": {
+  "id": "9f9481d4b39d",
+  "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+  "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:28:43.802687+00:00"
+ },
+ "c79e9b37fb04": {
+  "id": "c79e9b37fb04",
+  "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+  "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:28:52.655000+00:00"
+ },
+ "ba6c607be0b2": {
+  "id": "ba6c607be0b2",
+  "url": "https://thenextweb.com/news/meta-jumps-11-as-investors-bet-on-its-muse-agent",
+  "title": "Meta jumps 11% as investors bet on its Muse agent",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:01.785212+00:00"
+ },
+ "a11270ac6298": {
+  "id": "a11270ac6298",
+  "url": "https://thenextweb.com/news/openai-evaluators-training-phase",
+  "title": "OpenAI will let outside groups test its models during training",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:11.138792+00:00"
+ },
+ "21df51228aab": {
+  "id": "21df51228aab",
+  "url": "https://thenextweb.com/news/xiaomi-mimo-v2-6-open-weight-model-anthropic-distillation",
+  "title": "A phone maker now has the world’s top open-weight AI model",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:21.314648+00:00"
+ },
+ "f81cf8ce3155": {
+  "id": "f81cf8ce3155",
+  "url": "https://thenextweb.com/news/china-cac-probe-deepseek-moonshot-anthropic-data",
+  "title": "China is investigating DeepSeek and Moonshot, The Information reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:30.641390+00:00"
+ },
+ "03d7385d917d": {
+  "id": "03d7385d917d",
+  "url": "https://thenextweb.com/news/anthropic-opus-5-5-price-cut",
+  "title": "Anthropic’s cheaper Opus arrives weeks before its IPO",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:40.638827+00:00"
+ },
+ "6b618256134e": {
+  "id": "6b618256134e",
+  "url": "https://daily.dev/posts/5zlqdbrtr",
+  "title": "Alibaba unveils Zhenwu V900 chip and full-stack AI strategy at Apsara Conference",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-23T00:29:49.067075+00:00"
+ },
+ "41bbab0be948": {
+  "id": "41bbab0be948",
+  "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+  "title": "因ChatGPT被用于枪击案，诉讼要求OpenAI为新建学校提供资金",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-22T19:44:27.801Z",
+  "fetched_at": "2026-09-23T00:30:03.932402+00:00"
+ },
+ "c3ebce33b3f2": {
+  "id": "c3ebce33b3f2",
+  "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-104509380.html",
+  "title": "Palantir首席执行官亚历克斯·卡普表示，只有华盛顿才能限制人工智能的责任：“这些企业必须被国有化”",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-22T19:44:27.526Z",
+  "fetched_at": "2026-09-23T00:30:19.033720+00:00"
+ },
+ "a809b61ca635": {
+  "id": "a809b61ca635",
+  "url": "https://www.ithome.com/1/006/002.htm",
+  "title": "阿里千问平板 Qwen Book 现身 2026 骁龙峰会，定位原生 AI 智能体电脑",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-22T19:39:12Z",
+  "fetched_at": "2026-09-23T00:30:28.299212+00:00"
  }
 }

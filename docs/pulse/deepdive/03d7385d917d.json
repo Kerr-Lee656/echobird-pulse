@@ -1,0 +1,24 @@
+{
+ "id": "03d7385d917d",
+ "url": "https://thenextweb.com/news/anthropic-opus-5-5-price-cut",
+ "title": "Anthropic’s cheaper Opus arrives weeks before its IPO",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T00:29:40.638827+00:00",
+ "content": "Anthropic released Claude Opus 5.5 on Tuesday at $4 per million input tokens and $20 per million output, below the $5 and $25 that Opus 5 has carried since July, and says it performs similarly to the more expensive Fable 5.1 on most work. It is the first model since Dario Amodei called for third-party evaluation, which Article 55 of the AI Act has obliged in Europe since August 2025.\nAnthropic released Claude Opus 5.5 on Tuesday, a model it says performs similarly to its more capable Fable 5.1 on most work while costing significantly less to run than Opus 5, Bloomberg reported. Sonnet and Haiku versions follow in the coming weeks. It is built for long-running agentic coding and knowledge work, with a one million token context window.\nThe price is the news.\nOpus 5.5 costs $4 per million input tokens and $20 per million output, down from $5 and $25. Fable 5.1 is $10 and $50. Cache reads are $0.20 and batch processing is half price.\nThat is the first cut to an Opus price.\nWhen Opus 5 arrived in July it carried the same price as the model before it. Anthropic has spent a year moving capability without moving the number. This release moves the number instead.\nThe other half is evaluation.\nAnthropic says METR and Frontier Design tested Opus 5.5 before release, and that it carries safeguards like Fable’s to limit riskier cybersecurity and biology uses. The model now runs a biology classifier alongside the cybersecurity one. Adaptive thinking cannot be switched off, and the default effort level drops from high to medium.\nTen days ago that was a promise.\nDario Amodei called on the industry to slow the pace of AI development on 12 September, and said his company would bring in third-party evaluators. This is the first model since.\nEurope has required it since August 2025.\nArticle 55 of the AI Act obliges providers of general-purpose models with systemic risk to run adversarial testing to standardised protocols, assess and mitigate systemic risk, protect the model and its infrastructure, and report serious incidents without delay. ENISA already evaluates models including Anthropic’s. The AI Omnibus left those obligations unchanged in July.\nSo the step is voluntary in one market and compulsory in another.\nThe price has a reason too. Customers have been moving to cheaper models, and Harvey, the legal startup valued at $15.6B, built its own on a Chinese open-weight base in August to displace what it was renting. Anthropic lists on Nasdaq next month, having filed confidentially at $965B.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic 发布 Opus 5.5，首次降价并引入第三方评估",
+  "background": "过去一年多，Anthropic 一直靠能力迭代而非价格竞争，Opus 系列定价始终未动。但客户正加速流向更便宜的选择——法律 AI 公司 Harvey 已在 8 月基于中国开源权重自研模型以替换租用的 API。与此同时监管收紧：欧盟 AI Act 第 55 条自 2025 年 8 月起要求具系统性风险的通用模型接受标准化对抗测试。创始人 Amodei 也在 9 月 12 日公开呼吁行业放慢节奏，并承诺引入第三方评估。公司已以 9650 亿美元估值保密递交纳斯达克 IPO，下月挂牌。",
+  "key_points": [
+   "定价是本轮核心：Opus 5.5 每百万输入 4 美元、输出 20 美元，低于 Opus 5 的 5/25 美元，缓存读取仅 0.2 美元，批处理半价，是 Opus 系列史上首次降价。",
+   "官方称其在多数任务上表现接近更贵的 Fable 5.1（10/50 美元），主打长时程代理编码和知识工作，支持 100 万 token 上下文窗口。",
+   "安全侧首次兑现承诺：METR 和 Frontier Design 参与发布前测试，新增生物风险分类器，自适应思考不可关闭，默认努力等级从高降为中。",
+   "监管背景鲜明：欧盟自 2025 年 8 月起强制对抗性测试与事件上报，同一动作在欧盟是法定义务，在美国则是自愿姿态。",
+   "商业动机直接：Sonnet 和 Haiku 版本数周内跟进，赶上纳斯达克上市窗口，用降价回应客户流失与开源模型的挤压。"
+  ],
+  "impact": "对行业而言，头部厂商首次在旗舰产品线上打价格战，说明模型能力差距正在收窄，竞争焦点从跑分转向单位成本、长上下文与合规资质。对开发者而言，代理式编码成本大幅下降，长任务更可行，但默认努力等级下调可能影响复杂推理表现，需实测校准。对普通用户而言，AI 产品价格有望继续下探，同时模型发布前的第三方评测与生物、网络安全护栏将成为常态化门槛，透明度要求整体抬高。",
+  "tools": "想跟进可读 METR 与 ENISA 的公开评测报告，理解合规测试路径；实操上利用 Anthropic API 的缓存读取与批处理把成本再砍一半；开源侧可对比 DeepSeek、Qwen 等中文权重模型的自托管方案做成本基准；代理开发可关注 Claude Agent SDK、LangGraph、OpenHands 等框架。"
+ },
+ "lang": "zh"
+}

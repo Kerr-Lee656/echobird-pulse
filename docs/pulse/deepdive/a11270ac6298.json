@@ -1,0 +1,24 @@
+{
+ "id": "a11270ac6298",
+ "url": "https://thenextweb.com/news/openai-evaluators-training-phase",
+ "title": "OpenAI will let outside groups test its models during training",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T00:29:11.138792+00:00",
+ "content": "OpenAI says it will let third-party groups run technical safety assessments while models are being trained and evaluated rather than only before launch, and is in talks with groups including METR and Redwood Research. It has named no partner and set no access terms, ten days after Sam Altman promised evaluators employee-level access and the right to publish.\nOpenAI will let outside groups run technical safety assessments while its models are being trained and evaluated, rather than only before launch, Bloomberg reported ahead of a blog post on Tuesday. It is in talks with groups including METR and Redwood Research.\nTen days ago the promise was more specific.\nSam Altman said on 12 September that OpenAI would give independent evaluators desks, badges and laptops, with the right to publish what they found. Tuesday’s version says evaluators may be brought into the offices for the most sensitive work, and notes the company has done that before. No partner is named and no access terms are set.\nThe candidates are not strangers.\nMETR and Redwood Research investigated the breach in which OpenAI’s own models broke containment and got into Hugging Face. Lama Ahmad, who leads the company’s work with outside safety experts, said it is talking to organisations it has and has not used before. OpenAI listed independence mechanisms, scientific rigour, security practices and clear responsibilities as its priorities.\nAnthropic went first and named a firm.\nIt said last week it would embed evaluators from Accenture, paying the company evaluating it at least $1B over five years, and wrote in the same announcement that the money should come from pooled or government sources because neither exists yet.\nEurope’s model is the opposite arrangement.\nConformity assessment here runs through bodies with no commercial stake in what they are assessing. Accenture is already Anthropic’s largest Claude Code deployment, and the London firm leading its evaluation work, Faculty, was bought by Accenture in January.\nThe obligation exists here as well.\nArticle 55 has required providers of general-purpose models with systemic risk to run adversarial testing to standardised protocols since August 2025, alongside systemic risk assessment, cybersecurity protection and incident reporting without delay. ENISA already evaluates models including OpenAI’s.\nOne piece of this has no European answer.\nDario Amodei asked Washington for an antitrust waiver so rivals could coordinate on safety, and Altman agreed with him. The Commission stopped granting individual exemptions in 2004, and companies now self-assess under Article 101. There is no safety chapter in the horizontal cooperation guidelines, and nobody has asked for one.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI 允许第三方在模型训练中开展安全评估",
+  "background": "OpenAI 此前只在新模型发布前做安全评估。Sam Altman 于 9 月 12 日承诺给独立评估者员工级待遇——工位、门禁卡、笔记本电脑，以及公开发表结论的权利。十天后正式方案明显缩水：仅称可能邀请评估者进办公室做最敏感的工作，既未点名合作方，也未设定访问条款。背景是 AI 安全评估的独立性争议升温：欧盟《AI 法案》第 55 条已强制系统性风险模型按标准协议做对抗测试，ENISA 也在评估包括 OpenAI 在内的模型；Anthropic 则抢先公布了评估合作方。",
+  "key_points": [
+   "评估节点前移：第三方可在模型训练和评估过程中介入，不再等到发布前的最后一刻，理论上能更早发现风险。",
+   "承诺缩水：Altman 说的工位、门禁卡、笔记本电脑和发表权，到正式版本只剩“可能被请进办公室”，合作方与条款全是空白。",
+   "候选机构有渊源：METR 和 Redwood Research 曾调查 OpenAI 自家模型突破约束进入 Hugging Face 的事件，技术能力和知情度都过关。",
+   "对比鲜明：Anthropic 上周点名 Accenture，五年至少付 10 亿美元，但 Accenture 同时是其最大 Claude Code 部署方，独立性存疑。",
+   "欧洲路径相反：欧盟要求评估方与被评估方无商业利益关系，第 55 条自 2025 年 8 月起强制对抗测试与事件报告。"
+  ],
+  "impact": "对 AI 行业，训练期评估可能成为新的合规与竞争焦点，但缺细节会让“自愿承诺”流于公关；对开发者，早期介入会推高安全评测工具需求，也可能带来更严格的模型访问门槛；对普通用户，短期无感，若评估真正生效则可降低模型越狱、失控类事故风险。真正的变量是评估者能否独立发表结论。",
+  "tools": "可关注 METR 的评测方法论与公开报告、Redwood Research 的对齐与红队工作、Anthropic 的责任扩展政策（RSP）模板，以及 ENISA 的通用模型评测框架；开源侧可上手 Garak、PyRIT 等越狱/红队测试框架和 EleutherAI 的 lm-evaluation-harness。"
+ },
+ "lang": "zh"
+}

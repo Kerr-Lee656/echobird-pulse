@@ -1,0 +1,24 @@
+{
+ "id": "9f9481d4b39d",
+ "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+ "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-23T00:28:43.802687+00:00",
+ "content": "Earlier this month, OpenAI launched GPT-6 Astra, which it heralded as its most powerful and capable model yet, and the “world’s best model” for a variety of activities, including computer work and coding. Now, the lab is expanding the GPT-6 generation with updated versions of the smaller Sol and Luna models.\n“GPT-6 Astra introduced a new generation of intelligence; these models extend its benefits by making that intelligence more efficient and accessible,” the company writes.\nThe first models in the Sol and Luna series were introduced earlier this year, representing different tiers in OpenAI’s hierarchy of models. Sol is designed for complex tasks like coding, while OpenAI says Luna is more appropriate for clerical work — “high-volume tasks with a clear goal, like summarizing documents, extracting information, or answering quick questions.”\nOpenAI is also emphasizing big improvements in efficiency and affordability — most notably, via a substantial price drop for API access. The 6 series models will be available at half the cost of the 5.6 series of Sol and Luna, a price drop that OpenAI attributes to improvements in caching and inference.\nOpenAI also claims that its newest models are better at producing answers that are factually accurate, and notes that they have a lower error rate when it comes to coding.\n“On our internal factuality evaluation, which is based on de-identified real-world conversations where users flagged mistakes by our models, GPT-6 Sol makes about half as many mistakes as its predecessor, reaching Astra-level reliability at much lower cost,” the announcement reads.\nAs is typical with OpenAI’s new model releases, the company is claiming that its newest offerings outshine those of its primary competitor, Anthropic. The company repeatedly claims that GPT-6 Sol and Luna handle tasks substantially better than Anthropic’s top models — like Fable and Opus.\nNotably, Anthropic released a new version of Opus 5.5 just 90 minutes before OpenAI’s release, reflecting the intense competition between the two companies.\nThe new versions of Sol and Luna are now available in ChatGPT Work and Codex for most paid accounts, and in the ChatGPT API, while Luna will be available in the desktop app and for Free and Go users. OpenAI expects to roll out the models to ChatGPT (the app and website) gradually throughout the day.",
+ "report": {
+  "summary": "OpenAI发布GPT-6 Sol与Luna，价格减半、错误率大降",
+  "background": "本月早些时候，OpenAI刚推出旗舰模型GPT-6 Astra，称其为\"世界最强模型\"，擅长编程和电脑操作。如今它把同一代能力下沉到更小的Sol和Luna上——这两个系列今年早些时候首次亮相，代表OpenAI模型体系中的不同层级。此次更新的核心不再是\"更强\"，而是\"更便宜、更可靠\"：通过缓存和推理优化，把6系API价格砍到5.6系的一半。与此同时，与Anthropic的竞争白热化——后者在OpenAI发布前90分钟刚推出Opus 5.5。",
+  "key_points": [
+   "分层定位清晰：Sol主打编程等复杂任务，Luna面向文档摘要、信息提取、快速问答这类目标明确的高频工作。",
+   "API价格直接减半：6系模型成本仅为5.6系Sol和Luna的50%，OpenAI把降价归功于缓存与推理效率的改进。",
+   "准确性提升明显：内部事实性评估显示，GPT-6 Sol的错误约为前代一半，以更低成本达到旗舰Astra级别的可靠性，编程出错率也更低。",
+   "对标Anthropic：OpenAI反复强调Sol和Luna在任务表现上大幅优于Anthropic的Fable和Opus，而对方在90分钟前刚发Opus 5.5。",
+   "上线节奏：新模型已进入ChatGPT Work、Codex（多数付费账户）和API，Luna还覆盖桌面应用及Free/Go用户，网页版当天逐步推送。"
+  ],
+  "impact": "对行业而言，竞争焦点从\"谁更聪明\"转向\"谁更便宜可靠\"，价格战与推理效率优化将成主战场。对开发者，API成本腰斩意味着高频批量任务的经济性大幅改善，迁移和试错门槛降低，但需重新评估模型路由与成本结构。对普通用户，Luna下放到免费和Go套餐，日常摘要、问答等任务体验更稳、错误更少。",
+  "tools": "想跟进的开发者可直接用OpenAI API、ChatGPT Work和Codex；建议同时关注LiteLLM、OpenRouter等多模型路由与比价工具，方便在Sol、Luna与Anthropic模型间切换做基准测试，并结合prompt caching进一步压低调用成本。"
+ },
+ "lang": "zh"
+}

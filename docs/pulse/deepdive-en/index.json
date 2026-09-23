@@ -4003,5 +4003,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-22T15:13:34.000Z",
   "fetched_at": "2026-09-22T16:59:18.508627+00:00"
+ },
+ "429f514fb2e7": {
+  "id": "429f514fb2e7",
+  "url": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
+  "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+  "source": "Simon Willison 博客",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-22T23:46:41.000Z",
+  "fetched_at": "2026-09-23T00:32:12.947671+00:00"
+ },
+ "4fb133d3e427": {
+  "id": "4fb133d3e427",
+  "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
+  "title": "Autonomous AI Agents Are Breaking into Online Retailers",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-22T22:00:20Z",
+  "fetched_at": "2026-09-23T00:32:23.669941+00:00"
+ },
+ "cc03eb22570a": {
+  "id": "cc03eb22570a",
+  "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+  "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-09-22T21:25:18.000Z",
+  "fetched_at": "2026-09-23T00:33:03.076976+00:00"
+ },
+ "08c71c677d3a": {
+  "id": "08c71c677d3a",
+  "url": "https://aihot.news/items/cmud52j4i003droralpe8a53b",
+  "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+  "source": "@rohanpaul_ai",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-22T20:12:31.000Z",
+  "fetched_at": "2026-09-23T00:33:45.074800+00:00"
+ },
+ "5e8b60d2c8d4": {
+  "id": "5e8b60d2c8d4",
+  "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+  "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-09-22T19:45:47.000Z",
+  "fetched_at": "2026-09-23T00:33:59.417823+00:00"
+ },
+ "2e257ffa6263": {
+  "id": "2e257ffa6263",
+  "url": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+  "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
+  "source": "Artificial Analysis 完整文章（网页）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-22T19:41:37.000Z",
+  "fetched_at": "2026-09-23T00:34:09.888917+00:00"
  }
 }
