@@ -12139,5 +12139,59 @@
   "site_name": "AIbase",
   "published_at": "2026-09-23T14:31:05.688Z",
   "fetched_at": "2026-09-23T18:25:39.509901+00:00"
+ },
+ "1b9ff96a28c0": {
+  "id": "1b9ff96a28c0",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-ahead-093639727.html",
+  "title": "特朗普即将发表联合国演讲，阿里巴巴发布新款AI芯片，美股期货持稳：道琼斯、标普、纳斯达克、华尔街",
+  "source": "finance.yahoo.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-23T18:25:26.491Z",
+  "fetched_at": "2026-09-23T22:57:13.539235+00:00"
+ },
+ "90554e63532c": {
+  "id": "90554e63532c",
+  "url": "https://news.ycombinator.com/item?id=49820134",
+  "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+  "source": "hackernews",
+  "site_name": "NewsNow",
+  "published_at": "2026-09-23T18:06:47Z",
+  "fetched_at": "2026-09-23T22:57:24.091002+00:00"
+ },
+ "dec46e027c55": {
+  "id": "dec46e027c55",
+  "url": "https://www.ithome.com/1/006/510.htm",
+  "title": "Anthropic 工程师解释为何 Claude 写作变差：模型被训练成写给 AI 看而非写给人看",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-23T15:34:48Z",
+  "fetched_at": "2026-09-23T22:57:32.900823+00:00"
+ },
+ "88a2e4e533d7": {
+  "id": "88a2e4e533d7",
+  "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes",
+  "title": "在发生多起人员伤亡事件后，美国国家公路交通安全管理局（NHTSA）正在对comma.ai展开调查。",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-23T15:17:50.350Z",
+  "fetched_at": "2026-09-23T22:57:53.236323+00:00"
+ },
+ "2f294f87e7b5": {
+  "id": "2f294f87e7b5",
+  "url": "https://www.ithome.com/1/006/485.htm",
+  "title": "爆料称 AMD 为微软 XBOX Helix 和索尼 PS6 主机设计的芯片已流片，前者浮点算力纸面领先四成",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-23T14:34:29Z",
+  "fetched_at": "2026-09-23T22:58:02.448465+00:00"
+ },
+ "eef1caf80c21": {
+  "id": "eef1caf80c21",
+  "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
+  "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-23T22:58:11.013232+00:00"
  }
 }

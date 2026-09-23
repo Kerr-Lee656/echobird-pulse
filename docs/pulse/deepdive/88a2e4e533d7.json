@@ -1,0 +1,24 @@
+{
+ "id": "88a2e4e533d7",
+ "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes",
+ "title": "在发生多起人员伤亡事件后，美国国家公路交通安全管理局（NHTSA）正在对comma.ai展开调查。",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-23T15:17:50.350Z",
+ "fetched_at": "2026-09-23T22:57:53.236323+00:00",
+ "content": "Aftermarket devices that can boost or augment a vehicle’s native advanced driver assistance systems are the target of a new federal investigation this week. The National Highway Traffic Safety Administration’s Office of Defects Investigation says it knows of five crashes in which drivers using devices from comma.ai crashed into stopped or slow-moving cars. Two of the crashes resulted in three deaths, and 11 people were injured in four of the five crashes, some seriously.\nComma.ai was the brainchild of George Hotz, who rose to prominence at the start of the last decade by jailbreaking iOS and hacking Sony PlayStations. In 2015, Hotz turned his attention to partially automated driver assists, which were gaining attention following Tesla’s exploits with its Autopilot system. Hotz first modified his own Acura to give it a more advanced driver assist that let him take his hands off the wheel, with the goal of selling his system to Tesla and replacing Mobileye as the company’s supplier.\n(Mobileye dropped Tesla as a customer the following year after becoming unhappy with the way the car company was using Mobileye products in unintended ways.)\nComma’s first attempts to sell devices that owners could plug into their cars’ ODB port evaporated once NHTSA began asking questions in 2016. Instead, Comma decided to post its openpilot software, as well as its plans for hardware, to GitHub, allowing anyone to make the devices themselves. At first, the Comma Neo and OpenPilot supported a single Acura and single Honda model, but by 2020, the company’s software and $999 device were rated more highly by Consumer Reports than any OEM system.",
+ "report": {
+  "summary": "NHTSA调查comma.ai售后驾驶辅助，涉5起碰撞3死。",
+  "background": "comma.ai由George Hotz于2015年创立，瞄准半自动驾驶辅助，一度想向特斯拉供货并取代Mobileye。2016年NHTSA问询后，comma放弃售卖即插即用的OBD设备，将openpilot软件和硬件方案开源到GitHub，让用户自行组装。早期仅支持少数车型，到2020年其软件与999美元设备在Consumer Reports评测中超过原厂系统。如今NHTSA缺陷调查办公室因多起致死碰撞对其售后设备启动联邦调查。",
+  "key_points": [
+   "调查涉及5起使用comma.ai设备的碰撞，均撞上静止或慢行车辆，其中2起致3人死亡，4起共11人受伤，部分重伤。",
+   "comma.ai由George Hotz创立，2015年从iOS越狱、破解PlayStation转向半自动驾驶，曾想取代Mobileye成为特斯拉供应商。",
+   "2016年NHTSA问询后，comma放弃售卖OBD即插即用设备，转而在GitHub开源openpilot和硬件设计，用户可自制。",
+   "到2020年，comma的软件和999美元设备在Consumer Reports评测中评分超过任何原厂ADAS，成为售后辅助驾驶标杆。",
+   "此次联邦调查将检验售后ADAS改装的安全责任与监管边界，可能影响开源自动驾驶社区。 "
+  ],
+  "impact": "对AI行业，售后ADAS与开源自动驾驶进入强监管视野，安全验证和责任划分成为焦点。对开发者，openpilot生态可能面临更严格审查，贡献者需关注合规、数据记录与失效处理，开源不等于免责。对普通用户，售后加装辅助驾驶不能替代驾驶责任，调查提醒这些系统在静止或慢车场景识别可能不足，需保持手扶方向盘并随时接管。",
+  "tools": "可关注comma.ai的openpilot开源项目及其GitHub硬件方案，了解售后ADAS实现；同时跟踪NHTSA ODI调查页面和Consumer Reports的ADAS评测。若想安全体验，优先使用车辆原厂辅助驾驶，并阅读openpilot安全文档与车型兼容列表。"
+ },
+ "lang": "zh"
+}
