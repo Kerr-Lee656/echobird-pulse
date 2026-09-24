@@ -4192,5 +4192,68 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-24T04:00:00.000Z",
   "fetched_at": "2026-09-24T04:47:56.706933+00:00"
+ },
+ "386c24cf5e18": {
+  "id": "386c24cf5e18",
+  "url": "https://github.com/cloudflare/cloudflare-os",
+  "title": "cloudflare/cloudflare-os — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-24T11:43:55.906298+00:00"
+ },
+ "1fd729751fd7": {
+  "id": "1fd729751fd7",
+  "url": "https://github.com/pydantic/monty",
+  "title": "pydantic/monty — A minimal, secure Python interpreter written in Rust for use by AI",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-24T11:44:05.353095+00:00"
+ },
+ "f0486341f152": {
+  "id": "f0486341f152",
+  "url": "https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier",
+  "title": "Dutch intelligence services warn AI is making cyberattacks faster and easier",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T11:27:41Z",
+  "fetched_at": "2026-09-24T11:44:14.748407+00:00"
+ },
+ "c652f7fb08ff": {
+  "id": "c652f7fb08ff",
+  "url": "https://prohumandeclaration.com/en/sign/demand-ai-accountability",
+  "title": "Pro-Human AI Declaration",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T10:30:04Z",
+  "fetched_at": "2026-09-24T11:44:29.390609+00:00"
+ },
+ "254172a4e406": {
+  "id": "254172a4e406",
+  "url": "https://arxiv.org/abs/2609.28274",
+  "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T10:07:08Z",
+  "fetched_at": "2026-09-24T11:44:40.844527+00:00"
+ },
+ "86058a79424e": {
+  "id": "86058a79424e",
+  "url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00",
+  "title": "Mark Zuckerberg unveils AI 'charm' device that can fit on a keychain",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T09:59:55Z",
+  "fetched_at": "2026-09-24T11:44:57.185807+00:00"
+ },
+ "549242f464f7": {
+  "id": "549242f464f7",
+  "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+  "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-24T09:04:18.000Z",
+  "fetched_at": "2026-09-24T11:45:10.532592+00:00"
  }
 }

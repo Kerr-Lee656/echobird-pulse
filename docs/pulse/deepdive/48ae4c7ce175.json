@@ -1,0 +1,24 @@
+{
+ "id": "48ae4c7ce175",
+ "url": "https://www.aibase.com/news/31344",
+ "title": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-24T08:50:34.498Z",
+ "fetched_at": "2026-09-24T11:41:28.197321+00:00",
+ "content": "Zhiyuan has pushed the production scale of embodied intelligence forward by another significant step. On September 24, the 20,000th general-purpose embodied intelligent robot, Yanzheng A3Ultra, officially left the production line at Hengqin Chimelong Spacecraft Park and was handed over to Chimelong Group on the spot. From crossing the 10,000-unit milestone in March this year to reaching 20,000 units now, the company has taken about six months — the curve of production capacity climbing has clearly entered an acceleration phase.\nOn the same day, the world's first large-scale embodied intelligent theme park, jointly created by Zhiyuan and Chimelong, was launched at Hengqin Chimelong Spacecraft Park. Over 300 robots from Zhiyuan's full series began to be used on a regular basis in the park, participating in scenarios such as visitor interaction, tour guidance, performance, and science education. For Zhiyuan, the delivery of the 20,000th mass-produced unit marks that its embodied intelligent products have truly moved from past R&D verification and single-point displays to the track of mass production, large-scale delivery, and routine operation; this delivery also pulls general-purpose embodied robots from relatively structured scenarios like industry and commercial performances into the cultural tourism public space with high foot traffic, high interaction, and high openness — a place without fixed routes, only constantly arriving crowds and unpredictable situations.\nThe main character, Yanzheng A3Ultra, is no less impressive. It is equipped with a 360° all-around perception system, a UWB and RTK fusion positioning system, and a platform with 700 TOPS computing power. Its body height is 174 centimeters, made of a composite material of magnesium alloy and carbon fiber nylon, which makes it both lightweight and durable. The most ingenious part is its 20-degree-of-freedom omnidirectional tactile dexterous hand — degrees of freedom refer to the number of independent motion dimensions of joints, allowing it to not only deliver and transport but also organize and restock, making a real \"hand\" useful.\nLooking at the timeline straight, Zhiyuan's production base has been gradually solidified: In 2023, there were only 6 prototype machines; in August 2024, mass production started; in January 2025, it exceeded 1,000 units, and by the end of the year, it reached 5,000 units; in March 2026, it crossed the 10,000-unit threshold, and by June, it surpassed 15,000 units, reaching 20,000 units on September 24. This almost quarterly jump rhythm is the result of the simultaneous maturity of the supply chain, calibration, and scenario adaptation.\nTo make robots truly \"live\" in the park rather than just being displayed, Zhiyuan and Chimelong also unveiled the \"Embodied Intelligence Cultural Tourism Joint Research Institute\" on the same day, conducting joint research around scene adaptation for humanoid robots, algorithm iteration, content creation, and commercial validation. When 20,000 robots leave the factory and 300 of them start interacting with real people every day in high-traffic areas, the distance between embodied intelligence being \"able to work\" and \"able to coexist\" has been significantly shortened in reality.",
+ "report": {
+  "summary": "智元第2万台远征A3 Ultra下线交付长隆，300台机器人常态化进驻乐园。",
+  "background": "具身智能长期停留在实验室验证和展会单点展示阶段，能否量产交付、能否在非结构化场景里稳定干活，是行业公认的分水岭。智元走的是陡峭的产能曲线：2023年仅6台原型机，2024年8月启动量产，2025年1月破千台、年底达5000台，今年3月跨过1万台，6月超1.5万台，到9月24日累计2万台，几乎按季度翻台阶，背后是供应链、标定与场景适配同步成熟。与此同时，人形机器人落地场景正从工业、商演等相对结构化的环境，向人流密集、路线不固定、情况不可预测的文旅公共空间延伸，长隆的订单正是这一转向的样本。",
+  "key_points": [
+   "第2万台通用具身智能机器人远征A3 Ultra在横琴长隆飞船乐园下线并当场交付长隆集团，从3月破万到2万台只用了约6个月，产能明显进入加速期。",
+   "双方共建的全球首个大规模具身智能主题乐园同日启动，300多台智元全系列机器人常态化承担游客互动、导览、表演和科普教育等任务。",
+   "A3 Ultra搭载360°全方位感知、UWB与RTK融合定位和700 TOPS算力平台，身高174厘米，机身采用镁合金与碳纤维尼龙复合材料，兼顾轻量与耐用。",
+   "其20自由度全向触觉灵巧手可完成递送、搬运、理货补货等动作，意味着机器人不只是会走会说话，而是真正有了能干活的手。",
+   "智元与长隆揭牌具身智能文旅联合研究院，围绕人形机器人场景适配、算法迭代、内容创作与商业验证展开联合研发。"
+  ],
+  "impact": "对行业而言，这是具身智能从研发验证转向量产交付、常态运营的标志性节点，验证了供应链与场景适配能力，也让文旅成为继工业、商演之后的新落地赛道，量产竞赛将进一步提速。对开发者来说，高人流、高交互、高开放度的乐园是极佳的杂乱真实数据来源，算法迭代、场景适配和二次开发的窗口正在打开。对普通用户，机器人不再是展台上隔着围栏看的展品，而是每天在身边问路、互动、表演的同事，公众认知与接受度会在真实接触中被快速刷新。",
+  "tools": "想跟进可关注智元开源生态：AgiBot World 数据集适合训练操作策略，灵犀X1系列开源硬件与软件、GO-1通用具身基座模型可用于二次开发；仿真与训练侧可上手 Isaac Sim、MuJoCo、LeRobot；硬件与方案对比可参考宇树、银河通用等国内玩家。"
+ },
+ "lang": "zh"
+}

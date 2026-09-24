@@ -1,0 +1,25 @@
+{
+ "id": "adbcd6a47b79",
+ "url": "https://www.aibase.com/news/31337",
+ "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-24T08:50:34.498Z",
+ "fetched_at": "2026-09-24T11:41:44.785762+00:00",
+ "content": "DeepSeek recently published a systems paper, revealing the core technical details of its large-scale agent training dedicated sandbox infrastructure for the first time. The paper is titled \"DeepSeek Elastic Compute (DSec): An Efficient Sandbox Infrastructure for Large-Scale Agent Training,\" which is 31 pages long and was submitted on September 19th. Notably, the author team consists of more than 130 people, with Liang Wenfeng, the founder of DeepSeek, listed as the last author.\nSelf-developed sandbox platform DSec, serving 3 million instances per day per unit\nAccording to the paper, DSec (DeepSeek Elastic Compute) is DeepSeek's self-developed production-grade elastic computing sandbox platform, used as its internal infrastructure. Its core purpose is to provide a secure and stable sandbox environment for large-scale training and evaluation tasks of large model agents, ensuring efficient and stable deployment of massive agent training tasks.\nThe production environment data disclosed in the paper shows that DSec has strong capabilities for large-scale concurrent processing: a standard DSec production unit consists of 160 CPU nodes, with a total of 30,000 CPU cores and approximately 250TB of memory, capable of managing PB-level image files and environmental layer resources. In daily production scenarios, this unit can serve about 3 million sandbox instances per day, stably supporting more than 380,000 concurrent sandboxes running at the same time, with a sandbox creation rate peak exceeding 5,000 per second.\nReducing resource costs and improving memory efficiency\nThrough actual deployment and model evaluation experience, several key mechanisms of DSec have reduced the resource costs of setting up training environments and image distribution, and significantly improved overall memory utilization efficiency. This paper's release of this infrastructure allows the outside world to glimpse the underlying engineering capabilities supporting DeepSeek's massive agent training.",
+ "report": {
+  "summary": "DeepSeek 公开智能体训练沙箱 DSec，单单元日服务300万实例。",
+  "background": "随着大模型从聊天走向能自主调用工具、执行多步任务的智能体（Agent），训练过程中需要海量隔离环境来跑代码、试错和评测，传统虚拟机或容器方案在并发、启动速度和资源开销上难以支撑。DSec 是 DeepSeek 内部自研的生产级弹性计算沙箱平台，此前一直未对外披露。此次发表的 31 页系统论文由 130 余人署名、创始人梁文锋列末位作者，属于典型的'基础设施先行'信号：DeepSeek 正把智能体训练当作下一阶段主线，并罕见地公开底层工程细节。",
+  "key_points": [
+   "DSec 是 DeepSeek 自研的生产级沙箱平台，专门给大模型智能体的训练和评测提供安全、隔离、可弹性扩缩的运行环境。",
+   "一个标准生产单元仅 160 个 CPU 节点、约 3 万核心和 250TB 内存，却能每天支撑约 300 万个沙箱实例。",
+   "同一单元可稳定维持 38 万个沙箱同时运行，沙箱创建速率峰值每秒超过 5000 个，属于超大规模并发调度能力。",
+   "平台还能管理 PB 级镜像文件与环境层资源，并通过缓存与分层机制降低建环境和分发镜像的成本、提升内存利用率。",
+   "论文署名 130 余人、梁文锋排末位，说明这是公司级战略基础设施项目，而非单个小组的技术试验。",
+   "论文属于系统工程方向而非模型算法，意味着 DeepSeek 把'训练环境效率'视为智能体能力竞争的关键一环。"
+  ],
+  "impact": "对 AI 行业而言，它把竞争焦点从'模型参数与数据'延伸到'智能体训练基础设施'，沙箱吞吐量可能成为下一代 Agent 能力的隐性壁垒。对开发者，DSec 的具体机制（镜像分层、弹性调度、内存复用）为自建 Agent 评测环境提供了可借鉴的工程范式，也预示未来会更多强调环境并行度与成本核算。对普通用户，更高效的沙箱意味着智能体产品能更快迭代、更少幻觉式试错，未来在写代码、跑任务类应用中的稳定性和可用性会明显提升，同时推理与训练成本有望继续下降。",
+  "tools": "想跟进的开发者可关注开源沙箱与执行环境方案，如 E2B、Daytona、Firecracker/gVisor 等 microVM 与安全容器技术，以及 Kubernetes 上的弹性调度与镜像分层工具（如 containerd、Nydus、Dragonfly）。Agent 评测框架可参考 SWE-bench、OpenHands、AgentBench，用来自建类似 DSec 的批量执行与评测流水线。"
+ },
+ "lang": "zh"
+}
