@@ -1,0 +1,24 @@
+{
+ "id": "ac4972d2fef1",
+ "url": "https://www.aibase.com/news/31351",
+ "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-24T08:50:34.498Z",
+ "fetched_at": "2026-09-24T17:08:28.142856+00:00",
+ "content": "According to foreign media reports, two sources familiar with the matter revealed that the annualized revenue of DeepSeek, a leading domestic large model company, has exceeded $1 billion, doubling from less than $500 million several months ago. This significant growth is mainly attributed to recent price increases for its products and the continuously rising adoption rates of its series of models among developers and enterprises.\nLiang Wenfeng, CEO of DeepSeek, disclosed this key financial data during a recent investor meeting. This move is seen as an important step to boost investor confidence at a critical moment in the capital market — DeepSeek is nearing the completion of its second round of funding and is actively preparing for an initial public offering on the Shanghai Stock Exchange.\nAccording to the plan, the company aims to complete this round of financing by the end of October, with a fundraising target of 50 billion yuan (approximately 7.5 billion U.S. dollars), and the post-investment valuation is expected to reach 500 billion yuan.\nIn the current context where commercialization of generative AI faces scrutiny regarding monetization and profitability, the rapid growth in DeepSeek's annualized revenue not only confirms its ability to commercialize large model technology, but also the projected valuation of 500 billion yuan and the massive fundraising plan will set a new record for capital scale in the primary market for domestic large model start-ups, holding significant implications for local AI companies aiming to enter the public capital market.",
+ "report": {
+  "summary": "传DeepSeek年化收入破10亿美元，拟募资500亿冲刺上交所上市",
+  "background": "DeepSeek由幻方量化于2023年孵化，长期靠自筹资金运营，几乎不依赖外部融资。2025年初，其R1推理模型以极低训练成本对标OpenAI o系列，引发全球关注，但公司对商业化数据一直守口如瓶。此后团队调整策略：上调API价格、加速企业级落地，并推进融资。与此同时，国产大模型公司掀起上市潮，上交所科创板也为未盈利硬科技企业打开通道。此次收入数据与募资计划在第二轮融资收尾、IPO筹备的关键节点披露，明显意在向投资人证明大模型的真实变现能力。",
+  "key_points": [
+   "年化收入从数月前的不足5亿美元翻倍至10亿美元以上，由CEO梁文锋在投资人会议上亲自披露，被视为提振资本信心的关键动作。",
+   "增长主要来自两块：产品API涨价，以及开发者和企业对其模型系列的采用率持续攀升，说明付费意愿正在真实形成。",
+   "公司计划10月底完成第二轮融资，目标募资500亿元人民币（约75亿美元），投后估值预计达5000亿元人民币。",
+   "若成行，这将是国内大模型初创公司在一级市场创下的最大融资纪录，也意味着DeepSeek正从技术明星转向资本市场的重资产玩家。",
+   "在生成式AI变现能力普遍被质疑的背景下，10亿美元年化收入为国产大模型提供了一个少见的商业化参照样本。"
+  ],
+  "impact": "对AI行业：10亿美元年化收入加5000亿估值，为国产大模型的商业化和IPO定价提供了锚点，可能加速同行融资与上市节奏，也标志着竞争从拼参数转向拼收入。对开发者：API涨价已成事实，调用成本上升，但生态与能力投入大概率会同步加大，需要重新权衡付费API与自建开源部署的性价比。对普通用户：短期影响可能体现在C端产品定价和免费额度上，但更充足的资本支持有望带来更稳定的服务和更快的模型迭代。",
+  "tools": "想跟进可关注DeepSeek开放平台API，以及其在Hugging Face上开源的R1/V3权重；本地或私有化推理可用Ollama、vLLM、SGLang部署；做成本测算时可横向对比阿里通义、月之暗面Kimi等国产API价格，并用LMArena、Artificial Analysis跟踪各家模型性价比变化。"
+ },
+ "lang": "zh"
+}
