@@ -12328,5 +12328,77 @@
   "site_name": "AIbase",
   "published_at": "2026-09-24T08:50:34.498Z",
   "fetched_at": "2026-09-24T17:08:28.142856+00:00"
+ },
+ "549242f464f7": {
+  "id": "549242f464f7",
+  "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+  "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T21:29:29.418988+00:00"
+ },
+ "58c2e8758b67": {
+  "id": "58c2e8758b67",
+  "url": "https://www.36kr.com/p/3996196939616387",
+  "title": "阿里一口气上新5款千问模型，价格最高降95%",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-24T21:29:48.195635+00:00"
+ },
+ "5e2bb6f0ac94": {
+  "id": "5e2bb6f0ac94",
+  "url": "https://www.36kr.com/p/3995974798249864",
+  "title": "梁文锋署名，DeepSeek又发新论文了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-24T21:29:59.393501+00:00"
+ },
+ "5b38d4246947": {
+  "id": "5b38d4246947",
+  "url": "https://www.aibase.com/zh/news/31357",
+  "title": "首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-24T21:30:19.624769+00:00"
+ },
+ "5e19efbf90b2": {
+  "id": "5e19efbf90b2",
+  "url": "https://www.aibase.com/zh/news/31356",
+  "title": "蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-24T21:30:41.640712+00:00"
+ },
+ "d27bcd34b7d4": {
+  "id": "d27bcd34b7d4",
+  "url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+  "title": "特朗普与习近平会晤实时报道：中美两国领导人将在华盛顿举行的重要会议上就人工智能和贸易问题进行讨论",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-24T13:53:33.059Z",
+  "fetched_at": "2026-09-24T21:30:56.783796+00:00"
+ },
+ "de0a9667d952": {
+  "id": "de0a9667d952",
+  "url": "https://www.ithome.com/1/007/016.htm",
+  "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-24T13:25:13Z",
+  "fetched_at": "2026-09-24T21:31:04.421549+00:00"
+ },
+ "0150f72be30e": {
+  "id": "0150f72be30e",
+  "url": "https://www.ithome.com/1/007/014.htm",
+  "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-24T13:16:35Z",
+  "fetched_at": "2026-09-24T21:31:12.153887+00:00"
  }
 }

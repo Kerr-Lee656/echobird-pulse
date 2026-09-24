@@ -1,0 +1,24 @@
+{
+ "id": "549242f464f7",
+ "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+ "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-24T21:29:29.418988+00:00",
+ "content": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google’s DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is aiming to launch the model “much earlier” than the end of the year.\nGemini 4 is almost ready, says new Google DeepMind chief\nThe new frontier AI model should arrive long before the end of 2026.\n“Our intention is to, like — as soon as possible — to release an early post-training output because we see the results and we are excited,” Kavukcuoglu told the publication, adding that Google would “continue the fast-paced iterations” going forward. This hopefully marks Google returning to a more consistent AI release timeline following a shakeup at DeepMind’s top leadership, with former AI head Demis Hassabis stepping down in August after announcing that “great progress” was being made on Gemini 4.\nGoogle hasn’t released a new flagship AI model since the Gemini 3 series in November 2025. OpenAI’s GPT-6 and Anthropic’s Mythos series models have launched since then. Both outperform Gemini 3 and give the rival AI providers a sizable lead against Google in the AI race. Google CEO Sundar Pichai said at the I/O event in May that a major Gemini 3.5 Pro update would be coming in June to help bridge the gap, but the model was never rolled out.\nKavukcuoglu said the company “took a little bit of a step back” to focus on introducing faster, less powerful Flash models instead of releasing Gemini 3.5 Pro. When asked whether he was concerned about Google falling behind its rivals on AI development, he told The Information that “In my mind, it’s a certainty that we are always gonna be at the frontier.”",
+ "report": {
+  "summary": "谷歌DeepMind新帅称Gemini 4已进入打磨阶段，将提前发布追赶对手。",
+  "background": "谷歌自2025年11月发布Gemini 3系列后，近一年未推出新的旗舰模型，而OpenAI的GPT-6与Anthropic的Mythos系列已相继上线并在多项能力上实现反超，令谷歌在AI竞赛中明显落后。雪上加霜的是，原DeepMind负责人Demis Hassabis于8月卸任，Koray Kavukcuoglu接棒。此前谷歌CEO皮查伊在I/O大会上承诺的Gemini 3.5 Pro更新最终跳票，公司转而主推更快但能力较弱的Flash系列，被外界解读为战略收缩。",
+  "key_points": [
+   "新负责人Kavukcuoglu首次公开亮相即表态：Gemini 4已在精调阶段，目标远早于年底发布，并会先放出早期后训练版本。",
+   "谷歌自Gemini 3后停更旗舰模型近一年，GPT-6与Anthropic Mythos系列趁势反超，形成明显代差。",
+   "此前承诺6月推出的Gemini 3.5 Pro最终未上线，谷歌官方解释为“退一步”专注更快、更轻量的Flash模型。",
+   "高层换血叠加发布节奏紊乱，外界普遍质疑谷歌能否重回前沿，新帅则坚称“我们永远会在前沿”。",
+   "若Gemini 4如期提前发布，谷歌有望修复开发者信心，但后训练版本的早期放出也可能带来稳定性风险。"
+  ],
+  "impact": "对AI行业而言，Gemini 4提前落地将重新点燃旗舰模型军备竞赛，OpenAI与Anthropic的先发优势面临稀释，模型迭代周期或进一步压缩。对开发者来说，多一个强竞争者意味着API价格与能力选择更优，但也需承担频繁迁移与适配成本。对普通用户，谷歌搜索、Workspace、安卓等全线产品将迎来能力跃升，不过早期版本可能出现幻觉与不稳定，尝鲜需谨慎。",
+  "tools": "关注者可留意Google AI Studio与Gemini API的抢先体验入口、Vertex AI企业调用，以及Gemini CLI等开发工具；同时可用OpenAI GPT-6、Anthropic Mythos做横向对比，开源侧可关注Llama、Qwen、DeepSeek作为备选。"
+ },
+ "lang": "zh"
+}
