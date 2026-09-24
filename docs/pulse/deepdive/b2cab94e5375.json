@@ -1,0 +1,24 @@
+{
+ "id": "b2cab94e5375",
+ "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+ "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-24T04:43:33.952798+00:00",
+ "content": "Enveda, a biotech startup that uses AI to discover new drugs in the natural world, has raised a $311 million Series E at a $2 billion valuation. The fresh funding, which was led by Catalio Capital Management, with participation from Iconiq and others, doubles the valuation Enveda achieved 12 months ago.\nThe idea behind Enveda is that powerful medicines could be harnessed from plants and microbes, rather than synthesized from scratch in a lab. Viswa Colluru, an early employee of Recursion Pharmaceuticals, founded Enveda in 2019 to speed up the process of discovering these new drugs using AI and other techniques.\nWhile AI hasn’t yet produced any FDA-approved drugs, Enveda is among the wave of companies advancing AI-discovered candidates into human clinical trials. The startup is currently testing several drugs in patients, including one targeting severe skin conditions and another designed to help maintain weight loss after stopping GLP-1s.",
+ "report": {
+  "summary": "AI天然药物发现公司Enveda完成3.11亿美元E轮融资，估值翻倍至20亿美元。",
+  "background": "传统新药研发平均耗时十年以上、耗资数十亿美元，失败率极高。近年来，一批AI制药公司尝试用算法加速分子筛选，但至今尚无AI发现的药物获得FDA批准，多数仍停留在临床早期。Enveda成立于2019年，创始人Viswa Colluru曾是AI制药明星公司Recursion Pharmaceuticals的早期员工。与从零合成分子的主流路线不同，Enveda把目光投向植物和微生物等天然来源，用AI从海量天然分子中挖掘潜在药物，试图绕开化学合成的瓶颈。本轮E轮由Catalio Capital Management领投，Iconiq等跟投，估值较一年前翻倍，反映资本对AI制药商业化前景的重新押注。",
+  "key_points": [
+   "融资规模大：E轮3.11亿美元、估值20亿美元，一年内估值翻倍，是AI制药领域少见的大额融资。",
+   "路线差异化：不靠实验室从零合成分子，而是用AI从植物、微生物等天然来源中挖掘药物，另辟蹊径。",
+   "已进入临床：公司有多款候选药物在患者身上测试，包括一款治疗严重皮肤病、一款帮助停用GLP-1后维持减重效果。",
+   "行业背景特殊：至今没有AI发现的药物获FDA批准，Enveda属于把AI候选药推进人体试验的先行者之一。",
+   "创始团队有背书：创始人Viswa Colluru出自AI制药明星公司Recursion，团队经验为融资加分。"
+  ],
+  "impact": "对AI行业而言，这笔大额融资说明资本仍愿意为AI制药长期下注，尤其青睐差异化技术路线，而非扎堆的分子生成赛道。对开发者来说，AI+生物信息学、天然产物数据库挖掘、多组学分析等交叉方向可能迎来更多岗位和创业机会。对普通用户，短期无直接影响，但若天然来源的AI药物成功上市，未来皮肤病、减重维持等领域的用药选择可能更丰富、成本更低；不过药物仍需多年临床验证，不宜过早乐观。",
+  "tools": "想跟进可关注：Enveda官网与论文；AI制药开源项目如DeepChem、RDKit（分子建模）；天然产物数据库如COCONUT、NPASS；以及Recursion、Insilico Medicine等同行动态，便于对比技术路线。"
+ },
+ "lang": "zh"
+}

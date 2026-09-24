@@ -12193,5 +12193,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-23T22:58:11.013232+00:00"
+ },
+ "f55f45ec0b59": {
+  "id": "f55f45ec0b59",
+  "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+  "title": "OpenAI breaches Medicare, Albanese reveals",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:43:21.406966+00:00"
+ },
+ "b2cab94e5375": {
+  "id": "b2cab94e5375",
+  "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+  "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:43:33.952798+00:00"
+ },
+ "be1e1a3b2ef2": {
+  "id": "be1e1a3b2ef2",
+  "url": "https://thenextweb.com/news/zendesk-sierra-per-seat-pricing-ai-agents-humanx",
+  "title": "Zendesk and Sierra say AI agents should be paid per result, not per seat",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:44:02.361832+00:00"
+ },
+ "2354030c143a": {
+  "id": "2354030c143a",
+  "url": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
+  "title": "Anthropic says Claude found a new enzyme system with CRISPR-like repeats",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:44:19.350579+00:00"
+ },
+ "1e6df0d9c9d7": {
+  "id": "1e6df0d9c9d7",
+  "url": "https://thenextweb.com/news/un-security-council-ai-loss-of-control",
+  "title": "Live: UN Security Council hears AI lab chiefs on loss-of-control risk",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:44:27.620638+00:00"
+ },
+ "3b33c044703b": {
+  "id": "3b33c044703b",
+  "url": "https://www.techradar.com/pro/no-internet-no-problem-tether-just-released-free-ai-translation-models-that-work-offline-on-your-phone-and-laptop",
+  "title": "No internet, no problem: Tether just released free AI translation models that work offline on your phone and laptop",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:44:35.944303+00:00"
+ },
+ "bdb0409be24f": {
+  "id": "bdb0409be24f",
+  "url": "https://www.techradar.com/pro/africas-ai-moment-has-arrived-this-1-5b-model-built-from-scratch-for-12-african-languages-beats-google-meta-and-alibaba-while-being-8x-smaller",
+  "title": "Africa's AI moment has arrived — this 1.5B model built from scratch for 12 African languages beats Google, Meta, and Alibaba while being 8x smaller",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:44:46.909314+00:00"
  }
 }

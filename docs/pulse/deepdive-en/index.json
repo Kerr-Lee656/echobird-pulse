@@ -4147,5 +4147,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-23T17:51:58Z",
   "fetched_at": "2026-09-23T18:28:48.095090+00:00"
+ },
+ "ae714da5e383": {
+  "id": "ae714da5e383",
+  "url": "https://github.com/alibaba/skill-up",
+  "title": "alibaba/skill-up — An evaluation and evolution tool for Agent Skills.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-24T04:45:57.395053+00:00"
+ },
+ "39f2994f1e0c": {
+  "id": "39f2994f1e0c",
+  "url": "https://arxiv.org/abs/2609.27041",
+  "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-24T04:00:00.000Z",
+  "fetched_at": "2026-09-24T04:47:03.049317+00:00"
+ },
+ "0e5feed78f21": {
+  "id": "0e5feed78f21",
+  "url": "https://arxiv.org/abs/2609.27087",
+  "title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-24T04:00:00.000Z",
+  "fetched_at": "2026-09-24T04:47:13.139639+00:00"
+ },
+ "e4366ec9e277": {
+  "id": "e4366ec9e277",
+  "url": "https://arxiv.org/abs/2609.27284",
+  "title": "Hunyuan-A13B Technical Report",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-24T04:00:00.000Z",
+  "fetched_at": "2026-09-24T04:47:21.275169+00:00"
+ },
+ "f919cc673487": {
+  "id": "f919cc673487",
+  "url": "https://arxiv.org/abs/2609.27333",
+  "title": "Alignment Inertia: Auditing the Durability of Training Data Influence Through Policy Override Resistance",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-24T04:00:00.000Z",
+  "fetched_at": "2026-09-24T04:47:56.706933+00:00"
  }
 }
