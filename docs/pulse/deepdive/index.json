@@ -12535,5 +12535,32 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-25T13:44:44.490389+00:00"
+ },
+ "ab3a816671fb": {
+  "id": "ab3a816671fb",
+  "url": "https://www.ithome.com/1/007/228.htm",
+  "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-25T12:19:29Z",
+  "fetched_at": "2026-09-25T18:34:16.115737+00:00"
+ },
+ "81226352e3bd": {
+  "id": "81226352e3bd",
+  "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+  "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-09-25T10:19:36Z",
+  "fetched_at": "2026-09-25T18:34:30.558843+00:00"
+ },
+ "3d957f342ced": {
+  "id": "3d957f342ced",
+  "url": "https://www.ithome.com/1/007/170.htm",
+  "title": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-25T09:53:14Z",
+  "fetched_at": "2026-09-25T18:34:39.771826+00:00"
  }
 }

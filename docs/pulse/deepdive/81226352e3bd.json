@@ -1,0 +1,24 @@
+{
+ "id": "81226352e3bd",
+ "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+ "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-09-25T10:19:36Z",
+ "fetched_at": "2026-09-25T18:34:30.558843+00:00",
+ "content": "Oracle on the hook to pay data centre investors even if site has no electricity \nSave over 40% on Standard Digital\nwas $540 now $299 for your first year.\nSave now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price.\nExplore more offers.\nTrial\nThen $75 per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial.\nPremium Digital\nComplete digital access with exclusive insights and industry deep dives on any device.\nSave now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price.\nCheck whether you already have free access via your university or organisation.\nTerms & Conditions apply\n*Hand delivery availability confirmed when you enter your address.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "甲骨文无电也须付数据中心容量费，承担电力风险",
+  "background": "甲骨文依靠与 OpenAI 等签下的巨额云合同，剩余履约义务一度飙升至数千亿美元量级，并为此大举发债、租赁以扩建数据中心。为抢占稀缺的园区和电力资源，它越来越多采用\"take-or-pay\"（照付不议）结构：即便数据中心未通电、未按期交付，也要按合同容量向开发商和投资方付款。FT 报道指出，这类条款把电网接入延迟、燃气轮机短缺等风险从投资方转移到甲骨文自身，正值市场对 AI 资本开支与债务可持续性质疑升温之际。",
+  "key_points": [
+   "照付不议结构：甲骨文承诺无论园区是否通电、是否按期交付，都按约定容量向开发商和投资人付费，实质是为对方的建设风险兜底。",
+   "风险源头在电力：美国电网接入排队漫长，燃气轮机订单排到 2028 年后，电力已成 AI 数据中心最大瓶颈，而付款义务并不随之免除。",
+   "财务杠杆放大：甲骨文靠大规模发债与租赁融资扩张，此类固定付款义务让资产负债表更脆弱，市场已开始关注其债务和 CDS 利差。",
+   "评级与情绪受压：评级机构给出负面展望，\"AI 资本开支泡沫\"担忧升温，甲骨文被视作风险最集中的样本之一。",
+   "行业连锁效应：超大规模厂商可能效仿该模式锁定量能，但中小开发商与算力租赁方的议价空间会被进一步压缩。"
+  ],
+  "impact": "对 AI 行业，算力竞赛正从\"拼芯片\"转向\"拼电力与金融结构\"，电力交付能力成为新的竞争壁垒。对开发者，短期算力供给仍在增加，但项目延期可能让云厂商通过涨价、调整配额转嫁成本，API 价格与容量保障的波动性上升。对普通用户，这些固定支出最终会反映在 AI 订阅价格上，同时数据中心密集区的电价与电网压力可能上行。",
+  "tools": "想跟进可关注：SemiAnalysis（算力与电力深度分析）、FT 与 Bloomberg 的 AI 基建报道、甲骨文财报中 RPO 与资本开支披露、Crusoe／Vantage／Blue Owl 等开发商与基建投资方文件；查电网排队可看 LBNL《Queued Up》报告。"
+ },
+ "lang": "zh"
+}
