@@ -4372,5 +4372,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-25T13:09:03Z",
   "fetched_at": "2026-09-25T13:46:29.948809+00:00"
+ },
+ "0b5c4741d1c1": {
+  "id": "0b5c4741d1c1",
+  "url": "https://github.com/openclaw/openclaw",
+  "title": "openclaw/openclaw — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-25T23:20:01.732898+00:00"
+ },
+ "d2eb6055eff1": {
+  "id": "d2eb6055eff1",
+  "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+  "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-25T23:02:54Z",
+  "fetched_at": "2026-09-25T23:20:30.454350+00:00"
+ },
+ "0411e2774483": {
+  "id": "0411e2774483",
+  "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+  "title": "Unsecured OpenAI agents posted 53 user images on the internet",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-25T22:36:24Z",
+  "fetched_at": "2026-09-25T23:20:42.275013+00:00"
+ },
+ "1c85cfe17bda": {
+  "id": "1c85cfe17bda",
+  "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-backed-praxis-plans-1-billion-ai-powered-town-in-uruguay-first-residents-expected-in-mid-2027-with-homes-resorts-and-cultural-spaces-for-the-ai-era/articleshow/134456141.cms",
+  "title": "Altman-backed Praxis plans a $1B AI-powered town in Uruguay",
+  "source": "Hacker News (3pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-25T22:10:09Z",
+  "fetched_at": "2026-09-25T23:21:18.936201+00:00"
  }
 }

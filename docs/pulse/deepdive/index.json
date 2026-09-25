@@ -12562,5 +12562,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-25T09:53:14Z",
   "fetched_at": "2026-09-25T18:34:39.771826+00:00"
+ },
+ "e2a25e565c35": {
+  "id": "e2a25e565c35",
+  "url": "https://mouse.dev/blog/muse-special",
+  "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T23:18:17.741699+00:00"
+ },
+ "28be881384a0": {
+  "id": "28be881384a0",
+  "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
+  "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T23:18:45.410991+00:00"
+ },
+ "c04d25df1583": {
+  "id": "c04d25df1583",
+  "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+  "title": "Anthropic’s founders seek voting control ahead of IPO",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T23:19:03.420149+00:00"
+ },
+ "ad5f72c62e11": {
+  "id": "ad5f72c62e11",
+  "url": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
+  "title": "智元第 20000 台具身机器人交付长隆，首期超 300 台机器人常驻乐园",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T23:19:14.470045+00:00"
+ },
+ "8a78236072c6": {
+  "id": "8a78236072c6",
+  "url": "https://www.businessinsider.com/google-deepmind-employee-resigns-ai-safety-harm-chips-robert-ocallahan-2026-9",
+  "title": "谷歌员工称，他辞职是因为追求超级智能AI“本质上是不负责任的”",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-25T18:37:27.878Z",
+  "fetched_at": "2026-09-25T23:19:23.918274+00:00"
  }
 }

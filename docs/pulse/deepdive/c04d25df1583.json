@@ -1,0 +1,24 @@
+{
+ "id": "c04d25df1583",
+ "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+ "title": "Anthropic’s founders seek voting control ahead of IPO",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-25T23:19:03.420149+00:00",
+ "content": "Anthropic’s founders want to stay in charge after the company goes public. According to The Information, the company is asking shareholders to approve a structure “in the coming days” that would give CEO Dario Amodei and his six co-founders special shares carrying a combined 50.1% of the vote on most corporate matters, as long as at least three of them keep a minimum stake.\nThis isn’t a new idea; super-voting shares are how Mark Zuckerberg kept control of Meta, and how Evan Spiegel maintained his hold of Snap. The list is long. What’s unusual is the group approach.\nWhy do it? The seven co-founders reportedly own just 2% of the company apiece, Amodei included, and have pledged to give away 80% of their wealth, a commitment the CEO announced in January alongside a warning that AI-driven wealth concentration could destabilize society. The new shares carry no extra economic value, but they’d preserve the group’s control once the company starts trading publicly.\nThere are twists, too: Anthropic’s Long-Term Benefit Trust would still choose most of the board; the founders’ board seats would grow from two to three; and employees would get their own stock to break ties on some issues.\nFive-year-old Anthropic was valued at $965 billion in May. The company was recently valued at $1.5 trillion on the secondary market, and its upcoming IPO is expected to reflect that new valuation.",
+ "report": {
+  "summary": "Anthropic七位创始人力求以超级投票权锁定IPO后控制权",
+  "background": "超级投票权股（dual-class）在硅谷并不新鲜，Meta的扎克伯格、Snap的斯皮格尔都借此在上市后牢牢掌权。但Anthropic的特殊之处在于「集体持股」——七位创始人共用一个投票池。这家成立仅五年的公司凭Claude系列模型跻身头部阵营，今年5月估值9650亿美元，二级市场已喊到1.5万亿美元，IPO在即。创始人此前公开承诺捐出80%个人财富，并警告AI带来的财富集中可能撕裂社会，如今在巨额资本涌入前锁定控制权，正是这一理念与资本现实碰撞的产物。",
+  "key_points": [
+   "七位创始人将获得超级投票权股，合计掌握50.1%的投票权，但前提是至少三人保持最低持股，是一套集体控制机制。",
+   "这类股票不带额外经济权益，创始人各自仅持股约2%，却能以极小股权决定公司走向，典型的小股大权。",
+   "与扎克伯格、斯皮格尔的单人控制不同，Anthropic是团体控制：长期利益信托仍提名多数董事，创始人董事席位从2席增至3席。",
+   "员工将获得独立股份，可在部分议题上打破僵局，形成创始人、信托、员工三方制衡的治理结构。",
+   "IPO估值预计反映二级市场的1.5万亿美元水平，较5月的9650亿大幅跳升，创始人控制权因此更值钱也更敏感。"
+  ],
+  "impact": "对AI行业，顶级实验室的治理结构成了新变量，安全使命与资本市场回报的张力将被放大，其他AI公司可能效仿或被迫回应。对开发者，Claude模型路线、API定价和开放节奏预计更稳定，但「使命优先」与「股东优先」的拉扯可能影响产品迭代方向。对普通用户，这再次把AI巨头权力过度集中摆上台面，「创始人永久掌权＋承诺捐出八成财富」的组合，将引发关于AI财富分配公平性的公共讨论。",
+  "tools": "想跟进可关注Anthropic递交的S-1招股书及Long-Term Benefit Trust公开章程；开发者可上手Claude API、Claude Code与MCP（模型上下文协议）了解技术路线；研究者可对照OpenAI的公益公司改制、Meta与Snap的双层股权案例做横向比较。"
+ },
+ "lang": "zh"
+}
