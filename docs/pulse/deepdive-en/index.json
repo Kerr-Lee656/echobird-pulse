@@ -4363,5 +4363,14 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-25T04:00:00.000Z",
   "fetched_at": "2026-09-25T07:47:30.262167+00:00"
+ },
+ "f428104ad276": {
+  "id": "f428104ad276",
+  "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+  "title": "The Copilot+ PC branding is dead",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-25T13:09:03Z",
+  "fetched_at": "2026-09-25T13:46:29.948809+00:00"
  }
 }

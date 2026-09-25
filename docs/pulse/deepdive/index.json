@@ -12481,5 +12481,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-25T00:04:23Z",
   "fetched_at": "2026-09-25T07:45:28.375530+00:00"
+ },
+ "be0931fb1001": {
+  "id": "be0931fb1001",
+  "url": "https://thenextweb.com/news/softbank-asi-225m-autonomous-construction",
+  "title": "SoftBank invests $225M in ASI and forms autonomous construction venture",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T13:43:36.324667+00:00"
+ },
+ "22006696446f": {
+  "id": "22006696446f",
+  "url": "https://thenextweb.com/news/openai-gpt-6-cyber-preview-fortune",
+  "title": "OpenAI is reportedly preparing to preview a GPT-6 Cyber security model",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T13:43:48.211569+00:00"
+ },
+ "2bd22dd80842": {
+  "id": "2bd22dd80842",
+  "url": "https://www.36kr.com/p/3998199345500040",
+  "title": "刚刚，DeepSeek Harness桌面预览版上线！",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-09-25T09:16:11.264Z",
+  "fetched_at": "2026-09-25T13:44:00.736547+00:00"
+ },
+ "cf8e46266038": {
+  "id": "cf8e46266038",
+  "url": "https://news.mydrivers.com/1/1153/1153928.htm",
+  "title": "谷歌开始部署太空算力 TPU：功率仅 1 千瓦、跑 15 分钟就得降温关机",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T13:44:19.068491+00:00"
+ },
+ "d7d1c6c54a6a": {
+  "id": "d7d1c6c54a6a",
+  "url": "https://www.36kr.com/p/3998243846459524",
+  "title": "每人持股约 2%，却要 50.1% 投票权：Anthropic 创始人的 IPO 算盘",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T13:44:33.452713+00:00"
+ },
+ "2714bdf64157": {
+  "id": "2714bdf64157",
+  "url": "https://www.36kr.com/newsflashes/3998246029070468",
+  "title": "AI 芯片初创企业 DensityAI 正进入融资谈判后期，投后估值接近 100 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T13:44:44.490389+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "be0931fb1001",
+ "url": "https://thenextweb.com/news/softbank-asi-225m-autonomous-construction",
+ "title": "SoftBank invests $225M in ASI and forms autonomous construction venture",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-25T13:43:36.324667+00:00",
+ "content": "SoftBank Group has invested $225 million into Autonomous Solutions, Inc. (ASI), a Utah company that makes work vehicles drive themselves.The two have also set up a joint venture to build self-driving machines for big road, rail and airport jobs.\nSoftBank is funding the joint venture to cover several kinds of building work, mainly civil construction and moving materials on site. The size of that funding, who owns what and the name of the venture were not disclosed.\nThe $225 million goes to ASI itself, and the company will use the money to sell more widely across the building trade.\nASI’s main product is Mobius, software that runs fleets of self-driving work vehicles. The company says it works with machines from any major maker, so a builder can automate the mix of equipment it already owns.\n“Together, we offer automated OEM-agnostic heavy equipment solutions that let customers deploy mixed fleets of haul trucks, dozers, loaders, compactors, and more,” said Mel Torrie, ASI’s chief executive.\nTorrie said the partners want to work with firms that build roads, airports and railways, as well as waste sites. He said the machines can handle jobs from digging and moving earth to building upwards.\nASI was founded in 2000 by engineers who turned research from Utah State University into a business. It is based in Mendon, Utah, where it has a test site of more than 80 hectares, and also has offices in Salt Lake City, Dallas-Fort Worth, and Longmont, Colorado.\nIts technology is used on farms and building sites, and in logistics and landscaping, according to the company.\nMoreover, SoftBank has invested in this kind of machine before; in August, it led a $200 million round for Gravis Robotics, a Swiss startup that fits excavators with self-driving software.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "软银2.25亿美元投资ASI，并合资开发自动驾驶工程机械。",
+  "background": "工程机械自动化近年升温：劳动力短缺、工地安全事故和高昂人力成本推动行业寻找无人化方案。传统工程机械厂商各自为政，跨品牌兼容成为痛点。软银此前已领投瑞士Gravis Robotics 2亿美元，加注挖掘机自动驾驶；此次再投美国犹他州ASI并设立合资公司，瞄准道路、铁路、机场等大型基建，显示其正系统性布局「自动驾驶+重型装备」赛道。",
+  "key_points": [
+   "软银向ASI投资2.25亿美元，资金用于扩大建筑行业销售",
+   "双方成立合资公司，开发道路、铁路、机场用自动驾驶机械，具体股比和名称未披露",
+   "ASI核心产品Mobius是车队级自动驾驶软件，可兼容任何品牌的工程机械",
+   "应用场景涵盖挖掘、运土、装载、压实等，客户包括基建、废弃物处理等",
+   "软银8月刚领投Gravis Robotics 2亿美元，连续加码工程机械自动化"
+  ],
+  "impact": "对AI行业而言，重型机械自动驾驶成为继乘用车之后的又一落地场景，验证「OEM无关」软件平台的商业价值。对开发者来说，多传感器融合、非结构化环境感知、车队调度等方向将产生新需求。对普通用户，长期看基建成本可能下降、工期缩短，但工地岗位结构或发生变化。",
+  "tools": "可关注ASI的Mobius平台、Gravis Robotics的挖掘机自动驾驶方案，以及开源自动驾驶框架Autoware、仿真工具CARLA，用于理解工程机械感知与调度技术。"
+ },
+ "lang": "zh"
+}
