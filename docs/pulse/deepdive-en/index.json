@@ -4318,5 +4318,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-24T18:26:12.000Z",
   "fetched_at": "2026-09-25T00:37:38.426931+00:00"
+ },
+ "a7d71b83b1ba": {
+  "id": "a7d71b83b1ba",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "title": "NVIDIA/Model-Optimizer — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-25T07:46:11.954064+00:00"
+ },
+ "8a3e4614d56d": {
+  "id": "8a3e4614d56d",
+  "url": "https://github.com/Mesh-LLM/mesh-llm",
+  "title": "Mesh-LLM/mesh-llm — Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-25T07:46:22.868238+00:00"
+ },
+ "c65c420a9a0b": {
+  "id": "c65c420a9a0b",
+  "url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
+  "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
+  "source": "IT之家（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-25T07:02:05.000Z",
+  "fetched_at": "2026-09-25T07:46:36.048370+00:00"
+ },
+ "035c6d27558a": {
+  "id": "035c6d27558a",
+  "url": "https://arxiv.org/abs/2609.28850",
+  "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-25T04:00:00.000Z",
+  "fetched_at": "2026-09-25T07:47:17.684047+00:00"
+ },
+ "f6135469bd73": {
+  "id": "f6135469bd73",
+  "url": "https://arxiv.org/abs/2609.28876",
+  "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-25T04:00:00.000Z",
+  "fetched_at": "2026-09-25T07:47:30.262167+00:00"
  }
 }

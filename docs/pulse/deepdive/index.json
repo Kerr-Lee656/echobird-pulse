@@ -12454,5 +12454,32 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-24T17:35:46.298Z",
   "fetched_at": "2026-09-25T00:33:58.052378+00:00"
+ },
+ "abafcc2221b9": {
+  "id": "abafcc2221b9",
+  "url": "https://www.tmtpost.com/8152168.html",
+  "title": "美国大模型，也开始打价格战了",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T07:44:51.126556+00:00"
+ },
+ "07542d541c09": {
+  "id": "07542d541c09",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+  "title": "谷歌的“Suncatcher”项目将把机器学习基础设施送入太空",
+  "source": "blog.google",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-25T01:46:38.606Z",
+  "fetched_at": "2026-09-25T07:45:09.200906+00:00"
+ },
+ "36c838e892cd": {
+  "id": "36c838e892cd",
+  "url": "https://www.ithome.com/1/007/061.htm",
+  "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-25T00:04:23Z",
+  "fetched_at": "2026-09-25T07:45:28.375530+00:00"
  }
 }
