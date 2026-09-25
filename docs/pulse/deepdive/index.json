@@ -12400,5 +12400,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-24T13:16:35Z",
   "fetched_at": "2026-09-24T21:31:12.153887+00:00"
+ },
+ "404555d99f45": {
+  "id": "404555d99f45",
+  "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+  "title": "The 'ChatGPT for doctors,' OpenEvidence, was valued at $15 billion in a new funding round",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T00:33:07.896939+00:00"
+ },
+ "f912c18b19fc": {
+  "id": "f912c18b19fc",
+  "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+  "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-25T00:33:21.083732+00:00"
+ },
+ "69dd88b48e23": {
+  "id": "69dd88b48e23",
+  "url": "https://www.36kr.com/p/3997049599102855",
+  "title": "刚刚，ChatGPT能「开口干活」了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-09-24T19:35:49.868Z",
+  "fetched_at": "2026-09-25T00:33:29.763553+00:00"
+ },
+ "113370045330": {
+  "id": "113370045330",
+  "url": "https://www.qbitai.com/2026/09/496925.html",
+  "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T00:33:40.886077+00:00"
+ },
+ "57ae2f370010": {
+  "id": "57ae2f370010",
+  "url": "https://daily.dev/posts/the-pulse-a-new-trend-of-cpu-shortages-6yfwmynmb",
+  "title": "CPU shortages hit cloud infrastructure as AI agent workloads drive demand surge",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-25T00:33:49.341865+00:00"
+ },
+ "cce544841fea": {
+  "id": "cce544841fea",
+  "url": "https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
+  "title": "失控的人工智能首次入侵政府系统——最新消息",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-24T17:35:46.298Z",
+  "fetched_at": "2026-09-25T00:33:58.052378+00:00"
  }
 }

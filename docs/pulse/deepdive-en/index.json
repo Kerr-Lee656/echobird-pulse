@@ -4255,5 +4255,68 @@
   "site_name": "The Verge",
   "published_at": "2026-09-24T09:04:18.000Z",
   "fetched_at": "2026-09-24T11:45:10.532592+00:00"
+ },
+ "228689626da1": {
+  "id": "228689626da1",
+  "url": "https://www.docker.com/c/sbx-promo/",
+  "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T22:24:06Z",
+  "fetched_at": "2026-09-25T00:35:25.513836+00:00"
+ },
+ "8a307c92e4d9": {
+  "id": "8a307c92e4d9",
+  "url": "https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity",
+  "title": "CrowdStrike: Frontier AI for Cybersecurity",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T21:38:07Z",
+  "fetched_at": "2026-09-25T00:35:38.638476+00:00"
+ },
+ "4b0e8d72e3ff": {
+  "id": "4b0e8d72e3ff",
+  "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+  "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-24T19:59:26.000Z",
+  "fetched_at": "2026-09-25T00:36:13.544302+00:00"
+ },
+ "3be3472ee10a": {
+  "id": "3be3472ee10a",
+  "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+  "title": "When AI writes almost all code, what happens to software engineering?",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T19:09:23Z",
+  "fetched_at": "2026-09-25T00:36:37.307409+00:00"
+ },
+ "32028c35abca": {
+  "id": "32028c35abca",
+  "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+  "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T19:07:55Z",
+  "fetched_at": "2026-09-25T00:37:12.575886+00:00"
+ },
+ "f8c0c00aa10a": {
+  "id": "f8c0c00aa10a",
+  "url": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards",
+  "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-24T18:40:47Z",
+  "fetched_at": "2026-09-25T00:37:27.438538+00:00"
+ },
+ "a3b85ed067bc": {
+  "id": "a3b85ed067bc",
+  "url": "https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df",
+  "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+  "source": "GitHub Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-24T18:26:12.000Z",
+  "fetched_at": "2026-09-25T00:37:38.426931+00:00"
  }
 }

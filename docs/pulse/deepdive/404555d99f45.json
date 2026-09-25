@@ -1,0 +1,24 @@
+{
+ "id": "404555d99f45",
+ "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+ "title": "The 'ChatGPT for doctors,' OpenEvidence, was valued at $15 billion in a new funding round",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-25T00:33:07.896939+00:00",
+ "content": "OpenEvidence, an AI search engine for doctors, is the latest AI darling to raise back-to-back funding rounds.\nThe company recently raised $250 million in investment from hospital systems and Andreessen Horowitz, valuing OpenEvidence at $15 billion, according to people familiar with the matter. In January, OpenEvidence raised a new round of funding that valued the company at $12 billion.\nOpenEvidence could be open to selling itself, which includes access to computing, which could become scarcer in the future if rising anti-AI sentiment curbs data center expansion, according to a person familiar with the matter. It could not be verified if the company has M&A interest from possible acquirers, and OpenEvidence may prefer to remain independent.\nBased in Miami, OpenEvidence has raised over $1 billion in the past year, from investors including Thrive Capital, DST, GV, Kleiner Perkins, and Sequoia Capital. The startup has called its AI-powered search engine \"the fastest-growing application for physicians in history.\"\nThe new funding round comes as OpenAI, Anthropic, and other AI giants make a bigger push into healthcare. Instead of just providing the models that power other companies' products, they're increasingly building healthcare tools of their own.\nAs an acquisition, OpenEvidence could offer a shortcut. It already has doctors using its product, experience handling sensitive medical information, and a foothold in a massive market that AI companies increasingly want to own. Founded in 2022, OpenEvidence has already become widely used by medical professionals, with more than two-thirds of U.S. doctors relying on the AI product for its diagnostic and treatment advice, according to CNBC.\nOpenEvidence maintains relationships with several of the largest technology companies and counts Nvidia as an investor. Anthropic announced a partnership with the company this week. OpenEvidence integrates with both Google and Microsoft's AI tools.\nThere has been a wave of major AI M&A lately, with Nvidia agreeing to buy HuggingFace for nearly $13 billion and Stripe agreeing to buy OpenRouter for around $8 billion, as the race to acquire AI talent remains strong.",
+ "report": {
+  "summary": "医生版ChatGPT OpenEvidence新融资估值150亿美元",
+  "background": "OpenEvidence成立于2022年，定位为面向医生的AI搜索引擎，被称为“医生版ChatGPT”。它此前已获Thrive、Sequoia、GV、英伟达等投资，过去一年融资超10亿美元。今年1月其估值刚达120亿美元，如今医院系统和a16z再投2.5亿美元，估值升至150亿美元。与此同时，OpenAI、Anthropic正加速自建医疗工具，AI并购潮兴起，医疗成为大模型商业化最受关注的高价值场景之一。",
+  "key_points": [
+   "新融资由医院系统和a16z等参与，金额2.5亿美元，估值达150亿美元；相比今年1月的120亿美元估值，短期内大幅上涨。",
+   "OpenEvidence面向医生提供AI搜索、诊断与治疗建议，据CNBC称超三分之二美国医生使用，公司自称是史上增长最快的医生应用。",
+   "它被视为AI巨头进入医疗的收购捷径：已有医生用户、处理敏感医疗数据的经验和庞大市场入口，但公司可能更倾向保持独立。",
+   "生态合作密集：英伟达是投资者，Anthropic本周宣布合作，产品还集成Google和微软的AI工具，同时OpenAI、Anthropic也在自建医疗产品。",
+   "行业背景是AI并购与算力焦虑：英伟达拟近130亿美元收购Hugging Face、Stripe拟80亿美元收购OpenRouter；若反AI情绪限制数据中心扩张，算力访问权会更值钱。"
+  ],
+  "impact": "对AI行业，医疗正从模型API变成必争的垂直入口，巨头可能加速收购有医生网络和合规能力的应用。对开发者，单纯套壳价值下降，医疗工作流、敏感数据合规、临床评估和分发渠道更关键。对普通用户，医生用AI可提升检索与诊疗效率，但误诊、隐私和监管风险仍需警惕，短期更像医生助手而非替代医生。",
+  "tools": "想跟进可关注OpenEvidence官方及Anthropic合作动态；开源侧可看Meditron、OpenBioLLM、ClinicalBERT等医疗模型，用LlamaIndex/LangChain搭RAG，结合FHIR标准和PubMedQA/MedQA基准做评估。"
+ },
+ "lang": "zh"
+}
