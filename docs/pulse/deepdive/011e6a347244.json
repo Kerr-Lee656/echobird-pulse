@@ -1,0 +1,24 @@
+{
+ "id": "011e6a347244",
+ "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+ "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-26T02:21:16.404Z",
+ "fetched_at": "2026-09-26T11:19:37.450894+00:00",
+ "content": "A US appeals court today approved the Department of Defense’s blacklisting of Anthropic technology. Judges decided the Trump administration had authority to blacklist Anthropic for withholding certain AI features from the military even if Anthropic had no malicious intent.\nIn a 2-1 ruling issued by the US Court of Appeals for the District of Columbia Circuit, a panel of judges said the “case raises profoundly difficult questions about the appropriate military uses of an almost unimaginably powerful new technology.” The US “raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly and thus causing important military operations to fail. Anthropic raises the deeply sobering prospect of unconstrained AI models hallucinating inappropriate targets for lethal military force,” the ruling said.\nTrump and Defense Secretary Pete Hegseth “must determine how best to balance the competing risks,” the court said. “In doing so here, the Secretary did not transgress any limits on his authority under the Supply Chain Security Act or the Constitution. Accordingly, we deny the petitions for review.” The same court previously denied Anthropic’s emergency motion for a stay in April.\nThe two judges who ruled against Anthropic were both appointed by Trump and served in the first Trump administration. Judge Gregory Katsas was previously deputy counsel to the president, and Judge Neomi Rao served in the Trump administration’s Office of Management and Budget.\nTwo courts, two different decisions\nAnthropic sued the Trump administration in March after it ordered federal agencies to stop using Anthropic’s products and banned defense contractors from doing any business with Anthropic. Anthropic may appeal today’s ruling, either by asking for an en banc review with all of the appeals court judges or by petitioning the Supreme Court.\n“We respectfully disagree with the court’s decision,” an Anthropic spokesperson told CNBC. “Another federal court has already held the government’s parallel designation unlawful. We remain confident in our position and are considering all options, including further review.” Despite the ongoing legal battle, Commerce Secretary Howard Lutnick recently said the Trump administration and Anthropic have patched up their relationship and are “in tune.”",
+ "report": {
+  "summary": "美上诉法院裁定政府有权因Anthropic拒绝开放功能而将其封禁",
+  "background": "2026年，特朗普政府下令联邦机构停用Anthropic产品，并禁止国防承包商与其往来，国防部依据《供应链安全法》将其列入黑名单，理由是Anthropic拒绝向军方开放部分Claude功能。Anthropic于3月起诉政府，另一家联邦法院曾认定同类指定违法；4月其紧急中止申请被同一上诉法院驳回。9月，哥伦比亚特区巡回上诉法院以2:1维持政府决定，两名支持政府的法官均为特朗普任命。",
+  "key_points": [
+   "法院认为，即使Anthropic没有恶意，只要拒绝向军方提供AI功能，政府就有权依《供应链安全法》将其列入黑名单。",
+   "判决书罕见地点出两难：约束过多的模型可能突然停机导致军事行动失败，不约束的模型又可能误判杀伤目标。",
+   "2:1的分裂裁决显示争议极大，Anthropic仍可要求全院重审或上诉至最高法院。",
+   "另一家联邦法院此前已判定政府的平行指定违法，形成“两法院两种结论”的冲突局面。",
+   "尽管官司未了，商务部长已称政府与Anthropic关系修复、“步调一致”，显示法律与政治博弈并行。"
+  ],
+  "impact": "对AI行业而言，此案确立了一个危险先例：拒绝军方需求可能直接触发政府采购封禁，模型厂商的“安全底线”将与商业生存发生正面冲突。对开发者来说，依赖单一闭源供应商的风险被放大，多云、多模型与自托管策略会更有吸引力。对普通用户，短期内Claude消费级产品未必受影响，但政府、国防相关场景的AI选择将被政治化，未来可能看到更多“合规优先”的模型版本。",
+  "tools": "想跟进可关注：开源可自托管模型如Llama、Mistral、Qwen，用于降低单一供应商风险；企业可用LiteLLM、OpenRouter做多模型路由与切换；政策侧可跟踪《供应链安全法》判例及法院文书平台CourtListener。"
+ },
+ "lang": "zh"
+}

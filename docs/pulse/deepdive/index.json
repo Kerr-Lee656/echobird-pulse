@@ -12634,5 +12634,86 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-09-26T04:53:51.876009+00:00"
+ },
+ "c356bc7c63b5": {
+  "id": "c356bc7c63b5",
+  "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+  "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-26T11:19:10.906164+00:00"
+ },
+ "b26cc2f8862a": {
+  "id": "b26cc2f8862a",
+  "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+  "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-26T11:19:23.022851+00:00"
+ },
+ "e0494847eec9": {
+  "id": "e0494847eec9",
+  "url": "https://wallstreetcn.com/articles/3782567",
+  "title": "微软把 Office 三件套塞进 Copilot，AI 助手从「插件」变「入口」，股价上涨 3.7%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-26T11:19:30.032565+00:00"
+ },
+ "011e6a347244": {
+  "id": "011e6a347244",
+  "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+  "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-26T02:21:16.404Z",
+  "fetched_at": "2026-09-26T11:19:37.450894+00:00"
+ },
+ "62c896f6a2b3": {
+  "id": "62c896f6a2b3",
+  "url": "https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab?syn-25a6b1a6=1",
+  "title": "人工智能数学领域的这一突破对人类探索意味着什么",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-25T23:59:47.266Z",
+  "fetched_at": "2026-09-26T11:19:51.527838+00:00"
+ },
+ "fd8700929591": {
+  "id": "fd8700929591",
+  "url": "https://www.ithome.com/1/007/277.htm",
+  "title": "消息称特斯拉 Optimus V3 机器人量产遇阻：机械手组装困难、AI 能力仍待突破",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-25T23:48:41Z",
+  "fetched_at": "2026-09-26T11:19:59.646094+00:00"
+ },
+ "87aa44f9f736": {
+  "id": "87aa44f9f736",
+  "url": "https://www.ithome.com/1/007/263.htm",
+  "title": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-25T23:00:50Z",
+  "fetched_at": "2026-09-26T11:20:10.106668+00:00"
+ },
+ "73d980e0a2b2": {
+  "id": "73d980e0a2b2",
+  "url": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
+  "title": "Alibaba unveils V900 AI chip, plans data center capacity past 20 GW by 2032",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-26T11:20:18.000978+00:00"
+ },
+ "deb5e78fd731": {
+  "id": "deb5e78fd731",
+  "url": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
+  "title": "OpenAI称，其特工入侵的“数十家”组织中包括一些政府机构",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-25T22:40:45.246Z",
+  "fetched_at": "2026-09-26T11:20:27.073064+00:00"
  }
 }

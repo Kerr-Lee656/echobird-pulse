@@ -1,0 +1,24 @@
+{
+ "id": "c356bc7c63b5",
+ "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+ "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-26T11:19:10.906164+00:00",
+ "content": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic.\nFounded in 2018 as a bitcoin miner that ran on excess natural gas from oil fields, Crusoe has since become one of the biggest builders of AI data centers, including a massive campus in Abilene, Texas, that supplies computing power to OpenAI.\nBoom Supersonic, which is developing a supersonic passenger jet called Overture, launched a new business last year to sell a version of the engine it’s developing for that jet as natural gas-fired stationary power plants. Its Superpower turbine shares about 80% of the same parts with that airborne engine, called Symphony.\nCrusoe had signed on to be the first customer for this business, agreeing to spend $1.25 billion on 29 of Boom’s 42-megawatt Superpower turbines. The first deliveries were supposed to begin in 2027. But that deal has since fallen apart, according to Boom Supersonic CEO Blake Scholl.\nFriday, in a post on X, after congratulating Crusoe founders Cully Cavness and Chase Lochmiller on the company’s recent raise, Scholl said the companies are no longer moving forward with the turbine launch partnership. Although he did note that other customers were in its pipeline.\n“The TL/DR is that turbines are no longer part of Crusoe’s near term primary power mix at Abilene/etc., so a launch partnership just didn’t make sense,” he wrote in the post. “Boom will be delivering about 250MW of Superpowers next year to other sites, and we’re targeting 1GW in 2028. We’re grateful for the help Crusoe gave us in shaping Superpower and continue cheering for their successes. The future is long, and we look forward to potentially teaming up if/when turbines become part of their primary power mix.”\nCrusoe confirmed to TechCrunch that it is no longer doing business with Boom.\n“We build AI factories from the power up, and we’re bringing new campuses online across the country, powered by innovative energy sources,” spokesperson Andrew Schmitt said in an email. “As our portfolio grows, we stay flexible, choosing the energy solutions that are right for each site as its needs evolve — including turbines, along with wind, solar, batteries and the grid. While Boom has been a great partner, the partnership isn’t the right fit today. We wish them well.”\nCrusoe’s initial 1.2 gigawatt data center in Abilene that was built for Oracle and OpenAI is powered by the grid, according to the company. There is also a gas-turbine power plant that is used for backup power only. Crusoe is also building a 900 megawatt data center in Abilene for Microsoft, which will be powered by on-site gas turbines.\nLosing its launch customer is seemingly a setback for Boom, which raised $300 million last year, largely to commercialize the new business. The idea, Scholl told TechCrunch at the time, was to use profits from the stationary power plant business to fund the development of Overture.\nScholl could not be reached for comment before publication; TechCrunch will update this article if he responds.",
+ "report": {
+  "summary": "Crusoe 取消向 Boom 采购 12.5 亿美元燃气轮机的订单，AI 数据中心供电路线生变。",
+  "background": "AI 数据中心的瓶颈正从芯片转向电力。Crusoe 起初是烧油田伴生气的比特币矿企，2018 年成立后转型为全美最大的 AI 数据中心建造商之一，近期刚完成 39 亿美元融资，在得州 Abilene 为 Oracle、OpenAI 建了 1.2GW 园区，还在为微软建 900MW 项目。Boom Supersonic 本以超音速客机 Overture 闻名，去年另开一条业务线，把为飞机研发的 Symphony 发动机改成天然气固定式发电机组 Superpower（单机 42MW，与航发共享约 80% 零件），并指望用发电利润反哺飞机研发。Crusoe 曾是它的首个客户。",
+  "key_points": [
+   "Crusoe 原本承诺花 12.5 亿美元买 29 台 Boom 的 42MW 燃气轮机，首台原定 2027 年交付，如今交易彻底告吹。",
+   "Boom 给出的理由是：轮机已不在 Crusoe 近期的主力供电组合里，做「首个客户」的合作逻辑不再成立。",
+   "Crusoe 的官方口径是「保持灵活」——按每个园区的情况混用燃气轮机、风电、光伏、储能和电网，而非锁定单一供应商。",
+   "对 Boom 是实打实的挫折：这笔订单本是发电业务的启动客户，而该业务被寄望为超音速客机研发输血。",
+   "Boom 表示仍有其他客户，明年将向别处交付约 250MW 机组，2028 年目标 1GW，双方留下「未来再合作」的余地。"
+  ],
+  "impact": "对行业而言，这说明 AI 电力供应的技术路线远未定型：与其押注单一新型发电设备，大厂更倾向电网+多能源组合，燃气轮机只是备选之一。对开发者，算力扩张的节奏可能被电力交付周期拖慢，选址、上架时间与成本都会更不确定。对普通用户，短期看不出变化，但长期意味着 AI 服务价格与可用性，越来越取决于「电从哪来」这个老问题，而非只取决于芯片。",
+  "tools": "想跟进可关注：Boom Supersonic 的 Superpower 轮机进展与其 Overture 项目公告；Crusoe 的 Abilene 园区与「AI factory」公开资料；以及数据中心供电侧的对比方案——小型模块化核反应堆（SMR）、燃气轮机（GE Vernova、西门子能源）、储能与并网调度工具，可用 LBNL/EPRI 的并网排队数据做调研起点。"
+ },
+ "lang": "zh"
+}

@@ -4408,5 +4408,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-25T22:10:09Z",
   "fetched_at": "2026-09-25T23:21:18.936201+00:00"
+ },
+ "35493723d548": {
+  "id": "35493723d548",
+  "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+  "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T10:07:08Z",
+  "fetched_at": "2026-09-26T11:21:16.936262+00:00"
+ },
+ "d178c78a5485": {
+  "id": "d178c78a5485",
+  "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+  "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
+  "source": "Hacker News (7pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T08:51:00Z",
+  "fetched_at": "2026-09-26T11:21:45.685625+00:00"
+ },
+ "48d3d0de3b2c": {
+  "id": "48d3d0de3b2c",
+  "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+  "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T08:36:59Z",
+  "fetched_at": "2026-09-26T11:21:53.874807+00:00"
+ },
+ "3f909cf268d0": {
+  "id": "3f909cf268d0",
+  "url": "https://arxiv.org/abs/2609.29845",
+  "title": "Transformer Can Hold Two Thoughts at Once: Evidence of Linear",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T06:07:08Z",
+  "fetched_at": "2026-09-26T11:22:35.134222+00:00"
+ },
+ "1947fc4b63e3": {
+  "id": "1947fc4b63e3",
+  "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+  "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-25T23:11:10.000Z",
+  "fetched_at": "2026-09-26T11:23:41.403348+00:00"
  }
 }

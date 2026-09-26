@@ -1,0 +1,24 @@
+{
+ "id": "62c896f6a2b3",
+ "url": "https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab?syn-25a6b1a6=1",
+ "title": "人工智能数学领域的这一突破对人类探索意味着什么",
+ "source": "www.ft.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-25T23:59:47.266Z",
+ "fetched_at": "2026-09-26T11:19:51.527838+00:00",
+ "content": "What an AI maths breakthrough means for human discovery\nSave over 40% on Standard Digital\nwas $540 now $299 for your first year.\nSave now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price.\nExplore more offers.\nTrial\nThen $75 per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial.\nPremium Digital\nComplete digital access with exclusive insights and industry deep dives on any device.\nSave now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price.\nCheck whether you already have free access via your university or organisation.\nTerms & Conditions apply\n*Hand delivery availability confirmed when you enter your address.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "AI数学突破：机器正从计算工具变成科学发现伙伴",
+  "background": "数学长期被视为人类创造力的最后堡垒。2024年DeepMind的AlphaProof与AlphaGeometry在国际数学奥林匹克达到银牌水平；2025年AlphaEvolve找到更快的矩阵乘法算法并优化数据中心调度；同期大模型被用于挑战Erdős问题库中的开放问题，引发数学家激辩：这究竟是真正的新发现，还是已知结果的重新拼装。Lean等形式化证明助手让AI输出可被机器逐行验证，成为这轮进展的关键基建。FT此文正是在此背景下追问：当AI能提出猜想、给出证明，人类探索知识的边界与分工将如何重写。（注：原文处于付费墙内，以下分析基于标题与公开背景）",
+  "key_points": [
+   "从「算得快」到「想得出」：过去AI在数学中主要做符号计算和穷举搜索，如今大模型配合形式化工具已能提出新猜想、输出可验证的证明步骤，角色发生质变。",
+   "可验证性是转折点：Lean等形式化语言把证明变成机器可检查的代码，AI答案不再依赖「看起来对」，这是数学界愿意认真对待AI结果的前提。",
+   "成果仍集中在「边角问题」：AI目前多攻克定义清晰、规模适中的开放问题，尚未独立撼动黎曼猜想级别的核心难题，人类的直觉与选题品味仍不可替代。",
+   "人机分工正在重写：数学家逐渐转向提问、筛选与指方向，AI承担搜索、试错和验证，单篇论文的研究周期被明显压缩。",
+   "争议与泡沫并存：部分「AI解出开放问题」的说法被指出实为教材级已知结论，说明宣传与真实突破之间仍有落差，同行评议的把关作用更重要。"
+  ],
+  "impact": "对AI行业，数学成了检验推理能力的硬标尺，将推动形式化验证、强化学习与长链推理的投入，也把「AI能否做原创科学」正式摆上台面。对开发者，Lean与证明助手这类工具链会从小众走向工程化，既懂数学又懂代码的复合人才变得抢手，模型评测也会出现更多可验证的数学基准。对普通用户，短期生活几乎无感，但更可靠的推理模型会先渗透进教育辅导、科研助手和工程软件；长期看，材料、芯片、医药等依赖数学建模的领域可能加速，同时「发现该归功于谁、收益如何分配」会变成新的社会问题。",
+  "tools": "想跟进可关注：Lean 4 与 mathlib（形式化数学与证明验证的事实标准）、DeepMind 的 AlphaGeometry 开源代码与 AlphaProof/AlphaEvolve 论文、erdosproblems.com 上的开放问题清单。上手路径建议先用 Lean 写简单证明熟悉语法，再让大模型生成证明草稿并交给 Lean 校验，亲身体会AI在数学上「能做什么、还差什么」。"
+ },
+ "lang": "zh"
+}

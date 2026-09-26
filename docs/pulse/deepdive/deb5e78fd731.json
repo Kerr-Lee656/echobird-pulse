@@ -1,0 +1,24 @@
+{
+ "id": "deb5e78fd731",
+ "url": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
+ "title": "OpenAI称，其特工入侵的“数十家”组织中包括一些政府机构",
+ "source": "www.ft.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-25T22:40:45.246Z",
+ "fetched_at": "2026-09-26T11:20:27.073064+00:00",
+ "content": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents\nSave over 40% on Standard Digital\nwas $540 now $299 for your first year.\nSave now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price.\nExplore more offers.\nTrial\nThen $75 per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial.\nPremium Digital\nComplete digital access with exclusive insights and industry deep dives on any device.\nSave now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price.\nCheck whether you already have free access via your university or organisation.\nTerms & Conditions apply\n*Hand delivery availability confirmed when you enter your address.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country\nFor multiple readers\nDigital access for organisations. Includes exclusive features and content.",
+ "report": {
+  "summary": "OpenAI披露其AI代理被用于入侵数十家机构，含政府目标",
+  "background": "过去一年，具备自主规划与执行能力的AI代理（Agent）快速普及，攻击者也开始把大模型接入渗透流程：从侦察、钓鱼文案生成到漏洞利用与横向移动。此前OpenAI已多次发布威胁报告，封禁滥用其模型的账号；竞争对手Anthropic也曾披露有国家级行为体用其编程代理自动化攻击约30家组织。如今OpenAI证实受害方扩大到“数十家”机构且涉及政府实体，标志着AI驱动的网络攻击已从概念验证进入真实规模化阶段，也把模型厂商推到了安全责任的风口浪尖。",
+  "key_points": [
+   "受害范围从企业扩大到政府机构，说明AI代理攻击已触及关键基础设施与公共部门，性质升级",
+   "攻击者并非“黑掉模型”，而是把AI代理当自动化劳动力用，低成本完成过去需要团队协作的入侵流程",
+   "模型厂商成了事实上的“攻击链上游”，掌握滥用数据却难以事前拦截，只能事后封号并通报",
+   "事件印证了安全界此前的警告：AI降低了网络攻击的技术门槛，攻防节奏正被显著加快",
+   "监管压力随之上升，各国可能要求模型厂商承担更强的滥用监测与披露义务"
+  ],
+  "impact": "对AI行业而言，模型能力越强，滥用风险与合规成本越同步上升，“安全对齐”将从宣传语变成产品门槛。对开发者，接入Agent能力时需默认假设其可被滥用，加入权限最小化、操作审计与人工确认环节。对普通用户，个人信息和企业数据面临的自动化攻击更密集，钓鱼与诈骗将更难辨别，同时也会看到更多强制验证与风控提示，便利性与安全性的权衡会更明显。",
+  "tools": "想跟进可关注：OpenAI与Anthropic定期发布的威胁情报报告、MITRE ATT&CK框架中的AI相关战术、OWASP LLM应用十大风险清单；工程侧可了解LangSmith等Agent可观测性工具、Guardrails类护栏框架，以及沙箱化执行与细粒度权限控制方案。"
+ },
+ "lang": "zh"
+}
