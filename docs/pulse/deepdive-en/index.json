@@ -4453,5 +4453,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-09-25T23:11:10.000Z",
   "fetched_at": "2026-09-26T11:23:41.403348+00:00"
+ },
+ "3eda5db8c059": {
+  "id": "3eda5db8c059",
+  "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+  "title": "Insurers claim AI is already increasing healthcare costs",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-26T21:02:06.000Z",
+  "fetched_at": "2026-09-26T21:08:53.363458+00:00"
+ },
+ "7db920b069b4": {
+  "id": "7db920b069b4",
+  "url": "https://agenticfinancegraph.com/desk",
+  "title": "AI agents now hold and spend real money, and nobody keeps their books",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T20:54:59Z",
+  "fetched_at": "2026-09-26T21:09:06.669087+00:00"
+ },
+ "4578dd8f54d8": {
+  "id": "4578dd8f54d8",
+  "url": "https://srcreigh.ca/posts/gpt-6-astra-wont-try-hard-unless-you-ask/",
+  "title": "GPT-6 Astra won't try hard unless you ask",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-26T18:13:54Z",
+  "fetched_at": "2026-09-26T21:10:34.048445+00:00"
+ },
+ "40c594c06e93": {
+  "id": "40c594c06e93",
+  "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
+  "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+  "source": "@arena",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-26T17:02:36.000Z",
+  "fetched_at": "2026-09-26T21:10:58.781571+00:00"
  }
 }
