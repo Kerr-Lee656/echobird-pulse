@@ -1,0 +1,24 @@
+{
+ "id": "455ef52f381b",
+ "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+ "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-26T04:53:27.729980+00:00",
+ "content": "Anthropic will spend $11.6 billion over seven years on Akamai’s cloud infrastructure, Akamai said Thursday. That’s more than six times the size of a $1.8 billion deal between the two companies that Bloomberg reported in May. The commitment isn’t ironclad; according to Akamai’s securities filing, it depends on Akamai meeting certain delivery and service-availability requirements, and either company can end the agreement under certain conditions.\nThe deal is the largest in Akamai’s history and continues Anthropic’s compute gobbling-streak. It also represents a bet on a less-hyped corner of AI infrastructure: CPUs. Demand for CPUs, the general-purpose chips that handle work like running code and browsing the web, has grown as AI agents take on more tasks, though Akamai didn’t say what Anthropic will use them for.\nAkamai won’t see revenue from the deal this year. On an investor call Thursday, executives said they expect $150 million to $300 million in 2027, starting in the second half, with revenue reaching an annual pace of about $1.7 billion by the end of 2028.\nTo build out the capacity, Akamai expects to spend about $5.5 billion. It is also adding about $1.7 billion to this year’s capital spending to buy components such as memory in advance.\nAs part of the deal, Akamai issued Anthropic a warrant, essentially the right to buy shares at a set price, for nonvoting preferred stock convertible into 7.7 million common shares, or up to about 5% of the company’s outstanding stock, at $111.33 a share. About 2% is expected to vest, or become available to Anthropic once it makes its first payment under the deal. The rest is tied to Anthropic spending more. Each additional $3 billion it commits to Akamai’s cloud services unlocks roughly another 1%, so the deal could grow by as much as $9 billion, to about $20 billion in total.\nIt’s the first time Akamai has attached a warrant to a cloud deal, and the contract is the largest in company history, Bloomberg reported.\nThe warrant flips the more common pattern in circular AI deals, in which suppliers — chipmakers and cloud providers — invest directly in the AI labs that buy their products. Here, the supplier is instead giving its customer a potential stake, one that grows as Anthropic’s spending with Akamai does. AMD used a similar structure with OpenAI last year, tying warrants to chip-purchase milestones.\nAnthropic is no stranger to such arrangements. Amazon, Google, Microsoft, and AMD have all invested or agreed to invest in the company while selling it chips or cloud capacity. CEO Dario Amodei told The New York Times last December that Anthropic does not participate in these deals at the “same scale as some other players.”\nAkamai shares rose as much as 17% in after-hours trading on Thursday, The Wall Street Journal reported.",
+ "report": {
+  "summary": "Anthropic 七年 116 亿美元采购 Akamai 云算力",
+  "background": "AI 算力军备竞赛正从 GPU 蔓延到 CPU。Anthropic 今年 5 月刚与 Akamai 签下 18 亿美元合同，如今规模翻了六倍多。背景是 AI Agent 大量执行代码运行、网页浏览等通用任务，推高了对 CPU 的需求。Akamai 从 CDN 起家，近年发力云与安全业务，需要大客户支撑算力投入；而 Anthropic 在亚马逊、谷歌、微软、AMD 多方投资下持续扩张，CEO 也承认自己不完全参与这类循环交易。此次合同并非铁板一块，但已是 Akamai 公司史上最大一笔交易。",
+  "key_points": [
+   "规模：七年 116 亿美元，是 5 月 18 亿美元合同的六倍多，Akamai 史上最大订单，消息公布后其股价盘后一度涨 17%。",
+   "收入与投入：今年无收入，2027 下半年起确认 1.5–3 亿美元，2028 年底年化约 17 亿美元；Akamai 需投入约 55 亿美元建产能，另加约 17 亿美元预购内存等部件。",
+   "权证结构：Akamai 向 Anthropic 发行认股权证，最多约 5% 股份；Anthropic 每多花 30 亿美元多解锁约 1%，总额最高可到约 200 亿美元。",
+   "反向循环交易：常见模式是芯片或云厂商投资 AI 实验室，这次反过来由供应商给客户股权，与 AMD 去年对 OpenAI 的做法类似。",
+   "CPU 押注：这笔钱买的是相对冷门的 CPU 算力——Agent 执行代码、浏览网页推高了通用芯片需求，但 Anthropic 的具体用途未披露；合同还附交付与可用性等条件，双方在特定情况下可终止。"
+  ],
+  "impact": "对行业：AI 算力采购从 GPU 扩展到 CPU，说明推理与 Agent 负载成为新瓶颈；\"供应商送股权换订单\"的循环交易进一步常态化，云厂商的产能与融资能力被深度绑定。对开发者：CPU 侧算力增加有望缓解 Agent 产品的排队与限流，Claude 长时间自主任务可能更便宜稳定。对普通用户：短期能用到更便宜、更能干活的 AI 助手，代价是行业集中度与资本风险继续上升。",
+  "tools": "想上手可关注 Akamai Cloud（原 Linode）的 CPU 实例与定价、Anthropic 的 Claude Agent SDK 与 MCP 协议；自托管方向可看 vLLM、llama.cpp，以及 LangGraph、OpenAI Agents SDK 等 Agent 编排框架。"
+ },
+ "lang": "zh"
+}

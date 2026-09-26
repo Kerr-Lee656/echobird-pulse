@@ -1,0 +1,24 @@
+{
+ "id": "dcfe11493244",
+ "url": "https://thenextweb.com/news/gates-ai-risk-eu-enforcement",
+ "title": "Bill Gates warns AI could cause a billion deaths and says self-regulation is not enough",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-26T04:53:51.876009+00:00",
+ "content": "Bill Gates said artificial intelligence is powerful enough to drive events causing a billion deaths, and that self-regulation is not enough because safeguards and monitoring have to be a required thing. The European Union has required them since August 2025, and since 2 August this year the Commission has been able to fine a model provider 3% of worldwide turnover.\nBill Gates said artificial intelligence is powerful enough to drive events that cause a billion deaths, Bloomberg reported. He was speaking in an excerpt from an interview with NBC’s Meet the Press due to air this weekend. There has never been a weapon as powerful as people with ill intent using the latest AI tools, the Microsoft co-founder said.\nThe second half matters more.\nSelf-regulation is not enough, Gates said, and law enforcement and politicians need to be in the discussion about what safeguards and monitoring look like. That has to be a required thing, he added. It is the policy position rather than the number that is new from him.\nEurope required it last year.\nArticle 55 of the AI Act has obliged providers of general-purpose models with systemic risk to run adversarial testing, assess risk at union level and report serious incidents without undue delay since August 2025. The accompanying code of practice allows five days to report a cybersecurity breach and fifteen for serious harm.\nThe penalties arrived in August.\nSince the second of that month the Commission has been able to fine a provider up to 3% of worldwide annual turnover or EUR 15M, whichever is higher. It can demand access to a model, order evaluations and require a provider to restrict its public availability. Prohibited practices carry up to 7%.\nNone of it has been used.\nNo enforcement action against a model provider has been reported in the seven weeks since those powers took effect. The one thing that has happened is OpenAI filing an incident report about its own agents occupying a German wiki. A company reported itself.\nThe debate has not noticed.\nAnthropic proposed a framework in June giving governments the power to block dangerous deployments, with penalties scaled to global revenue and thresholds set by training compute and AI spending. That document made no mention of the European Union. The architecture it asked for had been on the European statute book since 2024.\nGates is describing the same thing.\nA Microsoft co-founder calling for mandatory monitoring and for police in the room is describing a regime that exists on one continent and is being argued for on another. Microsoft is OpenAI’s largest partner. The open question is not whether such a law can be written but whether anyone will use the one that has been.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "盖茨称AI或致十亿人死亡，呼吁强制监管",
+  "background": "比尔·盖茨在NBC《Meet the Press》访谈中（彭博社报道）表示，AI强大到足以引发导致十亿人死亡的灾难性事件，自律远远不够，安全防护与监控必须是强制要求，执法者与政治家也应参与规则制定。此番表态的现实背景是：欧盟《AI法案》第55条自2025年8月起，已对具系统性风险的通用模型施加对抗性测试、联盟级风险评估和事故上报义务；最高可罚全球年营收3%或1500万欧元的处罚权也自今年8月2日生效，5天报网络安全事件、15天报严重危害。但七周过去，一起针对模型提供者的执法都没有。",
+  "key_points": [
+   "新的不是“十亿人死亡”这个吓人数字，而是盖茨的政策立场：AI安全不能靠企业自愿，必须变成强制监控与上报",
+   "欧盟其实已经这么做了：系统性风险模型须做对抗性测试、评估欧盟级风险，并在5天内报网络安全事件、15天内报严重危害",
+   "罚则上线却形同虚设：最高3%全球营收的罚款权生效七周，零执法记录，唯一的事故报告还是OpenAI主动上交的",
+   "监管讨论存在盲区：Anthropic六月提出政府可阻止危险部署的框架，却只字未提欧盟，而它要的架构2024年已写进欧洲法律",
+   "真正的悬念不是法律能不能写出来，而是已经存在的那部法律有没有人敢用；微软身为OpenAI最大伙伴，盖茨的话因此更有分量"
+  ],
+  "impact": "对AI行业：合规正从“自愿承诺”转向“可执法义务”，但欧盟零执法意味着短期震慑有限，大厂很可能继续观望。对开发者：系统性风险模型的对抗测试、事件上报将变成硬性流程，跨大西洋产品需按最严标准设计。对普通用户：监管若真落地，可降低灾难性风险和事故被隐瞒的概率；若只是纸面条文，风险仍由公众承担。",
+  "tools": "想跟进合规与安全测试，可关注：EU AI Act 官方文本与GPAI行为准则、NIST AI风险管理框架；开源对抗测试工具如Garak、微软PyRIT、英国AISI的Inspect、promptfoo；模型评测可用EleutherAI的lm-evaluation-harness。"
+ },
+ "lang": "zh"
+}
