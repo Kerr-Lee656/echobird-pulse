@@ -1,0 +1,24 @@
+{
+ "id": "8d3b019fc3ff",
+ "url": "https://thenextweb.com/news/google-india-ai-datacentre-andhra-pradesh-land",
+ "title": "Google’s India AI hub cleared for 2.51GW, not 1GW, the Guardian reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-27T08:05:53.792640+00:00",
+ "content": "Google’s $15bn AI datacentre project in Andhra Pradesh has state environmental clearance for 2.51GW of capacity, more than double the 1GW announced, according to clearance papers seen by the Guardian.\nHannah Ellis-Petersen and Aakash Hassan reported the story from Tarluvada, one of the villages where the project is being built. The Guardian said 2.51GW is roughly the output of two large nuclear reactors, and more than 30% of the state’s current yearly power use.\nGoogle announced the Visakhapatnam AI hub in October 2025, with partners AdaniConneX and Airtel. In its reply to the Guardian, Google called it a gigawatt-scale hub, comparable to other projects.\nThe state gave the green light in nine days, with no public hearing, the Guardian reported. The Human Rights Forum has since filed three petitions at India’s National Green Tribunal, and a separate case is before the Andhra Pradesh High Court.\nThe project covers three sites around Visakhapatnam. One is a few metres from a reserve forest, a drinking water reservoir and a wildlife sanctuary.\nIn Tarluvada, 520 families recently had land taken back that the government had given them about 20 years ago, according to the Guardian. Villagers said security guards working for the Adani Group put up fences in April and blocked them from plots they had farmed for years.\nSome of the 47 Dalit farmers who were paid for their land said they have not yet got the new plots and jobs they were promised. One farmer, P Venkat Rao, said he received $40,000 for his only acre but now has no livelihood.\n“I am a farmer, without my land I am nothing,” Rao told the Guardian.\nThe state government said no land was taken by force and that those who qualified were paid well. The Adani Group said all legal approvals were in place.\nGoogle said the site will be cooled by air, not water, so it will not affect local drinking water. It also said it expects no impact on the local community and will create thousands of jobs around Visakhapatnam.\nMeanwhile, the state’s tax breaks and cheap land, power and water for Google are estimated to be worth 220bn rupees ($2.2bn) over 20 years, the Guardian reported.\nThe dispute mirrors datacentre protests in the US and elsewhere. The tribunal petitions have not yet been decided.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌印度AI中心环境许可显示2.51GW，远超公开的1GW",
+  "background": "全球AI竞赛推高数据中心电力需求，印度以土地、税收和电力优惠吸引超大规模投资。谷歌2025年10月宣布在安得拉邦维沙卡帕特南建15亿美元AI枢纽，合作方为AdaniConneX和Airtel。Guardian查阅环评文件发现，实际获批容量达2.51GW，约为两座大型核反应堆或该邦年用电30%以上，引发快速审批与征地争议。",
+  "key_points": [
+   "环评文件显示谷歌在安得拉邦获准2.51GW容量，是官方宣布1GW的两倍多，规模约等于两座大型核反应堆。",
+   "项目占地涉及维沙卡帕特南周边三处，其中一处距保护区森林、饮用水水库和野生动物保护区仅数米，环境风险受质疑。",
+   "邦政府9天即发环境许可且未举行公开听证，人权论坛已向国家绿色法庭提交三份请愿，另有案件在高等法院。",
+   "报道称Tarluvada约520户家庭被收回约20年前获授土地，阿达尼保安4月设围栏，部分达利特农民未获承诺的新地和就业。",
+   "谷歌称采用空气冷却、不影响饮用水并创造数千岗位；政府否认强征，阿达尼称审批合法；但税收、土地、水电优惠估值20年22亿美元。"
+  ],
+  "impact": "对AI行业，2.51GW暴露超大规模算力扩张的真实能耗与透明度问题，审批和社区阻力或成新瓶颈；对开发者，印度本地云与AI算力供给预期增强，但法律和施工延期风险需纳入部署规划；对普通用户，可能带来更近、更便宜的AI服务，但当地居民要承担土地、电力与环境代价。",
+  "tools": "若跟进数据中心能耗与选址，可关注 Electricity Maps、WattTime、Green Software Foundation 的 SCI 规范，以及 Google Cloud 印度区域与 Vertex AI 的后续可用性；社区维权可参考 Environmental Justice Atlas、OpenStreetMap 做影响记录。"
+ },
+ "lang": "zh"
+}
