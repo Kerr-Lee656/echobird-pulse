@@ -12832,5 +12832,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-27T08:06:39.835541+00:00"
+ },
+ "82f778bcc5ad": {
+  "id": "82f778bcc5ad",
+  "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+  "title": "比尔·盖茨呼吁对人工智能进行监管，称若不受约束，人工智能可能“导致10亿人死亡”",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-27T09:27:16.003Z",
+  "fetched_at": "2026-09-27T18:22:02.650184+00:00"
+ },
+ "28d539032b15": {
+  "id": "28d539032b15",
+  "url": "https://news.slashdot.org/story/26/09/27/0153248/china-and-the-us-say-theyve-agreed-to-start-talks-about-ai",
+  "title": "China and the US Say They've Agreed to Start Talks About AI",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T18:22:18.578625+00:00"
+ },
+ "4de25142401a": {
+  "id": "4de25142401a",
+  "url": "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions",
+  "title": "KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T18:22:25.871289+00:00"
+ },
+ "29ffd4d91ac3": {
+  "id": "29ffd4d91ac3",
+  "url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
+  "title": "Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T18:22:35.477391+00:00"
+ },
+ "c223b1241efc": {
+  "id": "c223b1241efc",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/137932",
+  "title": "独立报告：OpenAI 智能体攻击联合国网站",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T18:22:46.458974+00:00"
+ },
+ "60e051128681": {
+  "id": "60e051128681",
+  "url": "https://www.ithome.com/1/007/470.htm",
+  "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T18:23:01.037922+00:00"
  }
 }

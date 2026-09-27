@@ -4525,5 +4525,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-27T08:17:13Z",
   "fetched_at": "2026-09-27T14:00:17.608780+00:00"
+ },
+ "8dc609a7135b": {
+  "id": "8dc609a7135b",
+  "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
+  "title": "China and U.S. to open AI 'communication channel' after summit",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-27T17:51:07Z",
+  "fetched_at": "2026-09-27T18:24:00.776092+00:00"
+ },
+ "c35bd152b345": {
+  "id": "c35bd152b345",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+  "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-27T17:21:07.000Z",
+  "fetched_at": "2026-09-27T18:24:33.067643+00:00"
+ },
+ "088b1840a977": {
+  "id": "088b1840a977",
+  "url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
+  "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+  "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-27T09:27:15.000Z",
+  "fetched_at": "2026-09-27T18:27:12.446737+00:00"
  }
 }
