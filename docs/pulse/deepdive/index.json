@@ -12886,5 +12886,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-27T18:23:01.037922+00:00"
+ },
+ "e56870752e73": {
+  "id": "e56870752e73",
+  "url": "https://www.36kr.com/p/4001348750512260",
+  "title": "刚刚，Gemini 4 Pro全新曝光，实测碾压Opus 5.5",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-09-27T13:23:36.688Z",
+  "fetched_at": "2026-09-27T23:02:01.579753+00:00"
+ },
+ "3e25d6acf0a9": {
+  "id": "3e25d6acf0a9",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/137957",
+  "title": "澳参议院传唤 OpenAI 与 Anthropic 高管参会",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T23:02:16.145348+00:00"
+ },
+ "3d1c63da4fb6": {
+  "id": "3d1c63da4fb6",
+  "url": "https://www.199it.com/archives/1854388.html",
+  "title": "The Information：DeepSeek 年化收入 10 亿美元，增长一倍以上",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T23:02:26.900259+00:00"
+ },
+ "c4bc64eb0edf": {
+  "id": "c4bc64eb0edf",
+  "url": "https://www.199it.com/archives/1854394.html",
+  "title": "布鲁金斯学会：2025-2032 年美国 AI 基建投资将达 10.3 万亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T23:02:35.809915+00:00"
+ },
+ "8d2872118fa2": {
+  "id": "8d2872118fa2",
+  "url": "https://wallstreetcn.com/articles/3782604",
+  "title": "黑客盯上 AI「金矿」：盗账号、劫云算力，AI 资源正成为网络犯罪新生意",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T23:02:50.716893+00:00"
  }
 }

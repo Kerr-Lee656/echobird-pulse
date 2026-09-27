@@ -4552,5 +4552,23 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-27T09:27:15.000Z",
   "fetched_at": "2026-09-27T18:27:12.446737+00:00"
+ },
+ "208027e47925": {
+  "id": "208027e47925",
+  "url": "https://www.runsybil.com/blog/kimi-k3-vs-claude-opus-5-5-how-two-flagship-llms-built-pokemon-emerald-worms",
+  "title": "Kimi K3 vs. Claude Opus 5.5: How Two Flagship LLMs Built Pokémon Emerald Worms",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-27T16:17:10Z",
+  "fetched_at": "2026-09-27T23:05:41.377894+00:00"
+ },
+ "82f778bcc5ad": {
+  "id": "82f778bcc5ad",
+  "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+  "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-27T14:59:53Z",
+  "fetched_at": "2026-09-27T23:05:56.720658+00:00"
  }
 }
