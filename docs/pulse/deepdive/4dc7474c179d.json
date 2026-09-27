@@ -1,0 +1,24 @@
+{
+ "id": "4dc7474c179d",
+ "url": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
+ "title": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-27T00:34:09.454314+00:00",
+ "content": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs\nAI is causing hospital bills to rise\n- Insurers paid out $1bn extra because of AI assistance in hospitals, report claims\n- AI is scanning through swathes of current and old data to find extra ailments\n- Insurers are using AI to question whether those diagnoses are relevant\nThe Blue Cross Blue Shield Association (BCBSA) has revealed that insurers paid out nearly $1 billion more than usual from AI-assisted hospital documentation and other AI work in 2024-2025, compared with the year before.\nThe organization, which represents 31 independent Blue Cross Blue Shield insurers (and over 100 million citizens), found that using AI to scan medical records and transcribe patient meetings could actually be causing costs to rise, and even be passed on to patients via higher premiums.\nBut the cost isn't coming from the extra compute – that's a whole other issue. Instead, it's AI's ability to scan through huge amounts of data that could be revealing secondary ailments and pushing insurance payouts up.\nAI is uncovering secondary ailments and pushing up insurance payouts\nWhile a patient may enter the hospital for one primary problem, they may also have several secondary diagnoses or complications. Because AI is so effective at scanning through swathes of data, records and conversations, it's more likely to pick these up than a human reviewer. But while this is ultimately good news for the patient's health, US hospital reimbursement is influenced by diagnoses and complexity, so more diagnoses means more payouts.\nHowever, the BCBSA warns that if patients really were becoming sicker, we should be seeing increases in treatment – but we're not. \"The disconnect between diagnoses and treatment suggests that AI is identifying more billable conditions, not sicker patients,\" SVP of Product and Data Science Luke Chalker said.\nBut on the other side of the coin, insurers are also increasingly employing AI to scrutinize claims and decide whether treatment was medically necessary, making this somewhat of an AI-vs-AI battle, pushing up compute consumption and costs across the board and potentially for no beneficial reason.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "医院AI辅助记录推高诊断与保费，蓝十字估多付10亿美元。",
+  "background": "美国医院报销长期与诊断数量和复杂程度挂钩，医院因此有动力做更完整的编码与记录。近年AI医疗记录、临床文档助手快速进入医院，能自动转录问诊并扫描历史病历。代表31家蓝十字蓝盾计划、覆盖超1亿人的BCBSA发现，2024-2025年AI辅助文档等导致保险赔付比前一年多近10亿美元；同时保险公司也在用AI审核理赔，形成双向拉锯。",
+  "key_points": [
+   "BCBSA统计2024-2025年因AI辅助医院记录等工作，保险赔付比前一年多出近10亿美元。",
+   "AI能快速扫描病历和医患对话，发现更多次要诊断或并发症，而美国医院报销与诊断复杂度挂钩，诊断越多赔付越高。",
+   "BCBSA称治疗量并未同步增加，说明AI可能在识别更多可计费病症，而不是病人真的更严重。",
+   "保险公司也在用AI审核理赔和医疗必要性，形成AI对AI的博弈，进一步推高算力与行政成本。",
+   "这些额外成本可能通过更高保费转嫁给患者，同时引发过度编码和医疗必要性争议。"
+  ],
+  "impact": "对AI行业：医疗AI的商业价值不能只看提效，支付方会更关注控费和临床结局，过度编码风险或引发监管。对开发者：临床文档系统需加入编码审计、可解释性和人工复核，避免把发现更多诊断等同于更多收入。对普通用户：可能获得更全面诊断，但也可能面对更高保费、更严理赔审核，以及AI对AI带来的不必要医疗成本。",
+  "tools": "可关注FHIR标准、MedCAT、scispaCy等临床NLP工具，以及AWS HealthLake、Google Cloud Healthcare API、Azure Health Data Services；开发时重点做编码审计、可解释性与HIPAA合规。"
+ },
+ "lang": "zh"
+}

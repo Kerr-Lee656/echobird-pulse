@@ -1,0 +1,24 @@
+{
+ "id": "f428104ad276",
+ "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+ "title": "The Copilot+ PC brand is dead",
+ "source": "Hacker News",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-27T00:35:04.856277+00:00",
+ "content": "The Copilot+ PC brand is dead: Microsoft and PC makers quietly pull back on tarnished Windows 11 AI PC branding\nIn a new interview, Microsoft Surface CVP confirms that its new Surface PCs are no longer called Copilot+ PCs, but will still support all Copilot+ features.\nIn 2024, Microsoft and Qualcomm kicked off a new category of Windows hardware it called \"Copilot+ PCs\" that set the baseline for a new wave of AI-first computers, and launched with exclusive features that would not be made available on PCs that didn't meet a new set of system requirements.\nThe launch didn't go smoothly. Copilot+ PCs were met with immediate backlash from security researchers after discovering that Copilot+ PCs blockbuster feature, Recall, was woefully insecure. This forced the company to delay Recall and ship this new category of devices without its leading AI experience.\nThis pretty much tarnished the Copilot+ PC brand, and over the last two years more and more OEMs have dropped the moniker from marketing materials and product names. In fact, even Microsoft has seemingly stopped mentioning it.\nI've noticed that none of the Surface PCs launched in 2026 include the Copilot+ PC moniker in their product names, unlike the Surface PCs that launched in 2025 and before. Now, you have to go digging to find any mention of Copilot+ compatibility in specification sheets.\nAt this year's Snapdragon Summit, I had the chance to ask Surface CVP Brett Ostrum about the lack of Copilot+ PC branding on its recent Surface PCs, and he confirmed that \"these are not called Copilot+ PCs. They do meet all the requirements of our previous bar for what Copilot+ devices are. We still lean into the narrative around AI on the edge and being able to have a hybrid solution out there.\"\nI've also asked Qualcomm's SVP of compute, Kedar Kondap, about his thoughts on the usage of the Copilot+ PC branding. He told me that \"the purpose for Copilot+ PCs was to be able to deliver [NPU] experiences. So it was to define a certain category of devices with a certain bar and metric, like for example, a 45 TOPS NPU ... So from that perspective, it's more offering the same experiences, probably without just using [Copilot+ PC] terminology now.\"\nIt's also worth mentioning that NVIDIA hasn't gone anywhere near the Copilot+ PC brand for its upcoming RTX Spark platform, even though all RTX Spark PCs meet the Copilot+ PC specification bar. I suspect that's a deliberate decision.\nIt seems pretty obvious that the Copilot+ PC brand hasn't resonated with the market, and OEMs and Microsoft itself are now quietly pulling back on that branding. The specification baseline for Copilot+ PC experiences still exists, it just no longer has a pretty marketing name tied to it.\nThe rough launch of Copilot+ PCs, paired with the fact that Microsoft Copilot itself doesn't have a very strong reputation these days, likely contributed to the decision to slowly retire the Copilot+ PC branding. The brand never made sense to me anyway... these PCs have nothing to do with Copilot.\nJoin us on Reddit at r/WindowsCentral to share your insights and discuss our latest news, reviews, and more.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "Copilot+ PC品牌被悄然弃用，AI规格仍保留",
+  "background": "2024年，微软联合高通推出Copilot+ PC品类，以45 TOPS NPU等门槛定义AI PC，并承诺Recall等独占功能。但发布即遇安全风波，Recall因隐私漏洞被推迟，首发体验不完整，品牌迅速受损。此后OEM陆续从产品和营销中移除该名称，微软也减少提及。近期Surface高管确认新款Surface不再叫Copilot+ PC，但仍满足旧规格；高通称其本意是定义NPU体验门槛，NVIDIA也刻意回避该品牌。",
+  "key_points": [
+   "微软Surface高管确认，2026年新款Surface不再使用Copilot+ PC名称，但仍满足旧规格并支持相关AI功能。",
+   "2024年首发时，核心功能Recall被曝严重安全漏洞，被迫推迟，导致Copilot+ PC上市即缺少招牌体验，品牌声誉受损。",
+   "越来越多OEM从营销材料和产品名中移除Copilot+ PC，连微软自己也很少提及；NVIDIA新一代RTX Spark同样避开该品牌。",
+   "高通高管表示，Copilot+ PC原本是为定义NPU体验门槛，如45 TOPS算力，现在更倾向于只提供体验而不用该术语。",
+   "硬件规格基线仍然存在，但品牌已名存实亡；市场不买账、Copilot口碑平平，是微软与PC厂商悄然退场的主因。"
+  ],
+  "impact": "对AI行业，AI PC营销将从空泛品牌转向NPU算力与端侧体验，厂商更务实；对开发者，Copilot+规格仍可作为AI PC基线，但需适配多品牌与不同NPU，Windows AI API和跨平台运行时更重要；对普通用户，购买时不必被Copilot+标签迷惑，应关注NPU性能、实际AI功能和价格，而非营销名称。",
+  "tools": "想跟进端侧AI开发，可关注Windows AI Foundry、DirectML、ONNX Runtime；硬件厂商工具有Qualcomm AI Hub、Intel OpenVINO、AMD Ryzen AI、NVIDIA TensorRT。它们可帮助在不同NPU/GPU上部署和优化本地模型。"
+ },
+ "lang": "zh"
+}

@@ -12733,5 +12733,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-26T02:15:16Z",
   "fetched_at": "2026-09-26T16:21:12.419501+00:00"
+ },
+ "3a228eb75426": {
+  "id": "3a228eb75426",
+  "url": "https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle",
+  "title": "AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:33:47.269893+00:00"
+ },
+ "0ef2dba83a15": {
+  "id": "0ef2dba83a15",
+  "url": "https://thenextweb.com/news/australia-senate-inquiry-altman-amodei-openai-medicare",
+  "title": "Australian inquiry asks Altman and Amodei to testify",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:33:58.890153+00:00"
+ },
+ "4dc7474c179d": {
+  "id": "4dc7474c179d",
+  "url": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
+  "title": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:34:09.454314+00:00"
+ },
+ "1d4797d716fa": {
+  "id": "1d4797d716fa",
+  "url": "https://news.mydrivers.com/1/1154/1154086.htm",
+  "title": "报告：中国 AI 算力将扩容三倍，国产芯片占比有望超 70%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:34:15.270916+00:00"
+ },
+ "4e3dee0971f9": {
+  "id": "4e3dee0971f9",
+  "url": "https://www.ithome.com/1/007/444.htm",
+  "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-26T15:44:10Z",
+  "fetched_at": "2026-09-27T00:34:43.456401+00:00"
+ },
+ "474f103b19c2": {
+  "id": "474f103b19c2",
+  "url": "https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak",
+  "title": "在发生“失控智能体”事件后，OpenAI和Anthropic的负责人被传唤接受参议院质询",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-26T14:03:57.417Z",
+  "fetched_at": "2026-09-27T00:34:52.636687+00:00"
+ },
+ "f428104ad276": {
+  "id": "f428104ad276",
+  "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+  "title": "The Copilot+ PC brand is dead",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:35:04.856277+00:00"
+ },
+ "0ef804d75ccf": {
+  "id": "0ef804d75ccf",
+  "url": "https://mashable.com/tech/google-sending-ai-data-center-satellite-to-space",
+  "title": "Liftoff: Google is realizing Elon Musks dream of AI data centers in space",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-27T00:35:17.334401+00:00"
  }
 }
