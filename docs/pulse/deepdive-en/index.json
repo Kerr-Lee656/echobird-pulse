@@ -4489,5 +4489,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-09-26T17:02:36.000Z",
   "fetched_at": "2026-09-26T21:10:58.781571+00:00"
+ },
+ "a5babe6eb0c3": {
+  "id": "a5babe6eb0c3",
+  "url": "https://github.com/mvschwarz/openrig",
+  "title": "mvschwarz/openrig — Multi-agent harness that runs Claude Code and Codex together as one system",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-27T13:57:11.625017+00:00"
+ },
+ "0ccd2a4da2ef": {
+  "id": "0ccd2a4da2ef",
+  "url": "https://github.com/microsoft/data-formulator",
+  "title": "microsoft/data-formulator — 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-27T13:57:20.385913+00:00"
+ },
+ "075da9c2e483": {
+  "id": "075da9c2e483",
+  "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+  "title": "Chinese AI models surge in global popularity",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-27T08:48:28Z",
+  "fetched_at": "2026-09-27T14:00:03.530092+00:00"
+ },
+ "77380415e41d": {
+  "id": "77380415e41d",
+  "url": "https://www.newsbrainport.nl/major-italian-bank-defrauded-of-millions-via-ai-deception/",
+  "title": "Major Italian bank defrauded of millions via AI deception",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-27T08:17:13Z",
+  "fetched_at": "2026-09-27T14:00:17.608780+00:00"
  }
 }
