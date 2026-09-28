@@ -1,0 +1,24 @@
+{
+ "id": "8e193a208da1",
+ "url": "https://thenextweb.com/news/china-overtakes-us-elite-ai-talent-carnegie",
+ "title": "More elite AI researchers now work in China than in the US, study finds",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-28T20:34:28.166903+00:00",
+ "content": "China has overtaken the United States as the country where the most elite AI researchers work, according to a study by Carnegie China. The think tank is part of the Carnegie Endowment for International Peace. In 2025, 41% of the top researchers it tracked worked in China and 34% in the US.\nThree years earlier the US led. In 2022, 46% worked in the US and 27% in China.\nHow the study counted\nThe authors, Damien Ma and Binyi Yang, looked at researchers who had papers accepted at NeurIPS 2025, the field’s most selective conference. The study calls these researchers the “Navy Seals” of the field. There were 25,677 authors on 5,823 papers. The study traced more than 10,000 of them with full career histories, from first degree to current employer.\nThe data came from OpenReview, the platform NeurIPS uses for submissions. Researchers report their own career histories there. The authors said AI coding tools helped process the data, with human checks on the results.\nMore Chinese researchers are staying at home\nChina is now the largest source of elite AI talent. In 2025, 57% of the group took their first degree in China, up from 46% in 2022.\nMore of them are staying in China to work, the study found. It pointed to job openings in China’s AI industry. It also pointed to tighter US visa rules, especially for Chinese graduate students in science.\nThe US still draws talent from abroad. Among AI researchers working in the US, the share with a Chinese undergraduate degree rose by four percentage points.\nPeking and Tsinghua lead the ranking\nPeking University and Tsinghua University now rank first and second as workplaces for the researchers, with South Korea’s KAIST third. Google held first place in 2022. The National University of Singapore and Nanyang Technological University both moved into the top 20.\nEurope lost ground. ETH Zurich and the University of Oxford dropped out of the top rankings, according to the study. Europe kept 60% of its own talent, against 89% for the US.\nIn Washington, the Trump administration has proposed a $103,265 fee on new H-1B visas. Chinese AI and chip firms, meanwhile, are handing out shares to keep their engineers. Last week, Xi Jinping told Donald Trump that the two countries can jointly prevent AI misuse.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "卡内基研究：中国顶尖AI研究者数量已超美国",
+  "background": "卡内基中国基于NeurIPS 2025论文作者与OpenReview职业履历追踪发现，2022年美国还以46%对27%领先中国；到2025年，中国以41%反超美国的34%。这背后既有中国AI产业岗位扩张，也有美国签证收紧、尤其是中国理工科研究生签证受限的影响，全球AI人才版图正被重新绘制。",
+  "key_points": [
+   "研究用NeurIPS 2025接收论文作者定义“精英AI研究者”，追踪超1万人完整职业路径，并用AI编码工具辅助处理数据。",
+   "2025年中国占41%、美国34%；三年前美国46%、中国27%，中美份额几乎对调。",
+   "中国已是精英AI人才最大来源地：57%在中国完成本科，高于2022年的46%，且更多人选择留在中国工作。",
+   "雇主排名剧变：北大、清华升至第一和第二，KAIST第三；2022年第一的谷歌被挤出榜首。",
+   "欧洲失血明显：ETH Zurich、牛津跌出前列；欧洲仅留住60%本土人才，美国为89%。"
+  ],
+  "impact": "对AI行业，中美人才竞争将更受地缘政治、签证和薪酬股权影响，美国创新优势面临输入减少风险；对开发者，中国头部高校与企业吸引力上升，跨境流动更需考虑签证政策；对普通用户，竞争加剧可能带来更多模型与产品选择，但也可能加剧技术阵营化和AI治理分歧。",
+  "tools": "想跟进研究，可关注OpenReview、NeurIPS proceedings、Semantic Scholar/OpenAlex做人才与论文分析；也可用Python+pandas或LangChain等处理履历文本。若关注人才流动，可看Carnegie China、CSET、MacroPolo报告。"
+ },
+ "lang": "zh"
+}

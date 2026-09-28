@@ -13003,5 +13003,77 @@
   "site_name": "AIbase",
   "published_at": "2026-09-28T07:55:12.483Z",
   "fetched_at": "2026-09-28T13:48:55.114514+00:00"
+ },
+ "11cfd2a3ca76": {
+  "id": "11cfd2a3ca76",
+  "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+  "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:33:34.600929+00:00"
+ },
+ "64fdf8a89fbd": {
+  "id": "64fdf8a89fbd",
+  "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+  "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:33:43.206251+00:00"
+ },
+ "78ee26dc09b0": {
+  "id": "78ee26dc09b0",
+  "url": "https://thenextweb.com/news/openai-anthropic-tens-of-thousands-ai-incidents-axios",
+  "title": "OpenAI and Anthropic probe tens of thousands of AI incidents, Axios reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:34:05.359120+00:00"
+ },
+ "8e193a208da1": {
+  "id": "8e193a208da1",
+  "url": "https://thenextweb.com/news/china-overtakes-us-elite-ai-talent-carnegie",
+  "title": "More elite AI researchers now work in China than in the US, study finds",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:34:28.166903+00:00"
+ },
+ "c9a3505e954a": {
+  "id": "c9a3505e954a",
+  "url": "https://www.gelonghui.com/live/2692399",
+  "title": "顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:34:52.440442+00:00"
+ },
+ "96923e27e0af": {
+  "id": "96923e27e0af",
+  "url": "https://wallstreetcn.com/articles/3782667",
+  "title": "英伟达披露：AI 需求持续扩张，供应承诺额暴增 135%，Anthropic 已签约超 1800 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:35:02.690937+00:00"
+ },
+ "f39281ef2be0": {
+  "id": "f39281ef2be0",
+  "url": "https://bydrug.pharmcube.com/news/detail/4209f668108e053cc4e642b218af8544",
+  "title": "17.5亿！三生制药达成一项AI制药合作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T20:35:16.331537+00:00"
+ },
+ "f64e11b4f258": {
+  "id": "f64e11b4f258",
+  "url": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
+  "title": "Meta推出企业级AI业务，旨在从庞大的市场支出中获利",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-28T16:06:05.028Z",
+  "fetched_at": "2026-09-28T20:35:26.185623+00:00"
  }
 }
