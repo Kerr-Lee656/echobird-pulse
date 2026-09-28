@@ -4570,5 +4570,104 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-27T14:59:53Z",
   "fetched_at": "2026-09-27T23:05:56.720658+00:00"
+ },
+ "ef1d62b18b98": {
+  "id": "ef1d62b18b98",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "title": "vectorize-io/hindsight — Hindsight: Agent Memory That Learns",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:20:02.418045+00:00"
+ },
+ "1ce46586611d": {
+  "id": "1ce46586611d",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "title": "mobile-next/mobile-mcp — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:20:11.724013+00:00"
+ },
+ "1e8c9128b5ed": {
+  "id": "1e8c9128b5ed",
+  "url": "https://github.com/mudler/LocalAI",
+  "title": "mudler/LocalAI — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:20:19.940002+00:00"
+ },
+ "1e8785a0960c": {
+  "id": "1e8785a0960c",
+  "url": "https://arxiv.org/abs/2609.30383",
+  "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:21:10.221781+00:00"
+ },
+ "aefd120f4cac": {
+  "id": "aefd120f4cac",
+  "url": "https://arxiv.org/abs/2609.30768",
+  "title": "Does Thinking Help Fairness? Reasoning Tokens Resolve Some Biases but Create More",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:21:24.341644+00:00"
+ },
+ "f30ac275ef5e": {
+  "id": "f30ac275ef5e",
+  "url": "https://arxiv.org/abs/2609.30841",
+  "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:21:37.980080+00:00"
+ },
+ "ba4e3a6bfe5f": {
+  "id": "ba4e3a6bfe5f",
+  "url": "https://arxiv.org/abs/2609.30880",
+  "title": "EXAONE Demand 1.0: A Time Series Foundation Model for Demand Forecasting",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:22:09.622526+00:00"
+ },
+ "410cea637874": {
+  "id": "410cea637874",
+  "url": "https://arxiv.org/abs/2609.31029",
+  "title": "Governed Deduction: Policy-Grounded Premise Authorization Beyond Relevance",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:22:33.102251+00:00"
+ },
+ "908f9e7e1e83": {
+  "id": "908f9e7e1e83",
+  "url": "https://arxiv.org/abs/2609.31054",
+  "title": "Cheap, open agents make LLM pollution harder to mitigate",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:22:47.584750+00:00"
+ },
+ "8856a2fe1d93": {
+  "id": "8856a2fe1d93",
+  "url": "https://arxiv.org/abs/2609.31078",
+  "title": "OmouAI: Argumentative Human-AI Policy Deliberation with Simulated Personas",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:22:58.939423+00:00"
+ },
+ "36f05fca2537": {
+  "id": "36f05fca2537",
+  "url": "https://arxiv.org/abs/2609.31121",
+  "title": "Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-28T04:00:00.000Z",
+  "fetched_at": "2026-09-28T05:23:13.020363+00:00"
  }
 }

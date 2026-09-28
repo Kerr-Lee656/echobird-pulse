@@ -12931,5 +12931,41 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-27T23:02:50.716893+00:00"
+ },
+ "576ded508c0b": {
+  "id": "576ded508c0b",
+  "url": "https://github.com/FeSens/openTPU",
+  "title": "Show HN: RSI的火花，OpenTPU：一款由AI设计的、用于运行AI的加速器",
+  "source": "github.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-27T19:26:17.995Z",
+  "fetched_at": "2026-09-28T05:18:53.358236+00:00"
+ },
+ "a07818d09250": {
+  "id": "a07818d09250",
+  "url": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+  "title": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:19:07.709937+00:00"
+ },
+ "845b2674c3cd": {
+  "id": "845b2674c3cd",
+  "url": "https://www.qbitai.com/2026/09/498633.html",
+  "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:19:15.432087+00:00"
+ },
+ "e61ef7ed0da7": {
+  "id": "e61ef7ed0da7",
+  "url": "https://www.qbitai.com/2026/09/498584.html",
+  "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T05:19:23.667614+00:00"
  }
 }
