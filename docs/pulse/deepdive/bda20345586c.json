@@ -1,0 +1,25 @@
+{
+ "id": "bda20345586c",
+ "url": "https://www.aibase.com/news/31370",
+ "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-28T07:55:12.483Z",
+ "fetched_at": "2026-09-28T13:48:55.114514+00:00",
+ "content": "The AI open-source ecosystem has welcomed another strong contender. According to the latest evaluation data released by Arena.ai, Xiaomi's new all-modal flagship model, MiMo-V2.6-Pro, performed outstandingly in the Code Arena: WebDev (Web Development Test Field). Upon its debut, it successfully returned to the top ten of the overall ranking and ranked among the top three in open-source weight models using the MIT license.\nRegarding specific scoring performance, MiMo-V2.6-Pro achieved a high score of 1628 in early automated evaluation (AutoEval). This result is not only on par with Claude Fable5 (High), but also slightly surpasses Hy4-preview, which scored 1624. Compared to the previous generation product MiMo-V2.5-Pro, which previously scored 1475, this represents a significant leap of 153 points in a single iteration.\nIn the horizontal comparison of open-source weight models, the model also showed excellent performance. Currently, its score lags behind the second-ranked Qwen3.8Flash Next by about 7 points, and is only 46 points behind the top-ranked Kimi K3Max.\nIt should be noted that this result is currently derived from automated voting based on a reward model trained on human preference data. As more real human voting data continues to accumulate and converge, the final ranking and performance of the model will continue to be verified. The strong debut of MiMo-V2.6-Pro once again demonstrates Xiaomi's continuous efforts and technical breakthroughs in the fields of reinforcement learning and all-modal large model development.",
+ "report": {
+  "summary": "小米 MiMo-V2.6-Pro 首秀杀回 Code Arena 前十，开源权重模型第三",
+  "background": "Arena.ai 的 Code Arena（WebDev 赛区）以真实开发场景的盲测投票衡量模型写代码、做网页的实战能力，近年已成为与大模型竞技场并列的重要风向标。当前开源权重阵营由中国厂商主导，Kimi K3Max、Qwen3.8Flash Next 长期占据前列，闭源则以 Claude 系列为天花板。小米自发布 MiMo 系列后持续投入强化学习与全模态训练，上一代 V2.5-Pro 仅得 1475 分，此次 V2.6-Pro 以 MIT 许可开源并重返第一梯队，是这一轮迭代的直接成果。",
+  "key_points": [
+   "首次登场即重回 Code Arena 总榜前十，在采用 MIT 许可的开源权重模型中排名前三，开源身位大幅前移。",
+   "AutoEval 早期自动评测拿到 1628 分，与 Claude Fable5（High）持平，并小幅超过 1624 分的 Hy4-preview。",
+   "相比上一代 MiMo-V2.5-Pro 的 1475 分，单次迭代跃升 153 分，进步幅度在同期模型中相当罕见。",
+   "开源阵营内部仍有差距：落后第二名 Qwen3.8Flash Next 约 7 分，落后榜首 Kimi K3Max 约 46 分。",
+   "该成绩来自基于人类偏好数据训练的奖励模型自动投票，随着真实人类投票积累，最终排名仍待验证。",
+   "小米在全模态大模型与强化学习方向的技术积累，正从手机业务延伸为独立的大模型竞争力。"
+  ],
+  "impact": "对 AI 行业而言，开源权重模型与闭源顶配的分数差已缩小到个位数区间，开源不再是“够用就好”的备选，这将进一步压低闭源 API 的定价权。对开发者来说，MIT 许可意味着可自由商用与二次训练，做 Web 开发、代码补全类产品时多了一个高性能、低成本的替代选项。对普通用户，最直接的收益是下一波 AI 编程助手、手机端侧全模态助手的能力提升与价格下探。",
+  "tools": "想跟进可关注：Arena.ai / Code Arena 的 WebDev 排行榜（查看实时票数与对局），Hugging Face 与 ModelScope 上的 MiMo 开源权重（MIT 许可，可本地部署），以及 Kimi K3、Qwen3.8 系列做横向对比。评测侧可搭配 SWE-bench、WebDev Arena 等基准自测。"
+ },
+ "lang": "zh"
+}

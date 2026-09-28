@@ -4669,5 +4669,14 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-28T04:00:00.000Z",
   "fetched_at": "2026-09-28T05:23:13.020363+00:00"
+ },
+ "64fdf8a89fbd": {
+  "id": "64fdf8a89fbd",
+  "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+  "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-09-28T13:36:06.000Z",
+  "fetched_at": "2026-09-28T13:51:00.042607+00:00"
  }
 }

@@ -12967,5 +12967,41 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-28T05:19:23.667614+00:00"
+ },
+ "900cf922ab92": {
+  "id": "900cf922ab92",
+  "url": "https://www.aibase.com/zh/news/31382",
+  "title": "英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T13:48:05.630976+00:00"
+ },
+ "2393ee8ef142": {
+  "id": "2393ee8ef142",
+  "url": "https://www.aibase.com/zh/news/31371",
+  "title": "OpenAI 智能体为获取联合国数据，数月内密集扫描网站超 1.6 万次",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-28T13:48:33.751141+00:00"
+ },
+ "fac32735e0ba": {
+  "id": "fac32735e0ba",
+  "url": "https://www.aibase.com/news/31381",
+  "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-28T07:55:12.483Z",
+  "fetched_at": "2026-09-28T13:48:45.728931+00:00"
+ },
+ "bda20345586c": {
+  "id": "bda20345586c",
+  "url": "https://www.aibase.com/news/31370",
+  "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-28T07:55:12.483Z",
+  "fetched_at": "2026-09-28T13:48:55.114514+00:00"
  }
 }

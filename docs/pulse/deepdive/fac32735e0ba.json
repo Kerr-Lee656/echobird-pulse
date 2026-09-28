@@ -1,0 +1,24 @@
+{
+ "id": "fac32735e0ba",
+ "url": "https://www.aibase.com/news/31381",
+ "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-28T07:55:12.483Z",
+ "fetched_at": "2026-09-28T13:48:45.728931+00:00",
+ "content": "Google is adding a crucial piece to its Google AI subscription that developers care most about. The latest move is that eligible subscribers will receive additional Colab computing units and unlock more powerful GPU, TPU, and other cloud computing resources. In other words, those who write code or run models no longer need to worry about computing power separately.\nPublic information shows that Colab is a hosted Jupyter Notebook service that requires no installation, allowing users to write Python code and directly access cloud GPUs and TPUs. It has already been the daily tool for many people doing AI experiments, and it is now officially integrated into the Google AI benefits system.\nUltra Tier Gets More Support, No Need to Keep Browser Open for Background Training\nThe biggest impact is on the Google AI Ultra tier, the highest level. It already offers many benefits: 20TB of cloud storage starting from, up to 20 times the Gemini call quota, and YouTube Premium membership. Now, it adds two tangible capabilities — Premium-level GPU and uninterrupted background execution. The latter is especially important: users don't need to keep browser tabs open all the time, and they can complete long model training tasks, without the task stopping when the webpage is closed.\nThis is a clear convenience for those working on machine learning. Previously, running long tasks in Colab was scary because if the tab was closed or the network fluctuated, the entire training would be lost. Background execution removes this barrier, making it safer to entrust long-term tasks to the cloud.\nExisting Users' Benefits Remain Unchanged, Computing Power Can Be Combined\nGoogle specifically mentioned that this adjustment does not affect existing Colab Pro and Pro+ subscriptions, which will continue to operate as usual. Moreover, users can purchase both — keeping Colab Pro/Pro+ while also subscribing to the Google AI plan. The computing units provided by both sides will be accumulated and will not cancel each other out.\nNew Colab advanced benefits will be gradually available to Google AI subscription users in markets supporting Colab over the next few weeks. This means that it's not available to everyone today, but rather rolled out in batches by region.",
+ "report": {
+  "summary": "谷歌将Colab算力纳入AI会员，Ultra支持后台长训练",
+  "background": "Google AI订阅此前主要覆盖Gemini调用、云存储和YouTube Premium等权益，而Colab是免安装的托管Jupyter服务，可直接调用云端GPU/TPU。开发者长期用Colab跑AI实验，但长任务一旦关闭标签页或网络波动就会中断。此次把Colab算力并入会员体系，是对开发者痛点的直接回应，也强化了谷歌AI订阅的吸引力。",
+  "key_points": [
+   "Ultra会员将获得额外Colab计算单元，并可解锁更强GPU、TPU等云端算力资源。",
+   "新增后台执行能力，用户无需一直开着浏览器标签页，长模型训练可在关闭网页后继续跑。",
+   "现有Colab Pro和Pro+订阅不受影响，用户可同时购买，双方计算单元会累加而不冲突。",
+   "新权益将在支持Colab的市场分批上线，未来几周逐步推给Google AI订阅用户，并非立即全面开放。",
+   "对开发者而言，算力采购与Colab环境进一步绑定，减少单独管理算力的麻烦。"
+  ],
+  "impact": "对AI行业，谷歌把云开发环境和会员订阅打包，可能推动算力入口向平台生态集中，与微软GitHub、AWS等争夺开发者。对开发者，长训练更可靠、算力管理更省心，但需留意订阅成本和平台锁定。对普通用户，直接感知有限，主要间接受益于Gemini等AI服务迭代和会员权益增强。",
+  "tools": "想跟进可了解Google Colab、Colab Pro/Pro+、Google AI Ultra订阅，以及Jupyter Notebook；也可对比Kaggle、Lightning AI、RunPod、Vast.ai等云端算力平台，评估价格与GPU/TPU可用性。"
+ },
+ "lang": "zh"
+}
