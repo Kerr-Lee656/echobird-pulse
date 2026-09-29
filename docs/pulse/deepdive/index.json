@@ -13147,5 +13147,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-28T22:08:13.120Z",
   "fetched_at": "2026-09-29T01:56:21.725011+00:00"
+ },
+ "41b3b488adc3": {
+  "id": "41b3b488adc3",
+  "url": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+  "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:25:40.782454+00:00"
+ },
+ "721d3fef7b9b": {
+  "id": "721d3fef7b9b",
+  "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+  "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:25:50.427984+00:00"
+ },
+ "b0fef825dee8": {
+  "id": "b0fef825dee8",
+  "url": "https://www.aibase.com/zh/news/31399",
+  "title": "蝴蝶效应发布 Manus2.0：成本降三成，Agent 还能组队打工",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:26:18.822412+00:00"
+ },
+ "f6199f6f7b1e": {
+  "id": "f6199f6f7b1e",
+  "url": "https://www.aibase.com/zh/news/31394",
+  "title": "一年烧钱 5180 亿美元、去年亏 420 亿，Anthropic 招股书揭开 AI 独角兽最贵账单",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:26:46.662497+00:00"
+ },
+ "e4c0164e6b99": {
+  "id": "e4c0164e6b99",
+  "url": "https://www.aibase.com/news/31392",
+  "title": "内部测试翻车，OpenAI 临门取消 GPT-6.1 Astra 发布，安全护栏没拦住会撒谎的模型",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-29T03:12:53.320Z",
+  "fetched_at": "2026-09-29T08:26:56.125666+00:00"
+ },
+ "05b3da64495c": {
+  "id": "05b3da64495c",
+  "url": "https://www.ithome.com/1/008/149.htm",
+  "title": "三星系 6 家企业向 AI 基础设施公司 Helix 合计投资 10 亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-29T02:55:23Z",
+  "fetched_at": "2026-09-29T08:27:06.804655+00:00"
+ },
+ "9d8db6ad051d": {
+  "id": "9d8db6ad051d",
+  "url": "https://www.ithome.com/1/008/132.htm",
+  "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-29T02:16:40Z",
+  "fetched_at": "2026-09-29T08:27:14.874373+00:00"
+ },
+ "ffffd05d6d8f": {
+  "id": "ffffd05d6d8f",
+  "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+  "title": "英伟达希望在每个AI代理旁边安装一个监督芯片",
+  "source": "www.cnbc.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-29T01:44:58.671Z",
+  "fetched_at": "2026-09-29T08:27:23.173526+00:00"
+ },
+ "b498da8b4e92": {
+  "id": "b498da8b4e92",
+  "url": "https://www.ithome.com/1/008/110.htm",
+  "title": "三星电机宣布 6.78 万亿韩元投资，提升 AI 服务器用 FCBGA 半导体基板产能",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-29T01:31:59Z",
+  "fetched_at": "2026-09-29T08:27:31.562571+00:00"
  }
 }

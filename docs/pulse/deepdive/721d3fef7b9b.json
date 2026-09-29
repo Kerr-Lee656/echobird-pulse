@@ -1,0 +1,24 @@
+{
+ "id": "721d3fef7b9b",
+ "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+ "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T08:25:50.427984+00:00",
+ "content": "AMD announced today that it’s acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nAMD is acquiring AI company World Labs in a deal worth more than $8 billion\nWorld Labs’ co-founder and CEO will become AMD’s chief scientist.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will “continue to focus on advancing AI model research.” AMD also notes that the acquisition will strengthen “its ability to develop AI hardware, software and systems around the needs of emerging models and applications.”\n“Just like I knew it was time to do a startup to jumpstart the work of creating foundation models beyond LLMs and achieve the most impact in AI, it’s again very clear that the right path for myself and World Labs is to continue our mission as a part of AMD,” Li says in a post on her Substack. “Together we’re committed to keep pushing the frontier of AI to solve real problems, and doing so openly with the community and the entire ecosystem.”\n“Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving,” Su says in a statement. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise. Together, we can use that insight to develop the hardware, software and systems that will power the next generation of AI and strengthen the open AI ecosystem.”\nThe World Labs deal is just the latest multi-billion dollar AI-related acquisition as of late, with Nvidia announcing earlier this month that it would be acquiring Hugging Face for nearly $13 billion.",
+ "report": {
+  "summary": "AMD 82亿美元收购World Labs，李飞飞加盟任首席科学家",
+  "background": "World Labs 由知名AI学者李飞飞于2024年联合创办，主攻“空间智能”与世界模型，成立数月估值即达10亿美元，2025年推出首个商用产品——可从提示词生成可交互3D世界的Marble。对AMD而言，它在AI加速器上与英伟达缠斗，但长期缺乏模型层的深度认知与软件生态号召力；收购一支顶尖研究团队，被视为补齐“懂模型才能造好芯片”这一短板。此前英伟达刚宣布近130亿美元收购Hugging Face，AI巨头正加速向上游模型与工具层整合。",
+  "key_points": [
+   "交易为全股票形式，价值约82亿美元，预计今年年底完成交割，World Labs团队将保留并继续从事AI模型研究。",
+   "李飞飞将出任AMD执行副总裁兼首席科学家，直接向CEO苏姿丰汇报，是此次收购中最受关注的人事安排。",
+   "World Labs的拳头产品Marble能让用户用一句话生成可交互3D世界，属于“世界模型/空间智能”赛道，区别于主流大语言模型。",
+   "AMD明确表示，收购旨在更早理解模型演进方向，从而反哺自研AI硬件、软件与系统，并强化开放AI生态。",
+   "这是继英伟达收购Hugging Face之后又一起数十亿美元级AI并购，显示算力厂商正大举向模型与工具层扩张。"
+  ],
+  "impact": "对AI行业，算力厂商与模型实验室的边界被打破，竞争从“卖芯片”转向“芯片+模型+生态”的整体捆绑，世界模型与空间智能或成下一个投资热点。对开发者，AMD有望借助顶尖团队改善ROCm软件栈与世界模型工具链，开源社区可能获得更多可复用模型和仿真能力，但也需警惕生态进一步向巨头集中。对普通用户，一句话生成3D场景的能力将更快落地到游戏、影视、机器人仿真与AR/VR中，内容创作门槛显著降低。",
+  "tools": "想跟进可关注：World Labs的Marble世界生成模型；开源世界模型方向如NVIDIA Cosmos、Genie类项目；机器人仿真与3D生成工具如Isaac Sim、Blender插件生态；以及AMD ROCm软件栈，观察其后续对主流模型框架的支持进展。"
+ },
+ "lang": "zh"
+}

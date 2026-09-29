@@ -4678,5 +4678,50 @@
   "site_name": "The Verge",
   "published_at": "2026-09-28T13:36:06.000Z",
   "fetched_at": "2026-09-28T13:51:00.042607+00:00"
+ },
+ "3757de6abc6b": {
+  "id": "3757de6abc6b",
+  "url": "https://github.com/microsoft/SkillOpt",
+  "title": "microsoft/SkillOpt — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:29:03.703304+00:00"
+ },
+ "d399d99ef4e4": {
+  "id": "d399d99ef4e4",
+  "url": "https://github.com/topoteretes/cognee",
+  "title": "topoteretes/cognee — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-09-29T08:29:11.638309+00:00"
+ },
+ "b1dc06480c5a": {
+  "id": "b1dc06480c5a",
+  "url": "https://www.tradingview.com/news/seekingalpha:c93966fce094b:0-anthropic-ipo-prospectus-reveals-surging-costs-42b-2025-net-loss-report/",
+  "title": "Anthropic IPO prospectus reveals surging costs, $42B 2025 net loss",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-29T08:21:16Z",
+  "fetched_at": "2026-09-29T08:29:42.459940+00:00"
+ },
+ "4f8d40feeca6": {
+  "id": "4f8d40feeca6",
+  "url": "https://arxiv.org/abs/2609.30489",
+  "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-29T04:00:00.000Z",
+  "fetched_at": "2026-09-29T08:30:39.635234+00:00"
+ },
+ "df59d90f4b7f": {
+  "id": "df59d90f4b7f",
+  "url": "https://arxiv.org/abs/2609.30550",
+  "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-09-29T04:00:00.000Z",
+  "fetched_at": "2026-09-29T08:30:53.325034+00:00"
  }
 }
