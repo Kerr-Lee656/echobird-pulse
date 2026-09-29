@@ -13228,5 +13228,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-29T01:31:59Z",
   "fetched_at": "2026-09-29T08:27:31.562571+00:00"
+ },
+ "ad06e369b79e": {
+  "id": "ad06e369b79e",
+  "url": "https://www.ithome.com/1/008/396.htm",
+  "title": "新华三发布 UniPoD S81000 X1 超节点，单域支持 40 张国产 GPU",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-29T09:28:23Z",
+  "fetched_at": "2026-09-29T16:31:02.063858+00:00"
+ },
+ "d768012b750c": {
+  "id": "d768012b750c",
+  "url": "https://www.ifanr.com/1682291",
+  "title": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-09-29T08:15:52Z",
+  "fetched_at": "2026-09-29T16:31:18.299525+00:00"
+ },
+ "176624af2b3f": {
+  "id": "176624af2b3f",
+  "url": "https://www.huxiu.com/article/4894552.html?f=rss",
+  "title": "年入45.9亿、估值2万亿美元，Anthropic冲刺史上最高IPO",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-29T07:48:00Z",
+  "fetched_at": "2026-09-29T16:31:36.014374+00:00"
  }
 }
