@@ -13075,5 +13075,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-28T16:06:05.028Z",
   "fetched_at": "2026-09-28T20:35:26.185623+00:00"
+ },
+ "a194f8b7a1a1": {
+  "id": "a194f8b7a1a1",
+  "url": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog",
+  "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:54:41.996911+00:00"
+ },
+ "261a341d1670": {
+  "id": "261a341d1670",
+  "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
+  "title": "Shopify opens checkout to browser-based AI agents",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:54:49.042057+00:00"
+ },
+ "5f346928db98": {
+  "id": "5f346928db98",
+  "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development",
+  "title": "Florida AG requests emergency order to stop OpenAI model development",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:55:00.078529+00:00"
+ },
+ "936dbd727e97": {
+  "id": "936dbd727e97",
+  "url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
+  "title": "Hinton, Bengio and AI lab scientists warn of an intelligence explosion",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:55:06.809059+00:00"
+ },
+ "6fcf9d3658d0": {
+  "id": "6fcf9d3658d0",
+  "url": "https://thenextweb.com/news/instinct-1bn-agent-calls-eu-rule",
+  "title": "Instinct raised $1B at $10B for an AI agent that rings restaurants on its own phone",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:55:30.148734+00:00"
+ },
+ "515a9625011c": {
+  "id": "515a9625011c",
+  "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+  "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:55:37.925091+00:00"
+ },
+ "092c5904015f": {
+  "id": "092c5904015f",
+  "url": "https://wallstreetcn.com/livenews/3171763",
+  "title": "“大空头”伯里：AI 泡沫可能比最初认为的更早破裂",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-29T01:56:12.249203+00:00"
+ },
+ "fbd36d067fac": {
+  "id": "fbd36d067fac",
+  "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+  "title": "佛罗里达州以“灭绝风险”为由，试图通过法律手段阻止OpenAI的研发",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-28T22:08:13.120Z",
+  "fetched_at": "2026-09-29T01:56:21.725011+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "261a341d1670",
+ "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
+ "title": "Shopify opens checkout to browser-based AI agents",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T01:54:49.042057+00:00",
+ "content": "While some retailers, like Amazon (and Adidas, apparently!), are blocking AI agents from making purchases on users’ behalf on their respective platforms, e-commerce platform Shopify has moved in the other direction.\nOn Monday, the company announced that browser-based AI agents can now complete purchases on Shopify merchants’ sites, extending their capabilities beyond just searching for products and adding items to carts.\nShopify previously supported WebMCP for its storefronts and carts, allowing browser-based AI agents to comb through a Shopify retailer’s inventory, search for products, and add them to a cart. The addition of WebMCP support for checkout, including Shop Pay, means these agents can now read the checkout screen, update it, and submit the transaction with the buyer’s authorization, without relying on screenshots or scraping web pages, the company said.\nThis update introduces three new tools — get_checkout, update_checkout, and complete_checkout — that allow agents to inspect a checkout, change things like the customer’s address or delivery option, and then place an order after the buyer authorizes it.\nThe feature is rolling out to all eligible Shopify merchants, said Gil Greenberg, a staff product manager who works on agentic commerce at Shopify, in a post on X.\nShopify already offers a hosted Model Context Protocol (MCP) server, which allows agents to work server-to-server. The proposed standard WebMCP, meanwhile, is designed for agents that work inside the buyer’s browser. Both leverage Shopify’s Universal Commerce Protocol (UCP), which provides a common way to search for and discover products, build carts, and check out.\nTop AI agents like Muse and Instinct already have direct partnerships with Shopify for agentic commerce. The Instinct partnership was announced today.\n“If your agent is operating in the buyer’s browser, use WebMCP tools provided on storefront and checkout to efficiently complete order placement, instead of navigating HTML built for humans,” Greenberg wrote on X. “These WebMCP tools provide structured and efficient APIs, purposely designed — via UCP — to ensure accurate commerce facts, required disclosures, and handoff requirements.”",
+ "report": {
+  "summary": "Shopify 开放结账接口，浏览器 AI 代理可代用户下单",
+  "background": "AI 代理购物正在成为电商新战场。此前 Shopify 已支持 WebMCP 协议，让浏览器内 AI 代理能浏览商品、搜索库存、加入购物车，但结账这一步仍需人类操作。与此同时，Amazon 等零售商选择封堵 AI 代理代购。Shopify 这次把 WebMCP 扩展到结账环节（含 Shop Pay），并配套推出三项新工具，正式打通「代理代客下单」的最后一环，与行业内的保守派形成路线分歧。",
+  "key_points": [
+   "浏览器内 AI 代理现在能走完整个下单流程，不再止步于加购物车。",
+   "新增 get_checkout、update_checkout、complete_checkout 三个工具，可读取结账页、修改地址或配送方式、在买家授权后提交订单。",
+   "代理通过结构化 API 而非截图或爬网页来操作，减少误读页面、下错单的风险。",
+   "Shopify 同时支持浏览器端 WebMCP 与服务器端 MCP，两者都基于统一的 UCP 协议。",
+   "Muse、Instinct 等头部 AI 代理已与 Shopify 建立代理电商合作，Instinct 的合作同日公布。"
+  ],
+  "impact": "对 AI 行业而言，Shopify 押注「代理可代购」路线，与 Amazon 的封堵策略正面分歧，可能推动电商接口标准化竞争。对开发者来说，WebMCP + UCP 提供了一套面向机器的结账 API，不必再写脆弱的页面爬取逻辑，但需处理授权、披露与责任边界。对普通用户，未来可让 AI 助手比价、选配送并直接下单，但也意味着需要更谨慎地授权代理动用自己的支付账户。",
+  "tools": "可关注 Shopify 的托管 MCP 服务器与 WebMCP 规范，二者均基于其 Universal Commerce Protocol（UCP）；结账侧重点了解 get_checkout、update_checkout、complete_checkout 三个工具接口。想跟踪落地案例，可留意 Muse、Instinct 等已接入的代理产品。"
+ },
+ "lang": "zh"
+}

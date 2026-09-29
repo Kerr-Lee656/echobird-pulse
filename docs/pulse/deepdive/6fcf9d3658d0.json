@@ -1,0 +1,24 @@
+{
+ "id": "6fcf9d3658d0",
+ "url": "https://thenextweb.com/news/instinct-1bn-agent-calls-eu-rule",
+ "title": "Instinct raised $1B at $10B for an AI agent that rings restaurants on its own phone",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T01:55:30.148734+00:00",
+ "content": "Instinct has raised $1B at a $10B valuation from Sequoia, Benchmark and Coatue for a personal AI agent that books trips, orders groceries and telephones businesses using its own phone. Since 2 August, Article 50 of the EU AI Act has required systems that interact directly with people to tell them they are dealing with an AI.\nInstinct has raised $1B at a $10B valuation in a Series C from Sequoia Capital, Benchmark Capital and Coatue, Bloomberg reported. Last month the company was reported to be raising at $2.5B. The price has quadrupled in about four weeks.\nThe agent makes phone calls.\nIt plans trips, books reservations and orders groceries, and it has its own phone and computer, which it uses to ring businesses directly. Its agents can also talk to one another to coordinate plans and exchange files for users. Noah Shinn founded the company.\nEurope has a rule for that.\nSince 2 August, Article 50 of the AI Act has required providers to design systems that interact directly with people so that those people are informed they are dealing with an AI, unless it is obvious to a reasonably well informed person. The disclosure must come at the start of the interaction, clearly and distinguishably. Fines reach EUR 15M or 3% of worldwide turnover.\nIt binds companies outside Europe.\nThe obligation applies to providers established in third countries as well as in the union, and a limited grace period runs only to 2 December, and only for marking obligations on systems already on the market. Instinct has not said whether it operates in Europe. The rule does not depend on whether the person called is the customer.\nMeta has the same product.\nMuse books, buys and negotiates in much the same way and has been the closest comparison since it launched. Bloomberg notes that Meta has seen strong momentum with it recently.\nIts calls were not all machines.\nReuters found Meta testing human contractors to place Muse’s calls, with the option enabled for half its employees and an opt-out available, we reported last week. A spokesperson said it would roll out with the proper disclosures and would not say what those are. Internal posts raised concerns that sensitive information could reach call-centre contractors.\nThe disclosure runs both ways.\nOne product must now tell the person answering that it is a machine, and the other has at times not been one. Europe wrote the first rule seven weeks ago and has nothing specific for the second. A restaurant taking a booking has no way to tell which it is speaking to.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AI电话代理Instinct以100亿美元估值融资10亿美元，撞上欧盟AI透明度新规。",
+  "background": "AI代理正从聊天窗口走向真实世界的执行环节——打电话订餐、订机票、买杂货。Instinct由Noah Shinn创立，据彭博社报道，它以100亿美元估值完成由红杉、Benchmark和Coatue领投的10亿美元C轮融资；而大约四周前，市场传出的估值还是25亿美元，翻了四倍。与此同时，Meta的同类产品Muse已构成直接竞争。监管侧的变量是欧盟《人工智能法案》第50条：自8月2日起，直接与人交互的AI系统必须在一开始就明确告知对方自己不是人。",
+  "key_points": [
+   "估值四周内从25亿美元跳到100亿美元，红杉、Benchmark、Coatue集体下注，说明资本对'能替人办事'的代理型AI极度乐观。",
+   "Instinct的代理拥有自己的手机和电脑，能直接给餐厅、商家打电话，多个代理之间还能互相沟通、交换文件来协调行程。",
+   "欧盟AI法案第50条已于8月2日生效：AI打电话必须开场就亮明身份，否则最高罚1500万欧元或全球营收3%，且对欧盟境外公司同样适用。",
+   "Meta的Muse是最近似的竞品，但路透社发现Meta曾用真人外包员工冒充AI打电话，内部还担忧敏感信息流向呼叫中心承包商。",
+   "规则出现不对称：一方被强制声明'我是机器'，另一方却有时真的不是机器，而接电话的餐厅无从分辨，欧盟目前对此没有专门规定。"
+  ],
+  "impact": "对AI行业而言，'代理替人打电话'从技术演示变成需要合规设计的商业产品，透明度将成为产品默认能力而非可选项，合规成本会淘汰一批小玩家。对开发者来说，语音代理的架构要内置身份声明、通话留痕和地域路由逻辑，欧盟用户与非欧盟用户可能需要差异化处理。对普通用户和商家而言，接到订餐电话时你将无法判断对面是AI还是伪装成AI的人，这既是效率红利，也是信任风险。",
+  "tools": "想跟进语音代理方向，可关注开源的对话式语音框架如LiveKit Agents、Pipecat，电话接入可用Twilio或Vonage的语音API；代理编排可参考LangGraph、AutoGen等多代理协作框架，并留意LangChain生态中与Reflexion（Instinct创始人Noah Shinn的代表作）相关的记忆与自我反思方案。"
+ },
+ "lang": "zh"
+}

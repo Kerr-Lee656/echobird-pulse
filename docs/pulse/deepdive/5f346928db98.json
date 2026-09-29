@@ -1,0 +1,24 @@
+{
+ "id": "5f346928db98",
+ "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development",
+ "title": "Florida AG requests emergency order to stop OpenAI model development",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T01:55:00.078529+00:00",
+ "content": "Florida AG requests emergency order to stop OpenAI model development\nThe state sued OpenAI this past June.\nIn a motion filed on Monday, the Florida attorney general James Uthmeier requested that a state court prevent OpenAI from training new models without independent oversight, and that it cut minors off from ChatGPT. Uthmeier's office first sued OpenAI in June, after launching a criminal investigation into the company this past April in the aftermath of the 2025 mass shooting at Florida State University. The suspect in that case allegedly used ChatGPT in the lead up to the shooting.\n\"No new model development without independent safety guardrails; no more harvesting children's data; no more calling this product safe, accurate, or reliable; no more pretending it's human; no more tricks designed to keep users talking past the point of danger,\" Uthmeier said Monday in a video shared on X. \"If Sam Altman meant what he said about slowing down, he can join our ask to the court. If he will not, we ask the court to do what OpenAI will not do for itself — protect Florida families.\"\nOpenAI did not immediately respond to Engadget's comment request.\n\"Last year's mass shooting at Florida State University was a tragedy, but ChatGPT is not responsible for this terrible crime... ChatGPT is a general-purpose tool used by hundreds of millions of people every day for legitimate purposes. We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise,\" OpenAI told Engadget after Uthmeier's office first launched its criminal investigation into the company.\nUthmeier's office points to OpenAI's recent security disclosures, including the one it made after the hacking of Hugging Face, as well as Sam Altman's own calls for the AI industry to slow down the pace of frontier model development, as justification for the injunction. \"It is a rare request for an injunction where the Defendants themselves have publicly endorsed it,\" Uthmeier writes in the brief. \"They have asked the government to tie them to the mast. Plaintiff brings good news to the Defendants: The Florida Attorney General is answering your cry for help with a motion to enjoin you from harming Floridians with your reckless, unacceptably risky product.\"\nFlorida's lawsuit isn't the first time OpenAI has been connected to a mass shooting. In February, Canadian regulators called for OpenAI to change how it approaches threats of harm following a Wall Street Journal report that claimed the company flagged the account of alleged Tumbler Ridge shooter Jesse Van Rootselaar in 2025 but failed to bring their threats to law enforcement. Following the tragedy, the company agreed to new policies around how it works with Canadian law enforcement.",
+ "report": {
+  "summary": "佛州总检察长申请紧急禁令，要求暂停OpenAI新模型训练",
+  "background": "2025年佛州州立大学枪击案后，佛州总检察长办公室今年4月对OpenAI展开刑事调查，6月提起诉讼。周一提交的动议要求州法院禁止OpenAI在无独立安全监督下训练新模型，并切断未成年人访问ChatGPT。AG引用OpenAI安全披露、Hugging Face被黑事件及Altman呼吁放缓，称被告自己请求被约束。OpenAI否认ChatGPT对枪击负责，称其是通用工具并持续加强安全。加拿大此前也因枪击案要求OpenAI调整威胁上报流程。",
+  "key_points": [
+   "佛州AG请求紧急禁令，要求OpenAI不得在无独立安全监督下开发新模型，并限制未成年人使用ChatGPT。",
+   "诉讼源于2025年佛州州立大学枪击案，嫌犯据称案前使用ChatGPT；佛州4月刑事调查、6月正式起诉。",
+   "AG引用OpenAI自身安全披露与Altman放缓呼吁，称其“公开请求政府约束自己”，要求法院介入。",
+   "OpenAI回应称悲剧但ChatGPT不负责任，强调它是服务数亿人的通用工具，并持续加强安全防护。",
+   "此前加拿大监管也因枪击案要求OpenAI改变威胁上报流程，显示AI安全事件正引发多地监管压力。"
+  ],
+  "impact": "对AI行业，州级司法干预模型训练可能开先例，迫使前沿实验室加强独立审计、年龄验证与事件上报。对开发者，合规成本和发布节奏受影响，需准备安全评估、未成年人保护与数据治理。对普通用户，未成年人可能被限制访问ChatGPT，产品体验和隐私政策或变化，AI安全议题更受关注。",
+  "tools": "可关注AI Incident Database、METR、NIST AI RMF、OpenAI Preparedness Framework、Hugging Face模型卡与安全评估工具，以及各州总检察长和FTC公开文件，用于追踪AI安全治理与合规动态。"
+ },
+ "lang": "zh"
+}
