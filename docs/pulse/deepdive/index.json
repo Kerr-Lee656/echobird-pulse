@@ -13255,5 +13255,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-29T07:48:00Z",
   "fetched_at": "2026-09-29T16:31:36.014374+00:00"
+ },
+ "a11731311b2c": {
+  "id": "a11731311b2c",
+  "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
+  "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T22:13:18.500134+00:00"
+ },
+ "a70f6545b90f": {
+  "id": "a70f6545b90f",
+  "url": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+  "title": "Ro Khanna plans a bill to ban self-improving AI, CNBC reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T22:13:31.663123+00:00"
+ },
+ "07d5bc41a20f": {
+  "id": "07d5bc41a20f",
+  "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+  "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T22:13:39.942702+00:00"
+ },
+ "530450d70f63": {
+  "id": "530450d70f63",
+  "url": "https://www.techradar.com/pro/nvidia-launches-new-ai-safety-program-designed-at-stopping-models-escaping-their-sandboxes",
+  "title": "Nvidia launches new AI safety program designed at stopping models escaping their sandboxes",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-29T22:13:47.583324+00:00"
+ },
+ "98a215cc519f": {
+  "id": "98a215cc519f",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/138277",
+  "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元的算力协议",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-09-29T22:14:00.724029+00:00"
  }
 }

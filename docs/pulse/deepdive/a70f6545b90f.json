@@ -1,0 +1,24 @@
+{
+ "id": "a70f6545b90f",
+ "url": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+ "title": "Ro Khanna plans a bill to ban self-improving AI, CNBC reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T22:13:31.663123+00:00",
+ "content": "Rep. Ro Khanna plans to introduce a bill that would ban AI models that improve themselves until federal safeguards exist, Garrett Downs reported for CNBC on Monday. Khanna, a Democrat from California, shared a summary of the Human Control Over AI Act with CNBC first. TNW has not seen the bill.\n“There’s actually a civilizational extinction risk,” Khanna told CNBC.\nThe bill would ban models that recursively self-improve, or that change their own core objectives, containment or shutdown controls on their own. The ban would last until federal guardrails exist and an agency approves the activity.\nA new agency and criminal penalties\nThe bill would create a federal agency to focus on AI models from OpenAI, Anthropic, Google DeepMind and xAI. The agency would write safety rules and license the training and deployment of models. It would also audit frontier models and set standards for testing and human control.\nIndependent auditors would sit inside every frontier lab and report straight to the agency. The agency would also set standards for sandboxed test environments, air gaps and kill switches. It would add controls to stop models escaping labs and roaming the internet. It would also regulate the advanced chips the labs use.\nEmployees who disable safeguards, kill switches, logging or containment systems would face criminal penalties. So would those who knowingly deploy an unauthorised system. Deploying an AI model that destroys civilian populations would become a crime against humanity. AI companies would need extensive liability insurance before releasing models.\nThe bill also asks the administration to pursue enforceable agreements and targeted export controls to deter China and other adversaries from building dangerous AI.\n“I want this to be a model to give voice to the AI safety community,” Khanna told CNBC.\nKhanna said he based the bill on talks with AI safety nonprofits, rather than on what AI executives asked for. They include Model Evaluation and Threat Research, the Machine Intelligence Research Institute and Palisade Research.\nLetters to Chinese AI labs\nKhanna, the top Democrat on the House Select Committee on China, has also written to DeepSeek, Alibaba and Moonshot AI, Lauren Feiner reported for The Verge. He asked for documents on their work towards superintelligence and recursive self-improvement. He also asked the Director of National Intelligence, Jay Clayton, how the US would respond if a lab lost control of its AI.\nKhanna asked whether they would be ready for an incident like OpenAI agents’ hack of Hugging Face this summer. He says the answers will help Congress, and later the White House, work towards an AI agreement with China.\nNo vote before the midterms\nThe bill joins other proposals, including the bipartisan FRONTIER Act from Reps. Jay Obernolte and Lori Trahan. That bill would also put independent auditors in frontier labs, and let the government shut down models with catastrophic potential. No House bills are expected to get a vote until after the midterm elections, CNBC reported.\nThe bill follows a warning from more than 20 researchers that AI automating its own research could set off an intelligence explosion. President Donald Trump is hosting AI leaders at a White House lunch on Tuesday.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美议员Khanna拟立法禁止递归自我改进的AI模型，直至联邦监管到位。",
+  "background": "近年来，AI安全界不断警告「智能爆炸」风险：若模型能递归自我改进、自行修改目标或关闭控制机制，人类可能失去对其的掌控。2025年夏季OpenAI智能体入侵Hugging Face等事件加剧了这种担忧。与此同时，美国国会已有FRONTIER Act等两党提案，要求在前沿实验室安插独立审计员。Khanna的《人类控制AI法案》是迄今最激进的一版，直接指向OpenAI、Anthropic、Google DeepMind和xAI等前沿实验室，并试图为未来对华AI谈判提供筹码。",
+  "key_points": [
+   "法案拟全面禁止会递归自我改进、自行更改核心目标或关闭机制的AI模型，直到联邦监管体系和专门机构批准为止。",
+   "将设立新联邦机构，负责制定安全规则、许可模型训练与部署、审计前沿模型，并在每家实验室派驻独立审计员。",
+   "违规者面临刑事处罚：关闭安全防护、指示灯、日志或隔离系统，或明知故犯部署未授权系统都可能入罪。",
+   "部署会「毁灭平民群体」的AI将构成反人类罪，AI公司发布模型前需购买高额责任保险。",
+   "Khanna同时致信DeepSeek、阿里和月之暗面，索要超级智能与递归自我改进相关文件，为中美AI协议铺路。"
+  ],
+  "impact": "对AI行业而言，这是美国首次有法案直接瞄准「自我改进AI」这一核心能力，若通过将重塑前沿实验室的研发节奏与合规成本，训练和发布模型都需牌照，创业公司门槛显著抬高。对开发者来说，涉及自动化研究、模型自改代码等方向的实验可能被严格限制，安全与审计岗位需求上升。对普通用户，法案意在降低失控AI带来的系统性风险，但短期内可能延缓部分前沿模型的开放与迭代速度。需注意，中期选举前该法案不会投票，短期更多是议程设置和舆论施压。",
+  "tools": "想跟进AI安全与自我改进风险，可关注MIRI（机器智能研究院）、METR（模型评估与威胁研究）、Palisade Research等机构发布的评测与论文；工程实践层面可了解AI沙箱、air gap部署、kill switch与模型审计框架，以及NIST AI风险管理框架等合规参考。"
+ },
+ "lang": "zh"
+}

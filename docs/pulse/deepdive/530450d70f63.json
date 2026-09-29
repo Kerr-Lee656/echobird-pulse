@@ -1,0 +1,24 @@
+{
+ "id": "530450d70f63",
+ "url": "https://www.techradar.com/pro/nvidia-launches-new-ai-safety-program-designed-at-stopping-models-escaping-their-sandboxes",
+ "title": "Nvidia launches new AI safety program designed at stopping models escaping their sandboxes",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-29T22:13:47.583324+00:00",
+ "content": "Nvidia launches new AI safety program designed at stopping models escaping their sandboxes\nNvidia wants to control AI agents with hardware and software safeguards\n- Nvidia response to \"recent security incidents\" by tightening restrictions on autonomous agents\n- New software and hardware safeguards impose barriers if agents go rogue\n- More than 100 customers have already agreed to work with the principles\nNvidia hasunveiled the new Open Agent Safety Platform designed to prevent autonomous AI agents from 'escaping' and acting beyond their established boundaries.\nFollowing several recent alarming reports of AI-led attacks, the company admitted that safety should not just rely on safeguards built into AI models and applications, and that additional compute and hardware-level controls should also be used as more solid barriers.\n\"Recent security incidents have underscored the need to equip organizations with open, customizable tools,\" the company wrote in its announcement.\nNvidia adds even more layers of control for autonomous AI agents\nThe Open Agent Safety Platform consists of two key controls – OpenShell, which Nvidia describes as a software-based \"secure runtime boundary,\" and Sentry, a hardware-based \"watchdog\" running on its BlueField-4 DPUs.\n\"Safety and security require full-stack engineering. NVIDIA Open Agent Safety Platform brings together industry, researchers and public-sector organizations to share best practices, align on evaluation methods and foster international cooperation,\" company CEO Jensen Huang summarized.\nWhile existing model-level safety mechanisms are designed to tell AI not to behave in a certain way, the software-level OpenShell implements technical boundaries to actually prevent an agent from ignoring those instructions. Nvidia also argues that Sentry can quarantine and stop an AI agent within milliseconds.\nOver 100 customers such as SpaceXAI, Anthropic and Microsoft are already using Nvidia's software and hardware-based safeguards.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nThe news, of course, comes after several high-profile instances where AI agents have operated beyond their intended controls, however while these new Nvidia-backed safeguards may be new, the overall principles aren't. The company is just stressing the importance of principles we're already familiar with, like least privilege, isolation/quarantining and detailed monitoring.\n\"As we continue to discover the frontier of AI capabilities, we must accelerate discovery at the frontier of AI safety,\" Huang added.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "英伟达发布Open Agent Safety Platform，用软硬件防智能体越界。",
+  "background": "近期多起AI智能体越权或攻击事件表明，仅靠模型层安全提示不足。英伟达因此推出开放智能体安全平台，结合软件运行时边界与硬件看门狗，联合产业、研究者和公共部门制定最佳实践与评估方法，并强调安全需要全栈工程。已有超100家客户参与。",
+  "key_points": [
+   "平台由两部分组成：OpenShell软件安全运行时边界，以及运行在BlueField-4 DPU上的Sentry硬件看门狗。",
+   "与模型层“告诉AI不要做”不同，OpenShell用技术边界实际阻止智能体无视指令。",
+   "Sentry可在毫秒级隔离或停止失控智能体，提供硬件级兜底。",
+   "已有超100家客户，包括SpaceXAI、Anthropic、微软等，同意采用这些保障原则。",
+   "核心原则并不新：最小权限、隔离/隔离和详细监控，英伟达强调将其工程化落地。"
+  ],
+  "impact": "对AI行业，智能体安全从模型层扩展到芯片与系统层，可能推动硬件安全标准。对开发者，需在架构中考虑运行时沙箱、权限控制和硬件监控。对普通用户，未来AI代理更可控，可降低越权操作、数据泄露和自动化攻击风险。",
+  "tools": "可关注NVIDIA Open Agent Safety Platform、OpenShell、Sentry、BlueField-4 DPU，并结合最小权限、沙箱隔离、审计监控实践。若想上手，先了解NVIDIA BlueField DPU与智能体运行时安全框架，以及Anthropic、微软的智能体安全指南。"
+ },
+ "lang": "zh"
+}
