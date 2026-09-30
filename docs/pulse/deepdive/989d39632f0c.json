@@ -1,0 +1,24 @@
+{
+ "id": "989d39632f0c",
+ "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+ "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:19:12.689325+00:00",
+ "content": "Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval. The transaction is valued at $8.2 billion.\nIn 2024, computer vision scientist Fei-Fei Li founded World Labs with fellow researchers Justin Johnson, Christoph Lassner, and Ben Mildenhall, with $230 million in funding, some of which came from AMD.\nThe company began working on new world models, which are AI models that aim to provide a useful, predictive simulation of the physical world. Competing architectures exist (earlier this year, Ars interviewed World Labs co-founder Ben Mildenhall and others in the field about exactly that), but many involve training a model on vast amounts of video data.\nThat was the case for Marble, World Labs’ first publicly usable tool. Marble can generate small 3D spaces using Gaussian splats. They can then be exported as 3D assets for use in film production, game development, and other applications. The company has since introduced additional models and tools with different emphasis or use cases, such as Atlas.\nOne use case that has justified enormous investment in the space is generating synthetic data for training robots. That’s a field where Nvidia, AMD’s direct competitor, has a strong lead. AMD has produced its own AI models before, including Micro-World, an open-source world model, but it has not produced a stack that competes with Nvidia’s Cosmos and related models and applications.",
+ "report": {
+  "summary": "AMD以82亿美元收购李飞飞创办的World Labs，加码世界模型对抗英伟达",
+  "background": "世界模型（World Models）被视为通往具身智能与通用AI的关键路径，核心思路是用海量视频训练出能预测物理世界演化的模拟器。2024年，计算机视觉学者李飞飞与Justin Johnson、Christoph Lassner、Ben Mildenhall共同创办World Labs，融资2.3亿美元，其中就有AMD的钱。其首款公开产品Marble可生成小型3D空间，用于影视、游戏等内容生产；此后又推出Atlas等模型。这条赛道上英伟达凭借Cosmos系列已建立领先优势，而AMD虽做过开源世界模型Micro-World，却始终缺少成体系的竞争产品，此次收购正是补课之举。",
+  "key_points": [
+   "交易金额82亿美元，预计年底前完成，仍需通过监管审批，是AMD在AI软件层最大手笔的收购之一。",
+   "World Labs的核心资产是“世界模型”：用视频数据训练AI预测物理世界，可生成可导出的3D场景。",
+   "首个产品Marble基于高斯泼溅（Gaussian splats）生成3D空间，主要服务电影、游戏等创意产业。",
+   "真正撑起高估值的用途是合成数据——为机器人训练批量生成逼真环境，这正是英伟达Cosmos的强项。",
+   "AMD此前只有开源世界模型Micro-World，缺乏与英伟达抗衡的完整软件栈，收购意在补齐短板。"
+  ],
+  "impact": "对AI行业而言，芯片竞争正从硬件算力延伸到模型与软件生态，AMD试图用世界模型撬动英伟达“芯片+平台”的护城河。对开发者来说，世界模型工具可能从闭源走向更开放，3D内容生成与机器人仿真训练的门槛有望降低，但也可能面临平台绑定。对普通用户，短期直接影响有限，中期或体现在游戏、影视中更廉价逼真的3D内容，以及机器人更快进入家庭和服务场景。",
+  "tools": "想跟进可关注World Labs的Marble与Atlas（3D场景生成）、英伟达Cosmos（世界基础模型）、AMD开源Micro-World，以及高斯泼溅相关工具链如Nerfstudio、3D Gaussian Splatting、Splatfacto；机器人仿真可看Isaac Sim、Genesis等平台。"
+ },
+ "lang": "zh"
+}

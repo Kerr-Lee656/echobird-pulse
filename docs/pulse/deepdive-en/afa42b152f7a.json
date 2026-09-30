@@ -1,0 +1,24 @@
+{
+ "id": "afa42b152f7a",
+ "url": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
+ "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+ "source": "公众号：数字生命卡兹克",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-09-29T21:47:43.000Z",
+ "fetched_at": "2026-09-30T01:22:56.528938+00:00",
+ "content": "公众号：数字生命卡兹克· 数字生命卡兹克·· 4 小时前精选AI 评分79\nOpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新\n帮大家总结了一下凌晨的OpenAI 2026开发者大会。\nAI 导读\n作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。\n推荐理由\n作者通宵整理了OpenAI DevDay 2026的全部发布并给出个人判断，认为OpenAI从引领转向跟随，读者可对照原文核验各家产品的对比。\n来源：公众号：数字生命卡兹克 · mp.weixin.qq.com",
+ "report": {
+  "summary": "OpenAI DevDay 2026 发布个人 Agent Dots、低成本模型 GPT-6.1 Sol 与 500 美元订阅档，并下调 200 美元 Pro 的额度倍数。",
+  "background": "OpenAI 的开发者大会历来是行业风向标：2023 年首届 DevDay 推出 GPT-4 Turbo 与 GPTs，2024 年押注实时 API，2025 年把重心转向 Agent 与工具调用。到 2026 年，Agent 赛道已被 Anthropic、Google 以及一批开源框架分食，头部模型能力差距收窄，任务成本与生态接入数量取代跑分成为竞争焦点。与此同时，推理算力开销让“无限量订阅”难以为继，各家纷纷重构付费阶梯。此次 OpenAI 一次性推出个人 Agent 产品 Dots、以成本见长的 GPT-6.1 Sol，并调整订阅体系，折射出它从定义赛道转向贴身跟随、以性价比守住存量用户的策略转变。作者也在总结中直言，OpenAI 这次更像“跟随者”。",
+  "key_points": [
+   "个人 Agent 产品 Dots 面向 ChatGPT Pro、Business Premium 与 Enterprise 用户开放，可跨 4000 多个应用协作执行任务。这标志着 ChatGPT 从对话工具进一步转向能替用户干活的常驻助手，企业客户与付费个人用户优先获得入口。",
+   "新模型 GPT-6.1 Sol 主打任务成本，官方口径下完成同类任务的成本约为 Astra 的七分之一。对需要大规模调用 Agent、跑批处理的团队来说，成本下降往往比单点能力提升更能决定一项能力能否真正落地。",
+   "订阅体系调整：新增 500 美元档位，额度倍数为 25x；同时把 200 美元 Pro 的额度倍数从 20x 下调到 10x。这等于变相削弱原 Pro 档、抬高重度使用的付费门槛，把高频用户推向上层订阅。",
+   "作者给出的核心判断是：OpenAI 正从引领者变成跟随者。无论是 Agent 的产品形态还是定价逻辑，都能看到对市场上已有产品的回应，而不是重新定义规则。",
+   "发布节奏与内容组合显示，OpenAI 现在的优先级是产品化与商业化：先用低成本模型支撑 Agent 的大规模调用，再用分层订阅把成本转嫁给重度用户。"
+  ],
+  "impact": "对行业而言，Agent 正从概念走向标配，竞争重心从模型榜单转向任务成本与生态接入广度，4000+ 应用的协作面说明“能连多少系统”正在成为新的护城河。对开发者，GPT-6.1 Sol 把单任务成本压到约七分之一，此前因价格搁置的长链路 Agent、批量自动化任务变得可行，但也要重新评估对单一供应商的依赖与迁移成本。对普通用户，200 美元 Pro 额度缩水、500 美元档位出现，说明高强度 Agent 使用正在被明确定价，“低价无限用”的时代基本结束，选订阅时要按实际调用量而非名义倍数算账。",
+  "tools": "想跟进 Agent 方向，可关注 MCP（Model Context Protocol）等工具连接标准，以及 OpenHands、AutoGen、LangGraph 等开源 Agent 框架，用来对比 Dots 的跨应用协作能力；n8n、Dify、Coze 适合快速搭工作流做成本测算。模型侧可用 OpenRouter 一类聚合平台，横向测试 GPT-6.1 Sol 与 Astra 的实际任务成本与成功率。"
+ },
+ "lang": "en"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "eb17e6acbf16",
+ "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+ "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:18:09.310364+00:00",
+ "content": "OpenAI is in talks with investors to raise at least $30 billion in a pre-IPO funding round at a valuation of roughly $1.4 trillion, Bloomberg reported on Tuesday.\nInvestors are eager to pour more funds into the ChatGPT maker ahead of its anticipated public market debut next year. While Anthropic momentarily outpaced OpenAI at the start of the year, recent strategic refocus on key areas like coding has fueled a 70% jump in run-rate revenue since July, reaching $40 billion in August, according to the report.\nThe company previously raised $122 billion in March at an $852 billion valuation. That funding round was supposed to be its last private raise before an IPO, which had been, until recently, expected to take place this year. However, CEO Sam Altman has now ruled out a public debut in 2026 to prioritize AI safety first.\n“I think it is unacceptable to be taking like a 10% chance of killing everybody by the end of the decade,” he recently told Fortune, in response to warnings from safety researchers about AI posing an existential risk to humanity.\nThe new fundraising, if it transpires, will serve as a bridge round to the IPO, according to Bloomberg.\nOpenAI didn’t respond to TechCrunch’s request for comment.",
+ "report": {
+  "summary": "OpenAI传拟融资300亿美元，估值1.4万亿美元，为IPO铺路",
+  "background": "OpenAI自ChatGPT发布后一直是AI浪潮的中心，融资规模不断刷新纪录：今年3月刚以8520亿美元估值完成1220亿美元融资，当时被视为IPO前最后一轮。但CEO Altman近期以「AI安全优先」为由，明确排除2026年上市，IPO推迟到明年。与此同时，Anthropic年初一度在收入上反超，OpenAI重新聚焦编程等核心方向后增长重新加速。这轮300亿美元融资被视为通往IPO的「过桥轮」。",
+  "key_points": [
+   "融资规模至少300亿美元，估值约1.4万亿美元，较3月8520亿估值大涨约六成",
+   "收入明显提速：7月以来年化收入增长70%，8月已达400亿美元，编程等核心业务重获动能",
+   "Altman以AI存在性风险为由排除2026年上市，本轮融资成为IPO前的过渡性过桥融资",
+   "竞争压力仍在：年初Anthropic一度反超，OpenAI靠战略聚焦重新拉回增长曲线",
+   "投资者抢在IPO前入场，反映一级市场对头部AI公司依旧极度追捧"
+  ],
+  "impact": "对AI行业，1.4万亿美元估值刷新一级市场天花板，进一步拉大头部实验室与二线玩家的算力、人才差距，也让「AI泡沫」争论更激烈。对开发者，资金充裕意味着模型迭代、API降价和生态补贴可能延续，但平台依赖风险同步上升，多模型策略更稳妥。对普通用户，更强模型与更便宜订阅可期，同时AI公司在安全与监管议题上的话语权也将更大。",
+  "tools": "想跟进可关注OpenAI API与Codex等编程工具，开源替代可看Llama、DeepSeek、Qwen、Mistral；多模型对比可用Claude、Gemini。追踪融资与模型动态可看TechCrunch、The Information、Crunchbase。"
+ },
+ "lang": "zh"
+}

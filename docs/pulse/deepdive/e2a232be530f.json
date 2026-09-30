@@ -1,0 +1,24 @@
+{
+ "id": "e2a232be530f",
+ "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+ "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:18:20.612813+00:00",
+ "content": "OpenAI has been a close partner of Microsoft from the jump, but the AI lab is increasingly going after the company’s bread and butter, workplace software, with new features that closely resemble an office software suite like Microsoft’s.\nAt its DevDay developer conference in San Francisco on Tuesday, OpenAI announced several new ChatGPT features designed for office workers.\nMost notably, OpenAI launched a feature called Space, a shared workspace inside ChatGPT where co-workers can collaborate with the chatbot and with their own Dots, OpenAI’s newly launched AI agent personas (that can carry out tasks on a user’s behalf), on a range of work tasks.\n“Your pages and files all live together in Space, like they would in a drive,” said CEO Sam Altman during Tuesday’s presentation. “But spaces feel alive.” Altman said users can give a page specific instructions, such as checking a team channel and updating the page with what it finds.\nOpenAI also launched Pages, a companion word processor that the company describes as “a new type of document, built for human and agent collaboration.” It appears to be OpenAI’s answer to Google Docs and Microsoft Word. Users can “write, research, generate charts, create images, or visualize information” in it, OpenAI says.\nOpenAI has also announced its answer to PowerPoint with what it calls collaborative slides. These slides can be created by merely talking about them within ChatGPT. Once the slides are generated, multiple workers and agents can work together within them and will have the ability to leave comments and edit them. Slides isn’t available quite yet but will roll out to users in the coming weeks, an OpenAI representative said.\nAs OpenAI edges into Microsoft’s territory, Microsoft and other software companies like Salesforce are busy trying to become more like OpenAI. Over the past year, both companies have released a slew of AI products as the software industry attempts to keep up with the shifting landscape.\nUPDATE Tuesday Sept. 29: This story was updated to clarify the release timeline for Slides.",
+ "report": {
+  "summary": "OpenAI 推 ChatGPT 办公套件，与微软正面竞争。",
+  "background": "OpenAI 与微软长期深度合作，微软既是投资方也是云与产品伙伴，ChatGPT 模型已融入 Microsoft 365 Copilot。但 OpenAI 在 DevDay 上发布 Space、Pages、Slides，直接覆盖共享工作区、文档和演示，明显对标 Microsoft 365 与 Google Workspace。与此同时，微软、Salesforce 等软件巨头正拼命把 AI 塞进自身产品，行业从“软件加 AI”转向“AI 原生工作平台”，伙伴与对手的边界正在消失。",
+  "key_points": [
+   "OpenAI 发布 Space：ChatGPT 内的共享工作区，同事可与聊天机器人及新推出的 AI 代理 Dots 协作，页面和文件像云盘一样集中管理。",
+   "Pages 对标 Word 和 Google Docs，支持写作、研究、生成图表、创建图像和可视化信息，定位为人和 AI 代理共同编辑的文档。",
+   "Slides 对标 PowerPoint，用户只需在 ChatGPT 里口述即可生成幻灯片，多人及多个代理可协作、评论和编辑，数周内推出。",
+   "Dots 是 OpenAI 新推出的 AI 代理角色，可代表用户执行任务，是 Space、Pages、Slides 协作能力的关键组件。",
+   "此举让 OpenAI 从模型供应商进一步变成办公软件挑战者，而微软和 Salesforce 也在加速 AI 化，竞争关系更复杂。"
+  ],
+  "impact": "对 AI 行业，OpenAI 从模型和 API 延伸到应用层，办公套件进入 AI 原生竞争，微软、Google 的护城河受挑战。对开发者，Agent 协作、文档数据和权限接口可能成为新平台机会，但也带来平台锁定与生态迁移成本。对普通用户，ChatGPT 将变成工作台，写文档、做汇报更省事，但需关注 AI 代理的数据安全、隐私和错误责任。",
+  "tools": "想跟进可关注 ChatGPT 的 Space、Pages、Slides、Dots 上线节奏，以及 Microsoft 365 Copilot、Google Workspace Gemini、Notion AI、Salesforce Agentforce。开发者可试用 CrewAI、AutoGen、LangChain 等开源多智能体框架，理解代理协作与工作流编排。"
+ },
+ "lang": "zh"
+}

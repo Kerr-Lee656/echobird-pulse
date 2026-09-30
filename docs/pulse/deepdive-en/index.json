@@ -4723,5 +4723,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-09-29T04:00:00.000Z",
   "fetched_at": "2026-09-29T08:30:53.325034+00:00"
+ },
+ "028b20a4e08c": {
+  "id": "028b20a4e08c",
+  "url": "https://elevenlabs.io/blog/eleven-v4",
+  "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-29T23:19:04Z",
+  "fetched_at": "2026-09-30T01:21:00.471422+00:00"
+ },
+ "1b04c0ab2c89": {
+  "id": "1b04c0ab2c89",
+  "url": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
+  "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+  "source": "@OpenAIDevs",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-29T23:13:56.000Z",
+  "fetched_at": "2026-09-30T01:21:11.722777+00:00"
+ },
+ "afa42b152f7a": {
+  "id": "afa42b152f7a",
+  "url": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
+  "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+  "source": "公众号：数字生命卡兹克",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-29T21:47:43.000Z",
+  "fetched_at": "2026-09-30T01:22:56.528938+00:00"
+ },
+ "352a298aea68": {
+  "id": "352a298aea68",
+  "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+  "title": "OpenAI’s latest features take direct aim at the app store model",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-29T20:15:47.000Z",
+  "fetched_at": "2026-09-30T01:23:08.452637+00:00"
  }
 }

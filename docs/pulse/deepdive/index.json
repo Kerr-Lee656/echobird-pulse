@@ -13300,5 +13300,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-09-29T22:14:00.724029+00:00"
+ },
+ "6d3039f6a3dc": {
+  "id": "6d3039f6a3dc",
+  "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+  "title": "AI needs $6T in annual revenue to justify data centre boom",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:17:51.002780+00:00"
+ },
+ "eb17e6acbf16": {
+  "id": "eb17e6acbf16",
+  "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+  "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:18:09.310364+00:00"
+ },
+ "e2a232be530f": {
+  "id": "e2a232be530f",
+  "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+  "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:18:20.612813+00:00"
+ },
+ "3e2da47f73a8": {
+  "id": "3e2da47f73a8",
+  "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+  "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:18:28.219833+00:00"
+ },
+ "9d7d516b31bb": {
+  "id": "9d7d516b31bb",
+  "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+  "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:18:35.048002+00:00"
+ },
+ "cfe8d99517b6": {
+  "id": "cfe8d99517b6",
+  "url": "https://mashable.com/tech/openai-dev-day-dots-ai-agents",
+  "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:18:43.448977+00:00"
+ },
+ "7a10f5f4bf6a": {
+  "id": "7a10f5f4bf6a",
+  "url": "https://thenextweb.com/news/nvidia-insurers-ai-chip-loans-neoclouds-ft",
+  "title": "Nvidia talks to insurers about loans backed by its AI chips, FT reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:19:06.056311+00:00"
+ },
+ "989d39632f0c": {
+  "id": "989d39632f0c",
+  "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+  "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-09-30T01:19:12.689325+00:00"
  }
 }

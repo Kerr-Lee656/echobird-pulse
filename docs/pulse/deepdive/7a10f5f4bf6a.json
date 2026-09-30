@@ -1,0 +1,24 @@
+{
+ "id": "7a10f5f4bf6a",
+ "url": "https://thenextweb.com/news/nvidia-insurers-ai-chip-loans-neoclouds-ft",
+ "title": "Nvidia talks to insurers about loans backed by its AI chips, FT reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:19:06.056311+00:00",
+ "content": "Nvidia has talked to insurers about taking on some of the risk of loans backed by its AI chips, the Financial Times reported on Tuesday. The talks are at an early stage and may not lead to any deals, according to the FT. TNW has not independently verified the report.\nOne idea would insure loans to smaller cloud providers, known as neoclouds, that pledge Nvidia chips as collateral. If a borrower defaults and the resold chips fetch less than the debt, the cover would protect the lender.\nNvidia is working with reinsurance broker Howden Re on one possible structure, the FT reported. It has given at least one insurer data on how fast its chips lose value and on the expected future value of computing power.\nNvidia has also considered joining groups of insurers, hedge funds and asset managers to back financing deals. Insurers could in turn pass some of the risk on to hedge funds and other investors, according to the FT.\n‘An investable asset class’\nNvidia has made the case that lenders can treat its hardware like any other asset.\n“AI infrastructure is an investable asset class because it’s uniquely productive, durable and fungible,” Nvidia has said, as quoted on the FT News Briefing podcast.\nOn the same podcast, the FT’s insurance correspondent Lee Harris said start-ups are now selling “residual value insurance”. It protects big chip buyers against the risk that their chips lose value faster than expected.\nMany large traditional insurers are already at their limit for exposure to AI companies, Harris said. The global insurance industry is small next to the scale of AI investment.\nChips as collateral\nThe report came a day after Nvidia added a record $150bn to its share buyback. In August, the neocloud Lambda borrowed $917m to buy chips from Nvidia, which invests in it. It later signed $1bn of private debt for another Nvidia chip deal.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英伟达洽谈为AI芯片抵押贷款提供保险",
+  "background": "AI热潮下，CoreWeave、Lambda等新型云厂商大量采购英伟达GPU，并以芯片作抵押融资。随着GPU迭代加快，贷款方担心芯片贬值导致抵押物不足。FT报道称，英伟达正与保险公司洽谈，为这类贷款提供部分风险保障，并已与再保险经纪Howden Re设计可能结构。谈判尚处早期，未必达成交易。此举意在把AI硬件金融化，支撑算力投资循环，但也引发风险证券化担忧。",
+  "key_points": [
+   "谈判处于早期，可能不会达成协议。核心思路是由保险或再保险为芯片抵押贷款兜底，降低贷款机构对英伟达GPU抵押物贬值的担忧。",
+   "一种结构是：小型云厂商（neoclouds）以英伟达芯片作抵押借款；若其违约且转售芯片所得低于债务，保险将赔偿贷款方差额。",
+   "英伟达已与再保险经纪Howden Re合作探讨结构，并向至少一家保险公司提供芯片贬值速度、未来算力价值等数据，以证明可定价。",
+   "英伟达主张AI基础设施是“可投资资产类别”，因芯片具有生产性、耐用性和可替代性；它还考虑联合险企、对冲基金和资管机构共同支持融资交易。",
+   "传统保险公司对AI敞口接近上限，而全球保险业规模远小于AI投资需求；已有初创公司销售“残值保险”，对冲芯片贬值快于预期的风险。"
+  ],
+  "impact": "对AI行业，若保险机制成熟，可降低neocloud融资门槛、支撑GPU采购和英伟达需求，但也会把芯片贬值风险扩散到保险与资本市场。对开发者，新兴云厂商融资更顺可能带来更多低价算力，但若云厂商违约或整合，服务稳定性与价格会波动。对普通用户，短期可能享受更便宜AI服务，长期需警惕AI投资泡沫和金融风险传导。",
+  "tools": "想跟进可关注FT、Howden Re及Nvidia财报；实操可试用Lambda、CoreWeave、RunPod等GPU云，搭配vLLM、SGLang、Ray等开源推理/调度项目，观察算力成本与残值变化。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "cfe8d99517b6",
+ "url": "https://mashable.com/tech/openai-dev-day-dots-ai-agents",
+ "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:18:43.448977+00:00",
+ "content": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026\nAt Dev Day 2026, OpenAI's annual tech conference, the company made more than 20 announcements, but none bigger than the launch of Dots, always-on AI agents \"built to handle everything.\"\nThe launch of Dots comes shortly after the launch of Apple's new Siri AI app and, more recently, Meta's Muse AI. Muse has jumped to the top of the app store charts. Like Muse, OpenAI said that each user's Dot runs on its own private and secure cloud computer, and also like Muse, Dots comes with cute little guys as its mascot.\n\"Dots are frontier intelligence that have your back,\" reads an announcement blog post from OpenAI. \"Powered by GPT‑6 Astra, they have their own cloud computer, learn from feedback over time, and can work towards your goals 24/7. Through our ecosystem of plugins, they can readily connect to over 4,000 apps, giving them the tools to help wherever you need them.\"\nYou May Also Like\nIn recent weeks, AI industry leaders have laid out a vision in which everyone will have their own personal AI agent handling all manner of tasks. Agentic AI has progressed rapidly in 2026 with the introduction of OpenClaw (originally known as Clawdbot, then Moltbot). As Mashable has reported, AI agents with control over a user's apps, devices, and data can accomplish a wide variety of tasks, but the greater their access, the greater the potential cybersecurity risk.\nJust last week, a group of large banks warned that as customers hand over their devices and financial information to AI agents such as Dots, OpenClaw, and Muse, there is a growing risk of AI-enabled scams and fraud.\nHow do Dots work?\nOpenAI announced that Dots will operate on its own private cloud, meaning users won't have to set up their AI agent on a local device.\n\"Dots can do nearly anything using their own cloud computer, their own browser, and the apps you’ve connected. You can open your dot’s computer at any time to inspect its work. Dots can connect to other devices in addition to their own, and you can also give your dot permission to connect and use your laptop, where it can then be useful directly alongside you.\"\nOpenAI said that guardrails are built into the AI agents to protect users from \"harmful behavior.\" In addition, OpenAI said that a monitoring system will be on guard of safety concerns, allowing the company to pause a Dot's work.\nBefore a Dot takes a sensitive action, such as changing a password, the company's auto-review system will check in with the user. Companies will also be able to create custom dots to serve their organization's needs.\nWho can try Dots?\nOpenAI said that Dots would begin rolling out immediately, but the new AI agents will only be available on the company's $100/month Pro plan and for Business Premium users. Dots will not be available in the European Economic Area, Switzerland, and the UK, OpenAI said. (Siri AI faces similar geographic restrictions due to Europe's stricter AI regulations.)\nCustomers on Pro and Business Premium plans will have access to their first Dot at no extra cost. In addition, OpenAI said that conversations with Dots will not count toward users' ChatGPT usage limits. However, on an FAQ page, the company clarified this is only in effect \"for the next month\".\nDisclosure: Ziff Davis, Mashable’s parent company, in April 2025 filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.",
+ "report": {
+  "summary": "OpenAI发布常驻智能体Dots，Pro用户优先体验",
+  "background": "在Dev Day 2026上，OpenAI一口气发布20多项更新，最重磅的是常驻AI代理Dots。此前苹果推出新Siri AI应用，Meta的Muse AI冲上应用榜首位，Agentic AI在2026年因OpenClaw（原Clawdbot/Moltbot）等产品快速升温。与此同时，多家大型银行警告：用户把设备和财务信息交给AI代理，正带来AI诈骗与欺诈风险。OpenAI此时推出Dots，既是对竞品的回应，也把'人人拥有私人AI代理'的愿景推向商业化落地。",
+  "key_points": [
+   "Dots由GPT-6 Astra驱动，每个用户拥有独立私有云电脑，可24/7持续向目标推进，用户随时能打开其电脑查看工作过程。",
+   "通过插件生态可连接超4000个应用，还能被授权连接用户自己的笔记本等设备，实现'直接在你身边'协助办公。",
+   "安全机制包括内置护栏、可暂停Dot的监控系统，以及改密码等敏感操作前的自动复核和用户确认；企业可定制专属Dot。",
+   "目前仅面向每月100美元的Pro和企业Premium用户，首个Dot免费，与Dot的对话在一个月内不计入ChatGPT用量限制。",
+   "暂不向欧洲经济区、瑞士和英国开放，与苹果Siri AI类似，受欧洲更严格AI监管影响。",
+   "行业正从'对话式AI'转向'常驻代理'，但权限越大，网络安全、隐私与诈骗风险也越高。"
+  ],
+  "impact": "对AI行业，竞争焦点从模型能力转向'常驻云代理+应用生态'，OpenAI、苹果、Meta进入新战场。对开发者，插件连接、企业定制Dots带来集成与安全合规的新机会，也意味着要为代理行为负责。对普通用户，自动化更省心，但把设备、账号和财务权限交给代理会放大诈骗与隐私风险，银行已发出警告，短期更适合谨慎尝鲜。",
+  "tools": "想跟进可关注OpenClaw（原Clawdbot/Moltbot）等代理框架，LangChain、LlamaIndex的Agent工具链，以及MCP（Model Context Protocol）连接器来体验'连接应用'；同时留意OpenAI插件与企业Dots的官方文档和权限审计工具。"
+ },
+ "lang": "zh"
+}

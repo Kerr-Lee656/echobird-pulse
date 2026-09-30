@@ -1,0 +1,24 @@
+{
+ "id": "9d7d516b31bb",
+ "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+ "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-09-30T01:18:35.048002+00:00",
+ "content": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year\nAnthropic, one of the biggest AI companies in the world, is currently gearing up to go public. As the Claude-maker prepares for a potential blockbuster IPO later this year, Reuters has got its hands on the company's prospectus, which lays out Anthropic's financials and risks for investors.\nAccording to the prospectus obtained by Reuters, Anthropic made $4.6 billion in revenue in 2025. That's twelve times its growth in the previous year.\nBut there's bad news, too: The AI company lost more than it brought in last year, Reuters reported. A lot more.\nYou May Also Like\nAnthropic reportedly lost a whopping $42 billion in 2025. Of that net loss, $8.06 billion was spent on operating costs in 2025, far higher than its 2024 operating costs of $2.98 billion, according to Reuters. In addition, the documents Reuters reviewed stated that compute and infrastructure costs from Anthropic's AI lab amounted to an additional $7.33 billion.\nAnthropic is hardly alone in spending more than it takes in, however. In July, after pouring money into AI development, Google reported its first quarter of negative cash flow since the company went public.\nThe AI industry is in the midst of a massive infrastructure build-out, with an estimated trillion dollars being spent on AI data centers, energy, and other resources in 2026 alone. Axios recently reported that the industry as a whole is expected to spend $10 trillion through 2032.\nSo, it's hardly surprising that Reuters reported that Anthropic's capital expenditures will only balloon in the years ahead. The IPO prospectus seen by Reuters stated that the company plans to spend $518 billion on \"cloud, computing and infrastructure obligations\" over the next few years. To make matters even more concerning for potential investors, about 80 percent of that $518 billion is allocated to non-cancelable deals.\nAnthropic is currently eyeing a public offering that would put the company at a $2 trillion valuation.\nTopics Artificial Intelligence Anthropic",
+ "report": {
+  "summary": "Anthropic招股书曝光：2025年营收46亿美元，却净亏420亿",
+  "background": "Anthropic正准备今年启动IPO，路透社拿到了其招股说明书。文件显示，公司2025年营收46亿美元、同比增长约12倍，但净亏损高达420亿美元，运营成本从2024年的29.8亿美元升至80.6亿美元，算力与基础设施支出另计73.3亿美元。这并非孤例：AI行业正经历万亿级基建扩张，谷歌7月出现上市以来首个负现金流季度，行业预计到2032年累计投入将达10万亿美元。",
+  "key_points": [
+   "营收增长快但亏损更凶：2025年收入46亿美元，净亏420亿美元，亏损约为收入的九倍。",
+   "钱主要烧在两处：80.6亿美元运营成本，加上73.3亿美元算力与数据中心基础设施开支。",
+   "未来承诺惊人：招股书披露将承担5180亿美元云与算力义务，其中约八成不可取消。",
+   "公司一边巨亏一边冲上市，目标估值据称高达2万亿美元，投资人需承担长期烧钱风险。",
+   "这是全行业现象：AI公司普遍收入追不上投入，谷歌也出现了上市以来首次现金流为负。"
+  ],
+  "impact": "对AI行业而言，这暴露了'规模换增长'模式的资金极限——即便是头部玩家也要靠资本市场持续输血，未来融资环境一旦收紧，行业整合与裁员风险上升。对开发者，短期算力供给和模型能力仍会快速迭代，但API定价、免费额度和开源策略可能随成本压力调整。对普通用户，AI产品大概率从免费补贴走向订阅分层，功能更强但价格更贵，同时数据中心扩张带来的能源与电费成本也会逐步传导。",
+  "tools": "想跟进AI公司财务与行业投入，可关注Anthropic官方博客与Claude API、SEC EDGAR上的招股书原文，以及Epoch AI、Stanford HAI AI Index等算力与投入追踪项目；开发者可用公开模型评测平台如LMArena、OpenRouter对比各家性价比。"
+ },
+ "lang": "zh"
+}
