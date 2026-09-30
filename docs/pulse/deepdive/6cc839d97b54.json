@@ -1,0 +1,25 @@
+{
+ "id": "6cc839d97b54",
+ "url": "https://www.ithome.com/1/008/914.htm",
+ "title": "B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-09-30T13:24:53Z",
+ "fetched_at": "2026-09-30T22:14:02.573094+00:00",
+ "content": "IT之家 9 月 30 日消息，哔哩哔哩 Index LLM 团队今日正式发布 Index-Translate 模型，2B / 9B / 35B-A3B（preview）文本模型权重在 Hugging Face 与 ModelScope 开放。\nIndex-Translate 是基于 Qwen3.5 构建的多语言翻译模型家族。文本模型覆盖包括中文、英文在内的 150 种语言，支持术语、格式、保留内容等翻译指令，并将共同的多语基础扩展到语音、音节可控翻译和长文档翻译。\n- Index-Translate：翻译文本、结构化内容与社区表达。\n- Index-Echo：生成目标语言字幕或配音，配音时参考源语音的说话人声音特征。\n- Index-Homura：根据指定的目标音节数调整译文。\n- Index-NativeLong（简称 Index-Nailong）：输入完整文档，利用上下文维持前后联系。\n以下为官方精选案例：\n- 翻出社区表达中的意思\n原文：狒瘾犯了就去打。在这个游戏社区语境中，“狒瘾”指想玩《最终幻想 XIV》的劲头又上来了。\n- 按指定音节数调整译文\n原文：生活两天，是一种什么体验。同一句话设置三个目标长度，Index-Homura-9B 给出不同措辞：\n- 长文翻到后面，人名仍然一致\n在一篇约 32K tokens 的奇幻文本中，“王妃”是人物姓名。下表对比原生全文翻译，与同一 9B 模型采用相邻上下文及自动词表的分块翻译。\nIT之家附相关链接：\n- Demo：https://index-translate.bilibili.com/?p=/site/translate.html&amp;amp;lang=zh\n- GitHub：https://github.com/bilibili/Index-Translate\n- Hugging Face：https://huggingface.co/collections/IndexTeam/index-translate\n- ModelScope：https://www.modelscope.cn/models/IndexTeam/Index-Translate-35B-A3B\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+ "report": {
+  "summary": "B站开源 Index-Translate 翻译模型家族，文本模型覆盖150种语言",
+  "background": "长期以来大模型翻译多由通用 LLM「顺手兼做」，专业翻译模型则以 Meta 的 NLLB、SeamlessM4T 等为代表，但普遍在长文档一致性、社区黑话、语音配音上力不从心。作为视频社区，B站自身有强烈的字幕翻译、配音、内容出海需求，于是组建 Index LLM 团队，基于 Qwen3.5 训练出专用多语言翻译模型家族，并把文本、语音、音节控制、长文四类能力拆成独立模型，一次性开源权重，等于把内容本地化的整条链路摊开给社区。",
+  "key_points": [
+   "一次放出 2B / 9B / 35B-A3B 三个规格，权重在 Hugging Face 与 ModelScope 开放，覆盖中文、英文等 150 种语言，可自行本地部署。",
+   "不是只会直译：支持术语、格式、保留内容等指令，能听懂「这个词别翻」「人名要统一」这类具体要求。",
+   "四条产品线分工明确：Translate 翻文本、Echo 做字幕配音并参考原说话人音色、Homura 按要求调整译文字数、NativeLong 处理长文档。",
+   "官方案例展示了真实痛点：理解游戏社区黑话「狒瘾」、一句话给出三种音节长度的译法、32K tokens 长文里人名始终一致。",
+   "B站把视频出海所需的字幕、配音、本地化打包成一条开源工具链，而不只是发一个翻译模型。",
+   "对普通用户和中小团队来说，2B/9B 规格门槛低，普通显卡即可跑，翻译能力不再只能靠调用闭源 API。"
+  ],
+  "impact": "对 AI 行业，专用翻译模型与通用大模型开始分流，竞争焦点从「能不能翻」转向「翻得是否符合场景」，开源阵营又多了一个强基线。对开发者，小规格权重可本地部署、可微调，字幕与配音链路能直接接入自家产品。对普通用户，看视频、读外文文档的机翻质量会提升，配音还有望保留原本的声线。",
+  "tools": "可直接在官方 Demo 在线试译，GitHub 与 Hugging Face、ModelScope 均已开放权重；跟进同类方案可对比 NLLB、SeamlessM4T、Qwen-MT、Tower 等开源翻译模型，本地推理可搭配 vLLM 或 Ollama。"
+ },
+ "lang": "zh"
+}

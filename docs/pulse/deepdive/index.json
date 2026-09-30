@@ -13453,5 +13453,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-30T02:55:27Z",
   "fetched_at": "2026-09-30T16:26:34.633744+00:00"
+ },
+ "20a5ad9681e0": {
+  "id": "20a5ad9681e0",
+  "url": "https://www.aibase.com/news/31438",
+  "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T14:23:50.398Z",
+  "fetched_at": "2026-09-30T22:13:32.162968+00:00"
+ },
+ "b52819e195db": {
+  "id": "b52819e195db",
+  "url": "https://www.ithome.com/1/008/917.htm",
+  "title": "新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T13:42:06Z",
+  "fetched_at": "2026-09-30T22:13:41.039390+00:00"
+ },
+ "841db6e3ff48": {
+  "id": "841db6e3ff48",
+  "url": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd?syn-25a6b1a6=1",
+  "title": "KKR警告称，人工智能借贷热潮正导致信贷市场风险加剧",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-30T13:29:20.687Z",
+  "fetched_at": "2026-09-30T22:13:54.211515+00:00"
+ },
+ "6cc839d97b54": {
+  "id": "6cc839d97b54",
+  "url": "https://www.ithome.com/1/008/914.htm",
+  "title": "B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T13:24:53Z",
+  "fetched_at": "2026-09-30T22:14:02.573094+00:00"
+ },
+ "0ae21ca9764c": {
+  "id": "0ae21ca9764c",
+  "url": "https://www.ithome.com/1/008/907.htm",
+  "title": "蚂蚁百灵发布 Ling-3.1-flash 模型：约 560B 总参数、25B 激活参数",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T12:43:48Z",
+  "fetched_at": "2026-09-30T22:14:10.963452+00:00"
+ },
+ "5cbdce38002f": {
+  "id": "5cbdce38002f",
+  "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+  "title": "东京法院裁定：模仿演员“悦耳”嗓音的AI工具侵犯了其权利",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-09-30T11:24:17.423Z",
+  "fetched_at": "2026-09-30T22:14:42.734048+00:00"
  }
 }

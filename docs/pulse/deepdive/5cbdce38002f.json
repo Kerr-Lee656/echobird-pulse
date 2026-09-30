@@ -1,0 +1,24 @@
+{
+ "id": "5cbdce38002f",
+ "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+ "title": "东京法院裁定：模仿演员“悦耳”嗓音的AI工具侵犯了其权利",
+ "source": "www.theguardian.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-09-30T11:24:17.423Z",
+ "fetched_at": "2026-09-30T22:14:42.734048+00:00",
+ "content": "A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos.\nTokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen.\nBut the court dismissed Tsuda’s request that the operator of TikTok remove the videos, noting that the user had deleted them soon after the suit was filed last November. “The unauthorised use of a performer’s voice … can be considered an infringement on publicity rights,” said the presiding judge, Aya Takahashi.\nThe lawsuit is believed to be the first in Japan seeking to defend an individual’s vocal identity against AI-generated copies. Japan’s voice actors, many of whom achieve star status through their “appearances” in anime, are increasingly worried that AI mimicry is threatening their livelihoods and the industry as a whole.\nAn actor’s voice “is the result of years of rigorous training and apprenticeship”, Yuko Sasaki, executive director of the Japan Actors Union said ahead of the ruling.\nTsuda, 55, claimed that the 188 TikTok videos uploaded on an anonymous account between July 2024 and September last year had been narrated by a “deep” and “lustrous” voice that could only be his. In response, the platform argued that the videos contained a “generic male voice” and that any perceived similarities to Tsuda’s voice were highly subjective.\nThe verdict is the first in which a Japanese court has declared that the human voice is protected under publicity rights, a reference to the ability to control and profit from aspects of an individual’s identity, in Tsuda’s case his distinctive voice.\nThe protection applies “if the purpose of using the voice is exclusively to take advantage of its commercial appeal”, Takahashi said, describing a voice to be “as symbolic of one’s personality as portraits are”.\nThe TikTok account, whose picture resembled Tsuda’s Jujutsu Kaisen character, combined images and AI-generated speech about urban legends, the occult and conspiracy theories.\nAt one point, the account had more than 200,000 subscribers and, according to the legal complaint, the clips would have earned its owner between ¥500,000 (£2,395) and ¥75,000 in monthly revenue, the Kyodo news agency said.\nDescribing the content as “sordid”, Tsuda’s legal team claimed the account had only attracted attention because it had cloned the “attractive voice of a popular actor”.\nTikTok said in a statement it would “respect the court’s judgment while considering what steps to take after scrutinising [the ruling’s] details”. It added: “We will continue to sincerely work on the balance between technology development and rights protection.”\nIn 2024, actors in Japan launched a campaign called “No More” to oppose the unauthorised use of their faces and voices in AI-generated content.\nWith reporting by Agence France-Presse",
+ "report": {
+  "summary": "东京法院首次认定声音受公开权保护，AI克隆声优嗓音构成侵权。",
+  "background": "日本声优产业发达，配音演员常凭动画角色成为明星。随着AI语音克隆门槛骤降，2024年日本演艺界发起“No More”运动，反对未经授权用AI复制面孔与声音。此前日本法律对“声音”是否属于可控制的个人身份要素缺乏明确判例。声优津田健次郎（《咒术回战》七海建人配音）起诉TikTok上一匿名账号用AI合成其嗓音制作188条视频，该案成为日本首例针对AI复制个人声音的诉讼。",
+  "key_points": [
+   "东京地方法院首次判定：人的声音与肖像一样，属于受“公开权”保护的个人标识，可控制其商业使用。",
+   "法官划定标准：若使用声音的目的纯粹是为利用其商业吸引力，即构成侵权，声音被视为“人格的象征”。",
+   "涉案账号用AI合成嗓音讲都市传说与阴谋论，一度拥有20万粉丝，据诉状月收入约5万至7.5万日元。",
+   "法院驳回了删除视频的请求，因账号在起诉后已自行删除；TikTok曾辩称视频只是“普通男声”，相似性判断过于主观。",
+   "这是日本首例就AI复制个人声音作出判决的案件，可能为后续同类维权确立判例基础。"
+  ],
+  "impact": "对AI行业，语音克隆产品的合规审查将明显收紧，训练数据与声音授权来源成为生死线。对开发者，面向日本市场的TTS与配音类应用需补上授权链路和声纹比对风控。对普通用户和内容创作者，用AI模仿名人声音做商业内容的风险上升，但判决留下“商业性使用”的界定空间，非商业用途边界仍待厘清。靠声音谋生的声优等职业则获得了初步法律护城河。",
+  "tools": "跟进可关注日本声优协会及“No More”运动资料、日本文化厅AI与著作权相关指引；技术侧可了解ElevenLabs、Resemble AI等平台的授权与声音授权机制，以及ASVspoof、VoicePrivacy等说话人验证与声纹鉴伪开源工具，用于识别未授权的声音克隆。"
+ },
+ "lang": "zh"
+}
