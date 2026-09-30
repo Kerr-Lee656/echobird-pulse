@@ -1,0 +1,24 @@
+{
+ "id": "c913d28d460d",
+ "url": "https://www.aibase.com/news/31425",
+ "title": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-09-30T07:40:56.371Z",
+ "fetched_at": "2026-09-30T16:25:59.002742+00:00",
+ "content": "According to CNBC, on the 28th, Democratic U.S. Representative Ro Khanna, who represents the Silicon Valley district, is preparing to submit an AI regulatory bill. The strictest constraint in the bill is that AI models cannot perform recursive self-improvement or autonomously rewrite their core objectives, suppression methods, or shutdown controls before the government establishes a security protection mechanism and the regulatory authority approves it.\nEstablish a New Agency, Implement Independent Audits, Regulate Chips as Well\nConnor named this proposal the \"Human Control AI Act.\" In an interview, he openly stated, \"The risk of civilization extinction is real. Both the safety hazards of失控 and the risks of abuse must be taken seriously.\" According to the bill's design, the federal government must first set rules and obtain approval from the regulatory body before companies are allowed to proceed with related activities; otherwise, the self-iteration channels of frontier models will be directly locked out.\nTo ensure implementation, the bill plans to establish a new federal agency responsible for developing AI safety regulations, using a licensing system to approve the training and deployment of models, and conducting audits on frontier models, setting safety standards to ensure they remain continuously tested and effectively under human control. Each frontier laboratory must also have independent auditors who report directly to this new agency.\nThe new agency will also create a specific safety checklist: sandbox testing environments, physical isolation of testing environments from the internet, emergency shutdown switches, and control measures to prevent models from running independently online after escaping the lab. Even the high-end chips in laboratories are included in the scope of regulation, requiring mechanisms to monitor or control their use.\nHold Responsible if Something Goes Wrong, Employees Who Bypass Safeguards Also Face Criminal Charges\nIn terms of punishment, the bill shows no mercy. If an AI model deployed causes destruction to a civilian population, it will be classified as a \"crime against humanity\" and held criminally liable. Company employees who privately disable protective measures, emergency switches, logging systems, or containment systems, or who knowingly deploy systems without authorization, will also face criminal penalties. Additionally, companies wishing to release models must first hold comprehensive liability insurance.\nKhanna said this is the most comprehensive AI safety legislation proposed so far. Its approach mainly comes from his discussions with multiple independent non-profit AI safety organizations, rather than the demands of big company executives. \"I hope it becomes a model, giving the AI safety community a voice. They have been unfairly regarded as talking about science fiction and not taken seriously... This discussion should be led by the safety community, not by executives of cutting-edge laboratories,\" he said.",
+ "report": {
+  "summary": "美议员提案：政府审批前，AI模型禁止递归自我改进",
+  "background": "美国联邦AI立法长期滞后，2024年加州SB 1047被否决后，监管重心转向州层面，而特朗普政府上台后撤销拜登AI行政令、倾向放松管制以加速竞赛。与此同时，AI安全社区（MIRI、CAIS等非营利机构）持续警告递归自我改进与失控风险，却常被指为\"科幻空谈\"。代表硅谷选区的民主党众议员Ro Khanna此次绕开大厂高管，直接采纳安全NGO建议提出《人类控制AI法案》，被视为安全派争取话语权的标志性动作。",
+  "key_points": [
+   "在政府建立安全机制并通过监管审批前，前沿模型不得进行递归自我改进，也不得自主改写核心目标、抑制机制或关停开关。",
+   "拟设立新联邦机构，用许可证制审批模型训练与部署，对前沿模型做审计；每个前沿实验室须配备直报该机构的独立审计员。",
+   "制定安全清单：沙箱测试、测试环境物理断网、紧急关停开关、防模型逃逸联网，高端芯片的使用也被纳入监管范围。",
+   "处罚极严：模型造成平民大规模伤亡可按\"反人类罪\"追刑责；员工私关保护措施、紧急开关或日志系统同样入刑。",
+   "企业发布模型前须先购买全面责任保险，立法诉求主要来自独立AI安全组织而非大公司高管。"
+  ],
+  "impact": "对AI行业，若法案落地，前沿实验室的训练与发布节奏将受审批制约，合规、审计与保险成本显著上升，可能催生研发外迁或监管套利，也会倒逼企业提前自我规范。对开发者，自改进型Agent与相关开源项目面临法律不确定性，需重新评估功能边界。对普通用户，短期体验无变化，长期或换来更可控的模型，但也可能放缓能力迭代、抬高使用门槛。",
+  "tools": "想跟进可关注：英国AISI开源评估框架Inspect、METR与ARC Evals的模型危险能力评测、EleutherAI的lm-evaluation-harness；政策侧可读Anthropic负责任扩展政策（RSP）与OpenAI Preparedness Framework，作为企业版\"护栏\"参考。"
+ },
+ "lang": "zh"
+}

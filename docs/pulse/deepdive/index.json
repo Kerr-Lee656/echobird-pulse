@@ -13381,5 +13381,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-09-29T22:43:39Z",
   "fetched_at": "2026-09-30T08:29:35.423806+00:00"
+ },
+ "de38559169c9": {
+  "id": "de38559169c9",
+  "url": "https://www.aibase.com/news/31430",
+  "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T07:40:56.371Z",
+  "fetched_at": "2026-09-30T16:25:23.791716+00:00"
+ },
+ "96c1748f9d8d": {
+  "id": "96c1748f9d8d",
+  "url": "https://www.aibase.com/news/31429",
+  "title": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T07:40:56.371Z",
+  "fetched_at": "2026-09-30T16:25:32.344115+00:00"
+ },
+ "0e6c68ff049a": {
+  "id": "0e6c68ff049a",
+  "url": "https://www.aibase.com/news/31426",
+  "title": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T07:40:56.371Z",
+  "fetched_at": "2026-09-30T16:25:49.292235+00:00"
+ },
+ "c913d28d460d": {
+  "id": "c913d28d460d",
+  "url": "https://www.aibase.com/news/31425",
+  "title": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T07:40:56.371Z",
+  "fetched_at": "2026-09-30T16:25:59.002742+00:00"
+ },
+ "e6fd6045a866": {
+  "id": "e6fd6045a866",
+  "url": "https://www.aibase.com/news/31421",
+  "title": "OpenAI发布自主智能体“Dots”与企业应用市场，ChatGPT全面向软件分发平台转型",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-09-30T07:40:56.371Z",
+  "fetched_at": "2026-09-30T16:26:07.555798+00:00"
+ },
+ "63aad616082d": {
+  "id": "63aad616082d",
+  "url": "https://www.ithome.com/1/008/704.htm",
+  "title": "微软推出实验性多模态 AI 研究系统 Project Quine，有望大幅加速药物发现",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T06:02:26Z",
+  "fetched_at": "2026-09-30T16:26:16.519726+00:00"
+ },
+ "e43ae912e203": {
+  "id": "e43ae912e203",
+  "url": "https://www.ithome.com/1/008/693.htm",
+  "title": "特朗普签署行政令把 AI 改叫 SI，推出美国政府对话式问答网站",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T04:49:02Z",
+  "fetched_at": "2026-09-30T16:26:26.314894+00:00"
+ },
+ "63d9d7fea2c6": {
+  "id": "63d9d7fea2c6",
+  "url": "https://www.huxiu.com/article/4894745.html?f=rss",
+  "title": "82亿美元，AMD买下李飞飞世界模型公司：卖铲子的人，为什么自己下矿了？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-09-30T02:55:27Z",
+  "fetched_at": "2026-09-30T16:26:34.633744+00:00"
  }
 }
