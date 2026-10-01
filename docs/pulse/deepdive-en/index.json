@@ -4921,5 +4921,32 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-01T04:00:00.000Z",
   "fetched_at": "2026-10-01T08:57:14.654238+00:00"
+ },
+ "bca4ccddfc2a": {
+  "id": "bca4ccddfc2a",
+  "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
+  "title": "Broadcom to lend Anthropic up to $42B in deal to lease chips",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-01T15:57:34Z",
+  "fetched_at": "2026-10-01T17:04:31.705995+00:00"
+ },
+ "445815ea02c8": {
+  "id": "445815ea02c8",
+  "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/",
+  "title": "OpenAI adds $500 Pro tier, nerfs existing $200 tier",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-01T15:56:14Z",
+  "fetched_at": "2026-10-01T17:05:07.463534+00:00"
+ },
+ "8d3c2c06936a": {
+  "id": "8d3c2c06936a",
+  "url": "https://qz.com/tencent-oracle-ai-chips-lease-deal-100126",
+  "title": "Tencent signed a $7B deal to lease 100k AI chips from Oracle",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-01T14:05:55Z",
+  "fetched_at": "2026-10-01T17:06:25.713107+00:00"
  }
 }
