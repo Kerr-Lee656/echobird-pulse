@@ -1,0 +1,24 @@
+{
+ "id": "8bc5f568f0cc",
+ "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+ "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+ "source": "OpenRouter",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-01T20:37:38.000Z",
+ "fetched_at": "2026-10-01T22:42:11.118388+00:00",
+ "content": "OpenRouter· @OpenRouter · X·· 2 小时前精选AI 评分72\nAI 导读\nBlack Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。\n推荐理由\n原文给出 FLUX 3 Image 的核心能力与开放权重计划，读者可据此评估是否接入工作流。\n正文\nFLUX 3 Image from @bfl_ai is now live on OpenRouter\nBlack Forest Labs' new flagship image model: text-to-image and multi-reference editing, rendered natively up to 4K\n来源：OpenRouter · x.com",
+ "report": {
+  "summary": "Black Forest Labs' FLUX 3 Image lands on OpenRouter with text-to-image, multi-reference editing and native 4K rendering, ahead of an open-weight release.",
+  "background": "Black Forest Labs emerged in 2024 with the FLUX.1 family, whose open weights made it the default choice for developers wanting controllable, self-hostable image generation outside closed APIs from OpenAI, Google and Midjourney. Since then the frontier has shifted from raw image quality toward editability: instruction-based editing, character and style consistency, and layout control have become the features that decide which model ships inside real products. OpenRouter, originally a routing layer for text LLMs, has expanded into image models, letting developers compare and switch providers through one API key. FLUX 3 Image is positioned as BFL's flagship, competing on native high resolution and multi-image conditioning rather than prompt aesthetics alone, and its commercial weights being available now, with open weights promised in coming weeks, signals the same staged-release playbook BFL has used before.",
+  "key_points": [
+   "Native 4K output: FLUX 3 Image renders directly at up to 4K resolution instead of generating small and upscaling, which matters for print, e-commerce and large-format design work where upscalers often soften detail or hallucinate texture.",
+   "Multi-reference editing: the model accepts up to 10 reference images at once, letting users compose characters, products or styles from separate sources into a single output — a big step for consistent brand or character assets.",
+   "Precise, localized edits: BFL claims multi-turn editing that changes only the target region while leaving other pixels untouched, addressing the common complaint that editing models subtly redraw faces, text and backgrounds.",
+   "Layout control via bounding boxes: users can specify where elements go spatially, giving designers predictable composition rather than repeatedly re-rolling prompts until the layout happens to cooperate.",
+   "Two access tracks: commercial weights are available now through OpenRouter, with an open-weight release promised within weeks — relevant for teams that need on-premise or cost-controlled deployment."
+  ],
+  "impact": "For the AI industry, this sharpens the competition on controllability rather than pure aesthetics. A flagship model arriving first via an aggregator like OpenRouter, with open weights following, pressures closed providers to justify API pricing and pushes consistency and layout control into the baseline feature set. For developers, a single API key now covers a strong 4K, multi-reference editor, lowering the cost of building design, ad and catalog tools — but the staged open-weight release means teams must wait to self-host. For regular users, expect faster, more predictable editing: remove or swap an object, keep the rest of the photo intact, and get print-ready resolution without a separate upscaling step.",
+  "tools": "Try FLUX 3 Image directly through OpenRouter's unified API, or compare endpoints on fal.ai and Replicate for cheaper per-image inference. For local workflows once open weights drop, watch ComfyUI (node-based pipelines and reference conditioning), Hugging Face Diffusers for programmatic integration, and InvokeAI for a designer-friendly UI. Keep an eye on BFL's official model card for license terms and the open-weight release date."
+ },
+ "lang": "en"
+}

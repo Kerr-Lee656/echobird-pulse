@@ -13606,5 +13606,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-01T00:24:51Z",
   "fetched_at": "2026-10-01T08:51:55.135942+00:00"
+ },
+ "8fac3ce4d39c": {
+  "id": "8fac3ce4d39c",
+  "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+  "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+  "source": "news.synopsys.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-01T14:54:06.176Z",
+  "fetched_at": "2026-10-01T22:39:38.587269+00:00"
+ },
+ "6b3b4e43ab81": {
+  "id": "6b3b4e43ab81",
+  "url": "https://www.huxiu.com/article/4895080.html?f=rss",
+  "title": "没有新旗舰的 DevDay大会，OpenAI 亮出了更危险的东西",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-01T13:10:38Z",
+  "fetched_at": "2026-10-01T22:39:58.430906+00:00"
+ },
+ "4785a23659ed": {
+  "id": "4785a23659ed",
+  "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+  "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-01T13:00:55Z",
+  "fetched_at": "2026-10-01T22:40:05.920726+00:00"
+ },
+ "2f33a476fe28": {
+  "id": "2f33a476fe28",
+  "url": "https://www.huxiu.com/article/4895071.html?f=rss",
+  "title": "特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-01T11:20:40Z",
+  "fetched_at": "2026-10-01T22:40:22.281161+00:00"
  }
 }
