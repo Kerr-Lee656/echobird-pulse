@@ -13579,5 +13579,32 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-01T01:19:43.640985+00:00"
+ },
+ "add08ba014c5": {
+  "id": "add08ba014c5",
+  "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+  "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+  "source": "Hacker News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T08:51:17.598909+00:00"
+ },
+ "029180439f7c": {
+  "id": "029180439f7c",
+  "url": "https://thenextweb.com/news/tokyo-court-ai-voice-clone-kenjiro-tsuda-tiktok",
+  "title": "Tokyo court rules the human voice is protected, in a TikTok AI clone case",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T08:51:44.141641+00:00"
+ },
+ "820bbc3bedb0": {
+  "id": "820bbc3bedb0",
+  "url": "https://www.ithome.com/1/008/968.htm",
+  "title": "OpenAI 同新思达成合作，共同开发 GPT-Synopsys 芯片设计模型",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-01T00:24:51Z",
+  "fetched_at": "2026-10-01T08:51:55.135942+00:00"
  }
 }

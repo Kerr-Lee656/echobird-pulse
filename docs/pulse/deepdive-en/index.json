@@ -4876,5 +4876,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-30T19:22:31Z",
   "fetched_at": "2026-10-01T01:23:11.493706+00:00"
+ },
+ "8f0743656161": {
+  "id": "8f0743656161",
+  "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
+  "title": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-01T06:52:51Z",
+  "fetched_at": "2026-10-01T08:55:19.838716+00:00"
+ },
+ "015ccf980c07": {
+  "id": "015ccf980c07",
+  "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+  "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-01T06:45:05.000Z",
+  "fetched_at": "2026-10-01T08:55:28.243102+00:00"
+ },
+ "422f2c7e41eb": {
+  "id": "422f2c7e41eb",
+  "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/",
+  "title": "FTC opens probe of Anthropic, OpenAI",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-01T05:42:45Z",
+  "fetched_at": "2026-10-01T08:55:39.263179+00:00"
+ },
+ "2a1b37c31338": {
+  "id": "2a1b37c31338",
+  "url": "https://arxiv.org/abs/2609.38296",
+  "title": "AI Agents are Vulnerable to Radicalization",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-01T04:00:00.000Z",
+  "fetched_at": "2026-10-01T08:56:50.278968+00:00"
+ },
+ "5cb6df62f6b2": {
+  "id": "5cb6df62f6b2",
+  "url": "https://arxiv.org/abs/2609.38574",
+  "title": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-01T04:00:00.000Z",
+  "fetched_at": "2026-10-01T08:57:14.654238+00:00"
  }
 }

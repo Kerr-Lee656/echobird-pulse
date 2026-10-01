@@ -1,0 +1,24 @@
+{
+ "id": "029180439f7c",
+ "url": "https://thenextweb.com/news/tokyo-court-ai-voice-clone-kenjiro-tsuda-tiktok",
+ "title": "Tokyo court rules the human voice is protected, in a TikTok AI clone case",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-01T08:51:44.141641+00:00",
+ "content": "A Tokyo court ruled on Wednesday that Japanese law protects the human voice. Anime voice actor Kenjiro Tsuda had sued TikTok over videos he says used an AI clone of his voice. He won in part, as the court turned down his request to remove the videos, Agence France-Presse reported.\nAFP believes the lawsuit is the first in Japan to defend a person’s vocal identity against AI-generated copies. Tsuda, 55, voices Kento Nanami in Jujutsu Kaisen and has starred in the Yu-Gi-Oh! franchise.\n“The unauthorised use of a performer’s voice … can be considered an infringement on publicity rights,” said Judge Aya Takahashi.\nWhat the court decided\nPublicity rights let people control and profit from aspects of their identity. The Tokyo district court found that they cover a voice when someone uses it purely for its commercial appeal. Takahashi, who presided, compared a voice to a portrait as a symbol of personality, AFP reported.\nTikTok no longer has to delete the videos, the judge said. The anonymous user behind them had already taken them down.\nThe ruling “ended up making both sides look victorious,” Tsuda’s lawyer, Takashi Hirano, told reporters.\nA ‘generic male voice’\nThe account posted 188 videos between July 2024 and September 2025, the Guardian reported. They mixed images with AI-generated narration about urban legends, the occult and conspiracy theories. The profile picture resembled a Jujutsu Kaisen character Tsuda voices.\nAt one point the account had more than 200,000 followers. Tsuda’s complaint argued it would have brought in more than ¥500,000 ($3,200) a month. His lawyers said it gained traction only because the voice of a popular actor narrated it.\nTikTok argued in court that the videos used a “generic male voice”. Any similarity to Tsuda was subjective, it said, according to court records AFP reviewed. After the ruling, the company said it would study the judgment before deciding its next steps.\n“We will continue to sincerely work on the balance between technology development and rights protection,” TikTok told AFP.\nVoice actors push back\nIn 2024, Japanese performers launched a campaign called “No More”. It opposes using generative AI to copy them without permission. Actor Bin Shimada, one of the campaigners, told AFP that unchecked AI voice cloning on social media could crush the industry.\nA voice “is the result of years of rigorous training and apprenticeship,” said Yuko Sasaki of the Japan Actors Union.\nCloning a voice keeps getting easier. Google’s latest Gemini text-to-speech models can clone a voice from 30 seconds of audio. Viewers objected this week when Netflix used an AI Gene Wilder voice in its Wonka show. ElevenLabs, which sells AI voice tools, doubled its valuation to $22bn on Wednesday.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "东京法院首裁AI克隆声音侵犯公开权",
+  "background": "2024年7月至2025年9月，一个匿名TikTok账号发布188条视频，用AI合成配音讲述都市传说与阴谋论，头像还模仿《咒术回战》角色，粉丝一度超20万。声优津田健次郎（《咒术回战》七海建人配音）起诉TikTok，主张该账号靠他的声音走红、月入超50万日元。这是日本首例针对AI声音克隆的诉讼。法院认定未经许可使用表演者声音可构成对公开权的侵害，但因视频已被发布者自行删除，驳回了他的删除请求。",
+  "key_points": [
+   "主审法官将声音类比为肖像，认为它是人格的象征；当被纯粹用于商业吸引力时，声音受“公开权”保护。",
+   "这是日本首例以“声音身份”对抗AI复制品的诉讼，为后续类似维权提供了可援引的判例基础。",
+   "TikTok抗辩称视频用的是“通用男声”，相似与否属主观判断，法院未支持其必须删除视频的义务。",
+   "因发布者已下架视频，法院驳回删除请求，双方各得一部分，津田的律师称判决“让两边看起来都赢了”。",
+   "判决出炉之际声音克隆门槛骤降：Gemini可用30秒音频克隆音色，ElevenLabs估值同日翻倍至220亿美元。"
+  ],
+  "impact": "对AI行业：日本首次以判例确认“声音公开权”，语音合成、虚拟主播、AI配音类产品在日本落地需重新评估授权链条。对开发者：声音克隆API的合规成本上升，训练数据来源与输出相似度都可能成为诉讼焦点。对普通用户：平台对AI合成音频的审核或趋严，但个人维权仍要个案起诉，成本高、周期长，实际保护有限。",
+  "tools": "跟进者可关注几类方案：ElevenLabs等平台的语音克隆授权与声纹验证机制、Google SynthID等音频水印技术、开源语音项目OpenVoice与Coqui TTS的音色控制能力，以及日本演员工会“No More”倡议的授权边界清单，用于判断合规红线。"
+ },
+ "lang": "zh"
+}
