@@ -1,0 +1,24 @@
+{
+ "id": "0e515e347199",
+ "url": "https://www.businessinsider.com/citadel-securities-us-china-ai-models-tech-data-centers-energy-2026-9",
+ "title": "Citadel Securities warns America's energy bottleneck could hand the AI advantage to China",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-01T01:19:20.363693+00:00",
+ "content": "America is leading the way on frontier AI development, but a major infrastructure bottleneck means that China could pull ahead even if its models are less capable.\nCitadel Securities says there's a risk that the US gets tripped up by constraints in its own power grid, with the energy bottleneck emerging as an obstacle right as China is poised to massively expand domestic generating capacity.\nNohshad Shah, head of EMEA fixed income sales for Citadel Securities, wrote on September 26 that, in general, while China might have less capable models, more robust physical infrastructure could be the secret to its success against the US.\n\"China does not need the world's best model in every domain if it can combine a slightly less capable (and much cheaper) one with more factories, robots, vehicles, drones, and industrial equipment,\" Shah wrote in a blog post.\nHe highlighted the difference between two key terms that may determine the AI race's overall winner: development and deployment. The former is driven by the labs building the models and the latter hinges on a country's ability to put AI to work throughout the broader economy.\nEnergy is the big bottleneck. Shah said that the possibility is looming that the US lacks the power supply to support a rapid expansion of AI capabilities.\nLocal opposition to data centers has prompted some Wall Street analysts to warn of risks to their AI outlooks, particularly as politicians double down on advocating for stricter regulation ahead of the November midterm elections.\nAll the while, China continues to grow its power supply.\n\"China will add almost six times as much power-generation capacity as the US over the next five years, whilst America remains constrained by grid connections, permitting, and local opposition to data centres,\" he wrote. \"That creates an uncomfortable possibility: America develops the better models…but China has more places to run it.\"\nShah predicts that the US can still come out ahead, but to do so would require more political support and looser regulation. He made a similar case in August, arguing that the next big AI bottleneck would be permission, rather than any physical asset.\nHe added that the recent AI doomsday warnings are not only an overreaction, but they could end up holding the US back from in the race with China.\n\"The mistake is to tell the public that AI may eliminate their jobs (or indeed humanity itself!) and then ask the same public to provide the land, electricity and permits required to build it,\" Shah said. \"The industry has spent several years making the strongest possible case for why AI is powerful…and the weakest possible case for why ordinary people should want it.\"",
+ "report": {
+  "summary": "Citadel警告：美国电力瓶颈或让中国在AI竞赛中占优",
+  "background": "美国目前在大型前沿AI模型上领先，但数据中心耗电激增，电网接入、审批和地方反对正成为瓶颈。与此同时，中国模型可能稍弱却更便宜，并计划在未来五年大幅扩建发电装机。Citadel Securities因此警告，AI竞赛胜负可能不只看模型开发，更看谁能把算力部署到经济中。",
+  "key_points": [
+   "美国AI前沿模型仍领先，但电力供应、电网互联和许可审批正拖慢数据中心扩张，成为算力增长硬约束。",
+   "Citadel预计未来五年中国新增发电装机约为美国六倍，意味着中国能给更多AI算力提供落脚点。",
+   "关键在区分“开发”与“部署”：中国不一定要有最强模型，把略弱但便宜模型接入工厂、机器人、车辆和无人机即可形成规模优势。",
+   "中期选举前监管趋严、地方反对数据中心，加上AI末日论，可能削弱公众对建电厂和批地的支持。",
+   "Shah认为美国仍可胜出，但需要更多政治支持、更宽松监管和更快许可，否则可能“美国造模型、中国跑应用”。"
+  ],
+  "impact": "对AI行业，竞争重点从模型能力扩展到电力、许可与基础设施，算力扩张速度将决定商业化节奏。对开发者，选址、能效、分布式推理和边缘部署会更重要，单纯堆大模型不再足够。对普通用户，AI服务成本与可用性受电价和社区态度影响；若就业焦虑被政治放大，AI落地可能遭遇更多阻力。",
+  "tools": "想跟进可关注：OpenDCIM、Prometheus+Grafana做数据中心能效监控；液冷、PUE优化、虚拟电厂和SMR/地热等供电方案；并跟踪EIA电力数据与LBNL电网互联队列。"
+ },
+ "lang": "zh"
+}

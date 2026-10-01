@@ -1,0 +1,24 @@
+{
+ "id": "9917c277a4e0",
+ "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+ "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-01T01:18:30.861439+00:00",
+ "content": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February.\nThe recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back private companies with the intention of retaining the stock after the company goes public.\nThe offering is part of a growing trend among fast-growing AI startups that use employee liquidity as a retention tool to prevent staff from leaving for competitors.\nThis is the second time that four-year-old ElevenLabs has authorized a secondary transaction for employees. The company previously held a $100 million tender at a $6.6 billion valuation in September 2025.\nFounded in 2022, the company is known for generating ultra-realistic human voices and sound effects. With its new valuation, New York- and London-based ElevenLabs joins the ranks of Europe’s most valuable startups.\nTechCrunch sat down with co-founder and CEO Mati Staniszewski last week.",
+ "report": {
+  "summary": "ElevenLabs 员工股份回购估值翻倍至 220 亿美元",
+  "background": "ElevenLabs 成立于 2022 年，以生成超逼真的人声和音效闻名，总部位于纽约和伦敦。2026 年 2 月它以 110 亿美元估值融资 5 亿美元，此次通过 3 亿美元的 tender offer（要约收购）让员工套现部分已归属股权，估值直接翻倍到 220 亿美元，成为欧洲最值钱的初创公司之一。这也是它第二次做员工二级交易——2025 年 9 月曾以 66 亿美元估值完成 1 亿美元回购。",
+  "key_points": [
+   "估值半年翻倍：从 2 月的 110 亿美元涨到 220 亿美元，由 Wellington 和 T. Rowe Price 领投的 3 亿美元要约收购完成",
+   "不是常规融资：这轮是员工老股转让（tender offer），公司本身没有拿新钱，只是给员工变现机会",
+   "留人新套路：用股权流动性当作 Retention 工具，防止员工跳槽去竞争对手，这正成为高速成长 AI 初创公司的普遍做法",
+   "上市前信号：参与的机构投资者明说打算持股到公司 IPO 之后，说明资本看好它的长期价值",
+   "语音 AI 头部地位：220 亿美元估值让它跻身欧洲最贵初创公司行列，语音生成赛道热度可见一斑"
+  ],
+  "impact": "对 AI 行业来说，这再次证明语音生成是继大模型之后的又一个高价值赛道，资本愿意为「声音」买单，可能带动更多语音/音频 AI 创业公司融资。对开发者而言，ElevenLabs 的 API 和工具链会更受关注，但也要留意其定价和闭源策略带来的依赖风险。对普通用户来说，超逼真 AI 配音、有声书、游戏音效会更快普及，同时语音克隆被滥用的伦理和版权问题也会更突出。",
+  "tools": "想跟进可关注 ElevenLabs 的 API 与 Voice Design 功能；开源替代可看 Coqui TTS、XTTS-v2、Bark、Fish Speech、GPT-SoVITS；音频生成还可关注 Stable Audio、Suno（音乐方向）。"
+ },
+ "lang": "zh"
+}

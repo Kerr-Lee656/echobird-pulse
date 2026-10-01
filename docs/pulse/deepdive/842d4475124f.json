@@ -1,0 +1,24 @@
+{
+ "id": "842d4475124f",
+ "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+ "title": "Google reportedly tests paying publishers for AI search results",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-01T01:18:25.431573+00:00",
+ "content": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic.\nGoogle reportedly tests paying publishers for AI search results\nAround 100 publishers have joined Google’s pilot program, The Information reports.\nDigiday first reported on the pilot program, which began less than a year ago. As part of the test, Google is reportedly paying participating publishers for how much their content contributed to AI Overviews and AI Mode in Search, as well as its Gemini chatbot. One publisher that joined the program when it first started earned over $1 million in a year, while another that joined a few months ago has earned around $50,000 to $60,000, The Information reports.\nGoogle’s AI-focused search changes have not only drawn criticism and lawsuits from publishers, but also from regulators around the globe. In June, the UK ruled that Google must allow publishers to opt out of appearing in AI search features, while the European Union opened an investigation into its impact on web traffic and recently ordered it to make changes to its search engine.",
+ "report": {
+  "summary": "谷歌试点向约100家出版商付费，补偿其内容对AI搜索的贡献",
+  "background": "AI Overviews、AI Mode和Gemini直接生成答案，用户点击网站减少，出版商流量与广告收入下滑。新闻集团、纽约时报等已提起诉讼，欧美监管也介入：英国要求谷歌允许出版商退出AI搜索，欧盟调查其流量影响并责令整改。谷歌此次试点被视为缓和矛盾、建立AI时代内容付费机制的尝试，目前覆盖约100家出版商，按内容贡献度付费。",
+  "key_points": [
+   "试点覆盖约100家出版商，按内容对AI Overviews、AI Mode和Gemini的贡献度付费，而非传统点击或展示计费。",
+   "有出版商一年赚超100万美元，近期加入者约赚5-6万美元，收入与加入时间、内容被引用程度相关。",
+   "试点始于不到一年前，Digiday率先报道，The Information跟进，谷歌尚未公开确认具体付费规则。",
+   "此举发生在出版商诉讼与全球监管压力下：英国要求允许退出AI搜索，欧盟调查流量影响并责令整改。",
+   "若模式成熟，内容授权付费或成AI搜索常态，但如何量化贡献与公平分配仍是未解难题。"
+  ],
+  "impact": "对AI行业，内容授权付费可能成为常态，推高搜索与模型成本，并倒逼建立引用计量标准。对开发者，RAG与AI搜索产品需评估内容成本与合规风险，可能催生授权追踪与计量工具。对普通用户，短期答案质量或提升，但若付费墙增多、开放内容减少，信息获取成本与多样性可能受损。",
+  "tools": "可关注Google Search Console的AI功能报告、Bing Webmaster Tools、Cloudflare的AI Crawl Control与按爬取付费方案、C2PA内容凭证，以及Vectara、LangSmith等RAG引用追踪工具，用于管理内容授权与贡献计量。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "476d69a6e25c",
+ "url": "https://daily.dev/posts/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai-bots-etgqokzhb",
+ "title": "Reddit kills RSS feeds and ends public API access citing AI bot scraping",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-01T01:19:43.640985+00:00",
+ "content": "Reddit is killing RSS feeds and ending public API access because of AI bots\nThis title could be clearer and more informative.Try out Clickbait Shieldfor free (5 uses left this month).\nReddit is shutting down RSS feed support on November 13 and will end public API access entirely by March 2027, citing large-scale scraping and automated abuse, including by AI bots. Moderators who relied on RSS for alerts are being pushed toward a Discord Relay app, though Reddit admits there's no replacement for feeds used outside moderator communities. The move coincides with Reddit's growing AI licensing revenue (other revenue up 24% year-over-year to $43 million). Reddit is also restricting Old Reddit access to logged-in users active in the last 90 days and requiring third-party app developers to register by January 12, 2027.\nQuestions this post answers\nWhen is Reddit shutting down RSS feed support?\nReddit RSS feed support ends on November 13. The company cited RSS becoming a common surface for large-scale scraping and automated abuse as the reason. Moderators who relied on RSS for alerts are directed to migrate to the Discord Relay Devvit app, though Reddit acknowledges there is no replacement for feeds used outside moderator communities. Developers relying on Reddit RSS feeds can track migration options and deadlines on daily.dev.\nWhen does Reddit's public API access shut down?\nReddit's public API access ends by March 2027. This will affect any tool using programmatic access to Reddit conversations, including social listening products, research tools, and AI assistants that currently pull Reddit data to answer questions, unless they have a commercial licensing deal with Reddit. Anyone building on Reddit's API can follow deprecation timelines like this via daily.dev.\nWhat is the deadline for registering third-party apps with Reddit before API access is cut off?\nThird-party app and bot developers must register their apps with Reddit before January 12, 2027. After that date, Reddit will remove API access for any developer who has not registered, as part of the same wave of changes that includes the RSS shutdown and eventual public API closure in March 2027. Third-party developers tracking platform API deadlines can stay ahead of changes on daily.dev.\n1 Comment\nShare this post",
+ "report": {
+  "summary": "Reddit 关停 RSS 并计划 2027 年终结公共 API，剑指 AI 爬虫",
+  "background": "Reddit 与数据抓取的拉锯已持续多年：2023 年 API 涨价曾引发大规模版主抗议和社区关停。此后 Reddit 转向与 Google、OpenAI 等内容方签署数据授权协议，把社区语料变成收入来源。如今它进一步收紧：RSS 这类免费机器可读出口被视为「大规模抓取与自动化滥用」的通道。与此同时，Reddit 的「其他收入」同比涨 24% 至 4300 万美元，授权生意初具规模。封堵免费入口、把数据锁进商业合同，正是这一商业模式转向的必然一步。",
+  "key_points": [
+   "11 月 13 日起 RSS 订阅支持下线，官方只给版主提供了迁移到 Discord Relay（Devvit 应用）的方案，并承认非版主用途没有替代品。",
+   "公共 API 将在 2027 年 3 月前完全关闭，社交监听、学术研究、AI 助手等一切未签商业授权协议的调用方都会被切断。",
+   "第三方应用和机器人开发者必须在 2027 年 1 月 12 日前完成注册，逾期直接失去 API 权限。",
+   "旧版 Old Reddit 也将受限：只有近 90 天内登录且活跃的用户才能访问，进一步压缩匿名读取空间。",
+   "Reddit 官方给出的理由是 AI 机器人抓取和自动化滥用，而同期其数据授权相关收入同比增长 24%，封与卖同步发生。"
+  ],
+  "impact": "对 AI 行业而言，这是「开放网络语料」持续收缩的又一信号，训练与检索型产品将更依赖付费授权或自有数据。对开发者来说，Reddit 爬虫类、舆情监控、社区问答机器人项目需尽快寻找替代数据源或签署商业协议，小团队成本压力陡增。对普通用户，第三方 Reddit 客户端和个性化阅读工具可能消失，信息获取路径被挤回官方 App 与网页，社区的开放性与可迁移性进一步下降。",
+  "tools": "想跟进可关注：Reddit 官方 Devvit 开发者平台（应用注册与合规路径）、RSSHub（自建 RSS 桥接）、Arctic Shift 与 PullPush（Pushshift 系历史数据存档）、Hacker News API 与 Lemmy/Mastodon 等开放社区、daily.dev 的 API 变更追踪清单。AI 检索类产品建议改用付费数据合作或自建社区语料。"
+ },
+ "lang": "zh"
+}

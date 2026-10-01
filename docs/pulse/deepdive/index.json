@@ -13507,5 +13507,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-09-30T11:24:17.423Z",
   "fetched_at": "2026-09-30T22:14:42.734048+00:00"
+ },
+ "c8945bb5b0ce": {
+  "id": "c8945bb5b0ce",
+  "url": "https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence",
+  "title": "Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:18:17.405511+00:00"
+ },
+ "842d4475124f": {
+  "id": "842d4475124f",
+  "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+  "title": "Google reportedly tests paying publishers for AI search results",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:18:25.431573+00:00"
+ },
+ "9917c277a4e0": {
+  "id": "9917c277a4e0",
+  "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:18:30.861439+00:00"
+ },
+ "1d721d58b600": {
+  "id": "1d721d58b600",
+  "url": "https://thenextweb.com/news/publishers-congress-stealth-bot-prohibition-act-ai-scraping",
+  "title": "300 publishers take their fight against AI stealth bots to Congress",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:18:42.271146+00:00"
+ },
+ "15e2cb3e524d": {
+  "id": "15e2cb3e524d",
+  "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+  "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:19:00.624504+00:00"
+ },
+ "88381ea19588": {
+  "id": "88381ea19588",
+  "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns",
+  "title": "OpenAI delays IPO over AI safety concerns",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:19:08.467537+00:00"
+ },
+ "0e515e347199": {
+  "id": "0e515e347199",
+  "url": "https://www.businessinsider.com/citadel-securities-us-china-ai-models-tech-data-centers-energy-2026-9",
+  "title": "Citadel Securities warns America's energy bottleneck could hand the AI advantage to China",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:19:20.363693+00:00"
+ },
+ "476d69a6e25c": {
+  "id": "476d69a6e25c",
+  "url": "https://daily.dev/posts/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai-bots-etgqokzhb",
+  "title": "Reddit kills RSS feeds and ends public API access citing AI bot scraping",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-01T01:19:43.640985+00:00"
  }
 }

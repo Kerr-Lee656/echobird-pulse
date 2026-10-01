@@ -4822,5 +4822,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-09-30T14:54:58Z",
   "fetched_at": "2026-09-30T16:30:32.804355+00:00"
+ },
+ "08af75c6aac1": {
+  "id": "08af75c6aac1",
+  "url": "https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3",
+  "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+  "source": "MarkTechPost（RSS）",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-09-30T21:09:24.000Z",
+  "fetched_at": "2026-10-01T01:21:07.933024+00:00"
+ },
+ "131c3b052433": {
+  "id": "131c3b052433",
+  "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+  "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-09-30T21:07:40.000Z",
+  "fetched_at": "2026-10-01T01:21:22.843635+00:00"
+ },
+ "89be4e220d9f": {
+  "id": "89be4e220d9f",
+  "url": "https://github.com/Niko1221/Strata",
+  "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-30T21:06:44Z",
+  "fetched_at": "2026-10-01T01:21:35.719688+00:00"
+ },
+ "f08e8a8cad27": {
+  "id": "f08e8a8cad27",
+  "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+  "title": "Vulnerability disclosures double to 10k per month as AI fuels exploitation",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-30T20:38:07Z",
+  "fetched_at": "2026-10-01T01:22:05.683756+00:00"
+ },
+ "838c637e1163": {
+  "id": "838c637e1163",
+  "url": "https://github.com/rodmontiel/uai",
+  "title": "UAI – An open protocol for identity and accountability of AI agents",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-30T19:24:22Z",
+  "fetched_at": "2026-10-01T01:23:03.479976+00:00"
+ },
+ "933efd4559dc": {
+  "id": "933efd4559dc",
+  "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+  "title": "OpenAI delays IPO over AI safety concerns",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-09-30T19:22:31Z",
+  "fetched_at": "2026-10-01T01:23:11.493706+00:00"
  }
 }

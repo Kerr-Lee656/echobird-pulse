@@ -1,0 +1,24 @@
+{
+ "id": "15e2cb3e524d",
+ "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+ "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-01T01:19:00.624504+00:00",
+ "content": "Amid escalating AI security incidents causing OpenAI to halt training and pause releases, Donald Trump continues to advocate for the AI industry to regulate itself as the best path to combat emerging risks when developing frontier AI.\nIn an agreement Tuesday, two dozen tech firms voluntarily committed to implementing controls recommended by the White House, including undergoing independent safety audits that will test whether firms’ internal controls, monitoring, and detecting are actually working. Key focuses for external reviews included “risks related to cybersecurity, biosecurity, chemical threats, and unintended actions by AI models.”\nFirms also agreed to regularly meet to discuss best practices and set common AI safety standards and benchmarks. Among signers were leaders like Anthropic’s Dario Amodei, OpenAI’s Sam Altman, SpaceXAI’s Elon Musk, Nvidia’s Jensen Huang, Meta’s Mark Zuckerberg, and Alphabet/Google’s Sundar Pichai.\nNothing new is legally required of firms, and some—like Anthropic, Google, and OpenAI—had already committed to external audits, The Information reported. Additionally, many firms have voluntarily committed to highly secretive government safety testing. Adding to these tests, Trump insisted the Tuesday deal will somehow better address real emerging risks and is “morally binding,” despite carrying no legal weight, Bloomberg reported.\n“It’s almost like a constitution, in a way,” Trump told reporters at the White House following a lunch with tech leaders. “The biggest people in the world signed that, and I signed it as president, and it really is a form of protection.”\nEventually, it “may make sense to codify” the recommendations, the agreement said near the end. But for now, Trump stressed that the best possible future for the US requires trusting AI firms to regulate themselves.\nTrump’s Big Tech friends embrace “SI”\nSo far, very few details have been released about how the new round of safety audits would work. Trump has only posted a summary of the accord on Truth Social.\nIt’s also unclear who Trump is tapping to audit frontier models. Bloomberg noted that Trump seems to be politicizing the selection process, while some AI firms appear uncertain what might qualify as a third party to test their frontier AI. Some progress has been made already in finding candidates, though, as Bloomberg reported that “some of the firms poised to conduct those reviews have already met” with the US agency conducting voluntary government pre-deployment safety tests, the Center for AI Standards and Innovation.",
+ "report": {
+  "summary": "特朗普推AI自愿安全协议，靠大厂自律，无法律约束力",
+  "background": "AI安全事件频发，OpenAI一度暂停训练与发布，业界对前沿模型风险担忧升温。此前美国曾通过行政令要求大模型做安全测试并向政府报备，但特朗普政府上台后转向放松监管，主张以行业自愿承诺替代强制立法。此次白宫促成二十余家科技巨头签署协议，是其“轻监管”路线的落地样本，也延续了政府把安全测试交给企业自评、由产业界制定标准的思路。",
+  "key_points": [
+   "24家科技公司自愿承诺接受独立安全审计，重点检查网络安全、生物安全、化学威胁及模型“意外行为”等风险。",
+   "协议无法律约束力，特朗普称其“几乎像一部宪法”“具有道德约束力”，但企业实质上新义务为零。",
+   "Anthropic、谷歌、OpenAI等此前已承诺外部审计与政府秘密测试，此次新增内容有限，更多是政治表态。",
+   "审计由谁做、按什么标准尚无细节，特朗普仅在Truth Social发布摘要，第三方资质认定不明，选择过程被指政治化。",
+   "协议末尾留了口子：未来“或许有必要”将建议写入法律，但当下仍强调信任企业自我监管。"
+  ],
+  "impact": "对AI行业而言，短期内避免了强制合规成本，但“自己审计自己”的公信力受质疑，一旦再出重大事故，反而可能招致更严厉立法。对开发者，前沿模型的红队与安全文档压力仍在，但规则模糊、标准未定，跨国团队更难对齐口径。对普通用户，安全承诺更像品牌话术，模型能力边界与风险披露不会因此明显透明，遇到问题时维权仍缺法律依据。",
+  "tools": "想跟进可关注：NIST AI风险管理框架（AI RMF）、白宫CAISI的预部署测试要求、MLCommons AI Safety基准，以及开源红队与评估工具如微软Inspect、NVIDIA Garak、斯坦福HELM；也可对照各大厂发布的模型系统卡与安全政策文档。"
+ },
+ "lang": "zh"
+}
