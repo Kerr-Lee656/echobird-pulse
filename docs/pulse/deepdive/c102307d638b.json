@@ -1,0 +1,24 @@
+{
+ "id": "c102307d638b",
+ "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says",
+ "title": "Memory executives expect RAM shortage to continue through 2028",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-10-02T11:58:33Z",
+ "fetched_at": "2026-10-02T19:17:28.173767+00:00",
+ "content": "Micron and Samsung executives this week said the memory shortage will continue for at least the next couple of years.\nMicron CEO Sanjay Mehrotra expects demand for the firm’s memory to exceed its available supply over that period, he told investors last night.\nMicron no longer sells consumer RAM, and Mehrotra’s statements refer to Micron’s business-to-business sales of high-bandwidth memory (HBM) for AI and DRAM for servers. However, his comments also have implications for consumer devices. Manufacturing capacity is prioritizing memory for AI and servers, limiting the supply of memory manufactured for consumer devices.\n“Overall, supply-demand environment is only getting tighter,” Mehrotra said, per a transcript from Seeking Alpha.\nMicron plans to open new clean rooms for memory manufacturing in 2028, but Mehrotra expects supply to remain limited.\n“Even after they are built, even after first wafer output, production ramps up only gradually in the clean rooms,” he said. “That’s just the nature of what it takes to bring up production, and with HBM going from 3E to a greater mix of 4 and 4E, and with the trade ratio that exists, that … creates headwinds with respect to supply growth. Node transitions of the future give less productivity gain per wafer as well.”\nSeventy-five percent of Micron’s memory output for 2027 is already accounted for, and most of the company’s current memory sales discussions are about 2028, the CEO said. Additionally, demand for HBM is surpassing demand for Micron’s DRAM.",
+ "report": {
+  "summary": "内存短缺预计持续至2028年",
+  "background": "AI 算力需求爆发，HBM 与服务器 DRAM 成为存储厂商利润与产能重心。美光已退出消费级 RAM，主攻 B2B；三星等也发出供应紧张预警。此前存储行业有明显周期，但生成式 AI 让高带宽内存需求远超传统 DRAM，晶圆产能被优先分配给 AI/服务器，消费级内存供给被挤压，形成结构性短缺。",
+  "key_points": [
+   "美光 CEO 表示，供不应求至少持续数年；即使 2028 年新洁净室投产，产能也只能逐步爬坡，短期难以缓解。",
+   "AI 与服务器优先：HBM、服务器 DRAM 挤占晶圆产能，消费级内存供应受限，手机、PC 等设备间接受影响。",
+   "美光 2027 年 75% 内存产出已被预订，当前多数销售谈判已围绕 2028 年展开，显示长期锁定趋势。",
+   "HBM 需求已超过 DRAM，且从 3E 向 4/4E 迁移带来“trade ratio”压力；未来制程微缩每片晶圆产出增益也在下降。",
+   "三星等同行同样看紧供应，意味着短缺不是单一厂商问题，而是全行业产能与需求错配。"
+  ],
+  "impact": "对 AI 行业，内存短缺将推高服务器与 HBM 成本，算力扩张可能放缓，促使厂商优化架构、提升内存效率。对开发者，云 GPU/内存租赁价格上涨，训练推理预算承压，需更重视显存优化、量化和 MoE 等技术。对普通用户，PC、手机、显卡等可能涨价或配置缩水，换机周期延长。",
+  "tools": "可关注美光、三星、SK 海力士财报与 HBM 路线图；技术侧可学习 vLLM、TensorRT-LLM、llama.cpp、DeepSpeed、FlashAttention，以及 AWQ/GPTQ/bitsandbytes 等量化工具，降低显存占用。"
+ },
+ "lang": "zh"
+}
