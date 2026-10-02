@@ -13714,5 +13714,32 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-02T05:31:58.872226+00:00"
+ },
+ "4eaa36859a5c": {
+  "id": "4eaa36859a5c",
+  "url": "https://www.ithome.com/1/009/262.htm",
+  "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-02T04:45:28Z",
+  "fetched_at": "2026-10-02T12:28:51.638084+00:00"
+ },
+ "5c7435e2888c": {
+  "id": "5c7435e2888c",
+  "url": "https://www.huxiu.com/article/4895127.html?f=rss",
+  "title": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6倍压垮人工审核",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-02T04:12:13Z",
+  "fetched_at": "2026-10-02T12:29:05.935289+00:00"
+ },
+ "2671bcb7cb15": {
+  "id": "2671bcb7cb15",
+  "url": "https://www.ithome.com/1/009/237.htm",
+  "title": "冲刺感恩节前挂牌，消息称 Anthropic 寻求最早 11 月中旬上市",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-02T02:24:59Z",
+  "fetched_at": "2026-10-02T12:29:30.898817+00:00"
  }
 }

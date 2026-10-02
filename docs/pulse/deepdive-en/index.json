@@ -5011,5 +5011,23 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-02T04:00:00.000Z",
   "fetched_at": "2026-10-02T05:34:13.049507+00:00"
+ },
+ "3e7f390edb64": {
+  "id": "3e7f390edb64",
+  "url": "https://group.softbank/en/news/press/20261001",
+  "title": "SoftBank: Execution of Follow-On Investment (Third Tranche) in OpenAI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-02T10:16:02Z",
+  "fetched_at": "2026-10-02T12:30:09.203444+00:00"
+ },
+ "0dd9d6c26724": {
+  "id": "0dd9d6c26724",
+  "url": "https://openclassactions.com/settlements/false-advertising/apple-intelligence-siri-false-advertising-class-action-settlement.php",
+  "title": "$250M Apple AI Settlement – iPhone 15/16 Users Can Claim $25 to $95 per Device",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-02T07:06:17Z",
+  "fetched_at": "2026-10-02T12:30:44.609025+00:00"
  }
 }
