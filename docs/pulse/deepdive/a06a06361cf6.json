@@ -1,0 +1,25 @@
+{
+ "id": "a06a06361cf6",
+ "url": "https://www.qbitai.com/2026/10/499663.html",
+ "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+ "source": "量子位 · 每日最新",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:58.872226+00:00",
+ "content": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让\n价格只有Astra一半\n鹭羽 发自 凹非寺\n量子位 | 公众号QbitAI\n哎呦喂，谷歌终于也是蹬起来了。。。\n假期第一天，谷歌携Gemini 4 Argon空降多榜单第一。\n拳打Opus 5.5，脚踢GPT-6 Astra。\n更夸张的还在后头，单项任务成本最低可至1.99美元，直接是Astra费用砍半。\n最高百万Token输出上限，面向编程、金融和法律等复杂工作流，而且划重点，网络安全防御能力超牛掰。\n这波等等党要赢麻了。\n不过吧，咱普通用户现在只可远观，暂时还吃不上。\nGemini 4 Argon目前只开放给部分经过筛选的网络安全团队使用，其它订阅用户得一步步来。\n倒是谷歌内部对新一代旗舰模型的态度还挺有意思的。\n劈柴哥、哈萨比斯还有接班人Koray Kavukcuoglu，纷纷一键三连为其站台：谷歌is back！\nDeepMind研究员Zirui Wang发帖直言：\nRSI来了！我已做无可做，是时候追逐我的咖啡师梦想了：)\n讲真？\n轮到你了，谷歌\n全体起立！咱盼星星盼月亮的Gemini 4，它终于来了。\n仔细数一数，距离谷歌上一代旗舰模型发布都快一年了，哪吒都没这么难产。\n这一年OpenAI、Anthropic是追着谷歌砍啊，放假前一周还连发Opus 5.5、Sonnet 5.5、GPT-6.1 Sol逼宫。\n你说谷歌能不急吗，新型号Argon火速上岸。\n先看跑分情况，清一色的性能领跑。\nArgon在衡量长期软件工程任务的DeepSWE v1.1上拿到77.9%，高于Claude Opus 5.5的74.2%和GPT-6 Astra的74.1%。\n网络安全漏洞修复测试CWE-bench v1则拿到68%，和GPT-6 Astra并列第一。\nArgon以68.90%登顶Vals Index榜首，较Gemini 3.8 Flash实现大幅提升。\n尤其是RSI指数一跃第四，超越了GPT-6 Astra。\nGemini 4 Argon在另外的第三方评测中也不遑多让。\n文本领域，Argon在代码编写、高难度提示词、指令遵循、长查询以及创意写作赛道优势显著，以1525分位居Text Arena第一。\n在评测网页开发的Code Arena中排名第八，较Gemini 3.8 Flash High提升了21个名次，但依旧稍逊于Claude和GPT最新模型。\nArtificial Analysis测评中，Argon和GPT-6 Astra旗鼓相当，高于GPT-6.1 Sol一分，提升主要来自于更少的幻觉和更强的智能体能力。\n但在价格上，Argon相比Astra优势明显。\n优惠期间Argon单题成本约低四成，每百万输入Token为2美元、输出Token为10美元，目前是最具性价比的模型之一。\n在具体工作中，Argon也更倾向于处理复杂且长期的深度推理任务，比如软件工程、企业专业知识梳理以及网络安全防御等。\n模型的百万Token输出上限，就是为这种长任务准备的，它能给模型更多连续工作的余地和充足的推理深度。\n以谷歌内部使用情况为例，其中Argon在谷歌各数据中心自主识别并落地内存优化方案，待方案全面部署后，预计可释放超300 TiB内存。\n另一个案例中，Argon Agent围绕视频解码器的Rust移植版本，反复实验并替换了3.2万行SIMD代码，最终版本运行速度达到原Rust移植版的2.7倍。\n官方还重点强调了Argon的防御性网络安全优势。\n它能够自主发现、验证并修补20多种语言的关键软件漏洞，在Wiz内部黑箱渗透测试中，模型可以在无源代码下实时分析网络系统，高效发现攻击面、识别漏洞以及生成概念验证证据。\n为了防止滥用，Argon首批进入的是谷歌的Fairwind计划，面向经过审核的网络安全防御方。\n对受信任的防御团队，谷歌会放开针对网络安全任务的部分限制，Argon将帮助防守方补洞，以及用来寻找攻击入口。\nOne More Thing\n不过嘴上说说得了，Argon实际跑起来怎么样，还得打个问号。\n毕竟咱普罗大众还没用上啊喂。。。\n有小道消息透露，谷歌内部员工对Gemini 4并不完全看好。\n一些接触过Gemini 4的员工认为，模型在实际编程任务中并没有跑分那么亮眼，网页和应用的前端界面设计仍是短板，甚至存在过度刷榜的嫌疑。\n然而另一名熟悉开发工作的员工则表示，内部普遍认为Gemini 4已达到前沿水平。谷歌也回应称，说它编程表现不佳并不准确。\n总之模型到底咋样，还有待观察。\n所幸的是，谷歌终于回到了牌桌之上。\n参考链接：\n[1]\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n[2]\nhttps://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model\n[3]\nhttps://x.com/MrZiruiWang/status/2105388591644131582\n[4]\nhttps://x.com/arena/status/2105394855644139908\n[5]\nhttps://x.com/ArtificialAnlys/status/2105392625788637299\n- 何恺明团队新作：看猫片就能学会ARC挑战2026-10-01\n- Qwen一号位定了！刘大一恒接棒2026-09-23\n- 通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队2026-09-16\n- 今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你2026-09-13",
+ "report": {
+  "summary": "谷歌突袭发布Gemini 4 Argon，多榜单登顶，价格仅前代一半",
+  "background": "谷歌上一代旗舰已发布近一年，期间OpenAI与Anthropic持续追击，假期前一周还连发Claude Opus 5.5、Sonnet 5.5和GPT-6.1 Sol逼宫。谷歌急需一款旗舰稳住阵脚，Gemini 4 Argon因此紧急上线，首战便拿下多个榜单第一。这也是谷歌首次把新模型与“RSI（递归自我改进）”叙事绑定，并把网络安全防御作为首发场景，采用受限的Fairwind计划分批开放，普通用户暂时用不上。",
+  "key_points": [
+   "跑分全面领先：在长期软件工程基准DeepSWE v1.1上拿到77.9%，高于Claude Opus 5.5的74.2%和GPT-6 Astra的74.1%，Vals Index以68.90%登顶第一。",
+   "价格极具杀伤力：百万输入Token 2美元、输出Token 10美元，单题成本比GPT-6 Astra低约四成，是目前最具性价比的前沿模型之一。",
+   "主打长任务深度推理：支持最高百万Token输出，面向编程、金融、法律等复杂工作流；内部案例中自主优化数据中心内存、改写3.2万行SIMD代码提速2.7倍。",
+   "网络安全是招牌能力：可自主发现、验证并修补20多种语言的漏洞，在Wiz黑箱渗透测试中无源码即可分析攻击面，仅向审核过的防御团队开放。",
+   "争议不小：模型暂未对公众开放，有内部员工称其编程实战不如跑分亮眼、前端设计仍是短板，甚至质疑过度刷榜，官方则否认编程表现不佳。",
+   "叙事升级：DeepMind研究员高调宣称“RSI来了”，暗示模型已能参与改进下一代模型，这也是谷歌本轮对外释放的最大信号。"
+  ],
+  "impact": "对AI行业而言，谷歌重新回到前沿牌桌，三足鼎立格局恢复，竞争焦点从单纯跑分转向单任务成本与长任务自主性，价格战会被进一步点燃。对开发者来说，百万Token输出加低单价让长周期Agent、代码库级重构、安全审计类应用变得经济可行，但初期只能通过受限计划接入，实际编程体验仍待验证。对普通用户，短期内几乎无感，只能等订阅通道逐步放开。",
+  "tools": "想跟进可关注Google AI Studio与Vertex AI的模型上线进度、Gemini CLI、面向防御方的Fairwind计划申请入口，以及Artificial Analysis、LMArena、Vals Index等榜单做横向对比；想复现同类长任务能力，也可先用Qwen、DeepSeek等开源模型自建评测。"
+ },
+ "lang": "zh"
+}

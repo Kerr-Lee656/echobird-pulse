@@ -1,0 +1,24 @@
+{
+ "id": "8efc690ba06b",
+ "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case",
+ "title": "Japanese court rules human voices are protected in landmark AI case",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:01.555516+00:00",
+ "content": "Japanese court rules human voices are protected in landmark AI case\nAn anime voice actor was partly successful in his case against an anonymous TikTok account.\nA Tokyo court has sided with a Japanese voice actor who claimed a TikTok account had used AI to clone his \"lustrous\" baritone delivery, ruling that the human voice is protected by law in a landmark case.\nKenjiro Tsuda is a prominent anime voice actor who has starred in huge number of movies, series and video games across his more than 30-year career, with his turn as Seto Kaiba in Yu-Gi-Oh! arguably being his most iconic role. Tsuda asserted that the voice of the narrator of several TikTok videos uploaded to an anonymous account between July 2024 and the second half of last year was cloned from his own voice. While he was partially victorious in the case, his request to order TikTok to remove the videos in question was dismissed, as the offending account has already been deleted.\nIn its decision, the court said that using the voice of an actor without permission should be deemed an infringement on their publicity rights, as reported by AFP. This was the first case of its kind in Japan.\nTsuda argued that the tell was the unmistakably deep and \"lustrous\" nature of the AI-generated vocal delivery in the narration. The actor's legal team said the account's popularity — at its height it had more than 200,000 followers — was due to the novelty of its \"dubious, sordid content\" being narrated by a prominent star. TikTok responded in court by arguing that a \"generic male voice\" whose similarity to Tsuda's was debatable was used in the narration, according to court records seen by AFP.\nThe Japanese government has been notably pro-AI in its national strategy, but there is growing concern among anime voice actors that more needs to be done to protect the creators whose work (or likeness) is often ingested by this technology. Last year, Japan's government asked OpenAI to ensure that anime and manga content it deemed to be \"irreplaceable treasures\" were not being used to train the company's Sora 2 generator in a way that violates copyright.",
+ "report": {
+  "summary": "东京法院裁定声音受保护，AI克隆声优侵权。",
+  "background": "日本声优津田健次郎起诉匿名TikTok账号，称其用AI克隆自己的声音。东京法院部分支持，认定未经许可使用演员声音侵犯公开权，成为日本首例。日本政府整体亲AI，但动漫与声优界担忧AI未经授权学习声音和作品；此前政府曾要求OpenAI避免Sora 2侵权。",
+  "key_points": [
+   "东京法院首次认定，未经许可用AI复制演员声音，可能侵犯其公开权或形象权，为声音提供法律保护。",
+   "声优津田健次郎称，匿名TikTok账号用AI克隆他标志性的低沉嗓音制作旁白；该账号峰值超20万粉丝，目前已被删除。",
+   "法院未支持要求TikTok删除涉案视频，因账号已删除；原告仅部分胜诉，但判决原则对后续AI声音案件有参考意义。",
+   "TikTok抗辩称旁白只是相似度存疑的“普通男声”，显示AI声音克隆的相似度认定与举证仍存争议。",
+   "日本政府虽推行亲AI战略，但动漫声优界担忧加剧；政府曾要求OpenAI防止Sora 2以侵权方式使用动漫、漫画内容。"
+  ],
+  "impact": "对AI行业，声音克隆的人格权与公开权风险上升，合规和授权将成为产品前提。对开发者，TTS、语音克隆与短视频工具需获得声音权利人授权，并建立审核与溯源机制。对普通用户，用AI模仿明星声音做二创或商业内容可能侵权，平台和上传者责任更受关注。",
+  "tools": "想跟进可关注语音克隆合规与检测：ElevenLabs、Resemble AI（需授权），AI语音检测如Pindrop、Deepfake检测工具；开源可看Coqui TTS、so-vits-svc，但使用前务必取得声音权利人许可。"
+ },
+ "lang": "zh"
+}

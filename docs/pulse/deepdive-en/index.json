@@ -4948,5 +4948,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-01T14:05:55Z",
   "fetched_at": "2026-10-01T17:06:25.713107+00:00"
+ },
+ "acb5a2d66c45": {
+  "id": "acb5a2d66c45",
+  "url": "https://github.com/tile-ai/tilelang",
+  "title": "tile-ai/tilelang — Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:32:45.611535+00:00"
+ },
+ "10a12acb9645": {
+  "id": "10a12acb9645",
+  "url": "https://github.com/ag-ui-protocol/ag-ui",
+  "title": "ag-ui-protocol/ag-ui — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:32:55.596052+00:00"
+ },
+ "51dfa3dad6a3": {
+  "id": "51dfa3dad6a3",
+  "url": "https://news.un.org/en/story/2026/09/1168296",
+  "title": "AI datacentres pose growing threat to electricity systems worldwide",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-02T04:03:17Z",
+  "fetched_at": "2026-10-02T05:33:07.721804+00:00"
+ },
+ "2f1aa49aeba5": {
+  "id": "2f1aa49aeba5",
+  "url": "https://arxiv.org/abs/2610.00609",
+  "title": "Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-02T04:00:00.000Z",
+  "fetched_at": "2026-10-02T05:33:36.582570+00:00"
+ },
+ "58da68420284": {
+  "id": "58da68420284",
+  "url": "https://arxiv.org/abs/2610.00663",
+  "title": "Backdoor Containment via Expert Quarantine and Shutdown in LLMs",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-02T04:00:00.000Z",
+  "fetched_at": "2026-10-02T05:33:48.593204+00:00"
+ },
+ "a49a886f9ccb": {
+  "id": "a49a886f9ccb",
+  "url": "https://arxiv.org/abs/2610.00685",
+  "title": "Backdoor Purification for LoRA-Tuned LLMs via Null-Space Projection",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-02T04:00:00.000Z",
+  "fetched_at": "2026-10-02T05:33:59.706490+00:00"
+ },
+ "1716321fe959": {
+  "id": "1716321fe959",
+  "url": "https://arxiv.org/abs/2610.00710",
+  "title": "ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-02T04:00:00.000Z",
+  "fetched_at": "2026-10-02T05:34:13.049507+00:00"
  }
 }

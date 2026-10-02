@@ -1,0 +1,24 @@
+{
+ "id": "9123916a4ab5",
+ "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+ "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:30.029879+00:00",
+ "content": "TSMC is weighing a new Texas campus of multiple fabs, each costing at least $20B, contingent on Congress extending a 35% manufacturing tax credit. Its only European plant, the Dresden joint venture, totals above EUR 10B and will run 28nm to 12nm nodes rather than anything used for AI.\nTSMC is eyeing a Texas campus worth tens of billions, to build more AI chips. Each fab on it would cost at least $20B. Its entire European project is budgeted above EUR 10B.\nThe company is looking at more overseas capacity, according to people familiar with its plans, as Bloomberg reported. Plans are early, and TSMC said it has no comment on market rumours.\nIt has committed $265B in Arizona, building ten fabs, two packaging plants and a research centre. North America brought in more than 75% of its wafer revenue this year.\nThe decision depends on Congress. A 35% manufacturing tax credit requires construction to start by the end of December, and no extension has a path this year. Senators Mike Crapo and Ron Wyden say they are committed to one.\nEurope has one TSMC plant and needed a subsidy for it. Brussels approved EUR 5B in state aid for the Dresden joint venture in August 2024, against a total above EUR 10B.\nThat plant will make 40,000 wafers a month. Equipment moves in this half, production starts in 2027 and full capacity arrives in 2029.\nIt will not make AI chips. Dresden runs 28 and 22nm CMOS alongside 16 and 12nm FinFET, several generations behind the nodes Nvidia and Apple buy.\nA single Texas fab would cost about twice the whole Dresden project. Texas already holds Samsung’s chip complex, Musk’s Terafab and a Texas Instruments expansion. The other site TSMC weighed is Singapore, not anywhere in Europe.\nEurope’s record is not empty. Infineon opened a EUR 5B power chip fab in Dresden in July on EUR 1B of EU support, the act’s first win.\nThe target behind it will be missed. The EU wants 20% of the global market by 2030, held 9.8% in 2022, and its own forecast puts it at 11.7%.\nThe European Court of Auditors called the goal very unlikely in April last year. Industry has asked for a Chips Act 2.0, and the Commission is drafting one.\nThe EUR 86B the first act was meant to mobilise is mostly not EU money. The Commission funds 5%, with member states and private investors covering the rest.\nTSMC keeps its most advanced research in Taiwan whatever it builds abroad. The question for Europe is not the leading edge. It is whether it is in the room when the next campus is picked.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "台积电拟在得州建多座AI芯片厂，取决于美国税收抵免延期。",
+  "background": "AI芯片需求推高先进制程与封装产能，台积电正加速海外布局。美国《芯片法案》35%制造税收抵免即将到期，是否延长决定新厂能否开工。台积电已在亚利桑那承诺2650亿美元，而欧洲仅有德累斯顿合资厂，且制程停留在28/22nm与16/12nm，不做AI芯片。欧洲芯片法案目标受挫，正酝酿2.0版。",
+  "key_points": [
+   "得州新园区可能包含多座晶圆厂，每座投资至少200亿美元，前提是美国国会延长35%制造税收抵免；若未延期，项目可能生变。",
+   "台积电在亚利桑那已承诺2650亿美元，建10座晶圆厂、2座封装厂和研发中心；北美今年贡献其晶圆收入超75%，AI产能重心明显向美国倾斜。",
+   "欧洲唯一德累斯顿合资厂预算超100亿欧元，获欧盟50亿补贴，2027年投产，但只做28/22nm与16/12nm，不产AI芯片。",
+   "欧盟芯片法案目标2030年占全球20%份额，2022年仅9.8%，自身预测11.7%；审计院称极难实现，业界呼吁Chips Act 2.0。",
+   "台积电最先进研发仍留台湾；欧洲真正问题不是领先制程，而是下一轮海外园区选址时能否进入候选名单。"
+  ],
+  "impact": "对AI行业，得州扩产若落地将增加美国先进晶圆与封装产能，缓解AI芯片供给瓶颈，并强化美国在AI供应链的主导地位；欧洲则可能进一步边缘化。对开发者，长期看云GPU和AI算力供给或更充足，但地缘政治与补贴政策会带来不确定性。对普通用户，AI服务成本与可用性受算力供给影响，短期无直接变化，长期或更便宜普及。",
+  "tools": "可关注TSMC财报与法说会、SEMI、TrendForce、SemiAnalysis跟踪产能；开发者可留意NVIDIA CUDA、ROCm及云GPU价格，判断算力供给变化。"
+ },
+ "lang": "zh"
+}

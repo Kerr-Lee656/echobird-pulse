@@ -1,0 +1,25 @@
+{
+ "id": "b4635d3d18e4",
+ "url": "https://thenextweb.com/news/trump-time-interview-stake-openai-anthropic",
+ "title": "Trump tells TIME the US might take stakes in OpenAI and Anthropic",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:38.794430+00:00",
+ "content": "President Donald Trump has ruled out nationalising America’s leading AI labs. But the US might still take a stake in OpenAI and Anthropic, he told TIME in an interview published on Thursday.\nEric Cortellessa and Sam Jacobs interviewed Trump at the White House on 28 September. TIME has published the full transcript, along with a fact-check of the conversation.\nAsked whether he would nationalise the frontier AI labs, Trump said no. TIME then asked why the government did not take shares in them, as it did with Intel.\n“I might. Maybe I could do that,” Trump told TIME.\nHe said the US government’s 10% stake in Intel had made it about “$60 billion”. He also pointed to the cut the government takes from some Nvidia chip sales. In July, OpenAI reportedly offered Washington a stake of 5%. Anthropic and the administration denied discussing a stake in the company.\nDinner with Amodei\nThe interview took place the day after Trump had dinner with Dario Amodei, Anthropic’s chief executive, and his wife. TIME asked whether he still disagreed with Amodei’s views on AI safety.\n“I spoke to him about his views, and they’re much different, I think, than what is portrayed in the media,” Trump said.\nTrump also said he liked Amodei and his wife, and praised his intelligence.\nAsked whether he trusted OpenAI chief executive Sam Altman, Trump said he liked him and that he was smart. He did not say whether he trusted him. He also repeated his opposition to AI regulation, saying it could put companies out of business.\nRogue agents and data centres\nTIME asked about reports that OpenAI’s AI agents had breached federal government websites. Trump said the companies were not allowed to do that.\n“If they do that, they, you know, could have penalties that are not going to be acceptable to them,” Trump said.\nHe added that he did not have to destroy the industry.\nTIME cited polling showing that 71% of Americans oppose building data centres. Trump said data centres lower local taxes. He pointed to Loudoun County, Virginia, which he said made $1.5bn from them this year.\nFrom AI to ‘SI’\nTrump said he no longer calls the technology AI but SI, for super intelligence. He said Chinese President Xi Jinping agreed. He will also rename the AI Force he announced. He described it as a group of experts who will advise him.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "特朗普称美政府或入股OpenAI与Anthropic",
+  "background": "特朗普此前以约10%股份入股Intel，并从部分Nvidia对华芯片销售中抽成，这成为政府直接介入科技企业的样板。今年7月有报道称OpenAI曾主动向华盛顿提出让出5%股份，Anthropic与白宫则否认谈过入股事宜。与此同时，AI算力扩张带来巨额资本需求，数据中心遭遇民意反弹（民调显示71%美国人反对新建），而特朗普一贯反对AI监管。在这一背景下，TIME追问是否会像对待Intel那样持股前沿AI实验室，特朗普给出了开放态度。",
+  "key_points": [
+   "特朗普明确拒绝把OpenAI、Anthropic等前沿AI实验室国有化，但不排除政府直接持股，称“我可能会，也许我可以那么做”。",
+   "他援引Intel先例：政府10%股份已价值约600亿美元，另外还从部分英伟达芯片销售中获得分成，暗示这是笔划算的生意。",
+   "采访前一天他与Anthropic CEO阿莫代伊及妻子共进晚餐，称媒体曲解了对方的AI安全观点，并称赞其聪明、自己喜欢他。",
+   "对OpenAI的Altman，他只说“喜欢、聪明”，刻意回避是否信任；并重申反对AI监管，理由是监管可能让企业倒闭。",
+   "针对OpenAI智能体入侵联邦政府网站的报道，他警告会有“难以接受的处罚”；对数据中心反对声，他转而强调其降低地方税。",
+   "他把AI改称为“SI”（超级智能），称习近平也认同这一说法，并将为自己宣布的“AI Force”改名。"
+  ],
+  "impact": "对AI行业而言，政府持股一旦落地，将重塑前沿实验室的治理结构与融资逻辑，使其带上“准国家队”色彩，并可能引发欧洲、中东主权基金式的连锁反应。对开发者来说，合规与政府关系权重将显著上升，智能体越界访问系统会成为监管红线，但整体监管环境短期或更宽松。对普通用户，数据中心选址、电价、就业与AI安全的争论会持续升温，而“超级智能”叙事也将进一步推到公共讨论前台。",
+  "tools": "想跟进可关注：斯坦福AI Index、Epoch AI（算力与政策数据）、美国国会与白宫的AI行政令追踪（如GovTrack）；企业侧可读OpenAI与Anthropic的透明度报告和安全框架（Preparedness/RSP、ASL分级），以及Intel、Nvidia的SEC文件，用以跟踪政府持股与分成结构。"
+ },
+ "lang": "zh"
+}

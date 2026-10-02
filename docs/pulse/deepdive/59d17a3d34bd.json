@@ -1,0 +1,24 @@
+{
+ "id": "59d17a3d34bd",
+ "url": "https://thenextweb.com/news/japan-140bn-ai-data-centre-dell-jera",
+ "title": "Japan eyes $140bn AI data centre push with Dell and JERA, FT reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:16.574090+00:00",
+ "content": "Japan’s biggest power generator is teaming up with Dell to build AI data centres across the country. The push could cost as much as $140bn, the Financial Times reported.\nJERA, Dell and UK developer RHAELM signed a non-binding agreement on Thursday, JERA said. Private equity firm Apollo will help fund the work as RHAELM’s financing partner.\nThe first project sits next to JERA’s gas-fired power station in Chiba, east of Tokyo. It will draw about 400 megawatts and cost more than $15bn, or ¥2.3tn, across all phases.\nOperations are due to start around 2028. The FT said the site would be among Asia’s largest outside China.\nSkipping the grid queue\nThe plan’s selling point is speed. The data centre will take power straight from JERA’s plant, rather than wait years for a grid connection.\n“We can deliver a 400MW facility years ahead of a conventional grid-connected timeline,” said Bradd Lewis, RHAELM’s chief executive.\nEach firm has a set role. JERA brings the land and power, Dell supplies ready-built racks of servers, and RHAELM runs the build.\nJERA says it generates about a third of Japan’s electricity.\n“JERA is uniquely positioned to power Japan’s AI ambitions,” said Yukio Kani, its global chief executive.\nThe partners want to copy the model at other JERA sites. The aim is several gigawatts of AI capacity across Japan in the 2030s.\nA crowded field\nJERA has not put its own figure on that wider rollout. The $140bn estimate comes from the FT’s reporting.\nOthers are piling in too. In June, Blackstone said it planned $30bn for Japan AI data centres over the next few years.\nJapan’s digital minister has warned the country could become an “AI colony” if it falls behind.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "日本JERA联手戴尔建AI数据中心，潜在投资1400亿美元。",
+  "background": "全球AI算力竞赛正从芯片延伸到电力。数据中心耗电巨大，传统电网接入常需数年，成为扩产瓶颈。日本在生成式AI浪潮中落后于中美，数字大臣曾警告可能沦为“AI殖民地”。JERA作为日本最大发电商，手握电厂和土地，试图联合戴尔、RHAELM和阿波罗，以“电厂旁建数据中心”模式抢速度。此前黑石也宣布300亿美元日本AI数据中心计划，能源与资本正加速涌入。",
+  "key_points": [
+   "JERA与戴尔、英国开发商RHAELM签署非约束协议，阿波罗提供融资，计划在日本共建AI数据中心，FT估算潜在成本高达1400亿美元。",
+   "首个项目位于东京以东千叶的JERA燃气电站旁，供电约400兆瓦，总投资超150亿美元，预计2028年前后投运，或成亚洲除中国外最大数据中心之一。",
+   "最大卖点是速度：数据中心直连JERA电厂取电，绕过电网排队，比常规并网提前数年交付，直击AI算力扩张的电力瓶颈。",
+   "分工清晰：JERA提供土地和电力，戴尔提供预制的服务器机架，RHAELM负责建设运营，阿波罗作为融资伙伴，形成能源+硬件+地产金融组合。",
+   "合作方希望把模式复制到其他JERA站点，2030年代在日本做到数吉瓦AI容量；黑石已计划投300亿美元，日本正全力避免在AI竞赛中掉队。"
+  ],
+  "impact": "对AI行业，算力基建主导者从纯科技公司扩展为能源巨头、硬件商和私募资本，电力获取能力成为竞争新壁垒。对开发者，日本及亚太可能新增大规模算力供给，长期有望缓解GPU云资源紧张、降低区域延迟，但初期成本仍高。对普通用户，AI服务可能更快普及，但燃气发电带来的电价、碳排放和社区争议也会浮现，值得持续关注。",
+  "tools": "该事件偏基础设施，直接开源工具不多。若想跟进AI数据中心，可关注Open Compute Project（OCP）硬件标准、Kubernetes/Slurm调度、NVIDIA DGX/HGX与Dell AI Factory方案，以及液冷和OpenDC等能源模拟工具。"
+ },
+ "lang": "zh"
+}

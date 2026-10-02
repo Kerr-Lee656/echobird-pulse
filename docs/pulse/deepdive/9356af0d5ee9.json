@@ -1,0 +1,24 @@
+{
+ "id": "9356af0d5ee9",
+ "url": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+ "title": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-02T05:31:48.665808+00:00",
+ "content": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own\nAI can no longer exclusively discipline or fire workers\n- 'No Robo Bosses Act' signed in California, comes into force in July 2027\n- Humans can't just approve an automated decision, they must bring evidence\n- Governor Gavin Newsom criticized Trump administration for a lack of federal leadership\nCalifornia Governor Gavin Newsom has signed a major package of no fewer than 13 AI-related bills as the state continues to increase the pressure on AI via human-protecting regulation centered around employment, education, legal and more.\nAmong the new bills was the 'No Robo Bosses Act', which essentially limits employers from using automated decision-making to discipline or fire workers.\nThe bill, officially known as SB 947, is described as California's human-in-the-loop law to keep humans at the core of workplace decisions that affect workers' lives.\nCalifornia to protect workers from AI-powered disciplinary action\nThe bill insists that an employer cannot rely solely on an automated decision system when deciding to discipline, or terminate, an employee. But furthermore, a human can't merely approve an automated decision – they must also provide their own evidence to corroborate with the automated decision.\n\"We are deeply mindful we have to do a lot more in the absence of federal leadership,\" Newsom said in a statement (via X), referring to Trump's decision to rename artificial intelligence 'super intelligence'.\nYesterday's meeting with tech leaders also saw the creation of a new \"morally binding\" agreement whereby major companies, including Google, Anthropic, Meta, OpenAI, SpaceX and Nvidia, would be responsible for ensuring the safety of their own AI.\nThis, of course, comes following ongoing calls for greater government oversight of AI.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\n\"By signing these four first-in-the-nation bills, Governor Newsom has shown the country how we can begin to put guardrails on AI at work to ensure human oversight over this technology, limit surveillance, and put workers first,\" the California Federation of Labor Unions, AFL-CIO President Lorena Gonzalez, said.\nCrucially, though this specific bill was signed on September 30 2026, it won't be effective until July 1, 2027.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "加州签署《禁止机器人老板法》，AI不得单独解雇或处分员工。",
+  "background": "加州州长纽森签署13项AI法案，其中SB 947《禁止机器人老板法》要求雇主不能仅靠自动化系统决定纪律处分或解雇。人类审核者不能只点“同意”，还需提供独立证据。该法2026年9月30日签署，2027年7月1日生效。此前联邦层面缺乏AI监管，加州与多州推进立法；同日科技巨头达成“道德约束”安全协议。",
+  "key_points": [
+   "法案核心：企业用AI做考勤、绩效、监控等自动化决策时，不能单独据此处分或开除员工，必须有真人参与。",
+   "人类不能当橡皮图章：审核者不能只批准AI结论，必须拿出自己的独立证据来佐证，否则仍属违法。",
+   "生效时间：2026年9月30日签署，但2027年7月1日才正式生效，给企业近一年合规缓冲期。",
+   "政治背景：纽森批评特朗普政府缺乏联邦AI领导力，加州以13项法案抢占州级监管高地。",
+   "行业联动：谷歌、Anthropic、Meta、OpenAI、SpaceX、Nvidia等达成“道德约束”协议，承诺自保AI安全。"
+  ],
+  "impact": "对AI行业，HR自动化与员工监控产品需加入人工复核和证据链，合规成本上升。对开发者，涉及雇佣决策的模型必须可解释、可审计，不能输出最终解雇建议。对普通用户/打工人，被AI“一键开除”的风险降低，但企业可能转向更隐蔽的绩效施压。总体是州级监管先行，或引发其他州效仿。",
+  "tools": "若跟进合规，可关注：加州SB 947立法原文（LegiScan）；微软Fairlearn、IBM AI Fairness 360做算法偏见审计；HR系统的人工复核与审计日志功能（Workday、SAP SuccessFactors）；以及NIST AI RMF风险管理框架。"
+ },
+ "lang": "zh"
+}

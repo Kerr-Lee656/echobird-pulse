@@ -13642,5 +13642,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-01T11:20:40Z",
   "fetched_at": "2026-10-01T22:40:22.281161+00:00"
+ },
+ "7f94119a3a4c": {
+  "id": "7f94119a3a4c",
+  "url": "https://phys.org/news/2026-10-google-deepmind-invisible-watermarks-ai.html",
+  "title": "谷歌DeepMind为人工智能设计的蛋白质开发了隐形水印",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-01T20:55:04.608Z",
+  "fetched_at": "2026-10-02T05:30:40.009445+00:00"
+ },
+ "21e4ceeba78b": {
+  "id": "21e4ceeba78b",
+  "url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks",
+  "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:30:49.197287+00:00"
+ },
+ "8efc690ba06b": {
+  "id": "8efc690ba06b",
+  "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case",
+  "title": "Japanese court rules human voices are protected in landmark AI case",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:01.555516+00:00"
+ },
+ "59d17a3d34bd": {
+  "id": "59d17a3d34bd",
+  "url": "https://thenextweb.com/news/japan-140bn-ai-data-centre-dell-jera",
+  "title": "Japan eyes $140bn AI data centre push with Dell and JERA, FT reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:16.574090+00:00"
+ },
+ "9123916a4ab5": {
+  "id": "9123916a4ab5",
+  "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+  "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:30.029879+00:00"
+ },
+ "b4635d3d18e4": {
+  "id": "b4635d3d18e4",
+  "url": "https://thenextweb.com/news/trump-time-interview-stake-openai-anthropic",
+  "title": "Trump tells TIME the US might take stakes in OpenAI and Anthropic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:38.794430+00:00"
+ },
+ "9356af0d5ee9": {
+  "id": "9356af0d5ee9",
+  "url": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+  "title": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:48.665808+00:00"
+ },
+ "a06a06361cf6": {
+  "id": "a06a06361cf6",
+  "url": "https://www.qbitai.com/2026/10/499663.html",
+  "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-02T05:31:58.872226+00:00"
  }
 }
