@@ -13858,5 +13858,59 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-03T05:15:01.406324+00:00"
+ },
+ "273d9e6b6c26": {
+  "id": "273d9e6b6c26",
+  "url": "https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space",
+  "title": "Google Tests AI Data Center In Space",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T16:15:07.240959+00:00"
+ },
+ "e5ceff853015": {
+  "id": "e5ceff853015",
+  "url": "https://www.techradar.com/pro/nvidia-backed-neocloud-nscale-faces-years-of-delay-because-uks-largest-ai-supercomputer-cant-get-enough-power-from-the-grid-to-feed-its-data-centers",
+  "title": "Nvidia-backed Neocloud Nscale faces years of delay because UK's 'largest AI supercomputer' can't get enough power from the grid to feed its data centers",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T16:15:15.912218+00:00"
+ },
+ "9d4ab1cc5948": {
+  "id": "9d4ab1cc5948",
+  "url": "https://www.36kr.com/p/4009647948746628",
+  "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-03T16:15:24.487629+00:00"
+ },
+ "4df9a8ef7c7b": {
+  "id": "4df9a8ef7c7b",
+  "url": "https://www.huxiu.com/article/4895291.html?f=rss",
+  "title": "2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-03T16:15:54.262118+00:00"
+ },
+ "50161cf0b17a": {
+  "id": "50161cf0b17a",
+  "url": "https://www.gelonghui.com/live/2697612",
+  "title": "华为称昇腾 AI 芯片中国市场份额达 50%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-03T16:16:04.245790+00:00"
+ },
+ "1ef1b38c39d0": {
+  "id": "1ef1b38c39d0",
+  "url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "title": "Show HN: Germany's new sovereign AI model Kolibri",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-03T10:43:51Z",
+  "fetched_at": "2026-10-03T16:16:14.778407+00:00"
  }
 }

@@ -5056,5 +5056,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-03T07:36:37Z",
   "fetched_at": "2026-10-03T11:41:17.194674+00:00"
+ },
+ "9123916a4ab5": {
+  "id": "9123916a4ab5",
+  "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+  "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-03T15:27:29Z",
+  "fetched_at": "2026-10-03T16:17:50.738806+00:00"
+ },
+ "b6e8aaa22971": {
+  "id": "b6e8aaa22971",
+  "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+  "title": "US killer's sentence quashed because of AI video of victim shown in court",
+  "source": "Hacker News (28pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-03T13:34:18Z",
+  "fetched_at": "2026-10-03T16:18:20.011794+00:00"
+ },
+ "96e25d98340a": {
+  "id": "96e25d98340a",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+  "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-03T11:45:55Z",
+  "fetched_at": "2026-10-03T16:18:32.432763+00:00"
  }
 }
