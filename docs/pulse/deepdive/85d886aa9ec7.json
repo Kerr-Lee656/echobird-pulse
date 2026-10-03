@@ -1,0 +1,24 @@
+{
+ "id": "85d886aa9ec7",
+ "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
+ "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-03T05:14:52.730868+00:00",
+ "content": "FieldAI is raising $700M at a $10B valuation, five times its mark from just over a year ago, for software designed to run robots it does not build. Europe’s biggest robotics rounds this year funded machine makers, and the nearest European answer to FieldAI was reported at about a third of its valuation.\nFieldAI is set to raise $700M at a $10B valuation, for software that runs robots it does not build. The Californian company makes no machines at all. Europe’s robotics money has gone into the machines.\nThe valuation is five times the $2B mark set just over a year ago, according to a person familiar with the deal, as Business Insider reported. A term sheet is signed and the round has not closed. FieldAI did not respond to a request for comment.\nIt calls the product a universal general-purpose brain, meant to run humanoids, robot dogs, drones and industrial rovers. Founded in 2023, it sells to construction firms, data centre operators and defence companies.\nRevenue and customer contracts have passed $135M across more than 30 customers, up at least $35M since June. Skild AI, which is valued higher, reported $100M in run-rate revenue last month, on a stricter measure.\nEurope’s biggest robotics round this year built robots. NEURA raised up to $1.4B in June at around $7B, backed by Tether, Nvidia, Amazon, Bosch and the European Investment Bank.\nIts stated ambition is manufacturing, with millions of machines targeted by 2030.\nThe nearest European answer to FieldAI is smaller and less settled. Genesis AI, which splits about 60 staff between Paris, London and the Bay Area, was reported in July to be raising $500M for robot brains at roughly $3B.\nThat one was a report. FieldAI has a signed term sheet, and the two valuations sit three times apart.\nThe rest of Europe’s money followed the hardware too. London’s Humanoid raised $152M in July at $1.35B, with Bosch contracted to build its wheeled robots.\nThe American brain layer is where the money has pooled. Physical Intelligence is valued near $11B and Skild AI at $14B, so three companies carry roughly $35B.\nEurope’s comparable names are a fraction of that. Munich’s Agile Robots was in early talks for $800M, and it builds the software as well as the machines.\nFieldAI makes nothing physical, so every European robot maker is a potential customer. Europe’s Machinery Regulation starts on 20 January 2027 and covers machinery with self-evolving behaviour, which is what this software is sold to produce.\nThe machines are built here and the software is valued elsewhere, as with cloud and chips. No model of this kind has been assessed under the European rules yet, because they do not start until 2027.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "FieldAI拟以100亿美元估值融资7亿，做机器人通用大脑软件",
+  "background": "FieldAI 成立于2023年，总部加州，不做机器人硬件，而是研发可运行人形、机器狗、无人机和工业移动机器人的“通用大脑”。一年前估值约20亿美元，如今拟以100亿美元融资7亿美元，估值五倍增长。其收入与合同超1.35亿美元，客户超30家，覆盖建筑、数据中心和国防。与此同时，欧洲今年大额机器人融资多流向硬件，如 NEURA、Humanoid；美国则聚集了 Physical Intelligence、Skild AI 等“大脑层”公司，三家估值合计约350亿美元。",
+  "key_points": [
+   "FieldAI 拟融资 7 亿美元、估值 100 亿美元，较一年前约 20 亿美元估值增长五倍，条款清单已签但交易尚未关闭。",
+   "公司不做硬件，主打“通用机器人大脑”，可驱动人形机器人、机器狗、无人机和工业移动机器人，客户包括建筑、数据中心与国防企业。",
+   "收入与客户合同已超 1.35 亿美元、客户超 30 家，且自 6 月以来至少增加 3500 万美元；对比 Skild AI 的 1 亿美元 run-rate 收入。",
+   "美欧机器人投资路线分化：欧洲大钱投向整机硬件，美国资本集中在大脑软件层，Physical Intelligence、Skild AI 与 FieldAI 合计估值约 350 亿美元。",
+   "欧洲《机械法规》2027 年 1 月生效，覆盖具有自演化行为的机械，FieldAI 所售软件正用于产生此类行为，但目前尚无同类模型按该规则评估。"
+  ],
+  "impact": "对行业：资本押注具身智能的软件层，硬件或商品化，平台价值向美国集中，欧洲硬件强但软件估值外流。对开发者：通用机器人大脑若开放API，将降低跨硬件开发门槛，但闭源平台依赖和适配成本需警惕。对普通用户：机器人将更快进入工地、数据中心、安防和国防，提升效率，也带来安全、隐私、就业与监管合规问题。",
+  "tools": "可关注 ROS 2、NVIDIA Isaac Sim/Isaac Lab、MuJoCo、Gazebo 做人形/移动机器人仿真与控制；Hugging Face LeRobot 提供开源机器人学习工具。跟踪 FieldAI 官网与论文，关注 Physical Intelligence、Skild AI 的开源动态。"
+ },
+ "lang": "zh"
+}

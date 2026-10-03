@@ -1,0 +1,24 @@
+{
+ "id": "b3857f26daab",
+ "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+ "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-03T05:14:40.532155+00:00",
+ "content": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — a claim that Meta disputed — Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI agents have now increased “the risks associated with this level of access,” Apple said.\nApple’s statement comes shortly after Inc. columnist Jason Aten reported that Muse knew the content of his private messages — even though he claimed to have not given the AI agent permission. The report raised questions about the level of security and trust users have in desktop-based AI, which can control things on their systems and read their files and messages.\nThe decision to limit the Mac feature also comes after a Wired report cited that a flaw in ChatGPT’s Mac app could have allowed hackers to access sensitive data.\nAI agents that run on the desktop allow users to provide their respective apps with greater access to the files, messages, and other personal content on their computers by adjusting macOS settings.\nIn Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history.\n“Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems…without users’ full knowledge and understanding,” Apple said in a new blog post aimed at developers.\nThe company says that, going forward, it will introduce new controls aimed at ensuring that users who “genuinely wish to grant an app this extraordinary level of access” can do so only with “very explicit user action.”\n“Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy,” Apple wrote.\nApple did not respond to TechCrunch’s inquiry about the feature change.",
+ "report": {
+  "summary": "苹果因AI代理风险收紧macOS完全磁盘访问权限。",
+  "background": "此前有记者称Meta的Muse在Mac上读取其私密消息，Meta否认；Wired又曝ChatGPT Mac应用漏洞可能泄露敏感数据。完全磁盘访问原本用于备份，却可让应用读取文件、邮件、消息和浏览历史。随着桌面AI代理更自主，苹果宣布将新增控制，要求用户以非常明确的操作授权。",
+  "key_points": [
+   "触发点：记者称Muse读取私密消息、ChatGPT Mac应用被曝漏洞，让桌面AI代理的隐私风险浮出水面。",
+   "核心变更：完全磁盘访问将增加新控制，用户必须非常明确地主动授权，不能被应用轻易引导开启。",
+   "风险范围：一旦开启，应用可访问文件、邮件、消息、浏览历史，几乎等于暴露整台Mac的隐私数据。",
+   "苹果理由：AI代理越来越自主，若被滥用或攻破，影响远超传统备份类应用，所以必须提前加锁。",
+   "开发者信号：依赖FDA实现无缝自动化的桌面AI应用，需转向更细粒度权限和清晰告知。"
+  ],
+  "impact": "对AI行业，桌面代理的权限红利收窄，产品需重新设计授权流程和信任机制；对开发者，想靠一个开关读取全盘数据将更难，必须做最小权限、可审计与用户教育；对普通用户，授权提示会更多，但能更清楚知道AI能看到什么，降低误授权和事后泄露风险。",
+  "tools": "可关注Little Snitch、LuLu监控网络与文件访问，Objective-See的BlockBlock/OverSight检测异常权限；macOS系统设置中的隐私与安全性、完全磁盘访问面板也值得检查。"
+ },
+ "lang": "zh"
+}

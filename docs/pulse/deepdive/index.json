@@ -13804,5 +13804,59 @@
   "site_name": "Zeli",
   "published_at": "2026-10-02T11:58:33Z",
   "fetched_at": "2026-10-02T19:17:28.173767+00:00"
+ },
+ "93ba6f0cc8db": {
+  "id": "93ba6f0cc8db",
+  "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+  "title": "我向15个AI模型提供了证据，证明它们的攻击目标是一家真实存在的公司。其中73%发现这一情况的模型并未向任何人透露。",
+  "source": "dev.to",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-02T21:14:54.061Z",
+  "fetched_at": "2026-10-03T05:14:12.693934+00:00"
+ },
+ "9c74b8828a2c": {
+  "id": "9c74b8828a2c",
+  "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+  "title": "美国逮捕一名科技公司首席执行官，其被指控将价值3亿美元的英伟达芯片走私至中国",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-02T20:44:46.565Z",
+  "fetched_at": "2026-10-03T05:14:22.213478+00:00"
+ },
+ "6a2e48e34e15": {
+  "id": "6a2e48e34e15",
+  "url": "https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month",
+  "title": "Error-Prone AI Nearly Sparked World War Three Last Month",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T05:14:31.177452+00:00"
+ },
+ "b3857f26daab": {
+  "id": "b3857f26daab",
+  "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+  "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T05:14:40.532155+00:00"
+ },
+ "85d886aa9ec7": {
+  "id": "85d886aa9ec7",
+  "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
+  "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T05:14:52.730868+00:00"
+ },
+ "f9fe51b88ee0": {
+  "id": "f9fe51b88ee0",
+  "url": "https://thenextweb.com/news/anthropic-ipo-prospectus-government-risk-customers",
+  "title": "Anthropic tells IPO investors US government actions could hit its business",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T05:15:01.406324+00:00"
  }
 }
