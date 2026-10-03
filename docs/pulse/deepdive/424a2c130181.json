@@ -1,0 +1,24 @@
+{
+ "id": "424a2c130181",
+ "url": "https://mashable.com/tech/california-robotaxi-fines-for-blocking-emergency-responders",
+ "title": "California announces AV regulation, fines for robotaxis that impede emergency responders",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-03T19:13:55.315930+00:00",
+ "content": "California announces AV regulation, fines for robotaxis that impede emergency responders\nHundreds of thousands of autonomous vehicle rides are completed every week across the U.S. Most of them go off without a hitch. But all it takes is one wayward car to ruin someone's day — and potentially threaten lives.\nA new California bill, signed into law by California Governor Gavin Newsom last week, will ensure those blips hit car makers harder. Under SB 1246, AV operators such as Waymo and Tesla will face hefty fines if their vehicles block first responders for more than 30 minutes.\nThe bill also sets statewide standards for AV operators and emergency response departments, including new requirements for two-way communication, company-hired \"local incident technicians\" that can respond to stalled or unresponsive vehicles, and updated fleet protocols.\n\"California has embraced autonomous vehicles, but we cannot embrace innovation at the expense of public safety,\" wrote bill author and California Senator Dave Cortese in a press release.\nAutonomous ride share operations are booming across the nation. More than 500,000 Waymo rides are completed every week, the company recently reported. Its fleet comprises more than 4,000 cars operating in 15 cities, with the vast majority in California.\nTesla recently launched and then scaled its Cybercab operation in Texas, an addition to its existing fleet of Model Y vehicles and \"Robovans\" deployed in seven metro areas. The company hasn't disclosed recent numbers on the operation's total size.\nBut with growth comes growing pains.\nSelf-driving taxis have been at the center of several viral snafus, including passengers abandoned mid-ride, city-wide traffic jams, and even a dangerously live firework show.\nThey've also had to weather scrutiny from federal regulators. In July, California representative Kevin Mullin introduced the House AV Emergency Response Coordination Act, which would establish national safety standards for autonomous vehicles and emergency response coordination. Mullin's announcement cited incidents of robotaxis allegedly obstructing emergency vehicles, breaching crime scenes, and failing to recognize emergency conditions in Austin, Phoenix, Las Vegas, Dallas, and San Francisco.\nThe bill followed a TechCrunch investigation that found emergency responders were regularly asked to operate Waymo vehicles during their day-to-day operations and amid crisis scenarios, including removing obstructing vehicles from escape paths during a wildfire. A few months later, the National Highway Traffic Safety Administration issued a plea to vehicle makers to address a dangerous \"pattern\" of driverless cars interfering with first responders.\nTopics Self-Driving Cars Social Good\nChase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.",
+ "report": {
+  "summary": "加州立法：自动驾驶车阻塞应急人员超30分钟将重罚",
+  "background": "自动驾驶出租车在美国快速扩张：Waymo 每周完成超50万次行程，车队逾4000辆覆盖15城；特斯拉在得州推出并扩大 Cybercab。但增长伴随阵痛：无人车多次阻塞急救车辆、闯犯罪现场、在野火中挡路等。今年7月，联邦层面已提出《AV 应急响应协调法案》；TechCrunch 调查与 NHTSA 警告也聚焦此类风险。加州州长纽森上周签署 SB 1246，将全州监管从被动应对转为强制约束。",
+  "key_points": [
+   "SB 1246 规定，若自动驾驶车阻塞急救人员超过30分钟，运营商将面临高额罚款，Waymo、特斯拉等均适用。",
+   "法案建立全州统一标准：要求运营商与应急部门双向通信，聘用可现场处置故障车辆的“本地事故技术员”，并更新车队应急协议。",
+   "扩张速度惊人：Waymo 每周超50万次出行、4000多辆车；特斯拉在得州落地 Cybercab，并已在7个大都市区部署 Robotaxi 车队。",
+   "恶性事件频发成导火索：乘客被中途抛下、无人车致全城拥堵、甚至拖载点燃烟花；多地急救人员被迫手动挪车。",
+   "联邦也在跟进：众议员 Mullin 7月提出全国性AV应急协调法案，NHTSA 警告无人车干扰急救人员已成“模式”，加州立法是地方先行。"
+  ],
+  "impact": "对行业，合规与运营成本上升，需投入远程协助、现场响应团队和应急通信，小玩家门槛更高，头部企业如 Waymo、特斯拉将率先调整。对开发者，应急车辆识别、故障降级、远程接管和 V2X 成为必答题。对普通用户，无人车或更安全、少堵路，但短期可能因车队调度与合规审查出现服务收缩或价格波动。",
+  "tools": "想跟进可关注：NHTSA 自动驾驶事故报告（Standing General Order）与加州 DMV 的 AV 里程/脱离数据；开源仿真 CARLA、Autoware、百度 Apollo 可测试应急车辆识别；Waymo 安全报告、AV 应急响应白皮书也是了解行业标准的好材料。"
+ },
+ "lang": "zh"
+}

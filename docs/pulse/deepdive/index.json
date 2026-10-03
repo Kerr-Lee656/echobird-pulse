@@ -13912,5 +13912,23 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-03T10:43:51Z",
   "fetched_at": "2026-10-03T16:16:14.778407+00:00"
+ },
+ "801ec396652b": {
+  "id": "801ec396652b",
+  "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T19:13:45.261565+00:00"
+ },
+ "424a2c130181": {
+  "id": "424a2c130181",
+  "url": "https://mashable.com/tech/california-robotaxi-fines-for-blocking-emergency-responders",
+  "title": "California announces AV regulation, fines for robotaxis that impede emergency responders",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-03T19:13:55.315930+00:00"
  }
 }
