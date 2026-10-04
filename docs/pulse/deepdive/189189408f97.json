@@ -1,0 +1,24 @@
+{
+ "id": "189189408f97",
+ "url": "https://www.ithome.com/1/009/701.htm",
+ "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-04T12:27:24Z",
+ "fetched_at": "2026-10-04T21:20:15.964897+00:00",
+ "content": "IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。\n目前 DeepSeek Harness 中的“Claude Code Mods 兼容层”属于“alpha 版本”中的“实验性功能”。做这个兼容层的主要目的，是验证 Claude Code Mods 向插件作者提供的扩展能力，是否大致是 DSH“一切皆插件”架构所提供能力的一个子集。目前还无法让所有 Claude Code Mods 在 DeepSeek Harness 中无缝运行；如果认为这是一个值得投入的目标，从技术上看，未来有可能做到。\n他提到：“DeepSeek Harness 的核心理念是“一切皆插件”，这个理念是从立项之初、写第一行代码之前就确立下来的，正如“开源”的理念是从 DeepSeek 成立之初、发布第一个模型之前就确立下来的一样。开源是我们的初心，不是被迫开源的。让我们的 Agent Harness 产品以开放、开源的方式具备尽量极致的可扩展性，也是我们的初心，并不是被迫或模仿别人才做开放可扩展的。”\nIT之家注意到，DeepSeek Harness v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。\n本次更新优化了文件展示、内容预览和代码变更展示体验，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。\nDeepSeek Harness 桌面端新版本中新增了插件管理页面：安装插件无需命令行，直接在插件管理页面中输入插件包名（即 npm 包名）即可完成安装，用户也可以在同一页面中停用、卸载插件，以及查看插件的介绍与来源。\n据官方此前介绍，第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分。按照官方模型 API 用户口径统计，约 60% 的 DeepSeek Harness 用户使用了第三方插件。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，改善第三方插件的发现、获取和管理体验，并建设官方插件市场。",
+ "report": {
+  "summary": "DeepSeek Harness 加 Claude Code Mods 兼容层，坚持“一切皆插件”初心",
+  "background": "随着 Claude Code、Cursor 等编码 Agent 走红，围绕“Agent Harness”（承载大模型执行任务的运行框架）的插件标准之争正在升温。DeepSeek Harness v0.2 预览版于 9 月 29 日发布，提供开箱即用的 macOS/Windows 桌面客户端。仅隔数日，v0.2.1-alpha.1 就加入了实验性的 Claude Code Mods 兼容层，作者正是 Harness 组成员崔添翼。他在回应中强调，此举是为验证第三方插件能力边界，而非跟风模仿；开放可扩展与 DeepSeek 的开源传统一脉相承，从立项之初就已确立。",
+  "key_points": [
+   "兼容层由崔添翼本人编写，目前属于 alpha 版实验性功能，主要目的是验证 Claude Code Mods 的扩展能力是否为 DSH 插件架构的子集。",
+   "现阶段还做不到让所有 Claude Code Mods 在 Harness 中无缝运行，但作者认为技术上未来有可能实现，关键看是否值得投入。",
+   "崔添翼强调“一切皆插件”是写第一行代码前就定下的核心理念，与 DeepSeek 的开源初心一致，不是被迫或模仿他人。",
+   "v0.2 预览版优化了文件与代码变更展示、自动化任务管理和执行过程可视化，并新增插件管理页，输入 npm 包名即可安装、停用、卸载插件。",
+   "官方数据显示约 60% 的 API 口径用户使用第三方插件，团队将持续改善插件发现与管理体验，并建设官方插件市场。"
+  ],
+  "impact": "对行业而言，这是 Agent 运行框架从封闭走向“插件互操作”的信号，若兼容层成熟，插件标准可能走向事实统一，削弱单一厂商的生态锁定。对开发者，写一次插件有望跑在多个 Harness 上，迁移和适配成本下降，但 alpha 阶段仍不稳定，需谨慎押注。对普通用户，最直接的好处是可选插件更多、安装更简单，无需命令行即可扩展能力，也能更灵活地在不同 Agent 产品间切换。",
+  "tools": "想跟进可先装 DeepSeek Harness 桌面端体验插件管理页，再了解 Claude Code 及其 Mods 插件机制与 npm 包发布流程。对比参考 OpenHands、Cline、Aider 等开源 Agent 项目，观察各家插件接口差异，是最快理解“一切皆插件”架构的方式。"
+ },
+ "lang": "zh"
+}

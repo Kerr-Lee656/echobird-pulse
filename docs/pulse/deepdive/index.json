@@ -14029,5 +14029,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-04T04:02:59Z",
   "fetched_at": "2026-10-04T12:19:34.682028+00:00"
+ },
+ "189189408f97": {
+  "id": "189189408f97",
+  "url": "https://www.ithome.com/1/009/701.htm",
+  "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-04T12:27:24Z",
+  "fetched_at": "2026-10-04T21:20:15.964897+00:00"
+ },
+ "8f0ad24471c3": {
+  "id": "8f0ad24471c3",
+  "url": "https://news.ycombinator.com/item?id=49952973",
+  "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+  "source": "news.ycombinator.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-04T11:38:56.809Z",
+  "fetched_at": "2026-10-04T21:20:55.045472+00:00"
+ },
+ "4f5217889031": {
+  "id": "4f5217889031",
+  "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+  "title": "随着OpenAI发现数十起黑客攻击事件，阿尔特曼面临的法律风险日益加剧",
+  "source": "www.ft.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-04T11:22:49.688Z",
+  "fetched_at": "2026-10-04T21:21:11.663878+00:00"
+ },
+ "d2cc8d776c0e": {
+  "id": "d2cc8d776c0e",
+  "url": "https://www.ithome.com/1/009/673.htm",
+  "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-04T08:46:29Z",
+  "fetched_at": "2026-10-04T21:21:21.435446+00:00"
  }
 }
