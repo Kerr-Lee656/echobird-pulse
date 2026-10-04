@@ -13993,5 +13993,41 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-04T05:47:25.448863+00:00"
+ },
+ "a742a9175bdc": {
+  "id": "a742a9175bdc",
+  "url": "https://wallstreetcn.com/articles/3782979",
+  "title": "白宫成立「超级智能」工作组，计划 120 天拿出 AI 监管方案",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-04T12:18:58.667826+00:00"
+ },
+ "35e63c4021ea": {
+  "id": "35e63c4021ea",
+  "url": "https://www.ithome.com/1/009/616.htm",
+  "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-04T12:19:09.132899+00:00"
+ },
+ "21191813b544": {
+  "id": "21191813b544",
+  "url": "https://www.huxiu.com/article/4895343.html?f=rss",
+  "title": "美国成立自主作战司令部：AI成为作战单位，刹车已经被拆掉了",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-04T06:08:24Z",
+  "fetched_at": "2026-10-04T12:19:25.150917+00:00"
+ },
+ "6a1bc229705f": {
+  "id": "6a1bc229705f",
+  "url": "https://www.ithome.com/1/009/633.htm",
+  "title": "华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-04T04:02:59Z",
+  "fetched_at": "2026-10-04T12:19:34.682028+00:00"
  }
 }

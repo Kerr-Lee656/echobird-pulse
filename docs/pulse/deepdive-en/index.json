@@ -5110,5 +5110,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-03T15:45:39Z",
   "fetched_at": "2026-10-03T19:15:59.945080+00:00"
+ },
+ "a7d39e77e585": {
+  "id": "a7d39e77e585",
+  "url": "https://aihot.news/items/e54qt77e1upo9oqowk38fply1",
+  "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+  "source": "Prime Intellect",
+  "site_name": "AI HOT 精选",
+  "published_at": null,
+  "fetched_at": "2026-10-04T12:20:21.452953+00:00"
+ },
+ "e44ea7f9923a": {
+  "id": "e44ea7f9923a",
+  "url": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
+  "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+  "source": "Modal 官方工程博客",
+  "site_name": "AI HOT 精选",
+  "published_at": null,
+  "fetched_at": "2026-10-04T12:20:32.229012+00:00"
+ },
+ "e77912f7b6ec": {
+  "id": "e77912f7b6ec",
+  "url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+  "title": "EU Enforcement AI Act",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-04T09:36:32Z",
+  "fetched_at": "2026-10-04T12:21:55.124837+00:00"
+ },
+ "02802f4bffb0": {
+  "id": "02802f4bffb0",
+  "url": "https://arxiv.org/abs/2602.18455",
+  "title": "Impact of AI Search Summaries on Website Traffic",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-04T08:40:59Z",
+  "fetched_at": "2026-10-04T12:22:03.778533+00:00"
  }
 }
