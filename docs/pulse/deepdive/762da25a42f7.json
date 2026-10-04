@@ -1,0 +1,25 @@
+{
+ "id": "762da25a42f7",
+ "url": "https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders",
+ "title": "California will fine robotaxi companies if their vehicles block first responders",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-04T05:47:25.448863+00:00",
+ "content": "California will fine robotaxi companies if their vehicles block first responders\nBut the new law isn't set to take effect until July 1, 2028.\nCalifornia Governor Gavin Newsom has signed into a law new rules for robotaxis, including one that that's meant to address concerns that they could get in the way of emergency services. Newsom signed Senate Bill 1246, which will establish local penalties for robotaxi companies if their vehicles block first responders, such as ambulances and fire trucks, for more than 30 minutes in case of emergencies.\nSeveral events over the past year have heightened people's worries that driverless cars could hinder emergency services from responding in a timely manner. In December 2025, several Waymo vehicles got stuck in the middle of San Francisco roads after a power outage that took out the city's traffic lights. During this year's Fourth of July celebrations, Waymo vehicles also had to be towed away after they ran out of power and got stranded due to heavy San Francisco traffic.\nOutside of California, in Austin Texas, a Waymo car blocked an ambulance that was responding to a shooting. The US National Highway Traffic Safety Administration asked operators to figure out a solution back in July, after identifying \"a clear pattern of driverless AVs interfering with law enforcement and other first responders.\"\nUnder SB 1246, operators will also be required to provide an on-site contact for emergency responders, who will be called \"local incident technicians\" and who'll be able to assist with AV accidents and obstructions immediately. They will be required to use US-based remote human drivers holding US driver's licenses, as well. No, robotaxies aren't really being driven remotely all the time. In Tesla's case, it only lets human drivers remotely control a vehicle in difficult situations if \"available intervention actions have been exhausted.\" Meanwhile, Waymo revealed earlier this year that its vehicles could sometimes rely on guidance from remote human operators when they're stuck. It just so happened that those operators live in other countries.\nIn addition, SB 1246 requires robotaxi companies to notify local authorities about the location and status of their vehicles during system-wide failures. Finally, companies will have to issue additional reporting on their response times to incidents involving their vehicles. The robotaxi operators will have time to make sure they can comply with these new rules, because the law won't go into effect until July 1, 2028.",
+ "report": {
+  "summary": "加州立法：无人出租车堵塞急救车辆超30分钟将被罚款",
+  "background": "过去一年，无人驾驶出租车屡次成为公共安全话题：2025年12月旧金山停电导致多辆Waymo停在路中，2026年独立日期间Waymo又因拥堵耗尽电量被拖走，德州奥斯汀一辆Waymo还挡住了一辆赶往枪击现场的救护车。美国国家公路交通安全管理局（NHTSA）由此认定无人车干扰执法和急救存在“明显模式”，要求运营商拿出方案。加州州长纽森签署的SB 1246正是对这一压力的立法回应，但法案要到2028年7月1日才生效，给企业留出合规缓冲期。",
+  "key_points": [
+   "新法授权地方政府对无人出租车公司开罚：车辆堵塞救护车、消防车等急救车辆超过30分钟，就要承担罚款。",
+   "运营商必须为急救人员提供现场联系人，即“本地事故技术员”，能在事故或道路阻塞时立刻到场协助处理。",
+   "远程人工驾驶员必须身处美国境内并持有美国驾照，直指Waymo此前承认其远程协助团队设在海外的问题。",
+   "系统性故障时，公司须向地方政府通报车辆位置与运行状态，并额外报告涉及其车辆事故的响应时间。",
+   "法案2028年7月1日才生效，企业有近两年时间改造流程与技术以满足要求。"
+  ],
+  "impact": "对AI行业而言，自动驾驶的商业化重心正从“能不能跑”转向“出事谁负责”，加州作为最大测试市场立规，很可能引发其他州效仿，合规能力成为新的竞争壁垒。对开发者来说，远程协助链路、车队实时可观测性、故障上报与响应时长统计将从“加分项”变成“必做项”，本地化运维团队也要重新布局。对普通用户，急救通道和道路通行权更有保障，但企业合规成本上升，可能推迟无人出租车在新城市的扩张节奏与低价补贴。",
+  "tools": "想跟进可关注：加州DMV自动驾驶脱离报告（Disengagement Reports）与NHTSA的AV事故数据库，用于观察行业安全趋势；开源侧可上手CARLA仿真器、Apollo自动驾驶平台，以及Waymo Open Dataset，理解车队调度与远程协助所需的数据链路。",
+  "background_note": ""
+ },
+ "lang": "zh"
+}

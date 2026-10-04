@@ -13930,5 +13930,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-03T19:13:55.315930+00:00"
+ },
+ "f47ac6eed97d": {
+  "id": "f47ac6eed97d",
+  "url": "https://www.gelonghui.com/live/2697726",
+  "title": "AI 数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:46:21.697812+00:00"
+ },
+ "1cdc421004a4": {
+  "id": "1cdc421004a4",
+  "url": "https://www.ithome.com/1/009/581.htm",
+  "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:46:29.789844+00:00"
+ },
+ "dfe215aa6a77": {
+  "id": "dfe215aa6a77",
+  "url": "https://news.slashdot.org/story/26/10/03/077236/californias-governor-wants-worker-protections-from-ai-but-fsf-thinks-kill-switches-are-dangerous-precedent",
+  "title": "California's Governor Wants Worker Protections from AI. But FSF Thinks Kill Switches are 'Dangerous Precedent'",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:46:42.917877+00:00"
+ },
+ "de7b43eeb823": {
+  "id": "de7b43eeb823",
+  "url": "https://thenextweb.com/news/greg-lui-earthmade-ai-server-smuggling-china",
+  "title": "US charges California man with smuggling $300mn of AI servers to China",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:46:52.961132+00:00"
+ },
+ "19c69c4646ee": {
+  "id": "19c69c4646ee",
+  "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+  "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-03T17:44:29Z",
+  "fetched_at": "2026-10-04T05:47:06.254805+00:00"
+ },
+ "c3eb1e40f83b": {
+  "id": "c3eb1e40f83b",
+  "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
+  "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:47:17.386924+00:00"
+ },
+ "762da25a42f7": {
+  "id": "762da25a42f7",
+  "url": "https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders",
+  "title": "California will fine robotaxi companies if their vehicles block first responders",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-04T05:47:25.448863+00:00"
  }
 }

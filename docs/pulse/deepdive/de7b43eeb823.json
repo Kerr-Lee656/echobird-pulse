@@ -1,0 +1,24 @@
+{
+ "id": "de7b43eeb823",
+ "url": "https://thenextweb.com/news/greg-lui-earthmade-ai-server-smuggling-china",
+ "title": "US charges California man with smuggling $300mn of AI servers to China",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-04T05:46:52.961132+00:00",
+ "content": "US authorities have arrested a California man accused of smuggling more than $300mn of computer servers packed with AI chips to China, the Justice Department said on Thursday.\nGreg Lui, 38, of San Gabriel, also known as Yiu Kong Lui, was arrested on Wednesday, prosecutors said. Reuters also reported the case, in a story carried by The Guardian.\nProsecutors say he used his company, Earthmade Computer, to ship the servers without the export licences the US Commerce Department requires. The alleged scheme ran from 2023 to 2024.\nThrough Malaysia and Singapore\nThe servers allegedly went first to Malaysia and Singapore, where no licence is needed, before being sent on to China. Prosecutors say Lui used false paperwork to hide their true destination.\nThey contained US-made graphics processors used to build AI. The Justice Department used the term super intelligence, the Trump administration’s new name for AI.\n“We will aggressively prosecute those who put our national security at risk for profit,” said Bill Essayli, the US attorney for the Central District of California.\nLui faces three charges, including smuggling and money laundering conspiracy. If convicted, he could face up to 50 years in prison. An indictment is only an allegation, and he is presumed innocent.\nA wider crackdown\nThe US has long blocked China from buying top-end AI chips, such as those made by Nvidia. The Justice Department did not name the maker of the chips in this case.\nSmuggling has become a major worry for chipmakers and governments. Taiwan has indicted an Nvidia manager over chips shipped to China.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美国指控加州男子经马来西亚、新加坡走私3亿美元AI服务器至中国",
+  "background": "自2022年10月起，美国禁止英伟达A100/H100等高端AI芯片对华出口，2023年10月进一步收紧规则、封堵第三国转运漏洞。中国AI企业获取算力受阻，催生出灰色转运链条——先把货物运到马来西亚、新加坡等无需出口许可的地区，再转口中国。美国执法部门随之将芯片走私上升为国家安全案件重点打击，本案正是在这一轮执法升级中发生。",
+  "key_points": [
+   "38岁的Greg Lui（又名Yiu Kong Lui）周三被捕，其公司Earthmade Computer被指在2023至2024年间走私价值超3亿美元的AI服务器。",
+   "作案手法是“洗产地”：服务器先运往马来西亚、新加坡等无需出口许可的国家，再用伪造文件掩盖真实目的地是中国。",
+   "服务器内含美国制造、用于构建AI的图形处理器；司法部未点名芯片厂商，但此类产品通常指英伟达高端GPU。",
+   "他被控走私和洗钱共谋等三项罪名，若全部成立最高可判50年监禁；目前仅为起诉指控，被告推定无罪。",
+   "这是美国打击AI芯片走私浪潮的一部分，台湾此前也以类似理由起诉过一名英伟达员工，各国正同步收紧执法。"
+  ],
+  "impact": "对AI行业而言，管制执法从“禁止销售”升级为刑事追责，芯片厂商与分销商的合规压力显著上升，灰色转运链条风险剧增。对中国AI公司，获取高端算力的非正规渠道进一步收窄，将加速转向国产芯片与开源模型优化。对开发者，云端高端GPU供给更紧、价格或上涨，训练与推理成本承压。对普通用户，短期感受有限，但AI产品的性能与定价可能间接受影响。",
+  "tools": "想跟进可关注：美国商务部BIS实体清单与EAR出口管制查询；英伟达H100与华为昇腾910B等算力对比资料；以及DeepSeek、Qwen、Llama等开源模型，作为算力受限下的替代路径。"
+ },
+ "lang": "zh"
+}
