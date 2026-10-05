@@ -14065,5 +14065,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-04T08:46:29Z",
   "fetched_at": "2026-10-04T21:21:21.435446+00:00"
+ },
+ "d652bc9acc58": {
+  "id": "d652bc9acc58",
+  "url": "https://wallstreetcn.com/articles/3783018",
+  "title": "银行撤退、债券折价，AI 建设潮的钱不好借了",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-05T19:18:37.386830+00:00"
+ },
+ "ca362f0c200c": {
+  "id": "ca362f0c200c",
+  "url": "https://www.ithome.com/1/009/903.htm",
+  "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-05T19:18:53.304947+00:00"
+ },
+ "143400a2145b": {
+  "id": "143400a2145b",
+  "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+  "title": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+  "source": "BBC News (世界新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-05T16:13:21Z",
+  "fetched_at": "2026-10-05T19:19:03.440360+00:00"
+ },
+ "95ad46f63791": {
+  "id": "95ad46f63791",
+  "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+  "title": "AI眼镜面临首次重大政府整顿",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-05T15:56:14.551Z",
+  "fetched_at": "2026-10-05T19:19:12.269396+00:00"
  }
 }

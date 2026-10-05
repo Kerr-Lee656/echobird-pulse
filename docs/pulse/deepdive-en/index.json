@@ -5236,5 +5236,23 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-05T04:00:00.000Z",
   "fetched_at": "2026-10-05T09:00:49.604521+00:00"
+ },
+ "e88715398c52": {
+  "id": "e88715398c52",
+  "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+  "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-05T18:40:41Z",
+  "fetched_at": "2026-10-05T19:21:26.686922+00:00"
+ },
+ "9a59866103a2": {
+  "id": "9a59866103a2",
+  "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+  "title": "The AI boom is making the cheapest smartphones disappear",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-05T17:53:45Z",
+  "fetched_at": "2026-10-05T19:22:40.205479+00:00"
  }
 }
