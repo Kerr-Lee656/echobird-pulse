@@ -5200,5 +5200,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-04T11:33:52Z",
   "fetched_at": "2026-10-04T18:12:13.164225+00:00"
+ },
+ "9c39b43f6b51": {
+  "id": "9c39b43f6b51",
+  "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+  "title": "Anthropic reported diary entry to police, woman faces felony charge",
+  "source": "Hacker News (66pts, 58c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-05T05:37:40Z",
+  "fetched_at": "2026-10-05T08:58:16.233852+00:00"
+ },
+ "652e18df3e1c": {
+  "id": "652e18df3e1c",
+  "url": "https://arxiv.org/abs/2610.02492",
+  "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-05T04:00:00.000Z",
+  "fetched_at": "2026-10-05T08:59:39.013196+00:00"
+ },
+ "75ddda4759aa": {
+  "id": "75ddda4759aa",
+  "url": "https://arxiv.org/abs/2610.02568",
+  "title": "Mitigating Social Sycophancy via Pluralistic Preference Optimization",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-05T04:00:00.000Z",
+  "fetched_at": "2026-10-05T09:00:13.305975+00:00"
+ },
+ "af2223437f43": {
+  "id": "af2223437f43",
+  "url": "https://arxiv.org/abs/2610.02588",
+  "title": "Open-Endedness Bench: Measuring Epistemic Process from Agent Records",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-05T04:00:00.000Z",
+  "fetched_at": "2026-10-05T09:00:49.604521+00:00"
  }
 }
