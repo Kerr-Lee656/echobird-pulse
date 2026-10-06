@@ -14173,5 +14173,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-05T15:01:59Z",
   "fetched_at": "2026-10-06T01:20:04.618510+00:00"
+ },
+ "89aab6aa82c7": {
+  "id": "89aab6aa82c7",
+  "url": "https://www.ithome.com/1/009/964.htm",
+  "title": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T08:57:02.931927+00:00"
+ },
+ "f05d815f0f61": {
+  "id": "f05d815f0f61",
+  "url": "https://www.theblockbeats.info/flash/370362",
+  "title": "OpenAI 正与阿联酋基金及贝莱德洽谈 300 亿美元融资，投前估值约 1.4 万亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T08:57:13.042713+00:00"
+ },
+ "11e912ce959c": {
+  "id": "11e912ce959c",
+  "url": "https://www.ithome.com/1/009/960.htm",
+  "title": "Groq 遭起诉：被控与英伟达 200 亿美元「类收购」交易牺牲少数股东权益",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T08:57:26.814901+00:00"
+ },
+ "0f9e1fddb191": {
+  "id": "0f9e1fddb191",
+  "url": "https://www.theblockbeats.info/flash/370352",
+  "title": "华尔街银团启动创纪录的 600 亿美元 AI 债务融资，旨在为 Anthropic 芯片租赁提供资金",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T08:57:38.314373+00:00"
+ },
+ "4b350aa22640": {
+  "id": "4b350aa22640",
+  "url": "https://qlabs.sh/research/dust",
+  "title": "Dust：无需反向传播的Transformer预训练",
+  "source": "qlabs.sh",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-06T02:07:52.842Z",
+  "fetched_at": "2026-10-06T08:57:49.530492+00:00"
+ },
+ "15a1608ba57c": {
+  "id": "15a1608ba57c",
+  "url": "https://www.ithome.com/1/009/946.htm",
+  "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-06T01:34:19Z",
+  "fetched_at": "2026-10-06T08:57:58.960208+00:00"
  }
 }
