@@ -1,0 +1,25 @@
+{
+ "id": "08c1f9ec1008",
+ "url": "https://thenextweb.com/news/italy-agcm-suno-investigation-terms",
+ "title": "Italy opens investigation into AI music company Suno over its terms",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T22:40:09.182764+00:00",
+ "content": "Italy’s competition authority, the AGCM, has opened an investigation into Suno, the US company whose AI service turns text prompts into songs.The authority said today that parts of Suno’s terms of service may be unfair to consumers under Italian law.\nThe case is based on Article 33 of Italy’s Consumer Code, and according to this article, a contract term is considered unfair when it tips the balance of rights too heavily in favour of the company and against its customers.\nThe AGCM raised a number of concerns, pointing out that Suno’s terms seem to allow it to alter the contract, the service, and the subscription prices on its own without providing a reason.\nFurthermore, the terms seem to permit the company to suspend or close accounts, along with any songs stored in them, at any time and without notice.\nMoreover, when users are signing up, they are apparently asked to agree to further terms which they cannot see at that time, and the terms seem to restrict Suno’s liability in general terms, the authority said.\nCopyright is the point of special attention. To use the platform, users must grant Suno a licence to use their content, and the AGCM stated that this licence is defined too broadly.\nFurthermore, the terms require users to waive their moral rights, which allow authors to control how their work is credited and treated. Moral rights are protected by Italian copyright law.\nThe authority also raised questions about the way disputes are dealt with, since Suno’s terms seem to have consumer claims referred to binding individual arbitration in the United States, with strict time limits and no provision for class actions; they also state that the courts in Massachusetts, the state where Suno is based, have exclusive jurisdiction.\nIn the weeks to come, the AGCM will hold a public consultation on the contested terms through its website, and national trade associations, chambers of commerce and recognised consumer groups will be allowed to take part.\nThis case represents the latest instance of the AGCM taking consumer action against an AI company.\nEarlier this year, the organisation concluded its investigations into DeepSeek, Mistral and Nova AI after the three companies agreed to alert their users to hallucinations, which occur when chatbots generate false information.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "意大利AGCM就Suno服务条款是否损害消费者权益展开调查。",
+  "background": "意大利竞争与市场管理局（AGCM）近期持续对AI公司出手：今年已结束对DeepSeek、Mistral、Nova AI的调查，要求其向用户提示“幻觉”风险。此次矛头指向美国AI音乐公司Suno，依据意大利《消费者法典》第33条，审查其格式条款是否过度偏向企业。Suno是AI音乐生成赛道的头部产品，既面临唱片公司的版权诉讼，其用户协议中的内容授权与道德权利让渡条款也长期被创作者诟病。监管触角从版权纠纷延伸到消费者合同，是欧洲对生成式AI收紧监管的又一信号。",
+  "key_points": [
+   "改价改服务无需理由：AGCM指出Suno的条款允许其自行修改合同、服务内容和订阅价格，用户只能被动接受。",
+   "可无预警封号删歌：条款似乎允许公司随时暂停或关闭用户账户及其中存储的歌曲，且不必提前通知。",
+   "授权过宽、逼弃道德权利：注册须授予Suno使用用户内容的许可，范围被认定过宽；还要求用户放弃署名与作品受尊重等道德权利，与意大利版权法冲突。",
+   "注册时看不到附加条款：用户注册时被要求同意当时无法查看的条款，且Suno以笼统表述限制自身责任。",
+   "争议解决偏向美国：消费者索赔被强制提交美国仲裁，时限严格且禁止集体诉讼，管辖法院限定在马萨诸塞州。",
+   "后续将公开征求意见：AGCM将在数周内通过官网对争议条款开展公众咨询，行业协会、商会和消费者组织可参与。"
+  ],
+  "impact": "对AI行业，欧洲监管正从内容合规转向合同条款合规，AI产品出海需重写用户协议，尤其是内容授权、账号处置和争议解决条款。对开发者，接入AI音乐API要盯紧授权范围与商用风险，别把过宽许可转嫁给终端用户。对普通用户，短期或见Suno修改条款、增加通知与申诉渠道；长期看这会推动订阅式AI在改价、封号和内容归属上更透明，其他司法辖区可能跟进。",
+  "tools": "想跟进可关注：AGCM官网的公众咨询页面（可提交意见）；用ToS;DR、欧盟不公平条款数据库CLAB快速评估条款风险；音乐生成替代方案Stable Audio、Udio、Adobe Firefly等授权更明确；开发者也可关注开源模型MusicGen、Stable Audio Open自建服务，规避平台条款风险。"
+ },
+ "lang": "zh"
+}

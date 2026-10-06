@@ -1,0 +1,24 @@
+{
+ "id": "50b989a0330f",
+ "url": "https://thenextweb.com/news/deepseek-12bn-funding-round-tencent-catl",
+ "title": "DeepSeek reportedly nears $12bn funding round backed by Tencent and CATL",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T22:40:39.335070+00:00",
+ "content": "DeepSeek is close to raising at least 80 billion yuan, or about $12bn, in a new funding round, Bloomberg News reported on Tuesday.\nTencent and the battery maker CATL have committed some of the largest sums, according to people familiar with the matter cited by Bloomberg.\nThe Chinese AI lab had first set out to raise about 50 billion yuan. Demand grew after the launch of its latest model, Bloomberg said, and the final total could approach 100 billion yuan.\nDeepSeek has not announced the round. At these levels, it would top the company’s first outside funding earlier this year. That round raised about 50 billion yuan at a valuation of $52bn to $59bn.\nFounder Liang Wenfeng was the largest investor in that first round, putting in about 20 billion yuan of his own money. Tencent added roughly 10 billion yuan and CATL about 5 billion yuan, alongside JD.com, NetEase and China’s national AI investment fund.\nThose same two backers now lead the new round. Tencent runs the WeChat messaging app and a large cloud business. CATL makes batteries for electric cars and is working on solid-state batteries.\nFor Tencent, becoming more closely associated with DeepSeek could enable it to keep up with its domestic competitors. This was reported by Reuters in June when the first round of the comparison was being prepared.\nLast month, Reuters reported that DeepSeek had secured CITIC Securities to prepare for a possible initial public offering on Shanghai’s STAR Market, a market board for technology companies.\nHowever, they said that the timing, valuation and scale of the listing had not yet been determined.\nDeepSeek originated from High-Flyer, the quantitative hedge fund which Liang set up. The laboratory attracted widespread attention around the beginning of 2025 due to its R1 open-source model and launched its V4 models this year.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "DeepSeek 接近完成约120亿美元融资，腾讯、宁德时代领投",
+  "background": "DeepSeek 脱胎于梁文锋创办的量化对冲基金幻方，2025年初凭借开源 R1 模型引发全球关注，今年又推出 V4 系列。今年早前它完成首轮外部融资，规模约500亿元人民币，估值520亿—590亿美元，梁文锋个人出资约200亿，腾讯、宁德时代、京东、网易及国家AI基金参投。此后公司引入中信证券筹备科创板IPO。据彭博社报道，新一轮融资最初目标500亿元，因新模型发布后投资人热情高涨，最终规模可能逼近1000亿元。",
+  "key_points": [
+   "融资规模跳涨：原计划约500亿元，因新模型发布后需求激增，最终至少800亿元、可能逼近1000亿元，约合120亿美元，创中国AI公司纪录",
+   "老股东加码领投：腾讯与宁德时代本轮继续出最大份额，两家上一轮分别投约100亿和50亿元，产业资本深度绑定模型公司",
+   "创始人仍主导：上一轮梁文锋自掏约200亿元成为最大出资人，公司控制权与战略方向牢牢握在创始团队手中",
+   "或为上市前最后一轮：公司已聘请中信证券筹备科创板IPO，但时间、估值与规模尚未确定，本轮私募相当于上市前的弹药储备",
+   "腾讯的算盘：通过更紧密绑定DeepSeek，补齐自研大模型短板，对标阿里、字节等国内竞争对手"
+  ],
+  "impact": "对AI行业，中国大模型赛道头部集中度进一步提升，算力、人才与数据军备竞赛将被再次推高，估值泡沫与监管关注同步上升。对开发者，DeepSeek 若延续开源与低价策略，低成本推理、微调与本地部署生态将持续受益，但融资后是否转向闭源或收紧许可需密切观察。对普通用户，微信等超级App有望更快接入DeepSeek能力，AI助手更普及、更便宜，体验差距进一步缩小。",
+  "tools": "想跟进可关注：DeepSeek 官方API与开源模型权重（R1、V4系列）、Hugging Face 模型页、vLLM 与 SGLang 推理框架、Ollama / LM Studio 本地部署方案，以及 OpenRouter 等聚合调用平台；企业用户可留意腾讯云后续可能推出的 DeepSeek 托管服务。"
+ },
+ "lang": "zh"
+}

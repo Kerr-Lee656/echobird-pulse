@@ -1,0 +1,24 @@
+{
+ "id": "d045eeb00f20",
+ "url": "https://thenextweb.com/news/abc-tells-australian-ai-inquiry-its-content-has-likely-been-scraped",
+ "title": "ABC tells Australian AI inquiry its content has likely been scraped",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T22:40:30.692076+00:00",
+ "content": "The Australian Broadcasting Corporation told a parliamentary inquiry on Tuesday that AI companies have probably already used its content to train their models. The public broadcaster also said AI firms can strike licence deals to use its work, Reuters reported.\nKate Gilchrist, the ABC’s head of content and legal operations, gave evidence to the Joint Select Committee on Artificial Intelligence in Sydney.\nAustralia has at least four state and federal inquiries into AI underway.\n“I do not think we have conclusive evidence that we have been scraped, but I expect that there is a likely possibility that we have been,” Gilchrist told the inquiry.\nIn her view, current copyright law already works for AI, because AI firms can buy licences from those who own the content.\nThe ABC and SBS made a similar case in their written submissions, also asking AI firms to pay for Australian news.\nGilchrist also spoke against an opt-out model, under which AI firms could use content unless its owner objected.\nAustralian media have reported that the government is weighing such a clause, including in a leaked options paper covered by the Canberra Times.\nSuch a rule would put the burden on rights holders, Gilchrist argued. The ABC cannot search the whole web and opt out on every site, she said.\nThe government has already ruled out a broad exception that would let AI firms train on copyrighted work for free. Attorney-General Michelle Rowland announced that decision in October 2025.\nAsked whether the ABC would use AI to replace its newsreaders, David Sutton, a senior policy executive, said the broadcaster had no plan to replace people. He added that AI might be needed in some parts of programme making.\nOpenAI and Anthropic appeared before the same committee later in the day. Both companies want Australia to relax its copyright rules so they can train on local content, Reuters reported.\nAnthropic told the committee it has seen no sign that its products broke into Australian government systems. Its head of safeguards, David Orr, said a long investigation after an OpenAI agent’s Hugging Face hack had found no such breaches.\nAnthropic also said it would be open to Australian laws that make AI companies report data breaches.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "ABC称其内容很可能已被AI公司抓取用于训练",
+  "background": "澳大利亚正同时推进至少四项州与联邦层面的AI调查。生成式AI依赖海量数据训练，新闻机构长期质疑其内容被未经授权抓取。ABC与SBS此前在书面意见中要求AI公司为澳大利亚新闻付费。澳政府已排除让AI免费训练版权作品的广泛例外，但据泄露政策选项，仍在考虑“默认可用、除非退出”的opt-out条款。OpenAI与Anthropic同日出席同一委员会，呼吁放宽版权规则以使用本地内容，令内容许可与数据合规争议升温。",
+  "key_points": [
+   "ABC向澳议会调查作证，虽无确凿证据，但认为其新闻内容很可能已被AI公司抓取用于模型训练。",
+   "ABC主张现行版权法足够，AI公司应像其他使用者一样向内容方购买许可，并反对opt-out模式。",
+   "若采用opt-out，权利方须主动逐站声明，ABC称自己无法全网搜寻并逐一退出，负担被转嫁给内容方。",
+   "澳政府已排除免费训练的广泛版权例外，但仍在权衡opt-out等方案；OpenAI与Anthropic同日呼吁放宽版权以使用本地内容。",
+   "ABC称无计划用AI替换新闻主播，但节目制作部分可能引入AI；Anthropic称未发现产品入侵澳政府系统，并愿支持数据泄露报告法。"
+  ],
+  "impact": "对AI行业，澳大利亚可能成为新闻内容许可与opt-out规则的关键试验场，数据获取成本和法律风险上升。对开发者，训练数据来源、版权许可与退出机制将更受审查，需保留数据溯源和合规记录。对普通用户，短期新闻内容可能更易被AI摘要或引用，但若许可成本上升，部分AI产品可能减少本地新闻覆盖；长期看，付费许可与透明披露或提升内容可信度。",
+  "tools": "想跟进可关注澳大利亚议会AI调查页面、Reuters/TNW报道，以及ABC/SBS提交文件。技术合规可了解robots.txt、Common Crawl、C2PA内容溯源、Hugging Face Dataset Cards；新闻许可可关注版权集体管理组织与内容授权平台。"
+ },
+ "lang": "zh"
+}

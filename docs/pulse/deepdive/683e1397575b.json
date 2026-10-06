@@ -1,0 +1,24 @@
+{
+ "id": "683e1397575b",
+ "url": "https://thenextweb.com/news/chip-simulation-startup-vinci-raises-250m-at-a-1-5bn-valuation",
+ "title": "Chip simulation startup Vinci raises $250m at a $1.5bn valuation",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T22:40:18.556085+00:00",
+ "content": "Vinci, the AI software company based in Palo Alto that simulates physics for use in chip and hardware design, has raised $250M at a $1.5bn valuation, the company announced on Tuesday.\nAdvent, Temasek and Xora Innovation led the round, while earlier investors Eclipse and Khosla Ventures participated again, along with Madrona, the company stated.\nVinci’s software can predict the physical behaviour of a design before it is constructed.\nThe company originally focused on heat, since this has become an increasing issue as AI chips grow in size and complexity, and is now aiming to simulate entire systems.\nThe company intends to later include other areas of physics, for example, vibration testing and electromagnetics.\nThis will put the 70-person company in competition with established chip design software companies such as Cadence and Synopsys, which offer their own AI-based simulation tools.\nThe funds will be used to pay for computing power, hire new staff, and produce more simulation products, the chief executive, Hardik Kabaria, stated, adding that the current focus is on growth.\n“It is a foundation model that is proven to work in the field,” Kabaria told Reuters.\nHe said that the next stage is to increase the number of pilot deployments with customers from two to 20.\nThe round took place less than a year after Vinci had emerged from stealth. In December 2025, the company announced a $46M raise consisting of a seed round led by Eclipse and a Series A round led by Xora, a venture firm that is backed by Temasek.\nKabaria was set up in 2023 by Sarah Osentoski, its chief technology officer. Vinci states that its model runs simulations up to 1,000 times faster than conventional tools without any loss of accuracy, a claim that has not been independently verified.\nIn February, the company introduced a second type of simulation, this one used to predict how chip packages bend and warp when they heat up.\nIn other parts of the engineering software sector, Schneider Electric agreed this week to purchase PTC, a company that makes product design tools, for $22.6 billion.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "芯片物理仿真公司Vinci获2.5亿美元融资，估值15亿美元",
+  "background": "AI芯片越做越大、功耗越来越高，散热与封装形变已成为性能瓶颈，而传统物理仿真（如有限元分析）耗时漫长。EDA市场长期由Cadence、Synopsys等巨头把持，它们也已推出各自的AI仿真工具。Vinci成立于2023年，2025年12月才走出隐身状态并融资4600万美元（种子轮+ A轮），不到一年估值就冲到15亿美元，成为“物理基础模型”赛道备受关注的新星。",
+  "key_points": [
+   "本轮融资2.5亿美元、估值15亿美元，由Advent、淡马锡和Xora Innovation领投，Eclipse、Khosla Ventures、Madrona等老股东继续跟投。",
+   "Vinci用基础模型预测芯片与硬件在设计建造前的物理行为，起步聚焦散热，正扩展到整系统仿真，后续将加入振动与电磁。",
+   "公司宣称模型比传统工具快1000倍且不损失精度，但该说法未经独立验证；全公司仅70人，CEO称当前重点是增长。",
+   "资金将用于购买算力、招聘员工和开发更多仿真产品，客户试点部署计划从2个扩大到20个。",
+   "它下一步将正面竞争Cadence和Synopsys；工程软件领域正加速整合，施耐德电气本周宣布以226亿美元收购PTC。"
+  ],
+  "impact": "对AI行业：这是“物理AI”从概念走向工业付费的重要信号，说明基础模型不止能处理文本图像，还能切入EDA这类高壁垒市场。对开发者：EDA仿真、热管理与AI4Science方向的岗位需求会上升，懂物理约束建模与GPU加速的人才更抢手。对普通用户：芯片设计迭代加快，长期有望压低AI算力成本，让模型训练与推理更便宜。",
+  "tools": "想跟进物理仿真+AI，可关注英伟达PhysicsNeMo（原Modulus）、开源框架DeepXDE、JAX-FEM、PhiFlow；工程落地侧可对比Ansys、Cadence Celsius热仿真与Synopsys的AI工具。"
+ },
+ "lang": "zh"
+}
