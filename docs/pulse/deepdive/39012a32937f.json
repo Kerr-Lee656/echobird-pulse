@@ -1,0 +1,24 @@
+{
+ "id": "39012a32937f",
+ "url": "https://mashable.com/tech/google-gemini-free-access-models-changing",
+ "title": "Google Gemini access is changing. Free users, take note.",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T01:18:43.552077+00:00",
+ "content": "Google Gemini access is changing. Free users, take note.\nGoogle is pulling back some Gemini app features for free users.\nThe company announced the change to its AI software suite in a support notice, spotted by 9to5google. Starting on Oct. 9, anyone using the Gemini app without a paid subscription will be limited to just the 3.5 Flash-Lite model, with access to the 3.6 Flash or 3.1 Pro models turned off. Additionally, those who pay $4.99/month for Google AI Plus will lose access to the Pro model, as well, but retain access to Flash-Lite and Flash.\nThat means if you want to maintain the same experience you've been having with a free account up until now, you'll have to pay at least $19.99/mo for a Google AI Pro subscription. Those who already pay for AI Pro, as a nice little bonus, will get access to the \"Deep Think\" option that was previously exclusive to even higher tiers of the service.\nYou May Also Like\nThis is not terribly surprising given how subscription-based services usually work on a long enough timeline. Features that were available to all users gradually become available to only some.\nGoogle has faced some AI challenges this year. Long-time Google DeepMind leader Demis Hassabis has transitioned into a new role, and it's unclear if the move was a promotion or a demotion. The company has also repeatedly failed to deliver on the promised Gemini 3.5 Pro model, originally set to be launched in June.\nBloomberg also reported recently on employee frustrations that Gemini 4 lags far behind rival models from Anthropic and OpenAI, the latest in a series of rumors about behind-the-scenes tensions in Google-land.\nAlex Perry is a tech reporter at Mashable who primarily covers video games and consumer tech. Alex has spent most of the last decade reviewing games, smartphones, headphones, and laptops, and he doesn’t plan on stopping anytime soon. He is also a Pisces, a cat lover, and a Kansas City sports fan. Alex can be found on Bluesky at yelix.bsky.social.",
+ "report": {
+  "summary": "谷歌10月9日起收紧Gemini免费版，免费用户仅剩轻量模型",
+  "background": "Gemini自推出以来一直以免费开放多款模型作为对抗ChatGPT的获客手段，但随着推理成本高企和订阅收入压力上升，谷歌开始重新划分付费墙。此次调整发生在谷歌AI的敏感期：DeepMind掌门人Demis Hassabis角色变动、承诺6月发布的Gemini 3.5 Pro迟迟未兑现，彭博社还报道内部员工对Gemini 4落后于Anthropic和OpenAI感到沮丧。免费用户降级、付费档位重排，本质是谷歌在技术追赶不力时优先保住营收的一次防守动作。",
+  "key_points": [
+   "从10月9日起，不付费的Gemini用户只能使用最轻量的3.5 Flash-Lite，Flash和Pro系列模型全部关闭。",
+   "月付4.99美元的Google AI Plus用户也被砍掉Pro模型权限，只能保留Flash-Lite和Flash两档。",
+   "想维持原先免费版体验，最低要升级到月付19.99美元的Google AI Pro，等于变相涨价。",
+   "付费AI Pro的用户则获得此前只有更高档位才能用的Deep Think深度推理功能，属于安抚性补偿。",
+   "背景是谷歌AI近期连遭挫折：Gemini 3.5 Pro跳票、Gemini 4被曝落后于OpenAI和Anthropic。"
+  ],
+  "impact": "对AI行业而言，这是头部厂商公开承认免费大模型时代难以持续的又一信号，可能带动其他厂商跟进收紧免费额度。对开发者来说，依赖免费Gemini API或应用做原型和轻量生产的成本将上升，需要提前评估迁移到开源模型或其他厂商的方案。对普通用户，日常问答和写作仍可用免费轻量模型应付，但涉及长文档分析、复杂推理的任务体验会明显下降，要么付费，要么转向竞品免费额度。",
+  "tools": "想低成本替代可关注Google AI Studio的免费API额度、开源模型如Llama、Qwen、DeepSeek，以及本地部署工具Ollama、LM Studio；也可用OpenRouter这类聚合平台对比各家的免费与低价模型，避免被单一厂商的付费墙锁死。"
+ },
+ "lang": "zh"
+}

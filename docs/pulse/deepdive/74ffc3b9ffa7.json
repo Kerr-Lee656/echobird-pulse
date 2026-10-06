@@ -1,0 +1,23 @@
+{
+ "id": "74ffc3b9ffa7",
+ "url": "https://thenextweb.com/news/apple-full-disk-access-ai-agents-mac",
+ "title": "Apple adds new Full Disk Access controls on Macs because of AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T01:19:23.061582+00:00",
+ "content": "Apple will add new controls to Full Disk Access on the Mac. Users will only be able to give an app that level of access “with very explicit user action”. The company announced the change on its developer news site on Friday and said AI agents were the reason.\n“As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially,” Apple wrote.\nApple said Full Disk Access largely sidesteps the privacy controls on its platforms so that backup apps can work. Some developers are using it in ways that expose files, mail, messages and browsing history, the company said. Users do not always fully know or understand this, according to Apple. For communication apps, it added, this can also compromise the privacy of the people users talk to.\nApple did not say when the new controls will arrive or how they will work. It did not name any app or developer.\nWhat the setting unlocks\nThe setting sits under Privacy & Security in System Settings, Apple’s support guide shows. Mac security researcher Patrick Wardle described its reach to Dan Goodin of Ars Technica.\n“From a technical point of view, with FDA (full-disk access), any (non-root file), is readable, browsing history, browser cookies, chats, etc etc etc,” Wardle told Ars Technica.\nAgents on the Mac\nApple’s post came days after an Inc. columnist said Meta’s Muse knew the contents of his messages. Meta has denied it. Amazon had already blocked Muse from its platform in September.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果收紧Mac完全磁盘访问权限，原因指向AI代理风险",
+  "background": "Mac的完全磁盘访问（FDA）原本主要让备份类应用绕过隐私限制，可读取任意非root文件、浏览历史、Cookie和聊天记录。随着AI代理变得更自主，苹果认为这类系统级权限风险会大幅上升。近期Meta的Muse被指读取用户消息，Meta否认，Amazon九月已封禁Muse；苹果随即宣布将新增更严格的FDA授权控制，但未给出时间表和实现细节。",
+  "key_points": [
+   "苹果将在Mac的“完全磁盘访问”中加入新控制，应用必须通过用户“非常明确的操作”才能获得该权限。",
+   "官方理由直指AI代理：它们越来越有能力且自主，若掌握FDA，可读取文件、邮件、信息和浏览历史等敏感数据。",
+   "FDA原本为备份应用绕过隐私控制而设，但部分开发者滥用；用户往往不知道授权范围，通信应用还可能泄露聊天对象隐私。",
+   "苹果未公布新控制何时上线、如何运作，也未点名任何App或开发者，政策细节仍待观察。"
+  ],
+  "impact": "对AI行业，系统级权限将更难默认获得，代理产品需转向更细粒度、可审计的授权模型。开发者要适配新流程，避免依赖FDA静默读取；备份、安全和AI助手类工具可能受直接影响。普通用户隐私更可控，但会面对更多授权弹窗，部分AI功能可能因权限不足而受限。",
+  "tools": "可关注macOS“隐私与安全性”中的FDA开关；Objective-See的KnockKnock、LuLu可审计异常权限与网络连接；开发者可研究App Sandbox、TCC和Endpoint Security API，以及MCP等代理权限边界。"
+ },
+ "lang": "zh"
+}

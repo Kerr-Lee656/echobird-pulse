@@ -1,0 +1,23 @@
+{
+ "id": "3e83c9b3f837",
+ "url": "https://daily.dev/posts/ai-in-mathematics-challenges-academic-norms-wgozf6vj3",
+ "title": "OpenAI claims Navier-Stokes Millennium Prize solution as mathematicians push back",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-06T01:19:55.943534+00:00",
+ "content": "AI labs including OpenAI, Anthropic, and Google are rapidly advancing automated mathematical reasoning, with OpenAI claiming to have solved the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize Problems. At the Heidelberg Laureate Forum, mathematicians including Fields Medalists Peter Scholze and Geordie Williamson criticized OpenAI's conduct around the announcement as coercive and PR-driven, while raising broader concerns about how AI is reshaping mathematical research, hiring, education, and the financial burden on researchers who feel pressured to pay for LLM subscriptions to keep pace with peers.\nTable of contents\nTech Giants Target the Millennium ProblemsWhy OpenAI’s Navier–Stokes solution became a controversyAcademia under pressure\nQuestions this post answers\nDid OpenAI actually solve the Navier-Stokes existence and smoothness problem?\nOpenAI announced it had solved the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize Problems, but the claim remains unverified by the mathematics community. Fields Medalist Jacob Tsimerman called the achievement seemingly definitive, while others, including Peter Scholze, suggested the announcement was more a PR stunt than a validated breakthrough. Follow daily.dev for updates as the mathematics community verifies or disputes major AI research claims.\nWhy are mathematicians upset with OpenAI over its math problem announcements?\nMathematicians including Fields Medalists Peter Scholze and Geordie Williamson criticized OpenAI for behaving poorly and disrupting disciplinary norms. Mathematician Tristan Buckmaster claimed OpenAI sent correspondence to a colleague that appeared coercive, censorious, and even threatening while he was independently working on the same Navier-Stokes problem with Anthropic researcher Levent Alpöge. Researchers navigating AI labs encroaching on their work can track this drama on daily.dev.\nWhich Millennium Prize Problem might AI companies solve next after Navier-Stokes?\nAnthropic has used an unreleased version of Claude to attempt the Riemann hypothesis, making progress on a related problem but not solving the main conjecture as of August. OpenAI is reportedly focusing its efforts on the Hodge conjecture, another of the seven Millennium Prize Problems, following its Navier-Stokes claim. daily.dev readers tracking the AI-versus-mathematics race can follow which problem falls next.",
+ "report": {
+  "summary": "OpenAI宣称破解纳维-斯托克斯千禧难题，数学家质疑其胁迫与炒作",
+  "background": "千禧年七大难题各悬赏100万美元，纳维-斯托克斯方程解的存在性与光滑性是其中之一，悬置近百年。近年OpenAI、Anthropic、Google大举投入自动化数学推理，把攻克顶级难题当作能力证明与公关素材。在海德堡桂冠论坛上，菲尔兹奖得主Peter Scholze、Geordie Williamson公开批评OpenAI的宣布方式带有强迫性与公关导向；有数学家称OpenAI曾向正在独立研究同一问题的同行发送看似胁迫、审查甚至威胁的信函，由此引爆争议。",
+  "key_points": [
+   "OpenAI宣布解决了纳维-斯托克斯存在性与光滑性问题，但结论尚未经数学界验证。菲尔兹奖得主Tsimerman称其\"看起来确凿\"，Scholze则认为更像公关表演而非已证实的突破。",
+   "争议核心不只是结论真假，还有沟通方式。数学家Tristan Buckmaster称OpenAI在他人独立研究同一问题时发出的信件带有胁迫、审查甚至威胁意味，被批破坏学科规范。",
+   "竞赛已外溢到其他千禧难题：Anthropic用未发布版Claude冲击黎曼猜想并取得相关进展，OpenAI据称转向霍奇猜想，AI实验室正把七大难题变成路线图。",
+   "学术生态承压：研究者感到必须自掏腰包订阅大模型才能跟上同行，AI也在重塑数学界的招聘、教育与经费分配，年轻学者的处境尤为微妙。"
+  ],
+  "impact": "对AI行业，自动化数学推理已成为新的信誉战场，未经验证的\"宣称\"会加剧信任赤字，也倒逼社区建立形式化验证与同行评审标准。对开发者，数学推理能力提升会外溢到更强的推理模型与定理证明工具，但要学会区分营销噪音与技术实质。对普通用户，\"AI破解世纪难题\"的消息将反复出现，需辨明宣称与已发表结论的差别，数学教育与科研训练也可能因此加速AI化。",
+  "tools": "想跟进可关注Lean 4与mathlib、Google DeepMind的AlphaProof与AlphaGeometry、Metamath、Isabelle等交互式证明助手，以及Anthropic Claude的数学推理模式。它们的价值在于把AI给出的证明转成机器可检查的形式化代码，从而判断突破是真是假。"
+ },
+ "lang": "zh"
+}

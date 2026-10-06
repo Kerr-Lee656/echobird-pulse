@@ -1,0 +1,24 @@
+{
+ "id": "6c458078e631",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+ "title": "OpenAI is sticking more ads in ChatGPT",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-06T01:18:37.256043+00:00",
+ "content": "OpenAI’s latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will “initially” appear when you generate images with ChatGPT, according to an announcement on Monday.\nOpenAI is sticking more ads in ChatGPT\nThe visual ads will ‘initially’ appear when you generate images using ChatGPT.\nThe company first brought ads to ChatGPT in February. Until now, ChatGPT’s ads only showed a company’s name, logo, and a link to its product in a “sponsored” section beneath your chat. OpenAI’s visual ad format will similarly remain separate from the image you generate and will “not influence the answers ChatGPT provides.” Ads won’t appear if you subscribe to ChatGPT’s Plus, Pro, or Enterprise plans.\nOpenAI notes that it has guardrails in place to determine when a conversation is “appropriate” for ads, with the goal of keeping them out of “emotionally vulnerable, sensitive, or otherwise unsuitable contexts.” The company says it’s testing visual ads with an “initial group of advertisers,” and plans to try out new formats in the future.",
+ "report": {
+  "summary": "OpenAI本月起在ChatGPT测试图像生成视觉广告",
+  "background": "OpenAI此前已在ChatGPT中引入广告，最初只在聊天下方“赞助”区展示品牌名、Logo和产品链接。如今其广告策略升级，计划本月晚些时候在美国测试视觉广告，在用户生成图片时展示赞助商品或服务图片。这反映生成式AI商业化压力：推理成本高、免费用户多，OpenAI需拓展广告收入，同时避免损害回答可信度。竞争上，Google、Perplexity等也在探索AI助手广告，行业正进入变现试验期。",
+  "key_points": [
+   "新广告形式是视觉广告，会在用户用ChatGPT生成图片时展示赞助商品或服务图片，本月晚些时候在美国开始测试。",
+   "视觉广告与生成图片分离，OpenAI称不会影响ChatGPT给出的回答，并会设置护栏避免出现在敏感、情绪脆弱等场景。",
+   "此前广告只在聊天下方“赞助”区展示品牌名、Logo和链接；视觉广告是广告位从文字向图像媒介扩展。",
+   "Plus、Pro、Enterprise订阅用户不会看到广告，免费或低价用户成为广告变现重点。",
+   "OpenAI正与首批广告主测试，并计划未来推出更多广告格式，说明广告产品化仍在快速迭代。"
+  ],
+  "impact": "对AI行业，这意味着生成式AI助手广告从文字链接走向原生视觉，可能加剧Google、Perplexity等同类产品的商业化竞争。对开发者，若依赖ChatGPT消费端，需关注广告是否影响体验及API是否独立；图像生成场景也可能出现品牌内容规范。对普通用户，免费版可能看到更多商品图，但订阅可去广告；OpenAI承诺广告不影响回答，但信任与隐私边界仍待观察。",
+  "tools": "若想跟进，可关注OpenAI官方公告、ChatGPT定价与广告政策；想减少广告可考虑订阅Plus/Pro/Enterprise。开发者可关注API是否受影响，并评估Claude、Gemini、Llama、Mistral、Ollama、ComfyUI等替代或本地化方案。"
+ },
+ "lang": "zh"
+}

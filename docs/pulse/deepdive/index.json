@@ -14101,5 +14101,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-05T15:56:14.551Z",
   "fetched_at": "2026-10-05T19:19:12.269396+00:00"
+ },
+ "6c458078e631": {
+  "id": "6c458078e631",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+  "title": "OpenAI is sticking more ads in ChatGPT",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:18:37.256043+00:00"
+ },
+ "39012a32937f": {
+  "id": "39012a32937f",
+  "url": "https://mashable.com/tech/google-gemini-free-access-models-changing",
+  "title": "Google Gemini access is changing. Free users, take note.",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:18:43.552077+00:00"
+ },
+ "74ffc3b9ffa7": {
+  "id": "74ffc3b9ffa7",
+  "url": "https://thenextweb.com/news/apple-full-disk-access-ai-agents-mac",
+  "title": "Apple adds new Full Disk Access controls on Macs because of AI agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:19:23.061582+00:00"
+ },
+ "0188afbf15d5": {
+  "id": "0188afbf15d5",
+  "url": "https://www.techradar.com/pro/security/google-benches-open-source-bug-bounty-program-following-significant-rise-in-ai-submissions",
+  "title": "Google benches open source bug bounty program following ‘significant rise’ in AI submissions",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:19:30.160968+00:00"
+ },
+ "d2b5b29b4c81": {
+  "id": "d2b5b29b4c81",
+  "url": "https://openai.com/index/eu-text-provenance",
+  "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:19:39.557730+00:00"
+ },
+ "3765ae4437d9": {
+  "id": "3765ae4437d9",
+  "url": "https://news.mydrivers.com/1/1155/1155453.htm",
+  "title": "英伟达苹果微软集体上门！英特尔 14A 工艺被曝接受评估：正面硬刚台积电",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:19:47.308037+00:00"
+ },
+ "3e83c9b3f837": {
+  "id": "3e83c9b3f837",
+  "url": "https://daily.dev/posts/ai-in-mathematics-challenges-academic-norms-wgozf6vj3",
+  "title": "OpenAI claims Navier-Stokes Millennium Prize solution as mathematicians push back",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-06T01:19:55.943534+00:00"
+ },
+ "c45d7310818a": {
+  "id": "c45d7310818a",
+  "url": "https://www.ithome.com/1/009/901.htm",
+  "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-05T15:01:59Z",
+  "fetched_at": "2026-10-06T01:20:04.618510+00:00"
  }
 }
