@@ -5254,5 +5254,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-05T17:53:45Z",
   "fetched_at": "2026-10-05T19:22:40.205479+00:00"
+ },
+ "548c77717683": {
+  "id": "548c77717683",
+  "url": "https://github.com/deepseek-ai/DeepGEMM",
+  "title": "deepseek-ai/DeepGEMM — DeepGEMM: clean and efficient BLAS kernel library on GPU",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-07T05:53:31.319312+00:00"
+ },
+ "c53347638b89": {
+  "id": "c53347638b89",
+  "url": "https://github.com/omnigent-ai/omnigent",
+  "title": "omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-07T05:53:42.479380+00:00"
+ },
+ "9416b01a853f": {
+  "id": "9416b01a853f",
+  "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+  "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-07T04:55:44.000Z",
+  "fetched_at": "2026-10-07T05:54:25.990740+00:00"
+ },
+ "3d4487a11ba1": {
+  "id": "3d4487a11ba1",
+  "url": "https://arxiv.org/abs/2610.07026",
+  "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-07T04:00:00.000Z",
+  "fetched_at": "2026-10-07T05:55:03.387283+00:00"
+ },
+ "a965fdf26304": {
+  "id": "a965fdf26304",
+  "url": "https://arxiv.org/abs/2610.07118",
+  "title": "AMBER: Training Long-Horizon Web Agents through Append-Only Memory",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-07T04:00:00.000Z",
+  "fetched_at": "2026-10-07T05:55:11.312072+00:00"
+ },
+ "d2f9434c1628": {
+  "id": "d2f9434c1628",
+  "url": "https://arxiv.org/abs/2610.07257",
+  "title": "MemMux: Runtime Verification and Honest Resource Attribution for Fleets of Parallel Coding Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-07T04:00:00.000Z",
+  "fetched_at": "2026-10-07T05:55:34.954092+00:00"
  }
 }
