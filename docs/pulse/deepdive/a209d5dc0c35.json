@@ -1,0 +1,24 @@
+{
+ "id": "a209d5dc0c35",
+ "url": "https://github.com/openai/math",
+ "title": "OpenAI 发布数学研究目录",
+ "source": "github.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-07T03:59:52.393Z",
+ "fetched_at": "2026-10-07T13:17:00.635612+00:00",
+ "content": "This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model.\nAs part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated. Some outputs build upon earlier results produced by the models.\nThis collection includes results at different stages of verification. Not all have accompanying Lean formalizations. We will continue to update this repository with Lean formalizations as we obtain them.\nSome of the unformalized results could have issues. We will endeavor to fix any such issues quickly. We are also exploring community-hosted repositories for these materials.\nThe current catalogue contains 722 manuscripts organized into 372 families. A family groups related papers, which may include a principal result, companion arguments, consequences, or alternative proofs. Each family is classified by mathematical discipline.\n- Start with the overview for descriptions of the families.\n- Use the manuscript map to find individual papers and their supporting materials.\n- The preprints/ directory contains PDFs, source files, and manuscript-specific citation and build instructions.\n- The Lean library and formalization catalogue describe the available formal proofs, their associated papers, and verification configurations. See the Comparator instructions for additional checking instructions. Many, but not all, of the manuscripts have been formalized.\nWe are also releasing abridged summaries of the model's reasoning, covering the following results:\nThe vast majority of results were obtained with the same procedure using an unreleased internal OpenAI model. On average, each result used three hours of ChatGPT Pro thinking compute with that model. Over the course of the evaluation, the model was posed approximately 4,000 problems. Aggregating the output into result families and manuscripts and requiring an appropriate level of significance led to the catalog outlined above.\nExceptions to this fixed procedure include work on a zero-free region for the Riemann zeta function and proof of the Hodge Conjecture for CM abelian varieties. Additionally, the writeup for the Re(s) > 11/12 zero-free region for the Riemann zeta function was human edited for readability.\nWe will preserve the public release history of this collection. Corrections and revisions will be recorded as new versions, with previously released versions remaining accessible.\nTo cite the individual manuscript, use the BibTeX block in its directory.",
+ "report": {
+  "summary": "OpenAI公开722篇AI数学手稿，部分附Lean证明",
+  "background": "OpenAI在数学评测基准逐渐饱和后，转向用内部模型挑战开放研究问题。该模型在约4000个问题上运行，平均每个结果消耗约3小时ChatGPT Pro思考算力，最终产出722篇手稿、归为372个家族。仓库同时发布部分Lean形式化证明，但不少结果尚未验证，甚至可能存在问题。此举延续了AI辅助数学研究的热潮，也把大模型评测推向研究级难题。",
+  "key_points": [
+   "仓库收录722篇数学手稿，分为372个家族，按数学分支分类，每家族可含主结果、伴随论证、推论或替代证明。",
+   "成果主要由未公开的内部OpenAI模型生成，平均每个结果约3小时ChatGPT Pro思考算力，共尝试约4000个问题。",
+   "验证程度不一：许多手稿有Lean形式化，但并非全部；未形式化结果可能出错，OpenAI称会快速修正并探索社区托管。",
+   "包含黎曼ζ函数无零点区域、CM阿贝尔簇霍奇猜想等结果，其中ζ函数文稿经人工编辑，霍奇猜想工作偏离固定流程。",
+   "仓库保留公开版本历史，修正以新版本记录，旧版仍可访问，方便引用、复现和追踪。"
+  ],
+  "impact": "对AI行业，这标志评测从竞赛题转向开放研究问题，可能引发“AI数学家”竞赛和验证标准讨论。对开发者，Lean等形式化工具链价值上升，自动验证、文献管理与复现流水线将成为新基础设施。对普通用户，数学研究门槛或降低，但未经形式化的AI草稿不能当定论，需保持审慎。",
+  "tools": "想跟进可关注GitHub的openai/math仓库及其Comparator说明，学习Lean 4与mathlib进行形式化验证，配合GitHub版本管理追踪修订；也可用LeanDojo、Pantograph等工具探索自动证明与交互式验证。"
+ },
+ "lang": "zh"
+}

@@ -14290,5 +14290,32 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-06T22:40:39.335070+00:00"
+ },
+ "31957b3da098": {
+  "id": "31957b3da098",
+  "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+  "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+  "source": "www.techspot.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-07T04:32:45.585Z",
+  "fetched_at": "2026-10-07T13:16:51.625857+00:00"
+ },
+ "a209d5dc0c35": {
+  "id": "a209d5dc0c35",
+  "url": "https://github.com/openai/math",
+  "title": "OpenAI 发布数学研究目录",
+  "source": "github.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-07T03:59:52.393Z",
+  "fetched_at": "2026-10-07T13:17:00.635612+00:00"
+ },
+ "a8271cee35d5": {
+  "id": "a8271cee35d5",
+  "url": "https://www.ithome.com/1/010/180.htm",
+  "title": "内存持续短缺之际，AMD CEO 苏姿丰将与三星芯片部门负责人会面",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-07T03:41:15Z",
+  "fetched_at": "2026-10-07T13:17:07.204490+00:00"
  }
 }

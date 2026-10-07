@@ -1,0 +1,24 @@
+{
+ "id": "31957b3da098",
+ "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+ "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+ "source": "www.techspot.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-07T04:32:45.585Z",
+ "fetched_at": "2026-10-07T13:16:51.625857+00:00",
+ "content": "A hot potato: Being a doctor is one of the jobs expected to be least at risk from AI replacement. But a new program launched in Utah is raising questions over that assumption. A healthcare startup will begin offering AI examinations and prescriptions to patients without direct human oversight, making Utah the first state to replace a doctor with an AI.\nThe good news is that the program is currently very limited in its scope. It's just one year long and only for patients with mild-to-moderate acne.\nThe process works when a person signs up for Nolla Health's $4.99-per-month app and uses it to scan their face. After completing a medical history and personal information form, the AI analyzes their skin, identifies the acne problem, rates the skin's oiliness, and then generates a numerical acne severity score that ranges between clear skin and severe acne, reports Bloomberg.\nThe AI then combines that score with the provided medical information to recommend medication from a list of eight approved treatments.\nWhile the program will eventually become fully automated, the first 100 prescriptions will have to be reviewed by actual doctors before they are submitted to the pharmacy.\nIn the second phase, the next 400 patients will have their prescriptions submitted to pharmacies by the AI and reviewed retrospectively by a physician weekly.\nThe final phase will involve a doctor reviewing at least 10% of the total prescriptions issued once a month.\nWe've repeatedly seen the dangers of putting your trust in AI when it comes to medical/healthcare advice. One of the more famous cases came last year when a 60-year-old man took ChatGPT's advice and replaced the salt in his diet with sodium bromide, causing bromism, a psychiatric disorder not commonly seen since the 19th century.\nIn March, Google quietly dropped an AI-powered search feature called What People Suggest, which offered crowdsourced health advice from people who share similar medical conditions or experiences. The move came just a couple of months after the company removed several of its AI Overviews following a report that found inaccurate information was being shown to users, potentially putting their health at risk.\nIn the case of Nolla Health, CEO Luis Wenus said the adverse effects of the eight approved medications are limited to localized skin irritation or dryness. The prescriptions are also limited to topical medications rather than pills.\nWhile this is a small program, it could be the very first step toward AI taking the place of doctors, or at least being used to treat less serious conditions in patients.",
+ "report": {
+  "summary": "犹他州成美国首个允许AI在无医生监督下诊断并开处方的州。",
+  "background": "医生长期被视为最不容易被AI取代的职业之一，而AI给出的健康建议此前屡屡出事：有男子听信ChatGPT用溴化钠代替食盐导致精神障碍，谷歌也因信息不准确下线了健康类AI搜索功能。在此背景下，犹他州批准初创公司Nolla Health开展为期一年的试点，仅限轻中度痤疮、仅限外用药，并通过分阶段方式逐步减少人类医生介入。这被视为AI首次真正踏入临床决策环节，也是医疗监管的一次小范围压力测试。",
+  "key_points": [
+   "试点范围极小：为期一年，仅面向轻中度痤疮患者，处方仅限八种外用药，副作用限于局部皮肤刺激或干燥。",
+   "就诊流程：用户每月付4.99美元，用App扫描面部并填写病史，AI评估皮肤出油度、给出痤疮严重度评分并推荐药物。",
+   "分三阶段放权：前100份处方由医生审核，随后400份由AI直发药、医生每周回顾，最终阶段医生每月只抽查至少10%。",
+   "AI健康建议此前屡屡翻车：有男子听信ChatGPT用溴化钠代替食盐致病，谷歌也因信息不准确下线了健康类AI搜索功能。",
+   "意义重大：这是“AI替代医生”从假设变成现实的第一个落地样本，尽管目前只是最轻微的场景。"
+  ],
+  "impact": "对AI行业而言，医疗是监管最严、容错最低的领域，犹他州“分阶段放权＋事后抽查”的模式可能被其他州乃至其他国家借鉴。对开发者，医疗AI正从“辅助工具”走向“自主决策”，可解释性、审计日志、责任界定将成为合规硬要求。对普通用户，轻症就医有望更便宜便捷，但AI出错后的责任认定与法律救济仍不清晰，短期内不宜把严肃医疗决策完全交给算法。",
+  "tools": "想跟进可关注皮肤影像开源数据集（ISIC档案、HAM10000）用于模型训练，医疗多模态模型如Google MedGemma、微软Healthcare AI；合规侧可研究FDA的SaMD与预定变更控制计划（PCCP）、HIPAA数据处理规范。"
+ },
+ "lang": "zh"
+}
