@@ -1,0 +1,24 @@
+{
+ "id": "9b131903e487",
+ "url": "https://www.businessinsider.com/jamie-dimon-anthropics-mythos-supercharged-ai-cybersecurity-risks-2026-10",
+ "title": "杰米·戴蒙表示，Anthropic公司的Mythos大幅加剧了人工智能网络安全风险",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-07T04:47:56.065Z",
+ "fetched_at": "2026-10-07T19:59:22.603057+00:00",
+ "content": "JPMorgan Chase CEO Jamie Dimon said Anthropic's Mythos AI model has dramatically raised cybersecurity risks.\nThe risks \"went up 10-fold after Mythos,\" Dimon told Bloomberg TV on Tuesday.\n\"AI created vulnerabilities that we didn't know about, and we always worried about cyber before these things,\" he added.\nThe JPMorgan CEO has long described cybersecurity as one of the bank's biggest risks, making his latest comments notable as the tech industry grapples with the implications of advanced AI models.\nDimon is the latest prominent business leader to warn about the risks posed by increasingly powerful AI systems.\nHis comments come as frontier AI developers face heightened scrutiny over the safety of their most advanced models.\nIn recent weeks, AI researchers, technology executives, and some lawmakers have renewed calls for stronger international cooperation to reduce the risk of catastrophic misuse of advanced AI.\nThe debate has intensified after Anthropic and OpenAI disclosed separate incidents during safety testing in recent months that raised new questions about how reliably their most capable AI models can be controlled.\nThe incidents have also fueled calls from some AI researchers and executives to slow the development of frontier AI models until stronger safety safeguards are in place.\nDimon said those risks are real but argued they should be met with practical safeguards rather than panic.\n\"The downside is obviously what you read about with the agents and Mythos and all these things that can cause trouble, and that's a legitimate concern, it's a real thing,\" he said.\n\"I'm not going to get hysterical over, 'Is it existential or not?' What we're doing is rolling up our sleeves and going to work to fix it,\" he said.",
+ "report": {
+  "summary": "戴蒙称Anthropic的Mythos模型令网络安全风险激增十倍",
+  "background": "摩根大通CEO杰米·戴蒙长期把网络安全列为银行业最大风险之一。他在近日彭博电视采访中表示，Anthropic的Mythos模型让网络攻击风险「上升了十倍」，因为AI能找出此前无人知晓的漏洞。此番表态出现在前沿AI安全争议升温之际：Anthropic与OpenAI近期分别披露了安全测试中出现的失控事件，研究人员、科技高管与部分议员因此呼吁加强国际协作，甚至主张在更完善的安全保障到位前放慢前沿模型的开发节奏。金融业最高层直接点名具体模型，尚属首次。",
+  "key_points": [
+   "戴蒙称Mythos让网络安全风险「翻了十倍」，核心原因是AI能自动发现人类此前不知道的系统漏洞。",
+   "他认为风险真实存在，但主张「卷起袖子」用务实防护去解决，而不是陷入「是否关乎人类存亡」的恐慌。",
+   "表态背景是AI安全信任危机：Anthropic和OpenAI近期各自披露安全测试中的事故，引发对模型可控性的质疑。",
+   "业界与部分议员借机呼吁国际协作，甚至要求暂缓最先进模型的研发，直到安全护栏足够牢靠。",
+   "摩根大通一向把网络攻击视为头号风险，这次是华尔街高管罕见地直接点名一款具体AI模型。"
+  ],
+  "impact": "对AI行业，安全评测与发布前审查可能从自律变成硬性门槛，前沿实验室将承受更强的外部监督与合规压力。对开发者，用强大模型做渗透测试、漏洞挖掘等「双刃剑」场景会面临权限、审计与责任归属的新约束。对普通用户，银行、医疗等关键服务可能遭遇更多AI辅助的精准诈骗与数据泄露，但漏洞被发现和修补的速度也有望同步加快。",
+  "tools": "想跟进可关注：AI红队与漏洞探测工具Garak、开源模型评测框架OpenAI Evals、传统扫描器OWASP ZAP与Burp Suite，以及OWASP LLM Top 10风险清单。它们能帮助团队把AI系统纳入常规安全审计与上线前测试流程。"
+ },
+ "lang": "zh"
+}

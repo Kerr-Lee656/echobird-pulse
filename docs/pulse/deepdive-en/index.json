@@ -5308,5 +5308,32 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-07T04:00:00.000Z",
   "fetched_at": "2026-10-07T05:55:34.954092+00:00"
+ },
+ "87bc053b33d0": {
+  "id": "87bc053b33d0",
+  "url": "https://news.ycombinator.com/item?id=49997654",
+  "title": "Claude Agents SDK will no longer use subscription; API credits included in plans",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-07T19:28:50Z",
+  "fetched_at": "2026-10-07T20:01:10.313498+00:00"
+ },
+ "bf5dffd7d1d2": {
+  "id": "bf5dffd7d1d2",
+  "url": "https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6",
+  "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
+  "source": "Artificial Analysis",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-07T19:12:16.000Z",
+  "fetched_at": "2026-10-07T20:01:20.749937+00:00"
+ },
+ "e0f461e24830": {
+  "id": "e0f461e24830",
+  "url": "https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd",
+  "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+  "source": "NVIDIA Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-07T18:45:28.000Z",
+  "fetched_at": "2026-10-07T20:01:50.661164+00:00"
  }
 }

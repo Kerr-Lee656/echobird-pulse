@@ -14317,5 +14317,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-07T03:41:15Z",
   "fetched_at": "2026-10-07T13:17:07.204490+00:00"
+ },
+ "9b131903e487": {
+  "id": "9b131903e487",
+  "url": "https://www.businessinsider.com/jamie-dimon-anthropics-mythos-supercharged-ai-cybersecurity-risks-2026-10",
+  "title": "杰米·戴蒙表示，Anthropic公司的Mythos大幅加剧了人工智能网络安全风险",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-07T04:47:56.065Z",
+  "fetched_at": "2026-10-07T19:59:22.603057+00:00"
+ },
+ "9569054c2de0": {
+  "id": "9569054c2de0",
+  "url": "https://www.ithome.com/1/010/187.htm",
+  "title": "“AI 教父”辛顿提议 AI 行业建立 FDA 式审批机制：模型推出前需通过安全审核",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-07T04:32:57Z",
+  "fetched_at": "2026-10-07T19:59:31.931226+00:00"
+ },
+ "63b8bea92059": {
+  "id": "63b8bea92059",
+  "url": "https://www.ithome.com/1/010/177.htm",
+  "title": "“非洲手机之王”传音控股拟赴港上市：最高募资 33.6 亿港元，加码 AI 研发",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-07T03:21:11Z",
+  "fetched_at": "2026-10-07T19:59:40.509103+00:00"
+ },
+ "424fd73a3e51": {
+  "id": "424fd73a3e51",
+  "url": "https://slashdot.org/story/26/10/06/2055209/hubspot-cuts-660-jobs-in-ai-restructuring",
+  "title": "HubSpot Cuts 660 Jobs In AI Restructuring",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-07T19:59:49.591177+00:00"
  }
 }

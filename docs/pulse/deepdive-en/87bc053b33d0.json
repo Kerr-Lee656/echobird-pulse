@@ -1,0 +1,24 @@
+{
+ "id": "87bc053b33d0",
+ "url": "https://news.ycombinator.com/item?id=49997654",
+ "title": "Claude Agents SDK will no longer use subscription; API credits included in plans",
+ "source": "Hacker News (3pts, 2c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-10-07T19:28:50Z",
+ "fetched_at": "2026-10-07T20:01:10.313498+00:00",
+ "content": "Update October 7, 2026: The Agent SDK monthly credit announced in June is no longer available. Claude Max and Team plans now include monthly API credits, which cover the Claude Agent SDK, the Claude API, and Claude Managed Agents. Claim them into a Claude Console organization and use them with an API key from that organization. Learn more about monthly API credits for Max and Team plans.\nLink to updated guidance (today, Oct 7): https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan\nLink to plans: https://support.claude.com/en/articles/17154008",
+ "report": {
+  "summary": "Anthropic replaces the Claude Agent SDK monthly credit with plan-included API credits, requiring Max and Team users to claim credits in Claude Console.",
+  "background": "Anthropic previously offered an Agent SDK monthly credit announced in June, giving subscribers a way to build with Claude agents under their plan. The October update removes that standalone credit and folds API usage into Max and Team subscriptions as monthly API credits. This reflects a broader industry tension: AI agent SDKs can consume variable compute, so flat subscriptions are hard to sustain. Providers increasingly bundle credits with plans while routing usage through API keys and Console organizations for metering, governance, and cost control. The change affects developers who relied on subscription access and now must manage credits, orgs, and API keys.",
+  "key_points": [
+   "The standalone Agent SDK monthly credit announced in June is discontinued. In its place, Claude Max and Team plans include monthly API credits. These credits are not auto-applied to every session; users must claim them into a Claude Console organization before building with the Agent SDK.",
+   "The included credits cover three surfaces: the Claude Agent SDK, the standard Claude API, and Claude Managed Agents. That means one credit pool can fund both custom agent development and managed agent workloads, simplifying billing for teams that mix direct API calls with agent frameworks.",
+   "Access now requires an API key from the Claude Console organization where credits are claimed. A Max or Team subscription alone is no longer the direct access path for Agent SDK usage. Developers need to set up or link a Console org and manage keys, quotas, and billing there.",
+   "The change mainly affects Max and Team subscribers who build agents. Regular Claude chat users may see little difference, but developers lose the previous subscription-based convenience and must adopt API-style credit management, monitoring, and possibly new internal governance workflows.",
+   "Anthropic published updated guidance and plan links on October 7. The practical takeaway is to claim credits early, confirm which org and API key are tied to them, and monitor consumption because Agent SDK workloads can burn credits faster than chat usage."
+  ],
+  "impact": "For the AI industry, Anthropic's move reinforces a shift from flat-rate AI subscriptions to metered, credit-based access for agentic workloads. Developers gain a unified API credit pool but must handle Console organizations, API keys, and usage limits, adding setup and governance overhead. Teams can better track costs, yet hobbyists and small builders may find the new flow less frictionless. For regular users, chat access likely remains unchanged, but agent-powered features may become more usage-sensitive. Enterprises should update procurement and internal docs, while tooling vendors can expect demand for credit monitoring, key management, and multi-provider routing. Overall, it signals that agent SDKs are being treated as API products, not subscription perks.",
+  "tools": "Watch Anthropic's Claude Console for claiming and managing credits, the Claude Agent SDK docs for migration steps, and Claude Managed Agents for hosted agent workflows. For multi-provider control, consider LiteLLM or OpenRouter to route API keys and track spend; Langfuse or Helicone can add observability. Open-source agent frameworks like LangChain, CrewAI, and OpenAI Agents SDK remain useful comparisons for teams evaluating lock-in and cost."
+ },
+ "lang": "en"
+}
