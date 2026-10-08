@@ -14551,5 +14551,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-08T05:25:26Z",
   "fetched_at": "2026-10-08T13:24:54.363735+00:00"
+ },
+ "5a1005f7273c": {
+  "id": "5a1005f7273c",
+  "url": "https://www.aibase.com/zh/news/31476",
+  "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T19:56:13.569255+00:00"
+ },
+ "eb2de2000a93": {
+  "id": "eb2de2000a93",
+  "url": "https://www.gelonghui.com/live/2701941",
+  "title": "美国联邦贸易委员会指控 Cleo AI 误导消费者，将返还 1580 万美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T19:56:25.293237+00:00"
+ },
+ "ef2cb5de66af": {
+  "id": "ef2cb5de66af",
+  "url": "https://www.aibase.com/zh/news/31475",
+  "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T19:56:38.187755+00:00"
+ },
+ "3352789a7838": {
+  "id": "3352789a7838",
+  "url": "https://www.aibase.com/news/31476",
+  "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-08T16:21:11.415Z",
+  "fetched_at": "2026-10-08T19:57:01.962327+00:00"
  }
 }

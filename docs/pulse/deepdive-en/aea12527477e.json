@@ -1,0 +1,24 @@
+{
+ "id": "aea12527477e",
+ "url": "https://github.com/dyad-sh/dyad",
+ "title": "dyad-sh/dyad — Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+ "source": "GitHub Trending",
+ "site_name": "GitHub Trending",
+ "published_at": null,
+ "fetched_at": "2026-10-08T19:57:43.569426+00:00",
+ "content": "Dyad is a local, open-source AI app builder. It's fast, private, and fully under your control — like Lovable, v0, or Bolt, but running right on your machine.\nMore info at: https://dyad.sh/\n- ⚡️ Local: Fast, private and no lock-in.\n- 🛠 Bring your own keys: Use your own AI API keys — no vendor lock-in.\n- 🖥️ Cross-platform: Easy to run on Mac or Windows.\nNo sign-up required. Just download and go.\nJoin our growing community of AI app builders on Reddit: r/dyadbuilders - share your projects and get help from the community!\nDyad is open-source (see License info below).\nIf you're interested in contributing to dyad, please read our contributing doc.\n- All the code in this repo outside of src/pro is open-source and licensed under Apache 2.0 - see LICENSE.\n- All the code in this repo within src/pro is fair-source and licensed under Functional Source License 1.1 Apache 2.0 - see LICENSE.",
+ "report": {
+  "summary": "Dyad is a local, open-source AI app builder that offers a private, bring-your-own-key alternative to cloud tools like v0, Lovable, Replit, and Bolt.",
+  "background": "AI app builders such as v0, Lovable, Replit, and Bolt have made it easier to generate full applications from prompts, but most run in the cloud. That means vendor lock-in, subscription costs, and sending code or prompts to third-party servers. Dyad enters as a local, open-source alternative aimed at power users who want speed, privacy, and full control. It lets users bring their own AI API keys, so they are not tied to a specific model provider. The project runs on Mac and Windows with no sign-up, and its repository mixes Apache 2.0 code with a fair-source licensed pro directory. It also builds community around Reddit’s r/dyadbuilders.",
+  "key_points": [
+   "Local-first architecture: Dyad runs directly on your machine, making it fast and private. Unlike cloud AI app builders, your prompts, code, and project data do not need to leave your computer unless you choose a hosted AI API. This reduces lock-in and gives developers more control over their workflow.",
+   "Bring your own keys: You connect your own AI provider API keys rather than paying through a bundled subscription. That avoids vendor lock-in and lets you pick models from OpenAI, Anthropic, Google, local models, or others. The trade-off is that you manage API costs and configuration yourself.",
+   "Cross-platform and no sign-up: Dyad runs easily on Mac or Windows. There is no account creation step: download it and start building. This lowers friction for individuals, students, and teams that want to test AI-assisted app development without committing to a SaaS platform.",
+   "Open-source with a fair-source pro layer: Code outside src/pro is licensed under Apache 2.0, while src/pro uses the Functional Source License 1.1 Apache 2.0. This gives contributors broad freedom for most of the project while protecting some commercial features.",
+   "Community-driven: The project points users to r/dyadbuilders for sharing projects and getting help, and it invites contributions through a contributing guide. That community focus can speed up feedback, templates, and integrations compared with closed alternatives."
+  ],
+  "impact": "Dyad signals a growing split in AI developer tools: cloud-hosted platforms versus local, bring-your-own-key alternatives. For the AI industry, it pressures incumbents to justify subscriptions, data handling, and lock-in. For developers, it offers more privacy, cost control, and customization, though setup and model management become their responsibility. Regular users benefit from simpler no-sign-up access, but may find local setup and API key handling less turnkey than fully managed products. If Dyad gains traction, expect more open-source competitors and hybrid local-cloud workflows, especially among privacy-conscious teams, indie hackers, and enterprises with strict data policies.",
+  "tools": "Try Dyad itself from GitHub or dyad.sh. Related open-source projects to watch include bolt.diy for browser-based AI app generation, OpenHands for autonomous coding agents, Aider for terminal-based AI pair programming, Continue.dev for IDE-native assistants, and Cline for agentic VS Code workflows. These tools let you compare local-first, BYOK, and cloud-hosted approaches before committing to one stack."
+ },
+ "lang": "en"
+}

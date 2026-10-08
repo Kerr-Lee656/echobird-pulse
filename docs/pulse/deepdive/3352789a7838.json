@@ -1,0 +1,25 @@
+{
+ "id": "3352789a7838",
+ "url": "https://www.aibase.com/news/31476",
+ "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-08T16:21:11.415Z",
+ "fetched_at": "2026-10-08T19:57:01.962327+00:00",
+ "content": "Google has turned the task of \"finding things locally\" into a small model that fits in a phone. Its latest release, EmbeddingGemma2, is the first native multimodal open-source embedding model from Google, with a parameter size of 740M, which can map text, code, images, videos, and audio into the same semantic space all at once, making cross-modal retrieval run so smoothly on the edge for the first time.\nThe most obvious selling point is its small size and offline capability. The complete multimodal model takes up less than 600MB of memory, meaning it can run directly on phones, laptops, and browsers without uploading any content to the cloud — your photo album, recordings, and videos are searched right on your device, naturally protecting your privacy. The context window is set to 8K, four times that of the previous generation, allowing it to process longer materials before matching; language coverage has also been expanded to over 100 languages, removing barriers to searching across different languages.\nIn terms of performance, Google claims it significantly outperforms open-source competitors of the same scale in image, video, and code retrieval tasks. Even more thoughtful is its modular design: parts you don't need can be loaded as required, reducing the index size and saving both space and computing power. In real-world scenarios, it can perform specific tasks — find a particular photo or media in a local photo album, directly locate a segment in a long video, perform offline searches on scattered files, or search for functions and snippets in a local codebase by intent, without having to push the repository to a remote service for checking.\nWhen a multimodal embedding model is small enough to fit in a phone and open-source enough for anyone to modify, the focus of AI retrieval is quietly shifting from \"giving data to the cloud\" back to \"keeping the capabilities on the device.\" Google's move has opened a gap in edge-side private search.",
+ "report": {
+  "summary": "谷歌开源740M参数多模态嵌入模型，手机断网也能搜图文音视频。",
+  "background": "过去两年，多模态检索几乎都靠云端大模型：上传图片、视频到服务器，再返回结果，既费流量又涉隐私。谷歌此前已开源 Gemma 系列语言模型和纯文本嵌入模型 EmbeddingGemma，但能力和体积都受限。随着端侧算力提升和 RAG（检索增强生成）需求爆发，行业开始把'嵌入'这一步下沉到设备本地。EmbeddingGemma2 正是在这一背景下推出：把文本、代码、图像、视频、音频统一进同一语义空间，同时把体积压到能塞进手机，标志着 AI 检索从'数据上云'转向'能力留在设备'。",
+  "key_points": [
+   "740M 参数、整包不足 600MB，可直接跑在手机、笔记本和浏览器里，照片录音全程不上传云端，隐私天然受保护。",
+   "谷歌首个原生多模态开源嵌入模型，把文本、代码、图片、视频、音频映射到同一个语义空间，可跨模态互相检索。",
+   "上下文窗口扩大到 8K，是上一代的 4 倍；语言覆盖超过 100 种，跨语言检索不再有硬门槛。",
+   "模块化设计，不需要的部分可以按需加载，从而缩小索引体积、节省存储和算力，方便在低配设备上部署。",
+   "谷歌称在图像、视频、代码检索任务上明显优于同规模开源竞品，可定位相册照片、长视频片段和本地代码函数。",
+   "典型场景包括本地相册找图、长视频定位片段、散落文件离线搜索，以及按意图检索本地代码库中的函数和代码片段。"
+  ],
+  "impact": "对 AI 行业，检索的主战场从云端推理悄悄转向端侧能力，开源嵌入模型成为新入口，云厂商的'上传即服务'模式会被分流。对开发者，做本地 RAG、离线搜索、隐私合规应用的门槛大幅降低，无需自建推理集群，一套模型即可覆盖多模态。对普通用户，意味着相册、录音、聊天记录可以在自己手机上被搜索而不外传，隐私与便利首次不必二选一，但真机体验和功耗仍待实测。",
+  "tools": "想上手可关注：Hugging Face / Kaggle 上的 EmbeddingGemma2 权重，llama.cpp、ONNX Runtime、MediaPipe、Transformers.js 等端侧推理框架，以及 Chroma、LanceDB、sqlite-vec 等本地向量库。搭配 Google AI Edge 或 Gemma 官方示例，可快速搭一个离线多模态搜索 Demo。"
+ },
+ "lang": "zh"
+}
