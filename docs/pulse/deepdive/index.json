@@ -14353,5 +14353,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-07T19:59:49.591177+00:00"
+ },
+ "09a463cb49e9": {
+  "id": "09a463cb49e9",
+  "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos",
+  "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:11:11.781140+00:00"
+ },
+ "3c6644f5f311": {
+  "id": "3c6644f5f311",
+  "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+  "title": "Microsoft is giving Copilot more control over Windows and your files",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:11:22.659691+00:00"
+ },
+ "617dbc2a9ebd": {
+  "id": "617dbc2a9ebd",
+  "url": "https://mashable.com/tech/california-ai-workplace-law",
+  "title": "Californias new AI law: Ban on bots used to fire employees",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:11:34.886283+00:00"
+ },
+ "66ab8dfd4def": {
+  "id": "66ab8dfd4def",
+  "url": "https://www.36kr.com/p/4015346980278153",
+  "title": "突发，Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:11:58.873917+00:00"
+ },
+ "cb60332fb94c": {
+  "id": "cb60332fb94c",
+  "url": "https://www.36kr.com/p/4015347171233921",
+  "title": "谷歌深夜偷袭OpenAI，白菜价打赢Pro",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:12:08.688119+00:00"
+ },
+ "d448cedd75f5": {
+  "id": "d448cedd75f5",
+  "url": "https://www.ithome.com/1/010/313.htm",
+  "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:12:18.679368+00:00"
+ },
+ "c4bfe87c906c": {
+  "id": "c4bfe87c906c",
+  "url": "https://www.gelonghui.com/live/2700400",
+  "title": "特朗普将出席 AI 科学会议，宣布逾 10 亿美元投资承诺",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-08T00:12:30.019078+00:00"
  }
 }

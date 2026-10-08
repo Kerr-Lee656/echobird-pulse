@@ -1,0 +1,24 @@
+{
+ "id": "3c6644f5f311",
+ "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+ "title": "Microsoft is giving Copilot more control over Windows and your files",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-08T00:11:22.659691+00:00",
+ "content": "At today’s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It’s part of an idea Microsoft is calling “Hybrid Intelligence,” where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently.\nMicrosoft is giving Copilot more control over Windows and your files\nWith features powered by ‘Hybrid Intelligence,’ Copilot can use files on your Windows PC to take actions.\nTo show off how Hybrid Intelligence works, Jacob Andreou, Microsoft’s EVP of Copilot, walked through a video demo onstage asking Microsoft’s Autopilot tool to help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she needs. Autopilot then used Hybrid Intelligence to search across different folders to find the documents, rename the files, zip them into a folder, and draft an email to send to the accountant with the zip file attached.\nFeatures powered by Hybrid Intelligence will be coming to Copilot over the “next couple months,” Andreou said.\nMicrosoft also showed off a new Windows search experience that lets you take quick actions from the search bar, like turning on dark mode, turning up your mic volume with an in-line slider, or even sending a text. The new experience will be available starting this fall on Windows 11 PCs, according to Windows and Surface boss Pavan Davuluri.",
+ "report": {
+  "summary": "微软Copilot将可访问本地文件并跨系统执行操作",
+  "background": "微软在 Windows 与 Surface 活动上宣布，将把 Copilot 从聊天助手升级为系统级 AI 智能体。此前 Copilot 多依赖云端模型，主要做问答和内容生成；现在微软提出“混合智能”，让本地与云端模型协作，使 AI 能理解 PC 文件并跨应用执行任务。此举顺应苹果、谷歌把 AI 深度嵌入操作系统的趋势，也意在用端侧能力提升效率并缓解延迟与隐私顾虑。",
+  "key_points": [
+   "“混合智能”指任务由本地和云端模型共同完成，兼顾效率、延迟与隐私，是微软对系统级 AI 的核心思路。",
+   "Copilot 将获得本地文件访问权和跨系统操作能力，不再只是聊天，而能替用户在 Windows 中执行具体任务。",
+   "演示中，Autopilot 自动跨文件夹查找税务文件、重命名、打包成压缩包，并起草附上压缩包的邮件给会计师。",
+   "新 Windows 搜索栏支持快捷操作，如开深色模式、调节麦克风音量、发短信，今秋登陆 Windows 11 PC。",
+   "这些混合智能功能将在未来几个月逐步推送至 Copilot，权限与安全边界仍是落地关键。"
+  ],
+  "impact": "对行业，操作系统级 Agent 竞争升级，端云混合或成标配；对开发者，本地文件与系统操作 API 会催生新自动化场景，但需重设权限、审计与隐私合规；对普通用户，AI 能代找文件、整理资料、发邮件，省时省力，但也意味着更多个人数据被 AI 读取，需谨慎授权并关注可解释与撤销机制。",
+  "tools": "想跟进可关注微软 Semantic Kernel、Windows Copilot Runtime，以及开源 AutoGen、LangChain、LlamaIndex、Ollama：它们可用于搭建本地+云端 Agent、文件检索与自动化任务。"
+ },
+ "lang": "zh"
+}

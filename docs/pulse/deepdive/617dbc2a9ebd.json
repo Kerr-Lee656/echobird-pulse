@@ -1,0 +1,24 @@
+{
+ "id": "617dbc2a9ebd",
+ "url": "https://mashable.com/tech/california-ai-workplace-law",
+ "title": "Californias new AI law: Ban on bots used to fire employees",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-08T00:11:34.886283+00:00",
+ "content": "California's new AI law: Ban on bots used to fire employees\nEmployers in the Golden State can't offload the hard parts of running a business to AI, according to a new state law.\nSigned by California Governor Gavin Newsom last week, SB 947 sets restrictions on the use of the novel technology in disciplinary decision making, including firing employees. SB 947 may sound like an obvious regulatory move as industries continue to worry about AI's impact on employment, but the \"No Robo Bosses Act\" marks the first law of its kind in the nation.\nOther states, including California, have enacted bans on AI-enabled discrimination and laws that restrict the authority of automated systems in hiring and benefits decisions. The federal government has clarified that existing employee discrimination law also covers the use of AI systems. Still, AI remains an elusive element in modern workplace management.\nYou May Also Like\nWhat does the new law do?\nUnder SB 947, California employers can't exclusively rely on Automated-Decision Systems (“ADS”), including AI, to determine a worker's continued employment or disciplinary status. The bill also limits the use of AI as a \"principal tool\" in such decision-making.\nAny use of AI must be disclosed to the affected employee, including details on personal data given to the model to determine company action.\nIf an AI tool is a \"primary\" element of a termination decision, the law mandates that an employer provide a human reviewer who can go over the decision with an employee. The reviewer must provide additional corroborating information, such as evaluations, disciplinary records, and witness testimony.\nNewsom vetoed a previous version of the bill in 2025, citing concerns that its notification terms were too broad. The initial text of the bill included mandatory advance notice, which was later struck, alongside language that would have included gig workers. Gig workers are excluded from the new law.\nHow will the new law affect employers?\nAll employers in California, no matter their size, are subject to the law.\nEmployers cannot continue using ADS in ways that may violate state employment law or an employee's protected status, or move forward with an ADS decision that can't be corroborated by a human.\nAn ADS is defined by the state as \"any computational process derived from machine learning, statistical modeling, data analytics, or artificial intelligence that issues simplified output, including a score, classification, or recommendation, that is used to assist or replace human discretionary decision-making and materially impacts natural persons.\"\nIf the California Labor Commissioner’s Office finds that a company has violated the law or retaliated against an employee exercising their rights under the law, the employer could face civil penalties.\nThe bill takes effect July 1, 2027.\nChase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.",
+ "report": {
+  "summary": "加州签署SB 947，禁止雇主仅靠AI决定解雇或纪律处分。",
+  "background": "过去几年，AI被引入招聘、绩效监控和人事决策，算法偏见与黑箱问题引发担忧。加州等地已限制AI在招聘和福利中的歧视，联邦也明确反歧视法适用于AI。但专门禁止AI主导解雇的立法尚属空白。SB 947被称为“No Robo Bosses Act”，因Newsom曾否决更宽版本，最终缩小范围并排除零工，将于2027年7月1日生效。",
+  "key_points": [
+   "不能只靠AI：加州雇主不得完全或主要依赖自动化决策系统决定员工去留或纪律处分，最终决定必须有人类参与。",
+   "必须披露：若使用AI辅助人事决策，雇主须告知受影响员工，并说明模型参考了哪些个人数据。",
+   "人工复核：当AI是解雇决定的主因，雇主须安排人工复核者，结合评估、纪律记录和证人证词向员工说明。",
+   "罚则与时间：所有加州雇主不论规模均受约束，劳工专员可处罚违规或报复行为，法律2027年7月1日生效。",
+   "覆盖有限：法律排除零工工作者，是首部此类法案，显示监管从反歧视扩展到职场AI程序正义。"
+  ],
+  "impact": "对AI行业，HR科技须加入人类复核、披露、审计日志和数据溯源，合规成为产品竞争力。对开发者，终止雇佣类自动化必须可解释、可申诉，并保留人工否决权。对普通员工，算法解雇将更透明、可质疑，但零工暂不受保护，且执法要到2027年。加州立法可能被其他州效仿。",
+  "tools": "想跟进可关注 Fairlearn、IBM AI Fairness 360、Microsoft Responsible AI Toolbox，用于偏见检测与可解释性；HR产品可参考 NYC Local Law 144 的偏见审计要求，并建立AI决策日志、人工复核与员工申诉模板。"
+ },
+ "lang": "zh"
+}
