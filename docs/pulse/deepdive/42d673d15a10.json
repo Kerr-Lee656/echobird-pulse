@@ -1,0 +1,23 @@
+{
+ "id": "42d673d15a10",
+ "url": "https://www.aibase.com/news/31455",
+ "title": "大模型商业化步伐提速 可灵AI冲刺港股或开启生成式AI上市新阶段",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-08T08:09:05.750Z",
+ "fetched_at": "2026-10-08T13:24:32.725052+00:00",
+ "content": "Recently, it was reported that Ke Ling AI, an artificial intelligence video service provider under Kuaishou Technology, is preparing to conduct an initial public offering (IPO) in Hong Kong. It has selected China International Capital Corporation, Goldman Sachs, and UBS as underwriters, with a planned fundraising amount of at least 1 billion US dollars, aiming to complete the listing as early as 2026.\nAlthough the discussions are still ongoing and details may change, and Ke Ling AI has not yet made an official response, this move has already attracted widespread attention from the capital market and the technology industry.\nAs a representative product in the domestic generative AI video field, Ke Ling AI has been actively engaged in technological iteration and commercialization exploration, and its capital activities are supported by a solid foundation. In July of this year, Ke Ling AI completed a massive financing round of nearly 3 billion US dollars, led by institutions such as CPE Yuanfeng, Guofang Venture Capital, BlueFive, Tencent, Zhongguancun Science City Fund, and CITIC Securities, and attracted top industry capital such as Alibaba Cloud and Baidu, as well as leading entertainment industry participants such as Huacui Film and Mango Industry Investors.\nCurrently, the global competition in generative AI is rapidly shifting from pure model training and technological advancement to commercialization and capital operations. Facing increasing homogenization competition and computing power cost challenges in the AI video generation field, if Ke Ling AI successfully lists in Hong Kong, it will not only provide long-term and stable funding support for subsequent model R&D and computing infrastructure construction, but also be expected to become a benchmark case for domestic generative AI large model companies entering the secondary market, providing important references for industry commercialization and valuation systems.",
+ "report": {
+  "summary": "可灵AI拟赴港IPO募资10亿美元，冲刺生成式AI上市第一股。",
+  "background": "可灵AI是快手旗下的AI视频生成产品，自推出后迅速成为国内文生视频赛道的代表。2025年7月，它完成近30亿美元融资，投资方包括CPE源峰、国方创投、腾讯、阿里云、百度、中关村科学城基金、中信证券等，还有华策影视、芒果等文娱玩家入局。当前全球生成式AI竞争正从模型训练转向商业化与资本运作，AI视频领域同质化加剧、算力成本高企，单纯依赖私募融资已难支撑长期投入，走向二级市场成为头部玩家的必然选择。",
+  "key_points": [
+   "可灵AI已选定中金、高盛、瑞银担任承销商，计划募资至少10亿美元，目标最早2026年在港股完成上市。",
+   "上市前它刚完成近30亿美元融资，腾讯、阿里云、百度、中信证券及文娱资本集体入局，资本背书相当扎实。",
+   "行业背景是AI视频赛道同质化严重、算力成本高企，靠融资烧钱难以为继，必须打开公开市场融资通道。",
+   "若成功上市，可灵将成为国内生成式AI大模型公司登陆二级市场的标杆案例，为同行提供估值与商业化参照。"
+  ],
+  "impact": "对AI行业而言，它提供了大模型公司上市估值与商业模式的关键锚点，可能加速其他头部公司的IPO预期；对开发者来说，上市带来的资金会加大算力与API生态投入，视频生成工具链更成熟，但商业化压力也可能导致API提价或免费额度收紧；对普通用户，AI视频创作门槛进一步降低，付费体系、版权归属与内容合规规则会更明确。",
+  "tools": "想跟进可关注：可灵AI网页版与开放API（支持图生视频、首尾帧控制）、快手可图；横向可对比Runway、Pika、Luma等海外产品，以及Wan2.x、Open-Sora等开源视频模型，搭配ComfyUI搭建本地生成工作流。"
+ },
+ "lang": "zh"
+}

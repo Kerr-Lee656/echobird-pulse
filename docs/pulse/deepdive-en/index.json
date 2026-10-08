@@ -5335,5 +5335,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-07T18:45:28.000Z",
   "fetched_at": "2026-10-07T20:01:50.661164+00:00"
+ },
+ "04703a8a5d7e": {
+  "id": "04703a8a5d7e",
+  "url": "https://aihot.news/items/br6vb46mhi9mkv2pxiq59k8z7",
+  "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-08T09:24:17.000Z",
+  "fetched_at": "2026-10-08T13:27:25.195898+00:00"
+ },
+ "c07b5023822d": {
+  "id": "c07b5023822d",
+  "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+  "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-08T07:27:51.000Z",
+  "fetched_at": "2026-10-08T13:28:18.702893+00:00"
+ },
+ "b1e72ecb3c48": {
+  "id": "b1e72ecb3c48",
+  "url": "https://www.sesterce.com/newsroom/sesterce-plans-ai-campus-kaipola-jamsa-finland",
+  "title": "Sesterce plans a €10B AI campus in Jämsä",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-08T06:34:24Z",
+  "fetched_at": "2026-10-08T13:28:52.130422+00:00"
+ },
+ "f0cfa9e453a6": {
+  "id": "f0cfa9e453a6",
+  "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+  "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-08T04:48:59Z",
+  "fetched_at": "2026-10-08T13:29:27.408487+00:00"
  }
 }

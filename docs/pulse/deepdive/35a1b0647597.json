@@ -1,0 +1,25 @@
+{
+ "id": "35a1b0647597",
+ "url": "https://www.aibase.com/zh/news/31464",
+ "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-08T13:23:23.462220+00:00",
+ "content": "微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。\n针对端侧推理中的内存瓶颈与长上下文资源占用问题，微软推出了高效的 MAI Code1.1Flash 混合专家（MoE）模型。该模型拥有1370亿总参数及68亿激活参数，结合量化与投机解码技术，在显著降低内存占用的同时提升了设备端编码响应速度，并率先搭载于配备 NVIDIA RTX Spark 硬件的新款 Surface Laptop Ultra。\n在具体应用上，用户可通过 GitHub Copilot CLI、Copilot 应用及 Visual Studio Code 自主选择推理模式，既可依赖 Copilot 后台自动协调资源，也可指定通过 Windows ML 供应商或兼容 OpenAI 的本地端点调用 MAI Code1.1Flash 等本地模型。安全性方面，系统集成了 Windows 团队构建的微软执行容器（MXC），利用各操作系统原生的容器隔离机制保障代码运行安全。\n此次升级标志着 AI 编码助手正加速从纯云端依赖向“云端+端侧”协同的混合架构演进。这一举措不仅简化了本地模型的部署门槛，也为高隐私、低延迟的开发场景提供了更高效的落地方案。",
+ "report": {
+  "summary": "微软推MAI Code1.1Flash，Copilot迈向端云混合推理",
+  "background": "过去几年 AI 编码助手基本依赖云端大模型，存在延迟高、代码上传带来的隐私与合规风险，以及 API 成本问题。随着笔记本 NPU 算力与内存带宽提升，加上 MoE 稀疏激活、量化、投机解码等技术成熟，在本地运行代码模型逐渐可行。微软此前已通过 Copilot+ PC 与 Windows ML 布局端侧 AI，此次 MAI Code1.1Flash 加混合推理，是其在开发者生态的关键落子，也回应了企业对“代码不出本地”的诉求。竞品同样在推端侧与混合方案，本地推理正成为新战场。",
+  "key_points": [
+   "微软将在本月底前让 GitHub Copilot 支持本地 AI 模型，开发者可在云端与设备端之间自由切换或由系统自动调度。",
+   "MAI Code1.1Flash 采用混合专家架构，总参数 1370 亿但仅激活 68 亿，配合量化与投机解码，降低内存占用并加快端侧编码响应。",
+   "该模型首发搭载于配备 NVIDIA RTX Spark 的新款 Surface Laptop Ultra，模型与硬件形成绑定销售与优化闭环。",
+   "用户可通过 Copilot CLI、Copilot 应用和 VS Code 选择推理模式，也能调用 Windows ML 供应商或兼容 OpenAI 的本地端点。",
+   "安全方面集成微软执行容器 MXC，借助各操作系统原生容器隔离机制，保障本地运行代码的安全。",
+   "微软称此举简化了本地模型部署门槛，为高隐私、低延迟的开发场景提供更高效的落地方案。"
+  ],
+  "impact": "对 AI 行业，编码助手竞争从模型能力延伸到端云协同的工程与硬件生态，微软借 Windows＋Surface＋Copilot 形成闭环，可能迫使竞品加速端侧布局。对开发者，多了一种按需选择：隐私敏感或离线场景跑本地，复杂任务回退云端，部署门槛降低，但仍需适配 Windows ML 与本地端点，存在硬件门槛。对普通用户，Copilot 响应更快、可离线使用、代码更少上传云端，隐私性提升，但初期体验高度依赖新款硬件。",
+  "tools": "想跟进可关注：VS Code 与 GitHub Copilot CLI 中的模型选择/自动调度设置；Windows ML 端侧推理运行时；兼容 OpenAI 接口的本地服务如 Ollama、llama.cpp、vLLM；量化与投机解码相关方案 llama.cpp、TensorRT-LLM；以及微软 MXC 执行容器文档。建议先在 Copilot 中切换本地端点做小项目验证。"
+ },
+ "lang": "zh"
+}

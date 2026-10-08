@@ -1,0 +1,24 @@
+{
+ "id": "25d3cdd7454a",
+ "url": "https://www.aibase.com/news/31467",
+ "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-08T08:09:05.750Z",
+ "fetched_at": "2026-10-08T13:24:01.685584+00:00",
+ "content": "Anthropic recently officially launched the latest lightweight model in the Claude 5.5 series, Claude Haiku 5.5. For regular requests within 100,000 tokens, the input and output prices have been reduced to $0.10 and $0.50 per million tokens, respectively, representing a 90% drop in listed prices compared to the previous generation.\nAs the fastest responding model currently available, Haiku 5.5 focuses on high-concurrency, low-latency, and cost-effective scenarios, making it highly suitable for frequent tasks such as real-time customer service, summary extraction, and data classification. Additionally, the system has introduced adaptive thinking and dynamic adjustment features for the first time, which can automatically balance reasoning depth and computing costs based on task complexity.\nNew Tokenization Mechanism Attracts Attention, Actual Cost May Increase\nHowever, the official also warned that due to Haiku 5.5 using the same new tokenizer as advanced models, the number of tokens generated from the same text input has increased. Testing shows that long-text tasks may consume 25% to 30% more tokens, so the overall cost reduction after considering actual workloads is approximately 75%.\nIt should be noted that once a single request exceeds the 100,000-token threshold, both the input and output unit prices will surge to five times the base price. This means developers must accurately assess token consumption for specific workflows while enjoying the low-unit-price advantage, to avoid falling into hidden cost traps.",
+ "report": {
+  "summary": "Haiku 5.5 发布，名义降价 90%，实测有效降幅约 75%。",
+  "background": "轻量级模型是各家争夺的高频调用入口：GPT-4o mini、Gemini Flash、DeepSeek 等都已把百万 token 价格压到极低。Anthropic 此次推出 Claude 5.5 系列的 Haiku 版本，用接近成本价争夺实时客服、摘要、分类等高并发场景，同时首次引入自适应思考，让推理深度随任务复杂度浮动。但它的新分词器与旗舰模型共用，同一段文本会被切成更多 token，加上超长请求的阶梯涨价，使得『标价降幅』与『实付成本』首次出现明显分歧，成为开发者必须重新核算的变量。",
+  "key_points": [
+   "定价：单次请求 10 万 token 以内，输入 $0.10、输出 $0.50 每百万 token，比上一代标价便宜约九成，主打死磕高并发、低延迟的廉价调用。",
+   "分词器变了：Haiku 5.5 与旗舰模型共用新分词器，同样的文字会切出更多 token，长文本任务多消耗 25%-30%，所以真实降本约 75% 而不是 90%。",
+   "长请求有价格悬崖：一旦单次输入超过 10 万 token，输入和输出单价立刻涨到基准价的 5 倍，大文档、长上下文场景成本可能不降反升。",
+   "自适应思考：首次支持按任务难度自动调节推理深度与算力开销，避免简单任务也开满思考模式，进一步压低平均成本。",
+   "适用场景：实时客服、摘要抽取、数据分类、批量标签化等高频、短输入、要求快返回的任务最划算。"
+  ],
+  "impact": "对行业：推理价格战继续下沉，轻量模型承接绝大部分流量、旗舰模型只处理难题的『分层架构』会成为标配，同时『名义价 vs 实付价』成为新的比较维度，倒逼厂商公开 tokenizer 效率。对开发者：迁移前必须用真实业务语料重测 token 消耗，重新设计分块与长文本策略，把单次请求控制在 10 万 token 以内，并评估提示词与缓存的复用率。对普通用户：高频轻量的 AI 应用会更便宜更快，但重度长文本类产品的价格未必下降，甚至可能因 token 膨胀而持平。",
+  "tools": "上手可关注 Anthropic 官方 count_tokens 接口与提示缓存、批处理 API；用 LiteLLM 或 OpenRouter 做多模型路由与单价对比；用 Langfuse、LangSmith 监控真实 token 成本；长文本场景配合语义缓存（GPTCache）与自建分块策略，避免踩 10 万 token 的价格悬崖。"
+ },
+ "lang": "zh"
+}

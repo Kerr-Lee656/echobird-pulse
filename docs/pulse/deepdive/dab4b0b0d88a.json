@@ -1,0 +1,24 @@
+{
+ "id": "dab4b0b0d88a",
+ "url": "https://www.ithome.com/1/010/516.htm",
+ "title": "消息称 Alphabet 旗下 AI 药物研发企业 Isomorphic Labs 寻求以 400~500 亿美元估值融资",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-08T06:33:15Z",
+ "fetched_at": "2026-10-08T13:24:46.972257+00:00",
+ "content": "IT之家 10 月 8 日消息，彭博社北京时间今日报道称，由 2024 年诺贝尔化学奖得主 Demis Hassabis（戴米斯 · 哈萨比斯）领导的 Alphabet 旗下 AI 赋能药物研发企业 Isomorphic Labs 正就新一轮融资进行早期谈判。\nIsomorphic Labs 在今年 5 月进行了 B 轮融资，从母公司等投资者处募集了 21 亿美元（IT之家注：现汇率约合 140.96 亿元人民币）。\n报道指出，该企业在新一轮融资中的估值至少为 400 亿美元（现汇率约合 2,684.98 亿元人民币），可能达到 500 亿美元（现汇率约合 3,356.23 亿元人民币）。\n人工智能在生物制药领域的应用尚属早期阶段。尽管多家业者已在概念层面进行了一系列探索，但在跨越临床试验、走向最终上市前还需要进行一系列的努力。",
+ "report": {
+  "summary": "AI药研公司Isomorphic拟最高500亿美元估值融资",
+  "background": "Isomorphic Labs由Alphabet旗下DeepMind分拆而来，CEO是2024年诺贝尔化学奖得主Demis Hassabis，核心是用AlphaFold等AI技术加速药物发现。今年5月其B轮融资21亿美元，如今又传早期谈判新融资，估值至少400亿美元、或达500亿美元。AI制药仍处早期，多数探索停留在概念和临床前阶段。",
+  "key_points": [
+   "新一轮融资处于早期谈判，估值至少400亿美元，最高可能达500亿美元，较5月B轮后大幅跃升。",
+   "公司由诺奖得主Hassabis领导，背靠Alphabet和DeepMind，主攻AI驱动的靶点发现与分子设计。",
+   "5月B轮已从母公司等募资21亿美元，说明Alphabet持续重金押注AI for Science。",
+   "AI制药尚未证明能稳定缩短临床周期，行业热度高但真实疗效和上市仍待验证。",
+   "若融资落地，将成AI制药领域最高估值公司之一，推高赛道估值预期。"
+  ],
+  "impact": "对AI行业，这是AI for Science商业化的强信号，可能吸引更多资本和人才涌入AI制药。对开发者，蛋白结构预测、分子生成与临床数据建模等交叉岗位需求上升，算力和高质量生物数据更关键。对普通用户，长期有望降低新药研发成本、加快药物可及，但短期不会立刻改变用药，安全与监管仍是门槛。",
+  "tools": "可关注：AlphaFold 3、OpenFold、Boltz-1、Chai-1做蛋白/复合物结构预测；RDKit、DeepChem、AutoDock Vina做分子建模与虚拟筛选；PyTorch/OpenMM做模型与模拟。"
+ },
+ "lang": "zh"
+}

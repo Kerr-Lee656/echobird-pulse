@@ -1,0 +1,24 @@
+{
+ "id": "6c5f3ef383ee",
+ "url": "https://www.ithome.com/1/010/462.htm",
+ "title": "谷歌、Meta 等厂商竞逐申请 .agent 域名：OpenAI 申请.gpt、Anthropic 申请.claude",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-08T05:25:26Z",
+ "fetched_at": "2026-10-08T13:24:54.363735+00:00",
+ "content": "IT之家 10 月 8 日消息，当地时间 10 月 7 日，互联网名称与数字地址分配机构（ICANN）公布了新一轮顶级域名（TLD）申请情况，本期（2026 年 4 月 30 日至 8 月 12 日）共收到来自 481 个申请者的 1615 份申请，其中 AI 相关域名成为大热点。\nIT之家注：ICANN 上一轮开放新 gTLD 申请还是在 2012 年，上一轮新 gTLD 计划最终引入了超过 1200 个新顶级域名。\n按申请者所在地区计算，本轮申请者中北美有 198 个，亚太地区 156 个，欧洲 111 个，拉丁美洲和加勒比地区 9 个，非洲 7 个。\n在人工智能相关域名中，.agent 共收到 10 份申请，申请者包括 Meta 和 OpenAI；.agi 有 7 家公司申请，OpenAI 同样位列其中；.asi 则有 6 家公司申请，OpenAI 也参与其中。\n此外，还有 4 家公司申请了.intelligence，Meta 则与另一家公司共同申请了超长的.superintelligence。OpenAI 此次共申请 15 个顶级域名，Meta 则提交了 21 份申请。\n本轮申请的域名大致可以分为两类。一类是面向广泛用户和企业使用的通用型域名，例如.geek、.haha、.anime 和.jackpot 等。此外，还有一些较为特殊的申请，包括“itiswhatitis”。\n另一类则是企业品牌专属域名。本轮共有 345 份品牌类申请，涉及.applebees、.bankofamerica、.zillow 和.zoom 等。\n例如，Meta 申请了.facebook、.instagram、.messenger、.meta、.frommeta 和.threads 等域名；Bluesky 申请了.bsky；OpenAI 则申请了.chatgpt、.codex、.openai 和.gpt 等域名；Anthropic 申请了.anthropic 和.claude。\n这些品牌顶级域名未来可以用于企业官方网站、产品页面、社交媒体用户名等场景。例如，企业可以通过专属顶级域名构建更具辨识度的网址。\n过去几年，部分域名已经因特定技术趋势获得一定知名度，例如.ai 和.app，但多数用户仍然更习惯使用.com 等传统后缀。此次大量科技企业申请品牌专属顶级域名，也显示出这些公司对域名体系的重视程度正在提高。此前，能够拥有并长期使用自有顶级域名的企业并不多，谷歌等少数公司属于较早的案例。\n需要注意的是，提交申请只是创建新顶级域名的流程之一，并不意味着这些域名已经获批。ICANN 表示，本轮申请最终不会早于明年进入正式生效阶段。IT之家后续将保持关注。\n相关阅读：",
+ "report": {
+  "summary": "ICANN新一轮顶级域名申请：OpenAI、Meta等竞逐AI域名",
+  "background": "ICANN自2012年以来首次重启新通用顶级域名（gTLD）申请，本轮窗口期为2026年4月30日至8月12日，共收到481个申请者的1615份申请。上一轮曾引入超1200个新顶级域名。在AI热潮下，域名不再只是网址后缀，而成为品牌身份与用户入口的争夺点：OpenAI提交15份申请，Meta提交21份，涉及.agent、.agi、.intelligence、.superintelligence等AI语义域名，也有.chatgpt、.claude等产品品牌域名。",
+  "key_points": [
+   ".agent成为本轮AI域名中最热门后缀，共收到10份申请，申请者包括Meta和OpenAI；OpenAI还申请了.agi、.asi等语义域名。",
+   "OpenAI本轮共申请15个顶级域名，涵盖.gpt、.chatgpt、.codex、.openai、.agi、.asi等，几乎覆盖其核心产品与AI概念。",
+   "Meta提交21份申请，除.meta、.threads、.instagram、.facebook外，还与他人共同申请了超长的.superintelligence。",
+   "Anthropic申请.anthropic和.claude，Bluesky申请.bsky，品牌专属顶级域名正成为科技公司的新标配。",
+   "申请不等于获批，ICANN表示本轮新域名最早也要到明年才进入正式生效阶段，后续还需审查与异议流程。"
+  ],
+  "impact": "对AI行业而言，顶级域名是品牌主权与语义入口的提前卡位，未来可能出现以.agent、.agi为标识的AI服务生态。对开发者来说，专属域名可能带来更规范的API与文档入口，但短期影响有限，传统.com和.ai仍占主导。对普通用户，未来访问AI产品可能看到更短、更直观的品牌网址，但认知和习惯迁移仍需多年，且这批域名能否落地存在不确定性。",
+  "tools": "想跟进可关注ICANN官方新gTLD申请公示页与ICANN Wiki，查看申请主体和争议进展；域名数据可参考nTLDstats、DomainTools。开发者如需注册域名，可关注Cloudflare Registrar、Porkbun等支持新后缀的平台。"
+ },
+ "lang": "zh"
+}
