@@ -5425,5 +5425,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-08T22:47:35Z",
   "fetched_at": "2026-10-09T00:24:23.264339+00:00"
+ },
+ "223a623f505d": {
+  "id": "223a623f505d",
+  "url": "https://www.renascence.io/news/96889/aleph-alpha-mistral-launches-fuel-europes-sovereign-ai-push",
+  "title": "Aleph Alpha and Mistral launches fuel Europe's sovereign AI push",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T08:53:25Z",
+  "fetched_at": "2026-10-09T08:59:52.757454+00:00"
+ },
+ "c1688e4340b2": {
+  "id": "c1688e4340b2",
+  "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
+  "title": "Anthropic bans users from abusive or cruel behavior towards Claude",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T07:41:00Z",
+  "fetched_at": "2026-10-09T09:01:00.028765+00:00"
+ },
+ "feab0ad4868e": {
+  "id": "feab0ad4868e",
+  "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+  "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T07:23:46Z",
+  "fetched_at": "2026-10-09T09:01:10.570702+00:00"
+ },
+ "bf5b58d016fd": {
+  "id": "bf5b58d016fd",
+  "url": "https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294",
+  "title": "Agency offers staff two years pay if they can replace themselves with AI",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T06:26:49Z",
+  "fetched_at": "2026-10-09T09:01:59.774017+00:00"
+ },
+ "224a871175e0": {
+  "id": "224a871175e0",
+  "url": "https://github.com/microsoft/vscode/issues/340651",
+  "title": "VSCode silently switches to Microsoft models, ignoring BYO agent configuration",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T04:57:42Z",
+  "fetched_at": "2026-10-09T09:02:31.481151+00:00"
  }
 }
