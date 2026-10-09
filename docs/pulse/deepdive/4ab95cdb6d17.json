@@ -1,0 +1,24 @@
+{
+ "id": "4ab95cdb6d17",
+ "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+ "title": "预计OpenAI的营收将比预期少200亿美元",
+ "source": "www.theguardian.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-09T08:38:09.953Z",
+ "fetched_at": "2026-10-09T16:59:34.399445+00:00",
+ "content": "OpenAI has revealed that it is making about $20bn less in projected revenue than it had recently indicated to investors, raising questions about the break-neck growth rate in demand for AI.\nThe ChatGPT-maker company has told investors that its revenues for this year would reach $50bn (£37bn), a projection based on sales up to the end of September.\nHowever, this is significantly less than the $70bn that it had signalled in information provided to investors last month, which was widely reported.\nForecasts of annualised revenues by the leading artificial intelligence players, including by OpenAI’s rival Anthropic, the maker of Claude, are closely watched by markets as an indicator of overall demand for a technology that is attracting huge investment.\nOpenAI is in early-stage talks to raise $30bn in a funding round that values the business at about $1.4tn.\nNews of the $20bn gap buffeted US tech stocks on Thursday, with the tech-led Nasdaq closing down by 1.4%. Chip giant Nvidia fell 2.9%, Oracle was down 5.5% and Micron declined 4.8%.\nThe discrepancy arose from attempts by OpenAI investors to provide a more direct comparison with how projected revenue is measured by Anthropic, which hit $65bn in forecast revenue by the end of July.\nAnthropic includes the revenue from sales via cloud partners, such as Amazon’s AWS and Google Cloud, while OpenAI does not.\nLast month, Sam Altman, the chief executive of OpenAI, said that the company would not float on the stock market this year as had been expected, citing safety concerns over AI.\nAltman’s decision followed cases of AI agents going rogue to hack external systems and AI safety researchers quitting their companies concerned about the technology’s risks.\nDemocrat and Republican politicians are calling for new rules to govern AI systems, after two researchers from Anthropic warned that the lightning pace of development of AI without safeguards could lead to the extinction of the human race.\nAnthropic is expected to push ahead with plans for an initial public offering (IPO) as soon as next month.\nOpenAI’s most recent fundraising was in March when it closed a $122bn round of finance at a valuation of $852bn.\nTwo months later Anthropic announced it had raised $65bn, valuing the company at $965bn.\nOn Friday, it emerged that Masayoshi Son, the founder of Japanese investment company SoftBank, is seeking to raise up to $100bn from Gulf states as he scales up his already mammoth investments in AI.\nSoftBank has aggressively pivoted towards AI, including making a $65bn investment in OpenAI, and discussions have been held with Gulf investors including the United Arab Emirates, the Financial Times reported.\nLast month, SoftBank raised $11.1bn in the largest high-yield corporate bond sale globally on record, paying investors yields as high as 9.75%, to fund its bets on AI and semiconductor assets.",
+ "report": {
+  "summary": "OpenAI年收入预期较此前下调200亿美元，引发AI需求质疑。",
+  "background": "OpenAI向投资者称今年收入将达500亿美元，低于上月透露的700亿美元，缺口源于统计口径差异：Anthropic计入AWS、Google Cloud等云伙伴销售，OpenAI不计。AI公司收入预期被视作需求风向标，此次下调发生在巨额融资、IPO与AI安全争议交织之际，并重挫科技股。",
+  "key_points": [
+   "OpenAI把今年收入预测从700亿美元调至500亿美元，差额200亿美元，主因不是销售暴跌，而是与Anthropic比较时统计口径不同。",
+   "Anthropic预计到7月底年化收入650亿美元，且计入云伙伴转售收入；OpenAI不把这类收入算入，使比较显得差距更大。",
+   "消息冲击市场：纳斯达克跌1.4%，英伟达跌2.9%、甲骨文跌5.5%、美光跌4.8%，显示AI概念股对增长信号高度敏感。",
+   "OpenAI正洽谈以约1.4万亿美元估值融资300亿美元；Altman以AI安全为由暂缓今年IPO，而Anthropic可能下月启动IPO。",
+   "软银孙正义拟向海湾国家募集至多1000亿美元加码AI，并已向OpenAI投资650亿美元，AI资本竞赛仍在升温。"
+  ],
+  "impact": "对AI行业，市场将更严格审视AI公司收入口径和增长可持续性，融资与IPO估值可能承压；对开发者，API和云生态竞争更重商业化，需关注定价与平台绑定；对普通用户，AI工具可能加速涨价或分层，但也会促使厂商更重视可靠性与安全。",
+  "tools": "可关注OpenAI API、Anthropic Claude、Google Cloud Vertex AI、AWS Bedrock，以及开源模型Llama、Mistral、DeepSeek；跟踪融资与财报可用Crunchbase、PitchBook、SEC文件。"
+ },
+ "lang": "zh"
+}

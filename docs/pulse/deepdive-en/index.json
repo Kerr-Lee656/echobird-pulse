@@ -5470,5 +5470,14 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-09T04:57:42Z",
   "fetched_at": "2026-10-09T09:02:31.481151+00:00"
+ },
+ "34cfa2c0e79e": {
+  "id": "34cfa2c0e79e",
+  "url": "https://www.anthropic.com/legal/aup",
+  "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
+  "source": "Hacker News (5pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T13:15:35Z",
+  "fetched_at": "2026-10-09T17:01:50.321783+00:00"
  }
 }

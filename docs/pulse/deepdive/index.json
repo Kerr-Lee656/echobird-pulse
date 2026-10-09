@@ -14650,5 +14650,23 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-08T20:46:23.466Z",
   "fetched_at": "2026-10-09T00:21:46.273878+00:00"
+ },
+ "0106045acf69": {
+  "id": "0106045acf69",
+  "url": "https://www.huxiu.com/article/4896196.html?f=rss",
+  "title": "AI平均3小时完成一个数学证明，科研进入大通胀时代？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-09T09:56:35Z",
+  "fetched_at": "2026-10-09T16:59:17.212021+00:00"
+ },
+ "4ab95cdb6d17": {
+  "id": "4ab95cdb6d17",
+  "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+  "title": "预计OpenAI的营收将比预期少200亿美元",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-09T08:38:09.953Z",
+  "fetched_at": "2026-10-09T16:59:34.399445+00:00"
  }
 }
