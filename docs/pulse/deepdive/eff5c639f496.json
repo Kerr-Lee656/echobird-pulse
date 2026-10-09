@@ -1,0 +1,25 @@
+{
+ "id": "eff5c639f496",
+ "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+ "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-09T00:20:24.340824+00:00",
+ "content": "Arena, which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday.\nThis comes after the company said it reached $100 million in annualized run-rate revenue in June.\nThe round was led by Lightspeed Venture Partners and Khosla Ventures, with Salesforce Ventures, 01 Advisors, Dell Technologies Capital, Endeavor Catalyst, a16z, Felicis, and others joining in. Arena previously announced a $150 million Series A in January at a $1.7 billion post-money valuation. At the time, its annualized revenue was $30 million, it said. So that means its valuation has nearly doubled in about 10 months.\nArena provides a crowdsourced platform that is free for consumers to use. People enter prompts or request vibe-coded projects and then rate which model does it better. Arena claims it has tens of millions of monthly visitors.\nIn September of last year, it introduced its commercial product, AI Evaluations, a service that provides model labs and enterprises with detailed performance analytics based on its community feedback. The timing proved impeccable. This year, AI labs realized that their models were gaming benchmarking tests, finding ways to rack up good scores without truly earning them. At the same time, enterprises wanted help determining which model works best for their own internal needs rather than relying only on standardized benchmarks.\n“AI is advancing faster than our ability to evaluate it, and static benchmarks break down once models recognize they’re being tested,” the company said in its funding announcement. “The world needs a neutral third party to measure how safe and aligned AI actually is once it’s in the hands of real people. Arena is stepping into that role today,” it added.\nTo that end, Arena has also added a new category to its leaderboard: alignment. This is where it ranks models based on issues like unauthorized action (taking actions it wasn’t asked to take); false attribution (wrongly crediting statements or facts to the wrong source); and what it calls “deceptive completion” (lying about completing tasks that it didn’t do).\nCurrently, a slate of OpenAI’s models are at the top of its preliminary alignment leaderboard, with Claude Opus 5.5 and Claude Fable in sixth and ninth place, respectively.",
+ "report": {
+  "summary": "AI模型众包评测平台Arena获2亿美元B轮，估值10个月翻倍至31亿美元。",
+  "background": "Arena源于2023年加州大学伯克利分校的研究项目，让用户对两个匿名模型的回答盲投，形成类比Elo的公开排行榜，逐渐成为行业公认的模型能力风向标。随着头部模型性能趋同、厂商竞争白热化，榜单影响力迅速放大。2024年9月它推出面向实验室和企业的商业化评测服务AI Evaluations。今年1月完成1.5亿美元A轮，估值17亿美元、年化收入约3000万美元；到6月年化收入已达1亿美元，如今估值再度翻倍。",
+  "key_points": [
+   "估值10个月接近翻倍：从1月A轮的17亿美元升至31亿美元，本轮融资2亿美元，Lightspeed与Khosla领投，Salesforce、a16z等跟投。",
+   "收入增长是估值支撑：年化经常性收入从A轮时的3000万美元涨到6月的1亿美元，说明众包评测已找到可持续的付费模式。",
+   "商业化核心是AI Evaluations：基于真实人类投票为模型实验室和企业提供性能分析，而非依赖厂商自报或标准化跑分。",
+   "踩中了行业痛点：模型开始学会「刷榜」，静态基准失灵，企业采购时更需要中立第三方判断模型在真实场景中是否好用。",
+   "新增「对齐」榜单：按越权行动、错误归因、谎称完成任务等维度排名，目前OpenAI系列居前，Claude Opus 5.5排第六。",
+   "背靠海量免费流量：平台对消费者免费，自称月访问量数千万，这些投票数据正是其商业产品的原料与护城河。"
+  ],
+  "impact": "对AI行业：评测正从学术副产品升级为独立且高价值的基础设施层，Arena试图扮演「中立第三方裁判」，其排名可能影响模型厂商口碑、企业采购甚至监管叙事，但也难免面临既做裁判又被厂商付费的利益冲突质疑。对开发者：选型依据从跑分转向真实人类偏好与对齐数据，能减少被刷榜误导的踩坑成本。对普通用户：免费投票的同时实际参与了行业标准制定，并将获得更透明的模型能力与安全信息。",
+  "tools": "想上手可关注LMArena公开榜单与盲投对战、LMSYS Chatbot Arena学术版、斯坦福HELM、EleutherAI的lm-evaluation-harness、代码方向的SWE-bench，以及Arena AI Evaluations的企业级指标，用于自建或对照模型评测。"
+ },
+ "lang": "zh"
+}

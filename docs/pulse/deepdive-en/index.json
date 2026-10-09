@@ -5371,5 +5371,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-08T04:48:59Z",
   "fetched_at": "2026-10-08T13:29:27.408487+00:00"
+ },
+ "b6a803a2c827": {
+  "id": "b6a803a2c827",
+  "url": "https://github.com/microsoft/agent-framework",
+  "title": "microsoft/agent-framework — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:23:13.637503+00:00"
+ },
+ "328a7b2dd544": {
+  "id": "328a7b2dd544",
+  "url": "https://github.com/openai/codex-security",
+  "title": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:23:23.463093+00:00"
+ },
+ "0dbaaa3b1107": {
+  "id": "0dbaaa3b1107",
+  "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
+  "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T00:03:29Z",
+  "fetched_at": "2026-10-09T00:23:34.225500+00:00"
+ },
+ "32d47947d3bb": {
+  "id": "32d47947d3bb",
+  "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "title": "Anthropic changes usage policy to ban model abuse and election interference",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-08T23:29:00Z",
+  "fetched_at": "2026-10-09T00:23:48.179748+00:00"
+ },
+ "a347c8c403d1": {
+  "id": "a347c8c403d1",
+  "url": "https://arxiv.org/abs/2610.09051",
+  "title": "A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-08T23:22:25Z",
+  "fetched_at": "2026-10-09T00:23:59.109494+00:00"
+ },
+ "2bb03fcdd46c": {
+  "id": "2bb03fcdd46c",
+  "url": "https://huggingface.co/datasets/harvardMadsys/freeinference_agentic_trace",
+  "title": "Open Source Agent Traces with 206B tokens and 1M toolcalls",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-08T22:47:35Z",
+  "fetched_at": "2026-10-09T00:24:23.264339+00:00"
  }
 }

@@ -14587,5 +14587,68 @@
   "site_name": "AIbase",
   "published_at": "2026-10-08T16:21:11.415Z",
   "fetched_at": "2026-10-08T19:57:01.962327+00:00"
+ },
+ "f3da56c9d020": {
+  "id": "f3da56c9d020",
+  "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+  "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:20:15.306077+00:00"
+ },
+ "eff5c639f496": {
+  "id": "eff5c639f496",
+  "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+  "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:20:24.340824+00:00"
+ },
+ "465c329509f8": {
+  "id": "465c329509f8",
+  "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
+  "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:20:30.112998+00:00"
+ },
+ "0b1ef97234c2": {
+  "id": "0b1ef97234c2",
+  "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+  "title": "Anthropic changes usage policy to ban model abuse and election interference",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:20:45.606568+00:00"
+ },
+ "b835d9c6aa4a": {
+  "id": "b835d9c6aa4a",
+  "url": "https://www.techradar.com/pro/microsoft-teams-with-nvidia-to-take-on-apple-macbook-pro-to-win-hearts-and-minds-of-the-creative-and-ai-market",
+  "title": "Microsoft teams with Nvidia to take on Apple MacBook Pro to win hearts and minds of the creative and AI market with new Surface Laptop Ultra",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-09T00:21:21.681027+00:00"
+ },
+ "b9e07fcd88c0": {
+  "id": "b9e07fcd88c0",
+  "url": "https://biohub.org/news/virtual-biology-initiative-expansion",
+  "title": "AI-ready biological data: $1.8B global commitment",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-08T20:46:25Z",
+  "fetched_at": "2026-10-09T00:21:37.066453+00:00"
+ },
+ "0bcfa695edb1": {
+  "id": "0bcfa695edb1",
+  "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out",
+  "title": "为什么业界对 DeepSeek 4.1 Flash 没有大惊小怪呢？",
+  "source": "www.dgt.is",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-08T20:46:23.466Z",
+  "fetched_at": "2026-10-09T00:21:46.273878+00:00"
  }
 }

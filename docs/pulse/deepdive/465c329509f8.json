@@ -1,0 +1,23 @@
+{
+ "id": "465c329509f8",
+ "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
+ "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-09T00:20:30.112998+00:00",
+ "content": "A little over a week ago, it was reported that OpenAI’s annualized revenue was approaching $70 billion, a figure that would have made it competitive with Anthropic’s reported run rate. Now, however, the AI lab is said to have told investors that the real revenue is some $20 billion lower than that.\nThe Financial Times reports that the company has told investors that its annualized revenue is “approaching $50 billion.” The $70 billion figure was previously reported by news outlets and based on information that had been shared with OpenAI investors, the outlet writes. That figure was devised via “attempts by OpenAI’s own investors to produce a direct comparison with Anthropic’s annualised revenues,” per the FT.\nIt’s worth pointing out that OpenAI and Anthropic calculate their annualized revenue differently — with Anthropic counting sales made by its cloud partners. OpenAI doesn’t do this.\nTechCrunch reached out to OpenAI for comment.\nThe issue of OpenAI’s revenue has troubled the company, as it attempts to justify the gargantuan investments being made on its behalf; the AI giant raised $122 billion during a March funding round alone. The company’s leaked 2025 financials earlier this year showed it had made about $13 billion but spent significantly more. OpenAI’s IPO, which was previously rumored to be materializing this year, has been pushed off until early 2027.",
+ "report": {
+  "summary": "OpenAI 向投资者澄清年化收入约 500 亿美元，比此前传出的 700 亿少了 200 亿。",
+  "background": "此前媒体援引投资者信息称 OpenAI 年化收入逼近 700 亿美元，可与 Anthropic 比肩。但《金融时报》报道，OpenAI 已向投资者澄清真实年化收入「接近 500 亿美元」，差距源于双方统计口径不同——Anthropic 把云合作伙伴的销售额也计入，OpenAI 则不计。此前泄露的 2025 年财报显示 OpenAI 收入约 130 亿美元、支出远超收入，而公司仅在 3 月一轮融资就募得 1220 亿美元，估值与营收的落差令外界对其烧钱模式愈发关注。",
+  "key_points": [
+   "收入数字从 700 亿修正为 500 亿美元，落差高达 200 亿，主要因统计口径不同而非业务突然恶化。",
+   "Anthropic 把云伙伴转售收入计入年化收入，OpenAI 不计，两家公司的收入数字本就不完全可比。",
+   "OpenAI 支出远高于收入，仅 3 月一轮融资就拿到 1220 亿美元，必须靠高增长叙事支撑巨额投入。",
+   "原传今年启动的 IPO 已推迟到 2027 年初，收入争议让上市时间表更加不确定。"
+  ],
+  "impact": "对 AI 行业而言，头部公司的收入口径问题暴露出「年化收入」这一指标的脆弱，投资者将更严格审视 AI 公司的真实变现能力，并可能压低整个赛道的高估值预期。对开发者来说，短期模型与 API 服务不受影响，但若 OpenAI 融资节奏收紧，补贴式低价 API 和免费额度可能缩水。对普通用户，ChatGPT 等产品的免费与低价策略或逐步调整，长期看订阅价格上行的压力增大。",
+  "tools": "想跟踪 OpenAI 与 Anthropic 的真实经营状况，可关注 The Information、Financial Times 的科技报道，以及 OpenAI 官方博客和投资者关系披露；开源侧可用 OpenRouter 对比各家模型 API 价格与调用量，用 LMArena 观察模型竞争格局。"
+ },
+ "lang": "zh"
+}

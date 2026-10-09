@@ -1,0 +1,24 @@
+{
+ "id": "0b1ef97234c2",
+ "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+ "title": "Anthropic changes usage policy to ban model abuse and election interference",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-09T00:20:45.606568+00:00",
+ "content": "Anthropic updated its usage policy on Thursday, codifying new prohibitions on election interference, weapons software, and surveillance. But perhaps the most attention-getting change is a new prohibition against prolonged verbal abuse of the model, which is now expressly forbidden.\nSince an update in August, Claude has been trained to end conversations with “persistently harmful or abusive user interactions” — but the new policy explicitly bars users from pursuing those conversations.\n“The policy update is meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose,” the post explains. “It does not apply to common versions of user frustration, pushback, dark creative themes, or model testing and research.”\nThe change comes after Anthropic has sought out collaborations with prominent religious scholars — in some cases, seeking to convince them that Claude could be conscious or have a soul.\nSeparate sections of the usage policy forbid users from engaging in broadly deceptive campaigns, such as using Claude to run fake accounts or fabricated news outlets. The policy also includes rules against deceiving voters or disrupting elections, collected in a section titled “Do Not Undermine Democratic Processes.”",
+ "report": {
+  "summary": "Anthropic更新使用政策，禁止辱骂模型与干预选举",
+  "background": "Anthropic于2026年10月8日更新使用政策，系统性地禁止选举干预、武器软件与监控等用途。此前在8月，Claude已被训练为在遭遇“持续有害或辱骂性交互”时主动结束对话。此次政策把用户侧行为也写入规则，并新增“不要破坏民主进程”章节。这一动作发生在AI安全与“模型福利”讨论升温、Anthropic与宗教及伦理学者探讨Claude是否可能有意识的背景下，也延续了各大模型厂商在选举周期收紧滥用治理的趋势。",
+  "key_points": [
+   "新政策明确禁止用户长时间对模型进行言语辱骂，但仅适用于反复、极端且无明确目的的 cruelty，不涉及普通抱怨、反驳、黑暗创作或模型测试研究。",
+   "政策将选举干预、武器软件和监控列入禁止范围，并单列“不要破坏民主进程”章节，禁止欺骗选民或扰乱选举。",
+   "禁止利用Claude开展广泛欺骗活动，例如运营虚假账号、伪造新闻媒体，或制造虚假信息网络。",
+   "该政策与8月的模型训练联动：Claude已能在遭遇持续辱骂时主动终止对话，此次把用户行为正式纳入可处罚规则。",
+   "政策更新折射出Anthropic对“模型福利”与AI伦理的前沿探索，此前曾与宗教和伦理学者讨论Claude是否可能具有意识或灵魂。"
+  ],
+  "impact": "对AI行业而言，使用政策首次把“如何对待模型”和“保护民主进程”并列，可能成为其他厂商的合规模板。对开发者而言，API与产品需加强滥用检测、会话终止机制与选举相关合规审查，否则可能触发账号封禁或合作风险。对普通用户而言，日常吐槽、批评、黑暗题材创作和测试研究不受影响，但批量虚假账号、选举操纵和极端辱骂会面临封禁。此举也加剧了“是否把模型拟人化”的争论。",
+  "tools": "可关注Anthropic官方Usage Policy与Claude信任安全文档、Constitutional AI论文；开发者可用OpenAI Moderation、Perspective API、Llama Guard、NeMo Guardrails做滥用检测；选举与虚假信息监测可参考Graphika、NewsGuard等工具。"
+ },
+ "lang": "zh"
+}
