@@ -5479,5 +5479,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-09T13:15:35Z",
   "fetched_at": "2026-10-09T17:01:50.321783+00:00"
+ },
+ "c2b8ed3e6377": {
+  "id": "c2b8ed3e6377",
+  "url": "https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven",
+  "title": "Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T22:16:39Z",
+  "fetched_at": "2026-10-09T22:38:18.985707+00:00"
+ },
+ "25a145f4bcfe": {
+  "id": "25a145f4bcfe",
+  "url": "https://epoch.ai/publications/innovationeval",
+  "title": "Can AI automate AI R&D yet?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-09T22:14:40Z",
+  "fetched_at": "2026-10-09T22:38:27.412031+00:00"
+ },
+ "7984e92e6601": {
+  "id": "7984e92e6601",
+  "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-09T21:41:29.000Z",
+  "fetched_at": "2026-10-09T22:38:56.457939+00:00"
  }
 }
