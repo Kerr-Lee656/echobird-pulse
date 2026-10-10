@@ -14668,5 +14668,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-09T08:38:09.953Z",
   "fetched_at": "2026-10-09T16:59:34.399445+00:00"
+ },
+ "bc6f32ba76e4": {
+  "id": "bc6f32ba76e4",
+  "url": "https://www.ithome.com/1/011/194.htm",
+  "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-10T05:46:58.425206+00:00"
+ },
+ "5f55653d77a9": {
+  "id": "5f55653d77a9",
+  "url": "https://www.ithome.com/1/011/183.htm",
+  "title": "消息称 OpenAI、Anthropic 高管私下推演 AI 灾难情景，以应对公众反弹与政治抵制",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-10T05:47:12.924468+00:00"
+ },
+ "c421873c1a29": {
+  "id": "c421873c1a29",
+  "url": "https://www.aibase.com/news/31520",
+  "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-10T01:32:29.487Z",
+  "fetched_at": "2026-10-10T05:47:33.512609+00:00"
+ },
+ "f579df07e996": {
+  "id": "f579df07e996",
+  "url": "https://www.aibase.com/news/31519",
+  "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-10T01:32:29.487Z",
+  "fetched_at": "2026-10-10T05:47:45.651132+00:00"
+ },
+ "46ecab5ea8df": {
+  "id": "46ecab5ea8df",
+  "url": "https://www.ithome.com/1/011/182.htm",
+  "title": "特朗普政府实施新要求：AI 公司发生安全事件后，须立即上报",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T00:27:42Z",
+  "fetched_at": "2026-10-10T05:48:09.974139+00:00"
+ },
+ "22c357986118": {
+  "id": "22c357986118",
+  "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+  "title": "乌克兰无人机摧毁了“俄罗斯谷歌”旗下的AI数据中心",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-09T23:37:52.990Z",
+  "fetched_at": "2026-10-10T05:48:19.424648+00:00"
+ },
+ "af1e114c3c63": {
+  "id": "af1e114c3c63",
+  "url": "https://www.ithome.com/1/011/170.htm",
+  "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-09T23:28:29Z",
+  "fetched_at": "2026-10-10T05:48:27.307990+00:00"
+ },
+ "2b08f38e030a": {
+  "id": "2b08f38e030a",
+  "url": "https://www.ithome.com/1/011/166.htm",
+  "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-09T23:12:53Z",
+  "fetched_at": "2026-10-10T05:48:34.232601+00:00"
+ },
+ "2af8f79f2f45": {
+  "id": "2af8f79f2f45",
+  "url": "https://www.ithome.com/1/011/162.htm",
+  "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-09T22:51:52Z",
+  "fetched_at": "2026-10-10T05:48:42.307745+00:00"
  }
 }
