@@ -1,0 +1,24 @@
+{
+ "id": "2d2a1c98cd20",
+ "url": "https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa",
+ "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+ "source": "Saito 硬地骇客",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-10T13:56:02.000Z",
+ "fetched_at": "2026-10-10T18:37:31.088578+00:00",
+ "content": "Saito· @SaitoWu · X·2026-10-10 21:56· 5 小时前精选AI 评分77 AI 导读 MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。 推荐理由 以 MIT 教授的第一手讲述梳理 AI 证明 Navier-Stokes 反例后的验证与审稿困境，可帮读者理解生成便宜之后人类价值所在。 正文 https://x.com/i/article/2108918105854578688 来源：Saito · x.com OpenAI / ChatGPT推理能力大佬观点#大佬观点#推理#OpenAI 查看事件全部后续",
+ "report": {
+  "summary": "MIT's Justin Solomon says an OpenAI model produced a Navier-Stokes counterexample proof he and podcast hosts couldn't read beyond page two, spotlighting AI's verification crisis.",
+  "background": "Navier–Stokes existence and smoothness is one of the Clay Mathematics Institute's seven Millennium Prize Problems: whether smooth 3D solutions always exist, or whether they can blow up in finite time. Open since Leray's 1934 work, it resists both proof and disproof. Recent years have seen AI make striking progress in mathematics — DeepMind's AlphaProof and AlphaGeometry earning IMO medals, LLM-assisted discoveries in combinatorics, and growing use of Lean for formal verification. That progress has fueled speculation that AI could crack a Millennium problem. This post reports an OpenAI model claiming a counterexample showing solution breakdown, but gives no preprint, peer review, or formalization. The episode captures the new normal: generation is cheap, verification is not.",
+  "key_points": [
+   "An OpenAI model reportedly produced a proof of a Navier-Stokes counterexample — evidence that 3D solutions can break down — a result that, if valid, would settle one of the Clay Millennium Prize Problems. No preprint, venue, or formal verification is cited in the post.",
+   "Justin Solomon, MIT's associate dean of engineering education, said on the Odd Lots podcast that he and the host could not read past the proof's second page — not because it was wrong, but because it was structured in a way human mathematicians find unreadable.",
+   "The bottleneck has shifted from generating results to verifying them. AI can emit a 200-page argument in minutes, but trusted review still requires humans, formal proof assistants, or both — and neither is fast or cheap.",
+   "The episode reflects a broader trend: AI systems are producing artifacts — proofs, code, analyses — whose correctness can't be checked by the people who requested them, forcing new norms around machine-checkable evidence and epistemic humility.",
+   "It also cuts both ways: unverifiable proofs are easy to dismiss, and a single podcast claim is not evidence. Until the argument is public and checked, treat it as a claim, not a theorem — the summary's middling score hints at the community's caution."
+  ],
+  "impact": "For the AI industry, verification becomes the product. Labs will invest in formalization pipelines (LLM plus Lean), proof certificates, and reproducible math benchmarks, because a theorem nobody can check is worth little. For developers, demand grows for autoformalization, proof-checking tooling, and 'human-readable' explanation layers that turn machine proofs into surveys; research workflows may split into proposer and verifier roles. For regular users, direct change is small but cultural: AI claims will increasingly require machine-checkable receipts, and hype cycles around 'AI solves X' will meet a harder wall of scrutiny. The deeper signal concerns human value — taste, problem selection, interpretation and accountability remain human jobs even when generation is automated.",
+  "tools": "To follow up, watch Lean 4 and Mathlib (formal verification), AlphaProof and AlphaGeometry, and LLM provers such as DeepSeek-Prover, Goedel-Prover and Kimina-Prover. Autoformalization tools (LeanCopilot, Draft-Sketch-Prove) translate informal arguments into checkable code. For context, read the Clay Institute's Millennium problem statements and Terence Tao's blog on AI and mathematics. The Odd Lots podcast episode itself is the primary source."
+ },
+ "lang": "en"
+}

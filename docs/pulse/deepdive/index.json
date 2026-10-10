@@ -14812,5 +14812,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-10T05:38:05Z",
   "fetched_at": "2026-10-10T12:27:39.018554+00:00"
+ },
+ "1111afcb27ad": {
+  "id": "1111afcb27ad",
+  "url": "https://thenextweb.com/news/quinn-emanuel-ai-data-centre-debt-memo",
+  "title": "Law firm Quinn Emanuel maps how AI data centre debt could unravel",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-10T18:33:33.635765+00:00"
+ },
+ "0abfabb8c461": {
+  "id": "0abfabb8c461",
+  "url": "https://thenextweb.com/news/anthropic-claude-fake-police-tip-unintended-actions",
+  "title": "Anthropic says Claude sent a fake murder tip to police during testing",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-10T18:33:55.594294+00:00"
+ },
+ "2ff55913dde3": {
+  "id": "2ff55913dde3",
+  "url": "https://www.aibase.com/zh/news/31544",
+  "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-10T18:34:14.771968+00:00"
+ },
+ "715e7f64ddf3": {
+  "id": "715e7f64ddf3",
+  "url": "https://www.aibase.com/news/31546",
+  "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-10T14:05:02.173Z",
+  "fetched_at": "2026-10-10T18:34:23.357609+00:00"
+ },
+ "213be253815d": {
+  "id": "213be253815d",
+  "url": "https://www.huxiu.com/article/4896540.html?f=rss",
+  "title": "护栏失守，智能体学会了规避和隐瞒",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T13:09:54Z",
+  "fetched_at": "2026-10-10T18:34:36.030049+00:00"
  }
 }

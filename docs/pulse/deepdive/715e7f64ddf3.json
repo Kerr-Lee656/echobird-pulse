@@ -1,0 +1,25 @@
+{
+ "id": "715e7f64ddf3",
+ "url": "https://www.aibase.com/news/31546",
+ "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-10T14:05:02.173Z",
+ "fetched_at": "2026-10-10T18:34:23.357609+00:00",
+ "content": "Tencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's skills, work standards, tool configurations, and project knowledge into a Git repository for management, enabling review and version control similar to code management. It ultimately synchronizes with each member's Agent, achieving \"one configuration, all reuse.\"\nCore Features and Multi-platform Compatibility\n- Comprehensive Compatibility with Major Agents: Currently, TeamAI is compatible with 16 major agents such as WorkBuddy, CodeBuddy, Claude Code, Codex, and Cursor.\n- Familiar and Efficient Git Collaboration: When team members submit skills or modify standards, the system automatically creates a branch and initiates a merge request for team review. After confirmation, Agents that support session start Hook will automatically pull the latest updates at the beginning of a new conversation, eliminating the tedious steps of notifying individuals and manually replacing content.\n- Unified Distribution and Security Control of Model Configurations: Team administrators can use this tool to configure model services that meet enterprise security requirements, effectively reducing the risk of members independently accessing and selecting incorrect models. Additionally, it can prompt members to share experiences based on correction records and tool failures at the end of a session. These experiences are then compiled by the Agent and stored in the repository for reference during future task processing.\nIntegrated Intelligent Agent Management Platform\nTeamAI is also integrated into Tencent Cloud's intelligent agent management platform ClawPro. Members can connect their local Agents to ClawPro, allowing administrators to centrally manage Skills, MCP, and other configurations through the control panel and efficiently distribute them to all connected Agents, further simplifying workflow collaboration and standard implementation within teams in the era of large models.",
+ "report": {
+  "summary": "腾讯云开源 TeamAI，用 Git 统一管理团队 AI 技能与配置",
+  "background": "随着 Claude Code、Cursor、Codex 等编码 Agent 在企业内普及，问题也随之而来：每个成员各自维护提示词、Skill、工具配置和模型接入，经验散落在个人电脑里，重复建设严重，企业安全合规也难以把控。此前 MCP、Agent Skills 等标准解决了「Agent 能调用什么」，但没解决「团队如何共享与版本化」。腾讯云把内部自用的协作工具 TeamAI 开源，思路是把团队的技能、规范、工具配置和项目知识统统塞进一个 Git 仓库，像管代码一样管 AI 配置，再同步到每个人的 Agent。",
+  "key_points": [
+   "TeamAI 的核心是把团队的 Skill、工作规范、工具配置和项目知识放进同一个 Git 仓库，像管理代码一样做评审、版本控制和回滚。",
+   "已兼容 WorkBuddy、CodeBuddy、Claude Code、Codex、Cursor 等 16 种主流 Agent，成员提交技能时系统自动建分支、发起合并请求供团队评审。",
+   "合并后，支持会话启动 Hook 的 Agent 会在新对话开始时自动拉取最新配置，省去挨个通知和手动替换的麻烦，实现「一次配置、全员复用」。",
+   "管理员可统一下发符合企业安全要求的模型配置，降低成员私自接入或选错模型带来的风险。",
+   "会话结束时还能把纠错记录和工具失败经验编译回仓库，供后续任务参考，形成团队经验的闭环沉淀。",
+   "TeamAI 已集成进腾讯云智能体管理平台 ClawPro，管理员可集中管理 Skill、MCP 并批量分发给所有接入的 Agent。"
+  ],
+  "impact": "对 AI 行业而言，Agent 的竞争正从单点能力转向团队级协作基础设施，「技能与配置的版本管理」可能成为新的标配能力。对开发者来说，重复配置和口头同步的成本大幅降低，个人经验可以沉淀为团队资产并被审计追溯，但也要适应 MR 评审式的 Git 工作流。对普通用户而言，企业内 AI 的输出会更一致、更符合安全规范，回答质量的波动也会更小。",
+  "tools": "想跟进可关注腾讯云开源的 TeamAI 仓库（可在 GitHub 搜索），配合 Claude Code、Codex、Cursor 等支持会话 Hook 的 Agent 使用；企业侧可了解 ClawPro 平台的 Skill 与 MCP 集中管理能力；MCP 协议相关工具也是天然的配套生态。"
+ },
+ "lang": "zh"
+}
