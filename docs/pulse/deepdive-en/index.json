@@ -5587,5 +5587,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-10T13:56:02.000Z",
   "fetched_at": "2026-10-10T18:37:31.088578+00:00"
+ },
+ "be7d657da06e": {
+  "id": "be7d657da06e",
+  "url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
+  "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+  "source": "MarkTechPost",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-10T21:30:36.000Z",
+  "fetched_at": "2026-10-10T23:35:14.251410+00:00"
+ },
+ "71711c72881d": {
+  "id": "71711c72881d",
+  "url": "https://www.understandingrobots.org/p/openais-astra-model-is-shockingly",
+  "title": "OpenAI's Astra model is shockingly good at robotics",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T20:21:02Z",
+  "fetched_at": "2026-10-10T23:35:22.840724+00:00"
+ },
+ "dd6ce8fc42ce": {
+  "id": "dd6ce8fc42ce",
+  "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+  "title": "Is AI conscious? Anthropic says 'maybe'",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T20:15:48Z",
+  "fetched_at": "2026-10-10T23:35:33.781000+00:00"
+ },
+ "1d4ccde51829": {
+  "id": "1d4ccde51829",
+  "url": "https://arxiv.org/abs/2605.22763",
+  "title": "Google DeepMind solves 9 Erdős problems",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T18:59:25Z",
+  "fetched_at": "2026-10-10T23:35:55.484835+00:00"
+ },
+ "b0aa68d3c941": {
+  "id": "b0aa68d3c941",
+  "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+  "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T16:47:52Z",
+  "fetched_at": "2026-10-10T23:36:08.861072+00:00"
+ },
+ "c4f3bf23d924": {
+  "id": "c4f3bf23d924",
+  "url": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents",
+  "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T15:00:14Z",
+  "fetched_at": "2026-10-10T23:36:18.707747+00:00"
  }
 }
