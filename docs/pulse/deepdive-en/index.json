@@ -5506,5 +5506,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-09T21:41:29.000Z",
   "fetched_at": "2026-10-09T22:38:56.457939+00:00"
+ },
+ "babbaaa764e1": {
+  "id": "babbaaa764e1",
+  "url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration",
+  "title": "Claude agents can now write their own multiagent workflows",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T10:13:21Z",
+  "fetched_at": "2026-10-10T12:28:05.373057+00:00"
+ },
+ "f31dc1605f90": {
+  "id": "f31dc1605f90",
+  "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+  "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T09:30:03Z",
+  "fetched_at": "2026-10-10T12:28:35.289171+00:00"
+ },
+ "8f1a16fd4fbf": {
+  "id": "8f1a16fd4fbf",
+  "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+  "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T08:35:13Z",
+  "fetched_at": "2026-10-10T12:29:02.673550+00:00"
+ },
+ "2e1397672f85": {
+  "id": "2e1397672f85",
+  "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+  "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-10T06:45:57.000Z",
+  "fetched_at": "2026-10-10T12:29:56.034288+00:00"
  }
 }

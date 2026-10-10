@@ -14749,5 +14749,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-09T22:51:52Z",
   "fetched_at": "2026-10-10T05:48:42.307745+00:00"
+ },
+ "c9aad9a151d6": {
+  "id": "c9aad9a151d6",
+  "url": "https://www.aibase.com/zh/news/31539",
+  "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-10T12:25:50.855864+00:00"
+ },
+ "02570fea1fca": {
+  "id": "02570fea1fca",
+  "url": "https://www.aibase.com/zh/news/31533",
+  "title": "微软王炸决策模型浮出水面：36 项测试夺冠，直逼 GPT-6 Sol",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-10T12:26:06.454068+00:00"
+ },
+ "50b75dbba96a": {
+  "id": "50b75dbba96a",
+  "url": "https://www.aibase.com/news/31522",
+  "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-10T07:53:08.843Z",
+  "fetched_at": "2026-10-10T12:26:23.567410+00:00"
+ },
+ "bbc27bbcd98f": {
+  "id": "bbc27bbcd98f",
+  "url": "https://www.ithome.com/1/011/376.htm",
+  "title": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T07:08:10Z",
+  "fetched_at": "2026-10-10T12:26:44.693158+00:00"
+ },
+ "ed1755038678": {
+  "id": "ed1755038678",
+  "url": "https://www.huxiu.com/article/4896420.html?f=rss",
+  "title": "AI开始撕裂全球经济：美国收割红利，欧洲深陷泥潭",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T07:06:28Z",
+  "fetched_at": "2026-10-10T12:27:03.209238+00:00"
+ },
+ "f7adb9c3073e": {
+  "id": "f7adb9c3073e",
+  "url": "https://www.ithome.com/1/011/347.htm",
+  "title": "Cloudflare 推出开放权重决策 AI 模型 Clef-omni，新增支持音频 / 视频输入",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T06:26:25Z",
+  "fetched_at": "2026-10-10T12:27:27.027909+00:00"
+ },
+ "7413182a5ef2": {
+  "id": "7413182a5ef2",
+  "url": "https://www.ithome.com/1/011/329.htm",
+  "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T05:38:05Z",
+  "fetched_at": "2026-10-10T12:27:39.018554+00:00"
  }
 }

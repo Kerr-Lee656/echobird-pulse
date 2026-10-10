@@ -1,0 +1,24 @@
+{
+ "id": "c9aad9a151d6",
+ "url": "https://www.aibase.com/zh/news/31539",
+ "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-10T12:25:50.855864+00:00",
+ "content": "腾讯云10月10日开源团队 AI 协作工具 TeamAI（github.com/Tencent/teamai-cli），该项目已在腾讯云内部自用并登上 GitHub Trending。\n据悉，TeamAI 基于 Git，把团队 Skill、工作规范、工具配置与项目知识统一放进仓库，像管理代码一样评审、更新与版本管理，再同步到成员各自的 Agent，实现一人配置、全员复用，目前已适配 WorkBuddy、CodeBuddy、Claude Code、Codex、Cursor 等16种 Agent。\n成员提交技能时自动建分支、发起合并请求交评审，合入后支持会话启动 Hook 的 Agent 在新对话开始时自动拉取更新;共享范围还涵盖 MCP 工具配置、Rules 与子 Agent，近期新增模型配置统一下发能力。\nTeamAI 会在会话出现反复纠正或工具调用失败时提示成员分享经验，由 Agent 整理成文档入库供后续检索。官方一项涉及13个研发任务的测试显示，接入团队知识的较低成本模型综合评分提高6.1%，模型调用成本降低76%。该工具亦已集成至腾讯云智能体管理平台 ClawPro。",
+ "report": {
+  "summary": "腾讯云开源 TeamAI，用 Git 像管代码一样管 Agent 团队技能，成本降 76%",
+  "background": "Agent 工具爆发后，每个开发者都在各自电脑上重复配置 Skill、Rules、MCP 工具和提示词，经验散落在个人机器里，无法沉淀也无法评审。团队想把“某人调好的 Agent”复用给全员，此前只能靠文档口耳相传或复制粘贴，版本混乱、更新不同步。腾讯云把软件工程里成熟的 Git 工作流搬到 Agent 配置上：技能即代码，评审即合并，仓库即团队大脑。该工具已在腾讯云内部自用，并登上 GitHub Trending。",
+  "key_points": [
+   "把团队 Skill、工作规范、工具配置和项目知识统一放进 Git 仓库，像管理代码一样评审、更新和做版本管理。",
+   "已适配 WorkBuddy、CodeBuddy、Claude Code、Codex、Cursor 等 16 种 Agent，实现一人配置、全员复用。",
+   "提交技能时自动建分支并发起合并请求，合入后支持 Hook 的 Agent 会在新会话开始时自动拉取最新配置。",
+   "共享范围不只 Skill，还包括 MCP 工具配置、Rules、子 Agent，近期新增模型配置统一下发能力。",
+   "检测到反复纠正或工具调用失败时提示分享经验，由 Agent 整理成文档入库；13 项研发任务测试中低成本模型评分提升 6.1%，调用成本降低 76%。"
+  ],
+  "impact": "对 AI 行业，TeamAI 把“提示词工程”正式工程化，Git 有望成为 Agent 资产的标准分发方式，与 MCP、Agent 注册中心形成互补。对开发者，团队知识不再靠口头传递，新人接入成本大幅下降；敏感信息进仓库也带来权限与安全审查的新要求。对普通用户，最直观的变化是同一团队产出的 AI 助手行为更一致、更可靠，且成本下降意味着订阅和 API 定价有更大让利空间。",
+  "tools": "主项目为 TeamAI（github.com/Tencent/teamai-cli），可直接对接 Claude Code、Codex、Cursor、CodeBuddy 等已有 Agent；腾讯云内部可关注其集成的智能体管理平台 ClawPro。想上手的团队建议先在单个小仓库试点 Skill 的 MR 评审流程，再逐步纳入 MCP 与模型配置。"
+ },
+ "lang": "zh"
+}
