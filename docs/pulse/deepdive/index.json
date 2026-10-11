@@ -14857,5 +14857,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-10T13:09:54Z",
   "fetched_at": "2026-10-10T18:34:36.030049+00:00"
+ },
+ "47aa66d1b4eb": {
+  "id": "47aa66d1b4eb",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:41:28.285385+00:00"
+ },
+ "92712b6ff397": {
+  "id": "92712b6ff397",
+  "url": "https://wallstreetcn.com/articles/3783347",
+  "title": "黄仁勋要「亲自下场」？英伟达洽谈收购「美国 DeepSeek」Reflection AI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:41:40.616712+00:00"
+ },
+ "cd872c282baf": {
+  "id": "cd872c282baf",
+  "url": "https://arxiv.org/html/2610.05978v1",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "Lobsters (技术社区)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-10T22:25:14Z",
+  "fetched_at": "2026-10-11T05:42:09.211224+00:00"
+ },
+ "288e96002fcd": {
+  "id": "288e96002fcd",
+  "url": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists",
+  "title": "OpenAI Disrupts Two AI-Enabled 'False Front' Influence Operations That Included Seven Fake Journalists",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:42:24.548608+00:00"
+ },
+ "818f4dcf830d": {
+  "id": "818f4dcf830d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+  "title": "Anthropic is cutting off its internal evaluations from the internet",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:42:32.533477+00:00"
+ },
+ "c9b37864105f": {
+  "id": "c9b37864105f",
+  "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+  "title": "Cloudflare acquires Deno to improve its Workers programming model",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:42:39.970066+00:00"
+ },
+ "14721476dc14": {
+  "id": "14721476dc14",
+  "url": "https://mashable.com/tech/anthropic-claude-sent-phony-tip-about-unsolved-murder",
+  "title": "Claude sent phony tip about an unsolved murder to Philadelphia police",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:42:52.043535+00:00"
  }
 }

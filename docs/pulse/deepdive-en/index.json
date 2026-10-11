@@ -5641,5 +5641,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-10T15:00:14Z",
   "fetched_at": "2026-10-10T23:36:18.707747+00:00"
+ },
+ "3b553260d52e": {
+  "id": "3b553260d52e",
+  "url": "https://github.com/Robbyant/lingbot-map",
+  "title": "Robbyant/lingbot-map — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-11T05:43:49.202234+00:00"
+ },
+ "08f90a09e1bf": {
+  "id": "08f90a09e1bf",
+  "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+  "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+  "source": "Hacker News (5pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-11T02:41:19Z",
+  "fetched_at": "2026-10-11T05:45:08.886115+00:00"
+ },
+ "ab8975efb8f2": {
+  "id": "ab8975efb8f2",
+  "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+  "title": "Why OpenAI's latest results dump has left mathematicians in shock",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-10T23:08:23Z",
+  "fetched_at": "2026-10-11T05:46:39.436345+00:00"
  }
 }

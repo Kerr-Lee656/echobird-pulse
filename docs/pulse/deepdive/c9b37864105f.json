@@ -1,0 +1,24 @@
+{
+ "id": "c9b37864105f",
+ "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+ "title": "Cloudflare acquires Deno to improve its Workers programming model",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-11T05:42:39.970066+00:00",
+ "content": "Cloudflare announced Friday that it’s acquiring Deno, the startup behind the programming runtime of the same name.\nAccording to Cloudflare’s Kenton Varda, Cloudflare will use this acquisition to improve its Workers programming model and platform, which allows customers to build and run software on Cloudflare’s network. (Varda is principal engineer for Cloudflare Workers.)\nDeno — which was co-founded by Bert Belder and Node.js creator Ryan Dahl — recently launched celld, an open source implementation of Workers, which Varda wrote “delighted” the Cloudflare team. Varda argued that contrary to “a popular theory” that the company “made Cloudflare Workers work differently from other cloud platforms in order to create ‘lock-in,’” the company believes “being open source and giving people an escape hatch is good business.”\nDahl, meanwhile, wrote that his team is “joining Cloudflare to make the Workers programming model a mainstream way to build servers.”\nThe financial terms of the acquisition were not disclosed. Deno had raised a total of $26 million, including a Series A led by Sequoia.",
+ "report": {
+  "summary": "Cloudflare 收购 Deno，强化 Workers 边缘编程模型",
+  "background": "Deno 由 Node.js 之父 Ryan Dahl 与 Bert Belder 联合创立，主打更安全、原生支持 TypeScript 的 JavaScript 运行时，累计融资 2600 万美元，红杉领投 A 轮。Cloudflare Workers 是其边缘计算平台，允许开发者在全球网络上部署代码，但长期被外界批评运行时与主流 Node 生态割裂、容易形成厂商锁定。Deno 近期开源的 celld——一个 Workers 的开源实现——让 Cloudflare 团队大为赞赏，直接促成了这笔收购。",
+  "key_points": [
+   "Cloudflare 宣布收购 Deno 公司，交易金额未披露，Deno 此前累计融资 2600 万美元。",
+   "Deno 团队将整体加入 Cloudflare，创始人 Ryan Dahl 称目标是让 Workers 编程模型成为主流的服务端构建方式。",
+   "收购的关键动因之一，是 Deno 开源的 celld——它是 Cloudflare Workers 的开源实现，被视为生态互通的桥梁。",
+   "Cloudflare 明确反驳“故意制造锁定”的说法，认为开源并给用户留“逃生通道”才是好生意。",
+   "这意味着 Deno 作为独立运行时厂商的商业化路径基本结束，Node/Deno 之争进入新阶段。"
+  ],
+  "impact": "对 AI 行业而言，边缘运行时是 Agent、推理路由和实时 AI 应用的部署底座，Cloudflare 借此把边缘网络与 JS/TS 生态打通，强化其“边缘 AI 托管”定位。对开发者，Workers 与 Deno/Node 生态有望进一步融合，迁移与自托管选择更多，但平台集中度上升，锁定风险仍需警惕。对普通用户，体验为更快、更低延迟的边缘应用，几乎无感知。",
+  "tools": "想跟进的开发者可关注：Deno 运行时与 Deno Deploy、开源项目 celld、Cloudflare Workers 与 Wrangler CLI、边缘框架 Hono，以及本地模拟 Workers 的 Miniflare。"
+ },
+ "lang": "zh"
+}

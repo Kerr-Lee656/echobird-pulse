@@ -1,0 +1,24 @@
+{
+ "id": "47aa66d1b4eb",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+ "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-11T05:41:28.285385+00:00",
+ "content": "In a lengthy post on X, Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind “tamper-proof human readable evidence.”\nSatya Nadella says we should assume all AI models are ‘compromised’\nMicrosoft’s CEO calls for putting an ‘emergency brake’ on AI.\nMany of his recommendations align with what we’ve heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It’s on that last point that he appears to go slightly farther than some others in the field, saying:\nWe must assume a model is compromised and contain it from the start. Think of it like an emergency brake. An authorized person should always be able to pause or shut down a model mid-task. More advanced models will require more advanced containment technologies that we need to standardize on.\nUnfortunately, Nadella also refers to AI as “super intelligence” throughout the post.",
+ "report": {
+  "summary": "纳德拉称应假设所有AI模型已被攻陷，主张全程隔离与紧急制动。",
+  "background": "微软CEO萨提亚·纳德拉在X发长文，讨论高度先进AI模型的风险与应对。当前AI模型多为黑箱，智能体能力快速增强，行业频发安全与滥用事件，欧盟AI法案等监管也在推进。纳德拉提出透明、可观察、可隔离、可审计的治理思路，与业界对事件披露、独立审计的共识一致，但在“从部署之初就假设模型已被攻陷并隔离”上更激进。",
+  "key_points": [
+   "纳德拉反对把AI视为嵌套黑箱，主张模型应可隔离、可观察，并留下防篡改、人类可读的证据。",
+   "他提出必须假设模型已被攻陷，从部署起就隔离；授权者应能像紧急制动一样随时暂停或关停模型。",
+   "这些主张与业界共识一致：及时披露AI事故、独立第三方审计、可验证数据来源与运行隔离。",
+   "在隔离上他比部分同行更进一步，认为越先进的模型越需要更先进的隔离技术，且应推动标准化。",
+   "但他通篇将AI称为“超级智能”，这一措辞被批评为夸大风险、模糊当前AI能力边界。"
+  ],
+  "impact": "对AI行业，这相当于微软CEO为安全合规站台，可能推动审计与可中断机制成为企业采购和监管的硬门槛。对开发者，需在系统架构中内建隔离、日志、权限与紧急制动，安全工程从附加项变成核心能力。对普通用户，AI服务或更可信、更可控，但部分功能可能因限制而变慢或受限，同时隐私与监管争论会更激烈。",
+  "tools": "想跟进可关注：Microsoft PyRIT（红队测试）、Azure AI Content Safety、NVIDIA NeMo Guardrails、Guardrails AI、LangKit 等护栏/审计工具，以及 MITRE ATLAS、OWASP LLM Top 10 等风险框架，帮助在开发中实现隔离、监控与紧急停用。"
+ },
+ "lang": "zh"
+}
