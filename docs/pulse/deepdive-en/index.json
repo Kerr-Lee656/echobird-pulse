@@ -5668,5 +5668,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-10T23:08:23Z",
   "fetched_at": "2026-10-11T05:46:39.436345+00:00"
+ },
+ "679acbb0969e": {
+  "id": "679acbb0969e",
+  "url": "https://www.zach.be/p/tensordyne-is-making-ai-compute-more",
+  "title": "Tensordyne is making AI compute more efficient using logarithms",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-11T13:51:59Z",
+  "fetched_at": "2026-10-11T18:53:15.181717+00:00"
+ },
+ "813db9a13955": {
+  "id": "813db9a13955",
+  "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+  "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+  "source": "Hacker News (11pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-11T11:29:01Z",
+  "fetched_at": "2026-10-11T18:54:57.001608+00:00"
+ },
+ "42d1906c74af": {
+  "id": "42d1906c74af",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+  "title": "'Pure insanity': Mathematicians react to OpenAI's math results drop",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-11T09:07:08Z",
+  "fetched_at": "2026-10-11T18:55:36.198837+00:00"
+ },
+ "0fb329efbf8c": {
+  "id": "0fb329efbf8c",
+  "url": "https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai",
+  "title": "Europe confident its rules can thwart rogue AI",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-11T03:57:03Z",
+  "fetched_at": "2026-10-11T18:56:13.259129+00:00"
  }
 }
