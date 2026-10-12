@@ -1,0 +1,24 @@
+{
+ "id": "ec377d468acb",
+ "url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
+ "title": "US probes Foxconn, Luxshare and 18 others over AI server power patents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-12T05:51:45.482086+00:00",
+ "content": "AUS trade body has opened a patent case against 20 companies over the power systems inside AI servers. Foxconn, Luxshare and Quanta are among them.The US International Trade Commission acted after a complaint by power-chip maker Vicor, it said on Friday. Vicor says their products infringe one of its patents.\nTwenty names on the list\nThe case covers systems that feed power to top-end chips from directly below them, and the computers that use them.\nBesides Foxconn, Luxshare and Quanta, the companies named include Delta Electronics, Monolithic Power Systems, Infineon, Flex and Celestica.\nVicor wants the products barred from the US, and the firms ordered to stop selling them.\nLuxshare plays it down\nApple supplier Luxshare said in a filing on Saturday that it does not expect the probe to have a material impact on its production, operations or results, Bloomberg reported.\nThe products are still being tested by customers and are not in mass production, Luxshare said. The commission has not ruled on the claims yet.\nThe commission will set a target date to finish the case within 45 days. Any import ban could only take effect after a full hearing and a final ruling.\nLuxshare listed in Hong Kong in July, in the city’s biggest IPO this year.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美ITC调查富士康、立讯等20家企业AI服务器供电专利。",
+  "background": "Vicor是美国电源芯片厂商，主攻垂直供电（VPD）和电流倍增器，用于将高压电直接转换为GPU等高端芯片所需的低电压大电流。随着AI服务器功耗飙升，供电成为算力瓶颈，相关专利价值凸显。ITC的337调查是美国常见的贸易救济手段，若认定侵权，可发布有限排除令和禁止令。此次调查覆盖富士康、立讯、广达、台达、英飞凌、MPS等20家，正值AI服务器供应链竞争白热化，且立讯7月刚在香港上市。",
+  "key_points": [
+   "美国国际贸易委员会（ITC）应电源芯片商Vicor投诉，对20家企业发起337调查，指控其AI服务器供电系统侵犯专利。",
+   "涉案技术是“从芯片正下方供电”的垂直供电方案，用于高端AI芯片（如GPU）和服务器，是AI算力基础设施的关键环节。",
+   "被点名的包括富士康、立讯精密、广达、台达、MPS、英飞凌、伟创力、Celestica等，覆盖代工、电源、芯片多环节。",
+   "Vicor寻求禁止相关产品进口美国并禁售；立讯称产品仍在客户测试、未量产，预计无重大影响。",
+   "ITC将在45天内设定结案目标日期，最终禁令需经完整听证和终裁，短期不会立即生效。"
+  ],
+  "impact": "对AI行业，供电专利战可能打乱GPU服务器供应链，迫使厂商切换方案或支付授权费，短期或推高AI算力成本。对开发者，算力供给和价格波动可能间接影响训练与推理开支，但日常开发工具不受直接冲击。对普通用户，若进口禁令落地，云服务与AI应用价格可能承压，但最终裁决需时，短期影响有限。事件也凸显中美科技博弈下，基础零部件专利成为新战场。",
+  "tools": "可关注Vicor的垂直供电与电流倍增器技术；开源硬件方面，OCP的Open Rack、DC-SCM及NVIDIA MGX模块化服务器设计涉及供电规范；追踪案件可查ITC EDIS数据库。"
+ },
+ "lang": "zh"
+}
