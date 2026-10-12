@@ -15019,5 +15019,14 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-12T03:53:58Z",
   "fetched_at": "2026-10-12T15:17:45.533778+00:00"
+ },
+ "0c1c0b395051": {
+  "id": "0c1c0b395051",
+  "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+  "title": "AI coding agents generate more code, but not more software",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-12T17:14:01Z",
+  "fetched_at": "2026-10-12T22:57:49.039426+00:00"
  }
 }
