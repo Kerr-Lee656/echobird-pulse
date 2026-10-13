@@ -1,0 +1,24 @@
+{
+ "id": "25ab7be6466b",
+ "url": "https://aihot.news/items/ekphiltd4fdsskdlueleul8qa",
+ "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
+ "source": "Vaibhav Srivastav",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-13T19:15:03.000Z",
+ "fetched_at": "2026-10-13T21:16:40.232865+00:00",
+ "content": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。\n推荐理由\n原文给出赏金金额、6 天构建周期和 4 万美元算力等具体细节，可帮助读者理解 AI 辅助漏洞挖掘成本变化的实际案例。\n另有 1 家信源报道\n另有 1 家信源报道\n正文\nGPT 5.6 Sol btw\n引用Oege de Moor@oegerikus\nFor the second time in Google Chrome’s history, Google awarded a $250,000 bounty for a full-chain exploit… to @XBOW. Here’s the full story:\nAt an all-hands at the start of 2026 in Malta, I set the team a crazy challenge. A full-chain exploit of Chrome by the annual Black Hat cybersecurity conference in August.\nI believed there were few better tests of whether @XBOW could move beyond web applications to desktop software, servers and devices.\nChrome is one of the most hardened pieces of software on the planet, used by more than half the world’s population.\nA full-chain exploit lets an attacker take total control of a machine, where they can read every email, password and bank login the user types. You don’t need to download anything or click a phishing link. Visiting the wrong site is enough.\nSo @moyix, Andres Luksenberg, Baul Lee, and Willem Pinckaers took on the challenge along with a fifth teammate: OpenAI's GPT-5.6 Sol.\nThey built a chain they thought would win, but Google told us they already knew one of the bugs.\nWe were already in Las Vegas for Black Hat and DEF CON, and the team didn’t want to go home without the win.\nSo Brendan and the agents built a new exploit in just 6 days.\nWe submitted it to Google and waited.\nThe news came through that we'd done what should’ve been impossible. A full-chain bounty of $250,000, the first awarded under Google’s 2026 rules.\nIt took just 6 days and $40,000 of compute to construct an exploit that affects a billion users of Chrome on Windows. An intelligence-agency veteran told me his team used to spend 6 months on this kind of vulnerability.\nMy takeaway: the cost of finding truly critical vulnerabilities is collapsing, for attackers and defenders alike. Restricting powerful models is not the answer; GPT-5.6 Sol is already public.\nBut defenders have one advantage attackers never will: they can test their own code first.\nAssume your software is exploitable. Whoever is hunting your bugs has the same building blocks we did.\nThis is cause for urgency but not panic.\nXBOW is now developing an autonomous product for testing compiled software (desktop applications, servers, embedded devices), and partnering with the world’s top organizations to design that product.\nIf you’d like to be one of them, get in touch.\nP.S. Restart Chrome whenever the Update button appears!",
+ "report": {
+  "summary": "XBOW 用 OpenAI GPT-5.6 Sol 辅助，6 天、4 万美元算力做出 Chrome 全链漏洞，拿下 Google 25 万美元赏金。",
+  "background": "Google Chrome 覆盖全球过半人口，其漏洞赏金计划以高门槛著称：全链漏洞需要串联多个零日，从渲染器逃逸到系统级控制，历史上仅发放过一次 25 万美元顶格奖励。XBOW 是一家以 AI 自动化渗透测试为核心的初创公司，此前主要在 Web 应用领域刷榜。此次事件发生在 2026 年 Google 新规生效后，团队在 Malta 全员会上立下“8 月 Black Hat 前攻破 Chrome 全链”的目标。最终由四名研究员加上 GPT-5.6 Sol，在初次提交的漏洞被 Google 判定为已知后，仅用 6 天重建出一条新链，算力成本约 4 万美元。它反映出 AI 正把极高难度的漏洞挖掘从“精英团队数月工程”压缩为“小团队数天迭代”。",
+  "key_points": [
+   "速度跃迁：同类全链漏洞过去约需 6 个月，XBOW 在首条链被判定为已知 bug 后，仅用 6 天就重建了一条新链。这意味着 AI 辅助把漏洞研究的迭代周期压缩了一个数量级以上。",
+   "成本倒挂：整个项目仅花费约 4 万美元算力，却换来 25 万美元赏金，且漏洞影响 Windows 上约十亿 Chrome 用户。攻击方的投入产出比明显改善，防御方的修补窗口被同步压缩。",
+   "人机协作：四名研究员加上 GPT-5.6 Sol 与智能体协同工作。模型并非独立发现一切，而是承担代码审计、路径探索和漏洞链组合的加速器角色，人类仍负责方向与验证。",
+   "新规首单：这是 Chrome 历史上第二次发放全链赏金，也是 2026 年新规则下的第一次。Google 按顶格金额支付，说明官方认可该漏洞的严重级别和现实可利用性。",
+   "现实建议：作者提醒用户看到 Chrome 的 Update 按钮就立即重启。攻击者只需诱导访问恶意网站即可完全控制机器，读取邮箱、密码与银行登录信息，无需下载或点击钓鱼链接。"
+  ],
+  "impact": "对 AI 行业，这标志自主漏洞挖掘进入可商用阶段，模型竞争将从写代码延伸到安全攻防；对开发者，AI 辅助审计会逐步成为标配，依赖“没人会发现”的旧式安全策略失效，必须把自测、模糊测试和威胁建模提前。对普通用户，风险是浏览器等基础软件攻击面变大、补丁节奏变快，最实际的动作是及时更新 Chrome 和操作系统。XBOW 的结论值得记住：防御方唯一的结构性优势是能先测自己的代码——限制强模型并不能阻止攻击者，公开模型同样可用。",
+  "tools": "可关注：XBOW 正在开发的面向编译软件（桌面应用、服务器、嵌入式设备）的自主测试产品；Google Chrome VRP 与 Chrome 更新通道；开源侧可跟进 OSS-Fuzz/ClusterFuzz、libFuzzer、AFL++、CodeQL、Semgrep，以及 Google Big Sleep、DARPA AIxCC 参赛项目等 AI 漏洞挖掘方案。"
+ },
+ "lang": "en"
+}
