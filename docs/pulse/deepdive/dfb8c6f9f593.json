@@ -1,0 +1,23 @@
+{
+ "id": "dfb8c6f9f593",
+ "url": "https://www.ithome.com/1/012/403.htm",
+ "title": "微软逆转办公 AI 策略，新版 Copilot 整合完整 Word / Excel / PowerPoint 体验",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-13T07:41:45Z",
+ "fetched_at": "2026-10-13T15:57:34.262050+00:00",
+ "content": "IT之家 10 月 13 日消息，科技媒体 NeoWin 昨日（10 月 12 日）发布博文，报道称微软逆转办公 AI 策略，此前主要将 Copilot 嵌入到 Office 应用中，而现在围绕着新款 Copilot 应用，集成完整的 Word、Excel 和 PowerPoint 创建、编辑与协作体验。\nIT之家附上相关视频如下：\n根据微软演示，用户在 Copilot 应用中，无需切换至独立 Office 应用，即可创建、编辑 Word 文档、Excel 表格和 PowerPoint 演示文稿，并与其他用户协作。\n在全新 Copilot 应用中，用户可从 Copilot Chat 中的简单提示启动任务，也可通过 Copilot Cowork 发起更复杂的任务。例如，用户可要求 Copilot 依据研究笔记生成 Word 文档，系统随后在对话旁打开该文档。\n与旧版 Copilot 仅能创建 Office 文件不同，新版支持用户在 Copilot 内继续处理文件。用户可要求 AI 重写内容、添加表格或完成其他修改，也可使用标准 Office 编辑控件手动调整内容。\n协作方面，用户可在应用内共享文件、添加评论，并与他人共同编辑；其他用户的更改会实时显示。目前支持编辑的文件类型包括 Word、Excel 和 PowerPoint。\n微软同时在 Copilot 应用中推出“库”（Library）版块，集中呈现最近使用的 Office 文件、Copilot 页面和 AI 生成图像。用户可从该版块重新打开既有文件或创建新文件。\n所有 Office 文件仍存储于 OneDrive，并保留格式、注释、共享权限和版本历史。模型调用方面，用户可为 Office 任务选择指定 AI 模型，也可启用 Auto 模式，由 Copilot 依据任务自动选择模型。",
+ "report": {
+  "summary": "微软 Copilot 逆转策略，变身整合 Word、Excel、PPT 的一站式应用",
+  "background": "此前微软把 Copilot 作为侧边栏插件塞进 Word、Excel、PowerPoint 各自内部，用户必须切换应用才能使用 AI，被批评功能碎片化、体验割裂、留存不佳。与此同时，ChatGPT、Claude、Gemini 都能直接生成和编辑文档，Google 也在 Workspace 中深度整合 Gemini，办公入口之争白热化。微软此次把完整的 Office 编辑能力反向搬进 Copilot 应用本体，意味着 Copilot 从“Office 的助手”升级为“承载 Office 的新入口”，是一次姿态与架构的双重反转。",
+  "key_points": [
+   "角色反转：过去 Copilot 嵌在 Office 里，现在 Office 变成 Copilot 里的模块，用户不用在多个应用间来回切换。",
+   "从“只能生成”到“能接着改”：可在对话旁直接重写内容、加表格，也能用标准 Office 控件手动编辑，并支持评论与实时协作。",
+   "新增“库”版块，集中管理最近使用的 Office 文件、Copilot 页面和 AI 生成图像，文件仍存 OneDrive，权限与版本历史保留。",
+   "模型可选：用户能为具体 Office 任务指定 AI 模型，也可用 Auto 模式让 Copilot 自动挑选，暗示底层可能接入多家模型。"
+  ],
+  "impact": "对行业，办公套件的竞争焦点从“谁的编辑器好用”转向“谁的 AI 入口先被打开”，微软、Google 与通用聊天助手将正面争夺同一块屏幕。对开发者，Office 文件正变成可被 AI 编排的对象，围绕文档自动化的插件、Agent 与 MCP 类工具会迎来新机会，但传统加载项生态可能被边缘化。对普通用户，办公门槛进一步降低，一句话就能产出并修改文档，代价是更依赖订阅与云端存储，也需重新适应“对话即工作台”的操作习惯。",
+  "tools": "想跟进可关注 Microsoft 365 Copilot 与 Copilot Cowork 的实际开放节奏、Google Gemini for Workspace、Notion AI 与飞书/腾讯文档的智能助手做横向对比；开发者可研究 Office 文件格式库（python-docx、openpyxl、python-pptx）、LangChain 等 Agent 框架与 MCP 协议，尝试自建文档自动化流程。"
+ },
+ "lang": "zh"
+}

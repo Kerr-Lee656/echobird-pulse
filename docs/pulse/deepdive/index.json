@@ -15028,5 +15028,59 @@
   "site_name": "Zeli",
   "published_at": "2026-10-12T17:14:01Z",
   "fetched_at": "2026-10-12T22:57:49.039426+00:00"
+ },
+ "dece21335ee3": {
+  "id": "dece21335ee3",
+  "url": "https://thenextweb.com/news/auto-anthropic-small-ai-models-self-replicate-iot-devices",
+  "title": "Anthropic says small AI models may soon copy themselves onto smart devices",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-13T15:56:23.942619+00:00"
+ },
+ "80fa181219ac": {
+  "id": "80fa181219ac",
+  "url": "https://www.businessinsider.com/mark-zuckerberg-massive-risk-meta-took-on-ai-2026-10",
+  "title": "Meta was prepared to write an up to $200 billion AI check before knowing whether its model would work",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-13T15:56:31.625418+00:00"
+ },
+ "13938a4099e5": {
+  "id": "13938a4099e5",
+  "url": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+  "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-13T15:56:45.265669+00:00"
+ },
+ "bfd4581b08f5": {
+  "id": "bfd4581b08f5",
+  "url": "https://www.ithome.com/1/012/420.htm",
+  "title": "Character.AI 申请破产，同意以 2000 万美元向迪士尼出售部分资产",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-13T08:22:30Z",
+  "fetched_at": "2026-10-13T15:57:13.585299+00:00"
+ },
+ "ad57cc73b062": {
+  "id": "ad57cc73b062",
+  "url": "https://www.ithome.com/1/012/419.htm",
+  "title": "曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-13T08:16:45Z",
+  "fetched_at": "2026-10-13T15:57:23.328521+00:00"
+ },
+ "dfb8c6f9f593": {
+  "id": "dfb8c6f9f593",
+  "url": "https://www.ithome.com/1/012/403.htm",
+  "title": "微软逆转办公 AI 策略，新版 Copilot 整合完整 Word / Excel / PowerPoint 体验",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-13T07:41:45Z",
+  "fetched_at": "2026-10-13T15:57:34.262050+00:00"
  }
 }
