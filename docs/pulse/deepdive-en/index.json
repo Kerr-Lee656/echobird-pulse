@@ -5767,5 +5767,50 @@
   "site_name": "arXiv cs.LG",
   "published_at": "2026-10-12T04:00:00.000Z",
   "fetched_at": "2026-10-12T05:55:58.492711+00:00"
+ },
+ "759119abe3ff": {
+  "id": "759119abe3ff",
+  "url": "https://github.com/lyogavin/airllm",
+  "title": "lyogavin/airllm — AirLLM 2.8T LLM inference with single 4GB GPU",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-13T06:46:52.978330+00:00"
+ },
+ "6d3bd03b4998": {
+  "id": "6d3bd03b4998",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "title": "calesthio/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-13T06:47:04.046598+00:00"
+ },
+ "9c4c927e6cff": {
+  "id": "9c4c927e6cff",
+  "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+  "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+  "source": "Hacker News (30pts, 8c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-13T05:57:32Z",
+  "fetched_at": "2026-10-13T06:47:34.129926+00:00"
+ },
+ "069001df154b": {
+  "id": "069001df154b",
+  "url": "https://arxiv.org/abs/2609.30266",
+  "title": "LLM Agents Can Easily Tamper with Their Own Traces",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-13T05:00:05Z",
+  "fetched_at": "2026-10-13T06:47:58.324453+00:00"
+ },
+ "ff469b4c8e0c": {
+  "id": "ff469b4c8e0c",
+  "url": "https://arxiv.org/abs/2610.13194",
+  "title": "JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-13T04:00:00.000Z",
+  "fetched_at": "2026-10-13T06:48:30.384619+00:00"
  }
 }
