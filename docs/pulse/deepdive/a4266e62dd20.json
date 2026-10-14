@@ -1,0 +1,24 @@
+{
+ "id": "a4266e62dd20",
+ "url": "https://www.businessinsider.com/redwood-materials-recycled-ev-batteries-power-ai-data-centers-2026-10",
+ "title": "红木材料公司推出了一项新业务：帮助人工智能数据中心应对电力短缺问题",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-14T13:16:55.683Z",
+ "fetched_at": "2026-10-14T18:35:42.767954+00:00",
+ "content": "Redwood Materials wants to help companies sidestep yearslong waits for electricity by building on-site energy systems with recycled electric vehicle batteries, according to CEO JB Straubel.\nThe battery recycling startup is expanding beyond collecting and processing old EV batteries. It's increasingly pitching itself as a way for AI data centers to get power faster, without waiting for new connections to America's backed-up electric grid.\n\"Connecting to the grid can take years,\" Straubel wrote in a blog post on Wednesday.\nHis solution is what the industry calls \"behind-the-meter\" energy systems, which operate without needing to connect to the grid. Redwood would combine second-life EV batteries with solar panels and other on-site power sources, allowing customers to generate and store electricity at their own facilities.\nThe company is already putting the idea into practice with Rivian. Redwood recycles used batteries from the EV maker and is installing energy storage systems at Rivian's manufacturing plants, building on a 10-megawatt-hour installation at the company's Illinois factory.\nRedwood is also packaging the batteries with its own power electronics and software, turning what began as a recycling business into a broader energy offering.\nThe company launched its Redwood Energy division last year on the premise that EV batteries still have years of useful life after they're retired from cars. It has already built a large battery system for a Crusoe data center.\nStraubel's latest post makes clear where Redwood sees its biggest opportunity.\n\"The underlying problem is speed to power,\" he wrote, referring to the AI-fueled race to secure electricity.\nThat marks another step in Redwood's evolution. Investors originally backed the company to recycle batteries. Now, it's increasingly selling something different: a faster way to bring power to energy-hungry AI data centers.\nSign up for the AI Insider newsletter here. Reach out to me via email at abarr@businessinsider.com",
+ "report": {
+  "summary": "红木材料推AI数据中心离网储能业务",
+  "background": "AI数据中心用电激增，美国电网接入排队常达数年，成为算力扩张瓶颈。Redwood Materials原以回收EV电池闻名，CEO JB Straubel曾主导特斯拉电池技术；公司去年成立Redwood Energy，利用退役电池仍有剩余寿命的特点做储能。此次它把业务延伸到AI数据中心，提供不依赖电网的“表后”能源系统，试图把回收生意升级为快速供电方案。",
+  "key_points": [
+   "Redwood不再只做电池回收，新推Redwood Energy，把退役电动车电池做成储能系统，直接卖给耗电巨大的AI数据中心。",
+   "方案采用“表后”模式：退役电池+太阳能+现场电源，在数据中心自建发电和储能，不必等待电网新接入，绕开多年排队。",
+   "已有落地：为Rivian工厂部署储能，基于伊利诺伊州10兆瓦时项目扩展；此前也为Crusoe数据中心建了大型电池系统。",
+   "公司还打包电力电子和软件，从回收商转型为能源方案商。Straubel称核心问题是“供电速度”，即谁能更快把电送到AI机房。",
+   "这反映AI热潮正把电力变成稀缺资源，现场储能、微电网和电池梯次利用成为数据中心新的竞争点。"
+  ],
+  "impact": "对AI行业，离网储能可缓解电网排队瓶颈，推动数据中心采用微电网和现场发电，可能改变选址与建设节奏。对开发者，算力供给或更灵活，但能源成本、运维复杂度上升，需关注电力约束。对普通用户，AI服务扩容可能更稳，但若电力成本转嫁，云与AI订阅价格也可能承压；同时退役电池梯次利用有利于减碳。",
+  "tools": "想跟进可关注：Redwood Energy官网及案例；微电网/储能仿真工具如 NREL SAM/PySAM、HOMER Energy、OpenEMS；电池梯次利用标准与BMS方案。开发者可研究“表后储能+太阳能+数据中心”架构，评估当地电价、并网排队与碳排政策。"
+ },
+ "lang": "zh"
+}

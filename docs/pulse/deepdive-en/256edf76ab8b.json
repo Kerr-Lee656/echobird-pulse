@@ -1,0 +1,23 @@
+{
+ "id": "256edf76ab8b",
+ "url": "https://aihot.news/items/yhc47nz5ldukuh72exdy38fxe",
+ "title": "OpenAI 在 DevDay 推出 ChatGPT Space 团队协作功能",
+ "source": "ChatGPT",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-14T17:37:41.000Z",
+ "fetched_at": "2026-10-14T18:39:31.860246+00:00",
+ "content": "ChatGPT· @ChatGPT · X·· 53 分钟前精选AI 评分65\nAI 导读\nOpenAI 在 DevDay 上推出 ChatGPT Space，供团队与 AI 协作完成工作。用户可与他人和 ChatGPT 共同创建活文档，把杂乱对话整理成计划，邀请队友编辑或评论，@ChatGPT 或你的 dot 修改内容；还可让 ChatGPT 根据已连接工具自动更新页面。\n推荐理由\n官方发布帖写明了 Space 的协作用法、可用套餐和入口，读者能直接判断是否纳入团队工作流。\n正文 · AI 翻译\n在 DevDay 上，我们推出了 ChatGPT Space：一个让团队与 AI 协作完成工作的新空间。\n在 Space 中，你可以与 ChatGPT 以及和你共事的人一起创建动态文档。把杂乱的对话变成有条理的计划，并邀请队友一起编辑或在评论中留下反馈。标记 ChatGPT 或你的 dot 来进行修改或协助下一步工作。\n你还可以让 ChatGPT 根据你已连接的工具保持页面更新，这样你就能专注于工作——而不是更新文档。\n在下方了解它的工作方式，并前往 http://chatgpt.com/space 开始使用。\n已在网页版和桌面版的 Pro、Business 和 Enterprise 套餐中提供。\n来源：ChatGPT · x.com",
+ "report": {
+  "summary": "OpenAI 在 DevDay 发布 ChatGPT Space，让团队与 ChatGPT 共同创建、编辑并自动更新协作文档，已在 Pro、Business 和 Enterprise 套餐上线。",
+  "background": "OpenAI 近两年持续把 ChatGPT 从单点问答工具推向团队工作平台。此前已陆续推出 Canvas 写作画布、Projects 项目分组、Connectors 连接外部数据源，以及 AgentKit 与 Apps SDK 等开发者能力。此次 DevDay 的 ChatGPT Space，是把这些散落能力收拢成一个共享工作空间：文档不再是一次性输出，而是可被多人、多智能体持续编辑的活文档。行业侧，Notion、Google Docs + Gemini、Microsoft Loop + Copilot、Slack AI 都在争夺 AI 原生的协作层，OpenAI 这一步把战场从模型能力直接拉到日常办公主界面，也是其企业营收增长的关键押注。",
+  "key_points": [
+   "活文档取代静态输出：在 Space 中，用户可与 ChatGPT 及同事共同创建动态文档，把散乱对话整理成有条理的计划，并邀请队友编辑或在评论中反馈。",
+   "用 @ 直接驱动修改：用户可标记 ChatGPT 或自己的 dot 来触发修改、协助下一步工作，人和 AI 在同一个文档里被同等对待。",
+   "连接器自动更新页面：ChatGPT 可根据已连接的工具自动保持页面最新，官方称目的是让团队专注工作，而不是反复维护文档。",
+   "先面向付费企业套餐：功能已在网页版和桌面版上线，开放给 Pro、Business 和 Enterprise，入口为 chatgpt.com/space，免费与 Plus 用户暂不可用。"
+  ],
+  "impact": "对 AI 行业，这标志着头部模型厂商正式从模型层切入应用层，直接与 Notion、Google Workspace、Microsoft 365 的 AI 协作功能正面竞争，协作软件的价值可能被重新分配到 AI 平台一侧。对开发者，Connectors 与 Apps SDK 变成新的分发渠道，把自己的产品做成 Space 里的数据源或动作是明显机会，但同时增加了对单一平台的依赖风险。对普通用户，文档维护负担下降、对话成果更容易沉淀为可执行计划；但需要注意连接器的授权范围、企业数据权限边界，以及 AI 自动改动内容后仍需人工复核的成本。",
+  "tools": "想跟进可对比 Notion AI、Google Docs + Gemini、Microsoft Loop/Copilot Pages 与 Slack AI 的协作方式；开源侧可试 AFFiNE、AppFlowy、Outline 等可自托管协作文档，配合 Open WebUI 或 LibreChat 自建 ChatGPT 式界面，再用 LangChain、CrewAI 复刻让智能体改文档的多智能体流程。OpenAI 自家的 Connectors 与 Apps SDK 文档也值得先读一遍。"
+ },
+ "lang": "en"
+}

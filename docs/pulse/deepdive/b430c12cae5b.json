@@ -1,0 +1,24 @@
+{
+ "id": "b430c12cae5b",
+ "url": "https://thenextweb.com/news/apple-openai-trade-secrets-hearing",
+ "title": "Apple, OpenAI head to court over AI trade secrets, with the case on the line",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-14T18:34:39.842010+00:00",
+ "content": "A federal judge in San Jose hears two opposed motions on the same day, Apple’s request to stop OpenAI using anything taken from it and OpenAI’s request to throw the case out. Apple won part of its expedited discovery on Tuesday, and was refused part of it.\nApple and OpenAI are in court in San Jose on Wednesday, with two opposed motions heard at once. One would bind OpenAI for the length of the case. The other would end it.\nUS District Judge Edward Davila has both in front of him, Bloomberg reported. It is the first substantial hearing since Apple sued in July.\nApple wants an order requiring OpenAI to stop using any confidential information taken from it, and to stop seeking more.\nOpenAI wants the case dismissed. Its argument is that Apple has identified no specific trade secret, only broad categories of hardware information.\nThe case has two individual defendants. Apple named Tang Tan, OpenAI’s hardware chief, and Chang Liu, a former iPhone engineer, alleging coordinated misconduct. The design firm io Products is a defendant too.\nApple won part of what it asked for on Tuesday. Davila ordered forensic images handed over, with the checklists and scripts used to interview Apple candidates, interview summaries, and Liu’s messages to a former colleague since January.\nHe refused another part. Research documents on metal finishes, power management and battery function stay in ordinary discovery, and Apple’s own category of “Apple Originated Information” was called amorphous, 9to5Mac reported.\nOpenAI’s account points at Apple’s own systems. It says Apple encouraged staff to use personal iCloud for work, and that an authentication error left Liu with access after he left.\nThat argument is not new. OpenAI told the court in August that Apple cannot turn the foreseeable consequences of its own policies into evidence of theft.\nApple says the two are separate. The iCloud material is not its core allegation, which is that Liu exploited an authentication flaw to reach Apple network storage and download files.\nThe device is what is at stake. OpenAI says it is building a new family of devices for the AI era, starting with a doughnut-shaped speaker priced above $300 and due in 2027.\nThe suit has already slowed that work since July, and OpenAI is preparing to list at a targeted $1.4T. The metal finishing Davila left in ordinary discovery is what Apple’s complaint ties to the speaker’s shell.\nIn Europe this fight would start in a contract. California voids non-competes, so Apple must prove theft afterwards, while Germany permits a two-year restraint if the employer pays at least 50% of prior pay.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果与OpenAI就AI硬件商业秘密案对簿公堂",
+  "background": "苹果7月起诉OpenAI及其硬件负责人Tang Tan、前iPhone工程师Chang Liu和设计公司io Products，指控其窃取AI硬件相关商业秘密。OpenAI正为AI时代打造新设备，首款为售价超300美元、2027年推出的甜甜圈形音箱。本周三在圣何塞，法官Edward Davila同时审理苹果的禁令请求与OpenAI的驳回请求，这是诉讼以来首次实质听证。",
+  "key_points": [
+   "听证同审两动议：苹果要求禁止OpenAI使用并继续获取机密信息，OpenAI则主张苹果未指明具体商业秘密，只给硬件信息大类，要求驳回案件。",
+   "苹果周二部分胜诉：法官命令OpenAI交出取证镜像、面试清单脚本、面试摘要及Liu今年1月以来信息；但金属表面处理、电源和电池研究仍留普通证据开示。",
+   "OpenAI辩称苹果鼓励员工用个人iCloud办公，认证错误令Liu离职后仍有权限；苹果强调核心指控是Liu利用漏洞进入苹果网络存储下载文件，两者不同。",
+   "案件真正焦点是OpenAI AI硬件：诉讼已拖慢研发，其正筹备以1.4万亿美元目标上市；苹果投诉把金属表面处理与音箱外壳关联。",
+   "法律环境差异明显：加州禁止竞业限制，苹果须事后证明窃取；德国若雇主支付原薪资50%以上，可实施两年竞业限制。"
+  ],
+  "impact": "对AI行业，硬件人才争夺与商业秘密边界将更受重视，OpenAI设备路线和上市节奏可能受扰。对开发者，跳槽、使用个人云盘和带走资料的风险被放大，需严格区分公司资产与个人账户。对普通用户，OpenAI首款AI硬件可能延期或调整，隐私与数据访问实践也会被审视。",
+  "tools": "跟进案件可关注CourtListener/RECAP、PACER、Bloomberg Law及9to5Mac报道；企业合规可了解Microsoft Purview、Google Vault、DLP和商业秘密审计工具，用于离职权限回收与数据隔离。"
+ },
+ "lang": "zh"
+}

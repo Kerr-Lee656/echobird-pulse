@@ -15136,5 +15136,59 @@
   "site_name": "AIbase",
   "published_at": "2026-10-14T02:37:39.963Z",
   "fetched_at": "2026-10-14T07:34:23.424796+00:00"
+ },
+ "b430c12cae5b": {
+  "id": "b430c12cae5b",
+  "url": "https://thenextweb.com/news/apple-openai-trade-secrets-hearing",
+  "title": "Apple, OpenAI head to court over AI trade secrets, with the case on the line",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T18:34:39.842010+00:00"
+ },
+ "ea9491c23d8d": {
+  "id": "ea9491c23d8d",
+  "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+  "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T18:34:48.398991+00:00"
+ },
+ "37d82df9fe7c": {
+  "id": "37d82df9fe7c",
+  "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+  "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T18:34:59.606433+00:00"
+ },
+ "f09a1d34953d": {
+  "id": "f09a1d34953d",
+  "url": "https://www.techradar.com/pro/lack-of-promised-profit-could-tank-the-global-economy-if-the-ai-bubble-pops-imf-warns",
+  "title": "Lack of promised profit could tank the global economy if the AI bubble pops, IMF warns",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T18:35:10.687531+00:00"
+ },
+ "99eb09d5956a": {
+  "id": "99eb09d5956a",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/139973",
+  "title": "AI 或可破解加密算法，以太坊研究员呼吁启动「掩体模式」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-14T18:35:28.782658+00:00"
+ },
+ "a4266e62dd20": {
+  "id": "a4266e62dd20",
+  "url": "https://www.businessinsider.com/redwood-materials-recycled-ev-batteries-power-ai-data-centers-2026-10",
+  "title": "红木材料公司推出了一项新业务：帮助人工智能数据中心应对电力短缺问题",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-14T13:16:55.683Z",
+  "fetched_at": "2026-10-14T18:35:42.767954+00:00"
  }
 }
