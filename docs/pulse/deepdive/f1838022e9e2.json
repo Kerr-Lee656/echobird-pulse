@@ -1,0 +1,24 @@
+{
+ "id": "f1838022e9e2",
+ "url": "https://www.engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch",
+ "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-14T23:13:18.893947+00:00",
+ "content": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch\nApple’s integrated AI system is still yet to be rolled out in mainland China, despite launching nearly two years ago.\nApple Intelligence will soon be making its way to supported iPhone models in China, as the country reportedly rubber stamps the use of Alibaba AI models to power the technology.\nAs reported by the South China Morning Post, which is owned by the Alibaba Group, China's Ministry of Industry and Information Technology has given regulatory approval for Tongyi Qianwen, the group of LLMs better known as Qwen, as well as the Tongyi Wanxiang AI-generated image and video tool.\nApple had already received clearance to roll out Apple Intelligence on the Chinese mainland back in July, but the South China Morning Post's report says it has not yet done so. The updated filings include network access permits for the iPhone Duo and 18 Pro, with the former set to launch in China next week with the new and improved Siri AI as one of its flagship software features.\nMuch of Apple Intelligence's feature set is already available in Hong Kong, but the mainland's complex AI and privacy laws have required Apple to be patient about bringing what is now a core feature to one of its fastest-growing markets. It will seemingly now arrive almost exactly two years after it launched in the US, where Apple has worked with both Google and OpenAI to train its models and hand off complex questions.\nReports that Apple would seek to work with Chinese AI firms for a workaround to bring Apple Intelligence to the country first emerged as far back as early 2025, with Alibaba named at the time. Back in the summer, it was confirmed that Qwen would be central to Apple Intelligence in compatible iPhone, iPad, Mac and Vision Pro models that it sells to its Chinese customers.",
+ "report": {
+  "summary": "阿里通义千问获准为苹果智能中国版提供AI能力",
+  "background": "苹果智能2024年在美国上线，但因中国生成式AI与数据合规要求，一直未进入中国大陆。苹果此前在美与OpenAI、Google合作，在中国则需找本土大模型伙伴。2025年初传出苹果接触阿里，夏季确认Qwen将用于中国销售的iPhone、iPad、Mac和Vision Pro。如今工信部批准通义千问及通义万相，并给iPhone Duo/18 Pro入网许可，为下周新机发布扫清关键障碍。",
+  "key_points": [
+   "中国工信部批准阿里通义千问大模型及通义万相图像/视频生成工具用于苹果智能，合规门槛基本打通。",
+   "苹果早在7月已获准在中国大陆推出苹果智能，但因合作模型和入网许可等未落地，实际一直未上线。",
+   "新款iPhone Duo下周在中国发布，新Siri AI是旗舰卖点；入网许可与模型批准时间点刚好衔接。",
+   "中国版苹果智能预计由Qwen承担本地大模型能力，复杂问题或仍与美国版类似合作方式，但需符合中国法规。",
+   "苹果智能美国上线近两年后才进入中国大陆，显示生成式AI全球化受监管、隐私与本地合作制约。"
+  ],
+  "impact": "对AI行业，苹果采用Qwen表明中国大模型进入全球终端生态，可能引发其他手机厂商加速与本土模型绑定。对开发者，苹果智能中国版将开放或带动基于端侧/云侧AI的新应用场景，但需适配中国合规与阿里模型接口。对普通用户，国行iPhone/iPad/Mac将获得更本地化的AI写作、图像生成和增强Siri体验，但功能范围与海外版可能不同。",
+  "tools": "想跟进可关注阿里通义千问Qwen开源模型、通义万相、Apple Intelligence开发者文档及Core ML；开发者可用Qwen API/开源权重做原型，关注苹果WWDC相关Session和中国区隐私合规指引。"
+ },
+ "lang": "zh"
+}

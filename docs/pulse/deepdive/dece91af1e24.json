@@ -1,0 +1,24 @@
+{
+ "id": "dece91af1e24",
+ "url": "https://www.theblockbeats.info/flash/371851",
+ "title": "xAI 发布 Grok Voice 3.0，在 Speech-to-Speech 基准居首",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-14T23:14:11.381719+00:00",
+ "content": "动察 Beating AI 快讯，xAI 宣布推出语音到语音模型 Grok Voice 3.0，称其在 Artificial Analysis 独立测试的 Speech-to-Speech Index 上以 86.9 分排名第一，高于 Grok Voice 2.0 的 81.3、GPT-Live-1 的 83.2 与 Gemini 3.8 Live 的 82.6；并称端到端延迟低于 1 秒。该模型已通过 Voice Agent API 上线，定价为每分钟 0.08 美元，与前代相同，使用 grok-voice-latest 的代理将自动切换。\n官方称 Grok Voice 每天在 Tesla 与 SpaceX 处理数百万次对话，Starlink 客服中心每日约接听 2 万通电话，约 70% 无需人工介入即可解决，约四分之一销售电话在挂断前完成购买。ServiceNow EVA-Bench 准确率为 74%，τ-Voice 为 71.6%，称与 GPT-Live-1 相当但延迟约低 40%。",
+ "report": {
+  "summary": "xAI 发布 Grok Voice 3.0，语音到语音基准登顶，延迟低于 1 秒",
+  "background": "语音交互正成为大模型竞争的新战场。2024 年以来，OpenAI 的实时语音、Google 的 Gemini Live 相继把端到端语音对话推向商用，延迟和自然度成为核心指标。xAI 此前已推出 Grok Voice 系列，并在自家场景（特斯拉车机、SpaceX、Starlink 客服）中大规模落地，积累了真实通话数据。此次 Grok Voice 3.0 在 Artificial Analysis 的 Speech-to-Speech Index 上以 86.9 分超过 GPT-Live-1 和 Gemini 3.8 Live，同时保持每分钟 0.08 美元的定价不变，意图在性能与成本上同时卡位，争夺企业语音客服与实时语音代理市场。",
+  "key_points": [
+   "Speech-to-Speech Index 拿到 86.9 分，反超 GPT-Live-1 和 Gemini 3.8 Live，登顶独立评测榜首。",
+   "端到端延迟低于 1 秒，官方称比 GPT-Live-1 响应快约 40%，实时对话体验更接近真人。",
+   "已通过 Voice Agent API 上线，每分钟 0.08 美元且价格不变，老接口 grok-voice-latest 自动升级。",
+   "落地数据可观：Starlink 客服日均约 2 万通电话，约 70% 无需人工介入，四分之一销售电话当通成交。",
+   "企业级基准中 ServiceNow EVA-Bench 74%、τ-Voice 71.6%，说明任务型语音代理能力已接近头部水平。"
+  ],
+  "impact": "对 AI 行业而言，语音赛道的竞争从“能对话”转向“低延迟 + 低成本 + 可完成任务”，xAI 用价格不变的策略施压 OpenAI 与 Google。对开发者，Voice Agent API 让搭建语音客服、外呼销售等应用的门槛与成本进一步下降，且迁移成本几乎为零；但需注意供应商绑定与合规风险。对普通用户，接入 Grok Voice 的客服电话会更快接通、更少转人工，特斯拉车机与 Starlink 等场景的语音体验会明显提升。",
+  "tools": "想上手可关注 xAI 的 Voice Agent API（grok-voice-latest）文档与定价页；对比评测可查 Artificial Analysis 的 Speech-to-Speech Index；企业级任务型语音代理可参考 ServiceNow EVA-Bench 与 τ-Voice 基准；开源侧可关注 LiveKit Agents、Pipecat 等实时语音编排框架。"
+ },
+ "lang": "zh"
+}

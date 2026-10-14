@@ -1,0 +1,25 @@
+{
+ "id": "b5746b63d333",
+ "url": "https://news.slashdot.org/story/26/10/14/033258/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout-turn-toward-open-source",
+ "title": "Dutch Tax Authorities Cancel Microsoft 365 Cloud Rollout, Turn Toward Open Source",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-14T23:12:58.456553+00:00",
+ "content": "Dutch Tax Authorities Cancel Microsoft 365 Cloud Rollout, Turn Toward Open Source (zdnet.com) 43\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from ZDNet: The Netherlands' Tax and Customs Administration has abandoned its planned Microsoft 365 public-cloud rollout. Why? The reasons were clear at the Open Source Summit Europe conference, where the Linux Foundation (LF) released the 2026 State of Open Source in Europe. In it, the nonprofit, pro-open-source organization revealed that 94% of European Union (EU) organizations say digital sovereignty is important, with 61% considering it very important. As Thierry Carrez, the Linux Foundation Europe GM, said in his keynote, \"Europe has clearly heard the message on digital sovereignty.\"\nIn an interview onstage at the summit, Nithya Ruff, chair of the LF board, added that it's not just Europe: \"Digital sovereignty is a need that the entire world feels, whether it's Sierra Leone or the US or China.\" It's not just the Dutch tax collectors, though. The Netherlands is also exploring switching from Windows and proprietary software to Linux and open-source programs across the board. [...] The Netherlands had planned to switch to Microsoft 365 in 2025. The idea then was to complete the rollout by the end of 2026. About 5,000 employees had already migrated when the Dutch Advisory Council on ICT Assessment recommended reversing the public-cloud rollout in June. The government paused the plan in July; the latest announcement replaces that rollout with an on-premises/open-source approach.\nThe Tax and Customs Administration isn't replacing all of Microsoft Office with a single open-source suite, at least not yet. Instead, the government will keep the existing Microsoft software for now. Looking ahead, State Secretary for Finance Eelco Eerenberg set out the replacement timetable in a letter to Parliament: \"In 2027, the provision for mail and calendar will be realized on-premises. Later in 2027 and 2028, European open-source solutions for personal storage and collaboration will follow. This allows us to work toward a sustainable and more autonomous solution for these functionalities.\" [...] For now, the on-premises email/calendar environment will still use Microsoft software, including Outlook. The open-source portion concerns personal storage and collaboration, not a wholesale replacement of Word, Excel, PowerPoint, or the entire desktop environment. As for why the Netherlands pulled back, the ICT assessment found serious concerns over \"information security, information processing and future-proofing.\" Key issues included routing confidential documents through American servers, relying on standard Microsoft encryption rather than Double Key Encryption, and inadequate end-to-end encryption for Teams calls. The assessment also identified \"vendor lock-in, reduced flexibility, concerns about digital sovereignty, and the absence of an adequate exit strategy\" as dealbreakers.\nZDNet notes that other Dutch government agencies are developing an open-source alternative called DAWO (Digital Autonomous Work Environment for Government), which would begin by replacing Windows with the Linux distribution NixOS.",
+ "report": {
+  "summary": "荷兰税务局弃用微软365公有云，转向本地部署与开源方案。",
+  "background": "欧洲数字主权浪潮持续升温。荷兰税务海关总署原计划2025年迁入微软365公有云、2026年底完成，已有约5000名员工完成迁移。但2026年6月荷兰ICT评估委员会建议撤销该计划，7月政府暂停推进，近日正式宣布改为「本地部署+开源」路线。这一转向与Linux基金会《2026欧洲开源现状》报告相互印证：94%的欧盟组织认为数字主权重要，61%认为非常重要。荷兰政府还在探索更大范围地用Linux替代Windows。",
+  "key_points": [
+   "荷兰税务部门放弃约5000人规模的微软365公有云迁移，改用本地部署加欧洲开源方案的混合路线。",
+   "评估报告点出硬伤：机密文件经美国服务器处理、缺少双密钥加密、Teams通话无端到端加密，以及供应商锁定和没有退出策略。",
+   "迁移分阶段推进：2027年邮件与日历先本地化（仍用微软），2027下半年至2028年引入欧洲开源存储与协作工具。",
+   "并非全面替换Office：Word、Excel、PPT短期保留，开源只覆盖个人存储和协作功能。",
+   "荷兰其他政府机构正开发DAWO数字自主办公环境，第一步就是用NixOS替代Windows。",
+   "Linux基金会报告显示，94%的欧盟组织认为数字主权重要，欧洲已把主权议题落到采购决策上。"
+  ],
+  "impact": "对AI行业：欧洲公共部门的云与AI采购将更强调数据驻留和可控性，美国云厂商政企订单面临主权审查，欧洲本土云、开源协作栈和主权AI基础设施将获政策红利。对开发者：自托管、端到端加密、数据出境合规与开源替代方案的需求上升，面向欧洲政企的产品必须能回答「数据在哪、怎么退出」。对普通用户：公务员办公体验短期不变，长期可能转向开源套件，隐私和数据本地化更有保障，但生态兼容与便利性可能打折扣。",
+  "tools": "想跟进可关注：Nextcloud（自托管存储与协作）、Element/Matrix（端到端加密通信）、OpenProject、Zulip、Thunderbird+Bridged邮件方案、Collabora Online/ONLYOFFICE文档、Proxmox或OpenStack做私有云底座，以及荷兰政府正在推的DAWO与NixOS发行版。研究主权合规可看Linux基金会《State of Open Source in Europe》报告。"
+ },
+ "lang": "zh"
+}

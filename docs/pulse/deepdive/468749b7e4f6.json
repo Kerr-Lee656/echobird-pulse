@@ -1,0 +1,24 @@
+{
+ "id": "468749b7e4f6",
+ "url": "https://www.businessinsider.com/openai-apple-trade-secrets-ai-devices-homeview-2026-10",
+ "title": "OpenAI表示，该公司“非常担忧”其商业机密可能会助长苹果进军人工智能设备领域的步伐。",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-14T18:49:50.635Z",
+ "fetched_at": "2026-10-14T23:14:36.588107+00:00",
+ "content": "OpenAI is escalating its trade-secrets fight with Apple on the heels of Apple announcing a family of smart home-focused devices.\nThe AI company alleged in a new legal filing that an unnamed former employee sent themselves \"a hundred highly confidential files\" on their last day with OpenAI in June. The files contained information about at least one unreleased device OpenAI is developing, the filing said. The AI company said the former employee worked at Apple for six months before joining OpenAI, and he is now back at Apple.\nOpenAI said it's the company's understanding that the unnamed employee later briefed \"Apple's senior leadership, including Apple's vice president of operations in Asia\" about the AI company's product plans.\n\"That presentation appears to have happened months ago—and now, armed with that information, Apple is making a new push into AI-enabled products,\" OpenAI's lawyers wrote in the filing.\nIn a statement, Apple said it has found nothing to support OpenAI's claims. It said the filing on Wednesday is an attempt to distract from its own claims about own former OpenAI employees have stolen Apple's trade secrets.\nThe files, OpenAI said, contained \"highly confidential engineering and manufacturing data about the device(s)\" and \"supplier information and project files, standards for cosmetic finishes, and reports regarding coating and sealing of hardware components.\"\nIn July, Apple sued OpenAI, alleging that the AI company engaged in \"a coordinated pattern of misconduct at an institutional level\" to steal its trade secrets. OpenAI has denied wrongdoing and said it is not interested in Apple's trade secrets.\nIn an August blog post, OpenAI blasted the \"careless, aggressive and oddly personal lawsuit sadly doesn't live up to that reputation.\" In a legal filing, OpenAI poked at Apple's perceived struggles amid the AI talent war.\nOn Tuesday, Apple announced HomeView, a $299 display and the company's first smart home device, which is powered by Siri AI.\nApple also announced a host of smart home products it developed alongside LG Electronics and Schneider Electric. Apple's announcement highlighted how its AI systems could add to the devices, allowing a user to do everything from summarizing what's happening in footage captured by an outdoor camera to automatically adjusting a thermostat when they enter a room.\nOpenAI said it is worried that the information the employee took could be used by Apple.\n\"OpenAI is very concerned that its trade secret and confidential information is now circulating inside Apple,\" the company's lawyers wrote, \"where Apple engineers can shape Apple's upcoming products based on OpenAI's confidential and innovative work.\"\nIn referencing Apple's ambitions, OpenAI's lawyers linked in a footnote to the tech giant's collection of new devices, including HomeView.",
+ "report": {
+  "summary": "OpenAI指控前员工窃密投奔苹果，担忧其助苹果AI硬件。",
+  "background": "OpenAI与苹果的商业秘密战正在升级。今年7月苹果起诉OpenAI，指控其以“制度化协同模式”窃取商业机密；OpenAI否认并称对方诉讼“轻率、咄咄逼人且针对个人”。8月OpenAI发博文回击。10月苹果发布299美元智能屏HomeView及多款与LG、施耐德合作的智能家居产品，主打Siri AI。OpenAI随即提交新法律文件，称一名前员工离职当天带走上百份机密文件，内容涉及未发布硬件，并曾向苹果高层汇报OpenAI产品计划。",
+  "key_points": [
+   "OpenAI新法律文件称，一名前员工在6月离职当天向自己发送了约百份高度机密文件，涉及至少一款未发布设备。",
+   "该员工曾在苹果工作六个月后加入OpenAI，如今又回到苹果，并据称向苹果亚洲运营副总裁等高层汇报了OpenAI产品计划。",
+   "泄露材料包括工程与制造数据、供应商信息、项目文件、外观工艺标准及硬件涂层密封报告，均属硬件量产核心信息。",
+   "苹果回应称未发现任何支持OpenAI指控的证据，并指该文件意在转移苹果对其自身窃密诉讼的注意力。",
+   "时机敏感：苹果刚发布HomeView智能屏与多款智能家居新品，OpenAI担忧其机密正被用于塑造苹果AI硬件路线。"
+  ],
+  "impact": "对AI行业而言，AI与硬件结合成为新战场，人才流动与商业秘密纠纷将更频繁，诉讼正被用作竞争工具。对开发者，这提醒跳槽时数据与知识产权边界风险极高，企业会强化离职审计与竞业限制。对普通用户，短期使用不受影响，但可能加速AI智能家居、AI眼镜等设备落地与价格竞争，同时引发更多隐私与合规讨论。",
+  "tools": "想跟进AI硬件与智能家居，可关注开源平台Home Assistant与ESPHome、Matter/Thread互联标准、OpenAI Realtime API、Apple App Intents与HomeKit生态；企业合规侧可了解商业秘密管理与数据防泄漏（DLP）工具。"
+ },
+ "lang": "zh"
+}

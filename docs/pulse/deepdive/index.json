@@ -15190,5 +15190,104 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-14T13:16:55.683Z",
   "fetched_at": "2026-10-14T18:35:42.767954+00:00"
+ },
+ "1642f2b98580": {
+  "id": "1642f2b98580",
+  "url": "https://it.slashdot.org/story/26/10/14/1743259/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+  "title": "Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:12:47.445444+00:00"
+ },
+ "b5746b63d333": {
+  "id": "b5746b63d333",
+  "url": "https://news.slashdot.org/story/26/10/14/033258/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout-turn-toward-open-source",
+  "title": "Dutch Tax Authorities Cancel Microsoft 365 Cloud Rollout, Turn Toward Open Source",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:12:58.456553+00:00"
+ },
+ "5e7ee346e59a": {
+  "id": "5e7ee346e59a",
+  "url": "https://mashable.com/tech/character-ai-files-for-chapter-11-bankruptcy-puts-itself-up-for-sale",
+  "title": "Character.AI bankruptcy filing reveals the rapid climb, stunning collapse of a once-major AI player",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:13:07.059021+00:00"
+ },
+ "f1838022e9e2": {
+  "id": "f1838022e9e2",
+  "url": "https://www.engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch",
+  "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:13:18.893947+00:00"
+ },
+ "a67eb9f63f0c": {
+  "id": "a67eb9f63f0c",
+  "url": "https://thenextweb.com/news/salience-labs-125m-optical-switching",
+  "title": "Salience Labs raises $125M for optical AI switches, then expands in California",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:13:36.858371+00:00"
+ },
+ "5b19fe84aa0f": {
+  "id": "5b19fe84aa0f",
+  "url": "https://time.com/article/2026/10/14/recursive-self-improvement-AI-report",
+  "title": "A New Report Sheds Light on the Secretive Race to Build Self-Improving AI",
+  "source": "TIME Magazine",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:14:02.756568+00:00"
+ },
+ "dece91af1e24": {
+  "id": "dece91af1e24",
+  "url": "https://www.theblockbeats.info/flash/371851",
+  "title": "xAI 发布 Grok Voice 3.0，在 Speech-to-Speech 基准居首",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-14T23:14:11.381719+00:00"
+ },
+ "9eec45fb90e0": {
+  "id": "9eec45fb90e0",
+  "url": "https://lwn.net/Articles/1100449",
+  "title": "林纳斯·托瓦兹首个由大型语言模型辅助的补丁系列",
+  "source": "lwn.net",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-14T19:05:46.052Z",
+  "fetched_at": "2026-10-14T23:14:25.008975+00:00"
+ },
+ "468749b7e4f6": {
+  "id": "468749b7e4f6",
+  "url": "https://www.businessinsider.com/openai-apple-trade-secrets-ai-devices-homeview-2026-10",
+  "title": "OpenAI表示，该公司“非常担忧”其商业机密可能会助长苹果进军人工智能设备领域的步伐。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-14T18:49:50.635Z",
+  "fetched_at": "2026-10-14T23:14:36.588107+00:00"
+ },
+ "3edeaa8d7764": {
+  "id": "3edeaa8d7764",
+  "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "title": "AI代理并未“失控”。前沿实验室正忽视安全基础原则",
+  "source": "www.csoonline.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-14T18:34:59.291Z",
+  "fetched_at": "2026-10-14T23:14:45.622903+00:00"
+ },
+ "6ab4ba1e1cde": {
+  "id": "6ab4ba1e1cde",
+  "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
+  "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-14T18:32:52Z",
+  "fetched_at": "2026-10-14T23:14:58.413460+00:00"
  }
 }

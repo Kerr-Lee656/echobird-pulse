@@ -1,0 +1,24 @@
+{
+ "id": "a67eb9f63f0c",
+ "url": "https://thenextweb.com/news/salience-labs-125m-optical-switching",
+ "title": "Salience Labs raises $125M for optical AI switches, then expands in California",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-14T23:13:36.858371+00:00",
+ "content": "Salience Labs has raised an oversubscribed $125M Series B led by Bullhound Capital, with AMD Ventures, Intel Capital and the British Business Bank taking part. The Oxfordshire company will use it to scale manufacturing and open a second West Coast office.\nAn Oxfordshire photonics company has raised $125M to build optical switches for AI data centres. The research is British and German, part of the money is British state money, and the expansion is in California.\nBullhound Capital led the oversubscribed round, with AMD Ventures, Intel Capital, SBI Group, Hudson River Trading and the British Business Bank joining, the company said.\nSalience Labs was founded in 2021 and sits in Milton, Oxfordshire. It is built on more than a decade of research at the University of Oxford and the University of Munster.\nIts product keeps light as light. A conventional switch converts an optical signal to electrical form to route it, then back again. Optical circuit switching establishes a path for the signal itself.\nIt showed a 64-port all-optical switch at ECOC in September, after launching a 32-port version in the spring that Keysight validated, SDxCentral reported. The unit fits a standard 1U box.\nNvidia is not in the round, and no customer is named. The 128 and 256-port switches the money is meant to fund have no date.\nA British rival is further along on less. Oriole Networks is deploying its optical circuit switching platform in the UK government’s £50M ARIA lab alongside AMD chips, having raised about $35M in total.\nAMD’s own roadmap supports both copper and optical links in its MI500 GPUs, extending in 2027. That is AMD’s plan rather than an order for Salience.\nThe money here runs much larger. Lumilens left stealth in August with more than $700M at a $5.51bn valuation, already shipping into a hyperscaler’s live data centres.\nThe prize explains it. Dell’Oro expects cumulative spending on switches in AI back-end networks to approach $1T across 2026 to 2030, more than half of it scale-up.\nThe pattern is familiar. PhotonDelta opened a Silicon Valley hub in 2024 to link Dutch and American photonics, two years after €1.1bn of Dutch state money.\nSalience already has an engineering team in California and a chief executive splitting her time. This round funds a second West Coast office, and no customer, deployment or qualification date has been disclosed.\nBritish policy is pulling the other way. The technology secretary said in June that the government would buy AI chips from British firms to stop them leaving for the US, after Graphcore and Alphawave went to foreign buyers.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "光交换公司Salience融资1.25亿美元并赴美扩张",
+  "background": "AI训练集群规模膨胀，GPU间互联成为功耗、延迟和扩展性瓶颈。传统交换机需把光信号转成电信号再路由，光路交换则让光直接通过，可降低功耗和时延。Salience Labs源自牛津与明斯特大学十余年光子学研究，2021年成立，主攻AI数据中心全光交换机。其融资发生在英国光子企业频频被海外收购、英国政府试图留住本土芯片技术，同时美国加州仍是AI基础设施资本与客户中心的大背景下。",
+  "key_points": [
+   "本轮1.25亿美元B轮由Bullhound Capital领投，AMD Ventures、Intel Capital、British Business Bank等参投，资金将用于扩产并在美国西海岸开设第二个办公室。",
+   "Salience的核心是全光交换：不像传统交换机把光转电再转光，而是直接为光信号建立通路，降低AI集群互联的功耗与时延。",
+   "产品进度：32端口已获Keysight验证，9月展示64端口全光交换机，可装入标准1U机箱；但128/256端口产品尚无时间表。",
+   "竞争与风险：英国Oriole Networks已在政府ARIA实验室部署，Lumilens估值55.1亿美元且已进入超大规模数据中心；Salience尚未披露客户、部署或认证日期。",
+   "市场空间巨大：Dell'Oro预计2026-2030年AI后端网络交换机累计支出近1万亿美元，其中过半来自scale-up网络，这是资本押注光交换的主因。"
+  ],
+  "impact": "对AI行业，光交换若成熟，将缓解万卡/十万卡集群的互联功耗和故障瓶颈，推动更扁平、更省电的数据中心网络。对开发者，未来训练与推理集群可能获得更高带宽、更低时延，分布式训练和推理框架需适配光路重配置。对普通用户，AI服务成本有望下降、响应更快、模型更大。事件也显示英国技术外流与加州吸聚效应仍在加剧。",
+  "tools": "想跟进可关注：Oriole Networks、Lumilens、PhotonDelta等光互连公司；技术侧看OCP开放计算项目、NVIDIA DOCA/Quantum-X、AMD MI500光互联路线，以及NCCL/RCCL、RoCEv2对光交换拓扑的优化。"
+ },
+ "lang": "zh"
+}
