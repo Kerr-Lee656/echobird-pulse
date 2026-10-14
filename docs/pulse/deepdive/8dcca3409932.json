@@ -1,0 +1,24 @@
+{
+ "id": "8dcca3409932",
+ "url": "https://www.aibase.com/news/31620",
+ "title": "黄仁勋欧洲撒钱 20 亿美元：拉拢四家法企，喊话\"欧洲必须入场\"",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-14T02:37:39.963Z",
+ "fetched_at": "2026-10-14T07:34:23.424796+00:00",
+ "content": "According to Bloomberg, NVIDIA CEO Jensen Huang is traveling in Europe, announcing on the 13th an additional $2 billion (approximately RMB 13.41 billion) investment on top of previous commitments. This is not a one-time move—he revealed that NVIDIA has already invested $8 billion (about RMB 53.64 billion) in Europe over the past year, and this is just a continuation of the effort. As the world's largest AI chipmaker, Huang has pledged to invest thousands of billions of dollars worldwide, both to accelerate AI applications and to boost demand for its own chips.\nDuring this trip, he met with French President Macron, discussing topics including investments in France, open-source software, and AI safety. The two sides also confirmed that Huang would visit London and Berlin on his way. At the first event in Paris, he made a strong statement: \"Europe must join this competition.\"\nInvesting in Open Source and Physical AI, Four French Companies Enter\nThe direction of the move is clear: Huang is pushing Europe to catch up with the U.S. by using open-source models, arguing that open weights are cheaper and can be customized according to language and \"technological sovereignty\" needs. NVIDIA has been a key partner of French Mistral AI—both investing money and providing chips. The latter developed its latest model Le Chonk using 4,000 Grace Blackwell chips. This time, he also invested in four other French startups: Doctolib, a medical appointment platform; Pigment, an enterprise AI management software company; Entalpic, which uses AI for chemical materials; and Genesis AI, which focuses on robot technology.\nIt's clear that Huang wants to bind Europe to NVIDIA's track through capital, reducing market reliance on a few American giants and paving the way for \"physical AI\"—he predicts that the next gold mine, represented by humanoid robots, is waiting for NVIDIA to mine. However, as European public opposition grows over concerns about model失控 and data center power consumption, it remains uncertain whether this gamble will gain understanding.",
+ "report": {
+  "summary": "黄仁勋欧洲追加20亿美元投资，拉拢四家法企，喊话欧洲必须入场。",
+  "background": "英伟达 CEO 黄仁勋开启欧洲行，宣布在已投80亿美元基础上追加20亿美元。作为全球最大 AI 芯片商，英伟达通过全球投资加速 AI 应用并拉动芯片需求。此行会见法国总统马克龙，讨论投资、开源与 AI 安全，并访问伦敦和柏林。黄仁勋力推欧洲采用开源模型追赶美国，同时投资四家法国初创，布局“物理 AI”。但欧洲公众对模型失控和数据中心能耗的担忧日益增长，这场资本豪赌面临不确定性。",
+  "key_points": [
+   "黄仁勋宣布追加20亿美元投资欧洲，过去一年已投80亿，旨在加速 AI 应用并提振自家芯片需求，延续全球撒钱策略。",
+   "会见马克龙，讨论法国投资、开源软件和 AI 安全，并喊话“欧洲必须加入竞争”，确认将访问伦敦和柏林。",
+   "投资四家法国初创：医疗预约 Doctolib、企业 AI 管理 Pigment、化学材料 Entalpic、机器人 Genesis AI，覆盖多领域。",
+   "力推开源模型，称开放权重更便宜、可定制，契合欧洲“技术主权”，英伟达是 Mistral AI 关键伙伴，后者用 4000 块 Grace Blackwell 训练新模型。",
+   "布局“物理 AI”，预测人形机器人是下一个金矿，通过资本绑定欧洲减少对美巨头依赖，但公众担忧模型失控和能耗。"
+  ],
+  "impact": "对 AI 行业，英伟达以资本绑定欧洲，推动开源和物理 AI，可能重塑全球竞争格局，削弱美国巨头主导。对开发者，欧洲初创获资金和芯片，开源模型带来本地化机会，但生态依赖英伟达加深。对普通用户，AI 应用加速落地，医疗、企业软件更智能，但需关注数据安全和能耗。欧洲公众的反对可能影响政策与投资节奏。",
+  "tools": "可关注 Mistral AI 的开源模型 Le Chonk，英伟达 Grace Blackwell 芯片及 CUDA 生态。开发者可研究英伟达 Isaac Sim 等物理 AI 工具，以及法国初创 Doctolib、Pigment 的产品。开源社区如 Hugging Face 也有相关模型。"
+ },
+ "lang": "zh"
+}

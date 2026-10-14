@@ -1,0 +1,24 @@
+{
+ "id": "a440d1a2cce7",
+ "url": "https://www.aibase.com/news/31630",
+ "title": "豆包手机助手 SAEP 公示期结束:第三方应用屏幕自动化操作权限逐步放开",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-14T02:37:39.963Z",
+ "fetched_at": "2026-10-14T07:33:53.214371+00:00",
+ "content": "On October 14, Douba Mobile Assistant announced that the 30-day public notice period for its Screen Automation Execution Protocol (SAEP) has ended, and it will gradually grant third-party applications access to screen automation operations. The protocol was launched together with the consumer version of Douba Mobile Assistant on September 14, and the Nubia NaviX Ultra equipped with this version was released on September 16.\nAccording to the protocol design, during the public notice period, the assistant will only perform automated operations on system-built-in applications, ByteDance's applications, and third-party applications that have explicitly agreed to join the protocol; other applications will not be operated by default.\nAfter the public notice period ends, the assistant will gradually grant operation permissions to applications that neither responded to the email nor joined the protocol, based on the risk level. Applications that have clearly refused will never be included in the operation scope. Developers can still declare refusal at any time, and the assistant will promptly disable the relevant operations. The current list of refused applications can be viewed and regularly updated through official channels.",
+ "report": {
+  "summary": "豆包手机助手SAEP公示期结束，屏幕自动化权限开始向第三方应用逐步放开",
+  "background": "手机端AI Agent要替用户点按屏幕，必须借助无障碍等系统级权限操作其他App，这长期是厂商与开发者的敏感地带。2025年9月14日，豆包手机助手消费版与《屏幕自动化执行协议》(SAEP)同步发布，9月16日努比亚NaviX Ultra首发搭载。协议先用30天公示期划定边界：只操作系统内置应用、字节系应用和明确同意加入的第三方应用，其余默认不动。公示期结束后，未表态的App也将被按风险等级逐步纳入，标志着端侧Agent从封闭试点走向规模化。",
+  "key_points": [
+   "公示期内自动化操作仅限系统应用、字节系应用和主动加入协议的第三方应用，其他App默认豁免。",
+   "公示期结束后，未回邮件、也未加入协议的App会按风险等级被逐步授予操作权限，即“沉默视为默认”。",
+   "明确拒绝的App永不纳入操作范围，开发者可随时声明拒绝，助手会立即停用相关操作。",
+   "拒绝名单通过官方渠道公开并定期更新，形成可查证、可撤回的透明度机制。",
+   "这是首个由AI助手方牵头、面向第三方App的屏幕自动化准入协议，为行业立下先例。"
+  ],
+  "impact": "对AI行业，屏幕自动化从灰色地带走向有规则的平台级能力，其他手机厂商和Agent厂商大概率跟进类似协议，Agent手机竞赛进入“权限治理”阶段。对开发者，沉默不再等于安全，需主动评估被AI代操作带来的流量、风控和体验影响，并想清楚是否行使拒绝权。对普通用户，AI代办跨App任务更顺滑，但账号误操作、隐私暴露和平台风控误判的风险同步上升，需要更清晰的授权提示与可撤销机制。",
+  "tools": "想跟进可关注豆包手机助手与努比亚NaviX Ultra实机体验；开发者可研究Android无障碍服务(AccessibilityService)与自动化框架Appium；开源侧可看智谱AutoGLM、Mobile-Agent、AppAgent等屏幕操作Agent项目，以及官方公布的SAEP拒绝名单。"
+ },
+ "lang": "zh"
+}

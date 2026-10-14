@@ -1,0 +1,24 @@
+{
+ "id": "7df5ccfe0655",
+ "url": "https://www.aibase.com/news/31626",
+ "title": "苹果诉 OpenAI 窃密案突破：法院准其调取招聘材料，剑指硬件争夺",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-14T02:37:39.963Z",
+ "fetched_at": "2026-10-14T07:34:05.743258+00:00",
+ "content": "Apple's case against OpenAI for allegedly stealing trade secrets has seen new developments: a federal judge ruled that Apple can quickly obtain recruitment-related materials from OpenAI. Specifically, the court approved Apple's request to review documents related to \"OpenAI's contact with Apple employees before interviews\" — these applicants were targeting positions in OpenAI's consumer hardware and robotics departments, at a time just before rumors of OpenAI's first hardware device emerged. The relevant documents may include interview lists, guidelines, scripts, technical demonstrations, and records that confirm \"Apple technology or components were mentioned during interviews.\"\nLead judge Edward Davila required OpenAI to provide the organized materials within 5 days, and to complete the remaining related materials within 14 days; he also approved Apple's access to private chat records on LINE involving OpenAI employees Liu Chang and Peng Ailisa, and ordered out-of-court depositions of the two individuals and hardware chief Deng Yaotan (all three previously worked at Apple).\nAllegations of espionage target chips and blueprints, some requests denied\nApple's complaint is very specific: it claims that former Apple employees downloaded confidential information using company laptops, including unpublished technical specifications, engineering demonstrations, and exclusive project data; even more, former Apple employees who have joined OpenAI are accused of \"teaching\" potential leavers what information to bring during interviews. Background to this is that OpenAI is developing consumer hardware that could compete with the iPhone, which is the root of Apple's concern.\nHowever, the judge did not fully approve all of Apple's requests: Apple's request for expedited discovery of specific research materials such as metal surface treatment and power management was denied, as well as broader hardware research materials and output from \"former Apple employees after joining.\" Davila left an opening — Apple can narrow the scope and reapply, and this battle over trade secrets is clearly far from over.",
+ "report": {
+  "summary": "美法院准苹果调取OpenAI招聘材料，硬件人才战升级",
+  "background": "苹果起诉OpenAI窃取商业秘密，核心是前苹果员工跳槽至OpenAI消费硬件与机器人团队时带走机密。OpenAI正联合前苹果设计师Jony Ive开发消费级硬件，被视为可能挑战iPhone的产品，触及苹果命脉。这类诉讼在科技圈并不罕见，Waymo诉Uber案就是先例，通常围绕人才流动中的技术边界展开。此次法院快速批准取证，意味着案件进入实质交锋阶段，双方在硬件人才与技术上的争夺正从暗战走向法庭。",
+  "key_points": [
+   "法院裁定苹果可快速取得OpenAI招聘材料，包括面试名单、指南、脚本、技术演示及是否提及苹果技术的记录，OpenAI须5天内交齐已整理部分、14天内补齐剩余材料。",
+   "苹果指控的核心是“教唆带料跳槽”：前员工用公司笔记本下载未公开技术规格、工程演示和专有项目数据，已入职OpenAI者还被指指导潜在离职者面试时带什么信息。",
+   "三名关键人物被点名：刘畅、彭艾丽莎的LINE私聊记录被调取，硬件负责人邓耀坦一同被要求庭外取证，三人此前均在苹果任职。",
+   "法官并未全盘支持苹果：涉及金属表面处理、电源管理等具体研究材料，以及前员工入职OpenAI后的产出，加速取证请求被驳回，但允许苹果缩小范围重申。",
+   "案件根源是OpenAI要做消费级硬件，与iPhone形成潜在竞争，人才与技术的边界模糊让这场知识产权战短期内难以收场。"
+  ],
+  "impact": "对AI行业，AI公司进军硬件将面临更严的人才合规审查，“挖角+技术迁移”的灰色地带风险显著上升。对开发者与工程师，跳槽时携带资料、面试中透露前雇主技术细节，都可能成为日后诉讼证据，职业操守与合规意识需前置。对普通用户，短期不影响现有产品，但若诉讼拖慢OpenAI硬件节奏，新设备上市或推迟；长期看企业会强化保密协议、竞业限制与数据管控。",
+  "tools": "想跟进可关注CourtListener/RECAP获取美国联邦法院文书；跟踪OpenAI与Jony Ive合作的io Products硬件进展；企业侧可参考Waymo诉Uber、Apple诉Masimo等判例，并了解Microsoft Purview、Google DLP等数据防泄漏工具。"
+ },
+ "lang": "zh"
+}

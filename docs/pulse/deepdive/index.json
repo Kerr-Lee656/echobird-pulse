@@ -15082,5 +15082,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-13T07:41:45Z",
   "fetched_at": "2026-10-13T15:57:34.262050+00:00"
+ },
+ "22f9d213e0f9": {
+  "id": "22f9d213e0f9",
+  "url": "https://www.aibase.com/zh/news/31621",
+  "title": "德勤调查：过半英国大企业一年内部署 AI 替人，青年失业创十余年新高",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-14T07:33:20.033549+00:00"
+ },
+ "83993be10af7": {
+  "id": "83993be10af7",
+  "url": "https://www.aibase.com/zh/news/31628",
+  "title": "OpenAI 拟收购知名安全公司 Trail of Bits，谈判正在进行中",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-14T07:33:32.915319+00:00"
+ },
+ "937c56364583": {
+  "id": "937c56364583",
+  "url": "https://www.aibase.com/zh/news/31625",
+  "title": "谷歌 Argon 模型开放全球开发者，输入 Token 定价 2 美元起",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-14T07:33:42.838424+00:00"
+ },
+ "a440d1a2cce7": {
+  "id": "a440d1a2cce7",
+  "url": "https://www.aibase.com/news/31630",
+  "title": "豆包手机助手 SAEP 公示期结束:第三方应用屏幕自动化操作权限逐步放开",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-14T02:37:39.963Z",
+  "fetched_at": "2026-10-14T07:33:53.214371+00:00"
+ },
+ "7df5ccfe0655": {
+  "id": "7df5ccfe0655",
+  "url": "https://www.aibase.com/news/31626",
+  "title": "苹果诉 OpenAI 窃密案突破：法院准其调取招聘材料，剑指硬件争夺",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-14T02:37:39.963Z",
+  "fetched_at": "2026-10-14T07:34:05.743258+00:00"
+ },
+ "8dcca3409932": {
+  "id": "8dcca3409932",
+  "url": "https://www.aibase.com/news/31620",
+  "title": "黄仁勋欧洲撒钱 20 亿美元：拉拢四家法企，喊话\"欧洲必须入场\"",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-14T02:37:39.963Z",
+  "fetched_at": "2026-10-14T07:34:23.424796+00:00"
  }
 }

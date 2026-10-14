@@ -1,0 +1,24 @@
+{
+ "id": "937c56364583",
+ "url": "https://www.aibase.com/zh/news/31625",
+ "title": "谷歌 Argon 模型开放全球开发者，输入 Token 定价 2 美元起",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-14T07:33:42.838424+00:00",
+ "content": "谷歌周二宣布，旗舰 AI 模型 Argon 正式向全球开发者和企业客户开放，此前该模型仅通过谷歌 Fairwind 计划向部分可信网络防御人员提供测试访问。此次分阶段发布兼顾安全评估与商业推广，也反映出前沿模型在扩大开放范围时对风险控制的重视。\n目前，Argon 可通过 Google AI Studio API、Gemini App 中的 Google AI Ultra 和 Pro 订阅服务，以及智能体开发平台 Antigravity 向付费用户提供。其定价为每百万输入 Token2美元、每百万输出 Token10美元，12月起价格将翻倍。\n即使涨价后，其价格仍低于文中提及的 OpenAI GPT-6Astra（每百万输入 Token10美元、输出 Token50美元）。不过，据报道，部分谷歌员工对 Argon 在编码等领域的表现仍存疑虑。\n谷歌 DeepMind 负责人 Koray Kavukcuoglu 表示，内部软件工程师已利用 Argon 更快地交付高质量代码，该模型也被用于优化 Chrome 的用户体验。谷歌希望借此展示模型在实际工程任务中的价值。Kavukcuoglu 还称，Argon 结合多模态推理、智能体编码与物理理解能力，有望推动具身机器人研发。\n在一项演示中，研究人员通过分析人类投掷沙包的视频重建场景布局与运动轨迹，并将计算结果传递给人形机器人，机器人随后在真实环境中连续七次投中目标。\n此前，谷歌 Gemini3.5Pro 据报道因能力优化而推迟发布，公司也有高级研究人员离职。面对 OpenAI、Anthropic 和 Meta 等竞争对手持续推出新模型，谷歌仍需证明 Argon 不仅具备工程与机器人领域的潜力，也能在日常任务体验、性能和可用性方面赢得更广泛用户。",
+ "report": {
+  "summary": "谷歌旗舰模型Argon向全球开发者开放，输入Token定价2美元起",
+  "background": "Argon此前仅通过谷歌Fairwind计划，向部分可信网络防御人员提供测试访问。此次分阶段开放，既做安全评估也推商业落地，反映前沿模型扩围时对风险控制的重视。定价为每百万输入Token 2美元、输出10美元，12月起翻倍，仍低于OpenAI GPT-6 Astra的10/50美元。背景是Gemini 3.5 Pro因能力优化推迟、高级研究人员离职，而OpenAI、Anthropic、Meta持续推新，谷歌需证明Argon的竞争力。",
+  "key_points": [
+   "开放渠道包括Google AI Studio API、Gemini App的Ultra与Pro订阅、智能体开发平台Antigravity，目前面向付费用户。",
+   "价格策略激进：每百万输入2美元、输出10美元，12月翻倍后仍远低于GPT-6 Astra的10美元与50美元。",
+   "DeepMind称内部工程师已用Argon更快交付高质量代码，并用于优化Chrome体验，但部分员工对其编码能力仍存疑虑。",
+   "Argon主打多模态推理、智能体编码与物理理解，演示中从人类投掷视频重建轨迹并驱动机器人连续七次投中目标。",
+   "谷歌仍需证明Argon不只在工程与机器人上有潜力，也能在日常任务体验和可用性上赢得更广泛用户。"
+  ],
+  "impact": "对AI行业，前沿模型的价格战与分阶段安全开放正成为标配；对开发者，低输入价与可用输出价让编码、智能体类应用成本更可控，但要留意12月涨价与能力口碑不确定的风险；对普通用户，通过Gemini订阅即可直接试用，而机器人投掷演示意味着具身智能正从演示走向实用，日常生活场景的智能设备可能更快落地。",
+  "tools": "想跟进可关注Google AI Studio（API试用与定价页）、Antigravity（智能体开发平台）、Gemini App的Ultra/Pro订阅；做具身智能可研究多模态视频到动作的仿真工具链与物理引擎、人形机器人SDK；建议同时接入OpenAI Astra做基准对比测试。"
+ },
+ "lang": "zh"
+}
