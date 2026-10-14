@@ -5812,5 +5812,59 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-13T04:00:00.000Z",
   "fetched_at": "2026-10-13T06:48:30.384619+00:00"
+ },
+ "042cfe440da4": {
+  "id": "042cfe440da4",
+  "url": "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
+  "title": "Anthropic reinvents source control as Claude floods the world with code",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-14T12:11:03Z",
+  "fetched_at": "2026-10-14T13:43:50.275612+00:00"
+ },
+ "4328153f38a5": {
+  "id": "4328153f38a5",
+  "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+  "title": "Companies rushed in on AI. Now some are pulling back",
+  "source": "Hacker News (4pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-14T11:54:28Z",
+  "fetched_at": "2026-10-14T13:44:03.696869+00:00"
+ },
+ "1cf1a3388554": {
+  "id": "1cf1a3388554",
+  "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-14T11:00:00.000Z",
+  "fetched_at": "2026-10-14T13:44:53.690435+00:00"
+ },
+ "ba26d3b92029": {
+  "id": "ba26d3b92029",
+  "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
+  "title": "One-year-old AI startup with six employees acquired for estimated $100M",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-14T08:05:03Z",
+  "fetched_at": "2026-10-14T13:45:46.931995+00:00"
+ },
+ "99a20e8edc33": {
+  "id": "99a20e8edc33",
+  "url": "https://github.com/stepwisehq/typescript-dotnet",
+  "title": "TypeScript compiler ported to C# via Codex (as proof of concept)",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-14T07:57:02Z",
+  "fetched_at": "2026-10-14T13:46:02.702361+00:00"
+ },
+ "d43e5e4ed80a": {
+  "id": "d43e5e4ed80a",
+  "url": "https://www.digitaltoday.co.kr/en/view/114554/openai-pursues-acquisition-of-trail-of-bits-security-firm-that-fixes-open-source-vulnerabilities",
+  "title": "OpenAI pursues acquisition of Trail of Bits security firm",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-14T07:46:09Z",
+  "fetched_at": "2026-10-14T13:46:22.195491+00:00"
  }
 }
