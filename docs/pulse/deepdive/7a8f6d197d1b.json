@@ -1,0 +1,24 @@
+{
+ "id": "7a8f6d197d1b",
+ "url": "https://www.aibase.com/zh/news/31660",
+ "title": "蚂蚁百灵开源 Ling-3.1-flash：560B 级模型部署降至 4 卡，最高支持 1M 上下文",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-15T11:22:13.906255+00:00",
+ "content": "10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。\nLing-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构，拥有约560B 总参数，每个 Token 激活约25B 参数;最高支持1M上下文。模型在办公、医疗、软件工程、终端操作等复杂工作流中保持了高质量表现。面对分散资料，它可以协助整理报告与汇报材料;面对零散症状，帮助梳理病史和就诊问题;面对旧代码，能够读懂原有实现、编写新功能，并依据测试结果继续修正。\n在办公任务评测 GDPVal-AA V2.1中，Ling-3.1-flash 获得1673分（ELO）。在 HealthBench Professional医疗场景评测中，模型得分65.35。在软件工程基准 FrontierSWE 和终端操作基准 Terminal-Bench4.0测评中，模型同样表现出了处理复杂工程任务的能力。\n通过此次开源，百灵希望更多团队能够在自有环境中部署和接入 Ling-3.1-flash，把这些场景能力融入自己的业务流程。\n日常面向真实任务时，企业知识助手和代码助手经常要连续处理资料、生成内容，并根据反馈修改结果。模型既要具备处理这些任务的通用能力，也要让多轮调用保持足够快的响应。“智效比”作为百灵系列模型的核心特点，在 Ling-3.1-flash 模型层面得以延续并进一步强化。\n在 Artificial Analysis 的公开评测中，Ling-3.1-flash 的智能指数为41、输出速度约为每秒210Token，面向高频业务场景提供智能指数与生成效率的双重能力。此外，Ling-3.1-flash 的混合调用价格约为每百万 Token0.19美元，位于较快输出、较低价格区间，面向高频调用场景兼顾生成效率与成本优势。\n针对本地部署，团队对 routed experts 采用 MXFP4量化、dense 层保持 block-FP8，权重占用从约534GB 降至292GB。在对应的 Hopper GPU 测试配置中，服务部署由8卡降至4卡，让具备服务器级 GPU 的团队以更少卡数运行模型。\n此前，Ling3.0系列已在多类设备上开展开源实践，覆盖从服务器到个人电脑、移动终端的多种部署路径。例如在服务器端，单台 NVIDIA DGX Spark 可运行 Ling-3.0-flash，用于驱动编码智能体构建并测试小游戏;在个人电脑端，16GB MacBook Air 可运行 Ling-3.0-tiny，搭建常驻本地助手;在移动端，Galaxy A324G 通过 Tiny GGUF 版本验证了本地推理与工具路由原型，小米14T Pro 则借助 PocketPal 实现了 Tiny 版本的本地对话。\n据了解，Ling-3.0系列模型在Hugging Face近30天下载量接近100万次，社区已提供Flash GGUF、Tiny GGUF、Flash MLX4bit等多种适配版本。随着 Ling-3.1-flash 开源，百灵系列模型为开发者提供了更完整、可自主验证和二次适配的模型基础，同时也意味着模型能力正进一步贴近真实业务交付，从需求文档、代码仓库到生产环境之间的链路被继续压缩。\n百灵作为蚂蚁集团AI业务发展背后的模型研究力量，为消费端 AI 应用和企业级智能体提供了重要的模型能力支撑。不同于单纯追求模型参数规模，百灵聚焦将模型能力带入真实业务中交付结果。在金融、医疗等复杂专业领域，百灵依托基座模型已相继推出 Ling-3.0-flash-Fin、Ling-3.0-flash-Sante等增强模型，将通用模型能力进一步转化为投研、健康管理等真实业务流程中的专业能力。",
+ "report": {
+  "summary": "蚂蚁百灵开源Ling-3.1-flash，560B级4卡部署、1M上下文",
+  "background": "大模型竞争正从参数规模转向真实任务交付与推理成本。蚂蚁百灵此前开源Ling-3.0系列，覆盖服务器、PC、移动端，Hugging Face近30天下载近百万，并推出金融、医疗增强模型。此次Ling-3.1-flash延续混合线性架构和“智效比”路线，在1M上下文、办公/医疗/软件工程/终端操作等场景上升级，同时通过量化和部署优化把560B级模型压到4卡，降低企业自有环境接入门槛。",
+  "key_points": [
+   "Ling-3.1-flash约560B总参数、每Token激活25B，最高1M上下文，延续混合线性架构，面向办公、医疗、软件工程和终端操作等真实工作流。",
+   "评测显示其办公任务GDPVal-AA V2.1得1673 ELO，HealthBench Professional得65.35，FrontierSWE和Terminal-Bench 4.0也体现复杂工程与终端操作能力。",
+   "智效比突出：Artificial Analysis智能指数41，输出约210 Token/s，混合调用约0.19美元/百万Token，适合高频业务场景兼顾速度与成本。",
+   "部署优化：routed experts用MXFP4、dense层用block-FP8，权重从约534GB降至292GB；Hopper GPU测试中服务部署由8卡降至4卡。",
+   "开源生态延续：权重在Hugging Face和ModelScope提供，Ling-3.0系列近30天下载近百万，社区已有GGUF、MLX4bit、Tiny等适配，覆盖服务器到移动端。"
+  ],
+  "impact": "对行业，开源大模型竞争进入“智效比”和真实交付阶段，560B级模型4卡可部署会压低企业私有化门槛。对开发者，可用更低成本构建企业知识助手、代码助手和金融/医疗智能体，并自主量化、二次适配。对普通用户，未来办公、医疗、终端AI服务响应更快、价格更低，复杂任务体验更连贯。",
+  "tools": "可关注Hugging Face/ModelScope上的Ling-3.1-flash权重；社区已有Flash GGUF、Tiny GGUF、Flash MLX4bit。服务端可评估vLLM/SGLang与4卡Hopper配置，端侧可试llama.cpp、Ollama、PocketPal。"
+ },
+ "lang": "zh"
+}

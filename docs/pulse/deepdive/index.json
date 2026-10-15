@@ -15343,5 +15343,41 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-15T04:52:13.672920+00:00"
+ },
+ "7a8f6d197d1b": {
+  "id": "7a8f6d197d1b",
+  "url": "https://www.aibase.com/zh/news/31660",
+  "title": "蚂蚁百灵开源 Ling-3.1-flash：560B 级模型部署降至 4 卡，最高支持 1M 上下文",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T11:22:13.906255+00:00"
+ },
+ "a33307e3cf87": {
+  "id": "a33307e3cf87",
+  "url": "https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html",
+  "title": "昆仑万维发布世界首款消费级显卡视频大模型游戏 Matrix-Game 4.0，同步开源",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T11:22:24.363676+00:00"
+ },
+ "0edc529ff757": {
+  "id": "0edc529ff757",
+  "url": "https://www.aibase.com/zh/news/31665",
+  "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T11:22:33.916826+00:00"
+ },
+ "eee2a3459afd": {
+  "id": "eee2a3459afd",
+  "url": "https://www.aibase.com/zh/news/31653",
+  "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T11:22:46.261281+00:00"
  }
 }

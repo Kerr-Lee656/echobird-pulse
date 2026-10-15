@@ -5974,5 +5974,68 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-15T04:00:00.000Z",
   "fetched_at": "2026-10-15T04:54:38.742554+00:00"
+ },
+ "c192475c2a02": {
+  "id": "c192475c2a02",
+  "url": "https://github.com/VoltAgent/official-mcp-servers",
+  "title": "Show HN: Official MCP Servers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T11:20:24Z",
+  "fetched_at": "2026-10-15T11:23:37.630910+00:00"
+ },
+ "ea221ee2acab": {
+  "id": "ea221ee2acab",
+  "url": "https://github.com/dsx-ai-factory/run-ai",
+  "title": "Run: AI Now Open Source",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T11:01:56Z",
+  "fetched_at": "2026-10-15T11:23:54.996547+00:00"
+ },
+ "f9371de47459": {
+  "id": "f9371de47459",
+  "url": "https://ailately.com/articles/anthropic-ipo-prospectus-economics",
+  "title": "Anthropic spent $7.33B on compute to earn $4.6B in 2025, per its IPO filing",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T10:58:25Z",
+  "fetched_at": "2026-10-15T11:24:13.199744+00:00"
+ },
+ "8b97120c45d4": {
+  "id": "8b97120c45d4",
+  "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
+  "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T10:37:46Z",
+  "fetched_at": "2026-10-15T11:24:54.442553+00:00"
+ },
+ "ac77bf939025": {
+  "id": "ac77bf939025",
+  "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+  "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T10:15:07Z",
+  "fetched_at": "2026-10-15T11:25:07.782137+00:00"
+ },
+ "2a289299a4bd": {
+  "id": "2a289299a4bd",
+  "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+  "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-15T10:08:08.000Z",
+  "fetched_at": "2026-10-15T11:25:18.639520+00:00"
+ },
+ "ed70a6c087a3": {
+  "id": "ed70a6c087a3",
+  "url": "https://arxiv.org/abs/2610.20437",
+  "title": "Forensic Analysis of RL/RLHF-Induced Privilege Escalation in AI Agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T08:07:08Z",
+  "fetched_at": "2026-10-15T11:25:37.029506+00:00"
  }
 }
