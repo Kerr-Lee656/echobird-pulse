@@ -1,0 +1,24 @@
+{
+ "id": "e58311dcd137",
+ "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
+ "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-15T16:56:57.980918+00:00",
+ "content": "15th October 2026 - Link Blog\nAnthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO. The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matter\".\nKey things I learned from the article:\n- Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\"\n- Q2 (Apr/May/Jun) was $11.5bn\n- Q3 (Jul/Aug/Sep) was $16.8bn\n- In Q3: $1.70 in revenue for every $1 spent on \"computing power\"\n- Adjusted operating margins (excluding stock-based compensation) were 11%\nThis point about distillation is worth quoting in full (highlight mine):\nThe start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones.\nWhen rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending.\nAnthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter.\nNapkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter!\nAlso notable: Anthropic appear to no longer be leaning on \"annualized run-rate revenue\" (previously) in these communications to their investors.\nRecent articles\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11 - 12th October 2026\n- A new feature for my blog, built using my voice - 9th October 2026\n- Claude Haiku 5.5 - 7th October 2026\n- We're going to need default hard budget caps on pretty much everything - 3rd October 2026",
+ "report": {
+  "summary": "Anthropic IPO前季收168亿美元，环比增近50%",
+  "background": "2026年10月15日，FT报道Anthropic在IPO前向投资者披露季度业绩。此前它常强调年化run-rate，如今给出季度实际收入：Q1约48亿、Q2 115亿、Q3 168亿美元。公司还披露每1美元算力支出带来1.70美元收入，调整后营业利润率11%，并打击蒸馏。这显示头部大模型公司正从高增长叙事转向可审计的财务与盈利证明。",
+  "key_points": [
+   "季度营收三级跳：Q1约48亿、Q2 115亿、Q3 168亿美元，Q3环比增近50%，在IPO前向投资者展示强劲增长。",
+   "单位算力经济改善：Q3每花1美元算力带来1.70美元收入，调整后营业利润率11%（剔除股权薪酬），说明算力投入开始产生可见回报。",
+   "蒸馏争议：对手用Anthropic模型输出训练自己的模型，曾占收入5%-7%，Q3被大幅削减；按Q2收入5%估算，其他实验室单季花费超5亿美元。",
+   "披露口径变化：Anthropic不再强调年化run-rate收入，改用季度实际收入，上市前财务沟通更透明、更接近审计口径。",
+   "上市信号：向投资者披露业绩和利润率，旨在支撑IPO估值，但削减蒸馏收入可能给短期增长带来压力。"
+  ],
+  "impact": "对行业：头部模型公司收入与利润率改善，将抬高IPO估值并吸引更多资本；打击蒸馏使模型输出变成可计费资产，也可能引发API条款和合规战。对开发者：依赖蒸馏的团队成本与法律风险上升，API使用需更注意条款；算力效率成核心竞争力。对普通用户：Claude等产品商业化压力增大，免费额度或更紧，但企业级投入会加速能力迭代。",
+  "tools": "可关注：Anthropic API与使用政策、OpenRouter（多模型API对比）、LMSYS Chatbot Arena（模型评测）、Simon Willison的llm CLI与博客，以及promptfoo等评测/合规工具。"
+ },
+ "lang": "zh"
+}

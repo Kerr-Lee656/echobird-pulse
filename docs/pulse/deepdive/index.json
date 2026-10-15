@@ -15379,5 +15379,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-15T11:22:46.261281+00:00"
+ },
+ "b3902d1e9cea": {
+  "id": "b3902d1e9cea",
+  "url": "https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html",
+  "title": "上海 AI 实验室「书生-S2」大模型进入前沿数学研究流程：助力三维 Ghys 猜想证明并通过形式化验证",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T16:56:43.607512+00:00"
+ },
+ "e58311dcd137": {
+  "id": "e58311dcd137",
+  "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
+  "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T16:56:57.980918+00:00"
+ },
+ "a4b3ac3fdc9d": {
+  "id": "a4b3ac3fdc9d",
+  "url": "https://www.aibase.com/zh/news/31669",
+  "title": "8 州联手起诉 OpenAI：ChatGPT「假朋友」伤害儿童，家长被指受骗",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T16:57:09.235239+00:00"
+ },
+ "603f06010724": {
+  "id": "603f06010724",
+  "url": "https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html",
+  "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T16:57:20.442589+00:00"
+ },
+ "15126fd1a005": {
+  "id": "15126fd1a005",
+  "url": "https://www.ithome.com/1/013/663.htm",
+  "title": "阶跃星辰开源 Step 5 Preview 权重，华为昇腾、沐曦、壁仞等首发支持",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T14:07:47Z",
+  "fetched_at": "2026-10-15T16:57:30.960231+00:00"
  }
 }
