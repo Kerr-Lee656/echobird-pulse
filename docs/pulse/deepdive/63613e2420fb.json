@@ -1,0 +1,24 @@
+{
+ "id": "63613e2420fb",
+ "url": "https://thenextweb.com/news/google-universal-cart-us-only-eu",
+ "title": "Google launches Universal Cart in the US, with checkout built into Search and the Gemini app",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-15T21:21:06.808385+00:00",
+ "content": "Google launched Universal Cart in the US on Wednesday, a cart that sits inside Search and the Gemini app, holds products from multiple retailers and takes the payment through Google Pay. Its own roadmap names Canada, Australia and the UK for expansion, and never mentions the EU.\nGoogle has put a shopping cart inside Search and the Gemini app that holds products from rival retailers and takes the payment. It launched in the US on Wednesday. Google’s own roadmap names Canada, Australia and the UK next, and never mentions the EU.\nUniversal Cart runs on the 60 billion product listings in Google’s Shopping Graph, the company said in a post by Suresh Ganapathy. Its I/O announcement in May said checkout would reach Canada and Australia within months, and the UK later.\nThe cart keeps items from different retailers in one place, sends alerts on price drops and restocks, and reads Google Wallet to suggest which card to pay with. It also surfaces promo codes.\nParticipating merchants include Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair and Shopify sellers. Each remains the seller of record, and handles confirmations and support.\nCheckout runs on the Universal Commerce Protocol, released as an open standard in January. Google’s Agent Payments Protocol, which lets agents buy within preset limits, arrived in September 2025 with more than 60 partners including PayPal and Mastercard.\nThat May plan put the US launch in the summer. It arrived on 15 October.\nEurope’s absence is not an oversight. The Commission issued Google an €890M DMA fine in July, €460M of it for self-preferencing in shopping, hotel, transport and sports results.\nGoogle was given 60 days to stop, or face daily penalties of up to 5% of Alphabet’s average worldwide turnover.\nIts answer was to make search worse. Nick Fox, Google’s search chief, said in September that the changes “degrade the user experience for Europeans“.\nA Stockholm court separately ordered Google to pay Klarna’s PriceRunner nearly $2B in July, on the Commission’s 2017 Google Shopping decision. EU fines against the company now exceed €9B.\nGoogle already ships agentic features everywhere but Europe. Gemini Spark, the product it said would get the payments protocol first, reached more than 160 countries in July and is unavailable in the EEA, Switzerland and the UK. No reason was given.\nA cart inside Google’s own results, holding rival retailers’ listings and taking the payment, is the self-preferencing question in a newer form.\nSix comparison-shopping services are already lining up for damages, from Idealo’s €465M award to Moltiply’s €2.97B claim. Google has not said whether the cart will reach the EU.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌在美推出Universal Cart，搜索与Gemini内直接结账",
+  "background": "谷歌多年想把搜索流量变成交易入口。今年5月I/O大会宣布结账功能将先落地美加澳英，原计划夏季上线，实际推迟到10月中旬。底层是Shopping Graph的600亿商品数据，以及1月开源的Universal Commerce Protocol结账标准和9月发布的代理支付协议。与此同时，欧盟因购物比价自我优待等问题累计罚款超90亿欧元，7月再开8.9亿欧元DMA罚单并限60天整改，谷歌的回应是把欧洲排除在这类AI购物功能之外。",
+  "key_points": [
+   "Universal Cart把不同零售商的商品塞进同一个购物车，用Google Pay统一付款，商家仍是销售主体并负责发货和售后。",
+   "功能包括降价与补货提醒、自动推荐优惠码、读取Google Wallet建议用哪张卡支付，首批商家有Nike、Sephora、Target、沃尔玛、Wayfair和Shopify卖家。",
+   "技术底座是Shopping Graph的600亿商品列表、1月开源的Universal Commerce Protocol，以及9月推出的Agent Payments Protocol，后者允许AI代理在预设额度内代付。",
+   "谷歌自己的路线图只写加拿大、澳大利亚、英国，从头到尾没提欧盟，Gemini Spark等代理功能同样跳过欧洲经济区、瑞士和英国。",
+   "背景是欧盟7月8.9亿欧元DMA罚款，其中4.6亿针对搜索自我优待，谷歌搜索负责人称整改会“降低欧洲用户体验”，斯德哥尔摩法院还判其向Klarna旗下PriceRunner赔付近20亿美元。"
+  ],
+  "impact": "对AI行业：搜索内直接完成代理式结账成为新范式，OpenAI、亚马逊、Perplexity势必加速跟进，电商流量分发权重新洗牌。对开发者与商家：接入UCP和Merchant Center商品源几乎成为必修课，代理支付带来新接口，也带来被平台抽成和规则绑定的风险。对普通用户：美国用户可跨店一键比价、用券、结账，体验更顺；欧洲用户短期用不上，还可能继续面对被“降级”的搜索结果。",
+  "tools": "想跟进可关注：Universal Commerce Protocol（UCP，开源结账标准）、Google Agent Payments Protocol（AP2代理支付）、Google Merchant Center商品源与Shopping Graph接入、Shopify侧集成；对照参考OpenAI的Agentic Commerce Protocol与Instant Checkout。在欧盟运营者需盯紧DMA合规与比价服务索赔动向。"
+ },
+ "lang": "zh"
+}

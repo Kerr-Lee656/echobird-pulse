@@ -1,0 +1,24 @@
+{
+ "id": "e3de735f2284",
+ "url": "https://news.slashdot.org/story/26/10/14/220233/uber-begins-self-driving-robotaxi-trial-in-manchester",
+ "title": "Uber Begins Self-Driving Robotaxi Trial In Manchester",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-15T21:20:39.566418+00:00",
+ "content": "Uber Begins Self-Driving Robotaxi Trial In Manchester (theguardian.com) 12\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from The Guardian: Uber has begun a trial of autonomous vehicles on the streets of Manchester as it looks to bring robotaxis to cities around the UK. The first self-driving cars are operating, using the technology of its partner firms Pony and Verne, with whom Uber recently launched Europe's first autonomous taxi service in the Croatian capital, Zagreb. Uber said it was \"excited to take this first step toward making this technology accessible to people across the UK.\"\nIn social media posts, Verne said it had \"started our autonomous vehicle testing in Manchester,\" while Pony said there were \"plans to bring robotaxis to the city\" and that testing was under way. The tests involve the company mapping the streets of the city in north-west England with a safety driver behind the wheel and no passengers. Limited passenger services started last month in London, but with a safety driver in the front seat of cars supplied by Wayve under Transport for London's licensing rules for private hire vehicles.\nThe next steps are unclear. Opposition from Uber drivers, their unions and the capital's politicians to the rollout of robotaxis is mounting. The GMB and ADCU unions have both said thousands of drivers jobs will be lost and have called for help for those affected. A critical report from London assembly's transport committee this week called for the government to devolve authority over autonomous taxi services. It said there was \"considerable uncertainty about many of the claimed benefits of autonomous passenger vehicles\", and fears over the impact on public transport and congestion, as well as safeguarding and accessibility for disabled passengers. There has been no official application to launch passenger services in Manchester so far.",
+ "report": {
+  "summary": "Uber在曼彻斯特启动自动驾驶路测，联手Pony与Verne推进英国Robotaxi布局。",
+  "background": "Uber在2020年把自研自动驾驶部门ATG卖给Aurora后，转为“平台+伙伴”路线，先后与Waymo、Wayve、Pony.ai、Verne等合作，把Robotaxi接入自家叫车网络。今年它已与Pony、Verne在克罗地亚萨格勒布推出欧洲首个自动驾驶出租车服务，上月又在伦敦以安全员随车的方式小规模载客。此次曼彻斯特测试以地图采集为主，是Uber把该模式复制到英国更多城市的第一步，但英国监管权责分散、工会反对强烈，扩张节奏仍不确定。",
+  "key_points": [
+   "测试目前只是“扫街”：车上配安全员、不载客，主要任务是采集高精地图和路测数据。",
+   "Uber不自己造车也不自己写算法，而是把Pony.ai、Verne、Wayve等技术伙伴的车辆接入自己的叫车平台。",
+   "伦敦已先行一步，上月起在TfL规则下提供有安全员的有限载客服务，曼彻斯特尚未提交正式运营申请。",
+   "阻力主要来自司机端：GMB与ADCU工会称数千岗位受威胁，伦敦议会交通委员会也质疑自动驾驶的多项“好处”缺乏证据。",
+   "监管是最大变量：伦敦方面呼吁把自动驾驶出租车的管理权下放到地方，这给Uber的全国扩张增添了政策不确定性。"
+  ],
+  "impact": "对AI行业而言，这是中国自动驾驶公司（Pony.ai）借Uber平台进入欧洲市场的标志性一步，说明“技术方+流量平台”正取代全栈自研成为主流出海路径。对开发者来说，多城市、多伙伴的落地意味着高精地图、仿真、车规级感知与远程运维岗位需求上升，但合规与安全验证门槛更高。对普通用户，短期内仍是“有安全员、限定区域”的体验，真正无人化尚远；同时司机群体的就业焦虑和残障出行可达性争议会持续放大。",
+  "tools": "想跟进可关注开源自动驾驶栈：百度Apollo、Autoware（含Autoware Universe）；仿真测试用CARLA、LGSVL；数据与感知可用nuScenes、Waymo Open Dataset；地图与定位可了解OpenDRIVE、Lanelet2。国内Pony.ai技术博客和Wayve的端到端论文也值得一读。"
+ },
+ "lang": "zh"
+}

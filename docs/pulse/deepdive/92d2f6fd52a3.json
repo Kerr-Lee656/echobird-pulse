@@ -1,0 +1,24 @@
+{
+ "id": "92d2f6fd52a3",
+ "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai",
+ "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-15T21:20:55.202394+00:00",
+ "content": "Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation.\nThe financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth.\nRamp said its annualized revenue has crossed $2 billion, up from a reported $1.5 billion in June, and that its revenue growth is 25% faster than it was around this time last year. The company claims it now facilitates annualized purchase volume of over $275 billion, up 175% from a year earlier. It also says it has 85,000 customers, up from 70,000 in June, including Visa, Uber, Shopify, Robinhood, Anduril, Notion, Cursor, and Figma.\nThe funding comes as Ramp has been expanding beyond expense management into payments, fraud detection, procurement, vendor management, and, of late, even accounting.\nThe startup has also built an AI story around itself, embedding AI agents into its procurement, expense management, accounting, budgeting, and other products. It also launched a corporate credit card specifically designed for AI agents to use, and in August entered the model routing business to tap the booming AI inference market and give existing clients a model routing service that fits neatly with its current products, including AI token usage monitoring and token spend management.\nEarlier this month, Ramp launched Glass, a workspace that collects and remembers the AI automations, prompts, and skills that an organization’s employees build so others can take advantage of the company’s collective knowledge and skills.\n“In just a few years, Ramp has become a much broader financial operations platform, with AI deeply embedded in how the company builds and operates. We believe Ramp is well on its way to becoming one of the defining companies of this era,” Christian Jensen, partner at Dragoneer, said in a statement.\nOther investors in the round include Capital International, Fidelity Management & Research Company, T. Rowe Price, D1 Capital Partners, Greenoaks, ICONIQ, GIC, 8VC, 1789 Capital, Alpha Wave Global, Ontario Teachers’ Pension Plan, Coatue, D.E. Shaw, Definition Capital, FirstMark, General Catalyst, Generation Investment Management, Glade Brook Capital Partners, Khosla Ventures, Lightspeed Venture Partners, Pinegrove Opportunity Partners, Soma Capital, and Stripes.\nThe company has now raised about $5 billion in funding.\nAs Ramp has widened its product lineup, it has increasingly run into Rippling, the HR and payroll software company that has pushed into corporate cards, expense management, and bill payments. The overlap puts the two companies in direct competition for the same finance-team budgets.\nEarly investor Keith Rabois, who has backed Ramp through two firms, Founders Fund and Khosla Ventures, both of which participated in this round, spoke to TechCrunch last month about Ramp’s strategy and his own big ambitions for the company.\n“Ramp is not worried about Rippling,” Rabois said. “We’re going to compete with Anthropic,” he continued. “That’s the goal. I want to be larger and more successful and more important than Anthropic. Ramp is going to be the primary way people manage their token spend, how they optimize it, how they measure ROI, and that will lead us to collide probably with Anthropic in many ways.”\n— With additional reporting from Connie Loizos",
+ "report": {
+  "summary": "Ramp 四个月内估值从 440 亿飙至 600 亿美元，加码 AI 金融运营。",
+  "background": "Ramp 起家于企业费用管理软件，近年从报销、对账扩展到支付、反欺诈、采购、供应商管理乃至会计。2025 年 6 月它以 440 亿美元估值融资 7.5 亿美元，仅四个月后再度融资 18.5 亿美元，估值冲上 600 亿。这轮融资由 Dragoneer、Thrive、Founders Fund 等联合领投，总融资额已达约 50 亿美元。热潮背后，是企业级 AI 智能体开始直接产生算力与 token 支出，成为新的财务科目。",
+  "key_points": [
+   "年化收入突破 20 亿美元，年内增速比去年同期快 25%，年化采购额 2750 亿美元、同比涨 175%。",
+   "客户从 6 月的 7 万家增至 8.5 万家，包括 Visa、Uber、Shopify、Notion、Cursor、Figma 等。",
+   "把 AI 智能体嵌入采购、报销、会计、预算等流程，还推出专供 AI 智能体使用的企业信用卡。",
+   "8 月切入模型路由市场，做起 token 用量监控与支出管理，直接对接 AI 推理成本。",
+   "推出 Glass 工作区，沉淀员工搭建的提示词与自动化技能，让组织内知识可复用。"
+  ],
+  "impact": "对 AI 行业而言，Ramp 把「AI 花销」变成了可被管理、优化和计费的资产类别，模型路由加 token 财务化可能重塑推理市场的分销格局。对开发者，这意味着 AI 成本可被追踪到项目与团队级别，选模型会更看 ROI 而非单纯性能。对普通用户和财务人员，报销、采购、预算审批将更多由智能体代办，但同时也需适应机器自主消费带来的审核与合规新规则。",
+  "tools": "可关注 Ramp 的模型路由、token 用量与支出监控、AI 智能体企业卡和 Glass 自动化沉淀工作区；同类方向还有 OpenRouter、LiteLLM、Helicone、Langfuse 等模型路由与 LLM 成本可观测性工具，便于自建 token 账本。"
+ },
+ "lang": "zh"
+}

@@ -15424,5 +15424,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-15T14:07:47Z",
   "fetched_at": "2026-10-15T16:57:30.960231+00:00"
+ },
+ "e3de735f2284": {
+  "id": "e3de735f2284",
+  "url": "https://news.slashdot.org/story/26/10/14/220233/uber-begins-self-driving-robotaxi-trial-in-manchester",
+  "title": "Uber Begins Self-Driving Robotaxi Trial In Manchester",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:20:39.566418+00:00"
+ },
+ "92d2f6fd52a3": {
+  "id": "92d2f6fd52a3",
+  "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai",
+  "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:20:55.202394+00:00"
+ },
+ "63613e2420fb": {
+  "id": "63613e2420fb",
+  "url": "https://thenextweb.com/news/google-universal-cart-us-only-eu",
+  "title": "Google launches Universal Cart in the US, with checkout built into Search and the Gemini app",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:21:06.808385+00:00"
+ },
+ "ff09edf07750": {
+  "id": "ff09edf07750",
+  "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+  "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:21:14.310529+00:00"
+ },
+ "93ddabd83e6b": {
+  "id": "93ddabd83e6b",
+  "url": "https://www.techradar.com/pro/security/bank-of-america-had-to-hire-1-000-contractors-to-patch-software-flaws-spotted-by-anthropic-mythos",
+  "title": "Bank of America had to hire 1,000 contractors to patch software flaws spotted by Anthropic Mythos",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:21:29.217541+00:00"
+ },
+ "16ffe389efe3": {
+  "id": "16ffe389efe3",
+  "url": "https://www.businessinsider.com/chip-stocks-ai-tech-stock-market-today-korea-kospi-2026-10",
+  "title": "Here's what's driving this week's $1 trillion wipeout in chip stocks",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:21:39.177486+00:00"
+ },
+ "369f65bd0511": {
+  "id": "369f65bd0511",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+  "title": "NVIDIA Expands Nemotron Family With Highest-Efficiency Super VL and Bolt Models, From Data Center to Desktop",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:21:51.671601+00:00"
+ },
+ "341a22bbb355": {
+  "id": "341a22bbb355",
+  "url": "https://www.gelonghui.com/live/2713537",
+  "title": "谷歌量子计算取得新突破：Willow 芯片错误率降低约 40 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-15T21:22:02.639323+00:00"
  }
 }

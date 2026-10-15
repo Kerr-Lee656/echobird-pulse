@@ -6037,5 +6037,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-15T08:07:08Z",
   "fetched_at": "2026-10-15T11:25:37.029506+00:00"
+ },
+ "00456424cf1d": {
+  "id": "00456424cf1d",
+  "url": "https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t",
+  "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
+  "source": "Claude Devs",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-15T20:09:02.000Z",
+  "fetched_at": "2026-10-15T21:24:36.770120+00:00"
+ },
+ "ab641b9a92af": {
+  "id": "ab641b9a92af",
+  "url": "https://www.gadgetreview.com/andrew-yang-claims-escaped-ai-agents-polluted-the-web-with-self-replicating-code",
+  "title": "Escaped AI Agents Polluted the Web with Self-Replicating Code",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T19:41:51Z",
+  "fetched_at": "2026-10-15T21:25:31.514124+00:00"
+ },
+ "84d2d17758d2": {
+  "id": "84d2d17758d2",
+  "url": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10",
+  "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
+  "source": "OpenRouter",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-15T18:41:48.000Z",
+  "fetched_at": "2026-10-15T21:26:33.596702+00:00"
  }
 }

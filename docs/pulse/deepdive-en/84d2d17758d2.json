@@ -1,0 +1,23 @@
+{
+ "id": "84d2d17758d2",
+ "url": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10",
+ "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
+ "source": "OpenRouter",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-15T18:41:48.000Z",
+ "fetched_at": "2026-10-15T21:26:33.596702+00:00",
+ "content": "OpenRouter· @OpenRouter · X·· 3 小时前精选AI 评分66\nAI 导读\nOpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。\n推荐理由\n原文列出三项上线的模型和功能细节，包括开源权重、价格降幅和 4K 视频生成，读者可据此评估接入价值。\n正文 · AI 翻译\n来自 @bfl_ai 今天在 OpenRouter 上的新发布：\n- FLUX 3 Image Klein，一款新的开放权重图像模型，可在单张消费级 GPU 上运行\n- 改进版 FLUX Video Upscale 进入早期访问，可将任何视频转为 4K，价格为 $0.28/秒（原为 $0.59/秒）\n- FLUX 3 Video 现在可以根据提示词生成 4K 视频\n来源：OpenRouter · x.com",
+ "report": {
+  "summary": "Black Forest Labs launched FLUX 3 Image Klein, cheaper 4K video upscaling, and 4K prompt-to-video on OpenRouter, expanding accessible generative media tools.",
+  "background": "Black Forest Labs emerged from the team behind Stable Diffusion and launched FLUX.1 in 2024, quickly becoming a leading open-weight image generation family. OpenRouter acts as a unified API marketplace, letting developers compare and route requests across many models without separate integrations. In generative media, competition has intensified: image models are judged on quality, speed, and licensing, while video generation remains expensive because rendering and upscaling require heavy compute. BFL's previous FLUX Video Upscale was priced at $0.59 per second, limiting casual use. By adding an open-weight Klein image model, cutting upscaling cost by more than half, and enabling native 4K video generation, BFL and OpenRouter are positioning FLUX 3 as a practical, cost-conscious stack for creators, startups, and enterprises that need both open customization and hosted convenience.",
+  "key_points": [
+   "FLUX 3 Image Klein is a new open-weight image model. BFL says it can run on a single consumer-grade GPU, meaning developers and hobbyists can download, fine-tune, or self-host it without data-center hardware. That lowers the barrier for custom image pipelines and local experimentation.",
+   "Improved FLUX Video Upscale enters early access on OpenRouter. It can convert any video to 4K, with pricing reduced from $0.59 per second to $0.28 per second. The price cut makes high-resolution video enhancement far more affordable for longer clips and production workflows.",
+   "FLUX 3 Video now generates 4K video directly from text prompts. Previously, high-resolution output often required separate upscaling steps. Native 4K generation simplifies production, though compute cost and generation time may still be significant for long or complex scenes.",
+   "All three updates are available through OpenRouter, which aggregates model APIs. This lets developers test BFL's latest models alongside other providers using one API key, simplifying comparison, fallback, and multi-model routing in production apps. It also signals OpenRouter's growing role as a distribution layer for generative media."
+  ],
+  "impact": "This matters because BFL is making high-end generative media cheaper and more open. For the AI industry, it keeps pressure on closed image and video vendors to reduce prices or improve quality, while validating OpenRouter as a key model marketplace. Developers gain an open-weight image model they can self-host and a cheaper 4K video upscaling API, enabling new products like real-time content tools, video remastering, and automated ad pipelines. Regular users should see more affordable 4K video enhancement and generation inside apps, though true local 4K video generation remains hardware-intensive. The main caveat is early-access reliability, licensing terms, and compute costs at scale.",
+  "tools": "Follow OpenRouter for hosted access, Black Forest Labs' FLUX GitHub and Hugging Face pages for Image Klein weights, and ComfyUI or diffusers for local image workflows. For video, watch OpenRouter's FLUX Video Upscale and FLUX 3 Video endpoints, plus FFmpeg for format handling and Topaz Video AI as a commercial upscaling comparison."
+ },
+ "lang": "en"
+}
