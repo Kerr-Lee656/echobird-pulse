@@ -5929,5 +5929,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-14T16:22:33Z",
   "fetched_at": "2026-10-14T18:40:45.601992+00:00"
+ },
+ "6dbb466de31f": {
+  "id": "6dbb466de31f",
+  "url": "https://github.com/google/agentmesh",
+  "title": "google/agentmesh — Agent Mesh",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-15T04:53:02.647234+00:00"
+ },
+ "32da3a7739a4": {
+  "id": "32da3a7739a4",
+  "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+  "title": "Agent Observability on the Claude Platform",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T04:20:41Z",
+  "fetched_at": "2026-10-15T04:53:25.314778+00:00"
+ },
+ "8610e5ac613a": {
+  "id": "8610e5ac613a",
+  "url": "https://arxiv.org/abs/2610.14539",
+  "title": "FDE-Bench: Evaluating End-to-End Delivery from Underspecified Real-World Business Requests",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-15T04:00:00.000Z",
+  "fetched_at": "2026-10-15T04:54:06.647097+00:00"
+ },
+ "e7700b8a0a25": {
+  "id": "e7700b8a0a25",
+  "url": "https://arxiv.org/abs/2610.14605",
+  "title": "Decoupling Knowledge Forgetting and Refusal Learning in MLLM Unlearning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-15T04:00:00.000Z",
+  "fetched_at": "2026-10-15T04:54:29.150109+00:00"
+ },
+ "17285314da74": {
+  "id": "17285314da74",
+  "url": "https://arxiv.org/abs/2610.14625",
+  "title": "From Existing Methods to New Research Ideas: Two Perspectives on Recursive Self-Improvement",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-15T04:00:00.000Z",
+  "fetched_at": "2026-10-15T04:54:38.742554+00:00"
  }
 }

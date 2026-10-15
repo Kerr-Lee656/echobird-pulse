@@ -15289,5 +15289,59 @@
   "site_name": "Zeli",
   "published_at": "2026-10-14T18:32:52Z",
   "fetched_at": "2026-10-14T23:14:58.413460+00:00"
+ },
+ "65af28002e0a": {
+  "id": "65af28002e0a",
+  "url": "https://www.ithome.com/1/013/171.htm",
+  "title": "Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T00:34:52Z",
+  "fetched_at": "2026-10-15T04:50:52.728380+00:00"
+ },
+ "83dd26b537bf": {
+  "id": "83dd26b537bf",
+  "url": "https://www.huxiu.com/article/4897612.html?f=rss",
+  "title": "深度｜0.88美元攻陷一家银行：AI黑客正在改写安全规则",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T00:30:18Z",
+  "fetched_at": "2026-10-15T04:51:16.975325+00:00"
+ },
+ "781aac7ea7b0": {
+  "id": "781aac7ea7b0",
+  "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10",
+  "title": "随着IPO临近，Anthropic的季度营收跃升至168亿美元",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-14T23:51:49.694Z",
+  "fetched_at": "2026-10-15T04:51:32.107540+00:00"
+ },
+ "c22fe8a41455": {
+  "id": "c22fe8a41455",
+  "url": "https://www.ithome.com/1/013/160.htm",
+  "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年如何自伤或伤害他人",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-14T23:39:08Z",
+  "fetched_at": "2026-10-15T04:51:42.166629+00:00"
+ },
+ "c197a37089f9": {
+  "id": "c197a37089f9",
+  "url": "https://www.ithome.com/1/013/154.htm",
+  "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-14T23:13:18Z",
+  "fetched_at": "2026-10-15T04:51:59.461408+00:00"
+ },
+ "0148f5b9b847": {
+  "id": "0148f5b9b847",
+  "url": "https://thenextweb.com/news/apple-intelligence-china-december-eu",
+  "title": "Apple’s first AI features reach China in December, after a two-year wait",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-15T04:52:13.672920+00:00"
  }
 }

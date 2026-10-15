@@ -1,0 +1,24 @@
+{
+ "id": "0148f5b9b847",
+ "url": "https://thenextweb.com/news/apple-intelligence-china-december-eu",
+ "title": "Apple’s first AI features reach China in December, after a two-year wait",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-15T04:52:13.672920+00:00",
+ "content": "Apple plans to launch Apple Intelligence in mainland China in December with iOS 27.3, two years after the US, excluding the rebuilt Siri AI. Siri AI is also still missing in the EU, with no indication of when approval might come.\nApple will ship Apple Intelligence in mainland China in December, two years after America got it. The version Europe is still waiting for is not in it.\nThe launch comes with an iOS 27.3 update and excludes the rebuilt Siri AI, Bloomberg reported, citing people with knowledge of the plans.\nWhat ships is the 2024 set. Genmoji, notification summaries, writing tools and removing objects from photos, the features widely panned at the time for not working properly.\nWhat does not ship is this year’s work. That means the rebuilt Siri, photo expansion, upgraded Genmoji and visual intelligence in the camera, and executives are not optimistic about Siri AI arriving there soon.\nGetting this far took concessions. Apple trained its own model for China with Alibaba’s help, becoming the first foreign company Beijing has approved to offer a proprietary AI model in the mainland.\nThe guardrails were built with Alibaba and include a filter that lets the government approve ongoing updates to the models. Baidu handles search and some Siri features.\nImage generation is out. Apple’s Image Playground will not ship there, and some text generation will be limited in some apps, to comply with the rules.\nApproval came slowly. The Cyberspace Administration logged the service in July, about 22 months after Apple Intelligence launched elsewhere, and permits covering recent iPhones followed on 29 September.\nIt nearly went out early. Apple Intelligence briefly appeared in mainland settings in March, before approval, and was pulled.\nTim Cook, now Apple’s executive chairman rather than its chief executive, attended a White House state dinner for Xi Jinping last month.\nEurope is the other hard market, and the obstacle there is different. Most of this year’s features cleared on schedule in September, but Siri AI is still missing from iPhones, iPads and Apple Watches in the EU.\nNobody will say when. People with knowledge of the matter say it is unclear whether or when Apple will get approval for a local release.\nThe two delays are not the same. In China Apple negotiated terms and got a date, while in Europe its talks with Brussels have produced a date for nothing.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果AI年底入华，功能缩水且新版Siri缺席。",
+  "background": "Apple Intelligence 2024年率先在美国上线，此后因生成式AI监管、数据本地化和内容合规，迟迟未能进入中国大陆和欧盟。中国要求境外AI服务落地需与本地企业合作并通过网信办审批，苹果因此联合阿里训练本地模型、由百度承接部分搜索与Siri功能。欧盟方面，苹果多数新功能已按计划在9月推出，但重建版Siri AI仍未获批。此次中国上线是两年等待后的妥协结果。",
+  "key_points": [
+   "苹果计划12月随iOS 27.3在中国大陆推出Apple Intelligence，距美国首发约两年；但只提供2024年基础功能，不包含今年重建的Siri AI。",
+   "入华功能包括Genmoji、通知摘要、写作工具和照片消除等；缺失照片扩展、升级版Genmoji、相机视觉智能以及新版Siri，功能明显滞后。",
+   "为满足监管，苹果与阿里合作训练中国专用模型并设置更新审批过滤，百度负责搜索和部分Siri；苹果成为首家获准在华提供自有AI模型的外企。",
+   "图像生成被排除，Image Playground不会上线，部分应用中的文本生成也受限。审批历时约22个月，服务7月登记，9月底新iPhone许可才落地。",
+   "欧盟是另一难点：今年多数功能9月已上线，但Siri AI在iPhone、iPad和Apple Watch仍缺席，且无人知道何时获批；中国谈到了日期，欧洲没有。"
+  ],
+  "impact": "对AI行业，海外大模型入华必须绑定本地伙伴并接受持续审核，阿里、百度等本土云与模型厂商话语权增强。对开发者，中国版功能残缺且区域差异大，需为Siri AI缺失、图像生成禁用做降级方案，跨区产品一致性更难。对普通用户，12月能用到基础AI但非最新体验，内容过滤和功能限制明显；欧盟用户则继续等待Siri AI。苹果的AI竞争力在中国和欧洲都被合规节奏拖慢。",
+  "tools": "想跟进可关注苹果Core ML、MLX与iOS 27.3开发者文档，理解端侧模型与区域限制；研究本地替代可看阿里通义千问Qwen开源版、百度文心系列，以及Ollama、llama.cpp等本地部署工具。"
+ },
+ "lang": "zh"
+}

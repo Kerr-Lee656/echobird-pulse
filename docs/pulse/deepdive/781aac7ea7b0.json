@@ -1,0 +1,24 @@
+{
+ "id": "781aac7ea7b0",
+ "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10",
+ "title": "随着IPO临近，Anthropic的季度营收跃升至168亿美元",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-14T23:51:49.694Z",
+ "fetched_at": "2026-10-15T04:51:32.107540+00:00",
+ "content": "Anthropic told investors it brought in $16.8 billion in revenue during the third quarter, Business Insider has learned.\nThe company behind Claude said Wednesday that it achieved profitability on an adjusted basis last quarter. Anthropic told investors this at a meeting meant to gin up interest for its gigantic initial public offering. The company is expected to list in November, at a valuation that could approach $2 trillion, which would be the largest ever at IPO. The Financial Times first reported on the revenue number and the adjusted profitability.\nInvestors view Anthropic's revenue as a proxy for the company's competition with OpenAI, and for the strength of an early AI market that has boosted stocks by trillions of dollars in value. It's unclear if the new revenue tally counts gross or net revenue, or how Anthropic arrived at its definition of profitability.\nA spokesperson for Anthropic declined to comment.\nThe Wall Street Journal previously reported that Anthropic brought in $4.8 billion in revenue in the first quarter, then more than doubled it to around $11.6 billion in the second quarter. Third-quarter revenue was up around 45% from the second quarter.\nHarrison Rolfes, a private company analyst at PitchBook, told Business Insider that while the growth is impressive, he sees warning signs for Anthropic.\n\"They're still growing, but not growing as fast. So they're reaching this inflection point,\" he said.\nFrom the numbers, it isn't clear how much Anthropic is spending to boost its revenues, Rolfes said. He says that the slower growth from the second to the third quarter could \"shave\" the valuation the company can seek in its IPO.\nSince Anthropic is still private, these glimpses at revenue are a crucial stand-in for investors considering the coming IPO and AI's impact on other stocks. Anthropic has historically counted its gross sales through cloud partners as revenue, though the company doesn't get to cash the full sum.\nA torrent of state-of-the-art AI models and strong adoption of the AI coding tool Claude Code have propelled Anthropic's fortunes, making it one of the fastest-growing companies in history. In May, the company announced it closed a $65 billion funding round, valuing it at $965 billion. Anthropic needs these vast sums of cash to pay for computing from the chips that train and run its AI models.\nIn early September, Anthropic researcher Jacob Coxon resigned with a declarative warning that, \"The people building AI earnestly believe that it could kill us all by the end of the decade.\"\nCoxon's statement, building on growing worries about AI cyberattacks, kicked worries about AI safety fully into the mainstream. Anthropic CEO Dario Amodei swiftly published an essay calling for companies to \"slow the pace at which we improve the capabilities of AI models\" so that safety measures can keep up.\nAnthropic's competitive landscape is also shifting. As open-source and open-weight models improved this year, some developers have opted to cut costs by switching over work from Anthropic and OpenAI's tools. OpenAI is waging a price war with Anthropic. And Meta, Google, and SpaceXAI are also still pushing forward their model capabilities and AI products.\nHave a tip? Contact this reporter via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a non-work WiFi network, and a non-work device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "Anthropic三季度营收168亿美元，冲刺估值近2万亿美元的史上最大IPO",
+  "background": "Anthropic是Claude系列模型的开发商，此前一季度营收48亿美元、二季度约116亿美元，三季度环比再增约45%。公司5月完成650亿美元融资，估值9650亿美元。为支付训练与推理算力，它需要持续巨额资金，因此计划11月上市，估值可能逼近2万亿美元，成为史上最大IPO。投资者把它的营收视为与OpenAI竞争、以及判断整个AI行情是否过热的晴雨表。",
+  "key_points": [
+   "营收从一季度48亿、二季度约116亿，升至三季度168亿美元，环比增长约45%，但增速在放缓，被分析师称为'拐点'。",
+   "公司称上季度实现'调整后盈利'，但未说明盈利口径，也未披露为冲营收花了多少钱，数字含金量存疑。",
+   "Anthropic长期把通过云伙伴产生的销售额全额计入营收，实际到手金额可能低于账面。",
+   "9月一名研究员辞职并警告AI'可能在本十年末杀死我们所有人'，CEO随即发文呼吁放慢模型能力提升速度。",
+   "竞争加剧：OpenAI打价格战，开源模型进步让部分开发者转向低成本方案，Meta、谷歌也在追赶。"
+  ],
+  "impact": "对AI行业，这是资本市场的关键压力测试：若2万亿美元估值被接受，将再次推高整个板块预期；若因增速放缓而打折，可能引发对AI泡沫的重新定价。对开发者，头部厂商的定价战与开源替代意味着迁移成本下降、选择更多，但也预示API价格与补贴政策会更频繁变动。对普通用户，Claude等产品会继续快速迭代且大概率保持低价，但AI安全争议进入主流视野后，模型能力开放节奏、内容与隐私策略可能趋紧。",
+  "tools": "想跟进可关注：Anthropic的Claude Code（AI编程）、Claude API及官方模型卡与安全报告；对比测试可用OpenAI API、Google Gemini，以及Llama、Qwen、DeepSeek等开源权重模型评估成本替代方案；跟踪财务与IPO进展可看PitchBook、金融时报与公司投资者材料。"
+ },
+ "lang": "zh"
+}
