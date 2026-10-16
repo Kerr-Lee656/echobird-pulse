@@ -1,0 +1,24 @@
+{
+ "id": "d663a59b17ee",
+ "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
+ "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-16T07:06:48.251649+00:00",
+ "content": "Microsoft AI CEO Mustafa Suleyman told employees an in-house model was better than a similar offering from OpenAI, one of the software giant's biggest customers and partners.\n\"We now have a stronger pre-trained base model than the model that currently powers GPT 5.6 Sol,\" Suleyman said during a town hall meeting with employees on Thursday. \"And in fact, we used one-quarter of the compute that OpenAI used to train their model.\"\nPre-training is the first stage of building an AI model, when it learns patterns from huge amounts of text, images, and other information. This takes massive amounts of expensive computing power, so Microsoft could save money if it's worked out a way to do this more efficiently.\nMicrosoft announced the model, MAI-Base-2, earlier on Thursday.\nSuleyman said Microsoft privately tested this model against OpenAI models, including one nicknamed \"Spud\" that powers GPT-5.6. He added that Microsoft's model performed better on tests measuring how well AI can understand and predict patterns in information.\nThe comparisons are based on technical information Microsoft has about OpenAI's models, Suleyman said.\n\"Privately and confidentially, we've also compared it to the OpenAI models,\" Suleyman told employees, while suggesting that Microsoft has special access to information on how OpenAI models perform.\nIt's notable that Suleyman would choose to highlight limitations of OpenAI models, even in private discussions. Microsoft has invested billions of dollars in OpenAI, and owns a stake in the startup that is likely worth more than $100 billion. Any criticism of OpenAI could potentially dent the value of this huge investment.\nThe two companies also have a major partnership, with Microsoft offering OpenAI models to its Azure cloud customers. Microsoft has used OpenAI models for its own products such as Copilot, too.\nBut the relationship between the two companies has frayed in the past year or so. Increasingly, Microsoft has tried to branch out from OpenAI, including by working on its own models.\nSuleyman also said Microsoft's new AI model used \"12 times less computation than was used for DeepSeek, for example, on compute efficiency.\"\nSuleyman didn't specify which DeepSeek model, but a public blog post described the pre-training of MAI-Base-2 being a lot more efficient than a similar offering from the Chinese lab, called DeepSeek-V4-Pro-Base.\nMicrosoft in March created a new combined team for its commercial and consumer Copilot products and reassigned Suleyman to focus on building AI models in the company's superintelligence unit.\nMicrosoft declined to comment and OpenAI did not respond to a request for comment on Thursday.\nHave a tip? Contact this reporter via email at astewart@businessinsider.com or Signal at +1-425-344-8242. Use a personal email address and a nonwork device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "微软自研 MAI-Base-2 预训练模型称用四分之一算力超越 OpenAI，双方关系趋冷。",
+  "background": "微软是 OpenAI 最大投资方之一，持股价值可能超千亿美元，同时把 OpenAI 模型接入 Azure 和 Copilot。但近一年多双方关系出现裂痕：微软一边继续卖 OpenAI 模型，一边加速自研路线，今年 3 月还组建了合并商用与消费版 Copilot 的团队，并把 Mustafa Suleyman 调去负责「超级智能」部门的模型研发。MAI-Base-2 的发布，正是这条自研路线的阶段性成果，也让「投资方兼竞争对手」的微妙关系公开化。",
+  "key_points": [
+   "微软 AI 负责人 Suleyman 在内部全员会上称，自研预训练基座 MAI-Base-2 强于当前驱动 GPT-5.6 的 OpenAI 模型（代号 Spud），且只用了对方四分之一的算力。",
+   "他还称在算力效率上比 DeepSeek 少用约 12 倍算力，公开博客把对比对象点名到 DeepSeek-V4-Pro-Base。",
+   "预训练是模型最烧钱的阶段，若效率优势成立，微软可大幅压低训练成本，这也是它强调「省算力」的关键原因。",
+   "对比依据是微软掌握的 OpenAI 模型技术信息，属于私下、非公开测试，缺乏第三方验证，结论需谨慎看待。",
+   "微妙之处在于：微软是 OpenAI 大股东兼云合作伙伴，公开贬低对方模型，可能反过来影响自己这笔巨额投资的估值。"
+  ],
+  "impact": "对 AI 行业，「更少算力、更强效果」若被复现，将削弱「堆卡堆电」的军备竞赛逻辑，把竞争焦点拉回数据与训练方法。对开发者，微软自研基座意味着未来 Azure 与 Copilot 可能同时提供 OpenAI 和 MAI 两条模型线，选择更多、议价空间更大，但也带来迁移与兼容成本。对普通用户，短期体验变化不大，长期看模型成本下降有望让 AI 功能更便宜、更普及。同时，微软与 OpenAI 从盟友转向竞合，可能重塑行业格局。",
+  "tools": "想跟进可关注 Azure AI Foundry（模型接入与评测平台）、微软 MAI 系列模型发布页与其技术博客，以及 DeepSeek 开源模型做效率对照。做预训练效率实验的话，可参考开源训练框架如 Megatron-LM、 nanotron、 torchtitan，并留意各家公开的算力与数据配比报告。"
+ },
+ "lang": "zh"
+}

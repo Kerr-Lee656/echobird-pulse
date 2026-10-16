@@ -6100,5 +6100,59 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-15T19:14:26.000Z",
   "fetched_at": "2026-10-16T00:27:49.025091+00:00"
+ },
+ "7e1ad748e627": {
+  "id": "7e1ad748e627",
+  "url": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4",
+  "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+  "source": "IT之家·人工智能",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-16T06:14:36.000Z",
+  "fetched_at": "2026-10-16T07:09:27.211596+00:00"
+ },
+ "f9f0ce1ca5b1": {
+  "id": "f9f0ce1ca5b1",
+  "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+  "title": "The Agentic Scientist – SakanaAI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T06:14:34Z",
+  "fetched_at": "2026-10-16T07:09:39.618693+00:00"
+ },
+ "fc7fc5a649e3": {
+  "id": "fc7fc5a649e3",
+  "url": "https://huggingface.co/collections/mistralai/timestral",
+  "title": "Timestral open weight timeseries foundation models from Mistral",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T05:54:00Z",
+  "fetched_at": "2026-10-16T07:09:57.356902+00:00"
+ },
+ "4bc2aa3dc5c6": {
+  "id": "4bc2aa3dc5c6",
+  "url": "https://arxiv.org/abs/2610.18813",
+  "title": "Self-Evolving Agent Harness",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T04:57:30Z",
+  "fetched_at": "2026-10-16T07:10:26.271250+00:00"
+ },
+ "94d5d577ef0f": {
+  "id": "94d5d577ef0f",
+  "url": "https://arxiv.org/abs/2610.20782",
+  "title": "Open-world AI: a Tale of Three Requirements",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-16T04:00:00.000Z",
+  "fetched_at": "2026-10-16T07:11:20.588945+00:00"
+ },
+ "2f6017e5bedc": {
+  "id": "2f6017e5bedc",
+  "url": "https://arxiv.org/abs/2610.20921",
+  "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-16T04:00:00.000Z",
+  "fetched_at": "2026-10-16T07:11:33.858950+00:00"
  }
 }

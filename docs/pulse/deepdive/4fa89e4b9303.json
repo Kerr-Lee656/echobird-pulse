@@ -1,0 +1,24 @@
+{
+ "id": "4fa89e4b9303",
+ "url": "https://www.ithome.com/1/013/700.htm",
+ "title": "蚂蚁百灵开源 Ling-3.1-flash AI 模型，最高支持 1M 上下文",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-15T22:58:04Z",
+ "fetched_at": "2026-10-16T07:07:30.662203+00:00",
+ "content": "IT之家 10 月 16 日消息，蚂蚁百灵昨日宣布开源 Ling-3.1-flash 模型，Ling-3.1-flash 总参数约 560B，每个 Token 激活约 25B，最高支持 1M 上下文。\n在 Artificial Analysis 的公开评测中，Ling-3.1-flash 的智能指数为 41、输出速度约为每秒 210 Token。\n针对本地部署，团队对 routed experts 采用 MXFP4 量化、dense 层保持 block-FP8，权重占用从约 534GB 降至 292GB。在对应的 Hopper GPU 测试配置中，服务部署由 8 卡降至 4 卡，让具备服务器级 GPU 的团队以更少卡数运行模型；实际需求仍随上下文、并发量和服务配置而变。\n针对长资料处理，团队提供长上下文并行推理方案（PCP / DCP）；工具调用也加强了对 JSON Schema 的支持，方便与现有业务接口对接。\n企业知识问答、办公助手常要先读取较长资料，用户仍希望尽快看到回复。团队通过算子融合与 DSpark 投机解码减少推理开销：在平均输入约 25.47K Token、输出约 224 Token、缓存命中率为 76% 的模拟生产请求中，8 卡 Hopper 配置下的平均首 Token 时间为 604 毫秒，相邻输出 Token 平均间隔为 3.28 毫秒。这为长资料输入后的交互响应提供测试参考。\n持续提供服务的业务系统，还需要在固定 GPU 预算内评估单实例能承接多少请求。在平均输入约 8.5K Token、输出约 800 Token 的 4 卡 Hopper 吞吐测试中，模型达到约 1.36 QPS，同时满足首 Token 时间 P50 小于 3 秒、相邻输出 Token 间隔 P90 小于 70 毫秒的测试约束。这为自有部署的容量规划提供参考。\n在线体验方面，Ling-3.1-flash 目前提供限时 2.5 折优惠，优惠后价格如下：\n- OpenRouter（美元计价）：输入 0.075 美元；输出 0.225 美元；缓存读取 0.015 美元。\n- Ling Studio（人民币计价）：输入 0.5 元；输出 1.5 元；缓存读取 0.1 元。\nIT之家附开源链接：\n- Hugging Face：https://huggingface.co/inclusionAI/Ling-3.1-flash\n- ModelScope：https://modelscope.cn/models/inclusionAI/Ling-3.1-flash\n相关阅读：",
+ "report": {
+  "summary": "蚂蚁百灵开源560B参数MoE模型Ling-3.1-flash，支持1M上下文",
+  "background": "蚂蚁集团旗下百灵（Ling）团队持续开源大模型，此前已发布Ling与Ring系列。当前开源圈竞争焦点集中在两点：一是MoE架构下用大参数量换高质量、用小激活量控成本；二是超长上下文能力，1M级别此前主要由闭源模型（如Gemini、Claude）把持，Qwen、MiniMax等国产模型陆续跟进。同时，企业私有化部署的显存与GPU卡数是落地瓶颈，量化与推理优化成为开源模型比拼的新战场。Ling-3.1-flash正是在这一背景下推出的、主打长文档处理与本地部署经济性的模型。",
+  "key_points": [
+   "MoE架构：总参数约560B，但每个Token只激活约25B，兼顾了模型容量和推理成本。",
+   "上下文最高支持1M Token，可直接吞下整本书或大批企业文档，配合PCP/DCP并行推理方案。",
+   "量化优化明显：routed experts用MXFP4、dense层用block-FP8，权重从534GB压到292GB。",
+   "部署门槛降低：Hopper GPU从8卡降到4卡即可跑，模拟生产请求下首Token约604毫秒。",
+   "工具调用强化JSON Schema支持，方便对接现有业务接口，限时2.5折价格颇具攻击性。"
+  ],
+  "impact": "对AI行业，这是国产开源模型在超长上下文和大规模MoE工程优化上的又一次进逼，1M上下文加4卡部署的组合会加剧开源模型的价格与性能竞争。对开发者，292GB权重意味着需要服务器级GPU（如H100/H200集群）才能本地跑，但4卡可部署显著降低了私有化的硬件预算门槛，JSON Schema支持也让Agent与RAG集成更顺。对普通用户，长文档问答、办公助手类产品的响应速度和成本有望改善，云API价格也在下探。",
+  "tools": "想跟进可关注Hugging Face与ModelScope上的inclusionAI/Ling-3.1-flash权重与部署文档，推理框架可搭配vLLM、SGLang验证PCP/DCP长上下文方案，量化参考MXFP4与block-FP8实践；线上试用走OpenRouter或Ling Studio，成本对比可用Artificial Analysis榜单横向评估。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "bb966c133dee",
+ "url": "https://www.ithome.com/1/013/706.htm",
+ "title": "宣称“美国最强开源 AI 模型”：Meta 发布 Muse Spark Open",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-15T23:36:51Z",
+ "fetched_at": "2026-10-16T07:07:22.864847+00:00",
+ "content": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称，Muse Spark Open 是迄今为止能力最强的美国开放权重模型。\nMuse Spark Open 采用原生多模态架构，总参数量达 816B（其中激活参数 42B），支持 1M token 的上下文窗口。该模型专为代码构建与智能体协作设计，在处理长程任务、复杂软件工程以及多步推理等方面展现出卓越性能。\n得益于最新的 MLX 框架，Muse Spark Open 成为同级别中首个仅凭两台苹果 M5 Ultra 芯片（512 GB 内存版本）的 Mac Studio 即可在桌面端本地运行的模型。\n即日起，开发者可通过 Baseten、Fireworks AI、Groq、Modal、Nebius、OpenRouter 以及 Together AI 等 API 平台调用 Muse Spark Open；模型权重也已同步上线 Amazon SageMaker AI、Google Cloud Model Garden、Hugging Face 与 Microsoft Foundry Models 提供公开下载。\n该模型已适配 SGLang、vLLM、TensorRT-LLM、Hugging Face Transformers、Apple MLX、llama.cpp 和 Unsloth 等主流推理引擎，并针对 AMD、苹果、英特尔及英伟达芯片完成了深度优化。开发者亦可基于 PyTorch 框架便捷地进行二次开发与定制。\nMuse Spark Open 在后训练阶段针对性地加强了安全对齐。基准测试结果表明，该模型在所有受测风险维度上均具备严密的安全保障能力。\n本次模型权重基于附带限制性商用条款的 Muse Model License 发布，绝大多数开发者均可免费获取并使用该模型。\nIT之家附相关测试数据如下：",
+ "report": {
+  "summary": "Meta 发布 816B 参数开源权重模型 Muse Spark Open，主打代码与智能体",
+  "background": "Llama 4 表现不及预期后，Meta 在开放权重赛道上被 DeepSeek、Qwen、Kimi 等中国模型持续压制，美国厂商被普遍认为已落后。Meta 借超级智能实验室重整研发节奏，此次以 816B 稀疏多模态模型回归，并罕见地强调桌面端可跑。值得注意的是，官方只称\"美国最强\"，措辞本身默认了全球最强仍可能在中国；而带限制性商用条款的 Muse Model License，也延续了美国厂商\"开放但不完全开源\"的一贯路线。",
+  "key_points": [
+   "816B 总参数仅激活 42B，MoE 稀疏架构，推理成本远低于参数规模，1M token 上下文能一次吞下整个代码仓库。",
+   "原生多模态，专为写代码和智能体协作设计，长程任务、复杂软件工程、多步推理是主打能力。",
+   "靠 MLX 框架优化，两台 512GB 内存的 M5 Ultra Mac Studio 就能本地运行，同级别模型中首个。",
+   "生态铺得极广：七家 API 平台可调用，四大云市场与 Hugging Face 可下载，主流推理引擎全部适配。",
+   "许可并非真正开源：Muse Model License 附带限制性商用条款，与 OSI 开源定义存在距离。"
+  ],
+  "impact": "对行业而言，美国开放权重阵营扳回一城，\"中美开源差距\"的讨论将重新升温，但\"美国最强\"的限定词反而放大了中国模型的领先印象。对开发者，多了一个 1M 上下文的多模态底座，可替代部分闭源调用，但商用前必须让法务审许可条款。对普通用户，本地跑大模型的门槛降到两台顶配 Mac，隐私敏感场景可彻底离线，日常感知更多来自下游产品降价与能力提升。",
+  "tools": "想跟进可先上 Hugging Face 取权重，服务端用 vLLM 或 SGLang，批量推理走 TensorRT-LLM；Mac 用户优先试 MLX 与 llama.cpp，微调可用 Unsloth。想快速验证效果，可经 OpenRouter、Together AI、Fireworks AI 等 API 低成本试用，再决定是否自建。"
+ },
+ "lang": "zh"
+}

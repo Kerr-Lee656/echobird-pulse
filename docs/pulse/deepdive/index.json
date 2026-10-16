@@ -15541,5 +15541,50 @@
   "site_name": "Zeli",
   "published_at": "2026-10-15T22:11:24Z",
   "fetched_at": "2026-10-16T00:24:03.193974+00:00"
+ },
+ "d663a59b17ee": {
+  "id": "d663a59b17ee",
+  "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
+  "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-16T07:06:48.251649+00:00"
+ },
+ "ebc6828edc5d": {
+  "id": "ebc6828edc5d",
+  "url": "https://www.aibase.com/zh/news/31676",
+  "title": "快手可灵 Kling 4.0 全量上线：单条视频最长 30 秒，镜头会「思考」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-16T07:07:00.712031+00:00"
+ },
+ "acd002833bb9": {
+  "id": "acd002833bb9",
+  "url": "https://www.ithome.com/1/013/716.htm",
+  "title": "苹果 Meta 破冰合作：两台 512GB 内存 Mac Studio 本地跑“美国最强开源 AI 模型”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-16T00:24:32Z",
+  "fetched_at": "2026-10-16T07:07:10.576641+00:00"
+ },
+ "bb966c133dee": {
+  "id": "bb966c133dee",
+  "url": "https://www.ithome.com/1/013/706.htm",
+  "title": "宣称“美国最强开源 AI 模型”：Meta 发布 Muse Spark Open",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T23:36:51Z",
+  "fetched_at": "2026-10-16T07:07:22.864847+00:00"
+ },
+ "4fa89e4b9303": {
+  "id": "4fa89e4b9303",
+  "url": "https://www.ithome.com/1/013/700.htm",
+  "title": "蚂蚁百灵开源 Ling-3.1-flash AI 模型，最高支持 1M 上下文",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T22:58:04Z",
+  "fetched_at": "2026-10-16T07:07:30.662203+00:00"
  }
 }
