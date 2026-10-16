@@ -1,0 +1,24 @@
+{
+ "id": "8243c9a70d3f",
+ "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+ "title": "Meta launches an open-weight AI model that runs on Macs",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-16T00:23:01.976887+00:00",
+ "content": "Meta has launched what it calls the “most capable” open-weight model in the United States. Dubbed Muse Spark Open, the model also has the distinction of having been designed to work with Macs.\nThe new model, which leverages 816 billion parameters and a 1 million token context window, claims to offer superior performance to other popular open-weight models, according to evaluation results released by Meta on Thursday.\nMuse Spark Open is natively multimodal and built for complex coding tasks and agentic labor. It has also been designed to run locally on Apple’s computers. However, you will still need a lot of power to run the model locally, with a requirement of at least 1 terabyte of RAM, per Engadget. The model will run best via the Mac Studio that comes equipped with the M5 Ultra chip.\nStill, if you can muster the memory, Muse Spark Open may prove a significant work horse for coding and other desktop tasks. Meta says that it paired the model with Muse Code, its AI coding terminal, and deployed it to various agentic workflows, including coding fixes for a Mastodon client that included “bug fixes, new features, [and] full build.”\nThe company says it also deployed it in the service of running DaVinci Resolve, the high-end video editing software, revealing that the model was capable of reviewing and cropping footage.\nOpen-weight models provide a number of distinct industry advantages that aren’t afforded by closed and proprietary models. Open-weight models can be significantly more cost-efficient and can also offer transparency and flexibility that closed source models don’t allow.\nMeta is making the new model available now through a number of different API platforms.",
+ "report": {
+  "summary": "Meta发布可本地运行Mac的开放权重多模态模型",
+  "background": "Meta长期押注开放权重模型，以成本、透明度和灵活性挑战闭源巨头。随着端侧AI升温，苹果统一内存架构让Mac成为本地大模型试验场。此次发布的Muse Spark Open号称美国最强开放权重模型，参数达8160亿、上下文100万token，原生多模态，面向编码与智能体。Meta同步通过多个API平台提供，并强调可在Mac本地运行，试图把超大规模模型带入桌面工作流。",
+  "key_points": [
+   "Muse Spark Open拥有8160亿参数和100万token上下文，原生多模态，Meta称其性能超过其他热门开放权重模型。",
+   "它针对复杂编码和智能体任务优化，可搭配Muse Code终端，已用于Mastodon客户端修复、新功能和完整构建。",
+   "可在Mac本地运行，但门槛极高：至少1TB内存，最佳体验需搭载M5 Ultra芯片的Mac Studio。",
+   "Meta还展示其操作DaVinci Resolve，能审阅和裁剪视频素材，显示桌面级多模态代理潜力。",
+   "模型现已通过多个API平台开放使用；开放权重意味着更低成本、更高透明度和部署灵活性。"
+  ],
+  "impact": "对AI行业，Meta把开放权重模型推到8160亿参数和本地Mac运行，进一步加剧与闭源模型的竞争，也推动“大模型桌面化”。对开发者，API可快速接入，但本地自托管需要1TB内存级硬件，适合高端工作室或企业；编码智能体工作流将更成熟。对普通用户，短期更可能通过API或产品间接使用，长期有望获得更私密、可定制的本地AI，但硬件成本仍是普及障碍。",
+  "tools": "想跟进可关注：Meta的Muse Spark Open API与Muse Code终端；本地运行需Mac Studio（M5 Ultra、1TB内存）；也可留意 Apple MLX、llama.cpp 等本地推理框架是否后续支持量化部署。"
+ },
+ "lang": "zh"
+}

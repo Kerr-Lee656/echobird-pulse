@@ -6064,5 +6064,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-15T18:41:48.000Z",
   "fetched_at": "2026-10-15T21:26:33.596702+00:00"
+ },
+ "09f5b1107e4b": {
+  "id": "09f5b1107e4b",
+  "url": "https://www.cnn.com/2026/10/13/tech/character-ai-bankruptcy-filing",
+  "title": "Character.ai files for bankruptcy following suits alleging ties to teen suicides",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T21:25:41Z",
+  "fetched_at": "2026-10-16T00:26:46.465463+00:00"
+ },
+ "96fc3be952a6": {
+  "id": "96fc3be952a6",
+  "url": "https://arxiv.org/abs/2610.19159",
+  "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-15T20:39:56Z",
+  "fetched_at": "2026-10-16T00:27:04.190522+00:00"
+ },
+ "f2d5651ecb42": {
+  "id": "f2d5651ecb42",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-15T20:04:53.000Z",
+  "fetched_at": "2026-10-16T00:27:36.071574+00:00"
+ },
+ "20dfecfa26f1": {
+  "id": "20dfecfa26f1",
+  "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+  "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-15T19:14:26.000Z",
+  "fetched_at": "2026-10-16T00:27:49.025091+00:00"
  }
 }

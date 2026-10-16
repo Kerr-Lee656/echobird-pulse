@@ -15496,5 +15496,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-15T21:22:02.639323+00:00"
+ },
+ "1024782f3c48": {
+  "id": "1024782f3c48",
+  "url": "https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt",
+  "title": "IMF Warns of the Real AI Threat: Debt",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-16T00:22:46.058435+00:00"
+ },
+ "8243c9a70d3f": {
+  "id": "8243c9a70d3f",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-16T00:23:01.976887+00:00"
+ },
+ "e5df2f11adaa": {
+  "id": "e5df2f11adaa",
+  "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures",
+  "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-16T00:23:38.695664+00:00"
+ },
+ "90964c914801": {
+  "id": "90964c914801",
+  "url": "https://www.ithome.com/1/013/684.htm",
+  "title": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-15T22:43:28Z",
+  "fetched_at": "2026-10-16T00:23:55.701174+00:00"
+ },
+ "3e3d62ddc0e9": {
+  "id": "3e3d62ddc0e9",
+  "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+  "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-15T22:11:24Z",
+  "fetched_at": "2026-10-16T00:24:03.193974+00:00"
  }
 }
