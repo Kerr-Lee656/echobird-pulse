@@ -6190,5 +6190,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-16T08:05:39Z",
   "fetched_at": "2026-10-16T13:19:20.288353+00:00"
+ },
+ "7661019fe020": {
+  "id": "7661019fe020",
+  "url": "https://github.com/cobanov/PS5LM",
+  "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "source": "Hacker News (93pts, 25c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T18:32:35Z",
+  "fetched_at": "2026-10-16T21:06:50.268447+00:00"
+ },
+ "b59c48bb8275": {
+  "id": "b59c48bb8275",
+  "url": "https://www.telegraph.co.uk/business/2026/10/16/anthropic-valuation-ipo-ai-stock-listing/",
+  "title": "Anthropic's Valuation Collapsed by $500B",
+  "source": "Hacker News (9pts, 7c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T18:27:58Z",
+  "fetched_at": "2026-10-16T21:07:12.966321+00:00"
+ },
+ "d3fb971c9d3f": {
+  "id": "d3fb971c9d3f",
+  "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+  "title": "American Medical Association releases governance framework for agentic AI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T18:07:40Z",
+  "fetched_at": "2026-10-16T21:07:24.802852+00:00"
+ },
+ "e9c3d49cc9d7": {
+  "id": "e9c3d49cc9d7",
+  "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+  "title": "Meta may use new commercial TOS to avoid millions in AI licensing fees",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T16:47:47Z",
+  "fetched_at": "2026-10-16T21:08:17.752447+00:00"
  }
 }
