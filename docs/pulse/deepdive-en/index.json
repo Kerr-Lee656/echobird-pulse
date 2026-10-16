@@ -6154,5 +6154,41 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-16T04:00:00.000Z",
   "fetched_at": "2026-10-16T07:11:33.858950+00:00"
+ },
+ "b0d327628dfb": {
+  "id": "b0d327628dfb",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "title": "vxcontrol/pentagi — Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-16T13:16:22.189073+00:00"
+ },
+ "660063e865d4": {
+  "id": "660063e865d4",
+  "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+  "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-16T12:55:09.000Z",
+  "fetched_at": "2026-10-16T13:16:38.425404+00:00"
+ },
+ "9d7128ab88f9": {
+  "id": "9d7128ab88f9",
+  "url": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+  "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+  "source": "NVIDIA：Newsroom",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-16T12:00:00.000Z",
+  "fetched_at": "2026-10-16T13:18:04.641763+00:00"
+ },
+ "1f743d2543e1": {
+  "id": "1f743d2543e1",
+  "url": "https://github.com/Roboparty/RP1",
+  "title": "RP1: An Open Source Full-Stack Platform for Agentic Humanoids",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-16T08:05:39Z",
+  "fetched_at": "2026-10-16T13:19:20.288353+00:00"
  }
 }
