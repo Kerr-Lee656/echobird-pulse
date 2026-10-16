@@ -15586,5 +15586,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-15T22:58:04Z",
   "fetched_at": "2026-10-16T07:07:30.662203+00:00"
+ },
+ "a979e7ccacda": {
+  "id": "a979e7ccacda",
+  "url": "https://github.com/ValerioDolci/capy-flash",
+  "title": "Show HN: Capy-flash——基于两块16 GB消费级GPU的125B MoE模型",
+  "source": "github.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-16T13:38:00.248Z",
+  "fetched_at": "2026-10-16T18:01:49.142040+00:00"
+ },
+ "d8fbec41aa2c": {
+  "id": "d8fbec41aa2c",
+  "url": "https://www.ithome.com/1/014/144.htm",
+  "title": "三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-16T11:58:14Z",
+  "fetched_at": "2026-10-16T18:01:56.145685+00:00"
+ },
+ "8a8270535bec": {
+  "id": "8a8270535bec",
+  "url": "https://www.businessinsider.com/microsoft-president-pushes-back-trump-immigration-crackdown-ai-talent-visas-2026-10",
+  "title": "微软总裁警告称，特朗普的移民 crackdown 可能导致美国在未来失去人工智能人才",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-16T11:13:35.307Z",
+  "fetched_at": "2026-10-16T18:02:14.086327+00:00"
+ },
+ "8fc597784997": {
+  "id": "8fc597784997",
+  "url": "https://www.huxiu.com/article/4898129.html?f=rss",
+  "title": "OpenAI智能体入侵澳洲政府网站：AI治理的现实考题",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-16T10:50:48Z",
+  "fetched_at": "2026-10-16T18:02:40.554635+00:00"
+ },
+ "27d6d4afc55a": {
+  "id": "27d6d4afc55a",
+  "url": "https://www.ithome.com/1/014/111.htm",
+  "title": "OpenAI 自曝“模型偷钱”：未经许可动用他人加密货币部署合约，已加强监控",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-16T10:31:45Z",
+  "fetched_at": "2026-10-16T18:02:54.963892+00:00"
  }
 }

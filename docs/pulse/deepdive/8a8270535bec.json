@@ -1,0 +1,24 @@
+{
+ "id": "8a8270535bec",
+ "url": "https://www.businessinsider.com/microsoft-president-pushes-back-trump-immigration-crackdown-ai-talent-visas-2026-10",
+ "title": "微软总裁警告称，特朗普的移民 crackdown 可能导致美国在未来失去人工智能人才",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-16T11:13:35.307Z",
+ "fetched_at": "2026-10-16T18:02:14.086327+00:00",
+ "content": "If America wants to win the AI race, sending the world's brightest engineers packing might not be a winning strategy.\nThat's the warning from Microsoft President Brad Smith, who said the Trump administration's immigration crackdown risks driving the next generation of AI talent away from the United States.\n\"I think we should all be worried about sending intentionally or inadvertently or otherwise, signals that send the most talented next wave of AI software engineers to other countries rather than the United States,\" Smith said in an episode of Politico's \"The Decoded Podcast\" that aired on Thursday.\nHis comments come after the Trump administration announced last week that it was suspending Microsoft, Adobe, and several other technology companies from a federal program that sponsors foreign workers for permanent residency.\nVice President JD Vance accused Microsoft of abusing the Permanent Labor Certification, or PERM, program by laying off American employees while hiring lower-paid foreign workers.\nSmith, who Business Insider reported was recently put in charge of Microsoft's communications, pushed back against those allegations, saying the administration had presented a misleading picture of Microsoft's hiring practices.\n\"What was presented as Microsoft replacing 6,000 people who lost their jobs with 9,000 foreigners was frankly completely off base,\" he said.\nSmith said most of the company's visa and green card applications concerned existing employees rather than new hires, adding that Microsoft had hired 9,200 American workers in its last fiscal year.\n\"That was left out of the narrative,\" he said.\nHe also rejected suggestions that Microsoft pays foreign workers less than their American counterparts, saying employees are compensated under the same system regardless of immigration status.\nThe American dream, on hold\nThe dispute comes amid growing uncertainty for skilled foreign workers in the US.\nAs part of our ongoing H-1B Fallout series, Business Insider previously reported that the Trump administration's shifting immigration policies have prompted some international workers to explore opportunities abroad, including in countries like the UK, Germany, and Canada.\nAn analysis of federal data by Business Insider found that certified H-1B applications fell 10% in the first nine months of fiscal year 2026 compared with the same period a year earlier. Applications for data scientists, however, rose 22.5%, highlighting continued demand for specialized AI talent.\nOn the Politico podcast, Smith cited immigrants' economic contributions as evidence of what America stands to lose.\nHe said that five of the six technology and science medal recipients recently honored by President Donald Trump had immigrated to the United States.\nAccording to Smith, the companies associated with those five individuals collectively represent more than a quarter of the S&P 500's market value.\nTheir contributions, he said, benefit not just technology employees but ordinary Americans whose retirement savings and pension funds are invested in those businesses.\n\"Think about what those five individuals have done for the well being, even the wealth and standard of living, of Americans across the country,\" Smith said.\n\"Let's not put that at risk.\"",
+ "report": {
+  "summary": "微软总裁警告，特朗普移民收紧或把AI人才推向别国。",
+  "background": "特朗普政府上周暂停微软、Adobe等公司参与联邦PERM永久居留担保项目。副总统JD Vance指控微软滥用PERM，一边裁掉美国员工，一边雇佣低薪外籍员工。微软总裁Brad Smith在Politico播客反驳，称政府叙述误导。同时，美国H-1B政策不确定性上升，2026财年前九月认证H-1B申请同比下降10%，但数据科学家申请增长22.5%。AI人才争夺与移民政策矛盾激化。",
+  "key_points": [
+   "微软被暂停PERM资格：特朗普政府因Vance指控微软滥用永久劳工证，暂停其担保外籍员工申请绿卡的联邦项目资格。",
+   "Smith反驳指控：称“裁6000美国人换9000外国人”完全失实，多数签证和绿卡申请针对现有员工，上一财年微软雇了9200名美国人。",
+   "薪资争议：Smith否认外籍员工薪资更低，表示无论移民身份，员工都按同一薪酬体系计酬，不存在系统性压价。",
+   "人才流失风险：Smith警告，美国若释放排斥信号，顶尖AI工程师可能流向加拿大、德国、英国等竞争国家。",
+   "数据印证矛盾：H-1B认证申请总体下降10%，但数据科学家申请增22.5%，说明AI人才需求仍强而通道在收窄。"
+  ],
+  "impact": "对AI行业，美国公司招募顶尖外籍人才更难，可能加速研发外迁或设立离岸中心。对开发者，在美外籍工程师的签证和绿卡不确定性上升，需准备加拿大、欧洲等Plan B。对普通用户，短期AI产品迭代未必受影响，但长期若人才流失，美国创新领先地位及养老金、退休金所依赖的科技股回报可能受损。",
+  "tools": "无直接开源工具可解决政策问题。建议关注USCIS的H-1B/PERM政策页、Politico Decoded播客、Business Insider H-1B Fallout系列；开发者可研究O-1、EB-1A、NIW及加拿大全球人才流等替代路径。"
+ },
+ "lang": "zh"
+}
