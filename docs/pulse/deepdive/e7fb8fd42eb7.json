@@ -1,0 +1,24 @@
+{
+ "id": "e7fb8fd42eb7",
+ "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
+ "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T22:16:26.906453+00:00",
+ "content": "The US Federal Trade Commission has sent civil investigative demands to Anthropic and OpenAI, seeking documents about the safety incidents involving their AI models. The demands went out on Wednesday, Axios first reported, citing a person familiar with the matter. An FTC spokesperson confirmed the subpoenas to CBS News and declined to comment further.\nOpenAI said it would cooperate. No statement from Anthropic appeared in the reports.\n“As we improve our models and they increasingly help people in their day-to-day lives, safety remains a top priority. We will engage constructively with the FTC.” OpenAI spokesperson, to Axios\nWhat the FTC is asking for\nEach demand runs to more than 50 pages, according to Axios’s source. They ask for documents on security incidents and safeguarding practices. The agency also wants marketing materials and documents on the companies’ privacy policies.\nThe probe focuses on potential consumer protection violations. The FTC can investigate conduct that may be unfair or deceptive to consumers. Civil investigative demands help it gather evidence ahead of possible litigation, Axios reported.\nThe FTC plans to compel top AI executives to testify about their products, the source said. It will also send demands to third-party AI organisations later.\nHow the probe got here\nThe FTC said two weeks earlier that it was investigating the AI labs, CBS reported. FTC chair Andrew Ferguson has said AI systems should not be released if they are not safe, according to Axios.\nFerguson also co-chairs Trump’s Super Intelligence Force. The group has told AI companies to report rogue behaviour immediately and fix it. On the same Wednesday as the demands, eight US states sued OpenAI under consumer protection laws.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美FTC向OpenAI与Anthropic发出调查传票",
+  "background": "美国联邦贸易委员会（FTC）两周前已表态在调查两家AI实验室，本周三正式发出民事调查令（CID）。这类传票通常用于诉讼前的取证，每份超过50页，要求提供安全事件记录、防护措施、营销材料和隐私政策文档，指向的是「对消费者不公平或欺骗性行为」这一消费者保护范畴。时间点也很微妙：同一天，美国八个州依据消费者保护法起诉OpenAI。FTC主席Andrew Ferguson一边强调「不安全的AI系统不该发布」，一边联合主持特朗普政府的「超级智能工作组」，要求企业主动上报模型的异常行为。这意味着美国AI监管正在从「自愿承诺」转向「执法取证」阶段。",
+  "key_points": [
+   "传票分量不轻：每份超过50页，索要安全事件记录、防护措施、营销话术和隐私政策，焦点是是否存在对消费者的欺骗或误导。",
+   "不只查文档，还要人：FTC计划强制两家公司的核心高管就产品作证，后续还会向第三方AI机构发传票，调查圈层正在外扩。",
+   "监管口径变了：FTC主席明确表示不安全的AI系统不应发布，并要求企业对模型的「失控行为」立即上报并修复。",
+   "同一天八州起诉OpenAI，联邦调查加州级诉讼形成双线压力，AI公司面临的法律风险从理论走向现实。",
+   "OpenAI回应称将建设性配合，Anthropic暂未公开表态——两家头部实验室被同时点名，说明调查覆盖的是行业做法而非个案。"
+  ],
+  "impact": "对AI行业而言，模型安全文档、系统卡和营销表述将首次具备法律证据属性，「安全」从公关话术变成合规义务。对开发者来说，调用第三方模型时需更关注供应商的安全披露与责任边界，企业级采购可能要求合同里加入安全事件通报条款。对普通用户，短期看不到产品变化，但中长期可能带来更透明的风险提示、更严格的发布前评测，以及更明确的隐私与数据使用说明。",
+  "tools": "想跟进合规与安全实践，可关注：NIST AI风险管理框架（AI RMF）、AI Incident Database（AI事故数据库）、英国AI安全研究院开源的评测框架Inspect、红队测试工具Garak，以及各家发布的System Card与透明度报告，可作为对标的文档模板。"
+ },
+ "lang": "zh"
+}

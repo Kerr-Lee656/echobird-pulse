@@ -1,0 +1,23 @@
+{
+ "id": "1f075f8151a5",
+ "url": "https://thenextweb.com/news/eu-cloud-sovereignty-cada-115bn-ccia-study",
+ "title": "EU cloud sovereignty law could cost Europe €115bn, US tech lobby study says",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T22:16:36.520805+00:00",
+ "content": "The EU’s proposed cloud sovereignty law, the Cloud and AI Development Act (CADA), could cost Europe €115bn over ten years. That is the central estimate in a study by the Brussels think tank ECIPE. CCIA Europe, a lobby group whose members include Amazon, Google and Meta, paid for it.\nMatthias Bauer, the author, calls the figure “economic exposure” from 2027 to 2036. It is the central of three scenarios. The narrow scenario comes to €35.6bn and the broad one to €233bn. The European Commission’s own upper estimate was €18bn, The Register reported.\n“Taxpayers and businesses will foot the bill, yet the official assessment missed 70 percent of CADA’s true impact.” Mitchell Rutledge, CCIA Europe policy manager, in a statement\nWhat CADA would require\nThe proposal sets four levels of sovereignty for cloud services bought by public bodies. The lowest covers EU establishment and data location. The top two limit control by companies from outside the EU. The highest also demands control over how the software is built, according to the Commission and the study.\nThe Commission says public bodies would choose a level based on their own risk assessments. It says it can recognise providers from outside the EU at the third level. Most of the market should stay open to its partners, it says.\nWhere the study puts the cost\nThe study puts direct costs to public budgets at about €33.3bn. Moving and rewriting software makes up about 69% of the €115bn total, and higher cloud prices about 30%.\nAbout €80bn would fall on private companies in sectors such as energy, banking, transport and healthcare. That figure rests on an assumption. Article 31 of the proposal lets the Commission ask firms in these sectors for the same assessments as public bodies. The study assumes this reaches a quarter of the private cloud spending in scope.\nMeasured per person in the working-age labour force, Luxembourg faces the highest cost, at about €1,711. Denmark, Austria, Finland and Ireland follow, at €856 to €905. Germany comes in at €396. Parts of its public sector already work under similar rules, the study says.\nWhat the study leaves out\nThe study does not put a value on the security, resilience or strategic autonomy the law aims to bring. It should not be read as a full cost-benefit assessment, the author writes.\nCCIA wants member states to limit the rules to sensitive workloads. It also wants them to drop requirements based on a company’s origin, The Register reported. Amazon and Google did not respond to The Register’s questions. The EU has already awarded €180m in sovereign cloud contracts to four European providers. France has told its ministries to ditch Windows for Linux. Most large organisations think full sovereignty is unrealistic, a Capgemini survey found.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美科技游说称欧盟云主权法十年或耗资1150亿欧元",
+  "background": "欧盟拟推《云与AI发展法》(CADA)，为公共部门采购云服务设四级主权要求，最高级限制非欧盟企业控制及软件构建方式。该法旨在提升欧洲数字主权与云/AI自主性，但美国科技巨头担忧市场准入。CCIA Europe资助ECIPE研究，在立法争论中抛出成本评估，试图影响成员国立场。",
+  "key_points": [
+   "ECIPE测算CADA十年“经济暴露”为1150亿欧元，是其三种情景的中间值；窄口径356亿，宽口径2330亿，远高于欧委会此前180亿欧元上限估算。",
+   "成本主要来自迁移和重写软件，约占69%，云服务涨价约占30%；公共预算直接成本约333亿，私营部门约800亿，后者依赖第31条扩围假设。",
+   "研究按劳动年龄人口摊算，卢森堡人均约1711欧元最高，丹麦、奥地利、芬兰、爱尔兰约856-905欧元，德国约396欧元；报告承认未量化安全、韧性与战略自主收益。",
+   "CCIA Europe建议成员国仅对敏感工作负载设限，并删除基于企业来源地的要求；欧盟已向四家欧洲云商授予1.8亿欧元主权云合同，法国要求部委弃用Windows转Linux。"
+  ],
+  "impact": "对AI行业，CADA可能重塑欧洲公共部门云与AI基础设施采购，抬高合规与迁移成本，也可能扶持本土主权云生态。开发者需面对多云适配、数据驻留和供应链透明要求；普通用户短期难感价格变化，但公共服务数字化成本与供应商选择会受影响。最终取决于立法是否收窄至敏感场景。",
+  "tools": "可跟进CADA立法文本与ECIPE报告，关注Gaia-X、EuroStack及欧洲主权云提供商（如OVHcloud、SAP主权云）的合规方案；企业可准备数据驻留、供应链透明和迁移成本评估工具。"
+ },
+ "lang": "zh"
+}

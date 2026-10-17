@@ -15874,5 +15874,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-17T10:06:14.023Z",
   "fetched_at": "2026-10-17T18:28:08.732806+00:00"
+ },
+ "f7f7c2d5b750": {
+  "id": "f7f7c2d5b750",
+  "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it",
+  "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:15:53.381570+00:00"
+ },
+ "31cd63cc97a1": {
+  "id": "31cd63cc97a1",
+  "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications",
+  "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:03.100161+00:00"
+ },
+ "f1da4b6eb4e4": {
+  "id": "f1da4b6eb4e4",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:11.451553+00:00"
+ },
+ "4e8f6b9a83b8": {
+  "id": "4e8f6b9a83b8",
+  "url": "https://thenextweb.com/news/google-news-ai-pilot-400-publications-cnn-ft",
+  "title": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:19.350311+00:00"
+ },
+ "e7fb8fd42eb7": {
+  "id": "e7fb8fd42eb7",
+  "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
+  "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:26.906453+00:00"
+ },
+ "1f075f8151a5": {
+  "id": "1f075f8151a5",
+  "url": "https://thenextweb.com/news/eu-cloud-sovereignty-cada-115bn-ccia-study",
+  "title": "EU cloud sovereignty law could cost Europe €115bn, US tech lobby study says",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:36.520805+00:00"
+ },
+ "c8fc7c1d7b11": {
+  "id": "c8fc7c1d7b11",
+  "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+  "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:16:48.161665+00:00"
+ },
+ "c7d27156a54c": {
+  "id": "c7d27156a54c",
+  "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
+  "title": "亚马逊利用人工智能监测英国仓库的工会风险",
+  "source": "www.opendemocracy.net",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-17T18:34:06.954Z",
+  "fetched_at": "2026-10-17T22:16:57.633064+00:00"
  }
 }

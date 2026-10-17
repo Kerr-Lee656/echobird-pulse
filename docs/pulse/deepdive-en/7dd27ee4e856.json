@@ -1,0 +1,23 @@
+{
+ "id": "7dd27ee4e856",
+ "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+ "title": "Meta removes language that raised scraping and AI training concerns",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-10-17T21:31:32.000Z",
+ "fetched_at": "2026-10-17T22:17:44.486772+00:00",
+ "content": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services.\nAccording to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright infringement last year, other cases against AI companies, including Meta, continue.)\nHowever, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed.\n“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”",
+ "report": {
+  "summary": "Meta removed a commercial-terms clause that legal experts warned could let it scrape business customers’ websites and use the content to train AI models.",
+  "background": "The dispute comes as AI companies face growing scrutiny over how they collect training data. Publishers and businesses have long worried that platform terms, web crawlers, and vague contractual language can quietly authorize scraping. Meta recently updated its commercial terms to say it could use content from a business account’s domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of Meta products and services. Legal experts told Nieman Lab the provision was remarkable and could amount to permission to scrape publishers’ sites for AI training. Meta said the update did not change how it crawls the web. The clause was later removed after coverage. The episode unfolds against continuing AI copyright litigation; Meta defeated a high-profile infringement lawsuit last year, but other cases against Meta and other AI companies remain active.",
+  "key_points": [
+   "The disputed clause appeared in Meta’s updated commercial terms and covered content from a business account’s domains, web pages, or URLs. Legal experts said it could give Meta broad permission to scrape publisher websites and use that content to develop and train AI models.",
+   "Meta pushed back on that interpretation, saying the consolidated language applied only to its ads and business products and did not change how its web crawlers operate. A spokesperson insisted the update did not reflect a change in crawling behavior.",
+   "After Nieman Lab and The Verge reported on the provision, Meta removed it. The company said it had listened to feedback and clarified the terms themselves, while maintaining that its use of web crawlers is unchanged.",
+   "The reversal highlights how contractual language can become a flashpoint in AI training disputes. Meta previously won a high-profile copyright case, but other lawsuits over AI training data continue, leaving the legal boundaries unsettled."
+  ],
+  "impact": "For the AI industry, the episode shows that broad data-use language can trigger immediate backlash even when companies say technical behavior has not changed. Precise, narrowly scoped terms are becoming a reputational and legal necessity. For developers, it is a reminder not to assume platform terms grant rights to scrape or train on business-account content; review contracts, robots.txt rules, and licenses carefully. For publishers and regular users, the removal reduces an immediate concern but does not resolve the wider ambiguity around AI crawlers and training data. Meta’s insistence that crawling practices did not change means the dispute is as much about trust and transparency as about the clause itself.",
+  "tools": "Publishers and developers can monitor AI crawlers with robots.txt rules, Cloudflare’s AI Crawl Control and bot management, Dark Visitors’ AI bot directory, and community lists such as ai.robots.txt. For training-data transparency, watch Have I Been Trained? and emerging opt-out standards. Also track Meta’s commercial terms and crawler documentation for further changes."
+ },
+ "lang": "en"
+}

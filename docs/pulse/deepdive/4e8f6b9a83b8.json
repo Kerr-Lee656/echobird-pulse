@@ -1,0 +1,25 @@
+{
+ "id": "4e8f6b9a83b8",
+ "url": "https://thenextweb.com/news/google-news-ai-pilot-400-publications-cnn-ft",
+ "title": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T22:16:19.350311+00:00",
+ "content": "More than 400 publications worldwide now take part in Google’s News AI pilot, the company said on Thursday. The programme pays publishers to license content for experimental AI features in Google News. Its newest partners include Axios, CNN, the Financial Times and Forbes.\n“Through this licensing program, we pay participating news publications for the delivery and use of enhanced content to develop new AI features.” Google, in a blog post\nLocal US publishers have joined too. They include the Post and Courier in Charleston, the Texas Tribune, Oil City News in Wyoming and the newspaper chain Shaw Media. The pilot launched last December with partners including The Washington Post and The Washington Examiner.\nWhat the content is used for\nLicensed articles feed AI-generated “story previews”, in-depth summaries on a publisher’s Google News page, Nieman Lab reported. A Washington Post example carries a note that the copy is AI-generated and “may include mistakes”.\nAnother test feature is an audio briefing, a custom AI podcast in the Google News app. Users pick topics such as World, Gaming or Sports, and the briefing links to the articles it cites.\nGoogle declined to share the terms of the deals. The pilot does not pay by how much content adds to an AI answer, a spokesperson told Nieman Lab. That model belongs to a separate programme for AI Overviews, AI Mode and Gemini.\n“People’s information consumption habits are changing, and we want to make sure publishers of all sizes, local newsrooms included, can navigate these shifts.” Brianna Puccini Duff, Google spokesperson, to Nieman Lab\nCNN’s first deal under new owners\nThe agreement is CNN’s first partnership since Paramount Skydance completed its takeover of Warner Bros Discovery, Reuters reported. CNN said the deal fits its strategy to protect its intellectual property.\n“Google’s innovation with generative AI has changed how people discover information and content, and now those tools will help us explore new ways to discover and engage audiences.” Sam Felix, CNN senior vice president, to Reuters\nThe deals come as publishers step up efforts to stop AI companies using their content without permission, Reuters noted.\nLinks move up in AI answers\nGoogle also changed how links appear in its AI search, The Verge reported. Inline links in AI Overviews and AI Mode will show “higher up in responses more frequently”, Google said. Google is also testing links at the top of some answers and adding image thumbnails to links at the end.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌News AI授权计划扩至400多家媒体，CNN、FT等新加入",
+  "background": "自2023年起，AI搜索与聊天机器人大量抓取新闻内容，导致媒体流量与广告收入承压，纽约时报等机构已起诉OpenAI和微软，并纷纷与AI公司谈判授权。谷歌去年12月启动News AI试点，付费获得新闻内容授权，用于Google News中的AI功能，首批伙伴包括华盛顿邮报。此次扩至400多家（含CNN、FT、Axios、Forbes及多家美国地方媒体），是媒体与AI平台从对抗走向商业授权的一个标志性进展。",
+  "key_points": [
+   "参与媒体超过400家，新增CNN、FT、Axios、Forbes，以及Texas Tribune、Shaw Media等地方新闻机构；地方媒体是谷歌此次重点强调的群体。",
+   "授权内容用于AI生成的“新闻预览”、出版商页面上的深度摘要，以及可按World、Gaming等主题定制的AI音频简报，均标注AI生成并附原文链接。",
+   "这一试点根据内容授权和交付付费，与AI概览、AI Mode、Gemini那套“按内容贡献度分成”的独立计划不同，具体金额未披露。",
+   "这是CNN在派拉蒙Skydance完成收购华纳兄弟探索后的首笔AI内容交易，官方称意在保护知识产权并探索触达新受众。",
+   "同期谷歌调整AI搜索链接展示：AI概览与AI Mode中的行内链接更常出现在回答靠前位置，并测试顶部链接和图片缩略图。",
+   "此前有媒体机构起诉AI公司未经许可使用内容；这类付费授权被视作缓解版权冲突的折中方案。"
+  ],
+  "impact": "对AI行业而言，付费授权正成为大模型与AI搜索获取高质量新闻内容的主流路径，版权成本将被纳入产品经济模型。对开发者，新闻类AI应用的合规门槛上升，简单抓取聚合的做法风险加大，需要走授权或公共数据源。对普通用户，AI摘要与AI播客让信息获取更省时，但“可能出错”的标注提醒仍需回看原文；链接上移与缩略图可能部分回流流量给媒体。",
+  "tools": "想跟进可关注Google News AI音频简报与AI Mode的实际体验；媒体与技术团队可研究RSL（Really Simple Licensing）、Cloudflare的内容付费爬虫控制、Schema.org与IPTC的新闻元数据规范，以及Publish或Arc XP等支持AI授权的发布平台。"
+ },
+ "lang": "zh"
+}

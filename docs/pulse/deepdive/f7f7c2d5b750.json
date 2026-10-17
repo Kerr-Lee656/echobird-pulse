@@ -1,0 +1,24 @@
+{
+ "id": "f7f7c2d5b750",
+ "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it",
+ "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T22:15:53.381570+00:00",
+ "content": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It (xda-developers.com) 33\n\t\t\t\n\t\t \t\n\t\t\t\tLinux maintainers \"have ruled that people no longer have to declare their LLM usage,\" reports XDA Developers, \"as Torvalds himself calls a ban on AI 'utterly stupid.'\"\nThe first part of this story comes via a message sent to the Linux mailing list. It announces one of the major changes decided during the Maintainers Summit on October 8, 2026, in Prague, Czechia, where submissions to the kernel no longer need to use the \"Assisted-by\" tag... meaning that people can submit AI-generated code without needing to declare it as such. \nIn some correspondence regarding concern about this new disclosure removal, the creator of Linux, Linus Torvalds, made his thoughts known...  [Torvalds] compares an AI ban to getting rid of text editors, as doing so would prove that someone could write a good commit message without making any mistakes.   He then rounds off his argument by asking, \"Do you not see how UTTERLY STUPID those kinds of rules would be?\" and stating that he simply expects the people working on the Linux kernel to \"understand what they are doing.\" \nHere's the last line of Torvalds' post.  \"Quite honestly, in my experience, the people I respect and call intelligent are not the ones that shy away from using new and interesting tools.\"\nIn a related story, Torvalds says he's used AI to help him understand patches that were hard to follow. And this week Torvalds even posted an LLM-assisted patch, reports Tom's Hardware:\nThe development branch purports to fix an old issue with massive cache contention when many CPUs are reading the same file — a scenario potentially encountered when using shared libraries, databases, and web servers. Several developers had already made attempts over the years at fixing the issue, all with varied results, none quite ideal as an all-encompassing solution... He's now posted his solution in a development branch, and claims that he's seen a 23x performance improvement in a dedicated synthetic benchmark, though he notes that actual real-world impact will be far less significant, as \"no real load\" will witness those figures.   \nTorvalds used Anthropic's Claude Code, reports The New Stack, and \"said the assistant wrote the implementation, tests, and initial documentation, and reviewed the code under his direction. He ran the benchmarks himself, despite having previously criticized developers for claiming AI writes 99% of their code.\"  Tuesday Torvalds submitted a 10-patch series.\n\"Reviewers have since identified a race condition and raised concerns about memory reclamation,\" adds The New Stack.  \"Torvalds has handed further development to Kiryl Shutsemau, a Linux kernel developer who previously worked on the same bottleneck.\"",
+ "report": {
+  "summary": "Linux内核取消AI代码强制声明，Torvalds公开力挺",
+  "background": "过去两年，Linux 内核社区要求提交者在用大模型辅助写代码时打上“Assisted-by”标签，以便审查者评估风险。2026 年 10 月 8 日布拉格维护者峰会上，这一要求被废除，理由是标签无法真正验证、只会增加摩擦。Linus Torvalds 在邮件列表中直言禁止 AI 等同于“禁用文本编辑器”，并强调更看重开发者对代码本身负责，而不是纠结工具来源。这标志着开源界对 AI 生成代码从“审慎披露”转向“结果导向”。",
+  "key_points": [
+   "Linux 维护者峰会决定，向内核提交代码时不再需要使用“Assisted-by”标签来声明大模型的使用，AI 生成代码可以以普通补丁形式提交。",
+   "Torvalds 用“禁用文本编辑器”作类比，认为禁止 AI 工具“极其愚蠢”，规则只需保证提交者理解自己在做什么。",
+   "Torvalds 本人已用 Anthropic 的 Claude Code 提交一个 10 补丁系列，修复多 CPU 读同一文件时的缓存争用问题，合成基准提升 23 倍，但真实负载下收益会小很多。",
+   "AI 助手负责实现、测试与初版文档，但审查者随后发现竞态条件和内存回收隐患，说明结果仍要靠人工评审把关。",
+   "后续开发已移交曾处理同一瓶颈的开发者 Kiryl Shutsemau，体现“AI 起草 + 人类维护者负责”的新协作模式。"
+  ],
+  "impact": "对 AI 行业而言，这是主流开源项目对 AI 编码工具的一次公开认可，会加速其他项目放宽披露要求；对开发者来说，使用 Claude Code 等工具不再有“道德标签”负担，但代码质量与竞态、内存安全等审查责任完全落到自己身上；对普通用户，短期无感，长期可能看到内核补丁迭代变快，但稳定性仍取决于人工评审是否严格。",
+  "tools": "想跟进可关注 Claude Code 等 AI 编码代理；阅读 Linux 内核邮件列表与 lore.kernel.org 上的补丁讨论；学习内核的 review 流程与 syzkaller、KCSAN 等竞态检测工具，理解 AI 代码为何仍需人工把关。"
+ },
+ "lang": "zh"
+}

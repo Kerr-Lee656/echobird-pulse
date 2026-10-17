@@ -6352,5 +6352,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-17T14:38:52Z",
   "fetched_at": "2026-10-17T18:32:11.822439+00:00"
+ },
+ "ecae2bfa7c2d": {
+  "id": "ecae2bfa7c2d",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "title": "kubernetes-sigs/agent-sandbox — agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-17T22:17:33.307016+00:00"
+ },
+ "7dd27ee4e856": {
+  "id": "7dd27ee4e856",
+  "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "title": "Meta removes language that raised scraping and AI training concerns",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-17T21:31:32.000Z",
+  "fetched_at": "2026-10-17T22:17:44.486772+00:00"
+ },
+ "89eb6cb5ae01": {
+  "id": "89eb6cb5ae01",
+  "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+  "title": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T21:09:40Z",
+  "fetched_at": "2026-10-17T22:18:22.581578+00:00"
+ },
+ "fd3979152c2e": {
+  "id": "fd3979152c2e",
+  "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-17T20:21:19.000Z",
+  "fetched_at": "2026-10-17T22:18:32.877974+00:00"
+ },
+ "d73f5266fc92": {
+  "id": "d73f5266fc92",
+  "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/",
+  "title": "Letter to Anthropic Re: Planned Initial Public Offering",
+  "source": "Hacker News (12pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T19:38:35Z",
+  "fetched_at": "2026-10-17T22:18:48.681397+00:00"
+ },
+ "cb0eeb63220c": {
+  "id": "cb0eeb63220c",
+  "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+  "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T19:13:02Z",
+  "fetched_at": "2026-10-17T22:18:59.965703+00:00"
  }
 }
