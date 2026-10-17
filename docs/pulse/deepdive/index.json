@@ -15685,5 +15685,95 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-17T06:54:44.825789+00:00"
+ },
+ "3fbeed6ff38b": {
+  "id": "3fbeed6ff38b",
+  "url": "https://www.36kr.com/p/4029260041245314",
+  "title": "9点1氪丨特斯拉发布“会飞”的跑车，预订金33.2万元；中国限制或禁止出口AI等领域40项技术；长鑫科技预计前三季度净利超1300亿",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:10:24.215216+00:00"
+ },
+ "ac175d306aa6": {
+  "id": "ac175d306aa6",
+  "url": "https://www.qbitai.com/2026/10/503701.html",
+  "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": "2026-10-17T08:07:11.753Z",
+  "fetched_at": "2026-10-17T12:10:33.871231+00:00"
+ },
+ "a0135a32a8c2": {
+  "id": "a0135a32a8c2",
+  "url": "https://www.ithome.com/1/014/260.htm",
+  "title": "为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:10:53.394726+00:00"
+ },
+ "811a24059f2b": {
+  "id": "811a24059f2b",
+  "url": "https://www.ithome.com/1/014/250.htm",
+  "title": "微软发布法律版 Copilot：律师的 AI 新同事，整合审查合同等超 20 项技能",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:11:02.483260+00:00"
+ },
+ "10a75e0bc1ba": {
+  "id": "10a75e0bc1ba",
+  "url": "https://www.ithome.com/1/014/317.htm",
+  "title": "AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-17T07:42:15Z",
+  "fetched_at": "2026-10-17T12:11:14.081208+00:00"
+ },
+ "780fcac1da18": {
+  "id": "780fcac1da18",
+  "url": "https://www.huxiu.com/article/4898263.html?f=rss",
+  "title": "热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-17T05:56:18Z",
+  "fetched_at": "2026-10-17T12:11:28.256851+00:00"
+ },
+ "cb86fce5bd91": {
+  "id": "cb86fce5bd91",
+  "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
+  "title": "记忆不等于学习：为什么人工智能代理会不断犯同样的错误",
+  "source": "dev.to",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-17T05:20:06.862Z",
+  "fetched_at": "2026-10-17T12:11:37.963546+00:00"
+ },
+ "d30d3f653069": {
+  "id": "d30d3f653069",
+  "url": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior",
+  "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:11:45.165193+00:00"
+ },
+ "a66a8035737c": {
+  "id": "a66a8035737c",
+  "url": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+  "title": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:11:57.246013+00:00"
+ },
+ "ab1069f7531c": {
+  "id": "ab1069f7531c",
+  "url": "https://www.ithome.com/1/014/217.htm",
+  "title": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T12:12:07.496696+00:00"
  }
 }
