@@ -1,0 +1,24 @@
+{
+ "id": "905e40a511a3",
+ "url": "https://www.ithome.com/1/014/328.htm",
+ "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-17T08:17:20Z",
+ "fetched_at": "2026-10-17T15:29:47.273067+00:00",
+ "content": "IT之家 10 月 17 日消息，DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型（API 调用方式与价格保持不变，仍使用 deepseek-flash 即可访问最新模型）。\n据深度求索官方介绍，此次更新在性能与成本之间实现了帕累托改进：在各项基准测试中，新版本的模型能力较上一版 V4.1 Flash 有明显提升，同时任务运行时间与输出长度均有缩短，使单次调用的综合成本下降。\n- HLE (w/o tools): 42.6 (44.0)\n- Terminal-Bench 4.0: 42.3\n- DeepSWE v1.1: 77.0\n- ProgramBench: 29.1\n- NL2Repo-Bench: 68.2\n- Automation-Bench v1.0.6: 60.5\n- Agents' Last Exam: 35.4\n- Apex Bench v1.1: 72.1\n- Chartography (w/tools): 83.0\n- BabyVision (w/tools): 92.5\n- ZeroBench-main (w/tools): 51.0\nDeepSeek 表示，新模型在提升性能的同时，还缩短了模型的任务运行时间与输出长度，让用户能够以更低成本、更快速度完成任务，在多个 Harness 下达到新的性能-费用帕累托最优。\n另外，DeepSeek 特别针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等平台做了适配优化，建议用户将 DeepSeek Harness 升级至 0.2.1-rc.1 或更高版本以获取完整适配。\n在能力维度上，V4.1-Flash-1017 引入了一项值得注意的变化：通过基于自反馈的强化学习训练，模型在从零构建完整项目方面的能力得到增强，覆盖游戏开发、3D 建模等场景。\n官方称这一改进使模型能够承接更多“许愿式”编程请求，即在提示词和素材参考极为有限的条件下直接生成可运行的项目成果。官方演示案例显示，在 DeepSeek Harness 环境中，新版本以极短的交互轮次完成了完整项目的搭建。\n同时，DeepSeek V4.1-Flash-1017 的模型权重已同步开放下载。DeepSeek 在 HuggingFace 和 ModelScope 上均提供了权重文件，延续了 V4.1 Flash 以 MIT 许可证开源的策略。\nIT之家附地址：\n- HuggingFace：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\n- ModelScope：https://modelscope.cn/models/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+ "report": {
+  "summary": "DeepSeek V4.1 Flash 升级：性能更强、成本更低，支持一键生成完整项目",
+  "background": "DeepSeek 在 Flash 系列上走的是“轻量高性价比”路线：V4.1 Flash 以 MIT 许可证开源权重，主打 Agent 与代码任务。本次 1017 版本延续同一 API 名称与价格，属于不换接口的静默升级——用户无需改代码即可切到新模型，这在商业上意味着 DeepSeek 把竞争重点从“堆参数”转向“单位任务的性能与费用比”，直接对标各家 Flash、mini、lite 级模型在编程 Agent 场景的份额争夺。",
+  "key_points": [
+   "性能与成本同时优化：多项基准较上版提升，但任务耗时和输出长度反而缩短，API 价格不变，相当于单位任务花费更低。",
+   "主打“许愿式”编程：用自反馈强化学习训练，在提示词和素材极少的情况下直接生成可运行项目，覆盖游戏开发、3D 建模等场景。",
+   "基准数据亮眼：DeepSWE v1.1 得 77.0、Apex Bench 72.1、带工具 Chartography 83.0、BabyVision 92.5，偏 Agent 与代码方向。",
+   "生态适配到位：针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 优化，Harness 建议升级至 0.2.1-rc.1 以上。",
+   "延续开源：权重同步上线 HuggingFace 与 ModelScope，仍采用 MIT 许可证，可商用、可本地部署。"
+  ],
+  "impact": "对行业而言，Flash 级模型的竞争焦点已从单纯跑分转向“每个任务要花多少钱、多少秒”，这会迫使同类厂商跟进优化推理效率。对开发者，最大利好是零迁移成本：API 名和价格不变，Agent、批处理、CI 流水线等高频调用场景成本自然下降，本地部署也因 MIT 权重而更自由。对普通用户，网页端和 APP 直接受益，“说一句话生成能跑的小项目”门槛进一步降低，但也意味着生成结果需要更多人工校验。",
+  "tools": "想跟进可关注：DeepSeek Harness 0.2.1-rc.1+（官方适配环境）、HuggingFace/ModelScope 上的开源权重（本地推理可配 vLLM、SGLang）、腾讯 CodeBuddy 与 WorkBuddy；做 Agent 对比可接 Cline、OpenHands 等开源 Harness 跑同一批基准确认实际收益。"
+ },
+ "lang": "zh"
+}

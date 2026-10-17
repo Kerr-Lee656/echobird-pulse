@@ -1,0 +1,24 @@
+{
+ "id": "855f9357e39c",
+ "url": "https://www.theblockbeats.info/flash/372354",
+ "title": "DeepSeek 把 AI 编程卷进「许愿时代」：从零造 3D 游戏，DeepSWE 跑分超 Opus 5",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-17T15:29:22.222584+00:00",
+ "content": "动察 Beating AI 快讯，DeepSeek 将 V4.1 Flash 升级至 1017 版本，网页端、App 和 API 已同步切换，新模型权重也已按 MIT 协议开源。\n官方测试中，DeepSWE v1.1 软件工程任务通过率从 74.2% 提升至 77.0%，超过 Claude Opus 5 的 74.0%。Terminal-Bench 4.0 从 31.2% 提升至 42.3%，但仍低于 Opus 5 的 51.8%。按照官方公布的成本曲线，达到 77% 通过率的配置，每题平均仅花费约 1.3 元。不过，对比对象是 Opus 5，而非更新的 Opus 5.5。\n新版本重点强化了「许愿式编程」，也就是只给出简单需求，让 AI 自行规划并完成整个项目。DeepSeek 利用自反馈强化学习改进这类能力，并展示了故宫 3D 场景、网页版赛车游戏，以及基于 Godot 引擎的《传送门 2》复刻。官方称，新模型完成任务的时间和输出长度均有所减少，还针对 DeepSeek Harness、腾讯 CodeBuddy 和 WorkBuddy 做了优化。\n此外，DeepSeek 首次向开发者开放自研搜索引擎的 Search 和 Fetch API。开发者可以让 Agent 直接搜索网页、抓取正文。两个接口均按成功请求计费，每千次 5 元。通过 Claude Code、Codex 内置网页搜索功能触发的 Search 请求，前两周暂免接口调用费。",
+ "report": {
+  "summary": "DeepSeek V4.1 Flash 升级：编程跑分超 Opus 5，开放搜索 API",
+  "background": "DeepSeek 长期在开源模型与编程 Agent 能力上发力，V4.1 Flash 是面向低成本、高频调用的轻量模型。此前 SWE 类基准的头部位置多由 Anthropic 的 Claude 系列占据，“许愿式编程”（一句话生成完整项目）也一直是各家演示的必争场景。此次 1017 版本把权重按 MIT 协议开源，并首次开放自研搜索 API，意味着 DeepSeek 正从“模型供应商”向“Agent 基础设施供应商”延伸，与 Claude Code、Codex 等编程工具生态正面竞争。",
+  "key_points": [
+   "DeepSWE v1.1 软件工程通过率从 74.2% 升到 77.0%，以 0.3 个百分点微超 Claude Opus 5 的 74.0%，不过对比对象并非更新的 Opus 5.5。",
+   "Terminal-Bench 4.0 从 31.2% 提升到 42.3%，进步明显但仍落后 Opus 5 的 51.8%，说明真实终端操作仍是短板。",
+   "在达到 77% 通过率的配置下，每题成本约 1.3 元，主要优势是“高分低价”，官方还称耗时与输出长度均有下降。",
+   "强化“许愿式编程”：只给一句需求，模型自行规划并完成整个项目，演示了故宫 3D 场景、网页赛车与 Godot 版《传送门 2》。",
+   "首次开放自研搜索引擎的 Search 与 Fetch API，Agent 可直接搜网页、抓正文，每千次成功请求 5 元，部分场景两周内免费。"
+  ],
+  "impact": "对开发者而言，MIT 权重加低价 API 意味着可自建编程 Agent，成本敏感型产品的门槛进一步降低；对 AI 行业，“许愿式编程”把竞争焦点从代码补全转向端到端交付项目，评测分数与成本曲线成为新的比拼维度；对普通用户，一句话生成小游戏、3D 场景正从演示走向可用，但 Terminal 类任务的短板提醒我们，复杂工程仍需人类把关。",
+  "tools": "可关注 DeepSeek Harness、腾讯 CodeBuddy / WorkBuddy（官方已适配）、Claude Code 与 Codex（可触发新的 Search API），以及 Godot 引擎用于复现 3D 与游戏生成效果；想自建 Agent 可直接拉取 MIT 权重本地部署。"
+ },
+ "lang": "zh"
+}

@@ -15775,5 +15775,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-17T12:12:07.496696+00:00"
+ },
+ "7af95a7e9a40": {
+  "id": "7af95a7e9a40",
+  "url": "https://www.ithome.com/1/014/387.htm",
+  "title": "边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T15:29:10.076986+00:00"
+ },
+ "855f9357e39c": {
+  "id": "855f9357e39c",
+  "url": "https://www.theblockbeats.info/flash/372354",
+  "title": "DeepSeek 把 AI 编程卷进「许愿时代」：从零造 3D 游戏，DeepSWE 跑分超 Opus 5",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T15:29:22.222584+00:00"
+ },
+ "a411c9893eda": {
+  "id": "a411c9893eda",
+  "url": "https://wallstreetcn.com/articles/3783838",
+  "title": "AI 融资成本攀升：Anthropic 拟向黑石提供超 10% 收益率",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T15:29:31.371069+00:00"
+ },
+ "5e787babaa8c": {
+  "id": "5e787babaa8c",
+  "url": "https://www.ithome.com/1/014/370.htm",
+  "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-17T10:31:25Z",
+  "fetched_at": "2026-10-17T15:29:39.493658+00:00"
+ },
+ "905e40a511a3": {
+  "id": "905e40a511a3",
+  "url": "https://www.ithome.com/1/014/328.htm",
+  "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-17T08:17:20Z",
+  "fetched_at": "2026-10-17T15:29:47.273067+00:00"
  }
 }
