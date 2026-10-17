@@ -1,0 +1,23 @@
+{
+ "id": "7a729b1f250f",
+ "url": "https://tech.slashdot.org/story/26/10/16/1614257/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
+ "title": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T06:54:34.643971+00:00",
+ "content": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees 16\n\t\t\t\n\t\t \t\n\t\t\t\tMeta is facing criticism over updated commercial terms taking effect October 30 that could give the company broad permission to scrape content from websites linked to business accounts and use it to train AI. Legal experts warn the changes could undermine lucrative AI licensing deals for news publishers, with no direct opt-out for businesses that accept the terms. Ars Technica reports:  As Nieman Lab reported Thursday, this will affect all business accounts but is particularly shocking for news publishers who could perhaps charge Meta millions in licensing fees to continually access their articles for AI training. Currently news organizations are fighting a battle with OpenAI over whether such training without licensing is fair use, and Meta's terms seemingly risk granting it sweeping permissions, no matter which way the court leans. \"While journalism isn't the only industry that will be affected by this update, virtually every news organization has at least one Meta business account, including Nieman Lab,\" the lab said.\n[...] Notably, there is no mention of AI, but it's inferred from a single use of the word \"train\" and references to automated scraping and crawling. Meta's spokesperson told Nieman Lab that Meta has no plans to use the terms as a legal basis to ignore robots.txt instructions that block scraping on news sites. The company still allows news organizations to opt out of scraping and provides instructions on how to block crawling. A spokesperson told Ars that \"there is no change to how Meta uses web crawlers; any suggestion to the contrary is false.\" However, should courts affirm that AI training non-news articles is fair use, news organizations question if Meta's stance might change, and the terms could be used to freely grab access to content by legally overriding robots.txt instructions.",
+ "report": {
+  "summary": "Meta新商业条款或规避AI内容授权费",
+  "background": "Meta将于10月30日生效的商业服务条款，被指允许抓取与商业账户关联网站的内容用于AI训练。新闻出版商担忧这绕开授权谈判，削弱其向AI公司收取内容许可费的能力。背景是OpenAI等与媒体就训练数据是否属合理使用仍在诉讼，行业正形成内容授权市场。",
+  "key_points": [
+   "条款未直接提AI，但通过“train”和自动抓取表述，被解读为赋予Meta广泛内容使用权，且商业账户接受条款后无直接退出选项。",
+   "几乎所有新闻机构都有Meta商业账户，若条款生效，出版商可能失去就AI训练收费的谈判筹码，影响数百万美元授权收入。",
+   "Meta称不会借此无视robots.txt，且爬虫政策未变，仍提供屏蔽抓取指引；但批评者担心法院若认定训练属合理使用，Meta立场可能改变。",
+   "此举正值媒体与OpenAI等就AI训练版权和合理使用激战，Meta条款可能先发制人，无论诉讼结果如何都获得内容抓取权限。"
+  ],
+  "impact": "对AI行业，内容获取与授权边界再受挑战，可能引发更多诉讼和监管审查；开发者需更重视数据合规与来源审计；普通用户短期无感，但长期可能影响新闻可及性与内容生态质量。若平台效仿，开放网络内容将更难以免费用于训练，推动授权市场和爬虫协议标准化。",
+  "tools": "可关注Cloudflare AI Crawl Control、robots.txt/llms.txt规范、内容授权与溯源平台（如ProRata、ScalePost），以及Common Crawl的opt-out机制。"
+ },
+ "lang": "zh"
+}

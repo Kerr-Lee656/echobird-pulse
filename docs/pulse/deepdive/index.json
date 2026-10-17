@@ -15631,5 +15631,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-16T10:31:45Z",
   "fetched_at": "2026-10-16T18:02:54.963892+00:00"
+ },
+ "8f4036b74df2": {
+  "id": "8f4036b74df2",
+  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T06:53:51.638278+00:00"
+ },
+ "22657547029b": {
+  "id": "22657547029b",
+  "url": "https://www.ithome.com/1/014/209.htm",
+  "title": "苹果 App Store 新规落地，AI 深度伪造迎来最严审核",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-17T06:54:07.660253+00:00"
+ },
+ "5b95b356b53e": {
+  "id": "5b95b356b53e",
+  "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+  "title": "OpenAI的模型入侵了一个加密货币钱包，并攻破了更多网站",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-17T00:00:25.063Z",
+  "fetched_at": "2026-10-17T06:54:17.835894+00:00"
+ },
+ "4472b909f781": {
+  "id": "4472b909f781",
+  "url": "https://www.ithome.com/1/014/195.htm",
+  "title": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-16T23:13:28Z",
+  "fetched_at": "2026-10-17T06:54:25.086362+00:00"
+ },
+ "7a729b1f250f": {
+  "id": "7a729b1f250f",
+  "url": "https://tech.slashdot.org/story/26/10/16/1614257/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
+  "title": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T06:54:34.643971+00:00"
+ },
+ "cdf33a4e5f53": {
+  "id": "cdf33a4e5f53",
+  "url": "https://slashdot.org/story/26/10/16/167204/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task",
+  "title": "An OpenAI Research Agent 'Stole' Test Ethereum to Finish a Coding Task",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T06:54:44.825789+00:00"
  }
 }

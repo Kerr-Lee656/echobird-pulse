@@ -6226,5 +6226,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-16T16:47:47Z",
   "fetched_at": "2026-10-16T21:08:17.752447+00:00"
+ },
+ "6f9bdca04a3f": {
+  "id": "6f9bdca04a3f",
+  "url": "https://github.com/llm-d/llm-d-router",
+  "title": "llm-d/llm-d-router — llm-d Router: The intelligent entry point for inference requests",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-17T06:55:14.083418+00:00"
+ },
+ "937c084c2467": {
+  "id": "937c084c2467",
+  "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+  "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T06:44:13Z",
+  "fetched_at": "2026-10-17T06:55:24.049264+00:00"
+ },
+ "0004afb55215": {
+  "id": "0004afb55215",
+  "url": "https://zeabur.com/changelogs/aihub-shutdown",
+  "title": "Zeabur discontinues AI Hub after its August security breach",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T04:14:58Z",
+  "fetched_at": "2026-10-17T06:55:49.265297+00:00"
+ },
+ "ac92bb3d5c09": {
+  "id": "ac92bb3d5c09",
+  "url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "title": "How employment is changing at Anthropic",
+  "source": "Hacker News (6pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T03:13:28Z",
+  "fetched_at": "2026-10-17T06:56:14.955832+00:00"
+ },
+ "67d3c07f0322": {
+  "id": "67d3c07f0322",
+  "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+  "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-16T22:51:22.000Z",
+  "fetched_at": "2026-10-17T06:56:28.960771+00:00"
  }
 }
