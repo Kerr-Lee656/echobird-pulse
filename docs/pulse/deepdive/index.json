@@ -15820,5 +15820,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-17T08:17:20Z",
   "fetched_at": "2026-10-17T15:29:47.273067+00:00"
+ },
+ "0f5fc76d7a35": {
+  "id": "0f5fc76d7a35",
+  "url": "https://thenextweb.com/news/states-sue-openai-chatgpt-children-safety",
+  "title": "Eight US states sue OpenAI, alleging ChatGPT harms children",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T18:27:20.836920+00:00"
+ },
+ "2657603262a4": {
+  "id": "2657603262a4",
+  "url": "https://thenextweb.com/news/globalfoundries-japan-21bn-new-york-fabs-us-stake",
+  "title": "Japan puts up to $21bn into two GlobalFoundries chip fabs in New York",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T18:27:30.207816+00:00"
+ },
+ "108b496efb90": {
+  "id": "108b496efb90",
+  "url": "https://thenextweb.com/news/eu-ai-act-openai-anthropic-ai-office-investigation",
+  "title": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T18:27:38.746039+00:00"
+ },
+ "f45145e97f80": {
+  "id": "f45145e97f80",
+  "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds",
+  "title": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T18:27:47.762164+00:00"
+ },
+ "d638e86267c3": {
+  "id": "d638e86267c3",
+  "url": "https://thenextweb.com/news/openai-trail-of-bits-acquisition-talks",
+  "title": "OpenAI in early talks to buy Trail of Bits, The Information reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-17T18:27:56.140732+00:00"
+ },
+ "bb7567bf1088": {
+  "id": "bb7567bf1088",
+  "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+  "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+  "source": "openrouter.ai",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-17T10:06:14.023Z",
+  "fetched_at": "2026-10-17T18:28:08.732806+00:00"
  }
 }

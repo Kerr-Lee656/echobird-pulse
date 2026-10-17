@@ -1,0 +1,24 @@
+{
+ "id": "2657603262a4",
+ "url": "https://thenextweb.com/news/globalfoundries-japan-21bn-new-york-fabs-us-stake",
+ "title": "Japan puts up to $21bn into two GlobalFoundries chip fabs in New York",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T18:27:30.207816+00:00",
+ "content": "“Right now, the whole industry is in short supply,” GlobalFoundries CEO Tim Breen told Bloomberg.\nJapan will put up to $21bn into two new chip factories at GlobalFoundries’ site in Malta, New York, the company announced on 14 October. GlobalFoundries (GF) will run both plants as technology provider and operator. The money comes from Japan’s $550bn investment pledge to the US, made under its trade deal with the Trump administration.\nIn a separate agreement, the US Commerce Department will receive about 4% of GF’s equity. Breen told Reuters that the government’s stake will rise from 3% to 7%. The US government and Japanese interests will jointly own the factories themselves, Reuters reported. Nikkei reported the talks in September.\nOne fab now, one later\nAbout $10bn will speed up construction of a first 300mm fab, due to come online in 2029, GF said. Another $10bn or so would fund a second. GF expects to break ground on the first later this year. Executives told investors the partners will decide on the second before the end of 2028, according to Reuters.\n“Of course, it will be market-dependent,” Breen told Bloomberg. “We’re not going to do it if the market isn’t there, but every indicator I see today is flashing green around market demand.”\nEach fab would add about 900,000 300mm wafers of annual US capacity. GF expects the project to create about 27,000 construction and ecosystem jobs and more than 1,000 manufacturing jobs. The plants will make chips for cars, industrial systems and communications networks. Breen told Reuters that early customers include Renesas and Apple.\nWhat GF gets\nGF will earn fees from the deal for at least 20 years, executives said on an investor call, Reuters reported. Those fees should bring in $50m next year, when GF manages construction of the first fab. The company expects about $3bn in adjusted free cash flow from the deal over 10 years, Bloomberg reported.\nGF will also move $955m of its existing CHIPS Act award into silicon photonics, silicon-germanium and advanced packaging. That money goes to its plants in Malta and in Burlington, Vermont.\nPresident Donald Trump said on Truth Social that the government’s 7% stake is worth more than $2bn, Reuters reported. The government had given GF $1.63bn in grants. The government also holds a stake in Intel, built by turning CHIPS Act grants into equity. Abu Dhabi’s sovereign wealth fund Mubadala owns nearly three-quarters of GF, according to Bloomberg.\nJapan’s side\nUnder the framework, the Trump administration picks the projects and Japan can decline one that lacks commercial viability, Bloomberg reported. Washington takes 90% of the profits once Japan recoups its principal and interest. Japanese Trade Minister Ryosei Akazawa rejected criticism that the scheme makes Japan subservient to the US, Reuters reported. Projects go through rigorous bilateral reviews, he said.\n“In the competition surrounding AI, they say that the ability to supply electricity and semiconductors will determine the outcome,” Akazawa told reporters in Tokyo, according to Bloomberg.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "日本出资210亿美元投资格芯纽约两座晶圆厂",
+  "background": "全球AI算力竞赛推高了芯片需求，但汽车、工业等领域的成熟制程芯片仍长期供应紧张。美国通过《芯片法案》补贴本土制造，并开始把补贴换成股权：继英特尔之后，格芯成为第二家让美国政府持股的芯片企业。作为美日贸易协议的一部分，日本承诺向美国投资5500亿美元，本次约210亿美元的注资是其中首批落地项目之一。格芯总部位于美国，阿布扎比穆巴达拉基金持有其近75%股份，它在全球晶圆代工中排名靠前，主打成熟制程与特色工艺。",
+  "key_points": [
+   "日本将投入最高210亿美元，其中约100亿美元用于加速格芯在纽约州马尔他的第一座300mm晶圆厂建设，该厂计划2029年投产，剩余资金为第二座厂预留，是否开建最迟在2028年底决定。",
+   "这是日本对美5500亿美元投资承诺的首批项目，由美方挑选项目，日方可在商业上不可行时拒绝；日本收回本金和利息后，美方将拿走90%的利润。",
+   "美国政府不直接出钱，而是以股权方式参与，商务部由此获得格芯约4%股份，持股比例还会从3%增至7%，特朗普称这部分股权价值超过20亿美元，而此前政府只给了16.3亿美元补贴。",
+   "格芯不承担建厂风险，而是以技术提供方和运营方身份收取管理费，合作至少20年，明年先收5000万美元，十年内预计获得约30亿美元调整后自由现金流。",
+   "两座厂各新增约90万片年产能，主要生产汽车、工业与通信芯片，早期客户包括瑞萨和苹果；格芯还把9.55亿美元芯片法案补贴转向硅光、硅锗和先进封装。"
+  ],
+  "impact": "对AI行业而言，这表明算力竞争正从先进制程扩展到电力与成熟芯片供应链，地缘政治正在重新分配产能。对开发者来说，汽车、工业与通信芯片的中长期供给会更稳定，但2029年前的产能空窗期仍然紧张，硬件选型和交期规划需要留出余地。对普通用户而言，这意味着未来汽车电子和工业设备缺芯涨价的概率降低，但代价是美国政府和日本纳税人都深度参与了商业决策，芯片产业的国家化色彩更浓。",
+  "tools": "想跟进可关注 TrendForce、SEMI 的产能与晶圆价格数据，用 Knometa 报告追踪成熟制程扩产。技术侧可上手 OpenROAD、OpenLane 等开源 EDA，以及 SkyWater 开源 PDK 和 Tiny Tapeout 流片项目，理解成熟制程生态。"
+ },
+ "lang": "zh"
+}

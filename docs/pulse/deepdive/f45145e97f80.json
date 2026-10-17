@@ -1,0 +1,24 @@
+{
+ "id": "f45145e97f80",
+ "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds",
+ "title": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T18:27:47.762164+00:00",
+ "content": "“All of them want to be the full-stack. They can’t all be,” Gartner analyst Will Sommer told Bloomberg.\nMore than $3.5tn of AI infrastructure spending faces possible impairment by the end of 2030, Gartner said on 14 October. That would happen if AI providers keep spending at their current pace. Companies must write down impaired assets, because those assets can no longer earn back their cost.\nThe research firm also predicts that more than 80% of neoclouds will stop operating independently by 2030. Neoclouds are companies that rent out computing power built for AI. Gartner blames cost pressure and the lack of a business model that sets them apart.\nThe revenue gap\nGartner expects AI providers to spend nearly $1tn on AI infrastructure in 2026, Sommer, a senior director analyst, said in its statement. It forecasts another $6tn between 2027 and 2030.\nThrough 2030, AI data centre owners would need $8.5tn in revenue to cover that spending and its financing costs. That figure also includes a 12% return on invested capital, which Gartner assumes to be the hurdle rate for investment. Gartner forecasts no more than $3.6tn of business and consumer AI revenue tied to AI data centres in that period.\n“Our research indicates that enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period,” Sommer said.\nMost AI-native providers run asset-light businesses. So Gartner expects less than half of AI revenue to go to providers that own significant AI infrastructure.\nIf spending stays on its current path, more than $4tn in asset value could face write-down risk through 2032. In that case, Gartner does not expect the 12% return to arrive until the end of 2032 at the earliest. Sommer, Mark McDonald and John Lovelock wrote the research note behind the figures.\nNeoclouds are the most exposed\nHyperscalers have large and varied revenue that could support AI spending for years, Gartner said. Neoclouds must soon earn returns on AI-optimised cloud infrastructure to keep running.\nGartner expects spending on that infrastructure to grow from $66bn in 2027 to $174bn in 2030. That growth is too low, Sommer said. Most AI compute providers will not earn back their investment before newer AI chips replace the current generation.\nBloomberg named CoreWeave and Nebius as specialist providers more directly exposed than Microsoft, Alphabet and Amazon. CoreWeave’s shares and bonds fell steeply this week over its AI debt.\nMany neoclouds want to sell the higher-margin software and services of cloud providers, Sommer told Bloomberg. Few may succeed.\n“For every dollar that’s spent on compute, only a fraction of that is going to the owners of compute,” Sommer said.\nHe gave The Register a mixed picture.\n“Not everyone is in trouble. Some will outperform, some will underperform, and some will have to exit the market,” Sommer told The Register.\nOther warnings\nGartner’s numbers follow a Bain & Company estimate that the AI industry needs $6tn in annual revenue by 2031. This week, the IMF also warned about circular AI deals.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Gartner警告3.5万亿美元AI基建投资或面临减值",
+  "background": "过去两年，AI算力军备竞赛推动数据中心与GPU投资狂飙，CoreWeave、Nebius等\"新型云\"（neocloud）靠租售AI算力迅速崛起，债务融资规模惊人。Gartner于10月14日发布研究笔记，首次系统测算这笔投入的回报缺口：2026年AI基建支出将接近1万亿美元，2027至2030年再投约6万亿美元，但要覆盖成本与融资、并达到12%的投资回报门槛，需要8.5万亿美元收入，而同期可预见的AI收入上限仅3.6万亿。此前贝恩估计2031年行业需6万亿美元年收入，IMF也警示AI交易存在循环融资风险。",
+  "key_points": [
+   "Gartner测算，若按当前烧钱节奏，到2030年超3.5万亿美元AI基础设施资产可能减值，即无法赚回成本，到2032年风险敞口或超4万亿。",
+   "收支缺口巨大：2026至2030年需8.5万亿美元收入才能覆盖支出与融资成本并实现12%回报，但Gartner预计相关AI收入最高只有3.6万亿。",
+   "超80%的新型云厂商（专门出租AI算力的公司）预计2030年前将失去独立运营资格，因成本压力大且缺乏差异化商业模式。",
+   "压力不均：微软、亚马逊、谷歌等 hyperscaler 收入多元可长期支撑，CoreWeave、Nebius 等专业厂商更脆弱，CoreWeave本周股债因AI债务大跌。",
+   "芯片迭代加速恶化回报：多数算力商还没收回投资，新一代AI芯片就已取代现有硬件，资产折旧速度远超回本速度。"
+  ],
+  "impact": "对AI行业而言，这意味着\"堆算力即增长\"的叙事开始接受财务审视，融资环境将收紧，并购与整合不可避免。对开发者，短期算力供给仍充足甚至可能出现价格战与闲置算力促销，但长期看云厂商会削减非核心项目、提高单位算力定价，选型时需警惕供应商存续风险。对普通用户，AI服务补贴期可能缩短，免费额度收紧、订阅涨价，同时行业泡沫出清后服务质量与稳定性反而可能提升。",
+  "tools": "想跟进这一趋势，可关注算力供给与成本侧工具：CoreWeave、Nebius、Lambda、Together AI 等 neocloud 的定价与财报；推理侧 vLLM、SGLang 提升单位GPU吞吐；成本治理用 Kubecost、OpenCost 做FinOps监控；硬件迭代参考 MLPerf 榜单判断资产贬值节奏。"
+ },
+ "lang": "zh"
+}

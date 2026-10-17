@@ -6298,5 +6298,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-17T06:18:18Z",
   "fetched_at": "2026-10-17T12:13:39.284738+00:00"
+ },
+ "24452d535a46": {
+  "id": "24452d535a46",
+  "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+  "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T17:48:41Z",
+  "fetched_at": "2026-10-17T18:29:00.334168+00:00"
+ },
+ "bd7689b2e615": {
+  "id": "bd7689b2e615",
+  "url": "https://arxiv.org/abs/2610.22301",
+  "title": "Detecting Filesystem Capability Laundering in MCP Servers at Scale",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T17:14:38Z",
+  "fetched_at": "2026-10-17T18:29:51.645289+00:00"
+ },
+ "be0906c7cf7b": {
+  "id": "be0906c7cf7b",
+  "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+  "title": "Amazon uses AI to monitor union risk in UK warehouses",
+  "source": "Hacker News (100pts, 35c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T16:04:23Z",
+  "fetched_at": "2026-10-17T18:30:45.586101+00:00"
+ },
+ "b31543fcd7d1": {
+  "id": "b31543fcd7d1",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "title": "Websites are closing their doors to AI agents",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T15:47:38Z",
+  "fetched_at": "2026-10-17T18:31:16.693762+00:00"
+ },
+ "7acc6234ae20": {
+  "id": "7acc6234ae20",
+  "url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
+  "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T15:22:54Z",
+  "fetched_at": "2026-10-17T18:31:31.820790+00:00"
+ },
+ "4e71c69390cd": {
+  "id": "4e71c69390cd",
+  "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+  "title": "We found a Tencent agent fleet",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-17T14:38:52Z",
+  "fetched_at": "2026-10-17T18:32:11.822439+00:00"
  }
 }

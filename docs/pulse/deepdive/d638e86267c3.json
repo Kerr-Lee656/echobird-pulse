@@ -1,0 +1,24 @@
+{
+ "id": "d638e86267c3",
+ "url": "https://thenextweb.com/news/openai-trail-of-bits-acquisition-talks",
+ "title": "OpenAI in early talks to buy Trail of Bits, The Information reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-17T18:27:56.140732+00:00",
+ "content": "“Trail of Bits has committed their entire security research organization,” OpenAI wrote in June, when the two companies launched a joint project to fix open-source software.\nOpenAI is in early talks to buy Trail of Bits, a firm that finds and fixes security flaws in open-source software. Valida Pau and Amir Efrati reported the talks for The Information on 13 October, citing people familiar with the matter.\nThe talks are ongoing and could still fall apart, the people said. The size of a possible deal is not known. OpenAI has sometimes paid in the low hundreds of millions of dollars in stock for small startups, and sometimes less, The Information reported.\nTNW has not independently verified the report. TNW found no public comment on the talks from either company.\nA firm OpenAI already works with\nTrail of Bits was founded in 2012 and has more than 40 employees, according to The Information. Its engineers audit software for others. In August, it began working with Cloudflare to audit Signal’s key verification.\nThe two companies have worked together since June. They launched Patch the Planet, a project inside OpenAI’s Daybreak cyber programme. Trail of Bits engineers use OpenAI’s GPT-5.5-Cyber model and its Codex tools to find bugs in open-source projects. They check the findings, write patches and work with the maintainers on fixes.\nAt launch, the team was working full time across 19 projects, OpenAI said. These include cURL, Python and the Go project. By then it had found hundreds of security issues and merged dozens of patches.\nOpenAI’s push into security\nOpenAI is trying to build a substantial cybersecurity business, The Information reported. In September, it put $1bn behind cyber defence for water utilities and community banks under Daybreak.\nAlso in September, OpenAI bought Glass Imaging, a camera startup.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI 正洽谈收购安全审计公司 Trail of Bits",
+  "background": "Trail of Bits 成立于 2012 年，是一家以开源软件安全审计见长的公司，约有 40 多名工程师。今年 6 月，该公司与 OpenAI 合作启动了“Patch the Planet”项目，使用 GPT-5.5-Cyber 和 Codex 工具为 cURL、Python、Go 等开源项目查找漏洞并提交补丁，目前已发现数百个问题、合并数十个补丁。与此同时，OpenAI 正试图把网络安全做成一项实质性业务：9 月它宣布投入 10 亿美元，通过 Daybreak 计划为水务机构与社区银行提供网络防御，并收购了相机初创公司 Glass Imaging。此次收购若达成，意味着 OpenAI 从模型供应商进一步向拥有交付能力的垂直安全服务商延伸；不过交易仍处早期，规模未知，也可能告吹。",
+  "key_points": [
+   "OpenAI 正与 Trail of Bits 洽谈收购，交易处于早期阶段，金额未披露，参考其过往以低数亿美元股票收购小公司的惯例",
+   "双方已有合作基础：6 月启动的 Patch the Planet 项目让 Trail of Bits 工程师用 GPT-5.5-Cyber 与 Codex 挖开源漏洞并写补丁",
+   "合作已覆盖 cURL、Python、Go 等 19 个开源项目，发现数百个安全问题、合并数十个修复，形成了“AI 找洞 + 人工验证”的流程",
+   "这属于 OpenAI 安全战略的一部分：Daybreak 计划已投入 10 亿美元做关键基础设施网络防御，9 月还收购了 Glass Imaging",
+   "收购本质是买“人”与“可信度”：安全审计高度依赖专家判断，AI 生成的漏洞报告需要专业团队背书才能被开源社区接受"
+  ],
+  "impact": "对 AI 行业而言，模型厂商正从卖 API 转向直接提供安全服务，可能与传统安全厂商和审计公司正面竞争。对开发者来说，开源项目有望获得更多免费的自动化漏洞扫描与补丁，但也要面对 AI 生成代码带来的新型供应链风险。对普通用户，水电、银行等关键基础设施的安全性可能因此提升；不过，如果少数公司同时掌控模型和审计能力，安全评估的独立性也会引发担忧。",
+  "tools": "想跟进可关注 Trail of Bits 的开源工具：Slither（Solidity 静态分析）、Echidna（智能合约模糊测试）、以及其 Testing Handbook 手册；AI 侧可关注 OpenAI Codex 与 Daybreak/Patch the Planet 项目的公开产出，并留意 cURL、Python、Go 等项目的安全补丁记录。"
+ },
+ "lang": "zh"
+}
