@@ -6541,5 +6541,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-18T15:48:32Z",
   "fetched_at": "2026-10-18T18:39:01.904423+00:00"
+ },
+ "0643f0717e95": {
+  "id": "0643f0717e95",
+  "url": "https://github.com/HazyResearch/ncm",
+  "title": "Next-Concept Modeling: 9–31× faster than diffusion baselines",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T20:38:43Z",
+  "fetched_at": "2026-10-18T22:26:51.903398+00:00"
+ },
+ "16eddc2105cf": {
+  "id": "16eddc2105cf",
+  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-18T20:37:40.000Z",
+  "fetched_at": "2026-10-18T22:27:04.854927+00:00"
+ },
+ "d784b98fcf35": {
+  "id": "d784b98fcf35",
+  "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+  "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T20:19:01Z",
+  "fetched_at": "2026-10-18T22:27:19.127493+00:00"
+ },
+ "8b2c502b11a9": {
+  "id": "8b2c502b11a9",
+  "url": "https://aihot.news/items/bm95oliei5mcgy2tau7e22d59",
+  "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+  "source": "Arena",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-18T18:56:03.000Z",
+  "fetched_at": "2026-10-18T22:28:07.378647+00:00"
  }
 }

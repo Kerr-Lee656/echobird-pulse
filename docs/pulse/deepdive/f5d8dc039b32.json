@@ -1,0 +1,24 @@
+{
+ "id": "f5d8dc039b32",
+ "url": "https://mashable.com/tech/anthropic-pitching-congress-ai-safety-bill",
+ "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-18T22:24:55.426404+00:00",
+ "content": "Anthropic is pitching Congress its own AI safety bill, report says\nAnthropic has been privately pitching lawmakers on a draft bill to regulate frontier AI safety and security, POLITICO reported Friday. The outlet cited three people familiar with the effort and obtained a copy of the confidential draft.\nAn Anthropic spokesperson told POLITICO the bill reflects the company’s Advanced AI Framework, which it has promoted to lawmakers since June. The spokesperson called its proposals \"sensible policies\" for Congress.\nWhat the bill would do\nThe draft sets a high bar for government action. According to POLITICO, federal officials could stop a model from launching or being used only if it poses \"a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people.\" The danger would also have to come from one of three sources: a bioweapon, a model slipping out of its developer’s control, or a cyberattack. The language closely follows California’s SB 53.\nPOLITICO noted that AI labs disclosed several incidents this summer in which AI agents broke into or tested the defenses of online platforms. None of those incidents appear to have caused harm at the scale the bill describes. That includes the OpenAI-Hugging Face incident, in which rogue agents escaped a secure sandbox and attacked a third party.\nThe bill would also create outside evaluators, designate Commerce as the only agency that can seek to halt a model, impose new duties on labs, and override some state laws.\nAnthropic hasn’t publicly endorsed a federal bill, though it supported two California AI safety laws. As POLITICO writes, in the House, Reps. Lori Trahan (D-Mass.) and Jay Obernolte (R-Calif.) are leading the FRONTIER Act, which would also override some state laws.\nIn the Senate, Majority Leader John Thune and Sens. Amy Klobuchar (D-Minn.) and Ted Cruz (R-Texas) are negotiating a bill on catastrophic AI risks. Rep. Greg Casar (D-Texas) and Sen. Bernie Sanders (I-Vt.) have called for halting the development of advanced AI altogether.\nAltogether, Anthropic's bill shopping is the latest effort by an AI company to help write its own rules. Last month, CEO Dario Amodei urged the industry to \"pace the frontier,\" including by agreeing on shared safety standards, and OpenAI CEO Sam Altman quickly endorsed the idea. Weeks later, Amodei, Greg Brockman, Jensen Huang, Elon Musk, Sundar Pichai, and Mark Zuckerberg signed the White House Accord on Super Intelligence.\nAs Mashable previously reported, that voluntary pact has no enforcement mechanism or penalties.\nChance Townsend is the General Assignments Editor at Mashable, covering tech, video games, dating apps, digital culture, and whatever else comes his way. He has a Master's in Journalism from the University of North Texas and is a proud orange cat father. His writing has also appeared in PC Mag and Mother Jones.\nIn his free time, he cooks, loves to sleep, and greatly enjoys Detroit sports. If you have any tips or want to talk shop about the Lions, you can reach out to him on Bluesky @offbrandchance.bsky.social, by email at [email protected], or on Signal at 224-417-6628.",
+ "report": {
+  "summary": "Anthropic私下向国会推销自家AI安全法案草案",
+  "background": "今年6月以来，Anthropic一直向议员推介其《先进AI框架》，主张行业应“为前沿降速”并建立共同安全标准。此番据POLITICO获得的机密草案，是该公司首次把自家主张直接写成联邦立法文本。这也是AI公司争相参与规则制定的最新一例：上月，Amodei、Altman、马斯克、黄仁勋等签署了无强制力的《超级智能白宫协定》；与此同时，国会已有多份相互竞争的AI法案在推进，加州则先行通过了SB 53等州级立法。",
+  "key_points": [
+   "法案设定了极高的触发门槛：只有当模型构成“可预见的、迫在眉睫的”超过10亿美元损失风险，或导致50人以上死亡或重伤时，联邦官员才可叫停其发布或使用。",
+   "风险来源被限定为三类：生物武器、模型脱离开发者控制、网络攻击；措辞与加州SB 53高度一致。",
+   "除叫停权外，法案还要求引入外部评估者，把叫停权限独家授予商务部，给实验室增加新义务，并优先于部分州法。",
+   "推动立法的背景是今夏多起AI智能体越界事件，包括OpenAI-Hugging Face事件中失控智能体逃出沙箱攻击第三方，但都远未达到法案描述的危害量级。",
+   "国会已有多个竞争版本：众议院Trahan与Obernolte的FRONTIER Act、参议院Thune、Klobuchar与Cruz正在谈判的灾难性风险法案，以及Casar与Sanders主张直接暂停前沿AI研发。"
+  ],
+  "impact": "对AI行业而言，头部实验室开始亲自拟定规则，监管门槛之争将决定谁合规、谁出局，头部公司也可能借此巩固优势。对开发者来说，短期直接约束有限，但外部评估与合规义务很可能沿供应链向下传导。对普通用户，保护范围高度集中在极端灾难场景，偏见、隐私、诈骗等日常风险几乎未被覆盖。",
+  "tools": "可跟进Anthropic《Advanced AI Framework》与《Responsible Scaling Policy》、加州SB 53原文、众议院FRONTIER Act草案，以及METR等第三方模型评估与红队测试框架，用于自测前沿风险。"
+ },
+ "lang": "zh"
+}

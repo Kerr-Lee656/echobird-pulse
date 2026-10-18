@@ -16162,5 +16162,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-18T13:25:18Z",
   "fetched_at": "2026-10-18T18:37:37.595127+00:00"
+ },
+ "33da8aabe6e1": {
+  "id": "33da8aabe6e1",
+  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:24:46.334879+00:00"
+ },
+ "f5d8dc039b32": {
+  "id": "f5d8dc039b32",
+  "url": "https://mashable.com/tech/anthropic-pitching-congress-ai-safety-bill",
+  "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:24:55.426404+00:00"
+ },
+ "06e34488cd21": {
+  "id": "06e34488cd21",
+  "url": "https://www.qbitai.com/2026/10/504136.html",
+  "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:25:05.144473+00:00"
+ },
+ "64177190d151": {
+  "id": "64177190d151",
+  "url": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
+  "title": "比利时初创公司 Corbenic 想把服务器 SSD 变成 AI 内存：GPU 不再重复读取同一文本，但 14 倍加速更多来自少读",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:25:18.483781+00:00"
+ },
+ "f1eafd6a9c48": {
+  "id": "f1eafd6a9c48",
+  "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+  "title": "Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:25:25.165462+00:00"
+ },
+ "2ed97a7580d0": {
+  "id": "2ed97a7580d0",
+  "url": "https://news.cctv.com/2026/10/19/ARTIbF26SSebVSltjwBHVHcC261019.shtml",
+  "title": "多家期刊拒绝人工智能参与撰写稿件，润色也不行",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:25:34.683710+00:00"
+ },
+ "a308cd01a076": {
+  "id": "a308cd01a076",
+  "url": "https://www.nbd.com.cn/articles/2026-10-18/4607814.html",
+  "title": "润建股份子公司签13.38亿元AI词元跨境销售合同",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T22:25:57.838288+00:00"
  }
 }
