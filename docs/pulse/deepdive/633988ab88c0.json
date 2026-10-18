@@ -1,0 +1,24 @@
+{
+ "id": "633988ab88c0",
+ "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
+ "title": "Sergey Brin says Gemini now helps build the next Gemini",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-18T04:26:09.367930+00:00",
+ "content": "Google is “starting to get onto that RSI treadmill”, cofounder Sergey Brin said in a roundtable on Gemini 4 Argon, Business Insider reported. Google shared the video on Wednesday. Brin pointed to the Flash models Google released before Gemini 4 as evidence.\n“And now our researchers and the model work hand in hand to make the next version of the model.” Sergey Brin, Google cofounder\nRecursive self-improvement, or RSI, means AI helps build better AI. That speeds up the pace of new models. Brin said Google would be a couple of models ahead internally by the time people watched the video.\nBrin joined Google’s Josh Woodward, Tulsee Doshi and Melvin Johnson for the conversation. Google released Argon publicly this week. Brin has been working on Gemini since his return to Google.\nWhat Google’s safety report says\nGoogle DeepMind published a safety and security report for Argon this month. It finds “no significant end-to-end acceleration of AI R&D, AI-driven or otherwise”. It rates the risk from AI-driven AI R&D as “currently low”.\nThe report says AI now automates some parts of AI research. Google surveyed 12 senior leaders and researchers for it.\n“AI agents now operate as high-leverage assistants that author a majority of production code and bug fixes, though code changes remain subject to human review before submission.” Gemini 4 Argon Safety and Security Report\nMost production code at Google DeepMind is now more than 75% AI-written, according to the report. The share of fully delegated pull requests rose from 7.5% in April to 11.9% in September. About 88% still need repeated human steering or code written by a human.\nHumans remain key to choosing research directions, designing new experiments and diagnosing training problems, the report says. Argon solves only around half of the challenges in Google’s internal test of AI research tasks. Full automation would need a near-perfect score.\nA steady pace\nGoogle tracks the rate at which Gemini improves with an internal index built from 92 benchmarks. Before 1 April 2026, it rose by 0.091 points a month. After that date, it rose by 0.118 points a month, a difference the report calls not statistically significant.\nArgon sits above that trend. Google suspects this is due to more investment and more training compute, “rather than reflecting AI-driven acceleration”.\n‘A new gear’\nVihan Jain co-leads RSI and AI for science for Gemini at Google DeepMind. On X, Jain wrote that the model is “embedded in its own evolution”.\n“When your post-training demand shifts from asking for raw chips to asking for Argon quota, you know the RSI flywheel has reached a new gear.” Vihan Jain, Google DeepMind\nGladstone AI interviewed researchers at Anthropic, OpenAI and Google DeepMind for a report published this week. Most believe RSI will start within three to 12 months. It could come sooner, they said, assuming no US government intervention or slowdown.\nLast month, US congressman Ro Khanna said he plans a bill to ban self-improving AI. OpenAI has asked the US to lead global standards for it.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "布林称Gemini已参与打造下一代Gemini，谷歌迈入AI自我改进循环",
+  "background": "递归自我改进（RSI）指AI参与改进AI自身，从而加速模型迭代。2026年谷歌发布Gemini 4 Argon，联合创始人Sergey Brin在圆桌中首次公开承认谷歌\"开始踏上RSI跑道\"，并称研究人员已与模型\"手把手\"协作开发新版本。同期DeepMind发布Argon安全报告，试图用数据说明当前尚未出现AI研发的端到端加速。这一表态出现在外界对AI自我进化速度高度敏感的时点：Gladstone AI本周发布的访谈报告称，多数来自Anthropic、OpenAI和DeepMind的研究者认为RSI将在3至12个月内出现，美国国会议员Ro Khanna则计划立法禁止自我改进型AI。",
+  "key_points": [
+   "DeepMind内部超75%的生产代码由AI撰写，完全交由AI处理的PR（拉取请求）从4月的7.5%升至9月的11.9%，但约88%仍需人类反复指导或手写代码。",
+   "谷歌自建92项基准的指数显示，模型改进速度从每月0.091分升至0.118分，官方称这一差异在统计上不显著，并将其归因于算力与投入增加。",
+   "在谷歌内部的AI科研任务测试中，Argon只能解决约一半题目，而全自动化需要接近满分，人类仍负责选定研究方向与诊断训练故障。",
+   "DeepMind研究员Vihan Jain称模型已\"嵌入自身进化\"，当团队开始索要Argon配额而非裸芯片时，意味着RSI飞轮\"换上了新挡位\"。",
+   "安全报告结论是AI驱动的研发风险\"当前较低\"、未见显著的端到端加速，但外部研究者普遍预期RSI会在一年内启动。"
+  ],
+  "impact": "对AI行业，这意味着头部实验室的竞争从\"堆算力\"转向\"用模型造模型\"的效率竞赛，模型代际间隔可能进一步压缩，同时也把RSI治理推上立法议程。对开发者，AI写码比例上升会改变工作形态：审核、定方向、诊断问题成为核心技能，纯编码岗位的边际价值下降。对普通用户，产品迭代更快、能力提升更密集，但模型行为变化也更难预期，透明度与安全评估将成为选择产品时的重要参考。",
+  "tools": "想跟进可关注：Google DeepMind发布的Gemini 4 Argon安全与安全报告原文；Gladstone AI本周的RSI访谈报告；以及面向开发者的AI编码代理工具如Gemini CLI、Claude Code、OpenAI Codex，用来实测\"人类审核+AI生成\"的协作流程。"
+ },
+ "lang": "zh"
+}

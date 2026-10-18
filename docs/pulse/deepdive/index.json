@@ -15973,5 +15973,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-18T00:04:12.531411+00:00"
+ },
+ "8f36e120b70f": {
+  "id": "8f36e120b70f",
+  "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge",
+  "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T04:25:20.310928+00:00"
+ },
+ "6c2121f24e71": {
+  "id": "6c2121f24e71",
+  "url": "https://www.ithome.com/1/014/429.htm",
+  "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T04:25:33.291576+00:00"
+ },
+ "8ab4ef21f1f0": {
+  "id": "8ab4ef21f1f0",
+  "url": "https://www.36kr.com/p/4025325566054529",
+  "title": "前华为车 BU 世界模型基模负责人创业，杭州具身大脑公司格物通智获近亿元天使轮融资",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T04:25:46.127382+00:00"
+ },
+ "cdcb28b6f451": {
+  "id": "cdcb28b6f451",
+  "url": "https://www.ithome.com/1/014/450.htm",
+  "title": "Anthropic 报告：AI 重塑公司用工结构，初级技术岗招聘明显收缩",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T04:25:54.604268+00:00"
+ },
+ "f0fcfea7fc13": {
+  "id": "f0fcfea7fc13",
+  "url": "https://www.ithome.com/1/014/434.htm",
+  "title": "OpenCode 遭攻击：部分用户 OpenAI、Anthropic 等 API 密钥外泄",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-18T00:19:10Z",
+  "fetched_at": "2026-10-18T04:26:01.627026+00:00"
+ },
+ "633988ab88c0": {
+  "id": "633988ab88c0",
+  "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
+  "title": "Sergey Brin says Gemini now helps build the next Gemini",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T04:26:09.367930+00:00"
  }
 }

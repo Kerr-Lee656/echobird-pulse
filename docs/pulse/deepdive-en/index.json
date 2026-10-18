@@ -6415,5 +6415,32 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-17T18:48:08.000Z",
   "fetched_at": "2026-10-18T00:04:50.314498+00:00"
+ },
+ "f4f6f67dea14": {
+  "id": "f4f6f67dea14",
+  "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+  "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T02:20:40Z",
+  "fetched_at": "2026-10-18T04:26:40.573948+00:00"
+ },
+ "70e1f702ff63": {
+  "id": "70e1f702ff63",
+  "url": "https://angadh.com/ai-and-jobs-1",
+  "title": "Anthropic reports reducing recruitment of entry-level engineers",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T02:12:00Z",
+  "fetched_at": "2026-10-18T04:26:50.559368+00:00"
+ },
+ "f97290cc12b7": {
+  "id": "f97290cc12b7",
+  "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+  "title": "Anthropic warns AI models could self-replicate across home devices",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T00:44:06Z",
+  "fetched_at": "2026-10-18T04:27:00.999064+00:00"
  }
 }
