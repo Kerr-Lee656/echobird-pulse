@@ -16054,5 +16054,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-18T00:11:12Z",
   "fetched_at": "2026-10-18T10:59:25.773950+00:00"
+ },
+ "d4d9cb83ccd2": {
+  "id": "d4d9cb83ccd2",
+  "url": "https://juejin.cn/post/7672849477074616383",
+  "title": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-10-18T13:39:40.297Z",
+  "fetched_at": "2026-10-18T15:49:01.010251+00:00"
+ },
+ "443fc13c2014": {
+  "id": "443fc13c2014",
+  "url": "https://thenextweb.com/news/world-bank-small-ai-developing-countries",
+  "title": "World Bank backs ‘small AI’ on phones for poorer nations, Guardian reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T15:49:08.874426+00:00"
+ },
+ "ca8ebb8301f7": {
+  "id": "ca8ebb8301f7",
+  "url": "https://www.36kr.com/newsflashes/4031113616347783",
+  "title": "台积电日本熊本二厂获准转向 3nm 芯片生产，月产能 6000 片",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T15:49:24.862308+00:00"
+ },
+ "2215d86e41d6": {
+  "id": "2215d86e41d6",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/140392",
+  "title": "三星将与台积电共同生产英伟达下一代定制 HBM，基底芯片采用 3nm 工艺",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T15:49:36.523219+00:00"
+ },
+ "a8544c4e6083": {
+  "id": "a8544c4e6083",
+  "url": "https://wallstreetcn.com/articles/3783856",
+  "title": "Anthropic 发布内部就业报告：智能体工时达到人类 6 倍，「元工作时代」来了",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T15:49:44.585249+00:00"
+ },
+ "a476cfbd1c4f": {
+  "id": "a476cfbd1c4f",
+  "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+  "title": "微信，静悄悄地 AI 化",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T15:49:54.459175+00:00"
+ },
+ "ebe8d70f2c63": {
+  "id": "ebe8d70f2c63",
+  "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+  "title": "微软因供电问题放弃在埃塞克斯郡建设大型人工智能数据中心项目",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-18T12:52:20.132Z",
+  "fetched_at": "2026-10-18T15:50:32.817777+00:00"
+ },
+ "019ff0ca12fa": {
+  "id": "019ff0ca12fa",
+  "url": "https://juejin.cn/post/7696835478806331392",
+  "title": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-10-18T08:24:04.216Z",
+  "fetched_at": "2026-10-18T15:50:41.876809+00:00"
  }
 }

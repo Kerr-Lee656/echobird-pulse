@@ -1,0 +1,23 @@
+{
+ "id": "443fc13c2014",
+ "url": "https://thenextweb.com/news/world-bank-small-ai-developing-countries",
+ "title": "World Bank backs ‘small AI’ on phones for poorer nations, Guardian reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-18T15:49:08.874426+00:00",
+ "content": "The World Bank wants developing countries to build “small AI”, compact models that run on a mobile phone with a weak signal.\nPaschal Donohoe, the bank’s chief knowledge officer, said AI could speed up growth in emerging economies, but only if it fits local needs, the Guardian reported.\nSmall AI uses specialised models trained on narrower data for one task. Donohoe said such tools can work with weak connections, on phones and in local languages.\nHe said growth that could have taken centuries in the countries the bank serves might now happen faster.\n“The potential is there for that economic development now to happen within decades,” he said.\nFarmers first\nDonohoe, a former Irish finance minister, pointed to Indian farmers in the bank’s AgriConnect scheme. They need soil analysis in their own language.\n“There’s not going to be enough scientists and agricultural experts to do that for every small farm in India,” he said.\nHe said such products could come from the World Bank, governments and private companies working together.\nThe basics first\nAI was a central theme at this month’s World Bank and IMF meetings in Bangkok. IMF chief Kristalina Georgieva said governments must first provide power, digital infrastructure and protection from bad actors.\n“If we work hard to have the basics for it, [adoption] can be very democratic. As democratic as the cellphone,” she said.\nThe gaps are large. The World Bank’s August development report found almost a third of rural schools in sub-Saharan Africa had no electricity.\nYoung workers at risk\nGeorgieva warned that 40% of jobs worldwide are likely to be changed or wiped out by AI over time. Young people starting out face the biggest risk, she said, as entry-level roles disappear.\nThe IMF has also said AI investment is propping up global growth.\nDonohoe said the World Bank had raised $120bn in private capital over the past year, as countries including the US and UK cut aid budgets.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "世行押注手机端“小型AI”助力发展中国家",
+  "background": "过去两年，AI 能力集中在少数科技巨头的超大模型上，这些模型需要昂贵算力、稳定宽带和大量英文数据，发展中国家难以直接受益。世界银行与 IMF 本月在曼谷的会议上把 AI 列为核心议题：一方强调“小模型、本地语言、弱网可用”，另一方提醒电力与数字基建仍是前提。与此同时，美英等国削减援助预算，世行转而靠撬动私人资本补充资金，过去一年引入 1200 亿美元。",
+  "key_points": [
+   "“小型AI”指针对单一任务、用较窄数据训练的精简模型，能离线或弱网在普通手机上运行，并支持本地语言",
+   "世行首席知识官多诺霍举例：印度小农户需要本地语言的土壤分析，靠现有科学家数量根本覆盖不了",
+   "IMF 总裁格奥尔基耶娃泼冷水：先要有电、有网络、有防滥用机制，“普及才能像手机一样民主”",
+   "差距很现实：撒哈拉以南非洲近三分之一农村学校没有电；同时全球约四成岗位可能被 AI 改变或消失，入门岗位最先受冲击"
+  ],
+  "impact": "对 AI 行业，这意味着增长点从“更大”转向“更小更省”，端侧推理、量化压缩、多语言小模型将成为新赛道；对开发者，低算力、低带宽场景是尚未被充分挖掘的蓝海，本地化数据和语音交互是切入点；对普通用户，尤其是发展中国家的农民、学生和基层工作者，AI 可能第一次以“手机里的工具”而非“硅谷的新闻”出现，但前提是电力和网络这些基础条件先到位。",
+  "tools": "想跟进可关注端侧小模型与工具链：Gemma 3n、Phi-4-mini、Qwen2.5 小参数版、Llama 3.2 1B/3B；推理部署用 llama.cpp、Ollama、MLC-LLM；微调用 Hugging Face PEFT/LoRA；多语言语音可看 Whisper small 及 Masakhane 等非洲语言开源项目。"
+ },
+ "lang": "zh"
+}

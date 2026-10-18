@@ -6469,5 +6469,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-18T03:52:35Z",
   "fetched_at": "2026-10-18T11:00:18.743146+00:00"
+ },
+ "25c86886de34": {
+  "id": "25c86886de34",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+  "source": "Hacker News (67pts, 54c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T14:30:27Z",
+  "fetched_at": "2026-10-18T15:51:38.777163+00:00"
+ },
+ "dafffdcfc7b5": {
+  "id": "dafffdcfc7b5",
+  "url": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
+  "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-18T13:22:26.000Z",
+  "fetched_at": "2026-10-18T15:51:47.514591+00:00"
+ },
+ "d82f2a76aea2": {
+  "id": "d82f2a76aea2",
+  "url": "https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise",
+  "title": "What Firecrawl's $75M raise is telling us about the AI stack",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T13:13:19Z",
+  "fetched_at": "2026-10-18T15:51:59.118800+00:00"
+ },
+ "ceb5b4e61552": {
+  "id": "ceb5b4e61552",
+  "url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+  "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T11:28:54Z",
+  "fetched_at": "2026-10-18T15:52:13.227092+00:00"
  }
 }
