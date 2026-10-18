@@ -15946,5 +15946,32 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-17T18:34:06.954Z",
   "fetched_at": "2026-10-17T22:16:57.633064+00:00"
+ },
+ "c991932364dc": {
+  "id": "c991932364dc",
+  "url": "https://www.qbitai.com/2026/10/504067.html",
+  "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T00:03:57.087118+00:00"
+ },
+ "7fc73ab44f09": {
+  "id": "7fc73ab44f09",
+  "url": "https://www.qbitai.com/2026/10/503935.html",
+  "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T00:04:03.533569+00:00"
+ },
+ "893e1df4cf89": {
+  "id": "893e1df4cf89",
+  "url": "https://www.qbitai.com/2026/10/503910.html",
+  "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T00:04:12.531411+00:00"
  }
 }
