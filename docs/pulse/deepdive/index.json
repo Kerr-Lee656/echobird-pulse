@@ -16027,5 +16027,32 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-18T04:26:09.367930+00:00"
+ },
+ "9f01d77614b2": {
+  "id": "9f01d77614b2",
+  "url": "https://www.ithome.com/1/014/456.htm",
+  "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T10:58:51.687321+00:00"
+ },
+ "a1e13dbf78e0": {
+  "id": "a1e13dbf78e0",
+  "url": "https://www.36kr.com/p/4030896887387784",
+  "title": "还没 IPO，OpenAI 600 名员工已套现 66 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T10:59:01.561824+00:00"
+ },
+ "8b5dcf9065cb": {
+  "id": "8b5dcf9065cb",
+  "url": "https://www.ithome.com/1/014/433.htm",
+  "title": "OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-18T00:11:12Z",
+  "fetched_at": "2026-10-18T10:59:25.773950+00:00"
  }
 }

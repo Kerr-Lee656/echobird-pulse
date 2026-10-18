@@ -6442,5 +6442,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-18T00:44:06Z",
   "fetched_at": "2026-10-18T04:27:00.999064+00:00"
+ },
+ "d64d271c1ab9": {
+  "id": "d64d271c1ab9",
+  "url": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+  "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T10:49:22Z",
+  "fetched_at": "2026-10-18T10:59:51.728889+00:00"
+ },
+ "076e32bb520a": {
+  "id": "076e32bb520a",
+  "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+  "title": "China proposes export controls on its advanced AI models and chip designs",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T10:01:06Z",
+  "fetched_at": "2026-10-18T11:00:06.888075+00:00"
+ },
+ "c5c94908702a": {
+  "id": "c5c94908702a",
+  "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+  "title": "Phishing emails are baiting your AI assistant",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T03:52:35Z",
+  "fetched_at": "2026-10-18T11:00:18.743146+00:00"
  }
 }
