@@ -16126,5 +16126,41 @@
   "site_name": "NewsNow",
   "published_at": "2026-10-18T08:24:04.216Z",
   "fetched_at": "2026-10-18T15:50:41.876809+00:00"
+ },
+ "e575fe059351": {
+  "id": "e575fe059351",
+  "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+  "title": "AI companies scraped the web. Now they want to learn how you work.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-18T18:37:08.038447+00:00"
+ },
+ "8c0a6d8c0bbe": {
+  "id": "8c0a6d8c0bbe",
+  "url": "https://www.tmtpost.com/8172203.html",
+  "title": "DeepSeek 成立产品部，整合 Harness 及 Web、App、Platform 团队",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-18T18:37:19.110558+00:00"
+ },
+ "25c86886de34": {
+  "id": "25c86886de34",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-18T14:30:27Z",
+  "fetched_at": "2026-10-18T18:37:27.250070+00:00"
+ },
+ "6a6cecaf604f": {
+  "id": "6a6cecaf604f",
+  "url": "https://www.ithome.com/1/014/595.htm",
+  "title": "英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-18T13:25:18Z",
+  "fetched_at": "2026-10-18T18:37:37.595127+00:00"
  }
 }

@@ -6505,5 +6505,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-18T11:28:54Z",
   "fetched_at": "2026-10-18T15:52:13.227092+00:00"
+ },
+ "3f2fd039e4bf": {
+  "id": "3f2fd039e4bf",
+  "url": "https://github.com/mozilla-ai/otari",
+  "title": "mozilla-ai/otari — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-18T18:38:21.497251+00:00"
+ },
+ "35cd62faf12b": {
+  "id": "35cd62faf12b",
+  "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-18T16:30:00.000Z",
+  "fetched_at": "2026-10-18T18:38:32.644137+00:00"
+ },
+ "796bbd796e41": {
+  "id": "796bbd796e41",
+  "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+  "title": "Anthropic gives outside AI watchdog “employee-like” access",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-10-18T16:25:19.000Z",
+  "fetched_at": "2026-10-18T18:38:46.626472+00:00"
+ },
+ "ebe8d70f2c63": {
+  "id": "ebe8d70f2c63",
+  "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+  "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-18T15:48:32Z",
+  "fetched_at": "2026-10-18T18:39:01.904423+00:00"
  }
 }

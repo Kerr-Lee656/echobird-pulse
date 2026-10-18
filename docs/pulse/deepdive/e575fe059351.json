@@ -1,0 +1,23 @@
+{
+ "id": "e575fe059351",
+ "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+ "title": "AI companies scraped the web. Now they want to learn how you work.",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-18T18:37:08.038447+00:00",
+ "content": "AI companies have already scraped much of the web. Now they're chasing something even more valuable: data that shows how humans actually work.\nThat's the focus of Business Insider's new series, The AI Data Grab. This week, we published three stories showing how the race for workplace data is accelerating.\nOne piece, from Charles Rollet, Tom Carter, and Stephen Council, examines the booming market for company records. AI firms are offering businesses six- and even seven-figure sums for anonymized Slack messages, emails, presentations, and internal documents.\nThe goal is to teach AI systems how people solve problems, collaborate, make decisions, and complete long, multi-step tasks. Those real-world workflows are becoming the fuel for the next generation of AI agents.\nAnother story, from Melia Robinson, explores how law firms are building AI systems around decades of legal knowledge, turning their own experience into a competitive advantage rather than relying solely on off-the-shelf AI models and tools.\nA third piece, by Rya Jetha, reveals how AI companies pay people to record real-world work, such as cooking dinners and packing warehouses, to teach robots how humans perform everyday physical tasks.\nTogether, these stories point to a major shift in AI development. The first wave of generative AI was mostly about bigger models and faster chips. The next chapter is about machines understanding how work gets done, so AI can help us do it better and quicker.\nSign up for the AI Insider newsletter here. Reach out to me via email at abarr@businessinsider.com",
+ "report": {
+  "summary": "AI公司从抓网页转向抢工作数据",
+  "background": "第一波生成式AI主要依赖公开网页数据训练，靠更大模型和更快芯片推进。随着网页数据接近枯竭，AI公司开始争夺更有价值的“工作数据”：企业内部的Slack消息、邮件、文档，法律等行业的专业知识，以及人们做饭、仓库打包等真实操作记录。Business Insider的“The AI Data Grab”系列揭示了这一趋势：AI训练正从理解互联网转向理解人类如何协作、决策和执行多步骤任务。",
+  "key_points": [
+   "AI公司高价收购企业匿名化的Slack消息、邮件、演示文稿和内部文档，报价可达六到七位数，目的是教AI理解人们如何解决问题、协作和完成长任务。",
+   "律师事务所等专业机构正把数十年积累的法律知识做成AI系统，将自身经验转化为竞争壁垒，而不是只依赖通用大模型和现成工具。",
+   "AI公司还付费让人录制做饭、仓库打包等真实工作过程，用这些数据教机器人学习人类的日常物理操作。",
+   "AI开发重点正在从“更大模型、更快芯片”转向“机器理解工作如何完成”，真实工作流程成为下一代AI代理和机器人的关键燃料。"
+  ],
+  "impact": "对AI行业，工作数据可能成为新的护城河，围绕数据授权、隐私和合规的竞争会加剧。对开发者，构建AI代理不仅需要模型能力，还需要高质量流程数据、匿名化管道和评估体系。对普通用户，工作沟通和操作记录可能被企业出售或用于训练，透明度和同意机制变得重要；同时，能理解工作流的AI代理和机器人将更快进入日常办公与体力劳动场景。",
+  "tools": "可关注数据治理与匿名化工具（如Presidio、OpenMetadata）、工作流采集与标注平台、机器人遥操作和开放数据集（如Open X-Embodiment）、法律知识库与检索增强方案。企业上手前应先做数据盘点、授权审计和脱敏评估。"
+ },
+ "lang": "zh"
+}
