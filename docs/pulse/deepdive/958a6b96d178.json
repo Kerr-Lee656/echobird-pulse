@@ -1,0 +1,24 @@
+{
+ "id": "958a6b96d178",
+ "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+ "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T23:36:14.746625+00:00",
+ "content": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\nThe fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price.\nJim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models. The new capital will go toward scaling chips tailored for serving open-weight AI models and video generation.\nTenstorrent is part of a wave of AI hardware startups trying to chip away at Nvidia’s dominance. Among them is Etched, an AI chip maker that was fielding investment offers at valuations of $40 billion or more, TechCrunch reported earlier this month.",
+ "report": {
+  "summary": "Tenstorrent 融资15亿美元，估值62亿，主攻开源权重模型推理芯片。",
+  "background": "Tenstorrent 成立十年，由传奇芯片工程师 Jim Keller 掌舵，长期做面向推理的 AI 芯片，是英伟达的挑战者之一。2024 年底其估值约 26 亿美元，此后传出英特尔、高通有意以最高 50 亿美元收购。此次它选择独立发展并大额融资，直接原因是自家 Galaxy 服务器成功跑通 DeepSeek 等开源权重模型，验证了产品路线。当前 AI 算力需求从训练向推理转移，开源模型快速普及，一批芯片新秀正试图在英伟达之外提供更便宜的推理方案，资本市场对这类标的兴趣明显升温。",
+  "key_points": [
+   "Tenstorrent 本轮融资 15 亿美元，估值达 62 亿美元，较 2024 年底的 26 亿美元翻了一倍多。",
+   "公司拒绝了英特尔、高通最高 50 亿美元的收购意向，选择保持独立并继续融资。",
+   "融资关键节点是 Galaxy 服务器成功运行 DeepSeek 模型，证明其芯片能承载开源权重模型推理。",
+   "新资金将用于扩展针对开源权重模型和视频生成优化的芯片，继续主攻推理而非训练。",
+   "赛道竞争升温：另一家 AI 芯片公司 Etched 被曝收到 400 亿美元以上估值的投资要约。"
+  ],
+  "impact": "对 AI 行业而言，推理芯片竞争加剧，有望打破英伟达在推理市场的定价权，推动算力成本下行。对开发者来说，更多异构硬件选择意味着可以更低成本部署开源权重模型，但软件栈和迁移成本仍是门槛。对普通用户，推理成本下降最终会传导为更便宜的 AI 应用和视频生成服务。不过 62 亿美元估值仍属高预期，商业化落地和生态建设将是长期考验。",
+  "tools": "想跟进可关注 Tenstorrent 开源软件栈 TT-Metalium、TT-Forge 编译器和 TT-NN 算子库，配合其 Grayskull、Wormhole 开发板上手；模型侧可从 DeepSeek、Llama 等开源权重模型在异构硬件上的部署实践入手，对比 vLLM、SGLang 等推理框架的适配情况。"
+ },
+ "lang": "zh"
+}

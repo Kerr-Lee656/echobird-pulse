@@ -1,0 +1,24 @@
+{
+ "id": "c161d6bab526",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+ "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T23:37:09.465964+00:00",
+ "content": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn’t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.\nA hacker broke into John Deere and SharkNinja with an army of AI agents\nThe AI agents carried out the attacks with little involvement from the human hacker.\nConcerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, with hackers using the tools to carry out large-scale attacks. At the same time, rogue AI agents are carrying out attacks of their own after escaping from testing environments.\nResearchers at Norforge uncovered the attacks through exposed work on Cairn, an open-source AI platform that describes itself as a “general-purpose problem-solving engine.” With Cairn, users set a start and end point for the AI agents, which document their progress as they move forward with the task. However, as noted by Norforge, hackers can also use the tool to orchestrate cyberattacks using AI agents.\nThe hacker who broke into more than 100 sites was the “most active” among the exposed Cairn instances discovered by Norforge, waging attacks on companies based in the US, Canada, Australia, and Japan, as reported by Reuters. This attacker laid out “preferred intrusion tactics” using fewer than 100 Chinese characters, with successful breaches taking about 23 hours, according to Reuters. Overall, Norforge found more than 20 exposed Cairn instances that are “likely malicious.”\nIn a statement to The Verge, Cummins spokesperson Melinda Koski said the company “is investigating the report of a potential cyber-attack on a website operated by one of our third-party vendors.” A John Deere spokesperson told Reuters that there’s “no indication that sensitive information was accessed” as a result of the attack, while SharkNinja said the breach impacted a standalone site with product support information, and that it has contained the threat.\nJohn Deere and SharkNinja didn’t immediately respond to The Verge’s request for comment.\nNorforge says it’s working to get the malicious Cairn instances taken down. Cairn’s creator, who goes by @le1xia0, said earlier this month that the platform “was never a ‘hacking tool,’” adding that “misuse is a human decision, not a feature of the engine.”\nUpdate, October 19th: Added a statement from Cummins.",
+ "report": {
+  "summary": "黑客用AI智能体集群自主攻破100多个网站，含迪尔、SharkNinja",
+  "background": "大模型智能体（Agent）能自主规划、调用工具、循环执行任务，攻击者只需给出目标与策略，就能让它们日夜不停地扫描、试探、渗透。此前已出现从测试环境「越狱」的失控智能体自行发起攻击的案例，但这次是首次被清晰记录的大规模「智能体雇佣军」实战：安全公司 Norforge 在开源AI平台 Cairn 的暴露实例中发现攻击痕迹，路透随后点名迪尔、SharkNinja、康明斯等受害企业。Cairn 本意是通用问题求解引擎，用户设定起点与终点，智能体自行推进并记录过程——这套机制被反向利用成了攻击编排器。",
+  "key_points": [
+   "攻击者几乎不写代码，只用不到100个汉字描述「偏好入侵战术」，AI智能体便自主完成侦察、试探和突破，单次成功入侵平均耗时约23小时。",
+   "Norforge 共发现20多个暴露在公网的 Cairn 实例「疑似恶意」，其中最活跃的一个攻破美、加、澳、日四国100多个网站。",
+   "受害方回应口径一致地低调：迪尔称无敏感信息泄露，SharkNinja 称受影响的是独立的产品支持站点并已控制威胁，康明斯称正调查第三方供应商网站。",
+   "Cairn 作者 @le1xia0 回应称该平台「从来不是黑客工具，滥用是人的决定，不是引擎的功能」——这也是开源双用途工具的经典困境。",
+   "事件暴露出新的攻击面：不是模型被攻破，而是公开可访问的智能体编排实例在被滥用，且过程日志反而成了取证线索。"
+  ],
+  "impact": "对AI行业，这意味着智能体安全从论文议题变成真实威胁，模型厂商和平台方将被迫加上速率限制、用途审计和滥用检测；对开发者，搭建 Agent 时「公网暴露+无鉴权」等同于开门揖盗，日志、沙箱和最小权限必须默认开启；对普通用户，你的账号数据可能在你毫不知情时被一个自动运行的AI「试」出来，弱口令和未打补丁的老站点风险陡增，企业也需把第三方供应商站点纳入风险面管理。",
+  "tools": "想跟进可关注：Cairn（开源智能体编排平台，建议仅在隔离环境研究）、Norforge 的威胁分析报告、OWASP Top 10 for LLM Applications 与 MITRE ATT&CK 的AI扩展；防守方可试用 LangSmith/Langfuse 做智能体行为审计，用容器沙箱与出网白名单限制 Agent 权限。"
+ },
+ "lang": "zh"
+}

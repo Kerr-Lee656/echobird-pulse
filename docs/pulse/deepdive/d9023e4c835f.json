@@ -1,0 +1,24 @@
+{
+ "id": "d9023e4c835f",
+ "url": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents",
+ "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T23:36:09.060930+00:00",
+ "content": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents 15\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from The Verge: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets,  Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.\n[...] Researchers at Norforge uncovered the attacks through exposed work on Cairn, an open-source AI platform that describes itself as a \"general-purpose problem-solving engine.\" With Cairn, users set a start and end point for the AI agents, which document their progress as they move forward with the task. However, as noted by Norforge, hackers can also use the tool to orchestrate cyberattacks using AI agents.\nThe hacker who broke into more than 100 sites was the \"most active\" among the exposed Cairn instances discovered by Norforge, waging attacks on companies based in the US, Canada, Australia, and Japan, as reported by Reuters. This attacker laid out \"preferred intrusion tactics\" using fewer than 100 Chinese characters, with successful breaches taking about 23 hours, according to Reuters. Overall, Nordforge found more than 20 exposed Cairn instances that are \"likely malicious.\" A John Deere spokesperson said there is \"no indication that sensitive information was accessed\" as a result of the attack, while Cummins said it's \"investigating the report of a potential cyber-attack on a website operated by one of our third-party vendors.\"\nMeanwhile, SharkNinja says the breach impacted a standalone site with product support information, and that it has contained the threat.",
+ "report": {
+  "summary": "黑客借开源AI平台Cairn驱动自主代理集群，攻破逾百家企业网站。",
+  "background": "AI代理正从辅助工具变成攻击基础设施。开源平台Cairn自称“通用问题求解引擎”，用户只需设定起点与终点，代理便自主推进任务并记录进度；但部署在公网的实例缺乏访问控制，被攻击者反过来当作攻击编排器。安全公司Norforge扫描发现20多个“疑似恶意”实例，其中最活跃的一个攻击了美国、加拿大、澳大利亚、日本的企业，仅用不到100个汉字描述入侵偏好战术，单次突破平均约23小时。受害者包括John Deere、SharkNinja、Cummins，多为第三方供应商或产品支持类边缘站点。",
+  "key_points": [
+   "攻击几乎“自走”：人只给出目标和不到100字的战术偏好，AI代理自行规划路径、执行渗透并记录过程，单次入侵约23小时。",
+   "突破口不在企业核心系统，而是开源AI平台Cairn暴露在公网的实例：本是研究用编排引擎，却被当成现成攻击指挥台。",
+   "规模化效应明显：单个攻击者同时打穿100多个站点，横跨四国，人力成本被压到极低。",
+   "受害者多为大企业的第三方供应商网站或独立产品支持页；John Deere称无敏感数据泄露，SharkNinja称已控制威胁，Cummins仍在调查。",
+   "这类攻击节奏慢、点位分散，传统基于流量峰值的告警难以识别“AI代理式”探测与横向移动。"
+  ],
+  "impact": "对AI行业，代理编排框架的默认暴露将成为新的攻击面，鉴权、审计日志、速率限制必须前置设计，而不是事后补。对开发者，Cairn类自建服务不能直接暴露在公网，需立即排查配置、隔离实验环境与生产网络。对普通用户，被攻破的多是支持类边缘站点，可能波及账号与客服工单信息，应关注厂商通知并警惕后续钓鱼。总体看，攻击门槛正被AI显著拉低。",
+  "tools": "想跟进可看：Cairn开源仓库（理解代理编排机制与风险面）、Norforge公开报告、Shodan/Censys（自查暴露实例）、Nuclei（漏洞扫描）、Langfuse或LangSmith（代理行为可观测性）、OWASP LLM Top 10 与 Agentic AI 安全指南。"
+ },
+ "lang": "zh"
+}

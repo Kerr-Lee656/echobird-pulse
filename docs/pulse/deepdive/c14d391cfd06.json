@@ -1,0 +1,23 @@
+{
+ "id": "c14d391cfd06",
+ "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies",
+ "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T23:36:34.243613+00:00",
+ "content": "Homeland Security bans DeepSeek use in federal civilian agencies\nThe decision comes a couple of days after the release of the company’s latest AI model.\nThe Department of Homeland Security has issued a sweeping restriction to remove DeepSeek use across all federal civilian agencies and their IT systems. In a notice published with the Federal Register, DHS characterized the risks of DeepSeek use as potentially resulting in the \"transfer of sensitive data\" of US government employees and vendors to the Chinese government.\nFollowing the order, civilian agencies like the Environmental Protection Agency or Federal Communications Commission would have to exclude any DeepSeek products from being used, while also removing any existing related products. DHS said in the notice that DeepSeek's models could \"contain malware or other security vulnerabilities.\" The notice also disallows DeepSeek from participating in any federal government contracts.\nDHS' order comes on the heels of DeepSeek releasing its latest model, V4.1-Flash-1017, which the company called \"smarter, faster, more efficient.\" However, it's not the first time that the Chinese AI company has run into friction with the US government, especially at a time when its cheaper AI models start to rival the likes of ChatGPT or Gemini. Last year, two US Congressmembers proposed a bill that would ban DeepSeek's AI chatbot from government devices.",
+ "report": {
+  "summary": "美国土安全部禁止联邦民事机构使用DeepSeek",
+  "background": "DeepSeek以低成本模型快速崛起，引发美国对数据安全和中国AI影响力的审查。去年已有国会议员提案限制政府设备使用其聊天机器人。此次DHS在DeepSeek发布新模型V4.1-Flash-1017后发布联邦登记通知，要求民事机构剔除相关产品，显示美中AI竞争与合规审查进一步升级。",
+  "key_points": [
+   "DHS发布联邦登记通知，全面限制联邦民事机构及其IT系统使用DeepSeek产品。",
+   "官方理由是敏感数据可能流向中国政府，且模型可能含恶意软件或安全漏洞。",
+   "EPA、FCC等机构须移除现有DeepSeek产品，并禁止其参与联邦政府合同。",
+   "禁令紧随DeepSeek发布V4.1-Flash-1017新模型，延续国会此前限制提案。"
+  ],
+  "impact": "对AI行业，模型出海面临更高地缘政治与合规门槛，数据本地化和安全审计更关键；对开发者，尤其政府承包商，需排查DeepSeek依赖并准备替代方案；对普通用户，直接使用影响有限，但会强化对中国AI产品的安全疑虑。",
+  "tools": "可关注DeepSeek官方模型与API、Qwen/Llama/Mistral等可本地部署开源模型，以及Azure、AWS等合规托管服务和NIST AI风险管理框架。"
+ },
+ "lang": "zh"
+}

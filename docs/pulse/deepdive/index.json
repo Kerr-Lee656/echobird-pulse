@@ -16441,5 +16441,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-19T15:02:51.170Z",
   "fetched_at": "2026-10-19T19:53:58.567768+00:00"
+ },
+ "d9023e4c835f": {
+  "id": "d9023e4c835f",
+  "url": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents",
+  "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:36:09.060930+00:00"
+ },
+ "958a6b96d178": {
+  "id": "958a6b96d178",
+  "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+  "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:36:14.746625+00:00"
+ },
+ "c14d391cfd06": {
+  "id": "c14d391cfd06",
+  "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies",
+  "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:36:34.243613+00:00"
+ },
+ "ce62cf5e6c1e": {
+  "id": "ce62cf5e6c1e",
+  "url": "https://www.gelonghui.com/live/2718320",
+  "title": "英伟达完成量子纠错技术验证 所需物理量子比特减少 90%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:36:43.149281+00:00"
+ },
+ "bf36e2a6f9be": {
+  "id": "bf36e2a6f9be",
+  "url": "https://wallstreetcn.com/livenews/3181333",
+  "title": "标普全球警告：超大规模云服务商的 AI 相关债务可能高于目前已知水平",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:36:51.450475+00:00"
+ },
+ "614a0336a773": {
+  "id": "614a0336a773",
+  "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "title": "Mercury 3: Diffusion at scale",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-19T17:27:11Z",
+  "fetched_at": "2026-10-19T23:37:01.193938+00:00"
+ },
+ "c161d6bab526": {
+  "id": "c161d6bab526",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+  "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:37:09.465964+00:00"
+ },
+ "bfa70917f3b1": {
+  "id": "bfa70917f3b1",
+  "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+  "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T23:37:16.749095+00:00"
  }
 }
