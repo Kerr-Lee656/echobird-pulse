@@ -16288,5 +16288,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-18T22:52:35Z",
   "fetched_at": "2026-10-19T04:34:41.345759+00:00"
+ },
+ "4d42ae458e23": {
+  "id": "4d42ae458e23",
+  "url": "https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares",
+  "title": "Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T13:03:02.023893+00:00"
+ },
+ "a3479a03d2c9": {
+  "id": "a3479a03d2c9",
+  "url": "https://www.aibase.com/zh/news/31728",
+  "title": "OpenAI 发布 ChatGPT 扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T13:03:15.271619+00:00"
+ },
+ "9991d92a7cba": {
+  "id": "9991d92a7cba",
+  "url": "https://www.aibase.com/zh/news/31722",
+  "title": "英特尔杀入大模型推理市场！发布 GPU D 系列：最高配 480GB 显存，专为万亿参数推理而生",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T13:03:22.054989+00:00"
+ },
+ "7def191d1e92": {
+  "id": "7def191d1e92",
+  "url": "https://www.aibase.com/zh/news/31723",
+  "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T13:03:28.828438+00:00"
+ },
+ "c528ddef46e3": {
+  "id": "c528ddef46e3",
+  "url": "https://www.aibase.com/zh/news/31716",
+  "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T13:03:36.968482+00:00"
+ },
+ "ea85b7dda5c8": {
+  "id": "ea85b7dda5c8",
+  "url": "https://www.huxiu.com/article/4898646.html?f=rss",
+  "title": "Anthropic估值分歧：AGI故事撞上算力账单",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-19T09:09:16Z",
+  "fetched_at": "2026-10-19T13:04:21.273976+00:00"
+ },
+ "8d250fa55b62": {
+  "id": "8d250fa55b62",
+  "url": "https://www.ithome.com/1/014/873.htm",
+  "title": "消息称 Anthropic 首次“下单”加拿大数据中心算力",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-19T08:21:48Z",
+  "fetched_at": "2026-10-19T13:04:39.220894+00:00"
+ },
+ "1876a382dddb": {
+  "id": "1876a382dddb",
+  "url": "https://www.ithome.com/1/014/856.htm",
+  "title": "划清界限：美国银行、摩根大通银行、嘉信理财等金融平台屏蔽 Muse 等智能体",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-19T07:40:57Z",
+  "fetched_at": "2026-10-19T13:04:47.769411+00:00"
+ },
+ "f1cb07a73c67": {
+  "id": "f1cb07a73c67",
+  "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+  "title": "DeepSeek V4.1 Flash 1017 (Max)",
+  "source": "artificialanalysis.ai",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-19T07:08:12.735Z",
+  "fetched_at": "2026-10-19T13:04:55.384750+00:00"
  }
 }
