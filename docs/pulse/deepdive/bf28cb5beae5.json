@@ -1,0 +1,24 @@
+{
+ "id": "bf28cb5beae5",
+ "url": "https://thenextweb.com/news/town-108m-series-b-1b-valuation-ai-assistants",
+ "title": "Town raises $108M at a $1B valuation so AI assistants can work as a team",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T19:53:06.416046+00:00",
+ "content": "Town, a San Francisco startup that gives each person at work an AI work assistant, has raised $108m in a Series B that values it at $1bn. Forerunner Ventures and Menlo Ventures co-led the round, the company announced on Monday.\nExisting investors a16z and First Round Capital took part, along with Better Tomorrow Ventures, Precedent.vc, Scribble Ventures, Serena Ventures and Sparked Ventures. Angel investors include Brendan Foody, Josh Silverman, Romain Huet, Scott Belsky, Steve Bartel, Taro Fukuyama and Varun Anand.\nAssistants that work with each other\nEach person gets an assistant, which Town calls a Townie. It connects to that person’s email, documents, calendar and the core systems they work in. It learns their relationships, projects and voice, and takes work off their plate.\nTown is now extending Townies from individuals to whole teams. The assistants can ask each other questions and hand off work, the company says. Each one shares only what its person would share, asks permission when needed and brings decisions back to that person. Townies can also work with customers, partners and candidates outside the company, over email and text.\n“AI has made each of us faster on our own. Now, it can make teams faster together.” Jean-Denis Greze, co-founder and CEO of Town\nTeams can also share workflows. When one team updates a process, such as the way sales reps prepare for calls, every rep’s Townie picks up the change, according to Town.\nWho owns the data\nEach customer owns the context its Townies build, Town says, and can take it along if it leaves. By default, Town does not use anything a customer connects to train a model. Town uses models from the major AI labs and picks one for each task. That way, customers are not locked into a single lab. Town is SOC 2 Type 2 compliant and publishes its data processing agreement.\nGrowth since June\nTown launched publicly in June 2026 with a $55m Series A. It reached seven figures in annual recurring revenue within weeks, the company says. Since July, its paying customers have grown fourfold and its paying teams ninefold.\nThousands of businesses now use Townies every day, Greze and Tony Vincent wrote in a blog post on the round. Shawn Carolan, a partner at Menlo Ventures, said his firm backed Siri in 2008. He said Town had chosen business over pleasure.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AI工作助手Town完成1.08亿美元B轮融资，估值达10亿美元",
+  "background": "过去两年，AI助手大多只服务个人：帮一个人写邮件、整理会议纪要、查资料。但企业真实的工作发生在协作中——跨部门交接、跨公司沟通、流程同步，单人助手无法覆盖。Town 想补上这一层：为每位员工配一个名为 Townie 的助手，并让这些助手之间直接对话、移交任务。该公司今年6月才公开上线，A轮融资5500万美元，数周内年度经常性收入（ARR）就达到七位数，付费客户与付费团队数量此后分别增长约4倍和9倍，这也是资本愿意在早期给出10亿美元估值的原因。",
+  "key_points": [
+   "每个员工配一个 Townie，接入其邮箱、文档、日历和核心业务系统，学习此人的关系网、项目进展和表达风格，主动分担日常工作。",
+   "Townie 从单人扩展到团队：助手之间可以互相提问、移交任务；它只共享当事人愿意共享的信息，需要时申请授权，并把决策带回给本人。",
+   "助手还能跨公司边界工作，通过邮件和短信与客户、合作伙伴、候选人沟通，相当于把 AI 协作网络延伸到企业外部。",
+   "团队可共享工作流：某个团队更新流程（如销售准备电话的方式），所有成员的 Townie 会自动同步最新做法。",
+   "数据归属清晰：客户拥有 Townie 积累的上下文并可在离开时带走；默认不用客户数据训练模型；按任务混用多家大模型，避免被单一厂商锁定。"
+  ],
+  "impact": "对 AI 行业而言，竞争焦点正从“更强的单体助手”转向“多智能体协作与工作流共享”，并强调可迁移的数据资产与多模型策略，这给单一模型厂商的锁定能力带来挑战。对开发者，这意味着需要重新设计身份授权、权限边界、跨代理通信协议和审计能力，而提示词优化不再是重点。对普通用户，AI 不再只是个人的加速器，而会开始代表你与同事的 AI 谈判、交接，个人的“数字分身”如何被授权和追责将成为新的职场议题。",
+  "tools": "想跟进多智能体协作，可关注 Anthropic 的 MCP 协议、Google 的 A2A 协议、OpenAI Agents SDK，以及 LangGraph、CrewAI、AutoGen 等编排框架；权限与审计可参考 OAuth、SOC 2 的实践思路。"
+ },
+ "lang": "zh"
+}

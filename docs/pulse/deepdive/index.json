@@ -16369,5 +16369,77 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-19T07:08:12.735Z",
   "fetched_at": "2026-10-19T13:04:55.384750+00:00"
+ },
+ "8da6393269d2": {
+  "id": "8da6393269d2",
+  "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention",
+  "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:52:47.377080+00:00"
+ },
+ "a9348319d3fb": {
+  "id": "a9348319d3fb",
+  "url": "https://thenextweb.com/news/amazon-torchneuron-pytorch-trainium",
+  "title": "Amazon’s TorchNeuron lets PyTorch code run on AWS Trainium chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:52:58.213655+00:00"
+ },
+ "bf28cb5beae5": {
+  "id": "bf28cb5beae5",
+  "url": "https://thenextweb.com/news/town-108m-series-b-1b-valuation-ai-assistants",
+  "title": "Town raises $108M at a $1B valuation so AI assistants can work as a team",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:53:06.416046+00:00"
+ },
+ "0b8331a3e673": {
+  "id": "0b8331a3e673",
+  "url": "https://www.businessinsider.com/anthropic-pitches-ai-safety-bill-lawmakers-2026-10",
+  "title": "Anthropic's safety bill would let the US block an AI model if there's imminent risk of 50-plus deaths",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:53:16.145515+00:00"
+ },
+ "642849b014d6": {
+  "id": "642849b014d6",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/140545",
+  "title": "英伟达发布 Nemotron 3.5 Super VL 及 Bolt 开放权重模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:53:25.490709+00:00"
+ },
+ "de3910f981d2": {
+  "id": "de3910f981d2",
+  "url": "https://www.theblockbeats.info/flash/372611",
+  "title": "Tether 参投 AI 计算公司 Tenstorrent 15 亿美元 E 轮融资",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:53:37.422241+00:00"
+ },
+ "ea7b15abc377": {
+  "id": "ea7b15abc377",
+  "url": "https://www.theblockbeats.info/flash/372604",
+  "title": "美国土安全部下令将 DeepSeek 产品排除在民用政府机构系统之外",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-19T19:53:47.107805+00:00"
+ },
+ "2b7484908312": {
+  "id": "2b7484908312",
+  "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+  "title": "迪士尼找到了一种既能收购Character.AI，又无需接手其诉讼的方式",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-19T15:02:51.170Z",
+  "fetched_at": "2026-10-19T19:53:58.567768+00:00"
  }
 }

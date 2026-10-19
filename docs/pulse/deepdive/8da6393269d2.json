@@ -1,0 +1,24 @@
+{
+ "id": "8da6393269d2",
+ "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention",
+ "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-19T19:52:47.377080+00:00",
+ "content": "Google Gemini 4 agents just beat Minecraft with no human intervention\nAgents split up tasks, warned about threats and even recovered items from dead teammates.\nGoogle's Deepmind \"AlphaGo\" AI is famous for winning at Go, but the company's latest Gemini AI just mastered a far more complex game. Four Gemini 4 Argon agents beat Minecraft's final \"Ender Dragon\" foe with no human intervention by working individually while sharing tips, threats and mistakes, Google researchers revealed in a new paper. The experiment shows how general agentic AI models can now beat complex games, a feat that used to required custom AI software.\nTo tackle Minecraft, the Gemini 4 team set four AI agents into a sandboxed, randomized Minecraft survival world with a goal to defeat the Ender Dragon. No roles, strategies or game-specific tools were assigned. Each agent controlled a player using the open-source Mineflayer library and coordinated with teammates through in-game chat and shared memory.\nDuring gameplay, agents quickly elected to split up tasks. They warned each about threats, gave lessons and tips, provided coordinates and even recovered items from dead teammates. Each settled into roles: for example, \"janesick\" made tools, \"gyldenia\" gathered food and supplies, \"auratian\" lit a key portal and \"bulicame\" built Enderman shelters and landed the final blow.\nAll told, the process took 27.23 hours, with the majority of time spent on the Ender Dragon. \"The four agents wrote and ran 2,783 programs, exchanged 229 messages and died 605 times along the way,\" the team said. A fifth agent called \"the Observer\" monitored the session as an independent witness, both to check for cheating and to publish live and summary reports. The agents used 1.35 billion input tokens and the final cost was $810 at Gemini's list price or $1,620 at the standard price.\n\"To our knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents, achieved using only the standard Mineflayer library without pre-scouted seeds or other game-specific tools written by humans,\" the team wrote. \"Winning required the agents to keep a coherent plan across thousands of dependent steps for more than a day.\"",
+ "report": {
+  "summary": "四Gemini智能体零干预通关《我的世界》",
+  "background": "《我的世界》因开放世界、长链条目标和随机性，长期被用作AI智能体基准。此前通关多依赖人工编写的游戏专用工具、预设种子或强化学习方案，如MineRL、Voyager等。此次Google用通用Gemini 4 Argon智能体，仅靠Mineflayer和游戏内聊天协作，验证通用智能体在长时程任务上的自主规划与协同能力。",
+  "key_points": [
+   "四个Gemini 4 Argon智能体在随机生存世界中，无预设角色、策略或游戏专用工具，自主击败末影龙，完成端到端通关。",
+   "它们通过游戏内聊天和共享记忆协调，主动分工：造工具、收集食物、点亮传送门、搭建避难所并完成最后一击。",
+   "过程中互相预警威胁、分享坐标和经验，甚至回收死亡队友掉落物，展现出涌现式多智能体协作。",
+   "全程27.23小时，编写运行2783个程序、发送229条消息、死亡605次，消耗13.5亿输入token，成本约810至1620美元。",
+   "第五个“观察者”智能体独立监控，用于防作弊并生成实时与总结报告，提升实验可验证性。"
+  ],
+  "impact": "对AI行业，这是通用智能体长时程规划和多智能体协作的重要概念验证，说明不必为每个游戏定制AI；但高token成本和605次死亡也暴露可靠性瓶颈。对开发者，多智能体编排、共享记忆、Mineflayer和独立评测将成重点。对普通用户，自主AI代理在游戏、软件操作等场景更近一步，但离低成本可靠落地仍有距离。",
+  "tools": "想跟进可关注：Mineflayer（开源Minecraft机器人库）、MineRL/Voyager（Minecraft智能体基准与案例）、Gemini API及多智能体编排/共享记忆框架；也可用观察者模式做评测。"
+ },
+ "lang": "zh"
+}

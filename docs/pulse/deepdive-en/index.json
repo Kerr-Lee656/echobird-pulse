@@ -6631,5 +6631,50 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-19T04:00:00.000Z",
   "fetched_at": "2026-10-19T04:36:48.212553+00:00"
+ },
+ "614a0336a773": {
+  "id": "614a0336a773",
+  "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "title": "Mercury 3: Diffusion at scale",
+  "source": "Hacker News (152pts, 63c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T17:27:11Z",
+  "fetched_at": "2026-10-19T19:54:52.251184+00:00"
+ },
+ "92fd84b4f66e": {
+  "id": "92fd84b4f66e",
+  "url": "https://www.cnbc.com/video/2026/10/19/anthropic-commits-5percent-of-shares-to-new-public-benefit-fund.html",
+  "title": "Anthropic commits 5% of shares to new public benefit fund",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T17:08:27Z",
+  "fetched_at": "2026-10-19T19:55:21.403649+00:00"
+ },
+ "f03954dee92f": {
+  "id": "f03954dee92f",
+  "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+  "title": "Microsoft pulls out of UK's largest AI data centre",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T16:15:38Z",
+  "fetched_at": "2026-10-19T19:55:35.513443+00:00"
+ },
+ "b26579175488": {
+  "id": "b26579175488",
+  "url": "https://agenticmarket.exchange/challenge/",
+  "title": "A $10M prize for whoever builds 1M working AI agents",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T15:54:08Z",
+  "fetched_at": "2026-10-19T19:55:46.288485+00:00"
+ },
+ "ddfc02040281": {
+  "id": "ddfc02040281",
+  "url": "https://www.town.com/operate-at-the-speed-of-ai",
+  "title": "Town raises $108M to help your team operate at the speed of AI",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T15:34:55Z",
+  "fetched_at": "2026-10-19T19:56:36.701822+00:00"
  }
 }

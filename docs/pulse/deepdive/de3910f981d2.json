@@ -1,0 +1,24 @@
+{
+ "id": "de3910f981d2",
+ "url": "https://www.theblockbeats.info/flash/372611",
+ "title": "Tether 参投 AI 计算公司 Tenstorrent 15 亿美元 E 轮融资",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-19T19:53:37.422241+00:00",
+ "content": "BlockBeats 消息，10 月 19 日，据路透社报道，AI 计算公司 Tenstorrent 已完成 15 亿美元的 E 轮融资，投后估值达 62 亿美元。\n本轮融资由 Trace Capital 和 Innovation X 领投，新老投资者参投，包括 Agostinelli Group、ARK Invest、Brett Barna、Cadence Ventures、Eclipse、Fidelity Management & Research Company（富达管理与研究公司）、Maverick Silicon、Morgan Stanley（摩根士丹利）、Protagonist、Sandisk（闪迪）、T. Rowe Price*（普徕仕）、Tether Investments、Troluce Capital、Virtu Financial 以及 XTX Markets。\nTenstorrent 将利用这笔资金大规模部署 Galaxy 服务器，继续为大型语言模型（LLMs）和视频生成领域的开放权重（open-weight）模型提供服务，并推进其向设计自有芯片的客户授权的 AI 和 CPU IP 业务。",
+ "report": {
+  "summary": "Tenstorrent 完成 15 亿美元 E 轮融资，估值 62 亿美元，Tether 参投",
+  "background": "Tenstorrent 成立于 2016 年，总部位于多伦多，由传奇芯片架构师 Jim Keller 执掌。他曾在苹果、AMD、英特尔主导多代 CPU 设计。该公司主攻基于 RISC-V 的 AI 加速芯片和 CPU IP 授权，产品包括 Grayskull、Wormhole、Blackhole 及机架级的 Galaxy 服务器，并坚持开源软件栈，试图避免像英伟达 CUDA 那样形成封闭生态。2024 年底，它刚完成约 6.93 亿美元 D 轮融资，当时估值约 26 亿美元；不到一年，估值翻倍至 62 亿美元。本轮还出现了稳定币发行方 Tether 与传统资管巨头共同出资的景象，反映出 AI 算力资产正被更广泛的资本视为核心配置。",
+  "key_points": [
+   "估值一年翻倍：从 2024 年 D 轮的约 26 亿美元升至 62 亿美元，单轮融资金额 15 亿美元，在半导体初创公司中极为罕见。",
+   "资方结构特殊：Tether、富达、普徕仕、摩根士丹利、ARK、Cadence、闪迪同列，加密资本、传统资管与半导体产业方罕见共同出资。",
+   "钱主要投向 Galaxy 服务器：面向开放权重（open-weight）大语言模型与视频生成推理场景，主打高能效、低成本的英伟达替代方案。",
+   "另一条路是卖 IP：把 AI 加速器和 RISC-V CPU 的知识产权授权给想自研芯片的客户，类似 Arm 模式，毛利更高、更易规模化。",
+   "核心竞争点是软件：用开源编译器与工具链降低开发者迁移门槛，能否摆脱 CUDA 生态锁定，是它能否成功的关键。"
+  ],
+  "impact": "对 AI 行业而言，这是推理算力市场多极化的信号：英伟达之外，资本开始押注第二批挑战者，推理价格战与能效竞争会加速。对开发者而言，非 CUDA 的硬件与开源软件栈意味着更多选择和议价空间，但也需要承担迁移与适配成本。对普通用户而言，算力供给多元化有望压低推理成本，让开放权重模型和视频生成服务更便宜、更普及。值得注意的是，加密资本大规模进入 AI 硬件，也带来周期性泡沫的隐忧。",
+  "tools": "想跟进可关注 Tenstorrent 开源栈：底层编程模型 TT-Metalium、基于 MLIR 的编译器 TT-Forge、模型适配库 tt-transformers，以及 vLLM 对 Tenstorrent 硬件的支持；也可留意 Tenstorrent Cloud 与 Koyeb 等平台的远程试用通道。硬件侧关注 Blackhole 加速卡与 Galaxy 机架服务器。"
+ },
+ "lang": "zh"
+}

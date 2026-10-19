@@ -1,0 +1,24 @@
+{
+ "id": "642849b014d6",
+ "url": "https://www.techflowpost.com/zh-CN/newsletter/140545",
+ "title": "英伟达发布 Nemotron 3.5 Super VL 及 Bolt 开放权重模型",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-19T19:53:25.490709+00:00",
+ "content": "深潮 TechFlow 消息，10 月 19 日，据 TechCrunch 报道，英伟达推出一批面向智能体和边缘计算的新开放权重模型。其中，Nemotron 3.5 Super VL 为 1200 亿参数模型，主要面向企业级 Agent。英伟达称，该模型在指令遵循和工具使用任务上的准确率可接近 Nemotron 3 Ultra，同时在针对特定 Agent 任务进行后训练后，可比 Anthropic 和 OpenAI 的部分模型更快完成任务。\n英伟达同时推出两款轻量级 Bolt 模型，主打本地运行。Nemotron 3.5 Bolt 74B-A9B 24GB 为 740 亿参数模型，面向多步推理、工具调用和网页浏览等本地 Agent 任务；更小的 Bolt E4B 则主要用于对话型智能体。相关模型可运行在采用 Nvidia RTX Spark 芯片的 AI PC 以及 DGX Spark 工作站上。\n英伟达表示，Super VL 和 Bolt 74B-A9B 已开放使用，Bolt E4B 将于本月晚些时候推出。公司希望推动企业在自有基础设施上部署和训练开放模型，同时通过本地运行 Agent，减少用户将个人数据和任务发送至云端的需求。\n添加收藏\n分享社交媒体",
+ "report": {
+  "summary": "英伟达发布 1200 亿参数 Nemotron 3.5 Super VL 与可本地运行的 Bolt 系列开放权重模型。",
+  "background": "英伟达近两年从 GPU 供应商向开放模型生态延伸，Nemotron 家族已覆盖 Ultra、Nano 等多个规格。在 Llama、Qwen、DeepSeek、Mistral 等开放权重模型激烈竞争、企业又希望把 Agent 部署在自有基础设施上的背景下，英伟达选择同时切入两个场景：云端企业级 Agent 需要强指令遵循和工具调用能力，本地 AI PC 和工作站则需要低延迟、隐私可控的小模型。此次发布也与 RTX Spark 芯片、DGX Spark 工作站等硬件形成配套，意在用“模型+芯片+推理栈”的组合，进一步绑定企业客户。",
+  "key_points": [
+   "Nemotron 3.5 Super VL 参数 1200 亿，面向企业级 Agent，官方称指令遵循与工具使用准确率接近自家更强的 Ultra 版本。",
+   "英伟达表示，经过针对特定 Agent 任务的后训练后，该模型完成任务的速度可超过 Anthropic 和 OpenAI 的部分模型。",
+   "Bolt 74B-A9B 是 740 亿参数、约 90 亿激活的混合结构，可用于多步推理、工具调用和网页浏览等本地 Agent 任务。",
+   "更小的 Bolt E4B 主打对话型智能体，将于本月晚些时候推出；这些模型可在 RTX Spark AI PC 和 DGX Spark 工作站上运行。",
+   "英伟达希望推动企业在自有基础设施上部署和训练开放模型，并通过本地运行 Agent 减少个人数据上云。"
+  ],
+  "impact": "对行业而言，英伟达正从卖算力转向提供“模型+推理栈+硬件”的组合，与闭源 API 厂商在企业 Agent 场景正面竞争，开放权重阵营又多了一个强有力参与者。对开发者来说，多了一个可微调、可私有化部署的 1200 亿参数选择，本地 Agent 的显存门槛也被压低到消费级硬件。对普通用户，未来 AI PC 上的助手可以离线跑、数据不出本机，隐私和响应速度都会改善，但前提是硬件配套到位。",
+  "tools": "想跟进可关注：Nemotron 3.5 Super VL 与 Bolt 系列开放权重（Hugging Face 可获取）、英伟达 NeMo 微调框架、TensorRT-LLM 与 NIM 推理服务；本地尝鲜可用 Ollama、LM Studio、vLLM，硬件侧关注 DGX Spark 与 RTX AI PC。"
+ },
+ "lang": "zh"
+}
