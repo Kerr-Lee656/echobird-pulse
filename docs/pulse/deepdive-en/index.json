@@ -6577,5 +6577,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-18T18:56:03.000Z",
   "fetched_at": "2026-10-18T22:28:07.378647+00:00"
+ },
+ "15236568193f": {
+  "id": "15236568193f",
+  "url": "https://github.com/NVlabs/ASPIRE",
+  "title": "NVlabs/ASPIRE — ASPIRE: Agentic /Skills Discovery for Robotics",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-19T04:35:12.117856+00:00"
+ },
+ "dd0b0b4519fe": {
+  "id": "dd0b0b4519fe",
+  "url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
+  "title": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T04:13:29Z",
+  "fetched_at": "2026-10-19T04:35:38.570315+00:00"
+ },
+ "2085404b83a0": {
+  "id": "2085404b83a0",
+  "url": "https://arxiv.org/abs/2610.22603",
+  "title": "At the Limits of Computability: Steps Towards Autonomous AI Discovery on the Busy Beaver Frontier",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-19T04:00:00.000Z",
+  "fetched_at": "2026-10-19T04:35:53.536941+00:00"
+ },
+ "84f0bfef9ee3": {
+  "id": "84f0bfef9ee3",
+  "url": "https://arxiv.org/abs/2610.22805",
+  "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-19T04:00:00.000Z",
+  "fetched_at": "2026-10-19T04:36:04.135353+00:00"
+ },
+ "2d6ccbaf0126": {
+  "id": "2d6ccbaf0126",
+  "url": "https://arxiv.org/abs/2610.22869",
+  "title": "MS-Eval: Benchmarking Sub-Agent Delegation and Orchestration in MCP-Intensive Working Scenarios",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-19T04:00:00.000Z",
+  "fetched_at": "2026-10-19T04:36:13.383001+00:00"
+ },
+ "d1e084b3b900": {
+  "id": "d1e084b3b900",
+  "url": "https://arxiv.org/abs/2610.22871",
+  "title": "ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-19T04:00:00.000Z",
+  "fetched_at": "2026-10-19T04:36:48.212553+00:00"
  }
 }
