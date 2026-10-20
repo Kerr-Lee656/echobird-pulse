@@ -16621,5 +16621,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-20T06:23:55Z",
   "fetched_at": "2026-10-20T11:30:42.503900+00:00"
+ },
+ "1d122c8d7055": {
+  "id": "1d122c8d7055",
+  "url": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up",
+  "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:14.742774+00:00"
+ },
+ "5379b624ed53": {
+  "id": "5379b624ed53",
+  "url": "https://thenextweb.com/news/nscale-and-anthropic-reportedly-in-talks-over-second-45bn-deal",
+  "title": "Nscale and Anthropic reportedly in talks over second $45bn deal",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:22.467822+00:00"
+ },
+ "01b032a12fd3": {
+  "id": "01b032a12fd3",
+  "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-berlin-summit",
+  "title": "Germany signs AI partnership with Nvidia at Berlin investment summit",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:30.213203+00:00"
+ },
+ "0e1e1ffb0b43": {
+  "id": "0e1e1ffb0b43",
+  "url": "https://www.36kr.com/p/4032947936662665",
+  "title": "正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:39.277006+00:00"
+ },
+ "de1c09f1eb22": {
+  "id": "de1c09f1eb22",
+  "url": "https://www.aibase.com/zh/news/31758",
+  "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:47.301333+00:00"
+ },
+ "074e841df450": {
+  "id": "074e841df450",
+  "url": "https://www.aibase.com/zh/news/31753",
+  "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:57:54.078174+00:00"
+ },
+ "08fb298894fa": {
+  "id": "08fb298894fa",
+  "url": "https://daily.dev/posts/llm-d-1-0-an-open-source-stack-for-distributed-inference-5yvf9dd61",
+  "title": "Google releases llm-d 1.0 open-source distributed LLM inference stack as CNCF Sandbox project",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T16:58:02.533192+00:00"
+ },
+ "70a1406561ac": {
+  "id": "70a1406561ac",
+  "url": "https://www.huxiu.com/article/4899047.html?f=rss",
+  "title": "AI新云神话破灭？明星股暴跌，云大厂退单，被预言80%活不过四年",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-20T12:13:03Z",
+  "fetched_at": "2026-10-20T16:58:36.675013+00:00"
  }
 }

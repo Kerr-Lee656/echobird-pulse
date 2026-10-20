@@ -6883,5 +6883,68 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-20T08:06:25.000Z",
   "fetched_at": "2026-10-20T11:33:07.646648+00:00"
+ },
+ "84bdfb8d80b3": {
+  "id": "84bdfb8d80b3",
+  "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
+  "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T16:37:13Z",
+  "fetched_at": "2026-10-20T16:59:18.686116+00:00"
+ },
+ "74c9e10c0254": {
+  "id": "74c9e10c0254",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "title": "Gemini 4 Argon is now available for everyone",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T16:36:24Z",
+  "fetched_at": "2026-10-20T16:59:32.567458+00:00"
+ },
+ "3cb8a8d09c60": {
+  "id": "3cb8a8d09c60",
+  "url": "https://exploit.cat/posts/hacking-free-claude/",
+  "title": "Hacking Anthropic For Free Unlimited Claude",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T16:35:28Z",
+  "fetched_at": "2026-10-20T16:59:42.424260+00:00"
+ },
+ "d88f30374f42": {
+  "id": "d88f30374f42",
+  "url": "https://mcpcanary.com/blog/state-of-mcp-reliability-q4-2026/",
+  "title": "I inspected all 30,516 remote MCP servers in the official registry",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T16:17:51Z",
+  "fetched_at": "2026-10-20T16:59:52.658094+00:00"
+ },
+ "1b6ae90b1fee": {
+  "id": "1b6ae90b1fee",
+  "url": "https://llm-d.ai/blog/llm-d-v1.0-state-of-the-art-inference-ready-for-day-2",
+  "title": "llm-d v1.0: State-of-the-art inference",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T16:07:41Z",
+  "fetched_at": "2026-10-20T17:00:04.658782+00:00"
+ },
+ "1c8b6ac62cd9": {
+  "id": "1c8b6ac62cd9",
+  "url": "https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions",
+  "title": "AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T15:45:34Z",
+  "fetched_at": "2026-10-20T17:00:14.872418+00:00"
+ },
+ "65f0f04b3c17": {
+  "id": "65f0f04b3c17",
+  "url": "https://github.com/Helldez/BigMoeOnEdge",
+  "title": "Show HN: A layer on top llama.cpp enabling big MoE streaming on phone and laptop",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T15:45:31Z",
+  "fetched_at": "2026-10-20T17:00:26.662128+00:00"
  }
 }

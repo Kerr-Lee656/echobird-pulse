@@ -1,0 +1,24 @@
+{
+ "id": "01b032a12fd3",
+ "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-berlin-summit",
+ "title": "Germany signs AI partnership with Nvidia at Berlin investment summit",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:57:30.213203+00:00",
+ "content": "At the Invest in Germany Summit in Berlin, the German government entered into an agreement with Nvidia on Monday, when Chancellor Friedrich Merz opened the two-day event by addressing Jensen Huang, Nvidia’s CEO.\nThe economy ministry has entered into a memorandum of understanding with the chipmaker but has provided no further details; the agreement comes after reports last week that Germany would announce a partnership with Nvidia at the summit.\nNvidia provided further details in a company blog post, stating that Merz and two ministries have entered into a joint plan with it. The objective is to develop AI that can operate robots, machines, and cars; this is referred to as physical AI.\nNvidia has also identified four German startups that it intends to invest in, as part of its nearly $10bn commitment in Europe. These companies are Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace. Moreover, Siemens and Nvidia have agreed to collaborate on AI-operated factories.\nThe deals are part of a nearly $10bn commitment to companies, universities and research institutions across Europe.\nAgile Robots makes AI-powered robots, from robotic arms to its Agile ONE humanoid, for factories, logistics and healthcare. Avelios Medical builds a hospital information system with AI at its core that runs clinical and administrative work so doctors and nurses can spend more time with patients.\nMirelo develops AI models that create sound effects, speech and music to match video. Berlin-based Reflex Aerospace designs and builds satellites that it says can be ready for launch in about 12 months, rather than years.\n“We are fully committed to be one of the most advanced places in the world, not just in the European Union, but in the world to work with AI, to integrate AI into our industry,” Merz said.\nHe also stated that artificial intelligence was driving major changes in Germany’s economy and that cooperation with Nvidia was important to its future. Merz is under pressure to boost growth as German car manufacturers, chemical companies and engineers face strong overseas competition.\n“The biggest advantage we have in Germany is our so-called Mittelstand,” Merz said. “Please open your doors for AI to make use of your data. This is a real secret and a real advantage for Germany to make use of all the data which is already available in our companies.”\nAt the same time, a number of companies and investors, such as Siemens and Deutsche Bank, put out an estimate. As Reuters reports, this group expects up to 4.1 trillion euros (approximately 4.6 trillion dollars) in potential investment in Germany by 2035 in the areas of AI, energy and defence.\nSiemens and Deutsche Bank established Made for Germany, a business initiative consisting of around 150 companies and investors. The initiative stated that its members intend to have invested more than €850bn by 2028, following an investment of over €200bn in 2025.\nThe German government’s website lists among the companies present at the summit Mercedes-Benz, Bayer, Lufthansa, Deutsche Telekom, BlackRock and Goldman Sachs. The summit will end on Tuesday, and Huang is expected to deliver a keynote speech at the Nvidia GTC Berlin conference on Wednesday.\n“That knowledge belongs to you,” Huang said. “It cannot be replaced. AI can only augment your capability, it will not replace your capability. Take advantage of the technology. It’s a new instrument.”\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "德国与英伟达签署物理AI合作备忘录",
+  "background": "德国经济承压，汽车、化工等产业面临海外竞争。柏林投资峰会上，德国政府与英伟达达成合作，聚焦可驱动机器人、机器和汽车的“物理AI”。这是英伟达在欧洲近100亿美元投入的一部分，也反映欧洲正加速把AI落到工业与实体经济。",
+  "key_points": [
+   "德国经济部与英伟达签署谅解备忘录，但未披露细节；英伟达称目标是发展物理AI，让AI驱动机器人、机器和汽车。",
+   "英伟达计划投资四家德国初创公司：Agile Robots、Avelios Medical、Mirelo和Reflex Aerospace，属于其欧洲近100亿美元承诺。",
+   "西门子与英伟达将合作推进AI运营工厂，显示工业自动化与数字孪生是落地重点。",
+   "Made for Germany倡议称，到2035年德国在AI、能源和国防领域潜在投资可达4.1万亿欧元。",
+   "德国总理默茨呼吁中小企业开放数据，黄仁勋则强调AI是增强能力而非替代人类。"
+  ],
+  "impact": "对AI行业，物理AI和工业AI将成为下一阶段竞争焦点，芯片、仿真、机器人和数字孪生加速融合。对开发者，机器人、医疗、卫星和音视频生成等垂直场景机会增多，软硬件协同能力更值钱。对普通用户，制造业、医疗和物流效率可能提升，但数据开放与就业结构调整也会引发讨论。",
+  "tools": "可关注NVIDIA Isaac Sim/Isaac Lab、Omniverse、Jetson、TAO Toolkit，以及ROS 2等机器人开发栈；想跟进物理AI可先从仿真训练和边缘部署入手。"
+ },
+ "lang": "zh"
+}

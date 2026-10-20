@@ -1,0 +1,24 @@
+{
+ "id": "5379b624ed53",
+ "url": "https://thenextweb.com/news/nscale-and-anthropic-reportedly-in-talks-over-second-45bn-deal",
+ "title": "Nscale and Anthropic reportedly in talks over second $45bn deal",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:57:22.467822+00:00",
+ "content": "Nscale is negotiating to sell Anthropic about $45bn more in AI computing capacity, two months after the two companies agreed to a deal of the same size. Bloomberg reported the talks, citing people familiar with the matter.\nA deal could be signed within days, although the terms may still change. Both companies declined to comment to Bloomberg, and we have not independently verified the report.\nThe new contract would cover a second building at Nscale’s Monarch campus in Mason County, West Virginia. People told Bloomberg that the building would supply 460 megawatts of power for Nvidia’s upcoming Vera Rubin chips.\nThose numbers repeat the first Nscale deal, agreed in August. Under it, Anthropic will spend $45bn over six years to rent capacity in the campus’s first building. In addition, Anthropic holds the right of first refusal on a planned third building, according to Bloomberg.\nFor Nscale, the timing matters as the London company has filed for a New York listing and is seeking a valuation of about $30bn. The filing already values its agreements with Anthropic at up to $44.6bn.\nNscale also raised money ahead of the listing; in September, it closed a $3.36bn pre-IPO round led by the hedge fund Third Point.\nIts prospectus names Anthropic and Microsoft as its expected main customers. However, Microsoft dropped its plan to be the main tenant at Monarch. Slow progress on the grid connection had pushed its expected start date into the 2030s.\nAnthropic is preparing its own stock market debut. Meanwhile, a group of its investors has urged the company to lower its IPO valuation target after a run of setbacks for AI stocks, Bloomberg reported.\nInvestors are also looking more closely at AI infrastructure built with borrowed money. Last week, CoreWeave shares fell amid concerns about its $50bn debt load, Reuters reported, setting off a wider sell-off in AI stocks.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Nscale 与 Anthropic 洽谈第二笔 450 亿美元算力合同",
+  "background": "8 月双方已签首笔 450 亿美元协议：Anthropic 六年内向 Nscale 西弗吉尼亚州 Monarch 园区首栋楼租用算力。两个月后，同一园区第二栋楼的谈判接近落定，规模完全相同。这反映 AI 大模型公司正把未来数年现金流提前押注到电力与机架上：算力不再是云厂商的弹性采购，而是十年期的不动产式长约。同时，Nscale 正在筹备纽约上市，Anthropic 也在准备 IPO，两笔巨额合同既是基础设施承诺，也是彼此招股书里的“订单背书”。",
+  "key_points": [
+   "交易规模复制：第二份合同仍约 450 亿美元，对应 Monarch 园区第二栋楼，供电 460 兆瓦，专供英伟达尚未量产的 Vera Rubin 芯片，谈判可能数日内签约。",
+   "Anthropic 锁长期资源：首笔合同为六年期租约，并握有第三栋楼的优先承租权，等于把未来近十年的算力供给提前“包场”，代价是巨额刚性支出。",
+   "Nscale 借订单冲 IPO：这家伦敦公司已申请纽约上市，目标估值约 300 亿美元，招股书把与 Anthropic 的协议估值列为最高 446 亿美元，9 月刚完成 33.6 亿美元 pre-IPO 融资。",
+   "客户结构生变：微软原本是 Monarch 园区主要租户，因电网接入进度缓慢、启用时间被推到 2030 年代而退出，Anthropic 顺势填补空缺。",
+   "市场情绪转向谨慎：CoreWeave 约 500 亿美元债务引发担忧、股价下挫并拖累 AI 板块，Anthropic 部分投资人已要求下调 IPO 估值目标。"
+  ],
+  "impact": "对 AI 行业，算力采购正从按需付费变成十年期、百亿美元级的表内负债，行业估值将越来越受电力交付进度和融资成本牵制，而非模型能力。对开发者，头部实验室的算力确定性提高，但中小公司获取高端 GPU 的难度和价格压力会更大。对普通用户，模型能力迭代可能继续加快，但订阅价格下调空间被基础设施成本锁死；同时这类巨额合同与 IPO 捆绑，也让 AI 泡沫风险更直接地传导到公开市场。",
+  "tools": "想跟进可关注：Nscale 官网与 SEC 招股书（观察客户集中度与合同条款）、英伟达 Vera Rubin 路线图、CoreWeave 与 Nebius 等 GPU 云财报对比；自建或比价可用 Lambda Labs、RunPod、Vast.ai，以及开源推理框架 vLLM、SGLang 来压低单位算力成本。"
+ },
+ "lang": "zh"
+}

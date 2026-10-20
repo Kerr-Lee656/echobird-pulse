@@ -1,0 +1,24 @@
+{
+ "id": "1d122c8d7055",
+ "url": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up",
+ "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:57:14.742774+00:00",
+ "content": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up 33\n\t\t\t\n\t\t \t\n\t\t\t\tMicrosoft has reportedly abandoned plans to serve as the anchor customer for Britain's largest proposed AI supercomputer after learning that the project's Essex data center might not receive sufficient grid power until the early to mid-2030s. \"Its departure leaves Nscale without a publicly announced customer for the site, although the neocloud insists the project is still going ahead,\" reports The Register. From the report:  When the deal was announced in September 2025, the plan was to pack 23,040 Nvidia GB300 GPUs into a 50MW facility, with room to expand to 90MW. Microsoft would use the computing power for its Azure cloud services, with the first chips expected in early 2027. One important detail remained: how to power it.\nAs The Guardian reported last month, UK Power Networks warned Nscale that the grid capacity needed might not be available until the 2030s. A UK Power Networks spokesperson told The Register it could not discuss individual connections due to obligations under Section 105 of the Utilities Act. \"However, in general, many datacenters, whilst they can connect to our distribution network, are awaiting works on the national transmission network which we do not own,\" the spokesperson said.\nNscale, meanwhile, isn't letting the small matter of losing its biggest customer dampen its enthusiasm. \"We remain committed to both the Loughton project and the UK and we are exploring alternative power sources for the site, in addition to other expansion sites in the UK. Our relationship with Microsoft remains strong and long-term, and this unfortunate London-wide grid issue has no impact on our other contracts,\" Nscale told The Register.",
+ "report": {
+  "summary": "微软退出英国最大AI超算项目，因电网供电或要等到2030年代",
+  "background": "英国一直把AI基础设施当作国家战略，规划“AI增长区”、简化数据中心审批，希望把算力留在本土。Nscale是近年崛起的新型云厂商（neocloud）。2025年9月，它宣布在埃塞克斯郡Loughton建设英国最大的AI超算，计划部署23,040块英伟达GB300 GPU，并已把微软谈成锚定客户，由微软租用算力供Azure使用。但配电网运营商UK Power Networks告知，该站点所需电力可能要到2030年代初至中期才能到位。微软因此撤出，暴露了全球AI扩张的真正瓶颈正在从芯片转向电力和电网接入。",
+  "key_points": [
+   "微软原本是该项目唯一公开的锚定客户，也是主要买单方；它一退出，站点在商业上就失去公开背书，但Nscale坚称项目仍会继续。",
+   "项目体量不小：50MW起步、可扩展至90MW，塞进23,040块英伟达GB300，原计划2027年初到货首批芯片。",
+   "真正的问题是电，并非芯片或资金：英国国家输电网升级排期排到2030年代，配电公司只能让数据中心“排队等电”。",
+   "Nscale回应称正为站点寻找替代供电方案，并在英国物色其他扩张站点，与微软的长期合作关系及其他合同不受影响。",
+   "微软此举并不等于放弃英国市场，更像是拒绝为一个可能延期五年以上的电力承诺提前锁定算力预算。"
+  ],
+  "impact": "对AI行业而言，算力扩张的节奏正被能源而非芯片卡住，数据中心的选址逻辑将从“靠近用户”转向“靠近电源”，自建发电、储能乃至小型核反应堆会成为标配议题。对开发者来说，欧洲区域的GPU云供给紧张可能延续更久，租用算力的价格和排队时间都承压，多云、跨区部署的必要性上升。对普通用户，短期内AI服务成本难降，长期则可能看到数据中心与地方电网、电价之间的公共博弈加剧。",
+  "tools": "想跟进可关注：Nscale平台及其英国站点的供电方案公告；GridStatus、英国NESO的并网排队数据，用于判断数据中心落地节奏；以及现场燃气发电、储能、SMR 等“表后供电”（绕过公共电网、在用户侧自建发电）方案供应商的进展。"
+ },
+ "lang": "zh"
+}

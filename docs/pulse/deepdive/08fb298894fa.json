@@ -1,0 +1,24 @@
+{
+ "id": "08fb298894fa",
+ "url": "https://daily.dev/posts/llm-d-1-0-an-open-source-stack-for-distributed-inference-5yvf9dd61",
+ "title": "Google releases llm-d 1.0 open-source distributed LLM inference stack as CNCF Sandbox project",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:58:02.533192+00:00",
+ "content": "Google announced llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference co-founded with Red Hat, IBM and over 500 contributors across 25 organizations, released at the PyTorch Conference as a CNCF Sandbox project. The stack provides cache-aware routing, tiered KV cache offloading, prefill/decode disaggregation, multi-tenant flow control, and zero-downtime upgrades via DisaggregatedSet, designed to serve multi-step agent and RL workloads across mixed Google Cloud TPU and GPU fleets. Google reports production results including Gemini doubling prefix cache hit rate from 35% to 70% and cutting TTFT over 35%, a 17,000-node multi-region GKE deployment scaling throughput 2.9x, and customers like Snap, Mistral, and Zenteiq reporting cache hit rates up to 80% and 4x throughput gains.\nQuestions this post answers\nWhat is llm-d and how does it help serve LLM inference at scale on Kubernetes?\nllm-d is an open-source, Kubernetes-native stack for distributed LLM inference, co-founded by Google with Red Hat, IBM, and over 500 contributors from 25 organizations as a CNCF Sandbox project. It turns a cluster of model servers into a coordinated pool with cache-aware routing, tiered KV cache offloading, prefill/decode disaggregation, and multi-tenant flow control, built on vLLM, SGLang, and Kubernetes primitives like Gateway API and LeaderWorkerSet. Teams choosing between build-your-own and off-the-shelf inference serving can track llm-d developments on daily.dev.\nHow much does prefix-aware routing and KV cache offloading improve LLM inference latency in production?\nOn an agentic coding workload on Ironwood TPU, prefix-aware routing combined with host memory offload cut median time-to-first-token by more than 85% and raised total throughput 2.4x compared to a plain Kubernetes Service. Separately, Google's Gemini platform doubled its prefix cache hit rate from 35% to 70% using GKE Inference Gateway, cutting TTFT over 35% for coding agents and P95 TTFT over 50% under bursty chat traffic. Engineers tuning inference latency can follow real-world KV cache offloading benchmarks on daily.dev.\nHow does llm-d's DisaggregatedSet enable zero-downtime upgrades for prefill/decode disaggregated inference?\nDisaggregatedSet, built on the Kubernetes LeaderWorkerSet API, orchestrates prefill and decode pools as one unit so rolling updates move both phases together on matching versions while each phase scales independently, without dropping context or disrupting active sessions. This avoids the problem of running prefill (compute-heavy) and decode (memory-bound) on the same replicas, which forces each to wait on the other. Platform teams planning safe rollouts of inference infrastructure can follow disaggregated serving patterns on daily.dev.",
+ "report": {
+  "summary": "Google联合红帽、IBM发布llm-d 1.0分布式推理栈，进入CNCF沙箱。",
+  "background": "大模型推理正从「跑通一个模型」转向「在集群上稳定服务成千上万并发请求」，瓶颈集中在KV Cache复用、prefill与decode资源争抢、以及升级时不能断流。过去团队多基于vLLM或SGLang自建调度层，重复造轮子。llm-d由Google与Red Hat、IBM共同发起，汇聚25个组织、500余名贡献者，把缓存感知路由、分层KV Cache卸载、P/D分离等能力沉淀为Kubernetes原生组件，并在PyTorch Conference上以CNCF Sandbox项目身份发布1.0，试图成为分布式推理的事实标准层。",
+  "key_points": [
+   "五大核心能力：缓存感知路由、分层KV Cache卸载（显存→主机内存→远端）、prefill/decode分离部署、多租户流控与公平调度、基于DisaggregatedSet的零停机升级。",
+   "生产数据亮眼：Gemini平台前缀缓存命中率从35%翻倍到70%，首字延迟下降超35%；1.7万节点多区域GKE集群吞吐提升2.9倍；智能体编码负载TTFT中位数降超85%。",
+   "P/D分离是关键设计：prefill吃算力、decode吃显存带宽，同机部署会互相等待；DisaggregatedSet基于Kubernetes LeaderWorkerSet API把两个池当作一个整体滚动升级，版本对齐且不丢上下文。",
+   "客户验证：Snap、Mistral、Zenteiq等报告缓存命中率最高80%、吞吐提升4倍，且可同时调度Google Cloud TPU与GPU混合集群。",
+   "生态站位中立：构建在vLLM、SGLang与Gateway API等开放原语之上，以CNCF沙箱身份推进，避免被单一云厂商锁定。"
+  ],
+  "impact": "对AI行业：推理基础设施层开始标准化，云厂商的差异化将上移到调度策略与硬件，自研推理平台的重复投入会减少。对开发者：不必再从零实现KV Cache路由与滚动升级，Kubernetes运维经验可直接复用，但也意味着要熟悉Gateway API、LeaderWorkerSet等新原语。对普通用户：首字更快、高峰更稳、单位token成本更低，长对话与智能体任务的卡顿感显著减弱。",
+  "tools": "想上手可先看 llm-d 主仓库与官方示例；底层依赖 vLLM、SGLang，调度依赖 Kubernetes Gateway API 与 LeaderWorkerSet；KV Cache 卸载可关注 LMCache 生态；托管侧可参考 GKE Inference Gateway 的实践数据做基准对比。"
+ },
+ "lang": "zh"
+}

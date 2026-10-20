@@ -1,0 +1,24 @@
+{
+ "id": "0e1e1ffb0b43",
+ "url": "https://www.36kr.com/p/4032947936662665",
+ "title": "正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2",
+ "source": "36氪 · 24小时热榜",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:57:39.277006+00:00",
+ "content": "正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2\n火爆AI圈的匿名模型Space Bunny，终于被认领了！\n智东西10月19日报道，刚刚，MiniMax正式发布M3.1 Flash，定位为Coding/Agent优化轻量级模型，拥有100万token上下文。\n几乎前后脚，10月17日，DeepSeek V4.1 Flash-1017上线。（梁圣又掀桌了！DeepSeek新模型斩杀GPT-6，许愿式编程时代降临）\n根据M3.1 Flash的基准测试成绩，该模型在Agentic任务、编程、Computer Use及网络安全能力等方面实现了大幅提升，与DeepSeek V4.1 Flash-1017基本追平。\n价格上也进一步打穿了“斩杀线”。M3.1 Flash的输入价格为每百万Token 1元，输出价格为每百万Token 4元，缓存读取价格为每百万Token 0.1元。据MiniMax团队发布信息，在Agentic类任务中，该模型的综合使用成本较前代模型降低了70%。\nDeepSeek V4.1 Flash-1017定价为闲时输入（缓存命中）每百万Token 0.02元、未命中每百万Token 1.0元、输出每百万Token 4.0元，高峰时段输入（缓存命中）每百万Token 0.04元，未命中每百万Token 2.0元，输出每百万Token 8.0元。\n能力上你追我赶，价格上更是不甘示弱，这两款“Flash”模型接连落地，国产模型在Flash段位第一次有了“双强”的格局。\n01.\n拆解硬核成绩单：性价比之王\n多项成绩超过Kimi K3和GLM-5.3\nSpace Bunny匿名期积累的社区口碑，让正式版的M3.1 Flash承载了极高的期待，那它成绩究竟如何呢？\n在复杂任务与自动化上，M3.1 Flash实现反超。在评估智能体长程、多步骤真实任务的Agents’ Last Exam中，M3.1 Flash跑出了29.6%的通过率和739元的成本，处在“低成本-高通过率”的最前沿区间，性能远超同价位模型。\n而在考察真实业务流程跨应用自动化的Automation-Bench v1.0.6中，M3.1 Flash拿下62.2分，反超了DeepSeek V4.1 Flash-1017的60.5分，更是将Opus 5甩在身后。\n在编程领域，M3.1 Flash与DeepSeek V4.1 Flash-1017各有侧重。在DeepSWE v1.1测试上，DeepSeek V4.1 Flash-1017得分为77.0分，排名第一。M3.1 Flash取得73.7分，距离Opus 5仅差0.3分。\n在代码修复测试SWE Refore Bench中，M3.1 Flash拿到23.0分，直接是DeepSeek成绩的两倍以上。\n在专业与安全领域，M3.1 Flash也稳居第一梯队。在金融工具调用的BankerToolBench中，它以76.2分与Opus 5并列第一；网络安全CyberGym测试中，其以82.2分与GLM-5.3同处第一梯队；无工具学术推理测试HLE w/o tools中，M3.1 Flash取得43.4分，略高于DeepSeek V4.1 Flash-1017。\n从榜单可以看出，M3.1 Flash绝不是一个“偏科”的模型，它在Agent和自动化上的成绩，甚至已经超越了行业旗舰大模型。\n完整榜单如下：\n02.\n发布相隔48小时\nDeepSeek和MiniMax打出“双强”格局\nDeepSeek V4.1 Flash-1017与M3.1 Flash，同样定位Flash，在两天内接连发布，且基准测试成绩如此接近，让人自然而然地看到了一个全新的格局：双强并立。\nDeepSeek V4.1 Flash采用稀疏MoE架构，总参数量552B，但推理时输入仅激活8B参数、输出激活16B。它在性能与速度上都超过了上一代Pro版本，但定价压得很低。这款模型的发布，直接让开发者们看到了Flash模型的“旗舰能力”。\n顺着DeepSeek撕开的口子，M3.1 Flash往前更近了一步。\n在M3.1 Flash还处于匿名期时，上线短短几天内，它便在OpenCode的调用量榜单稳居第二，在OpenRouter上一度排名第一。\n有网友用Claude Opus 5、GPT-6 Sol和Gemini 3.8 Flash与Space Bunny进行比较，用最高思考级别构建火箭发射场景。该网友称Space Bunny仅花了三分钟，最终呈现的效果能和Opus 5相比，速度也很快。\n智东西也第一时间进行了实测，认为该模型效果直逼GPT-6 Astra（神秘模型“太空兔”火了，效果直逼GPT-6 Astra，10万人围观）\nSpace Bunny匿名期间让开发者惊艳的响应速度在正式版中也得到完整保留。据MiniMax团队透露，他们进一步优化了M3.1 Flash的推理效率，使用了更激进的稀疏注意力架构，日常使用场景下的输出速度可达200+TPS（Tokens per Second），中位数（P50）稳定达到170+TPS。\n定价上，M3.1 Flash的输入输出价格约为DeepSeek V4.1 Flash-1017高峰期价格的一半，与空闲时期价格持平。\n▲M3.1 Flash与DeepSeek V4.1 Flash-1017价格对比（智东西制表）\n可以说，这两个模型就像开发者工具箱里两套各有侧重的工具，开发者能根据任务需求灵活调度。\n例如，需要代码生成效率和缓存成本控制时，开发者们可以选择DeepSeek V4.1 Flash-1017；面对长程Agent任务、跨应用自动化或多模态驱动的开发流程时，M3.1 Flash则可以作为第一选项。\n此前外界对MiniMax的印象，或许多集中在多模态领域。但无论是Space Bunny匿名期间的调用量霸榜，还是M3.1 Flash正式发布的基准测试成绩单，都证明了MiniMax在Agent与自动化方向的竞争力，也让用户对其后续Pro模型的发布充满期待。\n03.\n结语：Flash模型上桌，不再是“平替”\nDeepSeek和MiniMax的两款Flash模型接替上场，让业内看到了Flash模型的实力。\nFlash模型正在撕掉“预算不足才退而求其次”的旧标签。从基准测试结果来看，它已能在部分核心指标上，跻身旗舰模型的同台对比序列，同时保留自身在推理速度与成本上的固有优势。\n从性价比上看，Flash模型或许最接近真实使用场景的模型类型，国产模型首次形成DeepSeek和MiniMax“双强并立”的竞争格局。\n对开发者和企业来说，模型工具箱中，自此新增了一个可以按需调度的优质选择。\n本文来自微信公众号“智东西”（ID：zhidxcom），作者：王涵，编辑：漠影，36氪经授权发布。",
+ "report": {
+  "summary": "MiniMax M3.1 Flash 发布，性能追平 DeepSeek，价格砍半",
+  "background": "近一年，厂商开始把\"Flash\"这类轻量模型从简单任务转向编程与 Agent 场景，DeepSeek 此前发布的 V4.1 Flash 采用稀疏 MoE 架构（总参数 552B、推理仅激活 8B/16B），已让开发者看到轻量模型具备旗舰能力。仅隔 48 小时，MiniMax 推出 M3.1 Flash，其匿名版本 Space Bunny 此前在 OpenRouter 调用量一度登顶。两家国产厂商在轻量模型方向上正面竞争，形成\"双强\"格局。",
+  "key_points": [
+   "性能基本追平：在 Agents' Last Exam、Automation-Bench、DeepSWE 等测试中，M3.1 Flash 与 DeepSeek V4.1 Flash 互有胜负，部分指标反超 Opus 5",
+   "速度是最大优势：借助更激进的稀疏注意力架构，日常输出速度达 200+ TPS，中位数稳定 170+ TPS，适合实时交互场景",
+   "价格降低较多：输入 1 元、输出 4 元/百万 token，约为 DeepSeek 高峰价的一半，Agent 类任务综合成本较前代降低 70%",
+   "不只是编程强：在金融工具调用、网络安全、无工具学术推理等测试中均处第一梯队，并非只擅长编程的模型",
+   "百万 token 上下文：支持超长上下文，面向长程 Agent、跨应用自动化和多步骤任务"
+  ],
+  "impact": "对 AI 行业：轻量模型不再只是廉价替代品，其部分能力已接近旗舰模型；在大模型竞争转向性价比和长程 Agent 能力之际，国产厂商在轻量模型这一档已形成两家并立的格局。对开发者：模型工具箱中多了一个擅长 Agent 和自动化任务的选择，可按任务场景在 DeepSeek 和 MiniMax 之间灵活调度，降低试错成本。对普通用户：AI 编程助手和自动化工具会更便宜、响应更快。",
+  "tools": "可直接通过 MiniMax 开放平台或 OpenRouter 调用 M3.1 Flash；编程侧可搭配 Cline、Aider、OpenCode、Roo Code 等开源 Agent 工具实测；若同时使用 DeepSeek V4.1 Flash，可用 LiteLLM 做路由与成本对比。"
+ },
+ "lang": "zh"
+}

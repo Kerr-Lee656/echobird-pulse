@@ -1,0 +1,24 @@
+{
+ "id": "de1c09f1eb22",
+ "url": "https://www.aibase.com/zh/news/31758",
+ "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-20T16:57:47.301333+00:00",
+ "content": "DeepSeek10月20日宣布全面开源内部推理框架 DeepInfer，这是继此前开源系列大模型、TileLang 编译工具与推理算子库之后的又一次开放。官方指出，大模型的能力边界由模型本身划定，但如何以合理成本提供超大规模模型服务，还取决于推理框架这一中间层——它统筹调度庞大的算力集群，其效率直接决定 AI 服务的算力成本与电力消耗。\nDeepInfer 集成高性能算子与深度优化的推理引擎，支持分布式推理、推测解码、SWA Bounded Replay、结构化输出等能力，同时兼容英伟达与华为昇腾平台。基于该框架，DeepSeek 已实现 DeepSeek V4.1Flash 的高吞吐、低延迟大规模推理服务，未来新模型的推理代码及后续优化也将持续在此更新。\n配套同步开源的 deepseek-recipe 是生产级 Token 编解码组件，与 DeepSeek 官方 API 的处理逻辑完整对齐，确保社区获得与官方部署一致的 API 体验，两部分代码均已在 GitHub 开放，DeepSeek 另在知乎发布了完整技术报告。\n官方表示，开源推理框架的目的一在于帮助开发者与企业组织优化大规模推理的吞吐与延迟，高效构建私有化与公有云部署，从而降低算力成本、减少能源消耗，让智能以更低价格触达更广泛人群，并将继续支持社区进行大规模部署优化。模型、算子库与推理框架的逐层开放，延续了国产大模型以开源生态降低推理门槛、推动智能普惠的行业路径。\n开源仓库\nDeepInfer: https://github.com/deepseek-ai/DeepInfer\ndeepseek-recipe: https://github.com/\ndeepseek-ai/deepseek-recipe",
+ "report": {
+  "summary": "DeepSeek 开源生产级推理框架 DeepInfer，把降低推理成本当作推动 AI 普惠的关键一层",
+  "background": "DeepSeek 此前已陆续开源大模型权重、TileLang 编译工具和推理算子库，10 月 20 日又把内部使用的推理框架 DeepInfer 与 Token 编解码组件 deepseek-recipe 一并公开。行业背景是：模型能力逐渐趋同后，竞争重心转向单位 Token 的推理成本与能耗；vLLM、SGLang、TensorRT-LLM 等开源推理栈已成事实标准，而国产芯片生态长期缺少成体系的生产级适配。DeepSeek 试图以“模型、算子、框架”逐层开源的方式，把官方线上部署的真实能力交给社区复现。",
+  "key_points": [
+   "DeepInfer 集成高性能算子与优化推理引擎，支持分布式推理、推测解码、SWA Bounded Replay、结构化输出等生产级能力，面向大规模集群调度场景",
+   "框架同时兼容英伟达与华为昇腾平台，国产算力适配是区别于多数海外推理栈的差异点",
+   "DeepSeek V4.1Flash 的高吞吐低延迟服务已跑在该框架上，说明这是真实线上系统而非演示代码",
+   "配套开源的 deepseek-recipe 与官方 API 编解码逻辑完全对齐，私有化部署可复现官方一致的调用体验",
+   "官方把开源动机明确落在降成本、降能耗、让智能更低价格触达更多人，延续国产模型的开源普惠路线"
+  ],
+  "impact": "对 AI 行业而言，推理框架开源意味着成本优化的know-how从各家私有壁垒变成公共基础设施，云厂商与模型公司的服务毛利空间会被重新定价，同时国产芯片获得一个可参照的生产级推理栈。对开发者来说，私有化部署不必从零调优吞吐与延迟，可直接复用官方线上参数，但要承担适配与运维成本。对普通用户，最直接的变化是同类模型 API 价格继续下探，长文本、结构化输出等场景的响应更快、更便宜。",
+  "tools": "想跟进的开发者可以先读 DeepInfer 仓库与知乎技术报告，跑通单机推理再尝试分布式；deepseek-recipe 用于对齐官方 Token 编解码。横向对比建议同时看 vLLM、SGLang 与 TensorRT-LLM，昇腾用户重点关注 CANN 适配分支。"
+ },
+ "lang": "zh"
+}
