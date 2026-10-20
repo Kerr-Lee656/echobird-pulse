@@ -1,0 +1,24 @@
+{
+ "id": "7a091aa12d54",
+ "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+ "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T21:34:46.839540+00:00",
+ "content": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That’s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\nSpotify pulled 50 million AI slop and spam tracks from its recommendations\nSpotify has also made changes to its music recommendation system to highlight songs from human artists.\n“Our editors hold the same standard and don’t program content identified as slop or spam,” Spotify says. “Since we made these changes, we’ve seen a marked decrease in listener concerns about this content showing up in recommendations.”\nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an “AI Persona” badge for artists that use an AI identity and don’t represent a real person. It also won’t recommend music from AI personas. Other music streaming platforms are taking a tougher stance on AI music, with YouTube Music putting labels on AI songs, Deezer giving users an option to filter out AI slop, and Bandcamp banning AI music entirely.\nSpotify says it uses a combination of listener engagement and feedback, upload patterns, metadata, and third-party AI detection tools to determine whether a track may be AI-generated slop. Last year, the company said it took down more than 75 million songs identified as spam. It’s also partnering with Universal Music Group and the independent music publisher Believe to launch a tool for creating AI music remixes.",
+ "report": {
+  "summary": "Spotify一年移除超5000万首AI垃圾推荐歌曲",
+  "background": "AI生成音乐正大量涌入流媒体平台，低质、批量生产的歌曲可能污染推荐系统，引发听众和版权方担忧。Spotify此前已清理大量spam内容，如今进一步调整推荐机制，在支持AI创作与保护真人艺术家、维护推荐质量之间寻求平衡。这也反映平台治理重点正从简单下架转向推荐系统层面的系统性清理。",
+  "key_points": [
+   "过去一年，Spotify从推荐系统中移除超过5000万首被判定为AI垃圾或spam的歌曲，并非全部从平台下架。",
+   "Spotify调整推荐系统，优先展示真人艺术家作品，编辑歌单也不收录被识别为垃圾或spam的内容。",
+   "Spotify未强制标注所有AI歌曲，但为不代表性真人的AI身份推出“AI Persona”徽章，且不推荐这类音乐。",
+   "识别依赖用户互动与反馈、上传模式、元数据和第三方AI检测工具；去年Spotify还曾清理超7500万首spam。",
+   "行业策略分化：YouTube Music加标签，Deezer允许过滤AI垃圾，Bandcamp全面禁止AI音乐；Spotify还与UMG、Believe合作AI混音工具。"
+  ],
+  "impact": "对AI行业，平台治理和检测能力成为关键，纯批量生成音乐变现更难；对开发者，推荐系统需融合检测、元数据和用户反馈，AI音乐工具要更透明并处理授权；对普通用户，推荐将更偏真人作品，但AI音乐不会消失，标签与过滤选项仍不统一。",
+  "tools": "可关注Spotify的AI Persona政策、Deezer的AI过滤和YouTube Music标注机制；开发者可研究开源音频分类模型如PANNs、YAMNet，以及音频水印和C2PA内容溯源标准。"
+ },
+ "lang": "zh"
+}

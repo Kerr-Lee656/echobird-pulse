@@ -1,0 +1,24 @@
+{
+ "id": "9a168b825157",
+ "url": "https://thenextweb.com/news/deepseek-deepinfer-open-source-inference-engine",
+ "title": "DeepSeek open-sources DeepInfer, the engine that runs its AI models",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T21:35:18.881191+00:00",
+ "content": "DeepSeek has open-sourced DeepInfer, the software it uses to run its AI models in production. The Chinese AI lab announced the release on X on Tuesday and published the code on GitHub under the Apache 2.0 licence. For now, it supports only DeepSeek-V4.1-Flash.\n🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n🔗 https://t.co/JGAik1kgk0\n1/4\n— DeepSeek (@deepseek_ai) October 20, 2026\nInference is the work of running a trained model to answer requests. The same model can cost much more or less to run, depending on the software that serves it.\nWhat is in the release\nDeepInfer bundles optimised code for DeepSeek’s models with ways to split the work across many chips. It also includes speculative decoding, a technique that drafts several tokens ahead and checks them in one pass. Other features keep outputs consistent from run to run and force answers into set formats, according to the GitHub page.\nIt runs on two kinds of hardware: Nvidia’s SM100 data-centre GPUs and Huawei’s Ascend 950 chips. DeepSeek said code for future models and further improvements will land in the same place.\nThe release is not a complete service on its own. It leaves out a cache system, the split between processing prompts and generating answers, and load balancing across machines, the GitHub page says. DeepSeek also released deepseek-recipe, which matches how its official API turns text into tokens and back.\nBuilt on vLLM\nDeepInfer was first built mainly on vLLM, a widely used open-source inference engine, DeepSeek says. It also drew on SGLang and Nvidia’s TensorRT-LLM.\nThe vLLM project thanked DeepSeek on X for crediting the open-source community. It said it would keep improving its own support for V4.1-Flash with ideas from DeepInfer.\nDeepSeek measured its published benchmarks on four SM100 GPUs for processing prompts and 64 for generating output. They are the company’s own figures. There is no independent benchmarking of DeepInfer’s gains yet, Bloomberg’s Saritha Rai reported.\nWhy it matters for cost\nCloud and hosting companies that already run DeepSeek’s models can now use the same methods DeepSeek uses. Companies running the models on their own servers could also cut costs, Bloomberg reported. AI companies usually guard these techniques closely, Bloomberg noted.\nThe release follows DeepSeek’s September model launch of V4.1-Flash. Earlier this month, it published Huawei chip tools as an alternative to Nvidia’s CUDA. Open-weight models now take 23% of spending on Vercel’s AI Gateway.\nIt comes a day after the US ordered civilian federal agencies to remove DeepSeek products from their systems. By Tuesday afternoon, the GitHub repository had more than 8,000 stars.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "DeepSeek开源生产级推理引擎DeepInfer，主打高吞吐与低成本",
+  "background": "推理是模型真正对外服务时最烧钱的环节，同一个模型换一套推理软件，成本可能相差数倍。DeepSeek 9月发布V4.1-Flash，本月又开源了替代CUDA的华为芯片工具，此次把内部推理栈也交出来。DeepInfer最初主要基于开源引擎vLLM构建，并参考了SGLang和英伟达TensorRT-LLM。业界通常把这类优化视为核心机密，DeepSeek反其道而行，希望带动整体推理成本下降；但发布次日正值美国要求联邦民事机构移除DeepSeek产品，时机颇为微妙。",
+  "key_points": [
+   "DeepInfer是DeepSeek线上运行模型的内部引擎，以Apache 2.0协议开源，目前仅支持V4.1-Flash一个模型。",
+   "内置投机解码、多卡任务切分、输出一致性保障与格式约束等优化，目标是高吞吐、低延迟地服务请求。",
+   "同时支持英伟达SM100数据中心GPU和华为昇腾950，延续其扶持国产算力、降低对CUDA依赖的路线。",
+   "它不是开箱即用的完整服务：缓存系统、提示处理与答案生成的拆分、跨机负载均衡均未包含，需自行补齐。",
+   "公布的加速数据为官方自测（用4卡处理提示、64卡生成），尚无第三方独立复现；开源一天GitHub星标已超8000。"
+  ],
+  "impact": "对AI行业而言，头部公司把通常秘而不宣的推理优化公开，可能压低整体API价格与能耗，也让开源权重模型更具成本竞争力。对开发者来说，可参照DeepSeek的生产配置自建低成本服务，但要自己补齐缓存、负载均衡等模块，且目前只支持单一模型，迁移成本不低。对普通用户，短期感受不明显，长期则意味着更便宜、响应更快的AI应用。",
+  "tools": "想跟进可先熟悉vLLM（DeepInfer的主要上游）、SGLang与TensorRT-LLM，配合官方发布的deepseek-recipe处理分词；国产算力方向可关注昇腾CANN工具链。建议先用vLLM跑基线，再对比DeepInfer的吞吐与延迟。"
+ },
+ "lang": "zh"
+}

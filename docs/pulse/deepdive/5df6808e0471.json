@@ -1,0 +1,24 @@
+{
+ "id": "5df6808e0471",
+ "url": "https://thenextweb.com/news/waymo-20000-robotaxis-2027",
+ "title": "Waymo plans to grow its robotaxi fleet fivefold to 20,000 by 2027",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T21:34:55.689019+00:00",
+ "content": "Waymo plans to grow its fleet from about 4,000 robotaxis today to 8,000 by the end of 2026 and 20,000 by the end of 2027, Semafor reported. The push follows a $5B loan this month. Much of the new fleet will be Ojai vans built on Chinese Zeekr cars. Waymo also announced plans for Madrid.\nWaymo plans to grow its robotaxi fleet fivefold, from about 4,000 cars today to 20,000 by the end of 2027, Semafor reported, citing people familiar with the matter. The Alphabet-owned company aims to reach 8,000 cars by the end of this year, doubling its fleet in less than three months.\nWaymo declined to comment to Semafor. The plan follows a $5B loan earlier this month, Waymo’s first debt deal. Lenders include PIMCO, Blackstone and Sixth Street, and it came on top of a $16B funding round earlier this year.\nMuch of the growth will rely on the Ojai, Waymo’s new robotaxi. It is built on an electric car from Zeekr, a brand of China’s Geely, and Waymo fits its own self-driving system at a factory in Mesa, Arizona.\nWaymo is on pace to import about 5,100 Ojai vehicles by the end of this year, the New York Post reported, citing research firm MoffettNathanson. The Ojai replaces the Jaguar I-Pace, which Jaguar stopped making in 2024.\nChinese cars face a 100% US tariff, and federal rules restrict Chinese connected-car software. Waymo imports the cars without that software and adds its own technology in Arizona.\nWaymo already runs paid rides in 15 US cities, including Los Angeles, Miami and the San Francisco Bay Area. On Tuesday, it said it will start testing in the Madrid region, aiming to carry its first riders there in 2027. WeRide and Uber are already ahead there, with Spain’s first permit for driverless cars.\nThe planned fleet would put Waymo far ahead of rivals. In Texas, it runs hundreds of cars, while Tesla had just 42 robotaxis, according to state records.\nBut a bigger fleet brings bigger risks. In May, Waymo paused service in five cities after its cars kept driving into flooded roads.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Waymo计划2027年将Robotaxi车队扩至2万辆，规模翻五倍",
+  "background": "Waymo是Alphabet旗下的自动驾驶公司，在L4级无人驾驶上已积累十余年路测数据，并在美国15个城市提供付费服务。但支撑其车队的捷豹I-Pace于2024年停产，迫使Waymo寻找新车型。同时，特斯拉Robotaxi、百度萝卜快跑以及WeRide与Uber的联盟都在加速扩张，规模成为行业竞争的关键。Waymo今年先完成160亿美元融资，本月又首次通过债务融资获得50亿美元贷款，资金到位后才有了这次激进扩张计划。",
+  "key_points": [
+   "车队规模三步走：从目前约4000辆，到2026年底翻倍至8000辆，2027年底达到2万辆，等于三年增长约五倍。",
+   "新车型Ojai基于中国吉利旗下极氪的电动车打造，在亚利桑那州梅萨工厂加装Waymo自研自动驾驶系统，以规避美国对中国车企软件的限制和100%关税。",
+   "资金来自今年160亿美元融资，加上本月的50亿美元贷款；这也是Waymo首次发债，投资方包括PIMCO、黑石和Sixth Street。",
+   "扩张同时伴随风险：今年5月因车辆反复驶入被淹道路，Waymo在五个城市暂停服务，暴露了规模越大、运维压力越大的问题。",
+   "海外首站选在马德里，计划2027年载客，但WeRide与Uber已抢先拿到西班牙首个无人驾驶许可。"
+  ],
+  "impact": "对AI行业而言，Waymo用发债而非单纯股权融资扩张，说明Robotaxi进入“重资产规模化”阶段，竞争焦点从技术演示转向车队、成本和运营效率。对开发者来说，Waymo的扩张会带动仿真、感知、车队调度和高精地图等岗位需求；同时，它对极氪平台加装自研系统的做法，也给硬件集成和后装方案带来参考。对普通用户而言，更多城市能用上无人出租车，价格可能进一步下降，但安全事件和极端天气下的服务中断仍需关注。",
+  "tools": "想跟进可关注Waymo Open Dataset（真实感知数据）、CARLA与nuScenes（仿真与数据集）、Apollo与Autoware（开源自动驾驶栈）、ROS 2（机器人中间件）。关注Robotaxi商业化的读者也可跟踪Uber、WeRide的运营数据。"
+ },
+ "lang": "zh"
+}

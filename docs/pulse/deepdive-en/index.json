@@ -6946,5 +6946,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-20T15:45:31Z",
   "fetched_at": "2026-10-20T17:00:26.662128+00:00"
+ },
+ "244c48fc443e": {
+  "id": "244c48fc443e",
+  "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+  "title": "Anthropic’s cloud partnerships are getting messy",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-20T21:25:22.000Z",
+  "fetched_at": "2026-10-20T21:36:15.658177+00:00"
+ },
+ "88d2705fe48d": {
+  "id": "88d2705fe48d",
+  "url": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+  "title": "SpaceX 财报显示 AI 业务超预期，收入占比达 52% 并重回盈利",
+  "source": "TechCrunch：AI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-20T20:40:41.000Z",
+  "fetched_at": "2026-10-20T21:36:24.957567+00:00"
+ },
+ "3fae25bc0747": {
+  "id": "3fae25bc0747",
+  "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+  "title": "Gemini's Personal Intelligence is coming to cars",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-10-20T20:00:33.000Z",
+  "fetched_at": "2026-10-20T21:36:50.618220+00:00"
+ },
+ "291df619f8e8": {
+  "id": "291df619f8e8",
+  "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+  "title": "AWS launches open-source Physical AI Toolchain for robotics",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T18:47:08Z",
+  "fetched_at": "2026-10-20T21:37:32.920469+00:00"
+ },
+ "570cb2cddef8": {
+  "id": "570cb2cddef8",
+  "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+  "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T18:34:30Z",
+  "fetched_at": "2026-10-20T21:37:57.411670+00:00"
  }
 }

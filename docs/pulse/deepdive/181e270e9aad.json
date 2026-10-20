@@ -1,0 +1,24 @@
+{
+ "id": "181e270e9aad",
+ "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use",
+ "title": "US Bans DeepSeek From Government Use",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T21:34:27.293293+00:00",
+ "content": "US Bans DeepSeek From Government Use 54\n\t\t\t\n\t\t \t\n\t\t\t\tThe Trump administration has banned DeepSeek AI from most US civilian federal agencies, ordering the removal of the Chinese company's models and technology developed using them. The Department of Homeland Security did not specify the security threats behind the decision. The BBC reports:  The order (PDF) is broad, as it requires agencies to ditch \"all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations.\" Complying will be tricky as it is not clear which third-party products and services have been developed using DeepSeek's wares. Nor is it clear whether \"developed using\" means providing ongoing access to DeepSeek models via API or simply refers to any app vibe-coded with the help of DeepSeek.\nIt also leaves open the question of AI gateways. Services such as OpenRouter and Vercel AI Gateway make DeepSeek's models available through APIs. And those using gateway services may find themselves using DeepSeek models without meaning to do so. OpenRouter, for example, \"routes requests to the best available providers for your model.\" It selects what the service deems to be the best fit provider of AI services. Vercel AI Gateway does the same by default. So federal civilian agencies could be using DeepSeek models inadvertently, if they haven't taken steps to constrain their AI providers.",
+ "report": {
+  "summary": "特朗普政府禁止DeepSeek在美多数民用联邦机构使用",
+  "background": "DeepSeek是中国AI公司，2025年初凭借低成本高性能的R1推理模型震动全球市场，引发美国对其数据安全和国家安全风险的高度警惕。此前美国商务部、多州政府及部分联邦机构已陆续禁止在政府设备上使用DeepSeek。此次特朗普政府将禁令扩大到大多数民用联邦机构，要求清除DeepSeek模型及使用其技术开发的产品，标志着美国对中国AI技术的限制从个案审查升级为系统性排除，也是中美AI技术脱钩趋势的延续。",
+  "key_points": [
+   "禁令范围极广：不仅禁用DeepSeek本身，还要求清除“使用DeepSeek技术开发的第三方产品”，但“使用开发”的界定含糊不清。",
+   "合规执行困难：机构难以识别哪些第三方软件暗中调用了DeepSeek的模型或代码，排查和替换成本高昂。",
+   "AI网关成为监管盲区：OpenRouter、Vercel AI Gateway等平台默认自动路由到最优提供商，机构可能在不知情下用上DeepSeek模型。",
+   "安全理由缺席：国土安全部未说明具体威胁，禁令更多出于地缘政治与预防性考量，而非已证实的安全事件。",
+   "寒蝉效应外溢：开发者担心曾用DeepSeek辅助编写的代码也被波及，开源模型选型和供应链审计将更趋谨慎。"
+  ],
+  "impact": "对AI行业：加速中美AI生态分裂，催生“可信AI供应链”认证与模型来源审计需求，网关服务需提升路由透明度。对开发者：需审计依赖链，避免政府相关项目间接调用DeepSeek，模型选型更重合规。对普通用户：政府服务将更换AI工具，短期体验受影响；长期或推动本土AI产品竞争与替代。",
+  "tools": "可关注AI供应链审计工具（模型卡、AI SBOM）、OpenRouter与Vercel AI Gateway的白名单/黑名单配置，以及Llama、Mistral等替代模型；本地部署可用Ollama、vLLM降低外部依赖。"
+ },
+ "lang": "zh"
+}

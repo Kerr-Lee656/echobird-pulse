@@ -16693,5 +16693,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-20T12:13:03Z",
   "fetched_at": "2026-10-20T16:58:36.675013+00:00"
+ },
+ "181e270e9aad": {
+  "id": "181e270e9aad",
+  "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use",
+  "title": "US Bans DeepSeek From Government Use",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:34:27.293293+00:00"
+ },
+ "4a580096c55e": {
+  "id": "4a580096c55e",
+  "url": "https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal",
+  "title": "Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:34:37.325235+00:00"
+ },
+ "7a091aa12d54": {
+  "id": "7a091aa12d54",
+  "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+  "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:34:46.839540+00:00"
+ },
+ "5df6808e0471": {
+  "id": "5df6808e0471",
+  "url": "https://thenextweb.com/news/waymo-20000-robotaxis-2027",
+  "title": "Waymo plans to grow its robotaxi fleet fivefold to 20,000 by 2027",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:34:55.689019+00:00"
+ },
+ "bd1f5177716e": {
+  "id": "bd1f5177716e",
+  "url": "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia",
+  "title": "OpenAI pulls back from China chip controls, Politico reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:35:03.374030+00:00"
+ },
+ "2e6bc5d41fa8": {
+  "id": "2e6bc5d41fa8",
+  "url": "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier",
+  "title": "Anthropic to rewrite part of its leaked AI bill after safety backlash",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:35:10.762490+00:00"
+ },
+ "9a168b825157": {
+  "id": "9a168b825157",
+  "url": "https://thenextweb.com/news/deepseek-deepinfer-open-source-inference-engine",
+  "title": "DeepSeek open-sources DeepInfer, the engine that runs its AI models",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:35:18.881191+00:00"
+ },
+ "355169b77f97": {
+  "id": "355169b77f97",
+  "url": "https://thenextweb.com/news/nvidia-rtx-pro-5500-china-orders-bytedance-alibaba-tencent",
+  "title": "ByteDance, Alibaba and Tencent order $35bn of Nvidia chips, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:35:31.848098+00:00"
+ },
+ "650a048e79be": {
+  "id": "650a048e79be",
+  "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+  "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T21:35:50.489065+00:00"
  }
 }
