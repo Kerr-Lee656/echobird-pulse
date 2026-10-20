@@ -16513,5 +16513,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-19T23:37:16.749095+00:00"
+ },
+ "85ed69736e92": {
+  "id": "85ed69736e92",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+  "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T04:43:01.508192+00:00"
+ },
+ "6982c2a0deb3": {
+  "id": "6982c2a0deb3",
+  "url": "https://www.36kr.com/newsflashes/4033387760653184",
+  "title": "Nscale 与 Anthropic 洽谈价值 450 亿美元云计算合作协议",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T04:43:11.486575+00:00"
+ },
+ "37e1fdcaedef": {
+  "id": "37e1fdcaedef",
+  "url": "https://www.ithome.com/1/015/082.htm",
+  "title": "挑战英伟达 CUDA：亚马逊推出开源工具 TorchNeuron，自研 Trainium 芯片轻松运行 PyTorch 代码",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-20T00:22:37Z",
+  "fetched_at": "2026-10-20T04:43:22.109958+00:00"
+ },
+ "02b355f4ad16": {
+  "id": "02b355f4ad16",
+  "url": "https://www.ithome.com/1/015/078.htm",
+  "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-19T23:51:53Z",
+  "fetched_at": "2026-10-20T04:43:29.854159+00:00"
+ },
+ "87bd70c5a6d1": {
+  "id": "87bd70c5a6d1",
+  "url": "https://mashable.com/tech/google-claims-gemini-argon-can-beat-minecraft-no-human-help",
+  "title": "Google says Gemini 4 Argon agents beat Minecraft without human help",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-20T04:43:59.812345+00:00"
  }
 }

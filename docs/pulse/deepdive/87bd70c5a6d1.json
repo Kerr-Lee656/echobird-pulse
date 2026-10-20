@@ -1,0 +1,25 @@
+{
+ "id": "87bd70c5a6d1",
+ "url": "https://mashable.com/tech/google-claims-gemini-argon-can-beat-minecraft-no-human-help",
+ "title": "Google says Gemini 4 Argon agents beat Minecraft without human help",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-20T04:43:59.812345+00:00",
+ "content": "Google says Gemini 4 Argon agents beat 'Minecraft' without human help\nGoogle claims its newest AI model, Gemini 4 Argon, just beat Minecraft — no human help required.\nIn a research paper posted Oct. 15, Google DeepMind researchers said a team of four Gemini 4 Argon agents defeated the Ender Dragon, the game’s final boss. The agents started in a freshly generated survival world on Easy difficulty and were given a single goal: kill the dragon. It took them 27 hours and 14 minutes. Along the way, the AI players died 605 times, mostly to monsters.\nThe researchers say this is the first time AI agents have beaten Minecraft from start to finish using only standard tools, with no game-specific help built by humans. Researchers watched the run on a live dashboard and could have stepped in at any point, but they say they never needed to.\nYou May Also Like\nHowever, Google is upfront about the limits. The game ran on Easy, which meant that monster attacks dealt less damage to the AI players. Because the AI agents play the game through code rather than on a screen, they have access to information that a human player would not. For example, the AI agents knew what blocks were hidden behind other blocks, making the \"mining\" part of the game rather insignificant. Plus, given Gemini 4 Argon's training base, the AI agents knew the optimal strategies for playing the game.\nIt's impressive, but nowhere near what humans can do. The researchers note that the record for beating Minecraft in a random world is under seven minutes.\nOne may ask, why make an AI play Minecraft? The researchers argue that the skills involved, like working as a team, bouncing back from mistakes, and sticking with a goal for more than a day, are the same ones AI agents need for real-world work. According to Google, the run costs about $520 in model usage at Argon’s introductory API price.\nMaking a frontier AI model play a video game is actually a common benchmark used by many companies when testing. The Pokémon games specifically have captured the zeitgeist in the AI industry for a while now, but Minecraft is now catching on too. As Google's research points out, two community projects have recently reported beating the dragon with AI, including one using Anthropic’s Claude Opus 5.\nWant more tech and digital culture news delivered to your inbox daily or sent straight to your device? Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.\nChance Townsend is the General Assignments Editor at Mashable, covering tech, video games, dating apps, digital culture, and whatever else comes his way. He has a Master's in Journalism from the University of North Texas and is a proud orange cat father. His writing has also appeared in PC Mag and Mother Jones.\nIn his free time, he cooks, loves to sleep, and greatly enjoys Detroit sports. If you have any tips or want to talk shop about the Lions, you can reach out to him on Bluesky @offbrandchance.bsky.social, by email at [email protected], or on Signal at 224-417-6628.",
+ "report": {
+  "summary": "谷歌Gemini 4 Argon四智能体无人类干预自主通关《我的世界》",
+  "background": "用游戏当AI能力基准由来已久——从国际象棋、星际争霸、Dota到近年的宝可梦，如今轮到了开放度极高的《我的世界》。10月15日，谷歌DeepMind发布论文称，四个Gemini 4 Argon智能体在一个全新生成的生存世界里，仅凭“杀死末影龙”这一条指令，耗时27小时14分钟完成通关。此前已有两个社区项目（其中一个使用Anthropic的Claude Opus 5）宣称用AI击败末影龙，谷歌此举意在把“长时程自主智能体”推向正式评测舞台。",
+  "key_points": [
+   "四个智能体组队作战，从零开始采集、合成、探索、战斗，最终击杀末影龙，全程死亡605次，多数死于怪物袭击。",
+   "谷歌强调这是首次不靠人类预置的游戏专用工具或脚本，仅用标准操作完成全流程；研究者全程盯着实时看板，但称从未需要插手。",
+   "成绩含金量有限：游戏设为简单难度，怪物伤害更低；智能体通过代码接口而非屏幕读游戏，能“看到”方块背后的隐藏方块，挖矿几乎失去挑战。",
+   "人类速通纪录在随机世界不到7分钟，AI还差得远；且它靠训练数据里已知的最优策略，而非临场摸索。",
+   "整轮运行约花费520美元API调用费。谷歌的落点是：团队协作、从失败中恢复、为一个目标坚持一整天，正是现实工作所需能力。",
+   "《我的世界》正成为继宝可梦之后的新AI试炼场，社区项目已用Claude Opus 5等模型完成过类似挑战。"
+  ],
+  "impact": "对AI行业，这意味着评测重心从“单轮问答”转向“持续一天以上的自主任务”，Minecraft可能成为标配基准；同时论文主动披露难度设置与信息不对等，也提示各家游戏类演示需警惕“作弊式成绩”。对开发者，多智能体协作、长时记忆与错误恢复被证明可行，但感知公平性和效率仍是明显短板，是很好的改进方向。对普通用户，能连续替你干活一整天的AI助手仍遥远，但路线图更清晰了。",
+  "tools": "想动手可关注MineDojo、MineRL等Minecraft AI研究环境，Voyager（LLM驱动的Minecraft智能体）是经典参考实现；多智能体协作可试LangGraph、AutoGen等框架，模型侧用Gemini API即可复现类似实验。"
+ },
+ "lang": "zh"
+}

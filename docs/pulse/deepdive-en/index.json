@@ -6775,5 +6775,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-19T18:54:20Z",
   "fetched_at": "2026-10-19T23:40:05.255517+00:00"
+ },
+ "5801404c3eb6": {
+  "id": "5801404c3eb6",
+  "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+  "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T03:49:34Z",
+  "fetched_at": "2026-10-20T04:44:24.446521+00:00"
+ },
+ "f05d769f26ef": {
+  "id": "f05d769f26ef",
+  "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+  "title": "Anthropic calls human attention the bottleneck in the botsitting world to come",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T02:48:35Z",
+  "fetched_at": "2026-10-20T04:44:39.457309+00:00"
+ },
+ "21dc8fc69ccc": {
+  "id": "21dc8fc69ccc",
+  "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+  "title": "Accused OpenAI spy had folder called \"Saudi Gov Docs,\" FBI says",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T00:28:18Z",
+  "fetched_at": "2026-10-20T04:44:48.571407+00:00"
+ },
+ "cc0c6edf8984": {
+  "id": "cc0c6edf8984",
+  "url": "https://huggingface.wtf/",
+  "title": "The Hugging Face Incident",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-20T00:23:20Z",
+  "fetched_at": "2026-10-20T04:45:01.574854+00:00"
+ },
+ "e3bfb0c3548a": {
+  "id": "e3bfb0c3548a",
+  "url": "https://openrouter.ai/rankings",
+  "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+  "source": "Hacker News (39pts, 46c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-19T23:40:15Z",
+  "fetched_at": "2026-10-20T04:45:29.457808+00:00"
+ },
+ "68a6b53f34de": {
+  "id": "68a6b53f34de",
+  "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+  "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-19T23:39:38.000Z",
+  "fetched_at": "2026-10-20T04:45:40.877720+00:00"
  }
 }
