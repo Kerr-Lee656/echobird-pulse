@@ -1,0 +1,25 @@
+{
+ "id": "f468851e9b37",
+ "url": "https://www.aibase.com/zh/news/31732",
+ "title": "MiniMax 更新 M3.1Flash：成本降 70%、速度近 3 倍，OSWorld V2 与 ALE 双项国产第一",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-20T11:30:12.981120+00:00",
+ "content": "MiniMax10月19日正式更新新一代 Flash 模型 M3.1Flash，此前以匿名身份累计处理超过200T Token 的 Space Bunny 即其早期版本。官方称该模型在 Agentic 任务、编程、Computer Use 与网络安全等方向实现代际提升，线上推理速度提升近3倍，使用成本降低70%。\n基准表现上，M3.1Flash 在 AutomationBench-AA 中位居最前列，可跨 SaaS 系统完成销售、营销、运营、客服、财务、HR 的真实业务工作流;BankerToolBench 得分76.2，擅长多步骤规划、跨文档一致性、金融合规与工具链式调用。\n编程方面，DeepSWE v1.1取得73.7%，达到顶尖模型水平，该评测要求模型独立完成代码理解、功能开发、问题修复与测试验证，突出其长链路任务执行能力。\nComputer Use 方面，OSWorld V2得分61.7，Agents' Last Exam 得分29.6，两项均列国产模型第一。网络安全方面，CyberGym 基准取得82%，在代码审计、漏洞修补、渗透测试、恶意代码分析与逆向工程等场景表现突出。\n推理效率上，模型采用更激进的稀疏注意力架构，日常场景输出速度可达200+ TPS，中位数 P50稳定在170+ TPS。价格方面，输入每百万 Token1元，输出每百万 Token4元，缓存读取每百万 Token0.1元，Agentic 类任务综合使用成本较前代降低70%。\nM3.1Flash 现已上线 MiniMax API、MPlan 与 MiniMax Code，权重将于稍后开放，官方称其为对效率与能力平衡的持续探索，追求智能上限的 Pro 版本也会在稍后与用户见面。其在性能与成本之间建立的标杆，延续了 Flash 档模型以效率换能力的产品路线。",
+ "report": {
+  "summary": "MiniMax M3.1Flash 发布：成本降 70%、速度近 3 倍，双榜国产第一",
+  "background": "MiniMax 的 Flash 档一直走\"用效率换能力\"路线，主打低成本、高吞吐，面向大规模 Agent 调用而非刷榜。此次 M3.1Flash 在正式亮相前，先以匿名模型 Space Bunny 在线上累计处理超 200T Token，相当于完成一次真实流量压测后才揭开身份。当下国产大模型竞争焦点已从纯对话转向 Agentic 任务、Computer Use（让模型直接操作电脑界面）和编程长链路执行，DeepSeek、Qwen、Kimi 等均在加码；同时 API 价格战持续，谁能把 Agent 综合成本压下来，谁就更容易被开发者的工作流选中。",
+  "key_points": [
+   "模型先在线上以匿名身份跑了超 200T Token 真实流量，验证后才正式发布，被官方称为\"Space Bunny\"。",
+   "价格极低：输入每百万 Token 1 元、输出 4 元、缓存读取 0.1 元，Agent 类任务综合成本比前代降 70%。",
+   "速度靠更激进的稀疏注意力架构，日常输出 200+ TPS，中位速度稳定在 170+ TPS，接近前代 3 倍。",
+   "Computer Use 是亮点：OSWorld V2 得 61.7、Agents' Last Exam 得 29.6，两项均为国产模型第一。",
+   "其他基准也不弱：DeepSWE v1.1 达 73.7%，网络安全 CyberGym 拿 82%，金融场景 BankerToolBench 76.2。",
+   "已上线 MiniMax API、MPlan 与 MiniMax Code，权重稍后开放，追求上限的 Pro 版本也在路上。"
+  ],
+  "impact": "对行业而言，这延续了\"小模型+低成本+高吞吐\"的路线，把竞争从跑分拉向 Agent 真实业务流的性价比，国产模型在 Computer Use 上的双第一也是明确信号。对开发者，1 元/百万 Token 的输入价意味着可以放心跑多轮、长链路的 Agent 循环，成本敏感型产品（客服、批量文档处理、自动化测试）突然变得可行。对普通用户，变化不会立刻可见，但会更便宜、更快的自动化助手会先出现在办公软件和 SaaS 工具里。",
+  "tools": "想上手可先用 MiniMax API 或 MiniMax Code 试 Agent 工作流；本地复现可关注 OSWorld、DeepSWE、CyberGym 等公开基准；搭建 Computer Use 智能体可配合 OpenHands、browser-use 等开源框架，等权重开放后再做私有化微调。"
+ },
+ "lang": "zh"
+}

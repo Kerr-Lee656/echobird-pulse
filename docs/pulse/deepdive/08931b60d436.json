@@ -1,0 +1,24 @@
+{
+ "id": "08931b60d436",
+ "url": "https://www.ithome.com/1/015/298.htm",
+ "title": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-20T06:23:55Z",
+ "fetched_at": "2026-10-20T11:30:42.503900+00:00",
+ "content": "IT之家 10 月 20 日消息，OpenAI 于上月发布了 ChatGPT Space，配套包含 Pages、Slides、Sheets 等工具。该公司当时表示，Slides 和 Sheets 会在后续推出。几周之后，OpenAI 终于在 ChatGPT 中上线了 Slides（幻灯片工具）。\nChatGPT 官方账号在 X 平台发文，公布现已可用的多项 ChatGPT Slides 功能。用户现在可以让 ChatGPT 基于对话内容、上传文件或者大纲生成演示文稿，也可以直接选用多款内置模板来创建。\n演示文稿生成完成后，用户可以像在谷歌幻灯片（Google Slides）中一样与团队分享。被邀请的用户能够实时协同编辑文稿、修改内容并留下评论反馈。用户还可以指令 ChatGPT，根据团队反馈自动调整幻灯片。\n文稿制作完成后，可直接在 PowerPoint、Google Slides 等软件中打开，也支持导出 PDF 或者 PowerPoint 文件下载。\nIT之家注意到，ChatGPT Slides 现已面向 Pro、Business 以及 Enterprise 套餐用户开放。符合权限的用户只需直接向 AI 助手下达指令，例如“根据文件 / 对话创建 ChatGPT 幻灯片”，即可开始使用。ChatGPT Plus 用户目前无法使用该功能。Slides 属于 ChatGPT Space 的组成部分，而 ChatGPT Space 仅限 Pro、Business、Enterprise 用户使用，因此 Plus 用户暂无法使用。",
+ "report": {
+  "summary": "OpenAI上线ChatGPT Slides，支持团队实时协作编辑演示文稿。",
+  "background": "OpenAI 上月发布 ChatGPT Space，配套 Pages、Slides、Sheets 等工具，当时表示 Slides 和 Sheets 后续推出。几周后 Slides 正式上线，标志着 ChatGPT 从对话助手向办公套件延伸，直接对标 Google Slides、微软 Copilot 和 Canva。办公文档是 AI 落地的高频场景，也是订阅分层与商业化的重要抓手。",
+  "key_points": [
+   "生成方式灵活：可基于对话内容、上传文件或大纲生成演示文稿，也能直接选用多款内置模板创建。",
+   "支持团队协作：生成后可分享给团队成员，被邀请者可实时协同编辑、修改内容并留下评论反馈。",
+   "AI 修改闭环：用户可指令 ChatGPT 根据团队反馈自动调整幻灯片，把评论直接转化为修改动作。",
+   "兼容与导出：成品可在 PowerPoint、Google Slides 等软件中打开，也支持导出 PDF 或 PowerPoint 文件。",
+   "权限分层明显：目前仅面向 Pro、Business、Enterprise 套餐开放，Plus 用户暂无法使用该功能。"
+  ],
+  "impact": "对 AI 行业，办公套件竞争进一步加剧，OpenAI 与微软、谷歌形成既合作又竞争的复杂关系；对开发者，文档生成与协作场景可能催生新 API 和插件机会，但也面临平台挤压；对普通用户，制作 PPT 门槛显著下降，但高级能力被锁在订阅分层中，团队协作与数据合规将成为选型关键。",
+  "tools": "可关注 ChatGPT Space（Pro/Business/Enterprise）、Google Slides + Gemini、微软 Copilot for PowerPoint、Canva AI、Gamma；开源侧可看 reveal.js、Marp、Slidev，用于可编程幻灯片与自动化生成。"
+ },
+ "lang": "zh"
+}

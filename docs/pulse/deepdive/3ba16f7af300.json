@@ -1,0 +1,25 @@
+{
+ "id": "3ba16f7af300",
+ "url": "https://www.qbitai.com/2026/10/504314.html",
+ "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+ "source": "量子位 · 每日最新",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-20T11:29:56.041260+00:00",
+ "content": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本\nOpenAI只掏出一个6.1 Terra…\n梦晨 发自 凹非寺\n量子位 | 公众号QbitAI\n最近听到AI圈最好笑的笑话：\n接下来的一个月御三家都要出新模型。\nClaude新款被评价为“重大飞跃”，修复一个bug时能“治本”，识别背后更大的问题一并处理。\nGemini要发的是Argon升级款Carbon，员工内测反馈“能打Opus 5.5”.\nChatGPT要发的是中杯6.1 Terra……\n什么嘛，还以为现在的6.1 Sol就是Terra改个名呢。\nClaude新模型能跳出思维定势\n来自Information的消息。\n如果你觉得过去一个月AI圈发新模型的速度很快，那就别指望下一个月会放慢。\n根据内侧用户的说法，新版Claude在推理和直觉方面更好，特别擅长判断一个人的潜在意图和目标。\n例如，一个人可能会要求模型修复一个单一的bug，而模型可能会去识别导致该bug的根本类问题，并询问是否应该修复整个类问题，这位使用过该模型的人表示。\n新版Claude在跳出思维定式方面也表现得更好，而不是重复常见的常识性建议或解决方案。\n如果用户询问关于如何投资股票的建议，它不会建议老套的查看市盈率高，而是会提出自己创造性的算法来预测未来的股票表现。\n目前尚不清楚新模型是Fable还是Opus，总之更强。\nGemini 4 Carbon可能用了RSI\n与此同时谷歌也在开发新模型，代号“Gemini 4 Carbon”。\n早期版本的Argon在部分编程任务上表现落后于Claude Opus 5。\nCarbon在编程任务上优于Argon，在需要视觉理解的任务上继续表现更好，如分析视频或测试前端页面功能（得益于用了Youtube数据训练）。\nCarbon在谷歌内部编程平台Jetski上向员工开放了数日，体验过的员工认为“感觉与Opus 5.5相当”，但还需要更多测试。\nGoogle测试了一系列Gemini 4模型，代号分别为Argon、Barium和Carbon。\n其中内部代号“Barium-B”的最后被选中，发布成了我们今天看到的Argon。\n在Carbon内测的表现泄露后，谷歌员工Vedant Misra发帖回应“你听说过递归自我改进（RSI）吗”。\n不确定是否在暗示Carbon使用了RSI技术。\nOpenAI没活了？\nGPT-6.1 Terra已经出现在微软Copilot的代码里。\n那么之前很多人怀疑6.1 Sol其实是Terra改个名字发出去，看来猜错了。原来6.1 Sol只是单纯的与5.6 Sol比升级不大啊。\n很多人看到要出6.1 Terra的消息反应都是，感觉OpenAI已经自暴自弃了，破罐破摔了。\n不过也有人认为Terra升级对OpenAI来说确实很重要。\n因为他们打算把ChatGPT的Chat/Work和Codex模式合并在一起，那么就需要一个更便宜的模型给免费用户用。\n与此同时OpenAI发布一条新进展。\n最新的几款GPT模型在冷门编程语言（FORTRAN，COBOL）里表现更好。\n很多银行、公共事业依赖这些古董软件，已经没几个人类程序员能维护了。\nCOBOL支持超过40%的银行系统、80%的面对面信用卡交易和95%的ATM交易，而Fortran用于天气预报和核反应堆安全分析。\n在迁移COBOL程序到其他语言的测试中，GPT‑6.1 Sol在low档达到86.6% 的准确率，而GPT‑5.6 Sol只有5.4%。在更高的推理档位下，准确率达到97.9%，几乎把测试刷穿了。\n最后国产模型这边，DeepSeek率先结束潜水，接下来Kimi、GLM和Minimax的新模型也将先后登场。\n总之接下来的11月，依旧精彩。\n参考链接：\n[1]\nhttps://x.com/kimmonismus/status/2112242007062233122?s=20\n[2]\nhttps://x.com/maxxrubin_/status/2112256163761016977?s=20\n[3]\nhttps://openai.com/index/low-resource-programming-languages/\n- 清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型2026-10-16\n- 复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？2026-10-15\n- 《柳叶刀》研究表明：AI 有望改善医患关系2026-10-09\n- Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊2026-10-08",
+ "report": {
+  "summary": "Claude新模型内测曝光：能跳出思维定势，修Bug直击根因",
+  "background": "AI“御三家”正进入一轮高密度发版的军备竞赛：Anthropic、谷歌和OpenAI据传都将在下个月推出新模型，内部代号与内测反馈提前流出。竞争焦点已从跑分转向“推理质量与直觉”，也就是模型能否理解用户真正想解决的问题，而非只执行字面指令。与此同时，编程与企业遗留系统迁移成为最直接的比拼场景，因为这类任务的价值容易衡量，也最容易暴露模型“治标不治本”的短板。",
+  "key_points": [
+   "修Bug治本：内测用户举例，用户只要求修一个bug，新Claude会主动识别出导致该bug的同类根本问题，并询问是否要一并修掉整个问题类别。",
+   "跳出思维定势：被问如何投资股票时，它不再给“看市盈率”这类常见建议，而是自己设计算法去预测未来表现，说明它更少复述常见答案。",
+   "谷歌Gemini 4 Carbon：内部编程平台Jetski实测“感觉与Opus 5.5相当”，视频和前端页面理解更强，得益于YouTube数据；员工发帖暗示递归自我改进RSI。",
+   "OpenAI GPT-6.1 Terra：定位更便宜，主要为免费用户准备，配合ChatGPT把Chat/Work与Codex模式合并；此前猜测“Sol只是改名”被证伪。",
+   "冷门语言突破：COBOL、FORTRAN迁移测试中，GPT-6.1 Sol低推理档准确率86.6%（上一代5.4%），高推理档达97.9%，直指银行、ATM等无人维护的古董系统。",
+   "国产接力：DeepSeek率先结束潜水，Kimi、GLM、Minimax新模型也将在11月先后登场，竞争进一步白热化。"
+  ],
+  "impact": "对AI行业，竞争指标从“跑分”转向“问题定义能力与根因推理”，模型评估体系需要重写；对开发者，AI从“补丁工具”升级为“代码审查搭档”，能追问需求边界，但也要求人给出更清晰的意图和授权范围；对普通用户，AI更像懂行的顾问，减少套路化回答。COBOL等遗留系统能力提升，还意味着金融、公用事业的老系统维护成本可能大幅下降，同时带来就业结构变化。",
+  "tools": "想跟进可关注 Claude Code 与 Cursor（体验“根因级”修Bug）、Google AI Studio 与 Jetski 类内部编程平台、IBM watsonx Code Assistant（COBOL转Java）、SWE-bench 与 COBOL 迁移评测集；开源侧可看 Aider、OpenHands 追踪同类能力。"
+ },
+ "lang": "zh"
+}

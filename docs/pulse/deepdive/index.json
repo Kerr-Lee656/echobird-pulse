@@ -16558,5 +16558,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-20T04:43:59.812345+00:00"
+ },
+ "06f1b5a96dde": {
+  "id": "06f1b5a96dde",
+  "url": "https://www.36kr.com/p/4032719698318209",
+  "title": "OpenAI确认下场做机器人，19个岗位缺人，年薪最高48.5万刀",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:29:46.411780+00:00"
+ },
+ "3ba16f7af300": {
+  "id": "3ba16f7af300",
+  "url": "https://www.qbitai.com/2026/10/504314.html",
+  "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:29:56.041260+00:00"
+ },
+ "efc74e9a6fa8": {
+  "id": "efc74e9a6fa8",
+  "url": "https://www.aibase.com/zh/news/31744",
+  "title": "Anthropic 初级技术岗位占比降至 14%，AI 代理工作时长达员工 6 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:30:04.238805+00:00"
+ },
+ "f468851e9b37": {
+  "id": "f468851e9b37",
+  "url": "https://www.aibase.com/zh/news/31732",
+  "title": "MiniMax 更新 M3.1Flash：成本降 70%、速度近 3 倍，OSWorld V2 与 ALE 双项国产第一",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:30:12.981120+00:00"
+ },
+ "16eb6cb7b121": {
+  "id": "16eb6cb7b121",
+  "url": "https://www.aibase.com/zh/news/31746",
+  "title": "蚂蚁百灵开源 Ming-3.0 语音系列：五款模型覆盖语音合成、识别与理解",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:30:25.007331+00:00"
+ },
+ "fd3891af88eb": {
+  "id": "fd3891af88eb",
+  "url": "https://www.aibase.com/zh/news/31733",
+  "title": "抢在Anthropic上市前吸金：OpenAI紧急开启300亿美元新融资，估值或达1.4万亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-20T11:30:33.238147+00:00"
+ },
+ "08931b60d436": {
+  "id": "08931b60d436",
+  "url": "https://www.ithome.com/1/015/298.htm",
+  "title": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-20T06:23:55Z",
+  "fetched_at": "2026-10-20T11:30:42.503900+00:00"
  }
 }
