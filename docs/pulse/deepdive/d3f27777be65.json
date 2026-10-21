@@ -1,0 +1,24 @@
+{
+ "id": "d3f27777be65",
+ "url": "https://thenextweb.com/news/chatgpt-ads-89-countries-100000-advertisers",
+ "title": "ChatGPT ads reach 89 countries as OpenAI passes 100,000 advertisers",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T18:35:41.106867+00:00",
+ "content": "OpenAI is bringing ads in ChatGPT to 26 more countries, taking the total to 89. More than 100,000 advertisers have now run campaigns on the platform, the company said. It launched ChatGPT ads just over eight months ago.\nOpenAI announced the expansion in a blog post on Wednesday. The new markets include 14 more Latin American countries, among them Argentina, Chile, Colombia and Peru. Ads are also launching in Nigeria, South Africa, Serbia, Ukraine, Cambodia, Bangladesh and Pakistan, and in more European markets. OpenAI brought ads to 31 European countries in August.\nThe platform had about 20,000 advertisers in late August, Alix Coutures reported for The Information.\nWho sees the ads\nAds appear only for users on ChatGPT’s Free and Go plans. Plus, Pro and Enterprise subscriptions stay ad-free. Advertisers can buy them through technology partners or on their own through OpenAI’s Ads Manager.\n“Ads in ChatGPT are clearly labeled and separate from ChatGPT’s answers, and advertising does not influence the answers ChatGPT provides,” OpenAI wrote.\nThe company said it keeps conversations private from advertisers and does not sell customer data. Next, it plans more ad formats, buying options and ways to measure results. It is also looking at new ways for businesses to reach people inside ChatGPT. Last month, it started testing Sponsored Agents with some US advertisers.\nA $1bn run rate\nOpenAI’s ad business reached an annualised $1bn in revenue in August, up from $100m in March, Ashley Capoot reported for CNBC.\nRival Anthropic made OpenAI’s ads the focus of its first Super Bowl campaign in February, CNBC reported. Anthropic pledged to keep its own chatbot, Claude, ad-free.\nOpenAI is building up its ad business ahead of a potential stock market listing, Reuters reported. OpenAI executives have signalled a 2027 listing, according to CNBC.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "ChatGPT广告扩至89国，广告主破10万",
+  "background": "OpenAI 于八个多月前在 ChatGPT 中上线广告，最初仅在少数市场测试。今年 8 月，其广告业务进入 31 个欧洲国家，广告主约 2 万家，年化收入约 10 亿美元；到 3 月，这一数字仅为 1 亿美元。此后，ChatGPT 广告迅速进入拉美、非洲、东欧和南亚市场，广告主数量增至 10 万以上。此举发生在 OpenAI 筹划上市（传闻 2027 年）之前，广告被视为订阅之外的第二增长曲线。与此同时，Anthropic 在超级碗广告中承诺 Claude 永久无广告，使“是否靠广告变现”成为大模型公司路线分歧的公开议题。",
+  "key_points": [
+   "广告新进入 26 个国家，总数达 89 个，覆盖阿根廷、智利、哥伦比亚、秘鲁、尼日利亚、南非、乌克兰、巴基斯坦等市场，并继续加码欧洲。",
+   "广告只对 Free 和 Go 免费或低价套餐用户展示，Plus、Pro、Enterprise 付费用户继续无广告；这一分层是推动用户升级的又一手段。",
+   "广告主数量从 8 月底约 2 万猛增至 10 万以上，年化广告收入从 3 月的 1 亿美元涨到 8 月的 10 亿美元，增速惊人。",
+   "OpenAI 强调广告明确标注、与回答分离、不影响答案，且不向广告主泄露对话内容、不出售用户数据。",
+   "下一步将增加广告形式、购买方式与效果衡量工具，并已在美国小范围测试“赞助智能体”（Sponsored Agents）。"
+  ],
+  "impact": "对 AI 行业而言，聊天机器人广告从试验变成可规模化的百亿级生意，将迫使 Perplexity、Google 等加速跟进，而坚持无广告的 Anthropic 则获得差异化卖点。对开发者，OpenAI 的 Ads Manager 与“赞助智能体”意味着新的流量入口和变现接口，但也可能改变模型回答周边的生态规则。对普通用户，免费版将越来越“广告化”，付费墙与广告共同构成价格分层；对话隐私如何被保护、广告是否真的不影响答案，将长期受到审视。",
+  "tools": "想跟进可关注 OpenAI Ads Manager（自助投放与素材管理）、Sponsored Agents 测试项目，以及其效果衡量合作方；做竞品研究可对比 Perplexity 的广告方案与 Google Ads 的对话式广告实验。开发者还可留意 ChatGPT 应用生态的开放接口，评估接入广告或导流的可行性。"
+ },
+ "lang": "zh"
+}

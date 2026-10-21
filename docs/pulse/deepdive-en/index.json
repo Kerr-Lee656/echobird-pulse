@@ -7198,5 +7198,104 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-21T10:00:07.000Z",
   "fetched_at": "2026-10-21T13:48:46.286008+00:00"
+ },
+ "8034e00cf2d9": {
+  "id": "8034e00cf2d9",
+  "url": "https://www.anthropic.com/public-benefit-charter",
+  "title": "Anthropic's Public Benefit Charter",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T18:29:54Z",
+  "fetched_at": "2026-10-21T18:36:57.149410+00:00"
+ },
+ "ced30c6682e0": {
+  "id": "ced30c6682e0",
+  "url": "https://www.theargumentmag.com/p/what-i-saw-inside-anthropic",
+  "title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T18:29:29Z",
+  "fetched_at": "2026-10-21T18:37:08.291339+00:00"
+ },
+ "94a5f6526ead": {
+  "id": "94a5f6526ead",
+  "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-10-21T18:26:30.000Z",
+  "fetched_at": "2026-10-21T18:37:54.877074+00:00"
+ },
+ "51d1b7e70860": {
+  "id": "51d1b7e70860",
+  "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj",
+  "title": "Anthropic posts $80B loss in first half of 2026",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T18:18:17Z",
+  "fetched_at": "2026-10-21T18:38:32.728556+00:00"
+ },
+ "8ebb36d49c71": {
+  "id": "8ebb36d49c71",
+  "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift",
+  "title": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T18:06:56Z",
+  "fetched_at": "2026-10-21T18:38:40.888302+00:00"
+ },
+ "3851222bb6db": {
+  "id": "3851222bb6db",
+  "url": "https://github.com/Andytonglove/claude-code-leak/blob/main/src/upstreamproxy/upstreamproxy.ts",
+  "title": "Claude Code has expected a forged CA and MitM since April",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T17:50:06Z",
+  "fetched_at": "2026-10-21T18:38:56.207663+00:00"
+ },
+ "08e5197af955": {
+  "id": "08e5197af955",
+  "url": "https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e",
+  "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-21T17:40:59.000Z",
+  "fetched_at": "2026-10-21T18:39:07.269009+00:00"
+ },
+ "1bbb13de6abb": {
+  "id": "1bbb13de6abb",
+  "url": "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
+  "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T16:30:11Z",
+  "fetched_at": "2026-10-21T18:39:40.048017+00:00"
+ },
+ "f6f70045dc78": {
+  "id": "f6f70045dc78",
+  "url": "https://hotminute.co.uk/2026/10/21/the-alan-turing-institute-wants-to-build-a-uk-ai-model-from-scratch-and-release-it-for-free-to-the-public/",
+  "title": "Alan Turing Institute wants to build a UK AI model from scratch and make it free",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T16:17:41Z",
+  "fetched_at": "2026-10-21T18:39:54.282644+00:00"
+ },
+ "af9fb53128fc": {
+  "id": "af9fb53128fc",
+  "url": "https://socket.dev/blog/litellm-compromise",
+  "title": "LiteLLM Compromised to Steal Cloud and AI Credentials",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T15:24:57Z",
+  "fetched_at": "2026-10-21T18:40:08.341200+00:00"
+ },
+ "4d648a138e92": {
+  "id": "4d648a138e92",
+  "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+  "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-10-21T15:02:15.000Z",
+  "fetched_at": "2026-10-21T18:40:37.961772+00:00"
  }
 }

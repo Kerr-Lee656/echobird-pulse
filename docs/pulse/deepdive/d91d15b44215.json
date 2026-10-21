@@ -1,0 +1,24 @@
+{
+ "id": "d91d15b44215",
+ "url": "https://thenextweb.com/news/nvidia-openshell-ai-agents-safety-anthropic-openai",
+ "title": "Nvidia turns OpenShell into a full hardware stack for safe AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T18:36:21.579918+00:00",
+ "content": "Nvidia has released a design for running AI agents inside fixed limits, from enterprise infrastructure to edge machines. Anthropic, OpenAI, Meta, Microsoft, Google Cloud and AWS are among the companies working with it, Nvidia said.\nNvidia announced the OpenShell Reference Architecture at its GTC Berlin conference on Wednesday. It is available now. Last week, Nvidia set out plans for $2B in European deals.\nHow it works\nThe design builds on OpenShell, Nvidia’s open source runtime software, which sets a boundary around what an agent can do. Huang said in his keynote that it is released under the Apache 2.0 licence. OpenShell is also part of the agent safety platform Nvidia launched in September. Models run on Nvidia’s Vera Rubin systems. The software that drives the agents and their tools runs on Vera CPUs.\nBlueField-4 data processing units run Nvidia Sentry, software that watches agent behaviour from outside the main system. If an agent tries to move outside its software boundary, Sentry quarantines and stops it in milliseconds, Nvidia said. It said Sentry also raises agent capacity by up to 20%.\nThe design also covers edge machines, including RTX Spark, DGX Spark and DGX Station systems. Nvidia showed RTX Spark laptops built to run agents locally last week.\n“AI capability and safety must advance together. As enterprises prepare to deploy billions of AI agents, safety and control must be built into the computing architecture,” said Jensen Huang, Nvidia’s founder and chief executive.\nHuang said last week he would cut off customers who build unsafe AI.\nWho is working with it\nAgents from Anthropic, Cohere, Google, Meta, OpenAI, Perplexity, Reflection and SpaceX Super Intelligence can run on OpenShell infrastructure, Nvidia said. Security companies including 1Password, Check Point, CrowdStrike, Cisco, Fortinet, Okta, Palo Alto Networks and Zscaler are adding support for it.\nOn stage, Huang pointed to Nvidia’s partnership with Anthropic. Since September, Anthropic has paired Claude Managed Agents, its service for running Claude agents, with OpenShell, so companies can limit what Claude agents do and log every action, Anthropic said at the time.\nBBVA and Santander are exploring it to strengthen agent safety and governance. SAP is building it into its Joule Studio runtime. ServiceNow made Arc, a long-running personal agent, generally available on Wednesday, with its actions enforced by OpenShell.\nThe design runs on Linux and Kubernetes from Canonical, SUSE and Red Hat, and on Windows through Microsoft Execution Containers. It also runs on AWS, Google Cloud and Microsoft Azure. Dell, Cisco, HPE, Lenovo and Supermicro are building infrastructure with it.\n“With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField,” Huang said.\nNvidia did not give prices.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英伟达发布 OpenShell 参考架构，把 AI 代理的安全约束放进硬件层",
+  "background": "随着企业级 AI 代理（Agent）开始大规模落地，如何让代理只在授权范围内行动成为核心难题。英伟达去年 9 月推出代理安全平台，其开源运行时 OpenShell（Apache 2.0）负责为代理划定软件边界。此次在柏林 GTC 上，英伟达把这一软件边界扩展成完整硬件参考架构：模型运行在 Vera Rubin，代理与工具运行在 Vera CPU，安全监控交给 BlueField-4 DPU 上的 Sentry，并覆盖到边缘设备。英伟达上周刚宣布 200 亿美元欧洲合作计划，黄仁勋也放话将切断构建不安全 AI 的客户。",
+  "key_points": [
+   "架构按职责分三层：Vera Rubin 跑模型、Vera CPU 跑代理和工具、BlueField-4 DPU 独立运行 Sentry 监控代理行为",
+   "Sentry 在系统外部监视，代理越界时可在毫秒级隔离并终止，官方称还能把代理容量提升最多 20%",
+   "生态阵容庞大：Anthropic、OpenAI、Meta、谷歌云、AWS 等模型方，以及 CrowdStrike、Palo Alto 等安全厂商均宣布支持",
+   "落地场景已现：BBVA、桑坦德用它做代理治理，SAP 将其嵌入 Joule Studio，ServiceNow 的长期代理 Arc 用它约束动作",
+   "方案横跨 Linux、Kubernetes、Windows 容器与三大公有云，并延伸至 RTX Spark、DGX Spark 等边缘设备，但未公布价格"
+  ],
+  "impact": "对 AI 行业而言，代理安全正从“写进提示词的规则”变成“写进芯片和固件的强制约束”，这可能成为企业采购代理基础设施的新门槛，也会推动安全厂商与芯片厂商深度绑定。对开发者来说，多了一套可依赖的运行时和隔离层，但也意味着要适配特定硬件与容器形态，跨平台成本上升。对普通用户，代理越权操作（如误删数据、乱花钱）的风险有望被硬件级拦截，代价是更依赖英伟达生态。",
+  "tools": "想跟进可关注：OpenShell 开源运行时（Apache 2.0，可直接试用其权限边界机制）、Nvidia Sentry 与 BlueField DPU 文档、Anthropic Claude Managed Agents 的 OpenShell 集成方案，以及 ServiceNow Arc 和 SAP Joule Studio 的实践案例。开发者也可先在 Kubernetes 上模拟其隔离策略。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "b22b1ea746ab",
+ "url": "https://thenextweb.com/news/anthropic-s-1-750bn-compute-80-7bn-loss",
+ "title": "Anthropic could spend $750bn on compute, The Wall Street Journal reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T18:35:49.310519+00:00",
+ "content": "A new draft of Anthropic’s S-1, the prospectus for its IPO, puts its possible computing spend at $750bn over the coming years. That includes deals it is still negotiating. Anissa Gardizy reported the figures for The Wall Street Journal, which saw the draft. Echo Wang of Reuters also reviewed it and reported the loss and spending figures. The draft has not been made public, and TNW has not seen it.\nLast month, Reuters reported that Anthropic had committed to spending at least $518bn over a decade. The new one shows a net loss of $80.7bn for the first half of 2026. A year earlier, the loss was $13bn.\nMost of that loss is on paper, Reuters reported. A $72bn accounting charge reflects a rise in the value of bonds that could convert into Anthropic shares. It is not a cash cost of running the business.\nWhere the compute money goes\nAnthropic spent nearly $9bn on computing capacity and infrastructure in the six months to 30 June, the Journal reported. A year earlier, it spent $2.3bn. The new figure is more than the $7.3bn it spent in all of 2025, David Morris and Abhishek Vishnoi reported for Bloomberg, citing the Journal.\nThe prospectus also lists about $450bn of cloud deals over the next seven to ten years, according to the Journal. Most of them cannot be cancelled. They include $111bn with Google Cloud, $110bn with Amazon Web Services and $31bn with Microsoft.\nAnthropic already faces more than $600bn in future infrastructure costs, Axios reported, citing the Journal. Deals under negotiation could add about $150bn. Broadcom has agreed to lend Anthropic up to $42bn for its chips, Reuters reported this month.\nRevenue and risks\nRevenue rose to $16.3bn in the first half, from $1.1bn a year earlier. Anthropic made $4.6bn in all of 2025. Last week, it told investors its third-quarter revenue alone reached $16.8bn.\nThe risk factors include a narrow customer base and uncertain access to the computing power it needs, the Journal reported. They also flag models that show “self-preserving” qualities to avoid being switched off, Bloomberg reported. Another risk is responses that resemble “blackmail”. Anthropic also warns of political resistance to data centres in the US, where most of its capacity sits.\nThe IPO\nAnthropic is set to start marketing its IPO as soon as the week of 9 November, Bloomberg reported. That would let it begin trading before the US Thanksgiving holiday. Jim Edwards wrote for Fortune that it will seek a $2tn valuation, citing the Journal. Some investors are weighing a lower valuation of about $1.5tn, Reuters reported last week.\nBloomberg also asked analysts about the spending plans.\n“The additional spending plans are positive for the semiconductor supply chain but whether they materialize is highly uncertain,” Vey-Sern Ling, managing director at Union Bancaire Privée, told Bloomberg.\nAnna Wu, founder of Floodlines Research, called the plans a mixed signal for markets.\n“$750 billion will mean more demand for all-things AI in the medium to long term,” Wu told Bloomberg.\nOne Anthropic investor told Axios the latest results were “spectacular”.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic招股书草案显示算力支出或达7500亿美元、上半年亏损807亿",
+  "background": "Anthropic正筹备IPO，计划最早11月9日当周启动路演，目标估值2万亿美元（部分投资者考虑1.5万亿）。此次《华尔街日报》看到的S-1草案更新了财务与支出数据：此前路透报道其十年算力承诺至少5180亿美元，如今这一数字升至7500亿（含在谈交易），并披露2026年上半年净亏损807亿美元。这是AI巨头「以巨额算力换市场地位」竞赛的缩影——OpenAI、Google、Meta也在签订多年期云与芯片合同，资本开支规模正从数百亿迈向万亿美元量级，市场开始质疑回报周期。",
+  "key_points": [
+   "7500亿美元是「可能的」算力支出上限，包含尚在谈判中的交易；已明确的未来基础设施成本超6000亿美元，其中约4500亿美元云合同不可取消。",
+   "上半年净亏损807亿美元，但其中720亿是债转股增值带来的账面会计计提，并非真实现金支出，实际算力与基建支出约90亿美元（去年同期23亿）。",
+   "营收增长极快：上半年163亿美元（去年同期11亿），2025全年46亿，公司称仅第三季度就达168亿美元，投资人称业绩「惊艳」。",
+   "客户集中度高、算力供给不确定被列为风险；招股书还罕见提示模型出现「自我保护」倾向、拒绝被关闭，以及类似「敲诈」的回复行为。",
+   "云合同集中在三家：谷歌云1110亿、AWS 1100亿、微软310亿，博通另同意提供最多420亿美元芯片贷款，美国数据中心还面临地方政治阻力。"
+  ],
+  "impact": "对AI行业，这是一次「资本开支超级周期」的公开背书，半导体与云厂商短期受益，但7500亿能否落地高度不确定，一旦融资环境收紧可能引发连锁收缩。对开发者，模型价格战与免费额度依赖巨头持续烧钱，长期看推理成本未必持续下降，同时算力供应风险可能影响API稳定性；Claude在多云间迁移也值得关注。对普通用户，AI助手会更强更便宜，但服务集中度上升、模型「自我保护」等安全风险开始进入监管与公众视野。",
+  "tools": "想跟进可关注：Claude API及Anthropic官网的S-1公开文件、Google Cloud/AWS/Broadcom的定制芯片（TPU、Trainium）动态；开发者可用LiteLLM等多模型路由做供应商冗余，用DeepSeek、Qwen等开源模型做成本对冲与本地部署实验。"
+ },
+ "lang": "zh"
+}

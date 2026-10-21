@@ -1,0 +1,24 @@
+{
+ "id": "27a2cd5583d6",
+ "url": "https://thenextweb.com/news/openai-models-codex-google-cloud",
+ "title": "OpenAI brings GPT-6 Astra and Codex to Google Cloud, a rival’s platform",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T18:35:57.487384+00:00",
+ "content": "OpenAI is bringing its frontier models and its Codex coding agent to Google Cloud, the two companies said on Wednesday. GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna are rolling out now in private preview in Google Cloud’s Model Garden, Google wrote. Select enterprise customers get them first. OpenAI plans general availability in the coming weeks, it said in a blog post.\nThe deal puts OpenAI’s models on all three of the biggest US cloud providers. Amazon Web Services began hosting them in April, after Microsoft’s exclusive licence ended. OpenAI added its agents to Amazon Bedrock last month.\nGoogle now calls itself the only hyperscale cloud provider that offers all three leading closed models. Its platform already offers Anthropic’s Claude next to its own Gemini.\n“This partnership is an important step in making our most capable models and Codex available where customers are already building,” Greg Brockman, OpenAI’s president and co-founder, said in the announcement.\nHow customers will buy it\nCustomers will buy the models through Google Cloud Marketplace. They can pay with their existing Google Cloud spending commitments. All usage appears on one Google Cloud invoice, Google said.\nGoogle said customer prompts and outputs stay inside the customer’s data perimeter, and that it never uses them to train models. The OpenAI models run on dedicated Google Cloud infrastructure. Developers can already connect Codex to Google’s platform, and the models are coming soon to Google Antigravity and the Gemini Agent.\n“We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job,” Thomas Kurian, chief executive of Google Cloud, said in the announcement.\nMicrosoft remains OpenAI’s primary cloud partner, OpenAI said.\nRivals on the same shelf\nGoogle and OpenAI compete in AI models and in search. Google released Gemini 4 Argon to paying users this month.\nMike Leone, an analyst at Moor Insights & Strategy, told Axios the deal shows Google’s confidence.\n“Gemini now has to win those customers with OpenAI sitting right next to it,” Leone told Axios.\nCloud providers usually take a cut of model sales on their platforms, Krystal Hu reported for Reuters. Anthropic made 47% of its 2025 revenue through Amazon’s and Google’s cloud platforms, according to its IPO filing, Reuters reported.\nGoogle’s cloud revenue growth accelerated to about 82% in the second quarter, Jordan Novet reported for CNBC. Amazon and Microsoft reported cloud growth of 37% and 42%. All three report quarterly results next week.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI三款GPT-6模型与Codex登陆谷歌云",
+  "background": "OpenAI与谷歌云达成合作，将其前沿模型和Codex编程代理上架谷歌云的Model Garden。此前OpenAI模型主要依托微软Azure独家授权，2026年4月该独家授权到期后，OpenAI先与AWS合作，又在AWS上线代理服务，如今再接入谷歌云，完成对三大美国云厂商的覆盖。与此同时，谷歌自家Gemini 4 Argon也在正面竞争；双方既是模型对手，又成了渠道伙伴，反映出AI模型分销正快速向云平台集中。",
+  "key_points": [
+   "GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna三款模型已在谷歌云Model Garden开启私有预览，企业客户优先使用，数周内将全面开放。",
+   "客户通过Google Cloud Marketplace下单，可用既有云支出承诺付款，费用并入一张谷歌云账单，采购和结算流程大幅简化。",
+   "谷歌承诺客户提示词与输出不出数据边界、不用于训练模型，OpenAI模型运行在谷歌云专用基础设施上。",
+   "OpenAI模型至此覆盖AWS、微软Azure和谷歌云三大云平台，微软仍是OpenAI首要云伙伴。",
+   "谷歌云称自己是唯一同时提供Gemini、Claude和OpenAI三大闭源模型的超大规模云平台，以“模型货架”策略吸引企业。"
+  ],
+  "impact": "对行业：云厂商的竞争焦点从“卖自研模型”转向“做模型货架”，比拼渠道、算力和企业信任；模型公司则以分成换分发，Anthropic 2025年约47%收入来自云平台即是例证。对开发者：一个账单、一套数据边界内即可切换多家前沿模型，降低多模型试验与合规成本，Codex也可直接接入谷歌平台。对普通用户：短期看是Gemini与ChatGPT在同一平台贴身竞争，长期可能带来更快的能力迭代与价格松动。",
+  "tools": "想跟进可关注Google Cloud Model Garden与Vertex AI（申请预览）、Codex接入文档、Amazon Bedrock（已上架OpenAI模型），以及即将支持这些模型的Google Antigravity和Gemini Agent。"
+ },
+ "lang": "zh"
+}
