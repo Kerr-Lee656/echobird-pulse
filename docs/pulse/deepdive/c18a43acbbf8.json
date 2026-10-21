@@ -1,0 +1,24 @@
+{
+ "id": "c18a43acbbf8",
+ "url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+ "title": "Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:17:06.372344+00:00",
+ "content": "Muse is officially Meta's new main character.\nMeta's new personal AI agent app has drawn more than 10 million users in the US and Canada since its September launch, CEO Mark Zuckerberg said Wednesday.\nDuring Meta's third-quarter earnings call, Zuckerberg said that Muse's growth \"continues to be strong\" and that the most common use case for the agent is shopping.\nMore than a quarter of Muse users are making purchases through the app, with an average purchase size of over $200, Zuckerberg said.\nBeyond shopping, CFO Susan Li said on the call that Muse users most often use it for \"personal productivity,\" connecting their email and calendars to the agent.\nMeta's stock had surged after it released Muse. Its stock was up 5% after-hours on Wednesday.\nThe agent, which Meta says can help users handle tasks like sending an email or booking travel, quickly climbed to the top of Apple's App Store after its release, giving Zuckerberg an early win for his enormous AI spending.\nEarlier on Wednesday, a New Mexico judge ordered Meta to pay $25 billion for misleading users about how it handled their data and for failing to prevent misinformation on Facebook.\nMake room for Muse\nMove over, Facebook. Zuckerberg seems to have a new favorite product.\nIn Zuckerberg's opening remarks, he mentioned Muse nearly 50 times. Facebook, Instagram, and WhatsApp were only mentioned once.\n\"Muse went from an idea on a whiteboard to a successful product in just about eight months, and we're about to ship Muse Charm, which will have gone from concept to a hardware device in people's pockets in less than a year,\" Zuckerberg said on the call.\nMeta is eager to turn Muse into a money-making machine, too.\n\"I think that we are going to work on monetization somewhat sooner on this than our normal playbook for a couple of reasons,\" Zuckerberg said. \"One is just the size of the numbers that we are talking about in terms of both the costs and the opportunity… make it important to make progress on that in order to be able to scale it.\"\nThe other reason, he said, is \"such a large part of what people are doing is commerce.\"\nLi added that Meta sees multiple paths to monetization, beginning with paid subscriptions. \"We also see a significant opportunity to extend Muse to small businesses,\" she said.\nZuckerberg said Muse should remain free for most users, with Meta planning to make money from it through commerce tools that take a fee from transactions it helps facilitate.\nHe also said Muse is set to arrive on Meta's smart glasses next month, calling Muse \"central to the business model for the glasses.\"\n\"We expect Muse and having your personal superintelligence with you throughout the day will be the most important part of the experience,\" he said.\nMeanwhile, Forrester principal analyst Kate Winick said Wednesday that the biggest X-factor in Meta's AI ambitions is consumer trust.\n\"The more information Muse has, the more effective it can be, and overall trust in Meta remains low,\" Winick said.\nShe added, \"But Meta has cultivated a reputation that negates trust as a condition for engagement: consumers almost expect to have their data mismanaged in exchange for a high level of connectivity and utility, and have shown that they're willing to keep showing up as long as the product experience delivers.\"",
+ "report": {
+  "summary": "Meta称Muse AI代理用户超1000万，购物成主要用例。",
+  "background": "Muse是Meta今年9月推出的个人AI代理应用，率先在美加上线，可处理邮件、日历、购物和旅行等任务。上线后迅速登顶App Store，成为扎克伯格巨额AI投入后的早期成果。此次Q3财报电话会披露用户破1000万，表明Meta正把AI代理从实验品推向核心消费产品，并加速商业化与硬件落地。",
+  "key_points": [
+   "上线约一个月，Muse在美加用户超1000万，扎克伯格称增长强劲，并称其从白板想法到成功产品仅约8个月。",
+   "购物是最常用场景：超过四分之一Muse用户通过应用完成购买，平均客单价超过200美元，显示AI代理正切入交易链路。",
+   "第二大用途是个人生产力，用户连接邮箱和日历让代理处理任务；Meta计划比以往更早商业化，探索订阅、小企业版和交易抽佣。",
+   "Muse下月将登陆Meta智能眼镜，扎克伯格称其是眼镜商业模式核心，目标成为随身的个人超级智能。",
+   "财报会中扎克伯格提Muse近50次，远超Facebook、Instagram和WhatsApp各一次；但分析师提醒Meta消费者信任仍是最大变量。"
+  ],
+  "impact": "对AI行业，Meta用1000万用户验证了消费级AI代理的规模需求，竞争将从模型转向入口、交易和硬件。对开发者，代理框架、支付与电商集成、隐私和可信AI更受关注；对普通用户，AI助手将更深度接入购物、邮件、日历和眼镜，但数据信任仍是隐忧。",
+  "tools": "可关注Meta Muse应用及Ray-Ban Meta智能眼镜；开发者可对比LangChain、AutoGen、Open Interpreter等代理框架，以及Stripe等支付与电商集成方案。"
+ },
+ "lang": "zh"
+}

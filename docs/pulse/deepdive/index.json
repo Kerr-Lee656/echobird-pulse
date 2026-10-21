@@ -17053,5 +17053,113 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-21T18:36:32.220149+00:00"
+ },
+ "cdc94824f023": {
+  "id": "cdc94824f023",
+  "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+  "title": "Meta to create a new class of shares to fund AI push",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:16:13.517452+00:00"
+ },
+ "20d01956fcee": {
+  "id": "20d01956fcee",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+  "title": "Walmart is inviting AI agents to shop for you",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:16:21.749554+00:00"
+ },
+ "edaef270a0b7": {
+  "id": "edaef270a0b7",
+  "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+  "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:16:30.356573+00:00"
+ },
+ "95bdbfff8769": {
+  "id": "95bdbfff8769",
+  "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+  "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:16:39.761808+00:00"
+ },
+ "a10292ba1b43": {
+  "id": "a10292ba1b43",
+  "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+  "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+  "source": "Mac Rumors",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:16:56.488795+00:00"
+ },
+ "c18a43acbbf8": {
+  "id": "c18a43acbbf8",
+  "url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+  "title": "Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:17:06.372344+00:00"
+ },
+ "bf7b07d2d53b": {
+  "id": "bf7b07d2d53b",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
+  "title": "OpenAI 的最新 AI 模型即将登陆 Google Cloud 和 Antigravity",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-21T20:43:50.956Z",
+  "fetched_at": "2026-10-21T23:17:14.854743+00:00"
+ },
+ "4e980e70cce8": {
+  "id": "4e980e70cce8",
+  "url": "https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10",
+  "title": "Anthropic 推出全新个人智能助手 Claude Duet，以此回应 Meta 和 OpenAI",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-21T20:43:50.774Z",
+  "fetched_at": "2026-10-21T23:17:22.565323+00:00"
+ },
+ "3de69da0fe73": {
+  "id": "3de69da0fe73",
+  "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+  "title": "人工智能设计出具有生物活性的酶组分，这有助于拓展药物研发领域",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-21T20:28:09.827Z",
+  "fetched_at": "2026-10-21T23:17:31.121239+00:00"
+ },
+ "50636864ace8": {
+  "id": "50636864ace8",
+  "url": "https://news.ycombinator.com/item?id=50185265",
+  "title": "macOS 27 内置了一个离线大型语言模型（LLM），您可以在终端中调用它",
+  "source": "news.ycombinator.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-21T19:57:05.377Z",
+  "fetched_at": "2026-10-21T23:17:38.360684+00:00"
+ },
+ "2b64ae9c5d34": {
+  "id": "2b64ae9c5d34",
+  "url": "https://tech.slashdot.org/story/26/10/21/1637221/openai-models-are-now-on-all-three-major-us-cloud-platforms",
+  "title": "OpenAI Models Are Now On All Three Major US Cloud Platforms",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:17:46.061087+00:00"
+ },
+ "36b6bec743e2": {
+  "id": "36b6bec743e2",
+  "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+  "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T23:17:57.889869+00:00"
  }
 }

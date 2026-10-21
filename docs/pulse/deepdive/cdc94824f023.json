@@ -1,0 +1,24 @@
+{
+ "id": "cdc94824f023",
+ "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+ "title": "Meta to create a new class of shares to fund AI push",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:16:13.517452+00:00",
+ "content": "Meta says it’s issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\nMeta to create a new class of shares to fund AI push\nMeta says the new class of shares will also fund acquisitions and employee compensation.\n“The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,” Meta says in the press release. Susan Li, Meta’s chief financial officer, added during an earnings call that the new class of shares will “expand our funding tools and give us flexibility to invest behind the unprecedented momentum we’re seeing across every part of our business driven by AI.”\nMeta has poured billions of dollars into the AI race as it builds (and promotes) sprawling data centers, poaches top talent from other companies like OpenAI, and builds AI models capable of rivaling those from other tech giants. The company expects capital expenditures between $135 billion and $145 billion this year, up from the previous $130 billion and $145 billion estimate.\nIt’s been a busy past few weeks for Meta, which launched its AI agent, Muse, in September. Like other AI agents, Muse can do things like clean out your email inbox, book restaurant reservations, and plan trips. The Muse app shot to the top of app stores shortly after its rollout, and hit 10 million downloads in the US this week. Meta also rolled out its Muse Wonder model this week.\nMuse’s launch hasn’t come without some snags. Amid concerns about user privacy, a tech YouTuber reported that the agent gave out his address to a stranger on Facebook Marketplace. The company has also had to pause Muse’s conversation-sharing feature after researchers discovered chats publicly available on the web.",
+ "report": {
+  "summary": "Meta 拟发行无投票权新股，为 AI 巨额投入融资",
+  "background": "Meta 正全力押注 AI：建设大型数据中心、从 OpenAI 等公司挖角顶尖人才、研发对标其他科技巨头的模型，全年资本支出预期已上调至 1350 亿至 1450 亿美元。第三季度财报中，Meta 宣布将发行一类无投票权新股，用于 AI 投入、潜在收购和员工薪酬，2027 年开始交易。这是继 Alphabet、特斯拉等科技公司之后，又一家用特殊股权结构为长期高投入融资的大型科技企业，背景是 AI 军备竞赛带来的资本需求激增。",
+  "key_points": [
+   "Meta 将发行无投票权的新类别股票，资金主要用于 AI 计划，同时覆盖潜在收购与员工薪酬，2027 年起开始交易。",
+   "公司称 AI 转型所需的投资规模“非常巨大”，CFO 表示新股将扩大融资工具、提供更大灵活性。",
+   "Meta 今年资本支出预期上调至 1350 亿至 1450 亿美元，持续投入数据中心、人才与模型研发。",
+   "近期 Meta 推出 AI 智能体 Muse，一度登顶应用商店，美国下载量达 1000 万，并发布 Muse Wonder 模型。",
+   "Muse 也暴露隐私问题：有博主称其向陌生人泄露住址，对话分享功能因聊天内容可被公开检索而被暂停。"
+  ],
+  "impact": "对行业而言，无投票权股票让 Meta 能在不稀释创始人控制权的前提下筹集 AI 军备竞赛资金，可能引发其他巨头效仿。对开发者，这意味着更多算力、模型和平台生态投入，但 Meta 自研模型与智能体的强势扩张也会挤压第三方空间。对普通用户，AI 助手将更快普及，但 Muse 泄露住址等事件提示隐私与数据安全风险需要更严格的监管与产品约束。",
+  "tools": "想跟进可关注 Meta AI 及其 Muse 智能体、开源 Llama 系列模型；研究股权结构与公司治理可查阅 Meta 投资者关系页面的财报与招股文件；开发者可用 PyTorch（Meta 主导演进）跟进其技术栈。"
+ },
+ "lang": "zh"
+}

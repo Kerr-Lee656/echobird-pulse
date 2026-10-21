@@ -1,0 +1,24 @@
+{
+ "id": "4e980e70cce8",
+ "url": "https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10",
+ "title": "Anthropic 推出全新个人智能助手 Claude Duet，以此回应 Meta 和 OpenAI",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-21T20:43:50.774Z",
+ "fetched_at": "2026-10-21T23:17:22.565323+00:00",
+ "content": "Anthropic is joining the personal AI agent craze.\nThe company announced the new app Claude Duet on Wednesday, billed as a \"proactive agent\" that can run in the background, surface tasks to a user, and handle a variety of work. The tool is in research preview for now with a waitlist, meaning it won't immediately compete for the larger market with other new agents like Meta's Muse and OpenAI's Dots.\nStill, the announcement ramps up the pressure on those companies — Anthropic says it built Duet around its flagship Opus 5.5 model, which was released in late September and has already become one of the industry's most popular. Recent model breakthroughs have made AI better at handling work on its own, spurring a rush to build these \"always-on\" personal agents.\n\"It can have the discernment and judgment around when to be proactive, when to act on your behalf,\" said Mike Krieger, a co-lead of Anthropic's Labs team, said in a Duet launch video.\nThe tool, Anthropic says, will send users a brief each morning about what's happening on their connected apps, and message them when something needs attention. Like other companies' offerings, it runs outside a user's computer, sends notifications, and asks for approval on certain tasks.\nAnthropic announced Duet on the day of Meta's earnings report and used the opportunity to mention a new poach from Mark Zuckerberg's company. Karan Ahuja led product management for Meta Superintelligence Labs until July, according to his LinkedIn, before starting at Anthropic in August and leading Duet's development.\nHe wrote on X that he's been using Duet to build Duet, and said the team \"built it for professionals and small business owners juggling a lot at work and at home.\"\nAhuja also wrote that Anthropic is letting people into Duet from the waitlist \"as quickly as possible.\"\nThe news didn't go unnoticed at Meta. Alexandr Wang, who heads Meta Superintelligence Labs, posted a meme about Duet's similarity to Muse.\nAnthropic is fast approaching a giant initial public offering, which could value the company at as much as $2 trillion. Like other AI players, the company navigates a high-wire competition to win over users, secure computing power, build state-of-the-art models, and deliver AI-native products.\nThe data firm Apptopia estimates that Muse had more than 14 million installations as of Wednesday. It found that Claude users who installed the Muse app were using Claude more than before, though still for fewer minutes per day than they spent on the Meta product.\nHave a tip? Contact this reporter via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a non-work WiFi network, and a non-work device; here's our guide to sharing information securely.",
+ "report": {
+  "summary": "Anthropic 发布 proactive agent（主动式智能体）Claude Duet，加入个人智能体竞赛",
+  "background": "近一年，模型能力的突破让 AI 从“问答”走向“替你做事”：Meta 推出个人智能体 Muse（据 Apptopia 统计安装量已超 1400 万），OpenAI 有 Dots，各家都在争夺“常驻运行、主动提醒”的入口。Anthropic 此前以 Claude 模型与 API 业务见长，产品端相对克制，这次用旗舰模型 Opus 5.5 支撑 Duet，被视为补上“AI 原生应用”这一环。时点也微妙：公司正冲刺可能是史上最大规模的 IPO（估值传闻高达 2 万亿美元），需要向资本市场证明自己有直接触达用户的产品，而不只是卖模型。",
+  "key_points": [
+   "Duet 定位“主动式智能体”：在后台常驻运行，主动发现待办并推送，而不是等用户提问；这与传统聊天机器人的被动响应模式相反。",
+   "每天早晨推送一份“简报”，汇总用户已连接应用里发生的事；遇到需要处理的事项会主动发消息，部分任务执行前会请求用户批准。",
+   "底层由 9 月底发布的旗舰模型 Opus 5.5 驱动，Anthropic 称该模型已成为业界最受欢迎的模型之一，这体现出模型能力是智能体体验的基础。",
+   "目前只是研究预览，需要排队申请使用，尚未与 Muse、Dots 正面争夺大众市场；但发布时点选在 Meta 财报当天，竞争意味明显。",
+   "团队负责人 Karan Ahuja 今年 8 月从 Meta 超级智能实验室跳槽而来，并称自己“用 Duet 来开发 Duet”，Meta 高管则用梗图调侃两者相似。"
+  ],
+  "impact": "对行业而言，竞争焦点从“模型分数”转向“谁掌管用户的日常入口”，智能体的分发能力和生态连接将成为新战场，同时隐私与授权边界会被反复讨论。对开发者，主动式智能体意味着新的产品范式：后台任务、通知权限、工具调用协议（如 MCP）将比 prompt 技巧更重要。对普通用户，好处是 AI 从“要你去找它”变成“它来找你”，但代价是持续的数据接入、订阅成本，以及需要学会设定权限边界。",
+  "tools": "想跟进可关注：Claude 官方应用及 Duet 候补名单、Claude Opus 5.5 API、Anthropic 的 MCP 协议（接工具与数据源）；开源侧可试 browser-use、Open Interpreter、n8n/LangGraph 搭建自己的常驻任务流，或 AutoGPT 类项目理解主动式 agent 架构。"
+ },
+ "lang": "zh"
+}

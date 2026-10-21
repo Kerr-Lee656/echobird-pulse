@@ -1,0 +1,24 @@
+{
+ "id": "2b64ae9c5d34",
+ "url": "https://tech.slashdot.org/story/26/10/21/1637221/openai-models-are-now-on-all-three-major-us-cloud-platforms",
+ "title": "OpenAI Models Are Now On All Three Major US Cloud Platforms",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:17:46.061087+00:00",
+ "content": "OpenAI Models Are Now On All Three Major US Cloud Platforms 8\n\t\t\t\n\t\t \t\n\t\t\t\tOpenAI is bringing its models to Google Cloud's model garden and Antigravity coding tool, putting its technology on all three major U.S. cloud platforms after Microsoft's exclusive license ended earlier this year. \"Google Cloud's longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them,\" OpenAI said in a blog post. It continues:  [...] The integration will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.\nGoogle Cloud customers will be able to purchase OpenAI frontier models via model garden, transacted through the Google Cloud Marketplace. Enterprises with Google Cloud spend commitments will be able to draw down their GCP commitments for these purchases.\nAdditionally, OpenAI models will soon be available in Google Antigravity and the Gemini Agent, providing enterprise customers with model choice flexibility and the best model for each task. [...]  For context, Microsoft previously held exclusive licensing rights to OpenAI's intellectual property, but that arrangement ended less than six months ago as OpenAI began expanding its partnerships with other cloud providers.\nJust one day after Microsoft's exclusivity ended, Amazon announced plans to host OpenAI's models on its cloud platform in April.",
+ "report": {
+  "summary": "OpenAI模型上架谷歌云，覆盖美国三大云平台",
+  "background": "长期以来，微软凭借独家许可，让OpenAI的模型只能优先在Azure上提供。随着该独家授权在今年结束，OpenAI开始推行多云战略：先是亚马逊宣布将在其云平台上托管OpenAI模型，如今谷歌云也把OpenAI的前沿模型接入Model Garden（模型库）。这意味着OpenAI从依赖单一云厂商的深度绑定关系，转向类似模型供应商的开放分销模式，与Anthropic、谷歌Gemini在多家云平台上竞争的格局看齐。云厂商的竞争焦点，也从争夺独家模型转向比拼企业级治理、算力供应和开发者工具链。",
+  "key_points": [
+   "OpenAI模型将上架Google Cloud的Model Garden，企业可通过Google Cloud Marketplace购买，已有GCP消费承诺的客户可直接抵扣。",
+   "微软对OpenAI知识产权的独家授权结束后不到半年，OpenAI已先后与亚马逊、谷歌达成合作，实现对美国三大云平台的全覆盖。",
+   "模型还将接入谷歌的Antigravity编码工具与Gemini Agent，企业可按具体任务选用最合适的模型，而不必因模型而锁定云厂商。",
+   "谷歌云主打访问控制、集中数据治理与高性能基础设施，强调满足企业级高负载与合规需求，而不只是提供模型接口。",
+   "OpenAI从“微软独家伙伴”转变为“多云模型供应商”，云厂商之间转而在价格、治理能力与工具链体验上展开竞争。"
+  ],
+  "impact": "对AI行业而言，前沿模型的分发正变得渠道化，独家绑定不再是留住客户的主要手段，竞争重心转向云平台的治理能力与配套工具。对开发者来说，在现有云账户和既有采购承诺内就能调用OpenAI模型，可减少跨云采购与数据出域成本，同时也更容易做多模型切换与对比评测。对普通用户而言，这意味着更多产品会内嵌OpenAI能力，且价格与体验可能因云厂商竞争而改善；但模型选择增多，也提高了应用方在成本与效果之间做取舍的复杂度。",
+  "tools": "想跟进的话，可关注 Google Cloud 的 Vertex AI Model Garden 与 Google Antigravity 编码工具，以及 AWS Bedrock、Azure AI Foundry 的对应入口；多模型统一调用层可看 LiteLLM、OpenRouter，便于在多家云与多个模型间做路由、比价和回退。"
+ },
+ "lang": "zh"
+}

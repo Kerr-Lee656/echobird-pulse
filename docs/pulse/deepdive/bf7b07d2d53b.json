@@ -1,0 +1,24 @@
+{
+ "id": "bf7b07d2d53b",
+ "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
+ "title": "OpenAI 的最新 AI 模型即将登陆 Google Cloud 和 Antigravity",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-21T20:43:50.956Z",
+ "fetched_at": "2026-10-21T23:17:14.854743+00:00",
+ "content": "Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you’ll have more options. OpenAI and Google have come to an arrangement that will see the former’s frontier models arrive in Google Cloud services. Perhaps more importantly, GPT models will soon appear in Antigravity, Google’s agent-powered coding tool.\nFor enterprise customers and AI enthusiasts, OpenAI’s latest model will appear in Google’s “Model Garden” in the coming weeks, adding to its 200-plus options. The garden already offers access to Google’s Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Anthropic’s Claude AI has also been available for some time. Google says it’s now the only large cloud provider offering access to all three leading closed LLMs.\nWhile OpenAI notes that Microsoft continues to be its primary cloud partner, the full suite of current GPT 6 and 6.1 models—Astra, Sol, and Luna—will launch on Google Cloud. Astra will naturally cost the most to run, but Google’s system supports dynamically moving workloads between LLMs based on performance, latency, and efficiency.\nOpenAI models will be available to run entirely on Google’s infrastructure, with transactions handled via the Google Cloud Marketplace. For businesses with established Google Cloud spending commitments, this will make it easy to begin using GPT models in place of whatever they were using before.",
+ "report": {
+  "summary": "OpenAI 前沿模型将入驻谷歌云与 Antigravity 编程工具",
+  "background": "长期以来，OpenAI 模型主要通过微软 Azure 独家分发，谷歌云则主打自家 Gemini。随着企业普遍转向多模型策略，云厂商的竞争焦点从「独占某个模型」变成「谁的货架更全」。此前 Anthropic 的 Claude 已上线谷歌云 Vertex AI，这次 GPT 系列补上最后一块拼图，使谷歌成为唯一同时提供 Gemini、Claude、GPT 三大闭源模型的云平台。与此同时，谷歌力推的 agent 编程工具 Antigravity 也需要更强的模型供给来吸引开发者。",
+  "key_points": [
+   "GPT-6 与 6.1 全系（Astra、Sol、Luna）将在数周内上架谷歌云 Model Garden，与 Gemini、Claude 及 Llama、Mistral 等 200 多个模型并列。",
+   "Antigravity 这一 agent 编程工具将接入 GPT 模型，开发者可在一个 AI 编程环境里自由切换不同厂商的模型。",
+   "结算走 Google Cloud Marketplace，可直接抵扣企业既有的云消费承诺额度，迁移阻力大幅降低。",
+   "OpenAI 强调微软仍是其首要云伙伴，此举是多云扩张，并未改换阵营。",
+   "谷歌云支持按性能、延迟和效率在多个模型之间动态调度负载，方便在成本与效果之间做权衡。"
+  ],
+  "impact": "对 AI 行业而言，模型分发正在「去独占化」，云厂商的护城河从模型本身转向基础设施、结算体系与调度能力，价格与算力竞争会更直接。对开发者来说，同一云内即可比较和切换模型，做 A/B 测试、降级与容灾都更简单，供应商锁定风险明显下降，但也要面对更多选型与成本治理工作。对普通用户，产品背后的模型可能悄悄更换，体验趋于同质化，短期或迎来更激烈的降价与免费额度竞争。",
+  "tools": "想跟进可关注 Google Cloud Model Garden 与 Vertex AI 的模型目录与路由功能、Antigravity 编程工具，以及 LiteLLM、OpenRouter 这类多模型统一接入与比价层，便于在自有应用中做模型热切换和成本监控。"
+ },
+ "lang": "zh"
+}

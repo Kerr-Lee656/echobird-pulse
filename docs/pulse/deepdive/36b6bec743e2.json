@@ -1,0 +1,23 @@
+{
+ "id": "36b6bec743e2",
+ "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+ "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:17:57.889869+00:00",
+ "content": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.\nThe company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done.\nThe news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, Harvey also said its annual recurring revenue (ARR) was more than $ 200 million.\nLegora’s Series E follows the company’s April announcement of a $50 million extension of a $550 million Series D round, which valued the company at $5.6 billion. At the time, the company said its ARR had reached $100 million. That number now stands at over $200 million, the company shared on Wednesday.\nInvestors in the latest financing include Atreides Management, which led the round, as well as Baron Capital, Bessemer Venture Partners, General Catalyst, Menlo, and other top names. The company plans to use the fresh capital to further expand across North America.",
+ "report": {
+  "summary": "Legora获5.5亿美元E轮，估值88亿美元",
+  "background": "法律行业正从“AI问答助手”走向可执行工作流的AI服务，合同审查、尽调、文书起草等场景对准确性、权限和审计要求高。Legora与Harvey是头部玩家：Harvey上月融资5.5亿美元、估值155亿美元；Legora今年4月刚宣布5000万美元D轮扩展，估值56亿美元、ARR 1亿美元。如今其ARR翻倍至超2亿美元，并获5.5亿美元E轮，说明资本正押注法律AI从试点进入规模化交付。",
+  "key_points": [
+   "Legora完成5.5亿美元E轮，Atreides领投，Baron、Bessemer、General Catalyst、Menlo等参投，估值达88亿美元。",
+   "估值较今年4月的56亿美元明显跳升；ARR从1亿美元增至超2亿美元，显示法律AI付费需求强劲。",
+   "最大竞品Harvey上月刚获5.5亿美元融资、估值155亿美元，ARR超2亿美元，法律AI头部融资竞赛升温。",
+   "Legora将用新资金加速北美扩张；行业正从AI助手转向能直接完成法律工作流的AI服务。"
+  ],
+  "impact": "对AI行业，法律AI的高客单价和强付费意愿验证了垂直专业服务赛道，88亿美元估值将推高竞争与融资门槛。对开发者，法律文档解析、RAG、权限审计、合规脱敏和评测成为关键能力，领域数据与工作流集成比通用模型更重要。对普通用户，法律服务效率和可及性有望提升、成本下降，但准确性、隐私与责任边界仍需谨慎。",
+  "tools": "可关注 LlamaIndex、LangChain、Dify 搭建法律文档RAG与工作流；Unstructured 解析合同PDF；Ragas 做检索评测；同时重视权限审计、脱敏与人工复核。"
+ },
+ "lang": "zh"
+}

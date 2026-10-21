@@ -7297,5 +7297,68 @@
   "site_name": "Wired AI",
   "published_at": "2026-10-21T15:02:15.000Z",
   "fetched_at": "2026-10-21T18:40:37.961772+00:00"
+ },
+ "df4815cb1a6e": {
+  "id": "df4815cb1a6e",
+  "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+  "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T22:48:02Z",
+  "fetched_at": "2026-10-21T23:18:39.429374+00:00"
+ },
+ "88065ea7281c": {
+  "id": "88065ea7281c",
+  "url": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
+  "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T21:33:18Z",
+  "fetched_at": "2026-10-21T23:18:49.474765+00:00"
+ },
+ "cdc94824f023": {
+  "id": "cdc94824f023",
+  "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+  "title": "Meta to create a new class of shares to fund AI push",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-21T21:30:02.000Z",
+  "fetched_at": "2026-10-21T23:18:59.700697+00:00"
+ },
+ "258d5ff776fa": {
+  "id": "258d5ff776fa",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+  "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-21T19:53:20.000Z",
+  "fetched_at": "2026-10-21T23:19:39.568078+00:00"
+ },
+ "c982abc898bd": {
+  "id": "c982abc898bd",
+  "url": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
+  "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T19:31:37Z",
+  "fetched_at": "2026-10-21T23:19:52.308032+00:00"
+ },
+ "1ef243007176": {
+  "id": "1ef243007176",
+  "url": "https://mistral.ai/news/mistral-large-4/",
+  "title": "Mistral Large 4",
+  "source": "Hacker News (315pts, 92c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T19:20:55Z",
+  "fetched_at": "2026-10-21T23:20:03.048288+00:00"
+ },
+ "7b066c33c960": {
+  "id": "7b066c33c960",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-10-21T18:51:42.000Z",
+  "fetched_at": "2026-10-21T23:20:17.343388+00:00"
  }
 }

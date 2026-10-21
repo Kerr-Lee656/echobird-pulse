@@ -1,0 +1,24 @@
+{
+ "id": "20d01956fcee",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+ "title": "Walmart is inviting AI agents to shop for you",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:16:21.749554+00:00",
+ "content": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits.\nWalmart is inviting AI agents to shop for you\nWhile Amazon shuts out AI agents, Walmart is letting them in.\nThe embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity’s shopping agent and Meta’s Muse AI assistant. But Walmart is opening its doors to AI shoppers — as long as they follow the retailer’s rules. It has outlined a set of terms for agents, saying that “agents must not take actions beyond what the shopper intends” and cannot change a customer’s payment method. Agents also can only access information needed to complete their task. Walmart says it will block agents that don’t follow these terms.\nAgents will connect to new “Agent Profiles” within Walmart. By default, Walmart will require approval for all AI agent purchases, but you can also let it shop within a certain budget, such as up to $100. You’ll also be able to review your agent’s purchases separately from your own in Agent Profiles, as well as turn off the agent at any time.\nThe retailer has built an “Agent Gateway,” currently available in beta, that connects AI agents through the Model Context Protocol, an open standard that allows AI agents to plug into different services on the web. Walmart says this not only enables AI agents to shop without running into hiccups that they might encounter when navigating a browser, but also prevents them from accessing your shopping history and personal information.\n“For example, if a customer tends to buy sourdough bread or a particular brand of milk, Walmart will help the agent find those usual items for the customer without sharing the customer’s broader shopping history with the agent,” Walmart says. The company will let users shop with AI agents on Sam’s Club as well.",
+ "report": {
+  "summary": "沃尔玛下月允许AI代理代购，设审批与额度并用MCP接入",
+  "background": "2025年以来，AIAgent开始从“聊天”转向“替人办事”，电商成为首个竞争激烈的应用领域：OpenAI与Stripe推出AgenticCommerceProtocol和即时结账，Google发布AP2支付协议，Perplexity的Comet浏览器代理也尝试代替用户下单。但零售商普遍警惕——亚马逊已封堵Perplexity购物代理和Meta的Muse助手，理由包括抓取数据、绕过广告与结账流程。沃尔玛选择另一条路：主动制定规则、把代理纳入自家体系，既避免被外部代理绕过，又想抢占“代理购物”时代的入口。",
+  "key_points": [
+   "沃尔玛下月上线“代理档案”（AgentProfiles），用户可逐笔审批AI购物，也可设置预算上限（如100美元内自主下单），代理消费与本人订单分开查看，随时可关停。",
+   "沃尔玛同时发布代理行为条款：不得越出用户意图、不得更改支付方式、只能读取完成任务所需信息；违规代理将被直接封禁，明确“开放不等于放任”。",
+   "技术底座是测试中的“AgentGateway”，通过ModelContextProtocol（MCP）标准接入代理，代理不必模拟点击浏览器页面，减少卡顿，也拿不到用户完整购物史和隐私。",
+   "沃尔玛举例称，若用户常买某品牌牛奶，系统会让代理找到该商品，但不把整份历史订单交给代理，从而在个性化与隐私之间保持平衡。",
+   "路线与亚马逊截然相反：亚马逊封堵外部代理，沃尔玛开放但设护栏，山姆会员店也将支持；这使零售商在代理电商里从“被绕过者”变成“规则制定者”。"
+  ],
+  "impact": "对AI行业，零售商首次给出可执行的“代理准入规范”，MCP从开发者工具变成商业基础设施，代理电商竞争从封堵转向合规接入；对开发者，通过结构化接口比浏览器爬取更稳定，但必须遵守意图边界与最小权限，做“守规矩的代理”成为新门槛；对普通用户，代购可省下比价、复购的精力，但审批、预算、支付隔离会成为新的使用习惯，也需要警惕代理误买与权限滥用。",
+  "tools": "想跟进可研究ModelContextProtocol官方规范与SDK（含TypeScript/Python服务端），以及PlaywrightMCP、browser-use等代理浏览器方案；参考OpenAIAgenticCommerceProtocol、GoogleAP2了解代理支付标准，并关注沃尔玛AgentGateway测试进展。"
+ },
+ "lang": "zh"
+}

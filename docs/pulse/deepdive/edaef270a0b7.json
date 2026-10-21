@@ -1,0 +1,23 @@
+{
+ "id": "edaef270a0b7",
+ "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+ "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:16:30.356573+00:00",
+ "content": "Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation.\nThe round comes just nine months after the company launched with a $180 million seed round from GV, Sequoia, and Index. That seed round had valued the company at $1.5 billion, so its valuation just quadrupled.\nOther participants in the new round included earlier backers Sequoia, GV and Kleiner Perkins. Valor, Atreides, Kleiner Perkins, A*, and Nvidia are also investors in the company.\nFlapping Airplanes was founded by Aidan Smith and brothers Asher and Ben Spector. Smith is a former founder and Thiel fellow who worked at the brain implant company Neuralink during college. Asher Spector was a statistics PhD at Stanford, while Ben Spector was a computer science PhD student at Stanford and founded Prod while at MIT.\nProd is an almost secret-society, five-year-old student-run startup accelerator that has “become one of the most powerful talent incubators in Silicon Valley,” wrote Sequoia partner David Cahn, a Flapping Planes investor, in a post earlier this year explaining why he invested. Together, the founders “are building the ‘young person’s AGI lab,’” as Cahn described it.\nThe founders describe their work as “the world’s most complete megakernel framework. It can perform entire training runs, serve inference, play video games, and even do all three simultaneously in a single kernel.” (A kernel is a program that runs on a GPU, and a megakernel bundles many tasks into one program.)\nThe founders claim the framework “can overlap memory-bound inference with compute-bound training,” meaning it can run a task that spends most of its time waiting for data to be fetched alongside one that spends most of its time doing math, so the chip is rarely sitting idle. The premise is that AI has barely scratched the surface of what GPUs can do, and they believe it can create intelligent systems “without ingesting half the internet.”\nThe goal is systems that cost less to train and run. “A model that’s a million times more data efficient is probably a million times easier to put into the economy,” Asher Spector told TechCrunch shortly after the startup launched.\nThey now have a fresh $1 billion to hire and attempt to turn that goal into reality.",
+ "report": {
+  "summary": "一年AI实验室获10亿美元A轮，估值60亿美元",
+  "background": "Flapping Airplanes成立仅一年，由有Neuralink经历的创始人及斯坦福统计学、计算机博士兄弟创办，主打用更少数据训练大模型。9个月前它刚获1.8亿美元种子轮、估值15亿美元；如今A轮10亿美元、估值60亿美元，九个月内估值翻四倍，反映资本对高效训练和年轻AGI团队的追捧。",
+  "key_points": [
+   "A轮由Index和Lux联合领投，融资10亿美元、估值60亿美元；距1.8亿美元种子轮仅9个月，估值从15亿增至60亿，翻四倍。",
+   "团队包括Aidan Smith与Asher、Ben Spector兄弟，有Neuralink、斯坦福博士及Prod加速器背景，被投资人称为“年轻人的AGI实验室”。",
+   "核心技术是“megakernel”框架，把训练、推理、游戏等任务打包进单个GPU内核，并可重叠内存受限推理与计算受限训练，减少芯片空转。",
+   "目标是用更少数据训练和运行模型，创始人称数据效率提升百万倍的模型更容易进入经济体系，而不是吞下半个互联网。"
+  ],
+  "impact": "对AI行业，这笔融资显示资本仍愿为高效训练、GPU底层优化和年轻AGI团队下重注，可能推动“少数据、低成本”路线与算力堆叠路线竞争。对开发者，megakernel与GPU内核优化值得关注，但短期落地和可复现性待验证。对普通用户，若成功，未来AI服务训练与推理成本下降，价格更低、能效更高。",
+  "tools": "想跟进可关注CUDA、Triton等GPU内核编程工具，Megatron-LM/DeepSpeed等训练框架，vLLM/SGLang等推理服务项目；也可跟踪Flapping Airplanes后续论文与开源动态。"
+ },
+ "lang": "zh"
+}

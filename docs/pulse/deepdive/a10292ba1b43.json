@@ -1,0 +1,24 @@
+{
+ "id": "a10292ba1b43",
+ "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+ "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+ "source": "Mac Rumors",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T23:16:56.488795+00:00",
+ "content": "Anthropic today introduced Claude Duet, its answer to Meta's Muse agent and OpenAI's Dots agent. Like Dots and Muse, it is a proactive agent that \"reaches out before you ask.\"\nClaude Duet connects to your apps and suggests things that need your attention. It completes tasks and can work in the cloud without local access to a computer. As with Muse and Dots, Duet has a virtual machine with its own browser to complete tasks.\nAnthropic says it built Duet for professionals and small business owners with too much to track, as those are the people most likely to find it helpful.\nDuet is built around Opus 5.5. It sends a short brief each morning on important items from connected apps, then checks apps every few hours and sends an alert when something needs attention. It can complete simple administrative tasks or more complex tasks like building web apps. While the agent works on its own, it will get user approval before it takes actions like sending a message, making a payment, signing a document, or deleting a file.\nIt incorporates memory, skills, and connected apps from a Claude account, so there isn't much setup involved. Interactions happen in one ongoing thread instead of across different conversations.\nClaude Duet does not see passwords or logins when given access to accounts, and it has a dedicated classifier and safety system prompt that checks each message and guards against sensitive information leaks.\nClaude Duet is a standalone product that's available in a research preview right now with access granted via waitlist. It's limited to Pro and Max subscribers in the United States, and can be used via the web or a standalone Duet iOS app. Duet uses your existing Claude plan limits, and its background checks will count toward them.",
+ "report": {
+  "summary": "Anthropic推出主动式AI代理Claude Duet，不用提问就主动代办任务。",
+  "background": "主动式AI代理正成为大模型竞争的新战场。Meta的Muse与OpenAI的Dots先后定义了这类产品：不等用户提问，而是接入用户的应用、主动发现问题并执行任务。Anthropic此前通过Computer Use和Claude Code积累了'让模型自己动手'的能力，Duet则是把这套能力产品化，基于Opus 5.5打造，面向事务繁杂的专业人士和小企业主。三家巨头在同一年扎堆同一形态，标志着AI正从'问答工具'向'常驻助理'迁移，交互的起点从用户提问变成系统主动推送。",
+  "key_points": [
+   "主动而非被动：Duet每天早晨推送一份要点简报，之后每隔几小时扫描已连接的应用，一旦发现需要处理的事就主动提醒。",
+   "云端独立作业：它运行在带独立浏览器的虚拟机里，不依赖你的电脑是否开机，可自行完成搭建网页等复杂任务。",
+   "关键动作需授权：发消息、付款、签文件、删文件等敏感操作必须先经用户批准，属于'半自动'模式。",
+   "零配置上手：复用Claude账号里的记忆、技能和已连接应用，交互集中在一条持续线程里而非分散的多轮会话。",
+   "隐私与配额：Duet看不到密码和登录凭证，配有专用分类器与安全提示词防泄漏；后台巡检会消耗你的套餐额度。"
+  ],
+  "impact": "对行业而言，主动式代理把竞争焦点从模型能力转向'谁能替我盯住生活'，超级入口之争将更激烈。对开发者，代理会调用API、读写数据，应用需要为'机器用户'重新设计权限体系和接口，MCP一类协议的价值明显上升。对普通用户，AI从'你去问它'变成'它来找你'，便利背后是对授权边界、误操作和订阅额度的新焦虑，信任设计与可控性将决定这类产品的成败。",
+  "tools": "想跟进可关注：Claude Duet（官网waitlist申请研究预览）、驱动其连接能力的开源协议MCP、提供浏览器操作能力的Computer Use及开源替代如OpenHands、Browser Use；搭建自建工作流可看n8n、LangGraph。也可对比体验OpenAI Dots与Meta Muse，判断同类形态的差异。"
+ },
+ "lang": "zh"
+}
