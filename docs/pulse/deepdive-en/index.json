@@ -7018,5 +7018,104 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-20T20:35:10.000Z",
   "fetched_at": "2026-10-21T00:39:37.640458+00:00"
+ },
+ "9c99dc597b92": {
+  "id": "9c99dc597b92",
+  "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+  "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-21T06:54:09.000Z",
+  "fetched_at": "2026-10-21T07:35:16.531964+00:00"
+ },
+ "038d8be61be5": {
+  "id": "038d8be61be5",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
+  "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T06:37:47Z",
+  "fetched_at": "2026-10-21T07:35:32.044297+00:00"
+ },
+ "fe3a2252adbb": {
+  "id": "fe3a2252adbb",
+  "url": "https://bogdantruta.com/blog/claude-finished-baldurs-gate-3/",
+  "title": "Claude Opus 5.5 finished Baldur's Gate 3 on its own in 39 hours",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T05:56:09Z",
+  "fetched_at": "2026-10-21T07:35:45.885712+00:00"
+ },
+ "3c7ee67e747e": {
+  "id": "3c7ee67e747e",
+  "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+  "title": "AI Benchmarks: Climbing the Wrong Hills",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T05:46:13Z",
+  "fetched_at": "2026-10-21T07:35:56.686542+00:00"
+ },
+ "ec880ef7fbcf": {
+  "id": "ec880ef7fbcf",
+  "url": "https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq",
+  "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-21T04:50:29.000Z",
+  "fetched_at": "2026-10-21T07:36:10.827410+00:00"
+ },
+ "f67bbcd5c137": {
+  "id": "f67bbcd5c137",
+  "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
+  "title": "Daytona, a startup building the 'agentic cloud,' valued at $1B",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T04:36:37Z",
+  "fetched_at": "2026-10-21T07:36:25.345468+00:00"
+ },
+ "1912f6d91b59": {
+  "id": "1912f6d91b59",
+  "url": "https://aihot.news/items/oiqrjvmo3ausrs9j1ttttsqc5",
+  "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-21T04:32:45.000Z",
+  "fetched_at": "2026-10-21T07:36:38.428646+00:00"
+ },
+ "1e301d069918": {
+  "id": "1e301d069918",
+  "url": "https://github.com/huggingface/agent-manager",
+  "title": "Agent Manager by HF",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T04:05:19Z",
+  "fetched_at": "2026-10-21T07:36:50.033151+00:00"
+ },
+ "c7c1db1d24f9": {
+  "id": "c7c1db1d24f9",
+  "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+  "title": "Southeast Asia’s digital economy to hit $368 billion",
+  "source": "Google AI Blog",
+  "site_name": "Google AI Blog",
+  "published_at": "2026-10-21T04:00:00.000Z",
+  "fetched_at": "2026-10-21T07:37:02.651455+00:00"
+ },
+ "321cffa584cc": {
+  "id": "321cffa584cc",
+  "url": "https://arxiv.org/abs/2610.26887",
+  "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-21T04:00:00.000Z",
+  "fetched_at": "2026-10-21T07:37:12.017126+00:00"
+ },
+ "bec21c86b678": {
+  "id": "bec21c86b678",
+  "url": "https://arxiv.org/abs/2610.27234",
+  "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-21T04:00:00.000Z",
+  "fetched_at": "2026-10-21T07:37:37.178856+00:00"
  }
 }

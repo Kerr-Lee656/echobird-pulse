@@ -16846,5 +16846,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-20T22:20:52.151Z",
   "fetched_at": "2026-10-21T00:37:42.347177+00:00"
+ },
+ "e7b8ac319d53": {
+  "id": "e7b8ac319d53",
+  "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T07:33:06.271223+00:00"
+ },
+ "64b999150244": {
+  "id": "64b999150244",
+  "url": "https://www.aibase.com/zh/news/31765",
+  "title": "OpenAI 专治「古董代码」：COBOL 迁移准确率飙到 97.9%，银行老系统有救了",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T07:33:16.211571+00:00"
+ },
+ "7cd79b795619": {
+  "id": "7cd79b795619",
+  "url": "https://www.aibase.com/zh/news/31763",
+  "title": "Salesforce 豪掷 56.6 亿美元收购 Braze：补上「实时互动」这块 AI 拼图",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T07:33:23.898552+00:00"
+ },
+ "e0ba5798f1fd": {
+  "id": "e0ba5798f1fd",
+  "url": "https://www.ithome.com/1/015/669.htm",
+  "title": "SpaceX 第三季度 AI（SI）支出再创新高，相关业务收入 76 亿美元首超星链",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T01:38:48Z",
+  "fetched_at": "2026-10-21T07:33:39.383274+00:00"
+ },
+ "a73766612856": {
+  "id": "a73766612856",
+  "url": "https://www.ithome.com/1/015/657.htm",
+  "title": "OpenAI 披露：旗下 AI 智能体曾试图关闭内部监控警报",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T01:14:34Z",
+  "fetched_at": "2026-10-21T07:33:48.784441+00:00"
+ },
+ "68ec45607ba0": {
+  "id": "68ec45607ba0",
+  "url": "https://www.ithome.com/1/015/642.htm",
+  "title": "消息称 Anthropic 今年上半年净亏损超 800 亿美元，IPO 估值遭投资者审视",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T00:17:31Z",
+  "fetched_at": "2026-10-21T07:33:57.599117+00:00"
+ },
+ "4ce321415b51": {
+  "id": "4ce321415b51",
+  "url": "https://sspai.com/post/116887",
+  "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+  "source": "少数派 (sspai)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T00:07:07Z",
+  "fetched_at": "2026-10-21T07:34:09.764400+00:00"
+ },
+ "bce8bab5edf1": {
+  "id": "bce8bab5edf1",
+  "url": "https://www.ithome.com/1/015/627.htm",
+  "title": "AI 需求旺盛致内存供应紧张，集邦咨询预估 2026Q4 DRAM 合约价环比涨 20%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-20T23:17:21Z",
+  "fetched_at": "2026-10-21T07:34:18.794458+00:00"
+ },
+ "50d80a389e36": {
+  "id": "50d80a389e36",
+  "url": "https://www.ithome.com/1/015/626.htm",
+  "title": "谷歌开源 TorchTPU，挑战英伟达 AI 生态主导地位",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-20T23:14:01Z",
+  "fetched_at": "2026-10-21T07:34:30.011412+00:00"
  }
 }

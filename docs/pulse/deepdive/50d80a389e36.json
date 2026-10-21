@@ -1,0 +1,24 @@
+{
+ "id": "50d80a389e36",
+ "url": "https://www.ithome.com/1/015/626.htm",
+ "title": "谷歌开源 TorchTPU，挑战英伟达 AI 生态主导地位",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-20T23:14:01Z",
+ "fetched_at": "2026-10-21T07:34:30.011412+00:00",
+ "content": "IT之家 10 月 21 日消息，谷歌于当地时间周二宣布，面向谷歌 TPU 的原生 PyTorch 框架 TorchTPU 现已在 GitHub 上开源。借此，谷歌与亚马逊一同尝试打破英伟达在人工智能行业的垄断。目前绝大多数人工智能应用默认都是基于英伟达芯片，也就是图形处理器（GPU）开发运行。\nPyTorch 是一款热门开源工具库，人工智能应用开发者与初创企业依靠它搭建、训练和部署人工智能模型。有统计称，85% 的人工智能应用都在使用 PyTorch。PyTorch 最初由 Meta 在 2016 年开发，那时人们还完全没有意识到大语言模型将会改变世界。当时英伟达 GPU 已经是人工智能研究的标准硬件，因此 PyTorch 的诸多功能都是专门为适配英伟达 GPU 打造。2022 年，Meta 将 PyTorch 移交至 Linux 基金会，这家非营利机构负责管理许多重要的开源项目。\n谷歌推出的 TorchTPU，能够让人工智能应用在谷歌自研人工智能芯片张量处理单元（TPU）上运行。它还可以便捷地将现有的 PyTorch 应用迁移到 TPU，进而迁移到谷歌云。开发者仅需简单修改配置，无需重写应用代码即可完成迁移。\n亚马逊在当地时间周一发布了类似消息，推出自家的 PyTorch 版本 TorchNeuron。TorchNeuron 可以在无需重写代码的情况下，把人工智能应用移植到亚马逊自研芯片 Trainium 以及亚马逊云（AWS）。亚马逊还表示，将进一步削弱英伟达对 PyTorch 的掌控力。其正在向 PyTorch 主项目提交代码，把各类功能与英伟达芯片解耦，让 PyTorch 原生就能兼容各类硬件。\n不过IT之家注意到，谷歌在部分方面的举措力度或许超过亚马逊。谷歌称，其直接联合 Meta、Hugging Face、英菲拉克特（Inferact，vLLM 开发方）、拉迪克斯阿克（RadixArk，SGLang 开发方）等多方合作，保证 TorchTPU 的功能与代码库能够像原版 PyTorch 一样，和这些主流人工智能开发工具良好兼容。\n除此之外，这家搜索巨头推出了专用工具 TPU 智能体套件，帮助开发者把应用迁移到谷歌芯片与云平台，并在迁移过程中排查修复错误。谷歌还升级了广受使用的 LiteRT 工具，该工具用于在手机、笔记本电脑和嵌入式设备上运行人工智能模型，升级后可以更好地支持基于 PyTorch 开发的人工智能应用。\n以上这些进展，并不代表人工智能应用开发者会仅仅因为可以便捷迁移到其他芯片与云平台，就集体放弃英伟达硬件。但亚马逊和谷歌显然正在努力终结英伟达的优势地位。",
+ "report": {
+  "summary": "谷歌开源TorchTPU，PyTorch应用可迁移至TPU",
+  "background": "PyTorch是AI开发的主流框架，最初由Meta于2016年开发，2022年移交Linux基金会。由于诞生时英伟达GPU已是研究标配，其大量功能围绕CUDA/GPU生态构建，形成英伟达强势地位。随着大模型训练成本上升，谷歌、亚马逊等云厂商希望让PyTorch原生支持自家芯片，降低用户迁移门槛，TorchTPU与TorchNeuron正是在这一背景下推出。",
+  "key_points": [
+   "谷歌将TorchTPU在GitHub开源，开发者只需修改配置，就能把现有PyTorch应用迁移到TPU和谷歌云，无需重写代码。",
+   "PyTorch由Meta在2016年开发，2022年移交Linux基金会，约85%的AI应用使用它，但历史功能主要围绕英伟达GPU优化。",
+   "谷歌联合Meta、Hugging Face、vLLM和SGLang等生态伙伴，保证TorchTPU兼容主流工具，并推出TPU智能体套件帮助迁移排错。",
+   "亚马逊也发布TorchNeuron，支持迁移到Trainium和AWS，并向PyTorch主项目提交解耦代码，试图削弱英伟达对框架生态的掌控。",
+   "谷歌升级LiteRT，使基于PyTorch开发的模型能更好运行在手机、笔记本和嵌入式设备上，扩展端侧AI部署路径。"
+  ],
+  "impact": "对AI行业，谷歌和亚马逊正把竞争从芯片延伸到PyTorch生态，云厂商有望降低对英伟达的单一依赖；对开发者，硬件选择更多、迁移成本下降，但性能、稳定性和工具链仍需实测；对普通用户，长期可能带来更多AI服务选择和更低使用成本，短期体验变化有限。",
+  "tools": "可关注GitHub上的TorchTPU、PyTorch、Hugging Face、vLLM、SGLang和LiteRT；想迁移TPU可试用谷歌TPU智能体套件，关注TorchNeuron了解AWS路线。"
+ },
+ "lang": "zh"
+}
