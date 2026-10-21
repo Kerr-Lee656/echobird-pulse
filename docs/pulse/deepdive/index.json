@@ -16774,5 +16774,77 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-20T21:35:50.489065+00:00"
+ },
+ "f934cb40a046": {
+  "id": "f934cb40a046",
+  "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+  "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:36:34.554153+00:00"
+ },
+ "08d76f8f7186": {
+  "id": "08d76f8f7186",
+  "url": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
+  "title": "Meta details Prometheus, the Ohio supercluster heading for 1 million GPUs",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:36:42.215434+00:00"
+ },
+ "d22443c9ff36": {
+  "id": "d22443c9ff36",
+  "url": "https://thenextweb.com/news/sierra-stripe-payments-ai-agent-calls",
+  "title": "Sierra and Stripe let AI agents take card payments during calls",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:36:50.831564+00:00"
+ },
+ "6a7ad8e441e6": {
+  "id": "6a7ad8e441e6",
+  "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+  "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:37:01.308426+00:00"
+ },
+ "6815e3abe3ba": {
+  "id": "6815e3abe3ba",
+  "url": "https://www.techradar.com/pro/security/deepseek-ai-tools-banned-from-us-government-agency-systems-as-rift-with-china-grows",
+  "title": "DeepSeek AI tools banned from US government agency systems as rift with China grows",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:37:14.181472+00:00"
+ },
+ "81a40cdeafde": {
+  "id": "81a40cdeafde",
+  "url": "https://www.36kr.com/p/4034109983036552",
+  "title": "突发，DeepSeek重磅开源核心推理引擎",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:37:23.577237+00:00"
+ },
+ "403b5cbebf71": {
+  "id": "403b5cbebf71",
+  "url": "https://www.techradar.com/pro/some-agents-exhibited-unintended-web-browsing-behavior-tencent-admits-ai-agents-it-was-testing-made-more-than-2-600-attempts-in-11-days-to-slip-past-alibabas-map-defenses-just-to-find-out-which-zoo-gate-people-use",
+  "title": "Tencent admits AI agents it was testing made over 2,600 attempts in 11 days to slip past Alibaba's map defenses",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:37:31.611250+00:00"
+ },
+ "d69591dfd587": {
+  "id": "d69591dfd587",
+  "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
+  "title": "基础设施初创公司 Fireworks AI 正就新一轮融资进行初步洽谈，估值在 300 亿至 400 亿美元之间。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-20T22:20:52.151Z",
+  "fetched_at": "2026-10-21T00:37:42.347177+00:00"
  }
 }

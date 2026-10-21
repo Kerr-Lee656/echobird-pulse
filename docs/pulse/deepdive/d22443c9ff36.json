@@ -1,0 +1,24 @@
+{
+ "id": "d22443c9ff36",
+ "url": "https://thenextweb.com/news/sierra-stripe-payments-ai-agent-calls",
+ "title": "Sierra and Stripe let AI agents take card payments during calls",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T00:36:50.831564+00:00",
+ "content": "Sierra, the AI customer service startup led by Bret Taylor, has partnered with Stripe so its agents can take card payments during phone calls. Customers type their card number on the keypad and the data goes straight to Stripe. Healthcare billing firm Cedar is an early user.\nSierra, the AI customer service startup led by Bret Taylor, has teamed up with Stripe so its AI agents can take payments during a phone call. Sierra announced the partnership on Tuesday.\nUntil now, customers often had to be transferred to another system, or sent a payment link, when it was time to pay. With the new setup, the agent switches into a secure mode, and the caller types their card number on the keypad. The details go straight to Stripe, and the agent then confirms the payment and carries on the call.\nThe agent itself never sees the card details, only the payment status and the last four digits, Sierra said when it first added payments in April.\nHealthcare billing firm Cedar was one of the first to use the feature. Patients who call with questions about a medical bill can now pay in the same call. When patients start a payment with Cedar’s agent, 71.3% of those calls end in a successful payment, Sierra said.\n“A patient can call confused about a charge and leave the conversation with clarity and a resolved balance, in the same call,” said Dugan Winkie, Cedar’s chief strategy officer.\nSierra is now also listed in the Stripe App Marketplace, so any business using Stripe can connect its agent without custom work.\nThe two firms are also working together on the Personal Agent Protocol, an open standard Sierra and Meta announced this month. Partners include Instinct, which raised $1B for an agent that phones businesses. Sierra said the standard will also cover how agents pay on someone’s behalf.\nStripe has been betting heavily on payments by AI agents. Co-founder John Collison has said agentic commerce will completely change online shopping, and startups such as Natural have raised money to build rival payment tools for agents. Sierra was valued at $15.8B in May, after raising $950M.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Sierra联手Stripe，让AI客服在通话中安全收款",
+  "background": "Sierra是由Bret Taylor领导的AI客服创业公司，今年5月融资9.5亿美元后估值达158亿美元。此前，用户在电话中付款常需转接系统或接收支付链接，流程割裂。Stripe正大力押注“代理式商务”，认为AI代理将改变线上购物与支付。Sierra今年4月已加入支付能力，此次与Stripe合作把通话内卡支付做成标准化集成，医疗账单公司Cedar成为早期用户。",
+  "key_points": [
+   "通话进入付款环节时，AI代理切换安全模式，用户用电话键盘输入卡号，数据直传Stripe，代理只能看到支付状态和后四位。",
+   "Cedar的医疗账单场景显示，患者一旦在通话中发起支付，71.3%的通话最终完成付款，减少转接和支付链接造成的流失。",
+   "Sierra已上架Stripe App Marketplace，Stripe商户无需定制开发即可连接AI客服代理，降低通话内收款接入门槛。",
+   "双方还参与Sierra与Meta公布的Personal Agent Protocol，未来标准将覆盖AI代理如何替人付款，指向更广泛的代理式商务。",
+   "Stripe持续加码AI代理支付，Sierra则以客服为入口把对话从答疑推进到交易闭环，支付基础设施竞争升温。"
+  ],
+  "impact": "对AI行业，客服代理正从信息问答走向交易闭环，代理式商务的基础设施竞争将围绕支付、身份与安全展开。对开发者，需关注卡数据不落AI代理、DTMF输入、token化与合规审计等设计。对普通用户，电话账单支付会更顺滑，但也要理解卡号由Stripe处理，AI代理仅获支付结果。",
+  "tools": "可关注Stripe App Marketplace的Sierra集成、Sierra AI客服平台、Personal Agent Protocol规范；开发者可研究Stripe Payments/API的token化支付、语音IVR与DTMF安全流程，以及Cedar案例中的通话内支付体验。"
+ },
+ "lang": "zh"
+}

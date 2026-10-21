@@ -6991,5 +6991,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-20T18:34:30Z",
   "fetched_at": "2026-10-20T21:37:57.411670+00:00"
+ },
+ "7dd28b6131ab": {
+  "id": "7dd28b6131ab",
+  "url": "https://github.com/ZSeven-W/openpencil",
+  "title": "ZSeven-W/openpencil — The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-21T00:38:21.991280+00:00"
+ },
+ "2d2caae98728": {
+  "id": "2d2caae98728",
+  "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-20T23:01:23.000Z",
+  "fetched_at": "2026-10-21T00:38:57.456333+00:00"
+ },
+ "fb5a585d63d0": {
+  "id": "fb5a585d63d0",
+  "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-20T20:35:10.000Z",
+  "fetched_at": "2026-10-21T00:39:37.640458+00:00"
  }
 }

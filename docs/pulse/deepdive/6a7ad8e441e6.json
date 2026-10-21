@@ -1,0 +1,24 @@
+{
+ "id": "6a7ad8e441e6",
+ "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+ "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T00:37:01.308426+00:00",
+ "content": "Hoping to quell criticism, Meta has dropped the word “train” from its “streamlined” commercial terms of service that kick in on October 30.\nLast week, Meta faced backlash after legal experts warned that the tech giant’s sweeping new commercial terms of service seemed to give Meta permission to endlessly scrape websites linked on business pages. Talking to Nieman Lab, experts suggested that Meta could possibly use the policy to avoid millions in licensing fees from news organizations by requiring all business users to share a wealth of AI training data simply for running a business page.\nA Meta spokesperson confirmed that Meta did not alert users to the changed language following backlash. This potentially only adds to confusion ahead of the policy rollout. In response to backlash, Meta’s spokesperson provided a statement to Ars, acknowledging Nieman Lab’s initial report but not its follow-up report reiterating experts’ concerns:\n“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves. It does not change how Meta uses web crawlers. As always, content owners can use robots.txt to signal their preferences. This is not about scraping news sites, and these updates don’t give us new rights that supersede those preferences.”\nThe same experts who sounded the initial alarms were not impressed by Meta’s updates, which they told Nieman Lab do not go far enough to protect business page users from invasive scraping. Matt Topic, a media and intellectual property attorney at Loevy & Loevy, told Nieman Lab that “publishers should remain concerned.”",
+ "report": {
+  "summary": "Meta 在舆论压力下删除商业条款中的“训练”一词",
+  "background": "随着生成式 AI 的竞争加剧，科技巨头与新闻机构围绕训练数据授权费的矛盾不断升级。Meta 此前发布“精简版”商业服务条款，将于 10 月 30 日生效，被法律专家解读为：只要商家运营主页，就等于同意 Meta 抓取其页面所链接网站的内容用于 AI 训练，从而规避向内容方支付高额授权费。批评声浪出现后，Meta 悄悄修改措辞，却没有通知用户。",
+  "key_points": [
+   "Meta 从 10 月 30 日生效的商业条款中删去了“训练”一词，但没有主动提醒用户，这种不声明的修改可能进一步加剧混乱。",
+   "此前法律专家警告称，该条款可能允许 Meta 抓取商家页面所链接的任何网站，从而规避向新闻机构支付数百万美元的授权费。",
+   "Meta 回应称，抓取条款只适用于广告和商业产品，不改变爬虫的实际行为，内容方仍可用 robots.txt 表达意愿。",
+   "此前发出警告的专家并不认可这一解释，律师 Matt Topic 表示修改“远远不够”，出版商应继续担忧。",
+   "争议核心在于“运营页面就等于同意被抓取”的默认机制，这让内容方事实上失去了拒绝的选择权。"
+  ],
+  "impact": "对 AI 行业而言，训练数据的合规性与透明度正成为竞争要素，内容授权交易可能成为常态；对开发者而言，需要密切关注平台条款变更及 robots.txt 等拒绝信号，做好数据溯源；对普通用户和商家来说，页面内容可能被间接用于训练，而条款修改却缺乏通知，知情权受损。",
+  "tools": "可关注 robots.txt 检测工具、Cloudflare 的 AI 爬虫管控功能、Spawning 的“Have I Been Trained?”查询服务、Common Crawl 数据来源核查，以及 TDM Reservation Protocol 等拒绝文本挖掘的标注方案。"
+ },
+ "lang": "zh"
+}

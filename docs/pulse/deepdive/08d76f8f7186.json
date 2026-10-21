@@ -1,0 +1,24 @@
+{
+ "id": "08d76f8f7186",
+ "url": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
+ "title": "Meta details Prometheus, the Ohio supercluster heading for 1 million GPUs",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T00:36:42.215434+00:00",
+ "content": "Meta’s Prometheus supercluster in New Albany, Ohio, already runs hundreds of thousands of Nvidia GPUs across several buildings, and Meta plans to grow it to about 1 million. The company set out the details in an engineering blog post on Monday.\nThe first phase of the gigawatt-scale cluster is finished. Meta used it to train its Muse family of models, including the Muse Wonder models. Two years ago, the site was a conventional data centre running web traffic.\n“At full scale, Prometheus will comprise roughly 1 million distributed GPUs, all functioning in lockstep,” Meta wrote.\nThree generations of Nvidia racks\nPrometheus runs two Nvidia platforms today, both built around racks of 72 GPUs that act as one accelerator. Catalina uses the GB200 NVL72, and Clemente uses the newer GB300 NVL72. A third platform, San Miguel, will add Nvidia’s Vera Rubin NVL72 racks.\nThe GPUs sit in traditional data centres, AI-optimised buildings and rapid-deployment structures, linked by miles of fibre. Each building’s network connects up to 20,736 GPUs. A separate aggregation network joins the buildings over distances from 2km to more than 100km. Meta also uses capacity leased from partners.\nFrom 1,000 interruptions a day\nAt this scale, a fault on a single machine can stop a whole training run. In mid-2025, during the first phase, interruptions peaked at nearly 1,000 events per 8,000 GPUs each day, Meta said. A year of engineering work has cut that by 99%.\nThe biggest early problem was signal quality on more than 600,000 NVLink connections between GPUs. Memory faults became a larger issue as Meta scaled up the GB300 racks.\nDuring Muse Wonder’s training, the cluster kept more than 85% of its pre-training time productive, and more than 90% for reinforcement learning. It ran about 47,000 GPU hours on average between interruptions, now above 54,000 after firmware fixes. Meta’s goal is about 100,000.\nReliability also costs hardware. Each 72-GPU rack runs a 64-GPU slice and keeps eight GPUs as spares, and Meta holds about 2% of racks in reserve. A training run on 32,768 GPUs therefore needs 37,656, about 13% more.\nPower swings of tens of megawatts\nWhen tens of thousands of GPUs compute and communicate in step, the cluster’s power draw swings by 30% to 40%. Starting or pausing a large job can shift tens of megawatts in seconds. Meta caps GPU power gradually with software it calls Dynamo Dimmer, backed by batteries at rack, facility and grid level.\nMeta says it pays the full cost of the energy it uses in New Albany and matches it with new clean and renewable energy. In July, it left the RE100 pact as its gas build-out for AI outpaced renewables.\nIts next supercluster, Hyperion in Richland Parish, Louisiana, is being designed with lessons from Prometheus, Meta said. Meta has also pledged $1bn to data centre communities.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Meta披露俄亥俄州Prometheus超算集群细节，目标百万GPU",
+  "background": "大模型军备竞赛已从算法转向基础设施。Meta、OpenAI、xAI等均在建设吉瓦级数据中心，Meta的Prometheus位于俄亥俄州新奥尔斯尼，两年前还是处理网页流量的普通数据中心，如今第一阶段已建成并用于训练Muse系列模型。Meta罕见地公开了工程细节——从Nvidia三代机架混布、跨百公里网络互联，到每天上千次故障的治理过程，这在超大规模AI训练中属于少见的透明度。其下一个集群Hyperion已在路易斯安那州设计中。",
+  "key_points": [
+   "Prometheus第一阶段已投产，园区内多个建筑各接入最多20736块GPU，再用2至100公里的聚合网络连成整体，最终目标约100万块GPU同步运行。",
+   "集群混用三代Nvidia机架：GB200的Catalina、GB300的Clemente，未来加入Vera Rubin的San Miguel，每机架72块GPU作为一个加速器协同工作。",
+   "规模化的最大敌人是故障：2025年中期每8000块GPU日均中断近1000次，主要源于60多万条NVLink链路信号质量，一年工程优化后降低99%。",
+   "可靠性靠冗余买单：72块GPU的机架只用64块、预留8块备件，另留2%机架备用，训练32768块GPU实际需37656块，多出约13%。",
+   "同步计算导致30%至40%的功率波动，秒级可跳动数十兆瓦，Meta用自研Dynamo Dimmer软件配合机架、设施和电网级电池逐级限功率。"
+  ],
+  "impact": "对AI行业而言，竞争门槛已变成电力、土地和故障工程能力，而非单纯买卡，中小玩家将被进一步挤出前沿训练。对开发者，模型能力的提升将更依赖超大集群的稳定训练时长，推理成本和模型规模可能继续上行，同时Meta公开的容错与限电经验对做大规模分布式训练的队伍有参考价值。对普通用户，AI产品会更快、更强，但代价是电价、土地与社区资源压力，Meta退出RE100也预示AI的碳排争议将加剧。",
+  "tools": "想跟进可关注Nvidia GB200/GB300 NVL72与Vera Rubin平台文档、Meta的Llama系列开源模型与工程博客；分布式训练可研究PyTorch FSDP、NCCL、Meta开源的torchft容错训练框架，以及集群监控与功率管理方案。"
+ },
+ "lang": "zh"
+}

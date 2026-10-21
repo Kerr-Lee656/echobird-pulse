@@ -1,0 +1,24 @@
+{
+ "id": "d69591dfd587",
+ "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
+ "title": "基础设施初创公司 Fireworks AI 正就新一轮融资进行初步洽谈，估值在 300 亿至 400 亿美元之间。",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-20T22:20:52.151Z",
+ "fetched_at": "2026-10-21T00:37:42.347177+00:00",
+ "content": "Fireworks AI is seeking to raise fresh funding at a valuation between $30 billion and $40 billion, a dramatic jump just months after the AI-infrastructure startup was valued at $17.5 billion, according to people familiar with the matter.\nThe potential valuation leap reflects investors' appetite for the companies selling the computing power and tools fueling the AI boom, even as Fireworks AI works through the fallout from a recent security incident.\nThe talks around the financing are still early, and valuation targets could still change. Fireworks declined to comment.\nFounded in 2022, Fireworks was built by veterans of Meta and Google's AI efforts. Chief executive Lin Qiao previously led the PyTorch team at Meta, while cofounders include former Meta infrastructure engineers and a former leader of Google's Vertex AI. The company rents out computing infrastructure and software that lets businesses run, fine-tune, and deploy open-weight and custom AI models.\nIn July, Fireworks announced a $1.5 billion Series D funding round at a $17.5 billion valuation, led by Atreides Management, Index Ventures, and TCV, with participation from Nvidia, Lightspeed Venture Partners, Bessemer Venture Partners, and Menlo Ventures. That round followed a $250 million Series C at a $4 billion valuation in late 2025, co-led by Lightspeed, Index, and Evantic. Last month, The Information reported that Fireworks has been considering a round at a $30 billion.\nRather than trying to build a consumer chatbot to rival ChatGPT, Fireworks sells what it calls specialized intelligence: models customized on a customer's proprietary data, workflows, and use cases. The company said in July that it had surpassed $1 billion in annualized revenue and was serving more than 40 trillion tokens a day; it said 95% of those tokens came from models tailored to customers.\nThe company operates in a highly competitive layer of the AI stack. Rivals include model-infrastructure startups such as Together AI, Baseten, and Replicate, as well as cloud giants such as Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle.\nThe fundraising talks come shortly after a security incident at Fireworks AI. The company said it identified unauthorized use of internal credentials earlier this month that allowed an intruder to access data from some customer accounts.\n\"We take this seriously and will be transparent about what happened and what we find,\" Qiao posted on X. \"I'm personally committed to turn this attack into the most formidable security response in AI Infra.\"\nPlease send along your tips. Email Ben or Katie anytime or contact them on Signal at benbergman.11 and kroof.26. Sign up for Business Insider's weekly VC Insider newsletter here.",
+ "report": {
+  "summary": "Fireworks AI 拟以 300–400 亿美元估值再融资，几个月内估值或翻倍",
+  "background": "Fireworks AI 于 2022 年由 Meta 与 Google AI 团队的老兵创立，CEO 林乔（Lin Qiao）曾主管 Meta 的 PyTorch 团队，联合创始人中包括前 Meta 基础设施工程师和前 Google Vertex AI 负责人。公司出租 GPU 算力与软件，帮助企业运行、微调并部署开源权重模型和定制模型。2025 年底，公司以 40 亿美元估值完成 2.5 亿美元 C 轮融资；2026 年 7 月，公司又以 175 亿美元估值完成 15 亿美元 D 轮融资，英伟达、Lightspeed、Index、TCV 等参与投资。如今洽谈新一轮融资，正值公司披露一起内部凭证被盗的安全事件之后。",
+  "key_points": [
+   "估值大幅上涨：短短几个月前估值还只有 175 亿美元，这次目标已喊到 300–400 亿美元。谈判仍处早期，价格可能变动，但可见一级市场对 AI 基础设施公司极为追捧。",
+   "不做 ChatGPT 式聊天机器人，主打用客户的私有数据和工作流定制模型，走专用智能路线。公司称 95% 的 token 来自定制模型。",
+   "规模惊人：年化收入已突破 10 亿美元，日均处理超过 40 万亿 token，说明推理需求体量巨大。",
+   "竞争高度集中：同一层有 Together AI、Baseten、Replicate，上面还有 AWS、谷歌云、Azure、Oracle 抢占市场。",
+   "安全阴影未散：本月公司发现内部凭证被未授权使用，入侵者访问了部分客户账户数据。CEO 公开承诺，要把这次攻击转化为 AI 基础设施领域最强的安全响应。"
+  ],
+  "impact": "对 AI 行业而言，推理与微调层已被证明是可规模化变现的生意；新的估值参照也会抬高 Together AI 等同类公司的定价，并加剧云厂商与该层的竞合。对开发者而言，更多资本意味着更便宜的推理价格和更完善的微调部署工具链，但供应商锁定、数据托管与安全合规风险需要重新评估。对普通用户而言，直接影响有限，主要体现在 AI 应用成本下降和响应变快上；安全事件也提醒人们，托管型 AI 服务的隐私边界值得关注。",
+  "tools": "如果想跟进，可以试用 Fireworks AI 的推理与微调平台，并与 Together AI、Baseten、Replicate 做横向对比；如果想自行搭建，可以关注开源推理引擎 vLLM、SGLang、Ollama，以及 LoRA、PEFT 微调框架，并用多家 GPU 云做成本测算。"
+ },
+ "lang": "zh"
+}

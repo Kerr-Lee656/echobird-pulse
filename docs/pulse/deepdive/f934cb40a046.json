@@ -1,0 +1,24 @@
+{
+ "id": "f934cb40a046",
+ "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+ "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-21T00:36:34.554153+00:00",
+ "content": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open-source project. With this, Google joins Amazon in trying to break Nvidia’s stranglehold on the AI industry, where most AI apps are written by default to run on Nvidia’s chips, or GPUs.\nPyTorch is the popular open-source toolkit that AI app developers and startups use to build, train, and run AI models. It is, by some accounts, used by 85% of the AI apps. PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world. At the time, Nvidia’s GPUs were already the standard hardware for AI research, so many of PyTorch’s features were built to work specifically with them. In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects.\nGoogle’s version, TorchTPU, lets AI apps run on Google’s AI chips, called Tensor Processing Units (TPUs). It also makes it easy to move existing PyTorch apps to TPUs and, therefore, to Google Cloud. Developers can do this with a simple configuration change and no re-writing of their apps.\nAmazon made a similar announcement Monday, when it released its own version of PyTorch, called TorchNeuron. TorchNeuron allows AI apps to be ported to Amazon’s homegrown AI chip, Trainium, and to AWS with no rewriting. Amazon also said it going even further in its effort to loosen Nvidia’s hold on PyTorch. It is submitting code to the main PyTorch project that decouples various features from Nvidia’s chips, making it more open to any hardware by default.\nGoogle may be one-upping Amazon in a few ways, however. It says it worked directly with Meta, Hugging Face, Inferact (maker of vLLM) RadixArk (maker of SGLang), and others to ensure that TorchTPU’s features and code libraries work well with these popular AI development tools, just as the original PyTorch does.\nPlus the search giant has launched a dedicated tool, the TPU agent suite, to help developers move their apps to Google’s chips and cloud and fix errors along the way. It even updated its popular LiteRT tool, which runs AI on phones, laptops and embedded devices, to work better with PyTorch AI apps.\nNone of this means AI app developers will automatically ditch Nvidia’s hardware en masse just because they can now easily move to alternative chips and clouds. But Amazon and Google are clearly working to end Nvidia’s advantage.",
+ "report": {
+  "summary": "谷歌开源TorchTPU，PyTorch应用可零改动跑上TPU",
+  "background": "PyTorch 是 2016 年由 Meta 开源、如今约 85% 的 AI 应用在使用的主流框架；它诞生时 Nvidia GPU 已是事实标准，很多底层特性天然与 CUDA 绑定，2022 年交由 Linux 基金会托管。这使 Nvidia 不仅卖芯片，还通过软件生态锁定开发者：换芯片意味着改代码、重调性能。为撬动这一壁垒，云厂商开始从框架层下手——亚马逊先一天推出面向自研 Trainium 芯片的 TorchNeuron，谷歌随即开源 TorchTPU，把竞争从硬件规格转向“迁移成本”，目标是让开发者把工作负载连同云账单一起带走。",
+  "key_points": [
+   "TorchTPU 是谷歌官方开源版 PyTorch，让原本为 Nvidia GPU 写的 AI 应用可以直接跑在谷歌自研 TPU 上。",
+   "迁移成本被压到极低：开发者只需改一处配置，不必重写代码，就能把现有训练、推理任务搬到 TPU 和 Google Cloud。",
+   "亚马逊抢先一天发布 TorchNeuron，指向自研芯片 Trainium，并承诺向 PyTorch 主干提交代码，把功能与 Nvidia 硬件解耦。",
+   "谷歌强调生态兼容：与 Meta、Hugging Face、vLLM、SGLang 等合作保证体验一致，还提供 TPU agent suite 帮忙迁迁移排错、更新端侧工具 LiteRT。",
+   "这不代表开发者会立刻集体弃用 Nvidia；短期更现实的变化是议价空间与多云部署选项增加。"
+  ],
+  "impact": "对 AI 行业，竞争焦点从“谁的芯片更快”转向“谁的软件栈更易迁移”，Nvidia 的 CUDA 护城河被从框架层逐步削弱，云厂商得以用总成本而非峰值算力抢客户。对开发者，多了一个不改代码就能切换的硬件后端，供应紧张时可作备选，但需重新验证性能与算子覆盖。对普通用户，算力供给多元化有望压低推理成本，让模型调用和 AI 应用价格更便宜、供应更稳定。",
+  "tools": "想跟进可关注：PyTorch 官方仓库及 TorchTPU、TorchNeuron 代码；Hugging Face Transformers 与 vLLM、SGLang 的多硬件后端；谷歌 TPU agent suite 与 LiteRT；以及 XLA、Triton 等编译与算子工具，用于评估跨芯片性能差异。"
+ },
+ "lang": "zh"
+}
