@@ -1,0 +1,24 @@
+{
+ "id": "4a9d8431a858",
+ "url": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+ "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+ "source": "OpenAI：官网动态",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-21T12:00:00.000Z",
+ "fetched_at": "2026-10-21T13:48:08.266446+00:00",
+ "content": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden\nOpenAI models are coming to Google Cloud\nOpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。\nOpenAI 官方宣布与 Google Cloud 合作，给出了模型上线 Model Garden 和 GCP 承诺抵扣等具体落地方式。\nOpenAI 模型即将登陆 Google Cloud\n加载中…\n分享\nOpenAI 与 Google Cloud（在新窗口打开） 达成合作，将 OpenAI 的前沿模型和 Codex（在新窗口打开） 智能体工作流引入 Google Cloud 的 Model Garden。此次集成将使客户能够原生访问这些模型，以大规模驱动复杂的智能体工作流，并依托 Google Cloud 的数据治理和高性能基础设施。\nGoogle Cloud 长期以来在机器学习和 AI 领域的投入，使其成为 AI 工作负载以及构建这些工作负载的开发者和数据科学家的首选之地。将 OpenAI 模型引入其模型花园，使这些团队能够在他们已熟悉的环境中访问 OpenAI 的前沿模型，帮助企业实现软件开发生命周期的现代化、构建智能体工作流，并改变人们的工作方式。\n对于受监管行业中的组织而言，部署 AI 需要控制谁可以访问敏感数据以及如何使用这些数据。此次集成将把 OpenAI 的前沿模型与 Google Cloud 内置的访问控制、集中式数据治理和高性能基础设施相结合，以支持要求严苛的企业工作负载。\nGoogle Cloud 客户将能够通过模型花园购买 OpenAI 前沿模型，并通过 Google Cloud Marketplace 进行交易。拥有 Google Cloud 支出承诺的企业将能够从这些购买中抵扣其 GCP 承诺额度。\n此外，OpenAI 模型很快将在 Google Antigravity 和 Gemini Agent 中提供，为企业客户提供模型选择的灵活性，并为每项任务选用最佳模型。通过 Google Cloud 扩大访问范围，我们正在为企业提供更多选择，让他们能够发现和使用前沿模型，并拥有一条从评估到更广泛采用的路径。\n“Google Cloud 是开发者和企业构建 AI 智能体、编写软件并将 AI 投入应用的领先平台。此次合作是重要的一步，使我们最强大的模型和 Codex 能够在客户已经开展构建的地方提供，让他们在使用前沿 AI 方面拥有更多选择，同时我们共同发展智能体生态系统。”\n—Greg Brockman，OpenAI 总裁兼联合创始人\n“我们专注于为客户提供广泛的模型选择，包括来自 OpenAI 的模型，以便他们能为任何特定任务选择正确的模型，帮助实现最佳质量并降低成本。”\n—Thomas Kurian，Google Cloud 首席执行官\n2 之 1\n“Google Cloud 是开发者和企业构建 AI 智能体、编写软件并将 AI 投入应用的领先平台。此次合作是重要的一步，使我们最强大的模型和 Codex 能够在客户已经开展构建的地方提供，让他们在使用前沿 AI 方面拥有更多选择，同时我们共同发展智能体生态系统。”\n—Greg Brockman，OpenAI 总裁兼联合创始人\n“我们专注于为客户提供广泛的模型选择，包括来自 OpenAI 的模型，以便他们能为任何特定任务选择正确的模型，帮助实现最佳质量并降低成本。”\n—Thomas Kurian，Google Cloud 首席执行官\n- Greg Brockman\n- Thomas Kurian\n- Greg Brockman\n- Thomas Kurian\n正式可用计划于未来几周内推出。在此处申请在 Google Cloud 上访问 OpenAI。\nMicrosoft 仍是 OpenAI 的主要云合作伙伴。\n作者\nOpenAI\n来源：OpenAI：官网动态 · openai.com",
+ "report": {
+  "summary": "OpenAI 与 Google Cloud 达成合作：OpenAI 的前沿模型和 Codex 智能体工作流将进入 Vertex AI Model Garden，企业可通过 Marketplace 采购并抵扣 GCP 承诺消费，未来几周正式可用。",
+  "background": "OpenAI 长期以微软 Azure 为主要云伙伴，但近年逐步放宽独家绑定，转向多云分发，以便触达更多企业客户。与此同时，Google Cloud 一直走“多模型货架”路线，Vertex AI 已同时托管 Gemini、Anthropic Claude 及多个开源模型，并试图把模型调用绑定到自家的数据治理、区域合规与消费承诺体系上。企业侧的真实痛点也很明确：受监管行业不希望数据流出既有云边界，采购部门希望把 AI 支出并入已有的云合同。于是云厂商的竞争焦点，从“自研模型跑分”转向“货架广度、治理能力、采购便利性与承诺消费抵扣”。这一合作正是双方在这一新战场上的交换：OpenAI 获得渠道，Google 获得云消耗。",
+  "key_points": [
+   "上架与采购路径清晰：OpenAI 前沿模型进入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 下单，持有 GCP 支出承诺的企业还能用承诺额度抵扣，等于把 AI 采购并入既有云合同。",
+   "主打企业治理卖点：集成把 OpenAI 模型与 Google Cloud 的访问控制、集中式数据治理和高性能基础设施结合，面向金融、医疗等受监管行业，强调谁能访问敏感数据、数据如何使用。",
+   "不只是聊天模型：合作重点包含 Codex 智能体工作流，宣称可大规模驱动复杂智能体任务，并帮助企业实现软件开发生命周期现代化，切入编码与自动化场景。",
+   "渠道继续外扩：文章称 OpenAI 模型很快还会出现在 Google Antigravity 和 Gemini Agent 中，让企业按任务挑选“最佳模型”，把多模型选择权作为卖点。",
+   "时间表与边界：正式可用计划在未来几周内推出，需申请开通；官方同时强调 Microsoft 仍是 OpenAI 的主要云合作伙伴。这表明这是多云策略，而非更换主云。"
+  ],
+  "impact": "对 AI 产业而言，这是“模型与云解绑”的又一明确信号：前沿模型正从云厂商的独占资产，变成多云货架上的商品，竞争重心转向分发渠道、治理能力与价格打包。对开发者来说，最大好处是采购与权限统一：一个 GCP 账单、一套 IAM 和日志，就能调用 OpenAI 模型，减少多云对接和合规审批成本；但也要留意区域可用性、版本节奏、限流与 SLA 可能与 OpenAI 原生 API 不完全一致，需要做好抽象层与回退方案。对普通用户，ChatGPT 本身几乎无变化，但企业级应用更可能采用多模型混排，按成本与延迟动态路由，从而带来更便宜、更快的产品体验。对微软而言，Azure 的独占性进一步弱化；对 Google 而言，则用货架广度换取云消耗，代价是与最强竞品同台。",
+  "tools": "想跟进可关注：Vertex AI Model Garden（模型上架与治理入口）、Google Cloud Marketplace（采购与承诺抵扣）、OpenAI Codex（智能体编码工作流）、Google Antigravity 与 Gemini Agent（后续接入点）、OpenAI 原生 API（对照测试）。若要做多模型路由与成本对比，可试 LiteLLM、OpenRouter、LangChain 或 LlamaIndex，先在抽象层封装调用，避免被单一云或单一模型锁定。"
+ },
+ "lang": "en"
+}

@@ -7117,5 +7117,86 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-21T04:00:00.000Z",
   "fetched_at": "2026-10-21T07:37:37.178856+00:00"
+ },
+ "d0c49ddc59cf": {
+  "id": "d0c49ddc59cf",
+  "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
+  "title": "Perplexity to give away its AI security software",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T13:41:08Z",
+  "fetched_at": "2026-10-21T13:46:58.535591+00:00"
+ },
+ "cabcf38419b3": {
+  "id": "cabcf38419b3",
+  "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
+  "title": "OpenAI's Agents Disabled Their Own Safety Monitoring Systems",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T13:36:07Z",
+  "fetched_at": "2026-10-21T13:47:09.645252+00:00"
+ },
+ "345e1e466b6d": {
+  "id": "345e1e466b6d",
+  "url": "https://www.radicalnumerics.ai/blog/omnii-phage",
+  "title": "Radical Numerics creates first AI-generated phages to reach human patient",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T13:06:22Z",
+  "fetched_at": "2026-10-21T13:47:21.452041+00:00"
+ },
+ "5c777dc5eda3": {
+  "id": "5c777dc5eda3",
+  "url": "https://openai.com/index/openai-models-google-cloud/",
+  "title": "OpenAI models are coming to Google Cloud",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T12:53:11Z",
+  "fetched_at": "2026-10-21T13:47:32.104033+00:00"
+ },
+ "8b0973e564ca": {
+  "id": "8b0973e564ca",
+  "url": "https://www.aiverdict.io/blog/where-ai-actually-gets-its-answers",
+  "title": "When buyers ask AI for \"best X\", vendors get 2% of citations",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T12:25:33Z",
+  "fetched_at": "2026-10-21T13:47:56.612038+00:00"
+ },
+ "4a9d8431a858": {
+  "id": "4a9d8431a858",
+  "url": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+  "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+  "source": "OpenAI：官网动态",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-21T12:00:00.000Z",
+  "fetched_at": "2026-10-21T13:48:08.266446+00:00"
+ },
+ "95a172c21c91": {
+  "id": "95a172c21c91",
+  "url": "https://news.ycombinator.com/item?id=50179088",
+  "title": "Nvidia Releases Flare, a Blackwell LLM Inference",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-21T11:26:15Z",
+  "fetched_at": "2026-10-21T13:48:20.481734+00:00"
+ },
+ "2cb21a1b015b": {
+  "id": "2cb21a1b015b",
+  "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+  "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-10-21T10:30:00.000Z",
+  "fetched_at": "2026-10-21T13:48:31.956115+00:00"
+ },
+ "1f9d9c206317": {
+  "id": "1f9d9c206317",
+  "url": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh",
+  "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
+  "source": "NVIDIA Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-21T10:00:07.000Z",
+  "fetched_at": "2026-10-21T13:48:46.286008+00:00"
  }
 }

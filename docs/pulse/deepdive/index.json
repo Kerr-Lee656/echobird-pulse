@@ -16927,5 +16927,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-20T23:14:01Z",
   "fetched_at": "2026-10-21T07:34:30.011412+00:00"
+ },
+ "fa98ec6505dd": {
+  "id": "fa98ec6505dd",
+  "url": "https://www.36kr.com/p/4034839431795586",
+  "title": "曝OpenAI急融2000亿，跟Anthropic抢金主",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T13:44:29.739495+00:00"
+ },
+ "ef24f0c655c4": {
+  "id": "ef24f0c655c4",
+  "url": "https://www.qbitai.com/2026/10/504415.html",
+  "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-21T13:44:39.836185+00:00"
+ },
+ "7fa16e98ce47": {
+  "id": "7fa16e98ce47",
+  "url": "https://www.ithome.com/1/015/964.htm",
+  "title": "谷歌云推出面向美国政府机构的 Gemini，支持访问甲骨文 ERP 和微软 Microsoft 365 等",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T08:42:18Z",
+  "fetched_at": "2026-10-21T13:45:13.324516+00:00"
+ },
+ "65ee1544d546": {
+  "id": "65ee1544d546",
+  "url": "https://www.huxiu.com/article/4899241.html?f=rss",
+  "title": "从DeepSeek被移出联邦采购链，看美国AI供应链审查趋势",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T07:58:33Z",
+  "fetched_at": "2026-10-21T13:45:35.048892+00:00"
+ },
+ "cab48bfbd3f6": {
+  "id": "cab48bfbd3f6",
+  "url": "https://www.ithome.com/1/015/876.htm",
+  "title": "宇树发布“H2-X 功夫传奇守护”人形机器人，徒手抬汽车、一脚踢凹车门",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T07:29:21Z",
+  "fetched_at": "2026-10-21T13:45:43.666960+00:00"
+ },
+ "b12725165a78": {
+  "id": "b12725165a78",
+  "url": "https://www.huxiu.com/article/4899230.html?f=rss",
+  "title": "谷歌CEO深度访谈：宁可牺牲云业务利润，也要打赢前沿大模型生死战",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-21T07:28:42Z",
+  "fetched_at": "2026-10-21T13:46:31.832887+00:00"
  }
 }
