@@ -17206,5 +17206,32 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-22T04:37:54.370929+00:00"
+ },
+ "2a5000322359": {
+  "id": "2a5000322359",
+  "url": "https://www.huxiu.com/article/4899595.html?f=rss",
+  "title": "3年价格翻3倍！普通人快买不起的硬盘，AI正在批量扫货",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-22T09:00:38Z",
+  "fetched_at": "2026-10-22T11:45:05.172528+00:00"
+ },
+ "77fb97c93ec4": {
+  "id": "77fb97c93ec4",
+  "url": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
+  "title": "Palantir says it cannot switch off NATO’s Maven AI system",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T11:45:14.332878+00:00"
+ },
+ "8338daaddf1f": {
+  "id": "8338daaddf1f",
+  "url": "https://www.aibase.com/zh/news/31806",
+  "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-22T11:45:23.158418+00:00"
  }
 }

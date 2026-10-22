@@ -7414,5 +7414,86 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-22T04:00:00.000Z",
   "fetched_at": "2026-10-22T04:40:01.844947+00:00"
+ },
+ "b3332eaa7cad": {
+  "id": "b3332eaa7cad",
+  "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+  "title": "Hugging Face's New AI Biology Model Lets You Chat with DNA",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T11:33:40Z",
+  "fetched_at": "2026-10-22T11:46:00.740733+00:00"
+ },
+ "5a314c9e49b0": {
+  "id": "5a314c9e49b0",
+  "url": "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
+  "title": "What 1,866 popular GitHub projects tell their AI coding agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T11:28:27Z",
+  "fetched_at": "2026-10-22T11:46:11.798790+00:00"
+ },
+ "1db13b1120ad": {
+  "id": "1db13b1120ad",
+  "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+  "title": "Barclays to cut 5k jobs as bank's bosses hail AI productivity advances",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T11:19:51Z",
+  "fetched_at": "2026-10-22T11:46:24.712073+00:00"
+ },
+ "29298719ed65": {
+  "id": "29298719ed65",
+  "url": "https://betocmn.com/blog/a-timeline-of-ai-led-cyberattacks/",
+  "title": "A timeline of AI-led cyberattacks",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T10:59:10Z",
+  "fetched_at": "2026-10-22T11:46:33.924881+00:00"
+ },
+ "39dad09ad625": {
+  "id": "39dad09ad625",
+  "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
+  "title": "80% of the top 1% of AI spenders are VC-backed",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T10:52:28Z",
+  "fetched_at": "2026-10-22T11:46:46.738255+00:00"
+ },
+ "b858998f7e82": {
+  "id": "b858998f7e82",
+  "url": "https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en",
+  "title": "EuroHPC AI Factories: free supercomputing access for EU AI startups – calls open",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T09:40:26Z",
+  "fetched_at": "2026-10-22T11:47:38.823287+00:00"
+ },
+ "e104a82207c2": {
+  "id": "e104a82207c2",
+  "url": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
+  "title": "Barclays cutting 5k jobs as it increases reliance on AI",
+  "source": "Hacker News (10pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T08:43:22Z",
+  "fetched_at": "2026-10-22T11:47:52.925088+00:00"
+ },
+ "7e3febf76008": {
+  "id": "7e3febf76008",
+  "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/",
+  "title": "ChatGPT Ads as over 100k advertisers have used the platform",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T07:25:34Z",
+  "fetched_at": "2026-10-22T11:48:43.733252+00:00"
+ },
+ "0d706251c10a": {
+  "id": "0d706251c10a",
+  "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+  "title": "AI firms say UK has a year to head off datacentre protests",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T06:43:26Z",
+  "fetched_at": "2026-10-22T11:48:54.741058+00:00"
  }
 }

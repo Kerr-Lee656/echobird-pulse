@@ -1,0 +1,24 @@
+{
+ "id": "29298719ed65",
+ "url": "https://betocmn.com/blog/a-timeline-of-ai-led-cyberattacks/",
+ "title": "A timeline of AI-led cyberattacks",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-10-22T10:59:10Z",
+ "fetched_at": "2026-10-22T11:46:33.924881+00:00",
+ "content": "A timeline of AI-led cyberattacks\nI woke up today to 5 links among the top Hacker News posts pointing to cyber incidents. Many people were quick to point out that this is just the start… or simply say, “get used to it and prepare”.\nIt’s a good day for cybersecurity startups and companies, as many teams, including mine, are discussing and planning how to adapt to this new world.\nGiven the accelerating pace of AI development, if nothing changes and we extrapolate this trend, we will likely see 10x more of these incidents within the next two months or so.\nI was curious, so I put together a timeline of most of the known incidents in 2025 and 2026 that we can reasonably consider mostly AI-led cyberattacks.\nI always like to view events on timelines, so here’s a summarised version. The more complete one, with a short summary and the source for each event, is on World in Timelines, a non-commercial side project of mine.",
+ "report": {
+  "summary": "A security practitioner compiled a timeline of 2025–2026 cyber incidents he classifies as largely AI-led, warning of rapid acceleration in attack volume.",
+  "background": "Through 2025 and into 2026, offensive security has been reshaped by large language models and autonomous agents. Attackers no longer need deep expertise to write convincing phishing lures, generate polymorphic malware, reverse-engineer patches, or run reconnaissance at scale — they can rent the capability. Frontier model releases have repeatedly been followed by disclosures of jailbreaks and agentic misuse, while defenders face the same tooling with far less tolerance for error. The author's immediate trigger was seeing five separate cyber-incident links among the top Hacker News stories on a single morning, plus a wave of commentary that this is 'just the start' and that organisations should 'get used to it and prepare'. That cluster prompted him to retroactively catalogue which known incidents can reasonably be attributed to AI-led or AI-accelerated attacks, published as a timeline on his non-commercial side project, World in Timelines. The piece is also a signal of market mood: he notes it is a good day for cybersecurity startups, as internal teams reassess defences.",
+  "key_points": [
+   "The piece was prompted by a single morning on which five cyber-incident stories hit the top of Hacker News simultaneously — read by the author as a leading indicator rather than coincidence.",
+   "The author curates known 2025–2026 incidents and filters them for cases that can 'reasonably' be considered mostly AI-led, acknowledging the attribution judgement is fuzzy and contested.",
+   "His central extrapolation: if the trend line holds and nothing changes, expect roughly ten times more such incidents within about two months — a deliberately provocative, not rigorously modelled, forecast.",
+   "The framing shifts the debate from 'can AI be weaponised?' to 'it already is, continuously' — and treats AI-enabled intrusion as an ongoing baseline rather than a future risk.",
+   "He explicitly flags commercial upside: security vendors and startups benefit as teams including his own scramble to plan for this new threat environment."
+  ],
+  "impact": "The report's real value is epistemic: it pushes the industry past the theoretical argument about AI-enabled offence and toward counting actual incidents. For the AI industry, that means more pressure on model providers to ship misuse detection, agent-level guardrails and abuse telemetry as first-class features rather than policy documents. For developers and security teams, the practical implication is speed — patch windows compress, social engineering becomes near-free to generate at volume, and identity-based defences matter more than perimeter ones. The 10x-in-two-months claim is almost certainly rhetorical rather than statistical, but even directionally it argues for automating detection and response rather than hiring linearly. For regular users, the exposure is mundane and personal: convincing fraud, voice-cloned relatives, and account takeovers will feel ordinary.",
+  "tools": "Follow the linked World in Timelines project for the full incident list with sources. For hands-on follow-up, watch MITRE ATT&CK and its evaluations, the OWASP Top 10 for LLM Applications, Anthropic and OpenAI misuse/threat-intelligence reports, and open-source tooling such as Garak, PyRIT and Microsoft's Counterfit for red-teaming models. For defence, review AI-assisted phishing detection in Google/Microsoft mail security and open-source SIEM automation via Sigma rules and Shuffle SOAR."
+ },
+ "lang": "en"
+}

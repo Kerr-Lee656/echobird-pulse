@@ -1,0 +1,23 @@
+{
+ "id": "77fb97c93ec4",
+ "url": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
+ "title": "Palantir says it cannot switch off NATO’s Maven AI system",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T11:45:14.332878+00:00",
+ "content": "Palantir says neither it nor the US government can remotely shut down Maven, its AI-powered battlefield system used by NATO’s top military command.\nThe assurance comes as European countries question how much control they have over US-made defence technology, with some developing their own alternatives.\nLouis Mosley, who leads Palantir’s UK and European operations, made the comments in a Reuters interview in Brussels on Wednesday.\nHe said customers remain in control of the software, including how they operate it.\n“There are no kill switches,” Mosley told Reuters. “It can absolutely be operated independently of us,” he added.\nCustomers decide whether Palantir employees help run the system, Mosley said. Where they are, those staff are citizens of the country using the software and hold the required security clearance.\nMaven combines data from satellites, radar and other sensors to give military officers a clearer picture of the battlefield and help them make decisions faster.\nNATO acquired the system for its Supreme Headquarters Allied Powers Europe (SHAPE) in March 2025, following a six-month procurement process, according to the alliance’s IT agency.\nNATO declared the system fully technically capable on 22 June 2026. Neither NATO nor Palantir has disclosed the contract value.\nMosley’s comments follow reports that the US restricted Ukraine’s access to Starshield, SpaceX’s military satellite communications service.\nLast week, equipment used on fast-moving Ukrainian drones reportedly stopped working, making it harder for Ukrainian forces to counter Russian attacks.\nTwo US officials and a Western official told Defense News that the order to limit access originated inside the White House.\nA senior US official disputed that account, saying the president had never requested the restriction.\n“What we have seen in the news over the past few days around Starlink is extremely concerning,” Mosley told Reuters.\nThe episode has added to European concerns about relying on US technology for critical military operations.\nGermany and France have so far declined to adopt Maven for their own armed forces, Reuters reported, citing concerns about dependence on an American supplier.\nIn April, Thomas Daum, head of the German army’s cyber command, ruled out using Palantir’s technology for now. He told Handelsblatt that giving company employees access to the military’s national database was out of the question.\nFrance is also moving away from Palantir, as its domestic intelligence agency transitions to ChapsVision, a French software company, in search of a homegrown alternative.\nMosley said many of Palantir’s military and commercial customers already operate the company’s software independently.\nThe question for European governments, however, is whether technical independence is enough to address their broader concerns about control over critical defence systems.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Palantir称无法远程关闭北约Maven AI系统",
+  "background": "北约盟军最高司令部（SHAPE）在2025年3月经过半年采购流程引入Palantir的Maven系统，并于2026年6月22日宣布其具备完整技术能力。此前有报道称美国限制乌克兰使用SpaceX的Starshield军事卫星通信服务，令欧洲对美国防务技术依赖的担忧升温。德国和法国已暂缓采用Maven，部分机构转向本土替代方案。",
+  "key_points": [
+   "Palantir高管称Maven没有“终止开关”，客户可独立运行系统，是否让Palantir员工协助也由客户决定。",
+   "Maven整合卫星、雷达等传感器数据，帮助军官更快形成战场态势并辅助决策，合同金额未披露。",
+   "美国限制乌克兰使用Starshield的报道，加剧欧洲对美国防务技术“可控性”的担忧。",
+   "德国以安全数据库访问为由暂不采用Maven，法国情报机构正转向本土软件商ChapsVision。"
+  ],
+  "impact": "对AI行业而言，军用AI的“可控性”和供应链主权将成为采购核心，欧洲本土替代方案有望加速；对开发者，国防项目需强调可审计、可本地部署、无远程终止开关；对普通用户，关键基础设施依赖外国技术会牵动国家安全、隐私与地缘风险。",
+  "tools": "可关注Palantir Maven了解军用数据融合思路，ChapsVision作为法国本土替代案例，以及Apache Sedona、GeoMesa等开源地理空间与传感器数据处理工具。"
+ },
+ "lang": "zh"
+}
