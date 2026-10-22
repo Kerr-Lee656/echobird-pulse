@@ -1,0 +1,24 @@
+{
+ "id": "2828cd4e2ea1",
+ "url": "https://thenextweb.com/news/microsoft-storm-0940-ai-agents-connectwise-attack",
+ "title": "Microsoft says China-aligned hackers used AI agents in ConnectWise attack",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T17:07:34.506371+00:00",
+ "content": "Microsoft says a China-aligned hacking group used AI agents to breach ConnectWise’s Cloud Backup service, opening a route into customers’ Microsoft 365 accounts.\nMicrosoft Threat Intelligence published its findings on Storm-0940 on October 21. ConnectWise disclosed the breach in a security advisory on October 16, the same day security firm Huntress published its initial account of the attack.\nConnectWise Cloud Backup, previously known as SkyKick, allows IT service providers to back up clients’ Microsoft 365 data. The service relies on applications with broad access to customer accounts, making those app identities a potential route into connected systems.\nAccording to Microsoft, Storm-0940 compromised several of those identities and used them to access customer accounts. In some cases, the attackers added new authentication keys and changed administrator roles to maintain access.\nThe group has been active since 2021 and has targeted organisations across multiple sectors, including defence, government, law, energy and semiconductor manufacturing, Microsoft said.\nFor this campaign, the attackers used ARTEX, a free, open-source hacking tool built around AI agents that can run on different AI models.\nSuch tools can also be used by security teams to test their own systems. Microsoft said the agents scanned networks, attempted to guess passwords, and exploited application permissions with limited human involvement. It did not identify the AI model used in the attack.\n“Agents are not constrained by factors affecting humans,” Microsoft’s researchers wrote.\nStorm-0940 attempted to sign in to more than 2,250 Microsoft 365 tenants, with activity reaching 2,900 attempts per minute. Microsoft said the group gained high-level cloud access in some cases within three hours, although most attempts failed.\nHuntress, which monitors customer systems, had confirmed breaches at 162 tenants by October 16. It later identified nearly 1,000 tenants that had received sign-in attempts from the attackers, with more than 300 showing successful attempts.\nConnectWise disabled seven application identities on October 17 and took Cloud Backup offline. The company has not publicly responded to Microsoft’s attribution of the attack to Storm-0940.\nA ConnectWise spokesperson told The Record there was “no indication” that backup data had been compromised.\nMicrosoft said the incident did not result from a vulnerability in its own systems. It advised customers to keep their ConnectWise integrations disabled until the company confirms they can be safely restored, and to review sign-in logs dating back to at least October 15.\nConnectWise began restoring the service in stages on October 21, and the company expects recovery to take several days.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "微软称中国关联黑客组织Storm-0940用AI代理攻击ConnectWise云备份服务",
+  "background": "ConnectWise Cloud Backup（原SkyKick）是IT服务商用来备份客户Microsoft 365数据的服务，其底层应用身份拥有对客户账户的广泛权限，一旦被攻破就等于拿到进入下游企业系统的钥匙。Storm-0940自2021年起活跃，长期针对国防、政府、法律、能源和半导体等行业。10月16日ConnectWise发布安全公告、安全公司Huntress同日披露攻击细节，微软威胁情报团队10月21日发布归因报告，指出此次攻击首次大规模借助AI代理驱动的开源工具实施，标志着AI自动化攻击从概念走向实战。",
+  "key_points": [
+   "攻击者攻破了ConnectWise备份服务中多个拥有高权限的应用身份，并借此访问下游客户的Microsoft 365账户，部分案例中还添加了新的身份验证密钥、篡改管理员角色以长期驻留。",
+   "所使用的工具ARTEX是免费开源的黑客框架，围绕AI代理构建，可对接不同大模型，能自主扫描网络、猜测密码、滥用应用权限，人工介入很少。",
+   "攻击速度极快：Storm-0940尝试登录超过2250个M365租户，峰值达每分钟2900次尝试，部分场景下三小时内就拿到高级别云访问权限。",
+   "Huntress确认截至10月16日已有162个租户被攻破，近1000个租户收到登录尝试，其中300多个出现成功登录痕迹；ConnectWise随后禁用7个应用身份并将服务下线。",
+   "微软强调事件并非自身系统漏洞所致，建议客户在ConnectWise确认安全前保持集成关闭，并回溯审查至少从10月15日起的登录日志。"
+  ],
+  "impact": "对AI行业而言，这是首批被大厂明确归因的“AI代理实战攻击”案例，代理不受人类作息与操作速度限制，攻防节奏被彻底改写，安全圈将加速把AI代理纳入威胁模型与红队演练。对开发者来说，第三方SaaS集成的应用身份与服务主体凭证成为最薄弱环节，最小权限、密钥轮换、条件访问和日志审计变得不可省略。对普通用户而言，自己在用的云备份服务可能成为跳板，需关注企业IT通知、及时更新密码并启用多因素认证。",
+  "tools": "想跟进可研究微软威胁情报报告与Huntress的事件分析；防守方可用Microsoft Entra ID登录日志与条件访问策略、SIEM（如Sentinel、Elastic）做异常登录检测；ARTEX等AI代理渗透框架适合在授权环境做红队测试，切勿用于未授权目标。"
+ },
+ "lang": "zh"
+}

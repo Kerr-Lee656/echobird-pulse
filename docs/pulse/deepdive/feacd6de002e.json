@@ -1,0 +1,24 @@
+{
+ "id": "feacd6de002e",
+ "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+ "title": "DeepSeek reportedly raises $15B days after US restrictions",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T17:07:25.821893+00:00",
+ "content": "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported.\nPotential investors include Chinese battery maker CATL and Tencent, the company behind WeChat, among others, according to the report.\nThe reported funding follows DeepSeek’s investment round in June, when it raised more than $7 billion at a valuation of $50 billion. The company was also reportedly seeking an additional $1.5 billion at a valuation of around $71 billion in July, with plans for a potential IPO in China as early as next year.\nThe Hangzhou-based AI startup is ramping up spending on AI infrastructure and open models for domestic and international markets, even as it faces restrictions in the U.S., the report said. Its expansion could further intensify competition among domestic rivals.\nThe massive funding round is the latest sign of investors pouring billions into AI companies around the world, including those in China, to compete in the global AI race. Chinese company Kimi developer Moonshot AI secured $2 billion at a $20 billion valuation in May. Manus AI raised more than $500 million earlier this month. Meanwhile, Chinese companies Zhipu AI (Z.ai) and MiniMax, which both went public in Hong Kong in January, have market capitalizations of roughly $29 billion and $7.2 billion, respectively, as of today.\nDeepSeek was founded in 2023 by Liang Wenfeng, who previously co-founded Chinese quantitative hedge fund High-Flyer, which helped finance DeepSeek’s early development. The AI startup gained global attention in early 2025 with its free-to-use, open-weight RI reasoning model, challenging the dominance of U.S. AI companies. Liang retains an estimated 81.6% stake in its Chinese operating entity following its earlier funding round, according to corporate ownership data analyzed by WireScreen.\nDeepSeek did not immediately respond to a TechCrunch request for comment.",
+ "report": {
+  "summary": "DeepSeek 遭美国联邦禁用两天后，融资约150亿美元",
+  "background": "DeepSeek 于2023年由幻方量化联合创始人梁文锋创立，早期靠母公司的资金支持起步。2025年初，它凭免费、开放权重的推理模型 R1 引发全球关注，直接挑战美国闭源模型的主导地位，也让“低成本训练”成为行业热议话题。此后，中国 AI 融资明显升温：月之暗面、Manus、智谱（Z.ai）与 MiniMax 相继获得大额融资或赴港上市。与此同时，美国以安全为由收紧政府端对中国模型的采购与使用，形成资本持续加注、部分市场却被政策性封锁的拉锯格局。",
+  "key_points": [
+   "本轮融资约150亿美元（约1000亿人民币），是中国规模最大的融资之一，宁德时代、腾讯等被列为潜在投资方。",
+   "节奏极快：6月刚以500亿美元估值融资超70亿美元，7月传再融15亿美元、估值约710亿美元，如今规模再上一个台阶。",
+   "时机敏感：美国要求联邦民事机构在两天内清除 DeepSeek 技术，而这笔融资被外界解读为资本在政策压力下仍选择支持。",
+   "资金主要投向AI基础设施和开源模型，同时覆盖国内与国际市场，将进一步加剧与月之暗面、智谱、MiniMax的竞争。",
+   "创始人梁文锋在上一轮融资后仍持有中国运营主体约81.6%股份，公司控制权高度集中，并计划最快明年在境内IPO。"
+  ],
+  "impact": "对 AI 行业而言，这强化了中美“双轨并行”的格局，也让开放权重路线获得强力资本背书，全球算力与人才争夺会更激烈。对开发者来说，开源模型迭代和推理价格下降值得期待；如果涉及跨境业务，需要提前评估合规与部署地风险。对普通用户来说，可选的低价甚至免费模型会更多，但政府和企业采购可能出现区域性“模型孤岛”，同一产品在不同地区的可用性差异会拉大。",
+  "tools": "想跟进可关注 DeepSeek 开源权重模型（R1 系列，支持本地部署）、vLLM 与 SGLang 推理框架、Ollama / LM Studio 本地运行工具、Hugging Face 上的权重与评测榜单，以及 OpenRouter 做多模型横向对比。"
+ },
+ "lang": "zh"
+}

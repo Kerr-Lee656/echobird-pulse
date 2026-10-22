@@ -1,0 +1,24 @@
+{
+ "id": "3721c0cfc604",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+ "title": "1Password lets AI agents use your passwords without seeing them",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T17:07:04.915034+00:00",
+ "content": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn’t give bots free reign to access all of your connected accounts — you’ll still need to grant approval for sign-in requests — but should make it less cumbersome to use Agents for tasks that require them to log into various services.\n1Password lets AI agents use your passwords without seeing them\nJust grant the agent access approval and it’ll sign into your accounts to complete tasks.\n”Agents are starting to do real work on our behalf. The old model where you hand over a credential and hope for the best doesn’t work,” 1Password chief product officer Aashish Tripathi said in a press statement. “An agent should be able to do the job it’s been asked to do without getting permanent access to everything behind the account, and 1Password provides the trust layer that makes this possible across personal agent experiences.”\nWith this new system, an AI agent uses a unique digital key to verify its identity to 1Password when it reaches a sign-in form. The app then sends you a notification about which account credentials it needs, and why. If you choose to approve the request, 1Password will fill in the required login information instead of handing it to the agent. Approvals are granted on your own device to ensure you’re behind the permissions, making this a similar process to two-factor authentication. After the agent is signed in, it’ll continue with its task, without ever having actually seen your password.\nThis 1Password access system is designed to work with a variety of popular AI agents, including Meta Muse, ChatGPT Work and Dots, Claude Duet, Grok Bot, and Town. 1Password says more partners are working to bring support to 1Password for Agents, including Browserbase, Browser Use, Dana, Instinct, Kernel, Perplexity, Ramp, Tomo, and Wajo, with “additional integrations to come.”\nCorrection, October 22nd: Aashish Tripathi is 1Password’s chief product officer, not CEO.",
+ "report": {
+  "summary": "1Password推出AI代理登录授权，代理用密码却看不到密码",
+  "background": "随着AI代理从聊天走向真正执行任务（订票、填表、下单），登录凭证成为最大障碍：过去只能把账号密码或API Key直接交给代理，一旦泄漏或被提示注入攻击就会导致账号失守。1Password作为老牌密码管理器，正试图从「存密码的工具」转型为「代理与账号之间的信任层」。这与行业正在推进的OAuth细粒度授权、Passkey/WebAuthn无密码登录方向一致，但首次把「人在设备上逐次批准」的机制嵌入代理登录流程。",
+  "key_points": [
+   "代理遇到登录页时，用一把专属数字密钥向1Password证明自己是谁，而不是持有你的密码",
+   "1Password会推送通知，告诉你它要登录哪个账号、为什么需要，由你在自己设备上批准或拒绝",
+   "批准后由1Password代填凭证完成登录，代理全程看不到密码，机制上类似二次验证",
+   "已宣布支持Meta Muse、ChatGPT Work、Claude Duet、Grok Bot等代理，Browserbase、Perplexity等仍在接入",
+   "核心承诺是「按次授权」而非永久交出账号：任务结束，代理并不保留长期访问权"
+  ],
+  "impact": "对AI行业而言，代理经济缺少的正是「可信身份与授权层」，1Password的尝试可能成为密码管理器转型范本。对开发者来说，接入这类授权SDK有望省去自建凭证托管与风控的成本，但也意味着多一层依赖与集成工作。对普通用户，最大变化是每次代理登录都会有一次「确认弹窗」，安全性提升的同时也带来审批疲劳；长期看，「人盯人」式授权能否撑住高频自动化任务，仍是这套模式的最大考验。",
+  "tools": "想跟进可关注1Password for Agents官方文档与开发者接入；技术侧了解OAuth 2.0细粒度Scope、Passkey/WebAuthn、凭证代理（credential broker）模式；浏览器自动化方向可看Browserbase、Browser Use，以及Perplexity等已宣布接入的代理产品。"
+ },
+ "lang": "zh"
+}

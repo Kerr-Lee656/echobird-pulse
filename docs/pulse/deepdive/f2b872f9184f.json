@@ -1,0 +1,24 @@
+{
+ "id": "f2b872f9184f",
+ "url": "https://www.businessinsider.com/us-army-making-a-big-bet-ai-battlefield-decision-making-2026-10",
+ "title": "The US Army is making a new $700 million bet on AI that helps soldiers turn battlefield intelligence into targets",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T17:08:01.225238+00:00",
+ "content": "The US Army is making a major investment in expanding the use of an artificial intelligence platform to help soldiers process battlefield intelligence and make decisions faster.\nThe $700 million deal between the Army and Striveworks is a tenfold increase from the initial enterprise contract and will bring the company's Chariot AI platform to more units and missions. Chariot is also at the core of the Army's new warfighting software, Next Generation Command and Control, or NGC2.\nOn Thursday, Striveworks announced the expanded agreement after months of growing demand for Chariot. Jim Rebesco, cofounder and CEO of Striveworks, told Business Insider that soldiers across specialties, from logistics to artillery, have been using the technology for different tasks.\nChariot serves as a hub for AI decision-making, deploying agents to process data and provide human users with information and next steps that align with their jobs, priorities, and commander decisions.\n\"Those folks are constantly receiving this data coming in from radio, reports, from sensors, from drones,\" Rebesco explained, \"and the first job is to decide: is that a target worth paying attention to? Is it a military vehicle? Is it a tank? Is it something valuable? If so, does that meet with what my commander's priorities are?\"\nChariot helps soldiers work through those questions, analyzing incoming data, checking relevant doctrine and legal standards, and comparing potential targets against the commander's priorities.\n\"It does everything that a team of four to 10 individuals would do over a period of about an hour; it compresses that down into minutes,\" Rebesco said.\nCommanders and soldiers at the Army's 4th Infantry Division, for example, have used Chariot and provided feedback to Striveworks. At Project Convergence Capstone 6 at Fort Irwin, California, Chariot helped soldiers analyze and process more potential targets.\nRebesco said feedback from those exercises and others has been implemented quickly to improve the program's accuracy, speed, and the quality of information provided to soldiers.\nChariot is a key AI component of NGC2, the Army's new command-and-control program developed and tested with soldiers and industry partners in Colorado and Hawaii over the past year. After Project Convergence Capstone, the Army decided to transition NGC2 into the next phase of scaling, pushing it to I Corps at Joint Base Lewis-McChord.\nNext steps will include making the technology available to more soldiers and ensuring it is sufficiently rugged to operate in harsh, dispersed environments, including the Indo-Pacific. Chariot also works with other military systems, including Maven and the Integrated Battle Command System, with the same data and agentic processes.\nThe Pentagon and the different military services are spending billions on AI to speed up battlefield decisions, analyze vast amounts of sensor data, and anticipate ammunition shortages and maintenance needs. Another goal is to lighten cognitive burdens on human users by helping soldiers make sense of more information, faster.\n\"We know the biggest risk to our national security and our national defense is not moving too fast. It's not moving fast enough,\" former Army secretary Dan Driscoll said after Project Convergence Capstone in July.\n\"The side that can sense a target, process the data, and deliver a kinetic effect the fastest wins.\"",
+ "report": {
+  "summary": "美陆军7亿美元加码AI目标决策平台",
+  "background": "美陆军此前已与Striveworks签署企业合同，部署其Chariot AI决策平台。随着陆军推动新一代指挥控制软件NGC2，Chariot从辅助工具升级为核心AI组件，合同扩大至7亿美元、规模增十倍。背景是五角大楼各军种正投入数十亿美元，用AI融合传感器数据、加速目标识别与杀伤链决策，并通过Project Convergence等演习从试点转向规模化部署。",
+  "key_points": [
+   "合同规模：美陆军与Striveworks的协议扩大至7亿美元，较初始企业合同增长十倍，Chariot将从有限试点推广到更多部队和任务场景。",
+   "平台功能：Chariot作为AI决策中枢，调度智能体处理无线电、报告、传感器和无人机数据，判断目标是否值得关注，并对照指挥官优先级、条令和法律标准。",
+   "效率提升：Striveworks CEO称，原本4至10人约一小时的目标分析流程可压缩到几分钟；第4步兵师和Project Convergence Capstone 6已试用并反馈迭代。",
+   "战略定位：Chariot是陆军NGC2新型指挥控制软件的核心AI组件，试验后将推广至I Corps，并需适应印太等恶劣分散环境及Maven、IBCS等系统。",
+   "行业趋势：五角大楼各军种投入数十亿美元AI，目标是加速战场决策、分析海量传感器数据、预测弹药和维护需求，并减轻士兵认知负担。"
+  ],
+  "impact": "对AI行业，这意味着国防AI正从演习试点走向长期采购，智能体编排、传感器融合、人机协同和边缘加固成为刚需。对开发者，国防AI项目带来工程与合规岗位，但涉及安全审查、出口管制和伦理争议。对普通用户，军用AI加速目标决策会引发对自主性和冲突升级的担忧，相关规范与透明度讨论将升温。",
+  "tools": "可关注Striveworks Chariot、Palantir AIP/Maven、Anduril Lattice等国防AI平台；开源可用LangGraph或AutoGen做智能体编排，Ray与MLflow搭建数据/模型管线，GDAL、OpenCV处理地理与视觉数据。"
+ },
+ "lang": "zh"
+}

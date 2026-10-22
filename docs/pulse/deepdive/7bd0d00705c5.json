@@ -1,0 +1,23 @@
+{
+ "id": "7bd0d00705c5",
+ "url": "https://thenextweb.com/news/nebius-loan-citi-3-5-billion-gpus-data-centres",
+ "title": "Nebius borrows $3.5bn from Citi as it says AI compute prices keep rising",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T17:07:46.896413+00:00",
+ "content": "Nebius has signed a $3.5 billion loan facility with Citi to build more data centres and buy GPUs. The Amsterdam-based AI cloud company announced the deal on Thursday. The secured facility runs for 364 days.\nInterest starts at the Term SOFR benchmark rate plus 2.75% a year. That margin can rise to 3.50%, subject to other adjustments. Nebius said it would use the money for data centre development, GPU purchases and general corporate purposes. Citi is the lead arranger on the Nebius loan.\n“Sequencing our financing is how we optimize our long-term cost of capital,” said Ophir Nave, Nebius’s chief operating officer.\nNave said the facility covers the company’s near-term build-out. For the next phase, he said, Nebius can also borrow against its assets. That borrowing would be backed by more than $40 billion of long-term contracts from customers with investment-grade credit ratings. Nebius said its funding also includes customer prepayments and its own operating cash flow.\n“Not carrying the kind of debt”\nThe deal comes as investors question how AI cloud providers, often called neoclouds, pay for their expansion. This month, the cost of insuring CoreWeave’s debt against default rose to levels usually seen as a sign of distress. Nebius shares have fallen sharply over the past month, CNBC reported.\nMarc Boroditsky, Nebius’s chief revenue officer, told CNBC on Wednesday that Nebius was not in CoreWeave’s position.\n“We’re not carrying the kind of debt that they are,” Boroditsky said.\nHe said prices for computing capacity were rising faster than Nebius expected. An auction it ran on Tuesday showed further increases, he said. If Nebius brought its 2027 capacity online, it would sell out, he said.\nNebius shares rose on Wednesday after SpaceX reported that revenue at its AI business grew ninefold. Boroditsky said SpaceX’s results showed that supply “continues to fall far behind demand”. Last week, Gartner warned that $3.5 trillion of AI infrastructure spending was at risk of future write-downs.\nPublic prices and a ‘dividend’\nOn Wednesday, at Nvidia’s GTC conference in Berlin, Nebius started publishing live prices for its spot GPUs. Spot capacity is preemptible, which means it can be interrupted. Nebius also sells capacity through short-term auctions and pay-as-you-go. It is testing a rebate for customers who hand back GPUs they are not using.\nNebius has data centre capacity in Finland, France, the UK, Spain, Estonia and Iceland. It also added $10 million in compute grants as its AI Builder Program expands across Europe. The same day, Nebius, Nvidia and the German robotics company Sereact announced a system for training robots. Its first use is the Sereact Zalando returns robots in some of CEVA Logistics’ warehouses.\nBoroditsky also told CNBC that Nebius was “100% in principle” discussing investments in the communities around its sites. On Truth Social, President Donald Trump had urged data centre developers to offer local residents a “dividend”.\n“The concept that the president identified… it’s not crazy to consider something like that,” Boroditsky said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Nebius获Citi 35亿美元贷款，加码GPU与数据中心。",
+  "background": "AI云服务商正大举扩建GPU数据中心，但资本市场开始质疑其债务可持续性。CoreWeave近期债务违约保险成本飙升，Nebius股价也承压。与此同时，AI算力需求仍快于供给，价格持续上涨，Nebius此时融资既为短期建设，也试图用长期客户合同与资产抵押安排降低资金成本。",
+  "key_points": [
+   "Nebius与Citi签署35亿美元有担保贷款，期限364天，利率为SOFR加2.75%，最高可升至3.50%。",
+   "这笔资金将主要用于数据中心建设、GPU采购和一般企业用途，Citi担任贷款牵头安排行。",
+   "Nebius称AI算力价格涨得比预期快，本周拍卖显示价格继续上升；其2027年产能若上线预计也会售罄。",
+   "公司强调自身债务结构与CoreWeave不同，下一阶段可用超400亿美元、投资级客户长期合同做抵押融资。"
+  ],
+  "impact": "对AI行业，neocloud扩张更依赖债务和长期合同，融资成本与算力价格将加速分化；对开发者，spot、拍卖和返还折扣等模式增多，可降低成本但需容忍中断；对普通用户，算力涨价可能传导至AI服务价格，数据中心社区补偿也会成为议题。",
+  "tools": "想跟进可关注Nebius AI Cloud的spot和拍卖价格页，并用Kubernetes、Ray、Slurm调度可中断GPU任务；同时对比CoreWeave、Lambda等neocloud报价。"
+ },
+ "lang": "zh"
+}

@@ -17233,5 +17233,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-22T11:45:23.158418+00:00"
+ },
+ "be145cfed5b1": {
+  "id": "be145cfed5b1",
+  "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna",
+  "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:06:56.913505+00:00"
+ },
+ "3721c0cfc604": {
+  "id": "3721c0cfc604",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+  "title": "1Password lets AI agents use your passwords without seeing them",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:07:04.915034+00:00"
+ },
+ "f674cb3a2ea4": {
+  "id": "f674cb3a2ea4",
+  "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+  "title": "Claude Duet app is Anthropic’s bet on agents",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:07:15.506873+00:00"
+ },
+ "feacd6de002e": {
+  "id": "feacd6de002e",
+  "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+  "title": "DeepSeek reportedly raises $15B days after US restrictions",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:07:25.821893+00:00"
+ },
+ "2828cd4e2ea1": {
+  "id": "2828cd4e2ea1",
+  "url": "https://thenextweb.com/news/microsoft-storm-0940-ai-agents-connectwise-attack",
+  "title": "Microsoft says China-aligned hackers used AI agents in ConnectWise attack",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:07:34.506371+00:00"
+ },
+ "7bd0d00705c5": {
+  "id": "7bd0d00705c5",
+  "url": "https://thenextweb.com/news/nebius-loan-citi-3-5-billion-gpus-data-centres",
+  "title": "Nebius borrows $3.5bn from Citi as it says AI compute prices keep rising",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:07:46.896413+00:00"
+ },
+ "f2b872f9184f": {
+  "id": "f2b872f9184f",
+  "url": "https://www.businessinsider.com/us-army-making-a-big-bet-ai-battlefield-decision-making-2026-10",
+  "title": "The US Army is making a new $700 million bet on AI that helps soldiers turn battlefield intelligence into targets",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:08:01.225238+00:00"
+ },
+ "e5f74d7587c2": {
+  "id": "e5f74d7587c2",
+  "url": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10",
+  "title": "这家初创公司筹集了3400万美元，旨在帮助安全团队应对人工智能威胁。阅读项目推介资料。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-22T13:17:49.889Z",
+  "fetched_at": "2026-10-22T17:08:21.341334+00:00"
  }
 }

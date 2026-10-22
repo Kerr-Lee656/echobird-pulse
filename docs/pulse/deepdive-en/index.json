@@ -7495,5 +7495,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-22T06:43:26Z",
   "fetched_at": "2026-10-22T11:48:54.741058+00:00"
+ },
+ "229b322ed982": {
+  "id": "229b322ed982",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "title": "CopilotKit/OpenBot — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-22T17:09:58.127430+00:00"
+ },
+ "13f623c60c7a": {
+  "id": "13f623c60c7a",
+  "url": "https://www.sfgate.com/bayarea/article/stanford-ai-pregnancy-22485765.php",
+  "title": "Stanford researchers create AI immune system to find treatment for early labor",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T16:45:34Z",
+  "fetched_at": "2026-10-22T17:10:12.411483+00:00"
+ },
+ "c6a060f6f760": {
+  "id": "c6a060f6f760",
+  "url": "https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/",
+  "title": "Agentic AI doesn't usually back up before acting",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T16:40:42Z",
+  "fetched_at": "2026-10-22T17:10:24.599871+00:00"
+ },
+ "8e8f38bab587": {
+  "id": "8e8f38bab587",
+  "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+  "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T16:19:12Z",
+  "fetched_at": "2026-10-22T17:10:56.543574+00:00"
+ },
+ "67297d2df9a3": {
+  "id": "67297d2df9a3",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-10-22T16:11:31.000Z",
+  "fetched_at": "2026-10-22T17:11:12.651549+00:00"
+ },
+ "9fdd22fa30fb": {
+  "id": "9fdd22fa30fb",
+  "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+  "title": "Uber puts all 30,000 employees on ChatGPT Work",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-22T16:00:00.000Z",
+  "fetched_at": "2026-10-22T17:11:25.644476+00:00"
  }
 }

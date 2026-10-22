@@ -1,0 +1,24 @@
+{
+ "id": "e5f74d7587c2",
+ "url": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10",
+ "title": "这家初创公司筹集了3400万美元，旨在帮助安全团队应对人工智能威胁。阅读项目推介资料。",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-22T13:17:49.889Z",
+ "fetched_at": "2026-10-22T17:08:21.341334+00:00",
+ "content": "Mave, a cybersecurity startup that uses agents to counter the rise in AI-powered cyberattacks, has raised $34 million in funding.\nThe Israel-based startup says its AI agents pull together information from a company's existing security systems, investigate alerts, filter out false alarms, and take actions approved by human teams.\n\"Security operations is the last gate in any organization,\" cofounder and CEO Raziel Oren said, comparing it to the physical security guards who monitor a building's live camera footage. \"This thing is really broken from the inside. The roots of the solutions there are just not keeping the relevant pace with the emerging threats.\"\nAI has transformed cyber threats at a dizzying pace. Attacks can happen much faster and on a much larger scale, and Oren predicted that the increase in agent-powered incidents will be \"exponential.\"\nMave says its own agents help human security teams keep up. \"You can't hire your way out of this,\" Oren told Business Insider. \"There must be a change in how you do [security operations] in order to protect your organizations.\"\nOren cofounded Mave with Guy Eshel in 2025 after years of friendship. The two met when Oren was Eshel's mentor in unit 8200 of the Israel Defense Forces, which sits under the intelligence corps and gave them firsthand experience with cybersecurity issues.\nAI agents have come under the spotlight after a string of high-profile security breaches. Corporate leaders have grown increasingly worried about the cybersecurity risks AI poses, and some of Wall Street's executives spent third-quarter earnings calls explaining how they're defending against rogue AI agents.\nThe technology has also been used by researchers to uncover security flaws: this week, OpenAI said one of its AI models had helped identify a vulnerability that puts 70% of the world's websites at risk.\nOren said it takes some customers time to become comfortable handing over security operations to agents, but that the product's transparency is key to building trust. Mave says its agents track each step of their thousands of workflows, giving human employees insight into the agents' reasoning and actions.\nMave charges its customers a flat rate, depending on the company's size and needs. Other startups have also jumped at the opportunity Mave sees, including agentic cybersecurity companies Dropzone and Prophet Security.\nMave's $34 million funding consists of $28 million from a recent Series A round, led by Red Dot Capital Partners and with participation from Lumir Growth Partners, and an earlier $6 million seed round.\nThe startup currently has 30 employees and plans to use some of the fresh capital to continue expanding the team, mainly for go-to-market roles and AI research.\nRead the pitch deck Mave used to raise its Series A round:",
+ "report": {
+  "summary": "Mave融资3400万美元，用AI代理防御AI攻击",
+  "background": "AI让网络攻击更快、更大规模，安全运营团队面临告警过载和误报困扰。Mave由以色列8200部队背景的Raziel Oren与Guy Eshel于2025年创立，主打用AI代理接入企业现有安全系统，辅助调查和响应。此次融资总额3400万美元，其中A轮2800万、种子轮600万，反映资本对“用代理对抗代理”的安全赛道关注升温。",
+  "key_points": [
+   "Mave的AI代理会汇总企业现有安全系统信息，调查告警、过滤误报，并在人工团队批准后执行处置动作。",
+   "公司称安全运营已“从内部坏掉”，靠扩招人手跟不上AI攻击速度，必须改变安全运营方式。",
+   "融资由Red Dot领投A轮2800万美元，加种子轮共3400万；团队30人，将扩销售与AI研究。",
+   "客户对把安全运营交给代理仍有顾虑，Mave以全流程可追踪、可解释推理来建立信任，并按企业规模统一收费。",
+   "赛道竞争升温，Dropzone、Prophet Security等代理式安全创企也在争夺同一机会。"
+  ],
+  "impact": "对AI行业，安全代理成为agent落地的重要场景，也加剧“AI攻防”军备竞赛；对开发者，可关注可观测性、权限控制和审计接口等工程能力；对普通用户，企业响应速度提升可能降低数据泄露风险，但代理误操作与责任边界仍需警惕。",
+  "tools": "可关注开源安全编排与告警分析工具如Shuffle、Cortex、TheHive，以及AI agent可观测性/审计框架；也可跟踪Dropzone、Prophet Security的产品动态。"
+ },
+ "lang": "zh"
+}
