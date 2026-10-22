@@ -7360,5 +7360,59 @@
   "site_name": "Ars Technica",
   "published_at": "2026-10-21T18:51:42.000Z",
   "fetched_at": "2026-10-21T23:20:17.343388+00:00"
+ },
+ "c7c9684abfb7": {
+  "id": "c7c9684abfb7",
+  "url": "https://github.com/usestrix/strix",
+  "title": "usestrix/strix — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:38:44.818798+00:00"
+ },
+ "533d51d9d3de": {
+  "id": "533d51d9d3de",
+  "url": "https://github.com/cline/cline",
+  "title": "cline/cline — Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:38:59.270609+00:00"
+ },
+ "d0cc54fc048d": {
+  "id": "d0cc54fc048d",
+  "url": "https://github.com/cloudwego/eino",
+  "title": "cloudwego/eino — The ultimate LLM/AI application development framework in Go.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:39:11.662925+00:00"
+ },
+ "47aec4fb2833": {
+  "id": "47aec4fb2833",
+  "url": "https://arxiv.org/abs/2610.27296",
+  "title": "Stronger artificial intelligence breakthroughs hasten their own exhaustion",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-22T04:00:00.000Z",
+  "fetched_at": "2026-10-22T04:39:22.884283+00:00"
+ },
+ "4f24e668bd56": {
+  "id": "4f24e668bd56",
+  "url": "https://arxiv.org/abs/2610.27406",
+  "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-22T04:00:00.000Z",
+  "fetched_at": "2026-10-22T04:39:48.694733+00:00"
+ },
+ "7be1f38a8edb": {
+  "id": "7be1f38a8edb",
+  "url": "https://arxiv.org/abs/2610.27435",
+  "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-22T04:00:00.000Z",
+  "fetched_at": "2026-10-22T04:40:01.844947+00:00"
  }
 }

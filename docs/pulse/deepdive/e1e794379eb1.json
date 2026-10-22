@@ -1,0 +1,24 @@
+{
+ "id": "e1e794379eb1",
+ "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+ "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T04:36:59.197883+00:00",
+ "content": "Meta is making a big push into AI, and it’s creating a new kind of stock that could help pay for it.\nOn Wednesday, as the company reported its third-quarter earnings, Semafor reported the company might issue non-voting stock, meaning shares that don’t give their owners a vote on company decisions, to help fund its push into artificial intelligence.\nDuring Meta’s earnings call, the company confirmed that reporting. Meta’s chief financial officer, Susan Li, said the company plans to “create a new class of non-voting capital stock, which will be distributed to all existing shareholders through a stock dividend.”\nLi later added that the company “created this new class of shares with the purpose of creating a publicly traded non-voting stock usable for capital raising, employee compensation, acquisitions, and other general corporate purposes while preserving the voting power of existing Class A and B shareholders.”\nThe shares will allow the company to maintain its current “founder-led structure,” she added. They will also expand its “funding tools and give us flexibility to invest behind the unprecedented momentum we’re seeing across every part of our business, driven by AI.”\nMeta’s earnings were strong this past quarter, beating Wall Street expectations. The company made $64 billion in revenue, a jump of 26% from a year earlier. Its costs and expenses also rose too, however, by 68% year over year.\nReality Labs, the division responsible for Meta’s AR glasses, VR headsets, and VR software, continues to lose money, though less than it used to. The company said in its earnings report that it expects the division’s losses to shrink from its 2025 levels to between $18 billion and $19 billion.\nMeta has made a big push into AI over the past year. The company has released several AI models, including Muse Spark and Muse Glimmer earlier this year. In recent weeks, it added Muse Wonder and Muse Spark Open, an open-weight model whose underlying parameters are publicly available for outsiders to use and build on. Meta also launched a coding agent for software developers called Muse Code. At its Meta Connect event this year, the company announced a new line of cute and cuddly avatars for AI assistant, Meta Muse, in a push to make its AI services more relatable (and also meme-able).\nAs far as can be discerned, those AI products are doing well. “In just a month and a half, more than 10 million people in the U.S. and Canada have set up Muse personal agents,” CEO Mark Zuckerberg said during Wednesday’s earnings call. “Growth continues to be strong, and we have been number one in the App Store almost every day.”\n“Now that Muse has clear product-market fit, we are entering a new phase and a more operational phase that is focused on scaling it,” Zuckerberg added, claiming later that the company expects to grow the product’s appeal to eventually “serve billions of people.”\nThe company also noted that certain storm clouds linger on the horizon in the form of ongoing regulatory and legal issues. “We continue to monitor active legal and regulatory matters that could significantly impact our business and financial results,” said Li. “For example, we continue to see scrutiny on youth-related issues in several markets, and have a number of youth-related trials scheduled in the coming months in the United States.”",
+ "report": {
+  "summary": "Meta发无投票权新股，为AI扩张融资并保控制权",
+  "background": "Meta正大举投入AI，算力、模型和智能体产品竞争推高资本开支。其三季度营收超预期但成本激增，Reality Labs仍亏损。公司因此设计无投票权股票，以股票股息发给现有股东，既拓宽融资与并购工具，又不稀释创始人投票控制权。",
+  "key_points": [
+   "Meta三季度营收640亿美元、同比增26%，但成本与费用同比增68%，AI基础设施投入正显著推高开支。",
+   "新设无投票权股票将以股票股息分发给现有股东，可用于融资、员工薪酬、并购等，同时保留A/B类股东投票权。",
+   "AI产品Muse个人智能体上线一个半月，美加超1000万人开通，几乎每天位居App Store榜首，Meta称已找到产品市场契合点。",
+   "Meta今年推出Muse Spark、Glimmer、Wonder等模型，并发布开放权重模型Muse Spark Open和开发者编码代理Muse Code。",
+   "Reality Labs亏损预计从2025年水平收窄至180-190亿美元；同时Meta仍面临多国青少年相关监管与诉讼压力。"
+  ],
+  "impact": "对AI行业，Meta用金融工具为巨额AI资本开支筹资，可能引发其他巨头效仿，强化算力军备竞赛。对开发者，开放权重模型和编码代理带来新选择，但也需评估生态锁定。对普通用户，AI智能体将更快普及，但青少年保护、隐私与平台监管风险同步上升。",
+  "tools": "可关注Meta Muse智能体平台、开放权重模型Muse Spark Open、编码代理Muse Code；跟进开放模型可看Hugging Face，对比其他开源权重模型。"
+ },
+ "lang": "zh"
+}

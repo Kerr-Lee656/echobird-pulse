@@ -17161,5 +17161,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-21T23:17:57.889869+00:00"
+ },
+ "e1e794379eb1": {
+  "id": "e1e794379eb1",
+  "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+  "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:36:59.197883+00:00"
+ },
+ "77a6c2d2e9e4": {
+  "id": "77a6c2d2e9e4",
+  "url": "https://www.aibase.com/zh/news/31791",
+  "title": "谷歌 CEO 皮查伊：前沿大模型不容退守，云业务短期利润可为研发算力让路",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:37:10.625120+00:00"
+ },
+ "0bcd13347e9a": {
+  "id": "0bcd13347e9a",
+  "url": "https://www.aibase.com/zh/news/31789",
+  "title": "PHP 爆出「PHP2Shell」高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:37:17.396864+00:00"
+ },
+ "3f872d921e09": {
+  "id": "3f872d921e09",
+  "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+  "title": "谷歌员工因公司与军方签订人工智能合同而集体辞职，以示抗议",
+  "source": "www.bbc.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-21T23:20:49.299Z",
+  "fetched_at": "2026-10-22T04:37:45.575231+00:00"
+ },
+ "e9fc027fe2ea": {
+  "id": "e9fc027fe2ea",
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T04:37:54.370929+00:00"
  }
 }
