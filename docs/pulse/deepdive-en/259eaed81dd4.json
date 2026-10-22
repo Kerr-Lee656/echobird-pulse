@@ -1,0 +1,23 @@
+{
+ "id": "259eaed81dd4",
+ "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+ "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+ "source": "Claude",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-22T20:04:24.000Z",
+ "fetched_at": "2026-10-22T21:34:57.076745+00:00",
+ "content": "Claude· @claudeai · X·· 1 小时前精选AI 评分72\nAI 导读\nClaude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。\n推荐理由\n官方说明 Claude 各端默认开启 auto mode 的变化与手动切换入口，读者可据此评估权限模式对日常使用流程的影响。\n正文 · AI 翻译\n从下周开始，在 Pro、Max 和 Team 套餐中，Claude 网页版、桌面端和移动应用上的会话将默认以自动模式运行。\n系统不再要求你逐步批准，而是通过自动检查来阻止高风险操作。你可以随时切换回手动模式。\n来源：Claude · x.com",
+ "report": {
+  "summary": "Anthropic will make auto mode the default for Claude web, desktop, and mobile sessions on Pro, Max, and Team plans next week, automating risky-action checks while allowing manual switching.",
+  "background": "Agentic AI tools increasingly run multi-step tasks that require many permissions, and repeated approval prompts create friction that slows down coding, research, and automation workflows. Anthropic has been testing a middle ground in Claude Code: instead of asking users to approve every shell command, an independent classifier reviews actions and blocks high-risk ones. The move to default auto mode across Claude's consumer and team apps signals that permission design is becoming a competitive product issue. It also reflects pressure to make AI assistants feel more autonomous without abandoning safety guardrails, as enterprises and individual users weigh productivity gains against the risk of unintended actions.",
+  "key_points": [
+   "Starting next week, Claude sessions on web, desktop, and mobile will default to auto mode for Pro, Max, and Team subscribers. Users will no longer be asked to approve each step, but can switch back to manual mode at any time.",
+   "Auto mode relies on automated checks to block high-risk operations rather than step-by-step human approval. In Claude Code, an independent classifier reviews shell commands before execution.",
+   "Anthropic's cited Claude Code testing says auto mode intercepted 89% of dangerous commands, compared with 14% under manual approval. The figures suggest classifier-based review can outperform approval fatigue in some scenarios.",
+   "The change affects daily workflows most for coding and automation users, who may see fewer interruptions. Sensitive or unusual tasks may still warrant manual mode, so users should understand where the setting lives and how to revert."
+  ],
+  "impact": "For the AI industry, default auto mode normalizes autonomous agents with built-in guardrails, making permission UX a competitive battleground rather than an afterthought. Developers gain smoother agentic workflows and fewer approval interruptions, but they must still audit what the classifier blocks or allows, especially around shell commands, file access, and external services. Regular users get a more assistant-like experience with less prompting fatigue, but they need clear expectations about residual risk and easy access to manual controls. The bigger question is trust: if classifiers can reliably reduce dangerous actions, adoption of autonomous agents could accelerate; if not, a single high-profile failure could slow the entire category.",
+  "tools": "Watch Claude Code and the auto mode settings in Claude's web, desktop, and mobile apps. For comparison, try open-source coding agents such as Aider and OpenHands, which expose approval and sandbox policies, and follow OpenAI Codex CLI and Gemini CLI for similar permission-model experiments."
+ },
+ "lang": "en"
+}

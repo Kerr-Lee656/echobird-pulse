@@ -1,0 +1,24 @@
+{
+ "id": "c841e4f2b8a1",
+ "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+ "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:32:33.905438+00:00",
+ "content": "Kevin Weil, who led OpenAI for Science, has launched Warp Sciences with $215M led by Lightspeed, valuing it at $865M, Bloomberg reported. It is building an automated lab in the US for a drug development step that pharma companies have long outsourced to Chinese firms such as WuXi AppTec.\nKevin Weil, who led OpenAI’s science unit until he left in April, has launched a startup that uses AI to speed up a key step in drug development, Bloomberg reported. Warp Sciences came out of stealth on Thursday with $215M in funding.\nLightspeed Venture Partners led the round, which values Warp at $865M including the new money, according to the company. IVP, Premji Invest and Lux Capital also invested. Angel investors include OpenAI finance chief Sarah Friar, Coinbase CEO Brian Armstrong and LinkedIn co-founder Reid Hoffman.\nWarp won’t discover drugs itself. Once researchers find a promising molecule, they often make hundreds or thousands of versions of it to make it work better and cut side effects. Drugmakers have long sent that work to Chinese firms, especially WuXi AppTec, because they are cheaper and faster.\nThat reliance has grown riskier as US-China tensions reach drug supply chains. In June, the Pentagon added WuXi AppTec to its list of companies it says are linked to China’s military, though a judge blocked the move in August. Some drugmakers also worry about sharing sensitive data with Chinese contractors, Weil told Bloomberg.\nWarp wants to bring that work back to the US with a fully automated lab. Its team of about 20 has already bought robotic arms and AI chips. Its chemists will wear cameras and pressure-sensing gloves during experiments to create data for training its own AI models.\n“It’s still an area where frontier AI models are not yet changing the world in the way models are changing the world in software engineering and math,” Weil said. “That’s because the field is so much more experimentally driven. The models need to see that data.”\nHis co-founders are Manohar Paluri, a former vice president at Meta’s Superintelligence Labs, DJ Patil, the White House’s first chief data scientist, and Solomon Reisberg, formerly of Terremoto Biosciences. Weil is the second former OpenAI leader this week to raise big money to make things in the US. On Tuesday, Bob McGrew’s Arda raised $232M for AI that sets up factory lines.\nInvestors are piling into AI for drug research, and OpenAI-backed Chai Discovery raised $400M in July. OpenAI bought Orchestra Bio, which helps drugmakers run drug development with AI agents, this week. That same month, OpenAI researcher Miles Wang was reported to be raising about $200M for his own drug startup, with Lightspeed in talks to lead.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "前OpenAI科学负责人创立AI药研实验室，融资2.15亿美元",
+  "background": "Kevin Weil曾领导OpenAI for Science，今年4月离职后创立Warp Sciences。该公司获Lightspeed领投的2.15亿美元，估值8.65亿美元。其切入点是候选药物分子优化——药企长期把合成大量分子变体、提升疗效和降低副作用的工作外包给药明康德等中国CRO。随着中美紧张加剧、数据安全担忧上升，Warp想用全自动实验室把这一环节迁回美国。",
+  "key_points": [
+   "Warp Sciences获2.15亿美元融资，Lightspeed领投，估值8.65亿美元，天使投资人包括Sarah Friar、Brian Armstrong和Reid Hoffman。",
+   "公司不直接发现药物，而是聚焦候选分子优化：快速合成数百上千个变体，提升药效并减少副作用。",
+   "它要在美国建全自动实验室，团队约20人，已采购机械臂和AI芯片，试图替代外包给中国CRO的环节。",
+   "数据策略很关键：化学家实验时佩戴摄像头和压力感应手套，采集过程数据来训练自有AI模型。",
+   "地缘政治是推力：美国防部曾将药明康德列入涉军名单但被法官阻止，药企也担心向中国承包商共享敏感数据。"
+  ],
+  "impact": "对AI行业，这说明“AI+自动化实验室”正成为药物研发的新资本热点，前沿模型亟需实验数据。对开发者，机器人、实验数据采集、化学信息学和AI建模结合带来新机会。对普通用户，长期可能加速药物优化、降低研发成本，但短期不会有直接产品体验。",
+  "tools": "可关注Warp Sciences、Chai Discovery、Isomorphic Labs；开源可看RDKit、DeepChem、OpenMM，实验室自动化可看Opentrons。"
+ },
+ "lang": "zh"
+}

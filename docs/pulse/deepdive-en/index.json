@@ -7549,5 +7549,122 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-22T16:00:00.000Z",
   "fetched_at": "2026-10-22T17:11:25.644476+00:00"
+ },
+ "1df912f9fd15": {
+  "id": "1df912f9fd15",
+  "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+  "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T21:07:20Z",
+  "fetched_at": "2026-10-22T21:33:51.273176+00:00"
+ },
+ "9d646393a245": {
+  "id": "9d646393a245",
+  "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+  "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T20:57:45Z",
+  "fetched_at": "2026-10-22T21:34:04.140602+00:00"
+ },
+ "32b3170e2410": {
+  "id": "32b3170e2410",
+  "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+  "title": "Meta’s AI could still scrape news sites, legal experts say",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-22T20:32:05.000Z",
+  "fetched_at": "2026-10-22T21:34:33.946271+00:00"
+ },
+ "45f1ccde1d1a": {
+  "id": "45f1ccde1d1a",
+  "url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
+  "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+  "source": "Replit：Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-22T20:24:13.000Z",
+  "fetched_at": "2026-10-22T21:34:44.104716+00:00"
+ },
+ "259eaed81dd4": {
+  "id": "259eaed81dd4",
+  "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+  "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+  "source": "Claude",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-22T20:04:24.000Z",
+  "fetched_at": "2026-10-22T21:34:57.076745+00:00"
+ },
+ "908524dc5bcb": {
+  "id": "908524dc5bcb",
+  "url": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
+  "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T19:33:50Z",
+  "fetched_at": "2026-10-22T21:35:13.501672+00:00"
+ },
+ "1bf85383f8d6": {
+  "id": "1bf85383f8d6",
+  "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+  "title": "US Banks Blocking AI Agents in Accounts",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T19:22:23Z",
+  "fetched_at": "2026-10-22T21:35:24.635899+00:00"
+ },
+ "264af0525447": {
+  "id": "264af0525447",
+  "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+  "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-22T19:07:09.000Z",
+  "fetched_at": "2026-10-22T21:35:36.642968+00:00"
+ },
+ "1fd5dc2d57e9": {
+  "id": "1fd5dc2d57e9",
+  "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "title": "Canva releases its first image generation model",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-22T19:00:00.000Z",
+  "fetched_at": "2026-10-22T21:36:12.988245+00:00"
+ },
+ "edefc37ef9af": {
+  "id": "edefc37ef9af",
+  "url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
+  "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+  "source": "OpenAI：官网动态",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-22T19:00:00.000Z",
+  "fetched_at": "2026-10-22T21:36:23.432460+00:00"
+ },
+ "9c0e2f5a438b": {
+  "id": "9c0e2f5a438b",
+  "url": "https://thenewstack.io/php2shell-chainguard-embargo-dispute/",
+  "title": "AI found a critical PHP flaw. The bigger failure began in 2024",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T18:49:49Z",
+  "fetched_at": "2026-10-22T21:36:35.717707+00:00"
+ },
+ "9ac3cb15835c": {
+  "id": "9ac3cb15835c",
+  "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era",
+  "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T18:26:23Z",
+  "fetched_at": "2026-10-22T21:36:47.942486+00:00"
+ },
+ "1d4e565d9c66": {
+  "id": "1d4e565d9c66",
+  "url": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html",
+  "title": "Meta and chip stocks decline as AI trade comes under pressure",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-22T18:08:30Z",
+  "fetched_at": "2026-10-22T21:37:04.359968+00:00"
  }
 }

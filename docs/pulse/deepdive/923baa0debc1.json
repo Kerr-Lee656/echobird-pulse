@@ -1,0 +1,24 @@
+{
+ "id": "923baa0debc1",
+ "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+ "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:31:54.464680+00:00",
+ "content": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nOpenAI, Anthropic, and Nvidia had record lobbying quarters\nCollectively, they spent nearly $6 million around cybersecurity, child safety, and more.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic’s $2.1 million and OpenAI’s $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren’t out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it’s a clear signal that the three AI firms recognize how important shaping policy has become.\nTech CEOs were already visible fixtures in Washington during this period, with many of them attending a White House lunch with President Donald Trump in late September, which resulted in a “morally binding” AI safety accord that they agreed to. The lobbying disclosures show that even more discussions were happening frequently behind the scenes, during a time just before Trump named his AI czar and task force. With Democrats expected to win back at least some control in Congress after this year’s midterm elections, AI companies may only find it more important to engage with lawmakers who see cracking down on the industry as a winning issue.\nAnthropic included a detailed list of bills, executive orders, and other topics it lobbied Congress and the White House about in the third quarter. Among them were AI-related provisions in the Kids Online Safety Act, export control provisions in the AI Overwatch Act, Trump’s executive order renaming AI “Super Intelligence,” and the Ratepayer Protection Act, which aims to put energy costs for data centers on their developers.\nAI companies are becoming increasingly active in policymaking\nOpenAI’s lobbying looks like a response to some of the fallout from the Hugging Face attack, though the disclosures only list high-level topics. In addition to engaging on issues like copyright, OpenAI lobbied Congress, the White House, the Small Business Administration, and the Commerce and State Departments over cybersecurity evaluations for frontier models, AI safety oversight frameworks, and antitrust protections for information sharing. Nvidia lobbied Congress, as well as several different federal agencies and White House offices, on issues including 6G networks, “responsible AI design,” competition policy, quantum computing, and export control policy.\nApple also had a record-breaking quarter, spending $3.1 million and engaging on issues including intellectual property, tariffs, kids online safety, competition, and domestic semiconductor manufacturing. It engaged on bills that seek to put the onus on app stores to verify users’ ages, for example. It’s the first quarter in which Apple has reported spending more than $3 million on lobbying.\nThe disclosures show that leading AI companies are becoming increasingly active in policymaking, in a quarter that marks a lead-up to the midterm elections. OpenAI didn’t even spend $1 million on lobbying in a single quarter until this year, and it didn’t spend more than half a million until the end of 2024. The most Anthropic spent in a single quarter last year was just over $1 million. And this quarter is the first in which Nvidia has spent more than $2 million. With issues like data center development and AI safety on many voters’ minds, AI lobbyists’ work will likely only increase no matter whichever party has control next year.",
+ "report": {
+  "summary": "三大AI公司单季游说支出齐创纪录",
+  "background": "美国联邦游说披露显示，OpenAI、Anthropic、Nvidia在7-9月均创单季游说支出新高，合计近600万美元。此前AI监管、出口管制、数据中心能耗、儿童安全等议题升温，科技CEO频繁赴华盛顿，AI公司正从技术竞赛延伸到政策博弈。",
+  "key_points": [
+   "Nvidia花220万美元、Anthropic 210万、OpenAI 150万，合计近600万；OpenAI今年才破单季100万，Nvidia首次超200万。",
+   "游说议题覆盖网络安全、儿童安全、版权、前沿模型评估、AI安全监管框架、反垄断信息共享、出口管制、6G、量子计算和数据中心电价。",
+   "Anthropic详细披露：介入KOSA的AI条款、AI Overwatch Act出口管制、将AI更名“超级智能”的行政令，以及要求数据中心开发商承担电费的Ratepayer Protection Act。",
+   "与微软、谷歌相比金额仍属常规，但信号明确：中期选举前和特朗普设立AI沙皇/工作组前后，AI公司正频繁与国会和白宫沟通。",
+   "苹果也创纪录，游说支出310万美元，涉及知识产权、关税、儿童在线安全、竞争和本土芯片制造。"
+  ],
+  "impact": "对AI行业，游说将影响安全监管、出口管制和数据中心政策，合规与政策成本上升；对开发者，前沿模型评估、版权和反垄断规则可能改变API、开源与数据策略；对普通用户，儿童安全、隐私和电价转嫁更受关注，但政策透明度仍有限。",
+  "tools": "想跟进可看 LDA.gov 游说披露、OpenSecrets、Congress.gov/GovTrack 法案追踪、OECD AI Policy Observatory；开发者可订阅相关法案与机构公告。"
+ },
+ "lang": "zh"
+}

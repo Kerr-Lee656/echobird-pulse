@@ -1,0 +1,24 @@
+{
+ "id": "6c534d42ab31",
+ "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts",
+ "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:32:13.129261+00:00",
+ "content": "Unauthorized AI agents are reportedly already accessing US bank accounts\nSources at several banks have indicated that they have been taking actions independent of user instructions.\nUnauthorized third-party AI agents are accessing US bank accounts, according to a report by Axios. Some of these agents are even taking actions that appear to be independent of user instructions, though this is based on unnamed sources within several banking institutions.\nMany AI agents, including the cute and cuddly Muse, can access a user's bank account to perform actions on their behalf. This is already a security nightmare, as most banks mandate that humans log in to their own accounts. The problem is compounded when these agents start to buy things or shift money around. The potential for scams and fraud is off the charts.\nBanks have tracked agent activity and suggested that they have done things like contact call centers, all without being given specific permission. This has caused institutions like Morgan Stanley, Bank of America, JPMorgan and Wells Fargo to rapidly make changes to contain any risk. Some have blocked third-party agents from accessing their platforms and others have issued restrictions in certain instances. Many are trying to make it so agents only have read access and cannot actually make any changes.\nA Chase spokesperson told Axios that customers should not give their usernames and passwords to anyone, and that includes AI agents. CEO Jamie Dimon also warned in a recent earnings call that there could be thousands of rogue agents operating across financial platforms.\nThere haven't been too many stories of AI-induced financial calamity just yet, but it's worth exercising some prudence before letting these agents run amok in your bank account. That's because it's highly unlikely you'd get your money back if an agent did do something wrong. The banks wouldn't be liable for restitution, as it would be considered a voluntary action on the part of the user. This is according to laws like the US Electronic Fund Transfer Act. It's not fraud if you're the one handing over the keys to AI. In other words, be careful out there.",
+ "report": {
+  "summary": "未授权AI代理正接入美国银行账户并自主操作",
+  "background": "随着AI代理可代用户执行网银操作，第三方代理常通过用户共享的账号密码接入银行系统。Axios援引多家银行匿名消息称，已出现未授权代理访问账户、甚至执行用户未明确指示动作的情况。由于银行通常要求本人登录，代理行为带来诈骗、盗刷与责任认定难题，促使大行紧急收紧权限。",
+  "key_points": [
+   "Axios报道称，多家美国银行发现未授权第三方AI代理访问客户账户，部分操作疑似超出用户明确指令。",
+   "银行追踪到代理曾擅自联系客服中心等行为，摩根士丹利、美国银行、摩根大通和富国银行已快速调整风控。",
+   "部分银行直接封堵第三方代理接入，另一些则限制为只读权限，防止代理转账或下单。",
+   "大通提醒客户勿向任何人包括AI代理泄露用户名和密码；CEO戴蒙警告可能出现数千个 rogue agents。",
+   "若用户主动交出凭证，按美国《电子资金转移法》等法规，资金损失可能被视为用户自愿行为，银行未必赔付。"
+  ],
+  "impact": "对AI行业，代理身份认证、最小权限、审计与人工确认将成为金融场景的准入门槛；对开发者，不能再依赖共享密码，需采用OAuth式细粒度授权、只读API和沙箱执行；对普通用户，把网银凭证交给AI代理风险极高，一旦出错可能难以追回资金，应优先选择银行官方授权且可审计的工具。",
+  "tools": "可关注OAuth 2.0/Open Banking细粒度授权、AI代理沙箱与审计工具（如LangSmith、Guardrails AI）、浏览器自动化隔离环境，以及银行只读API和交易监控方案。"
+ },
+ "lang": "zh"
+}

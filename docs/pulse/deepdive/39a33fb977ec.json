@@ -1,0 +1,24 @@
+{
+ "id": "39a33fb977ec",
+ "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+ "title": "Uber puts all 30,000 employees on ChatGPT Work",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:32:03.696651+00:00",
+ "content": "Uber and OpenAI announced an expansion of their partnership on Thursday, with the ride-share giant telling TechCrunch that its entire global workforce — some 30,000 people — will now be using ChatGPT Work.\nChatGPT Work was introduced in July as an enterprise-focused AI agent that corporate teams could deploy for various workflows.\nUber originally piloted ChatGPT Work with 1,000 employees earlier this year but has now scaled up its usage to the entire company.\nThat earlier pilot was deployed to workers from across Uber’s various departments, including finance, operations, and product. Indeed, a majority of the early adopters — some 80% — were non-engineers, Sumanth Sukumar, Uber’s VP of engineering, told TechCrunch.\n“They used it for a wide range of tasks: analyzing complex data from our operations to identify trends and develop recommendations; localizing training materials for different markets and languages; and building personalized interactive dashboards to manage their daily work,” he said.\nYet while the ride-share giant is now going all in on ChatGPT, it has not settled on exactly how employees will use it. “Our approach is to make powerful AI tools available across Uber while giving teams room to experiment,” Sukumar said. “For example, earlier this year we paired 30 AI engineers with teams across Uber and gave them two weeks to automate key parts of their job. Those ‘AI pods’ showed us how much opportunity there is when you combine technical expertise with a deep understanding of a particular job.”\nUber didn’t disclose how much it’s spending on the new rollout of the chatbot. Instead, Sukumar said the company will track how employees use the tool. “We’ll look at how employees are using the technology, the kinds of workflows they develop and how it helps them work more effectively. We’ll evaluate those outcomes and use what we learn to guide how we deploy AI across the business,” he said. Uber says OpenAI worked closely with the company on integrating the chatbot.\nOpenAI has moved quickly to scale up its enterprise business as it competes with its chief competitor, Anthropic. Once known largely as a consumer brand, the ChatGPT creator has swiftly gained a loyal following with business customers, while other AI companies have struggled to keep up.",
+ "report": {
+  "summary": "Uber全员3万人启用ChatGPT Work，企业级AI agent规模化落地提速",
+  "background": "ChatGPT Work是OpenAI于今年7月推出的企业级AI agent产品，主打可嵌入企业内部工作流。OpenAI正从消费级品牌快速转向企业市场，与Anthropic争夺大客户。Uber早在今年初就启动1000人试点，覆盖财务、运营、产品等部门，其中约80%的使用者并非工程师，验证了非技术岗位的AI需求。此次从试点走向全员铺开，是双方合作的扩大，也是目前规模最大的企业级AI agent部署案例之一。值得注意的是，Uber尚未确定统一用法，而是选择边用边观察。",
+  "key_points": [
+   "Uber把ChatGPT Work从1000人试点扩展到全球3万名员工，成为目前规模最大的企业级AI agent全员部署之一。",
+   "试点中80%的使用者不是工程师，说明AI的主要价值正从写代码转向数据分析、材料本地化、仪表盘搭建等日常业务。",
+   "Uber还试验了“AI pods”：30名AI工程师嵌入各业务团队两周，帮助自动化关键工作，探索技术与业务知识结合的方式。",
+   "Uber拒绝披露采购成本，改为跟踪员工实际使用方式和工作流产出，用效果数据决定后续AI投入方向。",
+   "这标志着OpenAI企业业务的加速：它正凭借ChatGPT Work与Anthropic在企业市场正面竞争，抢占大客户心智。"
+  ],
+  "impact": "对AI行业而言，3万人级别的全员部署是强信号，说明企业采购AI正从“试用”转向“基础设施化”，销售逻辑也从卖席位转向卖工作流。对开发者来说，非工程师占80%意味着AI应用层的竞争重点在业务适配和集成能力，而不在模型本身。对普通用户，未来入职大公司时，AI工具可能像邮箱和办公套件一样默认配齐，“会用AI”将逐渐从加分项变成基础技能。",
+  "tools": "可关注 ChatGPT Work、Claude Enterprise、Microsoft Copilot、Gemini for Workspace 等企业方案；想自建可尝试 Dify、n8n 做工作流编排，Open WebUI 做内部接入层，Langfuse 做使用效果追踪。"
+ },
+ "lang": "zh"
+}

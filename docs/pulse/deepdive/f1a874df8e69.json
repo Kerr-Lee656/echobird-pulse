@@ -1,0 +1,24 @@
+{
+ "id": "f1a874df8e69",
+ "url": "https://slashdot.org/story/26/10/22/1629209/anthropic-takes-on-muse-with-claude-duet",
+ "title": "Anthropic Takes On Muse With Claude Duet",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:31:28.271776+00:00",
+ "content": "Anthropic Takes On Muse With Claude Duet (theverge.com) 9\n\t\t\t\n\t\t \t\n\t\t\t\tAnthropic has launched Claude Duet, an AI agent aimed at professionals and small businesses that competes with Meta's Muse and OpenAI's Dots. Here's Anthropic's description of what it can do:  Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention. You can also hand it tasks of all shapes -- from simple administrative tasks of scheduling meetings to more complex ones, such as building dashboards with dozens of tools, creating financial or sales forecasts, prototyping, and building web apps.  The Verge reports:  Claude Duet pulls in memory, skills, and connected apps from Claude, and it has a virtual machine with a browser that it can use for completing work. Before any big step, like sending a payment or deleting something, Claude Duet messages you for approval. Given that Duet may be taking action on sensitive information, it has a new \"new dedicated classifier and safety system prompt\" that are \"designed to reject requests to share the strictest tier of information,\" such as credit card numbers.\nAnthropic says Claude Duet is currently an \"early version\" and that it \"still might misread a thread or miscalibrate what's urgent.\" It's also not \"as strong\" at personal errands like booking tickets.",
+ "report": {
+  "summary": "Anthropic 推出面向专业与小型企业的 AI 代理 Claude Duet，与 Meta Muse、OpenAI Dots 竞逐",
+  "background": "过去一年，AI 竞争的重点已从“对话问答”转向“替你干活”的代理（agent）产品：OpenAI 的 Dots、Meta 的 Muse 都瞄准了能连接办公应用、主动推送信息、代执行任务的助手形态。Anthropic 此前以 Claude 系列模型和企业 API 业务为主，缺少一个直接触达终端用户的“主动型”入口，Claude Duet 正是补上这一环：它复用 Claude 的记忆、技能和已连接应用，并配一台带浏览器的虚拟机来实际执行操作。这也延续了 Anthropic 一贯的“安全优先”定位——在能力扩张的同时强调分级管控与人工确认。",
+  "key_points": [
+   "每天早晨主动推送跨应用简报，全天监控连接的应用，只在真正需要你关注时才发消息，从“你问它答”变成“它主动提醒”。",
+   "可接手从安排会议等行政琐事，到搭建仪表盘、做财务/销售预测、做原型、写 Web 应用等复杂任务，背后依靠一台带浏览器的虚拟机实际操作。",
+   "关键动作设有人工确认环节：付款、删除等重大步骤前会先给你发消息请求批准，避免 AI 擅自操作造成损失。",
+   "新增专门的分类器与安全提示词，用于拒绝分享信用卡号等最高敏感级别的信息，这是针对代理接触敏感数据的定向防护。",
+   "官方坦承仍是早期版本：可能误读对话线程、误判紧急程度，订票等个人生活类事务也“不够强”，定位偏向工作场景。"
+  ],
+  "impact": "对行业而言，代理产品的竞争从“模型能力”转向“工作流整合 + 权限与安全设计”，Anthropic 把安全分级做成卖点，可能推动同类产品跟进人工确认与数据分级规范。对开发者，带浏览器虚拟机、可调用多工具的代理运行时形态，意味着未来的集成对象会是“代理”而非单纯的 API，工具与插件生态需要重新设计。对普通用户，日常办公有望被自动化接管，但“误读线程”“误判优先级”的提示也说明现阶段仍需人工把关，不宜把敏感权限全权交出。",
+  "tools": "想自己动手体验类似能力，可关注 Anthropic 的 Claude API 与 MCP（Model Context Protocol）做工具接入，用 Claude Code 做自动化任务原型；开源侧可试 LangGraph、CrewAI 搭建多步代理，配合 Playwright 实现浏览器操作，并自建“高风险动作需人工确认”的审批环节。"
+ },
+ "lang": "zh"
+}

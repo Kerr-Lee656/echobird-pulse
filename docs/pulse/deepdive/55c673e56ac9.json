@@ -1,0 +1,24 @@
+{
+ "id": "55c673e56ac9",
+ "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+ "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-22T21:32:20.853030+00:00",
+ "content": "Nvidia has launched Minerva, AI operations software that combines data from GPUs, networks, storage and workloads to spot failing parts in large AI data centres early. It groups alerts into single incidents and has an AI assistant. IREN uses it, and Lambda, IBM and Tesla plan to.\nNvidia has launched Minerva, software that watches over the huge GPU clusters it calls AI factories and flags problems before they slow work down, the company said on Thursday. It was announced at Nvidia’s GTC Berlin conference, days after Nvidia signed an AI partnership with Germany.\nIn clusters that size, one faulty part can hold up an entire training job, Nvidia says. It might be a GPU running hotter than the rest, or a storage drive slowing under load. Those signs are easy to miss when network, computing and machine learning teams each watch a separate part of the system.\nMinerva pulls data from GPUs, network gear, storage, job schedulers and the AI workloads themselves into one map of the data centre. Nvidia says that lets operators trace a slow job back to the part causing it, even across hundreds of thousands of GPUs.\nThe software uses machine learning to learn what normal looks like and to predict failures. Instead of sending operators every alert, it groups related problems into a single incident with a likely cause.\nA built-in AI assistant lets staff ask about cluster health in plain language and suggests fixes. Teams can apply those fixes by hand or hook Minerva up to their own automation tools.\n“NVIDIA Minerva gives our operations team one view across the network, the GPUs and the jobs running on them,” said Denis Skrinnikoff, chief technology officer of IREN. Nvidia can invest up to $2.1B in the former Bitcoin miner under a deal struck in May.\nBitdeer AI, IBM, Jio, Lambda and Tesla also plan to use Minerva, Nvidia said. Dell, Lenovo and Supermicro will offer it to their customers.\nThe launch adds to Nvidia’s push to sell more than chips to the companies building AI data centres. On Wednesday, it said European partners are adopting its DSX blueprint to cut water and power use, and released a design for running AI agents safely. Nvidia did not give pricing for Minerva.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英伟达发布Minerva软件，用AI提前发现大型AI数据中心故障部件",
+  "background": "在柏林GTC大会上，英伟达推出AI运维软件Minerva。此时距其与德国签署AI合作协议仅数日。随着AI工厂规模升至数十万块GPU，单个过热GPU或负载下降的存储盘就可能拖垮整个训练任务；但网络、计算、机器学习团队各自监控不同部分，故障信号难以被发现。这也是英伟达从卖芯片转向卖运维软件、提高单客户价值的一步。此前它已推出DSX数据中心能效蓝图和AI智能体安全设计方案。",
+  "key_points": [
+   "Minerva把GPU、网络、存储、任务调度器和AI负载的数据汇聚成一张数据中心全景图，可跨数十万GPU追溯慢任务根因。",
+   "通过机器学习学习“正常状态”基线并预测故障，把海量告警聚合成单一事件，并给出最可能的病因，减少告警风暴对运维人员的干扰。",
+   "内置AI助手支持用自然语言询问集群健康状况并建议修复方案，可人工执行，也可接入企业自有自动化工具闭环处理。",
+   "IREN已上线使用，Bitdeer AI、IBM、Jio、Lambda、特斯拉计划采用；戴尔、联想、超微将向其客户转售。",
+   "英伟达未公布定价，延续其“不只卖芯片”的策略，向AI数据中心运营软件层扩张。"
+  ],
+  "impact": "对AI行业而言，运维软件成为算力之外的新竞争维度，超大规模集群的可用性直接决定训练成本，Nvidia借机加深客户绑定。对开发者来说，训练任务因硬件隐性故障中断的概率有望下降，但仍需关注Minerva是否与自家监控栈兼容、是否形成新的厂商锁定。对普通用户，AI服务宕机和响应变慢会减少，但相关成本可能通过云服务价格间接传导。",
+  "tools": "想跟进可关注NVIDIA DCGM（GPU健康与指标采集）、Base Command Manager、NVLink/NVSwitch 遥测，以及Prometheus + Grafana、Netdata 等开源监控栈做故障预测与告警聚合；调度侧可看Slurm、Kubernetes Device Plugin 的指标暴露能力。"
+ },
+ "lang": "zh"
+}

@@ -17305,5 +17305,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-22T13:17:49.889Z",
   "fetched_at": "2026-10-22T17:08:21.341334+00:00"
+ },
+ "f1a874df8e69": {
+  "id": "f1a874df8e69",
+  "url": "https://slashdot.org/story/26/10/22/1629209/anthropic-takes-on-muse-with-claude-duet",
+  "title": "Anthropic Takes On Muse With Claude Duet",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:31:28.271776+00:00"
+ },
+ "923baa0debc1": {
+  "id": "923baa0debc1",
+  "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+  "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:31:54.464680+00:00"
+ },
+ "39a33fb977ec": {
+  "id": "39a33fb977ec",
+  "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+  "title": "Uber puts all 30,000 employees on ChatGPT Work",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:03.696651+00:00"
+ },
+ "6c534d42ab31": {
+  "id": "6c534d42ab31",
+  "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts",
+  "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:13.129261+00:00"
+ },
+ "55c673e56ac9": {
+  "id": "55c673e56ac9",
+  "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+  "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:20.853030+00:00"
+ },
+ "c841e4f2b8a1": {
+  "id": "c841e4f2b8a1",
+  "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+  "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:33.905438+00:00"
+ },
+ "f67301df277d": {
+  "id": "f67301df277d",
+  "url": "https://www.techradar.com/pro/security/openai-agents-turned-off-their-own-guardrails-and-then-told-researchers-they-were-still-on-ai-agents-lying-about-their-behavior-should-concern-everyone",
+  "title": "OpenAI agents turned off their own guardrails and then told researchers they were still on — AI agents lying about their behavior should concern everyone",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:42.880010+00:00"
+ },
+ "9ace74404d9f": {
+  "id": "9ace74404d9f",
+  "url": "https://api3.cls.cn/share/article/2512842?os=web&sv=8.4.6&app=CailianpressWeb",
+  "title": "Anthropic 因训练 Claude AI 模型使用受版权保护音乐遭起诉",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-22T21:32:55.471035+00:00"
+ },
+ "cb508f9355de": {
+  "id": "cb508f9355de",
+  "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+  "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-22T18:02:54Z",
+  "fetched_at": "2026-10-22T21:33:07.584832+00:00"
  }
 }
