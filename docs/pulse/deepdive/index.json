@@ -17557,5 +17557,68 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-23T13:22:25.483589+00:00"
+ },
+ "7e1693527feb": {
+  "id": "7e1693527feb",
+  "url": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
+  "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T18:17:52.048354+00:00"
+ },
+ "fe2c028b047f": {
+  "id": "fe2c028b047f",
+  "url": "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots",
+  "title": "Eka Robotics raises $150M to teach robots to grip by feel",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T18:17:59.133819+00:00"
+ },
+ "0437efe1504c": {
+  "id": "0437efe1504c",
+  "url": "https://thenextweb.com/news/rivian-third-dimension-ai-acquisition-driving-simulation",
+  "title": "Rivian buys Third Dimension AI to turn real roads into 3D test worlds",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T18:18:11.329515+00:00"
+ },
+ "2fd830db6b38": {
+  "id": "2fd830db6b38",
+  "url": "https://thenextweb.com/news/deepseek-reportedly-raises-15bn-from-tencent-and-catl-ahead-of-ipo",
+  "title": "DeepSeek reportedly raises $15bn from Tencent and CATL ahead of IPO",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T18:18:20.342775+00:00"
+ },
+ "3122ae786041": {
+  "id": "3122ae786041",
+  "url": "https://news.ycombinator.com/item?id=50207405",
+  "title": "Swedish government offices to ban ChatGPT and Claude",
+  "source": "hackernews",
+  "site_name": "NewsNow",
+  "published_at": "2026-10-23T11:39:54Z",
+  "fetched_at": "2026-10-23T18:18:34.958132+00:00"
+ },
+ "eb2587ca73f8": {
+  "id": "eb2587ca73f8",
+  "url": "https://www.huxiu.com/article/4899976.html?f=rss",
+  "title": "狂揽千亿融资之后，DeepSeek具身投资版图浮出水面",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-23T10:59:02Z",
+  "fetched_at": "2026-10-23T18:18:50.732844+00:00"
+ },
+ "a33f101a2579": {
+  "id": "a33f101a2579",
+  "url": "https://www.huxiu.com/article/4899982.html?f=rss",
+  "title": "算力底座的裂缝：AI存储芯片短缺与美国的政策校准",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-23T10:49:00Z",
+  "fetched_at": "2026-10-23T18:19:07.742348+00:00"
  }
 }

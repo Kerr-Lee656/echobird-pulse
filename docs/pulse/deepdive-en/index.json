@@ -7864,5 +7864,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-23T09:17:16.000Z",
   "fetched_at": "2026-10-23T13:26:04.683939+00:00"
+ },
+ "d00609da6209": {
+  "id": "d00609da6209",
+  "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+  "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T17:54:56Z",
+  "fetched_at": "2026-10-23T18:19:38.220234+00:00"
+ },
+ "ee4c22366ef7": {
+  "id": "ee4c22366ef7",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "source": "OpenAI",
+  "site_name": "OpenAI",
+  "published_at": "2026-10-23T17:00:00.000Z",
+  "fetched_at": "2026-10-23T18:20:08.529313+00:00"
+ },
+ "b5afd2b4b2e4": {
+  "id": "b5afd2b4b2e4",
+  "url": "https://arxiv.org/abs/2610.30769",
+  "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T16:02:38Z",
+  "fetched_at": "2026-10-23T18:20:20.475102+00:00"
+ },
+ "d9bbfa289984": {
+  "id": "d9bbfa289984",
+  "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+  "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+  "source": "Moonshot AI：Kimi Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T16:00:00.000Z",
+  "fetched_at": "2026-10-23T18:20:32.448748+00:00"
+ },
+ "b2842111c9af": {
+  "id": "b2842111c9af",
+  "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+  "title": "Nvidia Sentry: Secure AI Agents at Runtime",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T15:01:26Z",
+  "fetched_at": "2026-10-23T18:22:44.797584+00:00"
+ },
+ "21cac6761722": {
+  "id": "21cac6761722",
+  "url": "https://neon.com/blog/postgres-19-is-late-and-its-ais-fault",
+  "title": "Postgres 19 is late, and it's AI's fault",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T14:49:09Z",
+  "fetched_at": "2026-10-23T18:22:54.922736+00:00"
  }
 }

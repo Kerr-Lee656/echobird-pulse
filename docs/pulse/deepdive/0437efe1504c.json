@@ -1,0 +1,24 @@
+{
+ "id": "0437efe1504c",
+ "url": "https://thenextweb.com/news/rivian-third-dimension-ai-acquisition-driving-simulation",
+ "title": "Rivian buys Third Dimension AI to turn real roads into 3D test worlds",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T18:18:11.329515+00:00",
+ "content": "Rivian has bought Third Dimension AI, a startup that turns real-world camera footage into 3D scenes. The carmaker will use them to train and test its driver assistance and self-driving software. Rivian announced the deal on Thursday and did not disclose the terms.\nTolga Kart and Piotr Sokolski founded Third Dimension in 2024. It has 15 staff, most of them in the UK, and raised $7M in seed funding, Kirsten Korosec reported for TechCrunch. Abstract Ventures, MVP, Soma Capital and Solari Capital backed it. The team joins Rivian’s autonomy and AI group, led by James Philbin. He told TechCrunch the deal lets Rivian expand its AI hub in London.\n“Simulation is central to how we train and validate our autonomous driving systems,” Philbin said in a statement.\nReal scenes, with dials\nThird Dimension’s platform rebuilds real driving footage as 3D environments that engineers can control. A team can recreate a tricky moment, then change it. Rivian says its models can then train on complex conditions. They no longer have to wait for rare edge cases on the road.\n“For us, it’s about taking real scenarios, but making them simulatable,” Philbin told TechCrunch.\nEngineers can move the cameras, shift other road users and change the lighting or weather, he said. Rivian looked at “a lot of different providers” before buying, according to Philbin.\nThe raw material comes from Rivian’s own fleet. Tens of thousands of its pickups, SUVs and delivery vans share camera data when owners allow it. Rivian receives more than 400,000 driving sequences a day, Philbin told TechCrunch.\nKart said older simulators, built on video game engines, still look different from the real world. He told TechCrunch his team was happy to work on a single problem.\n“The team is excited to be able to focus on one problem,” Kart told TechCrunch.\nRivian’s self-driving plans\nRivian already sells software that lets drivers take their hands off the wheel on highways while they watch the road. By the end of this year it plans to release point-to-point supervised driving software. Robotaxi versions of its R2 SUV are due on Uber’s app in 2028.\nRivian has also faced a lawsuit alleging it promised self-driving features its first-generation vehicles can never deliver.\nOther companies are building similar tools. Google DeepMind has plugged Street View into its Genie world model. Maxinsights raised money this week to film real-world training data for robots.\nPhilbin said simulation matters most at the last step, when Rivian decides whether software can reach customers. “Is the system good to ship?” is the question, he told TechCrunch. Rivian founder and chief executive RJ Scaringe said last week that autonomy opens up new vehicle designs, which “can create dramatically different experiences”, Sean O’Kane reported for TechCrunch.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Rivian收购Third Dimension AI补强仿真",
+  "background": "Rivian正推进辅助驾驶和Robotaxi，计划今年底推出点到点监督式驾驶软件，2028年在Uber上线R2 Robotaxi。它每天从允许共享数据的车队获得40多万段驾驶序列。Third Dimension成立于2024年，15人团队主要在英国，曾获700万美元种子轮，团队将加入Rivian自动驾驶与AI部门并扩展伦敦AI中心。",
+  "key_points": [
+   "Third Dimension把真实行车摄像头画面重建为可编辑3D场景，工程师可移动摄像头、调整其他道路参与者、光照和天气。",
+   "仿真用于训练和验证自动驾驶模型，可反复复现并改造罕见边缘场景，不必在路上等待危险情况发生。",
+   "Rivian自有车队是数据源：数万辆皮卡、SUV和配送车在车主授权下共享数据，每天收到超40万段驾驶序列。",
+   "交易未披露金额；团队并入James Philbin领导的自动驾驶与AI团队，并帮助Rivian扩大伦敦AI枢纽。",
+   "竞品方向包括Google DeepMind把街景接入Genie世界模型，以及为机器人拍摄真实训练数据的创业公司。"
+  ],
+  "impact": "对AI行业，真实到仿真的世界模型正成为自动驾驶数据闭环核心，收购会推动更多车企自建仿真资产。对开发者，3D重建、场景编辑和仿真评测工具需求上升，岗位更偏世界模型与数据管线。对普通用户，辅助驾驶验证更快更全面，但车队数据授权和“自动驾驶承诺”合规仍会被审视。",
+  "tools": "可关注CARLA、NVIDIA Isaac Sim/Omniverse、Unreal Engine，以及nerfstudio、gsplat等NeRF/3D高斯泼溅工具；Waymo Open Dataset和nuScenes适合做仿真与感知评测。"
+ },
+ "lang": "zh"
+}

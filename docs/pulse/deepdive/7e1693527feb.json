@@ -1,0 +1,24 @@
+{
+ "id": "7e1693527feb",
+ "url": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
+ "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T18:17:52.048354+00:00",
+ "content": "OpenAI, PerturbAI and Scripps Research have used close to 2,000 AI agents to analyse a large mouse brain dataset in 32 minutes.\nThe team estimates that researchers working by hand would need months to a year for the same analysis, which OpenAI published on Wednesday.\nThe agents ran on OpenAI’s GPT-Rosalind, a model built for life sciences research. The results are set out in a bioRxiv preprint, which has not yet been peer-reviewed.\nThe data comes from a whole-brain CRISPR atlas built by PerturbAI. CRISPR is a gene-editing tool, and here it was used to switch off single genes in mice, showing how each change affects different types of brain cells.\nEach agent took one of these gene changes. It studied how the cells responded, searched the scientific literature, and suggested possible explanations.\nThe team then merged all the reports into a single reasoning atlas that links genes, cell effects, papers, and likely mechanisms.\nAccording to OpenAI, the agents reproduced findings from earlier human analyses and also found new leads. In blinded tests, experts preferred the reports from this split approach over those from a single agent 75% of the time.\nThe split approach also read more widely. At the largest workload, the many agents together cited more than 700 references, compared with 11 for a single agent.\nOne lead involves two genes, Tsc1 and Tsc2, which both help control cell growth. Switching off Tsc2 changed dozens of genes linked to communication between nerve cells in the cerebellum, while switching off Tsc1 changed little. That gap may matter for tuberous sclerosis, a rare genetic disorder.\nIn another case, switching off Dctn1, a gene linked to the rare brain disease Perry syndrome, raised the activity of genes that make cholesterol. The agents suggested lab experiments to test whether this plays a part in nerve cell damage.\n“We build cell atlases so that other scientists can make discoveries we haven’t imagined yet,” said Sarah Teichmann, chair in stem cell medicine at the University of Cambridge.\nThe reasoning atlas is now available on GitHub, and the underlying dataset is on Hugging Face.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI用近两千个AI智能体，32分钟完成小鼠脑基因图谱分析",
+  "background": "全脑基因扰动图谱是理解基因与脑细胞关系的基础设施，但数据量巨大、人工解读需数月甚至一年。此前大模型做科研多为单智能体，读文献少、易漏线索。此次OpenAI联合基因编辑公司PerturbAI与Scripps Research，用专为生命科学训练的GPT-Rosalind驱动约2000个智能体，每个负责一个基因敲除案例，独立分析细胞反应、检索文献并提出机制假设，最后汇总成“推理图谱”。成果以bioRxiv预印本发布，尚未同行评审，但已开源图谱与数据集。",
+  "key_points": [
+   "分工式智能体：约2000个智能体各认领一个CRISPR基因敲除案例，分别分析细胞反应、查文献、提机制假设，再合并成一张基因—细胞效应—论文—机制的推理图谱。",
+   "效率跃升：同样的分析若由研究人员手工完成，估计需数月到一年，而智能体集群仅用32分钟跑完，规模与速度差距是此次最大的看点。",
+   "质量盲测胜出：专家在不知情的情况下比较，75%的情况下更偏好多智能体分工产出的报告；最重负载时集群共引用700多篇文献，单智能体仅11篇。",
+   "新线索：敲除Tsc2会改变小脑神经细胞通讯相关数十个基因，敲除Tsc1却几乎无变化，或与结节性硬化症相关；敲除Dctn1则抬高胆固醇合成基因活性，智能体还建议了验证实验。",
+   "开放与局限：推理图谱已上GitHub、底层数据在Hugging Face，但结果仅为未经同行评审的预印本，机制假设仍需湿实验验证。"
+  ],
+  "impact": "对AI行业，这是“多智能体+领域专用模型”在真实科研任务上的一次规模化验证，说明并行分工能同时提升覆盖度与可信度，科研自动化或成下一个竞争焦点。对开发者，提示了一条可复用范式：把大任务拆成大量小任务、让智能体各自查证再汇总，比堆算力更能提升质量。对普通用户，罕见病机制研究有望加速，但短期内不必高估：预印本结论与智能体提出的假设都需实验室验证，距离新药仍远。",
+  "tools": "可关注GPT-Rosalind（OpenAI生命科学模型）、GitHub上的推理图谱仓库与Hugging Face数据集，直接下载复现；基因扰动数据可查PerturbAI与CRISPRbrain等公开图谱；想自建类似流程，可用OpenAI Agents SDK或LangGraph搭多智能体分工框架，配合PubMed检索接口。"
+ },
+ "lang": "zh"
+}

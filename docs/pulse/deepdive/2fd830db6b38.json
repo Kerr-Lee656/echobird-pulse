@@ -1,0 +1,25 @@
+{
+ "id": "2fd830db6b38",
+ "url": "https://thenextweb.com/news/deepseek-reportedly-raises-15bn-from-tencent-and-catl-ahead-of-ipo",
+ "title": "DeepSeek reportedly raises $15bn from Tencent and CATL ahead of IPO",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T18:18:20.342775+00:00",
+ "content": "Chinese AI lab DeepSeek has raised about 100bn yuan ($15bn), one of the largest private funding rounds ever in China. Bloomberg reported the deal on Thursday, citing people familiar with the matter.\nBattery maker CATL and Tencent, which owns WeChat, were among the biggest investors. TNW has not independently verified the report, and DeepSeek has not confirmed the round.\nDemand from investors pushed the size of the round up during talks. DeepSeek first aimed for 50bn yuan, then raised its target to 80bn yuan, before closing at about 100bn yuan, Bloomberg said.\nThe money gives the Hangzhou-based company more room to compete with the leading US labs. Even so, it still has far less to spend than OpenAI and Anthropic, which have each raised more than $100bn, according to Bloomberg.\nDeepSeek drew global attention in early 2025, when it showed that strong AI models could be built at a fraction of the usual cost. The news set off a sell-off in tech stocks.\nSince then, the company has spent more on data centres and on open-source models, which anyone can download and adapt.\nIt is also preparing for a possible stock market listing, Bloomberg has previously reported. Its cloud service already runs on chips made by China’s Huawei, despite US limits on chip exports, according to the same outlet.\nThe deal is DeepSeek’s second outside round this year. It raised more than $7bn in June, and a month later it was seeking new money at around a $71bn valuation.\nLiang Wenfeng founded DeepSeek in 2023. He also co-founded the Chinese hedge fund High-Flyer, which paid for much of the lab’s early work.\nMeanwhile, the round closed two days after the US Department of Homeland Security ordered federal agencies to stop buying DeepSeek products and remove them from their systems. The order cites national security concerns, including the risk that Chinese authorities could reach US government data.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "DeepSeek据报融资150亿美元，腾讯宁德时代参投，筹备IPO",
+  "background": "DeepSeek由幻方量化创始人梁文锋于2023年创立，早期研发主要由幻方出资。2025年初，它用远低于同行的成本做出强模型，引发全球科技股抛售，也让它成为“低成本高效训练”路线的代表。此后公司加大数据中心与开源模型投入，云服务已跑在华为芯片上。本轮是它今年第二次外部融资：6月刚募得超70亿美元，7月又传出以约710亿美元估值寻求新钱。融资规模从500亿元一路被推高到800亿、最终约1000亿元人民币，投资方包括腾讯和宁德时代，并被视为IPO前的铺垫。",
+  "key_points": [
+   "融资规模约1000亿元人民币（150亿美元），最初目标500亿元，因投资人追捧两度上调，最终翻倍收官，成为中国最大私募融资之一。",
+   "腾讯与宁德时代是最大投资方。一个是流量与云生态，一个是电池与储能巨头，说明资金看重的是算力电力与落地场景，而非纯财务回报。",
+   "这是DeepSeek今年第二轮外部融资：6月募超70亿美元，7月估值约710亿美元，如今继续加码，并已为上市做准备。",
+   "钱虽多但仍有差距：相比OpenAI、Anthropic的累计融资，DeepSeek可动用资金明显更少，融资主要用于数据中心和开源模型。",
+   "融资敲定前两天，美国国土安全部以国家安全为由要求联邦机构停用并卸载DeepSeek产品，凸显其出海面临的地缘政治阻力。",
+   "算力路径值得注意：其云服务已运行在华为芯片上，在美国出口管制下验证了国产算力栈的可行性。"
+  ],
+  "impact": "对AI行业，这说明中国大模型竞争进入“资本+算力”重投入阶段，开源路线的头部玩家正被资本加固，中美头部实验室的资金差距依旧是主线。对开发者，开源权重继续免费可得，本地部署与二次微调的空间更大，但要留意合规与地域限制。对普通用户，产品能力和免费/低价额度短期有望提升，但海外政府与企业的禁用潮可能让部分地区的可用性和数据合规风险上升。",
+  "tools": "想跟进可关注：DeepSeek开源模型权重（V3/R1系列），配合vLLM、SGLang做高吞吐推理，Ollama或llama.cpp做本地轻量部署；也可对比Qwen、Kimi等国产开源模型，关注华为昇腾+CANN生态的适配进展，评估国产算力栈的实际性价比。"
+ },
+ "lang": "zh"
+}
