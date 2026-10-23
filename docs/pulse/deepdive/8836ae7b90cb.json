@@ -1,0 +1,23 @@
+{
+ "id": "8836ae7b90cb",
+ "url": "https://thenextweb.com/news/universal-music-group-tyger-licensing-deal-gaming",
+ "title": "Universal Music Group licenses songs to AI gaming music service TYGER",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T00:39:44.521605+00:00",
+ "content": "Universal Music Group (UMG) will license music from its artists and songwriters to TYGER. The service uses AI to make songs follow the action in a video game as people play.\nThe two companies announced the deal today, with UMG the first major music company to license the service, they said.\nUnder the agreement, selected recordings and songs from UMG’s record and publishing catalogues will join TYGER’s paid, on-demand subscription. Some UMG recordings will also appear on its free tier, which carries ads.\nTYGER runs alongside games rather than inside them, so studios do not have to build it in. Players choose the music. The licensed tracks then change in real time to match what happens on screen, using what the company calls its patented technology.\nThe service works on PC, console and mobile, according to TYGER. It is in closed beta across more than 20 games, which together have more than 540 million monthly players, the company said.\nIts library holds more than 400,000 songs, mostly from independent artists.\n“Gaming is where the next generation spends its time, discovers culture and connects with friends, but music has never had a native way to reach those audiences,” said Nick Venti, TYGER’s chief executive and co-founder.\nFor UMG, the deal offers its artists a new way to reach players. The company said it expects music to play a bigger part in gaming.\nMichael Nash, UMG’s chief digital officer, said its artists “will now be able to soundtrack personalized gameplay experiences and connect with millions of gamers and fans around the world.”\nWith the UMG catalogue added, TYGER plans to relaunch later this year. The relaunch will bring an updated free, ad-supported tier and a new subscription offer.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "环球音乐授权AI游戏音乐平台TYGER",
+  "background": "游戏配乐长期以预置音轨或简单交互为主，AI动态音乐则能随画面实时变化，但版权授权一直是商业化难点。TYGER此前曲库主要来自独立音乐人，通过外挂式服务让玩家在游戏中选歌并实时改编。环球音乐此次首次向该类AI服务开放录音与词曲版权，被视为传统唱片公司探索游戏场景的重要信号，也为其今年重启服务铺路。",
+  "key_points": [
+   "环球音乐将录音和词曲版权授权给TYGER，部分曲目进入付费订阅，部分进入免费广告层，成为首家签约的主要唱片公司。",
+   "TYGER不嵌入游戏，而是与游戏并行运行；玩家选歌后，AI依据屏幕动作实时调整音乐，支持PC、主机和移动端。",
+   "该服务封闭测试覆盖20多款游戏，合计月活超5.4亿；曲库超40万首，原以独立音乐为主，UMG加入后主流曲目扩充。",
+   "TYGER计划今年晚些时候重启，更新免费广告层并推出新订阅方案；UMG则希望借游戏为艺人打开新一代听众入口。"
+  ],
+  "impact": "对AI行业，版权合作是AI音乐从生成走向商业化的关键，动态配乐或成新赛道；对开发者，外挂式方案降低游戏音频集成成本，可快速试验个性化配乐；对普通用户，游戏音乐更贴合画面和口味，但订阅门槛与广告体验仍需平衡。",
+  "tools": "可关注TYGER的封闭测试与重启进展；同类可看Aimi、Mubert、Soundraw等AI音乐工具，游戏侧可研究Wwise、FMOD的动态音乐功能，以及版权方与AI配乐的合作模式。"
+ },
+ "lang": "zh"
+}

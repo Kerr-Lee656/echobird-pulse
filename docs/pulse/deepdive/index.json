@@ -17386,5 +17386,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-22T18:02:54Z",
   "fetched_at": "2026-10-22T21:33:07.584832+00:00"
+ },
+ "b514b87bc64d": {
+  "id": "b514b87bc64d",
+  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+  "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T00:38:51.721720+00:00"
+ },
+ "575971a63ca3": {
+  "id": "575971a63ca3",
+  "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+  "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T00:39:02.572545+00:00"
+ },
+ "b16d73f8acaf": {
+  "id": "b16d73f8acaf",
+  "url": "https://www.ithome.com/1/016/761.htm",
+  "title": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遭遇供应链天花板",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-22T22:48:15Z",
+  "fetched_at": "2026-10-23T00:39:14.130084+00:00"
+ },
+ "4865a3164ecd": {
+  "id": "4865a3164ecd",
+  "url": "https://tech.slashdot.org/story/26/10/22/0043216/google-staff-resign-in-backlash-over-its-ai-contracts-with-military",
+  "title": "Google Staff Resign In Backlash Over Its AI Contracts With Military",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T00:39:25.009774+00:00"
+ },
+ "a6d987107c32": {
+  "id": "a6d987107c32",
+  "url": "https://thenextweb.com/news/leidos-95m-pentagon-ai-logistics-elms",
+  "title": "Leidos lands $95M contract to automate Pentagon logistics with AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T00:39:32.969374+00:00"
+ },
+ "8836ae7b90cb": {
+  "id": "8836ae7b90cb",
+  "url": "https://thenextweb.com/news/universal-music-group-tyger-licensing-deal-gaming",
+  "title": "Universal Music Group licenses songs to AI gaming music service TYGER",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T00:39:44.521605+00:00"
  }
 }

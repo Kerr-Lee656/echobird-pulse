@@ -1,0 +1,24 @@
+{
+ "id": "a6d987107c32",
+ "url": "https://thenextweb.com/news/leidos-95m-pentagon-ai-logistics-elms",
+ "title": "Leidos lands $95M contract to automate Pentagon logistics with AI",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T00:39:32.969374+00:00",
+ "content": "Leidos has won a $95M, five-year contract from the Defense Logistics Agency to add AI automation and cloud tools to ELMS, the Pentagon system that tracks more than 80 million items of government property worth over $140B. Leidos has supported the system for more than 21 years.\nLeidos will use AI to speed up the system the Pentagon uses to track more than 80 million items of government property, the company said on Thursday. The work comes under a $95M contract from the Defense Logistics Agency.\nThe Enterprise Logistics Management System, known as ELMS, helps more than 50 agencies keep track of property worth more than $140B. Leidos has supported the system, and the one that came before it, for more than 21 years.\nThe new contract runs for one year plus four optional years, through August 2031. Leidos will add AI and cloud tools so it can ship updates faster and keep the system safe and running, the company said.\n“Logistics wins wars and accurate, reliable asset visibility is a cornerstone of military readiness,” said Jason McCarthy, a senior vice president at Leidos.\nThe Virginia-based contractor, which reported about $17.2B in annual revenue, is pushing deeper into military AI. In July, it teamed up with CoreWeave on a classified AI cloud for US spy agencies and the Pentagon. It also partnered with Rune Technologies on AI that predicts military supply needs in the Indo-Pacific.\nThe Pentagon has spent more on AI this year. In May, Scale AI won a $500M contract to bring AI into military decision-making. That same week, the Pentagon signed classified AI deals with Nvidia, Microsoft and Amazon Web Services.\nIn June, President Donald Trump ordered the military to adopt AI faster. By then, about 1.5 million Pentagon staff, nearly half its workforce, were using its in-house AI platform, mostly for admin work.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Leidos获9500万美元合同，用AI升级五角大楼物流系统",
+  "background": "ELMS是五角大楼用来追踪政府资产的骨干系统，覆盖50多个机构、8000多万件物品、总值超1400亿美元。Leidos已为该系统的前身和现用版本服务21年，这次合同为期一年再加四个可选项，最长执行到2031年8月。近一年五角大楼明显加大对AI的投入：5月Scale AI拿下5亿美元决策AI合同，同周与英伟达、微软、AWS签署涉密AI协议；6月特朗普下令军队加速采用AI，当时已有约150万国防部人员日常使用内部AI平台。",
+  "key_points": [
+   "合同金额9500万美元，采用1+4年结构，最长到2031年8月，Leidos将在ELMS中引入AI自动化和云工具。",
+   "ELMS管理8000多万件政府资产、总值超1400亿美元，服务50多个机构，是美军后勤可见性的核心系统。",
+   "目标是通过云化和AI加速版本迭代、提升系统安全性与稳定性，而不是替换现有的资产追踪流程。",
+   "Leidos正加速布局军事AI：7月与CoreWeave合作为情报机构和五角大楼建涉密AI云，并与Rune合作预测印太补给需求。",
+   "这延续了五角大楼今年大规模采购AI的势头，承包商生态从传统国防商扩展到Scale AI、英伟达等AI厂商。"
+  ],
+  "impact": "对AI行业而言，国防后勤成为继决策辅助之后的第二个大额落地场景，政府订单进一步向兼具传统系统集成能力和AI能力的企业集中；对开发者来说，涉密环境、老旧系统改造和云迁移会带来大量数据管道、权限与MLOps工程需求，但门槛在于安全审查；对普通用户，这类项目间接影响军队装备保障与应急响应效率，日常感知不强，但会强化\"AI用于国防\"的公共讨论。",
+  "tools": "想跟进类似场景，可关注开源数据管道与编排工具Apache Airflow、Apache NiFi，资产与供应链建模可参考OpenBoxes、Odoo库存模块，模型侧看LangChain/LlamaIndex做文档与流程自动化，安全合规可研究OpenSCAP与Keycloak。"
+ },
+ "lang": "zh"
+}

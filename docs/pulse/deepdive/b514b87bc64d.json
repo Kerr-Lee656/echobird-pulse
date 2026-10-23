@@ -1,0 +1,23 @@
+{
+ "id": "b514b87bc64d",
+ "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+ "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T00:38:51.721720+00:00",
+ "content": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC.\nThis follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being negotiated, both outlets report, so they could ultimately change. CNBC reports that the UAE funding could also be coupled with a deal to secure more computing capacity for OpenAI from the UAE, too. OpenAI declined comment.\nShould OpenAI command a valuation of more than $1 trillion with this round, it would break records as the most valued private company ever. That valuation would also raise the bar even higher for OpenAI’s forthcoming IPO. OpenAI filed confidential paperwork for an IPO in June, after its last raise in March valued the ChatGPT maker at $852 billion post-money.\nThat high valuation could also have ramifications for Anthropic’s IPO, which many believe is closer to materializing. (Rumors suggest we could see Anthropic’s public S-1 filing any day now.) The latest reports have Anthropic seeking a $1.5 to $2 trillion valuation for its public debut, CNBC reports. Anthropic raised $65 billion at a $965 billion valuation in May in what many believed at the time would be its last big round before an IPO. It also filed confidential paperwork in June.",
+ "report": {
+  "summary": "OpenAI拟以1.25万亿美元估值融资300亿美元，为IPO铺路",
+  "background": "OpenAI今年3月刚完成一轮融资，投后估值8520亿美元，并于6月秘密递交IPO文件。此次若以1.25万亿美元投前估值募资至多300亿美元，将是其上市前最后一轮大规模私募，也有望刷新全球最贵私有公司纪录。背景是AI行业已进入算力与资本的双重竞赛：模型训练成本飙升，头部实验室靠巨额私募资金提前锁定数据中心与芯片产能；同时Anthropic等对手也在冲刺上市，估值预期高达1.5万亿至2万亿美元，资本市场竞争白热化。",
+  "key_points": [
+   "本轮最高募资300亿美元，由Coatue与阿联酋投资方领投，投前估值1.25万亿美元，比一个月前传闻的1.4万亿有所下调，条款仍在谈判中。",
+   "阿联酋的钱可能不只是钱：报道称这笔投资或与协议捆绑，为OpenAI争取更多来自中东的算力资源，资本和产能正在被一起交易。",
+   "若成交，OpenAI将成为史上估值最高的私有公司，也把即将到来的IPO定价门槛抬得更高——今年3月它的投后估值还是8520亿美元。",
+   "竞争对手Anthropic同样在筹备上市，传闻估值区间为1.5万亿至2万亿美元，两家公司的估值互相抬高，形成一场上市前的资本对赌。"
+  ],
+  "impact": "对AI行业而言，估值锚点被再度推高，一级市场资金进一步向头部集中，中小实验室融资更难，“以股权换算力”成为新范式。对开发者而言，短期模型与API迭代不会停，但平台依赖风险上升：议价权更集中，开源替代与多云备份策略更有吸引力。对普通用户而言，产品功能仍会快速迭代，但在商业化压力下，订阅涨价、广告引入或企业版分层等变化值得留意。",
+  "tools": "想跟进可关注：OpenAI API与ChatGPT企业版的定价动向；开源侧Llama、Qwen、DeepSeek及推理框架vLLM、SGLang；用OpenRouter做多模型路由与备份；融资与估值数据可跟踪PitchBook、Crunchbase以及SEC的S-1文件。"
+ },
+ "lang": "zh"
+}
