@@ -1,0 +1,24 @@
+{
+ "id": "92f791db5c1c",
+ "url": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
+ "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+ "source": "Rohan Paul",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-23T06:04:55.000Z",
+ "fetched_at": "2026-10-23T07:29:48.336672+00:00",
+ "content": "Rohan Paul· @rohanpaul_ai · X·· 1 小时前精选AI 评分76\nAI 导读\n据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。\n推荐理由\nWSJ 报道结合 Astra 模型透明度争议，交代了解雇事件与内部安全调查的来龙去脉。\n正文 · AI 翻译\nWSJ：OpenAI 解雇了 3 名安全研究员，此前安保人员发现他们与一名外部安全研究员之间的 Signal 聊天记录消失。\n这些手机检查始于 9 月的一篇新闻报道，该报道称 OpenAI 的最新模型 Astra 使用了一种新方法，使其更聪明，但记录下的思考过程更少，因此人类能看到的它如何得出答案的过程也更少。\n所以担忧在于，如果未来的模型像研究人员所担心的 Astra 式设计那样，在不写下这些步骤的情况下思考，调查人员将只能看到智能体做了什么，而看不到为什么。\nOpenAI 将这篇报道视为其秘密模型设计的泄露，并开始追查消息来源。\n调查人员将 Ryan Greenblatt 列为疑似泄密者，他曾帮助 METR 分析 7 月 Hugging Face 黑客事件的日志；他否认了这一指控。\n来源：Rohan Paul · x.com",
+ "report": {
+  "summary": "WSJ reports OpenAI fired three safety researchers after security discovered disappearing Signal chats with an outside researcher, amid a leak probe into its Astra model.",
+  "background": "The episode caps a year of tension between OpenAI's push to ship more capable models and its safety staff's need to scrutinize and sometimes discuss risks externally. The September report said Astra used a design that improved capability while reducing recorded reasoning, making it harder to audit why an answer was produced. OpenAI reportedly treated that as a leak of confidential model design and began tracing the source, including checking phones. The use of Signal's disappearing messages—common among researchers who want secure, off-the-record collaboration—turned a routine security review into a staff and whistleblower controversy. It also reflects broader industry friction: labs face competitive pressure to protect secrets, while safety researchers argue transparency, external evaluation, and protected internal dissent are essential to trustworthy AI development.",
+  "key_points": [
+   "WSJ reports that OpenAI dismissed three safety researchers after its security team found they had used Signal disappearing-message chats with an external safety researcher. The chats vanished, complicating internal review. The firings show how ephemeral messaging can become a disciplinary issue at AI labs.",
+   "The phone checks reportedly began after a September news story said OpenAI's Astra model used a method that made it smarter while recording less of its reasoning. That reduced the visible trail humans could audit. OpenAI viewed the story as a secret-design leak.",
+   "Investigators identified Ryan Greenblatt, an external researcher who had helped METR analyze logs from a July Hugging Face hacking incident, as a suspected leaker. He denies the allegation, underscoring the stakes of leak investigations. The case has not been independently confirmed beyond the WSJ report.",
+   "The dispute exposes a structural conflict: safety researchers often need confidential external collaboration and secure channels, while companies need to protect proprietary model details and prevent leaks. Disappearing messages sit awkwardly between those norms. Policies that ban or monitor them can chill legitimate safety work.",
+   "For OpenAI, the controversy compounds scrutiny of Astra's transparency. If future models hide reasoning steps, independent auditors may see only outputs and actions, not causes. That weakens safety evaluations and public accountability. The firings may intensify debate over internal oversight."
+  ],
+  "impact": "For the AI industry, the case sharpens the fight over secrecy versus safety transparency. Labs may tighten communications and leak investigations, while safety teams push for protected external review and clearer whistleblower policies. For developers, it is a warning that workplace use of ephemeral messaging can create compliance and discovery risk; internal documentation and approved channels matter. For regular users, the deeper issue is auditability: if flagship models record less reasoning, the public and regulators may have fewer ways to verify safety claims. The episode may erode trust in OpenAI's safety culture and increase pressure for independent evaluations, system cards, and external audits of frontier models.",
+  "tools": "To follow the technical debate, watch METR's independent evaluations and OpenAI's system cards, plus open-source interpretability projects such as TransformerLens, SAELens, and CircuitsVis, which help researchers inspect model internals. For secure collaboration, Signal is the tool at the center of the story; teams should pair it with clear workplace policies on retention and compliance. Apollo Research and the UK AI Safety Institute are also worth watching for external frontier-model testing."
+ },
+ "lang": "en"
+}

@@ -7711,5 +7711,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-22T21:21:55Z",
   "fetched_at": "2026-10-23T00:41:23.852596+00:00"
+ },
+ "7cfc1d7eacfd": {
+  "id": "7cfc1d7eacfd",
+  "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+  "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+  "source": "Hacker News (30pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T06:41:11Z",
+  "fetched_at": "2026-10-23T07:29:28.538735+00:00"
+ },
+ "92f791db5c1c": {
+  "id": "92f791db5c1c",
+  "url": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
+  "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T06:04:55.000Z",
+  "fetched_at": "2026-10-23T07:29:48.336672+00:00"
+ },
+ "d87e05cdd459": {
+  "id": "d87e05cdd459",
+  "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+  "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T05:43:38Z",
+  "fetched_at": "2026-10-23T07:30:01.511436+00:00"
+ },
+ "cf51e24baa15": {
+  "id": "cf51e24baa15",
+  "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-23T04:00:00.000Z",
+  "fetched_at": "2026-10-23T07:30:16.582093+00:00"
+ },
+ "4de5b7368a60": {
+  "id": "4de5b7368a60",
+  "url": "https://arxiv.org/abs/2610.28945",
+  "title": "Self-Improving Agents with World Model Predictive Paths",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-23T04:00:00.000Z",
+  "fetched_at": "2026-10-23T07:31:32.682840+00:00"
+ },
+ "6838e85e8517": {
+  "id": "6838e85e8517",
+  "url": "https://arxiv.org/abs/2610.28982",
+  "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-23T04:00:00.000Z",
+  "fetched_at": "2026-10-23T07:31:47.267576+00:00"
+ },
+ "4cd0d3a23be1": {
+  "id": "4cd0d3a23be1",
+  "url": "https://arxiv.org/abs/2610.28987",
+  "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-23T04:00:00.000Z",
+  "fetched_at": "2026-10-23T07:32:01.070281+00:00"
  }
 }

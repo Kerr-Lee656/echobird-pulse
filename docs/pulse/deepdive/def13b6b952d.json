@@ -1,0 +1,24 @@
+{
+ "id": "def13b6b952d",
+ "url": "https://www.aibase.com/zh/news/31816",
+ "title": "MiniMax 开源 M3.1 Flash：总参数 428B、激活参数 23B，72 小时处理 Token 超 100 万亿",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-23T07:26:07.136999+00:00",
+ "content": "MiniMax于10月23日正式开源 MiniMax M3.1Flash 模型权重。该模型总参数量为428B，激活参数量为23B，相较上一代M3模型能力全面提升。官方披露，M3.1Flash上线72小时内，真实用户处理Token量已超过100万亿。\n为提升推理效率，M3.1Flash引入多项优化:将前三个全注意力层替换为稀疏注意力;通过量化感知训练（QAT），将路由MoE专家(共享专家除外)迁移至W4A4，并将稀疏注意力索引器和主分支从Q8KV8调整为Q8KV4;同时采用Power-aware scheduling精细分配计算卡功耗，提升硬件利用效率。\n在生态建设方面，MiniMax联合华为昇腾、平头哥、昆仑芯、摩尔线程、壁仞、海光、沐曦、天数、NVIDIA、AMD等芯片厂商，以及Together AI、Fireworks、Nebius、Baseten、Modal、DigitalOcean等推理与云服务平台，推动模型首日接入。\n此外，vLLM、SGLang、智源FlagOS，以及Hugging Face、魔搭社区也将共同推进模型适配，拓展其在不同芯片、云平台和开发环境中的应用。\n开源地址:\nHugging Face:https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash\n魔搭社区:https://modelscope.cn/models/MiniMax/MiniMax-M3.1-Flash",
+ "report": {
+  "summary": "MiniMax开源428B参数M3.1 Flash，72小时处理超100万亿Token",
+  "background": "MiniMax此前已通过M系列模型建立MoE（混合专家）技术路线，M3将总参数推到数百B量级。此次M3.1 Flash是迭代版本，不仅能力提升，更关键的是同时开源权重并做到了“首日适配”：与十余家芯片厂商、云与推理平台同步接入。这背后是国产大模型竞争从单纯的榜单分数，转向推理成本、部署广度和生态覆盖的综合比拼。大模型开源已成中国厂商争夺开发者心智与云调用量的主要手段，而超大规模MoE能否在异构芯片上低成本跑起来，正成为衡量开源诚意的关键指标。",
+  "key_points": [
+   "模型总参数428B，但每次推理只激活23B，相当于让模型“只调用最相关的专家”；因此显存可以放下，单次计算量远小于全量参数模型。",
+   "上线72小时真实用户处理Token量破100万亿，说明发布即有大流量验证，也侧面反映推理成本控制得较激进。",
+   "工程优化集中在省算力：前三个全注意力层换成稀疏注意力，路由专家用W4A4量化感知训练压低精度，KV缓存压到4bit。",
+   "功耗也被纳入调度，用Power-aware scheduling按计算卡功耗精细分配任务，提升硬件利用效率。",
+   "生态上同时接入华为昇腾、寒武纪之外的平头哥、昆仑芯、摩尔线程、壁仞、海光、沐曦等国产芯片，以及vLLM、SGLang等主流推理框架。"
+  ],
+  "impact": "对AI行业，这标志着开源大模型竞争进入“超大MoE和全栈适配”阶段，模型发布即绑定芯片与云平台，形成事实上的生态联盟。对开发者，428B总参、23B激活意味着消费级多卡或单机多卡就有机会部署，但W4A4量化对推理框架和硬件支持有要求，需确认所用后端是否已适配。对普通用户，更低的推理成本会转化为更便宜甚至免费的API与更快的响应，长上下文和Agent类应用的调用门槛同步下降。",
+  "tools": "想动手可关注：Hugging Face与魔搭上的MiniMax-M3.1-Flash权重；vLLM、SGLang（已跟进适配，适合做服务化部署）；智源FlagOS（国产芯片适配层）；以及Together AI、Fireworks、Modal等托管推理平台，可先免部署试跑再决定自建。"
+ },
+ "lang": "zh"
+}

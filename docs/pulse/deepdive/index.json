@@ -17440,5 +17440,95 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-23T00:39:44.521605+00:00"
+ },
+ "af264387b8bd": {
+  "id": "af264387b8bd",
+  "url": "https://www.aibase.com/zh/news/31824",
+  "title": "OpenAI 冲刺 300 亿美元融资，投前估值站上 1.25 万亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T07:25:47.949756+00:00"
+ },
+ "90b6317e2376": {
+  "id": "90b6317e2376",
+  "url": "https://www.aibase.com/zh/news/31818",
+  "title": "OpenAI 全面开放决策 API：基于 GPT‑6 Luna，输入百万 token 仅 0.1 美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T07:25:57.871587+00:00"
+ },
+ "def13b6b952d": {
+  "id": "def13b6b952d",
+  "url": "https://www.aibase.com/zh/news/31816",
+  "title": "MiniMax 开源 M3.1 Flash：总参数 428B、激活参数 23B，72 小时处理 Token 超 100 万亿",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T07:26:07.136999+00:00"
+ },
+ "44de0f084c92": {
+  "id": "44de0f084c92",
+  "url": "https://www.aibase.com/zh/news/31813",
+  "title": "微软人工智能诊断系统 MAI-DxO 诊断准确率达 83.2%，计划启动临床试验",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T07:26:19.121542+00:00"
+ },
+ "771aa5ca3262": {
+  "id": "771aa5ca3262",
+  "url": "https://www.aibase.com/zh/news/31811",
+  "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T07:26:34.475550+00:00"
+ },
+ "f114a55e248b": {
+  "id": "f114a55e248b",
+  "url": "https://www.ithome.com/1/016/796.htm",
+  "title": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-23T00:58:54Z",
+  "fetched_at": "2026-10-23T07:27:26.505516+00:00"
+ },
+ "1392aa56082e": {
+  "id": "1392aa56082e",
+  "url": "https://www.ithome.com/1/016/782.htm",
+  "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-23T00:21:18Z",
+  "fetched_at": "2026-10-23T07:27:39.601333+00:00"
+ },
+ "ff6a9bdb0e8b": {
+  "id": "ff6a9bdb0e8b",
+  "url": "https://www.ithome.com/1/016/781.htm",
+  "title": "外部评估人员发现 OpenAI 内部监控系统漏洞：AI 智能体可绕过安全限制",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-23T00:19:40Z",
+  "fetched_at": "2026-10-23T07:27:47.015746+00:00"
+ },
+ "0282b8d3dc25": {
+  "id": "0282b8d3dc25",
+  "url": "https://www.ithome.com/1/016/771.htm",
+  "title": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-22T23:48:13Z",
+  "fetched_at": "2026-10-23T07:27:56.620965+00:00"
+ },
+ "8ca6ea6ab4a4": {
+  "id": "8ca6ea6ab4a4",
+  "url": "https://www.ithome.com/1/016/765.htm",
+  "title": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-22T23:23:36Z",
+  "fetched_at": "2026-10-23T07:28:08.504953+00:00"
  }
 }
