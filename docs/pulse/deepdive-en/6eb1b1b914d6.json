@@ -1,0 +1,24 @@
+{
+ "id": "6eb1b1b914d6",
+ "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+ "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+ "source": "OpenRouter",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-23T18:31:22.000Z",
+ "fetched_at": "2026-10-23T23:12:04.889004+00:00",
+ "content": "OpenRouter· @OpenRouter · X·· 5 小时前精选AI 评分77\nAI 导读\nOpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。\n推荐理由\nOpenRouter 上架页直接给出上下文长度、定价和试用链接，读者可以据此评估这个开源权重模型的使用成本。\n正文 · AI 翻译\n来自 @Kimi_Moonshot 的 Kimi K3.1 Pro 已在 OpenRouter 上线。\n这是一个 1M 上下文、多模态的开源权重模型，基于 Kimi K3 进行后训练，面向长程编程和智能体任务。输入 $2/百万 tokens，输出 $10/百万 tokens。\n来源：OpenRouter · x.com",
+ "report": {
+  "summary": "Moonshot's Kimi K3.1 Pro — a 1M-context, multimodal open-weight model post-trained for long-horizon coding and agent tasks — launches on OpenRouter at $2/$10 per million tokens.",
+  "background": "Moonshot AI built its reputation on the Kimi assistant and then on open-weight releases, most notably the Kimi K2 series, which let developers run near-frontier models on their own hardware. OpenRouter has meanwhile become the default marketplace for model access: one API key, hundreds of models, per-token pricing and failover across providers. The two trends converge here. Chinese labs — DeepSeek, Qwen, Zhipu, MiniMax — have been shipping open-weight models well below US frontier-lab prices, dragging the whole market downward. Simultaneously, demand has shifted from chat to agents: coding assistants, terminal agents and multi-step workflows need long context, dependable tool calling and predictable cost per task rather than per message. A 1M-token window matters most for repository-scale code, long transcripts and multi-hour agent runs. The \"Pro\" suffix implies a post-training pass over the K3 base rather than a fresh pretrain — now a standard cadence of shipping cheaper incremental upgrades between major versions.",
+  "key_points": [
+   "The model offers a 1M-token context window, multimodal input and open weights, and is post-trained from Kimi K3 rather than trained from scratch. Moonshot positions it explicitly for long-horizon coding and agentic workflows — workloads where context length, tool-calling reliability and cost per completed task matter more than single-turn benchmark scores.",
+   "Pricing on OpenRouter is $2 per million input tokens and $10 per million output. That places it mid-tier: well above budget open-weight models, far below flagship closed APIs. The 5:1 input/output ratio rewards the long-prompt, short-completion pattern typical of coding agents, but penalises agents that ramble.",
+   "Distribution through OpenRouter cuts adoption friction to near zero: developers can test the model with an API key they already have before committing to self-hosting. The marketplace also lets multiple inference providers serve the same weights and compete on price and throughput, which tends to compress effective cost over time.",
+   "Open weights mean the checkpoints can be downloaded, fine-tuned and run privately, which matters for regulated industries and teams that cannot send source code to third-party APIs. It also lets the community benchmark the actual model rather than trusting vendor-reported numbers.",
+   "The release signals Moonshot's cadence of frequent post-training refreshes instead of waiting for a full generational leap, keeping its models visible on aggregator leaderboards while base-model training continues in the background."
+  ],
+  "impact": "For the AI industry this reinforces a pattern: open-weight releases from Chinese labs now set the price floor and the context-length baseline, forcing closed-model vendors to justify premiums on reliability, tooling and safety rather than raw capability. For developers, a 1M-context multimodal model at $2/$10 is a credible default for repository-scale refactoring, log analysis and multi-step agents — worth benchmarking against your current pick on task completion rate rather than token price alone, since long agent runs burn output tokens fast. Open weights also enable self-hosting and domain fine-tuning without data leaving your network. For regular users the effect is indirect but real: cheaper agentic features inside coding tools and consumer apps, and more products shipping long-document and screenshot understanding without passing on flagship-API costs.",
+  "tools": "Start on OpenRouter's playground or its OpenAI-compatible endpoint to price a real workload. For self-hosting, watch vLLM and SGLang for day-one weight support, with LM Studio and Ollama for desktop use. On the agent side, Aider, Cline and Roo Code are the quickest way to test the long-horizon coding claims; LMArena and Artificial Analysis track community rankings and price-performance comparisons."
+ },
+ "lang": "en"
+}

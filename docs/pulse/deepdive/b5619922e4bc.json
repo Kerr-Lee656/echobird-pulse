@@ -1,0 +1,24 @@
+{
+ "id": "b5619922e4bc",
+ "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+ "title": "Kimi K3.1 Pro 上线 Kimi API，Moonshot 承诺 2026 年 11 月 4 日前发布完整模型权重",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:07:41.228291+00:00",
+ "content": "23rd October 2026 - Link Blog\nIntroducing Kimi K3.1 Pro (via) Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\".\nThey're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).\nThe US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5.\nMoonshot's own benchmarks show Kimi as approximately level with Opus 5.5 and GPT-6 Astra - beating them on a few benchmarks, coming close on others.\nArtificial Analysis scored Kimi at 55 - ahead of Claude Fable 5.1, GPT-6 Astra, and Gemini 4 Argon (all at 53) and behind only Claude Opus 5.5 (58).\nThis is the first time a (soon-to-be) open weight model has scored this highly against the frontier.\nI tried it out via the Moonshot API using the llm openai endpoint command I added to LLM 0.32 back in August:\nllm openai endpoint \\\n  https://api.moonshot.ai/v1 \\\n  --key kimi \\\n  -m kimi-k3.1-pro \\\n  \"Generate an SVG of a pelican riding a bicycle\" \\\n  --responses \\\n  -o reasoning_effort low \\\n  > kimi-k3.1-pro-pelican-low.stdout.txt \\\n  2> kimi-k3.1-pro-pelican-low.stderr.txt\nllm openai endpoint can run prompts against any OpenAI-compatible endpoint but doesn't log the results, hence the extra options to save stdout and stderr (the reasoning trace).\nHere are the pelicans I got for Kimi K3.1 Pro on the three reasoning levels it supports - low, medium, and max. This is max:\nFor comparison, I ran fresh pelicans against Kimi K3 on those three reasoning levels.\nRecent articles\n- Battle Drones - a vibe coded RTS with audio-based multiplayer - 20th October 2026\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11 - 12th October 2026\n- A new feature for my blog, built using my voice - 9th October 2026\n- Claude Haiku 5.5 - 7th October 2026",
+ "report": {
+  "summary": "Kimi K3.1 Pro 上线 API，承诺 11月4日前开源权重",
+  "background": "Moonshot 延续其“先 API、后开源”的节奏：先用闭源 API 收回训练成本并打磨服务，再放出权重让社区承接生态。此前 Kimi K2、K3 系列已凭开源权重在中文与 Agent 场景积累口碑，但始终被质疑与 GPT、Claude 顶级闭源模型存在代差。K3.1 Pro 这次直接对标 GPT-6.1 Sol、Claude Opus 5.5 定价，并在第三方评测 Artificial Analysis 上追平甚至反超部分美国前沿模型，被 Simon Willison 称为“首个（即将）开源的模型在前沿评测中拿到如此高分”，标志着中美前沿模型差距进一步收窄。",
+  "key_points": [
+   "发布节奏是“API 先行、权重后至”：模型今天已可通过 Moonshot API 调用，但完整权重最迟 2026年11月4日 才会放出，期间存在跳票风险。",
+   "定价 $2/百万输入、$10/百万输出，与 GPT-6.1 Sol 持平，约为 Claude Opus 5.5 的一半，延续中国模型“同档性能、半价”的打法。",
+   "额外提供 Highspeed 版本，速度提升 2–3 倍、价格翻倍，但命中输入缓存的 token 维持原价，适合高并发低延迟场景。",
+   "第三方评测 Artificial Analysis 给出 55 分，高于 GPT-6 Astra、Gemini 4 Argon、Claude Fable 5.1（均 53），仅落后 Opus 5.5（58）；Moonshot 自评大致与 Opus 5.5 持平。",
+   "支持 low、medium、max 三档推理强度，开发者可按成本与任务难度在“快而省”和“慢而准”之间切换。"
+  ],
+  "impact": "对 AI 行业而言，这是开源阵营首次在通用前沿榜单上贴近第一梯队，“开源落后闭源一年”的叙事被明显削弱，闭源厂商的溢价空间将进一步承压。对开发者来说，多了一个可替换 GPT、Claude 的高性价比端点，OpenAI 兼容接口降低了迁移成本，但需注意前期只有 API、没有权重，私有化部署要等到 11 月。对普通用户，短期最直接的变化是接入 Kimi 的产品会更快更便宜，模型选择权继续从厂商转向应用层。",
+  "tools": "想跟进可关注：Moonshot 开放平台 API（OpenAI 兼容，可直接换 base_url）；Simon Willison 的 LLM CLI（llm openai endpoint 子命令可对接任意兼容端点）；Artificial Analysis 榜单做横评；权重放出后可用 vLLM、SGLang 本地部署测试。"
+ },
+ "lang": "zh"
+}

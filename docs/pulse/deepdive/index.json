@@ -17620,5 +17620,122 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-23T10:49:00Z",
   "fetched_at": "2026-10-23T18:19:07.742348+00:00"
+ },
+ "1fbeabc811c2": {
+  "id": "1fbeabc811c2",
+  "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
+  "title": "OpenAI says it's cutting off internet access for frontier model training",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:07:21.979738+00:00"
+ },
+ "87be73e8dcfd": {
+  "id": "87be73e8dcfd",
+  "url": "https://www.techradar.com/pro/us-gov-issues-order-to-remove-all-deepseek-products-and-third-party-services-developed-using-deepseek-immediately-as-unwarranted-fear-of-chinese-llm-looms-large",
+  "title": "US Government issues order to remove all DeepSeek products and third-party services developed using DeepSeek immediately, as more fears of Chinese LLM loom large",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:07:32.452406+00:00"
+ },
+ "b5619922e4bc": {
+  "id": "b5619922e4bc",
+  "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+  "title": "Kimi K3.1 Pro 上线 Kimi API，Moonshot 承诺 2026 年 11 月 4 日前发布完整模型权重",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:07:41.228291+00:00"
+ },
+ "7d678d40c6ea": {
+  "id": "7d678d40c6ea",
+  "url": "https://wallstreetcn.com/livenews/3185033",
+  "title": "美国得州就用户欺骗与儿童安全问题起诉 OpenAI 及其 CEO",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:07:53.994090+00:00"
+ },
+ "b5cb20bfbe29": {
+  "id": "b5cb20bfbe29",
+  "url": "https://block.xyz/dessa",
+  "title": "Dessa：有史以来最真实的全双工语音模型",
+  "source": "block.xyz",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-23T21:58:58.301Z",
+  "fetched_at": "2026-10-23T23:08:08.349251+00:00"
+ },
+ "7aa6acbd35f7": {
+  "id": "7aa6acbd35f7",
+  "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+  "title": "Meta delays new business terms after publisher pushback on AI scraping",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:08:27.000877+00:00"
+ },
+ "41eba32c5171": {
+  "id": "41eba32c5171",
+  "url": "https://mashable.com/tech/hackers-ai-coding-agents-downloads-malware",
+  "title": "Hackers find a way to turn users own AI agents and Downloads folders against them",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:08:36.145431+00:00"
+ },
+ "95e9cf6bca16": {
+  "id": "95e9cf6bca16",
+  "url": "https://mashable.com/tech/ai-designed-virus-infects-person-for-the-first-time",
+  "title": "AI-designed virus infects person for the first time",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:08:45.353698+00:00"
+ },
+ "a6f25a7a75f8": {
+  "id": "a6f25a7a75f8",
+  "url": "https://thenextweb.com/news/cambricon-q3-sales-miss-chip-supply",
+  "title": "AI chipmaker Cambricon’s sales miss points to tight chip supply in China",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:08:55.990186+00:00"
+ },
+ "32b3509d2b93": {
+  "id": "32b3509d2b93",
+  "url": "https://thenextweb.com/news/oracle-1b-partner-ecosystem-ai-world",
+  "title": "Oracle pledges $1B over four years to partners that sell its AI tools",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:09:04.250840+00:00"
+ },
+ "54fc7a259d26": {
+  "id": "54fc7a259d26",
+  "url": "https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough",
+  "title": "Unitree is building AI that lets its humanoid robots improve themselves",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:09:13.821654+00:00"
+ },
+ "44286f139c52": {
+  "id": "44286f139c52",
+  "url": "https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far",
+  "title": "The US wants to fill thousands of acres of public land with AI data centers — land records show 35 data center-related developments are planned so far",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:09:20.471158+00:00"
+ },
+ "533335bd0fa9": {
+  "id": "533335bd0fa9",
+  "url": "https://www.businessinsider.com/ai-layoffs-job-market-prediction-goldman-sachs-2026-10",
+  "title": "Goldman Sachs sees AI-fueled layoffs displacing nearly 10% of workers",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:09:28.907178+00:00"
  }
 }

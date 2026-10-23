@@ -1,0 +1,24 @@
+{
+ "id": "a6f25a7a75f8",
+ "url": "https://thenextweb.com/news/cambricon-q3-sales-miss-chip-supply",
+ "title": "AI chipmaker Cambricon’s sales miss points to tight chip supply in China",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:08:55.990186+00:00",
+ "content": "Cambricon’s revenue doubled to 3.53B yuan in the third quarter, well short of the 6.26B analysts expected, Bloomberg reported. Profit rose 148%, and the company kept its 2026 target. Chinese AI chipmakers face shortages of high-bandwidth memory and limited access to advanced manufacturing.\nCambricon, one of China’s main makers of AI chips, missed sales forecasts in its latest quarter as it struggled to make enough chips, Bloomberg reported. Revenue doubled to 3.53B yuan ($529M) in the three months to September, but analysts had expected about 6.26B yuan.\nNet profit rose 148% to 1.4B yuan. Cambricon said it expects to keep growing on strong demand for AI computing power. It kept its target of at least 13.5B yuan in revenue for 2026, more than double last year’s.\nThe Beijing company is one of several Chinese firms trying to replace Nvidia, whose most advanced chips can’t be sold to China under US export rules. Beijing has also reportedly told AI firms to stop buying some Nvidia chips, in favour of local ones from Huawei and Cambricon.\nMorgan Stanley expects Cambricon to hold about 14% of China’s AI chip market this year, second only to Huawei. Its chips run AI models from Chinese labs including DeepSeek and Moonshot.\nSupply is a problem across China’s chip industry, and even Huawei can’t make enough AI chips. Chinese chip designers are short of high-bandwidth memory, which is packed next to AI chips and made mainly by Samsung, SK Hynix and Micron. US-led sanctions stop those firms selling it to Chinese buyers, and local stockpiles are running down.\nChinese chipmakers also rely on local factories such as SMIC, which can’t get ASML’s most advanced chipmaking machines. A bill in the US Congress aims to cut off more equipment.\nCambricon appears to be stocking up: its inventory grew by about 3.4B yuan in the quarter, almost as much as its sales, China AI Dispatch reported, citing the company’s filing.\nCambricon’s shares have lost about half their value since a record high in June, as China’s AI stock rally cooled.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "寒武纪营收不及预期，凸显中国AI芯片供应紧张",
+  "background": "寒武纪是中国主要AI芯片设计公司之一，正承接英伟达高端芯片受美国出口限制后的国产替代需求，北京也推动AI企业多用华为、寒武纪等本地芯片。但中国芯片业受制于高带宽内存（HBM）短缺和先进制程产能，连华为也难以足量供货。寒武纪三季度收入翻倍却明显低于分析师预期，反映需求旺盛但供给跟不上。",
+  "key_points": [
+   "三季度营收35.3亿元，同比翻倍，但远低于分析师预期的62.6亿元，收入缺口主要来自芯片供给不足。",
+   "净利润14亿元，同比增长148%，公司维持2026年至少135亿元营收目标，显示对AI算力需求有信心。",
+   "中国AI芯片普遍缺HBM和先进制造产能：三星、SK海力士、美光受制裁难供货，本地库存消耗，SMIC拿不到ASML最先进设备。",
+   "摩根士丹利预计寒武纪今年占中国AI芯片市场约14%，仅次于华为，其芯片已运行DeepSeek、Moonshot等中国模型。",
+   "寒武纪当季存货增加约34亿元，几乎与销售额相当，可能是在提前囤货应对供应紧张；其股价自6月高点已腰斩。"
+  ],
+  "impact": "对AI行业，国产替代逻辑仍强，但供给瓶颈会拖慢中国算力扩张，英伟达缺口难被迅速填平。对开发者，昇腾、寒武纪等国产平台适配和算力获取更关键，短期可能面临资源紧、迁移成本高。对普通用户，AI应用迭代和价格下降速度可能受算力成本约束，但国产模型与芯片协同会加速。",
+  "tools": "可关注寒武纪MLU及Neuware软件栈、华为昇腾CANN、DeepSeek/Moonshot模型适配；跟踪HBM产业链、SMIC产能和公司财报存货指标。开发者可通过国产云算力做模型迁移与性能测试。"
+ },
+ "lang": "zh"
+}

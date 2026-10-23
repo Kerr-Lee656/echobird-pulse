@@ -1,0 +1,24 @@
+{
+ "id": "32b3509d2b93",
+ "url": "https://thenextweb.com/news/oracle-1b-partner-ecosystem-ai-world",
+ "title": "Oracle pledges $1B over four years to partners that sell its AI tools",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:09:04.250840+00:00",
+ "content": "Oracle announced a $1B, four-year commitment to its partner ecosystem at AI World in Las Vegas, covering training, test and demo environments, cloud migration funding and Marketplace sales. It also changed Marketplace rules. The pledge comes as Oracle cuts costs to fund its AI data centres.\nOracle will spend $1B over the next four years on the companies that build, sell and install its software, the company said on Thursday. It made the pledge at its AI World conference in Las Vegas. The aim is to help partners cash in on demand for AI.\nThe money will go into Oracle’s partner programme. It covers training and certification, test and demo setups, funding to move customers onto Oracle’s cloud, and help selling through Oracle Marketplace, its online store for business software.\nPartners include consulting firms, software makers, cloud providers and resellers. They build their own apps and AI agents on Oracle’s databases and cloud, or help customers set up and run Oracle software. In July, Oracle also put Google’s Gemini models into the tool its business-app customers use to build AI agents.\n“Our partners extend our sales reach, expand our delivery capacity, and bring their own innovation and investment,” said Mark Hura, president of Oracle Global Field Operations.\nOracle also changed how its Marketplace works. Customers can now put more of their prepaid Oracle cloud credits toward partners’ products, and software makers can agree prices directly with buyers. Marketplace buying is also opening up in India and Japan.\nThe pledge is small next to Oracle’s AI spending. The company spent about $50B on capital projects in its last financial year and shed about 21,000 jobs as it moved money into cloud and AI data centres. In September, it set aside $700M more for job cuts it has yet to make.\nIn July, S&P cut Oracle’s credit rating to one notch above junk, citing the cash it is burning.\nOracle did not say how the $1B will be split, and said all benefits depend on its programme terms and eligibility rules.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "甲骨文计划四年投入10亿美元补贴合作伙伴生态，助力其销售AI工具",
+  "background": "在云与AI基础设施军备竞赛中，甲骨文的角色颇为矛盾：一边大举投入，一边大幅压缩开支。上一财年公司资本开支约500亿美元，主要投向AI数据中心，同时裁撤约2.1万个岗位，9月又为尚未执行的裁员追加7亿美元计提；7月标普将其信用评级下调至仅高于垃圾级一档。为缓解成本压力，甲骨文把销售与服务环节更多交给咨询公司、软件商、云服务商和经销商，希望通过10亿美元培训与市场补贴换取更广的客户触达。",
+  "key_points": [
+   "10亿美元将在四年内投向合作伙伴计划，用于培训认证、测试与演示环境、客户迁移上云的补贴，以及通过Oracle Marketplace销售的扶持。",
+   "Marketplace规则被改写：客户可把更多预付费云额度用于购买伙伴产品，软件商可与买家直接议价，市场还新开放印度和日本两个区域。",
+   "甲骨文称合作伙伴能扩大其销售覆盖与交付能力，并带来自身的创新与投资，这是公司加码生态的核心逻辑。",
+   "该投资与甲骨文AI基础设施投入相比微不足道：去年资本开支约500亿美元，同时裁员约2.1万人，标普已下调其评级。",
+   "7月甲骨文已将谷歌Gemini模型接入其供企业客户构建AI智能体的工具，伙伴生态的扩张将与多云模型策略相互配合。"
+  ],
+  "impact": "对AI行业而言，这显示传统数据库与ERP厂商正通过渠道补贴争夺企业AI落地入口，与微软、AWS、Salesforce的伙伴激励形成正面竞争。对开发者与咨询商，培训、demo环境和云迁移资金降低了承接Oracle AI项目的门槛；对普通用户，短期意味着更多由第三方交付的Oracle系AI应用与服务，但补贴规模仅相当于其AI资本开支的一小部分，能否真正转化为产品体验提升仍待观察。",
+  "tools": "想跟进可关注 OCI Generative AI 与 OCI Generative AI Agents、Autonomous Database 的 Select AI 自然语言查询、APEX 低代码平台，以及 Oracle Marketplace 的上架与议价机制；同时可对比 AWS Partner Network、Microsoft Azure AI 云迁移补贴等同类计划。"
+ },
+ "lang": "zh"
+}

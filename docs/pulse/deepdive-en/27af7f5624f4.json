@@ -1,0 +1,24 @@
+{
+ "id": "27af7f5624f4",
+ "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+ "title": "AI devours a fifth of companies' IT budgets",
+ "source": "Hacker News (4pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-10-23T22:00:05Z",
+ "fetched_at": "2026-10-23T23:10:23.117574+00:00",
+ "content": "At the same time, few investments appear to be paying off, Forrester reports.\nAccording to a new study by the research firm Forrester, AI will account for 20% of corporate technology spending in 2027. At the same time, more than half of IT executives are expected to miss their return-on-investment targets, reports The Register.\nIn the survey, 45% of AI decision-makers state that investments must yield a positive return within one year to be considered successful. At the same time, only 22% have seen a positive impact on their company’s operating profit over the past year.\nAccording to Forrester, the problems stem in part from companies investing in AI technology without simultaneously changing their organizations and work processes. Instead, the financial gains are realized within individual use cases.\nTo keep costs down, companies are expected to increasingly use open AI models in the future, as they are cheaper to operate. More expensive and advanced AI models are expected to be reserved for more critical tasks.\nThis article originally appeared on Computer Sweden.",
+ "report": {
+  "summary": "Forrester expects AI to take 20% of corporate tech spending by 2027, even as most IT leaders risk missing ROI targets.",
+  "background": "Corporate AI spending has surged on generative AI hype, vendor pressure, and board-level fear of falling behind. Companies have funded pilots, copilots, and model subscriptions, often before defining clear productivity or profit metrics. Forrester's forecast shows AI becoming a core IT budget line rather than an experimental extra. But the survey also exposes a gap between spending and results: many firms have not redesigned workflows, data practices, or roles around AI, so gains stay trapped in isolated use cases. The result is a more mature phase in which CFOs demand measurable returns, and technology leaders must balance innovation with cost control, vendor consolidation, and cheaper open models.",
+  "key_points": [
+   "AI is becoming a budget pillar: Forrester expects AI to account for 20% of corporate technology spending by 2027. That shift means AI moves from experimental pilots into the same budget conversation as cloud, security, and core infrastructure, increasing scrutiny from finance teams.",
+   "ROI deadlines are short: 45% of AI decision-makers say an investment must show a positive return within one year. Yet only 22% report a positive impact on operating profit over the past year, suggesting many deployments are still too early or poorly measured.",
+   "Most leaders expect to miss targets: more than half of IT executives are projected to miss their ROI goals. The gap reflects inflated expectations, weak baseline metrics, and the difficulty of attributing profit gains to specific AI tools.",
+   "Process change is the missing ingredient: Forrester says many companies buy AI without redesigning organizations and workflows. Financial gains appear only in individual use cases, not across the business, because AI is layered onto old processes rather than transforming them.",
+   "Cost discipline favors open models: to control spending, companies are expected to use cheaper open AI models more often and reserve expensive advanced models for critical tasks. This could reshape vendor competition and make model routing a standard practice."
+  ],
+  "impact": "For the AI industry, the report signals a shift from hype-driven experimentation to ROI-driven procurement. Vendors will face harder questions about measurable business outcomes, integration costs, and total cost of ownership. Developers will need skills in evaluation, model routing, cost monitoring, and workflow redesign, not just prompt engineering. Regular users may see fewer flashy pilots and more targeted tools embedded in existing processes. Budget pressure could also accelerate adoption of open-weight models, making AI cheaper but increasing the need for governance and security. Companies that pair AI spending with process change are more likely to capture gains; those that simply buy tools risk disappointing returns and tighter budgets later.",
+  "tools": "Follow open-weight model families such as Llama, Mistral, Qwen, and DeepSeek; inference and routing platforms like OpenRouter; evaluation and observability tools such as Langfuse and LangSmith; and experiment tracking with MLflow. For cost control, watch AI FinOps practices and model-routing gateways that send simple tasks to cheaper models and reserve frontier models for critical work."
+ },
+ "lang": "en"
+}

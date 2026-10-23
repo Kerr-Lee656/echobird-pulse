@@ -1,0 +1,24 @@
+{
+ "id": "533335bd0fa9",
+ "url": "https://www.businessinsider.com/ai-layoffs-job-market-prediction-goldman-sachs-2026-10",
+ "title": "Goldman Sachs sees AI-fueled layoffs displacing nearly 10% of workers",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:09:28.907178+00:00",
+ "content": "The outlook for AI's impact on the job market is dim, but Goldman Sachs put a number on just how many people could be impacted by the technology.\nEconomists at Goldman updated their forecast for how many jobs could be impacted as companies turn to artificial intelligence to power their workforce. In Goldman's baseline scenario, which has productivity rising 15% in the US and other developed economies, the bank sees up to 9% of workers being displaced from their current roles.\nLast year, Goldmans' chief economist Jan Hatzius said AI could displace 6% to 7% of all US workers. The bank began to float a displacement rate as high as 9% as this summer, which would be equivalent to around 15 million workers who see their jobs disrupted by AI.\nThe job market may also face headwinds from slower hiring overall because of AI adoption, though the hit to overall unemployment will likely be fueled more by outright job losses rather than less hiring, the report added.\n\"Under our baseline forecasts for near potential growth next year, our estimates suggest that AI labor disruption will likely only gradually increase rather than delivering an abrupt labor market shock,\" Hatzius wrote in a report on Thursday.\nThe US is still in the early stages of AI adoption. Less than a quarter of firms have incorporated AI into regular workflows, Goldman estimates.\nHatzius said AI adoption may speed up if the US economy were to enter an economic downturn, citing its analysis of past automation cycles during recessions.\n\"A more concerning takeaway from our analysis is that a cyclical slowdown would likely accelerate AI-related automation and job losses, thereby amplifying the broader business cycle,\" he wrote.\nThe panic about AI job losses has eased slightly, but the idea that AI could one day decimate entry-level white-collar work is still a fear voiced by some researchers.\nLayoff announcements ticked lower in September, but AI remains the top cited reason for job cuts, accounting for 21% of all announced layoffs. Job losses in the tech sector also outpace that of any other industry, accounting for 29% of all job cuts last month, according to the data from Challenger, Gray & Christmas.",
+ "report": {
+  "summary": "高盛上调预测：AI或取代近9%岗位，约1500万美国人受影响",
+  "background": "高盛去年由首席经济学家哈祖斯给出6%~7%的岗位替代预测，今年夏天起上调至最高9%，如今正式写入基线情景：若美国等发达经济体生产率提升15%，约9%的劳动者将从现有岗位被挤出，相当于约1500万人。报告强调，美国仍处AI采用早期，不足四分之一企业把AI纳入常规流程；但一旦经济进入下行周期，自动化可能加速，从而放大商业周期波动。同期Challenger数据显示，9月裁员公告中AI是第一大原因，占比21%，科技行业裁员占全部裁员的29%。",
+  "key_points": [
+   "高盛把AI岗位替代率的基线预测从去年的6%~7%上调至最高9%，对应约1500万美国劳动者，比此前估计更悲观。",
+   "冲击方式是渐进而非突袭：报告认为明年经济接近潜在增速时，AI对劳动力市场只会逐步造成扰动，不会瞬间引发失业潮。",
+   "当前渗透率仍低，不足四分之一企业将AI用于常规工作流；这意味着大规模替代还没真正开始，后续空间很大。",
+   "最危险的组合是经济衰退：历史自动化周期显示，周期性放缓会加速企业用AI替代人力，反过来加深衰退，形成负反馈。",
+   "现实信号已经出现：9月AI是裁员公告的第一大原因（占21%），科技行业裁员占全部裁员29%，居各行业之首。"
+  ],
+  "impact": "对AI行业而言，这是顶级投行首次把『AI替代就业』量化为基准情景，将推动企业软件、智能体与自动化流程工具的需求进一步升温；对开发者来说，重复性编码、测试、客服与基础运营岗位压力最大，而构建、评估和治理AI系统的能力会更值钱；对普通用户，初级白领岗位入口收窄，职业早期路径变窄，主动掌握AI工具、向需要判断与协作的岗位迁移，是更现实的应对方式。",
+  "tools": "想跟进可关注：Challenger, Gray & Christmas月度裁员报告（追踪AI裁员归因）、高盛与WEF《未来就业报告》数据、美国劳工部O*NET职业任务数据库（评估岗位可自动化程度）；上手层面可用Claude Code、GitHub Copilot、Microsoft Copilot等工作流工具提升自身不可替代性。"
+ },
+ "lang": "zh"
+}

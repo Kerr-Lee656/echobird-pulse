@@ -1,0 +1,24 @@
+{
+ "id": "54fc7a259d26",
+ "url": "https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough",
+ "title": "Unitree is building AI that lets its humanoid robots improve themselves",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:09:13.821654+00:00",
+ "content": "Unitree Robotics is building a system that lets its humanoid robots improve themselves, founder Wang Xingxing said on Thursday. He calls it Unitree Rehearsal. He named it the company’s most important project of the year, Minxiao Chang reported for the South China Morning Post. Wang spoke at a physical AI conference that Unitree hosted in Hangzhou.\nUnder the plan, AI would search research papers, write code and test it in simulation before trials on real robots, according to the SCMP. Unitree already uses AI this way and then collects feedback from real tests to adjust its models, Bloomberg reported.\nA breakthrough as soon as 2028\nWang also moved his timeline forward. He now expects humanoids to complete 80% of tasks set by voice as soon as 2028, Bloomberg reported. That covers work in factories or homes, according to a transcript Unitree shared with Bloomberg. Wang calls that point the “aha” moment for practical robots. TNW has not seen the transcript.\nIn August, at the World Robot Conference in Beijing, Wang said robots were nearing a “ChatGPT moment”. At the same event he said mass use in factories and homes could take 10 years, according to Bloomberg.\n“If you take a humanoid home now and ask it to clean the room, honestly I don’t think it can complete that task,” Wang said in the transcript.\nHe said recent advances in AI models such as OpenAI’s GPT-6 changed his mind.\n“I had some skepticism about AI model developers last year,” he said.\nThis year, he said, the most advanced developers have begun letting their models improve themselves.\n“As long as you give a frontier model data and time, it will undoubtedly surpass humans in many areas,” he said.\nThis week, Recursive released a coding model that was largely built by AI.\nWang said Unitree’s humanoids running GPT-6 can now paint, changing colours and rinsing the palette, and play Go. Unitree plans to expand production to meet possible demand for tens of millions of robots. It makes tens of thousands a year today, Bloomberg reported. Wang said Unitree is building its own models while working with AI labs in China and abroad.\nA robot bodyguard\nOn Wednesday, Unitree posted a one-minute video of the H2-X Kung Fu Legend Guardian. In it, the humanoid punches and knees cars in a scrapyard. It also confronts an intruder holding a knife and lifts a car to free a trapped person.\nThe robot runs for approximately eight hours, Unitree said in its post on X. It can jump from a four-metre platform, according to Mark Wilson at TechRadar. Unitree has given no price or release date. It builds on the H2, which costs $29,900. TechRadar wrote that the H2-X would struggle to pass the safety certification needed to sell as a personal bodyguard.\nThe video labels the scenes “extreme testing” and warns against imitating them, Mike Pearl reported for Gizmodo. Unitree’s post asks people to use the robot “safely and in a friendly manner.”\nShares and funding\nUnitree’s shares rose five-fold on their Shanghai debut in August and are now about a quarter below their August peak, Bloomberg reported. Chinese venture and state funds have put more than 100bn yuan ($15bn) into robotics startups this year, according to the tracker ITjuzi. China has also reportedly slowed humanoid IPOs since then. For now, humanoids sell mainly to researchers and enthusiasts, Bloomberg noted.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "宇树推Rehearsal让机器人自我进化",
+  "background": "宇树创始人王兴兴在杭州物理AI大会上称，Unitree Rehearsal是公司今年最重要项目：让AI检索论文、写代码、仿真测试，再在真机试验并用反馈调模型。他还把实用化时间表提前到2028年，称人形机器人将完成80%的语音指令任务；而去年他曾怀疑AI模型公司，近期GPT-6等进展改变了他的判断。",
+  "key_points": [
+   "Rehearsal形成闭环：AI检索论文、写代码、仿真测试，再上真机试验，用真实反馈调整模型，目标是让机器人自我改进。",
+   "时间表提前：王兴兴预计最早2028年人形机器人能完成80%的语音指令任务，覆盖工厂和家庭，并称这是实用化“啊哈”时刻。",
+   "态度转变：他曾对AI模型公司持怀疑态度，现在认为GPT-6等前沿模型只要给数据和算力，就会在许多领域超越人类。",
+   "产品展示：H2-X“功夫传奇护卫”视频展示拳击、撞车、持刀对峙和抬车救人，续航约8小时、可4米跳台，但未公布价格和发布日期。",
+   "资本与产能：宇树上市后股价一度涨五倍，中国机器人初创今年融资超1000亿元；公司年产数万台，却计划扩产应对数千万台潜在需求。"
+  ],
+  "impact": "对AI行业，具身智能正从“训练模型”走向“仿真+真机”的自进化闭环，数据和评测体系成竞争焦点。对开发者，机器人SDK、仿真平台和AI编程工具迎来机会，但安全与可靠性挑战更大。对普通用户，家庭机器人仍需等待，2028是厂商乐观目标，成本和安全认证是主要门槛。",
+  "tools": "可关注Unitree SDK与ROS 2、NVIDIA Isaac Sim、MuJoCo做仿真测试，并用LeRobot及开源VLA模型跟进具身智能开发。"
+ },
+ "lang": "zh"
+}

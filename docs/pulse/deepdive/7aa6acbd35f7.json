@@ -1,0 +1,24 @@
+{
+ "id": "7aa6acbd35f7",
+ "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+ "title": "Meta delays new business terms after publisher pushback on AI scraping",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:08:27.000877+00:00",
+ "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th “to allow more time for us to explain to our partners and stakeholders what’s changing and what’s not.”\nMeta delays new business terms after publisher pushback on AI scraping\nFollowing backlash from publishers across the globe, Meta is pushing the enforcement of its new terms to November 20th.\nThe business terms, which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta updated these terms to remove language about “training” its products, legal experts argued the change is not enough to rule out the possibility.\nThe News/Media Alliance sent a letter to Meta CEO Mark Zuckerberg on Thursday, demanding that the company revise its business terms over concerns that they would cause “severe harm” to publishers. Digital advertisers and publishers in the European Union and the UK also urged regulators to force Meta to halt its new terms.\nIn response to this backlash, Meta is now delaying its new terms entirely. Roberts says the delay will give Meta more time to lay out “how Meta uses web crawlers and the fact that content owners will still be able to use robots.txt to signal preferences,” referring to the file that signals to scrapers whether they can crawl a site.",
+ "report": {
+  "summary": "Meta因出版商反对推迟AI抓取相关商业条款执行",
+  "background": "大模型训练需要海量数据，科技公司常抓取公开网页，引发内容版权与许可争议。Meta原定10月30日生效的新商业条款，被指允许其抓取使用其平台的新闻网站内容并用于AI训练。虽然Meta删除了“训练”措辞，但法律专家认为仍不足以排除风险。新闻媒体联盟致信扎克伯格，欧盟和英国广告商与出版商也呼吁监管介入。Meta遂将执行推迟至11月20日，以争取时间解释抓取规则和robots.txt机制。",
+  "key_points": [
+   "Meta将新商业条款执行从10月30日推迟到11月20日，称需时间向合作伙伴解释哪些变化、哪些不变。",
+   "争议核心是条款措辞可能授权Meta抓取使用其平台的新闻网站内容，并用于AI训练。",
+   "Meta已删除“训练”相关字眼，但法律专家认为这不足以排除内容被用于AI训练的可能。",
+   "新闻媒体联盟致信扎克伯格，称条款会对出版商造成“严重伤害”；欧盟和英国广告商与出版商也要求监管施压。",
+   "Meta强调内容所有者仍可用robots.txt表达抓取偏好，但该机制主要依赖自愿遵守，并非法律禁令。"
+  ],
+  "impact": "对AI行业而言，训练数据来源与授权合规将成为竞争关键，抓取条款会受更严格审视，推动内容许可交易。对开发者而言，需审计数据来源、尊重robots.txt并评估法律风险，避免使用来源不清的网页语料。对普通用户而言，新闻内容可能更多进入付费或许可体系，AI搜索和摘要的呈现方式也可能随之调整。",
+  "tools": "想跟进可关注Common Crawl等公开网页语料、Python urllib.robotparser等robots.txt解析库，以及Cloudflare的AI爬虫管理与审计工具；媒体侧可用robots.txt和WAF规则控制抓取。"
+ },
+ "lang": "zh"
+}

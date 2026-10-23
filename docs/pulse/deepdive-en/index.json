@@ -7918,5 +7918,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-23T14:49:09Z",
   "fetched_at": "2026-10-23T18:22:54.922736+00:00"
+ },
+ "baf9cbcdf7e1": {
+  "id": "baf9cbcdf7e1",
+  "url": "https://github.com/promptfoo/promptfoo",
+  "title": "promptfoo/promptfoo — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-23T23:09:59.378158+00:00"
+ },
+ "dfe5fb536ca5": {
+  "id": "dfe5fb536ca5",
+  "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-23T23:05:49.000Z",
+  "fetched_at": "2026-10-23T23:10:11.387034+00:00"
+ },
+ "27af7f5624f4": {
+  "id": "27af7f5624f4",
+  "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+  "title": "AI devours a fifth of companies' IT budgets",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T22:00:05Z",
+  "fetched_at": "2026-10-23T23:10:23.117574+00:00"
+ },
+ "92280dcce9cc": {
+  "id": "92280dcce9cc",
+  "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+  "title": "AI is devastating higher education, but the system was broken",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T21:11:59Z",
+  "fetched_at": "2026-10-23T23:10:41.367307+00:00"
+ },
+ "093033245a33": {
+  "id": "093033245a33",
+  "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+  "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+  "source": "Alex Heath",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T18:58:15.000Z",
+  "fetched_at": "2026-10-23T23:11:48.801005+00:00"
+ },
+ "6eb1b1b914d6": {
+  "id": "6eb1b1b914d6",
+  "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+  "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+  "source": "OpenRouter",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T18:31:22.000Z",
+  "fetched_at": "2026-10-23T23:12:04.889004+00:00"
  }
 }

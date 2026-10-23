@@ -1,0 +1,23 @@
+{
+ "id": "95e9cf6bca16",
+ "url": "https://mashable.com/tech/ai-designed-virus-infects-person-for-the-first-time",
+ "title": "AI-designed virus infects person for the first time",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T23:08:45.353698+00:00",
+ "content": "AI-designed virus infects person for the first time\nWould you let an AI-designed virus be injected in your body? Well, at least one individual just did, according to the company behind it.\nAI bioscience startup Radical Numerics released a report this week saying a patient received a treatment containing an AI-designed virus. Radical Numerics says this is the first treatment of its kind.\nThe type of virus that Radical Numerics' AI model, called Omnii-1, created is called a phage, which isn't a new type of virus. Phage therapy is an existing experimental treatment where doctors administer viruses that attack bacteria to a person with a serious bacterial infection. The idea is to kill the bacteria causing the infection without infecting human cells.\nYou May Also Like\nRadical Numerics' AI model did design this specific phage to combat the patient's particular bacterial infection, and that AI-created phage was just administered to a person — which is a first.\nHowever, as the New York Times reports, there are some questionable aspects of this trial.\nFor example, we don't yet know how the trial went. While the trial is ongoing, Radical Numerics won't provide information about the patient or the doctors involved. What's more, Radical Numerics' report wasn't peer-reviewed or published in a scientific journal. Instead, the company simply posted the paper on its website — the same way any company might publish a news update or blog post.\nThe company's CEO, Eric Nguyen, said the team plans to share more details once they receive consent from the patient. He cited confidentiality agreements as the reason Radical Numerics can't disclose more information at this time.\nWe might be waiting a while to find out whether the treatment worked. While phage therapy can last anywhere from a couple of days to a few weeks, doctors also have to monitor the patient for months afterward to make sure the infection was actually cured and won't come back.\nTopics Artificial Intelligence",
+ "report": {
+  "summary": "AI设计噬菌体首次注入人体治疗细菌感染",
+  "background": "噬菌体疗法是已有的实验性抗菌方法，用专门感染细菌的病毒杀死病原体。此次Radical Numerics称其Omnii-1模型针对患者特定感染设计噬菌体并已用于人体，属首次。但公司仅发布未同行评审报告，试验仍在进行，疗效与安全性未知，引发对AI生物设计监管与证据透明度的讨论。",
+  "key_points": [
+   "这次用的是噬菌体，不是攻击人体的病毒；噬菌体只感染细菌，理论上可避开人体细胞，但实际安全性仍需验证。",
+   "AI公司称Omnii-1针对患者的具体细菌感染定制设计噬菌体，并首次用于人体治疗，但患者和医生信息未披露。",
+   "关键证据缺失：报告未同行评审、未刊科学期刊，只发官网；试验结果、是否有效及副作用均未公布。",
+   "噬菌体疗法本身仍是实验性方案，可替代抗生素耐药感染，但监管、剂量、免疫反应和长期监测都需严格评估。"
+  ],
+  "impact": "对AI行业：展示生成式生物设计进入临床边界，但未评审发布可能加剧信任与监管争议；开发者需重视生物安全、可复现与合规；普通用户应理性看待“首次”，这不是成熟疗法，安全性和疗效待验证，不要被标题误导。",
+  "tools": "可关注噬菌体数据库PhageDB、NCBI噬菌体资源；蛋白设计工具AlphaFold、ProteinMPNN、ESM；临床试验信息可查ClinicalTrials.gov。"
+ },
+ "lang": "zh"
+}
