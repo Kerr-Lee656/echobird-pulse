@@ -7774,5 +7774,95 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-23T04:00:00.000Z",
   "fetched_at": "2026-10-23T07:32:01.070281+00:00"
+ },
+ "4238ef120285": {
+  "id": "4238ef120285",
+  "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+  "title": "EU Member States approve \"digital expropriation\" of Europeans for AI companies",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T13:19:49Z",
+  "fetched_at": "2026-10-23T13:23:41.623934+00:00"
+ },
+ "53ce276c5fa4": {
+  "id": "53ce276c5fa4",
+  "url": "https://gking.harvard.edu/peerless/",
+  "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T13:05:25Z",
+  "fetched_at": "2026-10-23T13:24:12.401689+00:00"
+ },
+ "bfc45992466d": {
+  "id": "bfc45992466d",
+  "url": "https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership",
+  "title": "Crusoe to deploy AI cloud in Paraguay powered by the Itaipu dam",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T12:54:48Z",
+  "fetched_at": "2026-10-23T13:24:28.112921+00:00"
+ },
+ "c738f5e967e8": {
+  "id": "c738f5e967e8",
+  "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
+  "title": "Review of \"Misalignment in high-stakes settings\" in Anthropic's Risk Report",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T12:50:40Z",
+  "fetched_at": "2026-10-23T13:24:43.540685+00:00"
+ },
+ "157f175d74a0": {
+  "id": "157f175d74a0",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+  "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T11:56:22Z",
+  "fetched_at": "2026-10-23T13:24:54.016030+00:00"
+ },
+ "6961cf70fece": {
+  "id": "6961cf70fece",
+  "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+  "title": "Swedish government offices to ban ChatGPT and Claude",
+  "source": "Hacker News (127pts, 56c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T11:39:54Z",
+  "fetched_at": "2026-10-23T13:25:07.832069+00:00"
+ },
+ "9669869b6747": {
+  "id": "9669869b6747",
+  "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+  "title": "AI and its main promoters are not enterprise-ready, says Gartner",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T10:05:51Z",
+  "fetched_at": "2026-10-23T13:25:19.607306+00:00"
+ },
+ "73195444922e": {
+  "id": "73195444922e",
+  "url": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
+  "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T09:49:38.000Z",
+  "fetched_at": "2026-10-23T13:25:32.890797+00:00"
+ },
+ "f22db7c58ee8": {
+  "id": "f22db7c58ee8",
+  "url": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+  "title": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T09:22:18Z",
+  "fetched_at": "2026-10-23T13:25:49.140884+00:00"
+ },
+ "b6524ce14fcf": {
+  "id": "b6524ce14fcf",
+  "url": "https://aihot.news/items/shi5tga503u6jcb3itberbm18",
+  "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+  "source": "IT之家·人工智能",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-23T09:17:16.000Z",
+  "fetched_at": "2026-10-23T13:26:04.683939+00:00"
  }
 }

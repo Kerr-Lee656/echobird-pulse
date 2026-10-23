@@ -1,0 +1,24 @@
+{
+ "id": "1d8720510996",
+ "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
+ "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-23T13:22:01.066310+00:00",
+ "content": "Microsoft has developed an AI diagnostic tool that solved complex medical cases more than twice as accurately as generalist doctors in a study published in Science.\nUnlike many medical AI systems, it works through a case step by step, deciding which questions to ask and which tests to order before reaching a diagnosis.\nThe tool, called the MAI Diagnostic Orchestrator (MAI-DxO), simulates a panel of clinical experts, Reuters reported.\nIt gathers information, reviews test results, and revises its working diagnosis as new evidence emerges. Many medical AI systems instead assess symptoms, laboratory results, and scans together.\nIn a peer-reviewed study published in Science, MAI-DxO, running on OpenAI’s GPT-5, reached the correct diagnosis in 83.2% of 304 challenging cases published in the New England Journal of Medicine. Generalist doctors, who had access to textbooks and the internet, scored 36.1%.\nThe system also outperformed doctors on 325 emergency department admissions, scoring 80.3% compared with 46.8% for the human group.\nResearchers said its diagnostic work-ups cost less, too, although those figures are estimates based on the cases rather than actual medical bills.\nDominic King, a corporate vice president in Microsoft AI’s health unit, told Reuters that medical AI has largely been evaluated using multiple-choice tests.\n“AI has become very good at getting a 100% pass rate on those,” King said. “No patient ever came to see me with a nice summary.”\nHarsha Nori, head of AI at Microsoft AI Health, said the researchers also measured how effectively the system selected tests, rather than looking only at whether it reached the right answer.\n“We’re not just measuring the accuracy of the systems,” Nori told Reuters.\nThe results come with important limitations. The doctors in the comparison were generalists, not specialists, and the cases were presented as text.\nNeither the AI nor the doctors had access to physical examinations or medical imaging in the study.\nMAI-DxO can also work with different AI models. An earlier preprint, published in June 2025, reported improvements using models from Google, Anthropic, Meta, and other companies.\nThe system is not yet being used in clinical practice. Microsoft’s researchers plan to work with Beth Israel Deaconess Medical Center in Boston to test whether it can help triage patients in emergency department waiting rooms.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "微软MAI-DxO分步诊断准确率达83.2%，全科医生仅36.1%。",
+  "background": "医学AI长期用多选题式基准（如MedQA）评测，模型早已接近满分，但真实问诊要求主动追问、开具检查并根据结果动态修正诊断，这正是过去评测缺失的一环。微软AI健康团队因此构建MAI-DxO，模拟多学科专家会诊的决策流程，并以《新英格兰医学杂志》已发表的疑难病例作为考核样本。该工作2025年6月先发布预印本，如今通过《Science》同行评审，标志着医疗AI的评估范式从“答题”转向“复现诊疗过程”。",
+  "key_points": [
+   "在304例NEJM疑难病例中，MAI-DxO诊断准确率83.2%，全科医生为36.1%，差距超过两倍。",
+   "它不一次性看全部资料，而是自主决定问什么、开哪些检查，并随新证据不断修正初步诊断。",
+   "在325例急诊入院病例中同样领先，80.3%对46.8%，且估算的检查开销更低（非真实账单）。",
+   "研究还评估了“选检查的效率”，避免系统靠堆检查碰巧答对，这是评测方法上的重要改进。",
+   "局限很明确：对手是全科医生而非专科医生，病例仅以文本呈现，无体检和影像，且尚未进入临床。"
+  ],
+  "impact": "对AI行业而言，这证明“agent式多步流程”比“一次性判断”更贴近真实医疗价值，评测标准需要从准确率转向过程质量。对开发者，模拟多专家会诊、配置可替换模型的架构得到验证，值得借鉴到其他高风险决策场景。对普通用户，短期内不会有AI坐诊，但急诊分诊、候诊室初筛最可能率先试点；误诊责任划分与监管审批仍是落地前的硬门槛。",
+  "tools": "MAI-DxO未开源。可跟进微软AI健康团队后续论文及与波士顿Beth Israel Deaconess的急诊分诊试验；同类方向有Google AMIE、OpenEvidence等对话式诊断系统；评测可用NEJM病例集、MedQA、MedAgentBench；想动手可用LangGraph等框架搭建“多专家会诊”式agent原型。"
+ },
+ "lang": "zh"
+}

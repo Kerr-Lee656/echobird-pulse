@@ -17530,5 +17530,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-22T23:23:36Z",
   "fetched_at": "2026-10-23T07:28:08.504953+00:00"
+ },
+ "1d8720510996": {
+  "id": "1d8720510996",
+  "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
+  "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-23T13:22:01.066310+00:00"
+ },
+ "005811e555a6": {
+  "id": "005811e555a6",
+  "url": "https://www.36kr.com/p/4037648095236992",
+  "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T13:22:10.979207+00:00"
+ },
+ "338780750a13": {
+  "id": "338780750a13",
+  "url": "https://www.aibase.com/zh/news/31840",
+  "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-23T13:22:25.483589+00:00"
  }
 }
