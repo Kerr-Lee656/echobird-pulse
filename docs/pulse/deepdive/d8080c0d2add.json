@@ -1,0 +1,25 @@
+{
+ "id": "d8080c0d2add",
+ "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
+ "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-24T15:53:38.047905+00:00",
+ "content": "The UK government will put £100m into a new AI Biosecurity Lab, which will use advanced AI to spot and respond to biological threats. OpenAI and Anthropic will add up to £200m between them, the Cabinet Office said on Saturday.\nThe government called the lab the world’s first dedicated AI biosecurity organisation. It will start with two tasks: finding new biological threats early, and speeding up work on vaccines and treatments.\nHowever, the companies’ share is not cash. OpenAI will give £100m in compute and model credits, plus access to its models through its Rosalind Biodefense programme. Anthropic will give up to £100m in model credits, model access, and technical support.\nGoogle DeepMind will also join research projects and may give access to its Gemini and science models. In addition, UK firm Basecamp Research will share its AI biology models.\nThe lab will be an independent non-profit, run along the lines of the AI Security Institute. The announcement did not name a director, a site, or a start date. It also gave no time period for the £100m.\nSeveral public bodies will take part, including the UK Health Security Agency and the Defence Science and Technology Laboratory. The medicines regulator, the MHRA, will work with the lab on how to regulate medicines designed by AI.\nThe lab is part of a package of more than £600m for AI security, set out before the Budget on Wednesday. It also includes £120m for the AI Security Institute, City AM reported.\nChancellor John Healey announced the package. Meanwhile, AI minister Kanishka Narayan called the lab a major new global institution, according to the Evening Standard.\nThe deal follows a similar offer earlier this month. Nvidia pledged $250m of compute to UK AI safety research, also in computing power rather than cash.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英国设1亿英镑AI生物安全实验室，科技巨头以算力参与",
+  "background": "随着AI在设计蛋白质、分析病原体序列上的能力快速提升，生物安全（尤其所谓「AI 辅助制造生物威胁」的两用风险）成为各国AI治理的优先级议题。英国2023年设立AI安全研究所（AISI），是全球最早把前沿模型评测制度化的政府机构之一。本次实验室被视为AISI模式在生物领域的复制，并赶在周三预算案公布前作为「600M+英镑AI安全包」的一部分发布。此前英伟达刚承诺向英国AI安全研究提供2.5亿美元算力，同样是算力而非现金——政府正用「政策影响力」换取大厂的模型与算力资源。",
+  "key_points": [
+   "资金成色要看仔细：政府出1亿英镑真金白银，OpenAI与Anthropic的「2亿」是模型额度、算力与技术支持的折算价值，账面之外没有现金流。",
+   "实验室先做两件事：一是更早发现新的生物威胁，二是加速疫苗与治疗方案的研发，方向明确但暂无具体项目清单。",
+   "阵容较完整：Google DeepMind参与研究并可能开放Gemini与科学模型，英国Basecamp Research提供AI生物学模型，UKHSA、Dstl等公共机构加入。",
+   "监管被提前写进设计：药品监管机构MHRA将与实验室共同研究「AI设计的药物」如何审批，这是少见的监管同步推进。",
+   "很多关键信息仍是空白：没有任命主任、没有选址、没有启动日期，也没说明1亿英镑分几年投入，说明目前更像框架协议而非落地机构。",
+   "AI安全整体加码：该实验室属于超6亿英镑的AI安全预算包，其中1.2亿英镑拨给AI安全研究所，英国正把自己打造成「AI风险治理的试验场」。"
+  ],
+  "impact": "对行业而言，「算力与模型额度换政策话语权」正成为大厂参与政府项目的标准姿势，未来前沿实验室与主权政府的绑定会更紧密。对开发者，生物+AI交叉领域将出现评测、审计与合规需求，模型提供方的生物安全护栏也会更严。对普通用户，短期无感，中长期意义在于新发传染病的预警速度与疫苗研发周期可能被压缩，但也意味着AI生物能力的「可用边界」将被更早划定。",
+  "tools": "想跟进可关注：英国AISI开源的前沿模型评测框架Inspect；AlphaFold Server与DeepMind科学模型；Evolutionary Scale的ESM系列蛋白质模型；Basecamp Research的EDEN生物模型；OpenAI Rosalind Biodefense项目；以及SecureBio等生物安全评测组织发布的AI生物风险评估数据集。"
+ },
+ "lang": "zh"
+}

@@ -17845,5 +17845,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-24T05:19:51.397Z",
   "fetched_at": "2026-10-24T10:54:14.881425+00:00"
+ },
+ "1edb80b635d4": {
+  "id": "1edb80b635d4",
+  "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+  "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T15:53:24.160049+00:00"
+ },
+ "d8080c0d2add": {
+  "id": "d8080c0d2add",
+  "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
+  "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T15:53:38.047905+00:00"
+ },
+ "403982f29572": {
+  "id": "403982f29572",
+  "url": "https://thenextweb.com/news/openai-frontier-training-no-live-internet",
+  "title": "OpenAI cuts live internet from all frontier model training",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T15:53:51.741034+00:00"
+ },
+ "367c3812c374": {
+  "id": "367c3812c374",
+  "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
+  "title": "Unitree says its 'self-evolving robots' are coming to take on Tesla Optimus",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T15:53:59.375993+00:00"
+ },
+ "010c5ab08580": {
+  "id": "010c5ab08580",
+  "url": "https://www.36kr.com/p/4039168291132547",
+  "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-10-24T13:42:58.200Z",
+  "fetched_at": "2026-10-24T15:54:11.476546+00:00"
+ },
+ "9c28c85aac09": {
+  "id": "9c28c85aac09",
+  "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+  "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T15:54:24.516604+00:00"
  }
 }
