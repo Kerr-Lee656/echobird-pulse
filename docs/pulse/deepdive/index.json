@@ -17737,5 +17737,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-23T23:09:28.907178+00:00"
+ },
+ "585ea363f084": {
+  "id": "585ea363f084",
+  "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+  "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T04:30:42.449325+00:00"
+ },
+ "d2a8708fc06e": {
+  "id": "d2a8708fc06e",
+  "url": "https://thenextweb.com/news/hindsight-ai-content-moderation-perspective-api-shutdown",
+  "title": "Hindsight puts up to $1M behind its AI content moderation as Google shuts down Perspective API",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T04:31:32.963370+00:00"
+ },
+ "008879b1a42a": {
+  "id": "008879b1a42a",
+  "url": "https://www.techradar.com/pro/32-tb-ram-for-your-gpus-marvell-shows-revolutionary-photonic-fabric-memory-module-that-uses-light-to-link-up-to-16-gpus-and-slash-capex-but-nvidia-wont-stick-around-doing-nothing",
+  "title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T04:31:41.781439+00:00"
+ },
+ "d80fcd37a6ae": {
+  "id": "d80fcd37a6ae",
+  "url": "https://www.gelonghui.com/live/2727228",
+  "title": "OpenAI 宣布最先进 AI 模型训练期间禁止直接访问互联网",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T04:31:53.236012+00:00"
+ },
+ "3a25f01f7d03": {
+  "id": "3a25f01f7d03",
+  "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
+  "title": "科学家展示了由人工智能设计的用于药物合成的酶",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-23T21:10:42.878Z",
+  "fetched_at": "2026-10-24T04:32:02.462639+00:00"
  }
 }

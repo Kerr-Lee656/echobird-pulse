@@ -7972,5 +7972,32 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-23T18:31:22.000Z",
   "fetched_at": "2026-10-23T23:12:04.889004+00:00"
+ },
+ "4cd9fa711dad": {
+  "id": "4cd9fa711dad",
+  "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+  "title": "OpenAI disables internet access during model training",
+  "source": "Hacker News (1pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T02:40:53Z",
+  "fetched_at": "2026-10-24T04:33:02.647617+00:00"
+ },
+ "058d4c4b543f": {
+  "id": "058d4c4b543f",
+  "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+  "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T22:04:21Z",
+  "fetched_at": "2026-10-24T04:33:55.373048+00:00"
+ },
+ "cc198d0786d8": {
+  "id": "cc198d0786d8",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+  "title": "OpenAI Acquires Orchestra Bio",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-23T19:24:17Z",
+  "fetched_at": "2026-10-24T04:34:07.493728+00:00"
  }
 }
