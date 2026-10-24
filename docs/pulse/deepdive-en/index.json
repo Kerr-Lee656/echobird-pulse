@@ -7999,5 +7999,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-23T19:24:17Z",
   "fetched_at": "2026-10-24T04:34:07.493728+00:00"
+ },
+ "04dc76a187a7": {
+  "id": "04dc76a187a7",
+  "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+  "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T08:44:57Z",
+  "fetched_at": "2026-10-24T10:55:08.067403+00:00"
+ },
+ "5abe8bfea3ef": {
+  "id": "5abe8bfea3ef",
+  "url": "https://latent.space/p/ainews-kimi-31/",
+  "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-24T07:18:29.000Z",
+  "fetched_at": "2026-10-24T10:55:23.082630+00:00"
+ },
+ "8821503f71c6": {
+  "id": "8821503f71c6",
+  "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+  "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+  "source": "公众号：数字生命卡兹克",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-24T02:08:43.000Z",
+  "fetched_at": "2026-10-24T10:55:54.182640+00:00"
  }
 }

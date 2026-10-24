@@ -17782,5 +17782,68 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-23T21:10:42.878Z",
   "fetched_at": "2026-10-24T04:32:02.462639+00:00"
+ },
+ "6d9d14c2a7d8": {
+  "id": "6d9d14c2a7d8",
+  "url": "https://www.36kr.com/p/4038314420180869",
+  "title": "紧急刹车，五大美国银行出手，不让AI随便碰你的钱包",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T10:52:43.915848+00:00"
+ },
+ "2ca720c43302": {
+  "id": "2ca720c43302",
+  "url": "https://www.36kr.com/p/4038359402763145",
+  "title": "DeepSeek搜索引擎上线，百度的王座已经不稳",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T10:52:57.859869+00:00"
+ },
+ "7d654f9c6b41": {
+  "id": "7d654f9c6b41",
+  "url": "https://www.36kr.com/newsflashes/4039392032117641",
+  "title": "信通院报告：大模型词元价格回升明显，较去年下半年翻倍，日均消耗量增长3倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T10:53:06.566026+00:00"
+ },
+ "f5978e94d7e1": {
+  "id": "f5978e94d7e1",
+  "url": "https://www.theblockbeats.info/flash/373499",
+  "title": "DeepSeek 披露单 GPU 每小时可创造 38 美元计费收入，AI 推理盈利能力引发关注",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T10:53:17.605123+00:00"
+ },
+ "40665b380234": {
+  "id": "40665b380234",
+  "url": "https://www.cyzone.cn/article/850316.html",
+  "title": "三个 00 后创办的 AI 初创公司 Flapping Airplanes 完成 10 亿美元 A 轮融资",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T10:53:31.530930+00:00"
+ },
+ "285ab1f411f4": {
+  "id": "285ab1f411f4",
+  "url": "https://www.ithome.com/1/017/385.htm",
+  "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-24T06:45:40Z",
+  "fetched_at": "2026-10-24T10:54:05.007472+00:00"
+ },
+ "aee9d87fa08b": {
+  "id": "aee9d87fa08b",
+  "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+  "title": "美国中期选举中人工智能竞选广告的兴起",
+  "source": "www.bbc.co.uk",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-24T05:19:51.397Z",
+  "fetched_at": "2026-10-24T10:54:14.881425+00:00"
  }
 }

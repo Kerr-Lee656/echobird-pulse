@@ -1,0 +1,24 @@
+{
+ "id": "aee9d87fa08b",
+ "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+ "title": "美国中期选举中人工智能竞选广告的兴起",
+ "source": "www.bbc.co.uk",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-24T05:19:51.397Z",
+ "fetched_at": "2026-10-24T10:54:14.881425+00:00",
+ "content": "The rise of AI election ads in US midterms campaign\nResearchers say AI ads are being used more than ever in the US midterms campaign ahead of the elections in November.\nSome of the ads are being funded by outside political groups but they have also come directly from candidates in some key races.\nBBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns - as Jake Horton explains.\nProduced by Krystal Campos. Graphics by Sally Nicholls and Henry Esterson.",
+ "report": {
+  "summary": "BBC核查称，AI竞选广告在美国中期选举中空前泛滥",
+  "background": "生成式AI把政治广告的制作成本压到几乎为零：一段伪造的候选人语音、一张合成的集会照片，几分钟就能完成；而且它可以做到规模化分发、因人定向投放。2024年美国大选期间，已经出现过用AI克隆候选人声音的自动电话；此后Meta、Google等平台陆续要求标注AI生成内容，美国联邦选举委员会也就\"AI深度伪造是否构成欺诈\"公开征求意见，但联邦层面至今没有专门立法，规则碎片化地散落在各州。中期选举投票临近，AI广告的泛滥正把\"真实性核验\"变成选战的新战场。",
+  "key_points": [
+   "BBC Verify对数十条AI竞选广告逐一核查，发现使用者既包括候选人本人，也包括为其花钱的外部政治行动团体",
+   "研究者称，AI广告的使用规模\"前所未有\"，已经远超以往选举周期中零星出现的深度伪造案例",
+   "关键选区的候选人直接下场使用AI广告，说明这类手段已经从边缘实验变成常规竞选工具",
+   "AI广告能以极低成本大批量生产，并针对不同人群投放不同版本，监管和核查很难跟上",
+   "平台标注规则和州级立法各自为政，导致选民很难辨别眼前的政治广告是真是假"
+  ],
+  "impact": "对AI行业来说，政治广告成为深度伪造最大规模的真实应用场景，进一步加大了公众对AI标注、溯源和检测技术的需求。对开发者来说，内容凭证（C2PA）、水印和伪造检测正从技术演示走向合规刚需。对普通选民来说，看到候选人形象的视频、听到候选人声音的音频，都不能再默认\"眼见为实\"；核验成本被转嫁给信息接收者，信息不对称也因此加剧。",
+  "tools": "想跟进核实与防范，可以关注C2PA内容凭证标准、BBC Verify的公开核查方法，以及Hive、Sensity、Sightengine等深伪检测服务；开发者可研究开源项目DeepfakeBench，以及各家大模型厂商推出的AI生成内容水印方案。"
+ },
+ "lang": "zh"
+}
