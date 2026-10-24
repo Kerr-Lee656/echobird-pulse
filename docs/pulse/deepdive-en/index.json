@@ -8161,5 +8161,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-24T16:00:00.000Z",
   "fetched_at": "2026-10-24T18:49:23.213960+00:00"
+ },
+ "24684c1ecca2": {
+  "id": "24684c1ecca2",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "title": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-24T22:29:30.507011+00:00"
+ },
+ "fdc98e4e70ae": {
+  "id": "fdc98e4e70ae",
+  "url": "https://github.com/vercel/ai",
+  "title": "vercel/ai — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-24T22:29:42.595265+00:00"
+ },
+ "a5d406dab379": {
+  "id": "a5d406dab379",
+  "url": "https://github.com/langfuse/langfuse",
+  "title": "langfuse/langfuse — 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-24T22:29:54.178676+00:00"
+ },
+ "ff60d93ba513": {
+  "id": "ff60d93ba513",
+  "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+  "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T19:59:51Z",
+  "fetched_at": "2026-10-24T22:30:07.209847+00:00"
  }
 }

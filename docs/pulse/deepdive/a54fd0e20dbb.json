@@ -1,0 +1,24 @@
+{
+ "id": "a54fd0e20dbb",
+ "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+ "title": "No Signs of AI Payoff Outside the Tech Sector",
+ "source": "Hacker News (黑客新闻)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-24T19:47:19Z",
+ "fetched_at": "2026-10-24T22:28:25.167204+00:00",
+ "content": "Marc Rowan on how Apollo’s differentiated strategy was built for this moment.\nOctober 24, 2026\nNo Signs of AI Payoff Outside the Tech Sector\nDespite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Revenue per worker is rising for the Mag 7 but is flat for the S&P 493, see the first chart below. Profit margins are rising for the Mag 7 but are flat for the S&P 493, see the second chart below. And there are still no signs of AI boosting productivity growth, see the third chart below. With no impact on the bottom line, mainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins.\nVC-backed companies are spending more and more on tokens, but mainstream corporate America does not need the latest model and is unwilling to pay for it. As long as agentic AI and token spending are confined to a small part of the economy, the macroeconomic effects of AI will be very limited, see the fourth and fifth charts below.\nThe question looking ahead is whether, even as models become commoditized, mainstream corporate America can turn increasingly cheap intelligence into higher revenue growth and higher profit margins. That may be harder than it sounds. AI may be a great calculator, but in business, intelligence is mostly judgment. Judgment depends on context, and the answer varies with which human or which model you ask. Perhaps most importantly, AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.\nThe bottom line is that the AI story will be decided in the S&P 493, not the Mag 7, and so far, there is no evidence that revenue growth or margins are improving outside the tech sector.",
+ "report": {
+  "summary": "AI投资热潮尚未转化为科技业外企业的盈利与生产率提升。",
+  "background": "过去两年生成式AI引发巨额资本开支和模型竞赛，市场预期其将像互联网一样重塑各行各业。但Apollo观察显示，收益主要集中在Mag 7：其人均收入和利润率上升，而标普493基本持平；生产率增长也未明显加速。随着主流企业把token支出视为成本而非增长引擎，AI的宏观影响仍局限于小部分经济。",
+  "key_points": [
+   "Mag 7的人均收入和利润率持续上升，而标普493基本持平，说明AI财务回报仍集中在科技巨头。",
+   "主流企业尚未看到AI对利润的贡献，正收紧token支出，将其视为拖累利润率的成本中心，而非增长来源。",
+   "VC支持的公司愿意为最新模型付费，但普通企业并不需要最强模型，也不愿承担高昂的推理成本。",
+   "只要智能体AI和token消费局限于少数公司，AI对整体生产率和宏观经济的拉动就会有限。",
+   "未来即便模型商品化、智能变便宜，企业仍难把智能转成收入和利润，因为商业决策依赖判断、责任、信任和文化。"
+  ],
+  "impact": "对AI行业，叙事将从模型能力转向客户ROI，基建和推理支出可能降温；对开发者，企业客户更看重成本可控、可审计、能嵌入流程的方案，而非追逐最强模型；对普通用户，AI功能会继续普及，但收费模式和实际价值会更受检验，短期难见全社会生产率跃升。",
+  "tools": "想跟进企业AI回报，可关注成本与可观测工具（如OpenLLMetry、LangSmith）、评估与治理工具（如Arize Phoenix）以及ROI测算框架；同时对比开源模型与API推理成本，避免盲目为token付费。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "df62f78b9158",
+ "url": "https://mashable.com/tech/block-unveils-new-ai-model-dessa-trained-entirely-on-human-speech",
+ "title": "Blocks latest AI model Dessa was trained entirely on human speech — and it shows",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-24T22:28:01.961214+00:00",
+ "content": "Block's latest AI model Dessa was trained entirely on human speech — and it shows\nIf interacting with Siri has been the extent of your experience \"talking\" to AI, you're in for a rude awakening. While Apple's voice assistant often fumbles basic commands and can take an unnaturally long time to process a request, the latest and greatest AI models are moving closer and closer to natural human speech.\nCase in point: Dessa, the brainchild of Jack Dorsey's Block, is allegedly the world's first full-duplex speech model, meaning it can listen to you and speak simultaneously, much like a real human does in the flow of normal conversation. In fact, that's Dessa's draw: it was trained entirely on human speech to make it as natural-sounding as possible.\n    \n        This Tweet is currently unavailable. It might be loading or has been removed.\n    \nBut these claims have to be heard to be appreciated, and Block's press release announcing Dessa shows just how far AI models have come to approximating the rhythm of natural human conversation.\nYou May Also Like\nIn the second sample audio clip, for example, a real-life human and Dessa have an extended conversation about the movies of Christopher Nolan, and though the model does flex its knowledge at certain points, supplying a movie title, for example, it does so in a natural rather than robotic way, mirroring the tone of his human interlocutor while keeping up what, to human ears, sounds like a perfectly ordinary back-and-forth about Nolan's cinematic world.\nIn the third audio sample, Dessa spontaneously reacts to an unexpected prompt from the human (\"Are you excited for our anniversary?\") with genuine surprise and enthusiasm, complete with the conversation markers you would expect from a human being: audible gasps, a joyful enthusiasm that verges on tears, and even a difficulty finding the right words.\nThe final clip nixes human involvement entirely, featuring a conversation between ChatGPT and Dessa, and the contrast between the robotic, unnatural speech patterns of the ChatGPT agent and Dessa's prompts, interruptions, and puzzled questions perfectly illustrates how far Block has pushed its AI speech models.\nPerhaps most impressive of all, Dessa seems to understand when a human speaking to it is being sarcastic, which requires a sophisticated understanding of both tone and its relationship to the content of speech that adult humans process effortlessly but that has historically stumped AI models (don't even think of speaking to Siri in a sarcastic tone).\nAccording to the same press release, Block's motivation for developing Dessa is simple:\n\"Speech is the most natural interface to any intelligence, super or otherwise, and today’s voice AI wastes it. It flattens what we say into text and can’t keep up with human timing. AI keeps gaining power and independence, and it’s still nearly deaf to the emotion in our voices. Imagine being in serious pain while a voice AI has no idea and just keeps going. That’s the safety problem. Dessa is a step toward fixing it.\"\nLeave aside the question of whether recognizing a tone of urgency, fear, or pain in a voice pattern is the same as sympathizing with the emotions behind those markers. But one should take a second to appreciate the complexity of training agentic AI to pick up on them in the first place.\nWherever this leads us, Dessa is undoubtedly a major advancement in artificial intelligence and, more importantly, in bridging the gap between human communication and AI understanding.\nTopics Artificial Intelligence",
+ "report": {
+  "summary": "Block推出全双工语音模型Dessa，对话更自然且懂情绪。",
+  "background": "长期以来，Siri等语音助手存在响应延迟、表达机械、难以理解语气和情绪的问题；多数大模型语音方案先把语音转成文本，再生成回答，容易丢失节奏、停顿和情感等副语言信息。Jack Dorsey领导的Block发布Dessa，宣称是全球首个全双工语音模型，完全基于人类语音训练，目标是让AI像人一样边听边说，并捕捉对话时机与情绪。官方演示涵盖自然闲聊、惊讶反应、识别讽刺，以及与ChatGPT语音表现的对比。",
+  "key_points": [
+   "全双工交互：Dessa可边听边说、支持打断和插话，对话节奏更接近真人，而非一问一答的机械轮次。",
+   "语音原生训练：据称完全用人类语音训练，保留语调、停顿和情绪线索，而不是先转文本再处理。",
+   "演示效果自然：在诺兰电影闲聊中能自然接话；面对“纪念日”意外提问，表现出惊讶、热情甚至找词停顿。",
+   "能识别讽刺：讽刺理解需要结合语调与内容，长期是AI难点，Dessa演示显示其具备一定副语言理解能力。",
+   "安全动机明确：Block称现有语音AI对疼痛、恐惧等情绪“几乎聋”，可能造成安全风险，Dessa意在修复这一问题。"
+  ],
+  "impact": "对AI行业而言，语音交互可能从“转写+文本模型+TTS”转向端到端全双工与副语言理解，推动实时对话、情感计算和打断处理成为新竞争点。对开发者，低延迟流式架构、语音原生数据和情绪/讽刺评估将更关键。对普通用户，语音助手会更自然、更懂情绪，但也带来隐私、情感操纵和情绪误判等新风险，需建立透明与安全边界。",
+  "tools": "Dessa未开源，可关注Block后续发布。想跟进全双工语音，可研究Moshi、Pipecat、LiveKit Agents、Whisper、Silero VAD及XTTS等开源工具，重点试验流式识别、轮次检测、打断处理和情绪/讽刺评估。"
+ },
+ "lang": "zh"
+}
