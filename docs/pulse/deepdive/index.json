@@ -17899,5 +17899,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-24T15:54:24.516604+00:00"
+ },
+ "6dece68c7979": {
+  "id": "6dece68c7979",
+  "url": "https://www.techradar.com/computing/the-fcc-has-started-to-ban-gadgets-with-foreign-surveillance-chips-inside-but-grants-intel-a-waiver-for-its-foreign-made-factory-robots",
+  "title": "The FCC bans gadgets with 'surveillance chips' in — but Intel gets a waiver",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:46:53.331159+00:00"
+ },
+ "7b323e558423": {
+  "id": "7b323e558423",
+  "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+  "title": "The AI data center boom has a ghost problem",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:47:01.698027+00:00"
+ },
+ "1648707e3f20": {
+  "id": "1648707e3f20",
+  "url": "https://news.mydrivers.com/1/1160/1160260.htm",
+  "title": "黄仁勋首访哈萨克斯坦：要用 10 万块 GPU 把煤炭变智能",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:47:19.520004+00:00"
+ },
+ "fd8ce425f57c": {
+  "id": "fd8ce425f57c",
+  "url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk",
+  "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:47:28.564646+00:00"
+ },
+ "a96e4584b7f0": {
+  "id": "a96e4584b7f0",
+  "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+  "title": "百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵和健康相机",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:47:40.298163+00:00"
+ },
+ "60362e7692d6": {
+  "id": "60362e7692d6",
+  "url": "https://www.ithome.com/1/017/480.htm",
+  "title": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-24T18:47:49.031722+00:00"
  }
 }

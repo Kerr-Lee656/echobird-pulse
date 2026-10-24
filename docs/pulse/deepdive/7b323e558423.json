@@ -1,0 +1,24 @@
+{
+ "id": "7b323e558423",
+ "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+ "title": "The AI data center boom has a ghost problem",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-24T18:47:01.698027+00:00",
+ "content": "The AI data center boom looks like it's running into serious trouble. Projects are being delayed, canceled, or abandoned. Electricity shortages are holding everything up.\nBut there's a twist: A lot of these data centers were probably never going to get built in the first place.\nBernstein Research analyzed thousands of planned US data centers and concluded that only about 35% of the announced capacity is likely to become reality.\nThe industry has a wonderful name for some of the more dubious projects: \"Bragawatts.\"\nThese are enormous data centers announced by companies that often have little experience building them. Some haven't secured electricity, construction permits, or even customers.\nThen there are the \"ghost projects.\" Developers submit multiple requests for electricity connections, hoping at least one location works out. In Texas, these requests have reached more than five times the state's existing electricity supply.\nNo wonder the grid looks overwhelmed.\nThis doesn't mean the AI boom is fake. Far from it.\nMy colleague Eugene Kim exclusively reported this week that even Amazon, one of the world's most experienced data center builders, is struggling to get enough electricity to power its expensive AI equipment.\nBut there's a big difference between Amazon's very real problems and an inexperienced developer announcing a gigantic project that may never happen.\nThe AI data center boom is real, and so are the challenges of building all these facilities. But the sheer number of speculative projects may be making those challenges look bigger than they truly are.\nSign up for the AI Insider newsletter here. Reach out to me via email at abarr@businessinsider.com",
+ "report": {
+  "summary": "美AI数据中心热潮现“幽灵项目”，仅约35%规划产能或落地",
+  "background": "AI算力军备竞赛推动美国数据中心规划量激增，但电力供应、施工许可与电网接入成为瓶颈，大量项目延期或取消。Bernstein Research 分析数千个规划中的美国数据中心后判断，已宣布的容量中只有约35%可能真正建成。行业由此出现“Bragawatts（吹牛瓦）”一词，指那些缺乏建设经验、未落实电力、许可甚至客户的公司宣布的超大型项目；还有开发商在同一州提交多份接电申请以“广撒网”的“幽灵项目”，德州这类申请量已达该州现有供电量的五倍以上，进一步放大了电网不堪重负的表象。",
+  "key_points": [
+   "Bernstein 分析数千个美国规划数据中心后估计，只有约35%的已宣布容量会真正建成，其余多为纸面规划。",
+   "所谓“吹牛瓦”指由缺乏建设经验的公司宣布的巨型项目，往往没有电力、施工许可甚至客户。",
+   "“幽灵项目”是开发商在同一地区重复提交多份接电申请、只求一处落地，德州此类申请量已超全州现有供电五倍。",
+   "这不代表AI热潮是假的：连亚马逊这样最有经验的建设者也难以获得足够电力来驱动昂贵的AI设备。",
+   "投机项目的数量可能让电力短缺和建设难度显得比实际更严重，真实的瓶颈与虚火需要区分看待。"
+  ],
+  "impact": "对AI行业而言，需警惕以规划产能为据的算力过剩叙事，投资与估值应回归已并网、已签约的真实项目。对开发者来说，电力接入排队与选址能力正成为比GPU更硬的约束，需提前锁定供电与许可。对普通用户，短期AI服务供给不会因“幽灵项目”崩塌，但电价与地方电网负担、数据中心选址争议将更频繁进入公共讨论。",
+  "tools": "想跟进可查 ERCOT、PJM 等电网并网队列公开数据，参考伯克利实验室《Queued Up》年度报告追踪排队规模；用 Grid Status 看实时电网与电价，用 Cleanview 等工具梳理数据中心项目管线，并结合 Uptime Institute 的容量与能效指标评估项目真实性。"
+ },
+ "lang": "zh"
+}

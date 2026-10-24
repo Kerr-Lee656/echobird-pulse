@@ -1,0 +1,24 @@
+{
+ "id": "6dece68c7979",
+ "url": "https://www.techradar.com/computing/the-fcc-has-started-to-ban-gadgets-with-foreign-surveillance-chips-inside-but-grants-intel-a-waiver-for-its-foreign-made-factory-robots",
+ "title": "The FCC bans gadgets with 'surveillance chips' in — but Intel gets a waiver",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-24T18:46:53.331159+00:00",
+ "content": "The FCC has started to ban gadgets with 'foreign surveillance chips' inside — but grants Intel a waiver for its foreign-made factory robots\nActivity on the Covered List.\n- Gadgets with foreign chips are now being banned by the FCC\n- Two unnamed devices have been put on the official Covered List\n- However, Intel has been granted an exemption for factory robots\nThere's new movement in both directions on the Covered List maintained by the Federal Communications Commission (FCC) in the US — the list of banned tech products that the agency has determined are a threat to national security, including DJI hardware.\nNew rules that came into effect this month allow the FCC to ban not just devices from specific companies, but also devices with components from specific companies inside them. As The Verge reports, those rules are now being put into practice.\nTwo unnamed gadgets have been added to the Covered List because they have a HiVision chip inside — HiVision being a subsidiary of Huawei, which is already on the list. These chips are typically used in home security cameras and dashcams.\nAs per the FCC, they're \"foreign surveillance chips\", and offer \"built-in detection algorithms for human faces\" (a feature you might have seen advertised as a way of identifying strangers around your property, rather than friends and family).\nFactory robot workers\nHowever, one company has managed to extract a waiver out of the FCC to avoid equipment it relies on being added to the Covered List: Reuters reports that Intel has been granted an exception for the robots it uses in its semiconductor factories.\nThe \"foreign-made advanced robotics\" involved can't be sourced domestically, Intel has argued. With that in mind, the FCC has kept them off the Covered List to avoid \"potential disruptions in the availability of domestic semiconductor manufacturing services\".\nAs it stands, the waiver only lasts for a year though — Intel will then have to find some factory floor robots without foreign components inside, or apply to the FCC again to prevent its army of autonomous workers from being banned.\nSign up for breaking news, reviews, opinion, top tech deals, and more.\nThe 'Automated Guided Vehicles' in question have been in use for two decades, Intel says. The exemption doesn't apply to new models, but rather software, firmware, and hardware tweaks to the existing models already in operation.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\n➡️ Read our full guide to the best laptops\n1. Best overall: \nApple MacBook Air 13-inch M5\n2. Best budget: \nApple MacBook Neo\n3. Best Windows 11 laptop\nMicrosoft Surface Laptop 13-inch\n4. Best thin and light:\nLenovo Yoga Slim 9i\n5. Best Ultrabook\nAsus Zenbook S 16\nDave is a freelance tech journalist who has been writing about gadgets, apps and the web for more than two decades. Based out of Stockport, England, on TechRadar you'll find him covering news, features and reviews, particularly for phones, tablets and wearables. Working to ensure our breaking news coverage is the best in the business over weekends, David also has bylines at Gizmodo, T3, PopSci and a few other places besides, as well as being many years editing the likes of PC Explorer and The Hardware Handbook.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "FCC首次按芯片来源禁售设备，英特尔工厂机器人获一年豁免",
+  "background": "美国FCC维护的「Covered List」原本只针对特定企业（如华为、大疆）的整机设备，但本月生效的新规把管辖范围扩展到「内含受限厂商零部件的设备」，等于把出口管制的逻辑下沉到元器件层级。首批被点名的是两款搭载华为子公司海思？不，是海思同门HiVision芯片的安防摄像头与行车记录仪，官方理由是芯片内置人脸检测算法、构成「外国监控芯片」。这套规则的政治背景是半导体制造回流与供应链去风险化：美国既想堵住含中国芯片的设备，又不能让本土晶圆厂的产线停摆。",
+  "key_points": [
+   "监管对象从「哪个牌子」变成「里面装了谁的芯片」：哪怕整机是第三方品牌，只要核心芯片来自受限企业，产品就整体被禁售。",
+   "首批两款设备因使用华为子公司HiVision的芯片进入封禁清单，该类芯片常用于家用摄像头和行车记录仪，官方理由是内置人脸检测算法。",
+   "英特尔获得罕见豁免：其半导体工厂使用的外国制造AGV机器人（自动导引车）在美国本土买不到替代品，禁掉会冲击本土芯片产能。",
+   "豁免只给一年，且只覆盖对现有已服役约20年的老款机器人的软硬件和固件升级，新款型号不在豁免范围内。",
+   "这形成了一个「安全例外可以谈」的先例：只要能证明断供会伤害更重要的国家利益（本土芯片制造），企业就有机会申请特批。"
+  ],
+  "impact": "对AI行业，芯片级溯源将成为硬件合规的新门槛，安防、视觉感知类设备出海美国的成本与不确定性显著上升。对开发者，选型时必须开始看元器件的「国籍」，供应链清单（BOM/SBOM）会变成和代码同等重要的交付物。对普通用户，短期可能看到部分摄像头、行车记录仪型号在美停售或换芯涨价，但家用安防的主要品牌多数已有替代方案。",
+  "tools": "若想跟进合规与替代方案，可关注SBOM工具CycloneDX与SPDX（用于梳理元器件来源）、开源的OpenTitan安全芯片项目、RISC-V生态的国产/中立指令集方案，以及NIST SP 800-161供应链风险管理框架；硬件侧可关注具备本地推理能力、无需联网的端侧视觉芯片（如各家的NPU方案），以减少对受限供应链与云端上传的双重依赖。"
+ },
+ "lang": "zh"
+}

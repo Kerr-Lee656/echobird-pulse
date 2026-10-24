@@ -8107,5 +8107,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-24T11:12:36.000Z",
   "fetched_at": "2026-10-24T15:57:21.768698+00:00"
+ },
+ "c7aa9b7dfeaf": {
+  "id": "c7aa9b7dfeaf",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+  "title": "Pennsylvania will require labels on AI-generated ads",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-24T18:32:21.000Z",
+  "fetched_at": "2026-10-24T18:48:18.520186+00:00"
+ },
+ "000b9f092b90": {
+  "id": "000b9f092b90",
+  "url": "https://qxotic.ai/",
+  "title": "Local inferencing in one JVM JAR, dependency free, faster than llama.cpp",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T18:11:57Z",
+  "fetched_at": "2026-10-24T18:48:29.142663+00:00"
+ },
+ "4d42aad717cd": {
+  "id": "4d42aad717cd",
+  "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+  "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T17:20:18Z",
+  "fetched_at": "2026-10-24T18:48:41.566565+00:00"
+ },
+ "9fe6a8ec5987": {
+  "id": "9fe6a8ec5987",
+  "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
+  "title": "How could the US and China verifiably slow AI?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T16:47:15Z",
+  "fetched_at": "2026-10-24T18:48:56.319700+00:00"
+ },
+ "c1600923ae6c": {
+  "id": "c1600923ae6c",
+  "url": "https://ricuicui.com/articles/navigateur-porte-entree-agents-ia",
+  "title": "Is the browser becoming the common gateway for AI agents?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T16:30:35Z",
+  "fetched_at": "2026-10-24T18:49:07.437905+00:00"
+ },
+ "61ceba6cfe49": {
+  "id": "61ceba6cfe49",
+  "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "title": "Block’s new voice model sounds eerily human",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-24T16:00:00.000Z",
+  "fetched_at": "2026-10-24T18:49:23.213960+00:00"
  }
 }
