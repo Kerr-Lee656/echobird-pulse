@@ -18034,5 +18034,41 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-25T04:35:46.503260+00:00"
+ },
+ "bcc4b53d8818": {
+  "id": "bcc4b53d8818",
+  "url": "https://www.36kr.com/p/4039749830120583",
+  "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-25T11:18:44.624479+00:00"
+ },
+ "cef011190ab6": {
+  "id": "cef011190ab6",
+  "url": "https://www.ithome.com/1/017/607.htm",
+  "title": "全国首个国家脑机接口高质量数据集建设项目启动，聚焦帕金森病、癫痫等10类疾病方向",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-25T11:18:54.245106+00:00"
+ },
+ "c7078487a0cb": {
+  "id": "c7078487a0cb",
+  "url": "https://www.ithome.com/1/017/557.htm",
+  "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-25T11:19:04.224816+00:00"
+ },
+ "a30ed3ee4913": {
+  "id": "a30ed3ee4913",
+  "url": "https://www.huxiu.com/article/4900269.html?f=rss",
+  "title": "OpenAI造了个“假互联网”，两个被隔离的AI竟靠CPU缓存暗中传话",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-25T07:52:14Z",
+  "fetched_at": "2026-10-25T11:19:26.641039+00:00"
  }
 }

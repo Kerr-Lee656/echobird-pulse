@@ -8224,5 +8224,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-24T19:47:19Z",
   "fetched_at": "2026-10-25T04:37:13.615728+00:00"
+ },
+ "24d6a1210f4b": {
+  "id": "24d6a1210f4b",
+  "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+  "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-10-25T10:00:00.000Z",
+  "fetched_at": "2026-10-25T11:20:07.458289+00:00"
+ },
+ "2ac70e327c22": {
+  "id": "2ac70e327c22",
+  "url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
+  "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T09:19:04Z",
+  "fetched_at": "2026-10-25T11:20:27.240790+00:00"
+ },
+ "d7ed7b25c9c7": {
+  "id": "d7ed7b25c9c7",
+  "url": "https://convovo.ai/ballot/",
+  "title": "GPT picks Democrats. Grok picks Republicans",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T08:42:02Z",
+  "fetched_at": "2026-10-25T11:21:32.739215+00:00"
  }
 }
