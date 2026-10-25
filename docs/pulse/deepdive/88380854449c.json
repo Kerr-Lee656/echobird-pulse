@@ -1,0 +1,24 @@
+{
+ "id": "88380854449c",
+ "url": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
+ "title": "Western Australia seeks refund from Deloitte over flawed AI-aided report",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-25T18:59:48.996876+00:00",
+ "content": "Western Australia’s government is seeking a fast refund from Deloitte over a flawed report on merging three of the state’s universities. The report contained AI-generated references to sources that do not exist, as well as wrong cost totals.\nA government spokesperson told Guardian Australia that the state was very disappointed and had written to Deloitte to speed up the refund. The state paid A$166,000 for the study.\nDeloitte wrote the cost-benefit analysis for a plan to merge the University of Western Australia, Curtin University, and Murdoch University. Deloitte said in the report that it used generative AI to help gather research, summarise information, and proofread.\nCritics first flagged the made-up references earlier in October, starting with a post on Reddit, Times Higher Education reported. At the time, Deloitte called them minor errors, and the government told it to fix and reissue the report.\nSince then, Guardian Australia has found sums in the report’s appendix that are wrong. In one case, two costs for a Curtin and UWA merger totalled A$659m, but the report gave A$399m. TNW has not checked the appendix figures.\nThe government said it had been told the errors do not change the report’s modelling or findings. Deloitte will correct them and reissue the report, the spokesperson said.\nDeloitte did not respond to Guardian Australia’s questions.\nIt is not the first time. In 2025, Deloitte agreed to partly refund Australia’s federal government for an A$440,000 report that also contained AI-generated errors. Rival firms KPMG and PwC have faced similar problems with AI-written reports this year.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "西澳政府因德勤AI报告编造引用与算错账，要求退钱",
+  "background": "咨询巨头德勤受西澳政府委托，为西澳大学、科廷大学、默多克大学三校合并方案做成本效益分析，收费16.6万澳元；报告自述使用生成式AI做资料搜集、摘要与校对。2025年10月，Reddit网友先发现其中存在根本不存在的文献引用，德勤当时称是“小错误”，政府要求修正重发。随后《卫报》澳大利亚版又查出附录金额加总错误，例如两项合并成本相加应为6.59亿澳元，报告却写成3.99亿。政府表态“非常失望”，已致函要求尽快退款。此前2025年德勤已就另一份44万澳元的报告向澳联邦政府部分退款，毕马威、普华永道今年也曝出类似问题。",
+  "key_points": [
+   "德勤用生成式AI辅助撰写三校合并的成本效益分析，交付物中出现凭空捏造的参考文献，等于给不存在的来源背书。",
+   "问题由Reddit网友率先曝光，德勤最初轻描淡写称“小错误”，政府要求修正重发，随后媒体又查出附录中的成本加总错误。",
+   "西澳政府称错误不影响模型与结论，但仍要求加快退款；这说明客户已开始把AI失误当作可追责的交付缺陷。",
+   "这是德勤2025年第二次因AI报告出错退款，毕马威、普华永道也有同类案例，说明问题在行业层面，不是个别事件。",
+   "高价值、低频次的咨询报告尚且不核对引用和算术，暴露出“AI提效”与人工复核之间存在的流程缺口。"
+  ],
+  "impact": "对AI行业而言，“用AI辅助”不再能作为免责理由，交付责任仍落在署名机构身上，可验证性正成为产品卖点；对开发者来说，引用核验、数字一致性校验、检索溯源等围绕可靠性的工具需求会明显上升；对普通用户与纳税人，公共采购中的AI使用透明度将被追问，合同里写入AI使用披露与质量条款或成常态，咨询业的品牌溢价也会被重新定价。",
+  "tools": "想上手可关注检索增强生成的评估与溯源工具，如Ragas、TruLens、LangSmith，用于检测答案是否有据可依；文献真伪可用Semantic Scholar API、Scite、Consensus交叉核验；数字与表格一致性建议把计算交给Python沙箱、用schema校验和单元测试固定口径；审阅环节可配合Elicit做人工抽检。"
+ },
+ "lang": "zh"
+}

@@ -8305,5 +8305,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-25T09:15:56Z",
   "fetched_at": "2026-10-25T16:14:52.569011+00:00"
+ },
+ "763e1f9af686": {
+  "id": "763e1f9af686",
+  "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+  "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T18:42:23Z",
+  "fetched_at": "2026-10-25T19:02:35.786777+00:00"
+ },
+ "18ae16a6ee03": {
+  "id": "18ae16a6ee03",
+  "url": "https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401",
+  "title": "China's first AI-generated film hits cinemas but ticket sales lag",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T18:16:09Z",
+  "fetched_at": "2026-10-25T19:03:10.667560+00:00"
+ },
+ "cf650c71d3f0": {
+  "id": "cf650c71d3f0",
+  "url": "https://lightning.ai/security-incident/",
+  "title": "Lightning.ai October 2026 Security Incident",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T18:08:32Z",
+  "fetched_at": "2026-10-25T19:03:27.397157+00:00"
+ },
+ "b7153f067220": {
+  "id": "b7153f067220",
+  "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+  "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T16:53:40Z",
+  "fetched_at": "2026-10-25T19:03:38.985843+00:00"
+ },
+ "b557971c7d52": {
+  "id": "b557971c7d52",
+  "url": "https://arxiv.org/abs/2610.30635",
+  "title": "What the Specification Did Not Say: Gaps in Test-Graded Coding-Agent Benchmarks",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T16:09:33Z",
+  "fetched_at": "2026-10-25T19:03:54.733015+00:00"
+ },
+ "301a91c5a01b": {
+  "id": "301a91c5a01b",
+  "url": "https://arxiv.org/abs/2609.40303",
+  "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T13:56:08Z",
+  "fetched_at": "2026-10-25T19:04:09.338939+00:00"
  }
 }

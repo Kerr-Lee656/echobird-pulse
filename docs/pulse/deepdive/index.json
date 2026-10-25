@@ -18142,5 +18142,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-25T09:17:05Z",
   "fetched_at": "2026-10-25T16:12:08.843983+00:00"
+ },
+ "88380854449c": {
+  "id": "88380854449c",
+  "url": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
+  "title": "Western Australia seeks refund from Deloitte over flawed AI-aided report",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-25T18:59:48.996876+00:00"
+ },
+ "b3d2d5d5b19c": {
+  "id": "b3d2d5d5b19c",
+  "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+  "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-25T16:15:48.897Z",
+  "fetched_at": "2026-10-25T19:00:00.234004+00:00"
+ },
+ "e10f8a39f995": {
+  "id": "e10f8a39f995",
+  "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+  "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-25T19:00:18.337400+00:00"
+ },
+ "a04d061bb30b": {
+  "id": "a04d061bb30b",
+  "url": "https://www.tmtpost.com/8181051.html",
+  "title": "数智周报：MiniMax 港股破发；DeepSeek 开源推理框架 DeepInfer 并披露收入账本；美国国土安全部正式下令禁采 DeepSeek",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-25T19:00:30.736898+00:00"
  }
 }

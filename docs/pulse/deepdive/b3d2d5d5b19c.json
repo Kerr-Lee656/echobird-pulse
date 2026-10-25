@@ -1,0 +1,23 @@
+{
+ "id": "b3d2d5d5b19c",
+ "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+ "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+ "source": "www.businessinsider.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-25T16:15:48.897Z",
+ "fetched_at": "2026-10-25T19:00:00.234004+00:00",
+ "content": "One of the world's largest investment firms says that only tech companies are getting a share of the AI pie.\nIn an economic analysis published on Saturday, Apollo Global Management said that while the Magnificent Seven — a group of established tech companies that includes Nvidia and Meta — are seeing revenue growth during the AI boom, this growth isn't being shared by other industries.\n\"Mainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins,\" Torsten Slok, a partner and chief economist at Apollo, said in the report. \"The technology has delivered zero financial payoff to corporate America outside of tech.\"\nIn a series of graphs, Slok measured three main metrics that have boomed for tech companies but not for regular companies: revenue per worker, profit margins, and productivity growth.\nSince 2022, revenue per employee figures have skyrocketed for tech companies — rising from $550,000 to nearly $800,000 today. Meanwhile, that figure hasn't changed much for everyone else in the S&P 500, lingering around $550,000 for the last seven years.\nSimilarly, while profit margins soared among tech companies since 2022, they've stagnated at about 10% for everyone else.\nAnd across the economy, AI hasn't yet dramatically increased productivity growth as some AI optimists have predicted.\nApollo's research portends a dark shadow over a US economy throwing massive amounts of dough toward AI tools and companies, whose leaders have promised that an \"age of abundance,\" where people won't have to work as much, will soon be upon us.\n\"The question looking ahead is whether, even as models become commoditized, mainstream corporate America can turn increasingly cheap intelligence into higher revenue growth and higher profit margins,\" Slok said.\n\"That may be harder than it sounds,\" he added.",
+ "report": {
+  "summary": "阿波罗报告称AI对美国非科技企业几无财务回报。",
+  "background": "自生成式AI热潮以来，美国企业大量采购AI工具和算力，科技巨头营收与利润率先受益。但Apollo Global Management最新分析指出，AI红利高度集中在英伟达、Meta等“七巨头”，标普500其余公司并未出现同样的效率跃升。这给“AI将带来普遍繁荣”的叙事泼了冷水，也让企业AI投入的ROI成为焦点。",
+  "key_points": [
+   "Apollo发现，2022年以来科技公司人均营收从55万美元升至近80万美元，而标普500其他公司七年来基本停在55万美元左右。",
+   "科技公司利润率在AI热潮中显著上升，但非科技企业利润率长期停滞在约10%，说明AI收益未外溢。",
+   "报告称全经济范围的生产率并未因AI出现乐观者预期的大幅提升，AI对宏观效率的拉动尚不明显。",
+   "企业开始把AI token支出视为挤压利润的成本项，而非增长来源；阿波罗称科技以外美国企业获得“零财务回报”。"
+  ],
+  "impact": "对AI行业，这意味着估值和叙事将更受ROI审视，卖工具的公司需证明客户能赚钱；对开发者，企业会更看重降本、可量化提效和集成能力，而非单纯模型参数；对普通用户，AI功能普及仍会继续，但“少工作、高产出”的普遍红利可能来得更慢，收费与使用限制或更普遍。",
+  "tools": "若想跟进企业AI ROI，可关注开源可观测与成本追踪工具，如Langfuse、Helicone、OpenLLMetry，以及B端流程自动化评估框架；也可用公开财报和生产率数据做对比分析。"
+ },
+ "lang": "zh"
+}
