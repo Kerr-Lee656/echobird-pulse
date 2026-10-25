@@ -18178,5 +18178,23 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-25T19:00:30.736898+00:00"
+ },
+ "d743d0b210b5": {
+  "id": "d743d0b210b5",
+  "url": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
+  "title": "Pennsylvania enacts law regulating AI-generated advertisements",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-25T22:32:58.549892+00:00"
+ },
+ "b1280dde18f8": {
+  "id": "b1280dde18f8",
+  "url": "https://www.ithome.com/1/017/719.htm",
+  "title": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-25T15:36:55Z",
+  "fetched_at": "2026-10-25T22:33:37.086570+00:00"
  }
 }

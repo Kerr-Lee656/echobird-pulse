@@ -8359,5 +8359,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-25T13:56:08Z",
   "fetched_at": "2026-10-25T19:04:09.338939+00:00"
+ },
+ "c43c633e7568": {
+  "id": "c43c633e7568",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+  "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T22:11:27Z",
+  "fetched_at": "2026-10-25T22:34:09.220361+00:00"
+ },
+ "bab8d9613aba": {
+  "id": "bab8d9613aba",
+  "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+  "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T21:36:09Z",
+  "fetched_at": "2026-10-25T22:34:49.613349+00:00"
+ },
+ "2f7833f3a011": {
+  "id": "2f7833f3a011",
+  "url": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
+  "title": "The Power Grab of the AI Doomers",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T20:01:52Z",
+  "fetched_at": "2026-10-25T22:35:36.041394+00:00"
+ },
+ "2d7458168c2c": {
+  "id": "2d7458168c2c",
+  "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+  "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T18:44:11Z",
+  "fetched_at": "2026-10-25T22:35:48.211359+00:00"
+ },
+ "9a814be9eb36": {
+  "id": "9a814be9eb36",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T18:18:04Z",
+  "fetched_at": "2026-10-25T22:35:59.380479+00:00"
  }
 }

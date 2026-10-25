@@ -1,0 +1,24 @@
+{
+ "id": "d743d0b210b5",
+ "url": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
+ "title": "Pennsylvania enacts law regulating AI-generated advertisements",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-25T22:32:58.549892+00:00",
+ "content": "Pennsylvania enacts law regulating AI-generated advertisements\nAcross the nation, there appears to be growing frustration with the explosion of AI-generated advertising plaguing small-business storefronts and restaurant interiors. Last Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, mandating that all ads, from million-dollar television commercials to printed flyers passed out on the street, contain a disclosure label in the same format as the ad itself.\nThe purpose of the bill is to combat false or misleading advertising, which is much easier to engage in with the help of AI-generated content. The bill, as introduced, states:\n\"An advertiser may not create and disseminate or cause to be created and disseminated an advertisement that uses synthetic content in a manner that creates a false consumer perception about the nature, origin or authenticity of the goods or services being advertised, without clear and conspicuous disclosure. A disclosure under this section must state that the advertisement contains content that was modified or generated using artificial intelligence.\"\nAnd because it applies to all advertising shown in Pennsylvania, it will impact, for example, television commercials created in other states or advertisements made in other countries, so the consequences of this bill will be far-reaching.\nYou May Also Like\nAccording to reporting by The Verge, though, critics of the bill wonder how effective it will be, given the imprecise nature of some of the language used. As The Verge notes, language like \"significantly modified\" is subjective and open to wide ranges of interpretation, while extensive exceptions made for \"parody, satire, commentary, or criticism\" offer advertisers legal wiggle room.\nWhatever the ultimate impacts of the bill or the future interpretations by the court system, it represents another attempt by elected representatives to respond to the overwhelming will of voters to bring artificial intelligence under legislative control, so we expect this bill to initiate a trend.",
+ "report": {
+  "summary": "宾州立法要求AI生成广告必须明确标注",
+  "background": "随着生成式AI让虚假广告成本骤降，美国地方层面监管压力上升。宾州州长夏皮罗签署《人工智能欺骗性广告法》，要求广告若使用合成内容并可能误导消费者，须以与广告相同形式清晰披露AI参与。法律适用于在宾州投放的所有广告，包括外州或海外制作内容，因而具有外溢影响。",
+  "key_points": [
+   "法律由宾州州长夏皮罗签署，覆盖从电视广告到街头传单的所有广告形式，要求披露标识与广告本身格式一致。",
+   "核心目标是打击利用AI合成内容制造虚假或误导性消费者认知，未清晰披露即属违规。",
+   "由于适用于在宾州展示的广告，外州甚至外国制作的广告也可能受约束，影响范围超出宾州。",
+   "批评者认为“显著修改”等表述主观、解释空间大，且讽刺、评论等豁免给广告商留下法律缝隙。",
+   "该法反映选民要求将AI纳入立法监管的压力，可能引发其他州跟进，形成广告AI披露立法趋势。"
+  ],
+  "impact": "对AI行业，广告生成工具需内置披露与内容溯源能力；开发者要关注水印、元数据和合规审核；普通用户会看到更多AI标注，但执行效果取决于细则与执法。整体上，合规成本上升，透明度提高，但模糊条款可能带来争议。",
+  "tools": "可关注C2PA/Content Credentials、Google SynthID、Adobe Firefly内容凭证、Truepic；开源可用Hugging Face图像检测模型与EXIF元数据工具做原型。"
+ },
+ "lang": "zh"
+}
