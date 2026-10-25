@@ -1,0 +1,24 @@
+{
+ "id": "e19e861ca08d",
+ "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
+ "title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-25T16:10:22.024505+00:00",
+ "content": "OpenAI has lowered the valuation it is seeking for its new funding round to $1.25tn, from the $1.4tn it pitched earlier this month. Some investors had pushed back on the higher price, the Financial Times reported, citing documents it had seen.\nThe company is close to raising up to $30bn at that valuation, which does not include the new money, CNBC first reported on Thursday. Investors from the United Arab Emirates are leading the round with Coatue, people familiar with the deal told CNBC. TNW has not independently verified the figures.\nThe cut is $150bn, according to Bloomberg. OpenAI first sought $1.4tn in September. It last raised $122bn in March, at an $852bn valuation including the money.\nA deadline of next week\nOpenAI told investors on Thursday that it wants signatures by the end of next week, CNBC reported. The final size of the round is still being set.\nCoatue is in talks to co-lead, Bloomberg reported. OpenAI has also talked to several UAE funds, among them Abu Dhabi’s MGX, and to BlackRock, Bloomberg has reported.\nAlongside the money, OpenAI is negotiating a deal for more computing capacity from the UAE, one person told CNBC. OpenAI told investors in February that it is targeting about $600bn in total compute spending by 2030.\nOpenAI declined to comment to Bloomberg. Coatue did not immediately respond to Bloomberg’s request for comment. The people told Bloomberg that details could still change.\nA bridge to a listing\nThe round is being pitched as an “opportunistic” bridge ahead of a possible IPO, CNBC reported. OpenAI filed confidentially with the US Securities and Exchange Commission in June but has not said when it will list.\nChief financial officer Sarah Friar told staff in August that OpenAI “will be a public company in 2027,” CNBC reported. A month later, chief executive Sam Altman said the timing was wrong.\n“Right now would be an ill-advised moment to go public,” Altman said in September.\nOpenAI has pushed its IPO plans back to next year, citing its focus on AI safety, Bloomberg reported.\nAnthropic lists first\nOpenAI had been trying to close the round before Anthropic goes public. Investors expect Anthropic’s IPO next month, Bloomberg reported. It is seeking a valuation of $1.5tn to $2tn, Reuters reported. In May, Anthropic raised $65bn at a $965bn valuation.\nThe talks come in a weak week for AI stocks. Investors have questioned AI spending after results from Meta, whose future spending commitments reach $825bn, and from Tesla, Bloomberg reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI 将新一轮融资估值下调至1.25万亿美元",
+  "background": "OpenAI 近两年融资节奏极快：今年3月刚完成一轮融资，估值为8520亿美元（含新资金），9月又抛出1.4万亿美元的目标估值，如今下调1500亿美元至1.25万亿。本轮拟募资至多300亿美元，由阿联酋资金与Coatue领投，被定位为IPO前的“机会型”过桥融资。与此同时，Anthropic 预计下月上市，估值目标1.5万亿至2万亿美元，抢跑意味明显。而Meta、特斯拉财报后市场对AI资本开支的质疑升温，也让这轮高估值谈判更艰难。",
+  "key_points": [
+   "估值主动下调1500亿美元：部分投资者嫌1.4万亿美元太贵、不愿接盘，OpenAI 让步换签约速度，要求下周内签字。",
+   "阿联酋资金+Coatue领投，至多募资300亿美元；除现金外，OpenAI 还在谈从阿联酋换取更多算力，目标是到2030年累计约6000亿美元算力支出。",
+   "这轮被包装成IPO前的“过桥轮”。OpenAI 6月已秘密向SEC递交文件，CFO曾称2027年上市，但Altman认为现在上市“时机不佳”，计划已推迟到明年。",
+   "竞争压力来自Anthropic：对手预计下月IPO、目标估值1.5万亿—2万亿美元，OpenAI 想赶在其之前完成本轮融资。",
+   "大环境不友好：Meta未来支出承诺高达8250亿美元、特斯拉业绩疲软，让投资者开始追问AI投入何时回本，高估值叙事正在被重新定价。"
+  ],
+  "impact": "对AI行业而言，头部公司估值首次被公开“砍价”，标志着资本从无条件追高转向讨价还价，算力换股权式的产油国合作也将成为新范式。对开发者，融资与算力扩张意味着模型能力仍会快速迭代，但API涨价、额度收紧和平台绑定风险上升，多模型备份更必要。对普通用户，AI产品补贴期可能缩短，订阅价格与广告化趋势更明显；IPO推迟也意味着治理与安全承诺仍需外部监督。",
+  "tools": "想跟进可关注：OpenAI 官方博客与SEC文件（S-1披露后可查营收结构）、Crunchbase/PitchBook 跟踪融资估值、Anthropic 招股书作对比；开发者可上手 OpenRouter、LiteLLM 做多模型切换，用 vLLM、Ollama 本地部署降低对单一供应商依赖。"
+ },
+ "lang": "zh"
+}

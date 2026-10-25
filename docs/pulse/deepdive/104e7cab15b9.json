@@ -1,0 +1,24 @@
+{
+ "id": "104e7cab15b9",
+ "url": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+ "title": "US Treasury moves to curb AI, chip and biotech deals in China and Russia",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-25T16:09:55.071337+00:00",
+ "content": "“The proposed regulations would strengthen the existing Outbound Investment Security Program to prevent our adversaries from using U.S. investment to develop critical technologies that threaten U.S. national security,” Treasury Secretary Scott Bessent said.\nThe US Treasury published the proposal on Thursday. The outbound investment rule would widen limits on American money for chips, AI and other sensitive tech. It targets China, Russia, North Korea and other “countries of concern”, the Associated Press reported.\nThe programme began in 2023. That year, then-President Joe Biden signed an order that limited some US investment in Chinese chips, quantum computing and AI, AP noted.\nWhat the rule covers\nThe draft carries out the COINS Act, which Congress passed in its 2026 defence bill. US investors would have to tell Treasury about some deals. The rule would ban others.\nThe law names five sectors. They are chips, AI, quantum technology, supercomputing and hypersonic systems. Treasury used its power under the act to add biotechnology.\nThe list of countries also grows. Beside China, including Hong Kong and Macau, it now names Cuba, Iran, North Korea and Russia, according to Treasury’s fact sheet. It also names Venezuela under Nicolás Maduro. But the same document says Venezuela does not meet the draft’s definition today.\n‘Super intelligence systems’\nThe draft swaps the term “AI systems” for “super intelligence systems”. Treasury cites President Trump’s 29 September executive order, which renamed AI as super intelligence.\nTreasury would widen its ban on investing in these systems, the fact sheet said. Investors would lose the current option to simply report such deals.\nBreaking the rules could bring civil penalties up to the maximum under the International Emergency Economic Powers Act. Treasury could also force investors to sell.\n“The proposed regulations are designed to address risks that can arise when foreign adversaries try to benefit from U.S. investment in key technology sectors,” said Christopher Pilkerton, Treasury’s assistant secretary for investment security.\nComments until December\nThe Federal Register will publish the draft on 26 October. Written comments are due by 7 December. Final rules will follow and set the start date.\nThe move comes six days after China proposed its own controls on exporting advanced AI models and chip designs. Last week, Pentagon technology chief Emil Michael said that export controls could curb AI labs.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美财政部拟扩大对华AI、芯片、生物技术投资禁令，并新增对俄罗斯等国的限制",
+  "background": "美国对外投资安全计划始于2023年，当时拜登签署行政令，限制美资进入中国芯片、量子计算和AI领域。此次财政部发布的是实施细则草案，目的是落实国会在2026财年国防法案中通过的COINS法案，把原先的\"部分申报\"升级为\"部分禁止\"。草案发布时点敏感：六天前中国刚提出对先进AI模型和芯片设计实施出口管制，五角大楼技术主管Emil Michael也公开表示出口管制可能抑制美国AI实验室。双方在技术管制上形成对等加码的态势。",
+  "key_points": [
+   "覆盖范围由芯片、AI、量子、超算、高超音速五大领域组成，财政部又自行把生物技术纳入，受管国家从中国扩大到古巴、伊朗、朝鲜、俄罗斯等。",
+   "草案把\"AI系统\"改称\"超级智能系统\"，呼应特朗普9月29日行政令的改名；同时取消投资者原本只需备案的选择，改为直接禁止。",
+   "违规后果明显加重：最高可按《国际紧急经济权力法》上限处以民事罚款，财政部还可强制投资者剥离已持有的资产。",
+   "程序上仍处征求意见阶段：10月26日刊宪，12月7日截止意见，之后才出终稿并确定生效日。",
+   "对等反制信号明显：中国此前提出限制先进AI模型与芯片设计出口，双方在技术出口与资本出口两端同时收紧。"
+  ],
+  "impact": "对AI行业而言，美国资本进入中国AI与芯片初创的通道进一步收窄，跨境融资和并购结构将更复杂；对开发者来说，中美技术栈的分叉会加快，开源模型与国产算力的重要性上升；对普通用户，短期影响有限，但长期可能表现为产品选择减少、价格与地域差异扩大。生物技术被新增列入，说明管制逻辑正从\"算力\"扩展到\"算力+生命科学\"的广义关键技术。",
+  "tools": "想跟进可关注：Treasury官网与Federal Register上的草案原文及意见提交渠道；追踪立法脉络可看COINS Act条文与2023年拜登对外投资行政令；数据侧可用Crunchbase、PitchBook观察中美跨境VC流向；开发者可关注出口合规筛查工具与开源模型许可（如Llama、Qwen）的跨境使用条款。"
+ },
+ "lang": "zh"
+}

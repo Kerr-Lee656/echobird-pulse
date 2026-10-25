@@ -1,0 +1,24 @@
+{
+ "id": "0c6c254d090f",
+ "url": "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas",
+ "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-25T16:10:04.063793+00:00",
+ "content": "“Since the policy was announced, two leading companies, DeepSeek and MiniMax, have successfully completed the registration process and obtained open-source and overseas licensing rights.”\nThat is what Yuyuan Tantian, a WeChat account affiliated with state broadcaster CCTV, said in a post late on Thursday. The post sets out how the China AI export controls proposed on 16 October will work. Most AI technology will stay free to export, it said.\nDeepSeek and MiniMax did not immediately reply to requests for comment, Reuters reported. DeepSeek reportedly raised $15bn from Tencent and CATL this week. TNW has not independently verified the post.\nData, sensitive uses and computing power\nThe commerce and science ministries want to add 23 AI technologies to China’s list of technologies banned or restricted from export. They include large models, agents and computing clusters, according to the ministry’s announcement. Companies must register before they export a listed technology. Public comments close on 15 November.\nThe post said the rules target three areas. The first is data. The rules would ban exports of large models trained on China’s “core data”. They would restrict models trained on “important data”, whatever their size.\nThe second is sensitive use. Agents above a set performance level face restrictions. Agents built mainly for critical information infrastructure, defence or core government affairs face a ban.\nThe third is computing power. AI chip design and high-speed links for large computing clusters are on the list.\nThe catalogue also sets numbers for large models, the post said. They are training compute above 1026 floating-point operations, more than 2 trillion parameters, or capability in the global top ten.\nWhat stays outside the rules\nOffering a restricted model through API calls, apps, web pages, SaaS or lightweight local deployment is not a technology export, the post said.\n“Simply put, AI companies can continue with their commercialization efforts as usual,” it said.\nOpen-source technology gets automatic licensing, which the post described as “immediate reporting and export”. So do Chinese companies’ own computing centres abroad, chip tape-out overseas, joint research and work on international standards.\nTechnology already public through open source or academic papers falls outside the rules. Exports tied to cooperation among members of the World AI Cooperation Organization would get more support.\nThe lawyers in the room\nLiu Jing and Liu Hongmei of Beijing Dacheng Law Offices took part in the consultations, the post said. The control points for some AI items changed after the first draft, they told the account. Many of the concerns companies raised show up in the published version, they said.\nRestricted technologies can still go abroad with a licence, Liu Hongmei said. That would not disrupt companies’ overseas plans.\nA contrast with Washington\nThe post set the rules against the US approach. It cited the Commerce Department’s AI diffusion framework of January 2025. It also cited an “alliance strategy” it attributed to Anthropic’s CEO, Dario Amodei.\n“But China did not take this path,” the post said.\nIn a separate post on Friday, the account said overseas internet users had urged other Chinese open-source models to follow suit, Reuters reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "DeepSeek、MiniMax完成登记获海外授权，中国AI出口新规划定边界",
+  "background": "2025年10月16日，中国商务部与科技部拟将大模型、智能体、算力集群等23项AI技术纳入出口管制目录，公开征求意见至11月15日。这是中国首次针对AI技术建立系统性出口管理框架。此前美国在2025年1月推出AI扩散框架，对先进芯片与模型权重实施分级管控。新规的核心争议在于是否会阻碍中国开源模型的全球化，而DeepSeek与MiniMax作为首批完成登记、拿到开源与海外许可的企业，实际上为行业提供了一个可复制的合规范本。",
+  "key_points": [
+   "新规针对三类敏感点：基于「核心数据」训练的大模型禁止出口，基于「重要数据」训练的限制出口，用于关键信息基础设施、国防、政务的智能体被禁售。",
+   "大模型有了量化门槛：训练算力超过10^26次浮点运算、参数超2万亿，或能力进入全球前十，满足其一即受管制，头部旗舰模型基本都落在范围内。",
+   "商业化不受影响：通过API调用、App、网页、SaaS或轻量本地部署向海外提供服务，不算「技术出口」，企业照常做生意。",
+   "开源获自动许可，被概括为「即报即出」；已公开的论文与开源代码、企业自有海外算力中心、海外流片、国际标准合作均不受限制。",
+   "官方表态与华盛顿路线形成对比：援引美国2025年1月AI扩散框架与Anthropic CEO的「联盟战略」作为参照，强调中国未走这条路。"
+  ],
+  "impact": "对AI行业而言，中国首次明确了模型出海的合规边界，管制重心从「能力大小」转向「数据来源与用途」，这比单纯按参数封堵更精细，也更利于开源生态继续扩张。对开发者，调用API、微调开源权重、做海外SaaS基本不受影响，但涉及政务、国防、关键基础设施的项目需谨慎评估；训练数据来源将成为新的合规审查点。对普通用户，海外可用的中国模型大概率不会减少，反而可能因「即报即出」加快上线节奏。不过「全球前十能力」这类模糊条款仍留有解释空间，长期看监管弹性大于规则刚性。",
+  "tools": "想跟进可关注DeepSeek系列开源权重与MiniMax的开放模型、Hugging Face上的中国模型仓库，以及vLLM、SGLang等本地部署推理框架，便于验证「轻量本地部署不属于技术出口」这一豁免边界；合规侧可留意商务部技术出口目录的正式版本更新。"
+ },
+ "lang": "zh"
+}

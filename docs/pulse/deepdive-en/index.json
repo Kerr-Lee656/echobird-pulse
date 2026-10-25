@@ -8251,5 +8251,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-25T08:42:02Z",
   "fetched_at": "2026-10-25T11:21:32.739215+00:00"
+ },
+ "317b87334e0d": {
+  "id": "317b87334e0d",
+  "url": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
+  "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T15:41:09Z",
+  "fetched_at": "2026-10-25T16:12:46.408802+00:00"
+ },
+ "a08d53cda163": {
+  "id": "a08d53cda163",
+  "url": "https://www.avclub.com/anthropic-sued-copyright-infringement-elvis",
+  "title": "Anthropic sued for allegedly stealing from The King",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T15:06:28Z",
+  "fetched_at": "2026-10-25T16:13:01.407365+00:00"
+ },
+ "43fa73ddaf37": {
+  "id": "43fa73ddaf37",
+  "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T13:16:49Z",
+  "fetched_at": "2026-10-25T16:13:57.736229+00:00"
+ },
+ "aec1f0ba52ad": {
+  "id": "aec1f0ba52ad",
+  "url": "https://github.com/lastreload/mnemonic-proxy",
+  "title": "A 32K-window proxy that beat full context on long agent histories",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T13:08:14Z",
+  "fetched_at": "2026-10-25T16:14:07.763375+00:00"
+ },
+ "ab1f7cff3772": {
+  "id": "ab1f7cff3772",
+  "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "title": "Google’s AI search changes upended online publishing",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-25T12:00:00.000Z",
+  "fetched_at": "2026-10-25T16:14:42.201172+00:00"
+ },
+ "0af98a9a9df5": {
+  "id": "0af98a9a9df5",
+  "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
+  "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T09:15:56Z",
+  "fetched_at": "2026-10-25T16:14:52.569011+00:00"
  }
 }
