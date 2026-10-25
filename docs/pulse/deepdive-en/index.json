@@ -8197,5 +8197,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-24T19:59:51Z",
   "fetched_at": "2026-10-24T22:30:07.209847+00:00"
+ },
+ "c76163cf6a67": {
+  "id": "c76163cf6a67",
+  "url": "https://aiweekly.co/alerts/anthropic-open-sources-claude-code-sandbox-under-apache-20",
+  "title": "Anthropic's Claude Code Sandbox",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-25T03:34:51Z",
+  "fetched_at": "2026-10-25T04:36:19.190296+00:00"
+ },
+ "1f6056f34e61": {
+  "id": "1f6056f34e61",
+  "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+  "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+  "source": "Hacker News (242pts, 250c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T23:11:54Z",
+  "fetched_at": "2026-10-25T04:36:31.833639+00:00"
+ },
+ "a54fd0e20dbb": {
+  "id": "a54fd0e20dbb",
+  "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "title": "No signs of AI payoff outside the tech sector",
+  "source": "Hacker News (513pts, 530c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-24T19:47:19Z",
+  "fetched_at": "2026-10-25T04:37:13.615728+00:00"
  }
 }

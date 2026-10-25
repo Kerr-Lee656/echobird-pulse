@@ -1,0 +1,24 @@
+{
+ "id": "3e09a0247fdf",
+ "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+ "title": "Chroma joins Replit and shuts down Chroma Cloud in 60 days",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-25T04:35:46.503260+00:00",
+ "content": "Chroma, maker of the open-source vector database ChromaDB, is joining Replit, the AI app-building platform. Chroma Cloud, its paid hosted service, becomes read-only on November 22, 2026 and stops serving reads on December 22, 2026. Open-source ChromaDB continues under the Apache 2.0 license, and Chroma has moved more code from private repos into the public project. Chroma CEO Jeff Huber says open-source Chroma gets about 6 million downloads a month and has nearly 30,000 GitHub stars. Replit's CEO and early investors in Chroma, and Masad was named as an angel in its $18 million 2023 seed round.",
+ "report": {
+  "summary": "向量数据库Chroma并入Replit，Chroma Cloud 60天内关停，开源版继续。",
+  "background": "Chroma 是开源向量数据库 ChromaDB 的开发方，也是 RAG（检索增强生成）应用最常选用的本地向量库之一。2023 年 Chroma 完成 1800 万美元种子轮融资，Replit CEO Amjad Masad 当时以天使身份参与投资。如今 Chroma 团队整体加入 Replit 的 AI 应用构建平台，其唯一的商业化托管服务 Chroma Cloud 也随之进入关停倒计时：先转为只读，再停止读取。这是 AI 基础设施赛道持续整合的又一事例：在云厂商和平台方自建向量能力、开源方案竞争激烈的环境下，独立托管向量数据库服务的生存空间不断被挤压。",
+  "key_points": [
+   "Chroma Cloud 停止服务的时间已明确：2026 年 11 月 22 日起转为只读，12 月 22 日起完全停止读取，用户需在此之前完成数据导出。",
+   "开源核心不受影响：ChromaDB 继续以 Apache 2.0 协议维护，并非闭源，也不随云服务一同消失。",
+   "Chroma 承诺进一步开源：团队把更多原本放在私有仓库里的代码迁移到公开项目中，社区可继续贡献和使用。",
+   "规模信号：Chroma 开源版月下载量约 600 万次，GitHub 星标接近 3 万，是向量库领域使用最广的项目之一。",
+   "这次收购并非突然发生：Replit CEO 本就是 Chroma 早期天使投资人，双方早有资本与技术上的联系。"
+  ],
+  "impact": "对 AI 行业而言，这再次说明独立的“托管向量数据库”生意难做，基础设施正被应用平台和云厂商吸收，向量检索越来越被视为平台的内置能力而非独立产品。对开发者来说，最紧迫的是迁移：所有依赖 Chroma Cloud 的生产环境必须在 60 天内导出数据，并切换到自建 ChromaDB 或其他向量库；长期看，选择托管服务时需更重视供应商依赖的风险。对普通用户，影响有限，多数 AI 应用会静默完成迁移，但期间可能遇到检索变慢或功能临时波动。",
+  "tools": "迁移可选：自托管 ChromaDB（Apache 2.0，可直接接管原有集合数据），以及 Qdrant、Weaviate、Milvus、LanceDB 等开源向量库；轻量场景可用 PostgreSQL 的 pgvector 减少额外依赖。建议先用脚本导出 embedding 与元数据，在小规模环境验证召回效果后再切换流量。"
+ },
+ "lang": "zh"
+}
