@@ -8476,5 +8476,50 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-26T04:00:00.000Z",
   "fetched_at": "2026-10-26T04:43:22.764205+00:00"
+ },
+ "55ddbdeb087a": {
+  "id": "55ddbdeb087a",
+  "url": "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
+  "title": "Nobody Could Say Which AI Agent Did It",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T12:01:50Z",
+  "fetched_at": "2026-10-26T12:55:44.424951+00:00"
+ },
+ "27a94fbccecd": {
+  "id": "27a94fbccecd",
+  "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+  "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T11:48:22Z",
+  "fetched_at": "2026-10-26T12:55:56.039856+00:00"
+ },
+ "7d1bca367486": {
+  "id": "7d1bca367486",
+  "url": "https://syncroma.com/en-anthropic-scion-git-tuberias-rotas-ia/",
+  "title": "Anthropic replaced Git with Scion after scaling to 30k daily commits",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T11:24:43Z",
+  "fetched_at": "2026-10-26T12:56:09.783462+00:00"
+ },
+ "2fa5a370ff20": {
+  "id": "2fa5a370ff20",
+  "url": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
+  "title": "AI Is Making Verification the Bottleneck for Companies",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T11:14:19Z",
+  "fetched_at": "2026-10-26T12:56:22.025538+00:00"
+ },
+ "8239d000cbf4": {
+  "id": "8239d000cbf4",
+  "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+  "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T10:09:25Z",
+  "fetched_at": "2026-10-26T12:59:09.376864+00:00"
  }
 }

@@ -18277,5 +18277,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-25T23:21:57Z",
   "fetched_at": "2026-10-26T04:41:12.251556+00:00"
+ },
+ "a6cfa419e972": {
+  "id": "a6cfa419e972",
+  "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
+  "title": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T12:52:44.307477+00:00"
+ },
+ "1b0a695e72b1": {
+  "id": "1b0a695e72b1",
+  "url": "https://www.qbitai.com/2026/10/504905.html",
+  "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-26T12:52:54.440454+00:00"
+ },
+ "b87d74e658d5": {
+  "id": "b87d74e658d5",
+  "url": "https://www.aibase.com/zh/news/31869",
+  "title": "英伟达开源机器人数据引擎 Flora：标注成本较 GPT-6Astra 降低最高达 125 倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-26T12:53:04.709955+00:00"
+ },
+ "1ee95ad038b3": {
+  "id": "1ee95ad038b3",
+  "url": "https://www.ithome.com/1/017/949.htm",
+  "title": "松下员工违规上传同事及家属信息至生成式AI服务，影响33.4万人",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-26T12:53:14.055804+00:00"
+ },
+ "e77ae0919e11": {
+  "id": "e77ae0919e11",
+  "url": "https://www.ithome.com/1/017/951.htm",
+  "title": "智元发布重载具身机器人精灵 G2 Max，双臂额定负载 40kg",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-26T08:27:44Z",
+  "fetched_at": "2026-10-26T12:53:57.574999+00:00"
  }
 }

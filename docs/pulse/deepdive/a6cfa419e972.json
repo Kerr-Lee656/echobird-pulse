@@ -1,0 +1,23 @@
+{
+ "id": "a6cfa419e972",
+ "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
+ "title": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T12:52:44.307477+00:00",
+ "content": "Anthropic sued for allegedly training Claude on Elvis Presley's music\nAnthropic is reportedly being sued for allegedly training its AI on Elvis Presley's music without permission.\nBillboard reports that owners of Presley's intellectual property rights filed the lawsuit on Friday, claiming that Anthropic used 274 of the rock icon's songs to train its Claude AI models. Such songs allegedly included hits such as \"Can't Help Falling in Love,\" \"Don't Be Cruel,\" \"Return to Sender,\" and \"(You're the) Devil in Disguise.\"\nThe complaint alleges that Claude's generated content now adapts or copies Presley's discography without appropriate licensing or consent, and accuses Anthropic of having \"built its entire business model on infringing copyrights at an unfathomable scale.\" The lawsuit specifically described instances in which users could request Claude recreate and update Presley's songs.\nYou May Also Like\n\"These renders keep landing very close to the originals: same structure, same hooks reused with light rewording, and full sets of verses/choruses/bridges,\" read the filing. \"That's edging past 'inspired by' into reproducing the copyrighted song, even when the words are swapped out.\"\nAnthropic has refuted the allegations, a spokesperson stating, \"We disagree with the claims and intend to defend this case fully.\"\nThe plaintiffs are requesting a permanent injunction to prevent Anthropic from using Presley's songs, as well as damages of up to $150,000 for each work allegedly infringed upon. At 274 works, that would be a fine of up to $41.1 million.\nAnthropic has been the target of multiple prior lawsuits alleging unauthorised use of intellectual property. Sony Music Publishing and Warner Chappell Music sued Anthropic in August, claiming that it had conducted a \"brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale.\" In July, Anthropic settled a $1.5 billion class action lawsuit in which authors accused it of illegally downloading pirated books. Universal Music Group has sued Anthropic for copyright infringement twice, filing this January as well as in October 2023.",
+ "report": {
+  "summary": "Anthropic因用猫王歌曲训练Claude被诉",
+  "background": "这是生成式AI版权争议向音乐领域延伸的最新一例。此前Anthropic已因书籍、歌词等训练数据遭作者、索尼音乐、华纳和环球音乐多次起诉，并于7月以15亿美元和解作者集体诉讼。此案聚焦模型输出是否复现受版权保护的歌词和旋律结构。",
+  "key_points": [
+   "原告称Anthropic未经授权用274首猫王歌曲训练Claude，包括《Can't Help Falling in Love》等热门作品。",
+   "诉状称Claude可应要求重写或更新猫王歌曲，输出在结构、hook和段落编排上接近原作。",
+   "原告请求永久禁令并索赔每件最高15万美元，274件合计最高约4110万美元。",
+   "Anthropic否认指控并称将全面抗辩；此前已有多起类似版权诉讼缠身。"
+  ],
+  "impact": "对AI行业，训练数据版权合规和输出过滤将成为模型上线前的硬约束；对开发者，音乐、歌词类生成功能需更谨慎，保留数据来源和授权记录；对普通用户，未来AI翻唱、改写歌词可能被限制或过滤，但版权方也可能推动正规授权合作。",
+  "tools": "可关注训练数据溯源项目Data Provenance Initiative、音乐版权识别工具Audible Magic，以及各AI公司版权政策与Claude使用条款；跟进诉讼可查Billboard、CourtListener。"
+ },
+ "lang": "zh"
+}
