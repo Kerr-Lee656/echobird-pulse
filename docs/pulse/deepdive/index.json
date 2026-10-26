@@ -18403,5 +18403,104 @@
   "site_name": "NewsNow",
   "published_at": "2026-10-26T15:55:20.787Z",
   "fetched_at": "2026-10-26T19:56:43.467017+00:00"
+ },
+ "68dfb7cd14f8": {
+  "id": "68dfb7cd14f8",
+  "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+  "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:50:38.510839+00:00"
+ },
+ "3f7382b7697a": {
+  "id": "3f7382b7697a",
+  "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+  "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:50:48.703409+00:00"
+ },
+ "3bc122880e28": {
+  "id": "3bc122880e28",
+  "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push",
+  "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:50:57.471774+00:00"
+ },
+ "858f8823afbc": {
+  "id": "858f8823afbc",
+  "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
+  "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:51:06.492283+00:00"
+ },
+ "0e5a6cc28d8a": {
+  "id": "0e5a6cc28d8a",
+  "url": "https://thenextweb.com/news/softbank-malaysia-50bn-ai-data-centres-anwar",
+  "title": "SoftBank’s Masayoshi Son picks Malaysia for $50bn of AI investment, Anwar says",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:51:18.569007+00:00"
+ },
+ "bf95418527bf": {
+  "id": "bf95418527bf",
+  "url": "https://www.gelonghui.com/live/2730171",
+  "title": "OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:51:37.886443+00:00"
+ },
+ "4a6a782785cc": {
+  "id": "4a6a782785cc",
+  "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
+  "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-26T18:54:00Z",
+  "fetched_at": "2026-10-26T23:51:46.873698+00:00"
+ },
+ "98a71acc806b": {
+  "id": "98a71acc806b",
+  "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
+  "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+  "source": "Ars Technica (科技媒体)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-26T18:50:41Z",
+  "fetched_at": "2026-10-26T23:51:58.591854+00:00"
+ },
+ "1e3ccb6f908d": {
+  "id": "1e3ccb6f908d",
+  "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear",
+  "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-26T18:40:53Z",
+  "fetched_at": "2026-10-26T23:52:09.936775+00:00"
+ },
+ "ea9bf53d9ce5": {
+  "id": "ea9bf53d9ce5",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+  "title": "Nvidia discusses $2k-per-GPU annual fee for software",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-26T17:34:45Z",
+  "fetched_at": "2026-10-26T23:52:19.721084+00:00"
+ },
+ "994a973fc5a5": {
+  "id": "994a973fc5a5",
+  "url": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research",
+  "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T23:52:29.274740+00:00"
  }
 }

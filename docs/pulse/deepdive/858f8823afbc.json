@@ -1,0 +1,23 @@
+{
+ "id": "858f8823afbc",
+ "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
+ "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T23:51:06.492283+00:00",
+ "content": "Volkswagen and Xpeng have won approval to run higher levels of self-driving on public roads in China. VW has started Level 3 road tests in Hefei. Xpeng can now run Level 4 robotaxi services across Guangzhou.\nBoth companies announced the approvals on Monday. Volkswagen Group China said on Weibo that it had received an L3 road-test licence in Hefei. It has begun testing and collecting data on real roads there. It is aiming for L3 technology readiness in 2027.\nRalf Brandstätter, who runs the group’s China business, added a comment under the post, in TNW’s translation from Chinese:\n“We will never push technological progress at the expense of safety,” Brandstätter wrote. “The L3 test qualification lets us test in real traffic in Hefei and collect data at scale.”\nVW will hold its first China technology day in Hefei on 28 October.\nXpeng’s robotaxis go public\nXpeng said in a WeChat post that its robotaxi service, Xpeng Yoyo, now qualifies for Level 4 demonstration operations citywide. That moves the service beyond technical testing towards real operations. Riders will get access through invitation codes at first, with coverage widening step by step.\nXpeng built the robotaxi on its GX SUV. It runs on four of its own Turing AI chips, rated at 3,000 TOPS. Xpeng plans to act as a technology supplier rather than run large fleets itself. It says it is in talks with several European ride-hailing platforms.\nXpeng aims to carry passengers without safety drivers in 2027. Chief executive He Xiaopeng set that target in August, as Phate Zhang reported for CnEVPost.\nA thaw after the Wuhan incident\nThe approvals suggest regulators have moved past this year’s Baidu robotaxi incident in Wuhan, according to Bloomberg. China suspended new robotaxi licences in April and launched a safety review across the industry.\nApprovals resumed in July, with Momenta among the first to receive one, Bloomberg reported. Few other companies have said publicly that they have the green light. Momenta opened its Hong Kong IPO in June.\nBaidu’s Apollo Go has meanwhile won Level 4 approval in Switzerland.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "中国放行大众L3路测与小鹏L4自动驾驶出租车",
+  "background": "中国正推进智能网联汽车分级测试与商业化。今年4月百度萝卜快跑在武汉发生事故后，监管暂停新增Robotaxi牌照并开展安全审查，7月恢复审批。大众与小鹏此时获批，被视为行业监管回暖信号，也显示外资车企与本土新势力在L3/L4路线上的竞速。",
+  "key_points": [
+   "大众获合肥L3道路测试牌照，已在真实交通中采集数据，目标2027年实现L3技术就绪，并将于10月28日举办中国科技日。",
+   "小鹏Robotaxi“小鹏Yoyo”获广州全市L4示范运营资格，从技术测试迈向实际运营，初期采用邀请码，逐步扩大覆盖。",
+   "小鹏Robotaxi基于GX SUV，搭载4颗自研图灵AI芯片，算力3000 TOPS；公司更倾向做技术供应商，正与欧洲网约车平台洽谈。",
+   "监管在武汉萝卜快跑事件后一度暂停新增Robotaxi牌照，7月恢复审批；Momenta率先获批，百度Apollo Go也在瑞士获L4批准。"
+  ],
+  "impact": "对AI行业，L3/L4审批恢复和车企竞争将加速自动驾驶大模型、车端芯片与安全验证落地；开发者可关注车端推理、仿真测试和合规数据闭环机会；普通用户将逐步接触更少安全员的Robotaxi，但规模化仍需时间，安全与责任认定是普及关键。",
+  "tools": "可关注百度Apollo、Autoware开源自动驾驶栈、CARLA仿真、ROS 2，以及小鹏图灵芯片/端到端智驾相关公开资料。"
+ },
+ "lang": "zh"
+}

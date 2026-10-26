@@ -8575,5 +8575,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-26T17:11:35Z",
   "fetched_at": "2026-10-26T19:59:13.596955+00:00"
+ },
+ "ca2a990819e5": {
+  "id": "ca2a990819e5",
+  "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results/",
+  "title": "Gemini 4 Carbon early test results are in ahead of release",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T23:13:42Z",
+  "fetched_at": "2026-10-26T23:53:37.308252+00:00"
+ },
+ "7007e9047839": {
+  "id": "7007e9047839",
+  "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+  "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T23:08:10Z",
+  "fetched_at": "2026-10-26T23:53:52.900703+00:00"
+ },
+ "e258fe41ba82": {
+  "id": "e258fe41ba82",
+  "url": "https://www.anthropic.com/news/distillation-defenses",
+  "title": "Anthropic: Strengthening our defenses against distillation attacks",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T23:06:40Z",
+  "fetched_at": "2026-10-26T23:54:03.057579+00:00"
+ },
+ "c4a9d54baba2": {
+  "id": "c4a9d54baba2",
+  "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
+  "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T23:06:37Z",
+  "fetched_at": "2026-10-26T23:54:16.600696+00:00"
+ },
+ "e77549dba84a": {
+  "id": "e77549dba84a",
+  "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+  "source": "Hacker News (31pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T22:41:48Z",
+  "fetched_at": "2026-10-26T23:54:26.746562+00:00"
+ },
+ "55edade81a50": {
+  "id": "55edade81a50",
+  "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+  "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
+  "source": "Hacker News (7pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T21:45:23Z",
+  "fetched_at": "2026-10-26T23:54:39.864826+00:00"
+ },
+ "c05429c34d72": {
+  "id": "c05429c34d72",
+  "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+  "title": "AI models cost more when you don't use English",
+  "source": "Hacker News (21pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T21:03:22Z",
+  "fetched_at": "2026-10-26T23:54:54.422191+00:00"
  }
 }

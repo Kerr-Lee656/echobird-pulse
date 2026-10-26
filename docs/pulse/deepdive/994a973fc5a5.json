@@ -1,0 +1,24 @@
+{
+ "id": "994a973fc5a5",
+ "url": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research",
+ "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T23:52:29.274740+00:00",
+ "content": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research (itsfoss.com) 24\n\t\t\t\n\t\t \t\n\t\t\t\t\"59% of maintainers report growing contribution volume since the rise of GenAI,\" according to a new study published by Linux Foundation Research.  But 25% of their incoming pull requests \"are estimated to be low-quality, also known as 'AI slop'.\"  And on large projects, 69% see growing contributions — and estimate that 31% are low-quality/AI slop.\nSo what do these results show us? \"Generative AI is fundamentally changing how people participate in open source,\" says the head of Open Source Ecosystem Development at Huawei's R&D subsidiary Futurewei, which helped support the study.  Specifically GenAI is \"lowering barriers to contribution\" but also \"creating new challenges\" for maintainers and communities.  Their recommendation?  \"Build the governance, transparency and trust mechanisms that allow AI-assisted contributions to strengthen, but not overwhelm, the open source ecosystem.\"  \n\"Open source projects need to design for a growing AI-generated contributor base, not simply react to it,\" said Hilary Carter, SVP of Research at the Linux Foundation. \"That means setting clear expectations for GenAI, putting responsibility for testing and disclosure on contributors and giving maintainers better tools to manage incoming pull requests. If we get those fundamentals right, AI can expand participation without overburdening and increasing costs for maintainers.\" \nMore from the blog It's FOSS:\nLF Research is the Linux Foundation's research arm. It was set up in 2021 and publishes studies on how open source is built and used, drawing on surveys and project data. Its latest report, Navigating Open Source Software Development in the Generative AI Era, surveyed 234 contributors and maintainers on how generative AI is affecting the way open source gets made...\n64% say reviews now take longer. Burnout is their top concern at 63%, narrowly ahead of contribution quality at 60%.\nYou will also find that policies have not caught up to the AI-assisted coding and vulnerability reporting trend.  Of the 119 respondents who answered the question, 35% said their project has a formal policy permitting AI use. Another 32% have none and no plans for one, 23% plan to write one, and 10% ban AI contributions outright.... \nMost maintainers (71%) say AI makes it easier for newcomers to start contributing.   \nOther interesting findings:\n- \"Respondents estimate average time reductions across all six OSS development activities measured, including proposal discussions (19%) and code authoring (52%). For high-complexity tasks, however, 21% of respondents report taking more time when using GenAI.\"\n- \"71% of maintainers agree GenAI reduces barriers to entry for OSS, but 53% of maintainers disagree that GenAI has improved community trust.\"\n- Developers are reinvesting the time they save back into open source: 66% report using productivity gains to address technical debt, 63% to develop new features and 58% for learning and upskilling.\n- Continued investment in human mentorship remains important: 46% of maintainers say GenAI increases the need for mentorship of new contributors, compared with 32% who say it decreases that need.\n OpenSSF and LF AI & Data also helped support the study.",
+ "report": {
+  "summary": "研究称约25%的入站PR是低质AI生成内容",
+  "background": "生成式AI降低了开源贡献门槛，维护者收到的PR数量上升但质量参差。Linux基金会研究部门调查234名贡献者与维护者，发布《Navigating Open Source Software Development in the Generative AI Era》，并由Futurewei、OpenSSF和LF AI & Data支持，聚焦AI对开源开发流程、评审负担与社区治理的影响。",
+  "key_points": [
+   "59%维护者称GenAI兴起后贡献量增长；大型项目中69%看到增长，并估计31%为低质/AI slop。",
+   "25%的入站PR被估计为低质AI slop；64%表示评审更耗时，63%担心倦怠，60%担心贡献质量。",
+   "71%认为AI降低新贡献者门槛，但53%不认为AI提升了社区信任；46%认为更需要人类导师指导。",
+   "治理明显滞后：35%项目有允许AI的正式政策，32%无政策也无计划，10%直接禁止AI贡献。",
+   "效率提升不均：代码编写时间平均降52%，但高复杂度任务有21%反而更耗时；节省时间多用于技术债、新功能和学习。"
+  ],
+  "impact": "对AI行业，代码生成需配套质量与治理能力；对开发者，维护者要承担测试与披露责任，评审和导师负担上升；对普通用户，开源软件质量与供应链安全取决于项目能否建立透明、可执行的AI贡献规则。",
+  "tools": "可关注GitHub Copilot、Cursor等AI编码工具，CodeRabbit、Greptile等AI PR评审工具，以及OpenSSF Scorecard、Sigstore等开源供应链安全项目。"
+ },
+ "lang": "zh"
+}

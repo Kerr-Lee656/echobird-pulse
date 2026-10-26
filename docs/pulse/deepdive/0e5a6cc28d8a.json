@@ -1,0 +1,24 @@
+{
+ "id": "0e5a6cc28d8a",
+ "url": "https://thenextweb.com/news/softbank-malaysia-50bn-ai-data-centres-anwar",
+ "title": "SoftBank’s Masayoshi Son picks Malaysia for $50bn of AI investment, Anwar says",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T23:51:18.569007+00:00",
+ "content": "SoftBank founder Masayoshi Son has picked Malaysia for $50bn of investment in AI, new technology and data centres. Prime minister Anwar Ibrahim made the announcement on Saturday.\nAnwar said Son told him about the plan during a video call on Tuesday. He spoke in Malacca, at the launch of a national cost of living plan. That is according to the verbatim text his office published in Malay. Bloomberg was first to report the remarks in English.\n“He said he had chosen Sarawak, Kuching and the peninsula to expand his investment, among the largest investments in this region, worth $50bn. In what fields? In AI, new technology, data centres,” Anwar said, in TNW’s translation.\nSoftBank has not announced the figure. Its press releases since 8 October carry no mention of it.\nA framework deal in Sarawak\nThat day, SoftBank signed a framework agreement in Kuching. Its partners were the ride-hailing group Grab and Petroleum Sarawak Berhad (PETROS), the state energy company.\nThe three companies agreed to explore an AI and digital infrastructure platform in Sarawak. They will draw up a roadmap to build it in phases, covering AI compute, robotics and local workforce development. The agreement names no amount. It does not commit the companies to sign final deals or carry out the project.\nSoftBank is expected to fund only part of the $50bn. Financing and other partners would cover the rest, Nikkei Asia reported, according to Fortune. TNW has not independently verified that report.\nJobs and political stability\nAnwar told the audience, many of them students, that the investment would bring new and better jobs. He tied it to political stability.\n“If there is no investment, if people have no confidence in this government, if the leadership keeps quarrelling, people will not be interested in coming,” he said.\nIn the same speech, Anwar said politics in Malacca was heating up. The state holds elections on 14 November, as Jay Ganglani noted for Fortune.\nAnwar also urged better skills in AI, digitalisation and chips. He wants Malaysia to move from back-end work to front-end technology.\nMalaysia recorded RM385.7bn of data-centre-related investment from 2021 to mid-2026. That figure comes from the Malaysian Investment Development Authority. In September, OpenAI became the anchor customer for a Firmus site there.\nSon has been funding his AI bets with a new $60bn bond and loans secured on its OpenAI stake.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "马总理称孙正义拟投500亿美元建AI与数据中心",
+  "background": "软银近年大举押注AI，孙正义通过新债券及以OpenAI持股抵押贷款筹资。马来西亚正成为东南亚数据中心热土，2021年至2026年中获3857亿林吉特相关投资，OpenAI也已落地。此次消息由马总理安瓦尔在地方活动披露，正值马六甲州选前，政治意味较浓。",
+  "key_points": [
+   "安瓦尔称孙正义在视频通话中选定砂拉越古晋和半岛，投资额500亿美元，聚焦AI、新技术和数据中心；软银未确认该数字。",
+   "10月8日软银与Grab、PETROS在古晋签框架协议，探索砂拉越AI与数字基础设施平台，分阶段覆盖AI算力、机器人和人才，但无金额且非约束性。",
+   "报道称软银只出资一部分，其余由融资和其他伙伴承担；该说法未获TNW独立核实，项目最终落地仍有不确定性。",
+   "安瓦尔将投资与就业、政治稳定挂钩，并呼吁提升AI、数字化和芯片技能；马来西亚希望从后端工序转向前端技术。",
+   "马来西亚数据中心投资激增，2021至2026年中达3857亿林吉特；OpenAI成Firmus站点锚定客户，区域算力竞争升温。"
+  ],
+  "impact": "对AI行业，若落地将强化东南亚算力枢纽和软银全球AI布局，但非约束协议与未确认金额意味短期象征意义大于实质。对开发者，区域算力与云服务供给可能增加，但需观察电价、人才和监管。对普通用户，长期可能带来就业与更本地化AI服务，短期难见价格或产品变化。",
+  "tools": "可关注马来西亚投资发展局MIDA数据、砂拉越能源与PETROS公告、Grab与软银投资者关系页面；技术侧可跟踪AI数据中心涉及的NVIDIA GPU、液冷、Kubernetes、Ray、Slurm等算力调度开源栈。"
+ },
+ "lang": "zh"
+}
