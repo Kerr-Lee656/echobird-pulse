@@ -8404,5 +8404,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-25T18:18:04Z",
   "fetched_at": "2026-10-25T22:35:59.380479+00:00"
+ },
+ "8782e21ebeda": {
+  "id": "8782e21ebeda",
+  "url": "https://github.com/aaif-goose/goose",
+  "title": "aaif-goose/goose — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-26T04:41:50.515831+00:00"
+ },
+ "863d73f768e2": {
+  "id": "863d73f768e2",
+  "url": "https://arxiv.org/abs/2610.31985",
+  "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:42:05.994803+00:00"
+ },
+ "2f368a303e91": {
+  "id": "2f368a303e91",
+  "url": "https://arxiv.org/abs/2610.32024",
+  "title": "BARC-Bench: Benign Asks, Risky Consequences",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:42:22.452817+00:00"
+ },
+ "14628d0452b3": {
+  "id": "14628d0452b3",
+  "url": "https://arxiv.org/abs/2610.32177",
+  "title": "$\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:42:32.846521+00:00"
+ },
+ "5322d73debe4": {
+  "id": "5322d73debe4",
+  "url": "https://arxiv.org/abs/2610.32196",
+  "title": "SWE-Shift: Evaluating Coding Agents in Evolving Workspaces",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:42:46.806787+00:00"
+ },
+ "89afdd6bfd5d": {
+  "id": "89afdd6bfd5d",
+  "url": "https://arxiv.org/abs/2610.32229",
+  "title": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:42:57.770299+00:00"
+ },
+ "f17d395d9610": {
+  "id": "f17d395d9610",
+  "url": "https://arxiv.org/abs/2610.32253",
+  "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:43:12.679859+00:00"
+ },
+ "712abb20a14f": {
+  "id": "712abb20a14f",
+  "url": "https://arxiv.org/abs/2610.32285",
+  "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-26T04:00:00.000Z",
+  "fetched_at": "2026-10-26T04:43:22.764205+00:00"
  }
 }
