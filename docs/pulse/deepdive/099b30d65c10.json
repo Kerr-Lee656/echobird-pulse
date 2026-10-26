@@ -1,0 +1,24 @@
+{
+ "id": "099b30d65c10",
+ "url": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
+ "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T19:55:38.483365+00:00",
+ "content": "Replit moved most of its AI spending from Anthropic to OpenAI in recent months after OpenAI offered a discount of more than 30%, The Information reported on Saturday.\nThe contract is worth over $100M a year, a person familiar with the deal told The Information, in a story by Laura Bratton and Stephanie Palazzolo. Replit had planned to stay with Anthropic, which had discounted its models before. But Anthropic would not extend that discount without a bigger spending commitment, the report said.\nTNW has not independently verified the figures. In September, The Information also reported that Anthropic ends discounts once customers use up their committed tokens.\nOther customers moving\nThe OpenAI discounts are pulling other customers too. Rippling chief executive Parker Conrad told The Information that OpenAI models now handle 52% of the HR software company’s coding work, up from 16% in May. Anthropic’s share fell from 57% to 18% over the same period.\nDataCamp chief executive Jonathan Cornelissen told The Information that OpenAI’s pricing cut his costs by 80% to 90%. A US bank with more than $7bn in assets had its ChatGPT seats doubled to 500 staff at no extra charge, the report said. It pays under $7 per user, against the usual $20 or more.\nReplit’s own account\nReplit chief executive Amjad Masad had already said at TechCrunch Disrupt that OpenAI’s models perform better on its benchmarks, TechCrunch reported.\n“It was a decision based on both cost, partnership, and performance.” Amjad Masad, Replit\nMasad later told TechCrunch that users can still pick Claude.\n“Replit remains model agnostic. Our users can choose Anthropic’s Claude or other supported models.” Amjad Masad, to TechCrunch\nA price war since June\nBoth labs have cut list prices sharply this year. On 22 September, OpenAI halved GPT-6 prices with its Sol and Luna models. The same day, Anthropic launched a cheaper Opus 5.5. Anthropic said the new model needs less computing power to run than Opus 5.\nChinese open-weight models add pressure from below. Moonshot released Kimi K3.1 Pro on Friday, with open weights due on 4 November.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI以超30%折扣撬走Anthropic大客户，AI价格战升温",
+  "background": "过去半年，OpenAI与Anthropic从模型能力比拼转向直接的价格厮杀。Anthropic的折扣通常绑定承诺消费额，token用尽即恢复原价；OpenAI则用更大幅度和更灵活的商业条款争抢头部客户。Replit原本计划续用Anthropic，但因对方不肯在无更高承诺的情况下延续折扣，转而把每年价值逾1亿美元的合约大头交给OpenAI。与此同时，Moonshot等中国厂商持续发布开放权重模型，从价格底部施压，使闭源双寡头的定价空间进一步收窄。",
+  "key_points": [
+   "Replit将大部分AI支出从Anthropic迁至OpenAI，原因是OpenAI给出超过30%的折扣，合约年价值逾1亿美元。",
+   "Anthropic此前也给过折扣，但续期要求更高的承诺消费额，且token额度用尽即终止折扣，条款刚性成为丢单关键。",
+   "外溢效应明显：Rippling的编程任务中OpenAI份额从16%升至52%，Anthropic同期从57%降至18%。",
+   "企业采购出现“加量不加价”：某资产超70亿美元的美国银行ChatGPT席位翻倍至500个，单价低于7美元，远低于常规20美元。",
+   "9月22日双方同日降价，OpenAI用Sol与Luna把GPT-6价格砍半，Anthropic推出算力需求更低的Opus 5.5；Kimi K3.1 Pro等开源权重模型继续压价。"
+  ],
+  "impact": "对AI行业，竞争焦点正从“最强模型”转向单位token性价比与商务条款，头部实验室毛利承压，中间厂商空间被挤压，开源权重模型成为价格锚点。对开发者，迁移成本与议价门槛同步下降，但折扣往往绑定承诺消费量，需警惕供应商锁定，多模型抽象层正从可选变为必需。对普通用户，短期意味着更便宜的订阅、更慷慨的额度和更多免费功能，但低价可能以限速、体验分层或数据使用为代价。",
+  "tools": "想跟进可关注LiteLLM、OpenRouter做多模型路由与成本对比；用vLLM、SGLang自托管Kimi K3.1 Pro等开放权重模型压成本；同时留意各家prompt caching与批量API折扣政策。"
+ },
+ "lang": "zh"
+}

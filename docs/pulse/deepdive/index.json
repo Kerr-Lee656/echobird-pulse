@@ -18322,5 +18322,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-26T08:27:44Z",
   "fetched_at": "2026-10-26T12:53:57.574999+00:00"
+ },
+ "07a0f1baff65": {
+  "id": "07a0f1baff65",
+  "url": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads",
+  "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:54:53.099488+00:00"
+ },
+ "dde96089a05a": {
+  "id": "dde96089a05a",
+  "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement",
+  "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:55:06.279416+00:00"
+ },
+ "243aa124618b": {
+  "id": "243aa124618b",
+  "url": "https://thenextweb.com/news/sweden-government-blocks-chatgpt-claude",
+  "title": "Sweden’s Government Offices block ChatGPT and Claude on work computers",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:55:13.840774+00:00"
+ },
+ "099b30d65c10": {
+  "id": "099b30d65c10",
+  "url": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
+  "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:55:38.483365+00:00"
+ },
+ "da9648eb8134": {
+  "id": "da9648eb8134",
+  "url": "https://thenextweb.com/news/ai-liability-rules-eu-parliament-split",
+  "title": "EU lawmakers split over bringing back AI liability rules",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:55:47.573879+00:00"
+ },
+ "3213fa6bed92": {
+  "id": "3213fa6bed92",
+  "url": "https://www.techradar.com/pro/security/the-uk-government-wants-to-invest-gbp100-million-in-a-world-first-ai-biosecurity-lab-openai-and-anthropic-to-supply-gbp200-million-in-credits-to-help-safeguard-national-security",
+  "title": "The UK government wants to invest £100 million in a ‘world first’ AI Biosecurity Lab — OpenAI and Anthropic to supply £200 million in credits to help safeguard national security",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:55:55.217565+00:00"
+ },
+ "b5438b943c67": {
+  "id": "b5438b943c67",
+  "url": "https://www.businessinsider.com/meta-equity-ai-funding-stock-sale-2026-10",
+  "title": "Meta looks to raise up to $95 billion from stock sales to fund its huge AI build-out",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:56:06.893553+00:00"
+ },
+ "1d8545dc01cc": {
+  "id": "1d8545dc01cc",
+  "url": "https://m.thepaper.cn/newsDetail_forward_34335837",
+  "title": "Meta 拟融资 950 亿美元砸向 AI，英伟达、AMD、博通有意认购至多 50 亿美元股票",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-26T19:56:31.830749+00:00"
+ },
+ "881b806f2898": {
+  "id": "881b806f2898",
+  "url": "https://juejin.cn/post/7699871906380808233",
+  "title": "1.4万亿没人接，OpenAI自己把价砍了1500亿",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-10-26T15:55:20.787Z",
+  "fetched_at": "2026-10-26T19:56:43.467017+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "243aa124618b",
+ "url": "https://thenextweb.com/news/sweden-government-blocks-chatgpt-claude",
+ "title": "Sweden’s Government Offices block ChatGPT and Claude on work computers",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T19:55:13.840774+00:00",
+ "content": "Sweden’s Government Offices, which runs the work of the prime minister and the ministries, has blocked staff from using OpenAI’s ChatGPT and Anthropic’s Claude on their work computers. The block took effect today.\nEkot, the news service of public broadcaster Sveriges Radio, first reported the plan on 23 October.\nStaff will no longer be able to reach the two chatbots through a web browser, the Government Offices told SVT by email. Instead, they are being sent to Microsoft’s Copilot. It said it has checked that tool and made it safer.\nThe goal is for staff to use only tools it has approved. The block covers the web versions of both chatbots. Mikael Wettercrantz, its head of digital services, told Ekot that AI tools used without a contract can put the safety of its data at risk.\nSome staff can still use ChatGPT and Claude through Intric, a Stockholm company that runs a platform for building AI assistants. Intric won a deal with the Government Offices in July. It says its platform runs on servers in Sweden, with no need for foreign cloud firms.\nOther Swedish agencies have taken similar steps. The Swedish Tax Agency and the National Board of Institutional Care have also blocked AI services, Ekot found. The Swedish Enforcement Authority is considering doing the same, SVT reported.\nBefore this, it had already limited the use of DeepSeek, the Chinese AI chatbot. Last week, the US went further and banned DeepSeek products across its federal civilian agencies, BleepingComputer reported.\nBig organisations elsewhere have also put limits on outside AI tools. In the US, Charles Schwab is blocking AI agents such as Meta’s Muse from moving client money.\nOpenAI and Anthropic have not publicly commented on the Swedish decision.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "瑞典政府办公室在工作电脑上封禁ChatGPT与Claude，改用Copilot",
+  "background": "瑞典政府办公室负责首相及各部委的日常运作，此前已对部分AI工具设限，例如限制中国DeepSeek的使用。此次封禁由瑞典广播电台Ekot于10月23日率先披露，11月正式生效，理由是无合同约束的AI工具可能危及政府数据安全。类似趋势正在扩散：瑞典税务局、国家机构护理委员会已封禁部分AI服务，执法局也在考虑跟进；美国上周更直接禁止联邦民事机构使用DeepSeek产品。这说明各国公共部门正在把“AI工具准入”纳入数据主权与合规框架，从放任试用转向白名单管理。",
+  "key_points": [
+   "瑞典政府办公室员工无法再通过浏览器访问ChatGPT和Claude网页版，官方推荐改用微软Copilot，并称已对该工具做过安全审查。",
+   "数字服务负责人指出，未经合同授权就使用的AI工具可能泄露政府敏感数据，因此目标是把员工限制在获批工具清单内。",
+   "例外通道是一家斯德哥尔摩公司Intric：其AI助手平台运行在瑞典本土服务器上，7月已与政府签约，无需依赖外国云厂商。",
+   "这一封禁并非孤例，瑞典税务局等机构已跟进，美国则在上周禁止联邦民事机构使用DeepSeek产品。",
+   "私营部门同样在收紧：美国嘉信理财正阻止Meta的Muse等AI代理直接调动客户资金，划出AI操作资金的红线。"
+  ],
+  "impact": "对AI行业而言，公共部门采购正从“个人试用”转向“本地化、有合同的平台”，数据主权成为核心竞争力，跨境SaaS模式承压。对开发者来说，面向政企的产品必须提供本地部署、审计日志和明确的数据流向说明，否则难以进入白名单。对普通用户，短期内影响有限，但政府示范效应可能带动更多机构收紧AI使用规则，个人使用与工作使用的边界会更加清晰。",
+  "tools": "想跟进可关注：微软Copilot（政企合规方案）、Intric（瑞典本土部署的开源AI助手平台，值得研究其本地化架构）、Anthropic Claude与OpenAI的企业版合规条款，以及各国政府发布的数据保护与AI采购指南。"
+ },
+ "lang": "zh"
+}

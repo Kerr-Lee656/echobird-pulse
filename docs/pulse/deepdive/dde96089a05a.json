@@ -1,0 +1,23 @@
+{
+ "id": "dde96089a05a",
+ "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement",
+ "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T19:55:06.279416+00:00",
+ "content": "Elvis Presley's estate is suing Anthropic over copyright infringement\nStakeholders said Anthropic trained its models on 250-plus Elvis songs and demanded $41 million in compensation.\nA new lawsuit over a modern issue, AI copyright infringement, is reaching back into the past. The owners of Elvis Presley's music just sued Anthropic for $41 million, claiming the AI company trained its models on 274 Elvis songs without permission, The New York Times reported. That amount for a single artist who died nearly 50 years ago shows how expensive alleged musical plagiarism can be for AI companies.\nStakeholders in Elvis Presley's back catalog include Authentic Brands Group, Raleigh Music Publishing, multiple trusts and at least one individual. They accuse Anthropic of bypassing DRM protections and removing or altering copyright management information from 247 songs. Those include hits like Don't Be Cruel, Can't Help Falling in Love and A Little Less Conversation, according to the lawsuit filed on October 23rd.\n\"The Elvis Plaintiffs bring this action to enforce these exclusive rights against the Defendant that has built its entire business model based on copyright infringement at a scale never seen before,\" lead attorney Richard Busch wrote. \"The Elvis Plaintiffs' iconic collective catalog contains some of the most influential and enduring musical compositions in human history.\" The complaint notes that Elvis sold over a billion records and that his works \"are some of the most valuable in the world.\"\nLike OpenAI and other AI companies, Anthropic is facing multiple lawsuits for training their models on copyrighted music and other materials. Sony and Warner recently sued Anthropic for \"blatant violation\" of copyright law involving thousands of works. Prior to that, Universal Music and Concord Music Group filed a similar claim against Anthropic for illegally downloading and training on 20,000 copyrighted songs. Each lawsuit is claiming damages in the billions of dollars.\nThe Elvis suit, though, is notable because it centers on a single musician who died decades before AI was a thing (though some have tried to recreate him as a robot). Anthropic has previously claimed that training its AI models on copyrighted music constitutes \"fair use.\" In a short statement to Engadget, Anthropic said that \"we disagree with the claims and intend to defend this case fully.\"",
+ "report": {
+  "summary": "猫王遗产方起诉Anthropic侵权",
+  "background": "生成式AI公司近年因训练数据版权频遭诉讼。Anthropic已先后被索尼、华纳、环球和Concord等音乐公司起诉，核心争议是未经授权用受版权保护的音乐训练模型是否属于“合理使用”。猫王遗产方此次加入战局，称Anthropic训练了274首猫王歌曲并绕过DRM、篡改版权管理信息，索赔4100万美元。Anthropic表示不认同并将抗辩。",
+  "key_points": [
+   "原告包括Authentic Brands Group、Raleigh Music Publishing、多个信托及个人，指控Anthropic未经许可训练274首猫王歌曲。",
+   "诉状称Anthropic绕过DRM并删除或篡改247首歌的版权管理信息，索赔4100万美元，指其商业模式建立在大规模侵权上。",
+   "索尼、华纳、环球和Concord此前已就数千至2万首作品起诉Anthropic，单案索赔常达数十亿美元，版权战持续升级。",
+   "Anthropic坚持训练受版权音乐属“合理使用”，称不认同猫王案指控并将全面抗辩；案件可能成为AI音乐版权重要判例。"
+  ],
+  "impact": "对AI行业，训练数据合规成本和法律风险继续上升，可能推动授权合作与数据过滤；对开发者，使用音乐数据集需更谨慎，保留来源和版权信息，避免绕过DRM；对普通用户，短期产品功能未必受影响，但音乐生成、翻唱和AI创作工具可能受限或涨价。",
+  "tools": "若跟进版权合规，可关注Hugging Face Datasets的数据卡与许可筛选、Data Provenance Initiative、RAIL许可证，以及Audible Magic/Content ID等版权识别方案。"
+ },
+ "lang": "zh"
+}

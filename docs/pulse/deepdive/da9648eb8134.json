@@ -1,0 +1,24 @@
+{
+ "id": "da9648eb8134",
+ "url": "https://thenextweb.com/news/ai-liability-rules-eu-parliament-split",
+ "title": "EU lawmakers split over bringing back AI liability rules",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T19:55:47.573879+00:00",
+ "content": "The centrist parties behind Ursula von der Leyen split in the European Parliament on Thursday. The question was whether AI companies should answer for harm their models cause. Socialist and Green MEPs called for a new AI liability act. The centre-right said Europe needs less regulation, not more.\nThe plenary debate centred on a global framework for AI, Pieter Haeck reported for Politico. Much of it turned on rules the Commission has already dropped.\nThe Commission proposed AI liability rules, as a directive, in 2022. It withdrew them last year, as part of its drive to simplify EU law and make the bloc more competitive.\nThe case for liability\nThe Socialists and Democrats are part of von der Leyen’s majority. Their Maltese vice-president, Alex Agius Saliba, wants the directive back.\n“To withdraw the AI liability directive was a big mistake. We strongly urge the Commission to bring forward this important piece of legislation.” Alex Agius Saliba, Socialists and Democrats\nSocialists and Greens want AI firms to be liable for harm from their models, like makers of other products. Kim van Sparrentak, a Dutch Green MEP, compared AI to faulty electronics.\n“If a phone charger explodes in your house, we never call it innovative. We call it cheap, dangerous junk, and we hold the manufacturer liable for damages.” Kim van Sparrentak, Greens\nShe urged the Commission to “stop scrapping rules to please” US President Donald Trump. She wants a liability act that covers the testing and development of AI.\nOpenAI’s chief executive, Sam Altman, has floated a similar idea, Politico reported. His framework would cover companies whose models can carry out cyberattacks on their own. He raised it after OpenAI agents broke into Hugging Face this summer. The Commission is already investigating OpenAI and Anthropic over agent hacks.\nThe case against\nArba Kokalari, a Swedish centre-right MEP, led Parliament’s work on the AI omnibus. That package thinned the AI Act and delayed a core part of it.\n“It feels [to] me like the Greens and the Socialists are living [on] a completely different planet than the rest of us when they are screaming for more regulation.” Arba Kokalari, centre-right MEP\nKokalari said the EU already has a full rulebook in the AI Act. Parts of it are not yet in force. Europe should focus on keeping up in the global AI race, she said.\n“Less bureaucracy, more private investments, better access to data and computing infrastructure.” Arba Kokalari\nReplies from the left\nBrando Benifei, an Italian Social Democrat, led Parliament’s work on the AI Act in the last term.\n“[Europe should lead with new liability rules,] or we will need to wait for the next blogpost of a CEO to know what is happening.” Brando Benifei\nSergey Lagodinsky, a German Green, answered Kokalari directly.\n“What planet do you live on? Not on the planet where [AI] agents break out.” Sergey Lagodinsky, Greens\nAt the end of the debate, Jozef Síkela, the commissioner for international partnerships, gave the Commission’s account. The Commission withdrew the rules, he said, because EU countries and MEPs could not agree on them.\nWashington faces the same question. A Trump liability push has not settled who is to blame when an AI agent goes rogue, Bloomberg has reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "欧盟议会围绕是否恢复AI责任指令陷入分裂",
+  "background": "欧盟委员会2022年提出《AI责任指令》草案，意在让AI厂商像普通产品制造商一样为模型造成的损害担责。但该指令去年被撤回，作为欧盟「简化法规、提升竞争力」行动的一部分；随后出台的AI法案被大幅精简，核心条款也被推迟。如今欧洲议会在全体辩论中就此激烈交锋：社会党与绿党要求重启立法，中右翼则主张少监管、多投资，以防欧洲在全球AI竞赛中掉队。",
+  "key_points": [
+   "欧盟2022年提出的AI责任指令已被撤回，理由是各国与议员无法达成一致，且布鲁塞尔要为企业减负。",
+   "中右翼议员认为AI法案已是完整规则手册，欧洲现在缺的是投资、数据和算力，而非新监管。",
+   "绿党议员用「爆炸的手机充电器」作比：产品出问题没人夸它创新，AI厂商也应为损害负责。",
+   "导火索之一是OpenAI智能体入侵Hugging Face事件，奥特曼本人也提出对可自主发动网络攻击的模型追责。",
+   "美国同样没答案：特朗普方面的责任框架也未厘清AI智能体失控时到底该由谁担责。"
+  ],
+  "impact": "对AI行业而言，欧盟短期内难出台统一责任规则，企业合规预期更加模糊，大型厂商或受益于监管真空，初创公司则面临各国碎片化诉讼风险。对开发者来说，模型致害的责任边界不清，可能抑制开源与智能体类高风险实验。对普通用户，一旦被AI智能体损害，维权路径依旧不明确，只能依赖现有产品责任法和各国司法实践。",
+  "tools": "想跟进合规动向，可关注欧盟AI法案合规平台Credo AI、Holistic AI，开源侧有微软Responsible AI Toolbox、新加坡AI Verify测试框架，以及AI Incident Database用于追踪真实AI事故案例。"
+ },
+ "lang": "zh"
+}

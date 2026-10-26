@@ -1,0 +1,24 @@
+{
+ "id": "07a0f1baff65",
+ "url": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads",
+ "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-26T19:54:53.099488+00:00",
+ "content": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads (thehackernews.com) 20\n\t\t\t\n\t\t \t\n\t\t\t\tThe blog Android Authority offers this TLDR:\nGoogle updated its privacy policy to clarify that it could use information shared through Personal Intelligence to personalize ads.  Gmail, Drive, and Photos content isn't used for targeted ads by default, but connecting them to eligible Google services could change that. \nDigital Trends explains:\nGoogle has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads.   However, since October 16, 2026, its privacy policy adds a catch. The promise lapses if you let other ad-showing Google services use that content. That means using Personal Intelligence, an opt-in tool that lets Google's AI search read your connected apps, does exactly that (via Google).\nIf you ask Google's AI Mode where to eat near your hotel, and it can identify your hotel from the booking confirmation in Gmail, find the location in Maps, and then suggest a few places you might like. That's the helpful half.   The twist, however, is that AI Mode can also show sponsored results. Google mentions that the personalized ads follow what the question and answer are about. So, while your inbox never goes to an advertiser, it can quietly shape the answer, which, in turn, shapes the ads. \nGoogle's defense is elaborate. First, it says connecting the apps is optional. Second, advertisers can't see the information or content Google accesses in your Workspace apps (including your inbox and photos). Finally, sensitive topics like health are off-limits. \nArs Technica shares the response they got from a Google spokesperson: that Google isn't scanning your entire inbox to feed their advertising profiles, but if you choose to pipe your personal data into an AI search tool — then the ads Google shows you could be based on that information.\nIf you want to ensure ads never use your personal data in this way, you'll need to make sure Personal Intelligence is turned off. The easiest way is to access the Gemini settings for Personal Intelligence and disable the connected apps. These settings are also a few levels deep in your main Google account settings under Data & privacy > Personalization settings > Manage Personalized Recommendations in Search Services > Connected Content Apps. From there, you can disable connections to Workspace and Google Photos.",
+ "report": {
+  "summary": "谷歌隐私政策改口：接入AI搜索的邮件相册数据可影响广告",
+  "background": "多年来，谷歌一直明确承诺：Gmail、Drive、Photos 里的内容不会被用来做广告个性化，这也是企业级 Workspace 用户信任它的基础。但从 2026 年 10 月 16 日起，新版隐私政策增加了一项例外：一旦你把这些内容接入其他会展示广告的谷歌服务，上述承诺就不再适用。触发条件正是 Personal Intelligence，也就是让 Google AI 搜索（AI Mode、Gemini）读取已连接应用的可选功能。行业背景是，AI 搜索要从“通用问答”走向“懂你的助手”，就必须读取个人上下文；而广告又是谷歌的核心收入，因此“个人上下文→答案→广告”的间接变现方式，正在成为它新的关注重点。",
+  "key_points": [
+   "政策条款本身没变，变的只是一项例外：只要把 Gmail、Drive、Photos 接入 Personal Intelligence，这些数据就可能参与广告个性化，默认关闭并不等于永久豁免。",
+   "广告主拿不到你的邮件原文，但机制是间接的：AI 依据邮件、地图等信息生成回答，回答里再插入赞助结果，你的私人数据就这样悄悄影响了广告选择。",
+   "谷歌给出三条防护措施：功能自愿开启，广告主无法看到 Workspace 内容和照片，健康等敏感主题被排除在外。",
+   "关闭路径比较深：需要在 Gemini 设置里断开 Personal Intelligence 的已连接应用，或进入账号的“数据与隐私 > 个性化设置 > 搜索服务推荐 > 已连接内容应用”逐项关闭。",
+   "这是一次典型的“政策追认产品”：先上线能读取个人数据的 AI 功能，再更新隐私条款为后续变现铺路，而用户往往在条款生效后才会察觉。"
+  ],
+  "impact": "对 AI 行业来说，“用个人上下文来变现”从灰色地带走向公开：微软、Meta、苹果都得选一边，个性化助手与广告之间的界线会变成新的竞争话题。对开发者来说，接入平台级个人数据的 API 时需要重新评估合规风险，“读取用户数据”这一条会在企业采购和隐私审计中被重点检查。对普通用户来说，短期内体验变化很小，但“我的邮件会不会影响看到的广告”已经是一个真实存在的问题，值得花两分钟检查一次开关；企业和涉及敏感信息的用户尤其应该默认关闭。",
+  "tools": "想自己掌控边界，可以先在 Google 账号里检查 Personal Intelligence 与已连接应用的开关，并定期导出或清理 Gemini 应用活动记录。如果想完全绕开这类云端读取，可以试试本地化方案：Open WebUI 或 Ollama 搭配本地模型、Perplexica（开源 AI 搜索）、Khoj（个人知识库问答），数据留在自己的机器上。"
+ },
+ "lang": "zh"
+}

@@ -8521,5 +8521,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-26T10:09:25Z",
   "fetched_at": "2026-10-26T12:59:09.376864+00:00"
+ },
+ "e51abe7876da": {
+  "id": "e51abe7876da",
+  "url": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
+  "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+  "source": "Tibo",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-26T19:24:11.000Z",
+  "fetched_at": "2026-10-26T19:57:34.776535+00:00"
+ },
+ "756497bb4592": {
+  "id": "756497bb4592",
+  "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+  "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share",
+  "source": "Hacker News (4pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T18:43:32Z",
+  "fetched_at": "2026-10-26T19:58:07.341655+00:00"
+ },
+ "45558e63ff93": {
+  "id": "45558e63ff93",
+  "url": "https://aihot.news/items/j7spe7uspojyywb1pkgxn23hi",
+  "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-26T18:40:26.000Z",
+  "fetched_at": "2026-10-26T19:58:21.096529+00:00"
+ },
+ "00fa9331409c": {
+  "id": "00fa9331409c",
+  "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
+  "title": "Swedish government blocks ChatGPT and Claude. Here's why",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T18:08:48Z",
+  "fetched_at": "2026-10-26T19:58:32.641985+00:00"
+ },
+ "7b2979b13fc7": {
+  "id": "7b2979b13fc7",
+  "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+  "title": "SpaceX closes $40B debt deal for AI chips",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T17:59:53Z",
+  "fetched_at": "2026-10-26T19:58:46.027736+00:00"
+ },
+ "b636afd10678": {
+  "id": "b636afd10678",
+  "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+  "title": "Microsoft offers voluntary buyouts to 60,000 employees in AI efficiency push",
+  "source": "Hacker News (5pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-26T17:11:35Z",
+  "fetched_at": "2026-10-26T19:59:13.596955+00:00"
  }
 }
