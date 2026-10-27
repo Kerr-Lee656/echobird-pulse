@@ -1,0 +1,24 @@
+{
+ "id": "0330bfacbc9e",
+ "url": "https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10",
+ "title": "Satya Nadella says he changed his mind about whether making AI more powerful would also make it safer",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-27T04:57:48.586718+00:00",
+ "content": "Microsoft CEO Satya Nadella says he has changed his mind about the idea that alignment would naturally emerge as AI systems became more capable.\nOn a new episode of the 20VC podcast, host Harry Stebbings asked Nadella what he'd changed his mind about over the past year. The CEO said he had previously assumed that as AI became more capable, alignment — ensuring AI behaves in line with human values and goals — would automatically follow.\nInstead, he said, while scaling has played out as he expected and the models' capabilities have continued to improve, alignment remained a challenge.\n\"I used to always think that alignment would just fall out,\" Nadella said. \"I no longer believe that. I think this alignment thing may be a harder, different problem.\"\nThe Microsoft CEO previously warned about the risks of AI and argued for greater external controls in a post on X on October 10. Nadella said companies should treat AI models as insider threats and assume they are \"compromised.\"\n\"We need to surround non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures, and establish industry standards where existing ones are insufficient,\" Nadella wrote.\nHis belief that AI's increasing capabilities won't automatically ensure human control is in line with warnings of other tech leaders. Both OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have warned about the threats of AI. A letter signed by more than 1,000 AI workers in July warned that AI capabilities could advance faster than people's ability to understand or control the systems.",
+ "report": {
+  "summary": "微软CEO纳德拉改口：AI能力提升不会自动带来对齐。",
+  "background": "长期以来，硅谷流行一种乐观假设：随着模型规模扩大、能力增强，对齐问题会像副产品一样自然解决，纳德拉此前也持类似看法。但过去一年模型能力持续跃升，对齐仍未自动化解。与此同时，Altman、Amodei 等领袖反复警告 AI 风险，7月逾千名 AI 从业者联名信更指出能力可能跑在理解与控制之前。纳德拉10月还在 X 上主张把 AI 模型当作可能被攻陷的“内部威胁”，此次播客表态是对该立场的延伸。",
+  "key_points": [
+   "纳德拉在 20VC 播客中明确改口：过去相信规模扩展会让对齐自然出现，如今认为对齐是更困难、性质不同的问题。",
+   "能力与可控性出现脱钩：模型能力仍按预期提升，但对齐没有随规模自动改善，说明“更强即更安全”的假设不成立。",
+   "他主张把 AI 模型视为可能被攻陷的“内部威胁”，用确定性系统设计、人类控制和可靠操作流程包围非确定性模型。",
+   "纳德拉呼吁在现有标准不足处建立行业标准，把安全从模型内部问题扩展为系统与流程问题。",
+   "这与 Altman、Amodei 及千余名从业者的警告一致，反映行业对能力跑在控制前面的普遍焦虑。"
+  ],
+  "impact": "对行业而言，对齐正从“规模扩展的副产品”变成独立工程学科，安全评估、红队测试和系统防护将更受重视。对开发者，单纯调模型不够，需要在应用层加入防护规则、可观测性、权限控制和人工复核。对普通用户，短期产品体验未必突变，但 AI 的透明度、可中断性和责任边界会成为更重要的选购标准。",
+  "tools": "想跟进可关注：NeMo Guardrails、Guardrails AI 做输出约束；Llama Guard 做内容安全分类；OpenAI Evals、Promptfoo 做评测；LangSmith/LangFuse 做可观测与追踪。重点是把安全做成系统能力。"
+ },
+ "lang": "zh"
+}

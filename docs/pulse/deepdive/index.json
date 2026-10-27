@@ -18502,5 +18502,59 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-26T23:52:29.274740+00:00"
+ },
+ "94c27c637f66": {
+  "id": "94c27c637f66",
+  "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+  "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T04:57:34.951296+00:00"
+ },
+ "0330bfacbc9e": {
+  "id": "0330bfacbc9e",
+  "url": "https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10",
+  "title": "Satya Nadella says he changed his mind about whether making AI more powerful would also make it safer",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T04:57:48.586718+00:00"
+ },
+ "92d975ff74f0": {
+  "id": "92d975ff74f0",
+  "url": "https://www.aibase.com/zh/news/31882",
+  "title": "腾讯混元开源同声传译大模型 Hy-SimulMT：延迟低于人类译员，质量比肩专业口译",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T04:58:03.656877+00:00"
+ },
+ "d790cf36f8b5": {
+  "id": "d790cf36f8b5",
+  "url": "https://www.aibase.com/zh/news/31879",
+  "title": "华尔街联手黑石砸下 630 亿美元巨资：为 Anthropic 采购博通 AI 芯片铺路",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T04:58:22.499655+00:00"
+ },
+ "9af869ef28e6": {
+  "id": "9af869ef28e6",
+  "url": "https://www.aibase.com/zh/news/31878",
+  "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T04:58:33.338231+00:00"
+ },
+ "be991fdb2073": {
+  "id": "be991fdb2073",
+  "url": "https://www.ithome.com/1/018/219.htm",
+  "title": "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-27T00:23:35Z",
+  "fetched_at": "2026-10-27T05:00:11.463865+00:00"
  }
 }

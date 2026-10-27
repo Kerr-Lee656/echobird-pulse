@@ -8638,5 +8638,95 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-26T21:03:22Z",
   "fetched_at": "2026-10-26T23:54:54.422191+00:00"
+ },
+ "864f20e064c4": {
+  "id": "864f20e064c4",
+  "url": "https://arxiv.org/abs/2610.33178",
+  "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:00:59.333415+00:00"
+ },
+ "9811add079ed": {
+  "id": "9811add079ed",
+  "url": "https://arxiv.org/abs/2610.33180",
+  "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:01:15.058323+00:00"
+ },
+ "19409de9d962": {
+  "id": "19409de9d962",
+  "url": "https://arxiv.org/abs/2610.33282",
+  "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:01:31.808408+00:00"
+ },
+ "7784fd671386": {
+  "id": "7784fd671386",
+  "url": "https://arxiv.org/abs/2610.33375",
+  "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:01:45.880835+00:00"
+ },
+ "d00da7d3d4ed": {
+  "id": "d00da7d3d4ed",
+  "url": "https://arxiv.org/abs/2610.33592",
+  "title": "Auditing evaluation artifacts and data leakage in large language model systems for rare disease diagnosis",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:02:16.219123+00:00"
+ },
+ "c9d9f395000d": {
+  "id": "c9d9f395000d",
+  "url": "https://arxiv.org/abs/2610.33605",
+  "title": "Data Governance for Generative and Agentic AI : Technology, Law, Economics, and Security",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:02:29.091097+00:00"
+ },
+ "2de082b80ce9": {
+  "id": "2de082b80ce9",
+  "url": "https://arxiv.org/abs/2610.33617",
+  "title": "When Generated Information Returns: Error Persistence in LLM-Mediated Information Ecosystems",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:02:45.725151+00:00"
+ },
+ "e2843f98db0b": {
+  "id": "e2843f98db0b",
+  "url": "https://arxiv.org/abs/2610.33684",
+  "title": "More: Mode-Optimized Reasoning with Self-Adaptive Effort for Self-Evolving Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:03:13.767107+00:00"
+ },
+ "0e0b59c299f9": {
+  "id": "0e0b59c299f9",
+  "url": "https://arxiv.org/abs/2610.33845",
+  "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:03:51.183914+00:00"
+ },
+ "8e05e2ba4797": {
+  "id": "8e05e2ba4797",
+  "url": "https://arxiv.org/abs/2610.31733",
+  "title": "Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-10-27T04:00:00.000Z",
+  "fetched_at": "2026-10-27T05:04:03.947816+00:00"
  }
 }
