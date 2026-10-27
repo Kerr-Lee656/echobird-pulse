@@ -18745,5 +18745,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-27T15:00:00Z",
   "fetched_at": "2026-10-27T17:59:15.178815+00:00"
+ },
+ "c9f08b7f3702": {
+  "id": "c9f08b7f3702",
+  "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+  "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T22:09:37.765055+00:00"
+ },
+ "64295c3ae779": {
+  "id": "64295c3ae779",
+  "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+  "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T22:09:48.673858+00:00"
+ },
+ "bad4c53436f4": {
+  "id": "bad4c53436f4",
+  "url": "https://mashable.com/tech/microsoft-buyouts-60000-employees",
+  "title": "Microsoft offers buyouts to 60,000 employees amid AI investment",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T22:09:57.427649+00:00"
+ },
+ "9b450de507ee": {
+  "id": "9b450de507ee",
+  "url": "https://thenextweb.com/news/ai-disinformation-us-midterms-platform-moderation",
+  "title": "AI disinformation is outpacing platform moderation before US midterms",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T22:10:08.129776+00:00"
+ },
+ "c7cc848b2884": {
+  "id": "c7cc848b2884",
+  "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations",
+  "title": "DeepMind 发布了 Genie 4 世界模型，该模型有望呈现更逼真的物理现象和人类行为",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-27T18:06:10.367Z",
+  "fetched_at": "2026-10-27T22:10:18.145101+00:00"
  }
 }

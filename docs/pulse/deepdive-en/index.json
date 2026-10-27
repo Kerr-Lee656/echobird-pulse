@@ -8854,5 +8854,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-27T15:49:05Z",
   "fetched_at": "2026-10-27T18:02:09.330599+00:00"
+ },
+ "4f33acf6a2b5": {
+  "id": "4f33acf6a2b5",
+  "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+  "title": "Who’s really in charge at Anthropic after the IPO?",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-27T21:38:28.000Z",
+  "fetched_at": "2026-10-27T22:10:51.974584+00:00"
+ },
+ "d49c3dd20e94": {
+  "id": "d49c3dd20e94",
+  "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+  "title": "Meta launches plan for $95B stock offering to fund AI expansion",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T21:08:59Z",
+  "fetched_at": "2026-10-27T22:11:02.996740+00:00"
+ },
+ "dcad83d82733": {
+  "id": "dcad83d82733",
+  "url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "title": "Early progress on accelerating drug development with Claude",
+  "source": "Hacker News (46pts, 29c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T20:50:42Z",
+  "fetched_at": "2026-10-27T22:11:14.311577+00:00"
+ },
+ "578f4a1cc2a6": {
+  "id": "578f4a1cc2a6",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+  "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-27T20:48:58.000Z",
+  "fetched_at": "2026-10-27T22:11:30.743894+00:00"
+ },
+ "07f6704e29b8": {
+  "id": "07f6704e29b8",
+  "url": "https://codingplans.dev/briefs/us-model-labs-part-2/",
+  "title": "The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T20:37:03Z",
+  "fetched_at": "2026-10-27T22:11:59.647549+00:00"
+ },
+ "2ef1fbc3458e": {
+  "id": "2ef1fbc3458e",
+  "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+  "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T20:18:54Z",
+  "fetched_at": "2026-10-27T22:12:13.293472+00:00"
+ },
+ "a531bde7a6ce": {
+  "id": "a531bde7a6ce",
+  "url": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
+  "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+  "source": "Gemini",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-27T20:00:27.000Z",
+  "fetched_at": "2026-10-27T22:12:30.164571+00:00"
  }
 }

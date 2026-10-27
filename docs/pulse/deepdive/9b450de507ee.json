@@ -1,0 +1,24 @@
+{
+ "id": "9b450de507ee",
+ "url": "https://thenextweb.com/news/ai-disinformation-us-midterms-platform-moderation",
+ "title": "AI disinformation is outpacing platform moderation before US midterms",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-27T22:10:08.129776+00:00",
+ "content": "AI-generated election misinformation is spreading across social media ahead of the US midterm elections, and experts warn that much of it may be escaping detection as platforms scale back human moderation and rely more heavily on automated systems.\nAI tools make it cheap to produce convincing fake images, videos, and claims in large volumes. Meanwhile, major social networks have reduced some of the teams responsible for checking content, leaving automated filters and users to catch more of the falsehoods.\n“You can run an information operation now with quality that was impossible in 2016 for super, super cheap,” Frances Haugen, the former Facebook data engineer who became a whistleblower, told The Guardian.\nHaugen also explained how people spreading misinformation can evade moderation. By making small changes to each version of a false claim, they can produce posts that get past automated filters even when similar content has already been flagged.\nA rumour involving Texas Senate candidate James Talarico shows how quickly such claims can spread.\nEarlier this month, posts on X claimed that the Democratic candidate was receiving treatment at a mental health centre in Ohio, when in reality, he was at home with the flu.\nThe hospital and Talarico denied the claim within hours, La Voce di New York reported. But the rumour continued circulating for days.\nResearchers at the Digital Democracy Institute of the Americas, which monitors misinformation targeting Latino voters, found that the story changed as it spread through Spanish-language media.\nIt evolved into a false claim that Talarico had attempted to take his own life. Correcting the original allegation did not stop the altered version from circulating, researchers said.\nRoberta Braga, the institute’s founder, said platforms apply their rules less consistently to Spanish-language content than to English-language posts.\n“Now that they’re using AI to do a lot of the content moderation, even more is likely slipping through the cracks,” she said.\nAI-generated content is also appearing in official campaign advertising. Ken Paxton, the Republican challenging Talarico, ran an advertisement featuring AI-generated images of the Democratic candidate.\nThe ad disclosed its use of AI, and some states have introduced rules requiring such disclosures, including Pennsylvania.\nThe major platforms have different approaches to political misinformation, but their rules cover only certain types of content. Meta labels AI-generated images it can identify and requires political advertisers to disclose AI use.\nYouTube prohibits false claims about when, where, and how people can vote. X relies largely on its crowdsourced Community Notes system.\nMany other misleading political claims fall outside these specific rules.\nMeta and X did not respond to The Guardian’s requests for comment. YouTube said the same guidelines apply to all users, including political candidates.\nThe issue extends beyond the US. In Spain, a political party is facing a court complaint over a deepfake election video.\nAs election campaigns increasingly use AI to create and distribute content, the challenge for platforms is not simply identifying synthetic media. It is also catching false claims that change as they spread, across languages and communities, faster than corrections can follow.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美国中期选举前AI虚假信息泛滥，平台削减人工审核，漏检风险加剧",
+  "background": "自2016年大选干预事件后，Facebook、X、YouTube等平台曾大幅扩张信任与安全团队，专门处置选举类虚假信息。但近两年，这些平台普遍裁撤人工审核岗位，转向以算法自动化为主的治理模式。与此同时，生成式AI把伪造图片、视频和文本的成本压到近乎为零，产量却成倍增长。2024年以来，全球多场选举接连遭遇AI深度伪造冲击，研究者担心美国中期选举会成为又一轮压力测试：造假更廉价、审核更稀薄、纠错更滞后，三者叠加形成结构性风险。",
+  "key_points": [
+   "造假成本骤降：吹哨人Frances Haugen指出，如今发起一场信息战，其内容质量在2016年根本无法想象，而成本却“超级、超级便宜”。",
+   "变异式传播规避审核：散布者只需对同一条谣言做细微改写，就能让新版本绕过已标记过类似内容的自动过滤器，形成“打地鼠”困局。",
+   "辟谣追不上谣言：得州参议员候选人Talarico被传在俄亥俄精神卫生中心治疗，本人与医院数小时内否认，但谣言继续流传，并在西语媒体中演变成“自杀未遂”。",
+   "多语言审核更薄弱：监测机构发现，平台对西班牙语内容的规则执行明显不如英语一致；改用AI审核后，漏网内容可能更多。",
+   "官方广告也在用AI：共和党人Paxton投放含AI生成对手图像的竞选广告，虽已披露，但各州法规与平台政策高度碎片化，大量误导性政治主张仍落在规则之外。"
+  ],
+  "impact": "对AI行业而言，内容溯源、水印与深度伪造检测正从“可选项”变成平台合规的基础设施，C2PA等标准有望加速落地。对开发者，多语言、变异型虚假内容的检测是尚待填补的技术空白，也是创业与开源的机会窗口。对普通用户，尤其是英语以外的少数族裔社区，信息环境将更易被污染，单靠平台标注已不足以防身，交叉核实与本地化事实核查网络变得不可或缺。",
+  "tools": "想跟进可关注：C2PA / Content Credentials（内容来源溯源标准）、Google SynthID 与 Meta 的AI图像标注、Hive 与 Reality Defender（深伪检测API）、开源项目 DeepfakeBench；事实核查侧可参考 Full Fact、PolitiFact 及 X 的 Community Notes 众包机制。"
+ },
+ "lang": "zh"
+}
