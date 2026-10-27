@@ -8728,5 +8728,50 @@
   "site_name": "arXiv cs.LG",
   "published_at": "2026-10-27T04:00:00.000Z",
   "fetched_at": "2026-10-27T05:04:03.947816+00:00"
+ },
+ "d060368a49cb": {
+  "id": "d060368a49cb",
+  "url": "https://zenodo.org/records/23642239",
+  "title": "Officially corrected errors persist in AI training data",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T12:01:45Z",
+  "fetched_at": "2026-10-27T12:06:24.156095+00:00"
+ },
+ "3806ea744298": {
+  "id": "3806ea744298",
+  "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+  "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T12:00:37Z",
+  "fetched_at": "2026-10-27T12:06:40.817319+00:00"
+ },
+ "89f7a1e32c92": {
+  "id": "89f7a1e32c92",
+  "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+  "title": "Linus Torvalds let Claude Code fix the Linux page cache. Reviewers found a race",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T09:15:00Z",
+  "fetched_at": "2026-10-27T12:07:09.539934+00:00"
+ },
+ "e6d594ea2a28": {
+  "id": "e6d594ea2a28",
+  "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+  "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T08:36:56Z",
+  "fetched_at": "2026-10-27T12:07:27.410270+00:00"
+ },
+ "cdb6c2aec798": {
+  "id": "cdb6c2aec798",
+  "url": "https://aihot.news/items/nbvleghbxraalsahhggnc6qov",
+  "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+  "source": "Latent Space",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-27T07:24:59.000Z",
+  "fetched_at": "2026-10-27T12:08:32.147267+00:00"
  }
 }

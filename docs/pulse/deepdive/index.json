@@ -18556,5 +18556,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-27T00:23:35Z",
   "fetched_at": "2026-10-27T05:00:11.463865+00:00"
+ },
+ "f2c848df92bf": {
+  "id": "f2c848df92bf",
+  "url": "https://www.36kr.com/p/4043376902165382",
+  "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-10-27T09:25:41.198Z",
+  "fetched_at": "2026-10-27T12:04:10.508198+00:00"
+ },
+ "e4e1138add83": {
+  "id": "e4e1138add83",
+  "url": "https://www.qbitai.com/2026/10/505551.html",
+  "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": "2026-10-27T09:25:41.198Z",
+  "fetched_at": "2026-10-27T12:04:22.661380+00:00"
+ },
+ "63bcaec71016": {
+  "id": "63bcaec71016",
+  "url": "https://www.qbitai.com/2026/10/505529.html",
+  "title": "OpenAI开始断网训练最强模型：“安全起见”",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T12:04:32.523384+00:00"
+ },
+ "664a109f337a": {
+  "id": "664a109f337a",
+  "url": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+  "title": "百度发布并开源文心 Unlimited OCR 2，实现任意页数文档解析",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T12:04:55.008820+00:00"
+ },
+ "206f2055d9e3": {
+  "id": "206f2055d9e3",
+  "url": "https://www.aibase.com/zh/news/31904",
+  "title": "苹果 iOS 27.2 为 AI 图片添加隐形水印",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T12:05:03.255419+00:00"
+ },
+ "eb8d3fefda6c": {
+  "id": "eb8d3fefda6c",
+  "url": "https://www.aibase.com/zh/news/31903",
+  "title": "参数直逼 2.8T、支持百万上下文：月之暗面发布开源旗舰大模型 K3.1 Pro",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T12:05:12.058996+00:00"
+ },
+ "2da5ef72479b": {
+  "id": "2da5ef72479b",
+  "url": "https://www.aibase.com/zh/news/31902",
+  "title": "三十亿美元加码！英伟达与 Meta 联手重塑 AI 智能体新纪元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T12:05:20.143536+00:00"
+ },
+ "5f820ae4b133": {
+  "id": "5f820ae4b133",
+  "url": "https://www.ithome.com/1/018/482.htm",
+  "title": "苹果 iOS 27.2 系统为 AI 生成图片加入 SynthID 隐藏水印",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-27T08:08:47Z",
+  "fetched_at": "2026-10-27T12:05:30.569177+00:00"
+ },
+ "79e5866cb3e8": {
+  "id": "79e5866cb3e8",
+  "url": "https://www.ithome.com/1/018/464.htm",
+  "title": "高盛：AI 重塑市场定价，半导体板块影响力超过油价",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-27T07:42:53Z",
+  "fetched_at": "2026-10-27T12:05:43.999627+00:00"
  }
 }
