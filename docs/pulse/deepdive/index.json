@@ -18637,5 +18637,113 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-27T07:42:53Z",
   "fetched_at": "2026-10-27T12:05:43.999627+00:00"
+ },
+ "257d2044442d": {
+  "id": "257d2044442d",
+  "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+  "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:57:20.351045+00:00"
+ },
+ "8f3cfb5cce39": {
+  "id": "8f3cfb5cce39",
+  "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+  "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:57:28.428834+00:00"
+ },
+ "424fe185ab37": {
+  "id": "424fe185ab37",
+  "url": "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups",
+  "title": "Dallas firm Disruptive closes $10bn fund to back AI and defence startups",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:57:40.471615+00:00"
+ },
+ "78e80b19bf76": {
+  "id": "78e80b19bf76",
+  "url": "https://thenextweb.com/news/deepseeks-latest-model-still-resists-shutdown-in-safety-tests",
+  "title": "DeepSeek’s latest model still resists shutdown in safety tests",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:57:48.522160+00:00"
+ },
+ "5827d20d2d77": {
+  "id": "5827d20d2d77",
+  "url": "https://www.techradar.com/pro/microsoft-offers-60-000-workers-voluntary-redundancy-buyout-option-ai-revolution-could-mean-a-quarter-of-its-workforce-can-now-leave",
+  "title": "Microsoft offers 60,000 workers voluntary redundancy buyout option — AI revolution could mean a quarter of its workforce can now leave",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:57:58.817959+00:00"
+ },
+ "cb3d039cdbbf": {
+  "id": "cb3d039cdbbf",
+  "url": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+  "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:58:07.938213+00:00"
+ },
+ "ad55d9b9ccb6": {
+  "id": "ad55d9b9ccb6",
+  "url": "https://www.businessinsider.com/ukraine-robots-use-grenade-launchers-to-fire-without-risking-soldiers-2026-10",
+  "title": "Ukraine is arming war robots with grenade launchers to hit the Russians so its soldiers don't have to get too close",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:58:17.110241+00:00"
+ },
+ "c2ba8b7dceec": {
+  "id": "c2ba8b7dceec",
+  "url": "https://www.businessinsider.com/anthropic-ipo-claude-dario-amodei-ai-religion-bi-today-newsletter-2026-10",
+  "title": "Anthropic's IPO filing is no ordinary Wall Street document",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:58:28.448128+00:00"
+ },
+ "fdf828825fb7": {
+  "id": "fdf828825fb7",
+  "url": "https://www.theblockbeats.info/flash/373987",
+  "title": "AI 算力初创公司 General Compute 完成 1 亿美元 A 轮融资，投后估值 8 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:58:45.607528+00:00"
+ },
+ "06c5cb4f51ee": {
+  "id": "06c5cb4f51ee",
+  "url": "https://finance.jrj.com.cn/2026/10/27210958896267.shtml",
+  "title": "AI 算力需求挤爆先进封装产能！传台积电拟涨价 10-20%，英伟达、苹果成本承压",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:58:55.683512+00:00"
+ },
+ "854631ad8655": {
+  "id": "854631ad8655",
+  "url": "https://www.aibase.com/zh/news/31906",
+  "title": "纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-27T17:59:06.249736+00:00"
+ },
+ "d86f9ac196a5": {
+  "id": "d86f9ac196a5",
+  "url": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst",
+  "title": "In China, the AI Bubble Has Already Burst",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-27T15:00:00Z",
+  "fetched_at": "2026-10-27T17:59:15.178815+00:00"
  }
 }

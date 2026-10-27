@@ -1,0 +1,24 @@
+{
+ "id": "257d2044442d",
+ "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+ "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-27T17:57:20.351045+00:00",
+ "content": "Browser maker Opera has introduced a new web standard that lets users run AI models directly in its browser, without relying on the cloud.\nThe new standard, WebAI, is designed to work with a variety of AI models. Opera name drops Google’s Gemma — an open-weight model that Google first introduced two years ago — as one example. On Macs, WebAI also supports Apple’s on-device foundation model, the company says.\nBut Opera says WebAI isn’t tied to any particular model and is built to support a wide range of open-weight AI systems. WebAI grew out of previous work by Opera to bring locally run models into its browsers.\nOpera is making the new AI features available as an early preview in its flagship Opera One browser. The company says Opera GX, its browser built for gamers and streamers, and Opera Neon, its browser that uses AI agents to perform tasks, will soon get the same treatment. Users have to choose to opt into the feature, according to the company.\nOpen-weight models offer a number of benefits to users. For one, they are typically free to download and use. Their underlying model weights are also publicly available, which gives developers more freedom to customize how they work. Although unlike fully open-source software, open-weight models still come with some restrictions.\nThere’s the additional advantage of privacy, the company said. Users can tap into AI features without having to send their personal information to a company’s servers or pay for a cloud-based AI subscription.\n“Developers can add AI features without running AI infrastructure or paying for every request,” the company said in its announcement. “Users don’t need AI subscriptions, the information the local AI handles stays on their own device, and they stay in control of the AI on their computer.”\nThe company said WebAI also allows anyone to generate text, classify content, and understand how pieces of information relate, all directly in the browser.\nPrivacy has become a growing concern as AI assistants become more powerful and gain access to personal information. Users often surrender vast amounts of personal information with AI chatbots, sometimes without a clear understanding of how that data is stored or used.\nLocally run models offer an alternative because the processing happens on the user’s own device — and not on a company’s cloud server. That doesn’t eliminate every privacy risk, but it does give users a bit more control. It makes sense then that Opera has made digital privacy one of its primary selling points over the years.\nThere are trade-offs, however. Running AI models locally puts more demand on a user’s computer, which can affect performance. Opera notes that model performance will depend on the device’s hardware.",
+ "report": {
+  "summary": "Opera推WebAI标准，让浏览器本地运行AI模型",
+  "background": "Opera发布WebAI，试图让AI模型直接在浏览器本地运行，而非依赖云端。该标准源于Opera此前将本地模型引入浏览器的工作，率先在Opera One提供早期预览，后续将扩展至GX和Neon。在AI订阅普及、隐私担忧上升的背景下，本地推理正成为浏览器厂商的新竞争点。",
+  "key_points": [
+   "WebAI不绑定特定模型，支持Google Gemma等开放权重模型，也支持Mac上Apple的端侧基础模型。",
+   "功能先在Opera One以早期预览开放，需用户主动选择加入，Opera GX和Neon将随后跟进。",
+   "本地运行可免去云订阅和按请求付费，开发者无需自建AI基础设施，用户数据留在设备上。",
+   "浏览器内可完成文本生成、内容分类和理解信息关系等任务，降低AI功能集成门槛。",
+   "代价是更依赖设备硬件，性能因电脑配置而异；开放权重模型也不等同于完全开源。"
+  ],
+  "impact": "对AI行业，浏览器正成为端侧AI的重要入口，可能推动本地推理标准和隐私竞争；开发者能以更低成本嵌入AI能力，但需适配硬件差异；普通用户可获得免订阅、较私密的AI体验，但模型能力和速度受设备限制。",
+  "tools": "可关注Opera One的WebAI预览、Google Gemma、Apple端侧基础模型；开发者可研究WebGPU、WebLLM、Transformers.js等浏览器推理方案。"
+ },
+ "lang": "zh"
+}

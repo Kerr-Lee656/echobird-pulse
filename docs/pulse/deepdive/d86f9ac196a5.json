@@ -1,0 +1,25 @@
+{
+ "id": "d86f9ac196a5",
+ "url": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst",
+ "title": "In China, the AI Bubble Has Already Burst",
+ "source": "Slashdot (科技资讯)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-27T15:00:00Z",
+ "fetched_at": "2026-10-27T17:59:15.178815+00:00",
+ "content": "In China, the AI Bubble Has Already Burst 39\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from Reuters: While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking the mainland STAR50 index of AI and semiconductor leaders by 40% in less than four months and vaporizing some $480 billion in market value, is an ill omen for wobbly world markets and a dampener on China's efforts at encouraging its savers into stocks to fund the AI boom. It has also slammed the brakes on a rally running two years, since economic stimulus promises sent shares soaring, and has stalled Beijing's push to break with a long boom-bust pattern and drive a \"slow bull\" market that delivers reliable performance. China's broad blue-chip index has dropped about 20% from highs made in June. \"The stock market later evolved into a speculative crazy bull,\" said Beijing-based fund manager Dong Baozhen. \"And now we see the bubble bursting.\"  There was no clear trigger for the selloff in China, though traders pointed to high valuations, tax bills, and the threat of foreign bans on Chinese data center equipment. According to Goldman Sachs, AI stocks account for 42% of China's market capitalization and 57% of trading turnover, leaving investors widely exposed to the downturn. \n\"What's happening is now going to put a stop for many of the companies trying to get themselves listed,\" said Hong Hao, managing partner and chief investment officer at Lotus Asset Management in Hong Kong.\n\"Overemphasising the 'technology content' -- that is, the weighting of tech companies by market value in major indexes -- leads to a deviation, even a distortion, in capital behavior,\" said Leo Wang, partner at Beijing-based Qianchuang Capital. \"This created a severe bubble in certain sectors and a serious drain on others.\"\n\"Just like all other Chinese manufacturers, (chipmakers and AI suppliers) will eventually end up in a price war,\" said fund manager Wang Zhuo, partner at Shanghai Zhuozhu Investment Management. \"There's no exception,\" he said. \"All bubbles inevitably burst.\"",
+ "report": {
+  "summary": "中国AI概念股四个月内跌去40%市值，泡沫破裂",
+  "background": "过去两年，在政策刺激承诺与AI叙事推动下，中国股市走出一轮长牛，科创板AI与半导体龙头估值被推到高位。由于政策层面推出“慢牛”市场，希望把居民储蓄引入股市、为AI产业融资，AI权重在指数中的占比因此越来越高。今年年中以来，全球科技股震荡，美国可能限制中国数据中心设备出口，加上高估值和税负因素，抛售潮随之出现；AI板块占A股市值42%、成交额57%（高盛数据），使其成为下跌的主要源头。",
+  "key_points": [
+   "科创板50指数不到四个月暴跌40%，约4800亿美元市值蒸发，蓝筹指数也从6月高点回落约20%，两年牛市行情基本被抹去。",
+   "下跌没有单一明确触发因素，交易员主要归因于估值过高、税负压力，以及海外可能禁止中国数据中心设备的预期。",
+   "高盛数据显示，AI股占中国总市值42%、成交额57%，投资者几乎“无处可躲”，板块波动被放大成系统性风险。",
+   "泡沫破裂打乱了IPO通道，不少排队上市的AI与芯片公司被迫推迟或取消融资计划。",
+   "基金经理普遍认为，中国芯片与AI供应商最终仍将像其他制造业一样，陷入价格战，暴利难以持续。",
+   "北京原本想借股市上涨引导储蓄入市、为AI产业输血，并打破暴涨暴跌的旧循环，这一政策目标受挫。"
+  ],
+  "impact": "对AI行业：一级市场融资渠道收窄，缺乏自我造血能力的“AI概念”公司将快速淘汰，资源向头部芯片、算力与模型厂商集中。对开发者：算力租赁价格与云厂商补贴可能回落，但初创公司融资更难，岗位与项目预算趋于保守，开源与低成本推理方案更受青睐。对普通用户：AI产品补贴期或结束，免费额度收紧；但泡沫出清后，工具价格与服务质量将更贴近真实成本。对全球市场：中国AI资产暴跌被视为全球科技股高估值的警示信号。",
+  "tools": "想跟进可关注：用AKShare/Tushare抓取A股AI板块与科创板行情数据做自建跟踪；跟踪DeepSeek、Qwen、GLM等国产开源模型的版本迭代与推理定价，判断产业真实进展；关注算力租赁价格与国产芯片（寒武纪、昇腾产业链）财报作为泡沫出清的温度计。"
+ },
+ "lang": "zh"
+}

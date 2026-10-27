@@ -8773,5 +8773,86 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-27T07:24:59.000Z",
   "fetched_at": "2026-10-27T12:08:32.147267+00:00"
+ },
+ "de821509418c": {
+  "id": "de821509418c",
+  "url": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
+  "title": "Norwegian media sue Meta over plans to use their journalism for AI",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T17:47:14Z",
+  "fetched_at": "2026-10-27T17:59:44.266310+00:00"
+ },
+ "b49ec3bd8394": {
+  "id": "b49ec3bd8394",
+  "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "Google Research",
+  "site_name": "Google Research",
+  "published_at": "2026-10-27T17:35:28.000Z",
+  "fetched_at": "2026-10-27T17:59:55.991216+00:00"
+ },
+ "0330bfacbc9e": {
+  "id": "0330bfacbc9e",
+  "url": "https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10",
+  "title": "Satya Nadella Rethinks Whether More Powerful AI Is Safer",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T17:18:36Z",
+  "fetched_at": "2026-10-27T18:00:08.491254+00:00"
+ },
+ "1c5b51464767": {
+  "id": "1c5b51464767",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-10-27T17:16:52.000Z",
+  "fetched_at": "2026-10-27T18:00:23.358302+00:00"
+ },
+ "1f56d70ebb8b": {
+  "id": "1f56d70ebb8b",
+  "url": "https://borehole.dev/data/ai-policies",
+  "title": "AI co-authored commits: 3 open-source projects in 2023, 686 of 874 in 2026",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T16:42:48Z",
+  "fetched_at": "2026-10-27T18:00:59.520795+00:00"
+ },
+ "18d6fa115809": {
+  "id": "18d6fa115809",
+  "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+  "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-27T16:30:57.000Z",
+  "fetched_at": "2026-10-27T18:01:32.006393+00:00"
+ },
+ "a17083d6bd14": {
+  "id": "a17083d6bd14",
+  "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "source": "Hacker News (17pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T16:25:30Z",
+  "fetched_at": "2026-10-27T18:01:43.375657+00:00"
+ },
+ "8b6f26193050": {
+  "id": "8b6f26193050",
+  "url": "https://www.cerebras.ai/press-release/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-inf-3389429",
+  "title": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference to OCI",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T16:24:10Z",
+  "fetched_at": "2026-10-27T18:01:56.892505+00:00"
+ },
+ "4b4df3e5c9d6": {
+  "id": "4b4df3e5c9d6",
+  "url": "https://theainewsreport.com/2026-10-27-openai-exponential-time-hypothesis-false-runtime-lean-explained.html",
+  "title": "OpenAI says its AI disproved the Exponential Time Hypothesis",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T15:49:05Z",
+  "fetched_at": "2026-10-27T18:02:09.330599+00:00"
  }
 }

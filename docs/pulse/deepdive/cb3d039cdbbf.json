@@ -1,0 +1,23 @@
+{
+ "id": "cb3d039cdbbf",
+ "url": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+ "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-27T17:58:07.938213+00:00",
+ "content": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion\nThe cuts will form the bulk of plans to save billions by 2035\n- 25,000 Dutch government jobs will be cut by 2035, new plans say\n- The Netherlands is looking to save €3.5 billion by 2035\n- Selling off buildings, simplifying rules, and smaller desks will also contribute to the savings\nThe Dutch government has announced plans to phase out 25,000 jobs by 2035 in an effort to increase efficiency with the end goal of saving €3.5 billion ($3.9 billion), amounting to about 16% of the government’s total workforce.\nAccording to plans laid out by Dutch State Secretary for Kingdom Relations and Effective Government Eric van der Burg, the cuts will save €900 million ($1 billion) by 2027 while AI will deliver increased productivity to take up the additional workload.\n\"We cannot keep doing what we did,\" Van der Burg said. \"That is why we are going to make sharp choices for a central government that really works: simpler, smarter and smaller.\"\nSmaller desks and AI part of savings plans\nThe plans hope to deliver a 20% productivity boost by using AI to increase efficiency, while simultaneously reducing the total government workload by simplifying rules. To that end, the Dutch government also has a plan in place to scrap or simplify at least 500 rules a year.\nBut AI isn’t the only way the government is looking to reduce costs. New rules will see pairs of employees sharing a single desk, surplus buildings sold off, and IT systems standardized.\nWhile police and defense jobs are not being affected by the cuts, permanent advisory councils and advisory committees are not. The government will release new targets for the number of advisory bodies later this year, with current numbers sitting at 28 and 150 respectively.\nAccording to Bloomberg several motions - albeit voluntary motions - to increase productivity using AI have already been passed. These motions are a catalyst for the resulting job and spending cuts, according to Van der Burg.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nThe Dutch government has seen a record number of central government officials, peaking at 160,000 by the end of 2025 - a rise of 41% since 2018 according to Bloomberg.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nBenedict is a Senior Security Writer at TechRadar Pro, where he has specialized in covering the intersection of geopolitics, cyber-warfare, and business security.\nBenedict provides detailed analysis on state-sponsored threat actors, APT groups, and the protection of critical national infrastructure, with his reporting bridging the gap between technical threat intelligence and B2B security strategy.\nBenedict holds an MA (Distinction) in Security, Intelligence, and Diplomacy from the University of Buckingham Centre for Security and Intelligence Studies (BUCSIS), with his specialization providing him with a robust academic framework for deconstructing complex international conflicts and intelligence operations, and the ability to translate intricate security data into actionable insights.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "荷兰计划2035年前以AI削减2.5万政府岗位，省35亿欧元。",
+  "background": "荷兰中央政府官员人数2025年底达16万，自2018年增长41%，财政与效率压力上升。主管有效政府的国务秘书Eric van der Burg提出到2035年削减2.5万个岗位、约占中央政府16%，目标节省35亿欧元，并在2027年前先省9亿欧元。方案不仅靠AI提升20%生产率，还包括简化规则、共享工位、出售楼宇和标准化IT系统。",
+  "key_points": [
+   "裁员规模：到2035年削减2.5万岗位，约占中央政府劳动力16%，2027年前先节省9亿欧元。",
+   "AI承接工作量：计划用AI提升20%生产率，同时每年废除或简化至少500项规则以减轻负担。",
+   "配套节流：员工共享工位、出售冗余楼宇、标准化IT系统；警务和国防岗位不受影响。",
+   "背景动因：中央政府官员2025年底达16万，自2018年增41%，推动“更简、更智、更小”政府。"
+  ],
+  "impact": "对AI行业，这是公共部门大规模采用AI的强信号，将带动政务自动化、文档处理和合规治理需求；对开发者，政务AI、流程自动化与数据保护、审计工具存在机会；对普通用户，服务或更高效，但需关注裁员冲击、服务质量与算法问责。",
+  "tools": "可关注流程自动化与文档AI：UiPath、Power Automate、n8n；公共部门还需GDPR合规、模型评估与审计工具。"
+ },
+ "lang": "zh"
+}

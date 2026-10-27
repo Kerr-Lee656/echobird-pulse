@@ -1,0 +1,24 @@
+{
+ "id": "424fe185ab37",
+ "url": "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups",
+ "title": "Dallas firm Disruptive closes $10bn fund to back AI and defence startups",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-27T17:57:40.471615+00:00",
+ "content": "Disruptive, a venture capital firm based in Dallas, has raised a $10bn fund to invest in AI, defence and software startups, Bloomberg reported on Tuesday. The new money roughly doubles the assets the firm manages.\nDisruptive plans to back about 10 late-stage companies, putting around $1bn into each. Most of it will go into new funding rounds, though some will buy shares from existing investors.\nThe fund also changes how the firm works. Until now, Disruptive raised money deal by deal, through special purpose vehicles (SPVs) that pooled its backers’ cash for a single investment. It will now run one large fund and choose where to invest itself.\nFounder Alex Davis said startup bosses had grown frustrated with SPVs, which often do not reveal who is behind them. “The best companies in the world are basically picking who they want to have invest in them,” he told Bloomberg.\nHe also argued that big cheques are now needed, as successful companies stay private for longer.\n“We can’t write small checks,” he said.\nThat matches the size of today’s late-stage rounds. Robotics startup Bedrock Robotics raised $600m this week, while OpenAI is reportedly raising money at a $1.25tn valuation.\nDisruptive stands out among firms raising funds this large. It has only about 30 staff and is based outside the main US startup hubs. Thrive Capital and Andreessen Horowitz have also raised multibillion-dollar funds this year.\nDavis, grandson of the late oil billionaire Marvin Davis, founded the firm in 2012. Its backers include sovereign wealth funds, endowments and universities. Its portfolio includes voice AI startup ElevenLabs, data company Databricks and defence drone maker Shield AI.\nIts best-known bet is Groq. Late last year, Nvidia agreed a $20bn deal to license the AI chipmaker’s technology and hire much of its staff, giving Disruptive an early return.\nIn a letter to its investors earlier this year, the firm said it had returned more than $6bn on about $1.9bn invested, according to documents seen by Bloomberg. Disruptive declined to comment on its returns.\nDefence is a growing target for startup investors, with European companies such as Helsing also raising large sums.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Disruptive募100亿美元基金，押注AI与国防后期项目",
+  "background": "美国后期融资规模持续膨胀，OpenAI等公司长期不上市，单一项目金额动辄数亿至千亿美元。Disruptive此前按项目设立SPV募资，现转向一只大基金自主决策，反映VC从拼交易转向拼大额支票和品牌背书。国防科技也成为投资热点，欧洲Helsing等同期大额融资。",
+  "key_points": [
+   "基金规模约100亿美元，使Disruptive管理资产翻倍，计划投约10家后期公司，每家约10亿美元，部分用于老股交易。",
+   "募资模式从逐个项目SPV转向单一大基金，由Disruptive自主选择投资，回应创始人不满SPV不透明、想挑选投资人的诉求。",
+   "创始人称成功公司长期保持私有，后期轮次金额巨大，必须写大额支票；机器人Bedrock融资6亿美元、OpenAI估值传1.25万亿美元作证。",
+   "Disruptive仅约30人、总部不在硅谷，却凭Groq等案例建立战绩：Nvidia 200亿美元授权交易带来早期回报，称已用19亿美元投出超60亿美元回报。",
+   "国防成为VC新热点，Disruptive投资Shield AI，欧洲Helsing也在大额融资；AI与国防结合吸引主权基金、捐赠基金和大学资金。"
+  ],
+  "impact": "对AI行业，巨额后期基金加剧头部项目资金集中，估值可能继续走高，国防AI获得更多资本。对开发者，算力与语音AI等被投企业可能扩大API和招聘，但创业公司融资门槛更高，需证明大额收入。对普通用户，AI产品迭代和国防应用会更快落地，也带来隐私与伦理讨论。",
+  "tools": "想跟进可关注Groq（推理芯片/API）、ElevenLabs（语音AI）、Shield AI（国防无人机）、Databricks（数据与AI平台）；用Crunchbase、PitchBook跟踪融资，国防AI可对照Helsing。"
+ },
+ "lang": "zh"
+}
