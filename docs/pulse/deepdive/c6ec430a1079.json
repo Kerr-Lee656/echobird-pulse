@@ -1,0 +1,23 @@
+{
+ "id": "c6ec430a1079",
+ "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
+ "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-28T22:32:19.299775+00:00",
+ "content": "Australia’s digital duty of care bill would bar AI chatbots from building “emotional intimacy” with children. The bill passed the House of Representatives on Wednesday, 28 October, as Josh Butler reported for The Guardian. It now goes to the Senate.\nThe chatbot rule came in through amendments from independent MP Kate Chaney, which the government accepted on Wednesday. They add certain chatbot conduct to the bill’s list of harms. Platforms would have to ban:\n“material or conduct that simulates emotional intimacy and encourages or fosters a child’s dependence on it in place of human relationships”\nThe wording covers a child’s dependence on a chatbot. It does not cover adults who use AI companions.\nAlbanese’s appeal to the Coalition\nPrime Minister Anthony Albanese made the case for the bill in a speech on Tuesday night. He again asked the opposition Coalition to vote for it.\n“The stories we hear about people identifying a chatbot, a non-person as their best friend, should be a huge wake up call for every member of this parliament to be prepared to act,” Albanese said.\nThe framework would set new online safety standards for social media, games, apps and chatbots. Labor said it places “an overarching obligation” on platforms to keep Australians safe online. It would replace several existing online codes and standards with one broader duty of care.\nThe bill also makes social media platforms offer an algorithm opt-out. Another Chaney amendment, also accepted, says that opt-out must be “accessible, easy to use” and “prominently available”. Communications Minister Anika Wells has said the laws would capture content that promotes misogyny, terrorism, suicide, self-harm and eating disorders.\nThe Senate fight\nThe Coalition and One Nation voted against the bill in the House. Opponents have accused Labor of building an “Orwellian” system of “censorship”, claims Wells has rejected.\n“If they really care, the test is simple here, they should bring an amendment, not a slogan to ‘kill the bill’,” Wells told ABC radio on Wednesday.\nThe Greens support the bill and have set up a Senate inquiry, due to report in late November. They want Australians to be able to sue platforms and want higher penalties. Labor hopes the Senate passes the bill by the end of 2026. It says it is open to amendments.\nCalls for a big tech ombudsman\nLabor is also under pressure to make the telecommunications industry ombudsman a complaints body for social media and AI. Independent MP Sophie Scamps proposed the change, which Labor did not accept in the lower house. The Greens will push for it in the Senate.\nThe ombudsman, Cynthia Gebert, said her office could take on the role, paid for by big tech.\n“We can help with your Telstra account, but we can’t help with your Gmail account,” Gebert said.\nAustralia already has an under-16 social media ban. The chatbot rule follows concerns abroad about AI companions and children.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "澳法案拟禁AI聊天机器人对儿童制造情感亲密",
+  "background": "澳大利亚的数字注意义务法案已获众议院通过，正待参议院审议。该法案以统一的在线安全义务取代多项现行规范，覆盖社交媒体、游戏、应用和聊天机器人。此前澳大利亚已实施16岁以下社交媒体禁令；国际上对AI伴侣影响儿童的担忧升温，促使独立议员提出修正案，把聊天机器人“模拟情感亲密”并促使儿童依赖的行为纳入危害清单。",
+  "key_points": [
+   "众议院通过后，法案将提交参议院。修正案要求平台禁止“模拟情感亲密、鼓励或促使儿童依赖聊天机器人替代人际关系”的材料或行为。",
+   "该禁令只针对儿童，不覆盖成年人使用AI伴侣。总理阿尔巴尼斯称，有人把聊天机器人当作最好朋友的故事应成为议会采取行动的警钟。",
+   "法案还要求社交媒体提供算法退出选项，且必须“易用、显著”。通信部长称，新规将覆盖宣扬厌女、恐怖主义、自杀、自残和饮食失调等内容。",
+   "政治阻力明显：联盟党和One Nation在众议院反对，指其“审查”；绿党支持但设参议院调查，要求允许起诉平台、提高罚款，并推动设立大科技投诉监察专员。"
+  ],
+  "impact": "对AI行业，儿童安全将从“最佳实践”变为合规硬约束，AI伴侣类产品需重新设计年龄识别、拟人化边界和依赖诱导机制。对开发者，儿童场景的对话系统要默认保守，避免情感绑定话术，并保留审核与审计能力。对普通用户，儿童获得更强保护，但平台可能收紧聊天机器人和推荐算法功能；成人AI伴侣暂不受该条款直接限制。",
+  "tools": "可关注年龄验证与儿童安全SDK、AI内容审核和护栏工具（如Llama Guard、OpenAI Moderation）、对话安全评测框架，以及澳大利亚eSafety专员发布的儿童在线安全指南。"
+ },
+ "lang": "zh"
+}

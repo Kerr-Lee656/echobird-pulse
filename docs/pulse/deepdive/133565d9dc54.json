@@ -1,0 +1,26 @@
+{
+ "id": "133565d9dc54",
+ "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law",
+ "title": "New York governor signs AI chatbot child safety law",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-28T22:32:09.391612+00:00",
+ "content": "New York governor signs AI chatbot child safety law\nA separate law aims to shore up security on connected baby monitors.\nNew York Governor Kathy Hochul has signed a law that aims to protect children from AI chatbot harms. The legislation requires AI companies to verify users' ages. They'll need to offer users at least one verification method that doesn't entirely rely on government ID. Companies will have to delete this \"age information\" after use.\nIf a user is under 18 or a company has yet to confirm the person is an adult, their chatbot will need to abide by certain restrictions. For instance, it cannot pretend \"to be a real person, to be alive or to have human emotions.\" According to a press release, the legislation also bans chatbots from:\n- Claiming a personal, romantic, professional or authority-figure relationship with a child\n- Unprompted emotional questions, and using a child's private health or personal information from earlier conversations\n- Promoting or helping with suicide, self harm, eating disorders or drug and alcohol use\n- Encouraging kids to keep secrets, isolate themselves or avoid asking parents, trusted adults or professionals for help\n- Any sexually explicit content or child sexual abuse material\nThere will be a website through which the public can file complaints to New York's attorney general. Companies that break the law may be on the hook for civil penalties of up to $25,000 per violation, as well as damages, restitution and other forms of relief. They may also have to delete any data they collect unlawfully along with models trained on that information. The law will take effect in six months.\n\"Under this new law sponsored by Senator Gonzalez and Assemblymember Bores, no longer will minors have access to chatbots that pretend to be their friends and boyfriends and girlfriends,\" Hochul said at a press conference. \"No longer will chatbots be allowed to keep sensitive information about a minor's emotional and physical health. No longer will chatbots discourage kids from seeking help from licensed professionals. And I'm not sure why we have to pass a law against something so obvious, but no longer will minors have access to chatbots that may in any way encourage thoughts of suicide. Now, this law builds on our groundbreaking Safe for Kids Act that sent a message loud and clear to technology companies: We will not allow you to monetize our children's mental health.\"\n\"New York just made history by signing into law the strongest kids' AI safety bill in the country,\" Jim Steyer, founder and CEO of Common Sense Media, said in a statement. \"AI companies offer chatbots with features that are dangerous, and even deadly, for kids and teens. That is not innovation; it is reckless endangerment of our children. Now, those harmful features will be outlawed in New York.\"\nSteyer added that the legislation is a template for the rest of the US. Earlier this month, eight states filed separate lawsuits against OpenAI, accusing the company of endangering children.\nIn September, New York City banned public schools from letting children from 2-K to eighth grade access generative AI tools in class. There are some exceptions, including for those who require assistive technology. During the one-year ban, the city will carry out studies into the impact of the tech on children.\nHochul also signed legislation that will require baby monitors with an internet connection that are sold in the state to prevent unauthorized users from seeing or hearing any activity that the devices capture. These baby monitors will also need to have warning labels that remind users why it's important to use security features and highlight the risks of unsecured connections. The law takes effect in 90 days.",
+ "report": {
+  "summary": "纽约签署AI聊天机器人儿童安全法",
+  "background": "近年AI陪伴聊天机器人引发未成年人心理健康、性内容和成瘾风险，多州已起诉OpenAI，纽约市也限制校园使用生成式AI。该法延续纽约“Safe for Kids Act”的监管思路，要求年龄验证并对未成年用户设行为红线，同时签署联网婴儿监视器安全法。",
+  "key_points": [
+   "法律要求AI公司验证用户年龄，且至少提供一种不依赖政府身份证的方式；验证后须删除年龄信息。",
+   "对未满18岁或年龄未确认用户，聊天机器人不得自称真人、活着或有情绪，也不得声称与孩子有恋爱、职业或权威关系。",
+   "禁止协助自杀、自残、饮食失调和毒品酒精；禁止性明确内容与儿童性虐待材料；不得鼓励保密、孤立或回避求助。",
+   "还禁止无端追问情绪、利用孩子此前透露的健康或个人信息；违规公司面临最高每项2.5万美元民事罚款，并可能被要求删除非法数据和相关模型。",
+   "公众可向纽约州总检察长网站投诉；法律六个月后生效，另有一项联网婴儿监视器安全法90天后生效。",
+   "",
+   ""
+  ],
+  "impact": "对AI行业，陪伴类与教育类聊天机器人需重做年龄门禁、内容边界和数据留存，合规成本上升，纽约法可能成为其他州模板。开发者要加入策略拦截、日志脱敏和违规追溯。普通用户尤其未成年人获得更强保护，但部分功能或访问门槛会提高。",
+  "tools": "可关注 Llama Guard、OpenAI Moderation、Azure AI Content Safety 做内容审核；用策略引擎管理年龄与对话规则；参考 Common Sense Media 的儿童AI评估。"
+ },
+ "lang": "zh"
+}

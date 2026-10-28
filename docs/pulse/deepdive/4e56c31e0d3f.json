@@ -1,0 +1,23 @@
+{
+ "id": "4e56c31e0d3f",
+ "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10",
+ "title": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-28T22:32:52.724653+00:00",
+ "content": "Just weeks after announcing a new round of funding at a $48 billion valuation, AI coding startup Cognition is fielding new investor interest at a much higher price.\nThe startup has received offers valuing it at between $70 billion and $80 billion and is seriously considering a round before the end of the year, according to sources familiar with the matter.\nThe talks around the financing are still early, and valuation targets could still change.\nFounded in 2023 by Scott Wu, Steven Hao, and Walden Yan, Cognition is best known for Devin, an AI coding agent designed to automate software engineering tasks. The San Francisco-based company's existing investors include a16z, Accel, Founders Fund, Khosla Ventures, Elad Gil, and Pear VC.\nCognition's rapid valuation climb underscores the investor frenzy around AI coding, one of the hottest and most competitive corners of the AI market. As companies race to sell AI coding agents that can take on more of the work engineers do, investors are placing increasingly expensive bets on the few startups they think could emerge as leaders.\nA $75 billion valuation wouldn't be so far-fetched, as SpaceX just acquired fellow AI coding giant Cursor for $60 billion a few months ago.\nLast month, Cognition was drawn into a public feud with rival Factory AI, which accused Cognition employees of posing as job applicants to seek product information and faulted a former Factory adviser for meeting with Cognition executives. Cognition and the former adviser denied that confidential information was sought or shared.\nGot a tip? Email Katie anytime or contact her on Signal at kroof.26. Sign up for Business Insider's weekly VC Insider newsletter here.",
+ "report": {
+  "summary": "Cognition拟以700-800亿美元估值再融资",
+  "background": "Cognition成立于2023年，以AI编程智能体Devin闻名，投资方包括a16z、Accel、Founders Fund等。AI编程是当前最热赛道之一，企业竞相推出能承担更多工程任务的智能体，资本正高价押注少数头部玩家。该公司数周前刚宣布480亿美元估值融资，如今又收到更高报价，反映估值攀升之快。",
+  "key_points": [
+   "估值跳升：数周前刚以480亿美元估值融资，现又收到700亿至800亿美元报价，并认真考虑年底前完成新一轮，但谈判尚早、目标可能变化。",
+   "产品核心：Cognition由Scott Wu等三人于2023年创立，主打AI编程智能体Devin，目标是自动化软件工程任务。",
+   "资本狂热：AI编程被视为AI市场最热、竞争最激烈的角落，投资者押注少数可能胜出的初创公司；SpaceX以600亿美元收购Cursor被视为高估值参照。",
+   "竞争摩擦：上月Cognition与 rivals Factory AI公开冲突，Factory指控Cognition员工冒充求职者获取产品信息，Cognition及前顾问否认寻求或共享机密信息。"
+  ],
+  "impact": "对AI行业，AI编程估值锚被进一步抬高，融资与并购竞争将更激烈；对开发者，智能体承担更多工程任务，工作方式与技能结构面临调整，需学会与AI协作；对普通用户，软件开发提速、成本可能下降，但可靠性与安全风险仍需关注。",
+  "tools": "可关注Devin、Cursor、Factory等AI编程智能体；开源可试OpenHands、Aider、SWE-agent，观察其落地效果。"
+ },
+ "lang": "zh"
+}

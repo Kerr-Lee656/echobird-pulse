@@ -1,0 +1,25 @@
+{
+ "id": "958bbab48704",
+ "url": "https://www.ithome.com/1/019/237.htm",
+ "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-28T17:06:21Z",
+ "fetched_at": "2026-10-28T22:33:46.354082+00:00",
+ "content": "IT之家 10 月 29 日消息，Artificial Analysis 昨日发布了 Intelligence Index v5，这是该机构自 2026 年 1 月 v4 上线以来幅度最大的一次基准重构。\n最直接的变化是，60% 的评测权重首次建立在私有测试集或隐藏答案之上，用于压缩公开题库被模型训练数据“污染”的空间，减少了各厂商为了跑分而跑分的“注水”测试项目。\n该指数仍由九项评测构成，包括知识工作、编码、科学、通用能力各占 25%。其中编码 25% 的权重里，Cognition 于同日发布的 FrontierCode 2.0 独占 15%，Terminal-Bench 4.0 占 10%。\n其中最值得关注的 FrontierCode 2.0 完全换了一套评分逻辑。132 项任务全部来自真实开源仓库，模型提交的代码改动不再只由单元测试是否通过来判定，而是由该仓库的维护者按“是否愿意合并这个 PR”来打分，任何一项阻塞性检查失败即记零分。\nCognition 在 6 月推出 FrontierCode 初版时就强调，传统基准只检查代码能否跑通，而合并决策还涉及改动范围是否克制、风格是否与代码库一致、回归风险是否可控等测试无法完全覆盖的维度。v5 将这一基准升级到 2.0 并纳入主指数，等于把“可合并性”而非“可运行性”推到了编码能力评价的中心。\n在这一口径下，DeepSeek V4.1-Flash 1017（max）在 FrontierCode 2.0 上录得 28%，是所有已发布权重模型中得分最高的一个。\nKimi K3.1 Pro 以 25.5% 紧随其后，但其完整权重按月之暗面官方博客的表述，要到 11 月 4 日前才发布，AA 在 v5 报告中将其标注为“weights not yet released”。\n谷歌 Gemini 4 Argon（high）为 25.7%，GPT-6 Luna 为 25.2%，均低于 DeepSeek V4.1 Flash。需要说明的是，这一成绩位于 FrontierCode 2.0 单项之内；在 Intelligence Index v5 的综合得分上，DeepSeek V4.1 Flash 与 GLM-5.3 同为 32 分，仍落后榜首 Claude Opus 5.5（58 分）26 分，且低于 Claude Haiku 5.5 的 36 分。\nArtificial Analysis 指出，v5 真正加剧的是开源与闭源前沿之间的整体距离。v4.3 时，最强开源模型与榜首的差距是 3 分；v5 把大部分公开题换成私有题、并大幅加重智能体实战任务的比重之后，这一差距扩大到 12 分。Kimi K3.1 Pro 以 46 分成为名义上最强的开源权重模型，但它尚未发布权重；已发布权重的模型中，32 分是当前的天花板。\n差距在 HLE-Diamond 和 Terminal-Bench-Science 两项上最为刺眼：Kimi K3.1 Pro 分别为 37% 和 34%，而 Claude Opus 5.5 在 HLE-Diamond 上为 68%，GPT-6 Astra 在 Terminal-Bench-Science 上为 63%。\nv5 并没有让开源模型“一夜变差”，它改变的是测量的东西 —— 当题目不再公开、评分不再只看通过率，那些依靠公开题库优化出来的分数被系统性地挤掉了水分。\n另一个被 v5 放大的变量是“努力值”（思考等级）的成本优势。Claude Opus 5.5 从低努力档到 max 档跨越 23 分，单任务成本从 0.98 美元升至 10.04 美元，相差约 10 倍。\nClaude Sonnet 5.5 在不同努力档之间的分差从 v4.3 的 20 分扩大到 29 分，GPT-6.1 Sol 的跨度翻倍至 20 分。这意味着同一模型在“省钱模式”和“全力模式”下的表现差距，已经大到不像一个模型。\n在得分最高的十款模型中，GPT-6.1 Terra 的每任务成本最低，为 0.96 美元，Claude Fable 5.1 最高，为 13.04 美元，相差超过 13 倍。\n与 v5 同步推出的 Progress Index v1 则处理另一个问题：当基准本身每隔几个月就换一次，不同年代的模型如何放在同一把尺子上比较。Progress Index 将 2022 年 11 月以来发布的主要语言模型映射到一个连续的能力尺度上，其设计参考了 Epoch AI 的 Epoch Capabilities Index 的方法。Intelligence Index 继续作为衡量“当下前沿”的主指标，Progress Index 则用于观察“能力随时间如何演进”，两者回答的是不同问题。\n实际上，v5 的九项评测中没有任何一个模型全部领先：Claude Opus 5.5 拿下 FrontierCode 2.0、HLE-Diamond 和 AA-Omniscience 三项，GPT-6 Astra 在 Terminal-Bench-Science 和 CritPt v2 困难子集上居首，Kimi K3.1 Pro 在 Terminal-Bench 4.0 上以 67% 领先，单项优势的分散程度比总分排名更值得注意。\n相关阅读：",
+ "report": {
+  "summary": "AA 发布 Intelligence Index v5，私有题占六成、开源与闭源差距扩大到 12 分",
+  "background": "Artificial Analysis 是业界最常被引用的第三方模型评测机构，其 Intelligence Index 自 2026 年 1 月的 v4 以来，一直是模型厂商发布新模型时对照的\"公共尺子\"。但过去一年，公开题库被训练数据吸收、厂商针对榜单调优（业内称之为\"跑分注水\"）的问题愈发严重，分数与实际体验脱节。v5 是该指数上线以来最大幅度重构：把六成权重搬到私有或隐藏答案的测试集上，并大幅提高智能体实战任务比重；同时，编码维度首次引入 Cognition 的 FrontierCode 2.0，用真实仓库维护者的\"是否愿意合并这个 PR\"替代单元测试通过率。",
+  "key_points": [
+   "v5 将 60% 权重改为私有测试集或隐藏答案，公开题库不再能靠\"刷题\"拿分，过去靠公开题优化出来的分数被系统性挤掉水分。",
+   "编码评测逻辑变了：FrontierCode 2.0 的 132 项任务全部来自真实开源仓库，由维护者按\"愿不愿意合并这个 PR\"打分，任一阻塞性检查失败即记零分。",
+   "DeepSeek V4.1-Flash 1017（max）在 FrontierCode 2.0 拿到 28%，是所有已发布权重模型中的最高分；Gemini 4 Argon 25.7%、GPT-6 Luna 25.2% 均低于它。",
+   "但综合分差距反而拉大：开源与闭源榜首差距从 v4.3 时的 3 分扩大到 12 分，已发布权重的开源模型天花板只有 32 分，榜首 Claude Opus 5.5 为 58 分。",
+   "另一变量是\"努力值\"成本：Claude Opus 5.5 从低努力到 max 档跨越 23 分，单任务成本从 0.98 美元涨到 10.04 美元，同模型高低档表现差异已大到不像同一个模型。",
+   "单项领先高度分散：Opus 5.5 拿下三项，GPT-6 Astra 两项居首，Kimi K3.1 Pro 在 Terminal-Bench 4.0 以 67% 领先，没有模型全面通吃。"
+  ],
+  "impact": "对 AI 行业，基准从\"能不能跑通\"转向\"能不能合并\"，意味着评价重心从代码生成转向工程可用性，厂商的跑分营销空间被压缩，同时私有测试集可能成为新的军备竞赛资源。对开发者，FrontierCode 这类任务比刷 LeetCode 更接近真实 PR 评审，可作为选择编码模型的重要参考，但也提醒：开源模型在长程智能体任务上仍有明显短板，关键流程别只看综合分。对普通用户，模型的\"省钱模式\"与\"全力模式\"差距被量化，产品定价与档位设计会更透明，也更需要看清套餐背后到底是哪一档。",
+  "tools": "想跟进可关注 Artificial Analysis 官网的 v5 报告与 Progress Index v1；编码方向可复现 FrontierCode 2.0 与 Terminal-Bench 4.0 任务集；横向对比长周期能力可参考 Epoch AI 的 Epoch Capabilities Index；本地跑分可用 lm-evaluation-harness，实测则直接调 DeepSeek V4.1-Flash、Claude Opus 5.5 的 API 做同任务成本对比。"
+ },
+ "lang": "zh"
+}

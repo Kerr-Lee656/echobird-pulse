@@ -18898,5 +18898,131 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-28T14:40:14Z",
   "fetched_at": "2026-10-28T16:38:39.599175+00:00"
+ },
+ "090274bcc474": {
+  "id": "090274bcc474",
+  "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:31:47.859597+00:00"
+ },
+ "2ea704ca2c0e": {
+  "id": "2ea704ca2c0e",
+  "url": "https://mashable.com/tech/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-meds",
+  "title": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:31:56.106998+00:00"
+ },
+ "133565d9dc54": {
+  "id": "133565d9dc54",
+  "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law",
+  "title": "New York governor signs AI chatbot child safety law",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:32:09.391612+00:00"
+ },
+ "c6ec430a1079": {
+  "id": "c6ec430a1079",
+  "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
+  "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:32:19.299775+00:00"
+ },
+ "972d9191c8b7": {
+  "id": "972d9191c8b7",
+  "url": "https://thenextweb.com/news/github-universe-copilot-fusion-octoverse-agents",
+  "title": "GitHub launches Copilot Fusion as agents start 40% of pull requests",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:32:31.674163+00:00"
+ },
+ "675fd8b6d005": {
+  "id": "675fd8b6d005",
+  "url": "https://thenextweb.com/news/anthropic-gsa-onegov-40-percent-claude-discount",
+  "title": "Anthropic gives US governments 40% off Claude in new GSA deal",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:32:43.586360+00:00"
+ },
+ "4e56c31e0d3f": {
+  "id": "4e56c31e0d3f",
+  "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10",
+  "title": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:32:52.724653+00:00"
+ },
+ "213de8694cb2": {
+  "id": "213de8694cb2",
+  "url": "https://www.gelonghui.com/live/2734364",
+  "title": "谷歌发布前沿模型 Gemini 4 Carbon，编程与网络安全能力显著提升",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T22:33:04.212775+00:00"
+ },
+ "c4154e2028d8": {
+  "id": "c4154e2028d8",
+  "url": "https://www.ithome.com/1/019/261.htm",
+  "title": "谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T20:38:55Z",
+  "fetched_at": "2026-10-28T22:33:14.003258+00:00"
+ },
+ "e0be373c4ed3": {
+  "id": "e0be373c4ed3",
+  "url": "https://www.ithome.com/1/019/251.htm",
+  "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T18:42:43Z",
+  "fetched_at": "2026-10-28T22:33:26.262837+00:00"
+ },
+ "a92d7b7ef0e2": {
+  "id": "a92d7b7ef0e2",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+  "title": "Gemini 4 Carbon",
+  "source": "blog.google",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-28T17:24:03.360Z",
+  "fetched_at": "2026-10-28T22:33:36.206192+00:00"
+ },
+ "958bbab48704": {
+  "id": "958bbab48704",
+  "url": "https://www.ithome.com/1/019/237.htm",
+  "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T17:06:21Z",
+  "fetched_at": "2026-10-28T22:33:46.354082+00:00"
+ },
+ "0c3c33511874": {
+  "id": "0c3c33511874",
+  "url": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
+  "title": "对于英伟达来说，谷歌的人工智能芯片业务正变得越来越难以忽视",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-28T16:37:10.403Z",
+  "fetched_at": "2026-10-28T22:33:55.107374+00:00"
+ },
+ "74a517aeb3c8": {
+  "id": "74a517aeb3c8",
+  "url": "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029",
+  "title": "Major Memory Vendor: We're Basically Sold Out Through 2029",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-28T16:23:24Z",
+  "fetched_at": "2026-10-28T22:34:05.942515+00:00"
  }
 }

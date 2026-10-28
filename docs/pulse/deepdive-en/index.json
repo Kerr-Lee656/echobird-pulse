@@ -9124,5 +9124,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-28T13:19:49Z",
   "fetched_at": "2026-10-28T16:41:36.600399+00:00"
+ },
+ "020314ea17c3": {
+  "id": "020314ea17c3",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "title": "Microsoft made $10B from OpenAI deals in a single quarter",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T22:15:49Z",
+  "fetched_at": "2026-10-28T22:34:50.561276+00:00"
+ },
+ "0c8f9ce2d60c": {
+  "id": "0c8f9ce2d60c",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-28T21:58:32.000Z",
+  "fetched_at": "2026-10-28T22:35:03.357996+00:00"
+ },
+ "3e30cffa8ac5": {
+  "id": "3e30cffa8ac5",
+  "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+  "title": "AI training platform Outlier illegally surveils European platform workers",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T21:22:15Z",
+  "fetched_at": "2026-10-28T22:35:37.809791+00:00"
+ },
+ "7b5653451a24": {
+  "id": "7b5653451a24",
+  "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-28T20:03:00.000Z",
+  "fetched_at": "2026-10-28T22:35:50.804132+00:00"
+ },
+ "681787ca623c": {
+  "id": "681787ca623c",
+  "url": "https://vinnews.com/2026/10/28/godaddy-says-ai-driven-cyberattack-exposed-website-customer-information/",
+  "title": "GoDaddy Says AI-Driven Cyberattack Exposed Website Customer Information",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T19:52:37Z",
+  "fetched_at": "2026-10-28T22:36:20.815695+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "74a517aeb3c8",
+ "url": "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029",
+ "title": "Major Memory Vendor: We're Basically Sold Out Through 2029",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-10-28T16:23:24Z",
+ "fetched_at": "2026-10-28T22:34:05.942515+00:00",
+ "content": "Prepare for a very long memory shortage. One of the leading suppliers, SK Hynix, says it's basically sold out of DRAM for the next three years.\nDemand for memory chips is \"expected to outpace supply through 2030,\" the Korean company said in its most recent earnings presentation, a dire projection that matches what SK Hynix’s chairman, Chey Tae-won, said in March.\nIn Wednesday's earnings call, executives elaborated on the situation, noting that its customers have already locked in more than 50% of SK Hynix’s manufacturing capacity for 2027 and 2028 through long-term agreements (LTAs), and customers are also in talks for more orders.\n“The volume already secured under LTAs and the demand currently being discussed with customers taken together means that our DRAM and HBM [High Bandwidth Memory] volume for the next three years through 2029 is effectively sold out,” according to a translation.\n\"To date, we have signed LTAs with 14 key customers, including major global CSPs [cloud service providers],\" SK Hynix added. \"While LTAs typically operate on a five-year basis, we are proactively discussing extension of existing contract periods with some customers.”\nAccording to Counterpoint Research, SK Hynix was the second-largest DRAM supplier in Q2, with a 25% share, behind Samsung.\nSK Hynix says it’s accelerating investment to build more manufacturing capacity. But because the facilities can take years to construct, \"We expect it to be difficult to fully meet customers' volume requirements in the near term,\" it says.\nTight supplies signal that higher-than-usual prices for all kinds of consumer electronics could be the norm through the end of the decade. The graphics card market has been hit especially hard. Pricing for Nvidia’s higher-end RTX 5000 cards has been soaring all year, reportedly forcing the company to delay new GPU models.\nThe shortage has also led to a major drop in shipments for PCs and smartphones. However, SK Hynix says that, “While shipment volumes for PCs and mobile devices are expected to decrease due to cost burdens from rising memory prices and supply shortages, AI infrastructure demand growth is expected to more than offset this decline, sustaining growth in the overall memory market.”\nAbout Our Expert\nI've been a journalist for over 15 years. I got my start as a schools and cities reporter in Kansas City and joined PCMag in 2017, where I cover satellite internet services, cybersecurity, PC hardware, and more. I'm currently based in San Francisco, but previously spent over five years in China, covering the country's technology sector.\nSince 2020, I've covered the launch and explosive growth of SpaceX's Starlink satellite internet service, writing 600+ stories on availability and feature launches, but also the regulatory battles over the expansion of satellite constellations, fights with rival providers like AST SpaceMobile and Amazon, and the effort to expand into satellite-based mobile service. I've combed through FCC filings for the latest news and driven to remote corners of California to test Starlink's cellular service.\nI also cover cyber threats, from ransomware gangs to the emergence of AI-based malware. In 2024 and 2025, the FTC forced Avast to pay consumers $16.5 million for secretly harvesting and selling their personal information to third-party clients, as revealed in my joint investigation with Motherboard.\nI also cover the PC graphics card market. Pandemic-era shortages led me to camp out in front of a Best Buy to get an RTX 3000. I'm now following how the AI-driven memory shortage is impacting the entire consumer electronics market. I'm always eager to learn more, so please jump in the comments with feedback and send me tips.",
+ "report": {
+  "summary": "SK海力士称DRAM产能已售罄至2029年。",
+  "background": "SK海力士最新财报电话会透露，受AI数据中心和HBM需求爆发推动，其DRAM及HBM产能已被长期协议锁定，超过50%的2027-2028年产能已售出，并正与14家全球CSP等客户洽谈续约。公司预计供需紧张将持续到2030年，新增晶圆厂建设周期长，短期难以缓解。这延续了其董事长此前预警，也反映存储行业进入AI驱动的超级周期。",
+  "key_points": [
+   "SK海力士称，通过长期协议已锁定2027-2028年超50%产能，加上洽谈中的订单，DRAM和HBM到2029年基本售罄。",
+   "供需失衡主因是AI基础设施对HBM和服务器DRAM需求激增，而新增产能建设需数年，短期无法补足缺口。",
+   "内存涨价已传导至消费端：高端显卡价格全年飙升，英伟达据称推迟新GPU型号，PC和手机出货量下滑。",
+   "SK海力士是全球第二大DRAM厂商，2025年Q2份额约25%，仅次于三星；其14家核心客户包括全球大型云服务商。",
+   "公司预计PC/手机需求因成本上升而减少，但AI基础设施需求增长将抵消下滑，支撑整体存储市场继续增长。"
+  ],
+  "impact": "对AI行业，HBM和DRAM长期紧缺将推高算力成本，云厂商和大模型公司需提前锁定供应；对开发者，GPU/显存价格高企，模型训练与推理成本上升，需更重视显存优化；对普通用户，显卡、PC、手机等电子产品可能持续涨价或延迟上市。",
+  "tools": "可关注TrendForce/DRAMeXchange追踪存储价格，Counterpoint了解份额；开发侧可用vLLM、llama.cpp等推理优化项目降低显存占用，云上可用Spot实例和弹性调度控制成本。"
+ },
+ "lang": "zh"
+}

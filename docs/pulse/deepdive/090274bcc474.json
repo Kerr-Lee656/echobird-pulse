@@ -1,0 +1,24 @@
+{
+ "id": "090274bcc474",
+ "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+ "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-28T22:31:47.859597+00:00",
+ "content": "Google is making it easier for businesses to connect their apps to its AI experiences across Search and Gemini with the debut of its Connected Apps Platform.\nIntroduced in Gemini and Google Search earlier this year, connected apps let users securely link and interact with popular third-party services, then use them to take specific actions. For instance, you could connect to Canva to design a flyer, or to YouTube Music to build a playlist.\nWe’ve seen varying takes on the idea by other consumer-facing AI services like ChatGPT and Meta’s Muse. The premise is that such integrations could ultimately shift consumer behavior away from launching and using individual apps to instead using their favorite services through their preferred AI provider.\nHowever, to successfully capture and retain consumers’ attention, there have to actually be a wide range of connected apps to explore.\nGoogle’s idea is to open its doors to any business or developer that wants to reach users through Search or Gemini by allowing them to submit their own connected apps and monitor their performance.\nThe platform preview is currently available in beta to developers in the U.S., and will allow developers to build and submit apps that can be used across Google’s products.\nTo get started, developers would integrate with a cloud-hosted MCP (Model Context Protocol) server or Android MCP using the AppFunctions APIs, then use the Google Connected Console to register, test, and submit their app, Google explains.\nEssentially, this process lets devs connect their app to Google’s services so it can be used with the search giant’s AI features. Developers can also choose whether they want their app to be available via Search, the Gemini app, or both.\nAfter the app is live, developers can track traffic, latency, and error rates, and maintain control over their brand identity, such as their verified logos and authenticated accounts.\nSimilar to how SEO allowed companies and websites to show search engine rankings, this could well be one of the initial steps for businesses that want their services to be more visible to users on the agentic web.\nGoogle already has over 50 Connected Apps available in Gemini, including from partners like Adobe, Experian, Localiza, Peloton, and others, in addition to its own expansive set of services, from Workplace and Photos to YouTube Music and Google Home.\nThese apps will now come to Google Search over the next few weeks. Search today has fewer integrations, featuring apps like Instacart, Canva, YouTube Music, Yahoo Fantasy Football, and others.\nGoogle said meditation app Calm is another new partner on this effort, and that its app will soon launch on both Gemini and Search.\nThe new Connected Apps platform is in public preview for U.S. developers who sign up for the waitlist. Google did not share when it would become more broadly available.",
+ "report": {
+  "summary": "谷歌推出Connected Apps平台，向开发者开放Gemini与搜索接入",
+  "background": "AI助手正从回答问题转向替用户执行任务，连接第三方应用成为入口之争的必争之地。ChatGPT、Meta等已推出类似集成，试图让用户在自己常用的AI入口内直接调用各类服务，而不是逐个打开App。谷歌今年早些时候已在Gemini和搜索中上线部分连接应用，但数量有限；如今通过开放平台扩大生态，显然想借开发者规模守住入口地位，同时为代理式网络提前布局。",
+  "key_points": [
+   "谷歌发布Connected Apps Platform，任何开发者都可提交应用接入Gemini和搜索，目前面向美国开发者Beta公测，需排队申请。",
+   "技术路径围绕MCP：开发者通过云端托管的MCP服务器或Android MCP，配合AppFunctions API完成集成，再用Connected Console注册、测试和提交。",
+   "开发者可自行选择上架渠道（搜索、Gemini或两者），上线后能查看流量、延迟和错误率，并保留自有品牌标识与账号验证。",
+   "目前Gemini已有50多个连接应用，如Adobe、Peloton等；搜索侧较少，只有Instacart、Canva等，未来几周将陆续扩展。",
+   "这被视为代理式网络的SEO时刻：让服务在AI入口中被发现，可能成为企业新的流量必争之地。"
+  ],
+  "impact": "对AI行业，竞争焦点从模型能力转向生态规模，MCP作为事实标准的势头进一步增强；对开发者，多了一条触达谷歌海量用户的分发渠道，但也意味着要按谷歌规范改造应用，并接受其对流量的再分配；对普通用户，未来可在搜索或Gemini里直接订餐、做图、建歌单，减少在App间跳转，但便利背后是账号授权与数据边界的新权衡。",
+  "tools": "想跟进可关注：Model Context Protocol（MCP）规范与官方SDK、Google AppFunctions API与Connected Console、Android MCP；参考已上线的Canva、Instacart集成形态；也可用FastMCP等开源框架快速做原型验证。"
+ },
+ "lang": "zh"
+}

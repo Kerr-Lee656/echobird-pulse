@@ -1,0 +1,24 @@
+{
+ "id": "675fd8b6d005",
+ "url": "https://thenextweb.com/news/anthropic-gsa-onegov-40-percent-claude-discount",
+ "title": "Anthropic gives US governments 40% off Claude in new GSA deal",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-28T22:32:43.586360+00:00",
+ "content": "Anthropic will give US government buyers a 40% discount on Claude under an expanded deal with the General Services Administration (GSA). The company announced it in a blog post on Tuesday, 27 October. For the first time, the discount also covers state, local, tribal and territorial governments.\nIt applies to Claude Enterprise, Claude for Government and the Claude API. The discount covers token-based usage across all Claude models available to the government, GSA said in its news release. Agencies have no minimum order and pay only for what they use.\n“The discounts offered through the agreement are estimated to save the government $1 billion,” Anthropic wrote.\nThe end of the $1 offer\nThe deal replaces Anthropic’s first OneGov agreement from August 2025, which gave federal agencies Claude for a nominal $1. That offer expires on 31 October, Christian Robles reported for Nextgov/FCW. The new discount runs for 27 months, until 31 January 2029, according to a GSA website cited by Nextgov.\nOpenAI agreed a similar deal with GSA, with a 50% discount on token-based usage. Its 27-month agreement started at the beginning of October, Nextgov reported. Last week, the Department of Health and Human Services said it planned a sole-source contract for Claude models, Nextgov added.\nHow agencies use Claude\nAbout 500 US federal, state and local government organisations now use Claude, Anthropic said. Weekly active users of Claude for Government are up about eightfold since February. Usage across federal civilian agencies has grown about 20-fold in a year.\nUtah gave Claude Code to 34 developers across 10 state agencies. In a four-week pilot, 71% of them said they saved 20 or more hours. A federal security team used Claude Mythos, the model Anthropic held back for safety, to find and patch a flaw. A human penetration test had missed it. More than half of US states took part in its cyber defence programme, the company said.\nGSA said its OneGov programme has saved more than $1.8bn. About $1.6bn came from what it calls its “super intelligence agreements”.\nThe deal comes in the week Anthropic filed for its IPO on Nasdaq. The company has told IPO investors that US government actions could hit its business.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic 与美政府扩大合作，Claude 全线降价四成",
+  "background": "2025 年 8 月，Anthropic 通过美国总务管理局（GSA）的 OneGov 计划，以象征性的 1 美元向联邦机构提供 Claude，借政府采购进入市场。该协议将于 10 月 31 日到期，此次以 40% 折扣续约，并首次覆盖州、地方、部落和领地政府。同期，OpenAI 也与 GSA 签署了 50% 折扣、为期 27 个月的协议，政务市场正成为大模型厂商争夺的关键领域。值得注意的是，Anthropic 在同一周递交了纳斯达克 IPO 申请，并提示政府相关政策可能影响其业务。",
+  "key_points": [
+   "折扣覆盖 Claude Enterprise、Claude for Government 和 Claude API，适用于政府可用的全部模型，按 token 用量计费，无最低采购量，用多少付多少。",
+   "新协议为期 27 个月，至 2029 年 1 月 31 日；Anthropic 估算可为政府节省约 10 亿美元，取代此前 1 美元的象征性报价。",
+   "目前约 500 个美国联邦、州和地方政府机构在使用 Claude；政府版周活跃用户自 2 月以来增长约 8 倍，联邦文职机构用量一年增长约 20 倍。",
+   "犹他州 10 个机构的 34 名开发者试用 Claude Code 四周，其中 71% 表示节省了 20 小时以上；联邦安全团队还用它发现并修复了人工渗透测试漏掉的漏洞。",
+   "竞争对手 OpenAI 给出 50% 折扣，卫生与公众服务部（HHS）计划对 Claude 进行单一来源采购，政务市场的价格竞争已经打响。"
+  ],
+  "impact": "对 AI 行业来说，政务市场已成为大模型商业化中最确定的增长点，折扣竞争会压低整体客单价，也会让“安全合规 + 本地化部署”成为必须满足的条件。对开发者而言，政府项目中的 Claude API 成本显著下降，承接公共部门外包的门槛降低，Claude Code 的试点数据也提供了可复制的参考案例。对普通用户来说，政府服务背后的自动化与网络安全能力会提升，但公共数据与决策将更多依赖单一供应商，供应商锁定与透明度风险值得关注。",
+  "tools": "想跟进可关注 Claude Code（终端内的编码代理，政府试点已证明能提升效率）、Claude API 与 Claude for Government（面向合规场景的版本）；采购侧可查阅 GSA OneGov 市场及各机构 IT 采购公告；若看重成本与合规弹性，可对比 OpenHands、LangChain 等开源代理框架。"
+ },
+ "lang": "zh"
+}
