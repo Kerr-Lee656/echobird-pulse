@@ -18808,5 +18808,41 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-27T17:50:07.911Z",
   "fetched_at": "2026-10-28T01:17:46.560713+00:00"
+ },
+ "a9836891cfc5": {
+  "id": "a9836891cfc5",
+  "url": "https://www.aibase.com/zh/news/31907",
+  "title": "31岁工程师离世，父母起诉OpenAI：ChatGPT被指指导其减药并隐瞒医生",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T08:23:53.362649+00:00"
+ },
+ "a9fcb62ea1ca": {
+  "id": "a9fcb62ea1ca",
+  "url": "https://www.aibase.com/zh/news/31922",
+  "title": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T08:24:01.910687+00:00"
+ },
+ "5725080b4cf0": {
+  "id": "5725080b4cf0",
+  "url": "https://www.ithome.com/1/018/887.htm",
+  "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T08:24:13.000512+00:00"
+ },
+ "2a1dad2cd694": {
+  "id": "2a1dad2cd694",
+  "url": "https://www.ithome.com/1/018/906.htm",
+  "title": "Anthropic 上市文件披露多平台算力布局，英伟达定价权或承压",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T06:35:47Z",
+  "fetched_at": "2026-10-28T08:24:37.351935+00:00"
  }
 }

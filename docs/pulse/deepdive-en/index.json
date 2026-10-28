@@ -8998,5 +8998,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-27T20:44:20Z",
   "fetched_at": "2026-10-28T01:20:41.962685+00:00"
+ },
+ "f45c7980de26": {
+  "id": "f45c7980de26",
+  "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+  "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T08:20:02Z",
+  "fetched_at": "2026-10-28T08:25:17.024320+00:00"
+ },
+ "04c105d2f771": {
+  "id": "04c105d2f771",
+  "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+  "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-10-28T06:00:00.000Z",
+  "fetched_at": "2026-10-28T08:25:47.074292+00:00"
+ },
+ "26b3e231b17f": {
+  "id": "26b3e231b17f",
+  "url": "https://arxiv.org/abs/2610.36513",
+  "title": "MedConstBench: Benchmarking How Constitutions Steer LLMs in Medical Ethics",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-28T04:00:00.000Z",
+  "fetched_at": "2026-10-28T08:27:33.278059+00:00"
+ },
+ "ef598a94a452": {
+  "id": "ef598a94a452",
+  "url": "https://arxiv.org/abs/2610.36589",
+  "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-28T04:00:00.000Z",
+  "fetched_at": "2026-10-28T08:27:48.966108+00:00"
+ },
+ "de5571a7ca7e": {
+  "id": "de5571a7ca7e",
+  "url": "https://arxiv.org/abs/2610.36631",
+  "title": "The uneven rise of AI-generated web content",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-28T04:00:00.000Z",
+  "fetched_at": "2026-10-28T08:28:01.820786+00:00"
  }
 }
