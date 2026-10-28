@@ -8917,5 +8917,86 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-27T20:00:27.000Z",
   "fetched_at": "2026-10-27T22:12:30.164571+00:00"
+ },
+ "4ba4897dde9b": {
+  "id": "4ba4897dde9b",
+  "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+  "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-28T01:15:28.000Z",
+  "fetched_at": "2026-10-28T01:18:20.723169+00:00"
+ },
+ "119a8adb3ba0": {
+  "id": "119a8adb3ba0",
+  "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+  "title": "Amazon defines the role of the developer in the age of AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T01:00:33Z",
+  "fetched_at": "2026-10-28T01:18:33.585135+00:00"
+ },
+ "bbd835877f80": {
+  "id": "bbd835877f80",
+  "url": "https://aihot.news/items/ku284awvyj7i3dt4j7oflb78m",
+  "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+  "source": "公众号：数字生命卡兹克",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-28T00:22:00.000Z",
+  "fetched_at": "2026-10-28T01:18:47.521655+00:00"
+ },
+ "4c5627bb6952": {
+  "id": "4c5627bb6952",
+  "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+  "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-27T23:34:27.000Z",
+  "fetched_at": "2026-10-28T01:19:05.132330+00:00"
+ },
+ "b893fff35c9f": {
+  "id": "b893fff35c9f",
+  "url": "https://aihot.news/items/o5s4s2z9njz29hgd7im06gzrf",
+  "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-27T23:31:32.000Z",
+  "fetched_at": "2026-10-28T01:19:23.351353+00:00"
+ },
+ "2c681cf3c589": {
+  "id": "2c681cf3c589",
+  "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+  "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+  "source": "Hacker News (11pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T22:29:50Z",
+  "fetched_at": "2026-10-28T01:19:57.074152+00:00"
+ },
+ "550f4d88633d": {
+  "id": "550f4d88633d",
+  "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+  "source": "Hacker News (16pts, 10c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T22:23:37Z",
+  "fetched_at": "2026-10-28T01:20:14.443316+00:00"
+ },
+ "8b2d32a128d5": {
+  "id": "8b2d32a128d5",
+  "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+  "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-10-27T21:31:14.000Z",
+  "fetched_at": "2026-10-28T01:20:25.230077+00:00"
+ },
+ "c6910c41cb8a": {
+  "id": "c6910c41cb8a",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+  "title": "In China, the AI bubble has burst",
+  "source": "Hacker News (12pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-27T20:44:20Z",
+  "fetched_at": "2026-10-28T01:20:41.962685+00:00"
  }
 }

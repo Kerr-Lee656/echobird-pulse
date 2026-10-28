@@ -18790,5 +18790,23 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-27T18:06:10.367Z",
   "fetched_at": "2026-10-27T22:10:18.145101+00:00"
+ },
+ "a24f0e393667": {
+  "id": "a24f0e393667",
+  "url": "https://www.36kr.com/p/4042805862045574",
+  "title": "算力最多，进展最慢：字节大模型困于赛马制",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T01:17:36.767840+00:00"
+ },
+ "8e0689d51eb5": {
+  "id": "8e0689d51eb5",
+  "url": "https://phys.org/news/2026-10-ai-insidiously-undermines-professionals-skills.html",
+  "title": "人工智能的使用正在悄无声息地削弱专业人士的技能",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-27T17:50:07.911Z",
+  "fetched_at": "2026-10-28T01:17:46.560713+00:00"
  }
 }
