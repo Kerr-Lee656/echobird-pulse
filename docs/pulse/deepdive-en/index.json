@@ -9043,5 +9043,86 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-10-28T04:00:00.000Z",
   "fetched_at": "2026-10-28T08:28:01.820786+00:00"
+ },
+ "b29ca0588776": {
+  "id": "b29ca0588776",
+  "url": "https://docs.mistral.ai/studio/conversations/responses",
+  "title": "Mistral Responses API",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T16:15:38Z",
+  "fetched_at": "2026-10-28T16:39:14.196914+00:00"
+ },
+ "40d40d4a66fe": {
+  "id": "40d40d4a66fe",
+  "url": "https://aihot.news/items/xonc43xgcx39303i40k8022rl",
+  "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
+  "source": "GitHub Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-28T16:09:28.000Z",
+  "fetched_at": "2026-10-28T16:39:27.272730+00:00"
+ },
+ "aad5f298a95c": {
+  "id": "aad5f298a95c",
+  "url": "https://aihot.news/items/s3m3uzabqoxxed9ae50b73qvc",
+  "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+  "source": "GitHub Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-28T16:07:40.000Z",
+  "fetched_at": "2026-10-28T16:39:41.704329+00:00"
+ },
+ "ec733f799e1a": {
+  "id": "ec733f799e1a",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-10-28T14:58:17.000Z",
+  "fetched_at": "2026-10-28T16:40:11.104611+00:00"
+ },
+ "112f545eb8d4": {
+  "id": "112f545eb8d4",
+  "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+  "title": "Meta's Muse Realtime Avatar turns any image into a talking AI character",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T14:55:21Z",
+  "fetched_at": "2026-10-28T16:40:23.407227+00:00"
+ },
+ "309551bea970": {
+  "id": "309551bea970",
+  "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+  "title": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T14:15:42Z",
+  "fetched_at": "2026-10-28T16:40:39.122806+00:00"
+ },
+ "b16df7ad1b73": {
+  "id": "b16df7ad1b73",
+  "url": "https://github.com/thomasunise/casecite",
+  "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+  "source": "Hacker News (68pts, 32c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T13:56:21Z",
+  "fetched_at": "2026-10-28T16:41:13.623222+00:00"
+ },
+ "37c2bd79c049": {
+  "id": "37c2bd79c049",
+  "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+  "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+  "source": "Hacker News (51pts, 58c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T13:27:24Z",
+  "fetched_at": "2026-10-28T16:41:25.775427+00:00"
+ },
+ "45bc682f645a": {
+  "id": "45bc682f645a",
+  "url": "https://chrisinnes.uk/notes/the-case-for-ai-lts/",
+  "title": "The Case for AI LTS: Why the Real World Needs a Stable Release Cycle",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T13:19:49Z",
+  "fetched_at": "2026-10-28T16:41:36.600399+00:00"
  }
 }

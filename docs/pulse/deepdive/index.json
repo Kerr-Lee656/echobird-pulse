@@ -18844,5 +18844,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-28T06:35:47Z",
   "fetched_at": "2026-10-28T08:24:37.351935+00:00"
+ },
+ "9286c9e1a3c5": {
+  "id": "9286c9e1a3c5",
+  "url": "https://thenextweb.com/news/parents-sue-openai-chatgpt-seizure-medication",
+  "title": "Parents sue OpenAI over ChatGPT advice to cut daughter’s seizure drug",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T16:36:43.185958+00:00"
+ },
+ "cca8d4c4e510": {
+  "id": "cca8d4c4e510",
+  "url": "https://thenextweb.com/news/anthropic-mithril-acquisition-claude-drug-development",
+  "title": "Anthropic buys a one-person biotech and starts its own drug programmes",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T16:36:53.060091+00:00"
+ },
+ "17b6811ef4d1": {
+  "id": "17b6811ef4d1",
+  "url": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
+  "title": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-28T16:37:11.122160+00:00"
+ },
+ "041e5483954f": {
+  "id": "041e5483954f",
+  "url": "https://www.36kr.com/p/4044758924612485",
+  "title": "刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-10-28T14:40:34.730Z",
+  "fetched_at": "2026-10-28T16:37:23.146827+00:00"
+ },
+ "ada48de5124b": {
+  "id": "ada48de5124b",
+  "url": "https://www.aibase.com/zh/news/31933",
+  "title": "OpenAI 被曝将向谷歌采购 TPU 芯片，算力供应链格局再变",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-28T16:37:40.258951+00:00"
+ },
+ "256cf5531b79": {
+  "id": "256cf5531b79",
+  "url": "https://www.huxiu.com/article/4901248.html?f=rss",
+  "title": "人工智能就业风险审查：国务院“软意见”背后的硬治理转向",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T14:40:14Z",
+  "fetched_at": "2026-10-28T16:38:39.599175+00:00"
  }
 }
