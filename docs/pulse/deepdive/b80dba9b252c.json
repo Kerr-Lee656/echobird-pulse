@@ -1,0 +1,24 @@
+{
+ "id": "b80dba9b252c",
+ "url": "https://thenextweb.com/news/google-cloud-revenue-doubles-q3-2026",
+ "title": "Google Cloud revenue doubles to $30.7bn, beating forecasts",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T19:36:49.983778+00:00",
+ "content": "Google Cloud more than doubled its revenue in the third quarter, beating analysts’ forecasts, Alphabet said on Wednesday. Weaker growth in search advertising, however, meant the group as a whole fell short of expectations.\nCloud revenue rose 103% from a year earlier to $30.7bn, according to Alphabet’s quarterly results. Analysts had expected $29.57bn, Reuters reported, citing LSEG data. The unit’s operating profit climbed to $11.1bn, from $3.6bn a year earlier.\nGoogle Cloud is the world’s third-largest cloud provider, behind Amazon Web Services and Microsoft Azure. Use of its AI models is also growing.\nPichai said Google’s systems now process nearly 32 billion tokens a minute, more than four times the level a year ago. The Gemini app has about 1 billion users, he added.\nCloud customers have also signed up for much more work ahead. The unit’s backlog of contracted revenue reached $561bn, and Alphabet expects to recognise more than 55% of it within two years, according to Reuters.\n“We had a strong quarter and are now on a half-trillion dollar revenue run rate,” said Sundar Pichai, Alphabet’s chief executive.\nAlphabet’s total revenue grew 25% to $127.6bn, slightly below the $128.2bn analysts had forecast. Advertising brought in $82bn against expectations of $83.4bn, as more people used Google’s AI Mode in search, Reuters reported.\nSpending on AI infrastructure also kept rising. Alphabet spent a record $51.4bn on property and equipment in the quarter, more than double a year earlier. As a result, its free cash flow was negative $9.1bn for a second straight quarter.\nThe company kept its forecast for this year’s capital spending at $195bn to $205bn, the range it set in July. Its finance chief said spending would rise significantly again in 2027 but gave no figure.\nNet income fell 25% to $26.2bn, mainly because of an $8.7bn loss on equity investments. Alphabet shares dropped about 10% in after-hours trading.\nDemand for Google’s own AI chips is also part of the cloud story. Earlier this week, The Information reported that OpenAI plans to buy Google’s TPUs.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌云营收翻倍至307亿美元，超市场预期",
+  "background": "谷歌云长期位居全球第三大云厂商，排在AWS与微软Azure之后，多年来一直被视为Alphabet的\"烧钱部门\"。随着大模型训练与推理需求爆发，云厂商的收入结构正在从卖存储、卖虚拟机转向卖AI算力与模型服务。本季度Alphabet整体营收增长25%，但搜索广告因AI Mode改版而略低于预期，同时资本开支创下新高，市场对\"AI投入何时回本\"的疑虑集中爆发，导致财报后股价盘后下跌约10%。",
+  "key_points": [
+   "谷歌云季度收入307亿美元、同比翻倍，营业利润从36亿增至111亿美元，首次证明AI云业务可以规模化盈利。",
+   "Pichai披露系统每分钟处理近320亿token，是一年前的4倍多；Gemini应用用户约10亿，模型调用量成为新的增长引擎。",
+   "已签约但未确认的合同收入（backlog）高达5610亿美元，其中超55%预计两年内兑现，为未来收入提供了罕见的可见度。",
+   "本季资本开支创纪录达514亿美元、同比翻倍多，自由现金流连续两季为负91亿美元，全年指引维持在1950-2050亿美元。",
+   "云业务高歌猛进，但广告收入820亿美元不及预期、净利下滑25%，叠加OpenAI拟采购谷歌TPU的消息，算力外销成为新变量。"
+  ],
+  "impact": "对AI行业而言，云收入翻倍印证了推理需求正在真实变现，token消耗量取代GPU出货量成为更有效的景气指标，算力军备竞赛仍将继续。对开发者，谷歌云盈利改善意味着TPU与Gemini生态会获得更持续的投入，多一个可与英伟达、Azure抗衡的选择；但云价格上涨压力仍在。对普通用户，搜索被AI Mode重构带来的广告变现阵痛，最终可能转化为更强的订阅制与AI功能捆绑。",
+  "tools": "想跟进可关注 Vertex AI（模型托管与推理平台）、Gemini API 与 Gemini CLI、Google Cloud TPU（算力租赁与JAX生态）、BigQuery（数据与向量检索）、以及 Agent Development Kit（ADK）用于构建智能体应用。"
+ },
+ "lang": "zh"
+}

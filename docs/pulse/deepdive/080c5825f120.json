@@ -1,0 +1,24 @@
+{
+ "id": "080c5825f120",
+ "url": "https://www.aibase.com/zh/news/31962",
+ "title": "GitHub 发布 Copilot Fusion，多模型自动编排提升编码效率与性价比",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-29T19:37:13.501827+00:00",
+ "content": "GitHub在Universe2026大会上正式发布Copilot Fusion，这是一款智能编排层，可自动路由并组合OpenAI、Anthropic、Google等多家AI模型完成编码任务，无需开发者手动选择模型。该功能整合了既有自动模型选择技术与9月研究预览的Project HydraFusion多模型编排能力。\n开发者只需在模型选择器中选用Copilot Fusion，系统将根据任务复杂度自动决定使用单一模型、级联（Cascade）或评审(Critique)等执行模式，并匹配Standard(侧重效率与成本)、High(增强推理)或Max(追求最强能力)三档努力等级，避免简单任务产生不必要开销。\n在Artificial Analysis Coding Agent Index评测中，Copilot Fusion Max获得60分，仅比运行Opus5.5Max的Claude Code低2分，但平均API成本约为一半、Token消耗减半、任务完成速度快约40%。该功能已在所有GitHub Copilot计划中全面可用，覆盖Visual Studio Code、CLI、应用及JetBrains IDE，不额外收取编排费用，仅按实际调用模型计费，并提供至2026年11月30日的30%模型费用折扣。企业管理员可控制可用模型并设为默认体验。此外，系统还支持实验性本地模型路由，例如在Windows设备上调用微软MAI Code1.1Flash。\n微软同步推出由GitHub团队开发的Copilot harness，已赋能包括Copilot Studio、VS Code在内的多款产品，并通过Microsoft Foundry向开发者开放。多模型智能编排正成为AI编程工具的重要演进方向，有望在性能与成本之间实现更优平衡。",
+ "report": {
+  "summary": "GitHub发布Copilot Fusion，自动编排多模型降本增效",
+  "background": "多模型并用已成AI编程常态，但开发者手动选模型并不容易：强模型贵且慢，弱模型便宜却能力不足。GitHub此前已有自动模型选择能力，9月又推出Project HydraFusion研究预览，探索级联、评审等多模型协作。此次Fusion把两者合并为统一编排层，接入OpenAI、Anthropic、Google等模型，并用努力等级分档控制成本。同期微软推出Copilot harness，说明AI编程工具的竞争正从“用最强模型”转向“调度模型组合”。",
+  "key_points": [
+   "自动路由：开发者只需在模型选择器里选Copilot Fusion，系统按任务复杂度决定单模型、级联或评审模式，不再手动挑模型。",
+   "三档努力等级：Standard侧重效率与成本、High增强推理、Max追求最强能力，避免简单任务产生不必要开销。",
+   "性价比数据：Coding Agent Index评测得60分，仅比Claude Code低2分，但API成本约一半、Token消耗减半、速度快约40%。",
+   "全部可用且不额外收费：所有Copilot计划、VS Code、CLI、JetBrains均支持，只按实际模型调用计费，2026年11月30日前还有30%折扣。",
+   "企业管控与本地路由：管理员可限制可用模型并设为默认体验；实验性支持本地模型，如Windows设备调用微软MAI Code1.1Flash。"
+  ],
+  "impact": "对AI行业，竞争焦点从单一模型性能转向编排层与成本效率，模型厂商需靠性价比和可组合性取胜。对开发者，agent任务试错成本大幅下降，同一预算可跑更多任务，但“手动选模型”的经验价值被削弱，重心转向任务定义与结果校验。对普通用户，编程助手订阅更便宜更快。对企业，获得统一的模型治理与默认体验入口。",
+  "tools": "可关注GitHub Copilot Fusion（VS Code/CLI/JetBrains）、Project HydraFusion文档、Microsoft Foundry与Copilot harness；效果对比可查Artificial Analysis Coding Agent Index；想自建路由编排，可参考LiteLLM、OpenRouter、LangGraph等开源框架。"
+ },
+ "lang": "zh"
+}

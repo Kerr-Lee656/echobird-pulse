@@ -1,0 +1,24 @@
+{
+ "id": "458b13691c6a",
+ "url": "https://www.businessinsider.com/google-share-price-stock-plummet-earnings-ai-search-revenue-2026-10",
+ "title": "Google is set for a $400 billion stock wipeout after disappointing earnings",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T19:37:02.425872+00:00",
+ "content": "Alphabet is on track to suffer its biggest-ever one-day market-cap wipeout, and the second-largest value drop in stock-market history.\nShares of Google's parent company slumped by as much as 13.5% in early trading on Thursday, slashing Alphabet's market capitalization by over $500 billion, from around $3.9 trillion to $3.4 trillion.\nIf the losses persist until the close, it would be the second-largest one-day loss of market capitalization ever. Only AI chipmaker Nvidia has lost more value in a single day, when it shed close to $600 billion on January 27, 2025, on fears that China's DeepSeek would steal its lunch.\nAlphabet's shares slumped after its earnings report on Wednesday showed about $9.1 billion in negative free cash flow as it spent heavily on AI infrastructure, and profits that fell short of Wall Street's forecasts.\nGoogle's AI search revenue also lagged expectations, despite CEO Sundar Pichai saying on the earnings call that AI helped search queries grow at the fastest year-over-year pace in five years.\nSearch revenue of $63 billion came in below analysts' estimates and was virtually flat compared to the previous quarter.\nThat came as a shock because search revenue had beaten Wall Street's estimates in each of its four previous quarterly earnings reports.\n\"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode,\" Philipp Schindler, Google's chief business officer, said on the call.\nHe also announced that Google is introducing ads in AI Mode to more users, including in international markets for the first time.\nThe rise of generative AI has shaken up Google's core business as chatbots like ChatGPT and Claude give people an alternative way to search. While Google has its own chatbot, Gemini, and has integrated it into its search engine with AI Mode, revenue is lagging behind its popularity.\n\"Just like our shift to mobile over a decade ago, we are focused on building the best Search user experience, followed by monetization,\" Pichai said.\nAs well as one of the market's biggest-ever single-day value losses, if Alphabet stock closes more than 9.77% lower on Thursday, it would be the company's worst post-earnings percentage drop since going public in 2004.\n\"In the AI trade you need a clean story to pique investor interest. But it only matters if numbers track in the right direction,\" Mark Shmulik, a senior analyst at Bernstein, wrote in a note.\n\"Is Google an AI winner? Probably, but not today.\"",
+ "report": {
+  "summary": "谷歌AI投入拖累财报，市值单日蒸发数千亿美元",
+  "background": "Alphabet公布财报后股价暴跌：AI基础设施支出激增导致季度自由现金流为负91亿美元，利润不及预期；搜索收入630亿美元低于预期且环比几乎持平。生成式AI聊天机器人正分流传统搜索，Google以Gemini和AI Mode应战，但AI Mode变现率偏低，投资者开始要求AI投入转化为可见收入。",
+  "key_points": [
+   "财报后股价盘中一度跌13.5%，市值从约3.9万亿美元降至3.4万亿美元，按盘中计或创史上第二大单日市值损失。",
+   "季度自由现金流为负91亿美元，主要因AI基础设施投入沉重；利润低于华尔街预期，显示AI资本开支正挤压财务表现。",
+   "搜索收入630亿美元不及分析师预期，且环比几乎持平，打破此前连续四个季度超预期的记录，成为股价暴跌导火索。",
+   "CEO称AI Mode查询增长为五年最快，但商务官承认AI Mode变现率较低；Google将向更多用户和国际市场引入AI Mode广告。",
+   "若收盘跌幅超过9.77%，将是2004年上市以来最差财报后跌幅；Bernstein分析师称“谷歌是AI赢家？也许，但不是今天”。"
+  ],
+  "impact": "对AI行业，事件强化了“AI叙事必须兑现为收入”的审视，算力军备竞赛的回报周期受关注；对开发者，AI搜索与广告规则变化会影响流量、SEO和产品集成，需重估渠道依赖；对普通用户，搜索更AI化、广告进入AI Mode，答案的商业化程度上升。",
+  "tools": "可关注Google AI Mode、Gemini API、Search Console与Google Ads的AI Mode广告测试；开源侧可用LangChain或LlamaIndex搭建RAG搜索原型，观察AI搜索变现路径。"
+ },
+ "lang": "zh"
+}

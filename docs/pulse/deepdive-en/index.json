@@ -9250,5 +9250,59 @@
   "site_name": "The Verge",
   "published_at": "2026-10-29T10:00:04.000Z",
   "fetched_at": "2026-10-29T12:57:39.628690+00:00"
+ },
+ "a2187a632c27": {
+  "id": "a2187a632c27",
+  "url": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
+  "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+  "source": "Timothy B. Lee：Understanding AI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-29T19:10:41.000Z",
+  "fetched_at": "2026-10-29T19:38:19.334721+00:00"
+ },
+ "1160a122a313": {
+  "id": "1160a122a313",
+  "url": "https://united24media.com/war-in-ukraine/ukraines-new-ai-powered-turret-sky-sentinel-is-already-shooting-down-russias-fastest-drones-23750",
+  "title": "Ukraine's New AI-Powered Turret–Is Shooting Down Russia's Fastest Drones",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T19:01:37Z",
+  "fetched_at": "2026-10-29T19:38:31.136397+00:00"
+ },
+ "fc20f71c2e9c": {
+  "id": "fc20f71c2e9c",
+  "url": "https://wdwnt.com/2026/10/disney-files-patent-for-ai-characters-that-form-emotional-bonds-using-guest-memories/",
+  "title": "Disney Files Patents for AI That Form Emotional Bonds Using Guest Memories",
+  "source": "Hacker News (1pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T18:23:51Z",
+  "fetched_at": "2026-10-29T19:39:00.559114+00:00"
+ },
+ "070a86401333": {
+  "id": "070a86401333",
+  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+  "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+  "source": "Hacker News (5pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T18:02:07Z",
+  "fetched_at": "2026-10-29T19:39:13.072872+00:00"
+ },
+ "814594b81b04": {
+  "id": "814594b81b04",
+  "url": "https://mlcommons.org/2026/10/introducing-candela/",
+  "title": "MLCommons Candela: AI risk benchmarking-as-a-service for developers, deployers",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T17:02:16Z",
+  "fetched_at": "2026-10-29T19:41:29.637472+00:00"
+ },
+ "b138df71b165": {
+  "id": "b138df71b165",
+  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-29T17:00:00.000Z",
+  "fetched_at": "2026-10-29T19:41:42.064677+00:00"
  }
 }

@@ -19123,5 +19123,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-10-29T12:55:28.958833+00:00"
+ },
+ "ee7bc266ca0d": {
+  "id": "ee7bc266ca0d",
+  "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant",
+  "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T19:36:32.449839+00:00"
+ },
+ "ed0cddd7abd8": {
+  "id": "ed0cddd7abd8",
+  "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity",
+  "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T19:36:41.081910+00:00"
+ },
+ "b80dba9b252c": {
+  "id": "b80dba9b252c",
+  "url": "https://thenextweb.com/news/google-cloud-revenue-doubles-q3-2026",
+  "title": "Google Cloud revenue doubles to $30.7bn, beating forecasts",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T19:36:49.983778+00:00"
+ },
+ "458b13691c6a": {
+  "id": "458b13691c6a",
+  "url": "https://www.businessinsider.com/google-share-price-stock-plummet-earnings-ai-search-revenue-2026-10",
+  "title": "Google is set for a $400 billion stock wipeout after disappointing earnings",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T19:37:02.425872+00:00"
+ },
+ "080c5825f120": {
+  "id": "080c5825f120",
+  "url": "https://www.aibase.com/zh/news/31962",
+  "title": "GitHub 发布 Copilot Fusion，多模型自动编排提升编码效率与性价比",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T19:37:13.501827+00:00"
+ },
+ "584d31ce2dec": {
+  "id": "584d31ce2dec",
+  "url": "https://www.ithome.com/1/019/783.htm",
+  "title": "DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-29T14:33:24Z",
+  "fetched_at": "2026-10-29T19:37:26.382784+00:00"
+ },
+ "b83f8788180b": {
+  "id": "b83f8788180b",
+  "url": "https://www.ithome.com/1/019/780.htm",
+  "title": "华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-29T14:24:21Z",
+  "fetched_at": "2026-10-29T19:37:35.974699+00:00"
+ },
+ "5a25565ab71a": {
+  "id": "5a25565ab71a",
+  "url": "https://mistral.ai/news/mistral-large-4-oss",
+  "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-29T14:13:21Z",
+  "fetched_at": "2026-10-29T19:37:46.668544+00:00"
  }
 }

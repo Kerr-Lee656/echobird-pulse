@@ -1,0 +1,23 @@
+{
+ "id": "584d31ce2dec",
+ "url": "https://www.ithome.com/1/019/783.htm",
+ "title": "DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-29T14:33:24Z",
+ "fetched_at": "2026-10-29T19:37:26.382784+00:00",
+ "content": "IT之家 10 月 29 日消息，人工智能实验室扩散智能 (DiffuSpace) 昨日发布了其 Clover（三叶草）系列模型家族的首个成员：Clover-35B-A3B-Preview，并以 Apache 许可开源。\nClover-35B-A3B-Preview 是一款采用 MoE 架构的扩散语言模型。与传统自回归模型不同的是，其具备“全局思维”，通过多轮迭代实现结果的从模糊到具体。\nDiffuSpace 表示，Clover-35B-A3B-Preview 的诞生证明扩散语言模型能在更大的参数尺度下与自回归模型竞争甚至略胜一筹，同时保持更快生成速度。\n该模型在多项基准测试中性能超过同规模的自回归模型 Qwen3.6-35B-A3B，尤其擅长智能体编程与工具使用任务。\n参考",
+ "report": {
+  "summary": "DiffuSpace开源35B级MoE扩散语言模型",
+  "background": "当前大语言模型主流采用自回归逐词生成，扩散语言模型则以多轮迭代去噪、并行生成作为替代路线。此前扩散模型多在较小参数规模验证，能否在数十B级参数上与自回归模型竞争是行业关注点。DiffuSpace此次发布Clover系列首个成员，并以Apache许可开源，意在验证更大尺度下的扩散语言模型路线。",
+  "key_points": [
+   "Clover-35B-A3B-Preview 是 Clover 系列首个模型，采用 Apache 许可开源，便于社区复现、评测和二次开发。",
+   "它采用 MoE 架构与扩散生成方式，通过多轮迭代让结果从模糊到具体，官方称具备不同于逐词生成的“全局思维”。",
+   "在多项基准测试中，该模型性能超过同规模自回归模型 Qwen3.6-35B-A3B，尤其擅长智能体编程与工具使用任务。",
+   "DiffuSpace 称其生成速度更快，并证明扩散语言模型能在更大参数尺度下与自回归模型竞争甚至略胜一筹。"
+  ],
+  "impact": "对AI行业，这是对非自回归路线的一次规模化验证，可能推动扩散语言模型从研究走向主流候选；对开发者，Apache开源提供了可评测、可微调的替代方案，尤其在Agent与工具调用场景值得对比测试；对普通用户，短期直接感知有限，但若速度与成本优势兑现，未来应用可能更快、更便宜。",
+  "tools": "可关注 DiffuSpace 官方 GitHub 与 Hugging Face 模型页，使用项目自带推理脚本跑通示例；再用 AgentBench、ToolBench 等基准与 Qwen3.6-35B-A3B 做对比评测。"
+ },
+ "lang": "zh"
+}
