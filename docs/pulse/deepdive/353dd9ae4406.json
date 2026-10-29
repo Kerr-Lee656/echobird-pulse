@@ -1,0 +1,24 @@
+{
+ "id": "353dd9ae4406",
+ "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+ "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T05:41:04.092559+00:00",
+ "content": "Microsoft generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ended September 30, the company said in a regulatory filing on Wednesday. That represents nearly 11% of Microsoft’s total quarterly revenue of $92.3 billion, highlighting the enormous financial ties that remain between the two companies even as they increasingly compete for the same customers.\n(Microsoft’s financial year begins in July, making the quarter ended September 30, 2026 the first quarter of its fiscal 2027.)\nFor the full 2026 fiscal year, revenue from OpenAI hit $24.1 billion. At its latest quarterly pace, Microsoft would pull in $40 billion annually from OpenAI-related arrangements.\nMicrosoft also reported $7.2 billion in outstanding receivables from OpenAI at the end of September, up from $6 billion at the end of June. That money represents amounts OpenAI owes for previous transactions, not additional revenue.\nIt’s not clear how much of Microsoft’s revenue from OpenAI came from revenue-sharing payments or Azure cloud computing services. TechCrunch has reached out for more information. In November 2025, TechCrunch reported, citing leaked documents, that Microsoft had received $865.8 million in net revenue-sharing payments from OpenAI during the first nine months of that year.\nOpenAI reportedly shares 20% of its revenue with Microsoft as part of a previous deal in which the software giant invested more than $13 billion in the AI startup. (Neither the AI lab nor Microsoft have publicly confirmed this percentage.) As part of an April 2026 agreement, OpenAI is on the hook to continue sharing revenue with Microsoft through 2030, subject to a cap, even as OpenAI is allowed to work with competing cloud providers.\nThe companies began loosening the ties of their once-exclusive partnership in October 2025, when Microsoft relinquished its hold on OpenAI to give the startup more freedom to partner with other cloud providers. In exchange, OpenAI committed to buying an additional $250 billion in Azure services as part of an October 2025 agreement.\nMicrosoft’s ownership stake in OpenAI has also declined slightly from about 25% in June to 24% in September. That continues a gradual decline from roughly 27% following the October 2025 recapitalization. Microsoft did not specify what caused the dilution.",
+ "report": {
+  "summary": "微软单季从OpenAI获100亿美元收入，占总营收11%",
+  "background": "微软与OpenAI曾是近乎排他的深度绑定关系：微软累计投资超130亿美元，换取OpenAI约20%的收入分成与Azure独家算力供应。2025年10月起双方开始解绑，微软放弃独家云供应权，换取OpenAI承诺额外采购2500亿美元Azure服务；2026年4月协议又将收入分成延长至2030年（设有上限）。与此同时，两家在消费级和企业级AI市场已正面竞争，但财务上仍高度互相依赖，形成罕见的\"投资方—供应商—客户\"三重关系。",
+  "key_points": [
+   "截至9月30日的季度，微软从OpenAI相关商业安排中获得100亿美元收入，占其923亿美元总营收近11%，规模已相当于一家中型上市公司全年营收。",
+   "2026财年全年来自OpenAI的收入达241亿美元；按最新单季速度年化约400亿美元，增速远超微软整体业务。",
+   "这100亿并非全是分成：其中既包括OpenAI支付的20%收入分成，也包括其在Azure上的算力采购，但具体拆分未披露。",
+   "微软账上还有72亿美元来自OpenAI的应收款，较6月底的60亿上升，说明OpenAI的付款规模在扩大但也存在账期压力。",
+   "微软持股比例从6月约25%降至9月的24%，较2025年10月重组后的27%持续稀释，控制力在缓慢减弱。"
+  ],
+  "impact": "对AI行业而言，这是一份\"循环交易\"的教科书案例：微软向OpenAI投入资金与算力，OpenAI再以算力采购和收入分成把资金送回微软，部分收入增长带有内部循环色彩，投资者需警惕其可持续性。对开发者，这意味着Azure与OpenAI生态短期仍是最稳定的技术栈，但双方解绑后多云部署成为可能。对普通用户，两家从合作走向竞争，产品迭代和价格战会更激烈，但服务条款与数据政策可能频繁变动。",
+  "tools": "想跟进可关注微软SEC 10-Q财报中的OpenAI相关应收与分成披露；技术侧可用Azure AI Foundry、Azure OpenAI Service体验官方栈，同时用LiteLLM、vLLM等多模型路由与推理框架做抽象层，避免被单一供应商锁定。"
+ },
+ "lang": "zh"
+}

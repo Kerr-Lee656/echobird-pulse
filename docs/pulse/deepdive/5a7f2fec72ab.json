@@ -1,0 +1,24 @@
+{
+ "id": "5a7f2fec72ab",
+ "url": "https://thenextweb.com/news/doj-nvidia-hugging-face-deal-antitrust-inquiry",
+ "title": "DOJ looks into Nvidia’s $12.9B Hugging Face deal, Reuters reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T05:41:12.613956+00:00",
+ "content": "The US Justice Department is asking how Nvidia’s $12.9B purchase of Hugging Face would affect competition in AI, including whether it would hand Nvidia a key distribution point for models. The questions run alongside a years-long probe into Nvidia’s conduct.\nThe US Justice Department is asking how Nvidia’s $12.9B purchase of Hugging Face would affect competition in AI, Reuters reported on Wednesday, citing two people familiar with the matter.\nOfficials want to know whether the deal would let Nvidia “capture a fundamental distribution point for AI,” Reuters said. They also want to know if Nvidia could use Hugging Face to hurt rivals.\nHugging Face is where developers share open AI models and data for anyone to use. Nvidia agreed to buy it in September, promising to keep the platform open. It expects the deal to close in the first half of 2027.\nThe DOJ declined to comment, citing long-standing policy. But it said it “will continue to prioritize advancement of Super Intelligence,” the White House’s term for AI. Nvidia declined to comment, and Hugging Face did not respond.\nThe questions run alongside a years-long DOJ probe into Nvidia’s conduct, which began under President Joe Biden. It covers the chipmaker’s deals, its stakes in other firms and how it sells chips, including whether it put pressure on buyers. Nvidia also faces an antitrust probe in France.\nLast month, the DOJ was reported to be examining whether Nvidia set up its $20B Groq deal to avoid a merger review. Nvidia licensed Groq’s technology and hired its top executives rather than buying the company.\nNvidia, the world’s most valuable company, has used its grip on AI chips to move into software and models. It is also in talks with Reflection AI, a maker of open AI models it already backs, about a takeover or a bigger investment.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美司法部调查英伟达129亿美元收购Hugging Face",
+  "background": "英伟达今年9月宣布以129亿美元收购开源模型社区Hugging Face，承诺保持平台开放，交易预计2027年上半年完成。Hugging Face是全球开发者分发、下载开源模型与数据集的核心枢纽，被视为AI生态的“入口”。此前美司法部已在拜登时期启动对英伟达的长期反垄断调查，涉及其投资、芯片销售方式与是否施压买家；法国也有类似调查。上月还有报道称司法部在审查英伟达20亿美元Groq交易是否刻意规避并购审查。",
+  "key_points": [
+   "司法部核心疑问是：这笔交易是否让英伟达“掌控AI的基础分发节点”，从而把开源模型的入口握在手里。",
+   "官员还在追问英伟达能否借Hugging Face打压对手，例如在模型可见性、下载速度、算力对接上区别对待。",
+   "调查并非孤立事件，而是并入对英伟达多年行为的反垄断审查，涵盖其投资版图、芯片销售与客户施压问题。",
+   "英伟达近期用“授权技术+挖高管”方式处理Groq交易，被怀疑规避并购申报，这加深了监管对其扩张手法的警惕。",
+   "交易要到2027年上半年才交割，中间留出漫长审查窗口，司法部有充分时间评估是否起诉阻止。"
+  ],
+  "impact": "对AI行业而言，开源生态的中立性成为监管焦点，若附加开放承诺或行为救济，模型分发格局可能改写；其他云厂商与芯片厂商会借机主张公平接入。对开发者，短期平台照常可用，但长期要警惕模型托管、算力绑定与商业条款变化，多平台备份成必修课。对普通用户，若分发入口被单一硬件厂商掌控，模型选择与价格可能受间接影响，好处是监管介入或带来更透明的开放承诺。",
+  "tools": "想跟进可关注Hugging Face Hub本身及其开源替代如ModelScope魔搭、GitHub Releases与Kaggle Models；本地部署可试Ollama、LM Studio、vLLM；跟踪监管进展则看DOJ反垄断司公告与路透社报道。"
+ },
+ "lang": "zh"
+}

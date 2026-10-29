@@ -19024,5 +19024,68 @@
   "site_name": "Zeli",
   "published_at": "2026-10-28T16:23:24Z",
   "fetched_at": "2026-10-28T22:34:05.942515+00:00"
+ },
+ "353dd9ae4406": {
+  "id": "353dd9ae4406",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+  "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T05:41:04.092559+00:00"
+ },
+ "5a7f2fec72ab": {
+  "id": "5a7f2fec72ab",
+  "url": "https://thenextweb.com/news/doj-nvidia-hugging-face-deal-antitrust-inquiry",
+  "title": "DOJ looks into Nvidia’s $12.9B Hugging Face deal, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T05:41:12.613956+00:00"
+ },
+ "1c3187e19e01": {
+  "id": "1c3187e19e01",
+  "url": "https://juejin.cn/post/7701352628311392297",
+  "title": "GPT-6.1 Terra上线：更便宜了，干活到底怎么样？",
+  "source": "掘金 · 人工智能本周最热",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T05:41:22.751158+00:00"
+ },
+ "0ebde5e6f830": {
+  "id": "0ebde5e6f830",
+  "url": "https://www.aibase.com/zh/news/31934",
+  "title": "谷歌新旗舰 Gemini 4 Carbon 正式发布：综合评分登顶全球第一，全面发力长时程工程与网络安全",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T05:41:33.516778+00:00"
+ },
+ "4d077a9e0878": {
+  "id": "4d077a9e0878",
+  "url": "https://www.theblockbeats.info/flash/374247",
+  "title": "谷歌财报电话会：Gemini 月活用户达 10 亿，预计明年资本开支将大幅增加",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T05:41:45.640201+00:00"
+ },
+ "13951ce4036d": {
+  "id": "13951ce4036d",
+  "url": "https://www.huxiu.com/article/4901243.html?f=rss",
+  "title": "中国AI最有权力的数据掌舵人：8家公司，11位核心负责人",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T23:45:07Z",
+  "fetched_at": "2026-10-29T05:42:25.970593+00:00"
+ },
+ "4a1c6f31b42c": {
+  "id": "4a1c6f31b42c",
+  "url": "https://www.ithome.com/1/019/279.htm",
+  "title": "AI 行业重磅并购：彭博社称美满电子最快下周宣布收购光通信龙头 Lumentum",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-28T23:37:12Z",
+  "fetched_at": "2026-10-29T05:42:36.043806+00:00"
  }
 }

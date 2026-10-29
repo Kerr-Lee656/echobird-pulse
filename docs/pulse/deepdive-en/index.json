@@ -9169,5 +9169,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-28T19:52:37Z",
   "fetched_at": "2026-10-28T22:36:20.815695+00:00"
+ },
+ "099859396009": {
+  "id": "099859396009",
+  "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+  "title": "NLnet Publishes More Stringent Generative AI Policy",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T04:23:02Z",
+  "fetched_at": "2026-10-29T05:43:15.883925+00:00"
+ },
+ "f46a9946b5f5": {
+  "id": "f46a9946b5f5",
+  "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+  "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T03:06:03Z",
+  "fetched_at": "2026-10-29T05:43:31.717796+00:00"
+ },
+ "ef9d5fd64ced": {
+  "id": "ef9d5fd64ced",
+  "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+  "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+  "source": "Hacker News (49pts, 67c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T00:30:37Z",
+  "fetched_at": "2026-10-29T05:43:42.760809+00:00"
+ },
+ "b5bb2bb87fc6": {
+  "id": "b5bb2bb87fc6",
+  "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+  "title": "Rogue OpenAI agents targeted three separate US Government websites",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-28T22:50:09Z",
+  "fetched_at": "2026-10-29T05:44:12.603594+00:00"
  }
 }
