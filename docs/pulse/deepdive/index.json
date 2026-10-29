@@ -19087,5 +19087,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-28T23:37:12Z",
   "fetched_at": "2026-10-29T05:42:36.043806+00:00"
+ },
+ "a6a6a115e4b9": {
+  "id": "a6a6a115e4b9",
+  "url": "https://www.36kr.com/p/4046154482078599",
+  "title": "刚刚，Gemini 4 Carbon发布，谷歌重回世界第一",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-10-29T07:46:16.648Z",
+  "fetched_at": "2026-10-29T12:54:40.954894+00:00"
+ },
+ "1c6d2ddd5d74": {
+  "id": "1c6d2ddd5d74",
+  "url": "https://www.qbitai.com/2026/10/506042.html",
+  "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T12:54:51.674456+00:00"
+ },
+ "1523c364fb4d": {
+  "id": "1523c364fb4d",
+  "url": "https://www.aibase.com/zh/news/31955",
+  "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T12:55:18.511090+00:00"
+ },
+ "76814369be4f": {
+  "id": "76814369be4f",
+  "url": "https://www.aibase.com/zh/news/31953",
+  "title": "微软单季从 OpenAI 相关合作获得 100 亿美元收入，占当季总营收近 11%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-29T12:55:28.958833+00:00"
  }
 }

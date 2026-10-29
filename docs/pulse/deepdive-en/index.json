@@ -9205,5 +9205,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-28T22:50:09Z",
   "fetched_at": "2026-10-29T05:44:12.603594+00:00"
+ },
+ "c1c7f9c9d894": {
+  "id": "c1c7f9c9d894",
+  "url": "https://github.com/nearai/ironclaw",
+  "title": "nearai/ironclaw — IronClaw is an Agent OS focused on privacy, security and extensibility",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-29T12:56:13.907022+00:00"
+ },
+ "5385485570aa": {
+  "id": "5385485570aa",
+  "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T12:41:56Z",
+  "fetched_at": "2026-10-29T12:56:27.778777+00:00"
+ },
+ "c1c3becbb64f": {
+  "id": "c1c3becbb64f",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+  "title": "Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T12:41:28Z",
+  "fetched_at": "2026-10-29T12:57:12.237227+00:00"
+ },
+ "bf017b8a5523": {
+  "id": "bf017b8a5523",
+  "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+  "title": "Google struggling to make money from AI Mode",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T11:38:56Z",
+  "fetched_at": "2026-10-29T12:57:23.237945+00:00"
+ },
+ "d62a8f09dced": {
+  "id": "d62a8f09dced",
+  "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "title": "AI has come for Arizona’s water",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-29T10:00:04.000Z",
+  "fetched_at": "2026-10-29T12:57:39.628690+00:00"
  }
 }
