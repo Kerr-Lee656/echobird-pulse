@@ -9367,5 +9367,68 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-10-30T00:51:00.000Z",
   "fetched_at": "2026-10-30T05:42:50.689760+00:00"
+ },
+ "234696d4e2c2": {
+  "id": "234696d4e2c2",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
+  "title": "Errors Found by AI in the Research of Emmanuel Saez and Gabriel Zucman",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T12:33:59Z",
+  "fetched_at": "2026-10-30T12:48:54.535540+00:00"
+ },
+ "4046f158b923": {
+  "id": "4046f158b923",
+  "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "title": "Cisco is letting a 27-year-old rewrite 98% of its legacy code with AI: 'Go nuts'",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T12:29:26Z",
+  "fetched_at": "2026-10-30T12:49:31.125362+00:00"
+ },
+ "a198bee42c00": {
+  "id": "a198bee42c00",
+  "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+  "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+  "source": "Hacker News (8pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T12:08:00Z",
+  "fetched_at": "2026-10-30T12:49:47.982048+00:00"
+ },
+ "8d89ef915057": {
+  "id": "8d89ef915057",
+  "url": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+  "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+  "source": "Epoch AI：Gradient Updates",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-30T12:07:16.000Z",
+  "fetched_at": "2026-10-30T12:50:07.922214+00:00"
+ },
+ "762dd873dde2": {
+  "id": "762dd873dde2",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
+  "title": "Google Faces Criminal Probe over 816 Acres Cleared for Finnish AI Data Center",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T11:35:17Z",
+  "fetched_at": "2026-10-30T12:50:23.782037+00:00"
+ },
+ "c096782638d4": {
+  "id": "c096782638d4",
+  "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-30T09:00:00.000Z",
+  "fetched_at": "2026-10-30T12:51:00.051400+00:00"
+ },
+ "2705ffca8959": {
+  "id": "2705ffca8959",
+  "url": "https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216",
+  "title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T08:23:31Z",
+  "fetched_at": "2026-10-30T12:51:43.900049+00:00"
  }
 }

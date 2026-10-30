@@ -1,0 +1,24 @@
+{
+ "id": "180cd1bb13a3",
+ "url": "https://www.aibase.com/news/31973",
+ "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-10-30T07:52:33.134Z",
+ "fetched_at": "2026-10-30T12:47:37.865636+00:00",
+ "content": "On October 29 (local time), French AI company Mistral AI officially open-sourced the weights of its flagship model Mistral Large 4 (codename le Chonk), allowing developers and enterprises to take it directly, modify it, fine-tune it, and even use it for regular commercial purposes. It is based on a modified MIT license: personal, academic, modification, fine-tuning, and regular commercialization are all free; the only exception is if you want to be a \"cloud provider selling compute\" and do MaaS resale, in which case you must separately negotiate a license with Mistral. This \"free weights, gatekeeping on resale\" approach is exactly the hallmark that distinguishes Mistral from closed-source giants.\n1T Parameters, Trained on Europe's Own Compute\nThis native multimodal model has 1 trillion total parameters and 49 billion active parameters (52 billion including embedding and output layers). It was trained from scratch entirely in Mistral's own data centers in Europe using 3,800 NVIDIA Grace Blackwell GPUs—compared with the initial version three weeks ago, this version has been optimized and upgraded after real-world testing by governments and enterprises.\nSaving Tokens as a Differentiating Selling Point\nThe real bid to win over developers is the coding agent. On the Artificial Analysis Coding Agent Index, ML4 scores 48%, roughly on par with leading open-source model GLM-5.3, but consumes 47% fewer tokens per task on average, meaning it costs less to do the same work. Combined with online pricing ($0.70 per million input tokens, $0.07 for cached input, and $2.10 for output), Mistral is clearly aiming for the positioning of \"same capability, lower invocation cost.\"",
+ "report": {
+  "summary": "Mistral 开源 1T 参数旗舰模型权重，只限制云转售",
+  "background": "Mistral 长期以「欧洲 OpenAI 替代者」定位，早期用 Apache 2.0 放出 Mistral 7B、Mixtral 8x7B 打开声量，但旗舰 Large 系列一直只走 API 收费。同期开源权重赛道被 DeepSeek、Qwen、GLM、Kimi 等不断推高参数天花板，万亿级 MoE 成为新旗舰标准。此次把 Large 4（代号 le Chonk）权重直接放出，既是与闭源巨头正面竞争，也是欧洲「算力与模型自主」叙事的落地：模型全程在自家欧洲数据中心训练。",
+  "key_points": [
+   "架构上 1 万亿总参数、490 亿激活参数（含嵌入与输出层为 520 亿），原生多模态，用 3800 块英伟达 Grace Blackwell 在欧洲自有数据中心从零训练。",
+   "采用改版 MIT 许可：个人、学术、修改、微调、常规商用全免费；唯一例外是想做卖算力的 MaaS 转售，需单独与 Mistral 谈授权。",
+   "主打编码 Agent 性价比：在 Artificial Analysis Coding Agent Index 上得分 48%，与开源领先的 GLM-5.3 大致持平，但每任务平均少消耗 47% token。",
+   "在线调用定价为每百万 token 输入 0.70 美元、缓存输入 0.07 美元、输出 2.10 美元，明确对标「同等能力、更低调用成本」。",
+   "这是三周前初版经政府与企业真实场景测试后的优化版本，而非实验室首发放出。"
+  ],
+  "impact": "对行业而言，万亿参数旗舰权重免费放出，进一步压缩闭源 API 的定价溢价，也强化欧洲主权 AI 的叙事；对开发者，可自行微调、私有化部署、审计模型，但 1T 权重的推理门槛意味着真正受益者多为中大型团队与云上私有部署；对普通用户，直接结果是更便宜的编码助手与 Agent 产品，以及数据可留在自有环境的选择。",
+  "tools": "想跟进可关注 vLLM、SGLang 做 MoE 高吞吐推理，llama.cpp/GGUF 做量化，Hugging Face 取权重，Unsloth、LoRA 做微调，OpenRouter 或官方 API 做成本对比；本地跑 1T 需大显存集群，个人建议先用 API 或量化版。"
+ },
+ "lang": "zh"
+}

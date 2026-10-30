@@ -1,0 +1,25 @@
+{
+ "id": "ea73c319e9ea",
+ "url": "https://www.aibase.com/zh/news/31986",
+ "title": "万亿参数开源模型 Mistral Large4 登场：用更少 Token 打平顶级性能",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-10-30T12:47:02.530058+00:00",
+ "content": "10月30日消息，欧洲人工智能领军企业 Mistral 正式开源了其代号为“Le Chonk”的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达1万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。\n性能硬刚与Token效率:拒绝单纯刷分，主打极致性价比\n在核心能力与基准测试方面，Mistral Large4展现出了极为强悍的竞争力。在 Cognition 的私有基准测试 FrontierCode2.0（主要评估端到端代码质量及代码库维护者的合并意愿）中，该模型斩获了19.7% 的高分，在目前的开源权重模型中位居前列。而在 Artificial Analysis 的 Coding Agent Index 评测中，它取得了48% 的成绩，成功与行业领先的 GLM-5.3基本打平。\n尤为引人注目的是其出色的 Token 效率。在实现同等顶尖性能的前提下，Mistral Large4平均每个编程任务消耗的 Token 数量比竞品足足少用了47%。而在 Terminal-Bench4.0测试中，其表现较预览版大幅提升了13个百分点达到41%，同时输出 Token 数量也减少了30%。这种“以更少 Token 办更多事”的特性，直击当前企业调用 AI 成本大头的痛点，为开发者带来了极具性价比的选择。\n三档推理模式与强化学习:兼顾性能与成本\n为了让开发者能够在不同场景下自由平衡性能与开支，Mistral 为该模型额外进行了长达三周的强化学习（RL）训练，并官方提供了三种不同的推理模式，分别对应简单任务、中等复杂度以及需要高精度彻底推理的最难场景。开发团队表示，经过延长的强化学习训练后，模型的整体收益仍在加速释放，暂未观察到性能饱和的迹象。\n安全防线与精细化护栏\n在安全与合规治理方面，Mistral Large4同样交出了扎实的答卷。在 Artificial Analysis Cyber Index 评测中，其得分达到了51%，主要考察模型在代码库中发现漏洞、复现验证并打补丁且不破坏既有功能的能力。同时，在 JailbreakBench、StrongREJECT 以及 AgentHarm 等越狱和有害请求提示词测试中，其平均拒绝率高达96.6%，较预览版的95% 进一步提升。\n值得一提的是，官方在安全策略上展现出了务实的态度:模型在拒绝针对线上目标的黑盒攻击时表现坚决，同时也意识到了相关技术被用于合法正当防御与渗透测试的必要性。为此，Mistral 专门为 Orange Cyberdefense 等网络安全领域的企业设计伙伴开放了特定变体版本的预览权限，但所有操作均需经过严格的合同约束与自有或授权环境审查。\n生态布局与开源许可协议\n在应用生态支持上，Mistral Large4获得了 Booz Allen、Cisco、Cloudflare、CrowdStrike、Elastic、NVIDIA 等众多网络安全与主权云领域巨头的背书。用户可以通过 Hugging Face 下载模型权重，通过 vLLM 或 SGLang 进行本地自部署;同时，它也已经登陆 Microsoft Foundry（首个上架的云厂商）、NVIDIA NIM 容器以及 OpenRouter 等主流平台。官方公布的 API 定价为每百万 Token 输入0.70美元、缓存输入0.07美元、输出2.10美元。\n在备受关注的开源许可协议方面，该模型采用了修改版的 MIT 协议 —— Mistral Ecosystem Open-Weight license。协议允许广大用户免费进行使用、修改、微调及商业化部署，但设定了一条核心限制:任何主营“模型即服务”（MaaS）的企业，在进行商用前必须单独向 Mistral 申请获取商业许可。这一策略在保持开源生态活力的同时，也有效保护了自身的商业化护城河。",
+ "report": {
+  "summary": "Mistral开源1万亿参数大模型Large4，主打极致Token效率",
+  "background": "过去两年，开源与闭源模型的能力差距不断缩小，DeepSeek、Llama、Qwen 等把 MoE 架构推向千亿乃至万亿参数，使「开源权重」成为企业自部署的现实选项。Mistral 作为欧洲领军者，此前旗舰 Mistral Large 2 仅有千亿级规模，此次跳过渐进路线直接上万亿，并强调在欧洲本土基础设施从零训练，回应欧洲「主权 AI」诉求。同时，行业关注点正从模型跑分转向推理 Token 成本——企业调用费的大头在输出侧，这让「同等性能更省 Token」成为新的竞争维度。",
+  "key_points": [
+   "Mistral Large4 代号「Le Chonk」，1万亿参数，全程在欧洲本土基础设施从零训练，是当前开源权重阵营体量最大的模型之一。",
+   "编码能力硬碰硬：Cognition 私有基准 FrontierCode2.0 得19.7%，Artificial Analysis Coding Agent Index 48%，与 GLM-5.3 基本打平。",
+   "Token 效率是最大卖点：同等性能下每编程任务少用47% Token；Terminal-Bench4.0 升至41%（+13个百分点），输出 Token 反降30%。",
+   "提供简单、中等、高精度三档推理模式，并额外做了三周强化学习，官方称收益仍在加速释放、未见性能饱和。",
+   "安全与许可两手抓：越狱平均拒绝率96.6%，Cyber Index 51%；采用修改版 MIT 协议，主营 MaaS 的企业商用需单独申请授权。",
+   "生态落地较快：权重上 Hugging Face，支持 vLLM/SGLang 自部署，并登陆 Microsoft Foundry、NVIDIA NIM、OpenRouter；API 输入0.70美元/百万Token、输出2.10美元。"
+  ],
+  "impact": "对 AI 行业，竞争焦点从「参数与跑分」转向「单位 Token 的性价比」，开源与闭源的性能界限进一步模糊，同时「开源权重 + MaaS 收费豁免」的许可模式为开源商业化提供了新范本。对开发者，编码与 Agent 场景的调用成本可显著下降，且可本地部署规避数据出境，但万亿参数的自托管硬件门槛极高，多数人仍会走 API 或云平台。对普通用户，编程助手、Agent 类产品的价格有望下探，并多了一个符合欧洲合规要求的供应商选项。",
+  "tools": "想上手可关注：vLLM、SGLang（本地高性能推理部署）；Hugging Face（获取权重）；OpenRouter、NVIDIA NIM、Microsoft Foundry（按需调用免自建）；对比评测可参考 Terminal-Bench、FrontierCode、Artificial Analysis Coding Agent Index 等公开榜单。"
+ },
+ "lang": "zh"
+}

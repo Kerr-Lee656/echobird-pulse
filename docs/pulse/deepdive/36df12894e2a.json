@@ -1,0 +1,24 @@
+{
+ "id": "36df12894e2a",
+ "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+ "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T12:46:50.258710+00:00",
+ "content": "Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K.\nUnder the partnership announced Friday, Toyota will manufacture the 2027 bZ4X vehicles and integrate Waymo’s self-driving system at its Takaoka factory in Japan. (The electric vehicle is now known as the BZ in the North American market)\nThe autonomous bZ4X vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service. But the intent is to deploy these vehicles in other right-hand driving countries such as the U.K. Waymo has been testing its autonomous Jaguar I-Pace vehicles in London for months and plans to launch a robotaxi service there once it receives the necessary permits.\nThe announcement comes 18 months after Toyota and Waymo signed a preliminary agreement to explore the development and deployment of an autonomous vehicle platform. At the time, the agreement fell into the “let’s see what happens” category, with language vague enough to leave plenty of room for interpretation.\nFor now, the partnership looks more like a conventional vehicle supplier deal that helps Waymo fill specific regional needs while adding a new model to its robotaxi portfolio.\nBut the partnership could go beyond robotaxis. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.\nToyota and Waymo also announced plans to look at other future “initiatives” that would use “insights from Waymo’s real-world operations” to improve safety for other road users. What that might mean is unclear, although Hiroki Nakajima, executive vice president of Toyota and a board member, provided some clues.\n“This collaboration will help scale that technology and bring it to customers in Japan and beyond through Waymo’s ride-hailing service, and in parallel, Toyota will continue to explore how integrating vehicles with traffic infrastructure can make those roads safer still,” he said in a statement.",
+ "report": {
+  "summary": "Waymo联手丰田，用bZ4X电动车型进军日本和英国右舵市场",
+  "background": "Waymo 长期依赖捷豹 I-Pace 和极氪等车型组建无人出租车车队，但这些都是左舵车，难以直接进入日本、英国等右舵市场。2025 年初，Waymo 与丰田签署了探索性协议，当时措辞模糊。此次合作正式做出安排：丰田负责生产 2027 款 bZ4X，并在日本高冈工厂完成 Waymo 自动驾驶系统的集成，再由 Waymo 在当地测试并逐步开展运营。这也延续了 Waymo 与整车厂绑定、由车厂代工造车的轻资产路径，与特斯拉自研整车路线形成对比。",
+  "key_points": [
+   "丰田不只供应车辆，还负责在自家工厂把 Waymo 的自动驾驶系统装进 2027 款 bZ4X，相当于由车厂代工 Waymo 无人出租车，Waymo 不必自建产线。",
+   "首批自动驾驶 bZ4X 明年在日本路测，日本是 Waymo 首个亚洲市场，也是其右舵战略的试验田。",
+   "同一车型后续将投向英国等右舵国家。Waymo 已在伦敦用捷豹 I-Pace 测试数月，拿到许可即可上线服务。",
+   "双方合作不止于出租车：还计划把 Waymo 的自动驾驶技术装进私人拥有的丰田车，并探索车与交通基础设施协同提升道路安全。",
+   "相比 18 个月前那份措辞含糊的意向协议，这次合作更接近明确的供应商合同，属于务实落地，而非联合研发。"
+  ],
+  "impact": "对行业而言，这说明无人出租车规模化正从“技术竞赛”转向“产能与区域适配竞赛”，整车厂与自动驾驶公司的绑定会更紧密。对开发者来说，右舵场景、日本复杂城区路况将产生新的数据与工程挑战，也可能带来新的开放数据集和仿真需求。对普通用户，日本和英国用户有望在两三年内打到 Waymo 无人车，丰田车主未来也可能买到带 Waymo 智驾能力的量产车。",
+  "tools": "想跟进可关注 Waymo Open Dataset（感知与运动预测数据）、Autoware 开源自动驾驶栈（支持右舵与日本交通标志）、CARLA 与 nuScenes 仿真评测工具，以及丰田 Woven City 相关公开研究，用来理解车路协同方向。"
+ },
+ "lang": "zh"
+}

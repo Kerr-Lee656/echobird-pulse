@@ -19339,5 +19339,95 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-29T21:58:00.079Z",
   "fetched_at": "2026-10-30T05:41:27.081577+00:00"
+ },
+ "36df12894e2a": {
+  "id": "36df12894e2a",
+  "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+  "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T12:46:50.258710+00:00"
+ },
+ "ea73c319e9ea": {
+  "id": "ea73c319e9ea",
+  "url": "https://www.aibase.com/zh/news/31986",
+  "title": "万亿参数开源模型 Mistral Large4 登场：用更少 Token 打平顶级性能",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-30T12:47:02.530058+00:00"
+ },
+ "8bf06300133f": {
+  "id": "8bf06300133f",
+  "url": "https://www.aibase.com/zh/news/31989",
+  "title": "AI 学会「睡觉」：谷歌想治好大模型边学边忘的老毛病",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-30T12:47:10.742241+00:00"
+ },
+ "3fc70e7c795c": {
+  "id": "3fc70e7c795c",
+  "url": "https://www.aibase.com/news/31984",
+  "title": "Neuralink脑机接口迎来最强升级：Grok接入大脑，患者用意念直接唤醒AI",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-30T07:52:33.134Z",
+  "fetched_at": "2026-10-30T12:47:26.650987+00:00"
+ },
+ "180cd1bb13a3": {
+  "id": "180cd1bb13a3",
+  "url": "https://www.aibase.com/news/31973",
+  "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-30T07:52:33.134Z",
+  "fetched_at": "2026-10-30T12:47:37.865636+00:00"
+ },
+ "aedf91ac163f": {
+  "id": "aedf91ac163f",
+  "url": "https://www.ithome.com/1/020/154.htm",
+  "title": "DeepSeek 官网代码曝光 Cyber 独立模型：分企业版与个人版，小范围灰度中",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T07:50:19Z",
+  "fetched_at": "2026-10-30T12:47:45.135610+00:00"
+ },
+ "8e67fde33077": {
+  "id": "8e67fde33077",
+  "url": "https://www.ithome.com/1/020/152.htm",
+  "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T07:48:13Z",
+  "fetched_at": "2026-10-30T12:47:53.953580+00:00"
+ },
+ "c0e98eaa6d60": {
+  "id": "c0e98eaa6d60",
+  "url": "https://www.ithome.com/1/020/121.htm",
+  "title": "曝 DeepSeek 第二轮融资 1055 亿元：估值 6155 亿元，腾讯、宁德时代、长鑫存储、中芯国际、美团、vivo 等参与",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T06:59:59Z",
+  "fetched_at": "2026-10-30T12:48:04.948778+00:00"
+ },
+ "0b4b6a325b59": {
+  "id": "0b4b6a325b59",
+  "url": "https://www.ithome.com/1/020/061.htm",
+  "title": "百度开源发布文心 Unlimited OCR 2 文档解析模型，支持“无限”页数",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T06:17:11Z",
+  "fetched_at": "2026-10-30T12:48:13.332031+00:00"
+ },
+ "8bd95c9b49b6": {
+  "id": "8bd95c9b49b6",
+  "url": "https://www.ithome.com/1/020/059.htm",
+  "title": "Qwenputer 问世：把 RISC-V CPU 指令集塞进模型，AI 算数不再靠外部工具",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T06:12:50Z",
+  "fetched_at": "2026-10-30T12:48:27.158012+00:00"
  }
 }
