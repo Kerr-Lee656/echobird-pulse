@@ -1,0 +1,24 @@
+{
+ "id": "06df4996db2e",
+ "url": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion",
+ "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T23:42:45.566675+00:00",
+ "content": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion (bbc.com) 47\n\t\t\t\n\t\t \t\n\t\t\t\tU.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Intel shares dropped as much as 30%, Reddit fell 26%, and Alphabet extended its losses after shedding more than $500 billion in market value Thursday. The BBC notes that Meta, Alphabet, Oracle, Amazon, and Microsoft have collectively committed to spending $800.6 billion on AI in 2026. From the report:  Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google. He told Reuters the companies were \"showing some pretty significant growing pains as they aggressively pursue the AI build-out.\" \"The thinking is that these signs suggest that the entire sector is going to slow down.\"\nKathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months. \"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings,\" she said. \"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs.\" [...] Brookes noted that November is typically a strong month for stocks. \"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets,\" she said.",
+ "report": {
+  "summary": "美股科技股连跌，AI巨额投入遭盈利质疑",
+  "background": "过去两年，AI热潮推动科技巨头和芯片股大幅上涨，资本开支不断攀升。Meta、Alphabet、Oracle、亚马逊和微软已承诺2026年在AI上合计投入8006亿美元。如今投资者开始质疑这些投入能否带来足够回报，叠加财报失望，引发科技股连续抛售。",
+  "key_points": [
+   "纳指跌超3.5%，英特尔一度跌30%，Reddit跌26%，Alphabet在市值蒸发超5000亿美元后继续下跌。",
+   "Meta、Alphabet、Oracle、亚马逊和微软承诺2026年AI支出合计8006亿美元，市场担忧成本过高、回报周期长。",
+   "分析师称科技巨头在激进AI扩张中显露“成长阵痛”，相关迹象让市场担心整个科技行业将放缓。",
+   "投资者对三季度财报失望变得“无情”，AI交易从追捧转向要求回报，Alphabet和英特尔成为靶心。",
+   "若AI股未来几天继续走弱，可能说明AI行情已过顶峰，投资者将寻找新的市场主题。"
+  ],
+  "impact": "对AI行业，资本市场将更严审投入产出，高估值和融资环境承压，但算力竞赛短期难停。开发者需更关注成本效率与可落地场景，免费或补贴资源可能收紧。普通用户短期或见产品迭代放缓、订阅涨价，长期仍受益于AI普及。",
+  "tools": "想跟进可关注公司财报与SEC文件、云厂商资本开支数据；上手可看vLLM、Ollama等推理优化工具，以及云成本管理方案。"
+ },
+ "lang": "zh"
+}

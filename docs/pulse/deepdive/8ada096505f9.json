@@ -1,0 +1,23 @@
+{
+ "id": "8ada096505f9",
+ "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai",
+ "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T23:43:05.321779+00:00",
+ "content": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI\nThe folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.\nWe may receive a commission on purchases made from links.\nThe Wikimedia Foundation has weighed in on the copyright lawsuit launched by The New York Times against OpenAI and Microsoft. The people behind Wikipedia have filed an amicus brief urging nuance in the case, which seeks to decide whether or not OpenAI and Microsoft's use of content published in The New York Times for any purpose, including AI model training, is a violation of copyright law.\nThe New York Times says that companies like OpenAI shouldn't be given free reign over any of their published content. OpenAI and Microsoft say that training and deploying AI models based on published data is necessary for technological development and would therefore fall within the definition of fair use.\nThe Wikimedia Foundation, however, is seeking a third way. The amicus brief agrees with Microsoft and OpenAI and suggests that a much more restrictive version of fair use could inhibit tech innovation. However, it also says that a ruling in favor of blanket fair use could lead to a closed web where knowledge is weakened due to a \"lack of available secondary source materials.\"\nThe platform's alternative position applies fair use to two specific use cases for AI companies. This includes certain model training scenarios and something called retrieval-augmented generation (RAG). This is a technique that optimizes the output of large language models (LLMs) by referencing authoritative knowledge bases outside of its training data. However, the organization does not support RAG if an LLM is regurgitating pre-existing articles without attribution.\nAs for the specifics of model training, the Wikimedia Foundation argues that scraping copyrighted content should be considered fair use if it's being used when \"training LLMs that are something new and different from the original sources.\" It is worth noting that Wikipedia itself is considered one of the highest-quality datasets used to train LLMs.\n\"A ruling that does not apply fair use principles carefully could threaten the sustainability of free knowledge, and stifle the development of open source technologies, ultimately impacting access to information for everyone in both cases,\" the Wikimedia Foundation's General Counsel Stephen LaPorte wrote. \"The court needs to understand that Wikipedia is created through a collaborative process that requires a strong foundation of open and accessible human knowledge to thrive.\"\nA summary judgment in the lawsuit is expected in the near future. This is just one of over a dozen similar cases working their way through the courts, but it could set an important precedent.",
+ "report": {
+  "summary": "维基媒体基金会呼吁NYT诉OpenAI案平衡适用合理使用。",
+  "background": "《纽约时报》起诉OpenAI和微软，指控其未经授权使用新闻内容训练AI模型；OpenAI和微软则主张这属于合理使用。维基媒体基金会以法庭之友身份提交意见书，试图提出第三条路：既避免过度限制抑制技术创新，也避免 blanket fair use 导致网络知识生态萎缩。该案即将进行简易判决，且是十余起类似诉讼之一，可能为AI训练版权争议确立重要先例。",
+  "key_points": [
+   "维基媒体基金会不简单站队，警告两种极端裁决都可能威胁开放网络与自由知识的可持续性。",
+   "对模型训练，基金会认为若训练出的LLM是“新的、不同”于原作品，抓取版权内容可算合理使用。",
+   "对RAG，引用权威外部知识库优化输出可受保护，但无署名复述原文文章不行。",
+   "案件即将简易判决，可能成为AI训练版权先例；Wikipedia本身也是高质量训练数据来源。"
+  ],
+  "impact": "对AI行业，判决将影响训练数据获取与合理使用边界，企业需更重视数据来源、转化性和输出归因。对开发者，需在模型训练与RAG设计中区分“转化性使用”和“原文复述”，加强引用与合规。对普通用户，裁决可能影响开放网络知识供给、AI答案质量与信息来源透明度。",
+  "tools": "可关注Wikipedia Dumps与Wikimedia Enterprise（合规数据获取）、Common Crawl（开放语料）、LangChain/LlamaIndex（RAG检索与引用）、RAGAS（RAG评估）、Hugging Face Datasets（数据卡与来源记录）。"
+ },
+ "lang": "zh"
+}

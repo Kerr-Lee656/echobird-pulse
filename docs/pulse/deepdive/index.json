@@ -19528,5 +19528,86 @@
   "site_name": "Zeli",
   "published_at": "2026-10-30T12:08:00Z",
   "fetched_at": "2026-10-30T19:20:47.001857+00:00"
+ },
+ "06df4996db2e": {
+  "id": "06df4996db2e",
+  "url": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion",
+  "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:42:45.566675+00:00"
+ },
+ "b9ee8bb30716": {
+  "id": "b9ee8bb30716",
+  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "title": "Google’s satellite AI server transmits its first response to Earth",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:42:55.185076+00:00"
+ },
+ "8ada096505f9": {
+  "id": "8ada096505f9",
+  "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai",
+  "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:05.321779+00:00"
+ },
+ "f7d493f027b0": {
+  "id": "f7d493f027b0",
+  "url": "https://thenextweb.com/news/new-york-ai-chatbots-children-law-hochul-baby-monitors",
+  "title": "New York bans AI chatbots from pretending to be human with children",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:14.971254+00:00"
+ },
+ "be4344b106b5": {
+  "id": "be4344b106b5",
+  "url": "https://thenextweb.com/news/toyota-bz-waymo-robotaxi-japan-2027",
+  "title": "Toyota will turn its bZ electric SUV into Waymo robotaxis from 2027",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:23.942955+00:00"
+ },
+ "dad78a8249f0": {
+  "id": "dad78a8249f0",
+  "url": "https://www.techradar.com/pro/security/ai-generated-code-is-still-frequently-failing-security-checks-with-claude-and-gpt-6-topping-the-leader-board",
+  "title": "AI-generated code is still frequently failing security checks — with Claude and GPT-6 topping the leader board",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:32.934451+00:00"
+ },
+ "14de99fd7daa": {
+  "id": "14de99fd7daa",
+  "url": "https://www.techradar.com/pro/its-100-percent-a-national-security-threat-accenture-contractor-connected-an-ai-agent-to-the-pentagons-secure-network-and-then-sent-data-to-a-high-risk-website",
+  "title": "'It’s 100 percent a national security threat': Accenture contractor connected an AI agent to the Pentagon’s secure network, and then sent data to a high-risk website",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:45.637702+00:00"
+ },
+ "29d12d99d2b6": {
+  "id": "29d12d99d2b6",
+  "url": "https://thenextweb.com/news/ai-safety-measures-poll-iowa-ohio-afl-cio-bill",
+  "title": "Iowa and Ohio voters back AI safety measures over winning the AI race",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:43:52.331215+00:00"
+ },
+ "b6202ec07a51": {
+  "id": "b6202ec07a51",
+  "url": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+  "title": "The AI data center race is now a race to power",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T23:44:00.785463+00:00"
  }
 }

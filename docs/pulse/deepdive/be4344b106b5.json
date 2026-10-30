@@ -1,0 +1,24 @@
+{
+ "id": "be4344b106b5",
+ "url": "https://thenextweb.com/news/toyota-bz-waymo-robotaxi-japan-2027",
+ "title": "Toyota will turn its bZ electric SUV into Waymo robotaxis from 2027",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T23:43:23.942955+00:00",
+ "content": "Toyota will build driverless versions of its bZ electric SUV for Waymo at its Takaoka plant in Japan, with testing from 2027. Japan comes first, then the UK. Neither company said how many robotaxis Toyota will make.\nToyota will build driverless versions of its bZ electric SUV for Waymo, with testing in Japan set to start in 2027, InsideEVs reported. The companies announced the deal on Friday.\nThe cars will be made on the same line as the regular bZ, called the bZ4X in Japan, at Toyota’s Takaoka plant in Aichi Prefecture. Toyota will fit Waymo’s self-driving hardware at the factory, along with automatic doors and a power tailgate for riders.\nJapan comes first, followed by the UK and other markets where cars drive on the left.\n“We’ll start with the right-hand drive markets in Japan and the UK,” said Waymo co-chief executive Dmitri Dolgov. “We don’t have any other countries or timelines or specifics to share.”\nNeither company said how many cars Toyota will build. Waymo is already testing in Tokyo with safety drivers, and plans to launch in London once it gets permits.\nIt is a big step for Waymo, which fits its system to Jaguar and Zeekr vehicles at its own plant in Arizona as it races to grow its fleet. The two companies first agreed to work together in April 2025.\nRivals are also eyeing Japan. Uber, Wayve and Nissan plan a robotaxi pilot in Tokyo, while Waymo is also heading to Toronto from 2028.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "丰田将为Waymo生产无人版bZ电动SUV，2027年在日本开测",
+  "background": "Waymo目前主要用捷豹I-Pace和极氪车型，在亚利桑那自有工厂改装自动驾驶硬件，车队扩张受产能和改装成本限制。2025年4月，Waymo与丰田首次达成合作；如今合作落地为前装量产：丰田在爱知县高冈工厂把Waymo传感器直接装进bZ4X产线。同时，日本正成为robotaxi竞争热点，Uber、Wayve、日产都计划在东京试点，Waymo已在东京以安全员模式测试，并在等待伦敦牌照。",
+  "key_points": [
+   "丰田在高冈工厂与普通bZ4X共线生产无人版，出厂即预装Waymo传感器、自动门和电动尾门，便于乘客上下车。",
+   "落地顺序先攻右舵市场：2027年日本率先测试，随后进入英国，双方均未公布产量和具体时间表。",
+   "这是Waymo首次由车企在自有工厂完成自动驾驶硬件预装，相比在亚利桑那自行改装捷豹、极氪，更接近规模化量产。",
+   "日本市场竞争升温：Uber、Wayve与日产也计划在东京试点robotaxi；Waymo还将于2028年进入多伦多。",
+   "合作分工清晰：丰田负责整车制造与产线集成，Waymo提供自动驾驶系统与运营经验，风险共担、轻资产扩张。"
+  ],
+  "impact": "对AI行业而言，自动驾驶商业化从后装改装转向整车厂前装，验证了robotaxi规模化降本的可行路径，或将推动更多车企与自动驾驶公司结盟。对开发者，右舵市场数据、车规级传感器集成和车队运营软件将出现新需求。对普通用户，日本和英国用户有望更早坐上无需安全员的无人出租车，但短期覆盖范围和票价仍待观察。",
+  "tools": "想跟进可关注Waymo Open Dataset（感知数据）、CARLA与Autoware（开源自动驾驶仿真与栈，日本主导）、百度Apollo开放平台，以及Foxglove用于自动驾驶数据可视化调试。"
+ },
+ "lang": "zh"
+}

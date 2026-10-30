@@ -1,0 +1,24 @@
+{
+ "id": "f7d493f027b0",
+ "url": "https://thenextweb.com/news/new-york-ai-chatbots-children-law-hochul-baby-monitors",
+ "title": "New York bans AI chatbots from pretending to be human with children",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T23:43:14.971254+00:00",
+ "content": "New York has banned AI chatbots from pretending to be human with children. Bots also may not build emotional dependency, encourage self-harm or hold sexual conversations with them. Governor Kathy Hochul signed the law on Wednesday, with a second law on baby monitor security.\nThe banned features are off limits to anyone under 18 and to any user whose age is unchecked, the governor’s office said in its announcement. Attorney General Letitia James can seek civil penalties of up to $25,000 per violation.\n“No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,” Hochul said.\nWhat the chatbot law bans\nState Senator Kristen Gonzalez and Assemblymember Alex Bores sponsored the law. It lists the features a chatbot may not offer a child. A bot may not claim to be a real person, to be alive, or to have human emotions. It may not claim a romantic, personal or professional relationship with a child, or ask unprompted emotional questions.\nBots also may not promote suicide, self-harm, eating disorders or drug and alcohol use. They may not encourage children to keep secrets from parents, or show sexually explicit content.\nCompanies must verify users’ ages and offer more than one way to do it. At least one option must not rely only on a government ID. They must delete the age data after use. Penalties can also include the destruction of unlawfully collected data and of any AI models trained on it.\nThe governor’s office said the rules apply “in the coming months”. The law takes effect on 1 January, the Associated Press reported.\nHochul cited Adam Raine, a 16-year-old Californian who died by suicide after talking to ChatGPT. His parents campaigned for the New York law, Common Sense Media said. Eight US states sued OpenAI this month over harm to children.\nBaby monitors and the election\nThe second law covers baby monitors that stream audio or video over the internet. New ones sold in New York must have security features that stop strangers watching or listening. Monitors must also carry a warning label. It takes effect in 90 days.\nHochul signed both laws days before she faces Republican Bruce Blakeman in New York’s election, Raga Justin reported for Bloomberg Government. A Siena poll on 28 October showed her 14 points ahead.\nIndustry pushback\nTech:NYC, a group that represents technology companies in New York, criticised the chatbot law, the New York Post reported.\n“This bill could force companies to restrict minors’ access to tutoring tools, homework help, coding assistants, and, arguably worst of all, career platforms,” the group said.\nJustine Gluck of the Future of Privacy Forum told the AP that several categories in the law are broad or undefined. That could make it harder to enforce, she said.\n“New York just made history by signing into law the strongest kids’ AI safety bill in the country,” said James P. Steyer, chief executive of Common Sense Media, which led the campaign.\nThe group warned this month that ChatGPT for Teens is unsafe for under-18s. California passed its own chatbot rules in September, alongside its No Robo Bosses Act.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "纽约立法禁止AI聊天机器人对未成年人伪装人类",
+  "background": "过去两年，AI陪伴类聊天机器人在青少年中迅速普及，随之而来的是多起悲剧与诉讼。2025年，加州16岁少年Adam Raine在与ChatGPT长期对话后自杀，其父母成为推动立法的核心力量；本月，美国八个州联合起诉OpenAI危害儿童。加州已在9月通过自己的聊天机器人规则。纽约州长Kathy Hochul在选举投票前数日签署该法，被倡导组织称为全美最严格的儿童AI安全法案，同时签署的还有一项联网婴儿监视器安全法。",
+  "key_points": [
+   "禁止冒充人类：机器人不得声称自己是真人、有生命或拥有人的情感，不得声称与儿童存在恋爱、私人或职业关系，也不得无端追问儿童的情绪。",
+   "禁止有害引导：不得宣扬自杀、自残、饮食失调或毒品酒精，不得教孩子对父母保密，不得展示色情内容，不得制造情感依赖。",
+   "强制年龄验证：企业必须核实用户年龄，且提供不止一种验证方式，其中至少一种不能仅依赖政府身份证；验证后须删除年龄数据。",
+   "高额处罚：州司法部长可对每次违规寻求最高2.5万美元民事罚款，法院还可判令销毁非法收集的数据以及用这些数据训练的AI模型。",
+   "时间表与配套法：聊天机器人条款将于2026年1月1日生效，适用对象为18岁以下及年龄未经验证的用户；婴儿监视器安全法90天后生效。"
+  ],
+  "impact": "对AI行业，这是美国州层面最严厉的儿童AI监管样本，可能引发各州跟进，并迫使陪伴类产品重构人设与交互逻辑，合规成本上升，也让“AI朋友”这一商业模式承压。对开发者，年龄验证、内容过滤和对话安全测试从可选项变为硬性门槛，训练数据来源也要留痕，否则可能面临模型被销毁的风险。对普通用户和家长，孩子使用AI辅导与陪伴工具会更安全，但部分教育类应用可能因无法确认年龄而收紧甚至关闭未成年入口。",
+  "tools": "想跟进合规，可关注年龄验证服务如Yoti、Persona、k-ID；内容审核可用OpenAI Moderation API、Llama Guard、Azure AI Content Safety；对话安全评估可参考Common Sense Media的评级报告、Thorn的儿童安全工具，以及OWASP大模型风险清单。"
+ },
+ "lang": "zh"
+}

@@ -9502,5 +9502,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-30T16:13:02Z",
   "fetched_at": "2026-10-30T19:23:20.653960+00:00"
+ },
+ "723372c8dc68": {
+  "id": "723372c8dc68",
+  "url": "https://www.anthropic.com/research/agents-judgment-calls",
+  "title": "AI agents shape experts' judgment calls",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T23:39:19Z",
+  "fetched_at": "2026-10-30T23:45:12.495678+00:00"
+ },
+ "b3b1a76d1170": {
+  "id": "b3b1a76d1170",
+  "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+  "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-10-30T21:19:26.000Z",
+  "fetched_at": "2026-10-30T23:45:48.438975+00:00"
+ },
+ "438d6cd46260": {
+  "id": "438d6cd46260",
+  "url": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+  "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
+  "source": "Hacker News (8pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T20:36:37Z",
+  "fetched_at": "2026-10-30T23:46:19.882450+00:00"
+ },
+ "7a24eca35f77": {
+  "id": "7a24eca35f77",
+  "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+  "title": "The biggest names in AI are backing a new way to opt out of scraping",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-30T20:26:10.000Z",
+  "fetched_at": "2026-10-30T23:46:33.935133+00:00"
  }
 }
