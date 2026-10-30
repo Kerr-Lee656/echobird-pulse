@@ -1,0 +1,24 @@
+{
+ "id": "e16ff3762c53",
+ "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
+ "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T19:19:14.080916+00:00",
+ "content": "Waymo and Toyota will soon start testing their robotaxis in Japan\nThe companies plan to deploy their autonomous bZ4X vehicles to other right-hand drive markets like the UK.\nIn April 2025, Toyota and Waymo entered a preliminary agreement to work together on robotaxis. Now, the companies have announced that they will start testing an autonomous fleet of Toyota bZ4X electric vehicles in Japan sometime in 2027. After Japan, they're planning to deploy the vehicles to the UK and other right-hand drive markets in the years that follow.\nThe bZ4X is Toyota's first modern mass-market electric vehicle based on the e-TNGA platform it developed with Subaru. Toyota will be manufacturing the bZ4X units it's deploying and testing with Waymo at its Takaoka plant in Toyota City, Aichi Prefecture. That's also where the automaker is assembling the vehicles and equipping them with Waymo's autonomous vehicle hardware.\n\"By pairing Toyota's global manufacturing and vehicle development expertise with Waymo's fully autonomous technology, the companies will accelerate scaling safety-validated Level 4 autonomous vehicles globally,\" they said in a statement.\nThe autonomous bZ4X fleet will join Waymo's other vehicles in the country. It started testing its Jaguar I-PACE self-driving taxis in 2025 and had drivers from Tokyo taxi company Nihon Kotsu Co. drive the cars around the Japanese capital to train the company's software. Next year, Waymo will launch a fully autonomous ride-hailing service in Tokyo as a result of those efforts, though it's unclear when it will add the bZ4X vehicles to its commercial fleet.",
+ "report": {
+  "summary": "Waymo联手丰田2027年在日本测试自动驾驶出租车",
+  "background": "Waymo是Alphabet旗下Robotaxi龙头，正从美国向海外扩张；丰田在自动驾驶上偏谨慎，双方2025年4月达成初步合作。日本面临出租车司机短缺和老龄化，且为右舵市场，适合作为Waymo出海试验田。Waymo已在东京用捷豹I-PACE测试，并由日本交通司机协助训练软件，计划2026年在东京推出全自动驾驶叫车服务。",
+  "key_points": [
+   "双方计划2027年在日本测试搭载Waymo自动驾驶硬件的丰田bZ4X，目标为安全验证的L4级自动驾驶出租车。",
+   "测试车辆由丰田在爱知县丰田市高冈工厂生产并集成Waymo硬件，结合丰田制造能力与Waymo软件技术。",
+   "日本之后，双方计划把自动驾驶bZ4X推广至英国等右舵市场，以丰田全球产能加速规模化部署。",
+   "bZ4X是丰田首款基于e-TNGA平台的现代大众市场电动车，该平台由丰田与斯巴鲁共同开发。",
+   "Waymo已在日本用捷豹I-PACE测试，并计划明年在东京启动全自动驾驶叫车服务，bZ4X加入商用时间未定。"
+  ],
+  "impact": "对AI行业，这是Robotaxi从美国向全球右舵市场扩展的标志，L4安全验证与规模化制造成焦点；对开发者，硬件集成、仿真测试、车队运营和本地合规成为关键能力；对普通用户，日本等市场未来将多一种自动驾驶出行选择，但2027年前仍是测试阶段，短期影响有限。",
+  "tools": "可关注Waymo Open Dataset、CARLA仿真器、Autoware、Apollo、ROS 2；它们分别覆盖真实路测数据、仿真验证、开源自动驾驶栈和机器人中间件，适合跟进Robotaxi技术栈。"
+ },
+ "lang": "zh"
+}

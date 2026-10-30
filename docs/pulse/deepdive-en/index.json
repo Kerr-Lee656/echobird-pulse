@@ -9430,5 +9430,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-30T08:23:31Z",
   "fetched_at": "2026-10-30T12:51:43.900049+00:00"
+ },
+ "4d93911fe0e8": {
+  "id": "4d93911fe0e8",
+  "url": "https://scio.md/",
+  "title": "Rival AI models write an encyclopedia and judge each other blind",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T18:53:04Z",
+  "fetched_at": "2026-10-30T19:21:19.993429+00:00"
+ },
+ "cc43a7277ed6": {
+  "id": "cc43a7277ed6",
+  "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+  "title": "Claude 20x is now Ultra without the 5-hour limit",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T18:38:30Z",
+  "fetched_at": "2026-10-30T19:21:32.940010+00:00"
+ },
+ "5818be28c4f0": {
+  "id": "5818be28c4f0",
+  "url": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+  "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+  "source": "Philipp Schmid",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-30T18:28:00.000Z",
+  "fetched_at": "2026-10-30T19:21:53.752342+00:00"
+ },
+ "b9ee8bb30716": {
+  "id": "b9ee8bb30716",
+  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "title": "Google’s satellite AI server transmits its first response to Earth",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-10-30T18:21:38.000Z",
+  "fetched_at": "2026-10-30T19:22:05.738091+00:00"
+ },
+ "77395d8493e2": {
+  "id": "77395d8493e2",
+  "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+  "title": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T18:06:42Z",
+  "fetched_at": "2026-10-30T19:22:19.106111+00:00"
+ },
+ "0371ff9250f9": {
+  "id": "0371ff9250f9",
+  "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+  "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-10-30T17:38:19.000Z",
+  "fetched_at": "2026-10-30T19:22:35.544871+00:00"
+ },
+ "235bb524b25e": {
+  "id": "235bb524b25e",
+  "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+  "title": "Google’s first data center satellite is online and writing poetry",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-30T17:00:00.000Z",
+  "fetched_at": "2026-10-30T19:23:08.126807+00:00"
+ },
+ "e0560c89dba7": {
+  "id": "e0560c89dba7",
+  "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+  "title": "US tech stocks see sharp falls over AI cost fears",
+  "source": "Hacker News (195pts, 203c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T16:13:02Z",
+  "fetched_at": "2026-10-30T19:23:20.653960+00:00"
  }
 }

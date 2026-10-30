@@ -1,0 +1,24 @@
+{
+ "id": "ccb2c51972ca",
+ "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses",
+ "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T19:19:24.069736+00:00",
+ "content": "Senators are looking into 'serious privacy risks' with Meta's AI glasses\n'Meta's smart glasses have increasingly been implicated in disturbing invasions of privacy.'\nUS Senators Ron Wyden (D-Or) and and Edward Markey (D-Ma) are investigating \"serious privacy and safety risks\" around Meta's AI smart glasses. \"Meta's smart glasses have increasingly been implicated in disturbing invasions of users' and bystanders' privacy,\" the pair wrote in a letter to Mark Zuckerberg, adding that Meta launched the product even after identifying risks to bystander privacy.\nThe senators highlighted multiple incidents of Meta's glasses being used in \"disturbing\" invasions of privacy. It cited both 404 Media and BBC articles about men secretly filming women with Meta's \"pervert glasses\" while harassing them, then posting the recordings to social media. It also noted that according to other reports and a lawsuit, Meta's AI contractors said they reviewed footage captured by the eyewear showing people undressing and engaging in sexual activity.\nThe senators requested that Meta respond to specific questions about accidental camera activation and recording-indicator tampering. They also want to know if the glasses blur faces and license plates for certain AI interactions, like Meta does on Facebook and Instagram. It asked Meta to explain the circumstances that imagery is made accessible to employees or contracts, or when it's used to train AI models. Finally, citing Meta's own documents, it asked the company whether it conducted detailed human rights due diligence and safety testing on its glasses before releasing them. It requested those responses by Thanksgiving (November 26, 2026).\nThe list of complaints about Meta's glasses is long. On top of the ones cited by Wyden and Markey, users have said that the glasses were recording their conversations without consent following a firmware update. They've also been spotted on ICE agents during raids, and the New York City Police's counterterrorism unit reportedly raised surveillance concerns about the devices in January this year. Earlier in October, California Governor Gavin Newsom vetoed a bill that would have banned people from using wearables to secretly record others in private areas of business.\nHowever, Wyden and Markey seem more determined to hold the social media giant's feet to the fire. \"Meta's professed commitment to privacy and preventing intimate image abuse rings hollow if the company cannot demonstrate meaningful steps to prevent its own products and practices from facilitating those harms,\" the senators told Zuckerberg.",
+ "report": {
+  "summary": "美参议员调查Meta AI眼镜隐私与安全风险",
+  "background": "Meta与雷朋合作的AI智能眼镜带摄像头和AI功能，因隐蔽拍摄、旁观者隐私和数据访问问题持续引发争议。美国参议员Ron Wyden和Edward Markey致信扎克伯格，称该产品存在“严重隐私与安全风险”，并引用偷拍骚扰、承包商查看敏感画面等报道与诉讼，要求Meta说明风险评估、数据使用和安全测试情况。",
+  "key_points": [
+   "参议员致信扎克伯格，指Meta AI眼镜存在“严重隐私与安全风险”，要求说明产品风险评估与上线决策。",
+   "信中引用多起偷拍骚扰、承包商查看脱衣或性行为画面等报道与诉讼，称风险涉及旁观者隐私和员工访问。",
+   "具体质询包括相机误激活、录制指示灯被篡改、人脸和车牌模糊、影像何时供员工或承包商访问及用于训练AI。",
+   "要求Meta说明发布前是否做人权尽职调查和安全测试，并在2026年11月26日前回复。",
+   "此前还有固件更新后未经同意录音、ICE探员使用、纽约警方监控担忧等投诉，加州相关立法也被否决。"
+  ],
+  "impact": "对AI行业，可穿戴AI相机将面临更严隐私审查，隐私设计、数据最小化和第三方访问治理成为合规重点；开发者需重视默认模糊、录制提示防篡改和本地处理；普通用户与旁观者可能获得更强告知与同意保护，但部分功能可能受限。",
+  "tools": "若想跟进，可关注开源智能眼镜OpenGlass、本地多模态模型LLaVA/Ollama，以及隐私影响评估（PIA）和GDPR合规检查清单。"
+ },
+ "lang": "zh"
+}

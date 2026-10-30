@@ -19429,5 +19429,104 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-30T06:12:50Z",
   "fetched_at": "2026-10-30T12:48:27.158012+00:00"
+ },
+ "c096782638d4": {
+  "id": "c096782638d4",
+  "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:02.361523+00:00"
+ },
+ "e16ff3762c53": {
+  "id": "e16ff3762c53",
+  "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
+  "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:14.080916+00:00"
+ },
+ "ccb2c51972ca": {
+  "id": "ccb2c51972ca",
+  "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses",
+  "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:24.069736+00:00"
+ },
+ "d9fb7141815b": {
+  "id": "d9fb7141815b",
+  "url": "https://thenextweb.com/news/wikimedia-amicus-brief-openai-new-york-times-fair-use-rag",
+  "title": "Wikimedia asks court to rule AI training fair use, but not chatbot copying",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:33.451018+00:00"
+ },
+ "96e8b5b7c0c2": {
+  "id": "96e8b5b7c0c2",
+  "url": "https://thenextweb.com/news/reddit-login-required-google-ai-search-traffic",
+  "title": "Reddit will make users log in as Google’s AI search cuts its traffic",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:42.064487+00:00"
+ },
+ "2be4dafbcac4": {
+  "id": "2be4dafbcac4",
+  "url": "https://www.businessinsider.com/intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages-2026-10",
+  "title": "Intel shares plunge 25% as it warns that the AI boom's thirst for chips is hurting business",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T19:19:54.669345+00:00"
+ },
+ "dc4869d404b5": {
+  "id": "dc4869d404b5",
+  "url": "https://www.36kr.com/p/4047595233098247",
+  "title": "刚刚，奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-10-30T14:40:52.214Z",
+  "fetched_at": "2026-10-30T19:20:05.267146+00:00"
+ },
+ "603fd980992d": {
+  "id": "603fd980992d",
+  "url": "https://www.ithome.com/1/020/354.htm",
+  "title": "苹果已收购数据工程公司 Ascend.io，扩大 AI 技术布局",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T13:33:21Z",
+  "fetched_at": "2026-10-30T19:20:15.888898+00:00"
+ },
+ "4b8a80d62df4": {
+  "id": "4b8a80d62df4",
+  "url": "https://www.ithome.com/1/020/346.htm",
+  "title": "小米开源 0.8B 参数 OCR 小模型：打通文档解析与视觉问答，支持 Markdown 与 JSON 输出",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T13:15:17Z",
+  "fetched_at": "2026-10-30T19:20:22.664544+00:00"
+ },
+ "21e298be3473": {
+  "id": "21e298be3473",
+  "url": "https://www.huxiu.com/article/4901801.html?f=rss",
+  "title": "AI补全人类史上最大数学证明，数学家当场泪崩",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T12:23:08Z",
+  "fetched_at": "2026-10-30T19:20:36.356429+00:00"
+ },
+ "a198bee42c00": {
+  "id": "a198bee42c00",
+  "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+  "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-30T12:08:00Z",
+  "fetched_at": "2026-10-30T19:20:47.001857+00:00"
  }
 }

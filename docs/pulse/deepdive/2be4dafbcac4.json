@@ -1,0 +1,24 @@
+{
+ "id": "2be4dafbcac4",
+ "url": "https://www.businessinsider.com/intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages-2026-10",
+ "title": "Intel shares plunge 25% as it warns that the AI boom's thirst for chips is hurting business",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T19:19:54.669345+00:00",
+ "content": "Intel shares plummeted as much as 30% on Friday after the chipmaker warned about a weaker market as supply shortages linked to the AI boom bite.\nShares in the California-headquartered company were trading at $63.76 as of around 2:30 p.m. ET, down from $92.07 at Thursday's close.\nOn Thursday, it reported third-quarter revenue of $16.5 billion, up 20% from a year earlier. However, it forecast fourth-quarter revenue of $15 billion to $16 billion and earnings per share of $0.25 — down from $0.52 in the third quarter.\nThe AI boom is increasing demand for memory and server chips needed to train and run AI models, creating shortages that have pushed up memory prices. That makes PCs more expensive to build and buy, prompting computer-makers to order fewer Intel chips.\n\"The industry continues to navigate one of the most significant supply shortages in history, driven by the unprecedented demand for super intelligence,\" Intel CEO Lip-Bu Tan said on Thursday's earnings call.\nIntel's client-computing group, which sells chips for PCs, generated $8.1 billion in the third quarter, down 9% from the previous quarter.\nThe company said it expects the division's revenue to decline by more than 20% in the fourth quarter.\nIntel's share price has boomed in 2026, climbing more than 130% as of Thursday's close. That rise has stalled in recent weeks amid a wider sell-off in the tech sector. After Friday's open, its year-to-date rise is less than 65%.\nFriday's sharp drop comes during a busy earnings week, with other tech firms also reporting disappointing numbers. On Thursday, Google recorded the largest single-day market cap loss in its history, shedding $500 billion in value after worse-than-expected revenue from its AI search tool pushed shares down 12%.\nChip shortages hit home\nIntel said higher memory prices and limited availability were making computers more expensive. It expects global PC sales to decline about 12% this year, and by roughly another 10% in 2027.\n\"We do not expect a sustained recovery until memory availability improves and pricing begins to normalize,\" said Dave Zinsner, the chief financial officer.\nThe company's data-center business offered some hope, with revenue up nearly 80% year over year to $7.3 billion.\nHowever, Intel said it could not meet all the demand for its server chips.\nIt cited a two-week shutdown at its Israeli plant following what Tan called \"an unfortunate and tragic accident,\" which it expects to cut fourth-quarter revenue by about $300 million.",
+ "report": {
+  "summary": "AI芯片短缺反噬PC需求，英特尔股价暴跌",
+  "background": "英特尔此前受益于AI热潮，2026年股价一度涨超130%。但AI数据中心抢占内存与服务器芯片产能，导致内存缺货涨价、PC整机成本上升，PC厂商削减英特尔客户端芯片订单。最新财报虽Q3营收同比增长，但Q4指引明显走弱，叠加科技股回调，引发市场对其PC业务和短期盈利能力的担忧。",
+  "key_points": [
+   "第三季度营收165亿美元、同比增20%，但第四季度指引仅150亿至160亿美元，每股收益0.25美元，较Q3的0.52美元大幅下滑。",
+   "AI训练和推理推高内存与服务器芯片需求，内存缺货涨价抬高PC成本，电脑厂商因此减少采购英特尔PC芯片。",
+   "客户端计算部门Q3收入81亿美元、环比降9%，公司预计Q4降超20%；预计全球PC销量今年降约12%，2027年再降约10%。",
+   "数据中心部门Q3收入73亿美元、同比增近80%，但英特尔仍无法满足全部服务器芯片需求，显示AI需求强但供给受限。",
+   "以色列工厂因事故停产两周，预计削减Q4营收约3亿美元；CFO称内存供应改善和价格正常化前，业务不会持续复苏。"
+  ],
+  "impact": "对AI行业，短缺与涨价正从数据中心传导至PC，利润向内存和AI服务器环节集中，硬件成本上升可能拖慢AI PC普及。对开发者，PC升级和云算力成本更高，需更重视内存优化与推理效率。对普通用户，笔记本和台式机可能更贵、促销减少，换机周期拉长；AI服务也可能因算力成本承压。",
+  "tools": "跟踪供应与价格可看TrendForce/DRAMeXchange、PCPartPicker；开发者可用vLLM、llama.cpp及量化工具降低内存占用，应对算力涨价。"
+ },
+ "lang": "zh"
+}
