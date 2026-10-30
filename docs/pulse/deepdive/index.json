@@ -19276,5 +19276,68 @@
   "site_name": "Buzzing",
   "published_at": "2026-10-29T18:46:50.358Z",
   "fetched_at": "2026-10-29T23:59:05.599720+00:00"
+ },
+ "51a7cfa64f45": {
+  "id": "51a7cfa64f45",
+  "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic",
+  "title": "Reddit will force users to log in as AI is killing search traffic",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T05:40:11.896258+00:00"
+ },
+ "6eca17ea8517": {
+  "id": "6eca17ea8517",
+  "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
+  "title": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T05:40:19.907560+00:00"
+ },
+ "2fa2c9ea3336": {
+  "id": "2fa2c9ea3336",
+  "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+  "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-30T05:40:35.822512+00:00"
+ },
+ "70912e7cd4f5": {
+  "id": "70912e7cd4f5",
+  "url": "https://wallstreetcn.com/articles/3784812",
+  "title": "英伟达为 Nscale 逾 50 亿美元数据中心建设融资提供信用担保",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-30T05:40:45.045662+00:00"
+ },
+ "ff8ca42481b7": {
+  "id": "ff8ca42481b7",
+  "url": "https://www.aibase.com/news/31968",
+  "title": "消息称Anthropic贡献SpaceX超三分之一营收，合同潜在总额超 1200 亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-10-30T01:25:35.488Z",
+  "fetched_at": "2026-10-30T05:41:05.471127+00:00"
+ },
+ "8b9bb0507fd5": {
+  "id": "8b9bb0507fd5",
+  "url": "https://www.ithome.com/1/019/865.htm",
+  "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T01:09:09Z",
+  "fetched_at": "2026-10-30T05:41:16.851867+00:00"
+ },
+ "797f2e42b479": {
+  "id": "797f2e42b479",
+  "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+  "title": "人类表面组：人工智能标记出主要数据库中被忽略的潜在细胞表面药物靶点",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-29T21:58:00.079Z",
+  "fetched_at": "2026-10-30T05:41:27.081577+00:00"
  }
 }

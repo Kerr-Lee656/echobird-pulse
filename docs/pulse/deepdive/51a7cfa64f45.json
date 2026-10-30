@@ -1,0 +1,24 @@
+{
+ "id": "51a7cfa64f45",
+ "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic",
+ "title": "Reddit will force users to log in as AI is killing search traffic",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-30T05:40:11.896258+00:00",
+ "content": "Reddit will force users to log in as AI is killing search traffic\nThe company is starting with tests outside of the US.\nReddit will no longer allow logged out users or those without an account to view content on its platform, CEO Steve Huffman shared in an update. The change, which the company said will initially be tested in \"select markets\" outside the US, comes as the company says that search traffic has declined significantly.\n\"A key piece of work to retain new audiences is shifting Reddit to a logged-in-only experience,\" Huffman wrote in a shareholder letter. \"Moving to primarily logged-in will ensure our users have the best Reddit experience possible, and can find the content and communities most relevant to them.\"\nThe change is the most dramatic shift the company has made as it battles AI scraping and changes to internet search. It will also likely rattle users, some of whom are already frustrated with recent moves like restrictions on Old Reddit. Huffman said that it was a \"big change\" but necessary for the company.\n\"It is better for our business because we will have more signals for ads targeting, and being logged-in leads to higher engagement generally,\" he wrote. \"It also allows us to protect access to Reddit's extremely valuable corpus of data, and helps us better adapt to emerging regulations around the world.\"\nHuffman didn't explicitly mention age verification laws, but requiring users to log in would presumably help the company comply with such measures.\nHuffman said the company is still working on figuring out exactly when logged out users will encounter a \"hard prompt\" to log in. \"We need to find the right boundary,\" he said during the company's third-quarter earnings call. \"Whether they're coming from a shared link or maybe from search ... there'll be some version of Reddit accessible for those moments before we do that hard prompt.\"\nReddit's CEO, who has been clearly frustrated with the state of online search and Google's AI overviews for a while, was more explicit in his criticism. \"The reality is, the AI mode does not drive traffic, not for us and not to anybody, as far as I know,\" he said. \"So that's just a fundamental shift in how Google works. It used to be a traffic driver, now it's not.\"\nThe company reported that search traffic was \"down meaningfully\" in the most recent quarter, with the company seeing referrals from search drop by more than 1 million each week during the month of October.\nReddit's relationship with Google is also complicated. The company has a licensing deal with the search giant so it can access the platform's data for AI training. That deal is reportedly worth about $60 million a year. More recently, there are reports that Reddit may be reconsidering this arrangement. When asked about it on the call, Huffman said there are \"active discussions\" but didn't share specifics. \"What's most important is that any deal we do needs to advance our long-term strategy, it has to be a fair exchange of value,\" he said.\nHuffman hinted at some other product changes the company is considering to help it grow engagement with logged in users. The Reddit founder said the company is working on adding \"more organization\" to its main feed to make it \"more consistent\" and \"less grab bag-ey\" than it currently is.\nHe also suggested that an \"incognito mode\" could be in the works. He speculated that adding \"private browsing\" could help the company address users who repeatedly uninstall and reinstall the Reddit app.",
+ "report": {
+  "summary": "Reddit将推登录墙，以对抗AI搜索流量下滑。",
+  "background": "Reddit CEO Steve Huffman宣布，将把平台转向“登录后才能浏览”的体验，并先在美国以外的部分市场测试。背景是Google AI Overviews和AI搜索减少外链流量，Reddit搜索推荐显著下降；同时Reddit高价值语料被AI抓取，且与Google有约6000万美元/年的数据授权协议。公司还面临广告定向、全球年龄验证等监管压力。",
+  "key_points": [
+   "Reddit将先在海外选市场测试强制登录，未登录用户浏览内容会遇到登录提示，具体触发边界仍在设计。",
+   "搜索导流下滑严重：10月每周来自搜索的推荐减少超100万次，CEO称Google AI模式基本不带来流量。",
+   "登录墙可提升广告定向和用户互动，并保护Reddit高价值语料，同时便于应对全球监管。",
+   "Reddit与Google约6000万美元/年的数据授权协议正在“积极讨论”，可能重新评估合作条件。",
+   "产品层面还在考虑优化主信息流组织，并探索“隐私浏览/隐身模式”等新功能。"
+  ],
+  "impact": "对AI行业，开放网页数据进一步收紧，模型训练与搜索答案更依赖授权和登录数据；对开发者，抓取Reddit的门槛升高，需转向官方API或合规数据合作；对普通用户，浏览Reddit更麻烦，但可能获得更一致体验，隐私与便利的权衡将更突出。",
+  "tools": "可关注Reddit Data API与PRAW、arctic_shift数据集，以及Common Crawl、Internet Archive等公开数据源；使用时务必遵守平台条款与授权范围。"
+ },
+ "lang": "zh"
+}

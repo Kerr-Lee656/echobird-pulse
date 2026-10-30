@@ -9340,5 +9340,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-29T18:47:56Z",
   "fetched_at": "2026-10-30T00:01:04.251876+00:00"
+ },
+ "8c6014a36ca9": {
+  "id": "8c6014a36ca9",
+  "url": "https://github.com/obra/superpowers",
+  "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-30T05:42:02.683340+00:00"
+ },
+ "f52c36546baa": {
+  "id": "f52c36546baa",
+  "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
+  "title": "A Claude Code agent's test escaped into my Mac. I only noticed because it talked",
+  "source": "Hacker News (6pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-30T05:16:33Z",
+  "fetched_at": "2026-10-30T05:42:32.833160+00:00"
+ },
+ "6d844912b532": {
+  "id": "6d844912b532",
+  "url": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
+  "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+  "source": "Platformer",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-30T00:51:00.000Z",
+  "fetched_at": "2026-10-30T05:42:50.689760+00:00"
  }
 }
