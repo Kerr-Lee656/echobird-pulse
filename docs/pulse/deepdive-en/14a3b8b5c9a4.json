@@ -1,0 +1,23 @@
+{
+ "id": "14a3b8b5c9a4",
+ "url": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
+ "title": "Figma 讲解如何训练专用画布编辑模型",
+ "source": "Figma AI / Agent / Make",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-29T21:00:00.000Z",
+ "fetched_at": "2026-10-30T00:00:03.494778+00:00",
+ "content": "Figma AI / Agent / Make·· 3 小时前精选AI 评分60\nFigma 讲解如何训练专用画布编辑模型\nHow we’re training a Figma-fluent editing model\nAI 导读\nFigma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。\n推荐理由\n原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。\n来源：Figma AI / Agent / Make · figma.com",
+ "report": {
+  "summary": "Figma explains training a Figma-fluent editing model with 250,000+ synthetic samples for SFT, then reinforcement learning using deterministic validators and visual judges.",
+  "background": "Figma is building AI agents and Make features that need to understand and manipulate design canvases, but general-purpose LLMs often struggle with precise, structured editing tasks. The company’s post explains a domain-specific training recipe: supervised fine-tuning on synthetic editing examples, followed by reinforcement learning. This reflects a broader industry shift toward specialized post-training for vertical AI products, where teams combine synthetic data, reward models, and automated evaluators to improve reliability beyond generic model capabilities. Figma’s disclosure is notable because it details both training stages and internal evaluation dimensions, offering a practical reference for other companies building agentic tools for complex software interfaces.",
+  "key_points": [
+   "Figma generated more than 250,000 synthetic samples to supervised-fine-tune an early Llama 3.3 70B model on canvas editing tasks. According to Figma, this SFT stage brought the model close to the top models of that time on editing work, showing synthetic data can rapidly adapt a general LLM to a specialized interface.",
+   "After SFT, Figma moved to reinforcement learning to push beyond imitation of training examples. RL lets the model optimize against defined rewards, which is important for editing tasks where many outputs are valid but some are more correct, efficient, or visually appropriate.",
+   "Figma built an evaluation stack combining deterministic validators, which check objective properties and rule-based correctness, with visual judges that assess rendered output quality. This mix aims to catch both mechanical errors and subjective design problems that single metrics might miss.",
+   "The work is a case study in domain-specific post-training for AI agents: use synthetic task data, then RL with automated rewards and evaluators. It gives teams a template for making general models fluent in structured software operations rather than relying only on prompting."
+  ],
+  "impact": "Figma’s approach signals that vertical AI agents will increasingly rely on custom post-trained models, not just generic LLM APIs. For the AI industry, it reinforces synthetic data and RL as a practical path for specialized editing capabilities, while highlighting the need for robust automated evaluation. For developers, the recipe—SFT on synthetic tasks, then RL with validators and visual judges—can be adapted to CAD, spreadsheets, code editors, and other structured tools. For regular users, the payoff could be more reliable AI design assistants that make fewer destructive edits and better understand visual intent. The main risks are synthetic-data bias, reward hacking, and visual judges’ subjectivity.",
+  "tools": "Watch Figma’s agent/Make features and its engineering blog for details. For replication, explore Llama 3.3 70B, Hugging Face TRL for SFT/RL, Unsloth for efficient fine-tuning, verl or OpenRLHF for RL scaling, and vision-language models as visual judges. Figma’s Plugin API and REST API can help build deterministic canvas validators; design-specific eval suites are still nascent."
+ },
+ "lang": "en"
+}

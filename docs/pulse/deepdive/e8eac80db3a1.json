@@ -1,0 +1,24 @@
+{
+ "id": "e8eac80db3a1",
+ "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+ "title": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T23:57:14.462081+00:00",
+ "content": "FuriosaAI, a Seoul-based maker of AI inference chips, has raised $620m in a Series D round. The round values it at about $2.9bn. South Korea’s National Growth Fund put in $280m, making it the largest investor.\nThe company announced the round in a press release and a blog post. Its previous round last year valued it at $735m, so its valuation has quadrupled, Yoolim Lee reported for Bloomberg, which had the news first.\n“We see strong demand and opportunities as we are scaling our business globally,” chief executive June Paik said on Bloomberg Television on Thursday.\nWho invested\nInternational investors put $110m into the FuriosaAI Series D. US firm Infinitum was the largest of them. Jericho Capital, Worldline Capital, Cisco Investments, Abu Dhabi’s NeoFort Holding and Singapore’s QUDA Capital Partners joined it. QUDA’s founder, Charlie Foo, is a former Nvidia executive and now advises FuriosaAI.\nExisting shareholders added $125m, including all three seed investors: NAVER, DSC Investment and KDB Capital. The Export-Import Bank of Korea made its first direct investment in a startup, and asset manager UAMCO committed $30m.\n“Taking an advanced AI chip from design to volume production is an exceptionally difficult undertaking, and few companies have demonstrated the ability to do so successfully,” said John Yetimoglu, chief investment officer at Infinitum.\nThe chip and its customers\nNvidia chips dominate AI data centres, and investors are looking for alternatives that use less energy, Bloomberg reported. FuriosaAI builds chips for inference, the work of running trained AI models, rather than training them.\nIts second-generation chip, RNGD, pronounced “renegade”, went into mass production in January. TSMC is making 20,000 of them this year, according to Bloomberg. FuriosaAI says it has secured the memory and factory capacity to make more than 40,000 in 2027. Memory is scarce across the industry: Micron expects the memory shortage to tighten into 2028.\nThe RNGD card draws 180 watts and needs only air cooling. FuriosaAI says it matches the throughput of Nvidia’s RTX PRO 6000 card for card. It also says RNGD serves twice as many users per kilowatt. TNW has not tested these claims.\nSamsung SDS launched a cloud service running on RNGD in July. LG Group runs its EXAONE models on the chips, according to FuriosaAI. Korean AI company Upstage uses them for search summaries. Paik told Bloomberg the company is talking to many customers in Asia-Pacific and the Middle East.\nWhat the money is for\nFuriosaAI will use the money to make more RNGD chips, improve its software and build its third-generation chip. FuriosaAI is developing that chip with Broadcom and other partners. It will use a 2nm, multi-die design with HBM4 memory, the company says.\nThe company has offices in the United States, Singapore and Lisbon. In Lisbon, it brought RNGD to Europe with Equinix in July. Other inference chipmakers have also raised large rounds this year, including Etched at $21bn in August.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "FuriosaAI完成6.2亿美元D轮，估值29亿美元",
+  "background": "AI数据中心长期由英伟达GPU主导，随着大模型从训练转向推理，市场对低功耗、低成本推理芯片的需求上升。FuriosaAI是首尔AI芯片公司，上一轮估值7.35亿美元，此次D轮估值跃升至约29亿美元，反映资本正押注英伟达替代方案，也获得韩国政策基金和全球投资者支持。",
+  "key_points": [
+   "FuriosaAI完成6.2亿美元D轮，估值约29亿美元，较上轮7.35亿美元增长近四倍；韩国国家成长基金出资2.8亿美元。",
+   "其第二代推理芯片RNGD已量产，由台积电今年生产2万颗；公司称已锁定产能和内存，2027年可产超4万颗。",
+   "RNGD功耗180瓦、仅需风冷，公司称单卡吞吐对标英伟达RTX PRO 6000，每千瓦服务用户数翻倍，但未经独立测试。",
+   "Samsung SDS已上线基于RNGD的云服务，LG用其运行EXAONE模型，Upstage用于搜索摘要，客户开始落地。",
+   "资金将用于扩产、完善软件和研发第三代芯片；三代芯片与博通合作，采用2nm多die和HBM4内存。"
+  ],
+  "impact": "对AI行业，这说明推理芯片成为资本热点，英伟达替代方案加速；对开发者，多了低功耗推理硬件和云服务选择，但软件生态迁移成本仍高；对普通用户，长期有望带来更便宜、更节能的AI服务，不过实际性能仍需第三方验证。",
+  "tools": "可关注FuriosaAI RNGD及其SDK、Samsung SDS云服务、LG EXAONE、Upstage，并对比Etched、Groq等推理芯片方案。"
+ },
+ "lang": "zh"
+}

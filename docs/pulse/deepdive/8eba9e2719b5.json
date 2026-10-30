@@ -1,0 +1,24 @@
+{
+ "id": "8eba9e2719b5",
+ "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
+ "title": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T23:57:47.288498+00:00",
+ "content": "Serval has raised $150m in a Series C round led by Sequoia, valuing the San Francisco company at $3bn. That is three times the $1bn valuation it reached in December, when it raised $75m.\nServal announced the round on Thursday in a blog post and a press release. Co-founder and chief executive Jake Stauch spoke to Harshita Mary Varghese of Reuters about the product.\n“It’s not an additional layer of AI spend on top of your existing system of record, it is a true alternative replacement for platforms like ServiceNow,” Stauch told Reuters.\nWhat Serval does\nServal makes AI agents that automate employee support work. It started with IT tasks such as managing staff access, troubleshooting, and keeping track of software and hardware. The company says customers now also use it in HR, finance, security and legal teams.\nIts automation agent, Catalyst, lets staff with no engineering background build workflows in code. Serval says the agent turns business requirements into fixed tools, with guardrails, permission checks and approvals managed by administrators.\nStauch told Reuters that the agent administrators use to build tools is kept separate from the one employees use. He said customers still generally want a human to approve sensitive actions, such as password resets and application access.\nCustomers moving off ServiceNow\nServal says its annual recurring revenue has doubled every quarter since its Series B. Two Fortune 20 companies became customers in the past six months, according to its founders. Other customers include Fox Corporation, WPP, Live Nation and Ramp, and most go live within 30 days, the company says.\nThe company says one car maker moved its whole organisation from ServiceNow to Serval in 45 days. Stauch told Reuters it was Lucid Motors. He told Rashi Shrivastava of Forbes that the 10,000-person company did “a full rip and replace”.\nServiceNow told Forbes that it keeps a 98% renewal rate. It said inbound interest from first-time customers is up 60%. Its shares fell as much as 25% on Thursday, their biggest intraday drop since it listed in 2012, after its bookings outlook missed forecasts.\nStauch and chief technology officer Alex McLeod also mentioned the talk of a “SaaSpocalypse”. They wrote that Workday, Salesforce and SAP remain deeply embedded in large companies. Salesforce chief executive Marc Benioff dismissed the SaaSpocalypse as “crazy nonsense” in September.\nWhere the money goes\nSequoia led the Serval Series C, the company’s third round in 12 months. Existing investors Elad Gil, Evantic, First Round, General Catalyst and Redpoint took part. Conviction and Headline joined as new investors. Serval has now raised $277m in total.\n“Serval is winning over major enterprises, becoming their system of record, and taking on their most critical workflows,” Sequoia partner Anas Biad said in the press release.\nServal plans to hire more than 500 people over the next 12 months. It is opening offices in New York, London and Austin. The company says its team has grown tenfold in the past year.\nMore than 100 of the new hires will be automation engineers in ProServal, a new professional services arm. They will work inside customers’ teams to find tasks to automate and redesign processes. About half will be recent graduates, trained in a four-week Serval programme.\n“Nobody has ten years of experience doing this, because two years ago the tools didn’t exist,” Stauch said in the press release.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Serval获1.5亿美元C轮，估值30亿美元，用AI代理替代ServiceNow。",
+  "background": "ServiceNow等传统SaaS长期作为企业IT服务管理和工作流“记录系统”，粘性强、替换成本高。生成式AI代理兴起后，创业公司开始尝试用自动化员工支持切入核心企业流程，市场出现“SaaSpocalypse”争论。Serval在12月刚以10亿美元估值融资7500万美元，不到一年再获Sequoia领投的1.5亿美元C轮，估值升至30亿美元，成为AI代理替代传统企业软件的代表案例。",
+  "key_points": [
+   "融资与估值：Sequoia领投1.5亿美元C轮，估值达30亿美元，较12月的10亿美元翻三倍；12个月内完成三轮融资，总融资2.77亿美元。",
+   "产品定位：AI代理自动化员工支持，从IT权限管理、排障、软硬件管理扩展到HR、财务、安全和法务；Catalyst可让非工程员工构建带权限、审批和护栏的工作流。",
+   "企业采用：ARR每季度翻倍，过去半年新增两家Fortune 20客户；Fox、WPP、Live Nation、Ramp在用，Lucid Motors称45天完成1万人组织从ServiceNow全量替换。",
+   "竞争与市场反应：ServiceNow强调98%续约率和首次客户咨询增60%，但其股价当日一度跌25%；SaaS是否会被AI代理颠覆仍存争议。",
+   "资金用途：未来12个月招聘500多人，设纽约、伦敦、奥斯汀办公室；新设ProServal专业服务团队，百余名自动化工程师驻客户团队重设计流程。"
+  ],
+  "impact": "对AI行业，这意味着企业AI正从“ copilot 辅助”走向替换核心记录系统，验证AI代理能啃硬骨头，也可能加剧传统SaaS估值分化。对开发者，机会集中在代理编排、权限审计、审批护栏和流程重设计，自动化工程与专业服务岗位会增加。对普通用户，IT/HR请求有望更快解决，但密码重置、应用权限等敏感操作仍需人工审批，数据安全和权限治理是关键。",
+  "tools": "Serval本身未开源，想跟进可研究LangGraph、AutoGen做代理编排，Temporal、n8n做工作流自动化，Open Policy Agent、Casbin做权限与审批护栏，Dify可快速搭建企业LLM应用原型。"
+ },
+ "lang": "zh"
+}

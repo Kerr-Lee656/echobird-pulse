@@ -9304,5 +9304,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-29T17:00:00.000Z",
   "fetched_at": "2026-10-29T19:41:42.064677+00:00"
+ },
+ "14a3b8b5c9a4": {
+  "id": "14a3b8b5c9a4",
+  "url": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
+  "title": "Figma 讲解如何训练专用画布编辑模型",
+  "source": "Figma AI / Agent / Make",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-29T21:00:00.000Z",
+  "fetched_at": "2026-10-30T00:00:03.494778+00:00"
+ },
+ "e842459d926a": {
+  "id": "e842459d926a",
+  "url": "https://aihot.news/items/eq47lph0rzobf8cr950saiu8r",
+  "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+  "source": "卡兹克",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-10-29T20:07:09.000Z",
+  "fetched_at": "2026-10-30T00:00:36.155909+00:00"
+ },
+ "c64d19fa0032": {
+  "id": "c64d19fa0032",
+  "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "title": "OpenAI-backed Thrive Holdings acquires ADT",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-29T19:56:19.000Z",
+  "fetched_at": "2026-10-30T00:00:50.303008+00:00"
+ },
+ "6fa2e18fb225": {
+  "id": "6fa2e18fb225",
+  "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+  "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+  "source": "Hacker News (17pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-29T18:47:56Z",
+  "fetched_at": "2026-10-30T00:01:04.251876+00:00"
  }
 }

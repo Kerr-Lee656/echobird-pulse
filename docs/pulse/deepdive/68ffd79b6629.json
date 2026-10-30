@@ -1,0 +1,24 @@
+{
+ "id": "68ffd79b6629",
+ "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+ "title": "谷歌承认人工智能搜索的盈利能力较弱，但正通过增加广告来解决这一问题",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-10-29T18:46:50.358Z",
+ "fetched_at": "2026-10-29T23:59:05.599720+00:00",
+ "content": "Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in revenue for the months of July to September. But the company’s stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn’t earning as much as organic search, and despite that, Google expects to spend even more on AI next year.\nThe company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income. These may sound like good numbers, but financial markets are not impressed. While revenue is up 25 percent versus last year, net income is almost $9 billion lower. As of this story’s publication, the stock price is down almost 12 percent, and it was down about 13 percent earlier in the day.\nWhile revenue was up 25 percent year over year, analysts expected more. Google reported earnings per share of $2.12, but the consensus projection ahead of Wednesday was $3.02. Google’s Cloud products actually beat expectations, crossing $30 billion in revenue. That’s about a billion more than analyst guesses.\nGoogle is still making a huge amount of money, but there are several troubling trends emerging. The last few years at the company have been all about AI, with generative technology appearing in products from Gmail to Android. Most notably, Google is shifting to an AI search platform powered by Gemini models.\nDuring the earnings call, Chief Business Officer Philipp Schindler discussed the company’s search volume. This is one of the key metrics by which Google tracks its own performance. In the last quarter, Google saw search grow by 12 percent versus last year. Good for the company, right? Except that’s a much slower rate than previous quarters. Growth in Q2 was 17 percent, and Q1 saw 19 percent growth over 2025. Search revenue was also flat in Q3.\nSo that’s the first problem, likely driven by more consumers using AI chatbots to find answers. The other issue is that Google’s take on AI search isn’t pulling in revenue like standard web search yet. According to Schindler, each AI Mode query earns less revenue compared to a similar web search—there are fewer ads, and they cost less to run.",
+ "report": {
+  "summary": "谷歌承认AI搜索收入不如传统搜索，拟靠增加广告来弥补收入缺口",
+  "background": "Alphabet 发布 2026 年第三季度财报：营收约 1280 亿美元，同比增长 25%，但净利润同比少了近 90 亿美元；每股收益 2.12 美元，远低于分析师预期的 3.02 美元，股价一度下跌 12% 至 13%，成为公司史上财报后最大跌幅之一。过去几年谷歌把重心全面转向 Gemini 驱动的 AI 搜索（AI Mode、AI 概览），但这类产品压缩了用户的点击行为；同时，越来越多用户改用聊天机器人找答案，传统搜索这座“现金牛”的增长开始放缓。",
+  "key_points": [
+   "第三季度营收 1280 亿美元，同比增长 25%；但净利润同比减少约 90 亿美元，EPS 2.12 美元远低于预期的 3.02 美元，股价大跌。",
+   "搜索量增速明显放缓：第一季度同比增长 19%，第二季度增长 17%，第三季度只增长 12%；同期搜索收入持平。",
+   "谷歌高管公开承认，AI Mode 每次查询带来的收入低于传统网页搜索：因为广告位更少，单位运行成本也更低。",
+   "应对方式有两条：一是在 AI 搜索中增加广告投放；二是即使 AI 搜索更不赚钱，明年的 AI 相关支出仍将继续扩大。",
+   "云业务成为少数亮点：谷歌云营收首次突破 300 亿美元，比分析师预期高出约 10 亿美元。"
+  ],
+  "impact": "对行业而言，这标志着“AI 搜索必然更赚钱”的叙事第一次被官方数据打破，广告变现效率将成为所有 AI 搜索产品必须面对的难题。对开发者来说，AI 搜索界面的广告位、对话式广告格式和归因追踪可能成为新的技术需求，依赖自然流量的 SEO 与内容站将进一步承压。对普通用户而言，搜索结果页的广告会更密集，答案与推广的界限更模糊，免费使用 AI 搜索的代价是接受更多商业化内容。",
+  "tools": "想跟进可关注 Google 的 Gemini API 与 AI Mode 动态、Search Console 里 AI 搜索的流量与展现数据；也可以对比体验 Perplexity、OpenAI 搜索、Bing Copilot 的广告策略，观察对话式广告的产品形态如何演变。"
+ },
+ "lang": "zh"
+}

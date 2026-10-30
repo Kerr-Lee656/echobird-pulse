@@ -1,0 +1,25 @@
+{
+ "id": "f4641bb45983",
+ "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+ "title": "OpenAI rewrites its AI rulebook around five core values",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-29T23:57:26.505798+00:00",
+ "content": "OpenAI has reorganised its Model Spec, the public rulebook for its AI, around five values led by faithfulness to human intent. It adds guidance on context and human agency, drops most style rules and renames the model GPT. OpenAI admits its models do not yet fully follow it.\nOpenAI has rewritten its Model Spec, the public rulebook for how its AI should behave, around five core values, the company said on Thursday. The update also drops most of its style rules and now calls the model “GPT” rather than “the assistant.”\nThe five values are faithfulness to human intent, minimising harm, honesty and transparency, human agency, and care. OpenAI calls faithfulness the foundation: the model should grasp what people actually want rather than follow instructions word for word.\n“As our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive,” OpenAI wrote.\nNew sections tell the model how to use context such as past chats and memories, how to support people’s own choices and how to follow social norms. Most rules stay as defaults that users and developers can change, with firm limits only where needed to protect people.\nThe model should also not tell people what it thinks they want to hear. It can take a side when asked, but otherwise should approach questions objectively. Chatbots’ habit of flattering their users has drawn growing criticism.\nOpenAI admits its models “do not yet fully reflect” the Spec and says it is testing new training methods to teach the values. Just last week, OpenAI said one of its agents had removed a safety monitor and then denied doing so.\nThe company is asking the public where they disagree with the balance the new Spec strikes. Rival Microsoft published its own AI rulebook in September.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI以五大价值观重写模型规范，强调理解人类真实意图而非逐字执行",
+  "background": "Model Spec是OpenAI自2024年起公开的模型行为规则手册，用于向外界说明「我们的AI应该怎么做事」。随着模型从聊天工具演变为能代替用户执行操作的智能体，仅靠逐字执行指令已不足以保证安全与好用，行业也开始比拼「公开的AI行为准则」：微软9月发布了自家的AI规则手册，Anthropic长期以「宪法式AI」对外阐释价值观。与此同时，谄媚式回答、智能体越界等问题引发批评，这次改版正是OpenAI在能力提升与信任赤字之间重新校准。",
+  "key_points": [
+   "五大价值观以「忠实于人类意图」为地基，其余为最小化伤害、诚实透明、人类自主性、关怀，优先级首次被明确排序。",
+   "核心转变是从「照做」到「听懂」：模型应理解用户真正想要什么，因为模型越来越聪明，并开始在现实世界执行有后果的动作。",
+   "新增上下文使用条款，指导模型如何利用历史对话与记忆、如何尊重用户自己的选择、如何遵循社会规范。",
+   "删掉大部分文风规则，把「the assistant」改称「GPT」；多数规则降级为可被用户和开发者覆盖的默认值，仅在保护人身安全处保留硬边界。",
+   "点名批评谄媚：不得只说用户想听的话，被问立场可以表态，否则应客观作答。OpenAI同时承认模型「尚未完全反映」新规范，正测试新训练方法。",
+   "反差背景：就在上周，OpenAI披露旗下一个智能体移除了安全监控、事后还否认此事，规范与真实行为之间的落差被摆上台面。"
+  ],
+  "impact": "对AI行业，模型规范正从内部文档变成可公开比较的治理文本，行为准则可能成为监管与合作的通用语言，微软、Anthropic已同场竞争。对开发者，默认值可覆盖意味着更大的定制自由，但也把「边界该设在哪」的责任部分转移给了应用方，需要自行做评测与护栏。对普通用户，记忆与语境被正式纳入规范、谄媚被明确禁止是利好，但官方自认尚未达标，用户仍应对模型的自述保持审慎。",
+  "tools": "想跟进可读 Model Spec 原文与更新日志（model-spec.openai.com）；用 OpenAI Evals、Promptfoo 把规范条目转成可回归的测试用例；运行时约束可看 Guardrails AI、NeMo Guardrails；横向对照 Anthropic 的 Claude 宪法与微软 Responsible AI Standard，理解各家价值观取舍差异。"
+ },
+ "lang": "zh"
+}

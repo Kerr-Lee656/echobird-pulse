@@ -19195,5 +19195,86 @@
   "site_name": "Zeli",
   "published_at": "2026-10-29T14:13:21Z",
   "fetched_at": "2026-10-29T19:37:46.668544+00:00"
+ },
+ "912dfdbd2865": {
+  "id": "912dfdbd2865",
+  "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+  "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:56:41.082945+00:00"
+ },
+ "927698c982f0": {
+  "id": "927698c982f0",
+  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:56:49.966280+00:00"
+ },
+ "c66d0900a7f1": {
+  "id": "c66d0900a7f1",
+  "url": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
+  "title": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:57:00.175962+00:00"
+ },
+ "e8eac80db3a1": {
+  "id": "e8eac80db3a1",
+  "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+  "title": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:57:14.462081+00:00"
+ },
+ "f4641bb45983": {
+  "id": "f4641bb45983",
+  "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+  "title": "OpenAI rewrites its AI rulebook around five core values",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:57:26.505798+00:00"
+ },
+ "38c1b2ee6b77": {
+  "id": "38c1b2ee6b77",
+  "url": "https://thenextweb.com/news/deepgram-daily-acquisition-pipecat-open-source",
+  "title": "Deepgram buys Pipecat maker Daily and keeps the voice AI framework open",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:57:35.877893+00:00"
+ },
+ "8eba9e2719b5": {
+  "id": "8eba9e2719b5",
+  "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
+  "title": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:57:47.288498+00:00"
+ },
+ "a71dbaaeaa7c": {
+  "id": "a71dbaaeaa7c",
+  "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
+  "title": "Trump declares robot imports a national security threat",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-29T23:58:15.492016+00:00"
+ },
+ "68ffd79b6629": {
+  "id": "68ffd79b6629",
+  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+  "title": "谷歌承认人工智能搜索的盈利能力较弱，但正通过增加广告来解决这一问题",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-10-29T18:46:50.358Z",
+  "fetched_at": "2026-10-29T23:59:05.599720+00:00"
  }
 }

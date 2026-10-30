@@ -1,0 +1,23 @@
+{
+ "id": "e842459d926a",
+ "url": "https://aihot.news/items/eq47lph0rzobf8cr950saiu8r",
+ "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+ "source": "卡兹克",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-10-29T20:07:09.000Z",
+ "fetched_at": "2026-10-30T00:00:36.155909+00:00",
+ "content": "数字生命卡兹克· @Khazix0918 · X·· 4 小时前精选AI 评分68\nAI 导读\nPika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。\n推荐理由\n原文点出采样步数从50步压到6步且开源，本地视频生成玩家可据此评估实际收益。\n正文 · 原文\n@pika_labs 在Minimax的H3上做了后训练，推出了Pika H3 Flex，把视频生成的采样步数从50步压缩到了6步，生成时间大大降低，而且质量甚至还有提升，非常酷的工作，并且直接开源了。\n详情可看：\nhttps://github.com/Pika-Labs/Pika-H3-Flex\n对所有的本地玩家我觉得都是大利好，开源视频领域终于也有新玩家了。\n来源：数字生命卡兹克 · x.com",
+ "report": {
+  "summary": "Pika Labs post-trained on MiniMax H3 to release Pika H3 Flex, an open-source video model cutting sampling from 50 steps to 6 with faster generation and better quality.",
+  "background": "Video diffusion models are notoriously expensive to run: a single clip can require dozens of denoising steps, each a full forward pass through a large transformer, so generation times stretch into minutes even on high-end GPUs. Over the past two years the main lever for making these models practical has been step distillation — techniques like LCM, DMD/DMD2 and adversarial distillation that compress a 50-step teacher into a handful of student steps. Meanwhile the open video ecosystem has exploded with HunyuanVideo, Wan 2.1, Mochi and LTX-Video, mostly from Chinese labs and startups. MiniMax's H3 (the Hailuo lineage) is a strong proprietary base model; Pika Labs, known for its consumer-facing Pika app, chose to build on it rather than train from scratch — a post-training/distillation play that mirrors how the LLM world produces fast, cheap open variants from big base models.",
+  "key_points": [
+   "Sampling steps drop from 50 to 6 — roughly an 8x reduction in denoising passes. Since each step is a full model forward pass, this translates almost directly into an order-of-magnitude cut in inference time and compute cost per clip.",
+   "Quality reportedly improved rather than degraded. That is the notable part: aggressive few-step distillation usually costs fidelity, motion coherence or text alignment, so Pika claims the post-training recovered and even surpassed the 50-step teacher.",
+   "Pika built on MiniMax's H3 instead of training a base model from zero. This is a post-training/distillation approach — cheaper and faster than pretraining, and a template more labs are likely to copy for turning big proprietary models into lean open ones.",
+   "The result is fully open sourced on GitHub (Pika-Labs/Pika-H3-Flex). Weights and code being public means local users, ComfyUI integrators and fine-tuners can run and modify it without API access or per-clip fees."
+  ],
+  "impact": "For the AI industry, this is another data point that step distillation, not raw model scale, is where video generation's cost curve is bending — and that post-training on someone else's base model is now a viable route to a competitive release. For developers, an 8x cheaper sampler means video generation edges toward interactive latency and becomes feasible on consumer GPUs and single-workstation setups, opening the door to local pipelines, LoRA fine-tunes and ComfyUI nodes. For regular users, faster and cheaper inference should show up as shorter waits and lower prices in consumer video apps. The caveats: quality claims need independent benchmarks, and building on a third-party base model raises licensing and commercial-use questions that the open-source label alone does not settle.",
+  "tools": "Start with the Pika-Labs/Pika-H3-Flex GitHub repo for weights, inference scripts and license terms. For local experimentation, ComfyUI is the easiest harness once a node lands; Hugging Face Diffusers for scripting. Worth comparing against few-step open video models — LTX-Video, Wan 2.1 and HunyuanVideo — and against distillation methods like LCM and DMD2 if you want to compress your own model."
+ },
+ "lang": "en"
+}
