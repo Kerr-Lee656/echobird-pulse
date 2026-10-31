@@ -9592,5 +9592,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-31T03:32:31Z",
   "fetched_at": "2026-10-31T05:33:42.194125+00:00"
+ },
+ "38e5960f8abb": {
+  "id": "38e5960f8abb",
+  "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+  "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T12:03:05Z",
+  "fetched_at": "2026-10-31T12:20:08.440686+00:00"
+ },
+ "1c640f88e053": {
+  "id": "1c640f88e053",
+  "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "title": "We Took over ChatGPT Accounts",
+  "source": "Hacker News (19pts, 8c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T10:30:11Z",
+  "fetched_at": "2026-10-31T12:20:20.321606+00:00"
+ },
+ "09174079a1bd": {
+  "id": "09174079a1bd",
+  "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+  "title": "Open-weight AI models can exploit the patch gap",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T08:53:31Z",
+  "fetched_at": "2026-10-31T12:20:32.172994+00:00"
+ },
+ "8a86b65c3fe2": {
+  "id": "8a86b65c3fe2",
+  "url": "https://news.ycombinator.com/item?id=50314217",
+  "title": "Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T08:36:25Z",
+  "fetched_at": "2026-10-31T12:21:02.673196+00:00"
+ },
+ "3a31d42eb21b": {
+  "id": "3a31d42eb21b",
+  "url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+  "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T06:31:05Z",
+  "fetched_at": "2026-10-31T12:21:16.955437+00:00"
+ },
+ "8410fac1553b": {
+  "id": "8410fac1553b",
+  "url": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+  "title": "Google Adopts New AI Training Control",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T06:01:40Z",
+  "fetched_at": "2026-10-31T12:21:30.046003+00:00"
  }
 }

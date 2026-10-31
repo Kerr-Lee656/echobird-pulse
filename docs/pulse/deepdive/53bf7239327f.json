@@ -1,0 +1,24 @@
+{
+ "id": "53bf7239327f",
+ "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
+ "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+ "source": "Wired",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-31T12:18:44.512899+00:00",
+ "content": "The AI software-development platform Cursor, which is owned by SpaceX, had a malicious Anthropic Claude Code extension for Windows, macOS, and Linux live in its integrated development environment extension marketplace for roughly 11 hours on Thursday. The company says the rogue extension was downloaded by “at most 5,000 users.” Cursor briefly shut down the extension marketplace while it investigated the situation, which the company says did not impact any other extensions.\nThe tainted extension was designed with a backdoor to give attackers access to victim devices—the type of implant that malicious hackers often use as a stepping stone to deeper control inside a target network. Cursor published remediation steps on Thursday for the roughly 5,000 affected targets. A saving grace of the situation, though, was a flaw in the malware's design that blocked it from fully establishing itself on the vast majority of targets.\n“Everyone was so lucky here, this was potentially a really dangerous foothold for an attacker,” says Calum Hall, cofounder and CEO of the detection firm Phorion, the first researchers to spot the malicious extension after detecting it on a customer's Mac.\nWhat is still unclear is how the malicious extension made its way into the Cursor marketplace at all. Some researchers initially speculated that it came from a compromised Anthropic system. But Cursor said in its Thursday security alert that “these malicious versions of the extension were not developed by Anthropic.”\nFelix Rieseberg, a member of Anthropic's technical staff, posted on X on Friday: “We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.”\nDavid Dworken, who works on security at Anthropic, posted on X shortly after, explaining that “this did not involve a compromise of any Anthropic systems … We were not involved with building, publishing, or hosting this.”\nCursor did not return WIRED's request for comment about how the malicious upload happened and whether it was the result of a breach at Cursor.",
+ "report": {
+  "summary": "Cursor市场现恶意Claude扩展，约五千用户受影响",
+  "background": "AI编程工具正把IDE扩展市场变成软件供应链新入口。此次事件中，一个篡改版Anthropic Claude Code扩展在Cursor市场存活约11小时，被至多5000名用户下载。它带有后门，但因恶意软件设计缺陷未能在大批设备上完全驻留。Anthropic称其系统未被攻破，官方渠道版本不受影响；Cursor则临时关闭市场并发布修复步骤，但恶意上传如何发生仍不清楚。",
+  "key_points": [
+   "恶意扩展在Cursor市场存活约11小时，下载量至多5000，Cursor发现后临时关闭市场调查，称未影响其他扩展。",
+   "该扩展内置后门，可让攻击者访问受害者设备，常被用作进一步渗透企业网络的跳板。",
+   "幸运的是恶意软件设计有缺陷，未能在绝大多数目标上完全建立驻留，降低了实际危害。",
+   "Anthropic强调事件不是其系统或员工电脑被攻破，恶意版本非其开发发布，官方渠道版本不受影响。",
+   "事件暴露IDE扩展市场的发布审核与供应链风险：恶意包如何上传仍不明，Cursor未回应是否遭入侵。"
+  ],
+  "impact": "对AI行业，IDE扩展市场成为高价值供应链攻击面，平台需加强发布者验证、签名与审核。对开发者，安装扩展要核对发布者与来源，事件后应轮换密钥、检查IDE扩展与终端异常。对普通用户，直接风险有限，但若使用AI编程工具，应更新客户端并遵循官方修复指引，避免从非官方渠道安装插件。",
+  "tools": "可关注：Anthropic官方Claude Code渠道与Cursor安全公告；供应链检测工具如Socket、Snyk、Semgrep；终端检测/响应工具可查异常扩展与后门。开发者还可启用依赖与扩展清单审计、密钥扫描。"
+ },
+ "lang": "zh"
+}

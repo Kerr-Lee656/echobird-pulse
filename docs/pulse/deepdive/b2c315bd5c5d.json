@@ -1,0 +1,24 @@
+{
+ "id": "b2c315bd5c5d",
+ "url": "https://www.ithome.com/1/020/466.htm",
+ "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-31T05:36:34Z",
+ "fetched_at": "2026-10-31T12:18:02.072684+00:00",
+ "content": "IT之家 10 月 31 日消息，科技媒体 bleepingcomputer 昨日（10 月 30 日）发布博文，报道称 AI 编程工具 Cursor 的插件商城于 10 月 29 日上线被篡改的 Anthropic Claude Code 扩展，持续约 11 小时，影响全球约 5,000 名开发者。\nIT之家注：Cursor 的插件商城 Cursor Marketplace 是用于发现、安装和管理插件（Plugins）的官方市场，用来给 Cursor 的 AI Agent 接入外部工具、数据源和工作流等。\n报道指出该恶意 Claude Code 版本编号为 2.1.313，在太平洋时间凌晨 2:27 至下午 1:35（北京时间 10 月 29 日 17:27 到 10 月 30 日凌晨 4:35）之间分发约 11 小时，最多可能有 5,000 名开发者下载。\nCursor 已确认，恶意软件试图在用户设备上安装持久性 SSH 后门。安全研究人员发现，攻击者并未改动原有合法功能代码，只是在扩展的 extension.js 文件开头插入恶意 JavaScript 加载器。\n开发者安装该恶意版 Claude Code 之后，恶意代码就会自动运行，不会与 Claude Code 进行任何交互。该恶意程序会收集用户名、主机名、公网 IP、Git 邮箱及与敏感凭据相关的环境变量名称，并将信息发送至攻击者服务器。\n它还会添加攻击者控制的 SSH 密钥，尝试启用 SSH 访问、建立反向隧道，并通过 macOS LaunchAgent 或 Windows 计划任务、启动脚本实现持久化，约每分钟重试一次连接。\n不过，由于恶意代码在 SSH 配置环节存在明显错误，许多 Windows 和 macOS 设备可能未能被成功开启远程访问。例如，macOS 上它未以管理员权限执行检查命令；Windows 上则错误地调用 Unix shell /bin/ sh。\nCursor 已下架恶意扩展，并临时关闭整个扩展市场，以审查其他插件、轮换访问密钥。该公司还协同托管服务商关闭攻击者服务器，切断了反向 SSH 连接与数据回传。\nCursor 表示，未发现其他扩展版本或官方分发渠道受影响，但尚未说明攻击者如何以 Anthropic 名义发布被篡改的软件包。",
+ "report": {
+  "summary": "Cursor 商城现恶意 Claude Code 插件,11 小时波及约 5000 开发者",
+  "background": "AI 编程工具正从单纯比拼模型能力转向建设插件与 Agent 生态:Cursor Marketplace 让 Cursor 的 AI Agent 能接入外部工具、数据源和工作流。但这类新兴市场目前普遍缺少严格的发布者身份核验与代码签名,类似 npm、PyPI 早年频发的「投毒」事件。Anthropic 的 Claude Code 是热门命令行编程 Agent,攻击者冒用其名义发布篡改版本,正是利用了开发者对「官方市场」的天然信任。",
+  "key_points": [
+   "恶意版本号为 2.1.313,在太平洋时间 10 月 29 日凌晨 2:27 至下午 1:35 间分发约 11 小时,最多约 5000 名开发者下载。",
+   "攻击者未改动原有合法功能代码,仅在 extension.js 开头插入恶意 JavaScript 加载器,安装后代码无需用户与 Claude Code 交互即自动运行。",
+   "恶意程序收集用户名、主机名、公网 IP、Git 邮箱及与敏感凭据相关的环境变量名称,并回传至攻击者服务器。",
+   "它还会添加攻击者控制的 SSH 密钥、尝试开启远程访问并建立反向隧道,通过 macOS LaunchAgent 或 Windows 计划任务实现持久化,约每分钟重试连接。",
+   "攻击代码存在低级错误:macOS 未以管理员权限执行检查、Windows 误调 Unix shell,多数设备或未被成功远控;Cursor 已下架扩展并临时关闭市场审查。"
+  ],
+  "impact": "对 AI 行业而言,这是一次标志性的 Agent 供应链安全事件,插件市场审核与签名机制将成竞争要素;对开发者而言,「官方来源即可信」的假设被打破,需校验包来源与版本、隔离敏感凭据、审计 SSH 配置与开机启动项;对普通用户,风险间接但真实——编程助手一旦被攻破,可能波及企业代码库与生产基础设施。",
+  "tools": "建议关注 Cursor 官方安全公告;用 Socket、Snyk、StepSecurity 等做依赖与包供应链扫描;定期检查 ~/.ssh/authorized_keys、macOS LaunchAgents 与 Windows 计划任务;对 Git 邮箱、云凭据、SSH 密钥做一轮轮换。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "9aff2773b971",
+ "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+ "title": "Apple confirms its AI features reach China in December, with Qwen",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-31T12:19:05.104015+00:00",
+ "content": "Apple says its first Apple Intelligence features will launch in China with iOS 27.3 in December, with a developer beta from 4 November. Alibaba’s Qwen model will work inside Siri, Writing Tools and Visual Intelligence. Siri AI and Apple’s newest features are not included.\nApple will launch its first Apple Intelligence features in China in December, the company said on Saturday. The announcement confirms a Bloomberg report from earlier this month.\nDevelopers can test the features in the latest iOS beta from 4 November. They will reach all users with iOS 27.3 in December, about two years after Apple Intelligence first launched in the US.\nThe features run on Apple’s own models. They include Live Translation in Messages, FaceTime and Phone, Writing Tools, Visual Intelligence, the Clean Up photo tool and Genmoji. Mail and notifications also get summaries and priority sorting.\nApple has also teamed up with Alibaba. Users can tap its Qwen model inside Siri, Writing Tools and Visual Intelligence, for example to ask about a photo or a PDF. China’s internet regulator cleared the setup in July.\nThe launch leaves out Siri AI, the rebuilt assistant Apple showed at WWDC 2026, along with its other newest features. Siri AI added five languages this week but still skips mainland China. Users can still type to Siri, which Apple says now follows a conversation better.\nThe features work on the iPhone 15 Pro and newer models, including the iPhone Air and iPhone Duo. Siri and the phone must be set to English or simplified Chinese.\nThe road here has been bumpy. Apple trained a China-only model with Alibaba’s help, and in March the features briefly went live before they were approved.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果AI功能12月入华，Siri等接入阿里Qwen。",
+  "background": "Apple Intelligence 于两年前率先在美国上线，但进入中国大陆需满足本地监管与数据合规要求，并与本土大模型合作。此前 Bloomberg 已报道苹果将与阿里合作，中国网信办也在7月放行相关方案。苹果曾与阿里训练中国专用模型，今年3月功能一度短暂上线后又撤回，因此此次公布被视为正式落地信号。",
+  "key_points": [
+   "12月随 iOS 27.3 向所有用户推送，11月4日开发者可先测试；功能包括实时翻译、写作工具、视觉智能、照片清理、Genmoji，以及邮件和通知摘要与优先级排序。",
+   "苹果与阿里合作，用户可在 Siri、写作工具和视觉智能中调用 Qwen 模型，例如询问照片或 PDF 内容；该方案已获中国网信办批准。",
+   "首发不包含 WWDC 2026 展示的重建版 Siri AI 及苹果最新功能，Siri AI 仍跳过中国大陆；用户仍可用文字与 Siri 对话。",
+   "设备门槛为 iPhone 15 Pro 及更新机型，包括 iPhone Air 和 iPhone Duo；Siri 与手机需设为英语或简体中文。",
+   "苹果 AI 入华比美国晚约两年，过程波折：曾训练中国专用模型，3月短暂上线后被撤回，如今才确定12月全量推送。"
+  ],
+  "impact": "对行业而言，苹果采用“自研模型+本土大模型合作”的合规路径，可能成为外资 AI 产品入华模板，也强化阿里 Qwen 的生态地位。对开发者，iOS 27.3 beta 带来新适配与场景机会，但需关注中国版功能差异和 API 限制。对普通用户，iPhone 将获得翻译、写作、视觉识别等实用 AI 功能，但重建版 Siri AI 缺席，体验仍不完整。",
+  "tools": "想跟进可关注 Apple Developer 的 iOS 27.3 beta 与 Apple Intelligence 文档；体验/开发 Qwen 可看阿里云百炼和 Qwen 开源模型；同时对比华为、小米等国产手机 AI 助手，观察本地化差异。"
+ },
+ "lang": "zh"
+}

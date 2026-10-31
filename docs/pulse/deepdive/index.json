@@ -19654,5 +19654,77 @@
   "site_name": "OPML RSS",
   "published_at": "2026-10-30T22:34:47Z",
   "fetched_at": "2026-10-31T05:31:33.094611+00:00"
+ },
+ "a434368b93f0": {
+  "id": "a434368b93f0",
+  "url": "https://www.ithome.com/1/020/488.htm",
+  "title": "跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T07:23:22Z",
+  "fetched_at": "2026-10-31T12:17:52.386859+00:00"
+ },
+ "b2c315bd5c5d": {
+  "id": "b2c315bd5c5d",
+  "url": "https://www.ithome.com/1/020/466.htm",
+  "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T05:36:34Z",
+  "fetched_at": "2026-10-31T12:18:02.072684+00:00"
+ },
+ "365f77f4ae85": {
+  "id": "365f77f4ae85",
+  "url": "https://www.ithome.com/1/020/444.htm",
+  "title": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T03:25:09Z",
+  "fetched_at": "2026-10-31T12:18:15.418856+00:00"
+ },
+ "1080d94d0190": {
+  "id": "1080d94d0190",
+  "url": "https://www.huxiu.com/article/4901868.html?f=rss",
+  "title": "观察｜荷兰计划用AI替代2.5万公务员，IMF警告税基被侵蚀：AI时代，谁来为公共财政买单？",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T01:32:02Z",
+  "fetched_at": "2026-10-31T12:18:33.309761+00:00"
+ },
+ "53bf7239327f": {
+  "id": "53bf7239327f",
+  "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
+  "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T12:18:44.512899+00:00"
+ },
+ "434071bc563a": {
+  "id": "434071bc563a",
+  "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+  "title": "Cracks are emerging in the AI spending boom",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T12:18:55.063100+00:00"
+ },
+ "9aff2773b971": {
+  "id": "9aff2773b971",
+  "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+  "title": "Apple confirms its AI features reach China in December, with Qwen",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T12:19:05.104015+00:00"
+ },
+ "5f57459e7feb": {
+  "id": "5f57459e7feb",
+  "url": "https://thenextweb.com/news/amazon-80b-supplier-loan-facility-ai-hardware",
+  "title": "Amazon can now borrow up to $80B against the AI hardware it buys",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T12:19:16.781406+00:00"
  }
 }
