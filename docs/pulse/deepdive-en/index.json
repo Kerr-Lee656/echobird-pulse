@@ -9646,5 +9646,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-31T06:01:40Z",
   "fetched_at": "2026-10-31T12:21:30.046003+00:00"
+ },
+ "3fbb0d046268": {
+  "id": "3fbb0d046268",
+  "url": "https://github.com/lightpanda-io/browser",
+  "title": "lightpanda-io/browser — Lightpanda: the headless browser designed for AI and automation",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:22:28.502760+00:00"
+ },
+ "1c299b0df37a": {
+  "id": "1c299b0df37a",
+  "url": "https://github.com/multica-ai/multica",
+  "title": "multica-ai/multica — Make humans and AI agents work as one team — open-source and self-hostable.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:22:37.897664+00:00"
+ },
+ "5573525ea28f": {
+  "id": "5573525ea28f",
+  "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+  "title": "Anthropic pushes for opt-out model for Australian content",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T22:42:51Z",
+  "fetched_at": "2026-10-31T23:22:53.779577+00:00"
+ },
+ "42a2ce7ea0d6": {
+  "id": "42a2ce7ea0d6",
+  "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
+  "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+  "source": "Hacker News (2pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T22:01:31Z",
+  "fetched_at": "2026-10-31T23:23:03.655191+00:00"
+ },
+ "8db759a7708a": {
+  "id": "8db759a7708a",
+  "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T19:25:06Z",
+  "fetched_at": "2026-10-31T23:23:38.167265+00:00"
  }
 }

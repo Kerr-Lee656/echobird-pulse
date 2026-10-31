@@ -1,0 +1,24 @@
+{
+ "id": "f18af5285f4a",
+ "url": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft",
+ "title": "OpenAI cuts its funding round target to $20bn, FT reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-31T23:21:43.441909+00:00",
+ "content": "Update, 31 October\nThis story has been updated with The Wall Street Journal’s report that OpenAI has secured about $11bn so far, and with CNBC’s confirmation of the $20bn target.\nOpenAI has secured about $11bn for its latest funding round, less than half of the $30bn it first sought, people familiar with the matter told The Wall Street Journal’s Berber Jin. Interest from some large investors was “tepid”, the WSJ reported.\nThe company now aims to raise up to $20bn. The Financial Times first reported the $10bn cut on Friday. CNBC confirmed the new target for the OpenAI funding round on Saturday, citing a person directly familiar with the deal. The round is still open, so the figures could change, that person said.\nFamily offices and wealthy individuals\nThe round values OpenAI at $1.25tn after the new money, the FT reported. The company had first pitched $30bn at $1.4tn, then cut the valuation last week.\nOpenAI told shareholders it expects to raise more in the coming weeks, the WSJ reported. It will target family offices and high-net-worth individuals. The FT reported a later offering for wealthy individuals at the same valuation.\nOpenAI set Friday as the deadline for investors to commit, and some reduced their commitments, the FT reported. It said the first close will likely raise less than $20bn.\nInvestors from the United Arab Emirates, including the state-backed fund MGX, will likely be the largest backers, according to the FT. SoftBank, Founders Fund, Coatue, Sequoia Capital and Andreessen Horowitz also plan to invest, it said.\nOpenAI did not immediately respond to CNBC on Saturday. TNW has not independently verified the reports.\nAhead of Anthropic\nOpenAI plans to list as soon as early next year, the WSJ reported. Anthropic plans to go public next month, at a valuation of at least $1.5tn, the FT reported. Anthropic made its IPO filing public on Monday.\nThe cut comes after a week of falls in AI stocks. Alphabet’s shares fell 12% on Thursday after its results.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI融资目标从3000亿砍至2000亿美元，投后估值降至1.25万亿",
+  "background": "OpenAI本轮融资最初计划募资3000亿美元、对应1.4万亿美元估值，上周已先行下调估值，如今目标再降至最高2000亿美元、投后估值1.25万亿美元。此事发生在AI概念股集体回调之后——Alphabet财报后单日跌12%，一级市场情绪随之转冷。同时OpenAI与Anthropic的上市竞赛升温：Anthropic已公开IPO文件，拟下月以至少1.5万亿美元估值上市，OpenAI则计划最早明年初挂牌。",
+  "key_points": [
+   "融资目标两次缩水：从3000亿美元降至最高2000亿美元，估值也从1.4万亿降到1.25万亿美元（投后）。",
+   "实际到账远低于预期：目前仅锁定约110亿美元，周五承诺截止日部分投资者削减了认购额度，首轮关账可能不足200亿。",
+   "大型机构态度转冷：知情人士称部分大金主兴趣“不温不火”，OpenAI转而向家族办公室和高净值个人募资。",
+   "中东资本或成最大金主：阿联酋主权基金MGX预计领投，软银、Founders Fund、Coatue、红杉、a16z仍计划参与。",
+   "外部环境不利：AI股票一周内普跌，同时Anthropic抢跑IPO，OpenAI的估值故事正面临公开市场检验。"
+  ],
+  "impact": "对AI行业，这是资本从“无限供给”转向“挑剔定价”的信号，超大规模融资不再是默认选项，估值将更多由真实收入验证。对开发者，模型迭代节奏短期可能放缓，但API与工具链不会收缩，厂商会更急于把能力打包成可计费产品。对普通用户，补贴式低价或收紧，订阅分层、广告与电商等变现手段会更快落地。",
+  "tools": "想跟进可关注OpenAI API与ChatGPT、Anthropic Claude，以及开源替代如Llama、Qwen、DeepSeek；多模型统一接入可用OpenRouter，本地部署可用vLLM、Ollama；融资与估值动态建议追踪FT、WSJ与TheInformation。"
+ },
+ "lang": "zh"
+}

@@ -19834,5 +19834,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-10-31T13:10:01Z",
   "fetched_at": "2026-10-31T18:32:22.689493+00:00"
+ },
+ "68d7df0eead8": {
+  "id": "68d7df0eead8",
+  "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
+  "title": "Twenty House Democrats press OpenAI over fired safety researchers",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:21:11.768536+00:00"
+ },
+ "0ed4612ce1fd": {
+  "id": "0ed4612ce1fd",
+  "url": "https://www.techradar.com/pro/nvidia-forced-to-dial-back-key-bandwidth-targets-on-vera-rubin-hardware-tweaks-will-affect-target-specifications-for-memory-and-interconnect-fabric",
+  "title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:21:21.186138+00:00"
+ },
+ "6d490cbb9d6c": {
+  "id": "6d490cbb9d6c",
+  "url": "https://api3.cls.cn/share/article/2521640?os=web&sv=8.4.6&app=CailianpressWeb",
+  "title": "英伟达披露下一代 CPO 技术 原型样品已就位",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:21:32.863289+00:00"
+ },
+ "f18af5285f4a": {
+  "id": "f18af5285f4a",
+  "url": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft",
+  "title": "OpenAI cuts its funding round target to $20bn, FT reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:21:43.441909+00:00"
+ },
+ "b7f5a4231c33": {
+  "id": "b7f5a4231c33",
+  "url": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired",
+  "title": "A Claude agent ran inside a Pentagon network for two months, WIRED reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:21:51.003104+00:00"
+ },
+ "2fecf90cf504": {
+  "id": "2fecf90cf504",
+  "url": "https://thenextweb.com/news/nvidia-nscale-anthropic-data-centre-debt-guarantee",
+  "title": "Nvidia in talks to guarantee debt for Nscale’s Anthropic data centre",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T23:22:00.872135+00:00"
  }
 }
