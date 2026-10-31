@@ -19726,5 +19726,113 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-31T12:19:16.781406+00:00"
+ },
+ "a6e380cc2ff5": {
+  "id": "a6e380cc2ff5",
+  "url": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29",
+  "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:30:32.147291+00:00"
+ },
+ "c361ea6e6eba": {
+  "id": "c361ea6e6eba",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+  "title": "OpenAI reportedly lowers funding target for new round",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:30:39.056000+00:00"
+ },
+ "d2b0fecc7ef6": {
+  "id": "d2b0fecc7ef6",
+  "url": "https://www.zhidx.com/p/606311.html",
+  "title": "DeepSeek 又开源了！公布 Super agent 架构",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:30:49.196362+00:00"
+ },
+ "23f748314da1": {
+  "id": "23f748314da1",
+  "url": "https://news.mydrivers.com/1/1162/1162176.htm",
+  "title": "存储短缺逼急 OpenAI！奥尔特曼赴韩密会三星 50 名高管：锁定「星际之门」芯片供应",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:30:57.235996+00:00"
+ },
+ "9101cfd53c4d": {
+  "id": "9101cfd53c4d",
+  "url": "https://www.ithome.com/1/020/632.htm",
+  "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T15:56:00Z",
+  "fetched_at": "2026-10-31T18:31:07.192880+00:00"
+ },
+ "c05235bccc3f": {
+  "id": "c05235bccc3f",
+  "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
+  "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:31:14.975528+00:00"
+ },
+ "9620f7ea3290": {
+  "id": "9620f7ea3290",
+  "url": "https://thenextweb.com/news/trump-robot-imports-national-security-section-232",
+  "title": "Trump declares robot imports a national security threat",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:31:21.924222+00:00"
+ },
+ "3657ccc05573": {
+  "id": "3657ccc05573",
+  "url": "https://www.techradar.com/ai-platforms-assistants/google-says-its-new-genie-4-model-is-a-key-stepping-stone-to-agi-but-creating-convincing-fake-worlds-doesnt-mean-ai-understands-the-real-one",
+  "title": "Google's new Genie 4 model looks incredible, but it's a long way from AGI",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:31:31.253983+00:00"
+ },
+ "242184e64ee2": {
+  "id": "242184e64ee2",
+  "url": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10",
+  "title": "Anthropic's IPO push includes a big bet on life sciences",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:31:44.297304+00:00"
+ },
+ "7101899ba125": {
+  "id": "7101899ba125",
+  "url": "https://www.ithome.com/1/020/615.htm",
+  "title": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:31:52.841454+00:00"
+ },
+ "75b707dabc47": {
+  "id": "75b707dabc47",
+  "url": "https://www.ithome.com/1/020/597.htm",
+  "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T18:32:00.315273+00:00"
+ },
+ "a1d229a21930": {
+  "id": "a1d229a21930",
+  "url": "https://www.ithome.com/1/020/610.htm",
+  "title": "史上最大 IPO 前夕，黑石突然改口称 Anthropic 或无法获得投资级信用评级",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T13:10:01Z",
+  "fetched_at": "2026-10-31T18:32:22.689493+00:00"
  }
 }

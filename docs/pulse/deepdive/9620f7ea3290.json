@@ -1,0 +1,24 @@
+{
+ "id": "9620f7ea3290",
+ "url": "https://thenextweb.com/news/trump-robot-imports-national-security-section-232",
+ "title": "Trump declares robot imports a national security threat",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-31T18:31:21.924222+00:00",
+ "content": "US President Donald Trump has ordered trade talks on robot imports. A Commerce Department investigation found that foreign-made robots and industrial machinery threaten national security. He signed the proclamation on Wednesday 28 October. It sets no tariffs for now.\nThe proclamation uses Section 232 of the Trade Expansion Act of 1962. The law lets the president restrict imports on national security grounds. Commerce opened the investigation on 2 September 2025. It covers robots, industrial machinery, and their parts and components.\nThe products “are being imported into the United States in such quantities and under such circumstances as to threaten to impair the national security of the United States,” the proclamation says.\nTalks first, tariffs later\nCommerce Secretary Howard Lutnick and the US Trade Representative must negotiate agreements with any trading partners they choose. The proclamation names no country. The two must update the president within 180 days.\nIf talks fail, or a deal does not work, the president may act again. The options listed include tariffs, duties, quotas and fees, and a programme to encourage new investment in US production.\nWhy the White House says it matters\nThe proclamation says the US needs these machines to build aircraft, tanks, ships, weapons and munitions. All 16 US critical infrastructure sectors use them. It says components from “certain foreign entities” carry security and safety risks, including “significant cybersecurity vulnerabilities”. It does not name the entities.\n“The United States relies on foreign imports for most types of robotics, industrial machinery, and their parts and components,” the White House said in a fact sheet.\nThe proclamation adds that US companies do not make enough of these products to meet national security needs.\nWho buys foreign robots\nThe US installed almost 38,500 industrial robots in 2025, up 12%, the International Federation of Robotics said in September. That made it the world’s second-largest market, after China.\nGeneral Motors, Ford, Tesla, Boeing and Lockheed Martin all rely on such robots, Jeremy Hsu reported for Ars Technica. They often buy heavy robot arms from FANUC, ABB, Yaskawa and KUKA, headquartered in Japan, Switzerland and Germany. No US company makes comparable heavy-duty arms, Ars reported.\nAfter the FCC robot ban\nIn July, the Federal Communications Commission moved to ban foreign-made robots. It covered new robot vacuums, robot dogs and humanoids. That rule exempted industrial robot arms and other fixed robots used in car plants and warehouses, Ars reported. China threatened retaliation over the ban.\nThe fact sheet lists earlier Section 232 actions on products from steel and copper to pharmaceuticals and polysilicon. They include a semiconductor tariff and drone tariffs that reached 100% in August, with Europe capped at 15%.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "特朗普以国安为由对机器人进口启动232调查，先谈判后关税",
+  "background": "这是美国《1962年贸易扩展法》第232条的又一次应用。今年7月，FCC已先行禁止外国产扫地机器人、机器狗和人形机器人，但豁免了汽车厂和仓库用的工业机械臂，此举引发中国反制威胁。9月2日商务部正式立案，10月28日特朗普签署公告，认定外国机器人和工业机械进口威胁国家安全。同一逻辑此前已用于钢、铜、药品、多晶硅、半导体和无人机（8月对无人机关税升至100%，欧盟上限15%）。",
+  "key_points": [
+   "公告暂不加征关税，先由商务部长卢特尼克和贸易代表在180天内与贸易伙伴谈判，谈崩了再考虑关税、配额、费用等",
+   "调查范围不止机器人，还包括工业机械及其零部件；公告未点名任何国家，但强调“某些外国实体”的零部件存在网络安全风险",
+   "美国2025年安装约3.85万台工业机器人，增长12%，是全球第二大市场，仅次于中国",
+   "通用、福特、特斯拉、波音、洛马依赖发那科、ABB、安川、库卡的重型机械臂，美国没有能对标的本土厂商",
+   "公告称美国本土产能不足以满足国防需求，这些设备用于造飞机、坦克、舰船和弹药，16个关键基础设施部门都在用"
+  ],
+  "impact": "对AI行业而言，具身智能和人形机器人的硬件供应链被正式纳入国安审查框架，中美机器人产业链面临进一步脱钩风险。对开发者，短期内进口零部件和整机成本可能上升，采购与合规需要提前规划；美国本土替代方案会获得政策和资本倾斜。对普通用户，消费级机器人（扫地机、机器狗）此前已被FCC盯上，价格和可选品牌可能受影响，但工业机械臂被豁免，制造业自动化短期冲击有限。",
+  "tools": "关注四大家族（发那科、ABB、安川、KUKA）的合规与供应链披露，以及美国本土新势力如 Figure、Agility Robotics、Boston Dynamics；跟踪 IFR（国际机器人联合会）年度报告和美国商务部232案件公示页，判断关税落地节奏。"
+ },
+ "lang": "zh"
+}

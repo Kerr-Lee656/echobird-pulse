@@ -1,0 +1,24 @@
+{
+ "id": "c361ea6e6eba",
+ "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+ "title": "OpenAI reportedly lowers funding target for new round",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-10-31T18:30:39.056000+00:00",
+ "content": "OpenAI’s latest funding round isn’t quite living up to expectations, according to multiple news reports.\nOpenAI was previously reported to be raising $30 billion at a $1.4 trillion valuation, and then at a $1.25 trillion valuation, ahead of a planned IPO. But The Financial Times reported Friday that the company has subsequently lowered its funding target to $20 billion, with a first close that’s expected to be even lower than that.\nThe round will be led by a group of investors from the United Arab Emirates, the FT said. A subsequent retail offering for wealthy individuals could bring the total funding amount to the $20 billion target.\nA follow-up story in The Wall Street Journal offered more details, namely that the company has secured $11 billion so far, and that its fundraising efforts had met with a “tepid” response from some large investors.\nTechCrunch has reached out to OpenAI for comment. The company’s reported funding challenges could be blamed, in part, on bad timing, as Wall Street investors have become wary of heavy AI infrastructure spending, leading to a major sell off of tech stocks. And Anthropic’s planned IPO could be facing challenges, too.",
+ "report": {
+  "summary": "OpenAI新一轮融资目标从3000亿美元下调至2000亿美元，大型投资者反应冷淡",
+  "background": "OpenAI此前计划在IPO前完成一轮大规模融资，估值预期从1.4万亿美元一路下调至1.25万亿美元，融资目标也从3000亿美元降至2000亿美元。据《金融时报》和《华尔街日报》报道，本轮由阿联酋投资者领投，目前仅锁定约110亿美元，首轮交割金额可能更低，还需靠面向富裕个人的零售配售来补足。时机不佳是重要原因：华尔街对AI基础设施的巨额资本开支日益警惕，已引发科技股大幅抛售，Anthropic的IPO计划同样承压。",
+  "key_points": [
+   "融资目标连续缩水：从3000亿到2000亿美元，实际首轮交割金额还会更低，目前仅落实约110亿美元。",
+   "中东资本成为主力：本轮由阿联酋投资方领投，还需通过向富裕个人开放零售配售来凑齐目标金额。",
+   "大型机构态度转冷：部分大投资方反应“不温不火”，说明热钱对AI叙事的态度明显趋向谨慎。",
+   "时机是重要原因：市场对AI基建的巨额投入产生怀疑，引发科技股抛售，融资环境整体收紧。",
+   "连锁反应已现：Anthropic的IPO计划同样面临挑战，说明整个AI一级市场的估值逻辑正在被重新审视。"
+  ],
+  "impact": "对AI行业而言，头部公司融资不及预期，意味着“无限子弹”叙事的松动，估值将更依赖真实收入而非愿景，行业可能进入资本纪律收紧的整合期。对开发者，短期工具与API生态不受影响，但依赖大模型公司补贴定价的产品需重新评估成本假设，开源模型和低成本推理方案的吸引力上升。对普通用户，免费或低价AI服务的补贴期可能缩短，产品涨价与分层订阅会更常见，但模型能力迭代速度未必放缓。",
+  "tools": "跟进资本动向可关注TechCrunch、The Information、PitchBook与Crunchbase的融资数据；想评估技术替代成本，可上手DeepSeek、Qwen、Llama等开源权重模型，配合vLLM、Ollama本地部署，并留意OpenAI、Anthropic官方定价页的变化。"
+ },
+ "lang": "zh"
+}

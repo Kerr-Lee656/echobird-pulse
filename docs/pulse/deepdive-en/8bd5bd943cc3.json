@@ -1,0 +1,23 @@
+{
+ "id": "8bd5bd943cc3",
+ "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+ "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-10-31T16:25:38Z",
+ "fetched_at": "2026-10-31T18:34:24.350174+00:00",
+ "content": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden\nThe PostgreSQL database server typically sees its annual feature release every September~October, but it's not coming until at least November if not longer this year. Due to the increased developer burden due to increased bug reporting and patches via AI/LLM activity, the PostgreSQL developers have been overwhelmed.\nPostgreSQL developer Robert Haas outlined in a blog post today how PostgreSQL 19 is running behind schedule and AI is at fault. The developers have been dealing with a surge of bug reports from AI/LLM agents and also needing to deal with security/bug back-ports to prior PostgreSQL versions.\nHaas commented:\n\"And I think that’s also why we had so many late reverts, and why the release itself is delayed. Two factors are at play here.\nFirst, because so many more bugs are being found now, it takes more time to fix them. LLMs can draft fixes, but those fixes aren’t always correct or compliant with PostgreSQL standards. So, they still need to be reviewed and committed by humans, and those humans have not gotten any smarter between 2025 and 2026.\nSecond, time that would have been spent reviewing what went into the release got diverted into addressing security issues and other bugs in the back-branches, and so it took longer to figure out what needed to be reverted before shipping v19.\"\nMore details on this AI-driven delay to PostgreSQL 19 can be found via this blog post.",
+ "report": {
+  "summary": "PostgreSQL 19's release is delayed as AI/LLM agents generate a surge of bug reports and patches, overwhelming volunteer developers who must review and fix them.",
+  "background": "PostgreSQL, a widely used open-source relational database, typically ships a major feature release each September or October. PostgreSQL 19 is now delayed to at least November. Developer Robert Haas explained in a blog post that AI/LLM activity has overwhelmed maintainers. LLM agents are filing many bug reports and submitting patches, but LLM-drafted fixes often need human review because they may be incorrect or violate PostgreSQL standards. Meanwhile, developers must also handle security back-ports and late reverts to prior branches, diverting time from release preparation. This reflects a broader trend: AI-generated contributions are adding new burden to open-source projects, forcing maintainers to adapt their review and triage processes.",
+  "key_points": [
+   "PostgreSQL 19 is behind schedule: normally released in September–October, it is now expected no earlier than November due to AI/LLM-related workload.",
+   "AI/LLM agents are filing a surge of bug reports, increasing the time developers need for triage and fixes.",
+   "LLM-generated patches are not always correct or compliant with PostgreSQL coding standards, so humans must still review and commit them.",
+   "Developer time has been diverted to security back-ports and late reverts, reducing capacity to finalize what ships in PostgreSQL 19."
+  ],
+  "impact": "For the AI industry, this is a cautionary tale: autonomous LLM agents can create unintended burdens on open-source maintainers, highlighting the need for better contribution guidelines and filtering. For developers, it shows that AI-assisted coding requires robust human review workflows; maintainers may need tools to manage AI-generated reports and patches. For regular users, PostgreSQL 19's delay means waiting longer for new features, but it may also lead to a more stable release as maintainers prioritize quality. Overall, the incident underscores that human oversight remains essential in AI-augmented software development.",
+  "tools": "Follow PostgreSQL 19 release notes and the pgsql-hackers mailing list for updates. Robert Haas's blog provides context on the delay. Teams dealing with AI-generated patches can explore AI code review tools like CodeRabbit, Qodo, or Sourcery to assist human reviewers, and bug triage platforms like GitHub Issues or Bugzilla with AI-assisted labeling to manage report volume."
+ },
+ "lang": "en"
+}
