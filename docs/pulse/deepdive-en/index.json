@@ -9538,5 +9538,59 @@
   "site_name": "The Verge",
   "published_at": "2026-10-30T20:26:10.000Z",
   "fetched_at": "2026-10-30T23:46:33.935133+00:00"
+ },
+ "e38fc58252f2": {
+  "id": "e38fc58252f2",
+  "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+  "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-10-31T05:00:48.000Z",
+  "fetched_at": "2026-10-31T05:32:31.016909+00:00"
+ },
+ "1bbee645176f": {
+  "id": "1bbee645176f",
+  "url": "https://arxiv.org/abs/2610.38210",
+  "title": "GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-31T04:00:00.000Z",
+  "fetched_at": "2026-10-31T05:32:46.059060+00:00"
+ },
+ "fad3a7680140": {
+  "id": "fad3a7680140",
+  "url": "https://arxiv.org/abs/2610.38382",
+  "title": "Compute Has Shape: Self-Morphing the Internal Computation of Frozen LLMs",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-31T04:00:00.000Z",
+  "fetched_at": "2026-10-31T05:32:59.875622+00:00"
+ },
+ "3f563733953c": {
+  "id": "3f563733953c",
+  "url": "https://arxiv.org/abs/2610.38392",
+  "title": "Masked Erosion: How Acceptance Gates Lose Redundant Safeguards in Self-Improving Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-31T04:00:00.000Z",
+  "fetched_at": "2026-10-31T05:33:15.344331+00:00"
+ },
+ "c96e60615b77": {
+  "id": "c96e60615b77",
+  "url": "https://arxiv.org/abs/2610.38398",
+  "title": "Agent Transfer Protocol: Server-Mediated Agent-to-Agent Communication Architecture for the Agentic Web",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-10-31T04:00:00.000Z",
+  "fetched_at": "2026-10-31T05:33:26.129989+00:00"
+ },
+ "e5726bf03a81": {
+  "id": "e5726bf03a81",
+  "url": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
+  "title": "How the built-in browsers in five AI coding tools broke basic browser rules",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T03:32:31Z",
+  "fetched_at": "2026-10-31T05:33:42.194125+00:00"
  }
 }

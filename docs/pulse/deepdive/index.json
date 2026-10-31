@@ -19609,5 +19609,50 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-30T23:44:00.785463+00:00"
+ },
+ "1abfdb6dc980": {
+  "id": "1abfdb6dc980",
+  "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+  "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-10-31T05:30:51.577444+00:00"
+ },
+ "05174ba8a5db": {
+  "id": "05174ba8a5db",
+  "url": "https://www.ithome.com/1/020/402.htm",
+  "title": "谷歌宣布达成「Hello World」里程碑：在轨运行的数据中心级 TPU 首次给出 AI 响应，生成了一首俳句",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-10-31T05:31:03.848249+00:00"
+ },
+ "2d6025db40a1": {
+  "id": "2d6025db40a1",
+  "url": "https://www.ithome.com/1/020/406.htm",
+  "title": "快手旗下可灵 AI 完成约 198 亿元增资",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T00:16:45Z",
+  "fetched_at": "2026-10-31T05:31:12.730899+00:00"
+ },
+ "55df64a79b14": {
+  "id": "55df64a79b14",
+  "url": "https://www.ithome.com/1/020/394.htm",
+  "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-30T23:09:09Z",
+  "fetched_at": "2026-10-31T05:31:22.153358+00:00"
+ },
+ "a693d1e39c63": {
+  "id": "a693d1e39c63",
+  "url": "https://www.ifanr.com/1686969",
+  "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-10-30T22:34:47Z",
+  "fetched_at": "2026-10-31T05:31:33.094611+00:00"
  }
 }
