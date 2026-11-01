@@ -1,0 +1,24 @@
+{
+ "id": "90036fd4953e",
+ "url": "https://news.ycombinator.com/item?id=50326727",
+ "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+ "source": "Hacker News (黑客新闻)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-01T15:45:10Z",
+ "fetched_at": "2026-11-01T18:55:35.405306+00:00",
+ "content": "Hacker News\nnew\n|\npast\n|\ncomments\n|\nask\n|\nshow\n|\njobs\n|\nsubmit\nlogin\n[flagged]\nAnthropic's Mythos-class model allegedly leaked on Hugging Face\n44 points\nby\nhandfuloflight\n3 hours ago\n|\nhide\n|\npast\n|\nfavorite\n|\n44 comments\nURL deleted for malware concerns.\nhelp\nripbozo\n2 hours ago\n|\nnext\n[–]\nmjr00\n2 hours ago\n|\nparent\n|\nnext\n[–]\nIshKebab\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\ntimcobb\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nremuskaos\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nswiftcoder\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nAvicebron\n1 hour ago\n|\nroot\n|\nparent\n|\nprev\n|\nnext\n[–]\nswiftcoder\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\nembedding-shape\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\norbital-decay\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\nsuperkuh\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\nyorwba\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nCatloafdev\n1 hour ago\n|\nprev\n|\nnext\n[–]\nCamperBob2\n1 hour ago\n|\nparent\n|\nnext\n[–]\nasa123\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nbigdict\n1 hour ago\n|\nroot\n|\nparent\n|\nprev\n|\nnext\n[–]\ncbg0\n1 hour ago\n|\nprev\n|\nnext\n[–]\nintrasight\n1 hour ago\n|\nprev\n|\nnext\n[–]\nummonk\n1 hour ago\n|\nparent\n|\nnext\n[–]\nceejayoz\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\ntwigger2\n1 hour ago\n|\nprev\n|\nnext\n[–]\njudge2020\n1 hour ago\n|\nparent\n|\nnext\n[–]\ntwigger2\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nrao-v\n1 hour ago\n|\nroot\n|\nparent\n|\nprev\n|\nnext\n[–]\ntwigger2\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nTGower\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\ntwigger2\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\n_ache_\n1 hour ago\n|\nprev\n|\nnext\n[–]\nyorwba\n1 hour ago\n|\nparent\n|\nnext\n[–]\n_ache_\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nremuskaos\n41 minutes ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nkraken_cult\n3 hours ago\n|\nprev\n|\nnext\n[–]\nchapz\n2 hours ago\n|\nparent\n|\nnext\n[–]\nswatcoder\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nAvicebron\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nxqcgrek2\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\nloveparade\n2 hours ago\n|\nprev\n|\nnext\n[–]\nhaute_cuisine\n2 hours ago\n|\nprev\n|\nnext\n[–]\nceejayoz\n1 hour ago\n|\nparent\n|\nnext\n[–]\ncamel-cdr\n1 hour ago\n|\nprev\n|\nnext\n[–]\nceejayoz\n1 hour ago\n|\nparent\n|\nnext\n[–]\nSynthetic7346\n1 hour ago\n|\nparent\n|\nprev\n|\nnext\n[–]\nswiftcoder\n1 hour ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nbigdict\n1 hour ago\n|\nprev\n[–]\nConsider applying for YC's Winter 2027 batch!\nApplications\nare open till November 2.\nGuidelines\n|\nFAQ\n|\nLists\n|\nAPI\n|\nSecurity\n|\nLegal\n|\nApply to YC\n|\nContact\nSearch:",
+ "report": {
+  "summary": "Anthropic新模型疑似泄露，链接因恶意软件被删",
+  "background": "Anthropic 现有产品线分为 Haiku、Sonnet、Opus 三档，「Mythos」是社区传闻中比 Opus 更高一级的新模型代号（可能对应下一代旗舰）。此前 Anthropic 多次强调对未发布模型的严格保密，因此「旗舰模型权重出现在 Hugging Face」天然具备爆点。然而这条 HN 帖子本身被标记（flagged），提交者附带的 URL 也因恶意软件风险被删除，44 条评论中并无任何可验证的权重文件、哈希或官方回应，本质上更像一次借模型热度传播的可疑链接事件，而非已被证实的泄露。",
+  "key_points": [
+   "帖子在 HN 仅获 44 分就被 flag，且原始链接被管理员以「恶意软件风险」删除，说明社区第一时间判定其可疑而非可信。",
+   "「Mythos 级」并非 Anthropic 官方公布的型号，只是社区对下一代旗舰的猜测代号，用它做标题本身就带有钓鱼诱导性。",
+   "真正的权重泄露通常伴随文件哈希、参数量、推理样例等可交叉验证的证据，而该帖评论中未见任何实证材料。",
+   "Hugging Face 上任何人都能上传同名仓库，冒充官方模型是常见攻击手法：假仓库常夹带 pickle 反序列化后门。",
+   "若未来真发生泄露，最直接信号应是 Anthropic 的官方声明、下架请求或 HF 仓库被封禁，而非论坛爆料。"
+  ],
+  "impact": "对 AI 行业，这类事件提醒头部实验室的模型权重已成为高价值攻击目标，安全叙事会进一步向「权重不出内网」倾斜；对开发者，教训是不要因「抢先体验新模型」而运行来源不明的 checkpoint，一次 pickle 加载就可能沦陷本地环境与密钥；对普通用户，目前没有证据表明存在真实泄露，无需担心所用 Claude 产品受影响，但应警惕以「泄露版模型」为饵的下载站与教程。",
+  "tools": "跟进时可关注 Hugging Face 的仓库验证标识与安全扫描（picklescan、模型卡片审核），优先只加载 safetensors 格式而非 .bin/.pt；本地可用 ClamAV 与隔离沙箱检查下载文件，并用 huggingface-cli 核对仓库作者与提交历史，确认是否为官方组织账号。"
+ },
+ "lang": "zh"
+}

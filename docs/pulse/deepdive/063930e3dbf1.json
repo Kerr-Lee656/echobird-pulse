@@ -1,0 +1,24 @@
+{
+ "id": "063930e3dbf1",
+ "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
+ "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T18:54:26.771552+00:00",
+ "content": "Anthropic expands text watermarking to older Claude versions beginning November 3\nAs we first reported in early August, Anthropic has bowed to demands from EU legislators that AI-generated text carry a hidden watermark, to help eventually distinguish between human- and AI-generated content.\nThe initial watermark rollout only applied to the latest and greatest versions of Claude, but on Friday Anthropic alerted its users that an expansion of the watermark would soon roll out to Claude Mythos 5, Claude Opus 4.7, Claude Opus 4.6 and Claude Sonnet 4.6, starting on November 3.\nAccording to the AI giant, it will be the same watermarking technology already in use in Opus 5.5, based on \"an imperceptible pattern in word choice\" that won't change the accuracy or readability of its output, or contain any identifying information about the user or organization working with Claude.\nYou May Also Like\nBut it's one thing to worry about the function of artificial intelligence and another to worry about the human element. Lawyers have been caught using AI-generated citations, novelists have been caught relying on AI to write entire books, and scientific researchers have been caught using AI in the peer review process.\nFor all the problems solved by AI use, and the mundane busywork it so ably processes in seconds rather than hours, it also creates a powerful incentive for humans to cut corners and lie about it, so it will be interesting to see if widespread watermarking helps keep the human element honest.",
+ "report": {
+  "summary": "Anthropic 将从 11 月 3 日起把文本水印扩展到旧版 Claude 模型",
+  "background": "欧盟立法要求 AI 生成的文本必须带有可识别的隐藏标记，以便区分人类创作与机器生成内容。Anthropic 早在 8 月初就首次上线该能力，但只覆盖最新版本模型；随着监管压力与合规期限临近，它现在把水印下推到 Claude Mythos 5、Opus 4.7、Opus 4.6、Sonnet 4.6 等旧版本，并在 11 月 3 日正式生效。其技术沿用 Opus 5.5 的方案，基于“词选择层面的不可感知模式”，官方称不影响输出准确性和可读性。",
+  "key_points": [
+   "水印方式是让模型在选词时留下统计规律，人眼读不出差别，但检测工具可以识别",
+   "官方强调水印不包含用户或组织的身份信息，只是一个“这是 AI 写的”标记",
+   "覆盖范围从仅限最新模型扩大到多个在役旧版本，说明合规要求倒逼历史模型同步改造",
+   "背景是律师引用伪造判例、小说家代笔、审稿人偷用 AI 等大量“隐瞒使用”现象",
+   "水印能否真正“让人保持诚实”，取决于检测工具是否普及以及是否容易被洗掉"
+  ],
+  "impact": "对 AI 行业而言，水印正从“可选项”变成产品默认能力，模型版本管理会因此更复杂，旧模型也要为合规做回溯性改造。对开发者来说，接入 Claude API 生成的文本将自带痕迹，若用于内容生产需提前评估误判风险和被检测工具标记的可能；同时这也催生去水印与检测的双向博弈。对普通用户，日常对话体验几乎不变，但在学术、媒体、法律等场景中，“是否用过 AI”将更难含糊其辞。",
+  "tools": "想跟进可关注 Google 的 SynthID-Text、Meta 的 TextSeal 等开源文本水印方案；MarkLLM 是评测水印鲁棒性的开源工具箱；内容溯源侧可了解 C2PA 内容凭证标准，以及 GPTZero、Originality.ai 等检测工具的识别逻辑与局限。"
+ },
+ "lang": "zh"
+}

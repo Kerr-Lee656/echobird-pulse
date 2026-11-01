@@ -20050,5 +20050,68 @@
   "site_name": "TopHub",
   "published_at": "2026-11-01T03:07:39.019Z",
   "fetched_at": "2026-11-01T13:16:54.840543+00:00"
+ },
+ "063930e3dbf1": {
+  "id": "063930e3dbf1",
+  "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
+  "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T18:54:26.771552+00:00"
+ },
+ "995c7971a2e0": {
+  "id": "995c7971a2e0",
+  "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe",
+  "title": "AI software clones are coming for big-name companies like Adobe",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T18:54:37.080821+00:00"
+ },
+ "64f020e6d20d": {
+  "id": "64f020e6d20d",
+  "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+  "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T18:54:45.405933+00:00"
+ },
+ "0034b4355c0c": {
+  "id": "0034b4355c0c",
+  "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+  "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T18:55:15.497742+00:00"
+ },
+ "60367187b360": {
+  "id": "60367187b360",
+  "url": "https://www.ithome.com/1/020/837.htm",
+  "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T18:55:26.589630+00:00"
+ },
+ "90036fd4953e": {
+  "id": "90036fd4953e",
+  "url": "https://news.ycombinator.com/item?id=50326727",
+  "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-01T15:45:10Z",
+  "fetched_at": "2026-11-01T18:55:35.405306+00:00"
+ },
+ "3e30870dfb38": {
+  "id": "3e30870dfb38",
+  "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
+  "title": "数学发生翻天覆地变化的那一年——人工智能正在解决困扰该领域数十年的难题。面对这个日新月异的数学世界，数学家们纷纷向陶哲轩寻求指引。",
+  "source": "www.newyorker.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-01T12:27:19.520Z",
+  "fetched_at": "2026-11-01T18:55:46.767955+00:00"
  }
 }

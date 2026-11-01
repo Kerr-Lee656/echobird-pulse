@@ -1,0 +1,24 @@
+{
+ "id": "64f020e6d20d",
+ "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+ "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T18:54:45.405933+00:00",
+ "content": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌Suncatcher卫星首次在轨跑Gemma模型并回传俳句",
+  "background": "AI数据中心正面临电力、散热和选址的三重瓶颈，而太空拥有近乎无限的太阳能和天然的低温散热环境，因此成为新的探索方向。谷歌于今年9月公布Project Suncatcher研究计划，10月1日发射原型卫星，试图验证自家TPU能否在轨稳定运行AI推理。与此同时，创业公司Starcloud在8月融资2.5亿美元押注同类构想，而SpaceX则向投资人坦言轨道数据中心可能永远无法成立——这一路线仍处于概念验证的极早期。",
+  "key_points": [
+   "卫星搭载4颗TPU、发电功率约1千瓦，受限于功耗每次只能运行1颗芯片、约20分钟，整套系统测试耗时约三周",
+   "地面站发出提示词，卫星飞越挪威斯瓦尔巴群岛上空时回传了一首以轨道TPU视角写成的俳句，被谷歌称为首次由数据中心级TPU在轨产生的AI回复",
+   "模型运行依靠事先储存的太阳能电力，Gemma 4由Google DeepMind团队开发，属于可本地部署的小型开源模型系列",
+   "下一阶段重点测试辐射与散热：太空辐射会随机翻转芯片比特、静默损坏数据，地面实验显示推理比训练对这种干扰更耐受",
+   "谷歌计划2027年发射两颗互联卫星，验证更大功率与星间激光链路；整条路线仍高度依赖SpaceX星舰实现完全可复用以压低发射成本"
+  ],
+  "impact": "对AI行业而言，这是“算力上天”从PPT走向在轨验证的标志性一步，若辐射与散热问题可控，未来训练与推理的能源约束可能被重新定义，但短期内象征意义远大于商业价值。对开发者来说，小型模型加专用芯片在极端环境跑通，说明边缘侧低功耗推理的可行性在提升。对普通用户几乎没有直接影响，真正的变化要等到2027年双星激光互联验证之后才能判断。",
+  "tools": "想跟进可关注：开源模型Gemma系列（可在本地或Colab试跑，理解小模型能力边界）；Google Cloud TPU文档了解芯片架构；Project Suncatcher的官方博客与技术说明；以及Starcloud等轨道数据中心创业公司的公开进展。硬件爱好者可研究抗辐射芯片设计与比特翻转容错方案。"
+ },
+ "lang": "zh"
+}

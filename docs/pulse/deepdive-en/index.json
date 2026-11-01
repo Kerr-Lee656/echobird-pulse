@@ -9790,5 +9790,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-01T06:55:27Z",
   "fetched_at": "2026-11-01T13:18:16.459714+00:00"
+ },
+ "4c65182864f7": {
+  "id": "4c65182864f7",
+  "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+  "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T18:39:51Z",
+  "fetched_at": "2026-11-01T18:56:25.298570+00:00"
+ },
+ "3a782cd4e3d3": {
+  "id": "3a782cd4e3d3",
+  "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
+  "title": "AI Software Clones Are Coming for Big-Name Companies Like Adobe",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T17:37:47Z",
+  "fetched_at": "2026-11-01T18:56:41.760072+00:00"
+ },
+ "a5e13894d062": {
+  "id": "a5e13894d062",
+  "url": "https://ua.news/en/money/anthropic-zapituie-kandidativ-pro-padinnia-aktsii-do-nulia-fortune",
+  "title": "Anthropic asks candidates about shares falling to zero",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T17:36:58Z",
+  "fetched_at": "2026-11-01T18:56:56.101156+00:00"
+ },
+ "9b864fedbfda": {
+  "id": "9b864fedbfda",
+  "url": "https://www.dexerto.com/gaming/anthropic-adds-new-claude-rule-banning-recreations-of-existing-games-3423516/",
+  "title": "Anthropic adds new Claude rule banning recreations of existing games",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T17:36:08Z",
+  "fetched_at": "2026-11-01T18:57:10.341438+00:00"
+ },
+ "04b047f1bc44": {
+  "id": "04b047f1bc44",
+  "url": "https://thenewstack.io/claude-ultra-session-limit/",
+  "title": "Anthropic Removes Daily Usage Limits",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T17:03:21Z",
+  "fetched_at": "2026-11-01T18:57:23.910491+00:00"
+ },
+ "5588952bc04e": {
+  "id": "5588952bc04e",
+  "url": "https://fork.zone/p/1011/report-chinese-labs-now-target-openai-s-gpt-6-astra-for",
+  "title": "Chinese labs now target OpenAI's GPT-6 Astra for distillation",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T16:28:35Z",
+  "fetched_at": "2026-11-01T18:57:35.394667+00:00"
+ },
+ "90036fd4953e": {
+  "id": "90036fd4953e",
+  "url": "https://news.ycombinator.com/item?id=50326727",
+  "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+  "source": "Hacker News (44pts, 44c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T15:45:10Z",
+  "fetched_at": "2026-11-01T18:57:45.899003+00:00"
  }
 }
