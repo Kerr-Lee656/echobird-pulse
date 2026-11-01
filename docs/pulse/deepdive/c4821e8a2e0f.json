@@ -1,0 +1,25 @@
+{
+ "id": "c4821e8a2e0f",
+ "url": "https://thenextweb.com/news/amazon-q3-earnings-aws-39-free-cash-flow-2027-capex",
+ "title": "AWS grows 39% and Amazon will spend even more on AI in 2027",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T13:16:44.754584+00:00",
+ "content": "Amazon’s free cash flow fell to minus $42.4bn over the 12 months to September. Spending on AI drove most of the drop, the company said on Thursday. A year earlier it was a positive $14.8bn.\nThe Amazon Q3 earnings showed revenue up 12% to $201.9bn and operating income up to $28.1bn, from $17.4bn a year earlier. Its operating margin of 13.9% was the highest Amazon has ever reported. Purchases of property and equipment rose by $94.8bn over the 12 months, mostly for AI, the company said.\nShares fell as much as 7% in extended trading on Thursday, Reuters reported. Revenue and earnings per share came in below analysts’ forecasts of $202.3bn and $1.96, CNBC reported.\nAWS grows at its fastest rate in almost five years\nRevenue at Amazon Web Services rose 39% to $46bn, and its operating income climbed to $17.8bn from $11.4bn. The cloud unit now has an annual revenue run rate of $184bn and a backlog of $578bn, Jassy said.\n“We’re installing an AI accelerator about every 14 seconds, and almost as fast as we install capacity, customers are gobbling it up,” Jassy said on the call.\nHe expects AWS revenue to grow more than 40% in both 2027 and 2028. Late in 2027, Amazon also plans to start selling its Trainium AI chips outside AWS, he said. Earlier this month it released TorchNeuron for Trainium, so developers can run PyTorch code on the chips.\n“There has never been a trillion dollar revenue business, and we may have two of them in the next 5-10 years,” Jassy said in the results statement.\nCash, capex and the stores business\nAmazon spent $77.3bn on property and equipment in the third quarter, against $35.1bn a year earlier. It still expects about $220bn of cash capital spending this year, a figure it set in July’s results. It raised $48.1bn of long-term debt in the quarter. A filing after the results showed it can now borrow up to $80bn against the AI hardware it buys.\nJassy told analysts that Amazon expects to spend “meaningfully more” in 2027, with what he called a clear line of sight to attractive returns.\n“We can fund this plan,” Jassy said.\nThe retail side grew more slowly. Online store sales rose 2% to $68.5bn, and advertising revenue rose 11% to $19.6bn. Prime Day moved into the second quarter in most large countries this year. That cut about four percentage points from total growth, Amazon said. Jassy said Prime Video now has a revenue run rate in the tens of billions of dollars and is profitable.\nFor the holiday quarter, Amazon expects revenue of $240bn to $247bn and operating income of $28.5bn to $33.5bn. Its rivals reported the day before: Google Cloud revenue doubled, while Alphabet shares had their worst day on record.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AWS营收增39%，亚马逊2027年将继续加大AI基建投入",
+  "background": "亚马逊三季度财报显示，AWS营收同比增长39%至460亿美元，为近五年来最快增速；但同期自由现金流跌至负424亿美元，主要因AI基础设施投入过大。亚马逊今年现金资本支出约2200亿美元，三季度单季设备支出达773亿美元，并新增长期债务481亿美元。云厂商正陷入一场围绕算力规模的军备竞赛：谷歌云同期营收翻倍、Alphabet股价却创最差单日表现，市场开始担忧巨额投入何时能转化为回报。",
+  "key_points": [
+   "AWS营收460亿美元、经营利润178亿美元，年化收入达1840亿美元，未履约订单储备高达5780亿美元，需求端依然强劲。",
+   "贾西称每14秒就装一台AI加速器，客户几乎以同样速度消耗掉新增算力，并预计2027、2028年AWS增速均超40%。",
+   "资本支出激进：三季度设备支出773亿美元（去年同期351亿），今年约2200亿，2027年还将“显著增加”，自由现金流因此转为负424亿美元。",
+   "亚马逊可用所购AI硬件作抵押借款至多800亿美元，并已发行481亿美元长期债，显示其用金融杠杆支撑算力扩张。",
+   "自研芯片外销：2027年底起向AWS之外出售Trainium芯片，本月已发布TorchNeuron，让开发者可直接跑PyTorch代码。",
+   "零售与广告明显放缓：线上商店仅增2%、广告增11%，利润率创新高13.9%主要靠云业务撑起。"
+  ],
+  "impact": "对AI行业而言，这确认了算力需求仍处于供不应求阶段，云巨头愿意以负自由现金流为代价抢占产能，算力军备竞赛将延续到2028年。对开发者，Trainium外销和TorchNeuron降低了非英伟达路线的迁移成本，多芯片选择与议价空间增加，但也要面对PyTorch之外的适配工作。对普通用户，云成本短期难降，AI服务价格取决于推理成本；同时亚马逊把债务压在AI硬件上，若需求转弱，风险会传导至整个产业链。",
+  "tools": "想跟进可关注：AWS Trainium芯片与Neuron SDK、TorchNeuron（在Trainium上跑PyTorch）、Amazon Bedrock与SageMaker（模型调用与训练部署）、以及Inferentia推理芯片。成本敏感团队可对比Trainium与GPU的单位算力价格，做小规模迁移验证。"
+ },
+ "lang": "zh"
+}

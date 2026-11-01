@@ -9763,5 +9763,32 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-10-31T21:17:03.000Z",
   "fetched_at": "2026-11-01T06:00:03.169931+00:00"
+ },
+ "e33157cb7d01": {
+  "id": "e33157cb7d01",
+  "url": "https://github.com/seeeeew/aiwarningforsteam",
+  "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T10:47:55Z",
+  "fetched_at": "2026-11-01T13:17:31.875552+00:00"
+ },
+ "4eb8a6cb7861": {
+  "id": "4eb8a6cb7861",
+  "url": "https://huggingface.co/divagr1925/QwenPU",
+  "title": "QwenPU: An LLM running inside another LLM's weights",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T10:15:39Z",
+  "fetched_at": "2026-11-01T13:18:01.737629+00:00"
+ },
+ "dc7eb9e8885f": {
+  "id": "dc7eb9e8885f",
+  "url": "https://arxiv.org/abs/2610.37741",
+  "title": "Agentic Backdoors via Pretraining Poisoning",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T06:55:27Z",
+  "fetched_at": "2026-11-01T13:18:16.459714+00:00"
  }
 }
