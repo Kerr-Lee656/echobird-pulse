@@ -1,0 +1,24 @@
+{
+ "id": "df13fb83bb11",
+ "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores",
+ "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T23:33:48.433565+00:00",
+ "content": "Meta reportedly built a humanoid robot prototype that can do household chores\nA report said the company is already working on the second version that’s codenamed Max 2.\nAs part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months.\nAccording to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall. On the outside, the prototype reportedly has a display that can show facial expressions, a built-in speaker and hands designed to pick up small objects. Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report.\nThe Information's report said there's no launch date set for a mass-market version of Max, but that Meta has already been working on a second prototype, codenamed Max 2, since September. The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better.\nMeta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores. Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year.",
+ "report": {
+  "summary": "Meta被曝已造出家务人形机器人原型Max",
+  "background": "Meta自去年组建机器人硬件团队，今年又收购专注机器人AI的初创公司，试图把大模型能力延伸到具身智能。此次被曝与傅利叶合作、约三个月造出原型Max，反映科技巨头正加速布局家庭场景人形机器人，但距离量产仍有距离。",
+  "key_points": [
+   "原型Max高约1.5米、重约48公斤，带表情显示屏、扬声器和可抓小物件的手，定位家庭助手。",
+   "算力采用英伟达Jetson Thor芯片，说明Meta倾向用高集成AI计算平台支撑机器人感知与交互。",
+   "Meta与傅利叶合作约三个月完成原型，但未公布量产时间，显示项目仍处早期验证阶段。",
+   "第二代Max 2已于9月启动，改进躯干和手部，并加投影仪和传感器以更好处理楼梯。",
+   "Meta去年设机器人团队、今年收购机器人AI初创，家务场景是其具身智能切入口。"
+  ],
+  "impact": "对AI行业，人形机器人竞争从演示走向家庭场景验证，大模型与具身智能结合加速；对开发者，Jetson Thor、仿真与ROS生态迎来新需求，机器人AI人才更抢手；对普通用户，家务机器人仍处原型期，短期难落地，但隐私、安全与家庭适配问题需提前关注。",
+  "tools": "可关注NVIDIA Jetson Thor开发平台、Isaac Sim仿真、ROS 2及LeRobot等开源机器人学习框架；也可跟踪傅利叶智能的人形机器人产品。"
+ },
+ "lang": "zh"
+}

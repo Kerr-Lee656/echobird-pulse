@@ -1,0 +1,24 @@
+{
+ "id": "0db7b6f459a7",
+ "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+ "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T23:34:37.607426+00:00",
+ "content": "Here's a remarkable milestone in the AI revolution: Anthropic now spends more on internal AI usage than it does paying employees.\nThe company revealed this in its IPO filing. In April, the value of Claude AI used internally, calculated at prices Anthropic charges customers, exceeded its monthly employee compensation costs, excluding stock awards.\nBy September, that internal AI usage had surged more than 250-fold since January.\nThere's an important distinction here. Anthropic isn't actually spending more cash on AI than salaries. It's valuing its internal AI consumption at retail prices.\nStill, this feels like a watershed moment for the tech industry.\nIn March, I wrote about a new trend: Tech companies are starting to treat AI tokens (the main way to measure usage) as a fourth component of employee compensation, alongside salary, bonuses, and stock awards.\nAnthropic's numbers show why. More than 90% of the code added to its software in September was written by Claude. Meanwhile, revenue has grown vastly faster than headcount.\nFor decades, talented humans were the most valuable resource in Silicon Valley. Now AI is challenging that assumption.\nSign up for the AI Insider newsletter here. Reach out to me via email at abarr@businessinsider.com",
+ "report": {
+  "summary": "Anthropic内部Claude用量按零售价计已超员工薪酬",
+  "background": "Anthropic在IPO文件中披露，按对外零售价折算，4月内部使用Claude的价值已超过月度员工薪酬（不含股票奖励）；到9月，内部AI用量较1月激增逾250倍。同期，9月新增代码中90%以上由Claude编写，而收入增速远快于员工人数。这延续了科技业把AI token视为薪酬、奖金、股票之外“第四要素”的趋势，也冲击了硅谷长期信奉的“人才是最宝贵资源”假设。",
+  "key_points": [
+   "口径需厘清：Anthropic并非现金支出超过工资，而是把内部AI消耗按对外售价折算，属于会计估值而非实际付款。",
+   "增长极快：内部AI用量9月较1月增长超250倍，4月按零售价已超过月度员工薪酬，显示AI渗透速度惊人。",
+   "开发范式变化：9月新增代码90%以上由Claude完成，AI从辅助工具变成核心生产力，工程师角色转向审查与架构。",
+   "组织杠杆显现：收入增长远快于员工数扩张，AI token正被视为薪酬之外的第四种“员工成本”。",
+   "行业信号明确：人才为最贵资源的传统假设受挑战，AI预算可能成为企业新的大项支出与竞争指标。"
+  ],
+  "impact": "对AI行业，内部“吃狗粮”用量成为模型价值与token经济的风向标，可能推动企业公开AI使用效率指标。对开发者，代码代理将更深度参与生产，审查、安全与架构能力更重要，单纯编码岗位受挤压。对普通用户，产品迭代可能更快、服务更便宜，但也需关注AI生成质量、隐私与平台依赖风险。",
+  "tools": "想跟进可试用Claude Code与Claude API并监控token用量；开源可关注OpenHands、Aider、Continue等代码代理与用量管理工具。"
+ },
+ "lang": "zh"
+}

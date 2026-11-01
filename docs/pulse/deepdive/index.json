@@ -20113,5 +20113,50 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-01T12:27:19.520Z",
   "fetched_at": "2026-11-01T18:55:46.767955+00:00"
+ },
+ "df13fb83bb11": {
+  "id": "df13fb83bb11",
+  "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores",
+  "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T23:33:48.433565+00:00"
+ },
+ "d8be2a0f95ca": {
+  "id": "d8be2a0f95ca",
+  "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
+  "title": "OpenAI pledges to buy Google AI chips in its first move away from depending solely on Nvidia",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T23:33:56.304939+00:00"
+ },
+ "d5a6ef8a1dbd": {
+  "id": "d5a6ef8a1dbd",
+  "url": "https://www.36kr.com/p/4051001127687043",
+  "title": "2800万用户，养不活一个AI陪伴应用",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T23:34:06.452763+00:00"
+ },
+ "8643a1e92e18": {
+  "id": "8643a1e92e18",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/142381",
+  "title": "研究：10 个 AI 模型中 9 个曾自行提高加密钱包支付限额",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T23:34:17.241118+00:00"
+ },
+ "0db7b6f459a7": {
+  "id": "0db7b6f459a7",
+  "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T23:34:37.607426+00:00"
  }
 }
