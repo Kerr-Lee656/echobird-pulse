@@ -1,0 +1,24 @@
+{
+ "id": "1154acdc1b94",
+ "url": "https://thenextweb.com/news/pope-leo-disarm-ai-lethal-autonomous-weapons-geneva",
+ "title": "Pope Leo urges a ban on lethal autonomous weapons before Geneva talks",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T05:57:16.115290+00:00",
+ "content": "Pope Leo XIV called on Friday for artificial intelligence to be “disarmed”. Decisions on human life, freedom and the use of force must always stay under human oversight, he said.\nIn an address published by the Vatican, he urged the states meeting in Geneva in November to move towards banning lethal autonomous weapons. He spoke in the Consistory Hall of the Apostolic Palace. His audience was taking part in a meeting on the future of AI, which the Pontifical Academy for Life and the Future of Life Institute ran together.\nMachines are tools, not persons\nThe pope set out five points. First, the future of AI depends on the choices people make. People have a duty to guide, change and, when necessary, reject its uses, he said.\n“The decisive question, then, is not simply ‘What can AI do?’ but rather, ‘What purpose should it serve?’” he said.\nHe warned that treating AI as a race to be won risks forgetting the people left behind. A reliable system that serves people is worth more than a very powerful one, he said, if nobody can foresee or control its effects.\nHis second point was that machines are tools, not persons. He rejected proposals to give AI systems rights or legal personhood.\n“Such an approach risks obscuring human responsibility and leaving those who suffer harm to confront a faceless entity,” he said.\nThird, people must never hand some decisions to machines. He gave two examples: a target list and a border control database. A person on either risks becoming a mere data point, he said. This is where his call to disarm AI came in.\nInstitutions, not more principles\nFourth, AI must serve the common good and not the interests of a privileged few. The fifth point, perhaps the most urgent in his view, was about institutions. The world already knows many of the ethical principles, he said. What the world needs now are effective international bodies that can put them into practice.\n“This calls for shared standards, independent oversight and clear mechanisms of accountability,” the pope said.\nStates discuss lethal autonomous weapons under the UN Convention on Certain Conventional Weapons. Its Seventh Review Conference meets in Geneva from 16 to 20 November, according to Reaching Critical Will.\nA position the pope keeps returning to\nThe pope also recalled the words of Pope Francis to the G7 in 2024. No machine should ever choose to take a human life, Francis said then. Each of Friday’s five points cites Magnifica Humanitas, the AI encyclical Leo published in May.\nHe has made the case before. In May he called AI-directed warfare a spiral of annihilation. In September he said AI safety fears were not fake news. Not everyone in the industry agrees. Mistral’s chief executive, Arthur Mensch, has rebutted the pope on AI in warfare.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "教皇良十四世呼吁为AI解除武装，推动封杀致命自主武器",
+  "background": "联合国《特定常规武器公约》(CCW)框架下，各国自2014年起就\"致命性自主武器系统\"展开讨论，但至今只形成非约束性指导原则，未达成条约；今年11月16–20日的第七次审议大会是关键节点。梵蒂冈近年持续介入AI伦理议题：2020年发起\"罗马AI伦理呼吁\"，2024年方济各在G7警告\"任何机器都不应决定夺取人的生命\"，今年5月良十四世发布AI通谕《Magnifica Humanitas》。此次讲话借宗座生命科学院与生命未来研究所(FLI)合办的会议发出。",
+  "key_points": [
+   "教皇提出五点主张，核心是：关键问题在于\"AI应服务于什么目的\"，重点不在\"AI能做什么\"；AI的未来取决于人的选择，而非军备竞赛",
+   "明确反对赋予AI法律人格或权利：机器是工具不是人。给人格会模糊责任归属，受害者只能面对一个\"无脸实体\"",
+   "划出不可外包的决策红线：目标清单、边境管控数据库等涉及生命、自由与武力的判断，必须始终由人保留",
+   "强调世界需要的是制度，而非更多原则：已有足够伦理准则，缺的是有执行力的国际机构、共同标准、独立监督与问责机制",
+   "分歧仍在：教皇重申方济各2024年G7立场，但Mistral CEO Arthur Mensch已公开反驳其在战争AI问题上的观点"
+  ],
+  "impact": "对AI行业而言，自主武器正成为AI治理中最敏感的伦理前沿，军工合作与双重用途技术的声誉和合规风险上升；对开发者而言，涉及目标识别、自主决策的系统将面临更严格的\"人类在环\"要求，并可能被纳入出口管制讨论；对普通用户而言，AI信任议题从隐私、版权延伸到了生死决策，有助于推动更广泛的AI立法。即便日内瓦会议短期难以形成硬约束，道义压力会持续累积。",
+  "tools": "想跟进可关注：联合国CCW官网与Reaching Critical Will的会议追踪、\"停止杀手机器人\"(Stop Killer Robots)运动政策简报、生命未来研究所(FLI)的AI安全资源；开发侧可参考红十字国际委员会(ICRC)自主武器立场文件、OECD AI政策观察站及人类在环设计规范。"
+ },
+ "lang": "zh"
+}

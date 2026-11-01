@@ -9691,5 +9691,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-10-31T19:25:06Z",
   "fetched_at": "2026-10-31T23:23:38.167265+00:00"
+ },
+ "d28bbd920840": {
+  "id": "d28bbd920840",
+  "url": "https://www.semafor.com/article/10/30/2026/the-ai-boom-spawns-job-market-for-data-center-liaisons",
+  "title": "The AI boom spawns job market for data-center liaisons",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T04:54:39Z",
+  "fetched_at": "2026-11-01T05:58:16.372069+00:00"
+ },
+ "8ef87f704d57": {
+  "id": "8ef87f704d57",
+  "url": "https://mcp.brydge-ai.com",
+  "title": "Show HN: What [67] MCP servers do at startup, with the internet cut off",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T04:48:50Z",
+  "fetched_at": "2026-11-01T05:58:27.347837+00:00"
+ },
+ "b88e9492c791": {
+  "id": "b88e9492c791",
+  "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+  "title": "How AI may drive union-resistant tech workers to the bargaining table",
+  "source": "Hacker News (16pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T00:49:23Z",
+  "fetched_at": "2026-11-01T05:58:43.892856+00:00"
+ },
+ "a2da7599e437": {
+  "id": "a2da7599e437",
+  "url": "https://commons.wikimedia.org/w/index.php?title=File%3A26.10.29_WMF_motion_and_amicus_In_re_OAI.pdf&page=1",
+  "title": "Wikimedia Foundation amicus brief regarding OpenAI [pdf]",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T00:41:40Z",
+  "fetched_at": "2026-11-01T05:58:59.570838+00:00"
+ },
+ "90fa131b3c6b": {
+  "id": "90fa131b3c6b",
+  "url": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+  "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+  "source": "公众号：数字生命卡兹克",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-01T00:22:41.000Z",
+  "fetched_at": "2026-11-01T05:59:15.543474+00:00"
+ },
+ "0e01c469a202": {
+  "id": "0e01c469a202",
+  "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+  "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-01T00:19:20Z",
+  "fetched_at": "2026-11-01T05:59:32.176470+00:00"
+ },
+ "5bd78febd4a5": {
+  "id": "5bd78febd4a5",
+  "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-10-31T23:31:26Z",
+  "fetched_at": "2026-11-01T05:59:48.498277+00:00"
+ },
+ "204d5faf405d": {
+  "id": "204d5faf405d",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-10-31T21:17:03.000Z",
+  "fetched_at": "2026-11-01T06:00:03.169931+00:00"
  }
 }

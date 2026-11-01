@@ -1,0 +1,24 @@
+{
+ "id": "90fa131b3c6b",
+ "url": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+ "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+ "source": "公众号：数字生命卡兹克",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-01T00:22:41.000Z",
+ "fetched_at": "2026-11-01T05:59:15.543474+00:00",
+ "content": "公众号：数字生命卡兹克· 数字生命卡兹克·· 6 小时前精选AI 评分70\nOpenAI 12月起将ChatGPT与Codex合并为统一Token额度\nChatGPT和Codex要共用额度了，无限聊天的时代结束了。\nAI 导读\n作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。作者回顾此前按条数计费的历史、一个月内Codex Pro额度先降后恢复的运营反复，以及社区在GitHub上提issue抗议的反应，认为合并与IPO预期下的算力成本压力有关。\n推荐理由\n作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。\n来源：公众号：数字生命卡兹克 · mp.weixin.qq.com",
+ "report": {
+  "summary": "OpenAI will reportedly merge ChatGPT and Codex usage into one token quota for Plus and Pro users from December, ending assumptions of unlimited chat.",
+  "background": "OpenAI's subscription plans have long bundled ChatGPT chatting with other products under separate or loosely defined limits. Codex, OpenAI's coding agent, has its own usage caps that heavy developers track closely. The article notes that OpenAI previously billed by message count, then moved toward token-based accounting as models became more compute-intensive. In the past month, Codex Pro quotas were reportedly cut and then restored after community pushback, highlighting how fragile capacity planning has become. The reported December merger comes as OpenAI faces rising inference costs, competitive pressure, and expectations around a future IPO. The change signals that subscription plans are being reworked around shared compute budgets rather than unlimited conversational access.",
+  "key_points": [
+   "Starting in December, Plus and Pro subscribers will share one token allowance across ChatGPT chats and Codex coding sessions, according to the article. Instant-mode chats are said to be exempt, so quick everyday messages may still feel unrestricted.",
+   "The change moves the subscription model from counting messages toward metering tokens. Because long chats, file uploads, and coding-agent runs consume different amounts, users will need to think about total compute use rather than just number of prompts.",
+   "The article points to recent Codex Pro quota volatility: limits were cut and then restored within a month after backlash. That pattern suggests OpenAI is testing capacity controls and may keep adjusting thresholds as demand and costs fluctuate.",
+   "Heavy users and developers protested via GitHub issues, arguing that coding workflows can consume large token volumes and that merged quotas make costs less predictable. The article frames this as a clash between power-user expectations and OpenAI's compute constraints.",
+   "The author links the merger to cost pressure and IPO expectations, arguing that OpenAI needs cleaner unit economics. A shared token budget makes usage more measurable and billable, but it also weakens the 'unlimited chat' promise that helped sell subscriptions."
+  ],
+  "impact": "For the AI industry, the move reinforces a shift from flat-rate subscriptions to metered compute, especially as agents and reasoning models multiply token consumption. Developers may need to optimize prompts, cache context, and monitor usage across coding and chat, or risk burning through quotas. Regular users could see fewer truly unlimited experiences, with heavy conversational or coding use increasingly priced or capped. OpenAI's rivals may face pressure to clarify their own limits, while startups can compete on efficiency and transparent usage controls. The bigger signal is that agentic AI is expensive to run, and subscription pricing is being redesigned around that reality.",
+  "tools": "To track the shift, watch OpenAI's official help-center docs for quota details and Codex release notes. For usage monitoring, open-source tools such as LiteLLM, Helicone, Langfuse, and OpenLLMetry can log token spend; tiktoken and tokencost help estimate prompt costs. Developers building agents should also evaluate prompt-caching and context-compression libraries to stretch shared quotas."
+ },
+ "lang": "en"
+}

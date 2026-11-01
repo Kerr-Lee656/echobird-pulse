@@ -1,0 +1,24 @@
+{
+ "id": "785d4ceb71a8",
+ "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+ "title": "How We Took Over ChatGPT Accounts",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-01T05:56:24.353735+00:00",
+ "content": "31st October 2026 - Link Blog\nHow We Took Over ChatGPT Accounts (via) Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe.\nIt's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data.\nParameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard, which can be triggered in the parent page via postMessage() from the sandboxed iframe.\nThat message receiving code uses innerHTML, so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method.\nThis meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions.\nOpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it.\nOnce the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference.\nThe end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf.\nOpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious.\nRecent articles\n- The October inflection point for vibe game development - 28th October 2026\n- Battle Drones - a vibe coded RTS with audio-based multiplayer - 20th October 2026\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11 - 12th October 2026\n- A new feature for my blog, built using my voice - 9th October 2026",
+ "report": {
+  "summary": "ChatGPT 的 HTML 预览沙箱被绕过，恶意分享链接可窃取账户数据",
+  "background": "ChatGPT 的 artifacts 功能（曾叫 Canvas，现称 HTML 预览）允许模型生成可交互的 HTML 小应用，这些应用运行在沙箱 iframe 中。沙箱隔离是这类产品的安全底线，因为一旦不可信代码逃逸，就能接触 OpenAI 内部 API 和用户的私密对话。安全公司 Parameter Labs 披露了一条完整的逃逸攻击链，涉及第三方库 MathLive、postMessage 通信、innerHTML 注入以及 CSP 白名单中的 YouTube oEmbed 端点。OpenAI 已修复漏洞并支付 5000 美元赏金。",
+  "key_points": [
+   "攻击起点是数学公式库 MathLive：OpenAI 用它支持图形渲染，该库自带虚拟键盘，会监听来自沙箱 iframe 的 postMessage 消息。",
+   "父页面接收消息后用 innerHTML 写入内容，且不校验消息来自哪个 frame，于是任何沙箱页面（包括 HTML 预览）都能往主页面注入 HTML。",
+   "虽然 innerHTML 不直接执行脚本，但攻击者可注入一个不带 sandbox 属性的新 iframe；CSP 虽禁止内联脚本，白名单中的 YouTube oEmbed 接口却能把 JavaScript 反射回来执行。",
+   "拿到 ChatGPT 页面的脚本执行权后，读取私密数据、以用户身份操作都变得很简单，数据还能通过一张图片的 URL 悄悄外带出去。",
+   "最终形态是一条恶意分享链接：任何已登录用户点开，自己的私有数据就可能被窃取；OpenAI 已修补，但 5000 美元赏金被认为偏低。"
+  ],
+  "impact": "对 AI 行业而言，这是一记警钟：LLM 产品最大的攻击面不在模型本身，而在“渲染模型生成的代码”这条链路上，沙箱、CSP、postMessage 必须做整体威胁建模。对开发者，构建 artifact 类功能时要默认不信任任何 iframe 来源、避免 innerHTML、校验 message 的 origin，并意识到白名单域名也可能被 JSONP 或 oEmbed 反射利用。对普通用户，AI 助手积累了简历、邮件、代码等大量隐私上下文，一条陌生的 ChatGPT 分享链接就可能让这些内容一次性泄露，点击前务必谨慎。",
+  "tools": "想跟进可看：DOMPurify、Trusted Types 用于防 HTML 注入；CSP Evaluator 检查策略强度；OWASP 的 postMessage 与 iframe 沙箱测试清单；Parameter Labs 的原始漏洞报告；MathLive 项目及其安全公告。"
+ },
+ "lang": "zh"
+}

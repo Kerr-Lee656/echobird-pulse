@@ -1,0 +1,24 @@
+{
+ "id": "f4160ff23c48",
+ "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+ "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-10-31T18:50:34Z",
+ "fetched_at": "2026-11-01T05:57:40.028784+00:00",
+ "content": "GPT-5.6 Sol can beat Factorio\nEdit: Woah, this took off! If you want more details you can subscribe at the bottom of the post or on YouTube. I’m working on a more detailed highlights/commentary post and video.\nPreviously: We got Claude Code playing Factorio, Towards beating Factorio autonomously, and Faketorio: an agent testbed\nI got GPT-5.6 Sol, running in Codex with low thinking level, to complete a peaceful (i.e. no biters) Factorio run in 13.5 hours of game time:\nA timelapse of the full run is available on YouTube.\nSimilar to my previous post, this run used a game manager to allow Sol/Codex to interact with the game via a small library (though in this run it was Python rather than Bash). The library allows the model to play the game programmatically while enforcing the same restrictions that human players face when using the GUI (e.g. reach of the player, fog of war).\nObserving the run was fascinating: Sol exceeded my expectations in some areas while also showing clear weaknesses in others. I have the entire run recorded and am working on a commentary video, but in the meantime here’s a small timelapsed segment showing some parts of the factory:\nBesides the screencast, my run manager also captured production statistics throughout the game. Here’s a chart of total resource production, annotated with science research milestones:\nI had planned to terminate the run after blue science research, but Sol’s surprising effectiveness convinced me to keep it going. Unfortunately, the scaling issues I thought would occur in the blue science stage appeared later and slowed Sol’s relative progress significantly.\nThe rocket launch was only achieved through significant ‘manual’ effort on Sol’s part as it papered over its late-game failures to connect certain production systems by repeatedly ferrying supplies between areas of the factory.\nStill, I was pleased with the improvement over previous attempts with GPT-5.5 which suffered from the model’s failures to use transport belts at all.\nI’m optimistic about autonomous Factorio play as a medium for building intuition about the nature of model capabilities. In many ways playing Factorio is analogous to programming but with the benefit of being much more legible to casual observers, making it convenient for grounding discussion of model behaviors.\nI look forward to testing other models and thinking levels, as well as non-peaceful runs. Stay tuned!",
+ "report": {
+  "summary": "GPT-5.6 Sol 用13.5小时游戏时间通关《异星工厂》和平模式",
+  "background": "《异星工厂》需要长程规划、资源调度和自动化设计，因此成为检验 agent 能力的测试场。作者此前让 Claude Code 尝试通关，并搭建了 Faketorio 测试台；GPT-5.5 曾连传送带都不会用。本次通过 Python 编写的游戏管理库，让模型以程序方式操作，同时强制保留玩家伸手距离、战争迷雾等人类限制，并在 Codex 中以低思考档位运行。",
+  "key_points": [
+   "模型在 Codex 低思考档位运行，只能通过 Python 游戏管理库下指令，并强制保留玩家伸手距离与战争迷雾，避免获得不公平的全局视野优势。",
+   "在 13.5 小时游戏时间内发射火箭通关和平模式；作者原打算完成蓝瓶科研后就停，因表现超预期才继续跑完。",
+   "游戏中前期超预期，后期则暴露出扩展生产链、跨区域连线的短板，整体推进速度明显下滑。",
+   "最终火箭是靠反复在厂区之间搬运物资这一临时手段才完成的，掩盖了物流系统没有连通的失败。",
+   "相比 GPT-5.5 完全不会用传送带，这次进步明显；作者认为 Factorio 可作为直观、可被旁观者观察的模型能力基准。"
+  ],
+  "impact": "对 AI 行业，游戏正从单纯的娱乐变成可量化的长程规划基准，比跑分更能暴露真实短板；对开发者，agent 评测重心从单轮写代码转向长时间自洽运行与系统集成；对普通用户，模型已能独立完成复杂项目，但“绕开问题硬凑通关”的取巧行为说明可靠性仍需人工把关。",
+  "tools": "可关注 Factorio Learning Environment（FLE）等开源 agent 测试环境、作者的 Faketorio 测试台，以及本次使用的 Python 游戏管理库；并配合 Codex、Claude Code 等 CLI agent 复现。原帖附有 YouTube 完整延时录像和产量曲线，后续还会发布解说视频。"
+ },
+ "lang": "zh"
+}

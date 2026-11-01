@@ -1,0 +1,24 @@
+{
+ "id": "f5615d738f69",
+ "url": "https://www.ithome.com/1/020/645.htm",
+ "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-10-31T23:58:31Z",
+ "fetched_at": "2026-11-01T05:57:02.679324+00:00",
+ "content": "感谢IT之家网友 Hanschen2007、不一样的体验 的线索投递！\nIT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将在 ChatGPT 与 Codex 之间共享统一的使用额度。\nIT之家获悉，在 ChatGPT 和 Codex 上的用量将统一按 Token 进行计量。额度的实际消耗速度取决于选用的模型及任务复杂度，而即时对话（Instant Chat）不占用额度。\n官方表示，正在全面推进过渡筹备工作，以确保用户工作流程不受干扰。预计绝大多数用户等待额度重置的频率不会高于此前。\n届时，用户可以在设置 → 使用量（Settings → Usage）中统一查看合并后的剩余额度及下次重置时间。若额度耗尽，用户可以选择等待额度自动重置、升级订阅方案，或是增购点数（Credits）来继续使用相关功能。",
+ "report": {
+  "summary": "12月起ChatGPT与Codex共用Token额度，OpenAI订阅全面转向按量计费",
+  "background": "OpenAI 近年把订阅制从“无限聊天”逐步改造成按算力计费：先是引入消息条数限制，再推出 Credits 增购点数。与此同时，Codex 从云端代码智能体扩展为 CLI、IDE 插件、代码评审等多形态产品，ChatGPT 则通过 Work 智能体承担更长任务链路。两者的底层消费本质都是模型推理 Token，合并额度既避免双重补贴，也为“一个账号、多种智能体”的统一入口铺路。此举发生在 Anthropic Claude Code 快速抢占开发者、Google Gemini 加大免费额度的竞争背景下，OpenAI 需要更精细地控制单位用户的算力成本。",
+  "key_points": [
+   "Plus、Pro、Business 三类订阅用户从 12 月起，ChatGPT 与 Codex 共用一份额度，按 Token 统一计量，不再各自独立计算。",
+   "普通即时对话（Instant Chat）不消耗额度，只有调用模型执行复杂任务、智能体流程和代码生成时才计费，实质是“聊天免费、干活收费”。",
+   "消耗速度取决于所选模型和任务复杂度。官方称绝大多数用户的额度重置频率不会比现在更高，但重度 Codex 用户实际可用量可能下降。",
+   "额度可在“设置 → 使用量”统一查看剩余量与重置时间；用尽后有三条路：等重置、升级套餐、或增购 Credits 点数。",
+   "这次合并的直接触发点是 OpenAI 把 Work 的智能体能力并入 ChatGPT 主体验，说明 ChatGPT 正从聊天框变成智能体调度中心。"
+  ],
+  "impact": "对 AI 行业来说，这是“订阅制转向算力配额制”的又一明确信号，推理成本压力正被传导给用户，其他厂商大概率跟进类似的 Token 计量设计。对开发者而言，Codex 与聊天额度绑定后，编写长上下文、运行多轮智能体任务的成本更透明，但也更需要做用量监控和模型选型优化，重度用户或许要为 Credits 额外付费。对普通用户而言，日常聊天几乎不受影响，真正的变化在于“AI 干活要花额度”这一认知的普及；如果只是偶尔改改代码或处理文件，可以接受；如果长期依赖 Codex 工作，需要重新评估订阅档位。",
+  "tools": "想跟进的读者可以试用 Codex CLI 与 VS Code 的 Codex 扩展，配合 Settings → Usage 观察 Token 消耗曲线；ChatGPT 桌面端的 Work 智能体值得体验。想横向对比的，可看 Claude Code、Gemini CLI、Cline、Aider 等开源或竞品方案，它们目前额度策略更宽松，适合做成本对照实验。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "8ebff3afc97d",
+ "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
+ "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-01T05:56:05.364316+00:00",
+ "content": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier.\nThe figures come from a Reuters analysis of LSEG data and company reports by Patturaja Murugaboopathy. The five companies’ operating cash flow rose 29% to a record $542.9bn. Their capital spending doubled to $556.9bn. It topped the cash they made for the first time in data going back to 2011.\nBuybacks go first\nThat left a combined free cash flow deficit of $14bn, against a surplus of $143.5bn a year earlier. Big Tech buybacks took the hit. They fell 83% to $13.6bn, from $81.8bn. Dividends rose to $37bn from $33.9bn.\nAlphabet and Meta have not bought back a share this year. In the first nine months of 2025, they bought back $66.5bn. Amazon pays no dividend and has not bought back shares since 2022. Microsoft made almost all of the remaining buybacks. It cut them to $4.4bn in the September quarter, from $5.7bn.\nWith free cash flow negative, the $50.6bn paid out came from cash reserves, borrowing or share sales, Reuters found. Amazon raised $48.1bn of long-term debt in the third quarter. Alphabet raised about $12.4bn from share sales and $29bn from debt.\nWhy buybacks matter to investors\nBuybacks spread profits across fewer shares, which lifts earnings per share even when profits do not grow. Alphabet cut its share count by 9.5% between the end of 2020 and 2025, ING said. That alone added about 2% a year to its earnings per share.\n“For the last 15 years, companies increasingly returned excess capital to shareholders through buybacks and dividends,” said Ehren Stanhope, co-head of investment management at Franklin Templeton.\n“The current regime may increasingly be characterized by greater equity and debt issuance, a request of capital from investors,” he said.\nThe companies say the spending will pay off. Amazon’s Andy Jassy told analysts on Thursday that he sees a clear line of sight to attractive returns, and that Amazon will spend more in 2027. Oracle has set a free cash flow target of $30bn by 2029. Meanwhile the five hold more than $3tn in commitments for the AI build-out, and Amazon can now borrow up to $80bn against the AI hardware it buys.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AI支出激增，五大科技巨头回购暴跌83%，自由现金流转负。",
+  "background": "路透社基于LSEG数据和分析称，2026年前九个月，微软、Alphabet、亚马逊、Meta和甲骨文经营现金流增长29%至5429亿美元，但资本支出翻倍至5569亿美元，首次超过经营现金流，合计自由现金流从盈余1435亿美元转为缺口140亿美元。五大巨头AI基建承诺超3万亿美元，现金分配逻辑正从回购转向融资。",
+  "key_points": [
+   "资本开支首次超过经营现金流：五巨头前九个月资本支出5569亿美元，高于5429亿美元经营现金流，自由现金流缺口140亿美元，而上年同期为盈余1435亿美元。",
+   "回购成为第一刀：股票回购从818亿美元降至136亿美元，降幅83%；Alphabet和Meta今年零回购，微软承担几乎全部剩余回购，季度回购降至44亿美元。",
+   "派息并未停止但来源变化：尽管自由现金流为负，五巨头仍派发506亿美元，资金来自现金储备、发债或售股；亚马逊三季度发债481亿美元，Alphabet售股124亿、发债290亿美元。",
+   "回购对EPS的隐形支撑消失：回购减少股本可推高每股收益，Alphabet 2020-2025年股本减少9.5%，每年约贡献2%的EPS增长；如今转向股权和债务融资。",
+   "巨头押注AI回报：亚马逊称看到诱人回报并将在2027年加大支出，甲骨文目标2029年自由现金流300亿美元；五巨头AI承诺超3万亿美元，亚马逊可用AI硬件抵押借至800亿美元。"
+  ],
+  "impact": "对AI行业，资本开支超级周期从“自有现金”转向“债务+股权”融资，若回报延迟将放大估值和信用风险；对开发者，算力供给仍会扩张，但成本效率、推理优化和单位经济性更受重视；对普通用户，AI产品迭代可能持续，但免费/低价补贴或收敛，订阅和API价格更可能反映真实成本。",
+  "tools": "想跟进可关注OpenBB、SEC EDGAR获取财报与资本开支数据；用FinGPT做财报文本分析；开发者可关注vLLM、llama.cpp等推理优化项目，评估AI单位成本。"
+ },
+ "lang": "zh"
+}

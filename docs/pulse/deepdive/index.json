@@ -19888,5 +19888,86 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-10-31T23:22:00.872135+00:00"
+ },
+ "8ebff3afc97d": {
+  "id": "8ebff3afc97d",
+  "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
+  "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T05:56:05.364316+00:00"
+ },
+ "785d4ceb71a8": {
+  "id": "785d4ceb71a8",
+  "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+  "title": "How We Took Over ChatGPT Accounts",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T05:56:24.353735+00:00"
+ },
+ "0d14b80b5eca": {
+  "id": "0d14b80b5eca",
+  "url": "https://www.donews.com/news/detail/1/6760970.html",
+  "title": "受市场环境波动影响，OpenAI 下调新一轮融资目标",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T05:56:34.287637+00:00"
+ },
+ "ffd97caed0f4": {
+  "id": "ffd97caed0f4",
+  "url": "https://www.ithome.com/1/020/642.htm",
+  "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-01T05:56:44.563253+00:00"
+ },
+ "1ac412df197f": {
+  "id": "1ac412df197f",
+  "url": "https://www.ithome.com/1/020/649.htm",
+  "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-01T00:31:48Z",
+  "fetched_at": "2026-11-01T05:56:53.508851+00:00"
+ },
+ "f5615d738f69": {
+  "id": "f5615d738f69",
+  "url": "https://www.ithome.com/1/020/645.htm",
+  "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-10-31T23:58:31Z",
+  "fetched_at": "2026-11-01T05:57:02.679324+00:00"
+ },
+ "1154acdc1b94": {
+  "id": "1154acdc1b94",
+  "url": "https://thenextweb.com/news/pope-leo-disarm-ai-lethal-autonomous-weapons-geneva",
+  "title": "Pope Leo urges a ban on lethal autonomous weapons before Geneva talks",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-01T05:57:16.115290+00:00"
+ },
+ "b51bdcca7152": {
+  "id": "b51bdcca7152",
+  "url": "https://news.ycombinator.com/item?id=50319358",
+  "title": "Anthropic blocks users for anything touching training larger models",
+  "source": "hackernews",
+  "site_name": "NewsNow",
+  "published_at": "2026-10-31T19:39:19Z",
+  "fetched_at": "2026-11-01T05:57:27.490795+00:00"
+ },
+ "f4160ff23c48": {
+  "id": "f4160ff23c48",
+  "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+  "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-10-31T18:50:34Z",
+  "fetched_at": "2026-11-01T05:57:40.028784+00:00"
  }
 }
