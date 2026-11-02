@@ -1,0 +1,24 @@
+{
+ "id": "cfe234eeb27b",
+ "url": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history",
+ "title": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T05:57:12.021476+00:00",
+ "content": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History (phoronix.com) 25\n\t\t\t\n\t\t \t\n\t\t\t\t\"On a Git commit basis, the Linux 7.4 merge window has been the busiest on record,\" writes Phoronix,\" with 19,671 commits since Linux 7.3:\n As of this morning in Linux Git ahead of v7.4-rc1, the kernel source tree is up to 41,605,120 lines.  That's from 5,193,578 blank lines, 4,993,604 lines of comments, and 31,417,938 lines of detected code. Or nearly half a million lines of code added during the Linux 7.4 merge window, ignoring comments and blank lines [as detected by  cloc ]. \nA historical graph of commits shows a clear spike for Linux 7.4, which Phoronix argues shows the definite recent uptick due to AI/LLM activity.\"\nWith Linux kernel maintainers being \"completely overwhelmed\" due to both AI generated bug reports and patches/fixes, the Git commit activity has been surging as a result... The upward trend has continued building the past several kernel releases. Typically the merge windows saw 13~14k commits or less and now we are pushing 20k....\nLinux 6.14: 10,034\nLinux 6.15: 13,568 \nLinux 6.16: 13,805 \nLinux 6.17: 12,289 \nLinux 6.18: 12,910 \nLinux 6.19: 13,229 \nLinux 7.0: 12,468 \nLinux 7.1: 13,963 \nLinux 7.2: 14,395 \nLinux 7.3: 16,267 \nLinux 7.4: 19,671  \nAnd \"we could still see a few more trickle in today for Linux 7.4 ahead of the expected Linux 7.4-rc1 kernel release later in the day.\"\nUPDATE:\n\"People are expecting 7.4 to be the next long-term support release,\" Linus Torvalds wrote today in his weekly state of the kernel update, saying that's also \"another independent reason why some releases tend larger than others. So it may not *just* be the flood of AI patches.\"\nThe Register reports:\nTorvalds also seems not to be completely convinced that all AI submissions are entirely helpful, by describing this release as \"Large, and full of fixes for issues found by AI (and more and more the patches have been suggested by AI too, although they often get rewritten).\"",
+ "report": {
+  "summary": "AI 涌入，Linux 7.4 合并窗口提交量创下历史新高",
+  "background": "Linux 内核合并窗口的提交数长期稳定在 1.3 万至 1.4 万条左右，但自 6.14 起持续上升，7.4 已达 19,671 条，创历史纪录。内核源码树规模突破 4160 万行，其中有效代码约 3140 万行，本次合并窗口净增近 50 万行代码（不计注释空行）。推动这一激增的直接原因，是开发者与 AI 代理大量用 LLM 生成补丁、扫描漏洞并提交修复；与此同时，维护者被 AI 生成的缺陷报告和补丁淹没。Linus Torvalds 也指出，7.4 预计是下一个长期支持版本（LTS），这也是版本规模偏大的独立原因。",
+  "key_points": [
+   "提交数从前几个版本的约 1.2 万条升至 19,671 条，为历史最高；图中 7.4 出现明显尖峰，Phoronix 认为这与 AI/LLM 活动直接相关。",
+   "内核代码规模达 4160 万行，本次合并窗口新增近 50 万行有效代码；AI 不仅发现缺陷，还越来越多地直接提出补丁。",
+   "代价正在显现：维护者称“完全被淹没”，AI 生成的缺陷报告与补丁带来大量噪音，审查负荷成为新瓶颈。",
+   "Torvalds 态度谨慎：他承认 7.4 规模大，部分因为它是下一个 LTS 候选；但强调“满是 AI 发现的修复”，AI 补丁“常被重写”。",
+   "值得注意的是趋势已持续多个版本：6.14 仅 1 万条，此后逐版爬升，说明这是结构性变化，并非一次性波动。"
+  ],
+  "impact": "对 AI 行业而言，这是 AI 参与关键基础设施协作的首个规模化样本，说明多智能体代码审查已能产生真实产量。对开发者来说，仅提交代码的门槛在下降，但“信号与噪音比”成为核心技能，人工审查与可信度验证更加关键。对普通用户，短期意味着更多漏洞被更快修复，长期则需警惕审查疲劳导致的质量风险，以及 AI 补丁带来的新缺陷。内核社区可能被迫引入 AI 补丁标记、提交限额等治理机制。",
+  "tools": "想跟进可关注：cloc（代码行统计，本文数据来源）、Sashiko（Google 面向内核的 AI 代码审查工具）、b4 与 lore.kernel.org（补丁工作流与邮件列表检索）、syzbot/syzkaller（自动缺陷发现）、kernel test robot（自动构建测试）。自建流程可用 Claude Code、Codex 类代理配合 CI 做补丁预筛。"
+ },
+ "lang": "zh"
+}

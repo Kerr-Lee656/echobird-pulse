@@ -1,0 +1,24 @@
+{
+ "id": "79ffda0a470c",
+ "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+ "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-01T22:10:45Z",
+ "fetched_at": "2026-11-02T05:57:02.225132+00:00",
+ "content": "AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch).\nApollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.\n“Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said.\nIs this simply a matter of non-tech companies lagging behind the tech giants? Slok sounded skeptical, arguing that it will be tough for corporate America to “turn increasingly cheap intelligence into higher revenue growth and higher profit margins.”\n“AI may be a great calculator, but in business, intelligence is mostly judgment,” he wrote, later adding, “AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.”\nRecent studies have also found that AI has yet to deliver significant productivity gains.",
+ "report": {
+  "summary": "阿波罗经济学家称AI对多数非科技企业无财务回报",
+  "background": "过去两年，企业界掀起生成式AI投资热潮，科技巨头资本开支激增，市场普遍预期AI将提升效率。但生产率统计迟迟未见显著改善，学界和机构开始质疑回报。Apollo经济学家Torsten Slok因此拆解S&P 493（剔除七大科技股），观察非科技企业的利润率与人均收入。",
+  "key_points": [
+   "Slok聚焦S&P 493，剔除Alphabet、亚马逊、苹果、Meta、微软、英伟达和特斯拉，发现利润率和人均收入持平，未见AI提升生产率的证据。",
+   "结论是“零财务回报”：除科技业外，美国企业尽管投入巨大、炒作广泛，AI并未带来财务收益。",
+   "Slok质疑企业能否把越来越便宜的智能转化为更高收入增长和利润率，认为这并不容易。",
+   "他提出“判断力”论点：AI是强大计算器，但商业智能主要是判断；AI不懂问责、信任、文化、潜规则、伦理权衡和公平，而这些影响声誉风险，进而驱动收入与利润。",
+   "近期多项研究同样未发现AI带来显著生产率增益，进一步支持了上述谨慎判断。"
+  ],
+  "impact": "对AI行业，资本开支与估值叙事将更受ROI审视，厂商需证明可量化业务结果；对开发者，机会从“接模型”转向嵌入流程、治理与评估，解决责任和信任问题；对普通用户，短期办公变革可能慢于宣传，应关注可验证的效率提升而非概念。",
+  "tools": "可关注AI ROI评估与可观测性工具（如LangSmith、Ragas、DeepEval）、开源应用框架LangChain/LlamaIndex，以及流程挖掘和数据治理工具；重点是用基线指标验证AI对收入、成本、人均产出的实际影响。"
+ },
+ "lang": "zh"
+}

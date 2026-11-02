@@ -9862,5 +9862,68 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-01T21:55:23.000Z",
   "fetched_at": "2026-11-01T23:35:47.531327+00:00"
+ },
+ "2009754ac555": {
+  "id": "2009754ac555",
+  "url": "https://github.com/oraios/serena",
+  "title": "oraios/serena — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-02T05:58:07.282267+00:00"
+ },
+ "afef75d2fc43": {
+  "id": "afef75d2fc43",
+  "url": "https://github.com/LibreChat-AI/LibreChat",
+  "title": "LibreChat-AI/LibreChat — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-02T05:58:19.217722+00:00"
+ },
+ "1549edabf6f2": {
+  "id": "1549edabf6f2",
+  "url": "https://arxiv.org/abs/2610.40945",
+  "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-11-02T05:00:00.000Z",
+  "fetched_at": "2026-11-02T05:58:55.440869+00:00"
+ },
+ "f48b2f508ed5": {
+  "id": "f48b2f508ed5",
+  "url": "https://arxiv.org/abs/2610.40998",
+  "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-11-02T05:00:00.000Z",
+  "fetched_at": "2026-11-02T05:59:06.941578+00:00"
+ },
+ "9f69cb28b457": {
+  "id": "9f69cb28b457",
+  "url": "https://arxiv.org/abs/2610.41073",
+  "title": "bf16 Rounding Silently Discards Most RL Policy Updates: A Hidden Training-Inference Mismatch and an Unbiased One-Line Fix",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-11-02T05:00:00.000Z",
+  "fetched_at": "2026-11-02T05:59:21.362532+00:00"
+ },
+ "f9775c31cb7a": {
+  "id": "f9775c31cb7a",
+  "url": "https://arxiv.org/abs/2610.41074",
+  "title": "Where, When, and How Many Bits? Scaling Laws for SGD with Stochastic Rounding",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-11-02T05:00:00.000Z",
+  "fetched_at": "2026-11-02T05:59:37.977235+00:00"
+ },
+ "7af5af3ebfc7": {
+  "id": "7af5af3ebfc7",
+  "url": "https://arxiv.org/abs/2610.41420",
+  "title": "SparseGDN: Chunk Sparse in Linear Attention",
+  "source": "arXiv cs.LG",
+  "site_name": "arXiv cs.LG",
+  "published_at": "2026-11-02T05:00:00.000Z",
+  "fetched_at": "2026-11-02T06:00:11.977787+00:00"
  }
 }

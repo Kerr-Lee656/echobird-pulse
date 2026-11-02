@@ -20158,5 +20158,77 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-01T23:34:37.607426+00:00"
+ },
+ "445eb77413da": {
+  "id": "445eb77413da",
+  "url": "https://juejin.cn/post/7702296667303559209",
+  "title": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-02T01:06:31.945Z",
+  "fetched_at": "2026-11-02T05:56:06.230703+00:00"
+ },
+ "939a70544510": {
+  "id": "939a70544510",
+  "url": "https://www.aibase.com/news/31996",
+  "title": "沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-02T01:06:29.900Z",
+  "fetched_at": "2026-11-02T05:56:18.649945+00:00"
+ },
+ "5be1213f1b99": {
+  "id": "5be1213f1b99",
+  "url": "https://www.ithome.com/1/020/864.htm",
+  "title": "现代汽车集团投资约 9 万亿韩元打造 AI 谷进展：计划成立两家新公司，分别负责 AI 基础设施建设与 GPU 算力服务运营",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-02T00:57:15Z",
+  "fetched_at": "2026-11-02T05:56:30.360611+00:00"
+ },
+ "06612fa9d7a1": {
+  "id": "06612fa9d7a1",
+  "url": "https://www.ithome.com/1/020/858.htm",
+  "title": "美国特拉华州拟允许 AI 智能体创办、运营企业",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-02T00:18:05Z",
+  "fetched_at": "2026-11-02T05:56:39.844131+00:00"
+ },
+ "be41816f66c3": {
+  "id": "be41816f66c3",
+  "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+  "title": "一名女子因ChaGPT的误导性建议引发癫痫发作身亡，其父母起诉OpenAI",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-01T22:46:54.001Z",
+  "fetched_at": "2026-11-02T05:56:51.172612+00:00"
+ },
+ "79ffda0a470c": {
+  "id": "79ffda0a470c",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+  "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-01T22:10:45Z",
+  "fetched_at": "2026-11-02T05:57:02.225132+00:00"
+ },
+ "cfe234eeb27b": {
+  "id": "cfe234eeb27b",
+  "url": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history",
+  "title": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T05:57:12.021476+00:00"
+ },
+ "0eebdc145d6e": {
+  "id": "0eebdc145d6e",
+  "url": "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions",
+  "title": "Google is building NASA a robot doctor for use on future deep space missions",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T05:57:22.018905+00:00"
  }
 }
