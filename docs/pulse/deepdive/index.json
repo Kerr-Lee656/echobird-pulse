@@ -20230,5 +20230,86 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-02T05:57:22.018905+00:00"
+ },
+ "223f60ce9682": {
+  "id": "223f60ce9682",
+  "url": "https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs",
+  "title": "Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:40:56.634347+00:00"
+ },
+ "41181d921c46": {
+  "id": "41181d921c46",
+  "url": "https://www.aibase.com/zh/news/32021",
+  "title": "韩国公布史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:41:09.125727+00:00"
+ },
+ "be0b27ba39b1": {
+  "id": "be0b27ba39b1",
+  "url": "https://www.aibase.com/zh/news/32011",
+  "title": "四大 AI 巨头联手设「拒爬」标准：网站主有了统一退出开关",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:41:19.762380+00:00"
+ },
+ "934ebfddcb66": {
+  "id": "934ebfddcb66",
+  "url": "https://www.aibase.com/zh/news/32006",
+  "title": "美团龙猫发布 LongCat-2.5：1.6 万亿参数原生多模态模型",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:41:28.622991+00:00"
+ },
+ "55bc7220b3fc": {
+  "id": "55bc7220b3fc",
+  "url": "https://www.aibase.com/zh/news/32015",
+  "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:41:45.681498+00:00"
+ },
+ "16d3b5a0df5c": {
+  "id": "16d3b5a0df5c",
+  "url": "https://www.aibase.com/zh/news/32001",
+  "title": "DeepSeek 开源 Super-agent 架构：以经典计算机系统思想突破单会话智能体瓶颈",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T15:41:55.908130+00:00"
+ },
+ "92c4f2dab2c0": {
+  "id": "92c4f2dab2c0",
+  "url": "https://www.ifanr.com/1687094",
+  "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-11-02T08:03:24Z",
+  "fetched_at": "2026-11-02T15:42:10.486275+00:00"
+ },
+ "24eecf4831b9": {
+  "id": "24eecf4831b9",
+  "url": "https://www.ithome.com/1/021/079.htm",
+  "title": "巴西两名律师试图通过隐藏提示词操纵法院 AI，被罚 1.6 万美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-02T07:57:16Z",
+  "fetched_at": "2026-11-02T15:42:20.895354+00:00"
+ },
+ "4988a848f56e": {
+  "id": "4988a848f56e",
+  "url": "https://www.ithome.com/1/021/066.htm",
+  "title": "阿布扎比与 OpenAI 签署四项协议，在政府、能源及投资领域进行合作",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-02T07:38:19Z",
+  "fetched_at": "2026-11-02T15:42:30.944862+00:00"
  }
 }

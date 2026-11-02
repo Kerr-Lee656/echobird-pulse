@@ -1,0 +1,24 @@
+{
+ "id": "223f60ce9682",
+ "url": "https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs",
+ "title": "Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T15:40:56.634347+00:00",
+ "content": "Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs (msn.com) 33\n\t\t\t\n\t\t \t\n\t\t\t\tThe Washington Post reports:\nTens of thousands of South Koreans had their financial data exposed online in recent weeks after at least nine major banks there suffered cyberattacks that suggested a dark future for online security.  One man, a 26-year-old living in southern China, was allegedly behind the attacks, according to an investigation by cybersecurity company CrowdStrike. Traces left online and failure to secure his own systems allowed investigators to piece together the man's name, age, location and what he allegedly did. The clues revealed that the devastating assault on some of Asia's most sophisticated financial institutions was the work of an amateur. The attacks were launched with help from a few artificial intelligence chatbots, CrowdStrike found, before asking one to help sell the stolen data online and draft a fake résumé touting cybersecurity skills...\nThe hacker who broke into the South Korean banks had access to Anthropic's Claude, but because the U.S. firm's tools generally refuse to take illegal actions, free Chinese models were also used, including DeepSeek, CrowdStrike found.  \"The models are interchangeable,\" said Meyers, the CrowdStrike executive. \nThe Post calls it \"part of a wave of AI-enabled hacking that is advancing across the world, triggering alarm inside national governments as well as multinational companies.\"\n\"Basically any pedestrian, non-hacker can take these frameworks and start leveraging them to go after different targets,\" said Adam Meyers, senior vice president of counter adversary operations at CrowdStrike. The company has tracked an increase in the speed with which cyberattacks can move once inside a target's networks, as seasoned hackers and rank amateurs alike get a boost from AI tools. \"Anyone can be a super-hacker now,\" Meyers said...  Many cyber experts still expect the security reckoning to intensify as AI tools that can find and exploit software bugs become more widely distributed and understood.\n[Last] Monday, The Post reported that cybersecurity researchers from the start-up Cathedral who set out to test Anthropic's security found that they could access internal messages and meeting transcripts. Cathedral reported its findings to Anthropic, which said it resolved the newly discovered problems... Security experts say it's unlikely that any hacker is forgoing the use of AI tools right now.  \nEven in America, critical infrastructure like energy and water companies need to be \"immediately and comprehensively\" tested for exploitable bugs, according to Snehal Antani, chief executive of cybersecurity company Horizon3.  He tells the Post the government might need to fund that remediation, and even form \"a public and private partnership to accelerate incident response.\"",
+ "report": {
+  "summary": "AI 工具降低黑客门槛，业余者攻破韩国九大银行",
+  "background": "据《华盛顿邮报》报道，近期至少九家韩国大型银行遭到网络攻击，数万韩国人的财务数据被泄露到网上。CrowdStrike 调查显示，幕后主使是一名 26 岁、居住在中国南方的业余人员，他借助几款 AI 聊天机器人完成了对亚洲最成熟金融机构之一的攻击，随后还用 AI 在线上兜售赃物并伪造安全履历。这并非孤例：随着能发现并利用软件漏洞的 AI 工具不断普及，各国政府和跨国企业都在警惕“AI 赋能黑客”浪潮，安全专家普遍预期一场“安全清算”正在到来。",
+  "key_points": [
+   "攻击者并非专业黑客：一名 26 岁业余人员仅靠 AI 聊天机器人就攻破了韩国至少九家银行，导致数万用户的财务数据外泄。",
+   "模型可以随时替换：Claude 会拒绝执行非法请求，攻击者于是改用 DeepSeek 等免费中国模型，CrowdStrike 称“这些模型之间可以互换”。",
+   "入侵后的推进速度明显加快：CrowdStrike 观察到，无论老练黑客还是新手，借助 AI 后在内网横向移动和窃取数据的速度都大幅提升。",
+   "任何普通人都可能成为“超级黑客”：CrowdStrike 高管称，几乎没有技术背景的人也能套用现成框架发起定向攻击。",
+   "防御侧同样吃紧：安全初创公司 Cathedral 测试时发现可读取 Anthropic 的内部消息和会议记录，漏洞已修复；专家呼吁对能源、水务等关键基础设施立即全面排查。"
+  ],
+  "impact": "对 AI 行业而言，模型的双用途风险从理论变为现实，“越狱”与拒答策略、滥用监测将成为模型厂商的合规重点，开源与免费模型的监管压力上升。对开发者来说，安全左移变得更紧迫：代码审计、依赖扫描和渗透测试需常态化，AI 辅助编程在提速的同时也引入新攻击面。对普通用户而言，银行、水电等关键服务的数据泄露风险上升，账户与身份信息保护需更主动，也应预期企业会更频繁地强制多因素认证。",
+  "tools": "想跟进可关注：CrowdStrike 的威胁情报报告、Anthropic 与 OpenAI 的滥用政策与安全公告；防御方可用 Semgrep、CodeQL 做静态代码扫描，用 OWASP ZAP、Burp Suite 做渗透测试，用 Dependabot/Snyk 管理依赖漏洞，并用 Garak、PyRIT 等工具对大模型做红队测试。"
+ },
+ "lang": "zh"
+}

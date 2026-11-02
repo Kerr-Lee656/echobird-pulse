@@ -9925,5 +9925,23 @@
   "site_name": "arXiv cs.LG",
   "published_at": "2026-11-02T05:00:00.000Z",
   "fetched_at": "2026-11-02T06:00:11.977787+00:00"
+ },
+ "ee2e8cc99126": {
+  "id": "ee2e8cc99126",
+  "url": "https://zenodo.org/records/23830104",
+  "title": "An open LLM read 291 retracted papers: 7.7% of passages mention the retraction",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-02T14:52:17Z",
+  "fetched_at": "2026-11-02T15:43:47.402026+00:00"
+ },
+ "06705de4d4ca": {
+  "id": "06705de4d4ca",
+  "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+  "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-02T12:26:46Z",
+  "fetched_at": "2026-11-02T15:44:22.064346+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "934ebfddcb66",
+ "url": "https://www.aibase.com/zh/news/32006",
+ "title": "美团龙猫发布 LongCat-2.5：1.6 万亿参数原生多模态模型",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-02T15:41:28.622991+00:00",
+ "content": "美团龙猫 LongCat11月2日发布 LongCat-2.5，定位长程智能体任务的原生多模态模型，总参数量1.6万亿，每 token 激活约480亿参数，在 LongCat-2.0基础上强化原生视觉理解与智能体编程能力。在线体验与 API 接入已开放，GitHub 与 HuggingFace 权重即将上线。\n技术路线上，LongCat-2.5将视觉信号表示为多层级离散 token，沿用 LongCat-Next 的语义对齐编码器并施加残差向量量化，原生分辨率离散化与离线视觉 token 预计算使主干统一处理视觉与文本输入，视觉码本 embedding 与主干联合学习，并在激活约3B 的 MoE 上验证语义空间交织。\n智能体能力依托 Agentic RL 链路:数据合成流水线自动生成训练任务、可交互环境与可验证测试用例，取自 GitHub 与内部场景，并以 fail-to-pass、pass-to-pass 校验;训练侧以 partial rollout 异步策略缓解长尾效率、抑制样本陈旧性，通过断网、清除 git 历史和 LLM judge 监督约束 reward hacking，跨任务跨 Scaffold 混合训练促泛化。\n基础设施面向国产算力单卡显存不足80GB 的限制优化超节点并行与双重分片 FSDP，长序列 SFT 单卡吞吐量较 DDP 基线提升86%。推理侧 W4A4方案将专家权重与激活同时量化至4bit，相对 W8A8INT8基线，Prefill 与 Decode 吞吐分别提升43.3% 和42.77%，TTFT 与 TPOT 分别降低15.91% 和19.72%，GMM 算子平均加速1.73倍。\n评测中，LongCat-2.5在 Terminal Bench v2.1与 v4.0取得88.4和38.5，AutomationBench51.8、BrowseComp91.9、Program Bench25.5、MCP Atlas83.1、3DCodeBench55.4，其中 Terminal Bench v4.0超过 GPT-5.6-Sol 的37.3;视觉侧 Vision2Web78.6、MathVision96.5。\n其以原生多模态架构与国产算力全栈自研切入长程智能体竞争，延续大模型从参数竞赛转向任务实效的趋势。\n详情参见官网技术博客:https://longcat.ai/blog/longcat-2.5。",
+ "report": {
+  "summary": "美团龙猫发布1.6万亿参数原生多模态智能体模型LongCat-2.5",
+  "background": "国内大模型竞争正从单纯参数规模转向长程任务实效：谁能稳定完成多步编程、自动化与工具调用，谁就更容易在企业场景落地。美团龙猫此前通过 LongCat-2.0 和 LongCat-Next 积累了语义对齐编码器与 MoE 架构经验，这次在 2.0 基础上补齐原生视觉理解与 Agentic 编程能力。另一条暗线是国产算力：单卡显存不足 80GB 的硬约束，迫使团队在并行策略与量化上自研。",
+  "key_points": [
+   "总参数1.6万亿，但每token只激活约480亿，属稀疏MoE架构，用大容量换知识广度、用小激活换推理成本。",
+   "视觉不走“外挂编码器”路线，而是把图像切成多层级离散token与文本统一进主干，码本与模型联合学习。",
+   "智能体训练靠自动化流水线：从GitHub和内部场景生成任务、可交互环境和可验证测试，再用fail-to-pass校验答案。",
+   "为防作弊做了断网、清除git历史、LLM裁判等约束，并跨任务跨脚手架混合训练以提升泛化。",
+   "工程侧针对国产卡优化并行与W4A4量化，Prefill和Decode吞吐提升约43%，长序列训练吞吐比DDP高86%。"
+  ],
+  "impact": "对行业而言，这是国产全栈自研在长程智能体赛道的一次正面叫板，评测中Terminal Bench v4.0略超GPT-5.6-Sol，说明差距在特定任务上已可缩小。对开发者，开放API与即将放出的权重意味着可以低成本构建自动化编程、运维、浏览类Agent。对普通用户，短期感知不强，但更长程、更少人工接管的AI助手会逐步出现在办公与生活服务场景中。",
+  "tools": "可直接用LongCat官网在线体验与API；关注HuggingFace和GitHub上即将发布的权重。想复现Agent能力可研究Terminal Bench、MCP Atlas等评测集，推理侧参考vLLM/SGLang的4bit量化部署，训练侧可看veRL等Agentic RL框架。"
+ },
+ "lang": "zh"
+}
