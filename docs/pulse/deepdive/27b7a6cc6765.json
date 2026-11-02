@@ -1,0 +1,24 @@
+{
+ "id": "27b7a6cc6765",
+ "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+ "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T23:29:42.559731+00:00",
+ "content": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot’s hardware “has been finished for around two years,” but that the software isn’t ready. The device’s software team has reportedly pushed to delay the launch and “attempted to strip back some proposed features and focus the product on a few capabilities related to FaceTime and automating home tasks, like switching on a light.”\nApple’s ‘Ultra’ smart home robot might have to wait until 2028\nThe HomeView-like tabletop robot could cost over $1,000, reports The Information.\nAccording to The Information, the device is codenamed J595, but former Apple employees predict it will be called the “HomeView Ultra,” taking after the new HomeView smart display that launched last month. The robot might cost significantly more than the HomeView, though, at around $1,000, potentially more depending on price hikes for RAM and other components.\nBloomberg’s Mark Gurman said in 2024 that the robot could have a stationary, tabletop design resembling Pixar’s famous lamp. The Information says it will have a 9-inch display that swivels around on a robotic arm, with cameras and sensors for things like following you around during a FaceTime call.",
+ "report": {
+  "summary": "苹果桌面机器人因软件未就绪推迟至2028年",
+  "background": "苹果正把智能家居作为下一增长点，近期推出HomeView智能屏。传闻中的J595是一款带9英寸屏和机械臂的桌面机器人，造型类似皮克斯台灯，主打FaceTime跟随与家居自动化。其硬件已就绪约两年，但软件团队认为功能未成熟，要求延期并削减功能，导致最早明年、可能2028年发布，售价或超1000美元。",
+  "key_points": [
+   "硬件等软件：机器人硬件约两年前完成，但软件未准备好，团队主动要求延期，并砍掉部分功能。",
+   "产品形态：9英寸屏装在机械臂上，可旋转，并用摄像头和传感器在FaceTime通话中跟随用户。",
+   "功能聚焦：软件团队希望先做好FaceTime和开关灯等家居自动化，而不是堆叠过多卖点。",
+   "价格高端：或命名HomeView Ultra，售价约1000美元甚至更高，受内存等元件涨价影响。",
+   "时间表：最早明年，若软件继续拖累可能到2028年，显示苹果对体验成熟度更谨慎。"
+  ],
+  "impact": "对AI行业，苹果入局桌面机器人说明具身智能正从概念走向家庭场景，但软件短板会拖慢落地；对开发者，FaceTime、传感器融合和家居自动化接口可能带来新生态机会；对普通用户，更实用的跟随通话和控灯功能值得期待，但高价和延期意味着短期难普及。",
+  "tools": "想跟进可关注Home Assistant做家居自动化，ROS 2与LeRobot研究机械臂和机器人学习，WebRTC做实时视频通话，Reachy Mini等开源桌面机器人项目可上手验证交互。"
+ },
+ "lang": "zh"
+}

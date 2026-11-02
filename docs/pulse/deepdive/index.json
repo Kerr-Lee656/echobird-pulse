@@ -20311,5 +20311,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-02T07:38:19Z",
   "fetched_at": "2026-11-02T15:42:30.944862+00:00"
+ },
+ "6305e141035d": {
+  "id": "6305e141035d",
+  "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
+  "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:29:13.956916+00:00"
+ },
+ "5cae2054de53": {
+  "id": "5cae2054de53",
+  "url": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls",
+  "title": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:29:22.898368+00:00"
+ },
+ "477d519ff9ea": {
+  "id": "477d519ff9ea",
+  "url": "https://slashdot.org/story/26/11/02/1527241/marvell-to-buy-lumentum-in-115-billion-bet-on-ai-connectivity",
+  "title": "Marvell to Buy Lumentum In $115 Billion Bet On AI Connectivity",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:29:33.579754+00:00"
+ },
+ "27b7a6cc6765": {
+  "id": "27b7a6cc6765",
+  "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+  "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:29:42.559731+00:00"
+ },
+ "af262dcabc85": {
+  "id": "af262dcabc85",
+  "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+  "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:29:54.089980+00:00"
+ },
+ "e656501fb134": {
+  "id": "e656501fb134",
+  "url": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia",
+  "title": "OpenAI launches Grid Protectors to ease AI’s strain on power grids",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:30:02.968351+00:00"
+ },
+ "b44ba2314c36": {
+  "id": "b44ba2314c36",
+  "url": "https://thenextweb.com/news/alphabet-6bn-euro-bond-sale-ai-debt",
+  "title": "Alphabet launches €6B bond sale in first test of AI debt since selloff",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:30:13.882443+00:00"
+ },
+ "28077881058d": {
+  "id": "28077881058d",
+  "url": "https://daily.dev/posts/new-york-times-and-three-other-us-papers-sue-brave-over-ai-scraping-a6npfekqt",
+  "title": "New York Times and three other US papers sue Brave over AI scraping and copyright infringement",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:30:22.392525+00:00"
+ },
+ "d853980436e5": {
+  "id": "d853980436e5",
+  "url": "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html",
+  "title": "美团发布 LongCat-2.5 大模型，「国芯国模」实现新突破",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:30:34.689559+00:00"
+ },
+ "b3fb39037889": {
+  "id": "b3fb39037889",
+  "url": "https://news.mydrivers.com/1/1162/1162600.htm",
+  "title": "Anthropic 第三季度营收暴涨 1127%，Claude 营收达 170 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-02T23:30:45.540125+00:00"
  }
 }

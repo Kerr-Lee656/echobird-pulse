@@ -1,0 +1,24 @@
+{
+ "id": "28077881058d",
+ "url": "https://daily.dev/posts/new-york-times-and-three-other-us-papers-sue-brave-over-ai-scraping-a6npfekqt",
+ "title": "New York Times and three other US papers sue Brave over AI scraping and copyright infringement",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-02T23:30:22.392525+00:00",
+ "content": "The New York Times and three other US newspapers have sued Brave Software over AI scraping and copyright infringement. The Times filed Monday, and hours later the New York Daily News, Chicago Tribune and Orlando Sentinel filed a separate suit. Both cases target the Brave Index, a more than 30-billion-page web index that feeds Brave Search and is sold via API to Anthropic, Perplexity, Mistral, xAI and Cohere. The newspapers also challenge Brave's Ask Brave AI answers, its Paywall blocker feature, and its ad-blocking business model. They cite a study showing AI crawlers generate 95.7% less referral traffic than Google search, and say more than two million articles are affected. According to the newspapers' complaint, Brave reported over $100m in 2025 revenue and 130 million monthly users.\nQuestions this post answers\nWhy are the New York Times and other newspapers suing Brave Software?\nThey accuse Brave of scraping their journalism without permission and selling access to it to AI companies through the Brave Index, a collection of more than 30 billion web pages. The claims include direct, contributory and vicarious copyright infringement, DMCA circumvention, and unjust enrichment. Brave allegedly sells this data via its Search API to Anthropic, Perplexity, Mistral, xAI and Cohere. Following AI copyright disputes shaping data-sourcing norms is easier with daily.dev tracking the news as it breaks.\nWhat is Brave's Paywall blocker feature and why is it controversial?\nPaywall blocker is a browser setting in Brave that lets users bypass news site paywalls and read subscription content without logging in. Newspapers suing Brave cite a Reddit user who used the feature to read the New York Times 'without interruption and without needing to set up an account,' arguing it enables unauthorized access to their content. Developers weighing browser feature ethics and legal risk can keep up with cases like this via daily.dev.\nHow much less referral traffic do AI crawlers send to publishers compared to Google search?\nAI crawlers generate 95.7% less referral traffic than traditional Google search, according to a study cited in lawsuits against Brave by the New York Times and three other newspapers. This drop in referral traffic reduces publishers' opportunities to convert journalism into advertising and subscription revenue, a central grievance behind the copyright lawsuits. Anyone tracking how AI search reshapes web traffic economics can follow developments like this on daily.dev.",
+ "report": {
+  "summary": "纽约时报等四家美国报纸起诉Brave，指控其抓取新闻内容并转售给AI公司",
+  "background": "这起诉讼是媒体与AI公司之间关于版权问题的持续冲突的最新进展。此前，纽约时报已起诉OpenAI和微软，多家出版商也相继采取法律行动。与传统搜索不同，AI产品直接给出答案，导致新闻网站流量大幅减少，商业模式受到严重冲击。Brave既运营搜索引擎，又将包含300多亿网页的索引通过API卖给Anthropic、Perplexity等AI公司，因此成为出版商集中起诉的对象。案件核心争议在于：AI训练和检索使用新闻内容是否构成合理使用，以及抓取和转售行为的边界在哪里。",
+  "key_points": [
+   "Brave不仅自己用新闻内容做搜索，还把包含300多亿网页的索引卖给Anthropic、Perplexity、Mistral、xAI、Cohere等AI公司，出版商认为这等于未经授权转售他们的内容。",
+   "诉讼还针对Brave的付费墙绕过功能和广告拦截模式，认为这些功能让用户免费阅读订阅内容，直接损害媒体的订阅收入。",
+   "诉状引用研究称，AI爬虫带来的推荐流量比谷歌搜索少95.7%，受影响文章超过200万篇，出版商既失去广告收入，也失去订阅转化机会。",
+   "原告提出直接侵权、帮助侵权、替代侵权、规避技术措施（DMCA）及不当得利等多项指控，纽约时报与另外三家报纸分两案起诉。",
+   "Brave披露2025年营收超1亿美元、月活用户1.3亿，说明其商业规模已足以成为媒体维权的重点目标。"
+  ],
+  "impact": "对AI行业而言，此案把矛头从模型公司扩展到“数据中间商”，可能迫使搜索索引和API供应商重新审查内容授权链条，推高数据获取成本。对开发者来说，调用第三方搜索或抓取API的法律风险上升，需要关注数据来源合规。对普通用户而言，付费墙绕过、AI摘要等功能可能受限，免费获取新闻的体验会发生变化，同时优质内容的付费门槛可能进一步提高。",
+  "tools": "想跟进内容授权与合规抓取，可关注Common Crawl的使用条款、Robots协议与RSL（Really Simple Licensing）等新兴授权标准，以及Brave Search API、Perplexity API的官方文档；媒体侧可研究Cloudflare的AI爬虫拦截与按次付费方案。"
+ },
+ "lang": "zh"
+}

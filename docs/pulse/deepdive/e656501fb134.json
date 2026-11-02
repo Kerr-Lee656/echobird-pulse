@@ -1,0 +1,23 @@
+{
+ "id": "e656501fb134",
+ "url": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia",
+ "title": "OpenAI launches Grid Protectors to ease AI’s strain on power grids",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T23:30:02.968351+00:00",
+ "content": "OpenAI launched the Grid Protectors Program, promising that its future campuses will cut electricity use when grids are under strain. Its planned Georgia campus is the pilot, with up to 1,000MW of flexible demand. No other sites have been named.\nOpenAI has launched a national programme to make its future data centres cut their power use when local grids are under strain, the company said on Monday.\nUnder the Grid Protectors Program, OpenAI will agree with utilities how much power each campus can give up, how quickly and for how long. Some sites may also feed the grid from on-site generators or batteries. The terms will vary by location.\n“Families and small businesses should not be asked to subsidize a compute campus’s electricity needs,” OpenAI wrote.\nThe pilot is OpenAI’s planned 3.2GW campus in Effingham County, Georgia. Under a 25-year deal, approved in August, Georgia Power can cut up to 1,000MW from the site at busy times. That is about the average demand of 700,000 homes, OpenAI says.\nOpenAI will also pay the full cost of the power lines and service the campus needs. Georgia Power says the flexibility means it can build less new generation. It expects deals with large users like OpenAI to save customers about $950M a year from 2029.\nThe move comes as anger over rising power bills stalls data centre projects across the US. Congress has weighed making big users pay for grid upgrades, and the White House has asked builders to sign a voluntary pledge to cover their own power costs. Google and Nvidia have formed an alliance of their own to make data centres flex their power.\nOpenAI admits flexibility cannot replace new power plants and power lines. It has not named any other sites.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI推电网保护者计划，数据中心高峰期让电",
+  "background": "AI数据中心用电激增，美国电网承压、居民电费上涨引发反对，部分数据中心项目受阻。国会与白宫正讨论让大用户承担电网升级成本。OpenAI推出Grid Protectors，承诺未来园区在电网紧张时削减用电，并以佐治亚州3.2GW园区为试点；谷歌和英伟达也组建联盟推动数据中心柔性用电。",
+  "key_points": [
+   "计划核心是OpenAI与电力公司约定每个园区可削减多少电力、响应多快、持续多久；部分地区还可用现场发电机或电池向电网反送电。",
+   "首个试点是佐治亚州Effingham县3.2GW园区。25年协议下，Georgia Power可在高峰期削减最多1000MW，约相当于70万户家庭平均需求。",
+   "OpenAI将全额支付园区所需输电线和服务成本。Georgia Power称柔性用电可减少新建发电，预计2029年起此类大用户交易每年为其他客户节省约9.5亿美元。",
+   "美国数据中心因推高电费遭抵制，国会和白宫施压大用户自付电力成本；谷歌与英伟达已结盟推动数据中心柔性用电。",
+   "OpenAI承认柔性用电不能替代新建电厂和输电线路，且除佐治亚外尚未公布其他站点。",
+   ""
+  ]
+ },
+ "lang": "zh"
+}

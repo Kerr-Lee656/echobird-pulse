@@ -1,0 +1,24 @@
+{
+ "id": "5cae2054de53",
+ "url": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls",
+ "title": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T23:29:22.898368+00:00",
+ "content": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls 49\n\t\t\t\n\t\t \t\n\t\t\t\tThe New York Times and several other publishers have sued (PDF) Brave Software, accusing the browser maker of scraping their websites without permission and helping users bypass paywalls. The Verge reports:  According to a complaint (PDF) filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to \"real-time online content from the Brave Index.\" The AI companies then use that index to train their models, access content to \"respond to specific user queries,\" or both. Brave has allegedly provided \"stolen copyrighted content\" to \"many\" AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Brave also promotes \"hundreds of top publishers\" as being accessible through its \"Paywall blocker\" feature in its browser.\n\"Brave has never asked for the Publishers' permission to access their websites, much less to copy the material and provide it to users or other AI companies,\" the complaint says. \"On the contrary, as noted above, Brave allows its users to bypass the Publishers' paywalls without their consent, and has taken other steps that prevent the Publishers from blocking Brave's access to the Publishers' websites. Brave has never compensated the Publishers for the unlawful use, copying, and distribution of the Publishers' copyrighted content.\"  \"While we believe in the ethical and responsible use and development of AI, Brave has flouted established copyright law and ignored repeated requests by The Times to stop its infringing conduct,\" Graham James, an NYT spokesperson, says in a statement. \"We filed this lawsuit to hold Brave accountable for stealing our content to power its own products and to provide it to some of the most prominent and well resourced generative AI companies in the world.\"",
+ "report": {
+  "summary": "纽约时报等媒体起诉Brave浏览器抓取内容、绕过付费墙并转售AI",
+  "background": "Brave是以隐私保护和广告拦截起家的浏览器，自建搜索索引并提供Leo AI助手，还内置可绕过部分付费墙的功能。近年媒体与AI公司的版权冲突不断升级——纽约时报此前已起诉OpenAI和微软，多家出版商也在推动内容授权付费。此次纽约时报联合论坛报系旗下《纽约每日新闻》《芝加哥论坛报》《奥兰多哨兵报》等起诉Brave，指控其未经许可抓取网站、帮助用户绕过付费墙，并将索引有偿提供给Anthropic、Perplexity、Mistral、xAI、Cohere等AI公司用于训练和实时问答。",
+  "key_points": [
+   "诉讼核心是指控Brave把抓取来的新闻内容打包成“Brave索引”，付费卖给多家AI公司用于模型训练和实时回答用户提问。",
+   "起诉书称Brave从未获得出版商许可，也未支付任何补偿，还采取技术手段让出版商无法封堵其抓取行为。",
+   "Brave浏览器公开宣传“付费墙拦截”功能，声称覆盖“数百家顶级出版商”，这成为对方指控其蓄意侵权的重要证据。",
+   "被告名单涵盖Anthropic、Perplexity、Mistral、xAI、Cohere等当红AI公司，说明纠纷焦点已从模型训练延伸到“实时内容供给”链条。",
+   "纽约时报表示曾多次要求Brave停止侵权行为未果，此次诉讼意在追责并确立内容授权规则。"
+  ],
+  "impact": "对AI行业而言，“搜索引擎索引转售给模型”这一灰色地带被推上台面，数据供应链的合规成本将上升，AI公司可能被迫更依赖正式授权或自建抓取。对开发者来说，抓取公开网页训练模型的默认做法风险加大，需审查数据来源与robots协议。对普通用户，短期内付费墙绕过等功能可能被收紧，免费获取新闻内容的便利性下降，付费订阅或成主流。",
+  "tools": "想跟进内容授权与反抓取议题，可关注Brave Search API、Common Crawl、Cloudflare的AI爬虫管控与按次付费方案、RSL（Really Simple Licensing）等新兴授权标准，以及Spawning的Do Not Train名单。"
+ },
+ "lang": "zh"
+}

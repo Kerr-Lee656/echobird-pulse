@@ -1,0 +1,24 @@
+{
+ "id": "af262dcabc85",
+ "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+ "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-02T23:29:54.089980+00:00",
+ "content": "Anthropic generated nearly $17bn in revenue in the third quarter, around 12 times more than in the same period last year, according to an amended IPO prospectus filed with the SEC on Monday. Bloomberg reported the figures.\nThe updated filing adds the latest quarterly results to the prospectus the AI company published last week. We have previously reported that Anthropic told investors its revenue had reached $16.8bn in the quarter.\nThe new document makes that figure official, and the revenue for the first nine months of 2026 totalled $33.2bn, while the company reported a net loss of $104bn over the same period.\nThe filing also reveals the scale of Anthropic’s future spending commitments, as the company has committed $895.4bn to purchases, almost all related to computing power and infrastructure.\nAround $448bn is due by the end of 2030, including roughly $70bn over the next 12 months, according to Bloomberg.\nAnthropic recorded a net loss of $23.3bn in the third quarter, compared with $12.1bn a year earlier. However, much of that figure comes from an accounting charge rather than money leaving the business.\nThe expense is tied to convertible notes, most of which are held by Amazon. Anthropic revalues the notes every quarter, meaning their value rises as the company’s valuation increases.\nThat change is recorded as a loss on its accounts. The notes will convert into shares when Anthropic goes public, largely removing this accounting effect.\nIts underlying operations tell a different story. Operating expenses of around $17.5bn came close to matching quarterly revenue, leaving an operating loss of approximately $567m, according to reports on the filing.\nAnthropic had recorded an operating profit of about $974m in the second quarter, while its operations generated $3.9bn in cash during the first half of the year.\nThe company behind the Claude models plans to list on the Nasdaq under the ticker ANT before the end of November.\nInvestors have discussed a valuation of between $1.4tn and $1.5tn, Bloomberg reported. The offering could rank among the largest IPOs on record.\nBut the nearly $900bn in purchase commitments also puts the company’s growth into perspective. Anthropic is locking itself into years of spending on the computing infrastructure needed to train and run its models.\nThose commitments amount to almost 13 times its annualised revenue, raising questions about how quickly its income can catch up with the cost of expansion.\nAnthropic filed confidentially for an IPO in June. Its rival OpenAI has also submitted a confidential filing, although it is reportedly targeting a public listing in 2027.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic更新招股书：单季营收170亿美元，算力采购承诺8950亿",
+  "background": "Anthropic今年6月秘密递交IPO申请，上周公开招股书，本周一向SEC提交修订版，补入第三季度业绩。公司计划11月底前以代码ANT登陆纳斯达克，投资人讨论的估值区间为1.4万亿至1.5万亿美元，有望跻身史上最大IPO之列。背景是AI模型军备竞赛下算力成本急剧膨胀：头部实验室必须提前数年锁定数据中心与芯片产能，收入与支出严重错配。竞争对手OpenAI也已秘密递表，但据报目标2027年上市，Anthropic在时间上抢跑。",
+  "key_points": [
+   "第三季度营收近170亿美元，约为去年同期的12倍；前九个月累计营收332亿美元，同期账面净亏损达1040亿美元。",
+   "巨额亏损主要来自会计处理：亚马逊持有的可转换票据每季度按公司估值重估，估值上涨即记为损失，并非真实现金流出，上市转股后该影响基本消失。",
+   "经营层面健康得多：Q3运营支出约175亿美元，接近营收，运营亏损仅约5.67亿美元；Q2曾实现9.74亿美元运营利润，上半年经营现金流39亿美元。",
+   "未来采购承诺高达8954亿美元，几乎全部投向算力与基础设施；约4480亿美元需在2030年底前支付，其中未来12个月约700亿美元。",
+   "该承诺额约为年化营收的13倍，意味着公司把多年命运押在算力扩张上，收入能否追上成本是IPO定价的核心疑问。"
+  ],
+  "impact": "对AI行业，这是一次标志性事件：前沿模型竞争已从算法比拼转为资本与产能的长期锁定，长约既是护城河也是枷锁，将抬高整个赛道的融资门槛并加剧“泡沫还是基建”的争论。对开发者，Claude生态和API会随算力扩张继续扩容，但定价与调用配额将更受成本约束，长期合约也意味着平台路线相对稳定。对普通用户，AI助手能力仍会快速提升，同时首次有机会通过公开市场间接持有头部AI公司，但也需承担高估值与高杠杆带来的波动风险。",
+  "tools": "想跟进可关注Claude API与Claude Code、Anthropic开源的MCP（模型上下文协议）及Agent SDK；一手信息建议直接读SEC EDGAR上的S-1修订文件，并对照CoreWeave等算力供应商财报，理解“采购承诺”如何转化为行业收入。"
+ },
+ "lang": "zh"
+}

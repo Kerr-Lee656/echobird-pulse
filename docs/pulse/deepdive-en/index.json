@@ -9943,5 +9943,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-02T12:26:46Z",
   "fetched_at": "2026-11-02T15:44:22.064346+00:00"
+ },
+ "c8564f3a6870": {
+  "id": "c8564f3a6870",
+  "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-02T23:13:53.000Z",
+  "fetched_at": "2026-11-02T23:31:18.134188+00:00"
+ },
+ "15b07f7e71af": {
+  "id": "15b07f7e71af",
+  "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+  "title": "LLMs are not superhuman at reading and writing neural network weights",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-02T22:26:53Z",
+  "fetched_at": "2026-11-02T23:32:14.588866+00:00"
+ },
+ "ca204e1c0052": {
+  "id": "ca204e1c0052",
+  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-02T22:14:50.000Z",
+  "fetched_at": "2026-11-02T23:32:28.747583+00:00"
+ },
+ "fdd130ae0361": {
+  "id": "fdd130ae0361",
+  "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+  "title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-02T22:05:08Z",
+  "fetched_at": "2026-11-02T23:32:41.679541+00:00"
+ },
+ "92452caac1d3": {
+  "id": "92452caac1d3",
+  "url": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
+  "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-02T21:28:26.000Z",
+  "fetched_at": "2026-11-02T23:32:56.299244+00:00"
+ },
+ "9d39f9029866": {
+  "id": "9d39f9029866",
+  "url": "https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs",
+  "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
+  "source": "OpenAI：Alignment 研究博客",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-02T20:00:00.000Z",
+  "fetched_at": "2026-11-02T23:33:09.839442+00:00"
+ },
+ "1263ce4e0930": {
+  "id": "1263ce4e0930",
+  "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+  "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+  "source": "Hacker News (135pts, 91c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-02T19:27:37Z",
+  "fetched_at": "2026-11-02T23:33:44.062584+00:00"
+ },
+ "e7389883fb55": {
+  "id": "e7389883fb55",
+  "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+  "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-02T19:19:17.000Z",
+  "fetched_at": "2026-11-02T23:34:20.203745+00:00"
  }
 }
