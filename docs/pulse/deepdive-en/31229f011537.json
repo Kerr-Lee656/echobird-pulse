@@ -1,0 +1,24 @@
+{
+ "id": "31229f011537",
+ "url": "https://news.ycombinator.com/item?id=50352757",
+ "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+ "source": "Hacker News (37pts, 15c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-11-03T14:53:41Z",
+ "fetched_at": "2026-11-03T16:14:31.150858+00:00",
+ "content": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.\nYou can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\".\nCurious if this is an isolated issue or something more widespread.\nEDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556\nEDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control",
+ "report": {
+  "summary": "Developers report OpenAI silently re-enabled model-training data sharing in Codex despite prior opt-outs, raising IP-leak concerns and highlighting fragile AI privacy controls.",
+  "background": "AI coding assistants such as Codex and Claude Code process highly sensitive material: proprietary source code, internal documentation, debugging logs, and sometimes credentials. Many companies therefore require employees to disable data sharing so prompts and outputs are not used to train future models. OpenAI exposes account-level data controls, including a setting labeled 'Improve the model for everyone.' The Hacker News post claims that this setting was silently re-enabled for multiple coworkers who had previously opted out. The author later linked an earlier HN thread noting similar behavior, suggesting this may not be an isolated incident. However, the report is anecdotal and OpenAI has not publicly confirmed a policy change, bug, or account-migration issue. The episode fits a broader pattern of concern over opt-out durability, enterprise compliance, and whether AI vendors provide auditable consent controls for training data.",
+  "key_points": [
+   "Users say the Codex data-sharing toggle was re-enabled without their knowledge. They had previously disabled training on their chats, but later found the 'Improve the model for everyone' setting active again. The report urges users to check ChatGPT's data-controls page and the separate OpenAI privacy portal.",
+   "The core risk is IP leakage. Codex chats can contain proprietary code, architecture notes, bug reports, and secrets. If those conversations are used for training, companies lose control over sensitive material and may face contractual or regulatory problems.",
+   "The issue may be broader than one account. The author linked a prior Hacker News thread describing similar behavior, implying a recurring pattern rather than a single UI glitch. Still, there is no official confirmation from OpenAI about scope or cause.",
+   "Multiple privacy control surfaces create confusion. Settings appear in ChatGPT account controls and in OpenAI's privacy portal, so users may disable sharing in one place while another control remains enabled. That makes verification and auditing difficult.",
+   "For enterprises, opt-out must be durable. A privacy setting that can silently revert undermines security reviews, vendor-risk assessments, and employee training. Teams need periodic audits, admin-level controls, and contractual no-training guarantees."
+  ],
+  "impact": "For the AI industry, the report reinforces that trust depends on auditable, durable consent—not just a settings page. Vendors selling into enterprises may face tougher security reviews and demands for contractual no-training terms, admin enforcement, and logs showing when settings change. For developers, the lesson is to treat consumer AI coding tools as untrusted by default: audit data controls regularly, avoid pasting secrets, prefer enterprise or API tiers with explicit no-training commitments, and consider local or open-source agents for sensitive repositories. For regular users, the immediate risk is lower, but the incident shows how easily privacy defaults can shift without notice. If confirmed at scale, silent re-enabling could invite regulatory scrutiny and push teams toward self-hosted or privacy-first coding assistants.",
+  "tools": "Check OpenAI's data controls at chatgpt.com/settings/data-controls and its privacy portal. For teams wanting more control, watch enterprise tiers of Codex and Claude Code, plus open-source coding agents such as Aider, Continue, Cline, and OpenHands. Local model runners like Ollama and LM Studio can keep code on-device, though they require more setup and weaker models. Also monitor vendor trust centers and admin consoles for auditable data-training settings."
+ },
+ "lang": "en"
+}

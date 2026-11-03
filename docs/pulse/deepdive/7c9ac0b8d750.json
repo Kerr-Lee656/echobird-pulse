@@ -1,0 +1,24 @@
+{
+ "id": "7c9ac0b8d750",
+ "url": "https://www.aibase.com/news/32043",
+ "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-03T08:48:19.374Z",
+ "fetched_at": "2026-11-03T16:11:36.530395+00:00",
+ "content": "On November 3, OpenAI announced that it had hired Daniel Driscoll, who resigned as U.S. Secretary of the Army in August of this year, as Senior Advisor for National Security and Modernization, to help bring AI into practical applications in national security and cybersecurity.\nFrom Prohibiting Military Use to Winning Over the Pentagon: OpenAI Hires Former Army Secretary as Advisor\nAIbase基地\nThis article is from AIbase Daily\nWelcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day, we present you with hot topics in the AI field, focusing on developers, helping you understand technical trends, and learning about innovative AI product applications.",
+ "report": {
+  "summary": "OpenAI 聘请前陆军部长当顾问，加快进入国防AI市场。",
+  "background": "OpenAI 早在 2018 年的章程中就明文禁止把 AI 用于军事和战争，但它在 2024 年初删除了这一条款，随后与 Anduril 合作开发反无人机系统，并与美国国防部多个部门签约；2025 年它还拿下了国防部首席数字与人工智能办公室（CDAO）的试点合同。同期，Anthropic、Google、Meta 也在放宽军事合作限制，五角大楼则推行“AI 优先”采购。这次人事任命，标志着 OpenAI 从“技术供应商”进一步成为“国防体系的深度参与者”。",
+  "key_points": [
+   "前陆军部长 Daniel Driscoll 今年 8 月刚辞职，现以高级顾问身份加入 OpenAI，负责国家安全与现代化方向。",
+   "OpenAI 早年明文禁止 AI 用于军事，2024 年删除该条款，如今又引入军方最高层，“禁军用”原则已实质作废。",
+   "OpenAI 已与 Anduril 合作反无人机、拿下国防部合同，此次招聘意在打通更多政府采购渠道。",
+   "这是整个行业的趋势：Anthropic、Google、Meta 都在放宽军事合作，硅谷与五角大楼之间的界限正快速消失。",
+   "争议随之而来：自主武器与监控的伦理红线尚未厘清，前军方高官进入 AI 公司也引发“旋转门”质疑。"
+  ],
+  "impact": "对 AI 行业来说，国防订单正成为大模型公司稳定的收入来源，可能重塑竞争格局：谁拿到政府合同，谁就拥有现金流优势。对开发者来说，涉密部署、数据隔离、安全合规等工程能力的需求上升；开源模型能否用于军事，也会更受关注。对普通用户来说，担忧主要集中在自主武器、监控扩张与隐私，以及消费级产品与国防业务之间的信任裂痕。",
+  "tools": "想跟进可关注 OpenAI for Government、Anduril 的 Lattice 平台、Palantir AIP、Anthropic 的政府解决方案，以及美国国防部 CDAO 的 Open DAGIR 数据平台；合规侧可参考 NIST AI RMF 风险管理框架，工程侧可关注 vLLM 等私有化部署方案。"
+ },
+ "lang": "zh"
+}

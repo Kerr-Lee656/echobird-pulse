@@ -10015,5 +10015,104 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-02T19:19:17.000Z",
   "fetched_at": "2026-11-02T23:34:20.203745+00:00"
+ },
+ "7d871a9968ec": {
+  "id": "7d871a9968ec",
+  "url": "https://github.com/karpathy/nanochat",
+  "title": "karpathy/nanochat — The best ChatGPT that $100 can buy.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:12:37.186409+00:00"
+ },
+ "40ac107c54ba": {
+  "id": "40ac107c54ba",
+  "url": "https://github.com/github/copilot-cli",
+  "title": "github/copilot-cli — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:12:50.326824+00:00"
+ },
+ "0b86c010857d": {
+  "id": "0b86c010857d",
+  "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+  "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T15:53:10Z",
+  "fetched_at": "2026-11-03T16:13:21.704333+00:00"
+ },
+ "dcce85c3b445": {
+  "id": "dcce85c3b445",
+  "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+  "title": "Open models can do 90% of work at a twentieth of the cost of a frontier LLM",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T15:41:51Z",
+  "fetched_at": "2026-11-03T16:13:51.793376+00:00"
+ },
+ "5eba943719a0": {
+  "id": "5eba943719a0",
+  "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+  "title": "Apple restricts dating apps and AI companions to users 18 and up",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-03T15:38:27.000Z",
+  "fetched_at": "2026-11-03T16:14:00.818023+00:00"
+ },
+ "cdcd9620fe89": {
+  "id": "cdcd9620fe89",
+  "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+  "title": "'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T15:25:23Z",
+  "fetched_at": "2026-11-03T16:14:18.298675+00:00"
+ },
+ "31229f011537": {
+  "id": "31229f011537",
+  "url": "https://news.ycombinator.com/item?id=50352757",
+  "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+  "source": "Hacker News (37pts, 15c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T14:53:41Z",
+  "fetched_at": "2026-11-03T16:14:31.150858+00:00"
+ },
+ "fdefa8ea74a4": {
+  "id": "fdefa8ea74a4",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+  "title": "New Claude Limits to Prevent Game Cloning and Reverse Engineering",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T14:37:21Z",
+  "fetched_at": "2026-11-03T16:14:46.752057+00:00"
+ },
+ "2ec847015cb7": {
+  "id": "2ec847015cb7",
+  "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+  "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T14:33:18Z",
+  "fetched_at": "2026-11-03T16:14:57.474337+00:00"
+ },
+ "32482028cfd1": {
+  "id": "32482028cfd1",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html",
+  "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T14:27:03Z",
+  "fetched_at": "2026-11-03T16:15:09.696018+00:00"
+ },
+ "48b5006250c9": {
+  "id": "48b5006250c9",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+  "title": "Google's Gemini 4 Carbon edges Claude Opus 5.5, claims fewest hallucinations",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-03T13:28:23Z",
+  "fetched_at": "2026-11-03T16:15:22.850117+00:00"
  }
 }

@@ -20482,5 +20482,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-02T23:44:35Z",
   "fetched_at": "2026-11-03T06:42:49.838429+00:00"
+ },
+ "057ba6c2fdb5": {
+  "id": "057ba6c2fdb5",
+  "url": "https://www.aibase.com/zh/news/32055",
+  "title": "腾讯混元重磅发布 Hyra 2.0，让 AI Agent 全面参与科学大模型与硬核研发",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:10:43.372246+00:00"
+ },
+ "96ad81fa414e": {
+  "id": "96ad81fa414e",
+  "url": "https://www.aibase.com/zh/news/32045",
+  "title": "营收狂飙却难掩巨额账单：Anthropic 三季度重回亏损，近 9000 亿美元算力承诺成 IPO 最大考验",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:11:03.123890+00:00"
+ },
+ "c9195d5e1889": {
+  "id": "c9195d5e1889",
+  "url": "https://www.aibase.com/zh/news/32042",
+  "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:11:10.552902+00:00"
+ },
+ "e2b1619e09d6": {
+  "id": "e2b1619e09d6",
+  "url": "https://www.leiphone.com/category/industrynews/HzAPRXlFEuzBUnsf.html",
+  "title": "元环智能获数亿元融资：用「元模型」让 AI 长出「直觉」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-03T16:11:18.434921+00:00"
+ },
+ "7c9ac0b8d750": {
+  "id": "7c9ac0b8d750",
+  "url": "https://www.aibase.com/news/32043",
+  "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-03T08:48:19.374Z",
+  "fetched_at": "2026-11-03T16:11:36.530395+00:00"
+ },
+ "341427445a46": {
+  "id": "341427445a46",
+  "url": "https://www.ithome.com/1/021/637.htm",
+  "title": "曝字节跳动视频生成模型 Seedance 海外收入占比已达 50%，腾讯、B站是国内大客户",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-03T08:37:00Z",
+  "fetched_at": "2026-11-03T16:11:45.800255+00:00"
+ },
+ "4c20310789b4": {
+  "id": "4c20310789b4",
+  "url": "https://www.ithome.com/1/021/629.htm",
+  "title": "《纽约时报》等媒体起诉浏览器公司 Brave，指控其未经授权抓取版权内容并转售给 AI 公司",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-03T08:13:26Z",
+  "fetched_at": "2026-11-03T16:11:56.623349+00:00"
+ },
+ "fd2f3752dd43": {
+  "id": "fd2f3752dd43",
+  "url": "https://www.ithome.com/1/021/626.htm",
+  "title": "Anthropic 警示：AI 递归自我改进（RSI）近在眼前",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-03T08:03:19Z",
+  "fetched_at": "2026-11-03T16:12:08.967502+00:00"
  }
 }
