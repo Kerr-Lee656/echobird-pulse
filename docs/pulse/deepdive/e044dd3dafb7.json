@@ -1,0 +1,23 @@
+{
+ "id": "e044dd3dafb7",
+ "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+ "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-03T00:08:53Z",
+ "fetched_at": "2026-11-03T06:42:22.569810+00:00",
+ "content": "Wall Street mostly swept up last week's tech wreckage Monday. Chip stocks kept tracking mud back through the house.\nAbout 7 in 10 S&P 500 stocks rose Monday, yet nearly every chip stock fell, and the group shed more than $400 billion in market value in a single session, by Yahoo Finance calculations.\nIntel (INTC) led the way down again.\nThe chipmaker slid about 9% after its worst day since 1974 on Oct. 30, when a disappointing forecast knocked nearly 29% off the stock. Monday's close left Intel worth less than half of what it was when September ended.\nAnd the damage didn't stick to Intel.\nMicron (MU), Sandisk (SNDK), Seagate (STX), and Western Digital (WDC) — the memory and storage names that led the chip boom this year — all got clobbered, falling roughly 6% to 8%. Marvell (MRVL) fell even harder, a drop that came as it agreed to buy Lumentum (LITE) in a $115 billion deal. Nvidia (NVDA) held up better than most, but it's still down about 16% since Oct. 6.\nZoom out and the mess gets bigger. Chip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia lost the most in dollars, but Intel's drop of nearly half is the steepest among the giants.\nNot everything tied to AI bled. SpaceX (SPCX) rose, though it's still well below where it started October. Software was mixed, apart from cybersecurity stocks like Fortinet (FTNT) and CrowdStrike (CRWD), which fell with chips.\nAdam Johnson, founder of the Bullseye Brief and portfolio manager of the American Ingenuity Fund, thinks last week's sell-off already priced in the worst.\n\"The market kitchen-sinked it,\" Johnson told Yahoo Finance on Monday. \"They discounted everything that could go wrong. And when you do that, typically that's when you see a bottom.\"\nJohn Chambers, founder and CEO of JC2 Ventures and Cisco's former CEO, expects the gap between winners and losers to keep widening.\n\"There will be major train wrecks,\" Chambers told Yahoo Finance, also on Monday. \"And rising tide does not raise all boats. I would not bet against Nvidia.\"\nStock Trader's Almanac editor Jeff Hirsch, who coined the term \"Octoberphobia,\" bought the sell-off on Oct. 30. History is on his side. Chips have climbed in all eight midterm cycles since 1994, measured from the last October close through the following June, by Yahoo Finance calculations. But in 2002 and 2018, they first fell about another 11%.\nNext up is AMD (AMD), which reports third quarter results Tuesday after the bell, the same day as the midterm vote.",
+ "report": {
+  "summary": "英特尔股价暴跌，芯片股集体下挫，市值蒸发3.7万亿美元。",
+  "background": "自2026年10月6日以来，AI芯片热潮推动的半导体股持续上涨，但英特尔因业绩指引不及预期于10月30日暴跌29%，创1974年以来最大单日跌幅，引发芯片股全面抛售。存储和内存股此前领涨，如今也遭重创。截至11月2日，芯片与内存股市值累计蒸发约3.7万亿美元，市场担忧AI需求放缓及行业过度扩张。",
+  "key_points": [
+   "英特尔周一再跌9%，10月30日因财报展望不佳单日暴跌29%，市值较9月底腰斩。",
+   "存储芯片股美光、西部数据等跟跌6%-8%，迈威尔因1150亿美元收购Lumentum跌更多。",
+   "英伟达相对抗跌，但较10月6日仍跌16%，芯片股自10月6日共蒸发3.7万亿美元。",
+   "专家认为市场已计入最坏情况，但警告赢家与输家差距将扩大，AMD财报即将发布。"
+  ],
+  "impact": "对AI行业：投资者对AI芯片需求持续性产生疑虑，可能影响融资与扩张节奏，行业分化加剧，强者恒强。对开发者：硬件成本波动加大，但长期算力需求仍强，需关注性价比与供应链风险。对普通用户：电子产品价格短期影响有限，但若跌势持续，可能波及新品定价与创新节奏。",
+  "tools": "可关注Yahoo Finance、TradingView跟踪芯片股；开发者可了解MLPerf基准测试和开源AI框架如PyTorch对硬件的支持，以评估算力成本。"
+ },
+ "lang": "zh"
+}
