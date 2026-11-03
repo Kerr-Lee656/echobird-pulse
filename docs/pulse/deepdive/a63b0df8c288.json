@@ -1,0 +1,24 @@
+{
+ "id": "a63b0df8c288",
+ "url": "https://thenextweb.com/news/openai-dan-driscoll-army-secretary-national-security",
+ "title": "OpenAI hires former US Army Secretary Dan Driscoll for national security",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-03T21:44:58.155137+00:00",
+ "content": "OpenAI has hired Dan Driscoll, the 26th Secretary of the US Army, the company said on Monday. He takes a new role: senior counselor for national security modernization.\nDriscoll will advise on how advanced AI can strengthen national and cyber security. He will work with OpenAI’s leaders and outside partners. His main focus is helping US allies use the technology responsibly.\n“National security requirements are changing faster than at any time in the past fifty years,” Driscoll said in a statement.\nHe said AI would help people in national security cut through paperwork. It would also help them make sense of more information and get answers faster.\nFrom the Pentagon to OpenAI\nDriscoll left the Pentagon in September after months of tension with Defense Secretary Pete Hegseth. Gareth Vipers reported this for The Wall Street Journal. Driscoll is a former Army officer and a law-school classmate of Vice President JD Vance, the Journal reported.\nAs Army secretary, he oversaw nearly one million soldiers and more than 265,000 Army civilians, OpenAI said. Driscoll said he had also served as acting director of the ATF.\n“The US has an extraordinary opportunity to work with other countries to spread the adoption of democratic AI,” said Sam Altman, OpenAI’s chief executive.\nAllies and Daybreak\nDriscoll will also help OpenAI’s teams understand what national security institutions need. OpenAI said the hire builds on Daybreak, its cyber resilience programme with allies and partners.\nOpenAI has opened Daybreak to Ukraine and pitched it to utilities in the US.\nIn February, OpenAI agreed to deploy its models on the Defense Department’s classified network. That came after rival Anthropic’s relationship with the Pentagon broke down, Rachel Metz reported for Bloomberg. Anthropic is still fighting its Pentagon case in court.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "OpenAI 聘请前美国陆军部长出任国家安全高级顾问",
+  "background": "近年 AI 公司与美国国防体系的绑定持续加深。今年 2 月，OpenAI 已获准在五角大楼机密网络部署模型；此前竞争对手 Anthropic 与国防部关系破裂并诉诸法庭，留下市场空档。OpenAI 与盟友合作的网络韧性项目 Daybreak 已向乌克兰开放，并向美国公用事业公司推介。此次挖来刚离任的陆军部长 Dan Driscoll，标志着 OpenAI 从“技术供应商”进一步转向“国家安全政策参与者”。",
+  "key_points": [
+   "Driscoll 的新头衔是“国家安全现代化高级顾问”，负责研究先进 AI 如何强化国家与网络安全，并直接向 OpenAI 高层与外部伙伴提供建议。",
+   "他今年 9 月离开五角大楼，此前与国防部长 Hegseth 关系紧张数月；他是前陆军军官，与副总统 JD Vance 是法学院同学。",
+   "他任陆军部长期间管理近百万士兵和 26.5 万文职人员，还曾代理 ATF 局长，具备跨军警体系的行政经验。",
+   "Sam Altman 称此举旨在联合盟国推广“民主 AI”；Driscoll 的主责是帮美国盟友负责任地使用这项技术。",
+   "该任命建立在 Daybreak 网络韧性计划之上，同时帮助 OpenAI 内部理解国家安全机构真实需求，形成双向通道。"
+  ],
+  "impact": "对 AI 行业，头部公司与国防体系的深度绑定正成为竞争要素，政策与合规能力开始与模型能力同等重要，Anthropic 的失利就是反例。对开发者，政府与国防相关的安全合规、私有化部署、模型审计需求将上升，相关岗位与采购机会增多。对普通用户，AI 军事化与“民主 AI”输出的叙事会引发对透明度、问责机制和武器化边界的持续争论。",
+  "tools": "Daybreak 为封闭项目，普通读者难以直接使用。可关注 OpenAI 的政府与安全解决方案、Anthropic 的 Claude for Government、Palantir AIP、Scale AI 的国防数据服务，以及 Meta PurpleLlama（含 Llama Guard）等开源安全护栏工具，了解 AI 安全合规的技术路径。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "6d599a0bf6c1",
+ "url": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores",
+ "title": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-03T21:44:23.730949+00:00",
+ "content": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores 32\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from VentureBeat: Researchers from the Massachusetts Institute of Technology (MIT) Computer Science & Artificial Intelligence Laboratory (CSAIL) reported today that they used OpenAI's GPT-6 Astra language model to raise a small, open source Qwen model's math score roughly sixfold by directly editing its weights -- the numerical parameters that govern its behavior. Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab described their work in a research blog post published November 2. They call the approach \"weight-space programming\" and tested Astra's ability to interpret and alter networks without using conventional training procedures to generate the edits.\nIn the strongest language-model example, Astra's intervention raised Qwen3.5-0.8B's MATH-500 score from 7.9% to 48.1% while touching approximately 0.016% of its weights. The improvement came primarily from correcting repetitive reasoning—a distinction that shaped both the technical findings and the debate over their implications. Their experiments explored a broader possibility: AI systems that inspect, repair and construct other neural networks by working directly on their internal machinery. \"This is cool as heck!\" wrote Yuchen Jin, a technical staffer at Databricks and former co-founder and CTO of Hyperbolic Labs who was unaffiliated with the research, on X. \"Imagine using a large LLM to directly edit a smaller model's weights and dramatically improve its capabilities. It's like gene editing for neural networks. Even cooler than distillation!\"\nVoyage AI staff researcher Chandan Singh, formerly of Microsoft AI, also reacted to the findings: \"For anyone questioning whether this post is overhyped, I think they are actually *underselling* the approach.\"",
+ "report": {
+  "summary": "MIT用GPT-6直接改写Qwen权重，数学成绩提升六倍",
+  "background": "传统上提升模型能力要靠重新训练、微调或蒸馏，成本高且需要大量数据。MIT CSAIL 团队提出「权重空间编程」（weight-space programming）：让一个更强的模型直接阅读并修改另一个模型的内部数值参数，生成的是对权重的编辑而非梯度更新。这次实验中，GPT-6 Astra 对开源小模型 Qwen3.5-0.8B 做了极少量修改，就把 MATH-500 从 7.9% 拉到 48.1%，在业界引发关于模型间「基因编辑」式协作的讨论。",
+  "key_points": [
+   "Astra 只改动了约 0.016% 的参数，就把 Qwen3.5-0.8B 的 MATH-500 成绩从 7.9% 提高到 48.1%，约六倍，证明参数空间中存在可精准定位的关键问题点。",
+   "增益主要来自修正模型重复推理，即反复自说自话或冗余推导；研究者特意强调这点，说明编辑提升的是特定缺陷修正，而非全面智能增强。",
+   "方法不依赖梯度训练或数据集微调，而由大模型解读网络内部机制并生成权重补丁，被从业者比作神经网络的「基因编辑」，认为比蒸馏更有想象力。",
+   "Voyage AI 研究员 Chandan Singh 称外界若质疑其过度宣传，其实是在「低估」该方法；Databricks 的 Yuchen Jin 也公开表示兴奋，说明社区反应明显偏正面。",
+   "但评测只覆盖一个 0.8B 小模型和单一项数学基准，编辑结果是否可泛化、是否损伤其他能力、能否复现到更大模型，仍待验证。"
+  ],
+  "impact": "对 AI 行业而言，这暗示了一条绕开算力与数据瓶颈的新路径：用强模型「维修」弱模型，可能重塑微调、蒸馏与模型压缩的技术栈，并催生权重审计与编辑服务。对开发者来说，小模型可通过极少量干预获得质变，本地部署性价比上升，但也带来新风险：谁都能改写权重，模型溯源、后门与安全性验证会更困难。对普通用户，未来手机或笔记本上的小模型可能更可靠、更便宜，但版本差异与「被编辑过」的黑箱感也会增强。",
+  "tools": "想跟进可关注：Qwen 系列开源权重与 Hugging Face 模型库；TransformerLens、SAELens、nnsight 等机制可解释性工具，用于定位可编辑参数；PEFT/LoRA 作为对照基线；MATH-500 等数学基准复现评测；以及 OpenAI GPT-6 Astra 的 API 做权重生成实验。"
+ },
+ "lang": "zh"
+}

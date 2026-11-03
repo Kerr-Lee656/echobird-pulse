@@ -1,0 +1,24 @@
+{
+ "id": "c01265aacc1a",
+ "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+ "title": "Google is entirely disabling Search in schools that don’t want AI",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-03T21:44:33.831809+00:00",
+ "content": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search “will be entirely off” for K-12 student accounts unless “administrators explicitly turn them on.”\nGoogle is entirely disabling Search in schools that don’t want AI\nStudents in schools that reject Google’s AI will see notices that Search isn’t available.\nAdministrators will not be given the option to toggle Gemini-powered features off without disabling Search, however. Chris Phillips, Google’s vice president of education, told the NYT, “Search and AI are deeply integrated,” adding that schools that disable Google’s AI features “will not have access to Search, and they’ll see a message from their school that indicates it’s not available.” Google didn’t immediately respond to The Verge’s request for comment.\nThe announcement comes just months after Google turned its Gemini AI assistant on by default inside the Google Classroom app, which is used by more than 150 million teachers and students globally. The move added to skepticism surrounding Google’s introduction of AI in schools amid reports of declining test scores and other impacts on students’ learning abilities. Last month, lawmakers pressed Google on the “potential harms” of putting its AI products in schools. Although Google is no longer turning on AI features in schools by default, this choice comes at a cost.\nSeveral lawmakers and local leaders have responded to Google’s move to block Search, with Sen. Bernie Sanders (D-VT) calling it “extortion” and NYC Mayor Zohran Mamdani saying, “no corporation should have the power to dictate how we teach our children.” Rohit Chopra, California’s Secretary of Business & Consumer Services, wrote that Big Tech shouldn’t be able to “strong-arm schools.”\nGoogle argues that this change will “give schools more choice, not less,” adding that schools can choose to turn off each service on or off individually.\nThe company is also attempting to address concerns about students using its AI features to find “shortcuts” instead of solving problems themselves. Google is embedding its Guided Learning feature, which is supposed to help students work through problems, into its AI Overviews in Search. Google will begin testing this feature in select US schools this month.\nUpdate, November 3rd: Added responses from lawmakers and Google.",
+ "report": {
+  "summary": "谷歌对拒绝AI的学校全面停用搜索",
+  "background": "Google Classroom 覆盖全球逾1.5亿师生，谷歌此前默认开启 Gemini 教育功能，引发对学习能力、考试分数和学生依赖AI的担忧。美国立法者与地方官员也质疑把AI产品推入校园的潜在危害。此次谷歌改为默认关闭K-12学生账户的Gemini与搜索，但把搜索与AI绑定，拒绝AI即失去搜索，引发“变相胁迫”争议。",
+  "key_points": [
+   "K-12学生账户的搜索、Gemini、Gemini Notebook和Classroom中的Gemini默认全关，除非管理员明确开启。",
+   "学校不能单独关闭Gemini而保留搜索；谷歌称搜索与AI已深度整合，禁用AI功能就看不到搜索。",
+   "伯尼·桑德斯称此举是“敲诈”，纽约市长称企业不应决定如何教育孩子，加州官员批“强逼学校”。",
+   "谷歌反驳称这给学校更多选择，可逐项开关服务；同时把Guided Learning嵌入搜索AI概览，本月在部分美国学校测试。",
+   "此前Gemini在Classroom默认开启已引发反弹，新政策被视为在监管压力与产品推广之间重新平衡。"
+  ],
+  "impact": "对AI行业，教育场景的默认开启与捆绑策略将面临更严审视，AI集成需更透明的同意机制。对开发者，教育产品要把搜索、AI、数据权限拆成可独立配置模块，并准备无AI回退方案。对普通用户，拒绝AI的学校师生可能直接失去搜索入口，影响教学与信息获取，也加剧数字资源不平等。",
+  "tools": "可关注 Google Workspace for Education 管理控制台与 Classroom API；开源可看 Moodle、Open edX，以及用 LibreChat、Ollama 自建可控教学助手。"
+ },
+ "lang": "zh"
+}

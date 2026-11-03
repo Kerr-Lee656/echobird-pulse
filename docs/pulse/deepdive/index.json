@@ -20554,5 +20554,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-03T08:03:19Z",
   "fetched_at": "2026-11-03T16:12:08.967502+00:00"
+ },
+ "6d599a0bf6c1": {
+  "id": "6d599a0bf6c1",
+  "url": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores",
+  "title": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:44:23.730949+00:00"
+ },
+ "c01265aacc1a": {
+  "id": "c01265aacc1a",
+  "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+  "title": "Google is entirely disabling Search in schools that don’t want AI",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:44:33.831809+00:00"
+ },
+ "56d477bb7172": {
+  "id": "56d477bb7172",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+  "title": "Anthropic is still grappling with the economics of compute",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:44:41.819076+00:00"
+ },
+ "557171c1bc7a": {
+  "id": "557171c1bc7a",
+  "url": "https://thenextweb.com/news/meta-15b-bond-sale-higher-yields-euro-debut",
+  "title": "Meta pays up to borrow $15B as investors grow wary of AI debt",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:44:49.968693+00:00"
+ },
+ "a63b0df8c288": {
+  "id": "a63b0df8c288",
+  "url": "https://thenextweb.com/news/openai-dan-driscoll-army-secretary-national-security",
+  "title": "OpenAI hires former US Army Secretary Dan Driscoll for national security",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:44:58.155137+00:00"
+ },
+ "b17df3d8d1f6": {
+  "id": "b17df3d8d1f6",
+  "url": "https://thenextweb.com/news/crowdstrike-fiddler-dreadnode-acquisitions-ai-kill-switch",
+  "title": "CrowdStrike agrees to buy AI security startups Fiddler and Dreadnode",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:45:19.911851+00:00"
+ },
+ "12e8c033838f": {
+  "id": "12e8c033838f",
+  "url": "https://daringfireball.net/linked/2026/11/03/new-york-times-sues-brave",
+  "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+  "source": "Daring Fireball",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-03T21:45:28.392118+00:00"
  }
 }

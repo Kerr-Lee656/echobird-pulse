@@ -1,0 +1,24 @@
+{
+ "id": "12e8c033838f",
+ "url": "https://daringfireball.net/linked/2026/11/03/new-york-times-sues-brave",
+ "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+ "source": "Daring Fireball",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-03T21:45:28.392118+00:00",
+ "content": "By John Gruber\nOurCal: Shared calendar. Meet messenger.\nJay Peters, The Verge:\n  The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.\nAccording to a complaint filed by the New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.” The AI companies then use that index to train their models, access content to “respond to specific user queries,” or both. Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere.\nBrave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature in its browser.\nBrave’s monetization strategies have long been shifty AF.\n★ Tuesday, 3 November 2026",
+ "report": {
+  "summary": "纽约时报等起诉Brave：抓取内容转售AI公司训练模型",
+  "background": "AI训练数据的版权战已从模型厂商蔓延到搜索与索引中间商。2023年《纽约时报》起诉OpenAI和微软开了先例，此后多家媒体跟进。Brave以自建独立索引和隐私浏览器闻名，近年把索引打包成Search API与\"Data for AI\"产品，向AI公司收费，同时浏览器的付费墙绕过功能长期遭出版商诟病。这次诉讼首次把矛头指向\"数据二道贩子\"，即不训练模型、只转售抓取内容的中间层。",
+  "key_points": [
+   "原告包括《纽约时报》《纽约每日新闻》《芝加哥论坛报》《奥兰多哨兵报》等，指控Brave非法抓取内容并从中获利。",
+   "诉状称Brave把抓取索引付费开放给Anthropic、Perplexity、Mistral、xAI、Cohere等公司，用于训练模型或实时回答用户提问。",
+   "Brave浏览器宣传可访问\"数百家顶级出版商\"的付费墙绕过功能，被指直接侵害订阅收入。",
+   "Brave长期靠广告和搜索API变现，其数据来源与授权链条一直不够透明，这次被推上法庭。",
+   "案件核心争点是：搜索索引转售是否属于合理使用，以及中间商是否要为下游AI训练承担连带责任。"
+  ],
+  "impact": "对AI行业，数据供应链的合规成本将上升，从第三方索引采购语料的公司需重新审查来源，可能加速向授权内容和自建爬虫迁移。对开发者，依赖Brave Search API等廉价检索接口做RAG的应用面临断供或涨价风险，需准备备用数据源。对普通用户，付费墙绕过类功能可能被收紧或下架，浏览器的\"免费看全文\"体验将缩水，内容获取回归订阅与授权模式。",
+  "tools": "想跟进可关注：Brave Search API（留意条款变化）、Common Crawl与Wikimedia Dump等公开语料、Cloudflare的pay-per-crawl与RSL许可协议标准、以及Datasette类工具做自有合规数据集。开发者也可研究robots.txt与llms.txt规范的落地实践。"
+ },
+ "lang": "zh"
+}

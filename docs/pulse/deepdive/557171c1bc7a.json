@@ -1,0 +1,24 @@
+{
+ "id": "557171c1bc7a",
+ "url": "https://thenextweb.com/news/meta-15b-bond-sale-higher-yields-euro-debut",
+ "title": "Meta pays up to borrow $15B as investors grow wary of AI debt",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-03T21:44:49.968693+00:00",
+ "content": "Meta is selling at least $15B of dollar bonds in a deal expected to reach at least $20B with a first euro note, Bloomberg reports. It is offering much higher yields than in April, as investors balk at Big Tech’s flood of AI debt.\nMeta is selling at least $15B of US dollar bonds, its first debt sale in six months, Bloomberg reported on Tuesday, citing people familiar with the matter.\nThe two-currency deal is expected to raise at least $20B in total. It includes Meta’s first euro-denominated note, which could be sold as soon as Wednesday.\nMeta is paying more to draw buyers. Its 30-year bonds are being discussed at about 2.5 percentage points above US government debt. That is nearly 0.9 points more than the early pricing on a similar bond Meta sold in April.\n“We see no need to chase it in the new issue market,” said Ross Pamphilon of Impax Asset Management. He expects Meta and its rivals to keep spending heavily until at least 2027.\nBig Tech has sold almost $430B of high-grade bonds since last year. Their bonds now trade at the widest gap over other high-grade debt since 2003. Alphabet paid up for a €6B euro sale on Monday, after Microsoft’s $25B deal last week.\nMeta is also selling shares. Last week it priced $25B of common stock and $12.5B of preferred shares, part of its record equity raise.\nThe bond sale follows S&P’s move on Friday to cut its outlook on Meta’s credit rating over its AI spending.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Meta发债至少150亿美元，收益率抬高，投资者警惕AI债务",
+  "background": "过去两年，大型科技公司为了建设AI数据中心投入了巨额资本开支，越来越依靠债券和股票融资。自去年以来，高等级科技债发行量已接近4300亿美元。上周微软发行250亿美元债券，Alphabet在周一发行60亿欧元债券。Meta上周刚完成375亿美元股权融资，标普又在周五因AI支出问题下调了Meta的信用评级展望。",
+  "key_points": [
+   "Meta拟发行至少150亿美元美元债，并在其中首次加入欧元计价债券；两币种合计募资规模预计不少于200亿美元，是半年来首次发债。",
+   "这次发债成本明显更高：30年期债券定价约为美国国债利率加2.5个百分点，比4月同类债券的初次定价高近0.9个百分点。",
+   "大型科技公司自去年以来已发行近4300亿美元高等级债券，其债券对其他高等级债券的利差扩大到2003年以来最大，说明市场正在要求AI举债支付更高溢价。",
+   "标普上周五因AI支出压力下调了Meta的评级展望；而Meta此前刚完成250亿美元普通股和125亿美元优先股的发行。",
+   "部分资管机构表示不会在新债市场追买，并预计Meta及其竞争对手至少会持续大额投入，直到2027年。"
+  ],
+  "impact": "对AI行业而言，债务融资成本上升意味着“无限弹药”时代的估值逻辑受到考验，资本开支的节奏可能被迫更讲回报；对开发者来说，短期算力供给和模型迭代不会立刻受影响，但长期看，云服务价格与免费额度可能收紧；对普通用户，AI功能仍会加速落地，但巨头的融资压力最终会传导到订阅价格和产品打包方式上。",
+  "tools": "如果想跟踪这类信号，可以用 FRED 查看美债与企业债利差，用 OpenBB 或 yfinance 观察科技股与债券动向，也可以关注各公司财报中的资本开支（capex）指引和标普、穆迪的评级报告。"
+ },
+ "lang": "zh"
+}
