@@ -1,0 +1,24 @@
+{
+ "id": "2a746fdcd099",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+ "title": "OpenAI says ChatGPT is catching up to Google in search",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-04T02:17:16.137410+00:00",
+ "content": "In many circles, “Ask Chat” has replaced “Google it,” and that’s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nOpenAI says ChatGPT is catching up to Google in search\nChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.\nAdam Fry, OpenAI’s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\nHaving one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google’s 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it — now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nThe news comes amid an ongoing search engine shake-up, as Google continues to reduce conventional referrals to third-party sites and invests heavily in AI tools — not just AI Overview but also additional generative AI capabilities, including personalized search results with visualizations and charts. But as search queries increasingly route through OpenAI and other AI labs’ services, other companies are investing in the same types of AI-focused search experience, even if they call it something else: for OpenAI, it’s “Intelligent UI,” or creating a visual and interactive interface within a chatbot response. “That’s where the future of this technology goes. You’re talking to a canvas,” Fry said.\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year. OpenAI has defended its ads in the past, and Fry told reporters they hadn’t produced a lasting backlash. “Ads have not negatively impacted the product or the usage of the product,” he said, adding that “most people do not seem to mind ads in the product.”\nOpenAI announced last month that the company would begin introducing images of sponsored products and services in ChatGPT rather than just a company’s name, logo, and a link to its product like before.\n“Ads have maybe shown us that we could be doing this more, actually,” Fry said.",
+ "report": {
+  "summary": "ChatGPT搜索量已达谷歌20%，AI搜索正在改写入口格局",
+  "background": "长期以来，谷歌在全球搜索市场近乎垄断，微软Bing苦战十余年份额也仅约3%。2023年谷歌反垄断庭审中，谷歌自己把ChatGPT列为潜在颠覆者。如今OpenAI首次给出量化对比：ChatGPT的搜索查询量已相当于谷歌的五分之一。OpenAI的搜索能力部分依托微软Bing索引，也有自建索引。与此同时，谷歌正减少向第三方站点导流、加码AI Overviews，OpenAI则在探索广告变现，并为最早明年的IPO铺路。",
+  "key_points": [
+   "OpenAI消费者产品负责人Adam Fry公布，ChatGPT的搜索查询量已达谷歌的20%，其统计口径是「触发网页检索的查询」，不含查定义、简单操作说明这类任务。",
+   "参照系很关键：微软Bing做了十多年，市场份额才约3%；ChatGPT在短期内冲到20%，说明用户搜索入口的迁移速度远超以往。",
+   "搜索体验正在变形：谷歌把结果页变成AI摘要加图表可视化，OpenAI则提出「智能UI」，要把聊天回答变成可交互的画布。",
+   "商业化路径趋同：ChatGPT已开始展示带图片的赞助商品，OpenAI称广告未伤害使用率，这被视为IPO前的收入铺垫。",
+   "OpenAI没有披露谷歌搜索量的数据来源，20%这一比例仍是公司自述，缺乏第三方审计，需谨慎看待。"
+  ],
+  "impact": "对AI行业，搜索从「关键词+链接」转向「对话+生成」，谷歌的广告护城河首次出现可量化的裂缝，竞争焦点变成答案质量与交互形态。对开发者，搜索API、检索增强与答案可引用性成为新基础设施，SEO逻辑要向「被模型引用」迁移。对普通用户，获取信息更快，但答案来源透明度、广告与内容的边界、以及流量向少数平台集中带来的生态影响，都值得留意。",
+  "tools": "想跟进可试ChatGPT Search、Perplexity、微软Copilot与Google AI Overviews做横向对比；开发者可关注Brave Search API、Exa、Tavily等检索接口，以及开源自建方案SearXNG，用于搭建RAG搜索应用并评估答案引用质量。"
+ },
+ "lang": "zh"
+}

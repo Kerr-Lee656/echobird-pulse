@@ -1,0 +1,23 @@
+{
+ "id": "24379856c459",
+ "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back",
+ "title": "乌克兰的无人机袭击促使俄罗斯仓促制定了建设地下数据中心的计划",
+ "source": "arstechnica.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-11-03T21:28:27.810Z",
+ "fetched_at": "2026-11-04T02:17:55.010574+00:00",
+ "content": "Russian tech companies are scrambling to harden and hide their data centers underground after Ukrainian drone strikes damaged facilities housing AI supercomputers and disrupted cloud services for millions of Russian users. Meanwhile, the Kremlin is requiring data center owners to reserve computing capacity for emergency state needs and has even authorized possible use of foreign data centers.\nThese consequences of Russia’s war against Ukraine come as the Russian military has bombarded Ukrainian cities with drones and missiles nearly night and day in recent months, along with specifically targeting Ukrainian data centers since late September. But Ukraine has retaliated with its own drone strikes on military and infrastructure targets across Russia, degrading or knocking out data centers operated by Russian tech giant Yandex, the state-owned bank Sberbank, social media site VKontakte, and the Russian Ministry of Finance.\nNow, state-owned telecommunications company Rostelcom has raised the possibility of moving some Russian data centers underground in talks with the nickel and palladium mining company Norilsk, according to Russian newspaper Vedomosti. The industry publication Data Center Dynamics also pointed to a recent proposal by a Russian regional governor to build data centers within open-pit coal mines while planting green public parks above as camouflage.\nOn November 2, Putin also signed a decree ordering Russian data center operators to set aside 10 percent of available space and capacity in case the Russian government requires it, according to independent Russian news publication Meduza. That may indicate growing Kremlin concerns about the vulnerability of Russian cloud computing infrastructure during its war with Ukraine.",
+ "report": {
+  "summary": "乌克兰无人机袭俄数据中心，俄转向地下与战备备用容量",
+  "background": "俄乌冲突从战场延伸到数字基础设施。乌方无人机打击俄境内Yandex、Sberbank、VK等数据中心，俄方自9月底也打击乌数据中心。云与AI算力成为军事和经济目标，迫使俄企加固、分散、隐藏数据中心，并强化国家应急算力控制。",
+  "key_points": [
+   "乌克兰无人机袭击已破坏俄境内多座承载AI超算和云服务的数据中心，导致数百万用户云服务中断，暴露集中式算力设施脆弱性。",
+   "俄国企Rostelecom与Norilsk讨论将部分数据中心迁入地下，地方官员还提议建在露天煤矿并以公园伪装，以降低被打击风险。",
+   "普京11月2日签署法令，要求数据中心运营方预留10%空间和算力供政府应急使用，并授权必要时使用境外数据中心。",
+   "俄乌双方互相打击数据中心，云、AI算力和国家金融/社交服务成为战争目标，基础设施韧性成为竞争焦点。"
+  ],
+  "impact": "对AI行业，算力设施从商业资产变为战略目标，地下化、分散化、多活和主权云将加速；开发者需面对区域云中断、合规与数据迁移风险；普通用户可能遭遇服务中断、隐私与网络管制加强，云服务可靠性预期下降。",
+  "tools": "可关注 OpenStack、Ceph、Kubernetes 多云/多活部署，KubeEdge 边缘计算，以及 Chaos Mesh 做故障演练；也可跟踪云区域中断与数据中心韧性方案。"
+ },
+ "lang": "zh"
+}

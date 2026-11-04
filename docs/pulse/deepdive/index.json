@@ -20617,5 +20617,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-03T21:45:28.392118+00:00"
+ },
+ "ee9864078e1c": {
+  "id": "ee9864078e1c",
+  "url": "https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai",
+  "title": "Google Will Turn Off Search For Schools That Reject AI",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T02:17:06.480555+00:00"
+ },
+ "2a746fdcd099": {
+  "id": "2a746fdcd099",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+  "title": "OpenAI says ChatGPT is catching up to Google in search",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T02:17:16.137410+00:00"
+ },
+ "64e891378c13": {
+  "id": "64e891378c13",
+  "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T02:17:25.120290+00:00"
+ },
+ "abb5e64ca10a": {
+  "id": "abb5e64ca10a",
+  "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
+  "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T02:17:35.688684+00:00"
+ },
+ "4fc0285d4249": {
+  "id": "4fc0285d4249",
+  "url": "https://www.ithome.com/1/021/878.htm",
+  "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-03T22:39:56Z",
+  "fetched_at": "2026-11-04T02:17:44.436383+00:00"
+ },
+ "24379856c459": {
+  "id": "24379856c459",
+  "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back",
+  "title": "乌克兰的无人机袭击促使俄罗斯仓促制定了建设地下数据中心的计划",
+  "source": "arstechnica.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-03T21:28:27.810Z",
+  "fetched_at": "2026-11-04T02:17:55.010574+00:00"
+ },
+ "f7735096343c": {
+  "id": "f7735096343c",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+  "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-03T21:26:44Z",
+  "fetched_at": "2026-11-04T02:18:09.005030+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "ee9864078e1c",
+ "url": "https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai",
+ "title": "Google Will Turn Off Search For Schools That Reject AI",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-04T02:17:06.480555+00:00",
+ "content": "Google Will Turn Off Search For Schools That Reject AI 53\n\t\t\t\n\t\t \t\n\t\t\t\tGoogle will disable AI tools by default for K-12 students early next year unless school administrators explicitly enable them, but schools that choose to block AI entirely will also lose student access to Google Search. The New York Times reports:  Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I. But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search. A.I. features are now a standard part of Google's commercially available search engine.\n\"Search and A.I. are deeply integrated,\" said Chris Phillips, vice president for education at Google. If a school has banned A.I., he added, students \"will not have access to search, and they'll see a message from their school that indicates it's not available.\" [...] The company's new strategy underscores Google's powerful role in American education. If school leaders want continued student access to search within the company's ecosystem, they will be forced to embrace Google's A.I.",
+ "report": {
+  "summary": "谷歌：学校若全面禁用AI，学生将同时失去搜索访问",
+  "background": "谷歌的 Classroom、Chromebook 与 Workspace for Education 在美国 K-12 市场占有率极高，近两年 Gemini 又被嵌入 Workspace 和搜索的 AI 概览中。与此同时，家长和学区对未成年人使用生成式 AI 的担忧升温，多地学区讨论禁令，教育界要求“默认关闭 + 管理员可控”。谷歌此次把 AI 功能设为 K-12 默认关闭，看似让出控制权，但声明搜索与 AI“深度整合”、禁 AI 即断搜索，实质是用其教育基础设施地位把学校逼进“要么全盘接受、要么被切断”的二选一。",
+  "key_points": [
+   "明年年初起，K-12 学生的谷歌 AI 功能默认关闭，需学校管理员主动开启才能使用。",
+   "若学区选择彻底封禁 AI，学生端将连普通谷歌搜索一起失去，只看到校方提示页。",
+   "谷歌教育副总裁 Chris Phillips 的理由是“搜索和 AI 已深度整合”，技术上无法只留搜索。",
+   "这暴露了谷歌在美国校园的准垄断地位：想继续用搜索，就得接受它的 AI。",
+   "对学校而言，AI 治理从“教学选择”变成“基础设施续约”问题，议价空间被压缩。"
+  ],
+  "impact": "对 AI 行业，这是“AI 与基础服务捆绑”的标志性案例，可能引发反垄断与消费者保护层面的质疑，也为微软、苹果等竞争对手提供“可分离 AI”的差异化空间。对开发者，教育场景的合规开关、分级授权、可审计日志将成为刚需功能。对普通用户与家长，则意味着“不想要 AI”越来越难作为一种真实选项存在，数字选择权被基础设施所有权侵蚀。",
+  "tools": "想跟进可研究 Google Workspace for Education 管理控制台的 AI 开关与 Gemini for Education 策略；替代方案关注 Microsoft 365 Education + Copilot 的独立开关、Moodle 等自托管学习平台，以及 SearXNG（私有元搜索）、Ollama + Open WebUI 的本地部署组合，用于构建不依赖单一厂商的校园方案。"
+ },
+ "lang": "zh"
+}

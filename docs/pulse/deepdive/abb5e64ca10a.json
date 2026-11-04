@@ -1,0 +1,23 @@
+{
+ "id": "abb5e64ca10a",
+ "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
+ "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-04T02:17:35.688684+00:00",
+ "content": "Cybersecurity giant CrowdStrike is buying two AI security companies that expand its products to more broadly monitor, test, and cover AI models and agents, as companies across industries start rolling out AI agents and models wholesale.\nCrowdStrike said it will buy Fiddler AI, which makes observability software for monitoring AI agents inside enterprises, and Dreadnode, which helps companies automate security testing specifically aimed at detecting flaws in AI models, apps, and agents before they are set live.\nThe company is paying around $400 million for Fiddler AI, and about $95 million for Dreadnode, according to The Wall Street Journal.\nThe deals are happening at a time of significant upheaval in the cybersecurity space, especially as companies’ policies and processes lag behind AI adoption within their walls. Teams and individual employees alike are experimenting with AI tools, automating workflows, vibe-coding custom apps, and deploying armies of AI agents to do their bidding, which is understandably causing headaches for security teams.\nCrowdStrike, whose products are used widely across enterprises and governments, is clearly trying to leverage its already significant heft and presence to capture a share of this quickly burgeoning market. It’s not alone, of course, as we’ve already seen several startups and cybersecurity vendors raising dozens of millions in funding to solve issues for companies, though most of these approaches are essentially based on the conviction that existing security software isn’t enough to monitor and control AI tools, connectors, or usage.\nThe company has itself been building detection and response controls, dubbed Falcon Guardian, to help companies see and understand what agents are doing on their devices, and these acquisitions seem to further flesh out its offerings.\nFiddler AI is going to be part of CrowdStrike’s Falcon platform as Falcon Observe, where it’ll ostensibly help the company’s clients evaluate agents before they’re deployed, understand their actions, and monitor what they do, and feed that information as telemetry into the broader platform. Dreadnode, meanwhile, will be integrated into the Falcon Guardian product, to which the startup’s software will feed its testing results as security policy recommendations.\nFounded in 2018, Fiddler AI has raised a total of about $99 million to date, according to PitchBook. Dreadnode, founded in 2023, has raised $14 million so far.",
+ "report": {
+  "summary": "CrowdStrike近5亿美元收购两家AI安全公司",
+  "background": "随着企业大规模部署AI模型和Agent，安全团队面临影子AI、员工自发构建应用和Agent权限失控等新风险，传统安全软件难以覆盖。CrowdStrike已推出Falcon Guardian监控Agent行为，此次收购旨在补齐AI可观测性与上线前安全测试能力，抢占快速兴起的AI安全市场。",
+  "key_points": [
+   "交易总额近5亿美元：Fiddler AI约4亿美元，Dreadnode约9500万美元，后者2023年成立、融资1400万美元，显示大厂加速收购AI安全能力。",
+   "Fiddler AI提供企业内AI Agent可观测性，将并入Falcon平台成为Falcon Observe，用于部署前评估、运行中监控并向平台回传遥测数据。",
+   "Dreadnode专注AI模型、应用和Agent的自动化安全测试，将整合进Falcon Guardian，把测试结果转化为安全策略建议。",
+   "市场背景是企业AI采用快于安全治理，影子AI、vibe-coding和Agent批量部署让安全团队承压，初创公司与传统安全厂商竞相涌入。"
+  ],
+  "impact": "对AI行业，AI安全从附属功能变成独立赛道，并购将加速整合；对开发者，Agent上线前测试与运行时可观测性会成为标配，需更重视权限、日志和评测；对普通用户，企业AI应用的安全门槛提高，但Agent误操作、数据泄露等风险仍需持续关注。",
+  "tools": "可关注CrowdStrike Falcon Guardian与Falcon Observe的后续集成；开源/低成本方案可看Langfuse做LLM可观测、Garak做模型漏洞扫描、Promptfoo做提示词与Agent测试。"
+ },
+ "lang": "zh"
+}
