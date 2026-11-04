@@ -1,0 +1,23 @@
+{
+ "id": "0091455cd170",
+ "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
+ "title": "Pliant raises $80M to open its B2B payments platform to AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-04T19:43:15.438385+00:00",
+ "content": "Berlin fintech Pliant has raised an $80M Series C to open its B2B payments infrastructure to AI agents, the company said on Wednesday. Seaya Nova and Speedinvest led the oversubscribed round. Illuminate Financial, Motive Partners and Molten Ventures also took part.\nThe money will fund Pliant’s expansion in the US and Canada, its entry into further markets and its AI roadmap. The round follows three years in which Pliant doubled its business each year. It comes shortly after the company passed $100M in annual recurring revenue.\nHow AI agents plug in\nPliant combines commercial card issuing, payment accounts, foreign exchange and spend management in one platform. Its own AI agents already automate recurring finance work for customers.\nOutside agents, from Claude and ChatGPT to a company’s own automations, connect through the Model Context Protocol (MCP). They can then run payment workflows inside other business processes, with permissions, controls and audit trails built in, Pliant says.\n“Whether an established business wants AI to automate its payment processes with the right guardrails, or an AI-native company needs a licensed partner that moves as fast as it does, Pliant is built for that,” said Malte Rau, Pliant’s CEO and co-founder.\nThe licensed layer\nPliant started in 2020 and is a principal member of Visa and Mastercard. It issues commercial cards in 13 currencies across 32 countries under its European e-money licence, and through regulated partners in the UK and US. It employs more than 300 people across eight offices.\nIts customers include travel, insurance and AI-native companies. Banks, fintechs and software platforms also use its infrastructure to run their own commercial card offerings.\n“When agents move money, someone still has to be licensed, auditable and liable, and that is the layer Pliant owns,” said Vinoth Jayakumar, general partner at Seaya Nova, in the Business Wire release.\nCard networks are testing agent payments too. In October, AI agents started paying supplier invoices in a pilot with Visa, BILL and Billtrust. Synchrony wants to put store cards inside ChatGPT. In corporate cards, US rival Ramp reached a $60bn valuation in October.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Pliant 获8000万美元C轮，向AI代理开放B2B支付基础设施",
+  "background": " Berlin fintech Pliant 成立于2020年，整合商业卡发卡、支付账户、外汇和支出管理，是Visa和Mastercard主会员，持欧洲电子货币牌照，在32个国家发行13种货币商业卡，员工超300人。公司称过去三年业务每年翻倍，年经常性收入刚突破1亿美元。本轮由Seaya Nova和Speedinvest领投，Illuminate Financial、Motive Partners、Molten Ventures参投，资金将用于美加扩张、新市场和AI路线图。当前AI代理正从对话走向交易，卡组织与金融科技公司均在测试代理支付。",
+  "key_points": [
+   "Pliant完成8000万美元C轮，由Seaya Nova和Speedinvest领投，资金用于美国、加拿大扩张及新市场和AI路线图。",
+   "公司通过Model Context Protocol向Claude、ChatGPT及企业自建自动化开放支付工作流，内置权限、控制和审计追踪。",
+   "Pliant强调自己拥有持牌与合规层：Visa/Mastercard主会员、欧洲电子货币牌照，并在32国发行13种货币商业卡。",
+   "行业竞争升温：Visa、BILL、Billtrust试点AI代理支付供应商发票，Synchrony想把商店卡嵌入ChatGPT，Ramp估值达600亿美元。"
+  ],
+  "impact": "对AI行业，代理支付从概念进入受监管的落地阶段，MCP可能成为代理连接企业支付系统的重要接口。对开发者，可通过MCP/API把支付嵌入业务流程，但必须处理权限、审计与责任边界。对普通用户，发票、报销和供应商付款有望进一步自动化，但资金安全与纠纷责任仍由持牌机构兜底。",
+  "tools": "可关注Model Context Protocol（MCP）规范及Claude、ChatGPT连接器生态；开发者可试用OpenAI Agents SDK、LangChain搭建支付工作流，并跟踪Visa、BILL、Billtrust的代理支付试点。"
+ },
+ "lang": "zh"
+}

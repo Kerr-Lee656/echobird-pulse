@@ -10222,5 +10222,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-04T10:10:27Z",
   "fetched_at": "2026-11-04T12:07:57.891839+00:00"
+ },
+ "c0ca20344316": {
+  "id": "c0ca20344316",
+  "url": "https://www.uber.com/gb/en/blog/designing-mcp-gateway/",
+  "title": "Designing Uber's MCP Gateway",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T19:39:53Z",
+  "fetched_at": "2026-11-04T19:44:39.323352+00:00"
+ },
+ "5112f3d51982": {
+  "id": "5112f3d51982",
+  "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "title": "Open source AI is booming. Hugging Face explains who profits.",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-04T19:30:04.000Z",
+  "fetched_at": "2026-11-04T19:44:51.618959+00:00"
+ },
+ "fcd6e9a9a303": {
+  "id": "fcd6e9a9a303",
+  "url": "https://www.reasond.de/topics/6aeb8450718f8e90f14f241f",
+  "title": "Should cities restrict new AI data centers? The case for each side, with sources",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T19:29:22Z",
+  "fetched_at": "2026-11-04T19:45:05.380202+00:00"
+ },
+ "dfdef4eb7560": {
+  "id": "dfdef4eb7560",
+  "url": "https://aihot.news/items/se9yjzn1asv817vcahsxd5zpw",
+  "title": "Moonshot AI 在 HuggingFace 开放 2.8T 参数 Kimi K3.1 Pro 权重",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-04T19:16:42.000Z",
+  "fetched_at": "2026-11-04T19:45:36.853284+00:00"
+ },
+ "dfa876a54a2d": {
+  "id": "dfa876a54a2d",
+  "url": "https://www.ricursive.com/ripple",
+  "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+  "source": "Hacker News (11pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T18:53:29Z",
+  "fetched_at": "2026-11-04T19:46:31.801218+00:00"
+ },
+ "2692776bcaed": {
+  "id": "2692776bcaed",
+  "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+  "title": "China's first AI-generated film is a flop. Some still see it as the future",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T18:37:16Z",
+  "fetched_at": "2026-11-04T19:46:43.998015+00:00"
+ },
+ "df5933d52d31": {
+  "id": "df5933d52d31",
+  "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
+  "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That",
+  "source": "Hacker News (2pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T18:30:59Z",
+  "fetched_at": "2026-11-04T19:46:56.496560+00:00"
+ },
+ "fc0c677fb842": {
+  "id": "fc0c677fb842",
+  "url": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
+  "title": "Accenture Contractor Linked Personal Claude AI Agent to Pentagon System",
+  "source": "Hacker News (8pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T18:11:21Z",
+  "fetched_at": "2026-11-04T19:47:06.908096+00:00"
+ },
+ "761e5b0f92c1": {
+  "id": "761e5b0f92c1",
+  "url": "https://aihot.news/items/rt92cw12z1dsqozka4y4wzl2v",
+  "title": "美国中期选举中选民广泛否决 AI 数据中心提案",
+  "source": "404 Media",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-04T17:58:22.000Z",
+  "fetched_at": "2026-11-04T19:47:24.617850+00:00"
  }
 }

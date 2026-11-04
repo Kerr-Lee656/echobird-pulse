@@ -20761,5 +20761,41 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-04T00:10:04Z",
   "fetched_at": "2026-11-04T12:05:38.017127+00:00"
+ },
+ "9a66a9476221": {
+  "id": "9a66a9476221",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+  "title": "Google hasn’t figured out how to make AI pay like its search engine",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T19:43:05.427590+00:00"
+ },
+ "0091455cd170": {
+  "id": "0091455cd170",
+  "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
+  "title": "Pliant raises $80M to open its B2B payments platform to AI agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T19:43:15.438385+00:00"
+ },
+ "d5a060648a16": {
+  "id": "d5a060648a16",
+  "url": "https://www.qbitai.com/2026/11/507647.html",
+  "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-04T19:43:42.696319+00:00"
+ },
+ "34333f558f70": {
+  "id": "34333f558f70",
+  "url": "https://www.linum.ai/field-notes/pjit-21k",
+  "title": "Show HN: 一个训练成本约为 2 万美元的优质文本转图像模型（Apache 2.0 权重）",
+  "source": "www.linum.ai",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-04T16:59:54.636Z",
+  "fetched_at": "2026-11-04T19:44:07.635709+00:00"
  }
 }
