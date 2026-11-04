@@ -20680,5 +20680,86 @@
   "site_name": "Zeli",
   "published_at": "2026-11-03T21:26:44Z",
   "fetched_at": "2026-11-04T02:18:09.005030+00:00"
+ },
+ "d240b9a8cc35": {
+  "id": "d240b9a8cc35",
+  "url": "https://mashable.com/tech/canva-mass-layoffs-ai-restructuring",
+  "title": "Canva conducts mass layoffs, over 1200 workers potentially impacted",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-04T12:03:52.226765+00:00"
+ },
+ "923b8ffd3182": {
+  "id": "923b8ffd3182",
+  "url": "https://www.aibase.com/news/32076",
+  "title": "欧洲法院顾问警告：Gemini若绕过付费墙或复用内容或涉嫌侵权",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:04:16.728762+00:00"
+ },
+ "87949b241461": {
+  "id": "87949b241461",
+  "url": "https://www.aibase.com/news/32074",
+  "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:04:26.692793+00:00"
+ },
+ "52a6f6f0df92": {
+  "id": "52a6f6f0df92",
+  "url": "https://www.aibase.com/news/32070",
+  "title": "消息称字节跳动大面积限制员工自费使用第三方AI工具",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:04:37.319614+00:00"
+ },
+ "4095e47a23ad": {
+  "id": "4095e47a23ad",
+  "url": "https://www.aibase.com/news/32065",
+  "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:04:47.277748+00:00"
+ },
+ "2fcc060ce195": {
+  "id": "2fcc060ce195",
+  "url": "https://www.aibase.com/news/32064",
+  "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:04:59.426555+00:00"
+ },
+ "b0d45360e870": {
+  "id": "b0d45360e870",
+  "url": "https://www.aibase.com/news/32063",
+  "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-04T03:50:59.446Z",
+  "fetched_at": "2026-11-04T12:05:08.630703+00:00"
+ },
+ "b643ea2f411a": {
+  "id": "b643ea2f411a",
+  "url": "https://www.ithome.com/1/021/917.htm",
+  "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-04T01:12:30Z",
+  "fetched_at": "2026-11-04T12:05:15.923334+00:00"
+ },
+ "8b520bcd01fe": {
+  "id": "8b520bcd01fe",
+  "url": "https://www.huxiu.com/article/4902791.html?f=rss",
+  "title": "Anthropic 招股书里，藏着中国AI 最难跨越的鸿沟",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-04T00:10:04Z",
+  "fetched_at": "2026-11-04T12:05:38.017127+00:00"
  }
 }

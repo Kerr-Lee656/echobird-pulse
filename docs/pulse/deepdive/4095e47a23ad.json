@@ -1,0 +1,24 @@
+{
+ "id": "4095e47a23ad",
+ "url": "https://www.aibase.com/news/32065",
+ "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-04T03:50:59.446Z",
+ "fetched_at": "2026-11-04T12:04:47.277748+00:00",
+ "content": "Apple released the first developer beta of iOS 27.3 early this morning, officially opening the first batch of features in the China-market version of “Apple Intelligence & Siri” for users to try. Features announced on Apple’s Chinese website include Writing Tools, Live Translation, Clean Up, Genmoji, and Notification Summaries, marking the start of Apple’s AI features rolling out to users in mainland China.\nAn important change in this update is integration with Alibaba’s Qwen. Qwen has been integrated into Siri, Visual Intelligence, and Writing Tools, allowing users to directly perform Q&A, text generation, and image processing within the system. According to Ifanr’s tests, Visual Intelligence’s image-based product search also integrates Baidu Search. Siri, meanwhile, uses a glowing halo interaction design around the edges of the screen and supports double-tapping the bottom of the screen to switch to text input.\nIn actual use, Siri can directly invoke Qwen to answer basic questions. For example, when a user asks about sleep issues, Siri can provide general advice; if a personalized plan is needed, the user can tap the Qwen logo to jump to the Qwen app, where the existing conversation information will automatically sync. Qwen can also combine the user’s previous sleep records, exercise data, and lifestyle habits to provide further suggestions.\nLive Translation covers Messages, Phone, and FaceTime, with Phone and FaceTime only supporting one-on-one calls. AirPods translation requires the earbuds to be updated to the latest firmware and paired with an iPhone with Apple Intelligence enabled.\nThe first batch of features supports the iPhone 15 Pro series, the entire iPhone 16 lineup and later models, as well as iPhone Air and iPhone Duo. The device and Siri language must be set to Simplified Chinese or English. Note that this rollout only covers the first batch of Apple Intelligence features; the new Siri AI previewed at WWDC 2026 has not yet launched. This update from Apple also means its AI localization deployment in the Chinese market is moving forward further.",
+ "report": {
+  "summary": "苹果国行AI首测：Siri、视觉智能接入阿里千问",
+  "background": "Apple Intelligence 于2024年在海外首发，但受中国生成式AI服务备案与数据本地化合规要求约束，国行版本一直推迟。苹果需与持牌本土大模型厂商合作，此前市场传闻在百度、阿里之间摇摆，最终落地阿里通义千问。此次 iOS 27.3 开发者测试版开放首批功能，意味着苹果在华AI本地化从传闻进入实际交付阶段，也是国行iPhone在AI体验上补齐与海外差距的关键一步。",
+  "key_points": [
+   "首批国行功能包括写作工具、实时翻译、照片消除（Clean Up）、Genmoji表情和通知摘要，基本对齐海外首发清单。",
+   "千问被嵌入Siri、视觉智能与写作工具三处核心入口，用户可在系统内直接问答、生成文本和处理图片，不必跳转三方App。",
+   "视觉智能的图片搜商品还接入了百度搜索，说明苹果在华采取多家本土服务商并行的组合式方案。",
+   "Siri改为屏幕边缘光环交互，支持双击底部切换文字输入；个性化建议可点击千问图标跳转App，聊天与健康、运动数据自动同步。",
+   "仅支持 iPhone 15 Pro 及 iPhone 16 后续机型、iPhone Air 等，语言需设为简体中文或英文，WWDC 2026 预览的新版Siri尚未上线。"
+  ],
+  "impact": "对AI行业而言，这是国际终端巨头首次把国产大模型作为系统级底座，验证了“外资硬件+本土模型”的合规落地范式，可能吸引更多海外厂商跟进。对开发者，系统级AI入口的开放程度、能否调用千问能力做插件，将催生新的应用形态与适配需求。对普通用户，国行iPhone终于能用上端侧AI写作、通话翻译与照片消除，但功能分批放开、机型门槛较高，短期内体验仍不完整。",
+  "tools": "想跟进可关注：通义千问App与Qwen开源系列模型（可本地部署对比效果）、阿里云百炼平台API（开发者调用Qwen能力）、苹果开发者计划以获取iOS 27.3测试版实测，以及ModelScope魔搭社区获取中文多模态模型示例。"
+ },
+ "lang": "zh"
+}

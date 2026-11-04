@@ -1,0 +1,24 @@
+{
+ "id": "b0d45360e870",
+ "url": "https://www.aibase.com/news/32063",
+ "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-04T03:50:59.446Z",
+ "fetched_at": "2026-11-04T12:05:08.630703+00:00",
+ "content": "On November 3, 2026, Google announced plans to let schools disable AI tools for elementary and middle school students starting next year, provided that school administrators explicitly choose to disable them. This adjustment will directly affect major apps such as Gemini, NotebookLM, Gemini in Classroom, and Google Search.\nBecause current Google Search is deeply integrated with artificial intelligence, schools that choose to disable AI features will no longer be able to access Google Search; instead, they will see a notice that search functionality is unavailable.\nThis policy adjustment has created a difficult choice for the education sector. Some teachers want to prevent students from relying on ready-made answers through Search's AI Overview feature and hindering their learning, but because this search engine is already inseparable from AI features, schools that want to maintain basic search resources and learning materials have no choice but to accept the built-in AI tools. As a tech giant that holds a dominant position in classrooms and Chromebooks, Google's move highlights its deep influence in the education technology field.\nChris Phillips, Google's vice president of education, said the company aims to share more transition details with schools in the coming months and give school administrators autonomy to control the use of AI products in classrooms according to their own circumstances. This transformation reflects that, when addressing the learning disruption caused by AI chatbots providing direct answers, the education sector faces a realistic trade-off between bundled tools and voluntary choice.",
+ "report": {
+  "summary": "谷歌允许学校禁用AI，但禁用即失去搜索访问权",
+  "background": "过去两年，谷歌把 Gemini 深度嵌入搜索的 AI Overview、Classroom 与 Chromebook 生态，AI 已与搜索功能绑定。与此同时，学校与教师 increasingly 抱怨学生直接用 AI 摘要抄答案，学习被架空。此前教育界多要求“可选关闭”AI 功能，谷歌此次给出方案：学校管理员可主动申请禁用面向中小学生的 AI 工具，但代价是连 Google Search 一并停用。这暴露了打包式产品策略与教育场景“按需裁剪”诉求之间的根本矛盾，也发生在各国监管机构持续关注未成年人使用 AI 的背景下。",
+  "key_points": [
+   "学校管理员可选择为中小学生关闭 Gemini、NotebookLM、Classroom 中的 Gemini 等 AI 功能，需主动申请。",
+   "由于搜索已与 AI 摘要深度绑定，禁用 AI 就等于停用整个 Google 搜索，学生只会看到“搜索不可用”提示。",
+   "教师的两难：既想阻止学生用 AI 摘要抄现成答案，又离不开搜索作为基础学习资源，只能被迫接受 AI。",
+   "谷歌在课堂与 Chromebook 市场占主导，这让“要么全要、要么全无”的选项具备很强的议价意味。",
+   "谷歌教育副总裁 Chris Phillips 称未来数月公布过渡细节，强调把控制权交给学校按自身情况决定。"
+  ],
+  "impact": "对 AI 行业而言，这是“AI 捆绑进核心产品”策略首次在教育等敏感场景遭遇正面反弹，可能推动监管要求 AI 功能可拆分、可审计、默认关闭。对开发者，意味着“模块化、可开关的 AI”将成为教育与政企采购的硬性要求，纯捆绑式集成会遇到阻力。对普通用户与家长，短期选择有限：要么接受带 AI 的搜索，要么转向其他搜索引擎与自建工具；长期看，学校和家庭将更看重能自行控制 AI 边界的软件与设备。",
+  "tools": "想跟进可关注：Gemini、NotebookLM、Google Classroom 官方开关策略；替代搜索与自建方案如 SearXNG、DuckDuckGo、Kagi；学校自托管可控 AI 可看 Open WebUI + Ollama、LibreChat，便于统一关闭或限制生成式功能。"
+ },
+ "lang": "zh"
+}

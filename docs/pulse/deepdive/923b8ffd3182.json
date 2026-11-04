@@ -1,0 +1,24 @@
+{
+ "id": "923b8ffd3182",
+ "url": "https://www.aibase.com/news/32076",
+ "title": "欧洲法院顾问警告：Gemini若绕过付费墙或复用内容或涉嫌侵权",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-04T03:50:59.446Z",
+ "fetched_at": "2026-11-04T12:04:16.728762+00:00",
+ "content": "A central lawsuit brought by a Hungarian website operator against Google has prompted the Advocate General at the Court of Justice of the European Union to formally issue an official opinion, clearly clarifying the copyright boundaries for artificial intelligence when handling news content. The opinion states that under certain circumstances, Google's AI chatbot Gemini may violate copyright rules by using news reports. If it illegally bypasses paywalls or uses other means to obtain content, or reuses the specific expression of news reports in an identifiable way in its answers, it may infringe publishers' reproduction rights.\nDrawing the Legal Boundary: Mere Facts Are Not Protected, and Training Models Is a Lawful Exception\nIn this legal opinion, which has attracted widespread industry attention, the Advocate General broke down in detail the scope of copyright protection and the compliance of large-model training:\nThe Boundary of Copyright Protection: Copyright rules explicitly state that mere facts in news are not protected, and only the specific expression of those facts is protected. This means that it is not in itself a violation for AI to scrape and summarize the objective facts behind news; the key lies in the extent to which the original text is reused when generating content.\nThe Text and Data Mining (TDM) Exception: The current text and data mining (TDM) exception allows copyrighted material to be used to train large language models within a compliant framework.\nFar-Reaching Industry Impact: Non-Binding Opinion May Bring a Turning Point for Traditional Media\nIt should be noted that the opinion itself is not directly legally binding, but it is usually taken into account and adopted by judges of the European Court of Justice when making a final ruling.\nAnalysts point out that if the court ultimately rules against Google, it may bring relevant online media new opportunities for survival and greater confidence to defend their rights. Previously, because AI chatbots directly generated news summaries in place of traditional search results with outbound links, traditional media websites saw severe declines in organic traffic and advertising revenue. The evolution of this legal dispute may, in the future, help drive the establishment of a fairer mechanism for content use and benefit-sharing between tech giants and news publishers.",
+ "report": {
+  "summary": "欧洲法院顾问：Gemini绕过付费墙或复用新闻表达可能侵权",
+  "background": "匈牙利网站运营者起诉谷歌，引发欧盟法院顾问意见。此前AI摘要替代搜索链接致媒体流量广告下滑。意见明确新闻事实不受版权保护，但特定表达受保护；文本数据挖掘训练例外仍适用。该意见不具约束力但常被法院采纳，或推动内容使用与收益分配机制调整。",
+  "key_points": [
+   "欧盟法院顾问意见：Gemini若绕过付费墙抓取新闻，或在答案中可识别地复用原文表达，可能侵犯出版商复制权。",
+   "版权只保护新闻的具体表达，不保护事实本身；AI抓取并总结客观事实通常不侵权，关键看原文复用量。",
+   "现有文本与数据挖掘（TDM）例外允许在合规框架下用版权材料训练大模型，为AI训练留出空间。",
+   "该意见虽不具法律约束力，但欧洲法院法官在最终裁决时通常会参考采纳，因此被视为重要风向标。",
+   "若最终判谷歌败诉，可能为传统媒体带来维权信心和新生存机会，推动科技巨头与出版商公平分成。"
+  ],
+  "impact": "对AI行业，新闻内容使用边界更清晰，合规成本上升；开发者需注意抓取来源、付费墙规避和输出复述程度；普通用户可能看到更少直接新闻摘要、更多引用链接或付费内容。对媒体而言或迎维权与议价契机。",
+  "tools": "可关注：Common Crawl合规抓取、robots.txt/付费墙识别工具、内容溯源与相似度检测（Diffbot、Copyscape）、开源正文提取Trafilatura、SimHash/MinHash去重，以及Google News Showcase等新闻授权平台。"
+ },
+ "lang": "zh"
+}

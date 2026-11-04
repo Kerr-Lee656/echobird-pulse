@@ -1,0 +1,24 @@
+{
+ "id": "2fcc060ce195",
+ "url": "https://www.aibase.com/news/32064",
+ "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-04T03:50:59.446Z",
+ "fetched_at": "2026-11-04T12:04:59.426555+00:00",
+ "content": "Peeling \"search\" off Google's marquee is becoming muscle memory for more and more people. A Pew Research Center survey this summer found that getting information is now the most common use of AI among U.S. adults—42% of respondents admitted to using AI to search for things, and among employed people, 38% use it for work tasks, while entertainment, reading news, and asking for medical advice account for much smaller shares. And among all chatbots, ChatGPT is the \"go-to\" gateway for the masses: 44% of U.S. adults have used it, while second-place Gemini sits at just 24%.\nFry confirms it himself: the gap has shrunk from \"zero\" to \"20 percent\"\nJust how big is this opening? Adam Fry, ChatGPT's consumer product lead, gives a hard number: search-like queries on ChatGPT now amount to roughly 20% of Google's search volume. That means the \"input box\" that Google once monopolized is quietly losing one-fifth of its attention to AI conversations.\nTake the long view, and this battle is far from over. Last year, Alphabet CEO Sundar Pichai poured \"cold water\" on the idea: although chatbots have gathered hundreds of millions of users, Google search volume is still growing, and the two sides are \"far from a zero-sum game\"—he drew an analogy to TikTok, noting that YouTube still grew after short video took off. In other words, AI search is competing for incremental mindshare, not simply swallowing Google's pie. But now that ChatGPT has already taken a 20% bite, the old order of the search market is clearly starting to loosen.",
+ "report": {
+  "summary": "ChatGPT搜索查询量已达谷歌约20%，搜索入口格局出现松动",
+  "background": "AI搜索正从边缘走向主流。Pew今夏调查显示，42%美国成年人用AI查找信息，已成AI最常见用途。ChatGPT以44%使用率成为大众首选，Gemini仅24%。谷歌长期垄断搜索入口，Alphabet CEO皮查伊曾称AI与搜索并非零和、搜索量仍在增长；但ChatGPT消费产品负责人弗里如今给出硬数据：ChatGPT上的搜索类查询已约为谷歌搜索量的20%。",
+  "key_points": [
+   "Pew调查显示，42%美国成年人用AI搜索信息，比例超过工作、娱乐、读新闻和医疗咨询，搜索成为AI最主流用途。",
+   "ChatGPT是大众首选AI入口：44%美国成年人用过ChatGPT，第二名Gemini仅24%，用户心智差距明显。",
+   "ChatGPT消费产品负责人弗里透露，ChatGPT搜索类查询量已约为谷歌搜索量的20%，从零到两成只用不长时间。",
+   "谷歌CEO皮查伊此前称搜索仍在增长、双方非零和，还类比TikTok与YouTube；但20%的数据说明旧搜索秩序开始松动。",
+   "AI搜索更多在争夺增量心智份额，而非简单吞掉谷歌蛋糕；但入口迁移一旦形成习惯，竞争格局可能持续改写。"
+  ],
+  "impact": "对AI行业，搜索成为大模型落地核心场景，AI助手正从问答工具升级为信息入口，巨头与创业公司竞争加剧。对开发者，检索增强、垂直搜索、答案可信度与引用溯源成为新机会。对普通用户，多了一个更自然的信息获取入口，但也需警惕答案错误、信息茧房和商业推荐对搜索中立性的影响。",
+  "tools": "想跟进可关注Perplexity、You.com、Phind、Kagi等AI搜索产品；开发者可上手LangChain/LlamaIndex的RAG链路，结合Tavily、Exa等搜索API，或OpenAI的联网搜索能力做原型。"
+ },
+ "lang": "zh"
+}

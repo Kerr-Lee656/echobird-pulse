@@ -10168,5 +10168,59 @@
   "site_name": "The Verge",
   "published_at": "2026-11-03T18:30:42.000Z",
   "fetched_at": "2026-11-03T21:47:35.597214+00:00"
+ },
+ "d2150a037649": {
+  "id": "d2150a037649",
+  "url": "https://llama.app/models",
+  "title": "Desktop app from the llama.cpp team (Mac OS and Windows)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T12:00:53Z",
+  "fetched_at": "2026-11-04T12:06:23.689721+00:00"
+ },
+ "4c980086af94": {
+  "id": "4c980086af94",
+  "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+  "title": "AI Slop Threatens Trust in Science",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T11:51:32Z",
+  "fetched_at": "2026-11-04T12:07:00.102112+00:00"
+ },
+ "f05404765bfb": {
+  "id": "f05404765bfb",
+  "url": "https://github.com/MyceliaCognition/cerberus-agi-kernel",
+  "title": "Show HN: Cerberus MCP – Flash and sandbox beats Argon 100% vs. 50% on ARC-AGI-2",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T11:22:31Z",
+  "fetched_at": "2026-11-04T12:07:16.339351+00:00"
+ },
+ "7bf2baae197f": {
+  "id": "7bf2baae197f",
+  "url": "https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data",
+  "title": "AI coding agents are installing abandoned MCP servers with known security issues",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T10:58:43Z",
+  "fetched_at": "2026-11-04T12:07:27.434083+00:00"
+ },
+ "7c2f585f4a14": {
+  "id": "7c2f585f4a14",
+  "url": "https://developer.apple.com/news/?id=gdk2umrf",
+  "title": "Siri AI is now open to all developers",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T10:17:19Z",
+  "fetched_at": "2026-11-04T12:07:40.843845+00:00"
+ },
+ "d5eecd06151a": {
+  "id": "d5eecd06151a",
+  "url": "https://news.ycombinator.com/item?id=50363461",
+  "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+  "source": "Hacker News (70pts, 26c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T10:10:27Z",
+  "fetched_at": "2026-11-04T12:07:57.891839+00:00"
  }
 }
