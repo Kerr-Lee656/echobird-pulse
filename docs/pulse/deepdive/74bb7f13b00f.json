@@ -1,0 +1,25 @@
+{
+ "id": "74bb7f13b00f",
+ "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+ "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T23:36:27.651378+00:00",
+ "content": "Dropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to be its largest acquisition to date.\nAnnounced Thursday, the deal is expected to strengthen Dropbox’s AI infrastructure capabilities and support the development of DBX Agent Cloud, a new storage platform aimed at businesses and developers building AI models and agents.\nDropbox told TechCrunch via email that the transaction is expected to close in the fourth quarter of 2026. The company also said it currently has no plans to reduce headcount as part of the acquisition. The company already cut 9% of its global workforce last month, WSJ reported.\nDBX Agent Cloud will initially offer object storage as a stand-alone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service), which is a cloud storage service that enables businesses to store and retrieve large volumes of data.\nBeyond its infrastructure ambitions, Dropbox is also bringing more AI capabilities to its core product. Users will be able to ask AI to perform supported tasks using their files, choose between different AI models, and connect their Dropbox content to third-party tools, including ChatGPT, Claude, and Muse.\nThe company also plans to expand DBX Agent Cloud with additional capabilities designed to help AI systems work with different types of content, including documents, images, audio, and video. Other planned additions include filesystem features that will allow AI agents to manage files and maintain continuity across tasks and sessions.\nDropbox says the updated experience has already reached more than 70,000 teams. The initial rollout is available to eligible Standard and Advanced customers in the U.S., U.K., and Australia, with broader availability planned for 2027.\nTigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure. The company provides cloud storage technology that helps businesses store and access data across different regions. Its platform automatically positions data closer to the users and computing resources that need it, helping reduce access times and improve performance.\nTigris Data raised $25 million in a Series A funding round last year.\nWhile the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A. Dropbox has previously acquired several AI-focused companies, including Reclaim.ai, Promoted.ai, and Mobius Labs.",
+ "report": {
+  "summary": "Dropbox 3.5亿美元收购 Tigris Data，进军AI存储基础设施",
+  "background": "Dropbox 长期以文件同步与云存储为主业，在AI浪潮下增长乏力，上月刚裁减9%全球员工。此前它已陆续收购 Reclaim.ai、Promoted.ai、Mobius Labs 等AI公司，但多为应用层能力补充。Tigris Data 由参与构建 Uber 存储基础设施的前Uber工程师创立，去年刚完成2500万美元A轮，核心能力是跨区域自动就近调度数据的对象存储，兼容 S3 接口。此次收购是Dropbox迄今最大一笔交易，意在从消费级工具转向面向AI开发者的基础设施供应商，与AWS、Cloudflare等争夺AI数据底座市场。",
+  "key_points": [
+   "交易金额3.5亿美元，为Dropbox史上最大收购，预计2026年第四季度完成，且明确不因收购裁员。",
+   "收购核心目的是支撑DBX Agent Cloud——一个面向企业和AI开发者的存储平台，先以独立对象存储产品形态落地。",
+   "DBX Agent Cloud 兼容 Amazon S3 接口，企业可直接沿用现有S3工具和应用，降低迁移成本，这是对AWS的正面叫板。",
+   "Tigris 的差异化在于数据自动就近放置，靠近用户和算力资源，从而降低访问延迟，这对AI推理和Agent场景尤为关键。",
+   "Dropbox 主产品也在加AI：用户可用文件让AI执行任务、切换不同模型，并把内容接入ChatGPT、Claude等第三方工具。",
+   "后续规划包括多模态内容（文档、图像、音视频）支持，以及让AI Agent管理文件、跨会话保持连续性的文件系统能力。"
+  ],
+  "impact": "对AI行业而言，这是“老牌SaaS转型AI基础设施”的标志性案例，说明存储层正成为Agent时代的新战场，S3兼容+地理就近调度可能成为标配能力。对开发者来说，多了一个兼容S3的低延迟存储选项，尤其适合跨区域部署的推理与Agent应用，但需观察被收购后产品独立性与定价策略。对普通用户，Dropbox 将变成能用自然语言操作文件、可接入ChatGPT/Claude的AI工作台，不过初期仅限美英澳的Standard/Advanced企业客户，全面铺开要等到2027年。",
+  "tools": "想上手可关注：Tigris Data（S3兼容、全球就近访问的对象存储）、MinIO与Cloudflare R2（自建或低成本S3替代方案）、AWS S3本身作为对照基线；Agent侧可试用LangChain、LlamaIndex配合对象存储做检索，以及OpenAI、Anthropic官方SDK对接Dropbox新开放的连接能力。"
+ },
+ "lang": "zh"
+}

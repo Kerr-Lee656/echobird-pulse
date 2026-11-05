@@ -20977,5 +20977,77 @@
   "site_name": "AIbase",
   "published_at": "2026-11-05T08:42:16.082Z",
   "fetched_at": "2026-11-05T18:02:05.415102+00:00"
+ },
+ "74bb7f13b00f": {
+  "id": "74bb7f13b00f",
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+  "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:36:27.651378+00:00"
+ },
+ "e60938282d7c": {
+  "id": "e60938282d7c",
+  "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+  "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:36:39.992702+00:00"
+ },
+ "886b4271506a": {
+  "id": "886b4271506a",
+  "url": "https://thenextweb.com/news/shield-ai-echodyne-5-3b-acquisition-28-8b-valuation",
+  "title": "Shield AI buys radar maker Echodyne for $5.3B at a $28.8B valuation",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:36:52.911879+00:00"
+ },
+ "0a266ea9e76e": {
+  "id": "0a266ea9e76e",
+  "url": "https://thenextweb.com/news/anthropic-compute-costs-58-percent-revenue-broadcom-backstop",
+  "title": "Anthropic’s compute costs rose to 58% of revenue last quarter, filing shows",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:37:04.878414+00:00"
+ },
+ "e30630887afc": {
+  "id": "e30630887afc",
+  "url": "https://thenextweb.com/news/anthropic-flashprove-provable-inference-ai-model-identity",
+  "title": "Anthropic open-sources FlashProve to prove which AI model wrote an answer",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:37:16.229940+00:00"
+ },
+ "b7b83733a1a6": {
+  "id": "b7b83733a1a6",
+  "url": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11",
+  "title": "OpenAI lays out new policy framework for data centers",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:37:35.721826+00:00"
+ },
+ "15f6f3f13bae": {
+  "id": "15f6f3f13bae",
+  "url": "https://wallstreetcn.com/livenews/3195268",
+  "title": "OpenAI 推出 GPT-6 Cyber，其网络安全评级为「关键」级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-05T23:37:46.079455+00:00"
+ },
+ "bf3d652a2328": {
+  "id": "bf3d652a2328",
+  "url": "https://www.aibase.com/news/32122",
+  "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-05T17:41:34.650Z",
+  "fetched_at": "2026-11-05T23:37:59.502946+00:00"
  }
 }

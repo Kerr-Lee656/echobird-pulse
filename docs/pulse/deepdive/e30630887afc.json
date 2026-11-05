@@ -1,0 +1,23 @@
+{
+ "id": "e30630887afc",
+ "url": "https://thenextweb.com/news/anthropic-flashprove-provable-inference-ai-model-identity",
+ "title": "Anthropic open-sources FlashProve to prove which AI model wrote an answer",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T23:37:16.229940+00:00",
+ "content": "Anthropic has released FlashProve, an open-source prototype that lets anyone check that an AI reply came from the model a provider says it used. The company published the code, a technical report and formal proofs in a research post on Monday.\nToday a user cannot tell whether a router quietly swapped in a cheaper model, or whether an attacker tampered with the replies. FlashProve tackles this with “provable inference”. The provider publishes a fingerprint of its model weights. Each reply then comes with a cryptographic proof that those weights produced it.\nThe proof reveals nothing about the weights themselves, Anthropic said. That matters for labs such as Anthropic and OpenAI, which keep their weights private.\n“This research post is meant to share intermediate progress, and not a completed research agenda.” Anthropic\nHow fast it is\nFlashProve uses a type of zero-knowledge proof called a zkSNARK. Anthropic tested it on Meta’s open Llama 4 Maverick, a 400bn-parameter mixture-of-experts model. A single Nvidia H100 produced proofs at about 110 tokens a second, with a proof of about 19MB for each 1,024-token request.\nThat is 70 to 95 times the GPU time of running the model normally, Anthropic said. Checking a proof takes about 17 seconds on an ordinary CPU, with no GPU and no access to the weights. The only earlier proof of the same model took 14.3 hours for 1,000 tokens, according to the post.\nClaude helped build the system, Anthropic said. Because Claude’s choices can be hard to audit, the team wrote the key security guarantees as machine-checked proofs in Lean, a formal verification language. The code is released under the Apache 2.0 licence.\nUses and limits\nAnthropic sees several uses. Independent evaluators, who already test labs’ models, could confirm they are testing the model being served. Customers of routing services could check they got the model they paid for, not a cheaper or distilled one. Labs have accused rivals of distillation campaigns this year.\nRegulators could also check that a provider’s chips were serving approved models. That links the work to Dario Amodei’s call to pace the frontier of AI.\nThe prototype has clear limits. It handles contexts of only 1,024 tokens, far below what chatbots use. It works only with mixture-of-experts models, and it hides the weights but not the model’s design. It does not cover timing attacks either.\nThere are no plans to deploy it at Anthropic or any other lab, TechCrunch reported. Anthropic said it met its own goal on verifying model outputs through a separate project, which signs its traffic and rechecks it on a trusted server.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic开源FlashProve，可验证AI回答的模型来源。",
+  "background": "当前API和模型路由服务中，用户难以确认服务商是否偷偷换用更便宜或蒸馏后的模型，也难以判断回复是否被篡改。Anthropic推出可验证推理原型FlashProve，试图用密码学证明把模型权重指纹与具体输出绑定，同时不泄露闭源权重，回应模型身份审计、防蒸馏和监管需求。",
+  "key_points": [
+   "FlashProve以Apache 2.0开源，包含代码、技术报告和形式化证明，让第三方验证某条AI回复确实由服务商声称的模型生成，且不暴露模型权重。",
+   "其原理是服务商发布权重指纹，每次回复附带zkSNARK证明；验证者用普通CPU约17秒即可校验，无需GPU，也无需访问模型权重。",
+   "在4000亿参数MoE模型Llama 4 Maverick上，单张H100生成证明约110 tokens/秒，每1024 token请求证明约19MB，但GPU耗时是正常推理的70至95倍。",
+   "原型限制明显：仅支持1024 token上下文和MoE模型，隐藏权重但不隐藏模型架构，也不防时序攻击；Anthropic暂无部署计划，另有签名流量方案。"
+  ],
+  "impact": "对AI行业，模型身份可验证可能成为审计、路由服务、防蒸馏和监管的新信任基础设施，但高证明成本限制短期落地。对开发者，zkSNARK与MoE推理证明、Lean形式化验证提供了新研究方向。对普通用户，长期有望确认付费模型未被降级偷换，但当前原型尚不影响日常产品体验。",
+  "tools": "可关注FlashProve的GitHub代码与技术报告，学习zkSNARK证明系统和Lean 4形式化验证，并跟踪Llama 4 Maverick等MoE模型上的可验证推理实验。"
+ },
+ "lang": "zh"
+}

@@ -10420,5 +10420,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-05T07:15:12Z",
   "fetched_at": "2026-11-05T09:27:27.501016+00:00"
+ },
+ "2bae9b1f767d": {
+  "id": "2bae9b1f767d",
+  "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+  "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+  "source": "Hacker News (8pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T23:09:57Z",
+  "fetched_at": "2026-11-05T23:39:19.431719+00:00"
+ },
+ "bedef810b608": {
+  "id": "bedef810b608",
+  "url": "https://vithushansylvester.com/writing/the-3-trillion-thursday",
+  "title": "Thursday's $3T tech sell-off, and what it means if you build AI products",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T23:01:22Z",
+  "fetched_at": "2026-11-05T23:39:32.120480+00:00"
+ },
+ "17b57e465570": {
+  "id": "17b57e465570",
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-05T22:40:55.000Z",
+  "fetched_at": "2026-11-05T23:39:59.231434+00:00"
+ },
+ "2165b65a40c2": {
+  "id": "2165b65a40c2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+  "title": "Perplexity launches its own take on AI agents for work",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-05T22:26:50.000Z",
+  "fetched_at": "2026-11-05T23:40:11.285405+00:00"
+ },
+ "e4c1f197010e": {
+  "id": "e4c1f197010e",
+  "url": "https://www.reasond.de/topics/6aebd8cc093b9d870af823b9",
+  "title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T21:10:15Z",
+  "fetched_at": "2026-11-05T23:40:42.920010+00:00"
+ },
+ "b4f7b72028bd": {
+  "id": "b4f7b72028bd",
+  "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+  "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+  "source": "Hacker News (63pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T20:21:43Z",
+  "fetched_at": "2026-11-05T23:40:57.078992+00:00"
+ },
+ "2910f78b5b74": {
+  "id": "2910f78b5b74",
+  "url": "https://aihot.news/items/m725rhhdt7a38zdd3aappeofn",
+  "title": "李飞飞宣传 World Labs 发布 Frameboy，可实时体验 Atlas 世界模型",
+  "source": "Fei-Fei Li",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-05T20:21:15.000Z",
+  "fetched_at": "2026-11-05T23:41:13.180380+00:00"
  }
 }

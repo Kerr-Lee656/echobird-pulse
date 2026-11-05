@@ -1,0 +1,24 @@
+{
+ "id": "886b4271506a",
+ "url": "https://thenextweb.com/news/shield-ai-echodyne-5-3b-acquisition-28-8b-valuation",
+ "title": "Shield AI buys radar maker Echodyne for $5.3B at a $28.8B valuation",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T23:36:52.911879+00:00",
+ "content": "Shield AI agreed to buy Echodyne, which makes radars for counter-drone systems, for $5.3B. It is raising $2.5B in equity and debt to fund the deal, at a $28.8B valuation. Shield wants Echodyne to help it sell beyond the military, to areas like public safety.\nShield AI has agreed to buy radar maker Echodyne for $5.3B and is raising $2.5B to help pay for it, the defence tech startup said on Thursday. The deal values Shield at $28.8B, more than double what it was worth in March, Bloomberg reported.\nThe money includes a $1B Series H co-led by Disruptive and Innovation X Capital, $1B of structured equity from Blackstone funds and $500M of debt from JPMorgan. Disruptive closed a $10B fund last month to make large bets on late-stage AI and defence companies.\nShield will pay $4.8B when the deal closes, plus up to $500M more if Echodyne hits performance targets. It expects to close in early 2027, and the new funding only goes ahead if it does.\nEchodyne, based in Kirkland, Washington, makes compact radars used in counter-drone and security systems in more than 40 countries. Its customers include the US military.\nShield makes Hivemind, AI software that flies military aircraft on its own, and the V-BAT surveillance drone. It is also building X-BAT, an AI-piloted fighter jet that takes off vertically. Chief executive Gary Steele said this week it would fly for the first time before the end of the year.\nEchodyne is Shield’s first step into “dual-use” hardware that can also be sold outside the military, Steele told Bloomberg. So far, all of Shield’s end users have been governments.\n“Think about public safety, whether it’s the Super Bowl or FIFA, just literally every single thing is going to need protection from drones,” Steele said.\nShield has raised $5.4B in equity so far, from backers including Andreessen Horowitz and Point72. Its staff has more than doubled in a year to nearly 2,300. Defence tech valuations are climbing fast: rival Anduril is now valued near $90B, and drone maker Mach Industries nearly quadrupled its value in June.\nSteele said he was not worried that Democrats winning both houses of Congress could mean more scrutiny of defence spending.\n“Even with the midterms, I think there will be a common view of what needs to be done on defense,” he said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Shield AI 53亿美元收购Echodyne，估值288亿美元。",
+  "background": "Shield AI 是以 Hivemind 自主飞行软件、V-BAT 无人机和 X-BAT 垂直起降 AI 战机为核心的国防科技公司；Echodyne 则生产用于反无人机和安全系统的紧凑雷达，客户包括美军并覆盖 40 多国。此次收购发生在美国国防科技估值快速攀升、资本大举流入的背景下，Shield 希望借雷达硬件从政府客户走向公共安全等双用途市场。",
+  "key_points": [
+   "交易总价53亿美元，其中48亿美元交割时支付，另有最高5亿美元绩效对价，预计2027年初完成。",
+   "为收购配套融资25亿美元，包括10亿美元H轮、10亿美元黑石结构化股权和5亿美元摩根大通债务，投后估值288亿美元。",
+   "Echodyne的紧凑雷达已用于40多国反无人机与安防系统，客户含美军，将补强Shield的感知与拦截能力。",
+   "Shield的核心是Hivemind自主飞行软件、V-BAT侦察无人机，以及今年底前首飞的X-BAT AI战机，强调软件定义自主作战。",
+   "这是Shield首次进入可军民用“双用途”硬件，CEO看好大型赛事等公共安全反无人机需求；国防科技同行估值也在飙升。"
+  ],
+  "impact": "对AI行业，国防AI正从软件走向“算法+传感器+平台”整合，头部公司融资与估值将进一步集中。对开发者，边缘感知、自主控制、仿真与反无人机系统将出现更多双用途机会，但需应对出口管制与伦理合规。对普通用户，公共安全反无人机能力或提升，也带来隐私和误识别风险。",
+  "tools": "可关注 PX4/ArduPilot、ROS 2、Gazebo、OpenCV/YOLO 等无人机自主与感知工具；反无人机雷达可跟踪 Echodyne 公开资料，射频研究可看 GNU Radio。"
+ },
+ "lang": "zh"
+}

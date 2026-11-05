@@ -1,0 +1,24 @@
+{
+ "id": "b7b83733a1a6",
+ "url": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11",
+ "title": "OpenAI lays out new policy framework for data centers",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T23:37:35.721826+00:00",
+ "content": "OpenAI has backed a new set of measures the company says will give communities a greater say in data center development, according to a policy announcement shared with POLITICO.\nThe framework shows how one of the world's leading artificial intelligence labs is attempting to reconcile public opposition to the infrastructure with Silicon Valley's need to keep building data centers to support artificial intelligence development.\nIn its new proposal, aimed at local, state and federal officials, the AI giant said state utility providers should require large electricity customers to cover the costs they add to the grid and protect other customers if a project falls through. It would also allow providers to throttle power to data centers during periods of high demand.\nUnder the blueprint, developers would also face public reporting requirements for facilities' water and energy usage, noise and potential job openings.\nThe proposal would also narrow, but not eliminate, the circumstances in which developers can require public officials to sign nondisclosure agreements — a point of contention for some communities who have been left in the dark on local developments due to the use of NDAs.\nOpenAI also unveiled new commitments to communities near its data centers, including a promise to pay for the full cost of energy usage and infrastructure, prioritize closed-loop cooling systems that use less water and work with local unions to fill jobs at the data centers. The company also pledged to invest in community improvement projects of the residents' choosing.\nOpenAI has been well aware of the public backlash against their facilities. The company previously promised to invest in community improvement projects selected by local residents. They also announced plans to rebrand data centers as \"compute campuses,\" an apparent acknowledgement of the widespread public dislike for the infrastructure's longtime name.\nThis story originally appeared on POLITICO and is courtesy of the Axel Springer Global Reporters Network, which harnesses the resources of the company's newsrooms to publish ambitious scoops, investigations, interviews, opinion pieces, and analysis. It allows journalists — including those from POLITICO, Business Insider, WELT, BILD, Onet, and Fakt — to collaborate on major stories for an international audience of hundreds of millions across platforms.",
+ "report": {
+  "summary": "OpenAI发布数据中心政策框架，回应社区反对",
+  "background": "AI训练和推理需要大量算力，OpenAI等公司正加速建设数据中心，但设施带来的电价、水资源、噪音和保密协议问题引发社区反弹。新框架面向地方、州和联邦官员，试图在硅谷扩张需求与社区知情权、成本公平之间取得平衡。OpenAI此前已承诺投资社区项目，并将数据中心改称“计算园区”以改善公众观感。",
+  "key_points": [
+   "要求大型电力客户承担新增电网成本，并在项目失败时保护其他用户，同时允许高需求期限电数据中心。",
+   "开发者须公开设施的水耗、能耗、噪音和潜在岗位信息，提升社区与监管透明度。",
+   "收窄但未取消开发商要求官员签署保密协议（NDA）的适用范围，回应社区被蒙在鼓里的争议。",
+   "OpenAI承诺支付全部能源和基础设施成本，优先采用少用水的闭环冷却，并与当地工会合作招聘。",
+   "承诺投资居民选择的社区改善项目，并把数据中心改称“计算园区”，以缓和公众对基础设施的负面观感。"
+  ],
+  "impact": "对AI行业而言，数据中心扩张不再只是资本和技术问题，社区许可、电网成本和透明度将成硬约束；开发者需提前设计能耗水耗披露、需求响应和社区沟通机制；普通用户短期可能面对基础设施成本传导，但长期有望减少资源争夺和社区冲突，限电机制也可能影响高负载AI服务的稳定性。",
+  "tools": "可关注OpenAI政策原文与POLITICO报道；开发者可研究PyPSA、GridLAB-D等开源电网建模工具，以及数据中心PUE/WUE监测和需求响应方案，用于评估选址、能耗与社区影响。"
+ },
+ "lang": "zh"
+}

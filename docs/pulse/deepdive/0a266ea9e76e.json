@@ -1,0 +1,24 @@
+{
+ "id": "0a266ea9e76e",
+ "url": "https://thenextweb.com/news/anthropic-compute-costs-58-percent-revenue-broadcom-backstop",
+ "title": "Anthropic’s compute costs rose to 58% of revenue last quarter, filing shows",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T23:37:04.878414+00:00",
+ "content": "Anthropic compute costs grew faster than its revenue last quarter. Compute took 58% of revenue in the third quarter, up from 48%. TechCrunch’s Russell Brandom found the figures in Anthropic’s amended IPO filing.\nRevenue rose to $17bn, from $11.6bn the quarter before, as we reported on Monday. But a chart in the filing shows revenue per dollar of compute falling to 1.72x, from just over 2x, TechCrunch reported.\nShort-term compute costs more\nAnthropic’s compute and infrastructure bill reached $9.9bn in the quarter. Anthropic bought about half of it under short-term commitments, the filing says.\n“$5.0 billion of compute under short-term commitments, which currently costs significantly more than comparable compute procured under our multi-year commitments.” Anthropic, amended S-1\nTechCrunch tied the weaker margins to deals with smaller cloud providers, such as Britain’s Nscale. Anthropic says it can swap the short-term compute for cheaper long-term capacity. It plans to do so as dedicated data centres run on its behalf, under a programme it calls Anthropic Direct, come online, the filing says. TechCrunch called the margin dip more likely a blip than a lasting problem.\nStaff costs fell slightly, because some option awards became fully vested, the filing says. Anthropic spent $1.711bn on personnel in the quarter, down from $1.857bn, TechRadar reported from the filing. A year earlier it spent $489m. Stock-based pay made up $1.1bn of the quarter’s total.\nBroadcom’s backstop\nSuppliers also help pay for Anthropic’s chips. Bank of America, Citi, Morgan Stanley and Blackstone will fund a new company that buys Broadcom chips and leases them to Anthropic. The deal was announced on 26 October, and deliveries start in 2027. If Anthropic defaults, Broadcom has agreed to absorb losses on the $63bn deal, up to about $43bn once the kit is deployed, Wen Shao reported for Fortune.\nSeparately, Anthropic can pay rent with up to $42bn in convertible notes to Broadcom. That facility dates from March, and we covered it in October. The notes carry 9% interest and convert into shares at a 10% discount. If Anthropic misses certain revenue targets, that becomes 13% and a 15% discount, the filing shows. Anthropic says the targets sit well below its recent growth.\nAnthropic had $146.6bn in cash, short-term investments and available bank credit at the end of September, according to the filing.\n“Supplier financing supports construction; ultimately, paying for it requires revenue from end customers.” Stijn Van Nieuwerburgh, Columbia Business School, to Fortune\nOther suppliers tie funding to their hardware too. AMD has committed to buy up to $5bn of Anthropic shares, the filing shows. The money comes as its GPUs reach delivery and deployment milestones, the first expected in 2027. Anthropic is preparing one of the largest stock market listings on record.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic算力成本占营收58%，单位经济模型承压",
+  "background": "Anthropic 是 Claude 系列大模型的开发商，正筹备史上规模最大的 IPO 之一。大模型训练与推理极度依赖算力，行业普遍面临收入增长快、算力成本增长更快的差距。这份修订版 S-1 招股书首次让外界看清头部模型公司的单位经济模型，也暴露出算力供应链（博通、AMD、云厂商）与模型公司之间日益复杂的金融绑定：供应商垫资建厂、以股抵租、按交付里程碑入股等安排，正成为支撑巨额算力开支的常见手段。",
+  "key_points": [
+   "第三季度算力与基础设施支出达 99 亿美元，占 170 亿美元营收的 58%，高于上季度的 48%，成本增速跑赢收入。",
+   "每 1 美元算力投入换回的收入从上季度的 2 倍以上降至 1.72 倍，单位经济模型明显恶化。",
+   "约 50 亿美元算力通过短期合同采购，单价远高于多年长约；公司称待自建数据中心 Anthropic Direct 上线后换成长期容量即可改善。",
+   "博通联合美银、花旗、摩根士丹利、黑石成立公司购买芯片再租给 Anthropic，630 亿美元交易中博通承诺最高承担约 430 亿美元损失。",
+   "Anthropic 可用最多 420 亿美元可转债抵付租金（年息 9%），AMD 也承诺按 GPU 交付里程碑最多买入 50 亿美元股票，账上现金与授信 1466 亿美元。"
+  ],
+  "impact": "对 AI 行业来说，算力成本占营收一半以上正成为头部模型公司的常态，产业链利润继续向芯片和云厂商倾斜；供应商垫资实际上是把风险转回硬件端。对开发者来说，短期内 API 降价空间收窄，Claude 定价大概率维持坚挺，长期自建数据中心落地后成本有望回落。对普通用户来说，免费额度和低价订阅可能收紧，付费限制可能更早出现，企业级功能变现会加速。",
+  "tools": "想跟进算力经济性，可读 Anthropic 招股书 S-1 原文与 Epoch AI 的算力成本追踪；工程侧可关注 vLLM、SGLang 等推理优化框架，以及通过 Bedrock、Vertex 做多模型路由来压低单位推理成本。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "2910f78b5b74",
+ "url": "https://aihot.news/items/m725rhhdt7a38zdd3aappeofn",
+ "title": "李飞飞宣传 World Labs 发布 Frameboy，可实时体验 Atlas 世界模型",
+ "source": "Fei-Fei Li",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-05T20:21:15.000Z",
+ "fetched_at": "2026-11-05T23:41:13.180380+00:00",
+ "content": "Fei-Fei Li· @drfeifei · X·· 3 小时前精选AI 评分66\nAI 导读\n李飞飞转发 World Labs 官方账号，宣传其新发布的 Frameboy demo，可用于实时探索世界。Frameboy 是两个月前发布的自回归世界模型 Atlas 的高度优化版本，从云端 GPU 流式传输，最高可达 15 fps，支持像素级相机控制。\n推荐理由\nFei-Fei Li 亲自宣传 World Labs 实时探索 Atlas 的 demo Frameboy，读者可以直接上手体验实时世界探索。\n正文 · 原文\nReal time Atlas! Try it now! 🚀\n来源：Fei-Fei Li · x.com",
+ "report": {
+  "summary": "World Labs launches Frameboy, a demo that lets anyone explore its Atlas autoregressive world model in real time at up to 15 fps, promoted personally by Fei-Fei Li.",
+  "background": "World Labs was founded in 2024 by Fei-Fei Li with Justin Johnson, Christoph Lassner and Ben Mildenhall around the idea of spatial intelligence: models that generate persistent, navigable 3D scenes instead of flat 2D pixels. The company raised a large Series A on that thesis. Atlas, unveiled roughly two months ago, is an autoregressive world model that predicts the next frames conditioned on camera motion, inventing scenery on the fly rather than reconstructing it from captured video. The catch with autoregressive generation has always been inference cost: producing frames fast enough for a human to steer a camera is far harder than rendering a short offline clip. Frameboy is the engineering answer, a heavily optimized serving stack streamed from cloud GPUs, arriving as Google DeepMind, Decart and others race to show playable generated worlds.",
+  "key_points": [
+   "Frameboy is a speed-optimized version of Atlas, not a new model. The same autoregressive world model now runs interactively, streamed from cloud GPUs at up to 15 frames per second, moving World Labs from offline clip generation toward something a user can actually drive.",
+   "It supports pixel-level camera control. Users steer the viewpoint freely and the model generates matching pixels in real time, so the world is synthesized on demand rather than replayed from a pre-built 3D asset or video capture.",
+   "Distribution is the story. Unlike rivals that keep demos behind waitlists, World Labs is inviting the public to try it immediately, and Li is amplifying it personally, a signal the company is shifting from research papers to product and user acquisition.",
+   "Fifteen fps is still far from game-grade smoothness. Latency, resolution, scene persistence and object consistency over long sessions remain open problems that will decide whether world models become products or stay impressive tech demos.",
+   "The timing matters competitively. Playable world models are becoming a crowded frontier, and shipping a public real-time demo stakes out World Labs' claim ahead of a likely commercial offering."
+  ],
+  "impact": "For the AI industry, Frameboy shifts the competitive axis of world models from raw visual quality to serving efficiency: whoever can stream consistent, controllable worlds at interactive frame rates owns the category, and that is largely an inference-optimization and GPU-cost problem rather than a research one. It also raises expectations for rivals who until now have shown curated, waitlisted demos. For developers, the near-term path is hybrid pipelines, generating environments with models like Atlas and baking them into meshes or Gaussian splats for real engines, while a real-time API would unlock games, film previsualization, robotics simulation and VR prototyping. For regular users, this is a first hands-on taste of playable generated worlds, though at 15 fps with limited persistence it is still a preview of the medium rather than the medium itself.",
+  "tools": "Try the Frameboy demo via World Labs' site to feel Atlas directly. Watch Marble, World Labs' commercial product, plus Google DeepMind's Genie 3, Decart's Mirage and Odyssey for comparison. On the open-source side, explore Tencent's HunyuanWorld 1.0, WonderWorld, DimensionX and Stability's Stable Virtual Camera for scene generation, then convert outputs into Gaussian splats and view them in SuperSplat or PlayCanvas to build your own navigable scenes."
+ },
+ "lang": "en"
+}

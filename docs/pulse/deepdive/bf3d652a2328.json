@@ -1,0 +1,23 @@
+{
+ "id": "bf3d652a2328",
+ "url": "https://www.aibase.com/news/32122",
+ "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-05T17:41:34.650Z",
+ "fetched_at": "2026-11-05T23:37:59.502946+00:00",
+ "content": "The U.S. Democratic Party recently unveiled a highly alarming draft bill—pushing the \"Ban on Artificial Superintelligence Act\" to completely ban the development and deployment of super AI. The penalties are striking: companies involved would be forcibly dissolved outright, and individual violators could face up to 20 years in federal prison, with sentencing standards explicitly benchmarked against serious crimes such as \"illegally developing nuclear weapons.\" In other words, in the eyes of the proposers, secretly creating an intelligence that surpasses humans is almost the same crime as secretly building nuclear weapons. However, the bill is currently still a draft and remains some distance from actually becoming law.\nWhat Is \"Superintelligence\"? For the banned artificial superintelligence (ASI), the bill provides two clear definitions. First, an AI architecture that meets or exceeds human cognitive performance across a wide range of domains and tasks, or a system that could demonstrate such capability with only slight modification; second, a system capable of planning and carrying out attacks sufficient to weaken human dominance, or even overthrow or destroy the U.S. government system. On this basis, the draft calls for a complete halt to all advanced AI research and development until a dedicated federal-level regulatory agency is in place and clear regulations and model review mechanisms are established. This amounts to pressing the pause button on frontier AI R&D until a regulatory framework takes shape.\nA Cabinet Department and a Global Ban To ensure the ban takes effect, the bill proposes creating a new cabinet-level Department of Artificial Intelligence, tasked with regulating the entire life cycle of frontier models, with the power to force technical teams to remove high-risk capabilities from systems—including ignoring human shutdown commands, launching unauthorized cyberattacks, and loss-of-control behaviors such as recursive self-improvement. More notably, the ban extends its reach abroad: the draft lists \"a global ban on superintelligence\" as a U.S. foreign policy goal, requiring the government to seek international agreements, enlist allied cooperation, and impose strict export controls, with the aim of cutting off the possibility of ASI development anywhere in the world.",
+ "report": {
+  "summary": "美民主党提草案：研发超级AI最高判20年并强制解散公司",
+  "background": "随着大模型能力快速提升，AI安全界对“超级智能”失控风险的争论升温。美国此前以行政令、出口管制和前沿模型评估推进治理，但国会层面尚无专门封杀ASI的联邦法律。该草案由民主党方面提出，试图在联邦监管机构和模型审查机制建立前暂停前沿研发，并以刑事重罚和全球禁令强化威慑。目前仅是草案，距离成为法律仍有较大距离。",
+  "key_points": [
+   "草案规定，参与研发或部署超级AI的企业可被强制解散，个人最高面临20年联邦监禁，量刑参照“非法研发核武器”等重罪。",
+   "超级AI被定义为在广泛任务上达到或超越人类认知，或仅需轻微修改即可实现；也包括能策划攻击、削弱人类主导甚至推翻美国政府系统的AI。",
+   "法案要求暂停所有先进AI研发，直到设立联邦级监管机构和模型审查机制；还拟设内阁级“人工智能部”，监管前沿模型全生命周期并可强制移除高风险能力。",
+   "禁令延伸至海外：把“全球禁止超级智能”列为美国外交目标，要求推动国际协议、盟友协作和严格出口管制，试图切断全球任何地方开发ASI的可能。"
+  ],
+  "impact": "若草案推进，前沿AI公司面临解散、刑责和全球出口管制风险，可能放缓或外迁研发，并抬高合规与安全评估成本；开发者需重视模型能力评估、可审计性和高风险功能移除；普通用户短期未必受影响，但未来前沿模型发布可能更慢、更保守。作为草案，其更直接作用是释放强监管信号。",
+  "tools": "想跟进可关注：AI安全评估工具 Inspect AI、lm-evaluation-harness、METR 的任务评估框架；治理追踪可看 EU AI Act 数据库、NIST AI RMF；开源模型卡与系统卡模板有助于合规记录。"
+ },
+ "lang": "zh"
+}
