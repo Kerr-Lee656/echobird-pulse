@@ -1,0 +1,25 @@
+{
+ "id": "8fb651e0f560",
+ "url": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
+ "title": "Apple opens Siri AI to every app, and plans a fee for expanded use",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T00:53:10.679254+00:00",
+ "content": "Apple has opened Siri AI to every app developer. A Developer Preview lets any app bring its content and actions into Siri AI, Apple said on Tuesday. It ships in the iOS 27.3, iPadOS 27.3, macOS 27.3 and visionOS 27.3 betas.\nUntil now, apps could only plug into Siri through categories that Apple defined. Now developers can use App Intents to expose their own custom actions. Apple’s examples include checking a delivery, booking a reservation and placing an order.\nSiri AI skills for apps\nApple is also introducing skills, which let developers teach Siri AI to combine several actions into a single request. Siri AI can also surface any item in the Spotlight search index. Before, it only found items that fit Apple’s existing categories.\n“So people can just ask for help in their own words,” Apple wrote.\nUsers won’t always have to name the app, The Verge reported, citing Apple’s documentation. That applies when the app is open on screen or showing a Live Activity. It also applies when a Siri conversation already involves the app.\nApple has started rolling out the same abilities across 15 of its own apps, such as Mail, Maps, Photos and Safari. Users can ask Siri to find a coffee shop they visited last week. They can also archive files they have not opened in over a year.\nWhen users get it\nThe preview is for testing only. Apple expects the first integrations to reach customers in a few months. App Store submissions open in the spring. It said it will share terms and usage policies for Siri AI experiences later.\nSiri AI remains unavailable in the EU on iOS, iPadOS and watchOS. Apple said it is working with the EU on a path forward. It is also not available to users under 13.\nDaily limits, and a fee\nApple’s announcement also confirms that some Apple Intelligence features face daily usage limits. The limits cover features that run on Apple’s servers. They include Siri AI, the photo editing tools, Image Playground and the cloud models in Shortcuts.\n“Expanded access to such features will be available for a fee in the future,” Apple wrote.\nApple did not say what the fee will be. Siri AI launched with iOS 27 in September and gained a memory in iOS 27.2. The same 27.3 betas also brought Apple Watch listening tools into testing.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果向所有开发者开放Siri AI，并预告超额使用将收费",
+  "background": "Siri 长期被诟病能力落后，苹果自 2024 年推出 Apple Intelligence 后持续补课。此前第三方 App 只能通过苹果预设的有限类别接入 Siri，开发者无法暴露自定义动作。这次在 iOS 27.3 等测试版中推出 Developer Preview，允许用 App Intents 开放任意自定义动作，并新增 skills 把多个动作组合成一句话请求，同时打通 Spotlight 全量索引。值得注意的是，Siri AI 仍未在欧盟上线，苹果称正与监管方沟通；这被视为苹果在 AI 助手平台化竞赛中对标 OpenAI、Google 生态开放策略的关键一步。",
+  "key_points": [
+   "开发者现在可以用 App Intents 把自家 App 的任意自定义动作接入 Siri，例如查快递、订餐厅、下单，不再受限于苹果预设类别。",
+   "新增 skills 机制，让开发者把多个动作打包成一个请求；Siri 也能搜索 Spotlight 索引里的全部内容，用户不必再说出 App 名字。",
+   "苹果自家 15 款 App（邮件、地图、照片、Safari 等）已先行支持，可让 Siri 找上周去过的咖啡店、归档一年没打开的文件。",
+   "该能力目前仅为测试预览，App Store 提交通道春季开放，预计数月后才会推送给普通用户。",
+   "苹果确认服务器端 AI 功能（Siri AI、照片编辑、Image Playground、快捷指令云端模型）存在每日使用上限，未来超额访问将收费，但未公布价格。",
+   "Siri AI 在欧盟的 iOS、iPadOS、watchOS 上仍不可用，且不向 13 岁以下用户开放。"
+  ],
+  "impact": "对行业而言，苹果把语音助手变成可分发的流量入口，AI 助手平台化竞争从模型能力转向生态接入，与 OpenAI、Google 的开放策略正面相撞。对开发者，App Intents 与 skills 带来新的曝光机会和“被 Siri 调用”的设计约束，但每日限额与未来收费意味着成本模型要在上线前算清。对普通用户，Siri 终于能听懂更自然的表达、跨 App 完成任务，免费额度之外的付费墙也可能成为常态。",
+  "tools": "想跟进可先读苹果 App Intents 官方文档并研究 skills 与 Spotlight 索引接入方式，用 Xcode 27.3 beta 在真机调试，配合快捷指令验证组合动作；同时关注 Foundation Models 框架与自家 App 的意图建模，提前设计哪些动作值得被 Siri 直接调用。"
+ },
+ "lang": "zh"
+}

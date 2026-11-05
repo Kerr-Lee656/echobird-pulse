@@ -10303,5 +10303,113 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-04T17:58:22.000Z",
   "fetched_at": "2026-11-04T19:47:24.617850+00:00"
+ },
+ "1922d9d520f9": {
+  "id": "1922d9d520f9",
+  "url": "https://github.com/QwenLM/qwen-code",
+  "title": "QwenLM/qwen-code — An open-source AI coding agent that lives in your terminal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-05T00:53:41.220168+00:00"
+ },
+ "4437934048ea": {
+  "id": "4437934048ea",
+  "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+  "title": "American Voters Overwhelmingly Reject AI Data Centers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T00:43:13Z",
+  "fetched_at": "2026-11-05T00:53:59.024434+00:00"
+ },
+ "230c2a48357c": {
+  "id": "230c2a48357c",
+  "url": "https://www.elastic.co/security-labs/reports/threats-etc-report-november-2026-trouble-with-trust",
+  "title": "Attackers used ChatGPT desktop and Claude Code in real intrusions",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T00:26:07Z",
+  "fetched_at": "2026-11-05T00:54:12.888529+00:00"
+ },
+ "9481c8f65ea4": {
+  "id": "9481c8f65ea4",
+  "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
+  "title": "'Sovereign AI agents' could evade kill switches and threaten national security",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T00:00:43Z",
+  "fetched_at": "2026-11-05T00:54:24.838863+00:00"
+ },
+ "81e0f5a074e0": {
+  "id": "81e0f5a074e0",
+  "url": "https://aihot.news/items/hkcafk9es55rbok8pinu90x5o",
+  "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜",
+  "source": "IT之家·人工智能",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-05T00:00:15.000Z",
+  "fetched_at": "2026-11-05T00:54:37.758357+00:00"
+ },
+ "20adbd0124bf": {
+  "id": "20adbd0124bf",
+  "url": "https://aihot.news/items/ulr0gn1mg4kpj7yz2h2zwp7u1",
+  "title": "OpenAI 称其智能体发现至少 10 种新型 Linux 漏洞利用技术",
+  "source": "OpenAI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-04T23:13:26.000Z",
+  "fetched_at": "2026-11-05T00:54:51.486587+00:00"
+ },
+ "8c604d883f90": {
+  "id": "8c604d883f90",
+  "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+  "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-04T23:13:14.000Z",
+  "fetched_at": "2026-11-05T00:55:08.784745+00:00"
+ },
+ "0656f70121bb": {
+  "id": "0656f70121bb",
+  "url": "https://theainewsreport.com/2026-11-04-anthropic-flashprove-provable-inference-explained.html",
+  "title": "Anthropic's FlashProve proves which model wrote a reply, and its 72x cost",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T21:31:36Z",
+  "fetched_at": "2026-11-05T00:55:40.425688+00:00"
+ },
+ "8d6f6c8bc49c": {
+  "id": "8d6f6c8bc49c",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "title": "Meta acquires AI coding startup Conductor",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-04T21:10:56.000Z",
+  "fetched_at": "2026-11-05T00:55:56.386582+00:00"
+ },
+ "2a36f05c6b00": {
+  "id": "2a36f05c6b00",
+  "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+  "title": "Apple Is Putting Employees on an AI Budget",
+  "source": "Hacker News (6pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T21:08:04Z",
+  "fetched_at": "2026-11-05T00:56:09.011561+00:00"
+ },
+ "db07cee30d02": {
+  "id": "db07cee30d02",
+  "url": "https://www.investors.com/news/technology/coreweave-nebius-slide-as-blue-wave-clouds-ai-boom/",
+  "title": "AI's Building Boom Meets a Blue Wave. 'Neocloud' Stocks Fall",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-04T21:05:44Z",
+  "fetched_at": "2026-11-05T00:56:24.354301+00:00"
+ },
+ "f3b52b53bfb0": {
+  "id": "f3b52b53bfb0",
+  "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+  "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-04T20:55:50.000Z",
+  "fetched_at": "2026-11-05T00:56:36.056272+00:00"
  }
 }

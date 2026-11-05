@@ -20797,5 +20797,32 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-04T16:59:54.636Z",
   "fetched_at": "2026-11-04T19:44:07.635709+00:00"
+ },
+ "dafda9cf8b1d": {
+  "id": "dafda9cf8b1d",
+  "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
+  "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T00:52:48.509903+00:00"
+ },
+ "bce0ffcba988": {
+  "id": "bce0ffcba988",
+  "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+  "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T00:53:01.877541+00:00"
+ },
+ "8fb651e0f560": {
+  "id": "8fb651e0f560",
+  "url": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
+  "title": "Apple opens Siri AI to every app, and plans a fee for expanded use",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T00:53:10.679254+00:00"
  }
 }

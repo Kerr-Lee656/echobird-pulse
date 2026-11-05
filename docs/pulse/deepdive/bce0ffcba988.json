@@ -1,0 +1,23 @@
+{
+ "id": "bce0ffcba988",
+ "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+ "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-05T00:53:01.877541+00:00",
+ "content": "Google was met with swift backlash on Tuesday after it announced that schools using Google’s K-12 software will not be able to use Search unless they opt in to using AI tools.\nChris Phillips, vice president for education at Google, told The New York Times that “Search and AI are deeply integrated,” so if a student’s school doesn’t opt in to using AI tools like Gemini, then students “will not have access to search, and they’ll see a message from their school that indicates it’s not available.”\nEven as Google made this announcement on a busy Election Day, several left-leaning politicians took time to speak up about their concerns.\nSenator Bernie Sanders (I-VT) accused Google in an X post of “extortion,” writing that “Google is threatening schools: if you stop your students from using AI, we will cut off your access to Google Search.” Senator Richard Blumenthal (D-CT) said on X that Google is “more concerned with forcing Gemini into schools than enabling students to succeed.”\nLina Khan, the former Federal Trade Commission chair and staunch advocate against monopolies, also condemned Google’s decision as anticompetitive.\n“This highlights the danger of allowing an unregulated monopolist to control an essential service,” she wrote. “Multiple courts have found Google liable for violating antitrust laws, and this latest move shows it remains unchastened.”\nNew York City mayor Zohran Mamdani accused Google of being a monopoly, commenting, “No corporation should have the power to dictate how we teach our children.”\nWhile Search is a necessary tool for information gathering, educators worry that its built-in AI overviews could dissuade students from finding answers themselves. For millions of students required to use Chromebooks and Google education tools, using a different search engine isn’t a simple fix.\nGoogle says that it’s working on a “Guided Learning” tool for student accounts in Search, which is supposed to walk students through the process of solving a problem or finding information, rather than just handing them the answer. If a student is struggling with a math problem, for example, the feature may prompt them to refresh their memory about the rules for dividing exponents, instead of spitting out a number.\nIn response to the backlash, Google pointed out in a post on X that it had listened to educators by turning off access to AI products by default and noted that schools could turn on Gemini, Gemini Notebook, and Search individually.\n“We know there’s concern about students using AI to shortcut schoolwork, and schools have told us they want control,” Google wrote in its statement. “That’s exactly why we are making these changes today to address the feedback we’ve heard from educators in recent months. And we’ll continue to engage deeply with educators to ensure we are giving schools more choice, more controls, and improved Search for learning.”",
+ "report": {
+  "summary": "谷歌以关闭搜索迫使学校启用AI，引发胁迫与垄断争议",
+  "background": "谷歌面向K-12学校的Workspace等教育软件长期与Chromebook绑定。此次政策称Search与AI深度整合，学校若不选择启用Gemini等AI工具，学生将无法使用搜索并看到校方禁用提示。事件恰逢美国选举日仍遭政界集中批评，背景是谷歌搜索垄断案败诉后，科技平台把核心服务与AI捆绑正面临更严监管审视。",
+  "key_points": [
+   "政策实质是把搜索访问权与AI opt-in绑定：学校不启用Gemini，学生搜索入口就被关闭，并显示校方禁用提示。",
+   "政界迅速反弹：桑德斯称其为“勒索”，布卢门撒尔批谷歌更关心推广Gemini，莉娜·汗指其滥用垄断力量。",
+   "教育者担心内置AI概览让学生跳过思考过程；但数百万学生依赖Chromebook和Google教育工具，换搜索引擎并不容易。",
+   "谷歌回应称AI产品默认关闭，学校可分别开启Gemini、Gemini Notebook和Search，并测试“Guided Learning”引导式学习功能。"
+  ],
+  "impact": "对AI行业，平台把核心服务与AI捆绑会招致反垄断和伦理审查，教育市场或成监管试验场。对开发者，教育类AI需默认关闭、分级授权、可审计，并避免以关键功能胁迫采用。对普通用户和学生，搜索入口被平台政策左右，数字依赖与学习自主性风险上升，学校采购需更重视可替代性。",
+  "tools": "可关注Google Guided Learning与Gemini for Education的后续；开源侧可试用SearXNG自建搜索、Open WebUI本地AI界面、Moodle插件做可控教育AI集成。"
+ },
+ "lang": "zh"
+}
