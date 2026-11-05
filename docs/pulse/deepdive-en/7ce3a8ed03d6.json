@@ -1,0 +1,23 @@
+{
+ "id": "7ce3a8ed03d6",
+ "url": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
+ "title": "Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放",
+ "source": "Perplexity",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-05T17:05:47.000Z",
+ "fetched_at": "2026-11-05T18:02:47.356277+00:00",
+ "content": "Perplexity· @perplexity_ai · X·· 57 分钟前精选AI 评分72\nAI 导读\nPerplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks、skills、memory 和工具主动工作。Teammates 之间可相互协作，还能在 Slack 中给同事发消息，目前已向 Max 订阅用户开放网页版。\n推荐理由\n原文说明 Teammates 的主动工作方式和协作能力，读者可据此评估它在现有工作流中的实际用途。\n正文 · AI 翻译\n介绍队友。\n队友为你工作。他们承接任务，并利用你的 Computer 任务、技能、记忆和工具主动开展工作。队友之间可以协作，还能在 Slack 中给同事发消息。\n现已在网页端面向 Max 订阅用户开放。\n来源：Perplexity · x.com",
+ "report": {
+  "summary": "Perplexity 面向 Max 用户推出 Teammates 智能体，可主动执行任务、相互协作并通过 Slack 联系同事。",
+  "background": "Perplexity 以 AI 搜索和答案引擎起家，正从“回答问题”转向“替用户完成工作”。生成式 AI 竞争已从模型能力延伸到智能体执行、记忆、工具调用和企业协作入口。Teammates 借助 Computer tasks、skills、memory 和工具主动工作，并接入 Slack，说明 Perplexity 想把 AI 助手嵌入日常团队流程，提升 Max 高价值订阅的吸引力。与此同时，OpenAI、Anthropic、Google 及企业协作平台都在争夺智能体工作流，权限控制、可审计性和数据安全将成为落地关键。",
+  "key_points": [
+   "Teammates 不只是聊天问答，而是承接任务并主动推进。它可调用 Computer tasks、技能、记忆和工具，意味着 Perplexity 正把搜索助手扩展为可执行多步骤工作的智能体。",
+   "Teammates 之间可以相互协作，还能在 Slack 中给同事发消息。这让智能体从个人工具进入团队协作场景，可承担跨角色沟通和任务分派，但也带来权限与冒用风险。",
+   "目前仅在网页端面向 Max 订阅用户开放，属于高 tier 先行测试。此举既能为 Max 增加卖点，也便于 Perplexity 在可控用户群中验证可靠性、成本和安全边界。",
+   "这一定位把 Perplexity 推向企业生产力市场，与 AI 助手、多智能体平台和 Slack 生态中的自动化工具竞争。差异化在于搜索知识、记忆和主动执行的组合。"
+  ],
+  "impact": "对 AI 行业而言，竞争重点正从模型参数转向智能体能否嵌入真实工作流，Slack 等协作入口会成为必争之地。对开发者来说，工具调用、长期记忆、多智能体编排、权限审计和 Slack 集成能力将更受重视，相关 API 与开源框架会加速成熟。对普通用户，Teammates 可分担信息收集、跨工具操作和团队提醒，但前提是验证结果、控制数据访问并防止智能体误发消息。Max 用户可优先体验，企业采用则需观察权限、合规和成本控制。",
+  "tools": "想跟进可关注 Teammates 本身，以及开源多智能体与执行类项目：CrewAI、AutoGen、LangGraph 用于多智能体编排；OpenHands、Browser Use 用于计算机操作与网页任务；Letta（MemGPT）用于记忆管理；Slack Bolt 用于 Slack 集成开发。"
+ },
+ "lang": "en"
+}

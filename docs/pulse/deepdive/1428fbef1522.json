@@ -1,0 +1,23 @@
+{
+ "id": "1428fbef1522",
+ "url": "https://www.aibase.com/news/32109",
+ "title": "可灵 AI 宣布 Kling 4.0 Flash 全面开放，深度融入专业影视工作流",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-05T08:42:16.082Z",
+ "fetched_at": "2026-11-05T18:01:33.185072+00:00",
+ "content": "Significant progress has been made in the field of AI video generation. Kling AI has officially announced that the highly anticipated Kling4.0Flash is now fully open to all users worldwide. As a core version built for high-frequency creation and cost-effectiveness, the model not only supports access through the official website and API, but also further opens up a multi-dimensional access ecosystem, fully empowering creators in their daily video production.\nDeep Integration of Multi-Platform Access and Professional Software Ecosystems\nIn terms of ecosystem compatibility, Kling4.0Flash demonstrates a high degree of openness and flexibility. In addition to the conventional web interface and API, this update officially supports convenient access through MCP, CLI, and various AI plugins.\nEven more notably, to seamlessly fit the actual working habits of professional film, TV, and advertising editors, creators can now directly use the powerful generation capabilities of Kling4.0Flash in mainstream professional software such as Adobe Photoshop, Premiere Pro, and After Effects through the built-in Kling plugin. This breaks down the barriers between standalone AI software and traditional post-production tools, making the entire workflow from asset generation to fine-grained editing more efficient and smooth.\nWith the full rollout of this version, whether it is the frequent daily creative iterations of independent media creators or the rapid ideation and batch output of professional commercial projects, all will see unprecedented efficiency upgrades.",
+ "report": {
+  "summary": "可灵Kling 4.0 Flash全面开放，接入专业影视工作流。",
+  "background": "AI视频生成赛道近两年从“能生成”转向“能生产”——模型能力提升后，竞争焦点变为成本、速度与工作流集成。可灵（Kling）此前已凭影视级视频生成能力积累口碑，此次推出主打高频创作与性价比的 4.0 Flash，并同步铺开官网、API、MCP、CLI、AI 插件及 Adobe 全家桶插件等多入口，标志着其从单一生成工具转向嵌入专业内容生产链的基础设施，正面回应 Runway、Pika、Veo 等对手在生态与价格上的竞争。",
+  "key_points": [
+   "4.0 Flash 定位高频创作与低成本，面向全球所有用户开放，官网和 API 均可直接调用，降低批量生成的门槛。",
+   "接入方式大幅扩容：除网页与 API 外，新增 MCP、CLI 和多种 AI 插件入口，方便开发者和自动化流程调用。",
+   "最亮眼的是 Adobe 生态插件，可在 Photoshop、Premiere Pro、After Effects 内直接生成素材，打通生成与后期剪辑。",
+   "对独立创作者意味着日常迭代更快，对商业项目意味着创意快速验证和批量出片，效率提升明显。"
+  ],
+  "impact": "对 AI 行业，视频模型的竞争从参数比拼转向工作流与生态卡位，MCP/CLI 接入也顺应了 Agent 化趋势。对开发者，多入口和 API 降低了集成成本，可把视频生成嵌入自动化管线与自有产品。对普通用户和剪辑师，AI 生成不再是独立软件，而是 Pr、Ae 里的一个按钮，素材生产到精剪的链路被压缩，内容生产成本和周期有望显著下降，但也将加剧对基础剪辑与素材外包岗位的替代压力。",
+  "tools": "想跟进可尝试：可灵官网与 API、Kling 官方 Adobe 插件（Ps/Pr/Ae）、MCP 客户端（如 Claude Desktop 等支持 MCP 的工具）、命令行工具 Kling CLI；对比可关注 Runway、Pika、Google Veo，以及 ComfyUI 等可编排视频生成的工作流平台。"
+ },
+ "lang": "zh"
+}

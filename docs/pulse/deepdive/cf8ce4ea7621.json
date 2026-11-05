@@ -1,0 +1,24 @@
+{
+ "id": "cf8ce4ea7621",
+ "url": "https://www.aibase.com/news/32112",
+ "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-05T08:42:16.082Z",
+ "fetched_at": "2026-11-05T18:01:14.172308+00:00",
+ "content": "On November 5, the Kimi Open Platform officially launched Kimi Hosted Agents, offering the Harness that supports Agent operation as a cloud service (Harness as a Service). Developers can get a 24/7 hosted environment without building their own runtime framework, with support for long-horizon task execution and multi-agent collaboration. Agents can be configured on demand to build two types of applications: integrated into enterprise internal systems for monitoring and operations response, or embedded into external-facing products to provide in-app investment research assistants and customer service assistants.\nThe platform provides isolated sandboxes and network access permission controls, allowing users to set operational boundaries and terminate sessions at any time; execution traces are available for review, audit export is supported, and billing rules and usage reports are provided.\nThe hosted model targets the barriers to Agent adoption. Enterprises often need months to build a Harness foundation, covering the code execution environment, context and session management, tool invocation, permission control, and task interruption recovery, and they still need continuous maintenance after launch. Now Kimi handles the maintenance and upgrades of the underlying environment, which can shorten the cycle from prototype validation to application launch.\nThe product includes 140+ Skills and 30+ plugins, covering web search, professional data queries, office document processing, and content generation. The standalone security component Kimi Inference Hook checks task inputs and tool return content before every model inference. Security rules are defined by the enterprise, while allow or deny decisions are executed by the Hook, intercepting private and sensitive data before inference. This component is currently available by invitation only to verified enterprise users. The documentation site also provides architecture concepts, configuration tutorials, and cost estimates. The first batch includes eight financial Agent templates, covering investment research modeling, deep research, morning report generation, IPO tracking, and holdings monitoring.\nTurning Agent runtime from months of engineering investment into an on-demand cloud service is another step by large model vendors toward extending into productivity deployment.",
+ "report": {
+  "summary": "Kimi 把 Agent 运行时 Harness 做成云端托管服务，开发者无需自建",
+  "background": "Agent 真正落地时，瓶颈往往在运行时这一层：代码执行环境、上下文与会话管理、工具调用、权限控制、任务中断恢复，企业自行搭建常需数月，上线后还要持续维护升级。大模型厂商正从“卖 API 调用”转向“卖可直接投产的生产力”，把 Agent 的底层支撑层收进云服务是自然的一步。Kimi 开放平台此前已积累 Skills、插件与模型能力，这次把 Harness 直接托管，实质是把自己变成 Agent 的“操作系统层”，让企业只写业务逻辑。",
+  "key_points": [
+   "Harness as a Service：把支撑 Agent 运行的框架做成云服务，提供 7×24 托管环境，支持长周期任务执行与多智能体协作，开发者不必自建运行时。",
+   "两条落地路径：一是接入企业内网系统做监控与运维响应，二是嵌入对外产品，做应用内的投研助手、客服助手，按需配置。",
+   "安全与可观测性：提供隔离沙箱、网络访问权限控制、会话可随时终止，执行轨迹可回看、审计可导出，并有清晰的计费规则与用量报表。",
+   "开箱即用的能力包：140+ Skills、30+ 插件，覆盖联网搜索、专业数据查询、办公文档处理与内容生成；首批 8 个金融模板，含投研建模、深度研究、晨报生成、IPO 跟踪、持仓监控。",
+   "推理前拦截：Kimi Inference Hook 在每次模型推理前检查任务输入与工具返回内容，规则由企业自定、Hook 执行放行或拒绝，敏感数据在进入推理前被挡下；目前仅邀测。"
+  ],
+  "impact": "对 AI 行业，竞争焦点从模型能力转向运行时与部署体验，云厂商和大模型公司的边界进一步重叠；对开发者，原型验证到上线的周期被显著压缩，团队可以把精力放在业务编排与数据上，而不必重复造沙箱、会话和权限系统；对普通用户，意味着会更快遇到真正能“跑完一整件事”的助手，而不再是聊两句就断的 Demo，但同时也更依赖厂商的权限与审计机制来保障数据边界。",
+  "tools": "想跟进可先读 Kimi 开放平台文档中的架构概念、配置教程与成本估算，并申请 Kimi Inference Hook 邀测；横向对比可看 OpenAI Agents SDK、LangGraph、AutoGen 等编排框架，以及 E2B、Daytona 这类代码执行沙箱，理解“托管 Harness”替你省掉了哪些工作。"
+ },
+ "lang": "zh"
+}

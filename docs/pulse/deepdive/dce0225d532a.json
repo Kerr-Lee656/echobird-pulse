@@ -1,0 +1,24 @@
+{
+ "id": "dce0225d532a",
+ "url": "https://www.aibase.com/news/32110",
+ "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-05T08:42:16.082Z",
+ "fetched_at": "2026-11-05T18:01:25.650002+00:00",
+ "content": "At the Financial Times-hosted AI Future Summit, Microsoft co-founder Bill Gates did not mince words. He called the capabilities demonstrated by AI models \"astonishing,\" and said their potential for both good and harm \"must not be underestimated.\" What alarmed him most was malicious actors using AI to create biological weapons or tear open cybersecurity gaps across sectors—while some \"open\" models are already freely available, and their safety guardrails and monitoring can be stripped away directly. He said bluntly that if AI is involved in a biosecurity incident, the scale of damage \"could be far worse than COVID.\" This is not the first time Gates has sounded the alarm; he had previously warned that AI could claim a billion lives and disrupt employment on a massive scale.\nTaking Aim at the White House Gates blamed Washington's absence for the international community's weak response. He said efforts to regulate and monitor AI are being hindered by White House inaction: \"Unless the United States participates, action means little; we are stuck in a stalemate.\" This was clearly aimed at Trump—who refuses to strengthen government regulation, describes drafting G20 AI guidelines as a \"globalist conspiracy,\" and instead bets on industry self-regulation. Gates hit back on the spot: self-regulation simply does not work, and \"when multiple companies are involved, the only way to solve the problem falls on governments.\"\nThe Three Remedies He Prescribed Gates suggested that the United States set unified evaluation benchmarks for models' internal safeguards and monitoring, lead global cooperation to patch cybersecurity vulnerabilities, and build a monitoring network covering \"air, wastewater, and blood\" to catch AI-fueled infectious diseases as early as possible. He predicted that OpenAI and Anthropic will both launch new models this year, with \"two major releases\" in 2027, and concerns about \"models themselves going out of control\" may be tied to these versions, urgently requiring third-party audits. At the same time, he called for accelerating the release of AI's benefits, such as advancing drug development and eliminating excessively long hospital waiting lists, and explicitly stated support for taxing the super-rich. He also praised Anthropic for acknowledging in last week's IPO prospectus AI's \"catastrophic or existential risks,\" calling such transparency \"yet another example.\"",
+ "report": {
+  "summary": "盖茨警告AI生物武器风险或超新冠，批评白宫监管不作为",
+  "background": "AI 能力快速跃升，开源模型权重可自由下载、安全护栏可被剥离，生物与网络安全风险随之放大。与此同时全球 AI 治理陷入停滞：特朗普政府倾向放松监管、押注行业自律，甚至将 G20 AI 准则斥为\"全球主义阴谋\"；欧盟、英国等规则各自为政。盖茨近年多次就 AI 风险发声，从\"十亿人生命受威胁\"到大规模失业，此次在《金融时报》AI 未来峰会上把矛头直指华盛顿的不作为，并提出具体应对清单。",
+  "key_points": [
+   "盖茨称当前 AI 模型能力\"惊人\"，行善与作恶的潜力都不可低估，最担心恶意者用 AI 制造生物武器、撕开各行业网络安全缺口。",
+   "他强调部分\"开放\"模型已可自由获取，护栏与监控能被直接剥离，一旦引发生物安全事件，破坏规模\"可能远超新冠\"。",
+   "矛头直指白宫：美国不参与，国际监管就形同虚设；多公司博弈下行业自律根本无效，解决问题只能靠政府。",
+   "他开出三条药方：为模型内部安全与监控设统一评估基准、牵头全球修补网络漏洞、建立覆盖空气、污水与血液的监测网。",
+   "他预测 OpenAI 与 Anthropic 今年均有新模型、2027 年有\"两大发布\"，失控担忧或与这些版本相关，急需第三方审计，同时呼吁加速药物研发等红利并支持对超级富豪征税。"
+  ],
+  "impact": "对 AI 行业而言，监管压力从\"要不要管\"转向\"怎么管\"，第三方审计、统一评测基准与生物安全筛查有望成为准入门槛，开源模型发布策略将更谨慎。对开发者，尤其是开源与生物计算方向，合规成本与安全责任上升，但也催生安全评测、漏洞修补类新岗位与工具链。对普通用户，短期受益于 AI 加速药物研发与医疗效率提升，长期则依赖跨国监测网络降低生物风险，代价是更严格的模型使用与数据监管。",
+  "tools": "想跟进可关注 Anthropic、OpenAI 的系统卡与模型卡，以及 METR、ARC 等第三方评测框架；生物安全方向可看 SecureBio、Common Mechanism 的核酸筛查方案；红队与漏洞扫描可用微软 PyRIT、Garak；治理动态可追踪 FT AI 峰会、G20 AI 准则与各国 AI 安全研究所报告。"
+ },
+ "lang": "zh"
+}

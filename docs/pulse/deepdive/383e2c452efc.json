@@ -1,0 +1,24 @@
+{
+ "id": "383e2c452efc",
+ "url": "https://www.aibase.com/zh/news/32118",
+ "title": "百度开源 2800 亿参数文心 5.5Flash Base，多项基准测试刷新同尺寸 SOTA",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-05T17:59:53.207068+00:00",
+ "content": "11月5日，百度正式开源全新基座模型文心5.5Flash Base，在知识、推理、数学、代码、多语言和长上下文等多项基准测试中刷新同尺寸模型SOTA表现，超越DeepSeek-V4-Flash-Base、Hy3-preview-Base等同类模型。\n该模型采用MoE架构，总参数量达2800亿，激活参数140亿，使用33.5万亿Token完成预训练，预训练上下文长度最高达128K，微调与推理阶段支持最长100万Token上下文。\n围绕效率主线，文心5.5Flash Base在系统层进行多项算法创新。注意力机制上引入Latent-Gated Sparse Attention，组合HCA与MLA压缩历史信息并细粒度访问历史位置，利用低秩门控注意力使门控投影权重参数减少75%，同时通过虚拟头注意力提升表达力。\n专家路由上采用Multi-Router Latent MoE，以多独立路由器改善专家选择效用。在训练目标上引入ECHO，复用主干最后一层学习预测后续Token，免去额外MTP模块。大模型基建方面，优化分布式Muon优化器并推出FlashMask-4注意力算子，进一步提升大规模训练的通信与显存利用效率。\n当前大模型竞争正向模型能力、训练效率与场景创新协同演进。文心5.5Flash Base的开源在降低专业模型开发门槛的同时，为开发者构建定制化专业模型提供了高效的技术底座。",
+ "report": {
+  "summary": "百度开源2800亿参数文心5.5Flash基座模型。",
+  "background": "国内大模型开源竞争正从单纯堆参数转向效率、长上下文与场景落地。MoE架构因总参数大、激活参数少成为主流，DeepSeek、混元等均推出Flash/轻量基座。百度此时开源文心5.5Flash Base，以2800亿总参、140亿激活和超长上下文对标同类模型，意在通过高效基座降低专业模型定制门槛，并争夺开发者生态与行业落地入口。",
+  "key_points": [
+   "采用MoE架构：总参数2800亿、激活140亿，预训练用33.5万亿Token，预训练上下文128K，微调与推理最高支持100万Token。",
+   "在知识、推理、数学、代码、多语言和长上下文等基准刷新同尺寸SOTA，官方称超越DeepSeek-V4-Flash-Base、Hy3-preview-Base等。",
+   "注意力层引入Latent-Gated Sparse Attention，结合HCA与MLA压缩历史信息，低秩门控使门控投影权重减少75%，并用虚拟头增强表达。",
+   "路由与训练目标创新：Multi-Router Latent MoE改善专家选择，ECHO复用主干末层预测后续Token，省去额外MTP模块。",
+   "基建层优化分布式Muon优化器并推出FlashMask-4注意力算子，提升大规模训练通信与显存效率，强化“效率型基座”定位。"
+  ],
+  "impact": "对AI行业，开源高效MoE基座会加剧同尺寸模型竞争，推动长上下文与训练效率成为新比拼点；对开发者，可用较低算力成本做领域微调和专业模型定制，但需评估实际license、数据与部署成本；对普通用户，更多低成本、长文档处理和多语言应用有望加速落地，体验提升取决于产品集成而非参数本身。",
+  "tools": "可关注文心官方开源仓库及Hugging Face模型页；推理可试用vLLM、SGLang，训练参考Megatron-LM、DeepSpeed；长上下文与稀疏注意力可跟进FlashAttention、FlashInfer及KV Cache优化工具。"
+ },
+ "lang": "zh"
+}
