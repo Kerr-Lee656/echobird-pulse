@@ -10411,5 +10411,14 @@
   "site_name": "Ars Technica",
   "published_at": "2026-11-04T20:55:50.000Z",
   "fetched_at": "2026-11-05T00:56:36.056272+00:00"
+ },
+ "18a41d088f6c": {
+  "id": "18a41d088f6c",
+  "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+  "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-05T07:15:12Z",
+  "fetched_at": "2026-11-05T09:27:27.501016+00:00"
  }
 }

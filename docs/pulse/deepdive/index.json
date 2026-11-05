@@ -20824,5 +20824,41 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-05T00:53:10.679254+00:00"
+ },
+ "4c65af7ddad1": {
+  "id": "4c65af7ddad1",
+  "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+  "title": "OpenAI is already trying to shape the 2028 election",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T09:25:15.778440+00:00"
+ },
+ "2f7abd088fe6": {
+  "id": "2f7abd088fe6",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+  "title": "Meta acquires AI coding startup Conductor",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T09:25:25.712508+00:00"
+ },
+ "ce20ab84d7b2": {
+  "id": "ce20ab84d7b2",
+  "url": "https://mashable.com/tech/ai-data-center-bans-midterm-elections",
+  "title": "Voters approved more than 40 measures to slow or ban data center growth",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-05T09:25:37.189807+00:00"
+ },
+ "0ff7e58e2c02": {
+  "id": "0ff7e58e2c02",
+  "url": "https://www.huxiu.com/article/4903112.html?f=rss",
+  "title": "资金密集涌入“存算一体”芯片",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-05T00:24:52Z",
+  "fetched_at": "2026-11-05T09:26:08.336029+00:00"
  }
 }
