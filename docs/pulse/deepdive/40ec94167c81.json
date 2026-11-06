@@ -1,0 +1,24 @@
+{
+ "id": "40ec94167c81",
+ "url": "https://www.aibase.com/news/32154",
+ "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T13:25:51.046Z",
+ "fetched_at": "2026-11-06T21:29:45.706216+00:00",
+ "content": "The Beijing Chaoyang District Court recently concluded a labor dispute, putting the boundaries of \"using AI for work\" under the spotlight. In July 2024, Ms. Wu, an employee at an insurance company, uploaded a spreadsheet of company audit issues that she had compiled herself to a third-party AI platform to help her make a PowerPoint presentation. Interestingly, her department and direct supervisor had repeatedly recommended such tools, believing they could significantly improve efficiency. But a month later, the company fired her for \"seriously violating information security rules,\" and Wu promptly sued the company.\nCourt: If you didn't ban it, don't settle scores after the fact The company argued that the spreadsheet contained highly confidential core internal information and that uploading it risked leaking trade secrets. Wu countered that she used AI to complete her work, had her supervisor's recommendation, and that the file had been manually compiled, contained no sensitive content, and caused no actual loss. The court found that she had no subjective intent to leak secrets, so it was not enough to establish \"serious misconduct\" warranting termination. More importantly, although the company had confidentiality and information security policies, it had never explicitly prohibited the use of third-party AI tools, nor had it provided special training or clear guidelines. The evidence it submitted neither proved that the uploaded content was confidential nor demonstrated any actual loss.\nA court ruling serves as a wake-up call for corporate management In the end, the court ordered the insurance company to continue performing the labor contract and pay wage losses, year-end bonus differences, and other amounts totaling more than 46,000 yuan. After the company appealed, the second-instance court upheld the original judgment. This case is like a mirror: now that AI has become an everyday office tool, if companies rely only on vague \"information security\" slogans but fail to write whether and how AI can be used into their rules and put that into training, when something actually goes wrong, they may end up paying for arbitrary dismissals.",
+ "report": {
+  "summary": "员工用AI做PPT被开除，法院判公司赔4.6万并继续履约。",
+  "background": "生成式AI已成为日常办公工具，但多数企业的信息安全制度仍停留在禁止外传文件或禁止使用网盘的时代，对“能否用第三方AI、哪些数据可以上传”没有明确规定。2024年7月，北京某保险公司员工吴某将自行整理的审计问题表格上传至第三方AI平台生成PPT，而其部门与直属上级此前多次推荐此类工具提效；一个月后公司却以“严重违反信息安全规定”将其开除。北京朝阳法院一审、二审均认定公司未明令禁止AI工具、也未证明泄密与实际损失，员工无主观泄密故意，不构成严重违纪。这起案件是国内首例引发广泛关注的“AI办公”劳动争议判例。",
+  "key_points": [
+   "法院核心逻辑是“你没禁止就不能事后追责”：公司虽有保密制度，但从未明确规定第三方AI工具能否使用，也未做专项培训，制度空白不能由员工承担后果。",
+   "公司举证失败：既拿不出证据证明上传的表格属于核心机密，也无法证明造成了实际损失，仅凭“可能泄密”的风险不足以构成严重违纪。",
+   "判决结果是继续履行劳动合同，并赔偿工资损失、年终奖差额等共4.6万余元，一审后公司上诉，二审维持原判，违法解除成本明确。",
+   "颇具讽刺意味的是，吴某使用AI恰恰是部门与直属领导反复推荐的结果，公司一边鼓励提效、一边以安全为由开除，管理自相矛盾。",
+   "此案给企业划出红线：AI时代的合规不能只靠“信息安全”口号，必须把可用工具、可用数据、审批流程写进制度并落实培训。"
+  ],
+  "impact": "对AI行业而言，这是一次明确的法律信号：企业不能一边享受AI提效红利，一边用模糊条款把风险全部转嫁给员工，AI厂商的企业版合规能力（数据隔离、审计日志、私有化部署）将成为采购刚需。对开发者来说，企业级AI产品的“可管控性”比模型能力更关键，本地部署与数据脱敏中间件迎来机会。对普通用户，判决提供了实际保护——在无明文禁令的情况下，用AI完成本职工作不应被轻易认定为违纪，但仍应避免上传客户名单、财务原始数据等真正的敏感信息。",
+  "tools": "企业可关注数据防泄漏（DLP）与AI网关类工具（如Cloudflare AI Gateway、LiteLLM代理审计），以及支持私有化部署的开源模型（Qwen、Llama配合Ollama/vLLM）；办公场景可选用带企业数据保护承诺的Microsoft 365 Copilot、通义、豆包企业版；个人用户做PPT可用Gamma、AiPPT等，但上传前务必脱敏，去掉姓名、金额与客户标识。"
+ },
+ "lang": "zh"
+}

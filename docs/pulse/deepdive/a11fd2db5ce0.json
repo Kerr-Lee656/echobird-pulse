@@ -1,0 +1,24 @@
+{
+ "id": "a11fd2db5ce0",
+ "url": "https://thenextweb.com/news/uk-ai-400bn-google-report-narayan-120bn-estimate",
+ "title": "UK now puts AI’s 2030 boost at £120bn, not the £400bn from a Google report",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-06T21:29:02.281026+00:00",
+ "content": "The UK government now expects AI to add £55bn to £140bn to the economy by 2030. Its central estimate is £120bn. Its AI Opportunities Action Plan put the gain at £400bn, and AI minister Kanishka Narayan has now confirmed that Google commissioned the report behind that number.\nNarayan gave both figures in a written parliamentary answer on 26 October. He became the UK’s first cabinet-level AI minister in July. Dr Ben Spencer, the Conservative shadow AI minister, had asked what evidence sat behind the plan’s £400bn claim.\n“The £400 billion figure was drawn from a publicly available 2023 report commissioned by Google and produced by Public First,” Narayan wrote.\nHe said the government had since made its own assessment. It found that AI adoption and data investment could add 0.4 to 1.3 percentage points to UK productivity growth.\n“These estimates are hugely uncertain, but this would be the equivalent of adding £55-140 billion to UK GVA in 2030,” he wrote.\nGVA, or gross value added, measures the value of what an economy produces. The answer did not withdraw the £400bn figure.\nWhere the £400bn came from\nGoogle published the higher number in July 2023. It came from an economic impact report that the consultancy Public First compiled. The report said that “under the right conditions”, AI could create over £400bn in value for the UK by 2030.\nTech investor Matt Clifford wrote the action plan, which the government published in January 2025.\nThe government’s lower range comes from its own model. The Department for Science, Innovation and Technology sets it out in an explainer for its AI Skills Boost. The model runs three scenarios, for slow, medium and rapid adoption, using OECD productivity estimates.\nBen Gartside reported for WIRED that this is the first time on record the government has set the two figures side by side. It is also the first time it has said Google commissioned the report. WIRED found that Skills England still published the £400bn figure months after ministers had the lower one.\nSlow adoption, and calls for scrutiny\nPublic First, now called PF Global, told WIRED that its 2023 model assumed faster adoption than the government now expects. Its current central estimate for 2030 is much closer to the government’s figure, it said, with more growth after that. The firm also said it made its own judgements in that research.\nConservative peer Lord Holmes of Richmond told WIRED he asked ministers where the figure came from in January 2025. He got no reply, he said.\nDame Chi Onwurah chairs the Commons science and technology committee. She told WIRED that overstating what technology can deliver risks undermining the case for change. Sumedha Deshmukh of the Ada Lovelace Institute told WIRED that independent experts should test such forecasts, and that the government should measure the promised gains.\nSpencer has kept asking. On 4 November, Narayan answered a follow-up question from him by pointing back to an earlier answer on AI skills. The same week, Narayan warned that a serious cyber breach in the UK is “extremely likely”.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英国将AI经济贡献预期从4000亿英镑下调至1200亿，承认原数字出自谷歌委托报告",
+  "background": "2025年1月，英国政府发布由科技投资人Matt Clifford撰写的《AI机遇行动计划》，其中“到2030年为英国创造4000亿英镑价值”的说法被广泛引用，成为政策宣传的核心数字。但该数字实际来自2023年7月谷歌委托咨询机构Public First（现更名PF Global）撰写的一份经济影响报告，前提是“条件适宜”。10月26日，英国首位内阁级AI大臣Kanishka Narayan在书面议会答复中首次承认这一来源，并同时公布了政府自己的测算：到2030年AI可为英国增加值（GVA）贡献550亿至1400亿英镑，中枢为1200亿。",
+  "key_points": [
+   "英国政府自建模型显示，AI普及与数据投资可使英国生产率增速提高0.4至1.3个百分点，按此推算2030年经济增量中枢为1200亿英镑。",
+   "官方首次承认，原计划中4000亿英镑的说法来自谷歌付费委托Public First撰写的报告，并非政府独立测算结果。",
+   "政府并未正式撤回4000亿这个数字；在部长们已掌握较低区间数月后，Skills England等机构仍在继续发布旧数据。",
+   "Public First回应称，2023年模型假设的AI普及速度快于政府当前预期，其最新中枢估算已接近官方数字。",
+   "议会科学与技术委员会主席Chi Onwurah及Ada Lovelace研究所警告，夸大技术回报会损害改革论证的可信度，呼吁由独立专家复核预测。"
+  ],
+  "impact": "对AI行业而言，这意味着政策叙事的“锚点”从愿景转向可审计的测算，厂商引用政府数字时需更谨慎，否则面临反噬。对开发者，短期内直接冲击有限，但AI技能培训、公共部门采购的预算口径会更保守、更强调可衡量产出。对普通用户，公共服务中的AI部署或许会更慢但更务实；同时，政府在同一周警告“严重网络攻击极可能发生”，提示AI叙事的重心正从经济增长转向安全与风险。",
+  "tools": "想跟进可关注：英国议会Written Questions数据库（追踪部长答复原文）、DSIT的AI Skills Boost说明页（含三情景模型）、OECD的AI采用与生产率估算数据、Ada Lovelace研究所的AI政策评估框架，以及PF Global原报告的公开版本。"
+ },
+ "lang": "zh"
+}

@@ -10672,5 +10672,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-06T11:04:00.000Z",
   "fetched_at": "2026-11-06T16:01:47.985695+00:00"
+ },
+ "bce2e531386b": {
+  "id": "bce2e531386b",
+  "url": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+  "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T21:10:13.000Z",
+  "fetched_at": "2026-11-06T21:31:15.443816+00:00"
+ },
+ "85df4722ee72": {
+  "id": "85df4722ee72",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
+  "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T21:07:45Z",
+  "fetched_at": "2026-11-06T21:31:32.472915+00:00"
+ },
+ "cc74e9ba243c": {
+  "id": "cc74e9ba243c",
+  "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+  "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T20:57:13Z",
+  "fetched_at": "2026-11-06T21:31:47.172675+00:00"
+ },
+ "0028d0c2cdef": {
+  "id": "0028d0c2cdef",
+  "url": "https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/",
+  "title": "Google, OpenAI, and Anthropic back a shared robots.txt AI training signal",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T17:56:02Z",
+  "fetched_at": "2026-11-06T21:33:10.317683+00:00"
  }
 }

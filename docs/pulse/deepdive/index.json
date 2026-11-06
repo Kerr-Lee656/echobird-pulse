@@ -21229,5 +21229,59 @@
   "site_name": "AIbase",
   "published_at": "2026-11-06T13:25:51.046Z",
   "fetched_at": "2026-11-06T15:56:33.583831+00:00"
+ },
+ "a11fd2db5ce0": {
+  "id": "a11fd2db5ce0",
+  "url": "https://thenextweb.com/news/uk-ai-400bn-google-report-narayan-120bn-estimate",
+  "title": "UK now puts AI’s 2030 boost at £120bn, not the £400bn from a Google report",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-06T21:29:02.281026+00:00"
+ },
+ "8f5d8e9dd3f2": {
+  "id": "8f5d8e9dd3f2",
+  "url": "https://thenextweb.com/news/ai-stocks-sell-off-nasdaq-correction",
+  "title": "AI stocks suffer their biggest sell-off in months as data centre backlash reaches Washington",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-06T21:29:13.696804+00:00"
+ },
+ "260e8b98baed": {
+  "id": "260e8b98baed",
+  "url": "https://www.aibase.com/zh/news/32146",
+  "title": "谷歌发布 Gemini Omni1.2Flash：单次时长增至 15 秒，成本降幅达 30%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-06T21:29:24.384410+00:00"
+ },
+ "29782014b268": {
+  "id": "29782014b268",
+  "url": "https://www.36kr.com/p/4058099154572164",
+  "title": "普林斯顿团队推出 Scientist World：将 1000 篇论文变成 AI 可运行的科研实验场",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-06T21:29:35.750469+00:00"
+ },
+ "40ec94167c81": {
+  "id": "40ec94167c81",
+  "url": "https://www.aibase.com/news/32154",
+  "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T13:25:51.046Z",
+  "fetched_at": "2026-11-06T21:29:45.706216+00:00"
+ },
+ "39f070e2d85d": {
+  "id": "39f070e2d85d",
+  "url": "https://www.huxiu.com/article/4903627.html?f=rss",
+  "title": "国家新标准落地，算力正式迈入电-碳-水三重约束时代",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-06T09:59:20Z",
+  "fetched_at": "2026-11-06T21:30:02.154358+00:00"
  }
 }
