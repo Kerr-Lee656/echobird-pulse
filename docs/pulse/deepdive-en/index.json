@@ -10483,5 +10483,95 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-05T20:21:15.000Z",
   "fetched_at": "2026-11-05T23:41:13.180380+00:00"
+ },
+ "6a1e74497465": {
+  "id": "6a1e74497465",
+  "url": "https://github.com/microsoft/VibeVoice",
+  "title": "microsoft/VibeVoice — Open-Source Frontier Voice AI",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-06T06:36:13.160104+00:00"
+ },
+ "c822924fc1f2": {
+  "id": "c822924fc1f2",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-06T06:28:32.000Z",
+  "fetched_at": "2026-11-06T06:36:25.298422+00:00"
+ },
+ "3e205d4eb434": {
+  "id": "3e205d4eb434",
+  "url": "https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai",
+  "title": "AI is changing mathematics – but not how you think",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T06:25:40Z",
+  "fetched_at": "2026-11-06T06:36:42.123118+00:00"
+ },
+ "ff40942fae52": {
+  "id": "ff40942fae52",
+  "url": "https://arxiv.org/abs/2611.07542",
+  "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:37:11.108784+00:00"
+ },
+ "2f23e6948f98": {
+  "id": "2f23e6948f98",
+  "url": "https://arxiv.org/abs/2611.07610",
+  "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:37:24.890457+00:00"
+ },
+ "1576b56d3f7d": {
+  "id": "1576b56d3f7d",
+  "url": "https://arxiv.org/abs/2611.07653",
+  "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:37:36.644717+00:00"
+ },
+ "6da74d982fe1": {
+  "id": "6da74d982fe1",
+  "url": "https://arxiv.org/abs/2611.07689",
+  "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:37:48.949310+00:00"
+ },
+ "989cc6d0937f": {
+  "id": "989cc6d0937f",
+  "url": "https://arxiv.org/abs/2611.07874",
+  "title": "Responsible GenAI Use During Active Armed Conflict: Evidence from Sudan's Emergency Response Rooms",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:38:30.556874+00:00"
+ },
+ "29f258e73d03": {
+  "id": "29f258e73d03",
+  "url": "https://arxiv.org/abs/2611.07891",
+  "title": "When Bigger Becomes Brittle: Why Compression Hurts More as Language Models Scale",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:38:43.376144+00:00"
+ },
+ "7da83dc2d165": {
+  "id": "7da83dc2d165",
+  "url": "https://arxiv.org/abs/2611.07947",
+  "title": "ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-06T05:00:00.000Z",
+  "fetched_at": "2026-11-06T06:38:55.977587+00:00"
  }
 }

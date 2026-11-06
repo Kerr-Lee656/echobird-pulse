@@ -1,0 +1,25 @@
+{
+ "id": "af4feb1540f5",
+ "url": "https://www.aibase.com/news/32130",
+ "title": "蚂蚁百灵发布 Ling 3.2 Flash：三项核心基准超越 Claude Opus 5，前两周限时免费开放",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T04:06:17.427Z",
+ "fetched_at": "2026-11-06T06:34:01.933195+00:00",
+ "content": "November 6 news: The Ant Bailing official team today officially announced the launch of a new native multimodal large model — Ling-3.2-flash. The model has 560B total parameters, 25B activated parameters, and an ultra-long 1M context window. At the architecture level, it deeply integrates vision and language capabilities, bringing a new option for multimodal AI applications.\nFour major capability upgrades, outperforming top industry players on multiple benchmarks\nIn its architecture design, Ling-3.2-flash natively integrates visual and language processing capabilities from the ground up and fully supports image, text, and video inputs. Official materials show that the model focuses on strengthening four core dimensions:\nComplex visual understanding: deep reasoning and analysis for images and videos.\nMultimodal long-horizon Agent: ensures the model stays goal-consistent across multi-step complex tasks and efficiently completes decision-making and execution by combining visual and textual information.\n3D understanding and interaction: focuses on interpreting 3D scenes and spatial relationships.\nMedical multimodal: deeply covers medical imaging understanding and report interpretation, providing effective assistance for professional medical analysis.\nIn evaluation results released by Ant, the model successfully surpassed Anthropic Claude Opus 5 (max) in three key benchmarks:\nOmniDocBench 1.5: scored 92.21, compared with the competitor's 90.56.\nZEROBench (Sub): scored 43.71, compared with the competitor's 39.52.\nVision2Web: scored 85.86, compared with the competitor's 80.20.\nIn addition, in DesignArena's image-to-frontend arena, Ling-3.2-flash made it into the top 10 with an Elo score of 1238, tied with leading industry competitors such as Meta, DeepSeek, and Anthropic.\nArchitecture trade-offs and a highly competitive pricing strategy\nIn terms of technical implementation, the combination of 560B total parameters and about 25B activated parameters is the model's core trade-off between strong capability and inference cost. This mixture-of-experts (MoE) architecture ensures that the model invokes only part of its parameters during each forward computation, thereby keeping per-step compute cost within a reasonable range while retaining a huge knowledge reserve.\nIn terms of API pricing and experience, Ling-3.2-flash's API input price is $0.30 per million tokens (about RMB 2), and its output price is $0.90 per million tokens (about RMB 6). The DesignArena leaderboard notes that this is the lowest rate among models at the same performance level. Currently, the model's API has officially launched via the Ant Bailian platform. It is not only fully compatible with OpenAI and Anthropic protocol specifications, but also offers users a limited-time free trial for the first two weeks after launch.",
+ "report": {
+  "summary": "蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，多项基准超过 Claude Opus 5",
+  "background": "蚂蚁百灵（Ant Bailing）是蚂蚁集团旗下的大模型团队，此前已推出 Ling 系列基座模型。今年以来，原生多模态与超长上下文成为头部厂商的竞争焦点：Claude、Gemini、GPT 系列均在视觉推理和 Agent 长任务上持续加码，国内厂商则普遍通过 MoE 稀疏架构压低推理成本。Ling-3.2-flash 正是在这一背景下推出，它同时追求大参数量、低激活成本、多模态和百万级上下文，并采用兼容 OpenAI 和 Anthropic 协议的策略，直接争夺海外 API 生态中的开发者。",
+  "key_points": [
+   "采用 560B 总参数、25B 激活参数的 MoE 稀疏架构，在保留大模型知识量的同时，把单次推理的算力成本控制在较低水平，并支持 1M 超长上下文。",
+   "原生多模态：视觉与语言从底层联合训练，支持图像、文本、视频输入，官方强调复杂视觉推理、多模态长程 Agent、3D 空间理解与医疗影像四大方向。",
+   "在蚂蚁自评的三项基准上超过 Claude Opus 5：OmniDocBench 1.5 得 92.21、ZEROBench 43.71、Vision2Web 85.86；DesignArena 图像转前端排行 Elo 1238 进入前十。",
+   "定价极具攻击性：输入每百万 token 0.3 美元、输出 0.9 美元，官方称是同性能档位最低价，并提供发布后两周限时免费试用。",
+   "接口完全兼容 OpenAI 与 Anthropic 协议，开发者改一行 base_url 即可迁移，几乎不需要重写调用代码。",
+   "需注意上述基准均为厂商自测，且“Claude Opus 5”等对比对象的版本信息尚待第三方复现验证。"
+  ],
+  "impact": "对 AI 行业而言，Ling-3.2-flash 把“百万上下文 + 原生多模态”的价位进一步压低，加剧中美模型在性价比上的竞争，MoE 稀疏化也会成为主流路线。对开发者来说，兼容 OpenAI/Anthropic 协议意味着迁移成本极低，免费期非常适合做视觉 Agent、文档解析、图像转前端等场景的验证。对普通用户，直接感受是更强的图像/视频理解与更便宜的调用价格，但实际效果仍需在真实任务中检验，不能只看榜单。",
+  "tools": "想上手可先在蚂蚁百灵（Bailing）开放平台申请 API key，用 OpenAI SDK 或 Anthropic SDK 直接指向其 endpoint 测试；图像转前端可配合 v0、Bolt.new 做效果对比；文档与医疗场景可用 OmniDocBench、ZEROBench 等公开基准自行复现；长上下文任务可结合 RAG 框架如 LlamaIndex 或 LangChain 验证 1M 窗口表现。"
+ },
+ "lang": "zh"
+}

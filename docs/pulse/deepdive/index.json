@@ -21049,5 +21049,95 @@
   "site_name": "AIbase",
   "published_at": "2026-11-05T17:41:34.650Z",
   "fetched_at": "2026-11-05T23:37:59.502946+00:00"
+ },
+ "c079a1f4da11": {
+  "id": "c079a1f4da11",
+  "url": "https://www.aibase.com/zh/news/32139",
+  "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-06T06:33:15.418452+00:00"
+ },
+ "551a751edab7": {
+  "id": "551a751edab7",
+  "url": "https://www.aibase.com/news/32141",
+  "title": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T04:06:17.427Z",
+  "fetched_at": "2026-11-06T06:33:27.692233+00:00"
+ },
+ "a7d830926f6d": {
+  "id": "a7d830926f6d",
+  "url": "https://www.aibase.com/news/32138",
+  "title": "苹果生态终于松口！iOS 27.3 曝光：HomeView 将全面接入 ChatGPT 与 Claude",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T04:06:17.427Z",
+  "fetched_at": "2026-11-06T06:33:38.835831+00:00"
+ },
+ "2b340898da97": {
+  "id": "2b340898da97",
+  "url": "https://www.aibase.com/news/32132",
+  "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T04:06:17.427Z",
+  "fetched_at": "2026-11-06T06:33:51.731862+00:00"
+ },
+ "af4feb1540f5": {
+  "id": "af4feb1540f5",
+  "url": "https://www.aibase.com/news/32130",
+  "title": "蚂蚁百灵发布 Ling 3.2 Flash：三项核心基准超越 Claude Opus 5，前两周限时免费开放",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T04:06:17.427Z",
+  "fetched_at": "2026-11-06T06:34:01.933195+00:00"
+ },
+ "92e4c61927de": {
+  "id": "92e4c61927de",
+  "url": "https://www.aibase.com/news/32129",
+  "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T04:06:17.427Z",
+  "fetched_at": "2026-11-06T06:34:11.180368+00:00"
+ },
+ "95606e2e5084": {
+  "id": "95606e2e5084",
+  "url": "https://www.ithome.com/1/023/197.htm",
+  "title": "中国移动明年计划算力投资超 1000 亿元，未来两年智算能力连续翻番",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-06T03:17:30Z",
+  "fetched_at": "2026-11-06T06:34:29.707024+00:00"
+ },
+ "e9b552063561": {
+  "id": "e9b552063561",
+  "url": "https://www.ithome.com/1/023/158.htm",
+  "title": "Ripple-65B Preview 发布，自称美国最佳智能体编程开放权重模型",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-06T02:51:50Z",
+  "fetched_at": "2026-11-06T06:34:40.195199+00:00"
+ },
+ "977c675cc51f": {
+  "id": "977c675cc51f",
+  "url": "https://www.ithome.com/1/023/069.htm",
+  "title": "Meta 给 AI 装上“脸”和“嗓子”：Muse 现在能视频聊天了",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-06T01:35:06Z",
+  "fetched_at": "2026-11-06T06:35:26.537996+00:00"
+ },
+ "0309018af196": {
+  "id": "0309018af196",
+  "url": "https://www.ithome.com/1/023/063.htm",
+  "title": "李飞飞 World Labs 团队发布“游戏掌机”Frameboy：用网页实时探索 AI 生成世界，每秒最高 15 帧",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-06T01:17:52Z",
+  "fetched_at": "2026-11-06T06:35:36.927234+00:00"
  }
 }

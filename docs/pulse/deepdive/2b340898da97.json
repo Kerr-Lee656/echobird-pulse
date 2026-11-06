@@ -1,0 +1,23 @@
+{
+ "id": "2b340898da97",
+ "url": "https://www.aibase.com/news/32132",
+ "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T04:06:17.427Z",
+ "fetched_at": "2026-11-06T06:33:51.731862+00:00",
+ "content": "The field of AI safety has seen a major breakthrough. On November 6, 2026, OpenAI officially released GPT-6Cyber, its most powerful cybersecurity-specific model to date. The model achieved a qualitative leap in core capabilities such as proactive software vulnerability discovery, automated validation, and exploit development, delivering a stunning performance record in real-world testing that shocked the industry.\nStunning real-world performance: Firefox uncovers 81 high-severity vulnerabilities, Linux kernel reproduction capability 5x that of the previous generation\nIn rigorous real-world scenario tests, GPT-6Cyber demonstrated extremely strong offensive and defensive research capabilities:\nBrowser security push: In security research targeting the open-source browser Firefox, the model successfully pinpointed and discovered 81 previously undisclosed high-severity vulnerabilities, while also providing detailed testing evidence and reproduction methods. OpenAI has now submitted the relevant vulnerability reports and remediation recommendations to Mozilla, which has quickly released multiple corresponding security fixes based on them.\nDeep dive into operating system kernels: In security research tests on the Linux kernel, GPT-6Cyber successfully dynamically reproduced 1,724 vulnerabilities and successfully developed working exploits for 948 of them. By comparison, the previous-generation model GPT-5.6Sol was able to successfully exploit only 166 vulnerabilities under the same test environment, meaning the new model's actual output was more than 5x that of the previous generation.\nIn addition to specific vulnerability research results, the model scored 48.5% on the professional security benchmark ExploitGym, while the previous-generation GPT-5.6Cyber scored 32.1%, an overall performance improvement of about 51%. This test is mainly used to evaluate whether a model can fully execute an exploitation workflow against a specific vulnerability on a remote target.\nStrengthened operational scope boundaries and strict security controls\nAlong with the model's dramatic upgrade in cybersecurity capabilities, OpenAI has adopted extremely strict compliance and risk-control mechanisms to address its potential risks.\nIn operational scope boundary control tests, the results showed that even without additional safety prompts deployed, GPT-6Cyber made no attempt at all to attack services outside the task scope in as many as 99.93% of tests; after safety prompts were added, this proportion reached 100%, demonstrating extremely high controllability.\nGiven its powerful penetration and offensive/defensive potential, OpenAI has officially raised the model's cybersecurity capability rating under its Preparedness Framework to Critical (severe/highest level), while the previous-generation product was rated only High. To prevent misuse of the technology, OpenAI has equipped it with multiple dedicated monitoring, credential protection, and sandbox isolation measures, and has imposed stricter access restrictions on high-risk operations involving critical infrastructure such as power, water treatment facilities, and industrial control systems.\nCurrently, GPT-6Cyber has not yet been fully opened to the public. The first batch is available only through API and Codex to strictly vetted Daybreak Red customers, and access will gradually expand based on progress in safety evaluations.",
+ "report": {
+  "summary": "OpenAI发布GPT-6 Cyber，漏洞挖掘能力跃升。",
+  "background": "近年大模型正从代码助手走向自主漏洞发现与利用验证，安全专用模型成为AI厂商竞争新方向。OpenAI此前已有GPT-5.6Cyber等安全模型，并以Preparedness Framework评估风险。此次GPT-6 Cyber在Firefox和Linux内核等真实目标上测试，显示AI攻防能力从辅助分析迈向可执行渗透流程，同时也引发双用途技术管控与披露伦理讨论。",
+  "key_points": [
+   "Firefox实测发现81个此前未公开的高危漏洞，并给出复现证据和修复建议，Mozilla已据此发布多个安全修复。",
+   "Linux内核测试中动态复现1724个漏洞，并为948个开发出可用利用，上一代仅166个，实际产出超5倍。",
+   "专业安全基准ExploitGym得分48.5%，较上一代32.1%提升约51%，衡量远程目标完整利用流程执行能力。",
+   "边界控制测试中99.93%未越界攻击，加入安全提示后达100%；OpenAI将其网络安全能力评级升至Critical，仅限严格审核客户经API和Codex使用。"
+  ],
+  "impact": "对AI行业，安全专用模型从概念验证进入真实漏洞挖掘竞赛，评估标准将更看重可复现利用与闭环修复。对开发者，漏洞发现、复现和补丁验证效率会显著提升，但工具受控、成本与合规门槛更高。对普通用户，短期有望因更快修复而更安全，长期需警惕攻击能力扩散和关键基础设施风险。",
+  "tools": "想跟进可关注OpenAI Codex/API的受控访问、Mozilla安全公告与Firefox修复、Linux内核CVE修复；开源侧可上手syzkaller、AFL++、OSS-Fuzz、CodeQL、Semgrep做漏洞发现与验证。"
+ },
+ "lang": "zh"
+}

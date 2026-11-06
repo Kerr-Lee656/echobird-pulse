@@ -1,0 +1,24 @@
+{
+ "id": "a7d830926f6d",
+ "url": "https://www.aibase.com/news/32138",
+ "title": "苹果生态终于松口！iOS 27.3 曝光：HomeView 将全面接入 ChatGPT 与 Claude",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T04:06:17.427Z",
+ "fetched_at": "2026-11-06T06:33:38.835831+00:00",
+ "content": "Apple has taken a key step toward merging smart home technology with artificial intelligence. According to the latest code-level leak, Apple plans to add support for mainstream third-party AI chatbots such as ChatGPT and Claude to HomeView, the smart home hub device it just released this October, in the upcoming iOS 27.3 beta.\nCode Confirmation: Conversational Apps Category Officially Goes Live\nEarlier this month, industry leaker pdfu first discovered an as-yet-unactivated ConversationalApps flag in the system and speculated based on it that third-party AI apps might eventually be able to connect to HomeView. As the iOS 27.3 beta progresses, that speculation has finally been fully confirmed at the code level.\nThe leak shows that PebblePlay, a bridge tool for HomeView's in-car connectivity, has officially gained support for the Conversational Apps (conversational applications) category in iOS 27.3. Similar to how Apple CarPlay works, Apple uses these types of flags to strictly regulate and determine which categories of third-party apps a device is allowed to run.\nFeature Expansion: From Smart Display to All-Around Monitoring Hub\nAs Apple's first smart home hub device, unveiled with much fanfare on October 13, 2026, HomeView is positioned as a smart display built for shared family use. It integrates multiple core functions, including smart home control, music playback, video calls, and home monitoring.\nIn addition to soon welcoming deep integration with third-party AI chatbots, recently exposed code clues also suggest that HomeView may even be able to double as a HomeKit security camera in the future, further expanding its application boundaries and practical value in the whole-home smart ecosystem.",
+ "report": {
+  "summary": "iOS 27.3 代码确认：HomeView 将接入 ChatGPT、Claude 等第三方 AI",
+  "background": "苹果在 2026 年 10 月 13 日发布首款智能家居中枢 HomeView，定位家庭共享智能屏，集成家居控制、音乐、视频通话与家庭监控。但苹果自研的 Apple Intelligence 与新一代 Siri 进度一再延后，智能家居语音体验明显落后于 Alexa+、Google Gemini 等对手。本月早些时候，爆料者 pdfu 在系统中发现未启用的 ConversationalApps 标记，推测第三方 AI 应用可接入 HomeView；随着 iOS 27.3 测试版推进，这一猜测在代码层面得到确认——车联桥接工具 PebblePlay 已正式获得该类别支持，机制类似 CarPlay 的白名单授权。",
+  "key_points": [
+   "代码层面确认：iOS 27.3 中 ConversationalApps（对话式应用）类别已启用，PebblePlay 成为首个拿到该权限的桥接工具，说明该通道已真正开放。",
+   "苹果沿用 CarPlay 式白名单管理：第三方应用必须按类别注册并通过审核，才能运行在 HomeView 上。苹果仍是规则的制定者和守门人。",
+   "HomeView 定位从智能显示屏扩展为全屋中枢：除家居控制、音乐、通话外，代码还显示它未来可能兼任 HomeKit 安防摄像头。",
+   "这意味着 Siri 不再是唯一入口，用户可直接在家庭设备上调用 ChatGPT、Claude，苹果选择引入外部 AI 来弥补自研语音助手的短板。",
+   "目前仍处于测试版与代码泄露阶段，正式上线时间、支持地区、具体接入哪些模型尚未由苹果官方公布。"
+  ],
+  "impact": "对 AI 行业而言，苹果生态开放是重大信号：ChatGPT、Claude 等模型首次进入家庭常驻设备，对话式 AI 的落地场景从手机扩展到客厅。对开发者来说，ConversationalApps 类别意味着新的分发入口与审核门槛，智能家居技能、语音 Agent 和桥接层工具将迎来一波适配需求。对普通用户来说，家中的智能屏可以使用更聪明的大模型，但隐私顾虑、订阅费用以及“哪个 AI 在听”的透明度问题也会随之而来。",
+  "tools": "想跟进的开发者可关注：Apple 的 App Intents / Apple Intelligence 框架与 CarPlay 式类别授权文档；HomeKit 与 Matter 协议 SDK；开源桥接方案 Homebridge 与 Home Assistant（可提前模拟 HomeView 场景）；以及文中提到的 PebblePlay 这类设备桥接工具，用于观察第三方 AI 的接入路径。"
+ },
+ "lang": "zh"
+}
