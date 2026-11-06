@@ -1,0 +1,24 @@
+{
+ "id": "cda444a35c85",
+ "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work",
+ "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-06T15:54:52.159503+00:00",
+ "content": "Perplexity's 'teammates' are the company's AI agents for daily work tasks\nThey're exclusively available to Perplexity Max subscribers paying $200 a month.\nPerplexity has launched its personal AI agents called \"teammates,\" which are designed to be able to tackle ongoing work autonomously with minimal supervision. The agents work inside Perplexity Computer, the company's cloud-based agentic assistant that can perform multi-step tasks for you. Perplexity explains that the new agents build on top of Computer and come with \"additional capabilities for ongoing, large-scale work.\"\nYou'll be able to assign each teammate its own role or task that they can all then perform simultaneously. Teammates work together, and they can even manage other teammates to make sure your tasks are getting done. They can also bring in more teammates and plan the newcomers' tasks accordingly, the more work you give them.\nTeammates work 24/7 in the background and will notify you when you have to make decisions. Every teammate will have its own entry on the sidebar of Computer, where you'll be able to see what they're doing and what they had already finished. You can also hand off more work to the agents, tell them to switch gears or ask them for status updates in those threads. At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS. That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year.",
+ "report": {
+  "summary": "Perplexity推200美元月费AI代理团队",
+  "background": "Perplexity 正从 AI 搜索问答扩展到可执行任务的代理型助手。此前其云端代理助手 Computer 已能完成多步骤任务，此次“teammates”把单助手升级为可并行协作、长期运行的代理团队。该功能仅面向每月 200 美元的 Max 订阅用户，显示 Perplexity 正与 OpenAI、Anthropic、Google 等争夺高付费专业用户和“AI 数字同事”市场。",
+  "key_points": [
+   "teammates 是运行在 Perplexity Computer 内的个人 AI 代理，可低监督地处理持续性工作，而非只完成一次性问答。",
+   "每个代理可分配不同角色和任务并同时执行，还能相互协作、管理其他代理，甚至按需扩充团队并规划新任务。",
+   "代理 24/7 在后台工作，需要决策时通知用户；Computer 侧边栏可查看进度、结果，并支持追加任务、切换方向和询问状态。",
+   "目前仅对 Perplexity Max 订阅者开放，月费 200 美元或年费 2000 美元，支持网页和 iOS，属于高价位早期产品。",
+   "它体现“多代理编排”趋势：从单个聊天助手转向可分工、可监督、可交接的代理团队，但成本与可靠性仍是门槛。"
+  ],
+  "impact": "对 AI 行业，竞争焦点正从模型能力转向多代理编排、长期任务执行和订阅变现；对开发者，任务拆分、代理协作、状态可观测性和权限/成本控制将成为关键工程问题；对普通用户，高付费专业用户可先尝试把重复工作交给“数字同事”，但仍需人工监督决策，200 美元月费也限制普及。",
+  "tools": "想跟进可试用 Perplexity Computer（需 Max 订阅）；开发者可关注 CrewAI、AutoGen、LangGraph 等开源多代理编排框架，并配合 LangSmith 等工具做可观测性与调试。"
+ },
+ "lang": "zh"
+}

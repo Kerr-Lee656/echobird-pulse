@@ -1,0 +1,23 @@
+{
+ "id": "496f76e4b0a3",
+ "url": "https://www.aibase.com/news/32148",
+ "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T13:25:51.046Z",
+ "fetched_at": "2026-11-06T15:56:23.004888+00:00",
+ "content": "Cyberspace authorities have reported the results of a recent concentrated crackdown on AI impersonation of public figures: in total, more than 47,000 pieces of illegal and non-compliant information were removed, and 3,961 accounts were dealt with. The four typical categories named in the notice almost all aim at \"monetization\": first, unauthorized use of AI to imitate celebrities' likenesses and voices, or even stealing photos of their family members to drive sales and traffic; second, stealing portraits and adding AI effects to fabricate rumors such as \"illness\" to mislead the public; third, impersonating celebrities in the first person to express opinions and using emotional language to lure followers; fourth, generating images of celebrities doing vulgar dances or engaging in intimate interactions to attract fans and make money. The cases involved multiple platforms, including WeChat, Douyin, Xiaohongshu, Bilibili, and Kuaishou.\nA continuation of the two-month special campaignThis round of cleanup is not an isolated move; it is embedded in cyberspace authorities' continued governance of AI-related disorder in 2026. In September this year, the Cyberspace Administration of China launched the second phase of \"Qinglang: Cracking Down on Disorder in AI Applications,\" making \"impersonating or imitating others\" a key focus. As of early September, more than 5.61 million pieces of content had been removed and more than 49,000 accounts had been handled. At the end of September, it rolled out nationwide a two-month \"Qinglang: Cracking Down on Fake Personas in Short Videos\" campaign, explicitly listing \"using AI to impersonate people\" as one of five key priorities and directly targeting fake endorsements and fake marketing using synthesized audio and video. The cases in this notice directly correspond to the targets of these actions.\nPlatform responsibility pushed to the forefront",
+ "report": {
+  "summary": "网信办清理4.7万条AI假冒名人内容，处置3961个账号",
+  "background": "这是2026年网信办“清朗”系列行动的阶段性成果：9月启动“清朗·整治AI应用乱象”第二阶段，将“假冒仿冒他人”列为重点，截至9月初已清理违规内容561万条、处置账号4.9万个；9月底又部署为期两个月的“清朗·整治短视频虚假人设”专项，明确把“利用AI假冒他人”列入五项重点，直接针对合成音视频做虚假代言、虚假营销。此次通报的4类案例正对应上述整治目标，也表明监管已从“事后删帖”走向“专项行动+压实平台责任”。",
+  "key_points": [
+   "共清理违法违规信息4.7万余条、处置账号3961个，涉及微信、抖音、小红书、B站、快手等多个平台，属于跨平台统一整治。",
+   "四类典型乱象几乎全部指向“变现”：未授权用AI仿冒名人形象声音带货、盗用肖像编造“患病”谣言、以第一人称冒充名人发表观点煽动情绪、生成低俗舞蹈或亲密互动图片吸粉牟利。",
+   "治理思路从单条内容清理升级为“专项行动+平台责任”，平台需在人脸声纹核验、AI生成内容标识、账号实名和矩阵号治理上承担前置把关义务。",
+   "被点名的不只是换脸，还包括“偷家人照片”“AI加特效造谣”等边缘手法，说明监管对素材来源与二次加工同样追责。"
+  ],
+  "impact": "对AI行业而言，深度合成技术的商用门槛明显抬高，肖像与声音授权链、内容标识将成为数字人、语音克隆类产品的合规刚需，靠打擦边球引流的产品会加速出清。对开发者来说，产品需内置授权验证、显隐式水印和可追溯日志，否则平台侧接入与分发都可能受阻。对普通用户，看到名人带货、名人“爆料”视频时不能只看脸和声音，应留意AI生成标识并交叉核实来源，避免被情绪化话术和假代言带动消费。",
+  "tools": "想跟进合规与检测，可关注《人工智能生成合成内容标识办法》要求的显式、隐式标识方案；开源侧有C2PA内容凭证（c2patool）、Google SynthID音视频水印、DeepfakeBench与FaceForensics++检测框架；国内可参考阿里ModelScope的生成水印能力，用于给合成内容加可追溯标记。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "d421d08dc714",
+ "url": "https://www.aibase.com/news/32146",
+ "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T13:25:51.046Z",
+ "fetched_at": "2026-11-06T15:56:33.583831+00:00",
+ "content": "Google has recently officially released a new AI video generation model, Gemini Omni1.2Flash, marking a key step forward in its push to bring AI video into large-scale commercial production. As an upgraded iteration of the previous generation, the model has been comprehensively optimized in generation duration, scene consistency, multi-turn conversational editing, and API pricing.\nIn terms of core technology and features, Gemini Omni1.2Flash increases the maximum duration of a single video generation from 10 seconds to 15 seconds, effectively reducing long-form video creation's reliance on multi-step stitching. At the same time, thanks to underlying efficiency optimizations, the cost of generating 720p video has dropped significantly by 30%, from $0.10 per second in the previous generation to $0.07 per second. The API cost of generating a single 15-second 720p video has fallen to $1.05.\nIn addition, the new model performs better at preserving products, people, logos, and text across multiple viewpoints, and supports multi-turn conversational editing, allowing users to locally adjust lighting, background, or camera angle without regenerating the entire video. The model also improves natural speech processing, lip sync, and multi-speaker interaction, while retaining fast 360p draft previews and output up to 1080p or 4K.\nCurrently, Gemini Omni1.2Flash is officially available to developers and creators through Google AI Studio, Google Cloud, Google Flow, and Google Vids. This update not only greatly lowers the commercial barrier for large video models, but also accelerates the evolution of AI video generation technology toward a refined, highly coherent, industrial-grade production stage.",
+ "report": {
+  "summary": "谷歌发布Gemini Omni1.2Flash，单条视频可达15秒、成本降三成",
+  "background": "AI视频生成正从“能生成”进入“能商用”阶段。过去一年，Veo、Sora、Runway、可灵、Wan等模型竞争焦点从画质转向两个硬性瓶颈：单次时长太短，导致长视频必须多段拼接；单秒成本过高，导致批量营销、电商素材难以规模化。上一代Gemini视频模型单次只能生成10秒、720p每秒0.10美元，创作者需要反复拼接与重生成。此次Omni1.2Flash以时长、一致性、对话式编辑、API定价四个方向同时升级，是谷歌把视频模型推向工业级生产流水线的动作。",
+  "key_points": [
+   "单次生成时长从10秒提升到15秒，长视频不必再靠多段拼接，脚本到成片的流程更短。",
+   "720p生成价格从每秒0.10美元降到0.07美元，降幅30%，一条15秒视频API成本约1.05美元。",
+   "跨视角一致性增强，商品、人物、logo和画面文字在多机位切换时不易变形走样。",
+   "支持多轮对话式编辑，可只改局部光线、背景或机位，无需整条重新生成，节省算力与时间。",
+   "语音、口型同步和多人对话更自然，保留360p草稿快速预览，成片最高支持1080p/4K。"
+  ],
+  "impact": "对行业而言，这是视频大模型从展示技术转向控制成本的明确信号，价格战会传导到Runway、可灵等厂商，商用门槛整体下移。对开发者，单秒计价与局部重生成让视频流水线的成本模型更可预测，批量广告、电商素材、本地化配音类应用变得可行。对普通用户，短视频与营销素材的制作从“抽卡式生成”走向“可修改的编辑”，但15秒仍意味着长内容需要编排层工具配合。",
+  "tools": "想上手可直接用Google AI Studio试用Gemini API，企业侧走Vertex AI/Google Cloud，创作端看Google Flow与Google Vids。做对比或自建可关注开源方案Wan 2.x、HunyuanVideo、LTX-Video，配合ComfyUI搭建可拼接、可局部重绘的视频工作流。"
+ },
+ "lang": "zh"
+}

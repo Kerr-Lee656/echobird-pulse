@@ -21139,5 +21139,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-06T01:17:52Z",
   "fetched_at": "2026-11-06T06:35:36.927234+00:00"
+ },
+ "4d9451633858": {
+  "id": "4d9451633858",
+  "url": "https://juejin.cn/post/7703895388105474086",
+  "title": "GPT-6 Astra 爆改 Qwen 权重真有那么神吗：权重空间编程 0.016% 参数的真相",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-06T13:25:53.211Z",
+  "fetched_at": "2026-11-06T15:54:33.688903+00:00"
+ },
+ "a83a56374fd6": {
+  "id": "a83a56374fd6",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-06T15:54:41.990161+00:00"
+ },
+ "cda444a35c85": {
+  "id": "cda444a35c85",
+  "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work",
+  "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-06T15:54:52.159503+00:00"
+ },
+ "02e2ce560d86": {
+  "id": "02e2ce560d86",
+  "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval",
+  "title": "Nvidia H200 chips pile up in Hong Kong as Beijing holds back, Reuters says",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-06T15:55:00.721779+00:00"
+ },
+ "4439f27cf211": {
+  "id": "4439f27cf211",
+  "url": "https://www.qbitai.com/2026/11/508155.html",
+  "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-06T15:55:22.479686+00:00"
+ },
+ "e15769ca5c01": {
+  "id": "e15769ca5c01",
+  "url": "https://www.qbitai.com/2026/11/507967.html",
+  "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-06T15:55:31.816998+00:00"
+ },
+ "2fbe091b28a8": {
+  "id": "2fbe091b28a8",
+  "url": "https://www.aibase.com/news/32155",
+  "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T13:25:51.046Z",
+  "fetched_at": "2026-11-06T15:55:59.401846+00:00"
+ },
+ "577a27b1d3ac": {
+  "id": "577a27b1d3ac",
+  "url": "https://www.aibase.com/news/32152",
+  "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T13:25:51.046Z",
+  "fetched_at": "2026-11-06T15:56:11.293657+00:00"
+ },
+ "496f76e4b0a3": {
+  "id": "496f76e4b0a3",
+  "url": "https://www.aibase.com/news/32148",
+  "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T13:25:51.046Z",
+  "fetched_at": "2026-11-06T15:56:23.004888+00:00"
+ },
+ "d421d08dc714": {
+  "id": "d421d08dc714",
+  "url": "https://www.aibase.com/news/32146",
+  "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-06T13:25:51.046Z",
+  "fetched_at": "2026-11-06T15:56:33.583831+00:00"
  }
 }

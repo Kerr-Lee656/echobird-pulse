@@ -1,0 +1,24 @@
+{
+ "id": "577a27b1d3ac",
+ "url": "https://www.aibase.com/news/32152",
+ "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-06T13:25:51.046Z",
+ "fetched_at": "2026-11-06T15:56:11.293657+00:00",
+ "content": "On November 4, Perplexity officially launched its new \"Teammates\" feature, aiming to move personal AI agents from single tasks to complex, ongoing work management.\nFollowing the launch of an assistant and Perplexity Computer in the Comet browser in July 2025, \"Teammates\" builds on Computer's multi-model and accuracy foundation. It can proactively monitor projects across business lines such as marketing, sales, customer support, and operations; coordinate across tools and teams; handle follow-ups; and remember project goals and shared files across multiple runs.\nThe feature has an isolated environment and access controls. It is first being rolled out on the web and will soon arrive on iOS, available to Perplexity Max subscribers. This move marks AI assistants shifting from passive tools to enterprise-grade operations agents that can autonomously plan, coordinate, and carry out execution, further driving AI's deep adoption in ongoing complex workflows.",
+ "report": {
+  "summary": "Perplexity推出Teammates，AI代理升级为持续项目管理者",
+  "background": "2025年7月，Perplexity在Comet浏览器中推出助手与Perplexity Computer，主打多模型协同与高准确度。此后AI助手赛道的竞争焦点从「问答」转向「执行」：OpenAI、Anthropic、谷歌相继推出可长时间运行、能调用工具的代理产品；企业用户则希望AI像同事一样跟进跨周项目，而不是只做一次性对话。Teammates正是在这一趋势下诞生，它把Computer的能力打包成可长期运行的「队友」，并首次面向Max订阅用户开放，标志着Perplexity正从搜索公司向代理平台转型。",
+  "key_points": [
+   "从单次问答到持续项目：Teammates能跨多次运行记住项目目标与共享文件，并主动监控营销、销售、客服、运营等业务线进展。",
+   "能协调、能跟进：它可跨工具和团队协调工作、处理后续跟进事项，相当于一个不下班的项目协调员。",
+   "建立在Computer之上：沿用Comet浏览器中Perplexity Computer的多模型架构与准确性能力，产品能力有明显延续性。",
+   "安全隔离设计：提供独立运行环境与访问权限控制，降低企业把敏感数据交给AI处理的风险。",
+   "逐步开放：先上线Web端，随后登陆iOS，目前仅面向Perplexity Max订阅用户。"
+  ],
+  "impact": "对AI行业而言，助手竞争正式进入「长期运行、主动执行」阶段，评价标准从回答质量转向任务完成率与记忆连续性。对开发者来说，代理的长期记忆、权限隔离、跨工具编排成为新的工程重点，也带来围绕Perplexity生态做集成的机会。对普通用户，AI开始像同事一样「记得住、跟得上」，但需要重新适应授权边界与订阅成本：高阶代理能力正被纳入付费订阅范围，免费与付费的体验差距会进一步拉大。",
+  "tools": "想上手可直接用Perplexity Comet浏览器+Max订阅体验Teammates；开源侧可关注LangGraph、AutoGen、CrewAI做多代理编排，Mem0/Zep做长期记忆，MCP（模型上下文协议）做工具接入，配合n8n验证跨系统工作流。"
+ },
+ "lang": "zh"
+}

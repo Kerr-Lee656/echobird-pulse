@@ -10573,5 +10573,104 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-06T05:00:00.000Z",
   "fetched_at": "2026-11-06T06:38:55.977587+00:00"
+ },
+ "c8fe2408c635": {
+  "id": "c8fe2408c635",
+  "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+  "title": "SpaceX launched Google AI chips to orbit with Planet Labs satellites",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T15:49:39Z",
+  "fetched_at": "2026-11-06T15:57:07.595451+00:00"
+ },
+ "26409329fc21": {
+  "id": "26409329fc21",
+  "url": "https://harava.news/en/articles/2026/11/06/openai-gpt-6-cyber",
+  "title": "OpenAI Releases GPT-6 Cyber for Vetted Security Teams",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T15:41:27Z",
+  "fetched_at": "2026-11-06T15:57:21.538414+00:00"
+ },
+ "3f573a5da811": {
+  "id": "3f573a5da811",
+  "url": "https://huggingface.co/blog/harness-hub/harness-adapters",
+  "title": "Harness adapters: Safe RL for efficient agentic development",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T15:37:14Z",
+  "fetched_at": "2026-11-06T15:57:33.030678+00:00"
+ },
+ "4b9f0f83152b": {
+  "id": "4b9f0f83152b",
+  "url": "https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o",
+  "title": "约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿",
+  "source": "X.PIN",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T15:32:00.000Z",
+  "fetched_at": "2026-11-06T15:57:46.065082+00:00"
+ },
+ "a28421ea9364": {
+  "id": "a28421ea9364",
+  "url": "https://www.physicl.ai/insights/inside-studio",
+  "title": "Physical AI can't learn from the internet. We build the worlds it learns from",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T14:37:02Z",
+  "fetched_at": "2026-11-06T15:57:57.268106+00:00"
+ },
+ "5127ea8c9df1": {
+  "id": "5127ea8c9df1",
+  "url": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
+  "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T13:40:07.000Z",
+  "fetched_at": "2026-11-06T16:00:10.039945+00:00"
+ },
+ "27b87d65d3f9": {
+  "id": "27b87d65d3f9",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "title": "Gemini Omni 1.2 Flash",
+  "source": "Hacker News (144pts, 108c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T13:35:27Z",
+  "fetched_at": "2026-11-06T16:00:21.271120+00:00"
+ },
+ "6271bef94c80": {
+  "id": "6271bef94c80",
+  "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+  "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T13:08:20Z",
+  "fetched_at": "2026-11-06T16:00:56.800126+00:00"
+ },
+ "cdafda2323a9": {
+  "id": "cdafda2323a9",
+  "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+  "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+  "source": "Hacker News (22pts, 12c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T12:59:43Z",
+  "fetched_at": "2026-11-06T16:01:11.726214+00:00"
+ },
+ "42f2f24e4e2c": {
+  "id": "42f2f24e4e2c",
+  "url": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
+  "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T11:38:17.000Z",
+  "fetched_at": "2026-11-06T16:01:33.090792+00:00"
+ },
+ "2275af26a8c3": {
+  "id": "2275af26a8c3",
+  "url": "https://aihot.news/items/apnpwouw9phkt81pijcxcl1a1",
+  "title": "蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B",
+  "source": "公众号：蚂蚁百灵",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T11:04:00.000Z",
+  "fetched_at": "2026-11-06T16:01:47.985695+00:00"
  }
 }

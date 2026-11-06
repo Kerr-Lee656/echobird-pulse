@@ -1,0 +1,24 @@
+{
+ "id": "02e2ce560d86",
+ "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval",
+ "title": "Nvidia H200 chips pile up in Hong Kong as Beijing holds back, Reuters says",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-06T15:55:00.721779+00:00",
+ "content": "About 600,000 of Nvidia’s H200 AI chips are being stored in Hong Kong because Beijing has not approved large-scale imports into mainland China, Reuters reported. The news agency cited two people familiar with the matter.\nNvidia did not respond to Reuters’ request for comment, and neither did China’s industry ministry or its main economic planning agency.\nThe H200 is not Nvidia’s newest processor, but Chinese tech companies still want it to train and run large AI models.\nHowever, Beijing wants firms such as Alibaba, ByteDance, Tencent and DeepSeek to use Chinese-made chips instead, according to Reuters. That applies especially to inference, the work of running models once they are trained.\nAs a result, the total number of foreign chips China approves could end up below 200,000, Reuters reported. Several large Chinese internet companies have each received about 10,000 H200s in recent months, one of its sources said.\nThe shortage has pushed up prices on China’s unofficial market. By the end of October, a server with eight H200 chips was being offered there for more than 6m yuan, about three times its price a year earlier.\nServers with Nvidia’s newer Blackwell chips, which the US does not allow to be sold to China, were offered for more than 20m yuan each.\nThe deadlock follows months of shifting rules on both sides of the chip export fight. In January, the US began reviewing H200 export licences for China case by case, after President Donald Trump allowed limited sales in December 2025.\nLater that month, Beijing approved a first batch of H200 imports for ByteDance, Alibaba and Tencent. Since then, however, Chinese restrictions have kept Nvidia from selling all of the chips it is licensed to ship.\nIn its latest quarterly filing, Nvidia said H200 sales to China came to less than 1% of its data centre revenue. It also took a $400m charge for unsold H200 stock and purchase commitments.\nDemand for other Nvidia products remains strong, though. Last month, Reuters reported that ByteDance, Alibaba and Tencent had ordered more than 3 million RTX Pro graphics cards, worth more than $35bn in total.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "约60万颗英伟达H200芯片滞留香港，因北京未批准大规模进口",
+  "background": "中美芯片出口博弈自2022年持续升级：美国先禁售高端AI芯片，2025年12月特朗普政府允许有限销售，2026年1月起改为逐案审批H200对华出口许可。北京随后批准字节跳动、阿里、腾讯首批进口，但很快收紧节奏，转而要求本土大厂优先采购国产芯片，尤其在推理环节。于是出现奇特局面：英伟达获准发货，中国却不愿放行，大量芯片积压在香港仓库，形成'卡在关口'的僵局。",
+  "key_points": [
+   "约60万颗H200芯片囤在香港仓库，因中国监管部门尚未放行大规模入境，英伟达与中国工信部、发改委均未回应。",
+   "北京希望阿里、字节、腾讯、DeepSeek等优先用国产芯片，尤其是模型训练完成后的推理环节，最终获批进口总量可能不足20万颗。",
+   "稀缺推高灰色市场价格：8卡H200服务器报价超600万元，是一年前的三倍；被禁售的Blackwell服务器更是超过2000万元。",
+   "H200对华销售不足英伟达数据中心营收的1%，公司还为滞销库存计提4亿美元减值，但字节、阿里、腾讯仍下单超300万张RTX Pro显卡，价值350亿美元。",
+   "H200并非英伟达最新产品，但中国企业仍需要它训练和运行大模型，说明国产替代在高端训练算力上仍有差距。"
+  ],
+  "impact": "对英伟达而言，中国市场从收入引擎变成政策风险源，营收贡献已可忽略，但库存与渠道损失真实存在。对AI行业，中美算力'双轨制'加速成型：中国形成国产芯片为主、进口高端卡为补充的混合算力结构，推理成本与生态适配成为新战场。对开发者，训练侧的先进算力获取更难，推理优化、模型压缩和国产芯片适配（如昇腾、寒武纪）的技能价值上升。对普通用户，短期影响是国产大模型API价格与服务质量波动，长期看中国AI产品可能更依赖本土算力成本曲线。",
+  "tools": "想跟进可关注：国产算力生态如华为昇腾CANN/MindSpore、寒武纪Neuware；跨芯片迁移工具如vLLM、SGLang的多后端支持，以及PyTorch的昇腾/MLU适配层；追踪芯片贸易政策可用Reuters、Bloomberg半导体报道及英伟达季度财报。"
+ },
+ "lang": "zh"
+}
