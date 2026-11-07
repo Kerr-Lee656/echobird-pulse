@@ -21364,5 +21364,41 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-06T15:21:47.306Z",
   "fetched_at": "2026-11-07T01:54:45.784934+00:00"
+ },
+ "9be307263504": {
+  "id": "9be307263504",
+  "url": "https://www.36kr.com/newsflashes/4058926444729220",
+  "title": "OpenAI 完成 110 亿美元新融资，估值 1.25 万亿美元，软银、红杉资本等参投",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T08:42:56.531706+00:00"
+ },
+ "f6fdac810f4c": {
+  "id": "f6fdac810f4c",
+  "url": "https://www.donews.com/news/detail/1/6768382.html",
+  "title": "Anthropic 揭秘 Claude 智能体记忆架构：引入「做梦」离线机制",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T08:43:07.528620+00:00"
+ },
+ "5b626fd32398": {
+  "id": "5b626fd32398",
+  "url": "https://www.ithome.com/1/023/625.htm",
+  "title": "工信部就机器人“身份证”暂行办法征求意见，全品类机器人“一机一码”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-07T00:29:29Z",
+  "fetched_at": "2026-11-07T08:43:21.393081+00:00"
+ },
+ "802f768a3fc2": {
+  "id": "802f768a3fc2",
+  "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html",
+  "title": "人工智能为研究人员指明了隐藏在线粒体中的新疾病靶点",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-06T22:56:43.198Z",
+  "fetched_at": "2026-11-07T08:43:32.283878+00:00"
  }
 }

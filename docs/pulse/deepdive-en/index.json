@@ -10762,5 +10762,59 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-06T22:53:46.000Z",
   "fetched_at": "2026-11-07T01:56:53.423519+00:00"
+ },
+ "6e01e6a22e3c": {
+  "id": "6e01e6a22e3c",
+  "url": "https://github.com/vagrillo/nngen",
+  "title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T07:37:42Z",
+  "fetched_at": "2026-11-07T08:44:21.123826+00:00"
+ },
+ "38db56642b54": {
+  "id": "38db56642b54",
+  "url": "https://www.honest-broker.com/p/the-ai-business-model-just-collapsed",
+  "title": "The AI Business Model Just Collapsed",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T04:30:10Z",
+  "fetched_at": "2026-11-07T08:44:40.105526+00:00"
+ },
+ "7d15d3537224": {
+  "id": "7d15d3537224",
+  "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+  "title": "Meta introduces Spaces: custom app views built by your Muse agent",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T03:32:55Z",
+  "fetched_at": "2026-11-07T08:45:01.153730+00:00"
+ },
+ "77dbd07e8e9c": {
+  "id": "77dbd07e8e9c",
+  "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+  "title": "[AINews] Anthropic IPO: Whither Now?",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-11-07T03:04:53.000Z",
+  "fetched_at": "2026-11-07T08:45:14.035777+00:00"
+ },
+ "8c87ab1f640b": {
+  "id": "8c87ab1f640b",
+  "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+  "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
+  "source": "Hacker News (13pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T02:59:27Z",
+  "fetched_at": "2026-11-07T08:45:31.131896+00:00"
+ },
+ "6c7191a9dadd": {
+  "id": "6c7191a9dadd",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+  "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-06T23:46:18.000Z",
+  "fetched_at": "2026-11-07T08:46:10.909707+00:00"
  }
 }
