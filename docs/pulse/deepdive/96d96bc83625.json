@@ -1,0 +1,24 @@
+{
+ "id": "96d96bc83625",
+ "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+ "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+ "source": "www.crusoe.ai",
+ "site_name": "Buzzing",
+ "published_at": "2026-11-07T17:32:59.760Z",
+ "fetched_at": "2026-11-07T21:46:53.023548+00:00",
+ "content": "Crusoe Announces Wyoming Data Center Campus Update\nGoogle has acquired Crusoe’s data center site in southeast Wyoming, completing Crusoe’s pre-development work on site selection, governmental approvals, and a hybrid power strategy developed with Tallgrass Energy.\nDENVER — November 6, 2026 — Crusoe, the AI factory company, today announced its site in southeast Wyoming has been acquired by Google. The transaction marks the completion of Crusoe's engagement in pre-development work on the Wyoming project – which included data center site selection, governmental approvals, and power strategy.\n\"Crusoe’s pre-construction efforts – origination, entitlement, and de-risking – have set up the Wyoming project for construction and eventual operation,” said Chase Lochmiller, Co-founder and CEO of Crusoe. “Crusoe is in the business of activating gigawatts for intelligence. With more than 6 GW contracted and over 40 GW in our pipeline, we are eager to steward the development and energization of the foundational infrastructure of AI.”\nCrusoe and Tallgrass Energy initiated the Wyoming campus through the joint development of power and data center infrastructure. This parallel process required simultaneous coordination across energy systems design, data center engineering, site development, and hyperscaler engagement. The innovative hybrid power strategy developed for the campus exemplifies Crusoe’s integrated approach to digital infrastructure, combining fuel cells, grid power, and natural gas turbines with a long-term roadmap for carbon capture via Tallgrass’s regional CO2 sequestration hub.\nCrusoe recently announced it is the developer of Google’s data center campus under construction in Armstrong County outside of Amarillo.\nAbout Crusoe\nAs the AI factory company, Crusoe is on a mission to accelerate the abundance of energy and intelligence. The company provides a reliable, scalable, cost-effective, energy-first solution for AI infrastructure. By harnessing large-scale energy sources, building AI-optimized data centers, and delivering a powerful AI cloud platform, Crusoe empowers its customers and partners to build the future faster. For more information, visit crusoe.ai.\nMedia Contact\nmedia@crusoe.ai",
+ "report": {
+  "summary": "谷歌收购Crusoe怀俄明数据中心场地",
+  "background": "AI算力扩张正受电力、土地和并网许可制约，超大规模云厂商加速锁定“可通电”站点。Crusoe以能源优先的数据中心开发模式著称，先做选址、审批与混合供电方案，再交由客户建设运营。此次谷歌买下怀俄明场地，是双方在Amarillo园区合作之外的又一案例，反映AI基础设施竞争正前移到能源与前期开发环节。",
+  "key_points": [
+   "交易标的是怀俄明数据中心场地，不是Crusoe公司；Crusoe已完成选址、政府审批和供电策略等前期工作。",
+   "该园区采用燃料电池、电网和天然气轮机混合供电，并规划借助Tallgrass区域CO2封存实现碳捕集。",
+   "Crusoe称已签约超6GW、储备超40GW，定位“为智能激活吉瓦”，显示AI数据中心正按能源规模竞赛。",
+   "Crusoe还是谷歌Amarillo附近Armstrong County在建园区的开发商，说明其角色兼具前期开发与代建。",
+   "公告未披露交易金额和建设时间表；场地交割使项目具备进入建设阶段的条件。"
+  ],
+  "impact": "对AI行业，算力竞争进一步转向电力、土地和审批资源，拥有能源整合能力的开发商价值上升；对开发者，训练与推理的供给瓶颈更可能来自数据中心通电速度，而非仅芯片；对普通用户，云AI服务容量或增加，但本地电网、水资源和环境争议也需关注。",
+  "tools": "可关注Crusoe Cloud与Crusoe官网项目动态、Tallgrass Energy碳封存hub、Google数据中心能效报告；开源可用Electricity Maps、GridStatus、OpenOA分析电网碳强度和供电瓶颈。"
+ },
+ "lang": "zh"
+}

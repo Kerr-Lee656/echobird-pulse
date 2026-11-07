@@ -1,0 +1,23 @@
+{
+ "id": "b521172828d6",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+ "title": "The US let Nvidia sell chips to an empty office in China",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T21:45:54.021405+00:00",
+ "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company’s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, “a hollow gray shell with wires dangling from the ceiling where lights should be.” In fact, the paper could find little evidence that the company exists in any meaningful way:\nThe US let Nvidia sell chips to an empty office in China\nThe government is approving sales of Nvidia’s AI chips to Chinese firms with ties to blacklisted companies.\nOnly scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not include the firm. At the nearby property management agency for the industrial park, a receptionist and a manager both said they had no record of the company.\nWhat little information can be found about New Matrix is concerning. Its owners have ties to a Chinese private equity firm that has been blacklisted by the US government since 2024. And according to the Times, this is not a rare lapse in oversight, but a troubling pattern of companies connected to entities with national-security-related trade restrictions being approved to purchase Nvidia chips.\nNvidia had been restricted from selling chips to China during the Biden presidency. But the Trump administration relaxed those limits after Nvidia agreed to give the government a 15-percent cut of all sales. The company’s CEO, Jensen Huang, also launched an intense lobbying campaign and was apparently targeted by China’s Ministry of State Security in a spying plot.",
+ "report": {
+  "summary": "美批准Nvidia向空壳中企售H200芯片引质疑",
+  "background": "拜登政府时期，Nvidia被限制向中国出售高端AI芯片。特朗普政府后来放松限制，条件是Nvidia将相关销售额的15%上缴美国政府；黄仁勋亦展开密集游说。在此背景下，美国商务部批准部分中国企业购买H200。但《纽约时报》调查发现，获批企业New Matrix的办公地空置、园区无记录，其所有者还与2024年被美列入黑名单的中国私募股权公司有关联，引发对审批尽职调查的质疑。",
+  "key_points": [
+   "获批购买H200的New Matrix被曝办公地空置，大楼目录和园区管理方均无该公司记录，实际经营存在性存疑。",
+   "New Matrix的所有者与一家自2024年起被美国列入黑名单的中国私募股权公司存在关联，触及国家安全贸易限制。",
+   "报道称这并非孤立疏漏，而是与受限制实体有关联的公司仍获准采购Nvidia芯片的“令人不安的模式”。",
+   "政策转折点在于特朗普政府以15%销售分成换取放松对华芯片销售，同时黄仁勋展开高强度游说，还曝出中国国安部针对他的间谍图谋。"
+  ],
+  "impact": "对AI行业而言，事件削弱美国出口管制的可信度，可能引发国会和监管机构收紧审批，增加芯片对华销售的政策不确定性。对开发者来说，H200供应与合规风险上升，涉及中国客户的项目需更严格尽调。对普通用户，短期影响有限，但若管制反复，可能推高AI算力成本并影响云服务价格。",
+  "tools": "可关注美国BIS实体清单与出口许可数据、OpenCorporates和企查查做股权穿透，结合Nvidia SEC财报及CSIS出口管制简报跟踪后续。"
+ },
+ "lang": "zh"
+}
