@@ -1,0 +1,24 @@
+{
+ "id": "5a9ee450e9a5",
+ "url": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+ "title": "US charges three men over $129m scheme that faked CEOs’ voices with AI",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T16:24:00.888581+00:00",
+ "content": "The men are Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42. Spanish police arrested Soall and Hazan in June and August, and UK police arrested Sheetrit in September. The US has asked for all three to be extradited.\nThe scheme ran from 2024 to 2026, according to the indictment. The men would call an employee while posing as the company’s chief executive, using AI to mimic the boss’s voice or image. They would ask for help with a secret deal.\nThe fake CEO then told the employee to contact a lawyer at a large international law firm. Another member of the group posed as that lawyer and gave the bank details for a large transfer.\nThe victims included a Missouri hospital system, which lost about $4.8m, and a UK fintech company, which lost about $11.6m. A Rhode Island bank, a California hospital system, a Massachusetts mutual fund, and a Florida pet food company were also hit.\nThe money went to accounts in countries including Spain, Greece, the UAE, Singapore, and China. It was then turned into cryptocurrency to hide where it came from, prosecutors said.\nSoall mainly posed as UK lawyers and kept a handwritten script called Lawyer Call, according to the indictment. Hazan and Sheetrit are accused of laundering the money. Hazan was convicted of bank fraud conspiracy in the same court in 2008.\nThe three face charges including wire fraud, money laundering, and aggravated identity theft. The most serious counts carry up to 20 years in prison. The charges are allegations, and the men are presumed innocent.\nThe case is a larger version of a 2019 voice-cloning fraud, in which criminals faked a CEO’s voice to steal $243,000. Since then, AI impersonation scams have grown fast.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美国起诉三人利用AI冒充CEO诈骗1.29亿美元",
+  "background": "这起案件是2019年AI克隆CEO声音骗走24.3万美元案件的放大版。随着语音克隆和深度伪造成本下降，冒充企业高管、假律师指令和跨境洗钱正形成产业化欺诈链条；美国检方称该团伙在2024至2026年间作案，受害者包括医院、金融科技公司、银行和基金，资金经多国账户转为加密货币。",
+  "key_points": [
+   "检方指控三名男子冒充企业CEO，用AI模拟老板声音或图像，以“秘密交易”为由指示员工转账。",
+   "骗局设双角色：假CEO让员工联系“国际大律所律师”，再由同伙冒充律师提供收款账户，增强可信度。",
+   "受害者损失约1.29亿美元，包括密苏里医院系统480万美元、英国金融科技公司1160万美元等多家机构。",
+   "赃款流入西班牙、希腊、阿联酋、新加坡和中国等地账户，再换成加密货币以掩盖来源。",
+   "三人已在西班牙和英国被捕，美国请求引渡；他们面临电信欺诈、洗钱等指控，最重20年，但目前仅为指控。"
+  ],
+  "impact": "对企业，AI冒充已从“听得出假”变成流程攻击，财务审批和回拨验证必须升级；对AI行业，深度伪造治理和语音水印/检测需求上升；对开发者，身份验证、反欺诈和区块链追踪工具迎来场景；对普通用户，接到“老板/律师”紧急转账指令时要独立核实。",
+  "tools": "可关注：语音深伪检测（Pindrop、Reality Defender）、声纹/多因素身份验证、企业反欺诈与回拨核验流程、链上分析工具（Chainalysis、Elliptic），以及开源音频伪造检测项目如ASVspoof相关工具。"
+ },
+ "lang": "zh"
+}

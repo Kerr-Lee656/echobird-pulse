@@ -10816,5 +10816,77 @@
   "site_name": "The Verge",
   "published_at": "2026-11-06T23:46:18.000Z",
   "fetched_at": "2026-11-07T08:46:10.909707+00:00"
+ },
+ "926168031359": {
+  "id": "926168031359",
+  "url": "https://github.com/kagent-dev/kagent",
+  "title": "kagent-dev/kagent — Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:26:46.728867+00:00"
+ },
+ "c5293c0a7f73": {
+  "id": "c5293c0a7f73",
+  "url": "https://www.uber.com/us/en/blog/securing-ai-agents/",
+  "title": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T15:23:58Z",
+  "fetched_at": "2026-11-07T16:27:04.487114+00:00"
+ },
+ "b228101c3e9d": {
+  "id": "b228101c3e9d",
+  "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+  "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T15:16:01Z",
+  "fetched_at": "2026-11-07T16:27:17.549384+00:00"
+ },
+ "4b429bd75829": {
+  "id": "4b429bd75829",
+  "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "title": "AI broke the cybersecurity world. What’s next?",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-07T15:00:00.000Z",
+  "fetched_at": "2026-11-07T16:27:31.225858+00:00"
+ },
+ "0da1aedaa09f": {
+  "id": "0da1aedaa09f",
+  "url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
+  "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T13:25:34Z",
+  "fetched_at": "2026-11-07T16:28:01.440270+00:00"
+ },
+ "eecad6fef1da": {
+  "id": "eecad6fef1da",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-07T12:30:00.000Z",
+  "fetched_at": "2026-11-07T16:28:14.003867+00:00"
+ },
+ "b3b4d3ec5f77": {
+  "id": "b3b4d3ec5f77",
+  "url": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+  "title": "The Pentagon wants to know who checks code when AI writes it",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T10:52:46Z",
+  "fetched_at": "2026-11-07T16:28:31.873512+00:00"
+ },
+ "8b9ebd151fdf": {
+  "id": "8b9ebd151fdf",
+  "url": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
+  "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+  "source": "IT之家·人工智能",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-07T09:16:42.000Z",
+  "fetched_at": "2026-11-07T16:28:47.530394+00:00"
  }
 }

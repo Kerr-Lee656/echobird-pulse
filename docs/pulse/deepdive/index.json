@@ -21400,5 +21400,86 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-06T22:56:43.198Z",
   "fetched_at": "2026-11-07T08:43:32.283878+00:00"
+ },
+ "5a9ee450e9a5": {
+  "id": "5a9ee450e9a5",
+  "url": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+  "title": "US charges three men over $129m scheme that faked CEOs’ voices with AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:00.888581+00:00"
+ },
+ "00578e2f4850": {
+  "id": "00578e2f4850",
+  "url": "https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds",
+  "title": "AI teddy for three-year-olds gave unprompted self-harm reply, BBC finds",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:16.060471+00:00"
+ },
+ "3e3fbb768616": {
+  "id": "3e3fbb768616",
+  "url": "https://www.ithome.com/1/023/788.htm",
+  "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:29.654830+00:00"
+ },
+ "1869fc785900": {
+  "id": "1869fc785900",
+  "url": "https://wallstreetcn.com/articles/3785447",
+  "title": "Apollo 拟豪掷 750 亿美元采购 AI 芯片，规模远超任何一家 Neocloud",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:39.359081+00:00"
+ },
+ "dc9b89987ee3": {
+  "id": "dc9b89987ee3",
+  "url": "https://news.10jqka.com.cn/20261107/c681578010.shtml",
+  "title": "苹果研究团队披露机器人「大脑」进展 单项任务测试平均成功率为 91%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:51.373833+00:00"
+ },
+ "9ec77d8c833a": {
+  "id": "9ec77d8c833a",
+  "url": "https://www.ithome.com/1/023/814.htm",
+  "title": "消息称因台积电产能吃紧，英伟达提供数十亿美元支持日月光扩产 CoWoS 先进封装",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:24:59.125937+00:00"
+ },
+ "f2718f696f02": {
+  "id": "f2718f696f02",
+  "url": "https://www.ithome.com/1/023/752.htm",
+  "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-07T16:25:12.518412+00:00"
+ },
+ "a4b661765f58": {
+  "id": "a4b661765f58",
+  "url": "https://www.ithome.com/1/023/767.htm",
+  "title": "苹果披露人形机器人 HALO 系统：调用千问模型在宇树 G1 上验证，单项任务平均成功率 91%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-07T09:40:17Z",
+  "fetched_at": "2026-11-07T16:25:23.094042+00:00"
+ },
+ "4effdf507594": {
+  "id": "4effdf507594",
+  "url": "https://www.ithome.com/1/023/765.htm",
+  "title": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-07T09:16:42Z",
+  "fetched_at": "2026-11-07T16:25:34.409508+00:00"
  }
 }

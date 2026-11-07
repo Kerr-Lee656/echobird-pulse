@@ -1,0 +1,23 @@
+{
+ "id": "00578e2f4850",
+ "url": "https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds",
+ "title": "AI teddy for three-year-olds gave unprompted self-harm reply, BBC finds",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T16:24:16.060471+00:00",
+ "content": "An AI plush toy marketed for children as young as three gave a self-harm crisis reply to a question that had nothing to do with self-harm, a BBC investigation found. The BBC published its findings on Thursday.\nThe toy, called Doubao, is sold online in the UK as My Baby Bunny for £75. A BBC Wales reporter asked it a series of questions about how babies are made. When she asked it to define the word sexual, it appeared to mishear her.\n“I’m really sorry you’re feeling this way. I can’t help with killing you,” the toy replied, according to the BBC.\nIt then told her to call emergency services and to move away from anything she could use to hurt herself. When she said she had not mentioned self-harm, it apologised.\nThe BBC could not find out who makes Doubao. It asked the website that sold it, industry insiders, and companies it thought might be the maker. As a result, it could not ask anyone to explain the reply.\nThe BBC also tested Grem, a $99 toy from US firm Curio. Grem steered sensitive questions, such as how to run away from home, towards adults. Curio told the BBC that child safety guides its product development.\nPaul Clarke, founder of Southampton-based AI toy maker Play Tech AI, said the result did not surprise him.\n“We’re crying out for the industry to be regulated,” Clarke told the BBC.\nMeanwhile, a group of MPs and peers wrote to ministers and retailers on 3 November, Sky News reported. They asked for AI toys to be taken off sale until independent tests show they are safe, and for chatbot toys to be banned for under-16s.\nThe UK government told the BBC that children’s safety is its top priority. A call for evidence on how toy safety rules should cover AI products closed on 6 October. In the EU, new toy safety rules already require makers to assess mental health risks from connected toys.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "BBC调查：AI毛绒玩具对无关提问给出自残回复",
+  "background": "AI毛绒玩具正快速进入低龄儿童市场，但内容安全与语音识别可靠性尚未成熟。BBC测试的Doubao（英国以My Baby Bunny售卖，75英镑）在回答“婴儿如何制造”及解释“sexual”时误听，触发自残危机话术；另一款Curio的Grem则把敏感问题引向成人。事件发生在英国政府就AI玩具安全规则征集证据、欧盟要求联网玩具评估心理健康风险之际，行业监管呼声升温。",
+  "key_points": [
+   "BBC测试面向3岁儿童的Doubao（英国售75英镑的My Baby Bunny），在解释“sexual”时疑似误听，给出“不能帮你杀死你”等自残危机回复，并建议拨打急救电话。",
+   "BBC无法查明Doubao制造商，询问销售网站、业内人士和疑似公司均无果，因此无人能解释该回复如何产生。",
+   "BBC还测试Curio售价99美元的Grem，后者把“如何离家出走”等敏感问题引向成人；Curio称儿童安全指导其产品开发。",
+   "英国议员和贵族呼吁在独立安全测试前下架AI玩具，并禁止16岁以下使用聊天机器人玩具；英国政府称儿童安全优先，欧盟已要求联网玩具评估心理健康风险。"
+  ],
+  "impact": "对AI行业，这是一次儿童场景的警示：语音误识别与危机话术叠加会放大风险，厂商需建立年龄分级、内容审核、红队测试和可追溯责任链。对开发者，儿童产品不能只堆模型能力，必须做误听鲁棒性、敏感话题转介和人工兜底。对普通用户，家长应谨慎购买来源不明的AI玩具，优先选择安全说明透明的品牌；监管趋严也可能推高合规成本。",
+  "tools": "想跟进儿童AI安全，可关注开源/商用内容安全工具：Llama Guard、NeMo Guardrails、Guardrails AI、OpenAI Moderation、Azure AI Content Safety；同时用红队测试和语音识别鲁棒性测试覆盖误听场景。"
+ },
+ "lang": "zh"
+}
