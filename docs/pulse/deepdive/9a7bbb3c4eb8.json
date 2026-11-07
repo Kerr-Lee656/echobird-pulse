@@ -1,0 +1,24 @@
+{
+ "id": "9a7bbb3c4eb8",
+ "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+ "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T01:53:45.361365+00:00",
+ "content": "Microsoft is winding down a 2023 deal to rent AI computing from Oracle after declining to renew it, Bloomberg reports. The servers ran older Nvidia chips. Microsoft is reassessing more than $80B in contracts with outside cloud providers.\nMicrosoft is winding down a deal to rent AI computing power from Oracle, Bloomberg reported on Friday, citing people familiar with the matter. Microsoft has been switching off the rented capacity in recent months after deciding not to renew the contract.\nThe servers ran older Nvidia chips and no longer matched what Microsoft needed, the people said. Ageing hardware is a growing worry: Gartner has warned that much AI infrastructure spending could face large write-downs as newer chips arrive.\nThe deal, announced in 2023, gave Microsoft Oracle servers to run its AI-powered Bing search, and Bloomberg could not determine its full size. Separate talks for Microsoft to lease more Oracle capacity collapsed in June, Business Insider reported.\nMicrosoft declined to comment. Oracle said demand for its AI infrastructure remains strong, including for older chips, and its shares fell about 3%.\nMicrosoft has committed more than $80B to rent capacity from other cloud firms such as CoreWeave, Nscale and Nebius. Its leaders have grown frustrated with their costs and delays, Bloomberg said. This week, it reportedly turned down an option to expand a Nscale deal in Texas, weeks after pulling out of a Nscale site in the UK.\nThe news adds to Oracle’s troubles. Heavy spending on AI data centres has pushed its free cash flow negative and its credit rating to one notch above junk. Its shares have more than halved since a June peak.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "微软终止租用甲骨文AI算力，转向自建与重新评估外部云合同。",
+  "background": "2023年微软与甲骨文签约租用AI算力支持Bing，反映当时GPU短缺下超大规模厂商外租产能。如今芯片迭代加快，旧卡性价比下降，微软开始收缩外租并重估超800亿美元外部云合同，甲骨文则因AI数据中心重投入面临现金流与评级压力。",
+  "key_points": [
+   "微软不再续约甲骨文，逐步关停租用容量，因服务器搭载较旧英伟达芯片，已不匹配需求。",
+   "微软正重新评估超800亿美元外部云合同，对CoreWeave、Nscale、Nebius等成本与延期不满。",
+   "甲骨文称AI基础设施需求仍强，包括旧芯片，但股价跌约3%，市场担忧其AI扩张财务压力。",
+   "甲骨文AI数据中心投入巨大，自由现金流转负、信用评级仅比垃圾级高一档，股价较6月高点腰斩。",
+   "Gartner警告，随着新芯片到来，大量AI基础设施支出可能面临大额减值，旧硬件折旧风险上升。"
+  ],
+  "impact": "对行业而言，算力外租模式进入理性期，超大规模厂商更重自建与芯片代际管理；开发者将面对GPU型号与成本分层，需优化模型以适配旧卡；普通用户短期无感，但云AI服务价格与可用性会受算力重配置影响。",
+  "tools": "可关注Oracle OCI、CoreWeave、Nebius、Nscale等GPU云，以及Nvidia H100/H200/B200代际对比和FinOps成本管理工具。"
+ },
+ "lang": "zh"
+}

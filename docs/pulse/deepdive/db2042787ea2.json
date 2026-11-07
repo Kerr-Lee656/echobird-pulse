@@ -1,0 +1,24 @@
+{
+ "id": "db2042787ea2",
+ "url": "https://mashable.com/tech/openai-gpt-6-cyber",
+ "title": "OpenAI says its new GPT-6 Cyber has already uncovered thousands of exploits",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T01:53:35.107149+00:00",
+ "content": "OpenAI says its new GPT-6 Cyber has already uncovered 'thousands' of exploits\nOpenAI has launched GPT-6, a cybersecurity AI model that delivers \"major gains\" on key cybersecurity benchmarks over its predecessor, GPT-5.6 Cyber.\nIn an introductory blog post published on Thursday, OpenAI said that GPT-6 Cyber delivers a 51% improvement over GPT-5.6 Cyber on the ExploitGym cybersecurity benchmark.\nGPT-6 Cyber is \"already helping to secure real-world software, uncovering and validating thousands of exploits in security-critical codebases such as Linux and Firefox,\" said the post.\nYou May Also Like\nThe news comes days after it was revealed that OpenAI's upcoming model (now confirmed to be GPT-6 Cyber by OpenAI) had found and patched 948 local privilege-escalation vulnerabilities in Linux. The model was also used to identify 81 previously unknown \"high-severity\" vulnerabilities in Firefox, \"despite extensive prior testing with frontier models.\"\n        \n            The best tech deal this week\n                            \n                    \n                                    \n                    Products available for purchase through affiliate links. If you buy something through links on our site, Mashable may earn an affiliate commission.\n                \n                        \nIf this all sounds a little dangerous to be available to just anyone, you're right. This is why access to GPT-6 Cyber is part of Daybreak, OpenAI's cybersecurity program, which is only available to verified individuals and organizations.\nIn its blog post, however, OpenAI said its goal is to \"dramatically\" expand Daybreak, and bring \"advanced security research to organizations of every size, independent researchers, and open-source maintainers.\"\nInitially, GPT-6 Cyber is only available to a \"select group\" of approved Daybreak Red customers (Daybreak access is divided into two tiers: Daybreak Blue is for defensive work, while Daybreak Red is for advanced penetration testing and security research). Access will be progressively expanded to all Daybreak Red customers \"soon.\"\nWant more tech and digital culture news delivered to your inbox daily or sent straight to your device? Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.\nTopics OpenAI\nStan is a Senior Editor at Mashable, where he has worked since 2007. He's got more battery-powered gadgets and band t-shirts than you. He writes about the next groundbreaking thing. Typically, this is a phone, a coin, or a car. His ultimate goal is to know something about everything.",
+ "report": {
+  "summary": "OpenAI发布GPT-6 Cyber，已挖出数千个真实漏洞",
+  "background": "把大模型用于漏洞挖掘并不新鲜，Google的Big Sleep、OSS-Fuzz的AI增强、DARPA AIxCC挑战赛都在推动这一方向。OpenAI此前已推出GPT-5.6 Cyber，并在发布前披露了Linux 948个本地提权漏洞、Firefox 81个此前未知高危漏洞的战绩。这次GPT-6 Cyber在ExploitGym基准上比前代提升51%，并首次明确“已在保护真实软件”。由于攻防双用途风险极高，OpenAI没有公开开放，而是把它装进Daybreak项目，按防御（Blue）与渗透测试/安全研究（Red）分级授权，只对通过审核的个人与组织开放。",
+  "key_points": [
+   "性能：在ExploitGym漏洞利用基准上，GPT-6 Cyber比上一代GPT-5.6 Cyber提升51%，意味着它能更快地把可疑缺陷变成可验证的利用链。",
+   "实战：模型已在Linux、Firefox等安全关键代码库中发现并验证数千个漏洞，其中包括948个Linux本地提权漏洞和81个Firefox高危漏洞。",
+   "门槛：模型不对外公开，只通过Daybreak项目授权，分防御向的Blue和渗透测试/研究向的Red两档，需实名审核。",
+   "节奏：目前仅向少数Daybreak Red客户开放，OpenAI称“很快”扩大到全部Red客户，并计划向独立研究者和开源维护者开放。",
+   "张力：能力越强，滥用风险越大。OpenAI一边强调扩大开放，一边用分层授权和身份审核来控制谁能用这把“双刃剑”。"
+  ],
+  "impact": "对AI行业，这标志着前沿模型从“辅助写代码”进入“自主发现并验证真实漏洞”的阶段，安全基准将成为模型竞争的新战场。对开发者，尤其是开源维护者，将面对AI批量提交的漏洞报告，修复压力陡增，但也可能获得免费的高质量审计。对普通用户，长期看软件会更安全；短期则要接受“漏洞被集中挖出”的阵痛期，同时要警惕这类能力被攻击方滥用的风险。",
+  "tools": "想跟进可关注Google Big Sleep与OSS-Fuzz的AI漏洞挖掘实践、CodeQL和Semgrep做静态审计、DARPA AIxCC开源成果，以及XBOW等AI渗透测试产品；想用GPT-6 Cyber则需申请OpenAI Daybreak项目。"
+ },
+ "lang": "zh"
+}

@@ -10708,5 +10708,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-06T17:56:02Z",
   "fetched_at": "2026-11-06T21:33:10.317683+00:00"
+ },
+ "ec2480d446f6": {
+  "id": "ec2480d446f6",
+  "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "title": "Crusoe sells troubled Wyoming data center project to Google",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-07T01:40:28.000Z",
+  "fetched_at": "2026-11-07T01:55:16.240286+00:00"
+ },
+ "8f9ffe1ecd28": {
+  "id": "8f9ffe1ecd28",
+  "url": "https://github.com/rg321/hey-claude",
+  "title": "When Alexa can't answer, Claude takes over",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T01:29:23Z",
+  "fetched_at": "2026-11-07T01:55:35.413387+00:00"
+ },
+ "30689b894f03": {
+  "id": "30689b894f03",
+  "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+  "title": "Together Compiler: Continual Compilation for AI Inference",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T23:46:51Z",
+  "fetched_at": "2026-11-07T01:55:47.930672+00:00"
+ },
+ "6ded9d669dcb": {
+  "id": "6ded9d669dcb",
+  "url": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+  "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+  "source": "Artificial Analysis",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-06T23:40:40.000Z",
+  "fetched_at": "2026-11-07T01:55:59.916768+00:00"
+ },
+ "9262beac4cca": {
+  "id": "9262beac4cca",
+  "url": "https://zaage.it/writing/llama-sleep/",
+  "title": "Swapping LLMs in Under Two Seconds: A Sleep Mode for Llama.cpp",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-06T22:59:16Z",
+  "fetched_at": "2026-11-07T01:56:36.227065+00:00"
+ },
+ "b19a52adc818": {
+  "id": "b19a52adc818",
+  "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-06T22:53:46.000Z",
+  "fetched_at": "2026-11-07T01:56:53.423519+00:00"
  }
 }

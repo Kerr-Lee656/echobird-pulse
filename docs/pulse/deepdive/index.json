@@ -21283,5 +21283,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-06T09:59:20Z",
   "fetched_at": "2026-11-06T21:30:02.154358+00:00"
+ },
+ "97dac9d9308d": {
+  "id": "97dac9d9308d",
+  "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:53:17.982176+00:00"
+ },
+ "749ccf7b3d7a": {
+  "id": "749ccf7b3d7a",
+  "url": "https://mashable.com/tech/meta-terms-service-ai-scraping-businesses",
+  "title": "Meta puts controversial web scraping policy changes on hold indefinitely",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:53:25.943620+00:00"
+ },
+ "db2042787ea2": {
+  "id": "db2042787ea2",
+  "url": "https://mashable.com/tech/openai-gpt-6-cyber",
+  "title": "OpenAI says its new GPT-6 Cyber has already uncovered thousands of exploits",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:53:35.107149+00:00"
+ },
+ "9a7bbb3c4eb8": {
+  "id": "9a7bbb3c4eb8",
+  "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+  "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:53:45.361365+00:00"
+ },
+ "941444dde5af": {
+  "id": "941444dde5af",
+  "url": "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia",
+  "title": "TSMC is weighing a move into AI memory chips at Nvidia’s request",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:53:59.454359+00:00"
+ },
+ "c8ed8c87918a": {
+  "id": "c8ed8c87918a",
+  "url": "https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs",
+  "title": "Meta buys Conductor, whose app runs AI coding agents in parallel",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-07T01:54:06.813062+00:00"
+ },
+ "6a768358dab8": {
+  "id": "6a768358dab8",
+  "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+  "title": "机器人在首次自主建造演示中成功搭建了太空结构",
+  "source": "phys.org",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-06T16:23:45.883Z",
+  "fetched_at": "2026-11-07T01:54:20.705533+00:00"
+ },
+ "2e5e7144bed5": {
+  "id": "2e5e7144bed5",
+  "url": "https://news.ycombinator.com/item?id=50394116",
+  "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+  "source": "hackernews",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-06T16:04:58Z",
+  "fetched_at": "2026-11-07T01:54:35.060945+00:00"
+ },
+ "485654c1f98a": {
+  "id": "485654c1f98a",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+  "title": "Gemini Omni 1.2 Flash",
+  "source": "blog.google",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-06T15:21:47.306Z",
+  "fetched_at": "2026-11-07T01:54:45.784934+00:00"
  }
 }

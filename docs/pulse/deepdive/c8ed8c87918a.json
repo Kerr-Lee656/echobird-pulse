@@ -1,0 +1,24 @@
+{
+ "id": "c8ed8c87918a",
+ "url": "https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs",
+ "title": "Meta buys Conductor, whose app runs AI coding agents in parallel",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T01:54:06.813062+00:00",
+ "content": "Meta has bought Conductor, a startup whose app lets software engineers run several AI coding agents at once. Its team will join Meta Superintelligence Labs, chief executive Charlie Holtz said. Axios first reported the deal on Wednesday, and Meta did not disclose the price.\nHoltz confirmed the deal on X and in a post on Conductor’s site.\n“We have some big, crazy plans for the next interface. If you liked Conductor, you’re gonna love what’s coming,” Holtz wrote on X.\nHe said the team would work with Nat Friedman and Alexandr Wang at the lab, and that it would have “something new” for users early next year. Meta confirmed the deal to TechCrunch but declined to comment further.\nWhat happens to Conductor’s users\nConductor launched its app in July 2025. It runs coding agents from labs such as Anthropic and OpenAI in parallel, each working in its own copy of a project. Holtz and chief technology officer Jackson de Campos founded the company in 2024, Axios reported.\nThe company stopped taking new sign-ups on Wednesday, and paying users can keep using pro features for free. Conductor Cloud, its hosted service, goes read-only on 13 November and shuts down on 20 November. The company will then start deleting cloud user data, so it has asked users to export their work before that date. Active subscribers will get a refund.\nThe desktop app will keep getting new models and critical bug fixes until early 2027, Conductor said.\nA race for developers\nThe deal came the same day OpenAI said it would buy Pierre Computer Company, which makes tools for storing and managing code. Both deals target developers, whom Axios called the most important power users of AI. They compete with products such as Anthropic’s Claude Code and OpenAI’s Codex.\nMeta launched its own coding agent, Muse Code, in August. Its Muse assistant has passed 10 million users. Its $2bn purchase of agent startup Manus fell through after China blocked the deal.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Meta收购并行AI编程代理工具Conductor，团队并入超级智能实验室。",
+  "background": "2025年以来，AI编程代理成为大厂争夺开发者的关键战场：Anthropic推出Claude Code、OpenAI主推Codex，Cursor等工具迅速普及。Conductor由Charlie Holtz与Jackson de Campos于2024年创立，2025年7月上线，主打让多个AI代理在各自独立项目副本中并行写代码。Meta今年成立超级智能实验室（Meta Superintelligence Labs），8月已推出自研编程代理Muse Code，此前收购Manus的交易因中国监管受阻，因此这次收购被视为其补强开发者工具版图的一步。",
+  "key_points": [
+   "Conductor的核心能力是让多个AI代理同时改代码，各自在独立的项目副本中运行，最后由工程师合并结果，提高并行开发效率。",
+   "收购后Conductor停止新用户注册，付费用户可免费用Pro功能，云端服务11月20日关停并删除数据，用户需提前导出。",
+   "桌面版应用会继续获得新模型支持和关键修复，至少维持到2027年初，算是给现有用户的过渡安排。",
+   "团队将加入Meta超级智能实验室，与Nat Friedman和Alexandr Wang共事，并预告明年初推出“新东西”。",
+   "同一天OpenAI宣布收购代码管理工具公司Pierre Computer Company，两家巨头同日出手，争夺开发者的意图明显。"
+  ],
+  "impact": "对AI行业而言，编程代理已从单点工具升级为巨头必争的入口，Meta借此快速获得并行代理编排经验与人才。对开发者来说，多代理并行正成为新工作流，但Conductor云端关停意味着要迁移数据、重新选型，Claude Code、Codex等竞争产品会受益。对普通用户，短期影响有限，但更高效的AI编程工具会加速软件迭代，间接带来更多AI生成的产品与服务。",
+  "tools": "想跟进可试Conductor桌面版（2027年前仍更新）；替代方案包括Claude Code、OpenAI Codex、Cursor，以及OpenHands、Claude Squad等开源多代理编排项目，配合git worktree实现并行分支隔离。"
+ },
+ "lang": "zh"
+}

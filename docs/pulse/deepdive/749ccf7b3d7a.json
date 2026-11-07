@@ -1,0 +1,24 @@
+{
+ "id": "749ccf7b3d7a",
+ "url": "https://mashable.com/tech/meta-terms-service-ai-scraping-businesses",
+ "title": "Meta puts controversial web scraping policy changes on hold indefinitely",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T01:53:25.943620+00:00",
+ "content": "Meta puts controversial web scraping policy changes on hold indefinitely\nMeta was all set to make a controversial change to its terms of service back in October, but after a delay into November, the changes have been pushed aside indefinitely.\nMark Zuckerberg's company published a quick update (spotted by Nieman Lab) confirming that previously announced changes to its Meta Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms, and Ad Creative Generative AI Terms would not take effect on Nov. 20 as initially planned. These changes, which Nieman Lab originally reported on in October, would have allowed the use of web scrapers to collect material from websites associated with Meta business accounts, including those of journalistic organizations.\nOriginally, these changes were set to go into effect on Oct. 30, before controversy prompted Meta to delay to Nov. 20. Now, Meta has confirmed that the changes will be delayed indefinitely.\nYou May Also Like\n\"These updates are now paused and will not take effect on Nov. 20, 2026,\" Meta's statement read. \"We are continuing to consult with stakeholders and will provide a further update when we have more to share. In the meantime, our existing terms remain in effect.\"\n    \n        This Tweet is currently unavailable. It might be loading or has been removed.\n    \nWhen these changes were first announced, news organizations were (perhaps understandably) unhappy about their content being taken in that manner. Additionally, courts in Brazil took action to prevent that from happening.\nAt the end of October, Meta executive Andy Stone took to X to say that the company is \"committed to getting this right,\" but evidently that commitment means the changes cannot go into effect anytime soon.\nWant more tech and digital culture news delivered to your inbox daily or sent straight to your device? Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.\nTopics Meta\nAlex Perry is a tech reporter at Mashable who primarily covers video games and consumer tech. Alex has spent most of the last decade reviewing games, smartphones, headphones, and laptops, and he doesn’t plan on stopping anytime soon. He is also a Pisces, a cat lover, and a Kansas City sports fan. Alex can be found on Bluesky at yelix.bsky.social.",
+ "report": {
+  "summary": "Meta 无限期搁置允许抓取商业账户网站内容的条款修改",
+  "background": "今年 10 月，Meta 计划修改其商业条款、商品目录条款、自助广告条款及广告创意生成式 AI 条款，允许网络爬虫抓取与 Meta 商业账户关联的网站内容——其中也包括新闻机构的网站，外界普遍认为这是为 AI 训练与生成式广告工具储备数据。消息曝光后引发新闻业强烈反对，巴西法院也采取行动加以阻止。Meta 先将生效日从 10 月 30 日推迟到 11 月 20 日，如今再度宣布无限期暂停，称将继续与利益相关方磋商。此事与近期《纽约时报》起诉 OpenAI、Reddit 封堵爬虫等一连串 AI 数据版权争议同属一个脉络。",
+  "key_points": [
+   "条款修改原本允许爬虫抓取 Meta 商业账户关联网站的内容，新闻机构网站也在范围内，等于为 AI 训练和广告生成工具开了数据口子。",
+   "生效日期两度跳票：先由 10 月 30 日推迟至 11 月 20 日，最终改为无限期暂停，现有条款继续有效。",
+   "新闻行业强烈反弹，巴西法院直接出手阻止，说明数据抓取的合规压力已从舆论上升到司法层面。",
+   "Meta 高管 Andy Stone 表态“要把这件事做对”，但未给出重启时间表，也未说明是否会缩小抓取范围或提供退出机制。",
+   "这延续了 AI 行业的数据获取困局：模型需要海量语料，内容方要求授权与补偿，平台则在法律与舆论间反复试探。"
+  ],
+  "impact": "对 AI 行业而言，头部平台在数据抓取上再度收缩，会让“合法语料”更加稀缺和昂贵，推动厂商转向授权交易、合成数据与自有数据。对开发者来说，依赖平台条款灰色地带抓取数据的做法风险上升，需要提前梳理数据来源合规链路。对普通用户和内容创作者，这是暂时的胜利——内容不会在不知情下被用于训练，但也意味着 Meta AI 功能的数据迭代可能放缓，且平台未来很可能以更隐蔽或更精细的授权方式重启。",
+  "tools": "想跟进数据合规与抓取议题，可关注 robots.txt 与 IETF 的 AI 爬虫偏好标准提案、Cloudflare 的 AI 爬虫拦截与按次付费方案、Spawning 的 Do Not Train 注册表，以及 Common Crawl、Datacommons 等公开语料；内容方还可研究 RSL（Really Simple Licensing）等新兴授权协议。"
+ },
+ "lang": "zh"
+}

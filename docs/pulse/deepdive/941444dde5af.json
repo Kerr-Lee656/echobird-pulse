@@ -1,0 +1,24 @@
+{
+ "id": "941444dde5af",
+ "url": "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia",
+ "title": "TSMC is weighing a move into AI memory chips at Nvidia’s request",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-07T01:53:59.454359+00:00",
+ "content": "TSMC is considering making advanced memory chips and has begun drafting plans for 3D DRAM at Nvidia’s request, The Information reports. It would put TSMC up against Samsung, SK Hynix and Micron as AI demand keeps memory scarce.\nTSMC is considering making advanced memory chips, Bloomberg reported on Friday, citing The Information. The move would give the world’s largest chipmaker an even bigger share of the AI hardware supply chain.\nTSMC recently began drafting plans to make 3D DRAM, which stacks memory cells vertically to pack in more capacity, at the request of Nvidia, its biggest customer. It could build new factories or buy an existing plant and convert it, Reuters reported, citing The Information.\nThe work is led by Hsu Kuo-chin, a TSMC vice president who oversees advanced packaging, according to the report. TSMC and Nvidia did not immediately respond to requests for comment.\nMemory is in short supply as AI data centres soak it up, sending prices soaring. Micron expects the shortage to last into 2028, and Apple raised Mac and iPad prices in June, citing memory costs. Some customers want their own supply: Elon Musk is planning a $55B chip plant to cut his reliance on Micron.\nTSMC is already moving closer to memory. In October, Nvidia reportedly asked Samsung, SK Hynix and Micron to build the base layer of its custom HBM memory on TSMC’s 3nm process. Making DRAM itself would put TSMC up against all three, including SK Hynix, which plans to spend $720B on new plants.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "台积电应英伟达要求评估自产AI存储芯片",
+  "background": "AI数据中心大量消耗内存，HBM与DRAM供应紧张、价格飙升。美光预计短缺持续到2028年，苹果已因内存成本涨价。台积电作为全球最大晶圆代工厂，此前已通过3nm承接HBM基础层代工；如今应最大客户英伟达要求，开始起草3D DRAM计划，考虑新建或收购改造工厂，由先进封装副总裁徐国晋牵头。若成真，台积电将从代工延伸至存储制造，直接挑战三星、SK海力士和美光。",
+  "key_points": [
+   "台积电已开始起草3D DRAM制造计划，触发点是最大客户英伟达的请求；3D DRAM通过垂直堆叠存储单元提升单位面积容量。",
+   "台积电可能新建存储晶圆厂，或收购现有工厂改造；项目由负责先进封装的副总裁徐国晋牵头，显示其从封装侧向存储制造延伸。",
+   "AI数据中心大量消耗内存，DRAM和HBM供应紧张、价格飙升；美光预计短缺延续到2028年，苹果已因内存成本上调Mac和iPad价格。",
+   "若自产DRAM，台积电将与三星、SK海力士、美光正面竞争；SK海力士正推进巨额扩产，存储三巨头格局可能被打破。",
+   "此前英伟达已推动三星、SK海力士、美光在HBM基础层采用台积电3nm，台积电此次进一步靠近存储核心制造。"
+  ],
+  "impact": "对AI行业，台积电入局有望增加先进存储供给、缓解HBM和DRAM瓶颈，但重资产投入会加剧存储三巨头竞争与产能竞赛。开发者可能获得更充足、更便宜的高带宽内存，利好大模型训练推理和端侧AI。普通用户短期仍承受内存涨价带来的手机、PC涨价压力，长期若供给改善，AI设备价格和可用性有望趋稳。",
+  "tools": "跟进可关注TSMC 3DFabric和CoWoS先进封装、HBM4路线图与3D DRAM技术资料；用TrendForce、SemiAnalysis跟踪存储价格、产能和厂商扩产动态。"
+ },
+ "lang": "zh"
+}
