@@ -10915,5 +10915,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-07T13:31:42Z",
   "fetched_at": "2026-11-07T21:49:22.077953+00:00"
+ },
+ "dbbbb6b6a74f": {
+  "id": "dbbbb6b6a74f",
+  "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+  "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T01:00:16Z",
+  "fetched_at": "2026-11-08T01:25:53.565962+00:00"
+ },
+ "27c1b007d80c": {
+  "id": "27c1b007d80c",
+  "url": "https://2tinteractive.com/watch/episodes/5682/",
+  "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T00:30:10Z",
+  "fetched_at": "2026-11-08T01:26:04.787905+00:00"
+ },
+ "7031e664031a": {
+  "id": "7031e664031a",
+  "url": "https://ace.githubnext.com/",
+  "title": "Ace: GitHub Next's open-source tool for multiplayer agentic development",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T23:50:14Z",
+  "fetched_at": "2026-11-08T01:26:22.112169+00:00"
+ },
+ "4e392e0aaa87": {
+  "id": "4e392e0aaa87",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-07T21:17:08.000Z",
+  "fetched_at": "2026-11-08T01:26:36.078703+00:00"
+ },
+ "103415369728": {
+  "id": "103415369728",
+  "url": "https://jsdev.space/companies-rehiring-workers/",
+  "title": "AI Layoffs Backfire as Companies Start Rehiring Workers",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-07T20:07:15Z",
+  "fetched_at": "2026-11-08T01:26:53.279258+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "0cea6c483a6a",
+ "url": "https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says",
+ "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-07T17:01:11Z",
+ "fetched_at": "2026-11-08T01:24:22.261416+00:00",
+ "content": "Though voters in the US may not be excited to hear it, AMD's CEO is all in on data centers.\n\"We are a data center first company; that is our profile,\" Lisa Su said in an interview with Yahoo Finance. AMD's data center business was expected to grow by another 50% over the next three months, and AMD is looking to double that growth as it enters 2027, she said.\n\"We are extremely ambitious,\" Su added. \"I want to be the best partner to the largest users of compute in the world,\" given that \"AI and superintelligence [are] becoming more and more essential to every aspect of our lives and...business.\"\nAlthough tech stocks took a beating this week following the US elections, AMD, Nvidia, and their contemporaries are making record profits. While Nvidia is the world's most valuable company, AMD still made a record $13.4 billion in Q3, almost 100% more than last year. A record 63% came from data centers.\n\"We are a tech company that has a lot of resources and the ability to expand our supply and expand our ability to help our customers and that's what's led to [this] tremendous growth,\" Su told Yahoo Finance.\nNone of this bodes well for consumer graphics cards, whose prices have exploded in recent months. Nvidia's RTX 5090 has all but disappeared from online retailers, with the 5080 going for far above MSRP. As for AMD, while its GPUs are still better value for the money than Nvidia's, its prices are no less encouraging and seem destined to follow Nvidia's to the moon.\nThe flagship RX 9070 XT is over $900 right now. While that's $500 cheaper than its Nvidia equivalent, the RTX 5070 Ti, it's still $300 over its launch price. The RX 9070 non-XT is around $750, $200 over its MSRP. Entry-level cards like the RX 9060 XT with 16GB of VRAM are now over $700, too. Only the 8GB cards are remotely affordable, but even those are over $500.\nIt's clear from the pricing, if not Su's statements, where AMD and other tech firms are focusing their efforts. We'll have to see if voter backlash will slow down that momentum in the US. (Remember when Satya Nadella pitched Microsoft as \"the Copilot company\" in 2023?)\nAbout Our Expert\nJon Martindale is a tech journalist from the UK, with 20 years of experience covering all manner of PC components and associated gadgets. He's written for a range of publications, including ExtremeTech, Digital Trends, Forbes, U.S. News & World Report, and Lifewire, among others. When not writing, he's a big board gamer and reader, with a particular habit of speed-reading through long manga sagas.\nJon covers the latest PC components, as well as how-to guides on everything from how to take a screenshot to how to set up your cryptocurrency wallet. He particularly enjoys the battles between the top tech giants in CPUs and GPUs, and tries his best not to take sides.\nJon's gaming PC is built around the iconic 7950X3D CPU, with a 7900XTX backing it up. That's all the power he needs to play lightweight indie and casual games, as well as more demanding sim titles like Kerbal Space Program. He uses a pair of Jabra Active 8 earbuds and a SteelSeries Arctis Pro wireless headset, and types all day on a Logitech G915 mechanical keyboard.",
+ "report": {
+  "summary": "AMD CEO称公司“数据中心优先”，消费级GPU涨价或成常态。",
+  "background": "AMD在AI算力需求爆发下加速转向数据中心。CEO苏姿丰受访表示AMD是“数据中心优先”公司，数据中心业务未来三个月预计再增50%，并计划到2027年增长翻倍。AMD Q3营收创纪录134亿美元，其中63%来自数据中心。与此同时，消费级显卡价格持续上涨，英伟达高端卡缺货溢价，AMD显卡也高于建议零售价，反映厂商资源正优先投向AI与大型计算客户。",
+  "key_points": [
+   "苏姿丰明确将AMD定位为“数据中心优先”公司，目标是成为全球最大算力用户的最佳合作伙伴，AI和超级智能被列为战略核心。",
+   "AMD数据中心业务增长强劲：Q3营收134亿美元创新高，63%来自数据中心，未来三个月预计再增50%，并寻求到2027年翻倍。",
+   "消费级显卡遭冷落：RTX 5090几乎从零售渠道消失，5080溢价；AMD RX 9070 XT超900美元，比首发贵300美元。",
+   "入门卡也不再便宜：RX 9070约750美元、RX 9060 XT 16GB超700美元，8GB卡也超500美元，低价GPU时代渐远。",
+   "文章认为，定价和CEO表态都说明AMD等厂商正把产能和资源优先给数据中心，消费者只能承受AI热潮的溢出效应。"
+  ],
+  "impact": "对AI行业，AMD强化数据中心优先将加剧AI算力军备竞赛，给英伟达带来更多竞争，但也可能推高算力成本。对开发者，本地高端GPU更难负担，更多团队会转向云GPU或租用算力；AMD生态若随数据中心扩张改善，ROCm等工具链有望受益。对普通用户，游戏显卡、装机成本继续上升，DIY和游戏PC市场承压，低价卡选择减少。",
+  "tools": "想跟进可关注AMD Instinct MI300X/MI325X与ROCm、vLLM；买卡比价用PCPartPicker、Newegg；预算有限可先用Lambda、RunPod等云GPU。"
+ },
+ "lang": "zh"
+}
