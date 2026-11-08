@@ -10960,5 +10960,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-07T20:07:15Z",
   "fetched_at": "2026-11-08T01:26:53.279258+00:00"
+ },
+ "ff6070f5840f": {
+  "id": "ff6070f5840f",
+  "url": "https://zenodo.org/records/23971266",
+  "title": "New type of architecture for agentic memory",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T04:13:08Z",
+  "fetched_at": "2026-11-08T08:58:01.852476+00:00"
+ },
+ "51adceabf424": {
+  "id": "51adceabf424",
+  "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+  "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+  "source": "Hacker News (1pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T01:24:19Z",
+  "fetched_at": "2026-11-08T08:59:34.191833+00:00"
+ },
+ "c887dbd9e8b5": {
+  "id": "c887dbd9e8b5",
+  "url": "https://openuncensored.com/blog/uncensored-models-in-agent-loops",
+  "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T01:24:17Z",
+  "fetched_at": "2026-11-08T08:59:47.213737+00:00"
+ },
+ "757379c07d11": {
+  "id": "757379c07d11",
+  "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+  "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-07T22:07:22.000Z",
+  "fetched_at": "2026-11-08T09:00:01.758502+00:00"
  }
 }

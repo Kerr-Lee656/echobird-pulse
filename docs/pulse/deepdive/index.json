@@ -21571,5 +21571,14 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-07T14:57:42Z",
   "fetched_at": "2026-11-08T01:24:32.964243+00:00"
+ },
+ "e3beee2103a8": {
+  "id": "e3beee2103a8",
+  "url": "https://www.techradar.com/pro/accenture-accused-of-publishing-major-research-full-of-ai-hallucinations-paper-featured-as-many-as-15-fictitious-citations-and-case-studies",
+  "title": "Accenture accused of publishing major research full of AI hallucinations — paper featured as many as 15 fictitious citations and case studies",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-08T08:57:19.223228+00:00"
  }
 }
