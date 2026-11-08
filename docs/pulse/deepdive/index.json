@@ -21688,5 +21688,50 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-08T16:41:32.111682+00:00"
+ },
+ "e640c37bf9d8": {
+  "id": "e640c37bf9d8",
+  "url": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
+  "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-08T21:59:30.497480+00:00"
+ },
+ "f08ee1473abd": {
+  "id": "f08ee1473abd",
+  "url": "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft",
+  "title": "Anthropic buys $3.4bn of gas generators for its data centres, FT reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-08T21:59:43.921687+00:00"
+ },
+ "0a36016d12d7": {
+  "id": "0a36016d12d7",
+  "url": "https://thenextweb.com/news/doj-super-intelligence-task-force-ai",
+  "title": "US Justice Department sets up an AI task force under its new SI name",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-08T21:59:53.687783+00:00"
+ },
+ "e47963e18341": {
+  "id": "e47963e18341",
+  "url": "https://www.ithome.com/1/024/001.htm",
+  "title": "上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-08T22:00:17.141493+00:00"
+ },
+ "7cdeffc8e00d": {
+  "id": "7cdeffc8e00d",
+  "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+  "title": "OpenAI raises $11B at a $1.25T valuation",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-08T14:49:23Z",
+  "fetched_at": "2026-11-08T22:00:30.301156+00:00"
  }
 }

@@ -11059,5 +11059,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-08T10:22:04Z",
   "fetched_at": "2026-11-08T16:43:41.544758+00:00"
+ },
+ "e2e23a036796": {
+  "id": "e2e23a036796",
+  "url": "https://github.com/dsx-ai-factory/nvke",
+  "title": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-08T22:01:12.427342+00:00"
+ },
+ "c60d0694dd28": {
+  "id": "c60d0694dd28",
+  "url": "https://github.com/SWE-agent/mini-swe-agent",
+  "title": "SWE-agent/mini-swe-agent — The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-08T22:01:24.152385+00:00"
+ },
+ "b9c0dd474c98": {
+  "id": "b9c0dd474c98",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "title": "Apple is racing to make Siri more agentic",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-08T19:18:19.000Z",
+  "fetched_at": "2026-11-08T22:02:43.145401+00:00"
+ },
+ "fe5fdb83e1ea": {
+  "id": "fe5fdb83e1ea",
+  "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+  "source": "Hacker News (446pts, 275c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T18:16:07Z",
+  "fetched_at": "2026-11-08T22:02:58.553471+00:00"
  }
 }

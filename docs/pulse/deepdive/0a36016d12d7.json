@@ -1,0 +1,24 @@
+{
+ "id": "0a36016d12d7",
+ "url": "https://thenextweb.com/news/doj-super-intelligence-task-force-ai",
+ "title": "US Justice Department sets up an AI task force under its new SI name",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-08T21:59:53.687783+00:00",
+ "content": "The US Justice Department has set up a task force to lead its work on AI crimes and AI lawsuits. It is called the Super Intelligence Task Force, the department said on Thursday.\nThe name follows a September order from President Donald Trump telling federal agencies to call AI “super intelligence” in official documents.\nAssociate Attorney General Stanley Woodward and Associate Deputy Attorney General Stephen Weiss will lead the group. It will go after foreign states, criminal gangs, and people or firms that use AI for fraud, the DOJ said.\nThe task force will also absorb the DOJ’s AI Litigation Task Force, according to an internal memo from Attorney General Todd Blanche dated 13 October, Nextgov reported. That unit was created in January to challenge state AI laws in federal court.\nThe new group will also set priorities and write rules for how to prosecute AI crimes, according to Nextgov. It will be the DOJ’s main link to the White House’s Super Intelligence Force, led by intelligence director Jay Clayton.\n“The Department of Justice will continue identifying and prosecuting individuals whose use of SI violates the law,” Blanche said in a statement.\nWeiss said the DOJ would also push firms to keep tight controls so their AI works as planned. The DOJ did not say how many staff the task force will have or what it will cost.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美司法部设“超级智能特别工作组”，统筹AI犯罪起诉与AI诉讼",
+  "background": "特朗普政府9月下令联邦机构在官方文件中把AI称作“超级智能”，司法部据此为新机构命名。此前司法部今年1月已设“AI诉讼工作组”，专门在联邦法院挑战各州AI立法；如今该小组被并入新工作组。新机构同时对接白宫“超级智能力量”（由情报总监Jay Clayton领导）。这延续了近一年各国政府密集设立AI执法与监管机构的趋势，但美方路径偏向刑事追责与压制州级监管，而非建立合规许可制度。",
+  "key_points": [
+   "命名来自政治指令：9月特朗普要求联邦机构在官方文件里把AI称为“超级智能”，新工作组直接沿用了这个说法。",
+   "打击对象明确：外国政府、犯罪团伙，以及利用AI实施欺诈的个人和企业，都在其追查范围内。",
+   "整合旧机构：今年1月成立、专责在联邦法院挑战各州AI法律的“AI诉讼工作组”被整体并入。",
+   "权限不止办案：工作组还将设定执法优先级、制定AI犯罪的起诉规则，并充当司法部与白宫“超级智能力量”的对接窗口。",
+   "关键细节缺失：司法部未公布编制人数与预算；副主任Weiss表示，还会推动企业加强内部管控，确保AI按预期运行。"
+  ],
+  "impact": "对AI行业，这意味着美国联邦层面从“立法讨论”转向“刑事执法”，企业若AI产品被用于欺诈或造成危害，可能面临更直接的司法风险，同时州级AI立法遭遇联邦诉讼的压力上升。对开发者，合规重心从“是否符合标准”扩展到“是否可被追责”，日志留痕与滥用防范更重要。对普通用户，短期感受是AI诈骗执法力度加大，但“超级智能”这一称谓也把政策话语推向夸张叙事。",
+  "tools": "想跟进可关注：司法部公开备忘录与Nextgov报道；用CourtListener/RECAP追踪相关诉讼；NCSL州AI立法数据库与美国各州立法追踪表看州法博弈；企业侧可参考NIST AI风险管理框架做滥用防控与留痕。"
+ },
+ "lang": "zh"
+}

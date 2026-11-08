@@ -1,0 +1,24 @@
+{
+ "id": "e640c37bf9d8",
+ "url": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
+ "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-08T21:59:30.497480+00:00",
+ "content": "Tencent’s chief AI scientist has warned that AI models will soon be able to cause harm in biology, as they already can in cybersecurity. Yao Shunyu spoke at a science event in Hong Kong on Saturday, the South China Morning Post reported.\n“The cyber abilities of [AI] models and soon [the] bio ability of models will reach a threshold where it’s actually possible to do harm,” Yao said, according to the SCMP.\nHe said Chinese companies that release open models, which anyone can download and change, need to take safety very seriously. He also warned that biology risks may be harder to manage than cyber risks.\nYao, 29, joined Tencent last year after a year at OpenAI. He spoke days after Tencent launched Hy4, its new flagship model, on 4 November.\nIn its launch announcement, Tencent said it left material on exploiting software flaws out of Hy4’s training data. The model was instead trained on defensive security data, the company said.\nTencent also said that Hy4 has strong basic knowledge of biology, but is weaker than leading models at designing experiments. It said it based this on internal expert reviews. TNW has not tested the model.\nThe company plans to release Hy4’s weights and a report on its safety testing in the coming days, Reuters reported. Hy4 ranks as the second-best Chinese model, according to benchmarking firm Artificial Analysis, the SCMP said.\nYao said US firms such as Anthropic make a strong case for keeping top models closed. However, he argued that a mix of open and closed models may work best, because open models can also help defenders.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "腾讯首席AI科学家警告模型生物风险将达可致害门槛",
+  "background": "姚顺雨（29岁）去年从OpenAI转投腾讯，任首席AI科学家。此番表态发生在腾讯11月4日发布旗舰模型Hy4后数日。当前AI安全讨论多集中于网络安全（如漏洞利用），而生物安全被视为下一道红线：大模型可能降低获取危险生物知识的门槛。值得注意的是，腾讯称Hy4训练时剔除了软件漏洞利用材料、改用防御性安全数据，且具备较强生物基础知识但实验设计能力弱于头部模型；公司还计划开源权重并发布安全测试报告。这一表态也折射出开源与闭源模型的安全路线之争——Anthropic等主张顶级模型闭源，而姚顺雨认为开放模型同样能帮助防御方。",
+  "key_points": [
+   "姚顺雨称AI模型的网络攻击能力已达危险阈值，生物领域能力很快也将跨过同一条线。",
+   "他强调，发布可自由下载修改的开源模型的中国公司必须极度重视安全，且生物风险比网络风险更难管控。",
+   "腾讯Hy4训练时剔除了软件漏洞利用内容、改用防御性安全数据，并称其生物实验设计能力弱于领先模型。",
+   "腾讯计划公开Hy4权重及安全测试报告，在开源与安全之间采取折中路线。",
+   "姚顺雨认可Anthropic闭源顶级模型的理由，但主张开源与闭源混合或是最优解，因开放模型也能武装防御方。"
+  ],
+  "impact": "对AI行业而言，生物风险被正式提上议程，可能推动模型发布前的生物安全评测成为标配，并加剧开源与闭源路线争论。对开发者，尤其是使用开源权重做微调的团队，未来可能面临更严格的许可条款与安全审查义务。对普通用户，短期无直接影响，但若生物能力门槛下降，危险知识的获取难度或被低估；同时开源模型也让防御方和科研机构获得更强工具。监管层面，中美在模型安全上的博弈将更聚焦生物领域。",
+  "tools": "可关注腾讯即将开源的Hy4权重与安全测试报告；安全评测方面可跟踪Anthropic的负责任扩展政策、OpenAI的准备框架、METR的模型能力评估，以及生物安全领域的SecureBio等机构工具。"
+ },
+ "lang": "zh"
+}
