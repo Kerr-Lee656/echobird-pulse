@@ -1,0 +1,24 @@
+{
+ "id": "28113e17e680",
+ "url": "https://juejin.cn/post/7704590673761648667",
+ "title": "212 个需求、22 万行代码：Agent 接管开源项目的 19 天",
+ "source": "juejin",
+ "site_name": "NewsNow",
+ "published_at": "2026-11-08T10:29:11.360Z",
+ "fetched_at": "2026-11-08T16:40:19.181840+00:00",
+ "content": "Munk AI 是一个面向多 Agent 协作的 Harness Runtime（The harness runtime for multi-agent collaboration）\n它把多个「专家 Agent」 组织成一个由 AI 自主运转的团队，你只负责关键决策，Munk 负责把产品从头到尾做完，并持续运营。\n为了在真实场景里打磨这套系统，过去 19 天，我尝试用 Public Build 的方式，让它全权接管并自主迭代一款开源桌面软件 —— OpenCompare（免费开源的文件与目录比对工具）。\n目前，它的核心功能已基本完成。\n用几个简单的数字汇报一下进展：\n- 212 个需求闭环：共受理 213 个需求，212 个成功交付上线。\n- 24 个 Agent 角色分工：包含 6 大核心研发决策角色（Product Owner 负责人、Planner 批次规划、Intake 需求拆解、Architect 架构、Coding 研发、Delivery 交付审查）以及 18 个专项验收运维专员（GitHub 哨兵、CDP 渲染验收、窗口实机验收、大目录性能压测、每日发版协调等）。\n- 人类仅沟通 20 次，Agent 自主交互 50,861 次：在 1,249 场会话、累计 50,881 次总交互中，人类与 Team Lead Agent（产品负责人）仅沟通过 20 次（主要做发版审批、Token 策略与关键方向决策），其余 50,861 次（占比 99.96%）均为 Agent 各角色内部自主拆解、编写、联调、交叉审查与实测的闭环协作。\n- 自主工作 213.7 小时：研发 146.1 小时 + 运维验收 67.6 小时。\n- 22.7 万行代码：544 次 Git 提交（Agent 独立提交 519 次，占比 95.4%），连续发布 24 个版本（v0.1.0 → v0.2.23）。在 GitHub 官方贡献榜上，munk-agent 稳居第一大贡献者。\n- GitHub 哨兵值守：自动回复并跟进 12 个 Issue（已修复关闭 10 个），自动排查处理 24 次 CI 报错，沉淀 334 份验收档案。\n- 61.3 亿 Token：缓存命中率 93.9%（DeepSeek 跑了 60.18 亿负责主力研发，Gemini 4 跑了 1.18 亿负责顶层决策）。\n最新界面截图\n实战反哺与 Munk AI 2.0 内测\n在实战迭代 OpenCompare 的过程中，我们也暴露并修掉了 Munk AI 自身的不少问题，也做了对应的优化：\n- 更稳定：消除了长链路下的无效重试。\n- Token 降本 50%：完成同样的工作，现在的 Token 消耗直接下降了一半。\n- 上下文策略优化：Agent 反应更加敏捷，大幅降低了长上下文带来的幻觉概率。\n基于这次实战打磨，Munk AI 2.0 新版本已开启公开内测，欢迎大家下载试用并提反馈： 👉 Munk AI 2.0 下载地址：github.com/munk-sh/mun…\n开放协作模版（Open Company）与下一步探索\n为了让几十个 Agent 能够长期、稳定地协同运转，我把这套多 Agent 的目标、分工边界与值班排班沉淀成了一套开放协作标准 —— Open Company。\n目前，跑通 OpenCompare 的整套「开源软件维护团队」模版已经正式开源，所有人都可以直接 Fork 或一键导入到 Munk AI 中复用： 👉 多 Agent 协作模版库：github.com/munk-sh/ope…\n当然，Munk AI 并不仅局限于维护开源软件，它能做的事情还有很多——但每一个真实场景，都需要像这样实打实地单独打磨。\nOpenCompare 是 Munk AI 试水桌面端 App 的第一个开源产品；接下来，我们会继续打磨新的团队模版，向移动端、XR，以及自媒体运营等领域发起探索。\n你最希望看到 Munk AI 接下来去打磨哪个领域的团队模版？欢迎在评论区或 Issue 提出来！\n近期我们也将在 YouTube（7×24 小时全天候）和 B 站（白天时段）开启直播，大家可以先点一波关注，后续开播会随时通知大家：\n- 🔴 YouTube（7×24 小时）：youtube.com/@chriszhu50…\n- 📺 Bilibili（白天开播）：live.bilibili.com/31041209\n- 📦 OpenCompare 开源仓库：github.com/chaxiu/Open…",
+ "report": {
+  "summary": "多Agent团队19天自主交付212个需求和22.7万行代码",
+  "background": "过去两年，AI 编程从「补全单个函数」快速走向「多 Agent 协同交付完整产品」，Cursor、Claude Code、Devin、OpenHands 等已验证单个 Agent 的编码能力，但长周期、多角色的工程闭环仍是主要瓶颈。Munk AI 提出「Harness Runtime」概念，把产品负责人、架构、研发、验收等专家 Agent 组织成一个可长期运转的团队。作者用自家开源桌面比对工具 OpenCompare 做 19 天 Public Build 公开实战，以真实开源项目检验系统稳定性，并借此打磨出 2.0 版本和一套名为 Open Company 的多 Agent 协作标准。",
+  "key_points": [
+   "212/213 个需求成功闭环，24 个 Agent 角色分工：6 个核心研发决策角色（需求、规划、拆解、架构、编码、交付审查）加 18 个专项验收运维角色，覆盖从需求到发版的完整链路。",
+   "人类只沟通 20 次，Agent 之间自主交互 50,861 次，占比 99.96%；人退到发版审批、Token 预算与方向决策的位置，执行环节几乎全自动。",
+   "共产生 22.7 万行代码、544 次提交（Agent 独立提交占 95.4%）、连续 24 个版本，累计自主工作 213.7 小时，GitHub 贡献榜第一是 munk-agent。",
+   "成本结构值得注意：61.3 亿 Token、缓存命中率 93.9%，DeepSeek 承担 60 亿主力研发，Gemini 负责顶层决策，形成「廉价模型干活、强模型拍板」的分层。",
+   "实战反哺系统本身：消除长链路无效重试、同等工作量 Token 消耗降 50%、优化上下文策略降低幻觉；协作模板 Open Company 已开源可复用。"
+  ],
+  "impact": "对 AI 行业而言，这是多 Agent 长周期自主交付在真实项目上的一次可行性验证，竞争焦点正从模型能力转向工程编排（harness）、上下文管理与成本控制。对开发者，重复性的编码、联调、验收被大幅压缩，人的价值前移到需求定义、架构判断与质量把关，小团队也能借此「虚拟扩编」。对普通用户，开源软件迭代更快、维护更及时，但 AI 大规模提交带来的代码质量与信任问题仍需人类把关。",
+  "tools": "想跟进可关注 Munk AI 2.0（github.com/munk-sh/munk）及其 Open Company 多 Agent 协作模板库，直接 Fork 复用；OpenCompare 仓库是完整实战样本。也可对照研究 Claude Code、OpenHands、AutoGen、CrewAI 等多 Agent 编排框架的差异。"
+ },
+ "lang": "zh"
+}

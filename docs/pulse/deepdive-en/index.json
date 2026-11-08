@@ -10996,5 +10996,68 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-07T22:07:22.000Z",
   "fetched_at": "2026-11-08T09:00:01.758502+00:00"
+ },
+ "f92727a2e6d1": {
+  "id": "f92727a2e6d1",
+  "url": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+  "title": "China's AI models, led by Kimi, dominate open-source enterprise spending",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T16:34:28Z",
+  "fetched_at": "2026-11-08T16:42:24.081942+00:00"
+ },
+ "55b6b5eb02cf": {
+  "id": "55b6b5eb02cf",
+  "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+  "title": "We deleted almost all our agent code, and other lessons from 100k PRs",
+  "source": "Hacker News (6pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T16:09:37Z",
+  "fetched_at": "2026-11-08T16:42:38.762060+00:00"
+ },
+ "d96f5e7e13f5": {
+  "id": "d96f5e7e13f5",
+  "url": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+  "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T16:00:28Z",
+  "fetched_at": "2026-11-08T16:42:50.689152+00:00"
+ },
+ "b3b504e090d2": {
+  "id": "b3b504e090d2",
+  "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+  "title": "OpenAI raises $11B at a $1.25T valuation",
+  "source": "Hacker News (81pts, 65c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T14:49:23Z",
+  "fetched_at": "2026-11-08T16:43:01.417193+00:00"
+ },
+ "1bf3de5d437f": {
+  "id": "1bf3de5d437f",
+  "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+  "title": "AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T13:01:16Z",
+  "fetched_at": "2026-11-08T16:43:13.579938+00:00"
+ },
+ "f6d83b565c58": {
+  "id": "f6d83b565c58",
+  "url": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
+  "title": "Etsy AI training terms change",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T11:48:06Z",
+  "fetched_at": "2026-11-08T16:43:26.194490+00:00"
+ },
+ "55858f2b4ca7": {
+  "id": "55858f2b4ca7",
+  "url": "https://github.com/synchopate/llama-modchip",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "source": "Hacker News (160pts, 52c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T10:22:04Z",
+  "fetched_at": "2026-11-08T16:43:41.544758+00:00"
  }
 }
