@@ -11095,5 +11095,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-08T18:16:07Z",
   "fetched_at": "2026-11-08T22:02:58.553471+00:00"
+ },
+ "ac9f2eb701cf": {
+  "id": "ac9f2eb701cf",
+  "url": "https://github.com/kortix-ai/CompanyOS",
+  "title": "kortix-ai/CompanyOS — Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-09T01:45:04.932097+00:00"
+ },
+ "32693693b878": {
+  "id": "32693693b878",
+  "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+  "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T20:57:43Z",
+  "fetched_at": "2026-11-09T01:46:04.509322+00:00"
+ },
+ "01486352726e": {
+  "id": "01486352726e",
+  "url": "https://github.com/RikiyaT/lm_understand-logs",
+  "title": "LLMs can understand and write neural network weights",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-08T20:18:49Z",
+  "fetched_at": "2026-11-09T01:46:21.147367+00:00"
  }
 }

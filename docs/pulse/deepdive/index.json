@@ -21733,5 +21733,50 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-08T14:49:23Z",
   "fetched_at": "2026-11-08T22:00:30.301156+00:00"
+ },
+ "713bf8059e90": {
+  "id": "713bf8059e90",
+  "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement",
+  "title": "Suno AI music generator sued again for copyright infringement",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-09T01:42:58.802513+00:00"
+ },
+ "cab51f7010ca": {
+  "id": "cab51f7010ca",
+  "url": "https://www.techradar.com/pro/google-and-microsoft-among-those-signing-up-to-openais-plan-for-a-new-website-crawling-standard-including-opting-out-of-internet-scraping",
+  "title": "Google and Microsoft among those signing up to OpenAI's plan for a new website crawling standard — including opting-out of internet scraping",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-09T01:43:15.539077+00:00"
+ },
+ "e0bff396e00b": {
+  "id": "e0bff396e00b",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/143593",
+  "title": "报道称苹果加快 Siri 智能体路线图",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T01:43:28.090164+00:00"
+ },
+ "c95bf3fec10f": {
+  "id": "c95bf3fec10f",
+  "url": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks",
+  "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-08T20:34:00Z",
+  "fetched_at": "2026-11-09T01:43:40.921769+00:00"
+ },
+ "04721fa96f2a": {
+  "id": "04721fa96f2a",
+  "url": "https://www.36kr.com/p/4060672855757954",
+  "title": "九成代码AI写，谁来审？Claude Code亮出6道关卡！",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T01:44:22.732737+00:00"
  }
 }

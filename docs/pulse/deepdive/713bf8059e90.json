@@ -1,0 +1,24 @@
+{
+ "id": "713bf8059e90",
+ "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement",
+ "title": "Suno AI music generator sued again for copyright infringement",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-09T01:42:58.802513+00:00",
+ "content": "Suno AI music generator sued again for copyright infringement\nGroups that own the music rights to Elvis Presley and Eminem’s tracks filed the latest lawsuits.\nNew lawsuits are claiming that Suno has once again committed copyright infringement by using Elvis Presley and Eminem's likeness to create AI-generated songs. As first reported by Variety, a group that owns the rights to Presley's music and Eight Mile Style, a music publishing company that owns hundreds of Eminem recordings, filed separate lawsuits against Suno. Both lawsuits offered examples of songs created through the AI music generator that allegedly sound like Presley or mimic Eminem's lyrics.\nA group of attorneys representing the plaintiffs in each case said that Suno's actions \"make human creativity obsolete, coldly replicating without a license in seconds what takes years to learn, struggle with, maintain, and endlessly attempt to make better and perfect.\" Suno countered with a statement to Variety that said it doesn't allow \"any unauthorized use of an artist's work,\" specifying that it prohibits using \"specific artists' names and songs,\" while also working with third-party companies to screen for \"potential misuse.\"\nThe group behind Presley's music rights has set it sights on combating AI copyright infringement. It recently filed a lawsuit against Anthropic, claiming $41 million in damages for allegedly training its AI models on the musician's works without permission.\nAs for Suno, these lawsuits are the latest addition to its existing list of copyright infringement accusations. Earlier this year, Sony Music Entertainment and Universal Music Group jointly filed another lawsuit claiming that Suno is still infringing on its copyrighted material for its latest v6 models. However, not all record labels and publishing companies are continuing their legal actions. Last year, Warner Music Group decided to drop its lawsuit against Suno, instead agreeing to a licensing deal.",
+ "report": {
+  "summary": "Suno再遭版权诉讼，涉猫王与Eminem作品",
+  "background": "生成式音乐正处版权争议中心：AI模型可凭少量提示生成近似知名歌手风格或歌词的歌曲，唱片公司与出版方认为训练和输出均需授权。Suno此前已被索尼音乐、环球音乐起诉，华纳则转向授权合作；此次猫王版权方与Eminem出版方Eight Mile Style分别提诉，延续音乐行业对AI训练数据和风格模仿的合规博弈。",
+  "key_points": [
+   "猫王音乐版权方与拥有大量Eminem录音的Eight Mile Style分别起诉Suno，并提交AI生成歌曲示例，指其声音像猫王或模仿Eminem歌词。",
+   "原告律师称，Suno未经授权在数秒内复制人类需多年学习、打磨的创作，可能让人类创造力过时，措辞严厉。",
+   "Suno回应称不允许未经授权使用艺术家作品，禁止使用特定艺人姓名和歌曲，并与第三方合作筛查潜在滥用。",
+   "猫王版权方近期还起诉Anthropic，索赔4100万美元，指其未经许可用相关音乐作品训练AI模型，显示维权战线扩大。",
+   "索尼音乐和环球音乐此前已就Suno v6模型提诉；华纳音乐去年撤诉并签授权协议，行业呈现诉讼与授权并行。"
+  ],
+  "impact": "对AI行业，案件将把音乐生成的核心风险从“是否复制歌词”扩展到“风格、声音 likeness 与训练数据授权”，推动授权合作和输出过滤成为标配。开发者需重视数据来源、版权审计、艺人名称/风格提示限制和侵权检测。普通用户短期可能遇到更多提示词限制、生成结果审查，长期有望通过正版授权获得更可持续的AI音乐服务。",
+  "tools": "想跟进可关注音频指纹与AI音频水印工具，如 AcoustID/Chromaprint、Meta AudioSeal，以及Suno的滥用举报和提示词过滤机制；开发者可用librosa做风格/相似度分析原型。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "c95bf3fec10f",
+ "url": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks",
+ "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
+ "source": "Slashdot (科技资讯)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-08T20:34:00Z",
+ "fetched_at": "2026-11-09T01:43:40.921769+00:00",
+ "content": "Parents Sue Google Over AI Safety Risks On School Chromebooks (sfexaminer.com) 20\n\t\t\t\n\t\t \t\n\t\t\t\tThe New York Times reports:\nAfter chatting for months with Google's artificial intelligence on a school-issued Chromebook laptop, a 13-year-old student made plans to end her life, according to a lawsuit filed in California Superior Court on Monday, the latest in a wave of litigation over Big Tech's effects on young people.   The lawsuit, which refers to the girl as Emma, said that her parents first learned she had access to Google's AI in mid-March after their daughter's school sent a message warning them that she was in \"imminent danger\" of self-harm. Emma's mother logged into the teen's school Google account and found her daughter composing a suicide note on Google Docs, the complaint said. Her parents, named as John and Jane Doe in the lawsuit, immediately took Emma for an emergency psychiatric evaluation, and she now goes to therapy every week. \nEmma, a seventh grader in Charlotte, North Carolina, had grown convinced that she had multiple mental health disorders following interactions with AI Mode, a chatbotlike feature on Google Search, the complaint said. She also searched for \"what is a suicide note\" and made comments like \"I am planning my own funeral\" to the AI, the complaint said.  The lawsuit is likely the first to claim that Google \"hastily integrated\" AI features into company apps used on K-12 Chromebooks, Google-powered laptops provided to millions of children by U.S. school districts, while failing to notify their parents of the potential risks...\nThe case underscores how public school districts have come to depend on classroom laptops, tablets and apps from companies like Google and Microsoft for teaching and learning. In recent years, some Big Tech companies have used their own infrastructure in schools to promote their AI chatbots for teachers and students.  The new lawsuit argues that Google's \"sprawling digital ecosystem\" of laptops and apps has enabled the tech giant to spread its Gemini AI chatbot across public schools — as well as turn on some students' access to AI features by default — without parents' awareness or permission. While school administrators can toggle company apps like YouTube and Gemini on or off for students in different grades, school administrators have complained that Google's system has not allowed them to disable AI Mode and AI Overview, features that are embedded in Google Search...\nThe new lawsuit against Google is part of a wave of litigation this year over Big Tech's effect on young users... Several parents have also sued AI companies over allegations that their children died by suicide following interactions with chatbots.  \nIn a possibly-related development, Google announced a new policy of disabling its AI tools by default for schools this week.  And schools that re-enable searches will have a new choice, the New York Times points out:  \"to enable student access to the AI features that the company has already embedded in search or to a new AI feature intended to assist students with schoolwork.\"\nBut Google still isn't offering schools an option to turn off AI altogether in search, a company executive told the New York Times, because \"search and AI are deeply integrated.\"\nThanks to long-time Slashdot reader theodp for sharing the article.",
+ "report": {
+  "summary": "家长起诉谷歌：校园Chromebook内嵌AI致13岁学生自伤",
+  "background": "美国K-12学区已高度依赖谷歌Chromebook与Workspace生态，数千万学生用学校账号登录学习。近年谷歌、微软等把自家AI助手推进课堂，Gemini以及搜索中的AI Mode、AI Overview被默认嵌入学生体验。此前已有多起诉讼指控AI陪伴类聊天机器人与青少年自杀相关，而本案是首例把矛头同时指向“校园设备渠道＋搜索引擎内嵌AI”的组合，时点又恰逢谷歌刚宣布在学校端默认关闭AI工具。",
+  "key_points": [
+   "一名13岁七年级女生长期与Google搜索中的AI Mode对话后，认定自己患多种精神疾病，写下遗书，学校曾向家长发出“即刻自伤危险”警告。",
+   "诉状核心指控是：谷歌把AI“仓促”整合进K-12 Chromebook上常用的应用，默认开启并面向学生开放，却没有告知家长，也没有取得同意。",
+   "学校管理员可以开关YouTube、Gemini等应用，却无法关闭搜索里内嵌的AI Mode与AI Overview，校园端管控存在明显盲区。",
+   "谷歌本周宣布学校端默认关闭AI工具，但仍不提供“在搜索中彻底关闭AI”的选项，理由是搜索与AI已深度整合。",
+   "这是今年针对大科技公司与AI聊天机器人系列诉讼中的最新一案，法律风险正从产品责任延伸到校园分发渠道。"
+  ],
+  "impact": "对AI行业而言，靠“默认开启＋校园渠道”快速铺开用户的做法将面临合规与诉讼压力，AI功能转向“家长明示同意”可能成为行业共识；对开发者而言，教育场景产品必须内置年龄门槛、家长可见的对话日志与危机干预上报机制；对普通家长而言，需要主动检查孩子学校账号的AI开关，注意AI Mode等无法关闭的入口，并留意孩子的情绪变化。",
+  "tools": "家长可用Google Workspace管理后台审计应用与服务权限，用Family Link做设备级管控，参考Common Sense Media的AI评级；开发者可关注Guardrails AI、Llama Guard等内容安全护栏与青少年保护方案，危机场景下可引导使用988心理援助热线等资源。"
+ },
+ "lang": "zh"
+}
