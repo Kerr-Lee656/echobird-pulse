@@ -1,0 +1,24 @@
+{
+ "id": "45448b0d642e",
+ "url": "https://www.ithome.com/1/024/345.htm",
+ "title": "谷歌 Firebase Studio 明年 3 月关闭，用户可选择 Antigravity 或 AI Studio 等替代方案",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-09T08:02:09Z",
+ "fetched_at": "2026-11-09T20:43:44.635417+00:00",
+ "content": "感谢IT之家网友 Coje_He 的线索投递！\nIT之家 11 月 9 日消息，据科技媒体 Engadget 上周报道，谷歌旗下在线 IDE（集成开发环境） Firebase Studio 即将停用，用户需转向 Google Antigravity 或 Google AI Studio 等替代方案。\n据报道，Firebase Studio 目前处于过渡状态，创建新工作区和用户注册功能已于今年 6 月停用，用户可以继续在现有工作区中工作并迁移现有工作区。同时这款产品将在 2027 年 3 月 22 日正式关闭，所有剩余数据将永久删除，无法恢复。\nIT之家了解到，Google Firebase Studio 以预览形式推出于 2025 年 4 月 10 日，提供 AI 聊天机器人功能，可用于应用原型设计、调整应用以及处理其他开发任务，但其核心功能仍然是代码编辑。",
+ "report": {
+  "summary": "谷歌 Firebase Studio 将关停，用户须迁移替代工具",
+  "background": "Firebase Studio 于 2025 年 4 月 10 日以预览形式推出，是谷歌在云端提供的一体化 AI 开发环境：用户可以用聊天方式生成应用原型、调整代码，底层仍然是一个在线 IDE。不过，近一年 AI 编程赛道快速变化，形态从（以）聊天辅助转向以智能体（Agent）自主执行任务为主，谷歌自己也推出了主打 agent 优先的 Antigravity，以及面向模型和提示词调试的 AI Studio，产品定位与 Firebase Studio 明显重叠。因此，谷歌选择停止为新用户注册和新工作区创建，并把用户迁移到少数几个重点产品上。",
+  "key_points": [
+   "时间线清晰：2025 年 4 月预览上线，今年 6 月起停止新用户注册与新工作区创建，2027 年 3 月 22 日正式关闭，届时所有剩余数据永久删除且不可恢复。",
+   "过渡期内现有工作区仍可继续使用并迁移，官方给出两条路径：偏智能体开发的 Google Antigravity，以及偏模型、提示词调试的 Google AI Studio。",
+   "本质是产品线收敛：Firebase Studio 的“聊天 + 云端 IDE 做原型”能力被 Antigravity 的智能体工作流覆盖，谷歌不愿维护多个功能重叠的入口。",
+   "迁移有隐性成本：代码可导出，但工作区里的 AI 会话历史、预览运行环境、Firebase 项目绑定配置往往需要重建，需提前备份。",
+   "行业信号明显：AI 编程工具正从“对话补全”进入“多智能体自主执行”阶段，单点原型工具难以独立存活。"
+  ],
+  "impact": "对 AI 行业而言，这是大厂整合 AI 编程入口的又一例证，独立工具（Cursor、Windsurf、Replit、Lovable 等）将面对更集中的平台化竞争；对开发者来说，短期内要付出迁移与重建环境的成本，但换来的是更智能体化、可持续演进的工具链，宜尽早梳理项目依赖；对普通用户和低代码爱好者，可选的免费原型平台变少，不过 Antigravity 与 AI Studio 仍有免费额度，务必在删除期限前导出数据。",
+  "tools": "想跟进可上手 Google Antigravity（智能体式 IDE）、Google AI Studio + Gemini API、Firebase/Cloud Run 部署；对标产品有 Cursor、Windsurf、Replit Agent、Bolt、Lovable；想自建可用开源的 Cline、Continue、OpenHands。"
+ },
+ "lang": "zh"
+}

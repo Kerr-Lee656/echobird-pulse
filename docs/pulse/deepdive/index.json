@@ -21850,5 +21850,86 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-09T09:44:09.739520+00:00"
+ },
+ "25eb2931c5b6": {
+  "id": "25eb2931c5b6",
+  "url": "https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering",
+  "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-09T20:41:32.700211+00:00"
+ },
+ "1ea6002e9048": {
+  "id": "1ea6002e9048",
+  "url": "https://www.qbitai.com/2026/11/508694.html",
+  "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T20:42:03.531415+00:00"
+ },
+ "56885437e66f": {
+  "id": "56885437e66f",
+  "url": "https://www.aibase.com/zh/news/32181",
+  "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T20:42:17.569331+00:00"
+ },
+ "22ae913de2b7": {
+  "id": "22ae913de2b7",
+  "url": "https://www.aibase.com/zh/news/32179",
+  "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T20:42:33.843376+00:00"
+ },
+ "bbb41f511b3b": {
+  "id": "bbb41f511b3b",
+  "url": "https://www.aibase.com/news/32172",
+  "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T08:50:36.492Z",
+  "fetched_at": "2026-11-09T20:42:44.380631+00:00"
+ },
+ "ec8649b1f4ee": {
+  "id": "ec8649b1f4ee",
+  "url": "https://www.aibase.com/news/32166",
+  "title": "苹果Siri AI全面控制应用延期至2027年春季上线",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T08:50:36.492Z",
+  "fetched_at": "2026-11-09T20:42:53.490925+00:00"
+ },
+ "9563567e6520": {
+  "id": "9563567e6520",
+  "url": "https://www.aibase.com/news/32165",
+  "title": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T08:50:36.492Z",
+  "fetched_at": "2026-11-09T20:43:05.295869+00:00"
+ },
+ "2866a5e2d02c": {
+  "id": "2866a5e2d02c",
+  "url": "https://www.ithome.com/1/024/350.htm",
+  "title": "阿里千问办公 2.0 发布：支持多人与 Agent 协作，可把 Agent 带进工作群",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-09T08:15:13Z",
+  "fetched_at": "2026-11-09T20:43:29.882989+00:00"
+ },
+ "45448b0d642e": {
+  "id": "45448b0d642e",
+  "url": "https://www.ithome.com/1/024/345.htm",
+  "title": "谷歌 Firebase Studio 明年 3 月关闭，用户可选择 Antigravity 或 AI Studio 等替代方案",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-09T08:02:09Z",
+  "fetched_at": "2026-11-09T20:43:44.635417+00:00"
  }
 }

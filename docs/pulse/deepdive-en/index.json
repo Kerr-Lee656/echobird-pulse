@@ -11203,5 +11203,68 @@
   "site_name": "arXiv cs.CL",
   "published_at": "2026-11-09T05:00:00.000Z",
   "fetched_at": "2026-11-09T09:47:25.326784+00:00"
+ },
+ "31c8d0fdae36": {
+  "id": "31c8d0fdae36",
+  "url": "https://arxiv.org/abs/2608.00325",
+  "title": "Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T20:35:52Z",
+  "fetched_at": "2026-11-09T20:44:14.227221+00:00"
+ },
+ "6a613eb4970c": {
+  "id": "6a613eb4970c",
+  "url": "https://keln.ai/blog/ai-inference-provider-benchmark-2026",
+  "title": "We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T20:26:56Z",
+  "fetched_at": "2026-11-09T20:44:26.221463+00:00"
+ },
+ "347bb231e259": {
+  "id": "347bb231e259",
+  "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+  "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+  "source": "Artificial Analysis",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-09T19:45:12.000Z",
+  "fetched_at": "2026-11-09T20:44:39.431455+00:00"
+ },
+ "e15db115decf": {
+  "id": "e15db115decf",
+  "url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
+  "title": "Recent advances in AI are creating a 'paradigm shift' for robotics",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T19:25:46Z",
+  "fetched_at": "2026-11-09T20:45:06.093731+00:00"
+ },
+ "ea9e22701229": {
+  "id": "ea9e22701229",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T19:02:26Z",
+  "fetched_at": "2026-11-09T20:45:42.360962+00:00"
+ },
+ "1f9b665cab8a": {
+  "id": "1f9b665cab8a",
+  "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+  "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
+  "source": "Hacker News (18pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T18:29:41Z",
+  "fetched_at": "2026-11-09T20:46:15.702261+00:00"
+ },
+ "a98326b09f6f": {
+  "id": "a98326b09f6f",
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "source": "Hacker News (21pts, 4c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T18:24:38Z",
+  "fetched_at": "2026-11-09T20:46:25.981154+00:00"
  }
 }

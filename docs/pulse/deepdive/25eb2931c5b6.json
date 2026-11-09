@@ -1,0 +1,24 @@
+{
+ "id": "25eb2931c5b6",
+ "url": "https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering",
+ "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-09T20:41:32.700211+00:00",
+ "content": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering (itsfoss.com) 152\n\t\t\t\n\t\t \t\n\t\t\t\t It's FOSS reports:\nAsahi Linux is the reason you can run Linux on an Apple Silicon Mac today. For years, the project put most of its own code under the MIT license so that anyone, including the BSDs, could reuse it as needed...   They have announced that Asahi is moving all of its repositories to the GNU General Public License version 2 or later.  Going forward, all Asahi Linux code will be under strong copyleft licenses only. \nAsahi Linux compares their dilemma to the 1990s, when \"permissively licenced projects were viewed by tech companies as free real estate to pilfer and exploit,\" adding that \"Those who do not learn from history are doomed to repeat it...   The malicious practices of the 90s and 2000s have reared their ugly heads once again, this time driven in large part by both the insatiable appetite of frontier AI labs for high-quality training data, and militant animosity toward the Free Software community.\"  In short, they argue that for Asahi Linux, using the permissive MIT license \"is no longer viable.\"\nSome time ago, we were made aware of multiple attempts to exploit our permissive licensing to hijack our work, with a direct view to replacing the project and aggressively monetising Linux on Apple Silicon. In some extreme cases, in-development feature code was being lifted straight out of our personal forks and published without attribution or lazily rewritten with LLM assistance to obfuscate its origin. The MIT licence explicitly allows this, and has no carveouts to protect against bad faith actors. As such, we made the difficult decision to begin the process of transitioning all of our repositories to the GNU General Public License version 2 or later. Going forward all Asahi Linux code will be licenced under strong copyleft licences only.  \nIt's FOSS explains that \"Under the GPL, anyone who distributes a modified version has to release the source under the same license. You can't legally build a closed, paid Apple Silicon distro on top of GPL code. And if a product's source has to be public, the copying is easier to spot.\"\nAnd their article also points out that before AI, bad actors attempting code laundering \"usually meant manually rewriting code line by line, renaming variables and stuff, and shuffling functions around until it no longer looked like the original. LLMs made it much more easy and cheaper of course.\"\n In case you did not know, Asahi Linux forbids AI generated code contribution...  As far as I can tell, this is the first time a major open source project has moved to copyleft specifically because of AI-assisted code laundering. Projects have relicensed before, but usually to stop cloud providers from reselling their work as a service. This one is specifically about AI...\nThe move has drawn criticism, particularly from the BSD side, which was one of the main reasons Asahi chose MIT in the first place. OpenBSD's Apple Silicon support relies on Asahi's m1n1 bootloader.",
+ "report": {
+  "summary": "Asahi Linux因LLM洗代码弃MIT转GPL",
+  "background": "Asahi Linux 是让 Linux 跑上 Apple Silicon 的关键项目，长期采用 MIT 许可，方便 BSD 等下游复用。随着 AI 实验室对高质量训练数据的需求激增，项目发现有人利用宽松许可洗稿、替换并商业化其成果，甚至用 LLM 改写代码掩盖来源，因此转向 GPLv2+ 强著佐权。",
+  "key_points": [
+   "Asahi 将所有仓库从 MIT 迁到 GPLv2+，今后只采用强 copyleft，不再给闭源商业化留口子。",
+   "项目发现多起利用宽松许可劫持成果的尝试，有人直接搬走在开发代码，或用 LLM 改写掩盖出处。",
+   "GPL 要求分发修改版时公开源码，闭源付费的 Apple Silicon 发行版不能合法基于其代码，抄袭也更易被发现。",
+   "Asahi 本就禁止 AI 生成代码贡献；此举被视为首个因 AI 辅助洗代码而转 copyleft 的大型开源项目。",
+   "BSD 社区批评此举，OpenBSD 的 Apple Silicon 支持依赖 Asahi 的 m1n1 引导器，许可收紧带来兼容成本。"
+  ],
+  "impact": "对 AI 行业，训练数据与代码生成合规风险上升，“改写即原创”的灰色做法受挑战；开发者需更重视许可证和出处审计，强 copyleft 项目贡献门槛提高；普通用户短期使用不受影响，但闭源付费的 Apple Silicon Linux 发行版可能减少，BSD 等下游适配成本增加。",
+  "tools": "想跟进可关注 Asahi Linux 与 m1n1 仓库、GPLv2 文本；合规审计可用 REUSE、ScanCode、FOSSA、licensee，检查依赖许可证和代码来源。"
+ },
+ "lang": "zh"
+}

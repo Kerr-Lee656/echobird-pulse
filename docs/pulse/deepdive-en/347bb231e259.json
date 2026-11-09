@@ -1,0 +1,25 @@
+{
+ "id": "347bb231e259",
+ "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+ "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+ "source": "Artificial Analysis",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-09T19:45:12.000Z",
+ "fetched_at": "2026-11-09T20:44:39.431455+00:00",
+ "content": "Artificial Analysis· @ArtificialAnlys · X·· 54 分钟前精选AI 评分81\nAI 导读\nArtificial Analysis 评测 Anthropic 发布的 Claude Fable 5.2，其在 Artificial Analysis Intelligence Index v5 以 65 分登顶，领先 Gemini 4 Carbon（60）和 Claude Opus 5.5（59）。\n推荐理由\n评测方给出了 Claude Fable 5.2 在 Intelligence Index v5 的得分、各基准对比与成本数据，读者可以据此评估其实力和性价比。\n正文 · AI 翻译\nAnthropic 发布了 Claude Fable 5.2，以 65 分登上 Artificial Analysis Intelligence Index v5 榜首，主要得益于科学、知识和编程方面的提升\n在 max effort 下它得分 65，领先 Gemini 4 Carbon（high，60）5 分，领先 Claude Opus 5.5（max，59）6 分。提升主要来自科学推理、知识和 FrontierCode 2.0，在 AA-Briefcase 和 Terminal-Bench 4.0 上与 Opus 5.5 大致持平。\n定价为每 100 万输入/输出 token $8/$40，较 Fable 5.1 降低 20%，Claude Fable 5.2 在 max effort 下的平均每任务成本为 $26.5，相比 Opus 5.5（max，$10.0）增加约 2.6 倍，相比 Fable 5.1（max，$12.99）增加约 2 倍\n关键要点：\n- Claude Fable 5.2 在 Intelligence Index 的 9 项评估中领先 5 项：在 max effort 下，Fable 5.2 得分 65，领先 Gemini 4 Carbon（high，60）、Claude Opus 5.5（max，59）和 GPT-6 Astra（max，57），并比 Claude Fable 5.1（max，49）高出约 15 分。它在 HLE-Diamond（80%，此前最佳为 Gemini 4 Carbon 的 69%）、AA-Omniscience v1.1（67，此前最佳为 Gemini 4 Carbon 的 54）、Terminal-Bench-Science（73%，此前最佳为 Gemini 4 Carbon 的 65%）、CritPt v2 hard subset（77%，此前最佳为 GPT-6 Astra 的 72%）和 FrontierCode 2.0（49%，此前最佳为 Claude Opus 5.5 的 46%）上创下最高分\n- 在智能体知识工作和终端编程方面进展较小：Claude Fable 5.2 在各项能力上均优于 Fable 5.1，但有时仅达到 Opus 5.5 的水平。它在 AA-Briefcase 上达到 1785 Elo，处于 Opus 5.5（1800）的置信区间内，仅落后于 Claude Sonnet 5.5（1813）。在 GDP.pdf 上它达到 24% all-pass，而 Opus 5.5 为 26%。在 Terminal-Bench 4.0 上它得分 60%，与 Opus 5.5 持平，落后于 Kimi K3.1 Pro（67%）、Gemini 4 Carbon（65%）和 Sonnet 5.5（64%）。AutomationBench-AA 是个例外，为 76%，而 Opus 5.5 为 70%，仅略落后于 Gemini 4 Carbon 的 78%\n- 较低 effort 仍占据领先位置：在 high 和 xhigh effort 下，Claude Fable 5.2 得分 62，领先其他任何 effort 设置下的所有模型，每任务使用 98k 输出 token，而 Opus 5.5（max）为 173k。在 max effort 下 Fable 5.2 的成本约为 Opus 5.5 的 2.6 倍，但在较低 effort 设置下，它能够以更低的每任务成本超越 Opus 5.5\n其他模型细节：\n- 上下文窗口：100 万 token，支持图像和文本输入\n- 定价：每 100 万输入/输出 token $8/$40；缓存写入 5 分钟 TTL 为 $10，1 小时 TTL 为 $16，缓存读取为 $0.20\n- Effort 设置：五档（low、medium、high、xhigh、max）。Intelligence Index 评估在全部五档下运行，并启用了 Anthropic 的默认回退\n祝贺 @AnthropicAI 发布这一令人印象深刻的版本！\n来源：Artificial Analysis · x.com\n事件后续 · 4\n查看事件全部\n- 同事件Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用Higgsfield AI · 24 分钟前\n- 同事件Claude Fable 5.2 上线 Devin Desktop 和 Devin CLICognition · 58 分钟前\n- 同事件Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明Anthropic：Claude.dev 开发者博客 · 33 分钟前\n- 同事件Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2Anthropic：Newsroom · 1 小时前",
+ "report": {
+  "summary": "Claude Fable 5.2 以 65 分登顶 Artificial Analysis Intelligence Index v5；科学推理和前沿编程创下纪录，但在最高 effort 设置下，其每任务成本约为 Opus 5.5 的 2.6 倍。",
+  "background": "大模型评测已从单一问答榜单转向综合能力指数。Artificial Analysis 的 Intelligence Index 把科学推理、知识广度、终端编程与智能体知识工作等多项基准聚合为单一分数，成为企业和开发者选型的重要参考。Anthropic 目前采用 Fable、Opus、Sonnet 三层产品线：Fable 主打能力上限，Opus 主打均衡，Sonnet 主打性价比。过去几代 Fable 虽分数领先，但单位任务成本偏高，实际部署时常被 Opus 或竞品替代。与此同时，Gemini 4 Carbon、GPT-6 Astra、Kimi K3.1 Pro 等在终端编程和智能体任务上紧追，价格战与 effort 档位（推理预算）调节成为新的竞争维度。Fable 5.2 正是在这一背景下发布：它需要在保持领先分数的同时，回应“分数涨、成本也涨”的质疑。",
+  "key_points": [
+   "登顶幅度明确：在 max effort 下，Fable 5.2 得分 65，领先 Gemini 4 Carbon（high，60）5 分、Claude Opus 5.5（max，59）6 分、GPT-6 Astra（max，57）8 分，比上一代 Fable 5.1（max，49）高出 16 分；在 9 项评估中领先 5 项。",
+   "突破集中在科学知识与前沿编程：HLE-Diamond 80%（原最佳 69%）、AA-Omniscience 67（原 54）、Terminal-Bench-Science 73%（原 65%）、CritPt v2 hard 77%（原 72%）、FrontierCode 2.0 49%（原 46%），五项全部刷新纪录，说明提升并非全面均衡，而是偏向高难度推理。",
+   "智能体知识工作和终端编程进展有限：AA-Briefcase 得分 1785 Elo，落在 Opus 5.5（1800）的置信区间内，仅低于 Sonnet 5.5（1813）；GDP.pdf 全通过率 24%，低于 Opus 5.5 的 26%；Terminal-Bench 4.0 为 60%，落后 Kimi K3.1 Pro（67%）、Gemini 4 Carbon（65%）和 Sonnet 5.5（64%）。",
+   "定价下降但单任务成本上升：输入/输出价格为每百万 token $8/$40，比 Fable 5.1 低 20%；但 max effort 下平均每任务成本 $26.5，是 Opus 5.5（$10.0）的 2.6 倍、Fable 5.1（$12.99）的 2 倍，主要因为推理时输出 token 更多。",
+   "低 effort 档性价比突出：在 high/xhigh 下得分 62，仍高于其他任何模型在任何 effort 下的成绩，且每任务仅用 98k 输出 token（Opus 5.5 max 为 173k），每任务成本反而低于 Opus 5.5，说明应优先用中档推理预算。",
+   "产品细节：上下文窗口 100 万 token，支持图像与文本输入；提供 low、medium、high、xhigh、max 五档 effort，缓存写入 5 分钟 TTL $10、1 小时 TTL $16，缓存读取 $0.20，长上下文与缓存策略对成本影响显著。"
+  ],
+  "impact": "对行业而言，Fable 5.2 把竞争焦点从“通用对话”推向“科学推理与前沿代码”，HLE-Diamond、CritPt 等硬基准的纪录被大幅刷新，说明推理时计算扩展仍有红利；但成本曲线也表明，能力上限正变得越来越贵，单纯堆 effort 不是可持续路线。对开发者，关键结论是“先调 effort 再换模型”：在 high/xhigh 档就能以更低成本超过 Opus 5.5，只有极难的科学与形式化任务才值得开到 max；同时应重视缓存与上下文复用，以摊薄 $40 的输出单价。对普通用户，短期内会看到更强的科学问答与代码生成体验，并通过 Higgsfield 试用、Devin Desktop 等渠道更快用上；但订阅价格和调用成本可能继续分化，低价档模型仍是日常主力。",
+  "tools": "可关注：Artificial Analysis 官网 Intelligence Index v5 榜单及各 effort 档对比页，用于按任务选型；Anthropic API 的 effort 参数与 prompt caching，用于控制成本；开源评测栈 Terminal-Bench 4.0、HLE、FrontierCode 2.0、AA-Briefcase，可本地复现分数；想快速试用可看 Higgsfield（3 天免费）与 Devin Desktop/CLI；Anthropic 的 Claude.dev 沙箱多智能体示例，适合研究形式化证明等长程任务。"
+ },
+ "lang": "en"
+}

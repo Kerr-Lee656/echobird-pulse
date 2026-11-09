@@ -1,0 +1,24 @@
+{
+ "id": "22ae913de2b7",
+ "url": "https://www.aibase.com/zh/news/32179",
+ "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-09T20:42:33.843376+00:00",
+ "content": "人工智能芯片巨头英伟达于11月9日在韩国首尔正式举办了备受瞩目的 NVIDIA AI Day 活动。在本次大会上，英伟达一口气公布了与韩国科学信息通信技术部（MSIT）以及三星、LG 电子、现代汽车集团等韩国本土顶尖企业和研究机构的多项深度合作，引发科技界广泛关注。\n深化主权 AI 生态建设，全面赋能本地大模型与基础设施\n在国家级合作层面，英伟达与韩国科学信息通信技术部（MSIT）进一步扩大了在主权人工智能生态系统上的战略合作，合作范围全面覆盖人工智能半导体、数据中心基础设施、专业人才培养、初创企业扶持、大模型研发、智能体构建以及网络安全等多个关键领域。\n此次合作的核心成果之一，是为韩国的 NPU 和 XPU 企业探索接入英伟达 NVLink Fusion 生态系统奠定了坚实基础。同时，双方将联合推出英伟达培训与认证项目、黑客马拉松以及技术研讨会，全面提升 GPU 的整体利用效率。此外，在韩国“全民人工智能”倡议的推动下，英伟达将携手 SK Telecom（A.X K2）、LG AI Research(K-EXAONE2.0)、Upstage(Solar Open2)以及 Motif Technologies(Motif-3)这四家韩国基础模型构建商，利用英伟达 Dynamo 软件对人工智能推理进行全面优化与扩展。同时，英伟达还宣布与 SK 电信和 Rebellions 展开合作，在 MSIT 的支持下共同推进基于 NVLink Fusion 的韩国本土模型与工作负载主权 AI 基础设施建设。\n硬件创新与自动驾驶:三星、LG 与现代全面接入\n在企业级落地方面，韩国各大巨头纷纷公布了与英伟达的最新合作进展:\n三星电子: 正在进一步扩大与英伟达的合作，借助加速计算和人工智能物理技术全力推动半导体领域的创新，合作范围深入涵盖材料研究、工艺开发及器件工程。\nKakao Mobility: 计划在英伟达先进的自动驾驶计算与安全技术基础之上，全面推进 L4级自动驾驶系统的研发。该项目巧妙结合了 Kakao Mobility 的专有驾驶软件、在首尔江南区的实际运营经验，以及英伟达强大的车辆计算平台。\nLG 电子与 LG AI Research: 英伟达与 LG 电子在现场成功演示了利用 LG 的 CLOiD 机器人，在真实制造环境中实现由 NVIDIA Isaac GR00T 驱动的机器人操作与制造任务。同时，LG AI Research 正式开放了 K-EXAONE-2.5的应用程序接口访问，该版本特别采用了英伟达 Nemotron 数据集（包含 Nemotron-Personas-Korea）进行开发。\n智能体安全与智能制造:现代汽车与 AIM Intelligence 深度参与\n在智能机器人与企业工作流安全方向，现代汽车集团与当地安全企业同样动作频频:\n现代汽车集团: 目前正在积极探索应用 NVIDIA NemoClaw 蓝图和 NVIDIA OpenShell 运行时，赋能相关业务场景。\nAIM Intelligence: 这家韩国人工智能安全公司正将其 Starfort 智能体控制平台与 NVIDIA OpenShell 进行深度集成。此次集成的核心目标是将 OpenShell 的运行时访问控制，与 Starfort 针对恶意指令和数据泄露的检测功能完美结合，全面提升企业员工的生产力与整体工作流程的安全标准。该公司目前还在考虑将其应用于公共能源领域的初步概念验证，未来潜在应用场景将广泛覆盖企业、工业及机器人等多个领域。",
+ "report": {
+  "summary": "英伟达首尔AI Day携手韩国政府与三星LG现代共建主权AI",
+  "background": "英伟达正加速全球“主权AI”布局，继欧洲、日本、中东之后落地韩国。韩国政府推行“全民人工智能”倡议，扶持本土NPU、大模型与数据中心，并希望减少对单一海外算力依赖。三星、LG、现代、SK、Kakao等财阀与初创企业构成韩国AI主力，此次合作覆盖芯片、模型、机器人、自动驾驶与安全，是英伟达绑定韩国生态、对抗AMD与本土NPU阵营的关键一步。",
+  "key_points": [
+   "国家级合作：与韩国MSIT扩大主权AI合作，覆盖半导体、数据中心、人才、初创、大模型、智能体与安全，韩国NPU/XPU企业探索接入NVLink Fusion。",
+   "模型推理优化：SK Telecom、LG AI Research、Upstage、Motif四家韩国基础模型商采用NVIDIA Dynamo优化推理，推动韩语大模型规模化落地。",
+   "企业级落地：三星用加速计算与AI物理推动半导体材料、工艺及器件创新；Kakao Mobility基于英伟达平台研发L4自动驾驶。",
+   "机器人与安全：LG CLOiD机器人用Isaac GR00T完成真实制造任务；现代探索NemoClaw/OpenShell；AIM Intelligence将Starfort与OpenShell集成强化智能体安全。",
+   "本土基础设施：SK Telecom与Rebellions在MSIT支持下基于NVLink Fusion建设主权AI基础设施，服务韩国本土模型与工作负载。"
+  ],
+  "impact": "对行业而言，主权AI从政策口号走向“芯片+模型+应用”全栈绑定，英伟达借NVLink Fusion收编韩国NPU生态，巩固算力标准话语权。开发者可基于Dynamo、Isaac GR00T、Nemotron与韩语模型API做推理优化、机器人及智能体安全开发。普通用户将更快用上韩语大模型、江南区L4自动驾驶和制造机器人，企业智能体安全也更有保障。",
+  "tools": "可关注：NVIDIA Dynamo（推理优化）、NVLink Fusion（异构互联）、Isaac GR00T（机器人基础模型）、Nemotron数据集、OpenShell/NemoClaw（智能体运行时安全），以及Upstage Solar Open 2、LG K-EXAONE API。"
+ },
+ "lang": "zh"
+}

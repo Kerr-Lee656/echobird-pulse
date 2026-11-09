@@ -1,0 +1,24 @@
+{
+ "id": "ec8649b1f4ee",
+ "url": "https://www.aibase.com/news/32166",
+ "title": "苹果Siri AI全面控制应用延期至2027年春季上线",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-09T08:50:36.492Z",
+ "fetched_at": "2026-11-09T20:42:53.490925+00:00",
+ "content": "Apple has recently made a new adjustment to the pace of its push in artificial intelligence. According to internal sources and related reports, although the iOS27.3 developer beta has already enabled Siri to handle some basic first-party app tasks, broader deep control over Apple's native apps and key third-party app support are expected to be delayed until spring 2027 (or with the iOS27.5/27.6 releases) and officially introduced in preview form.\nCurrently, Apple is relying on the App Intents framework to accelerate its catch-up with the industry, but in terms of task complexity and autonomy, it still lags behind competitors such as Muse and Grok in their ability to handle tasks autonomously between conversations and provide long-term assistance. Apple is trying to change this by creating a long-term assistant for specific tasks that users do not need to supervise the entire time. However, due to adjustments in the technology iteration cycle and internal strategic considerations, the rollout of full cross-app control and more advanced autonomous AI features has slowed.\nThe delay in this timeline reflects the technical complexity of deeply integrating consumer AI into the system's underlying layers. As operating systems and generative AI merge at an accelerating pace, how to achieve highly autonomous cross-app orchestration while safeguarding privacy and system security has become a long-term evolutionary challenge shared by major technology giants.",
+ "report": {
+  "summary": "苹果Siri全面控制应用的能力推迟至2027年春季，跨应用自主操作再延期",
+  "background": "自2024年Apple Intelligence发布以来，苹果一直承诺让Siri具备跨应用执行任务的能力，但落地节奏屡次后移。当前Siri主要依靠App Intents框架完成单项、浅层的应用操作，例如在系统原生应用内执行简单指令。与此同时，具备长期记忆、能在多轮对话间自主编排任务的助手产品不断涌现，用户对“代理式AI”的期待被迅速抬高。在把生成式AI深度接入操作系统底层、同时守住隐私与安全边界的路径选择上，苹果显然选择了更为谨慎的迭代方式，这次延期正是这一策略的直接体现。",
+  "key_points": [
+   "在iOS 27.3开发者测试版中，Siri已能处理部分基础的原生应用任务，但范围有限、任务链条短，距离“全面控制”仍有明显差距。",
+   "更深入的苹果原生应用控制以及关键第三方应用支持，预计将随iOS 27.5或27.6在2027年春季以预览形式推出。",
+   "苹果仍依赖App Intents框架提速追赶，但在任务复杂度和自主性上，落后于能跨对话自主执行任务的竞品助手。",
+   "苹果的目标是打造“无需用户全程盯着”的长期任务型助手，但由于技术迭代周期调整与内部战略考量，这一目标被放慢。",
+   "延期本身说明：要让消费级AI深度嵌入系统底层，跨应用调度与隐私安全之间的平衡是行业共同的长期难题。"
+  ],
+  "impact": "对AI行业而言，苹果的谨慎再次表明，代理式AI的能力上限受系统级权限与安全架构约束，而不只是受模型能力约束，这可能给第三方助手留下窗口期。对开发者来说，App Intents与快捷指令仍是未来两年接入Siri的主要入口，相关适配工作的回报周期被拉长，但也更确定。对普通用户而言，Siri“一句话办完跨应用的事”的体验还要再等一到两年，短期内更多是单点功能的渐进改良。",
+  "tools": "想跟进可关注苹果的App Intents框架与Shortcuts快捷指令，这是目前接驳Siri能力的主要通道；开发者可对照iOS测试版中的Siri新能力做适配验证。对比观察方面，可试用具备跨应用任务编排能力的助手产品，理解“自主代理”与“单步指令”的能力差异。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "bbb41f511b3b",
+ "url": "https://www.aibase.com/news/32172",
+ "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-09T08:50:36.492Z",
+ "fetched_at": "2026-11-09T20:42:44.380631+00:00",
+ "content": "A recent Bloomberg report shows that Harness, DeepSeek's open-source agent application framework, has stood out since launch. In just under three months, the daily active users (DAU) of its official API have surged to 1.54 million. This marks a significant increase from the 7-day average of 271K after the desktop version was officially launched on September 30.\nStaggering Compute Consumption: Long-Running Agent Tasks Become a \"Cost Monster\"\nWith explosive DAU growth, Harness's resource consumption at the compute level has also drawn intense industry attention.\nData shows that these 1.54 million daily active users consume about 92T (trillion) tokens per day on the platform, with each user consuming an average of about 60 million tokens per day. Industry analysts note that this massive figure not only reshapes market perceptions but also serves as the most direct public signal to date: compared with traditional chatbots, complex agent tasks that need to run continuously for long periods carry far greater compute and computational resource costs.\nExplosive Plugin Ecosystem: 35,000 Custom Plugins and Future Commercialization Plans\nIn terms of architecture design, Harness adopts an extremely open plugin-based mechanism, treating every function in the system as a plugin. Even core built-in features can be replaced by users themselves.\nAs of now, a vast community of developers and users has built about 35,000 custom plugins in this ecosystem. DeepSeek officially revealed that among all active users, about 60% have personally built at least one plugin. However, the company also candidly acknowledged that the overall quality of these community-made plugins is currently uneven.\nTo further strengthen its ecosystem moat, DeepSeek plans to launch an official plugin marketplace and simultaneously start a creator incentive program, supporting the ecosystem through multiple measures such as token grants, technical support, and traffic promotion. As these tools and incentive policies are rolled out one after another, if it can continue to retain core users, DeepSeek will move beyond its model pricing advantage and formally compete head-on with overseas giants such as OpenAI and Anthropic in terms of ecosystem richness.",
+ "report": {
+  "summary": "DeepSeek智能体Harness日活154万，日耗92T词元。",
+  "background": "智能体（Agent）正从演示走向生产，长任务、多工具调用带来远高于聊天机器人的算力消耗。DeepSeek 以开源方式推出 Harness，桌面版9月30日上线后不到三个月，官方API日活从7日均值27.1万增至154万，并形成约3.5万个社区插件。此次数据披露既展示增长，也把智能体算力成本和生态竞争推上台面。",
+  "key_points": [
+   "日活增长迅猛：官方API日活达154万，较桌面版上线后的7日均值27.1万大幅提升，用时不到三个月。",
+   "算力消耗惊人：154万日活用户每天消耗约92T词元，人均约6000万词元，远高于传统聊天机器人。",
+   "插件生态爆发：社区已构建约3.5万个自定义插件，约60%活跃用户至少亲手做过一个插件，但质量参差不齐。",
+   "商业化提速：DeepSeek计划上线官方插件市场，并推出创作者激励，以词元补贴、技术支持和流量推广扶持生态。",
+   "竞争转向生态：若核心用户留存，DeepSeek将从模型价格优势转向与OpenAI、Anthropic比拼生态丰富度。"
+  ],
+  "impact": "对AI行业，智能体长任务的算力成本成为关键竞争指标，生态丰富度将决定平台黏性。对开发者，插件市场和创作者激励带来分发与变现机会，但需重视插件质量、安全与token成本控制。对普通用户，智能体能力会更丰富，但服务质量和价格可能因插件差异而波动。",
+  "tools": "可关注Harness开源仓库与插件开发文档、即将上线的官方插件市场；对比LangChain、LlamaIndex等Agent框架；配合token用量监控与插件质量评估工具，控制长任务成本。"
+ },
+ "lang": "zh"
+}
