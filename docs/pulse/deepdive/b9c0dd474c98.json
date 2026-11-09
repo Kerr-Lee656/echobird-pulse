@@ -1,0 +1,24 @@
+{
+ "id": "b9c0dd474c98",
+ "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+ "title": "Apple is racing to make Siri more agentic",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-09T09:44:09.739520+00:00",
+ "content": "Bloomberg’s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI’s Dots or Meta’s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it’s keeping pace with its rivals.\nApple is racing to make Siri more agentic\nFuture versions of Siri will be able to control third-party apps and perform more complex tasks.\nTwo significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple’s first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to land with iOS 27.3. The bigger change, integration with third-party apps, is likely to land later, in the Spring, according to Gurman. That would let Siri place an order through Grubhub or book a dinner reservation through OpenTable, for example.\nBut that’s just the start. Apple is expected to push Siri to become more agentic and enable features that will allow it to perform ongoing tasks, not just one-offs. Gurman says:\nDots, Muse and Grok can keep track of goals, determine what needs to happen next and continue pursuing objectives without the user initiating every individual step. Apple ultimately wants to go in this direction, I’m told, and I believe the company could make Siri more like an agent as early as next year — not that it has much of a choice, given current consumer and market demands.",
+ "report": {
+  "summary": "苹果加速推进Siri代理化，让它能控制第三方应用并执行连续任务",
+  "background": "自2024年Apple Intelligence发布以来，Siri的智能化升级多次延期，被视为苹果在生成式AI竞赛中的短板。与此同时，OpenAI、Meta、xAI等陆续推出能自主规划、持续追踪目标的\"代理型\"产品，让语音助手从问答工具升级为能替用户办事的执行体。据彭博报道，苹果高层正施压AI负责人加快Siri路线图，先在本机应用内实现精细操作，再打通第三方应用，最终走向长任务自治。这既是补课，也是守住iPhone入口价值的防守战。",
+  "key_points": [
+   "分两步走：先在iOS 27.3中让Siri精细操控照片裁剪、Safari标签整理等苹果自家应用",
+   "更大的跨应用能力预计明年春季上线，Siri可代用户在Grubhub下单、在OpenTable订位",
+   "终极目标是\"代理化\"：Siri能记住目标、自己判断下一步，而不必用户逐步下指令",
+   "苹果内部承认目前落后于OpenAI、Meta等对手，时间表被高层明显压缩",
+   "对苹果而言这已不是可选项——消费者期待与市场竞争都在逼它必须给出代理能力"
+  ],
+  "impact": "对AI行业，苹果入场意味着代理型助手从极客玩物变成十亿级设备的默认入口，标准之争（应用调用协议、权限模型）将被重新定义；对开发者，App Intents等接口会成为新的必接能力，能被代理调用的应用获得流量，不能的则被绕过；对普通用户，手机将逐步从\"你操作App\"变成\"你说目标、AI代跑流程\"，但权限、误操作与隐私风险也随之而来。",
+  "tools": "开发者可先研究苹果的App Intents、Shortcuts与Foundation Models框架，为自家应用接入可被Siri调用的动作；想理解代理机制可参考开源项目LangGraph、Browser Use、AutoGen，以及Anthropic的MCP协议，它们展示了任务规划、工具调用与跨系统协作的通用范式。"
+ },
+ "lang": "zh"
+}

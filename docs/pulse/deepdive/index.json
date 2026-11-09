@@ -21778,5 +21778,77 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-09T01:44:22.732737+00:00"
+ },
+ "54b146ef1f35": {
+  "id": "54b146ef1f35",
+  "url": "https://www.aibase.com/zh/news/32159",
+  "title": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T09:42:42.541998+00:00"
+ },
+ "4fc9566b6ab3": {
+  "id": "4fc9566b6ab3",
+  "url": "https://www.aibase.com/zh/news/32158",
+  "title": "ChatGPT 遭大规模集中停用，高价 200 美元 Pro 订阅用户也未能幸免",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T09:42:56.143565+00:00"
+ },
+ "6a844617711b": {
+  "id": "6a844617711b",
+  "url": "https://news.mydrivers.com/1/1164/1164133.htm",
+  "title": "黄仁勋反对全面限制对华 AI 芯片出口：美国应以竞争而非退出市场取胜",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-09T09:43:06.131159+00:00"
+ },
+ "2576b37eed99": {
+  "id": "2576b37eed99",
+  "url": "https://www.aibase.com/news/32163",
+  "title": "新版 Siri 跳票两年后，苹果 AI 主帅动了离职念头",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T01:17:26.062Z",
+  "fetched_at": "2026-11-09T09:43:17.932469+00:00"
+ },
+ "7ce6ee53aa55": {
+  "id": "7ce6ee53aa55",
+  "url": "https://www.aibase.com/news/32162",
+  "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T01:17:26.062Z",
+  "fetched_at": "2026-11-09T09:43:32.255106+00:00"
+ },
+ "64ac4e498562": {
+  "id": "64ac4e498562",
+  "url": "https://www.aibase.com/news/32160",
+  "title": "国产 AI 迎来高光时刻：千问 Qwen4 跑分首度超越 Opus 5.5，极高性价比成最大杀手锏",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-09T01:17:26.062Z",
+  "fetched_at": "2026-11-09T09:43:44.126935+00:00"
+ },
+ "4aa48ed764b6": {
+  "id": "4aa48ed764b6",
+  "url": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github",
+  "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-09T09:44:00.096508+00:00"
+ },
+ "b9c0dd474c98": {
+  "id": "b9c0dd474c98",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "title": "Apple is racing to make Siri more agentic",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-09T09:44:09.739520+00:00"
  }
 }

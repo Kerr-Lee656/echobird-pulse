@@ -11122,5 +11122,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-08T20:18:49Z",
   "fetched_at": "2026-11-09T01:46:21.147367+00:00"
+ },
+ "b1de202b417e": {
+  "id": "b1de202b417e",
+  "url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/",
+  "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T08:50:59Z",
+  "fetched_at": "2026-11-09T09:44:45.160252+00:00"
+ },
+ "bf36b4eb529e": {
+  "id": "bf36b4eb529e",
+  "url": "https://asahilinux.org/llm-policy/",
+  "title": "Asahi Linux forbids using AI to contribute",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T07:36:35Z",
+  "fetched_at": "2026-11-09T09:45:21.218994+00:00"
+ },
+ "0be0effde4fd": {
+  "id": "0be0effde4fd",
+  "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+  "title": "Apple capped engineers at a $200 daily AI budget",
+  "source": "Hacker News (87pts, 91c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T05:30:11Z",
+  "fetched_at": "2026-11-09T09:45:53.671619+00:00"
+ },
+ "d128f984dce6": {
+  "id": "d128f984dce6",
+  "url": "https://arxiv.org/abs/2611.08711",
+  "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:46:11.779214+00:00"
+ },
+ "833124248916": {
+  "id": "833124248916",
+  "url": "https://arxiv.org/abs/2611.08780",
+  "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:46:24.878729+00:00"
+ },
+ "01ddf4b3ddf6": {
+  "id": "01ddf4b3ddf6",
+  "url": "https://arxiv.org/abs/2611.08905",
+  "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:46:36.818854+00:00"
+ },
+ "8ed01078601b": {
+  "id": "8ed01078601b",
+  "url": "https://arxiv.org/abs/2611.09090",
+  "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:46:55.763172+00:00"
+ },
+ "c8f44482f260": {
+  "id": "c8f44482f260",
+  "url": "https://arxiv.org/abs/2611.09094",
+  "title": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:47:12.253300+00:00"
+ },
+ "ac7cefbb7056": {
+  "id": "ac7cefbb7056",
+  "url": "https://arxiv.org/abs/2611.09554",
+  "title": "Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
+  "source": "arXiv cs.CL",
+  "site_name": "arXiv cs.CL",
+  "published_at": "2026-11-09T05:00:00.000Z",
+  "fetched_at": "2026-11-09T09:47:25.326784+00:00"
  }
 }

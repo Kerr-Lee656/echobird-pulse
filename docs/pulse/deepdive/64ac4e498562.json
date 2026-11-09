@@ -1,0 +1,24 @@
+{
+ "id": "64ac4e498562",
+ "url": "https://www.aibase.com/news/32160",
+ "title": "国产 AI 迎来高光时刻：千问 Qwen4 跑分首度超越 Opus 5.5，极高性价比成最大杀手锏",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-09T01:17:26.062Z",
+ "fetched_at": "2026-11-09T09:43:44.126935+00:00",
+ "content": "News on November 8: As a new wave of Chinese AI large models enters the final countdown to release, core benchmark scores for Alibaba's Qwen4 series have recently been revealed ahead of time. In a specialized creativity evaluation for game development, some models in the series successfully surpassed the top overseas model Opus5.5, showing a remarkable pace of technological catch-up.\nGame Development Creativity Benchmark Scores Revealed: Flash Successfully Surpasses Opus5.5\nThe benchmark revealed this time is not a traditional general-purpose large model benchmark, but a creativity assessment project focused on game development called GameFeel Bench.\nTest data shows that the lightweight Qwen4-Flash scored 49.9 points, successfully surpassing Opus5.5xHigh, which scored 47.2. This is also the first time a Chinese large model has surpassed an overseas rival of this caliber in a related benchmark. Meanwhile, the smaller, locally deployable version Qwen4-27B also scored 44.6, performing almost as well as Sonnet5.5, which scored 45.\nUltimate Cost-Effectiveness and a Rich Product Matrix\nIn addition to its performance breakthrough, the Qwen4 series also has a clear advantage in inference usage costs.\nAccording to leaked information, the cost for Qwen4-Flash to complete an equivalent task is only about $0.4, far lower than the $2.6 required by Opus5.5; Qwen4-27B's execution cost is even reduced to $0.16, making it extremely cost-competitive among products in the same tier.",
+ "report": {
+  "summary": "千问Qwen4在游戏创意评测中首次超越Opus 5.5，成本仅为对方的约六分之一",
+  "background": "过去一年，国产大模型与海外头部模型的差距主要体现在高难度推理和创意任务上，游戏开发这类综合了代码、美术描述和玩法设计的场景，长期是海外闭源模型占优的领域。此次曝光的 GameFeel Bench 把游戏创意作为专门维度，绕开了常规的数学、代码跑分，也让“轻量模型能否打赢旗舰模型”成为焦点。同时，推理成本的竞争正取代参数规模竞争，成为厂商新的比拼重点；Qwen4 系列从 Flash 到可本地部署的 27B 全线铺开，正是这一趋势的体现。需要注意，这些数据目前来自发布前的泄露，还需要第三方复现。",
+  "key_points": [
+   "轻量版 Qwen4-Flash 在 GameFeel Bench 拿到 49.9 分，高于 Opus5.5xHigh 的 47.2 分，这是国产模型首次在该类创意评测中反超海外头部模型",
+   "可本地部署的小尺寸 Qwen4-27B 拿到 44.6 分，与 Sonnet5.5 的 45 分基本持平，说明小模型的能力密度明显提升",
+   "成本差距是最关键的因素：同等任务下，Qwen4-Flash 约 0.4 美元，Opus5.5 约 2.6 美元，27B 版本更是低至 0.16 美元",
+   "从 Flash、27B 到更大尺寸，Qwen4 形成覆盖云端调用和私有化部署的完整产品矩阵，兼顾性能与合规需求",
+   "评测聚焦“游戏开发创意”，属于真实生产型任务，比传统刷题式基准更贴近开发者的实际体验，但单一榜单仍不足以代表综合能力"
+  ],
+  "impact": "对行业而言，这意味着竞争焦点从“谁的分数最高”转向“同等效果下谁更便宜”，价格战会进一步压缩闭源旗舰模型的溢价空间。对开发者来说，低成本轻量模型让多智能体、长链路和批量生成等以前负担不起的做法变得可行，本地 27B 还打开了数据不出内网的私有化方案。对普通用户，游戏、视频等创意工具的成本下降会带来更便宜、更快的生成体验；但泄露分数仍需冷静看待，实际效果要以真实项目验证。",
+  "tools": "想跟进可关注 Qwen 开源权重（Hugging Face/ModelScope），用 vLLM 或 SGLang 部署 27B 做本地测试，云端可走阿里云百炼或 OpenRouter 调用 Flash 版对比成本；在 IDE 侧可接入 Cline、Continue 等插件做游戏逻辑与代码生成实测，并用自建任务集复现 GameFeel 类创意评测。"
+ },
+ "lang": "zh"
+}

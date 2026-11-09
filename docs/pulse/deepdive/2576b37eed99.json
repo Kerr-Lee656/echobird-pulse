@@ -1,0 +1,24 @@
+{
+ "id": "2576b37eed99",
+ "url": "https://www.aibase.com/news/32163",
+ "title": "新版 Siri 跳票两年后，苹果 AI 主帅动了离职念头",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-09T01:17:26.062Z",
+ "fetched_at": "2026-11-09T09:43:17.932469+00:00",
+ "content": "In the November 8 update of his \"Power On\" newsletter, Bloomberg's Mark Gurman reported that Mike Rockwell, who led the development of the Vision Pro headset and then took on the leadership of the new Siri AI project, is still seriously considering leaving his current role.\nHe may step down as VP of Siri engineering as early as next year, or even leave Apple entirely. The new Siri was delayed by a full two years before it barely made it to market, and Rockwell was a key driving force behind it—the new version, originally envisioned to deeply embed AI into the system, was dragged by him all the way out of the quagmire of delays and into the spotlight. If someone who personally pushed the product to launch turns and leaves, it would undoubtedly be another heavy blow to Apple's AI business, which is already lagging behind.\nThe succession chessboard has quietly been set If Rockwell does leave or change roles, the baton will most likely be passed to two people: Amar Subramanya, recruited from Google last year to focus on strengthening the AI business, and Sebastien Marineau, a deputy to Federighi. Many internally believe that Marineau is expected to succeed Federighi as head of software engineering in the future. He is also more proactive about AI, and his team is focused on integrating AI into the iOS system, with a noticeably more aggressive pace than his predecessor.\nHowever, this game is far from the point of making a move—Federighi has led software engineering for more than a decade and firmly holds control. He has neither put successor training on the agenda nor established a clear succession arrangement, so potential successors naturally have fewer windows to compete for the opportunity. At this critical juncture as Siri regroups, an undercurrent of personnel changes is quietly rewriting Apple AI's chain of command.",
+ "report": {
+  "summary": "新Siri跳票两年才上市，负责人Rockwell被曝考虑离职",
+  "background": "苹果去年推出的 Apple Intelligence 中，全新 Siri 原计划深度嵌入系统级 AI，结果经历约两年延期才勉强面世。期间苹果对 AI 团队做过多轮重组，原本负责 Vision Pro 的 Mike Rockwell 接手 Siri 工程，成为把项目拖出延期困局的关键人物。彭博社 Mark Gurman 在 11 月 8 日的 Power On 通讯中称，Rockwell 仍在认真考虑离职，最早明年卸任 Siri 工程副总裁甚至离开苹果。此时 Siri 正处在重整阶段，苹果 AI 整体已落后于谷歌、OpenAI 等对手。",
+  "key_points": [
+   "Rockwell 是 Vision Pro 的核心负责人，后来转去负责新 Siri 工程，被看作是把延期两年的项目推到发布的关键推手。",
+   "据 Gurman 消息，他可能最早明年卸任 Siri 工程副总裁，甚至彻底离开苹果，目前仍在认真权衡中。",
+   "潜在接班人有两位：去年从谷歌挖来负责强化 AI 业务的 Amar Subramanya，以及 Federighi 的副手 Sebastien Marineau。",
+   "Marineau 被内部看好未来接替 Federighi 掌管软件工程，且推进 AI 更激进，团队主攻把 AI 整合进 iOS 系统。",
+   "但 Federighi 掌舵软件工程十余年，既未把接班人培养提上日程，也未做明确安排，继任者竞争窗口有限。"
+  ],
+  "impact": "对苹果而言，Siri 刚重整就出现核心人物动摇，会进一步拉长 Apple Intelligence 的兑现周期，也让外界更质疑其 AI 执行力。对 AI 行业，这说明即便是苹果，把大模型塞进系统级语音助手也比预期难得多，巨头与创业公司的差距可能继续拉大。对开发者，Siri 能力路线不确定意味着 App Intents 等集成方案要观望。对普通用户，更聪明的新 Siri 上线时间和体验可能继续打折。",
+  "tools": "想跟进可关注苹果 Foundation Models 框架、App Intents 与 Shortcuts 的 AI 集成能力，以及 Apple Intelligence 的开发者接口；想做对比实验，可用 Ollama 加本地模型，或在 Home Assistant 里接入大模型，体验语音助手的系统级集成路径。"
+ },
+ "lang": "zh"
+}
