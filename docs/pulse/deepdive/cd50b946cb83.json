@@ -1,0 +1,24 @@
+{
+ "id": "cd50b946cb83",
+ "url": "https://www.aibase.com/news/32191",
+ "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-10T03:52:49.738Z",
+ "fetched_at": "2026-11-10T12:34:48.448037+00:00",
+ "content": "Apple has quietly opened a paid path into Apple Intelligence. According to 9to5Mac on November 9, Apple has begun selling a paid expansion plan for some AI features called the \"Smart Usage Pack,\" with Logic Pro the first to roll it out.\nLogic Pro Leads the Way: One-Time Purchase Covers a Full Year\nPriced at $49.99 (about RMB 334), the plan does not follow the usual monthly subscription route. Users buy a 12-month usage pack that only starts being consumed after the monthly base allowance runs out, and unused amounts can roll over from month to month. Buying it is simple: in the Logic Pro menu bar, go to \"Smart Features\" → \"Show Usage\" → \"Buy More Usage.\" It does not support Family Sharing and is tied only to the iCloud account used at purchase.\nFrom Music Production Software to the Whole Suite\nApple clearly has no intention of using Logic Pro just to test the waters. Foreign media expect this mechanism to roll out to Final Cut Pro, Pixelmator Pro, and the iWork suite under Apple Creator Studio; later it may even spread to cloud-intensive features such as Siri, Image Playground, and photo editing. Basic AI remains free, while heavy creators' extra appetite for generative and creative capabilities is being explicitly priced by Apple.\nCurrently, Creator Studio's monthly smart feature quotas are not generous: 50 images, 250 shapes, 50 presentations, and 700 pages of speaker notes, resetting every month. In eight countries—the U.S., U.K., Germany, France, Canada, Brazil, India, and Mexico—once users hit the cap, they can buy one-time usage packs to keep going; these expire after 12 months.",
+ "report": {
+  "summary": "苹果推出AI用量包：不包月，按需一次性买断，Logic Pro 首试",
+  "background": "自 Apple Intelligence 发布以来，苹果一直以“免费附赠”姿态推广 AI，但生成式功能的算力成本居高不下，加上 Siri 智能化改造多次延期，免费策略难以长期维系。与此同时，整个行业正从“按月订阅”转向更细颗粒度的计费：OpenAI、Anthropic 按 token 计费，Adobe 按“生成积分”收费，创作者对“订阅疲劳”的抵触也在上升。苹果此番在 Logic Pro 中试水，是在不破坏“基础 AI 免费”体验的前提下，为重度创作者设计的一套可预测支出的付费机制：先买一年用量，按月消耗、可累积。",
+  "key_points": [
+   "定价 49.99 美元一次性买断 12 个月额度，仅在每月基础配额用尽后才开始消耗，未用完部分可逐月累积，不自动续费。",
+   "购买入口藏在 Logic Pro 菜单栏“智能功能 → 查看用量 → 购买更多用量”，且不支持家庭共享，仅绑定购买时的 iCloud 账户。",
+   "现有免费额度相当有限：每月 50 张图、250 个形状、50 份演示、700 页演讲者备注，对高频创作者几乎是“不够用”的引导性配额。",
+   "苹果显然不止于试水：外媒预计该机制将扩展至 Final Cut Pro、Pixelmator Pro 及 iWork 套件，长期甚至覆盖 Siri、图像游乐场、照片编辑等云端重负载功能。",
+   "目前仅在美国、英国、德国、法国、加拿大、巴西、印度、墨西哥八国开放购买，用量包 12 个月后过期，呈现明显的分阶段灰度推进策略。"
+  ],
+  "impact": "对 AI 行业而言，苹果把“订阅制”拆成“基础免费 + 用量买断”，为高算力 AI 功能提供了一种不刺激用户反感的变现模板，可能被更多硬件与软件厂商效仿。对开发者来说，这意味着 AI 功能的成本核算从“人头”转向“调用量”，产品设计需更关注额度提示、降级策略与用量透明度。对普通用户，日常轻度使用仍然免费，但“无限 AI”的幻想被打破：想要批量生成、长时间创作，就得像买耗材一样为算力付费。",
+  "tools": "想跟进的读者可关注：Apple Creator Studio 下的 Logic Pro、Final Cut Pro、Pixelmator Pro 与 iWork 套件，实测其额度机制；对比参考 Adobe Firefly 的生成积分、DaVinci Resolve 的免费 AI 功能；开源侧可看 ComfyUI、Stable Diffusion、Whisper 等可本地部署方案，绕开用量计费。"
+ },
+ "lang": "zh"
+}

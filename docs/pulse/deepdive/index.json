@@ -22048,5 +22048,104 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-10T04:07:11.158963+00:00"
+ },
+ "2634d23baa67": {
+  "id": "2634d23baa67",
+  "url": "https://www.techradar.com/pro/google-pushes-ahead-with-plans-for-usd17-billion-wyoming-data-center-despite-us-midterms-dashing-support-for-ai-across-the-us",
+  "title": "Google pushes ahead with plans for $17 billion Wyoming data center despite US midterms dashing support for AI across the US",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T12:33:48.286629+00:00"
+ },
+ "504bcde93bb0": {
+  "id": "504bcde93bb0",
+  "url": "https://www.aibase.com/zh/news/32201",
+  "title": "给失控 AI 智能体装「急刹车」：OpenAI 35 秒熔断机制上线",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-10T12:33:58.870514+00:00"
+ },
+ "8a66967c5ce3": {
+  "id": "8a66967c5ce3",
+  "url": "https://www.aibase.com/zh/news/32194",
+  "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-10T12:34:10.426480+00:00"
+ },
+ "9cb5521481ee": {
+  "id": "9cb5521481ee",
+  "url": "https://www.aibase.com/news/32200",
+  "title": "千问 Qwen4 跑分力压 Opus 5.5，极高性价比展现强劲竞争力",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T03:52:49.738Z",
+  "fetched_at": "2026-11-10T12:34:19.049077+00:00"
+ },
+ "b2f48c3b7748": {
+  "id": "b2f48c3b7748",
+  "url": "https://www.aibase.com/news/32196",
+  "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T03:52:49.738Z",
+  "fetched_at": "2026-11-10T12:34:29.162313+00:00"
+ },
+ "c4d634416f76": {
+  "id": "c4d634416f76",
+  "url": "https://www.aibase.com/news/32193",
+  "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T03:52:49.738Z",
+  "fetched_at": "2026-11-10T12:34:39.617101+00:00"
+ },
+ "cd50b946cb83": {
+  "id": "cd50b946cb83",
+  "url": "https://www.aibase.com/news/32191",
+  "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T03:52:49.738Z",
+  "fetched_at": "2026-11-10T12:34:48.448037+00:00"
+ },
+ "8fe34315099e": {
+  "id": "8fe34315099e",
+  "url": "https://www.aibase.com/news/32189",
+  "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T03:52:49.738Z",
+  "fetched_at": "2026-11-10T12:35:00.548339+00:00"
+ },
+ "b84fab6d1860": {
+  "id": "b84fab6d1860",
+  "url": "https://www.ithome.com/1/024/731.htm",
+  "title": "Adobe 与迪士尼达成多年战略合作，将 AI 工具推广至迪士尼乐园、内容制作领域",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-10T03:26:36Z",
+  "fetched_at": "2026-11-10T12:35:10.447699+00:00"
+ },
+ "e7d9d1552b0e": {
+  "id": "e7d9d1552b0e",
+  "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+  "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-10T03:20:06Z",
+  "fetched_at": "2026-11-10T12:35:21.847752+00:00"
+ },
+ "5ab21819f023": {
+  "id": "5ab21819f023",
+  "url": "https://www.ithome.com/1/024/701.htm",
+  "title": "蚂蚁灵波 LingBot-Touch 触觉基础模型开源，为通用大脑接入“手感”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-10T02:46:47Z",
+  "fetched_at": "2026-11-10T12:35:31.825740+00:00"
  }
 }

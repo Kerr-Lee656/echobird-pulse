@@ -11311,5 +11311,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-09T22:50:55Z",
   "fetched_at": "2026-11-10T04:10:51.296550+00:00"
+ },
+ "231b61ea026f": {
+  "id": "231b61ea026f",
+  "url": "https://www.timeshighereducation.com/news/ai-slop-papers-published-under-prominent-academics-names",
+  "title": "'AI slop' papers published under prominent academics' names",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T12:11:50Z",
+  "fetched_at": "2026-11-10T12:37:07.998613+00:00"
+ },
+ "f321c904268b": {
+  "id": "f321c904268b",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "source": "Google DeepMind",
+  "site_name": "Google DeepMind",
+  "published_at": "2026-11-10T12:02:28.000Z",
+  "fetched_at": "2026-11-10T12:38:00.350157+00:00"
+ },
+ "22e513d5349f": {
+  "id": "22e513d5349f",
+  "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+  "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T10:58:41Z",
+  "fetched_at": "2026-11-10T12:38:30.485437+00:00"
+ },
+ "777234d8a97b": {
+  "id": "777234d8a97b",
+  "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+  "title": "Fireworks.ai Update on October 2026 security incident",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T08:47:00Z",
+  "fetched_at": "2026-11-10T12:38:41.495620+00:00"
  }
 }
