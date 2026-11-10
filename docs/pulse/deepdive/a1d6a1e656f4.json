@@ -1,0 +1,23 @@
+{
+ "id": "a1d6a1e656f4",
+ "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+ "title": "Disney and Adobe are building generative AI tools together",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:05:16.691731+00:00",
+ "content": "The Walt Disney Company has teamed up with Adobe to develop proprietary “artist-led” generative AI models to support Disney’s production pipeline. The multiyear partnership was announced today at Adobe’s MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney’s theme parks and cruise line to ESPN content. Disney and Adobe will also collaborate “to explore emerging technologies, including responsibly developed AI,” according to Adobe’s press release:\nDisney and Adobe are building generative AI tools together\nThe partnership will give Disney ‘early access’ to AI tech for its resorts, cruise line, ESPN graphics, and more.\nWith Adobe Firefly Foundry, Disney will work directly with Adobe on generative AI models tailored to Disney’s properties that are human-centered and artist-led. Customized on Disney properties, these proprietary models are trained on unique world knowledge (character attributes, environments, visual styles) to generate commercially safe and production-ready outputs, while accelerating work and enabling the development of more creative projects.\nThe announcement builds on the existing relationship between the two companies, with Adobe noting that Disney’s Imagineering R&D division is already using the Firefly AI platform for theme park development. Adobe will contribute to “expand internal creative workflows” at Walt Disney Studios and identify how AI can be used to shape ESPN content and “enhance the engagement with sports fans.”\nThis is the latest example of Disney embracing generative AI tools, following a previous deal with OpenAI and involvement with Character.AI’s bankruptcy. Bloomberg reported last week that Disney is gearing up to lay off thousands of staffers and targeting 20 percent annual cost savings, in what’s expected to be its fourth round of job cuts in 2026.",
+ "report": {
+  "summary": "迪士尼与Adobe共建定制生成式AI",
+  "background": "在Adobe MAX大会上，双方宣布多年合作：Adobe向迪士尼提供最新AI技术早期访问，覆盖主题乐园、邮轮、ESPN内容等。合作基于迪士尼Imagineering已使用Firefly的经验，并将通过Firefly Foundry为迪士尼定制模型。此时迪士尼正积极拥抱生成式AI，同时面临裁员与降本压力。",
+  "key_points": [
+   "多年期合作让迪士尼早期访问Adobe最新AI技术，应用范围从主题乐园、邮轮延伸到ESPN图形与内容制作。",
+   "Firefly Foundry将基于迪士尼角色属性、环境和视觉风格训练专有模型，强调商用安全与可直接用于生产。",
+   "双方突出“艺术家主导、以人为本”，目标是加速制作流程、释放创意，而非简单替代创作者。",
+   "合作延续现有关系：迪士尼Imagineering研发部门已在用Firefly开发乐园，未来还会扩展到影视与体育内容。",
+   "迪士尼一边加码AI合作，一边推进裁员和20%年度成本节省目标，显示娱乐巨头正用AI提效。",
+   "可关注Adobe Firefly与Firefly Foundry的企业定制模型、Firefly Services API，以及IP安全微调、风格约束和制作管线集成方案。"
+  ]
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "7cea50907b9a",
+ "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+ "title": "Claude Code settings files expose thousands of secrets on GitHub",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:06:34.335408+00:00",
+ "content": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That’s the finding of AI security researchers at Apiiro, who discovered thousands of secrets, including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories.\nThe leak stems from the way Claude Code handles user approval for automated shell commands. When a user chooses the “Yes, and don’t ask again” option to approve running a command, that choice gets stored as part of a rule in the local “.claude/settings.local.json” file on the user’s computer. That rule is sometimes coded as a pattern, but the command itself is often written to that settings file as is, including any sensitive information that may be embedded within it.\nThis isn’t really a significant security issue if the settings file stays on the user’s local machine (assuming that machine doesn’t become compromised itself, of course). And Anthropic notes in its Claude Code documentation that this particular settings file gets added to the developer’s global .gitignore list, which usually prevents it from being shared publicly.\nBut that .gitignore setting isn’t reflected at the repo level, meaning the sensitive file can be uploaded accidentally if a repo is cloned to another machine or a folder becomes a repo later, for instance. In many cases, Claude Code itself will commit changes to the settings file without the user’s input, Apiiro writes.\nApiiro’s researchers found over 100,000 cases where Claude Code’s local settings file had been uploaded to a public GitHub repository. Of these, only about 1,100 from 63 different organizations contained secrets such as public API tokens, database passwords, or private keys. Even after these files are discovered and removed from a repository, the secrets can persist in forks of the original project if a GitHub user isn’t careful.",
+ "report": {
+  "summary": "Claude Code 本地设置文件误传 GitHub，泄露上千密钥",
+  "background": "AI 编程助手正从提供建议转向直接执行命令、自动提交代码，权限与凭证管理随之成为新的攻击面。安全公司 Apiiro 的研究发现，Claude Code 会把用户批准执行的 shell 命令原文写入本地 .claude/settings.local.json，其中常包含数据库口令、API 令牌和私钥。Anthropic 虽然把该文件加入了全局 .gitignore，但这条规则不作用于仓库层级：无论是仓库被克隆到其他机器，还是文件夹后来才被初始化成 Git 仓库，都可能让该文件绕过忽略规则而被上传到公开仓库。",
+  "key_points": [
+   "用户选择“是，且不再询问”来批准命令时，Claude Code 会把命令原文保存到 .claude/settings.local.json，其中的密码和令牌也随之以明文写入磁盘。",
+   "全局 .gitignore 只在用户机器上生效，仓库级别并不继承；一旦更换机器或目录后重建仓库，这条保护就会失效。",
+   "Apiiro 发现超过 10 万个设置文件被上传至公开仓库，其中约 1100 个来自 63 家机构，含有真实令牌、数据库口令与私钥。",
+   "Claude Code 有时会在用户不知情的情况下自动提交该文件的改动，进一步提高了密钥被误传到公开仓库的概率。",
+   "即使从原仓库删除文件，密钥仍可能残留在他人的 fork 与提交历史中，只删除文件并不足以补救。"
+  ],
+  "impact": "对 AI 行业而言，这暴露了智能体“自动执行、自动提交”默认设计的隐患，权限与隐私的默认值需要重新设计；对开发者而言，须立即检查仓库历史与 fork 并轮换所有暴露凭证，转而用环境变量或密钥管理器注入；对普通用户而言，使用 AI 编程工具时，凭证安全的实际责任已部分转移到工具链，需要更谨慎地授权命令。",
+  "tools": "可用 gitleaks、TruffleHog、GitHub Secret Scanning 扫描历史提交；用 1Password CLI、direnv 或 .env 注入密钥；在 Claude Code 的 permissions.deny 中限制敏感命令，并核对仓库级 .gitignore。"
+ },
+ "lang": "zh"
+}

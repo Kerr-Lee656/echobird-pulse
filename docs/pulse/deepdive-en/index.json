@@ -11266,5 +11266,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-09T18:24:38Z",
   "fetched_at": "2026-11-09T20:46:25.981154+00:00"
+ },
+ "bf679c28a6a5": {
+  "id": "bf679c28a6a5",
+  "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+  "title": "Australia to introduce mandatory incident reporting after OpenAI hack",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T03:31:12Z",
+  "fetched_at": "2026-11-10T04:07:52.248199+00:00"
+ },
+ "e7d9d1552b0e": {
+  "id": "e7d9d1552b0e",
+  "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+  "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "source": "Hacker News (25pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T03:20:06Z",
+  "fetched_at": "2026-11-10T04:08:39.179238+00:00"
+ },
+ "f135716141c4": {
+  "id": "f135716141c4",
+  "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+  "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T02:34:41Z",
+  "fetched_at": "2026-11-10T04:09:15.614324+00:00"
+ },
+ "7f7db7d241d3": {
+  "id": "7f7db7d241d3",
+  "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+  "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T00:22:45Z",
+  "fetched_at": "2026-11-10T04:09:58.184740+00:00"
+ },
+ "5821a1055f2b": {
+  "id": "5821a1055f2b",
+  "url": "https://programmiere.de/writing/software-vs-model-local-rag/",
+  "title": "A 9B with an agentic search loop beat a 35B MoE with one-shot retrieval",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-09T22:50:55Z",
+  "fetched_at": "2026-11-10T04:10:51.296550+00:00"
  }
 }

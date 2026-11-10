@@ -1,0 +1,24 @@
+{
+ "id": "1691307e7e6b",
+ "url": "https://thenextweb.com/news/nominal-series-c-240m-3b-valuation-hardware-ai",
+ "title": "Nominal raises $240M at $3B, tripling its value since March",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:06:15.870817+00:00",
+ "content": "Nominal, whose software helps engineers test and analyse hardware such as aircraft, satellites and robots, has raised $240M in a Series C round at a $3B valuation. Lightspeed Venture Partners led the round and Insight Partners co-led it, Nominal announced on Monday.\nThat is triple its valuation in March. Back then, Nominal raised $80M at $1B in a round led by Founders Fund. Nominal told Paayal Zaveri at Bloomberg that its revenue has more than tripled so far this year. Bloomberg linked that growth to a boom in defence technology spending.\nLux Capital, Sequoia, General Catalyst, Founders Fund, Avenir, Salesforce Ventures, M13 and Lockheed Martin Ventures also invested in Nominal’s Series C. So did Red Glass Ventures, PSP Growth and Deployment Capital.\n“Hardware engineering is getting its AI moment, with real operational value that goes far beyond making existing workflows faster,” said Cameron McCord, Nominal’s co-founder and chief executive. “The companies building the world’s most advanced machines have decades of hard-won knowledge in their organizations.”\nFive of the seven largest defence contractors\nMore than 80 commercial and government organisations use Nominal, including five of the seven largest defence contractors, the company says. Its software brings together test data from hardware and the engineering context behind it, such as configurations and earlier experiments. Nominal Analyst, its first AI agent, runs analyses on that data and traces its answers back to the evidence.\nIn a blog post on Monday, Nominal said better AI models alone will not produce better machines. A design can look right on paper and still fail once engineers build and test it.\n“In engineering, physics gets a vote,” the company wrote.\nNominal gives three customer examples. At Anduril Industries, more than 300 engineers use it. Analysis that took five to six hours now happens in near real time. HII cut some analysis tasks from hours to minutes and some production test steps by about half.\nHypersonic aircraft maker Hermeus cut the time between uploading data and reviewing it by 80%. It designed and built its Quarterhorse Mk 1 aircraft in seven months.\nThe US Air Force recently selected Nominal for a $71.2M Strategic Funding Increase (STRATFI). The money supports capability development for Collaborative Combat Aircraft, the uncrewed jets designed to fly alongside piloted fighters.\nAgents, new industries and more acquisitions\nNominal will spend the new money on agents and applications across a machine’s whole life. They range from requirements checks and planning to scheduling and fleet health. It also plans to expand into new industries and regions, including through acquisitions.\nThis year it bought Fid Labs, whose team is building its agents. It also bought Pull Systems, which takes the platform into the car industry. Nominal announced the Pull Systems deal on 6 November.\nNominal started in 2022. Its headquarters are in Austin, and it has offices in Los Angeles, New York, Seattle, Washington, D.C. and London.\n“Over the next five years, companies that effectively bring AI into their engineering workflows will have a real competitive advantage,” McCord said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Nominal C轮融资2.4亿美元，估值达30亿美元",
+  "background": "Nominal成立于2022年，总部位于奥斯汀，帮助工程师测试和分析飞机、卫星、机器人等硬件。其软件整合硬件测试数据与配置、历史实验等工程上下文，并用AI Agent辅助分析。今年3月，该公司刚以10亿美元估值完成8000万美元融资，如今估值翻三倍；其收入年内增长两倍多，增长与国防科技支出热潮相关。目前已有80多家商业和政府机构使用，包括七家最大国防承包商中的五家。",
+  "key_points": [
+   "融资由Lightspeed领投、Insight联合领投，Lux、Sequoia、General Catalyst、Founders Fund及洛克希德·马丁风投等参投，估值较3月翻三倍。",
+   "Nominal定位“硬件工程的AI时刻”：不是只让现有流程更快，而是把测试数据与工程上下文结合，其首个AI Agent“Analyst”可分析数据并追溯答案证据。",
+   "客户效果显著：Anduril有300多名工程师使用，部分分析从5至6小时变为近实时；HII部分任务从数小时降至数分钟；Hermeus数据审查时间减少80%，Quarterhorse Mk 1七个月完成设计制造。",
+   "美国空军选中Nominal参与7112万美元STRATFI项目，支持协同作战飞机能力开发；资金将用于覆盖机器全生命周期的Agent与应用、新行业新区域扩张及收购。",
+   "公司今年收购Fid Labs以推进Agent开发，收购Pull Systems进入汽车行业，显示其从航空航天国防向更多硬件工程场景扩展。"
+  ],
+  "impact": "对AI行业而言，这说明AI正从软件编码和内容生成深入硬件工程与测试，国防科技成为高价值落地场景，估值信号会吸引更多资本关注“工程AI”。对开发者，机会不在单纯模型，而在测试数据整合、工程上下文、可追溯Agent和领域工作流；需要理解物理约束与证据链。对普通用户，更快的硬件迭代可能带来更可靠、更安全的飞机、机器人和车辆，但也需关注国防AI应用的治理与伦理边界。",
+  "tools": "可直接关注Nominal Analyst及其收购的Fid Labs、Pull Systems；开发者可参考实验追踪与数据血缘工具（如MLflow、DVC）理解软件侧实践，并研究Anduril、Hermeus、HII等客户案例。Nominal本身为商业软件，暂无公开开源项目。"
+ },
+ "lang": "zh"
+}

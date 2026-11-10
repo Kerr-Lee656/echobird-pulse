@@ -1,0 +1,24 @@
+{
+ "id": "e8884a0ba45a",
+ "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+ "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:05:27.415626+00:00",
+ "content": "Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet. In its release, Meta said Ember was “designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.”\nMeta particularly emphasized Ember’s cost-per-task, using Artificial Analysis’s composite benchmark score to show Ember as cheaper and smarter than competitors like Anthropic’s Haiku and OpenAI’s Luna.\nAt 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. Not only that, it’s cost-competitive with open source competitors like DeepSeek V4.1 Flash and GLM 5.3 Flash.\nGiven the emphasis on low cost and accuracy at scale, Ember is designed to pair with a larger model like Meta’s Muse Wonder in an agentic harness. In the case of a customer-support agent, for instance, you might see a heavier model establishing rules for how to handle a particular issue, then sending a lighter-weight model to apply the rules across tens of thousands of cases. As Meta puts it in the announcement, “Muse Wonder plans, Muse Ember handles the volume.”\nWith volume-heavy use cases in mind, Meta also trained Ember to work well across different types of media, including text, images, and audio. The result makes the model surprisingly flexible in what kind of inputs it can handle. As Meta puts it in the announcement, “agents can read screenshots, charts, and scanned documents, or work from voice memos, meeting recordings, and video without a separate model.”\nEmber is the fourth model released under Meta’s Muse brand, following the mid-weight Spark (released in April), Spark’s open source twin Glimmer (released in August), and the Wonder frontier model (released in October). The flagship consumer AI product, the Muse Agent, was released in September to unexpected success, with new features like Spaces and video chat rolling out earlier this month.",
+ "report": {
+  "summary": "Meta发布最轻量模型Muse Ember，主打低成本智能体批量执行",
+  "background": "大模型竞争的重心正从「谁最强」转向「每个任务花多少钱」。Meta Superintelligence Lab 用 Muse 品牌搭建分层产品线：4月的 Spark、8月开源的 Glimmer、10月的旗舰 Wonder，以及9月面向消费者的 Muse Agent。Ember 是该系列第四款模型，也是其中体积最小、单位成本最低的一款，补上了「大模型负责规划、小模型负责批量执行」这一分工中的执行端，直接对标 Anthropic Haiku、OpenAI Luna 以及 DeepSeek、GLM 的 Flash 系列。",
+  "key_points": [
+   "定价激进：每百万输入 token 仅 10 美分，Meta 用 Artificial Analysis 综合基准的「单任务成本」做对比，声称比 Haiku、Luna 更便宜也更聪明，价格与 DeepSeek、GLM 的 Flash 版接近。",
+   "定位明确：不追求深度推理，专攻智能体全天重复的琐碎工作，包括工具调用、编码子任务、请求路由、结构化抽取和长文档解析。",
+   "配对使用：与旗舰 Muse Wonder 组成 agent 流水线，由重模型制定规则和计划，Ember 把规则套用到数万级案例上，即「Wonder 规划，Ember 扛量」。",
+   "原生多模态：训练时即覆盖文本、图像、音频，可直接读截图、图表、扫描件、语音备忘和会议录像，不必再外挂一个模型做预处理。",
+   "产品矩阵成型：Muse 品牌已有四款模型，消费端 Muse Agent 上线后表现超预期，本月还推出了 Spaces 和视频通话功能。"
+  ],
+  "impact": "对行业而言，这标志着「前沿能力」与「量产执行」正式分层，模型厂商的竞争指标从跑分转向单位任务成本，价格战将向智能体场景蔓延。对开发者，接入门槛大幅降低，但架构设计能力变得更重要：如何把任务拆给大小两个模型、如何做路由与校验，直接决定成本与效果。对普通用户，客服、文档处理、会议纪要这类高频 AI 功能的响应会更快、更便宜，背后的模型切换基本无感。",
+  "tools": "想跟进可关注 Artificial Analysis 的性价比榜单做横向对比；工程上可用 LiteLLM、OpenRouter 这类路由层实现大小模型分流，本地部署参考 vLLM；Meta 开源的 Glimmer 适合做低成本替代方案，DeepSeek V4.1 Flash、GLM 5.3 Flash 可作价格对照组。"
+ },
+ "lang": "zh"
+}

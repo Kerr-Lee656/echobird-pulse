@@ -1,0 +1,24 @@
+{
+ "id": "e4f50bb7674b",
+ "url": "https://thenextweb.com/news/nvidia-gr00t-2-robots-human-video-corl",
+ "title": "Nvidia’s GR00T 2 teaches robots delicate skills from human video",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:06:24.775952+00:00",
+ "content": "Nvidia unveiled GR00T 2, an open AI model that helps robots learn delicate hand skills, trained partly on 100,000 hours of human video. It reached 95% average success with five demonstrations per task in Nvidia’s tests. Foxconn, Siemens and Nexuni are testing it.\nNvidia has unveiled GR00T 2, an AI model that helps robots learn delicate hand skills partly by watching videos of people, the company said on Monday. It announced the model at the Conference on Robot Learning in Austin, Texas.\nNvidia calls GR00T 2 an open “world action model,” one that predicts how its actions will change what it sees before it moves.\nIt was trained on robot data and human video, including 100,000 hours of first-person footage that Nvidia is releasing for anyone to use. That lets robots learn skills from people and pass them between robots with different bodies, Nvidia says. Startups such as Maxinsights pay people to film their chores for the same purpose.\nIn Nvidia’s tests, GR00T 2 did 40 of 50 tasks at least once with no training for the task. Shown a task once, it succeeded 71% of the time on average, and 95% when shown five times. Nvidia’s own paper notes those tasks were picked from ones the model could already learn well.\nFoxconn, which now earns most of its revenue from AI servers, is using GR00T 2 to help build them. Siemens is testing it for factory work and Nexuni is trying it for laundry. None has said it will use it in production yet.\nNvidia also released Isaac Lab 3.0, its open-source tool for training robots in simulation. It says the tool trains up to 2.5 times faster on one test. Partners include Walden Robotics, which launched with $300M in July.\n“To me, agentic robotics is the most exciting technological development since the internet in 1995,” said Ken Goldberg, a robotics professor at UC Berkeley who worked with Nvidia on two of the projects.\nEarlier GR00T models already underpin robots in development, including LG’s humanoid due in 2027. Siemens has also tested an Nvidia-powered humanoid on an eight-hour factory shift.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Nvidia发布开源机器人模型GR00T 2，靠看人类视频学会精细手部操作",
+  "background": "机器人长期受“数据荒”困扰：真实操作数据采集成本高、难以规模化。Nvidia 此前已推出 GR00T 系列人形机器人基础模型，并押注“仿真+视频预训练”路线。此次在 CoRL 大会上发布的 GR00T 2 属于“世界动作模型”，在动作前先预测动作会如何改变视野，从而提升精细操作稳定性；训练数据混合机器人数据与 10 万小时第一人称人类视频，且该数据集公开。同期机器人学习赛道热度上升，数据众包公司（如 Maxinsights）也在付费收集家务视频，视频正成为机器人训练的新“石油”。",
+  "key_points": [
+   "GR00T 2 是开源的“世界动作模型”，会先预测自己动作带来的画面变化，再决定怎么动手，因此更适合拧、插、叠等精细活。",
+   "它靠看人类第一人称视频学习，并把技能迁移到不同形态的机器人之间；Nvidia 同时公开 10 万小时视频数据供任何人使用。",
+   "测试成绩亮眼但需留意前提：单次示范后平均成功率 71%，五次示范达 95%；50 个任务中有 40 个零样本完成，Nvidia 论文承认这些任务是模型本就能学好的。",
+   "富士康用它辅助 AI 服务器生产，西门子试工厂作业，Nexuni 试洗衣场景，但三家均未承诺投产。",
+   "配套开源仿真训练工具 Isaac Lab 3.0 同步发布，单项测试训练速度最高提升 2.5 倍，降低开发者自建数据管线的门槛。"
+  ],
+  "impact": "对 AI 行业而言，视频预训练加仿真训练正成为具身智能的主要技术路线，Nvidia 试图把“模型+仿真+数据”打包成机器人时代的 CUDA 生态。开发者可直接拿到开源模型、10 万小时视频与更快的仿真工具，试错成本大幅降低，但真实产线可靠性仍待验证。普通用户短期感受不到变化，中期可能看到工厂分拣、洗衣折叠等重复劳动先被渗透，人形机器人进家庭仍需数年。",
+  "tools": "可关注：GR00T 2 开源权重与 10 万小时第一人称视频数据集（适合做预训练或微调）；Isaac Lab 3.0（开源仿真训练，速度快）；配合 Isaac Sim 做仿真到现实迁移。想低成本上手，可先用开源机器人框架 LeRobot 采集少量真实示范，再验证 GR00T 2 的少样本迁移能力。"
+ },
+ "lang": "zh"
+}

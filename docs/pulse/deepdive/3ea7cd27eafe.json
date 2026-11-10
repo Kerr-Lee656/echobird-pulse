@@ -1,0 +1,24 @@
+{
+ "id": "3ea7cd27eafe",
+ "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
+ "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T04:05:52.071687+00:00",
+ "content": "Nearly a year ago, Waymo updated its self-driving software and issued a recall after numerous reports that its robotaxis were illegally passing school buses that had stopped and deployed flashing red lights. Now, federal safety regulators have opened a new investigation into why that behavior has continued.\nThe National Highway Traffic Safety Administration (NHTSA) said in a November 6 filing that a majority of these reported incidents occurred after the company deployed a software update intended to fix the problem.\nReuters was the first to report the filing.\nWaymo said last year that a software update was completed for all affected vehicles on November 17, 2025. However, NHTSA said the majority of the incidents occurred after the software update. NHTSA’s Office of Defects Investigation (ODI) has opened a “recall query” to “assess the adequacy of the remedy.”\nThe ODI opened its initial investigation into Waymo in October 2025 after seeing footage of one of its autonomous vehicles maneuvering around a stopped school bus that had its stop sign extended, lights flashing, and was unloading children in Atlanta. In that incident, a Waymo robotaxi crossed perpendicularly in front of the school bus from its right side. The autonomous vehicle then turned left around the front of the bus before traveling down the street.\nNumerous other incidents have been documented in the weeks and months since in Austin, where Waymo also operates a robotaxi service. Austin Independent School District officials reported at least five such incidents at the time, according to a letter filed with NHTSA.\nReached for comment, Waymo stressed the importance of safety to its mission. “We have made significant improvements to vehicle behavior around school buses and have received no citations since March 2026,” a spokesperson told TechCrunch via email. “The Waymo Driver has a clearly demonstrated positive impact on roadway safety. Once received, we’ll work to respond to NHTSA’s query and look forward to continuing our engagement on recall processes for AV software that continues to learn and improve.”\nTechCrunch also reached out to Austin Independent School District officials for comment and will update the article if they respond.\nThis article was updated after publication with Waymo’s statement.",
+ "report": {
+  "summary": "Waymo软件修复后仍违规超越校车，NHTSA再查",
+  "background": "在美国，校车停靠并展开停车标志、闪烁红灯时，其他车辆必须停车等待。Waymo robotaxi此前多次被曝非法超越校车，公司于2025年11月对受影响车辆推送软件更新并发起召回。但NHTSA在11月6日文件中指出，多数报告事件仍发生在更新之后，因此启动“召回查询”，评估Waymo补救措施是否充分。这反映自动驾驶软件召回后的有效性验证正成为监管焦点。",
+  "key_points": [
+   "NHTSA新开的是“召回查询”，重点不是原始违规，而是评估Waymo此前的软件修复是否真正解决校车场景安全问题。",
+   "监管文件称，多数违规超越校车事件发生在2025年11月17日软件更新之后，说明修复效果与预期存在明显差距。",
+   "初始调查源于亚特兰大一段视频：Waymo车辆绕过已停靠、闪红灯并下客的校车；奥斯汀学区也报告至少5起类似事件。",
+   "Waymo回应称已显著改善校车周边行为，自2026年3月以来未收到传票，并表示将配合NHTSA回应查询。",
+   "事件核心是自动驾驶“软件召回”的验证难题：车辆持续学习升级，监管需确认长尾安全场景是否被稳定覆盖。"
+  ],
+  "impact": "对AI行业，监管将更关注自动驾驶软件召回后的实际效果，而非仅看更新声明，可能影响robotaxi扩张节奏。对开发者，校车停靠等长尾场景需要更强仿真测试、版本监控和回归验证，软件“持续学习”也需可审计。对普通用户，事件会削弱对无人车安全性的信任，但Waymo目前仍在运营，短期更可能带来更严格审查而非立即停运。",
+  "tools": "可关注NHTSA ODI召回查询与Waymo安全报告；技术上可用CARLA、SUMO复现校车停靠场景，结合nuScenes或Waymo开放数据集做感知与决策验证。"
+ },
+ "lang": "zh"
+}

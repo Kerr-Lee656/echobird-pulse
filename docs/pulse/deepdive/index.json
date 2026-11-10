@@ -21931,5 +21931,122 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-09T08:02:09Z",
   "fetched_at": "2026-11-09T20:43:44.635417+00:00"
+ },
+ "99d4b3f254de": {
+  "id": "99d4b3f254de",
+  "url": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention",
+  "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:04:55.467268+00:00"
+ },
+ "efd9e0f721ba": {
+  "id": "efd9e0f721ba",
+  "url": "https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia",
+  "title": "Google Unveils Two New Specialized AI Chips to Widen Its Challenge to Nvidia",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:05:06.217045+00:00"
+ },
+ "a1d6a1e656f4": {
+  "id": "a1d6a1e656f4",
+  "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "title": "Disney and Adobe are building generative AI tools together",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:05:16.691731+00:00"
+ },
+ "e8884a0ba45a": {
+  "id": "e8884a0ba45a",
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:05:27.415626+00:00"
+ },
+ "48b9783d0be5": {
+  "id": "48b9783d0be5",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+  "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:05:41.047665+00:00"
+ },
+ "3ea7cd27eafe": {
+  "id": "3ea7cd27eafe",
+  "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
+  "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:05:52.071687+00:00"
+ },
+ "fd316b3f702f": {
+  "id": "fd316b3f702f",
+  "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+  "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:03.467113+00:00"
+ },
+ "1691307e7e6b": {
+  "id": "1691307e7e6b",
+  "url": "https://thenextweb.com/news/nominal-series-c-240m-3b-valuation-hardware-ai",
+  "title": "Nominal raises $240M at $3B, tripling its value since March",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:15.870817+00:00"
+ },
+ "e4f50bb7674b": {
+  "id": "e4f50bb7674b",
+  "url": "https://thenextweb.com/news/nvidia-gr00t-2-robots-human-video-corl",
+  "title": "Nvidia’s GR00T 2 teaches robots delicate skills from human video",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:24.775952+00:00"
+ },
+ "7cea50907b9a": {
+  "id": "7cea50907b9a",
+  "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+  "title": "Claude Code settings files expose thousands of secrets on GitHub",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:34.335408+00:00"
+ },
+ "5e08e75d6d5e": {
+  "id": "5e08e75d6d5e",
+  "url": "https://time.com/article/2026/11/09/sama-ai-data-liquidates-lawsuits-meta",
+  "title": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
+  "source": "TIME Magazine",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:48.411659+00:00"
+ },
+ "5d497975e484": {
+  "id": "5d497975e484",
+  "url": "https://www.qbitai.com/2026/11/507843.html",
+  "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:06:59.192982+00:00"
+ },
+ "c8de553d48ef": {
+  "id": "c8de553d48ef",
+  "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+  "title": "字节跳动发布 Seedream 5.5，上线豆包、豆包工作、即梦",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-10T04:07:11.158963+00:00"
  }
 }
