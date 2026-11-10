@@ -1,0 +1,23 @@
+{
+ "id": "51b0053b2ee1",
+ "url": "https://thenextweb.com/news/siemens-acquires-lauterbach-trace32-eda",
+ "title": "Siemens to buy chip debugging specialist Lauterbach to grow its EDA unit",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-10T20:47:55.352643+00:00",
+ "content": "Siemens has agreed to buy Lauterbach, a German company that makes tools for finding and fixing bugs in chips and the software that runs on them, but the price was not disclosed.\nFounded in 1979 by brothers Lothar and Stephan Lauterbach, the company is based in Höhenkirchen, near Munich. It employs about 170 people and made around €60m in revenue last year.\nLauterbach is best known for TRACE32, a range of debugging and tracing tools. Engineers use them to see what is happening inside a chip as its software runs, and to track down errors. The company has more than 1,200 customers, mostly in the car, chip and telecoms industries.\nThe deal will become part of Siemens’ electronic design automation (EDA) business, which sells software for designing and testing chips. Siemens built that business mainly through its purchase of Mentor Graphics in 2017.\nSiemens already sells hardware systems that imitate a chip before it is made, so that designers can test it early. By adding Lauterbach’s tools, it wants to let customers check the chip and its software together. As a result, they could start writing and testing software before the physical chip exists, and find problems sooner.\nThis matters more as chips and software become harder to separate. Cars, for example, are increasingly controlled by software, while AI and connected devices need chips and code designed side by side.\nCedrik Neike, who heads Siemens’ Digital Industries division, said semiconductors are a core part of the company’s technology strategy. The deal, he said, would let customers test and improve their products before the chip is made.\n“With Lauterbach, we are further extending our industry-leading EDA portfolio for semiconductor design by bringing together our premier hardware-assisted verification portfolio with its industry-leading software debugging technologies,” said Cedrik Neike, Member of the Managing Board of Siemens AG and President of Digital Industries.\nFor its part, Lauterbach said its customer focus would stay the same.\n“Our commitment to keeping our customers at the center of everything we do remains unchanged,” said Stephan Lauterbach, the company’s co-founder and chief technology officer.\nHe and Thomas Ullmann will stay on at Siemens once the deal is completed. Siemens also expects the deal to bring significant extra sales.\nThe acquisition is expected to close in the first half of 2027, subject to regulatory approval. Besides Germany, Lauterbach has offices in the UK, Italy, France, Tunisia, the US, Japan and China.\nThe deal adds to Siemens’ growing push into chips and industrial AI. Elsewhere, the company has been testing humanoid robots with Nvidia at its own factory in Erlangen.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "西门子收购Lauterbach，补强芯片软件调试EDA",
+  "background": "西门子2017年收购Mentor Graphics建立EDA业务，已有硬件辅助验证与仿真能力，可在芯片流片前测试。Lauterbach以TRACE32调试与追踪工具闻名，客户集中在汽车、芯片和通信行业。随着软件定义汽车、AI与互联设备发展，芯片与软件需协同设计，调试边界不断前移。此次收购把硬件验证与软件调试结合，交易预计2027年上半年完成，价格未披露。",
+  "key_points": [
+   "收购对象Lauterbach成立于1979年，约170名员工，去年收入约6000万欧元；其TRACE32用于查看芯片内部运行并定位错误。",
+   "西门子将其并入EDA业务，与芯片仿真和硬件辅助验证互补，让客户在实体芯片出现前联合测试芯片与软件。",
+   "需求驱动来自汽车、AI和互联设备：软硬件越来越难分割，早期发现集成缺陷可缩短周期并降低风险。",
+   "交易价格未披露，需监管批准，预计2027年上半年完成；创始团队留任，并承诺客户中心不变。"
+  ],
+  "impact": "对AI行业，EDA巨头整合调试与追踪能力，强化软硬件协同验证，利好AI芯片和软件定义汽车。对开发者，工具链可能更紧耦合，早期软件开发与调试更便利，但需关注供应商锁定和成本。对普通用户，产品上市可能更快、缺陷更少，汽车与智能设备可靠性有望提升。",
+  "tools": "可关注Lauterbach TRACE32调试与追踪工具、西门子EDA的Veloce硬件辅助验证/仿真平台，以及Mentor/Siemens EDA工具链；嵌入式开发者可了解JTAG、ETM trace和软硬件协同验证流程。"
+ },
+ "lang": "zh"
+}

@@ -22147,5 +22147,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-10T02:46:47Z",
   "fetched_at": "2026-11-10T12:35:31.825740+00:00"
+ },
+ "b61ba34289d3": {
+  "id": "b61ba34289d3",
+  "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol",
+  "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T20:47:45.611121+00:00"
+ },
+ "51b0053b2ee1": {
+  "id": "51b0053b2ee1",
+  "url": "https://thenextweb.com/news/siemens-acquires-lauterbach-trace32-eda",
+  "title": "Siemens to buy chip debugging specialist Lauterbach to grow its EDA unit",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T20:47:55.352643+00:00"
+ },
+ "c7f536334e3c": {
+  "id": "c7f536334e3c",
+  "url": "https://thenextweb.com/news/australia-plans-ai-safety-regulator-after-openai-agent-breach",
+  "title": "Australia plans AI safety regulator after OpenAI agent breach",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-10T20:48:03.602244+00:00"
+ },
+ "973a673ed0c1": {
+  "id": "973a673ed0c1",
+  "url": "https://www.qbitai.com/2026/11/508996.html",
+  "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-10T20:48:16.781998+00:00"
+ },
+ "4c4b6ec4594c": {
+  "id": "4c4b6ec4594c",
+  "url": "https://www.aibase.com/news/32209",
+  "title": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-10T11:56:09.268Z",
+  "fetched_at": "2026-11-10T20:48:31.599642+00:00"
+ },
+ "09399cc4a52a": {
+  "id": "09399cc4a52a",
+  "url": "https://www.ithome.com/1/025/127.htm",
+  "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-10T11:40:20Z",
+  "fetched_at": "2026-11-10T20:48:51.548789+00:00"
+ },
+ "e69bcf57b9c8": {
+  "id": "e69bcf57b9c8",
+  "url": "https://www.ithome.com/1/025/122.htm",
+  "title": "号称行业首个具身全模态端到端交互大模型，智元发布 WITA-Omni",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-10T11:24:05Z",
+  "fetched_at": "2026-11-10T20:49:00.295761+00:00"
  }
 }
