@@ -1,0 +1,24 @@
+{
+ "id": "08b8f8b187d2",
+ "url": "https://it.slashdot.org/story/26/11/10/2156247/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chats",
+ "title": "Fireworks AI Confirms Wider Breach Affecting Notion AI Chats",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-11T09:18:40.604533+00:00",
+ "content": "Fireworks AI Confirms Wider Breach Affecting Notion AI Chats 13\n\t\t\t\n\t\t \t\n\t\t\t\tFireworks AI says its October breach was broader than initially disclosed, with attackers gaining access to customer account and billing information as well as some datasets, incomplete model weights and secrets. Notion, the popular productivity and note-taking app, disclosed that it was impacted in the breach but \"fewer than 1% of Notion workspaces\" were involved. \"Upon analysis of the new data, we discovered that it included Notion AI chat transcripts used for the Insights feature, which for the vast majority of impacted workspaces were unattributable,\" it said. \"'Unattributable' means the chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain tool call results.\" The Hacker News reports:  In a notice published on October 10, 2026, [Fireworks AI] said it detected unauthorized use of internal Fireworks credentials that allowed an unauthorized third-party to access environment variables used in evaluation jobs in a limited number of customer accounts. The activity was detected on October 6, 2026, at 9 a.m. PDT. [...] The latest bulletin from the company reveals that the scope of the breach may have been broader than previously thought. The company said attackers reached its development environment via an unnamed third-party cloud provider that hosted Fireworks research and development (R&D) machines on October 23, 2026.\n\"On October 24, the unauthorized third party used it to reach Fireworks development machines and then run an unauthorized workload that led to additional customer data impact,\" it added. \"As of October 25, we have not detected further evidence of successful unauthorized access by the threat actor on the Fireworks platform customers use.\" The breach is said to have provided access to the following types of information: [Resource metadata; Billing information; and Model weights and datasets]. Fireworks AI said payment card numbers are not stored by the company and were not impacted by the security incident. It also said it's alerting customers whose data was impacted.",
+ "report": {
+  "summary": "Fireworks AI 泄露范围扩大，波及 Notion AI 聊天记录",
+  "background": "Fireworks AI 是提供模型推理、微调与评估服务的基础设施厂商，大量企业把自家数据和模型权重托管其上，Notion AI 的 Insights 功能就曾用其跑评估。2026 年 10 月 6 日，公司首次发现内部凭证被滥用，10 月 10 日发布通报，当时只承认“少量客户账号的环境变量”泄露。随后的复盘发现，攻击者早在 10 月 23 日就借一家未点名的第三方云厂商，打入 Fireworks 的研发机器，并运行了未授权负载，使影响面进一步扩大。这说明 AI 推理与评估这类中间层，正在变成新的数据聚合风险点。",
+  "key_points": [
+   "攻击路径是“第三方云厂商 → 研发机器 → 开发环境 → 客户数据”。Fireworks 承认，攻击者利用托管其 R&D 机器的云服务商作为跳板，在 10 月 24 日运行未授权负载，直接造成额外的客户数据受影响。",
+   "泄露内容比最初披露的更广：除环境变量外，还包括资源元数据、账单信息、部分数据集、不完整的模型权重以及密钥。公司强调不存储支付卡号，因此卡号未受影响。",
+   "Notion 确认受牵连，但涉及范围不到全部工作区的 1%。外泄的是用于 Insights 功能的 Notion AI 聊天记录；这些记录大多“无法归属”，即不带作者和 workspace 标签，也不含工具调用结果。",
+   "时间线显示披露滞后：10 月 6 日发现异常，10 月 10 日首次通报，10 月 23–25 日才查清更大范围，直到 10 月 25 日公司才表示未再发现新的入侵迹象，目前已开始逐一通知受影响客户。",
+   "这一事件暴露了 AI 供应链的普遍隐患：用户与 AI 的对话记录，会在厂商不知情的情况下被送到第三方评估流程中流转；一旦中间商被攻破，终端应用（如 Notion）也会被动成为“二次披露方”。"
+  ],
+  "impact": "对 AI 行业：推理、评测类中间商成为新的高风险环节，客户数据在“跑评估”时跨组织流动的情况会被重新审视，合同中的数据最小化与审计条款将收紧。对开发者：需要立即轮换 API key 与 secret，并假设模型权重和评测数据集可能已外泄，重新评估自建与托管的边界。对普通用户：你与 AI 的对话可能被第三方处理，企业管理员应排查工作区是否启用相关功能，并关注合规披露。",
+  "tools": "跟进可看 Fireworks AI 安全公告页与 Notion 信任中心的状态更新；自查可用 gitleaks、TruffleHog 扫描仓库密钥，HashiCorp Vault 或云厂商 KMS 做密钥托管轮换，Presidio 对评测数据脱敏，CloudTrail、Datadog 做异常访问审计。"
+ },
+ "lang": "zh"
+}

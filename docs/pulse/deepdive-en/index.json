@@ -11482,5 +11482,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-10T20:53:09Z",
   "fetched_at": "2026-11-11T02:00:33.439159+00:00"
+ },
+ "6b4d43840334": {
+  "id": "6b4d43840334",
+  "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+  "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T08:19:20Z",
+  "fetched_at": "2026-11-11T09:20:53.980514+00:00"
+ },
+ "d1951b7785be": {
+  "id": "d1951b7785be",
+  "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+  "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-11T07:30:51.000Z",
+  "fetched_at": "2026-11-11T09:21:07.164478+00:00"
+ },
+ "011edfac0a63": {
+  "id": "011edfac0a63",
+  "url": "https://arxiv.org/abs/2611.08151",
+  "title": "AI Cracks a Quantum Computing Bottleneck",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T06:46:23Z",
+  "fetched_at": "2026-11-11T09:21:22.299208+00:00"
+ },
+ "b8f62eb36ee3": {
+  "id": "b8f62eb36ee3",
+  "url": "https://aidr.today/aa9b294e?lang=en",
+  "title": "Anthropic Unveils Claude Whiteboards, Claude Sheets, and Claude Data",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T06:25:14Z",
+  "fetched_at": "2026-11-11T09:21:35.154875+00:00"
+ },
+ "d93ff797f5ae": {
+  "id": "d93ff797f5ae",
+  "url": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
+  "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-11T05:47:04.000Z",
+  "fetched_at": "2026-11-11T09:22:06.421638+00:00"
+ },
+ "c30921cb9b00": {
+  "id": "c30921cb9b00",
+  "url": "https://finance.yahoo.com/technology/ai/articles/cognizant-dedicates-more-25-000-113000969.html",
+  "title": "Cognizant dedicates more than 25000 professionals to Claude delivery",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T05:24:38Z",
+  "fetched_at": "2026-11-11T09:22:22.287415+00:00"
+ },
+ "00338f66df64": {
+  "id": "00338f66df64",
+  "url": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
+  "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
+  "source": "Hacker News (8pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T05:16:07Z",
+  "fetched_at": "2026-11-11T09:22:40.014242+00:00"
+ },
+ "3c77492076c4": {
+  "id": "3c77492076c4",
+  "url": "https://pietromiotti.com/latest/maya-site/",
+  "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
+  "source": "Hacker News (6pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T05:09:10Z",
+  "fetched_at": "2026-11-11T09:22:54.028523+00:00"
+ },
+ "166bd6fc9393": {
+  "id": "166bd6fc9393",
+  "url": "https://arxiv.org/abs/2611.12941",
+  "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-11T05:00:00.000Z",
+  "fetched_at": "2026-11-11T09:23:06.600006+00:00"
  }
 }

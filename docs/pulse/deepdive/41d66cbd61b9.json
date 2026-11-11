@@ -1,0 +1,24 @@
+{
+ "id": "41d66cbd61b9",
+ "url": "https://www.ithome.com/1/025/204.htm",
+ "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-10T22:43:46Z",
+ "fetched_at": "2026-11-11T09:19:47.157808+00:00",
+ "content": "IT之家 11 月 11 日消息，Anthropic 今日开始推出 Claude Whiteboards（白板）、Claude Sheets（表格）和 Claude Data（原 Claude Dashboards），把 AI 助手从“聊天问答”进一步推向团队协作工作台，用户可以在白板上梳理计划、在表格中搭建追踪器，并把业务数据变成可共享的仪表盘、数据故事或解说视频。\n三项产品面向所有付费计划提供，支持网页端、桌面端和移动端；其中白板应用 Whiteboards 与表格 Sheets 目前处于测试阶段，Claude Data 则已正式上线。\n官方希望让 Claude 从生成文字、代码或文档，转向直接参与团队的日常协作。Claude Whiteboards 方面，用户可以口头描述一个模糊计划，Claude 会将其整理为包含时间线、负责人和日期的白板，团队成员则可实时在同一块白板上补充想法。会议复盘时，Claude 还能将零散讨论按主题归类，并起草每个人的行动项。\nClaude Sheets 则试图降低制作表格的门槛。用户只需提出“帮我做一个营销活动追踪表”或“招聘预算表”等请求，Claude 即可生成包含多个标签页、公式、格式和下拉菜单的电子表格，并直接在单元格中修改内容。\nClaude Sheets 会清晰标注每一次 AI 修改，便于团队追踪变更；文件也可导出为 .xlsx 或 CSV，或继续在 Airtable、Asana、monday.com、Smartsheet 等工具中处理。\nClaude Data 的定位是让企业数据“会讲故事”。它可连接 Amazon Redshift、BigQuery、ClickHouse、Snowflake、Salesforce 等数据仓库或 CRM，用户提问后可获得仪表盘、书面数据故事，甚至由 AI 解说的短视频。IT之家附上相关截图和视频如下：\n新加入的“认证查询”功能，可由数据团队统一关键指标口径，避免不同部门使用相互矛盾的数字；实时分享则让未接入数据源的同事也能查看最新结果，但仅能运行被授权的查询。\nAnthropic 表示，三项工具并非彼此割裂：一个想法可以从白板进入表格，再进入数据看板，而无需反复向 AI 重复背景信息。与此同时，Anthropic 还升级了交互式连接器，Adobe、Atlassian、Box、Notion 等应用可以以完整应用形式在 Claude 对话旁打开，用户可自行操作，也可让 Claude 协助修改。",
+ "report": {
+  "summary": "Anthropic 推出白板、表格、数据看板三件套，Claude 进军团队协作工作台",
+  "background": "Claude 此前主要以对话形式提供写作、编程和文档能力，用户需要反复复制粘贴上下文，AI 更像一个“外挂助手”而非工作场所。与此同时，Microsoft 365 Copilot、Google Gemini 在 Workspace 中的深度嵌入，以及 Notion、Airtable 等协作工具的 AI 化，正在把竞争焦点从模型能力转向“AI 原生工作流”。Anthropic 此次把白板、表格、数据看板做成独立应用并打通数据源与连接器，实质是在补齐协作层，让 Claude 成为承载团队任务与业务数据的入口，而非仅回答问题。",
+  "key_points": [
+   "三项产品面向所有付费计划开放，覆盖网页、桌面和移动端；Whiteboards 与 Sheets 尚处测试，Claude Data 已正式上线。",
+   "白板能把一句模糊计划自动拆成时间线、负责人和日期，并在会议后归类讨论、起草每个人的行动项，支持多人实时协作。",
+   "表格只需一句“做个营销追踪表”，即可生成带多标签页、公式、下拉菜单的成品，每次 AI 修改都会被标注，可导出 xlsx/CSV 或接 Airtable、Asana。",
+   "数据看板可连 Redshift、BigQuery、ClickHouse、Snowflake、Salesforce，输出仪表盘、数据故事甚至 AI 解说短视频，并用“认证查询”统一指标口径。",
+   "三者上下文互通：一个想法可从白板流入表格、再进看板，无需重复交代背景；Adobe、Notion、Box 等连接器也升级为可侧边打开的完整应用。"
+  ],
+  "impact": "对 AI 行业，这意味着竞争从模型跑分转向“AI 原生协作套件”，直接挤压 Microsoft 365 Copilot 与 Google Workspace 的腹地，也把应用层护城河建立在数据连接与上下文连贯性上。对开发者，数据源连接器、认证查询与导出的开放接口，可能催生围绕 Claude 工作台的新集成生态。对普通用户，做表、排期、写周报的门槛进一步降低，但“谁的数字算数”将由数据团队设定的认证口径决定，协作规范与权限治理变得更重要。",
+  "tools": "想跟进可试用 Claude 付费版的 Whiteboards、Sheets 与 Data；数据侧准备 Snowflake、BigQuery 等仓库或 Salesforce 账号；协作可搭配 Notion、Airtable、Asana、monday.com、Smartsheet 做落地；对照参考 Microsoft 365 Copilot、Google Gemini in Workspace 与 Tableau、Looker 的数据故事能力。"
+ },
+ "lang": "zh"
+}

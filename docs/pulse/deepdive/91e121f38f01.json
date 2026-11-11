@@ -1,0 +1,24 @@
+{
+ "id": "91e121f38f01",
+ "url": "https://yro.slashdot.org/story/26/11/10/2058226/new-york-launches-nations-first-state-ai-testing-program",
+ "title": "New York Launches Nation's First State AI Testing Program",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-11T09:18:50.127168+00:00",
+ "content": "New York Launches Nation's First State AI Testing Program (politico.com) 14\n\t\t\t\n\t\t \t\n\t\t\t\tNew York is launching a state-backed AI safety research center at Binghamton University that will independently study and test AI systems, develop safety and security techniques, and train researchers in responsible AI. \"While the federal government fails to act, New York is leading the way on AI safety and holding big tech accountable,\" New York Gov. Kathy Hochul said. \"The stakes are too high to simply take AI companies at their word.\" Politico reports:  The center -- which is funded by a $30 million gift from Bloomberg co-founder Tom Secunda and a $25 million research investment from SUNY and New York state -- is set to launch before New York's major AI safety law, the RAISE Act, comes into effect on Jan. 1. That will require submissions of detailed safety frameworks from AI companies operating in New York State, which Hochul's office hopes will be scrutinized by researchers at the new center.\n\"AI is opening up questions that scientists could not tackle before,\" said Secunda, who also serves as the board chair of Empire AI, a $500 million public-private partnership. \"With Empire AI and researchers across New York, the Center can test systems independently and give public officials evidence they can use.\"\nOver 80 leading scientists and researchers on AI systems from across New York state will contribute to the effort, which will be run by the New York Center for AI Responsibility and Research at Binghamton University, according to details shared by Hochul's office. The initiative will be led by Jeannette Wing, the executive vice president for research at Columbia University, and Greg Morrisett, the vice provost of Cornell Tech.\n\"We need new techniques that can be applied to this new kind of system with swarms of autonomous agents acting independently and without control. How can you first detect that they're going to do harm, and how can you prevent them from doing harm?\" said Wing. \"The beauty of what's being proposed is that this state is committing resources to really light this up.\"",
+ "report": {
+  "summary": "纽约州在宾汉姆顿大学启动首个州级AI安全测试中心。",
+  "background": "美国联邦层面AI安全立法进展缓慢，各州开始自行补位。纽约州此前通过RAISE Act，要求在该州运营的AI公司自2026年1月1日起提交详细安全框架。新中心由Tom Secunda捐赠3000万美元、SUNY和州政府投入2500万美元，赶在法律生效前启动，意在为监管提供独立技术证据，并回应公众对大科技公司自我声明的信任缺口。",
+  "key_points": [
+   "中心设在宾汉姆顿大学，获私人捐赠3000万美元及SUNY和州政府2500万美元研究投入，总规模5500万美元。",
+   "由哥伦比亚大学Jeannette Wing和Cornell Tech的Greg Morrisett领导，汇聚纽约州80多名AI系统科学家参与独立测试。",
+   "核心任务包括独立研究测试AI系统、开发安全与安保技术、培养负责任AI人才，并为监管者提供可用证据。",
+   "中心将在RAISE Act生效前启动；该法要求AI公司提交详细安全框架，州政府希望由新中心的研究者进行审查。",
+   "Wing强调需应对成群自主智能体不受控行动的新风险，重点研究如何提前检测和阻止危害。"
+  ],
+  "impact": "对AI行业，州级独立测试可能成为合规门槛，增加透明度和问责压力；对开发者，需准备更可审计的安全文档与评测接口；对普通用户，监管有了技术依据，但实际保护效果取决于测试能力和执法资源。更广泛看，纽约可能为其他州提供“立法+公共测试中心”的模板，并加剧联邦与州层面的AI治理竞争。",
+  "tools": "可关注RAISE Act合规文本、Empire AI算力平台，以及AI安全评测工具如MLCommons AI Safety、NIST AI RMF、HELM和AgentBench；关注宾汉姆顿中心后续发布的测试方法与开源基准。"
+ },
+ "lang": "zh"
+}
