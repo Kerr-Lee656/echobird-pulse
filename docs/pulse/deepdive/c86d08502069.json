@@ -1,0 +1,24 @@
+{
+ "id": "c86d08502069",
+ "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+ "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-11T01:56:21.990050+00:00",
+ "content": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. In the 2.5 release, Google says its robotic AI is getting tantalizingly close to completing real-world tasks as well as humans do. In fact, some Gemini robots were able to get actual work done in Mercedes-Benz factories, and the team is preparing for a day when robots operate alongside humans with an open source safety benchmark.\nDeepMind’s physical AI platform has several computational layers between user input and robotic action. There’s the vision-language model piece, which is Gemini Embodied Reasoning. Essentially, it takes your instructions and uses live video to plan how the robot can accomplish the task. The other main component is the vision-language-action (VLA) that actually generates robot actions, like moving an actuator—that’s Gemini Robotics, which has been bumped to version 2.5.\nDeepMind says that Gemini Robotics 2.5 is much better at tasks that require a high degree of dexterity. The model was evaluated across more than 200 activities, including serving food with tongs and using a pipette, as you would see in a laboratory. Google also showed that Apptronik’s Apollo 2 humanoid robot with Gemini Robotics 2.5 can now tie a bow with its five-fingered hands, a notable feat, because deformable objects (like ribbon) are notoriously difficult for robots to manipulate.\nOverall, Gemini Robotics 2.5 manages a 30 to 100 percent higher success rate compared to the last version. It’s also 20 to 30 percent faster. But that’s based on laboratory testing. Google partnered with Apptronik and Mercedes-Benz to see how capable this AI is when faced with the uncertainty of the world outside robotics labs. The Gemini-powered Apollo 2 robots kitted automotive parts in a few European factories, reaching a 96 percent success rate.\nThat’s an impressive showing compared to previous robotic AI systems, but it’s still probably not enough for a company like Mercedes-Benz. A human doing that sort of repetitive task will get it right virtually every time, and DeepMind director Kanishka Rao notes that closing that last 4 percent gap will be a “steep road.”",
+ "report": {
+  "summary": "DeepMind发布Gemini机器人2.5与安全基准",
+  "background": "DeepMind的物理AI平台分为两层：Gemini Embodied Reasoning根据指令和实时视频规划任务，Gemini Robotics作为视觉-语言-动作模型直接生成机器人动作。2.5版重点提升精细操作能力，并首次与Apptronik、梅赛德斯-奔驰合作，在欧洲工厂开展真实环境测试。同时，团队发布开源安全基准ASIMOV-jailbreak，为机器人进入人类协作场景做准备。",
+  "key_points": [
+   "精细操作显著增强：在200多项任务中测试，包括用夹子分餐、实验室移液，以及让Apollo 2人形机器人用五指手系蝴蝶结。",
+   "实验室指标提升明显：相比上一代，任务成功率提高30%至100%，执行速度快20%至30%，但这类数据仍来自受控环境。",
+   "真实工厂初试合格：Gemini驱动的Apollo 2在梅赛德斯-奔驰欧洲工厂完成汽车零件装配，成功率达96%。",
+   "距离人类水平仍有差距：人类做重复装配几乎不出错，DeepMind主管称补齐最后4个百分点是一条“陡峭的路”。",
+   "安全评估同步推进：开源基准ASIMOV-jailbreak旨在评估机器人安全性和抗越狱能力，为人机共融建立测试标准。"
+  ],
+  "impact": "对AI行业而言，这标志着具身智能从实验室演示迈向真实产线，竞争焦点转向精细操作、可靠性和安全评估。对开发者，视觉-语言-动作模型与开源安全基准提供了新研究方向，但真实场景数据与仿真到现实的迁移仍是门槛。对普通用户，机器人将更快进入工厂和服务场景，但96%的成功率意味着高风险任务仍需人类监督，安全与责任边界需要同步明确。",
+  "tools": "想跟进可关注ASIMOV-jailbreak开源基准和DeepMind Gemini Robotics技术文档；开发者可上手LeRobot、Open X-Embodiment数据集、MuJoCo或Isaac Sim仿真环境，并结合ROS 2进行机器人控制与评测。"
+ },
+ "lang": "zh"
+}

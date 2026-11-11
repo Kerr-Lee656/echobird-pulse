@@ -1,0 +1,25 @@
+{
+ "id": "5553fe020c93",
+ "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+ "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-11T01:55:49.942323+00:00",
+ "content": "Anthropic intends to push ahead with its IPO despite shakier markets and the broader pullback from AI investing.\nThe Claude-maker said in an updated IPO filing on Tuesday that it would be offering a total of 825 million Class A shares at an estimated price range of $70 to $78 per share. The sale is expected to raise anywhere from $57.75 billion to $64.35 billion.\nThe company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis. That would represent a significant jump up from the $965 billion valuation Anthropic reached in a May fundraise, but it’s still lower than the $2 trillion the company was reportedly targeting a couple months ago.\nSeparately, Anthropic said it had struck a deal to privately sell $26 billion of non-voting Class N stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC. Google and Nvidia are investing $10 billion apiece.\nAll up, Anthropic estimates net proceeds to reach somewhere between $84.6 billion and $93.7 billion (the latter if the IPO underwriters exercise their option to buy additional shares).\nUnderwriters, including Goldman Sachs and Morgan Stanley, will have the option to buy up to 123.75 million more shares from Anthropic at the IPO price.\nAs a public benefit corporation, the founders hold a Class F share with 50.1% of the voting power. The Long-Term Benefit Trust will also elect a board majority, so Class A buyers will have limited influence.\nAnthropic intends to start trading on the Nasdaq close to November 19, per reporting from CNBC, under the ticker symbol “ANT.” The company expects up to 20% of the offering to be allocated to retail investors.\nAnthropic also gave out a few new details in the updated filing. The company said its run-rate revenue reached $81 billion by the end of October, about $10 billion more than at the end of September.\nAlso, the filing now lists how many shares the company’s co-founders expect to sell in the IPO: CEO Dario Amodei, president and chairperson Daniela Amodei, chief compute officer Tom Brown, Anthropic Institute head Jack Clark, chief science officer Jared Kaplan, chief architect Sam McCandlish, and interpretability research lead Christopher Olah are all selling nearly 3.4 million shares each. At the $74 midpoint of the IPO price range, that would land them about $250 million each.\nThe updated filing also has a small but important change that hints at the company’s stance toward the Trump administration: The company at many points uses “super intelligence” and “SI” interchangeably with “artificial intelligence” and “AI,” citing Trump’s executive order from September that directed government departments and agencies to use that new terminology to refer to AI.\nThe company’s third-quarter revenue came in at $17 billion, and nine-month revenue was $33.2 billion. The company reported a nine-month net loss of $104 billion, with compute and infrastructure commitments hitting $900.9 billion. It has nearly $132 billion in cash and short-term investments.\nOpenAI, Anthropic’s biggest rival, was reportedly valued at $1.25 trillion last week after it raised $11 billion, nearly half the $20 billion it had first tried to raise.\nNote: This story has been updated with additional details and color from the updated IPO filing.",
+ "report": {
+  "summary": "Anthropic启动IPO，定价70-78美元，隐含估值最高1.404万亿美元",
+  "background": "Anthropic 在今年5月的一轮融资中估值约9650亿美元，此前据传曾瞄准2万亿美元的上市估值，但受AI投资情绪降温和市场波动影响，最终下调。此次IPO前，它刚完成一轮大规模私募配售，由英伟达、谷歌、微软、AMD、博通、美光、台积电等产业方认购。与此同时，竞争对手OpenAI上周融资110亿美元后估值约1.25万亿美元，且募资额低于原目标。两大模型公司接连冲击公开市场，标志着AI头部公司从风险投资驱动转向公开市场定价，也让“AI泡沫”争论进入可被财报验证的阶段。",
+  "key_points": [
+   "发行8.25亿股A类股，价格区间70-78美元，募资577.5亿至643.5亿美元；按上限计算，完全稀释估值达1.404万亿美元，较5月的9650亿明显跳升，但仍低于此前2万亿目标。",
+   "产业资本深度参与：以IPO价格私募配售260亿美元无投票权N类股给英伟达、谷歌（各100亿）、微软、AMD、博通、美光、台积电，相当于把算力与芯片供应链绑进股东名单。",
+   "治理结构特殊：作为公益公司，创始人持有的F类股占50.1%投票权，长期利益信托将选任多数董事，A类股公开股东对公司决策影响力有限。",
+   "财务数据亮眼但亏损巨大：10月底年化收入810亿美元，三季度收入170亿、九个月332亿；九个月净亏1040亿，算力与基础设施承诺高达9009亿美元，现金及短投约1320亿。",
+   "交易安排：预计11月19日前后在纳斯达克以“ANT”挂牌，最多20%份额分配给散户；七位联合创始人各减持约340万股，按74美元中位价人均套现约2.5亿美元。",
+   "招股书用“超级智能/SI”替代“AI”表述，呼应特朗普9月行政令的官方术语，透露公司对政策环境的配合姿态。"
+  ],
+  "impact": "对AI行业：1.4万亿美元的定价将成为一级市场新基准，直接对照OpenAI的1.25万亿，也把AI资本开支周期（9000亿美元算力承诺）的风险第一次大规模搬上公开市场，泡沫争论将转为季度财报检验。对开发者：Claude生态与API会随上市获得更多资金与算力，芯片厂商入股可能改变算力成本与供给优先级，多模型冗余策略更必要。对普通用户：产品迭代与订阅供给持续，但“超级智能”叙事被政策语言收编，监管与定价风险上升；散户首次能以20%配额参与头部AI公司，同时承担高估值波动。",
+  "tools": "想跟进可关注 Claude 网页版与 API、Claude Code、Claude Agent SDK，以及 Anthropic 开源的 Model Context Protocol（MCP），用于搭建工具调用与代理工作流；投资侧跟踪 SEC 上的 S-1 招股书更新与纳斯达克“ANT”行情，并用 Gemini、GPT 等 API 做多模型对照测试，避免单一供应商依赖。"
+ },
+ "lang": "zh"
+}

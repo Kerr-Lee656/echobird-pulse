@@ -22210,5 +22210,104 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-10T11:24:05Z",
   "fetched_at": "2026-11-10T20:49:00.295761+00:00"
+ },
+ "8658a0744e2c": {
+  "id": "8658a0744e2c",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:55:26.240998+00:00"
+ },
+ "a75982b151db": {
+  "id": "a75982b151db",
+  "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+  "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:55:36.440866+00:00"
+ },
+ "5553fe020c93": {
+  "id": "5553fe020c93",
+  "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+  "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:55:49.942323+00:00"
+ },
+ "2746e8b00857": {
+  "id": "2746e8b00857",
+  "url": "https://thenextweb.com/news/stanford-ai100-report-2026-ai-goes-mainstream",
+  "title": "Stanford’s 100-year AI study says scaling is running out of road",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:55:59.963680+00:00"
+ },
+ "044e2c636bce": {
+  "id": "044e2c636bce",
+  "url": "https://daringfireball.net/linked/2026/11/10/bloomberg-megaspeed-nvidia-smuggling",
+  "title": "Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’",
+  "source": "Daring Fireball",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:56:10.934190+00:00"
+ },
+ "c86d08502069": {
+  "id": "c86d08502069",
+  "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+  "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:56:21.990050+00:00"
+ },
+ "ca04d4217ee0": {
+  "id": "ca04d4217ee0",
+  "url": "https://www.36kr.com/p/4062649042736002",
+  "title": "字节新图像模型来了，一张图连改100轮不崩，精准指哪改哪，API降价",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:56:32.173945+00:00"
+ },
+ "cfc9a122ced6": {
+  "id": "cfc9a122ced6",
+  "url": "https://www.36kr.com/p/4063602885039238",
+  "title": "一台机器 2000 万，隐秘的天价 GPU 生意 | 深氪 Lite",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:56:43.833981+00:00"
+ },
+ "0e9fb0eb84f1": {
+  "id": "0e9fb0eb84f1",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:57:00.969507+00:00"
+ },
+ "8eec2e0e6166": {
+  "id": "8eec2e0e6166",
+  "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:57:11.024560+00:00"
+ },
+ "14cd0a038f54": {
+  "id": "14cd0a038f54",
+  "url": "https://wallstreetcn.com/articles/3785667",
+  "title": "MiniMax 开源 H3 Image：4K 图像生成仅 10 秒，支持多达 16 张参考图",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T01:57:19.998442+00:00"
  }
 }

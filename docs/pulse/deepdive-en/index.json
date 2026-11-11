@@ -11410,5 +11410,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-10T17:35:04Z",
   "fetched_at": "2026-11-10T20:51:08.371587+00:00"
+ },
+ "84f3b5d3194b": {
+  "id": "84f3b5d3194b",
+  "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+  "title": "Claude Code is accidentally exposing secrets all over GitHub",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T01:40:18Z",
+  "fetched_at": "2026-11-11T01:57:55.753681+00:00"
+ },
+ "82b1e50baf2c": {
+  "id": "82b1e50baf2c",
+  "url": "https://openrouter.ai/blog/announcements/csam-screening/",
+  "title": "Openrouter will scan all traffic, adds human review",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T01:00:06Z",
+  "fetched_at": "2026-11-11T01:58:51.252214+00:00"
+ },
+ "96475214ae11": {
+  "id": "96475214ae11",
+  "url": "https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o",
+  "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-11T00:58:06.000Z",
+  "fetched_at": "2026-11-11T01:59:07.784153+00:00"
+ },
+ "c68c37a3251f": {
+  "id": "c68c37a3251f",
+  "url": "https://aihot.news/items/xenhfme3azzcf8qpihr57fb93",
+  "title": "Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用",
+  "source": "Berkeley RDI：Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-11T00:00:00.000Z",
+  "fetched_at": "2026-11-11T01:59:39.160708+00:00"
+ },
+ "3e66d055d01e": {
+  "id": "3e66d055d01e",
+  "url": "https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate",
+  "title": "UK government AI strategy not tied to US models that currently dominate",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T21:38:41Z",
+  "fetched_at": "2026-11-11T01:59:51.930610+00:00"
+ },
+ "601b39403922": {
+  "id": "601b39403922",
+  "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "source": "Hacker News (107pts, 89c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T21:25:03Z",
+  "fetched_at": "2026-11-11T02:00:03.559473+00:00"
+ },
+ "43aaed481000": {
+  "id": "43aaed481000",
+  "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+  "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-10T21:12:59.000Z",
+  "fetched_at": "2026-11-11T02:00:20.694454+00:00"
+ },
+ "23f22413978e": {
+  "id": "23f22413978e",
+  "url": "https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up/",
+  "title": "In open-weight AI, America is the one playing catch-up",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-10T20:53:09Z",
+  "fetched_at": "2026-11-11T02:00:33.439159+00:00"
  }
 }
