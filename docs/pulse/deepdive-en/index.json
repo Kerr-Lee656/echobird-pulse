@@ -11563,5 +11563,77 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-11T05:00:00.000Z",
   "fetched_at": "2026-11-11T09:23:06.600006+00:00"
+ },
+ "5e08e87b87fd": {
+  "id": "5e08e87b87fd",
+  "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+  "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-11T17:37:32.000Z",
+  "fetched_at": "2026-11-11T17:54:53.524729+00:00"
+ },
+ "3d4c7de4a647": {
+  "id": "3d4c7de4a647",
+  "url": "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
+  "title": "AI models built outside the US and China are nearly a year behind",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T17:03:11Z",
+  "fetched_at": "2026-11-11T17:55:06.813461+00:00"
+ },
+ "1a5ded56b08b": {
+  "id": "1a5ded56b08b",
+  "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+  "title": "A Startup Wants to Fight AI Bioweapons With AI",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-11T17:00:00.000Z",
+  "fetched_at": "2026-11-11T17:55:19.422130+00:00"
+ },
+ "a7cc379ea6af": {
+  "id": "a7cc379ea6af",
+  "url": "https://www.museumsassociation.org/museums-journal/news/2026/11/sector-warned-of-acute-threat-of-ai-scraping-bots/",
+  "title": "Museums sector warned of 'acute threat' posed by AI scraping bots",
+  "source": "Hacker News (1pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T16:53:51Z",
+  "fetched_at": "2026-11-11T17:55:33.896160+00:00"
+ },
+ "f31248890af4": {
+  "id": "f31248890af4",
+  "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+  "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-11T16:14:44.000Z",
+  "fetched_at": "2026-11-11T17:55:49.675913+00:00"
+ },
+ "9a26e9d24795": {
+  "id": "9a26e9d24795",
+  "url": "https://petapixel.com/2026/11/10/rings-ai-powered-drone-automatically-patrols-inside-your-home/",
+  "title": "Ring's AI-Powered Drone Automatically Patrols Inside Your Home",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T15:02:46Z",
+  "fetched_at": "2026-11-11T17:56:17.405575+00:00"
+ },
+ "6614a262fe8f": {
+  "id": "6614a262fe8f",
+  "url": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
+  "title": "a16z 提出 B2A 经济：AI 智能体正成为互联网主要用户与流量来源",
+  "source": "a16z：News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-11T15:02:38.000Z",
+  "fetched_at": "2026-11-11T17:56:36.039082+00:00"
+ },
+ "833534b672b8": {
+  "id": "833534b672b8",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "source": "Google DeepMind",
+  "site_name": "Google DeepMind",
+  "published_at": "2026-11-11T15:00:15.000Z",
+  "fetched_at": "2026-11-11T17:56:49.643696+00:00"
  }
 }

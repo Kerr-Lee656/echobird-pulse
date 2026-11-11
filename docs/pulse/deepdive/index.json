@@ -22381,5 +22381,86 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-10T22:43:46Z",
   "fetched_at": "2026-11-11T09:19:47.157808+00:00"
+ },
+ "c4385aae2d0e": {
+  "id": "c4385aae2d0e",
+  "url": "https://thenextweb.com/news/openai-acquires-odessia-ai-travel-agent",
+  "title": "OpenAI buys Odessia, the AI travel agent from Sonder’s founder",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-11T17:52:47.645998+00:00"
+ },
+ "0692a5b9ecf3": {
+  "id": "0692a5b9ecf3",
+  "url": "https://www.36kr.com/p/4063892080694408",
+  "title": "10天狂揽近2万星，00后大学生拿下大结果，DeepSeek Harness移动端爆火",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T17:52:58.925465+00:00"
+ },
+ "bff3480207bf": {
+  "id": "bff3480207bf",
+  "url": "https://www.aibase.com/zh/news/32249",
+  "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-11T17:53:08.344567+00:00"
+ },
+ "1dce0a2c2cc1": {
+  "id": "1dce0a2c2cc1",
+  "url": "https://www.aibase.com/news/32250",
+  "title": "百度发布文心5.5Flash Preview:2800亿参数、百万Token上下文，权重11月25日开源",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-11T08:36:31.980Z",
+  "fetched_at": "2026-11-11T17:53:24.909517+00:00"
+ },
+ "34629a22fe16": {
+  "id": "34629a22fe16",
+  "url": "https://www.aibase.com/news/32241",
+  "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-11T08:36:31.980Z",
+  "fetched_at": "2026-11-11T17:53:38.454854+00:00"
+ },
+ "3603915f5f64": {
+  "id": "3603915f5f64",
+  "url": "https://www.aibase.com/news/32237",
+  "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-11T08:36:31.980Z",
+  "fetched_at": "2026-11-11T17:53:47.800428+00:00"
+ },
+ "bf6eb254b640": {
+  "id": "bf6eb254b640",
+  "url": "https://www.aibase.com/news/32232",
+  "title": "谷歌 Gemini 4 Carbon 亮相：专啃硬骨头，思考越久越准",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-11T08:36:31.980Z",
+  "fetched_at": "2026-11-11T17:53:56.844535+00:00"
+ },
+ "342537636b44": {
+  "id": "342537636b44",
+  "url": "https://www.ithome.com/1/025/588.htm",
+  "title": "AI 数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-11T08:31:16Z",
+  "fetched_at": "2026-11-11T17:54:05.649513+00:00"
+ },
+ "4d50efb8864c": {
+  "id": "4d50efb8864c",
+  "url": "https://www.ithome.com/1/025/560.htm",
+  "title": "消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-11T07:57:27Z",
+  "fetched_at": "2026-11-11T17:54:17.824168+00:00"
  }
 }

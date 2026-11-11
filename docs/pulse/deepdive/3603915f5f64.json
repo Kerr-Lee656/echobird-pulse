@@ -1,0 +1,24 @@
+{
+ "id": "3603915f5f64",
+ "url": "https://www.aibase.com/news/32237",
+ "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-11T08:36:31.980Z",
+ "fetched_at": "2026-11-11T17:53:47.800428+00:00",
+ "content": "AMD is pulling large models out of the cloud and back into the data center—and this time, it is going after the enterprise developer business. On November 9 local time, AMD teamed up with Spectro Cloud to launch Instinct Coder 355, an enterprise-grade AI coding assistant platform that can run GLM-5.3 inference locally and is said to come close to 98% of the performance of frontier models.\nEight cards power one coding server\nThe system’s real muscle is in its hardware: at its core are 8 AMD Instinct MI355X accelerators, paired with 2 64-core EPYC 9575F \"Zen 5\" processors, plus 3TB of DDR5-6400 memory and a total of 63.36TB of solid-state storage. Dell and Supermicro offer fully configured systems with different specifications, so enterprises can choose a setup that fits their data center practices. A single node can serve up to 85 developers, with 50 able to code online at the same time—effectively packing a small team’s compute needs into one chassis.\nNo cloud by default, data stays local\nWhat really appeals to enterprises is the \"stay in-house\" setup. Spectro Cloud provides PaletteAI Inference Launchpad management software for the system, which uses local compute rather than cloud APIs by default, so sensitive code and data do not have to be sent outside. Under the dual pressure of cost and compliance, moving inference back to in-house data centers is becoming a new direction that major players are betting on—and with this move, AMD clearly wants a share of the pie currently held by Nvidia and the various cloud providers.",
+ "report": {
+  "summary": "AMD发布本地AI编程平台，单机对标前沿模型98%性能",
+  "background": "过去两年，企业级AI编程助手基本依赖云端API，代码与业务数据需上传外部服务器，成本与合规压力持续上升。与此同时，英伟达GPU与各大云厂商占据了绝大部分推理算力市场。AMD在MI300系列之后急需证明Instinct加速器在真实企业负载中的价值，于是选择编程这一高频、高价值的场景切入：11月9日联合云原生管理厂商Spectro Cloud推出Instinct Coder 355，把大模型推理从公有云搬回企业自建数据中心，并引入Dell、Supermicro等整机厂商提供预配置方案，降低落地门槛。",
+  "key_points": [
+   "硬件规模空前：单节点搭载8块Instinct MI355X加速卡、2颗64核EPYC 9575F处理器、3TB DDR5-6400内存与63.36TB固态存储，本质是把一台小型推理集群塞进一个机箱。",
+   "模型能力接近前沿：平台本地运行GLM-5.3，官方称其编程表现可达前沿模型的约98%，通过模型与硬件的协同优化弥补绝对参数差距。",
+   "多人共享一台机器：单节点可服务最多85名开发者，其中50人可同时在线写代码，算力利用率按团队规模分摊，单位成本显著下降。",
+   "默认不出内网：Spectro Cloud的PaletteAI Inference Launchpad统一管理推理服务，默认使用本地算力而非云API，敏感代码与数据不外发。",
+   "交付方式开放：Dell与Supermicro提供不同规格的整机配置，企业可按自身机房标准采购，避免被单一软硬件栈绑定。"
+  ],
+  "impact": "对AI行业而言，这是AMD在推理侧对英伟达与云厂商的正面进攻，也印证了“推理回流私有云”的趋势，算力竞争从单卡性能转向整机方案与软件栈。对开发者来说，本地化编程助手意味着更低延迟、更可控的数据边界，也迫使团队具备一定的模型部署与运维能力。对普通用户，短期感知不强，但企业客户对代码隐私的诉求会推动更多AI功能以“数据不出域”的形式落地，间接提升产品可信度。",
+  "tools": "想跟进可关注：GLM系列开源模型权重与推理框架vLLM、SGLang；AMD ROCm软件栈及MI355X的推理优化文档；Spectro Cloud PaletteAI Infer"
+ },
+ "lang": "zh"
+}

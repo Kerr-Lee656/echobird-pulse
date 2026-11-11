@@ -1,0 +1,25 @@
+{
+ "id": "bf6eb254b640",
+ "url": "https://www.aibase.com/news/32232",
+ "title": "谷歌 Gemini 4 Carbon 亮相：专啃硬骨头，思考越久越准",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-11T08:36:31.980Z",
+ "fetched_at": "2026-11-11T17:53:56.844535+00:00",
+ "content": "Google makes the case for deep-thinking models. On November 10 local time, Google officially launched Gemini 4 Carbon, positioning it as its strongest reasoning model to date, with a primary focus on complex software engineering, multi-step agentic tasks, scientific research, and cybersecurity.\nSpend More Tokens, Think Deeper—Built to Solve Complex Problems\nCompared with its sibling Gemini 4 Argon, Carbon is willing to spend more reasoning tokens on complex tasks for hypothesis exploration, result verification, and boundary checks, making it better at multi-step coding, complex debugging, and open-ended scientific research. It comes with a 1.04 million-token context window, an output limit of 65,000 tokens, Long Decode up to 1.04 million, and three levels of reasoning intensity. Paid developers can access it through the Gemini API and AI Studio, while enterprise customers and AI Ultra subscribers will also get access across Antigravity, the Gemini app, and AI Mode in Search.\nSecurity and Research Both Score High\nCybersecurity is a major focus: 88.2% vulnerability discovery on SEC-bench Pro and 71.0% fix rate on CWE-bench; the Wiz team used it to uncover a zero-day vulnerability in less than two hours. On the research side, in CASP17 blind tests across seven low-homology protein families, it increased the average number of retrieved homologous sequences 40-fold. An even stronger proof point: on the Gray Swan injection benchmark, its attack success rate was 0%, making it one layer more hardened than Argon.",
+ "report": {
+  "summary": "谷歌发布最强推理模型Gemini 4 Carbon，主打深度思考与复杂任务",
+  "background": "近一年来，推理模型成为大模型竞争的主战场：OpenAI 的 o 系列、DeepSeek-R1 等都把\"思考更久\"作为提升复杂任务准确率的主要手段——用更多推理 token 换取更好的结果。谷歌此前已有 Gemini 4 Argon 主打通用能力，这次推出 Carbon，就是要补齐\"硬骨头\"场景的短板：复杂软件工程、多步智能体任务、科研与网络安全。命名延续化学元素风格，定位也很清晰：不拼日常闲聊，只拼高难度推理；并用安全性和科研实测数据来证明\"思考越久越准\"这条路走得通。",
+  "key_points": [
+   "Carbon 与 Argon 的最大差别是更愿意花推理 token：面对复杂任务做假设探索、结果验证与边界检查，所以多步编码、复杂调试和开放式科研更稳。",
+   "上下文窗口达 104 万 token，输出上限 6.5 万 token，Long Decode 最高 104 万，并提供三档推理强度，可按任务难度调节思考深度。",
+   "网络安全成绩亮眼：SEC-bench Pro 漏洞发现率 88.2%，CWE-bench 修复率 71%；Wiz 团队用它不到两小时挖出一个零日漏洞。",
+   "科研能力用于 CASP17 盲测，七个低同源蛋白家族的检索同源序列数量平均提升 40 倍，说明它能处理长链条、需要反复检索验证的工作。",
+   "抗注入能力突出：在 Gray Swan 注入基准上攻击成功率 0%，比 Argon 多一层防护，对准企业级安全部署场景。",
+   "开发者可通过 Gemini API 和 AI Studio 使用，企业客户与 AI Ultra 订阅者还可在 Antigravity、Gemini 应用和搜索 AI Mode 中使用。"
+  ],
+  "impact": "对 AI 行业，Carbon 把竞争焦点从\"模型多大\"推向\"愿意想多久\"，推理 token 预算成为新指标，也意味着推理成本与延迟将是产品设计核心变量。对开发者，百万级上下文加三档推理强度，让长代码库重构、多步智能体、自动化漏洞挖掘更可行，但也需要学会按任务难度分配算力，避免过度思考烧钱。对普通用户，搜索 AI Mode 与 Gemini 应用会变慢却更准，科研、安全类工作受益最明显。",
+  "tools": "想上手可关注：Gemini API 与 AI Studio（按推理强度调节参数）、Antigravity 智能体开发环境；安全方向可参考 SEC-bench Pro、CWE-bench 与 Gray Swan 注入基准自测模型；科研向可对照 CASP17 流程做同源序列检索实验。与开源方案如 DeepSeek-R1、Qwen 系列推理模型对比测试，成本更低。"
+ },
+ "lang": "zh"
+}

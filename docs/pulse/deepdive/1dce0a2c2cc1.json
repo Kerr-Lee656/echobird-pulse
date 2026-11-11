@@ -1,0 +1,24 @@
+{
+ "id": "1dce0a2c2cc1",
+ "url": "https://www.aibase.com/news/32250",
+ "title": "百度发布文心5.5Flash Preview:2800亿参数、百万Token上下文，权重11月25日开源",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-11T08:36:31.980Z",
+ "fetched_at": "2026-11-11T17:53:24.909517+00:00",
+ "content": "Recently, Baidu released its latest foundation model, ERNIE 5.5 Flash Preview, with a total parameter count of 280 billion, activating 14 billion parameters per token, and supporting a context window of up to 1 million tokens. It stands out in coding, 3D modeling, knowledge work, and content creation, and has achieved competitive results on multiple benchmarks such as Terminal-Bench and AutomationBench.\nCoding capability is the core highlight of this upgrade. The model covers a wide range of scenarios, from fixing and iterating on real-world codebases to building complete complex applications, and is stronger at planning, execution, and continuous iteration in long-horizon development tasks. Baidu conducted specialized training for game development and adapted the model to mainstream development tools, enabling it to complete game design, feature implementation, and scene construction based on user ideas.\nIn 3D modeling, Baidu strengthened the model's training on tools such as Blender and CAD, improving its performance in parametric modeling and spatial reasoning. With tool assistance, the model can infer an object's shape, proportions, and spatial relationships from text descriptions, generate accurate 3D models through procedural modeling, and integrate and reuse existing assets and external materials to build grand, detail-rich 3D scenes.\nIn video creation, the model can handle material gathering, compositing, and arrangement, adjust visuals and pacing, and output finished videos. Baidu has built more than 150,000 creation environments around scenarios such as science popularization, comic dramas, creative editing, and trending-topic adaptations, covering the full workflow of idea generation, scripts, storyboards, visual assets, and voiceover. It supports over a thousand creation skills and has produced about 5,300 minutes of finished videos in total.\nThe model is now available on Baidu AI Cloud's Qianfan platform, and developers can call it via API. Pricing is RMB 2 per million input tokens during peak hours and RMB 1 during off-peak hours, and RMB 8 per million output tokens during peak hours and RMB 4 during off-peak hours. It is currently available at a limited-time 50% discount, offering strong price competitiveness among models of similar parameter scale. The model weights will be released to the global open-source community on November 25.\nCompetition among large models is shifting from contests over general capabilities to deep scenario-based optimization, and open-source and low-price strategies are expected to further broaden developers' application space.",
+ "report": {
+  "summary": "百度发布2800亿参数文心5.5 Flash，百万上下文并将于11月25日开源",
+  "background": "国内大模型竞争正从“比拼通用能力榜单”转向“深入具体场景做深做实”。MoE稀疏架构已成为行业降低推理成本的主流方案，而开源权重加低价API则是国内厂商争夺开发者生态的常见做法。百度此前已通过文心系列开源积累社区影响力，此次把百万级上下文、编程与3D/视频创作能力打包，并以限时半价切入，正面回应Qwen、DeepSeek、GLM等开源模型的竞争压力，意在用“高性能+低门槛+可自部署”抢占企业级与开发者市场。",
+  "key_points": [
+   "参数结构极稀疏：总参数2800亿，但每个token仅激活140亿（约5%），用低激活量支撑百万token上下文，兼顾能力与推理成本。",
+   "编程是本次升级核心：覆盖真实代码库修复迭代到完整应用搭建，强化长周期开发中的规划、执行与持续迭代，并针对游戏开发做专项训练、适配主流开发工具。",
+   "3D与视频创作成为差异点：加强Blender、CAD训练，可从文本推断形状比例与空间关系并生成参数化模型；视频侧已建成15万+创作环境、产出约5300分钟成片。",
+   "API定价具攻击性：输入2元/百万token（峰时）、错峰1元，输出8元/峰时、4元/错峰，另有限时5折，在同参数规模模型中价格竞争力强。",
+   "权重将于11月25日向全球开源社区放出，意味着模型可从云端API走向本地私有化部署，生态想象空间明显放大。"
+  ],
+  "impact": "对行业而言，百万上下文加高稀疏MoE再叠加开源，会进一步压低同类模型的定价预期，加速“场景深耕+开源引流”成为标准打法。对开发者，低成本长上下文让整库级代码理解、Agent长任务、3D与视频流水线更易落地，11月开源后还可私有化微调。对普通用户，游戏原型、科普视频、3D素材等创作门槛下降，更多能力将以应用形态而非模型形态出现。",
+  "tools": "可先在百度智能云千帆平台调API试跑；跟进Terminal-Bench、AutomationBench等评测做横向对比；权重开源后可用vLLM、SGLang等框架本地部署，并与Qwen、DeepSeek、GLM开源版本对比选型；3D方向可结合Blender的Python API做工作流验证。"
+ },
+ "lang": "zh"
+}

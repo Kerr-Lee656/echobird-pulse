@@ -1,0 +1,23 @@
+{
+ "id": "34629a22fe16",
+ "url": "https://www.aibase.com/news/32241",
+ "title": "阿里千问全新一代 Qwen4 大模型官宣：多维能力大幅进化，预览版已正式上线",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-11T08:36:31.980Z",
+ "fetched_at": "2026-11-11T17:53:38.454854+00:00",
+ "content": "Alibaba officially announced today that its new-generation Qwen large model, Qwen4, is about to be fully released. As an iterative upgrade of its core architecture, the new-generation model has achieved all-round advancements in the depth of knowledge understanding, multi-dimensional world perception, and core capabilities such as Coding (programming) and Agentic (intelligent agent).\nPreview Version Launches First, Multiple Official Apps Integrate Simultaneously\nWith the official announcement, the Qwen4-Max preview version has already landed on Alibaba Token Plan and launched a limited-time trial promotion with discounts up to 90% off. The regular starting price for the Personal Lite and Essential editions is 39 yuan/month, and new customers can enjoy an additional 50% off on top of that, bringing it down to as low as 19.5 yuan.\nMeanwhile, to allow developers and ordinary users to experience the performance of the new model as soon as possible, multiple core official products and applications, including Qwen Office, Qoder, Qwen App, and QwenStudio, have also fully integrated the new Qwen4 model at the earliest opportunity.",
+ "report": {
+  "summary": "阿里官宣Qwen4，预览版上线，编程与智能体能力大幅进化，API低至1折。",
+  "background": "阿里通义千问系列自发布以来，凭借开源策略和持续迭代，在全球开源大模型领域占据重要地位。上一代Qwen3在多项基准测试中表现优异，但面对GPT-4o、Claude 3.5等国际竞品的快速演进，以及国内DeepSeek、智谱等厂商的激烈竞争，阿里需要新一代旗舰模型来巩固技术领先地位。此次Qwen4的官宣，正值大模型从“对话”向“智能体”和“多模态感知”转型的关键节点，同时阿里云也希望通过极具侵略性的定价策略，加速开发者生态的占领。",
+  "key_points": [
+   "能力全面升级：Qwen4在知识理解深度、多维世界感知、编程（Coding）和智能体（Agentic）四大核心能力上实现进化，标志着模型从单一对话向复杂任务执行迈进。",
+   "预览版抢先体验：Qwen4-Max预览版已上线阿里云百炼（Token Plan），个人版Lite与Essential定价39元/月，新客半价至19.5元，并提供限时低至1折的优惠。",
+   "生态应用同步接入：Qwen Office、Qoder、Qwen App、QwenStudio等官方产品第一时间集成Qwen4，开发者和普通用户可直接在办公、编程等场景中体验新模型。",
+   "价格战升级：阿里以“1折”和“19.5元/月”的超低价格切入市场，明显意在降低开发者门槛，与国内外竞品争夺API调用量和用户规模。"
+  ],
+  "impact": "Qwen4的发布将加剧大模型行业的价格与技术竞争，推动竞争焦点从参数规模转向智能体与多模态感知的实际落地。对开发者而言，超低定价和更强的Coding、Agent能力降低了AI应用开发门槛，利好独立开发者与初创团队。对普通用户，Qwen App等官方产品同步升级，知识问答与办公辅助体验将显著提升，而19.5元/月的订阅价也让高阶AI能力更加普惠。",
+  "tools": "想跟进Qwen4，可关注：阿里云百炼平台（申请Qwen4-Max预览版API）、Qoder（AI编程IDE，已集成新模型）、Qwen App（移动端直接体验）、QwenStudio（低代码AI应用开发）。开源爱好者可留意阿里后续是否开源Qwen4小尺寸版本。"
+ },
+ "lang": "zh"
+}
