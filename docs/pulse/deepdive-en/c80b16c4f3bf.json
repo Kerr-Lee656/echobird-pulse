@@ -1,0 +1,24 @@
+{
+ "id": "c80b16c4f3bf",
+ "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+ "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-11-11T23:28:45.000Z",
+ "fetched_at": "2026-11-12T00:38:32.043157+00:00",
+ "content": "Nvidia is reportedly planning to oust its co-founder and CEO Jensen Huang, who has led the company for the last 33 years, the Wall Street Journal reports. Sources told the newspaper that the Nvidia board is meeting as soon as Wednesday to determine Huang’s future at the company.\nOn Sunday, Huang admitted to having an extramarital affair with a woman purported by U.S. intelligence to be a Chinese spy. On Wednesday evening, the New York Times reported that Huang also had an affair with an executive who reports to him.\nNvidia has become one of the most valuable companies in the world as it designs the chips that power the AI boom, but in the midst of Huang’s ongoing scandal, Nvidia stock fell about 8% in after hours trading on Wednesday. The stock is down about 11% in the past five days.\nHuang famously delegates very little and has about 60 direct reports, he has said. The company also has not had an obvious successor or a succession plan. According to Bloomberg, Nvidia is working with an outside firm to identify candidates that could potentially replace Huang as CEO.",
+ "report": {
+  "summary": "Nvidia’s board is reportedly preparing to decide CEO Jensen Huang’s future amid affair scandals, sending the AI chipmaker’s stock down sharply.",
+  "background": "Nvidia co-founder Jensen Huang has led the company for 33 years and built it into one of the world’s most valuable companies by designing the chips that power the AI boom. That long tenure and centralized leadership style have made Huang central to Nvidia’s strategy, culture and investor story. The reported board deliberations follow Huang’s admission of an extramarital affair with a woman described by U.S. intelligence as a Chinese spy, and a New York Times report of a second affair with an executive who reports to him. The timing is sensitive because Nvidia’s products underpin much of the global AI buildout. The board is reportedly working with an outside firm to identify potential CEO candidates, while the company has no obvious successor or public succession plan.",
+  "key_points": [
+   "Nvidia’s board is reportedly meeting as soon as Wednesday to determine CEO Jensen Huang’s future, according to the Wall Street Journal. The report says the board is preparing to potentially oust the co-founder, though no final outcome has been confirmed.",
+   "Huang admitted to an extramarital affair with a woman purported by U.S. intelligence to be a Chinese spy. The New York Times separately reported that Huang had an affair with an executive who reports to him, deepening governance and security concerns.",
+   "Nvidia stock fell about 8% in after-hours trading Wednesday and was down roughly 11% over five days. The drop reflects investor anxiety over leadership instability at a company central to the AI supply chain.",
+   "Huang delegates very little and has about 60 direct reports, he has said. Nvidia has no obvious successor or succession plan, and Bloomberg reports the company is working with an outside firm to identify CEO candidates.",
+   "Nvidia’s chips power the AI boom and the company is among the world’s most valuable. Any CEO transition could affect strategy, customer confidence and the broader AI hardware roadmap that developers and cloud providers depend on."
+  ],
+  "impact": "For the AI industry, a leadership crisis at Nvidia introduces uncertainty into the supply chain that underpins most large-scale AI training and inference. Developers rely on Nvidia’s CUDA ecosystem and GPU roadmaps, so a prolonged transition could complicate planning for startups and cloud providers. Investors may reprice AI-related risk if governance concerns grow. Regular users are less directly exposed, but they could feel effects through cloud AI service pricing, availability and product delays. The scandal also raises national-security and board-oversight questions that could invite regulatory scrutiny. Much depends on whether the board acts, how orderly any transition is, and whether Nvidia’s operating execution remains intact during the process.",
+  "tools": "No direct tools or open-source projects are tied to this corporate-governance story. To follow developments, watch Nvidia’s investor-relations page and SEC filings, plus coverage from WSJ, NYT, Bloomberg and TechCrunch. For AI-stack context, monitor CUDA release notes and major cloud providers’ GPU instance announcements."
+ },
+ "lang": "en"
+}

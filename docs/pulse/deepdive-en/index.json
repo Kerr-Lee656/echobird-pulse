@@ -11635,5 +11635,77 @@
   "site_name": "Google DeepMind",
   "published_at": "2026-11-11T15:00:15.000Z",
   "fetched_at": "2026-11-11T17:56:49.643696+00:00"
+ },
+ "85770dc56113": {
+  "id": "85770dc56113",
+  "url": "https://github.com/opensandbox-group/OpenSandbox",
+  "title": "opensandbox-group/OpenSandbox — Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:38:08.169569+00:00"
+ },
+ "438083b2e386": {
+  "id": "438083b2e386",
+  "url": "https://github.com/Tencent/LoopForge",
+  "title": "Tencent/LoopForge — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:38:18.973637+00:00"
+ },
+ "c80b16c4f3bf": {
+  "id": "c80b16c4f3bf",
+  "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+  "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-11T23:28:45.000Z",
+  "fetched_at": "2026-11-12T00:38:32.043157+00:00"
+ },
+ "e9d68c6696bd": {
+  "id": "e9d68c6696bd",
+  "url": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
+  "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
+  "source": "Runway：News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-11T23:25:00.000Z",
+  "fetched_at": "2026-11-12T00:38:45.965475+00:00"
+ },
+ "f8605bc07fb4": {
+  "id": "f8605bc07fb4",
+  "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
+  "title": "An AI-driven proof of the Aaronson-Ambainis conjecture was announced",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T22:09:10Z",
+  "fetched_at": "2026-11-12T00:39:06.493238+00:00"
+ },
+ "062f08284c31": {
+  "id": "062f08284c31",
+  "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+  "title": "AI has made it 'close to impossible' to assess university coursework",
+  "source": "Hacker News (8pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T20:52:44Z",
+  "fetched_at": "2026-11-12T00:39:23.473000+00:00"
+ },
+ "4ed8f5e9dda4": {
+  "id": "4ed8f5e9dda4",
+  "url": "https://hardwired-pause.ai/",
+  "title": "The Feasibility of a Hardwired Pause of Frontier AI Training",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T20:21:25Z",
+  "fetched_at": "2026-11-12T00:39:41.719014+00:00"
+ },
+ "7b3b377c6cb8": {
+  "id": "7b3b377c6cb8",
+  "url": "https://github.com/CiscoDevNet/foundry-security-spec",
+  "title": "An open specification for agentic AI security evaluation and testing, from Cisco",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-11T20:11:57Z",
+  "fetched_at": "2026-11-12T00:39:54.674735+00:00"
  }
 }

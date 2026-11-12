@@ -1,0 +1,24 @@
+{
+ "id": "91abf5abc4d7",
+ "url": "https://thenextweb.com/news/torus-foundry-500m-magnetar-modular-ai-inference",
+ "title": "Torus raises $500m to run AI on spare grid power at existing sites",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-12T00:36:29.934499+00:00",
+ "content": "Torus, a Salt Lake City maker of energy storage systems, has raised $500m and launched Foundry, prefabricated units that bring AI computing to existing business and factory sites using grid power they already have. Magnetar led the round, the company said in a statement on Wednesday.\nICONIQ, Origin Ventures, Ridgeline Partners, and Trinity Capital also took part. Mark Chediak reported the raise first for Bloomberg, which described it as a Series C round. Neither gave a valuation. The money will expand GigaOne, the company’s factory in Salt Lake City, and pay for Torus Foundry sites across the US.\n“Most providers are bringing power to the chips. Foundry brings the chips to power,” founder and chief executive Nate Walkingshaw said in the statement.\nWhat Foundry does\nEach Foundry site packs power, storage, cooling, networking, and computing into one prefabricated system. Sites range from 1 to 20 megawatts. The smallest unit is about the size of a small cargo van.\nTorus says a site can go from contract to running AI workloads in 12 to 16 weeks. Site preparation takes about a week, and installation takes one to two days.\nThe units sit behind the meter and use spare capacity at existing transformers, so they need no new grid connection. Each one is paired with Torus Reserve, the company’s flywheel and battery storage product. Reserve covers demand peaks, so more computing fits on the same connection. It also supplies backup power during outages.\nFoundry is built for inference, the work of running trained AI models for users. Torus cites McKinsey figures that data centre demand for inference will grow 35% a year through 2030, against 22% for training. Inference start-up Fal raised $1.3bn this month in a round that doubled its value.\nTorus says thousands of GPUs already run in Foundry units, and it plans more than 47,000 by the end of 2027. Hydra Host, an AI infrastructure company, and a second, unnamed AI cloud provider are the first customers. Companies can buy an empty powered shell, a turnkey unit with GPUs, or capacity reserved for them alone.\nFrom batteries to computing\nUntil now, Torus has sold modular battery systems that help businesses and factories manage their energy use and cut power bills. It raised $200m from Magnetar for that business in September 2025.\nThe new units arrive as US data centre developers struggle to find power. In last week’s midterms, US voters rejected data centres in 40 of 41 local ballot measures. Democrats who campaigned for tighter limits on data centres also won governors’ races in Texas and Ohio, Bloomberg reported.\nWalkingshaw told Bloomberg that the shift gives an opening to companies that can add computing without raising power bills or adding noise and pollution. Google is funding a 1GW virtual power plant, and OpenAI has launched a demand response programme to ease the strain AI puts on power grids.\nFoundry’s cooling runs in a closed loop and uses no water, according to Torus. Each system also gives GPU time to medical research through Folding@home.\nTorus employs nearly 400 people at GigaOne, which opened its first production line in early 2026. Its Foundry line can produce 500 megawatts of IT load, and the company plans to expand it to 1 gigawatt.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Torus融资5亿美元，用现有电网余量部署预制AI推理单元",
+  "background": "美国AI数据中心正遭遇电力瓶颈：新并网排队动辄数年，变压器与输电容量吃紧，社区抵触情绪也在上升。中期选举中，41项地方公投有40项否决了数据中心项目。与此同时，推理需求增长比训练更快。麦肯锡预计，到2030年，数据中心推理需求年增35%，训练为22%。Torus原本做模块化储能电池，2025年9月刚获Magnetar 2亿美元投资，如今把储能能力延伸到“就地供电+算力”，试图绕开并网难题。",
+  "key_points": [
+   "Magnetar领投5亿美元C轮，ICONIQ、Origin Ventures等跟投；资金用于扩建盐湖城GigaOne工厂并在全美铺设Foundry站点。",
+   "每个Foundry站点把供电、储能、冷却、网络和GPU打包成预制系统，功率1至20兆瓦，最小单元约一辆小货车大小。",
+   "从签约到运行AI负载只需12至16周，现场准备约一周、安装1至2天；设备表后接入，利用现有变压器余量，无需新增电网连接。",
+   "每个单元搭配Reserve飞轮与电池储能系统削峰填谷，专为推理设计；目前已有数千块GPU在运行，计划2027年底超过4.7万块。",
+   "首批客户是Hydra Host和一家未具名的AI云厂商；工厂产线可产500兆瓦IT负载，并计划扩至1吉瓦。"
+  ],
+  "impact": "对AI行业，算力竞争从“把电送到芯片”转向“把芯片送到电”，表后部署成为绕开并网瓶颈的第三条路，也帮储能企业打开AI叙事；数据中心扩张的社区阻力或被部分化解。对开发者，推理算力供给更分散、上线更快，中小团队租用门槛可能下降，但跨站点调度、延迟一致性和运维复杂度是新课题。对普通用户，无水闭环冷却、不抬高电费、不增噪音的方案更易被社区接受，闲置算力还能通过Folding@home反哺医学研究。",
+  "tools": "想跟进可关注Hydra Host（可在Foundry站点租用GPU）、Folding@home（参与分布式科研算力）、Torus Reserve储能方案；自建推理可搭配vLLM或SGLang优化吞吐，并参考Google虚拟电厂与OpenAI需求响应计划的接入思路。"
+ },
+ "lang": "zh"
+}

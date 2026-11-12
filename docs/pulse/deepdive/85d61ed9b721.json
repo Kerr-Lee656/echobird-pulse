@@ -1,0 +1,24 @@
+{
+ "id": "85d61ed9b721",
+ "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+ "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-12T00:36:41.361347+00:00",
+ "content": "Meta and TikTok lined up alongside Google at an Indonesian parliamentary hearing on Wednesday to argue against planned revisions to the country’s copyright law, Reuters reports from Jakarta.\nThe bill would require digital platforms to compensate publishers for displaying news content and would set rules for AI. If it passes, Indonesia would become the first country in Southeast Asia to fold AI into its copyright law, according to Reuters, which first reported the draft in July.\nGoogle’s Indonesia government affairs manager, Agung Pamungkas, told lawmakers that making platforms pay for showing links to news would end up limiting Indonesians’ access to it.\nMeta’s public policy head in Indonesia, Berni Moestafa, argued the measure would backfire on its intended beneficiaries: “publishers could lose readership traffic as well as potential advertising and subscription revenue,” he told the hearing, adding that directing readers to an article is different from republishing it.\nTikTok took aim at the AI provisions. Its Indonesia policy chief, Noudhy Valdryno, said disclosure requirements should not apply where AI merely assists rather than fully creates content, and urged lawmakers to preserve safe-harbour protections, since platforms cannot reliably determine who owns a copyright or holds a licence.\nThe arguments are well worn. Platforms made the same case against Australia’s news bargaining code and Canada’s Online News Act, where Meta chose to block news entirely rather than pay. Indonesia itself already pushed platforms toward publisher deals with a 2024 presidential regulation; the new bill would harden that into copyright law.\nThe AI layer is what makes Jakarta’s version novel. While news publishers and rights holders fight AI companies case by case in US courts, from the Gemini lawsuit to the unresolved fair use question, Indonesia is proposing to settle the rules in statute first.\nThat is precisely what the platforms are trying to head off. A copyright law that defines AI obligations in the world’s fourth most populous country would hand every other legislature in the region a template.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Meta、TikTok、谷歌在印尼听证会联手反对版权法AI与新闻付费条款",
+  "background": "印尼正审议版权法修订草案，路透7月首次披露文本。草案要求数字平台为展示新闻链接向出版方付费，并为AI训练与生成内容设定规则。若通过，印尼将成为东南亚首个把AI写入版权法的国家。此前印尼已在2024年用总统条例推动平台与媒体签约，这次是把行政要求升级为成文法。与此同时，美国仍在靠个案诉讼（如Gemini相关诉讼、尚未定论的美式合理使用）厘清AI与版权的边界，印尼选择先立法定规。",
+  "key_points": [
+   "三大平台集体施压：谷歌称强制付费会压缩印尼人获取新闻的渠道；Meta称结果会反噬出版方，导致流量与广告订阅收入流失；TikTok则专攻AI条款。",
+   "新闻付费是老议题：澳大利亚新闻议价法、加拿大在线新闻法都有先例，Meta在加拿大干脆封禁新闻也不付费，这次平台的论点几乎是原样复制。",
+   "TikTok要求给AI留豁免：认为AI只是辅助而非完全生成内容时不该承担披露义务，并呼吁保留避风港保护，理由是平台无法可靠判断版权归属与授权情况。",
+   "立法先于判例是印尼的特殊之处：美国还在法院逐案打官司，印尼想用成文法一次性划清AI责任，成为区域内的规则模板。",
+   "示范效应是关键：世界第四人口大国一旦立法，东南亚其他立法机构就有了现成蓝本，这正是平台急于阻止的深层原因。"
+  ],
+  "impact": "对AI行业：若印尼立法落地，可能引发东南亚连锁立法，AI公司的训练数据来源与内容披露义务从判例转向成文法，合规成本上升，也为“先立法后诉讼”提供一条新路径。对开发者：进入印尼市场的产品需考虑新闻链接付费、AI内容标识与责任划分；避风港条款能否保留，直接决定平台责任边界与产品设计。对普通用户：若平台像在加拿大那样封禁或减少新闻链接，获取新闻的渠道可能变窄；但AI生成内容的标识与透明度或有提升。",
+  "tools": "想跟进可关注 C2PA / Content Credentials 内容来源标注标准与开源SDK、Google SynthID 水印方案，以及各国新闻议价合规实践；同时跟踪印尼版权局草案文本与路透、TNW的后续报道。"
+ },
+ "lang": "zh"
+}

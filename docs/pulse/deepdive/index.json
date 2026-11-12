@@ -22462,5 +22462,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-11T07:57:27Z",
   "fetched_at": "2026-11-11T17:54:17.824168+00:00"
+ },
+ "943bd9ebdd36": {
+  "id": "943bd9ebdd36",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+  "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:08.638016+00:00"
+ },
+ "bed7979fe437": {
+  "id": "bed7979fe437",
+  "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+  "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:17.976378+00:00"
+ },
+ "91abf5abc4d7": {
+  "id": "91abf5abc4d7",
+  "url": "https://thenextweb.com/news/torus-foundry-500m-magnetar-modular-ai-inference",
+  "title": "Torus raises $500m to run AI on spare grid power at existing sites",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:29.934499+00:00"
+ },
+ "85d61ed9b721": {
+  "id": "85d61ed9b721",
+  "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+  "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:41.361347+00:00"
+ },
+ "e6261971cb56": {
+  "id": "e6261971cb56",
+  "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+  "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:50.015711+00:00"
+ },
+ "5651560a6337": {
+  "id": "5651560a6337",
+  "url": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
+  "title": "Microsoft finds AI agents can be backdoored by editing under 10 neurons",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:36:58.491277+00:00"
+ },
+ "7db3dbf05615": {
+  "id": "7db3dbf05615",
+  "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
+  "title": "Google DeepMind just mathematically verified key parts of Signal",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:37:09.631734+00:00"
+ },
+ "17aef0560465": {
+  "id": "17aef0560465",
+  "url": "https://www.36kr.com/p/4064780118463617",
+  "title": "奇袭Claude，谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T00:37:20.070762+00:00"
  }
 }

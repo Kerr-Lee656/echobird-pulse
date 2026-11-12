@@ -1,0 +1,24 @@
+{
+ "id": "e6261971cb56",
+ "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+ "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-12T00:36:50.015711+00:00",
+ "content": "Anthropic has set the terms for the most closely watched listing of the AI era. The Claude maker and some existing shareholders will sell 825 million shares at $70 to $78 each, raising up to $64.4B, with trading due to start on the Nasdaq on November 19 under the ticker ANT.\nAt the top of the range, the updated prospectus filed on Tuesday values Anthropic at about $1.4 trillion on a fully diluted basis, as Reuters first reported. Excluding stock options and restricted shares, the figure is closer to $1 trillion.\nA separate $26B private placement with cornerstone investors lifts the total raise to as much as $90.4B. Google, Nvidia, and AMD lead that group, joined by Broadcom, Micron, Microsoft, and TSMC; Reuters separately reported that TSMC will invest up to $1B across Anthropic and OpenAI.\nThe numbers underneath are the sales pitch. Run-rate revenue reached roughly $81B as of October 31, up $10B in a single month, according to the filing, which also discloses nearly $900B in computing commitments with partners including Amazon and Google.\nThe price is nonetheless a climbdown. Guidance to investors has slid from close to $2 trillion six weeks ago, and preliminary terms pointing to a $69.3B raise circulated briefly to banks on Monday night before being retracted, according to emails seen by Reuters.\nJeff Zell of IPO Boutique told the agency that asking below expectations “allows investors to ‘bid up’ the IPO”.\nNot everyone sees room left to bid.\n“Anthropic could become an exceptionally successful company, but at this valuation, much of that success is already reflected in the price,” Varun Datta, founder of Truth Ventures, told Reuters.\nThe listing follows SpaceX’s $75B offering at a $1.75 trillion valuation in its June IPO, and caps a run that began when Anthropic filed confidentially in June at a $965B private valuation. Goldman Sachs and Morgan Stanley are leading the offering, and board members and related entities are set to buy up to $303 million of shares.\nRival OpenAI, which is raising $30B in what is expected to be its last private round before its own IPO early next year, will be watching the order book as closely as anyone.\nThe prospectus itself swings between registers, promising to “bring forth an age of miracles” while warning that AI’s advance could outpace Anthropic’s own safety measures. Six weeks of sliding guidance suggest investors have stopped pricing in miracles; November 19 will show what they pay for one.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic 敲定 IPO 条款：最高募资 644 亿美元，估值 1.4 万亿",
+  "background": "Anthropic 今年 6 月以 9650 亿美元私募估值秘密递交上市申请，如今正式确定发行条款：8250 万股、每股 70–78 美元，11 月 19 日登陆纳斯达克，代码 ANT。这是继 6 月 SpaceX 以 1.75 万亿美元估值募资 750 亿美元之后，AI 时代最受瞩目的 IPO。此前六周，承销商向投资者给出的估值指引已从近 2 万亿美元一路下调，说明市场对 AI 巨头的定价正从“讲故事”转向“看收入”。高盛与摩根士丹利牵头承销，OpenAI 也将在明年初启动自己的 IPO，两家公司的估值将互为参照。",
+  "key_points": [
+   "发行价 70–78 美元、8250 万股，最高募资 644 亿美元；若计入谷歌、英伟达、AMD、台积电等基石投资者参与的 260 亿美元私募配售，总募资可达 904 亿美元。",
+   "完全摊薄估值约 1.4 万亿美元，剔除期权与限制性股票后接近 1 万亿美元，仍将是史上最大规模科技 IPO 之一。",
+   "招股书披露截至 10 月 31 日的年化收入约 810 亿美元，单月增长 100 亿美元；同时背负与亚马逊、谷歌等伙伴近 9000 亿美元的算力承诺。",
+   "估值指引六周内从近 2 万亿滑落至 1.4 万亿，周一晚间一份 693 亿美元募资的初步条款还曾被撤回，显示承销方主动压低定价以留出上涨空间。",
+   "招股书一面承诺“开启奇迹时代”，一面警告 AI 进展可能快过自身安全措施，这种矛盾表述本身也是此次上市的风险注脚。"
+  ],
+  "impact": "对 AI 行业而言，Anthropic 的定价将成为整个行业估值的锚，OpenAI 明年初的 IPO 会直接受其影响；若上市后破发，一级市场对 AI 公司的慷慨将迅速收紧。对开发者，Anthropic 手握近 9000 亿美元算力承诺，意味着 Claude 系列模型的训练与推理能力将持续扩张，API 生态和工具链值得长期押注。对普通用户，上市带来的商业化压力可能推动订阅分层与涨价，同时也意味着 Claude 产品迭代会更快、覆盖场景更广。",
+  "tools": "想跟进可关注 Claude API 与 Claude Code、Anthropic 的 Model Context Protocol（MCP）开放标准，以及 Amazon Bedrock、Google Vertex AI 上的 Claude 托管服务；也可用公开的招股书（SEC S-1）做收入与算力成本的基本面分析。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "bed7979fe437",
+ "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+ "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-12T00:36:17.976378+00:00",
+ "content": "OpenAI is bouncing back from the doldrums it experienced earlier this year. The company’s quarterly revenue crossed $10 billion for the first time, thanks to strong demand for its recent AI models, Bloomberg reported, citing anonymous sources.\nIf true, that would represent an almost 50% jump from the $6.7 billion in sales the company reportedly recorded in the second quarter. That would also mark a sizable increase in its revenue growth rate, which was previously said to be about 18% between the first and second quarters of the year.\nOpenAI’s profitability picture also appears to have improved, with its adjusted operating margin narrowing from -150% in the second quarter to -109% in the third quarter, the report said.\nOpenAI, one of the first to commercialize AI models, wasn’t exactly struggling to continue growing its top-line expansion — 18% growth on top of $5.7 billion in quarterly revenue is massive by any measure, especially compared to most software businesses.\nBut it was seeing those gains be trumped by its archrival Anthropic, which has taken the lead in capturing the enterprise market for AI models and recently reported Q3 revenue of $17 billion. OpenAI’s broader focus helped it attract a large user base and gain popularity early on, and it says it has over a billion users, but it’s reasonable to assume most of those are free users or subscribers to its cheapest plans.\nStill, the company lagged Anthropic in catering to enterprises, a market where the Claude maker has pulled ahead, at least in terms of revenue growth.\nOpenAI has recently benefited from a combination of tighter pricing, discounts, improving models, and a greater focus on building more enterprise-focused products and AI agents that can help people complete tasks.\nOpenAI has now reached an annual revenue run rate of $50 billion, according to Bloomberg. Meanwhile, Anthropic, which is seeking a $1.4 trillion valuation in an IPO likely to happen soon, said yesterday that its annual revenue run rate had increased by $10 billion within a month to $81 billion as of the end of October.\n(Note that OpenAI and Anthropic calculate their annualized revenue differently: Anthropic counts sales made by its cloud partners, while OpenAI only reports its share of some sales through its partners.)\nNone of those figures are small, of course, but the companies are also competing with models from Meta, Amazon, Microsoft, and Google, as well as a plethora of cheaper but still highly capable models from open source AI labs, especially those from China.",
+ "report": {
+  "summary": "OpenAI季度营收首次突破100亿美元，增速大幅回升",
+  "background": "OpenAI是最早将大模型商业化的公司，凭借ChatGPT积累了超十亿用户，但收入主要来自免费用户和低价订阅。今年以来，OpenAI在企业市场被Anthropic反超，一季度到二季度营收环比增速仅约18%，一度被外界视为增长乏力。三季度，OpenAI借助更有竞争力的定价、折扣、模型能力提升以及企业级Agent产品，营收增长重新提速。",
+  "key_points": [
+   "三季度营收首次突破100亿美元，较二季度的67亿美元增长近50%，远高于上一季度约18%的环比增速。",
+   "调整后营业利润率从-150%收窄至-109%，说明公司仍在亏损，但单位经济效益正在改善。",
+   "按彭博测算，OpenAI年化收入运行率已达500亿美元，规模进入超大软件公司行列。",
+   "对手Anthropic三季度营收170亿美元、年化运行率810亿美元，并寻求1.4万亿美元估值的IPO，企业市场仍是主战场。",
+   "两家公司的统计口径不同：Anthropic计入云伙伴全部销售额，OpenAI只计自身分成部分，因此直接比较会失真。"
+  ],
+  "impact": "对行业而言，头部模型公司的收入规模证明AI订阅与API已是真实市场，但也加剧了与Meta、谷歌及中国开源模型之间的价格战。对开发者，企业级Agent和更低定价意味着迁移成本下降、可做的事情更多，但要留意供应商锁定和API涨价风险。对普通用户，免费额度和低价套餐短期内仍会保留，付费功能的性价比会继续提升。",
+  "tools": "如果想跟进，可关注OpenAI的Agents SDK与Responses API、Anthropic的Claude企业版及MCP协议；开源侧可试LangGraph、Dify、n8n搭建Agent工作流，并用LiteLLM做多模型路由与成本对比。"
+ },
+ "lang": "zh"
+}
