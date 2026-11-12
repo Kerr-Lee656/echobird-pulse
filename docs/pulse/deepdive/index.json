@@ -22534,5 +22534,68 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-12T00:37:20.070762+00:00"
+ },
+ "6d5bf17d43b4": {
+  "id": "6d5bf17d43b4",
+  "url": "https://www.aibase.com/zh/news/32259",
+  "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T09:45:22.913182+00:00"
+ },
+ "da3fa96ca798": {
+  "id": "da3fa96ca798",
+  "url": "https://www.aibase.com/zh/news/32260",
+  "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T09:45:34.928614+00:00"
+ },
+ "a762108a4d81": {
+  "id": "a762108a4d81",
+  "url": "https://www.aibase.com/news/32258",
+  "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T04:50:17.978Z",
+  "fetched_at": "2026-11-12T09:45:46.473899+00:00"
+ },
+ "40af40406d82": {
+  "id": "40af40406d82",
+  "url": "https://www.ithome.com/1/026/026.htm",
+  "title": "百度天池 1024 卡超节点发布：可支撑 5 万亿参数模型训练，明年上市",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T04:09:14Z",
+  "fetched_at": "2026-11-12T09:45:57.626330+00:00"
+ },
+ "9847dcea6a4a": {
+  "id": "9847dcea6a4a",
+  "url": "https://www.ithome.com/1/025/903.htm",
+  "title": "百度李彦宏发布大模型的交易所“词元所”：宣称中立、可信，给模型提供商打分",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T02:52:44Z",
+  "fetched_at": "2026-11-12T09:46:07.811481+00:00"
+ },
+ "0db49971ff50": {
+  "id": "0db49971ff50",
+  "url": "https://www.ithome.com/1/025/862.htm",
+  "title": "让 AI 直接回复用户 UI 界面：谷歌开源跨平台协议 A2UI 1.0 版本上线，字节跳动已用上",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T01:08:04Z",
+  "fetched_at": "2026-11-12T09:46:19.291389+00:00"
+ },
+ "db9b74c4451d": {
+  "id": "db9b74c4451d",
+  "url": "https://www.ithome.com/1/025/860.htm",
+  "title": "瞄准后智能手机时代：OpenAI 奥尔特曼有意联合三星打造下一代 AI 设备，让 AI 主动管理现实与数字生活",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T01:02:19Z",
+  "fetched_at": "2026-11-12T09:46:26.406054+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "0db49971ff50",
+ "url": "https://www.ithome.com/1/025/862.htm",
+ "title": "让 AI 直接回复用户 UI 界面：谷歌开源跨平台协议 A2UI 1.0 版本上线，字节跳动已用上",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-12T01:08:04Z",
+ "fetched_at": "2026-11-12T09:46:19.291389+00:00",
+ "content": "IT之家 11 月 12 日消息，A2UI 是谷歌在 2025 年底公布的一份生成式 UI 开放协议，让智能体不仅能回复用户文字，还能直接回复 UI 界面内容。\n今日，谷歌正式发布了 A2UI 1.0 版本，这是该协议的首个稳定版。开发者现在可以搭配开源的网页、Android 和 iOS 渲染器 SDK 以及 Python、TypeScript 和 Dart 的智能体 SDK 一起使用。Atlassian、Alation、彭博社、字节跳动等公司已经开始利用它进行开发。\n谷歌介绍称，在 A2UI 中，智能体负责描述要显示的内容，每个应用都可以用自己的原生组件绘制 UI。无论用户是在公司自有应用中接入智能体，还是通过托管 MCP 应用的第三方 AI 助手（如 Gemini 或 Claude）都能获得同样的低延迟、高信任和完全的原生保真度。\nIT之家从谷歌官方博客了解到，A2UI 1.0 版本增加了双向功能调用，还增加了对可访问性和对额外元数据的扩展支持。\n开源渲染器可以在网页上用 React、Angular 和 Lit 绘制 A2UI 屏幕；用 Flutter 在移动端、网页端和桌面端渲染；以及 iOS 平台的 SwiftUI 和 Android 平台的 Jetpack Compose。\n网页和 Flutter 渲染器也运行在 MCP 应用内，因此 A2UI 内容可以出现在支持 MCP 应用的 AI 助手中，如 Claude 和 Gemini。",
+ "report": {
+  "summary": "谷歌开源A2UI 1.0，AI可直接回复原生UI界面",
+  "background": "A2UI 是谷歌 2025 年底公布的生成式 UI 开放协议，目标是让智能体不只回复文字，还能返回可被应用原生渲染的界面描述。此前智能体输出多为文本或受限卡片，跨平台、跨助手的一致体验是难点。1.0 稳定版发布意味着协议、渲染器和多语言 SDK 初步定型，并接入 MCP 生态，Atlassian、彭博社、字节跳动等已开始试用。",
+  "key_points": [
+   "智能体只描述“显示什么”，由应用用原生组件绘制，避免 WebView 或截图式 UI，兼顾原生保真与低延迟。",
+   "1.0 提供网页、Android、iOS 渲染器 SDK，覆盖 React、Angular、Lit、Flutter、SwiftUI、Jetpack Compose。",
+   "智能体 SDK 支持 Python、TypeScript、Dart，开发者可用熟悉语言把 UI 生成能力接入现有 Agent 流程。",
+   "新增双向功能调用、可访问性和元数据扩展，UI 不仅能展示，还能把用户操作回传给智能体。",
+   "通过 MCP 应用，A2UI 内容可出现在 Gemini、Claude 等第三方助手中；字节跳动等公司已用于开发。"
+  ],
+  "impact": "对 AI 行业，A2UI 把“UI”变成智能体的一种标准输出，可能催生生成式界面生态，并与 MCP、Agent 协议形成互补。开发者需关注协议规范、渲染器集成和跨端一致性，应用入口竞争加剧。普通用户将获得更直观、可操作的 AI 回复，但在第三方助手中渲染 UI 也带来权限、信任与隐私边界问题。",
+  "tools": "可关注 A2UI 官方规范与开源仓库，试用 Web（React/Angular/Lit）、Flutter、SwiftUI、Jetpack Compose 渲染器，以及 Python/TypeScript/Dart 智能体 SDK；结合 MCP 应用在 Gemini、Claude 中验证跨助手体验。"
+ },
+ "lang": "zh"
+}

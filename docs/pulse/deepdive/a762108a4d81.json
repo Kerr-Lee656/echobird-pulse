@@ -1,0 +1,24 @@
+{
+ "id": "a762108a4d81",
+ "url": "https://www.aibase.com/news/32258",
+ "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T04:50:17.978Z",
+ "fetched_at": "2026-11-12T09:45:46.473899+00:00",
+ "content": "According to Bloomberg, citing anonymous sources, OpenAI's third-quarter revenue topped $10 billion for the first time, up nearly 50% from $6.7 billion in the second quarter, signaling that the company is recovering from a growth slowdown earlier this year. Strong market demand and recent AI model launches are seen as the main factors driving the revenue rebound. Meanwhile, its adjusted operating margin narrowed from -150% in the second quarter to -109% in the third quarter, indicating improved profitability.\nEarlier, OpenAI's revenue growth rates in the first and second quarters were both reportedly around 18%. Although the company has more than 1 billion users, a significant portion of them may be free users or low-cost subscribers, and its enterprise market performance still trails rival Anthropic. Anthropic recently reported third-quarter revenue of $17 billion and said its annual revenue had risen to $81 billion as of the end of October, an increase of $10 billion in a single month. Anthropic is currently seeking a valuation of about $1.4 trillion in an IPO.\nAccording to Bloomberg, OpenAI's annual revenue has reached $50 billion. Recently, the company has driven business growth by tightening its pricing strategy, adjusting discounts, improving its models, and increasing investment in enterprise products and AI agents. However, the two companies use different methods to calculate annual revenue: Anthropic includes sales from cloud partners, while OpenAI only counts the portion of revenue it receives through partners.\nAs Meta, Amazon, Microsoft, Google, and Chinese open-source AI labs continue to intensify competition, OpenAI and Anthropic not only need to scale up commercialization but also face multiple challenges, including compute costs, enterprise market share, and model pricing.",
+ "report": {
+  "summary": "OpenAI三季度营收破100亿美元，环比增近50%，亏损收窄",
+  "background": "大模型商业化长期被质疑“烧钱换增长”。2025年上半年，OpenAI增速一度放缓至约18%，企业市场份额落后于Anthropic。此次三季度营收从67亿美元跃升至100亿美元，主要靠新模型发布、旺盛需求与定价策略收紧。与此同时，Anthropic以170亿美元季度营收、810亿美元年化收入领跑，并谋求约1.4万亿美元估值的IPO。两家公司在算力成本、企业客户与模型定价上正面交锋，Meta、谷歌、亚马逊及中国开源实验室也在加速追赶。",
+  "key_points": [
+   "OpenAI第三季度营收首次突破100亿美元，较二季度的67亿美元增长近50%，扭转了上半年仅约18%的增速颓势。",
+   "调整后营业利润率从-150%改善至-109%，虽然仍巨额亏损，但单位经济效益在好转，说明涨价与折扣收紧开始见效。",
+   "OpenAI年化营收约500亿美元、用户超10亿，但其中大量为免费或低价用户，企业市场表现仍落后于Anthropic。",
+   "Anthropic第三季度营收170亿美元、年化810亿美元，正以约1.4万亿美元估值推进IPO，成为OpenAI最强对手。",
+   "两家统计口径不同：Anthropic计入云伙伴销售额，OpenAI只算自身分成部分，直接对比数字会失真。"
+  ],
+  "impact": "对AI行业而言，头部厂商商业化提速说明大模型需求真实存在，但在巨额算力投入下仍全线亏损，“增收不增利”将长期伴随。对开发者，厂商重心转向企业产品与Agent，API定价和折扣可能收紧，成本敏感型项目需提前规划替代方案与成本监控。对普通用户，免费额度或被打折压缩、付费门槛上升，但换来更强模型与更稳定服务；Anthropic等竞品追赶也意味着选择更多、价格战仍有可能。",
+  "tools": "跟进可关注OpenAI企业产品线与API定价页；横向对比可用LMArena、Artificial Analysis看能力与成本；为对冲涨价，可评估Llama、Qwen、DeepSeek等开源模型自建，并用LangSmith类工具做Agent评测与token成本监控。"
+ },
+ "lang": "zh"
+}

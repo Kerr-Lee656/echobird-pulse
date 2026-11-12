@@ -11707,5 +11707,77 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-11T20:11:57Z",
   "fetched_at": "2026-11-12T00:39:54.674735+00:00"
+ },
+ "983b3a754a60": {
+  "id": "983b3a754a60",
+  "url": "https://www.deepl.com/en/press-release/aure-voice-ai-model",
+  "title": "DeepL unveils Aure, its most lifelike Voice AI translation model yet",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T09:39:36Z",
+  "fetched_at": "2026-11-12T09:47:08.338826+00:00"
+ },
+ "ca248e99183d": {
+  "id": "ca248e99183d",
+  "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+  "title": "Google gooses Python AI performance by... removing Python",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T09:23:49Z",
+  "fetched_at": "2026-11-12T09:47:45.522567+00:00"
+ },
+ "b8a78c09b0b4": {
+  "id": "b8a78c09b0b4",
+  "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+  "title": "Why Every AI Model Will Ship as a Torrent",
+  "source": "Hacker News (20pts, 5c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T07:20:22Z",
+  "fetched_at": "2026-11-12T09:47:58.210670+00:00"
+ },
+ "8be4734fab3a": {
+  "id": "8be4734fab3a",
+  "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
+  "title": "Finance team's ChatGPT habit is a cross-border data transfer",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T07:06:08Z",
+  "fetched_at": "2026-11-12T09:48:09.239516+00:00"
+ },
+ "24fe223f50a9": {
+  "id": "24fe223f50a9",
+  "url": "https://alignment.anthropic.com/2026/worse-together/",
+  "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T06:48:42Z",
+  "fetched_at": "2026-11-12T09:48:20.223303+00:00"
+ },
+ "43655ce3c343": {
+  "id": "43655ce3c343",
+  "url": "https://latent.space/p/jev-revolution/",
+  "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-11-12T05:08:20.000Z",
+  "fetched_at": "2026-11-12T09:48:54.585709+00:00"
+ },
+ "72625dc4de42": {
+  "id": "72625dc4de42",
+  "url": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code/",
+  "title": "What it takes to operate a SaaS when AI agents write all the code",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T04:00:41Z",
+  "fetched_at": "2026-11-12T09:49:05.469781+00:00"
+ },
+ "452f89f2c8c6": {
+  "id": "452f89f2c8c6",
+  "url": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+  "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+  "source": "OpenRouter：Announcements",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-12T00:00:00.000Z",
+  "fetched_at": "2026-11-12T09:49:17.623340+00:00"
  }
 }
