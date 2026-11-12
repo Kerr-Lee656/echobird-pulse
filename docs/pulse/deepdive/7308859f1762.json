@@ -1,0 +1,24 @@
+{
+ "id": "7308859f1762",
+ "url": "https://www.aibase.com/news/32272",
+ "title": "百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:02:35.084Z",
+ "fetched_at": "2026-11-12T18:16:14.724062+00:00",
+ "content": "At Baidu World 2026 held today, Baidu founder Robin Li officially launched a new large model service platform — “Token Exchange.” Addressing the pain points commonly faced by enterprises and developers when choosing among a huge number of large models — “difficulty choosing” and “lack of trust” — the platform innovatively adopts the operating principles of a stock exchange, aiming to provide the industry with a neutral and trustworthy venue for model trading and distribution.\nAn Analogy to a Stock Exchange: Aggregating High-Quality Resources and Model Providers\nIn day-to-day development and commercial deployment, enterprise users often find that large models on the market come in many varieties, at different prices, from uneven sources, and with actual performance that is often hard to gauge.\nThe positioning of “Token Exchange” is precisely intended to solve this pain point. It is like a stock exchange for the large model industry: on the one hand, it attracts and aggregates high-quality models and model providers; on the other hand, it creates a convenient and trustworthy procurement and invocation channel for enterprises and individual developers, enabling users to more confidently select and use model resources suited to their own business needs.\nStrict Admission Control and Continuous Monitoring: Firmly Opposing False Parameter Claims and Model Substitution\nTo ensure the quality and reliability of model resources on the platform, “Token Exchange” has built a strict screening and monitoring mechanism.\nWhen resources are first listed, the platform conducts comprehensive admission testing, covering multiple stages such as the model itself, fingerprint comparison, model capability testing, performance metric testing, and availability testing. On this basis, the platform also continuously monitors model quality parameters, using technical means to effectively prevent industry malpractices such as “model substitution” or “false parameter claims,” ensuring that every model resource has solid quality assurance.\nEstablishing Public Credit Records: Multidimensional Scoring and Dynamic Risk Alerts\nIn addition to upfront admission testing, “Token Exchange” has also established a transparent credit evaluation system.\nThe platform comprehensively scores model providers across multiple dimensions, including service quality, fulfillment, security compliance, and commercial performance, and awards corresponding credit rating labels. Once the credit of certain model providers declines, the platform proactively alerts users as soon as possible, and all evaluation and scoring data ultimately becomes publicly accessible credit records.\nAccording to data disclosed at the conference, within just one month of launch, “Token Exchange” has supplied more than 100 resources, and its average daily Token invocations have exceeded 70 billion, demonstrating strong market growth momentum.",
+ "report": {
+  "summary": "百度推出“词元所”，用证券交易所模式做大模型交易与分发",
+  "background": "随着大模型数量爆发式增长，企业选型从“没得选”变成“选不动”：模型来源杂乱、参数虚标、价格体系不透明，甚至出现用便宜模型冒充贵模型的“掉包”现象。此前业界已有 OpenRouter 这类 API 聚合平台，但普遍缺乏准入审核和信用约束。百度过去主要推自研文心系列，此次转向做“中立撮合方”，本质是把模型当成可交易资产，用交易所式的准入、披露、评级机制重建信任，也顺势把自家云与调用入口变成行业基础设施。",
+  "key_points": [
+   "模式类比证券交易所：一边聚拢模型厂商与优质模型，一边为企业开发者提供可信的采购与调用通道，解决“选型难、不信任”两大痛点。",
+   "上架前要做全套准入测试，包括模型本体、指纹比对、能力测试、性能指标和可用性，指纹比对专门用来防“换皮”和掉包。",
+   "上线后持续监控质量参数，明确反对虚标参数、模型替换等行业陋习，让标称能力与实际表现对得上。",
+   "建立公开信用档案：从服务质量、履约、安全合规、商业表现多维度打分并挂标签，信用下滑时主动向用户预警。",
+   "首月成绩单：上架资源超 100 个，日均 Token 调用量突破 700 亿，说明聚合交易模式确有真实需求。"
+  ],
+  "impact": "对行业而言，模型竞争从“拼参数、拼发布会”转向“拼履约与信用”，中小模型厂商多了一个流量入口，但也必须接受第三方审视，行业透明度和洗牌速度都会加快。对开发者，选型和比价成本下降，调用多家模型不必逐家对接、逐家踩坑，但需留意平台抽成与锁定风险。对普通用户，间接获益于更可靠的服务质量与更低的模型成本，不过“中立可信”能否长期成立，仍取决于平台自身既当裁判又当运动员的边界如何划定。",
+  "tools": "想跟进可关注：OpenRouter（多模型统一 API 聚合，可作横向对比）、LiteLLM（统一封装多家模型接口）、LMArena 与 Hugging Face 榜单（第三方能力评测）、vLLM/SGLang（自建推理服务）。自研团队也可借鉴其“指纹比对+持续探活”思路搭建内部模型准入流程。"
+ },
+ "lang": "zh"
+}

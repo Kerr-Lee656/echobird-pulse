@@ -1,0 +1,24 @@
+{
+ "id": "52c869b74129",
+ "url": "https://www.aibase.com/news/32273",
+ "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:12:35.084Z",
+ "fetched_at": "2026-11-12T18:16:05.167741+00:00",
+ "content": "Doubao Work was updated on November 12, adding support for multiple third-party large models and launching a limited-time special offer program. In addition to the two in-house models Doubao 2.1 Lite and Pro, users can now choose from models such as Kimi K3.1 Pro, GLM 5.3, and DeepSeek V4.1 Flash, expanding their options from the in-house lineup to a mainstream external lineup.\nBecause model usage costs differ, Doubao Work displays the quota consumption multiplier for each model on the model selection page. The lower the multiplier, the less quota is consumed. Users can make their own trade-offs based on task complexity, response speed, and cost-effectiveness. This approach turns differences between models into a quantifiable cost signal, making the trade-off between task results and resource consumption more transparent.\nOn the discount side, while simple, small tasks remain free, Doubao Work has introduced a limited-time promotion: during designated discount periods on weekdays and holidays, using participating models provides discounted quota consumption. The platform has also lowered the quota consumption multipliers for Doubao 2.1 Lite and DeepSeek V4.1 Flash, so the same tasks consume less and quotas last longer.\nDoubao Work is an AI Agent office product launched by Doubao for productivity scenarios. It can execute tasks around user goals and deliver work results. Currently, new users who log in to the Doubao Work desktop version can receive a 30-day subscription benefit for free.\nAt a time when Agent products generally use a single in-house model as their foundation, opening third-party access and disclosing billing multipliers means the focus of competition is shifting from a contest of model capabilities to task scheduling flexibility and unit-cost efficiency. For users, it becomes possible to choose models by stage within the same workflow; for vendors, returning model choice and pricing transparency to users also continues the trend of AI office tools moving from a closed experience toward an open model marketplace.",
+ "report": {
+  "summary": "豆包工作开放第三方模型接入，AI办公竞争转向成本与选择权",
+  "background": "AI办公Agent产品此前普遍绑定自家自研模型，比拼的是单点模型能力。但随着Agent执行多轮任务，推理成本与配额消耗成为用户最现实的痛点；同时DeepSeek、GLM、Kimi等国产模型能力快速追平且价格更有攻击性。豆包工作此次在自研豆包2.1 Lite/Pro之外引入多家第三方模型，并把不同模型的配额消耗倍率直接展示在选择页，等于把\"模型差异\"翻译成可比较的价格标签，也顺应了AI工具从封闭体验走向开放模型市场的趋势。",
+  "key_points": [
+   "用户可在豆包工作内直接切换豆包2.1、Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash，不再被单一自研模型锁死。",
+   "模型选择页明示配额消耗倍率，倍率越低越省配额，用户可按任务复杂度、响应速度和性价比自行取舍。",
+   "平台对豆包2.1 Lite与DeepSeek V4.1 Flash下调消耗倍率，并在工作日、节假日指定时段做限时折扣，简单小任务仍免费。",
+   "竞争焦点从\"谁的模型更强\"转向任务调度灵活性与单位成本效率，新用户登录桌面版可领30天订阅权益。",
+   "同一工作流内可以分阶段换模型：难任务用强模型，简单环节用便宜模型，把成本控制权交给用户。"
+  ],
+  "impact": "对AI行业，模型厂商在办公Agent里变成可替换的供应商，议价权从平台转向用户，性价比与调用成本会成为采购标准，倒逼模型降价与差异化。对开发者，多模型路由、成本感知调度、配额计量与统一计费将成为新的基础设施需求，单纯封装一家模型的产品壁垒被削弱。对普通用户，办公AI更便宜也更透明，但需要学会看倍率、按任务选模型，选择成本上升，低价模型的实际效果仍需自行验证。",
+  "tools": "想跟进可关注 LiteLLM、OpenRouter、One API/New API 做多模型统一调用与成本统计；用 LangGraph、Dify、Coze 搭建可切换模型的Agent工作流；也可直接体验豆包工作桌面版，实测各模型倍率与实际产出质量的性价比。"
+ },
+ "lang": "zh"
+}

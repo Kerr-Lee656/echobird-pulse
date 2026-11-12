@@ -11779,5 +11779,95 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-12T00:00:00.000Z",
   "fetched_at": "2026-11-12T09:49:17.623340+00:00"
+ },
+ "c7a410ad3b86": {
+  "id": "c7a410ad3b86",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+  "title": "Introducing Gemini 4 Hydrogen",
+  "source": "Google DeepMind",
+  "site_name": "Google DeepMind",
+  "published_at": "2026-11-12T18:00:50.000Z",
+  "fetched_at": "2026-11-12T18:17:16.794404+00:00"
+ },
+ "58fe5927eaaf": {
+  "id": "58fe5927eaaf",
+  "url": "https://brave.com/blog/search-api-agentic-payments/",
+  "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T17:53:02Z",
+  "fetched_at": "2026-11-12T18:17:27.765802+00:00"
+ },
+ "ef1864c379e0": {
+  "id": "ef1864c379e0",
+  "url": "https://aihot.news/items/licdk6vosezxouovor3gvtcpe",
+  "title": "The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云",
+  "source": "The Verge：AI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-12T17:44:33.000Z",
+  "fetched_at": "2026-11-12T18:17:43.487697+00:00"
+ },
+ "cf8aede2b245": {
+  "id": "cf8aede2b245",
+  "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+  "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-12T17:36:40.000Z",
+  "fetched_at": "2026-11-12T18:17:55.029793+00:00"
+ },
+ "e2dad76f2609": {
+  "id": "e2dad76f2609",
+  "url": "https://village.dev/blog/us-companies-are-seeking-fewer-foreign-software-developers-and-far-more-ai-engineers/",
+  "title": "US companies are seeking fewer foreign developers, and more \"AI engineers\"",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T17:13:26Z",
+  "fetched_at": "2026-11-12T18:18:30.801708+00:00"
+ },
+ "0039716ebb4a": {
+  "id": "0039716ebb4a",
+  "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+  "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-12T17:00:52.000Z",
+  "fetched_at": "2026-11-12T18:19:00.474396+00:00"
+ },
+ "f7c41593b1c7": {
+  "id": "f7c41593b1c7",
+  "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
+  "title": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T16:53:48Z",
+  "fetched_at": "2026-11-12T18:19:12.217460+00:00"
+ },
+ "4c8d525f9cec": {
+  "id": "4c8d525f9cec",
+  "url": "https://thenewstack.io/perplexity-teammates-agent-orchestration/",
+  "title": "Perplexity Teammates: always-on AI agents that message your coworkers in Slack",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T16:40:32Z",
+  "fetched_at": "2026-11-12T18:19:22.876300+00:00"
+ },
+ "548fe94a79cb": {
+  "id": "548fe94a79cb",
+  "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+  "title": "Jensen Huang agrees to testify before Congress",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-12T16:36:37.000Z",
+  "fetched_at": "2026-11-12T18:19:35.698282+00:00"
+ },
+ "225eab3faf34": {
+  "id": "225eab3faf34",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+  "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T16:22:59Z",
+  "fetched_at": "2026-11-12T18:19:49.399695+00:00"
  }
 }

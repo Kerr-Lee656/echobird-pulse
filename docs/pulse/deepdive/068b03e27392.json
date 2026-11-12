@@ -1,0 +1,23 @@
+{
+ "id": "068b03e27392",
+ "url": "https://www.aibase.com/news/32276",
+ "title": "国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:12:35.084Z",
+ "fetched_at": "2026-11-12T18:15:36.333084+00:00",
+ "content": "Artificial intelligence is making new breakthroughs in scientific research and disaster prevention and mitigation. Recently, as the 2026 \"New Journey: A Look at Emergency Response\" interview tour visited the National Key Laboratory of Earthquake Dynamics and Strong Earthquake Prediction, a domestically developed seismic large model capable of listening to the Earth's \"heartbeat\"—\"Diting\"—officially came into public view.\nPooling Massive Data: Delivering Ultra-Fast Major Earthquake Reports via a Single Station\nAs a large model specialized in the seismic field, \"Diting\" has already successfully assembled a high-quality dataset of more than 20 million entries.\nIn current practical applications, Diting's core functions mainly focus on earthquake monitoring and rapid reporting of major earthquakes. To meet the urgent need of some cutting-edge high-tech enterprises to quickly obtain information about seismic events, Diting has demonstrated a unique technical advantage: it can provide seismic information extremely quickly by relying on just a single station. Although there is a certain margin of error in accuracy, its response speed is significantly faster than conventional earthquake bulletins, giving relevant enterprises a valuable time window for emergency response.\nTargeting Long-Term Research: Mining Deep Signals to Empower Prediction and Forecasting\nIn addition to meeting current emergency rapid-reporting needs, the Diting R&D team has a more far-reaching strategic plan for the future.\nAccording to the project team, the project's long-term goal is not limited to rapid notification of events. Instead, it aims to use AI's powerful computing power and pattern recognition capabilities to dig deep into the complex physical signals hidden behind seismic activity, thereby providing solid data support and technological empowerment for future earthquake prediction and forecasting as well as related basic scientific research.",
+ "report": {
+  "summary": "国产地震大模型“谛听”亮相，2000万数据集支撑快速速报。",
+  "background": "传统地震速报通常依赖多台站联合定位，响应速度和台站密度影响明显。近年来，AI已用于震相拾取、震级估计和地震预警，但专用大模型与超大规模高质量数据集仍较少。此次“谛听”在国家重点实验室相关活动中公开，汇聚2000万条数据，聚焦地震监测与强震速报，并规划向预测预报和基础科研延伸，反映科学大模型正从通用能力走向垂直场景落地。",
+  "key_points": [
+   "“谛听”已汇聚超过2000万条高质量地震数据，为专用大模型训练提供基础，数据规模和领域质量构成核心壁垒。",
+   "单台站即可快速产出地震信息，速度显著快于常规地震公报，适合对时间敏感的前沿企业争取应急响应窗口。",
+   "单台站方案以一定精度误差换取响应速度，定位应是应急时间窗口补充，而非替代官方正式速报，需明确适用边界。",
+   "团队长期目标不止于事件通知，而是用AI算力和模式识别挖掘地震活动背后的复杂物理信号，为预测预报和基础科研提供支撑。"
+  ],
+  "impact": "对AI行业而言，这是科学大模型垂直化、专用化的示范，说明“大规模领域数据+专用模型”可在防灾减灾中形成实际价值。对开发者，地震AI的关键在时序信号处理、不确定性量化和低延迟推理，单台站快速定位是工程难点。对普通用户，未来可能更快获得震情提示，但需理解AI速报存在误差，不能将其等同于官方预警或正式判定。",
+  "tools": "想跟进可关注ObsPy处理地震波形、SeisBench做震相拾取基准、PhaseNet/EQTransformer识别震相，并用PyTorch复现；结合公开地震目录评估单台站定位误差与响应延迟。"
+ },
+ "lang": "zh"
+}

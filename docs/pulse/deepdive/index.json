@@ -22597,5 +22597,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-12T01:02:19Z",
   "fetched_at": "2026-11-12T09:46:26.406054+00:00"
+ },
+ "c342d2334759": {
+  "id": "c342d2334759",
+  "url": "https://thenextweb.com/news/softbank-loss-7bn-ai-data-centre-power-equipment-writedown",
+  "title": "SoftBank swings to $7bn loss after writing off $3.7bn of AI power gear",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T18:14:22.447106+00:00"
+ },
+ "19ffd8fb891d": {
+  "id": "19ffd8fb891d",
+  "url": "https://www.36kr.com/p/4065770698331011",
+  "title": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:14:40.952680+00:00"
+ },
+ "9ce01a17e019": {
+  "id": "9ce01a17e019",
+  "url": "https://www.qbitai.com/2026/11/509440.html",
+  "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T18:14:52.045453+00:00"
+ },
+ "ea77527642ee": {
+  "id": "ea77527642ee",
+  "url": "https://www.aibase.com/news/32278",
+  "title": "百度文心大模型再升级：ERNIE 5.5 Flash Preview 亮相，模型权重将于 11 月 25 日前正式开源",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:15:24.374065+00:00"
+ },
+ "068b03e27392": {
+  "id": "068b03e27392",
+  "url": "https://www.aibase.com/news/32276",
+  "title": "国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:15:36.333084+00:00"
+ },
+ "562269e71d0d": {
+  "id": "562269e71d0d",
+  "url": "https://www.aibase.com/news/32275",
+  "title": "腾讯辟谣裁员50%:计划将一半力量投入AI Native探索",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:15:46.060329+00:00"
+ },
+ "d6da74936280": {
+  "id": "d6da74936280",
+  "url": "https://www.aibase.com/news/32274",
+  "title": "阿里重磅官宣千问大模型 Qwen4：核心能力全线进化，千问 App 现已全面接入预览版",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:15:54.582936+00:00"
+ },
+ "52c869b74129": {
+  "id": "52c869b74129",
+  "url": "https://www.aibase.com/news/32273",
+  "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:12:35.084Z",
+  "fetched_at": "2026-11-12T18:16:05.167741+00:00"
+ },
+ "7308859f1762": {
+  "id": "7308859f1762",
+  "url": "https://www.aibase.com/news/32272",
+  "title": "百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-12T14:02:35.084Z",
+  "fetched_at": "2026-11-12T18:16:14.724062+00:00"
+ },
+ "a850a82db2c8": {
+  "id": "a850a82db2c8",
+  "url": "https://juejin.cn/post/7706584659240894483",
+  "title": "10秒出4K，MiniMax还开源了！H3 Image上线！",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-12T13:48:15.614Z",
+  "fetched_at": "2026-11-12T18:16:25.987409+00:00"
  }
 }

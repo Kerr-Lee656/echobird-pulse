@@ -1,0 +1,25 @@
+{
+ "id": "d6da74936280",
+ "url": "https://www.aibase.com/news/32274",
+ "title": "阿里重磅官宣千问大模型 Qwen4：核心能力全线进化，千问 App 现已全面接入预览版",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:12:35.084Z",
+ "fetched_at": "2026-11-12T18:15:54.582936+00:00",
+ "content": "The AI race has welcomed a brand-new iteration of its core architecture. Alibaba recently officially announced that its new-generation Qwen large model, Qwen4, is about to be fully released. As a major upgrade in technical architecture, the new-generation model has achieved significant performance leaps across multiple key dimensions.\nMulti-dimensional capabilities evolve across the board, with standout performance on many real-world tasks\nAccording to the core highlights officially disclosed, Qwen4 has made deep advances in multiple underlying capabilities:\nKnowledge understanding: It broadens the breadth of the underlying database and semantic parsing, enabling it to handle more complex context and knowledge Q&A.\nWorld perception: It improves comprehensive modeling and multimodal perception capabilities for complex real-world information.\nCoding and agents: It achieves significant improvements in code writing, logical reasoning, and the execution performance of automated agents (Agent), delivering outstanding results in multiple real-world task tests.\nPreview version launched first, Qwen App fully integrated\nAlong with the official announcement of the release, to allow users and developers to experience the new model's capabilities as soon as possible, the official core app Qwen App has immediately integrated the preview version of Qwen4-Max. At present, users can go to the Qwen App to get an early taste and experience the new-generation large model's all-new performance in everyday conversations and complex task handling.",
+ "report": {
+  "summary": "阿里官宣Qwen4即将全面发布，Qwen App已上线Qwen4-Max预览版供体验。",
+  "background": "Qwen系列是阿里通义千问的核心模型家族，也是国内开源大模型生态中下载量和衍生的微调模型最多的系列之一。此前几代（Qwen2.5、Qwen3等）以密集的小版本迭代加开源权重策略，在开发者中建立了口碑。2025年以来，国内大模型竞争进一步升温：DeepSeek以推理能力出圈，字节豆包、月之暗面Kimi、腾讯混元等密集更新，模型能力的比拼重点从“能聊天”转向代码、Agent、多模态等真实任务。在这种背景下，Qwen4被定位为技术架构层面的重大升级，并选择先用App预览版让用户试用，而不是只发布基准测试分数。",
+  "key_points": [
+   "知识理解升级：官方称底层知识库和语义解析能力被拓宽，模型能处理更长的上下文和更复杂的知识问答。",
+   "世界感知增强：强化对复杂现实信息的综合建模与多模态感知，意味着图片、视频等非文本输入的理解会更准确。",
+   "代码与Agent是重点提升方向：代码编写、逻辑推理以及自动化智能体执行表现都有明显改善，更贴近实际工作流。",
+   "上线节奏上先体验后发布：Qwen App 已接入 Qwen4-Max 预览版，普通用户现在就能在对话和复杂任务中试用。",
+   "“Max”后缀暗示存在不同规格的版本矩阵，正式发布时预计还会有面向不同算力与场景的型号。",
+   "值得注意的是，通稿未提及开源权重与 API 定价；对开发者来说，这两点是后续最需要关注的信息。"
+  ],
+  "impact": "对AI行业而言，Qwen4延续了国产头部模型的快速迭代节奏，Agent与代码能力的强化，意味着竞争焦点正从基准测试分数转向“能否真正完成任务”；阿里用超级App直接承载预览版，也把模型发布变成了产品级的分发动作。对开发者来说，短期要多关注API价格、上下文长度和工具调用稳定性；若延续开源传统，微调与私有化部署的选项会更丰富。对普通用户，最直接的变化是千问App里的回答质量和多步骤任务处理会更顺滑，可以先在预览版上验证是否适合自己。",
+  "tools": "想跟进可关注：Qwen App（直接体验 Qwen4-Max 预览版）、阿里云百炼平台（API 接入与模型对比）、Qwen 系列在 Hugging Face/ModelScope 的开源仓库、以及 Qwen-Agent 框架用于搭建智能体；代码能力可用自建评测集横向对比。"
+ },
+ "lang": "zh"
+}

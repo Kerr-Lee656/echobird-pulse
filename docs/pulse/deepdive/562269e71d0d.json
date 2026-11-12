@@ -1,0 +1,23 @@
+{
+ "id": "562269e71d0d",
+ "url": "https://www.aibase.com/news/32275",
+ "title": "腾讯辟谣裁员50%:计划将一半力量投入AI Native探索",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:12:35.084Z",
+ "fetched_at": "2026-11-12T18:15:46.060329+00:00",
+ "content": "On November 12, in response to online rumors that \"Tencent is laying off 50% of its staff,\" Zhang Jun, Tencent's public relations director, said the claim was completely untrue. During Tencent's 28th anniversary Linktime livestream, management did express its determination to accelerate organizational change, but this adjustment is not the previous \"cost reduction and efficiency improvement\" effort focused mainly on cutting costs. Instead, it is a proactive organizational transformation for the AI era, with the core goals of improving efficiency and sparking innovation.\nZhang Jun said Tencent hopes frontline teams will more actively explore new businesses and new value, while middle management needs to be further flattened and the organization made more agile. In terms of resource allocation, Tencent proposed that about 50% of its workforce be devoted to existing core businesses, using efficiency gains to strengthen its foundation; the other roughly 50% will focus on the AI wave, exploring AI Native directions and opening up new room for growth.\nThis statement was misinterpreted by outsiders as a layoff ratio. Tencent stressed that the arrangement is a reallocation of organizational resources for the AI era, not a 50% layoff. The response also reflects Tencent's attempt to accelerate efficiency improvements in core businesses and exploration of new AI businesses through adjustments to its organizational structure and resource allocation.",
+ "report": {
+  "summary": "腾讯辟谣裁员50%，称将一半人力投入AI Native探索",
+  "background": "11月12日，针对“腾讯裁员50%”的网络传言，腾讯公关总监张军回应称完全失实。在腾讯28周年Linktime直播中，管理层确实表达了加速组织变革的决心，但这不是以往以削减成本为主的“降本增效”，而是面向AI时代的主动组织转型，核心目标是提升效率、激发创新。传言将资源分配比例误读为裁员比例，腾讯强调这是组织资源重新配置。",
+  "key_points": [
+   "辟谣裁员：腾讯明确否认裁员50%的传言，称相关说法完全失实，外界把资源投入比例误读成了裁员比例。",
+   "一半守成一半进攻：约50%人力继续投入现有核心业务，用效率提升夯实基本盘；另约50%聚焦AI浪潮，探索AI Native方向。",
+   "组织更扁平：中层管理需进一步压缩，前线团队被期望更主动探索新业务和新价值，组织向更敏捷方向调整。",
+   "性质不同以往：这次不是以砍成本为核心的“降本增效”，而是面向AI时代的主动转型，目标是提效与创新并重。"
+  ],
+  "impact": "对AI行业而言，大厂把近半资源转向AI Native，可能带动更多公司调整组织与人才结构；对开发者来说，AI Native项目和新岗位会增多，同时核心业务更强调人效；对普通用户，腾讯产品AI化有望加速，微信、办公、内容等场景的智能功能迭代可能更快。",
+  "tools": "可关注腾讯混元大模型、腾讯元宝App、腾讯云TI平台及智能体开发平台，跟踪大厂AI Native产品落地；也可结合开源Agent框架做原型验证。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "ea77527642ee",
+ "url": "https://www.aibase.com/news/32278",
+ "title": "百度文心大模型再升级：ERNIE 5.5 Flash Preview 亮相，模型权重将于 11 月 25 日前正式开源",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-12T14:12:35.084Z",
+ "fetched_at": "2026-11-12T18:15:24.374065+00:00",
+ "content": "The open-source AI ecosystem has reached another important milestone. Baidu's ERNIE official blog recently officially released a new model, ERNIE5.5Flash Preview. As the first post-training version of the previous Base model, it has delivered impressive results in architectural specifications, context processing capabilities, and multi-scenario Agent application demonstrations, and has clearly promised that its model weights will be fully open-sourced by November 25.\nCore Specs and Technical Highlights: 280B Total Parameters, Support for 1M Ultra-Long Context\nIn terms of core technical parameters, ERNIE5.5Flash Preview uses a hybrid architecture design with a total of 280B parameters and 14B active parameters, balancing the model's overall comprehension ability with efficient everyday reasoning.\nAt the same time, this version offers powerful long-text processing capabilities, supporting a context window of up to 1M. It can easily handle massive data analysis, parsing extremely long codebases, and complex cross-document retrieval tasks. Currently, the model's API has already gone live on Baidu's Qianfan platform, allowing developers and enterprise users to invoke and test it.\nRich Application Scenario Demonstrations: Fully Empowering Game Development, 3D Modeling, and Video Creation\nTo give the public a more intuitive understanding of the new model's real-world deployment potential, the official release showcased multiple cutting-edge Agent application scenario results.\nIn terms of specific implementation areas, ERNIE5.5Flash Preview demonstrated excellent collaborative performance in complex workflows such as game development, 3D modeling, knowledge work, and video creation. Through efficient orchestration of agents, it can greatly simplify the production and creation processes for professional content.\nFuture Plans and Open-Source Commitment: Continuous Optimization Ahead of the Official Release\nIt should be noted that Baidu officially stated that the ERNIE5.5Flash Preview released this time is only an intermediate version in the post-training stage.\nIn the coming period, the R&D team will continue to optimize algorithms and refine performance based on actual user feedback and test data, laying the foundation for the subsequent launch of the official version. Regarding the issue of weight access, which developers and the open-source community care about most, the official team has confirmed that the model weights will be officially open-sourced by November 25, injecting new vitality into China's open-source AI ecosystem.",
+ "report": {
+  "summary": "百度发布文心ERNIE 5.5 Flash Preview，参数280B，并将于11月25日前开源权重",
+  "background": "百度文心大模型一直以闭源和云API为主，与阿里通义、DeepSeek、Llama等开源路线的竞争压力逐渐增大。ERNIE 5.5 Flash 是上一代 Base 模型的后训练版本，先开放 API、再承诺开源权重，是百度少见的开放姿态；这既为即将发布的正式版征集反馈数据，也意在争夺开发者生态与国内开源话语权。当前国产开源模型在长上下文和 Agent 能力上竞争激烈，1M 上下文正成为顶级模型的标配。",
+  "key_points": [
+   "模型采用混合专家（MoE）架构，总参数 280B、激活参数仅 14B，兼顾强理解力与低成本推理，日常调用更划算。",
+   "支持 1M 超长上下文，可处理超长代码库解析、跨文档检索和大规模数据分析等任务。",
+   "官方演示了游戏开发、3D 建模、知识工作、视频创作等 Agent 应用场景，强调多智能体协作编排能力。",
+   "此次发布的是后训练阶段的中间版本，正式版发布前，团队将根据用户反馈持续优化算法与性能。",
+   "API 已在百度千帆平台上线，开发者可立即调用测试，模型权重承诺在 11 月 25 日前全部开源。"
+  ],
+  "impact": "对 AI 行业而言，百度将旗舰级模型开源会进一步压低国内大模型 API 的价格，并加剧开源与闭源路线的竞争；若权重按时开放，国产开源模型将再添一个 200B 级以上的旗舰选项。对开发者来说，1M 上下文、280B 参数和较低的激活成本，使其适合处理超长代码库和 Agent 工作流，可提前通过千帆平台验证；正式开源后，还可以私有化部署和微调。对普通用户而言，长文档分析、视频与 3D 内容生成等应用会更便宜、更快落地。",
+  "tools": "可关注：百度千帆平台（API 试用）、ERNIE 官方 GitHub 和 HuggingFace 仓库（11 月 25 日前开源）、vLLM 和 SGLang（MoE 高吞吐推理）、LangGraph 或 Dify（Agent 编排），以及长上下文评测工具 RULER、LongBench。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "548fe94a79cb",
+ "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+ "title": "Jensen Huang agrees to testify before Congress",
+ "source": "TechCrunch AI",
+ "site_name": "TechCrunch AI",
+ "published_at": "2026-11-12T16:36:37.000Z",
+ "fetched_at": "2026-11-12T18:19:35.698282+00:00",
+ "content": "Ex-Nvidia CEO Jensen Huang has agreed to testify before Congress, House Foreign Affairs Committee Chairman Brian Mast said on Thursday, according to reports from Bloomberg and NBC News.\nHuang, who stepped down as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.\nHuang has agreed to testify before Congress by Thanksgiving, which falls later this month.\nThe development comes after House Republicans Mast, John Moolenaar, and Rick Crawford sent Huang a letter on November 4 requesting that he appear before their committees. Moolenaar chairs the House Select Committee on the Chinese Communist Party, Mast chairs the House Committee on Foreign Affairs, and Crawford chairs the House Intelligence Committee.\n“Jensen and I have been very at odds as some of you already know on export controls, but Nvidia is a very important company to the United States of America,” Mast said to reporters. “I don’t want to see anything hurt in Nvidia, but he has some very serious questions to answer.”\nThe testimony will take place behind closed doors, though Mast said he expects the briefing to be recorded on video and transcribed.",
+ "report": {
+  "summary": "Jensen Huang, ex-Nvidia CEO, agrees to testify before Congress after lawmakers threatened subpoenas over export controls and national-security questions.",
+  "background": "Nvidia sits at the center of the AI boom, supplying the GPUs that power most large-model training and inference. Its China business has long been caught between U.S. export controls and Beijing's push for domestic alternatives. The report says Huang stepped down as CEO after reports of an alleged affair with a woman suspected of spying for China, adding governance and national-security sensitivity to an already charged policy debate. Three Republican committee chairs—Foreign Affairs, the Select Committee on the Chinese Communist Party, and Intelligence—requested his appearance, signaling that lawmakers want to probe export-control decisions, corporate leadership, and possible foreign-influence risks. Huang agreed after senior lawmakers threatened a subpoena, according to the article.",
+  "key_points": [
+   "Huang agreed to testify after House committee leaders threatened to subpoena him. The chairmen of Foreign Affairs, the Select Committee on the Chinese Communist Party, and Intelligence had requested his appearance in a November 4 letter.",
+   "The session will be behind closed doors, but Foreign Affairs Chairman Brian Mast said he expects it to be video-recorded and transcribed. Huang is expected to appear before Thanksgiving later this month.",
+   "Lawmakers frame the testimony around export controls and Nvidia's importance to U.S. technology leadership. Mast said he and Huang have been 'very at odds' on export controls but that Nvidia must not be hurt.",
+   "The hearing follows reports that Huang stepped down as CEO after an alleged affair with a woman suspected of spying for China. Those allegations add a national-security and corporate-governance dimension to the export-policy fight."
+  ],
+  "impact": "For the AI industry, the testimony reinforces that chip export policy remains a top political risk. Nvidia's roadmap, China revenue, and customer allocations could be affected by congressional pressure, even if the hearing is closed. For developers, any tighter export controls or compliance scrutiny could influence GPU prices, cloud capacity, and access to high-end accelerators. For regular users, the stakes are indirect but real: AI product costs and availability depend on stable chip supply chains. The hearing may also shape how Congress treats allegations of foreign influence inside critical AI companies, raising governance expectations for founders and boards.",
+  "tools": "No direct open-source tool is tied to this story. For follow-up, monitor the House Foreign Affairs, Select Committee on the CCP, and Intelligence Committee pages for transcripts; track Nvidia SEC filings and Bureau of Industry and Security export-control updates. Congress.gov and Federal Register alerts can help policy watchers track related legislation and rules."
+ },
+ "lang": "en"
+}
