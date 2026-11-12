@@ -11869,5 +11869,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-12T16:22:59Z",
   "fetched_at": "2026-11-12T18:19:49.399695+00:00"
+ },
+ "4e10e32134f8": {
+  "id": "4e10e32134f8",
+  "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T23:06:17Z",
+  "fetched_at": "2026-11-12T23:39:00.192686+00:00"
+ },
+ "fcb6b3d907ab": {
+  "id": "fcb6b3d907ab",
+  "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-12T22:28:47.000Z",
+  "fetched_at": "2026-11-12T23:39:12.505108+00:00"
+ },
+ "b03097b50c68": {
+  "id": "b03097b50c68",
+  "url": "https://news.ycombinator.com/item?id=50475057",
+  "title": "Inception.ai winding down their Mercury API service",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T22:10:51Z",
+  "fetched_at": "2026-11-12T23:39:26.501357+00:00"
+ },
+ "a5315fa167dc": {
+  "id": "a5315fa167dc",
+  "url": "https://joost.blog/agents-sharing-user-signals/",
+  "title": "OpenAI wants agents to tell websites where you are",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T22:01:12Z",
+  "fetched_at": "2026-11-12T23:39:38.143447+00:00"
+ },
+ "076934ef461b": {
+  "id": "076934ef461b",
+  "url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+  "source": "Hacker News (82pts, 19c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T21:56:11Z",
+  "fetched_at": "2026-11-12T23:39:49.073419+00:00"
+ },
+ "7378b831add5": {
+  "id": "7378b831add5",
+  "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+  "title": "United to block customers from using AI agents, citing cyber threats",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-12T20:07:26Z",
+  "fetched_at": "2026-11-12T23:40:36.481356+00:00"
  }
 }

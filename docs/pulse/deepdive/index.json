@@ -22687,5 +22687,41 @@
   "site_name": "NewsNow",
   "published_at": "2026-11-12T13:48:15.614Z",
   "fetched_at": "2026-11-12T18:16:25.987409+00:00"
+ },
+ "0dba6d59541c": {
+  "id": "0dba6d59541c",
+  "url": "https://thenextweb.com/news/google-deepmind-alphaproof-code-signal-encryption-formal-verification",
+  "title": "Google DeepMind’s AI agents formally verify Signal’s encryption code",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-12T23:37:05.293195+00:00"
+ },
+ "9969dce6b540": {
+  "id": "9969dce6b540",
+  "url": "https://www.qbitai.com/2026/11/509381.html",
+  "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T23:37:24.559510+00:00"
+ },
+ "376c8ad1ba6d": {
+  "id": "376c8ad1ba6d",
+  "url": "https://www.qbitai.com/2026/11/509291.html",
+  "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-12T23:37:32.434528+00:00"
+ },
+ "cbd7d968d7a9": {
+  "id": "cbd7d968d7a9",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+  "title": "NVIDIA Announces CEO Transition",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-12T13:52:29Z",
+  "fetched_at": "2026-11-12T23:37:43.938932+00:00"
  }
 }

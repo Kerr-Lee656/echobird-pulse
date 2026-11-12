@@ -1,0 +1,24 @@
+{
+ "id": "cbd7d968d7a9",
+ "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+ "title": "NVIDIA Announces CEO Transition",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-12T13:52:29Z",
+ "fetched_at": "2026-11-12T23:37:43.938932+00:00",
+ "content": "- Jensen Huang Resigns\n- Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO\n- Harvey C. Jones Appointed First-Ever Chair of the Board\nNVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.\nColette Kress, current Executive Vice President and Chief Financial Officer of NVIDIA, has agreed to serve as Interim Chief Executive Officer. Kress will continue to serve as Executive Vice President and Chief Financial Officer while serving as Interim Chief Executive Officer until a permanent successor has been named. The Board is initiating a search for a permanent Chief Executive Officer and will consider internal and external candidates.\nKress has served as Executive Vice President and Chief Financial Officer of NVIDIA since joining the company in September 2013. During her tenure, she has led the company’s finance organization and has played a key role in NVIDIA’s growth and evolution. Prior to joining NVIDIA, Kress spent nearly 25 years in finance roles at leading technology companies, including Cisco and Microsoft.\nThe Board of Directors appointed Harvey C. Jones as its first-ever Chair of the Board. Mr. Jones has been an entrepreneur, technology executive, and active venture investor for over 30 years, including serving as Chief Executive Officer and Executive Chairman of Synopsys.\n“Colette has helped lead NVIDIA through a period of extraordinary growth and has a deep understanding of our business, customers, operations and financial position,” said Harvey Jones, Chair of the NVIDIA Board of Directors. “She is supported by an experienced leadership team that has been instrumental in executing NVIDIA’s strategy and advancing its technology roadmap. The Board has full confidence in Colette and the leadership team, and we expect the company’s operations, customer commitments and product roadmap to continue without interruption.”\n“NVIDIA’s strength has always come from its people, and together with our leadership team, I am committed to building on the extraordinary foundation Jensen created over the last 33 years,” said Colette Kress, Interim CEO and CFO, NVIDIA. “We will continue advancing the work that has made NVIDIA a leader in accelerated computing and AI, and execute on the opportunities ahead. Our focus remains on serving our customers, partners, developers and shareholders.”\nJensen’s contributions to NVIDIA are profound. NVIDIA is one of the most consequential technology companies in the world. The Board and the company thank Jensen for his immeasurable contributions to the company and the industry.\nNVIDIA will report its third-quarter fiscal 2027 financial results on Tuesday, November 17, at approximately 1:20 p.m. PT, as previously scheduled, followed by its earnings call at 2 p.m. PT.",
+ "report": {
+  "summary": "黄仁勋辞任英伟达CEO，CFO临时接任",
+  "background": "黄仁勋1993年联合创办英伟达，长期以GPU和CUDA推动加速计算与AI基础设施，使公司成为AI芯片核心供应商。此次在AI热潮中突然卸任，董事会迅速安排CFO过渡并首设董事长，市场将关注战略连续性与继任者选择。",
+  "key_points": [
+   "黄仁勋立即辞去总裁、CEO及董事职务，结束其33年执掌英伟达的时期，公告未说明具体原因。",
+   "CFO Colette Kress出任临时CEO并继续兼任CFO，董事会已启动内部与外部遴选永久CEO。",
+   "Harvey C. Jones被任命为首任董事会主席，其曾担任Synopsys CEO和执行主席，有30多年科技与投资经验。",
+   "董事会强调公司运营、客户承诺和产品路线图不会中断，试图稳定市场与合作伙伴信心。",
+   "英伟达仍按原计划于11月17日发布2027财年第三季度财报并召开电话会，继任不确定性将成焦点。"
+  ],
+  "impact": "对AI行业，英伟达是算力核心，CEO突变可能引发供应链、客户信心和战略节奏担忧；对开发者，CUDA、TensorRT等生态短期预计延续，但长期路线需观察；对普通用户，AI产品与服务不会立即变化，但芯片竞争和AI应用成本可能受间接影响。",
+  "tools": "可关注 NVIDIA Developer Blog、CUDA、TensorRT、Triton，以及PyTorch生态；并跟踪11月17日财报电话会与董事会继任公告。"
+ },
+ "lang": "zh"
+}
