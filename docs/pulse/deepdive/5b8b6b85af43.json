@@ -1,0 +1,24 @@
+{
+ "id": "5b8b6b85af43",
+ "url": "https://slashdot.org/story/26/11/13/027258/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+ "title": "FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-13T21:59:43.771021+00:00",
+ "content": "FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace 48\n\t\t\t\n\t\t \t\n\t\t\t\tThe FAA is expanding its $875 million AI-powered SMART system to all 22 U.S. air traffic control centers across the country. Since being implemented over Washington, DC, on September 21, the system has helped reroute 180 flights, saving an average of 10 minutes and nearly 80 gallons of fuel per flight. Ars Technica reports:  The FAA fact sheet describes SMART as a cloud-based system that combines information about \"weather patterns, flight paths, traffic flow and controller staffing metrics\" to predict air traffic patterns. It is designed to make scheduling recommendations, identify optimal flight routes, and determine the best order of arrivals for aircraft. However, a human team of FAA specialists based in DC is ultimately responsible for validating the SMART system recommendations before passing them along to air traffic control facilities across the country, according to the agency. Furthermore, the AI-powered SMART system \"cannot be used to replace the critical role air traffic controllers play or take over control of an aircraft,\" the FAA clarified in the September 21 announcement about the initial deployment. Local air traffic controllers can decide whether or not to accept the SMART system recommendations.\n[...] Following the initial deployment in airspace above DC, the FAA expanded the SMART system's coverage to air route traffic control centers in Atlanta along with Jacksonville and Miami in Florida, according to The Dallas Morning News. The FAA also shared an example with The Dallas Morning News about how SMART recommended a shorter and faster route for a cargo flight arriving at Dallas-Fort Worth International Airport, although the newspaper noted that the agency did not identify the flight involved and has not provided information about how SMART may have assisted passenger flight traffic.",
+ "report": {
+  "summary": "美 FAA 将 8.75 亿美元 AI 空管系统 SMART 推广至全美 22 个管制中心",
+  "background": "美国联邦航空管理局（FAA）长期面临空管人员短缺、航班延误和拥堵压力。2025 年 9 月 21 日，FAA 在华盛顿特区空域首次部署名为 SMART 的云 AI 系统，用天气、航路、流量和管制员人力等数据预测交通态势并给出调度建议。该系统项目总额 8.75 亿美元。试点两个月后，FAA 决定将其扩展至亚特兰大、杰克逊维尔、迈阿密，最终覆盖全美 22 个航路管制中心，但始终强调 AI 只建议、不接管飞机控制。",
+  "key_points": [
+   "SMART 是云端 AI 决策辅助系统，综合天气、航路、流量和管制员排班数据，预测拥堵并推荐最优航线和到达顺序。",
+   "在华盛顿特区试点期间，系统帮助改航 180 架次，平均每班节省约 10 分钟和近 80 加仑燃油。",
+   "职责边界清晰：AI 建议先由 DC 的 FAA 专家团队审核，再下发各地空管，当地管制员可自主决定是否采纳。",
+   "FAA 明确 SMART 不能替代管制员，也不能直接控制飞机，最终安全责任仍由人承担。",
+   "扩张路径为从华盛顿到亚特兰大、杰克逊维尔、迈阿密，最终覆盖全美 22 个航路管制中心。"
+  ],
+  "impact": "对 AI 行业而言，这是生成式 AI 之后‘决策辅助型 AI’进入国家级关键基础设施的重要案例，强调人机协同而非自动化替代。对开发者来说，高可靠、可解释、带人工审核环节的 AI 编排与仿真优化能力将更受青睐。对普通旅客，短期可能体现为更少延误、更短航程和更低碳排放，但系统效果仍取决于管制员采纳率和数据质量。",
+  "tools": "想跟进可关注 NASA 的 Air Traffic Management 开源仿真、BlueSky 开源空管模拟器、OpenSky 与 ADS-B Exchange 航班数据，以及用于路径优化的 OR-Tools、强化学习框架 Ray RLlib 和可解释性工具 SHAP。"
+ },
+ "lang": "zh"
+}

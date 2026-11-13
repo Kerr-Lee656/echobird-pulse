@@ -12004,5 +12004,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-13T14:34:13Z",
   "fetched_at": "2026-11-13T16:20:01.355437+00:00"
+ },
+ "0ea09bcc4df5": {
+  "id": "0ea09bcc4df5",
+  "url": "https://github.com/cloudflare/kitesurf",
+  "title": "Kitesurf now open source – Cloudflare's agentic browser on Dioxus Blitz",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T21:10:05Z",
+  "fetched_at": "2026-11-13T22:01:38.909919+00:00"
+ },
+ "13909388feec": {
+  "id": "13909388feec",
+  "url": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+  "title": "The Chinese city powering the country's AI ambitions with data farms",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T20:33:22Z",
+  "fetched_at": "2026-11-13T22:02:06.378980+00:00"
+ },
+ "d0f9bf46fa9d": {
+  "id": "d0f9bf46fa9d",
+  "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+  "title": "DeepMind opens the datasets behind its AI weather models",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T20:28:58Z",
+  "fetched_at": "2026-11-13T22:02:16.624853+00:00"
+ },
+ "b96c8f1ce3ea": {
+  "id": "b96c8f1ce3ea",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-13T19:37:57.000Z",
+  "fetched_at": "2026-11-13T22:02:31.537732+00:00"
+ },
+ "6669a4d19d8d": {
+  "id": "6669a4d19d8d",
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-13T18:40:30.000Z",
+  "fetched_at": "2026-11-13T22:02:47.560502+00:00"
+ },
+ "1d1d0b9a2480": {
+  "id": "1d1d0b9a2480",
+  "url": "https://saif.org/research/model-specs/",
+  "title": "Emerging International Best Practices for AI Model Specs",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T18:24:08Z",
+  "fetched_at": "2026-11-13T22:02:59.023027+00:00"
  }
 }

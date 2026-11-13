@@ -1,0 +1,24 @@
+{
+ "id": "78e33503eea8",
+ "url": "https://news.slashdot.org/story/26/11/13/1734203/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks",
+ "title": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-13T21:59:37.307182+00:00",
+ "content": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks 39\n\t\t\t\n\t\t \t\n\t\t\t\tA coalition of online safety and consumer advocacy groups has sued five of the world's leading artificial intelligence companies, asking a California judge to halt the development and deployment of new AI models until the companies can address what the plaintiffs describe as potentially \"catastrophic\" risks. The lawsuit alleges the companies are violating California unfair competition law by endangering public health and computer systems, arguing that increasingly autonomous AI could ultimately escape human control. The Associated Press reports:  The filing, first reported on by The Associated Press, asks a judge to stop Anthropic, Google, Meta, OpenAI and SpaceXSI from developing or deploying new AI models, pointing to documented examples of cyberattacks and other harmful actions by AI systems and the companies' own alarming acknowledgments that their technology has the potential to someday destroy humanity. \"No other industry is allowed to treat its own development of unsafe products -- much less ones that could kill us all -- as inevitable,\" reads the complaint from the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI. \"Plaintiffs bring this suit to stop Defendants from continuing their unlawful path to disaster.\"\n[...] The plaintiffs, all nonprofits, allege that the companies named in the lawsuit have violated a California unfair competition law by endangering public health and interfering with the use of property such as computer systems. They claim they've had to divert resources away from other planned work to address the acute harms threatened by each of the companies' advancing AI models. They also warn that the companies' goals of creating AI systems that are broadly as smart as humans and can increasingly manage tasks and learn things autonomously could result in a permanent loss of control of the technology and heighten existential risks to humanity.",
+ "report": {
+  "summary": "多家倡导团体起诉五家AI巨头，要求法院叫停新模型研发部署",
+  "background": "这起诉讼由 Irreplaceable Education Fund、Public Citizen、Heat Initiative 和 Alliance for Secure AI 等非营利组织联合发起，被告包括 Anthropic、Google、Meta、OpenAI 和 xAI（原文写作\"SpaceXSI\"）。原告依据加州不公平竞争法，指控这些公司危害公共健康和计算机系统，并援引已发生的 AI 网络攻击案例，以及企业高管自称技术\"可能毁灭人类\"的公开表态。这是 AI 安全倡导者对\"自愿承诺＋行业自律\"路线失效后的司法转向，也与加州此前否决 SB 1047 立法、欧盟 AI 法案分阶段落地的大背景相呼应。",
+  "key_points": [
+   "诉讼请求不是索赔，而是禁令：要求法官在五家公司证明模型安全前，暂停开发和上线新模型。",
+   "原告用\"自认\"作证据：把企业自己关于失控与生存性风险的公开警告，当作产品不安全的直接佐证。",
+   "法律依据是加州不公平竞争法，走\"危害公共健康＋干扰他人计算机系统\"路径，绕开联邦AI专门立法空白。",
+   "原告称已被迫抽调资源应对各家模型带来的现实危害，试图以此建立具体的损害事实。",
+   "核心担忧是自主性：能自主规划和学习的系统一旦越过人类控制阈值，风险将不可逆。"
+  ],
+  "impact": "对行业而言，即使禁令难以获批，诉讼也会把\"暂停\"议题重新推上公共议程，加大头部公司发布前的合规与安全评估压力，并可能引发更多州层面的诉讼与立法。对开发者，前沿模型的 API 与权重开放节奏或更趋保守，使用条款、红队报告和安全文档将更受审视。对普通用户，短期产品不受影响，但\"谁来为AI危害负责\"的讨论将从企业自律转向司法与监管裁量。",
+  "tools": "想跟进可关注 AI 安全评估与红队工具：微软/谷歌开源的模型卡与风险评估框架、Inspect AI、Garak、HELM，以及 AI Incident Database 追踪真实事故；政策侧可订阅 Public Citizen、Future of Life Institute 与加州法院卷宗的公开更新。"
+ },
+ "lang": "zh"
+}

@@ -22876,5 +22876,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-13T10:15:09Z",
   "fetched_at": "2026-11-13T16:18:36.500526+00:00"
+ },
+ "78e33503eea8": {
+  "id": "78e33503eea8",
+  "url": "https://news.slashdot.org/story/26/11/13/1734203/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks",
+  "title": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-13T21:59:37.307182+00:00"
+ },
+ "5b8b6b85af43": {
+  "id": "5b8b6b85af43",
+  "url": "https://slashdot.org/story/26/11/13/027258/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+  "title": "FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-13T21:59:43.771021+00:00"
+ },
+ "56a83a01f6e4": {
+  "id": "56a83a01f6e4",
+  "url": "https://thenextweb.com/news/gridai-pronghorn-wyoming-gas-ai-data-centre-power",
+  "title": "GridAI to buy Wyoming gas firm Pronghorn to power AI data centres",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-13T21:59:51.707429+00:00"
+ },
+ "396cbc08cb7d": {
+  "id": "396cbc08cb7d",
+  "url": "https://thenextweb.com/news/nscale-ipo-filing-debt-nvidia-anthropic",
+  "title": "Nscale’s debt hits $5.5bn as it leans harder on Nvidia ahead of its IPO",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-13T22:00:05.051982+00:00"
+ },
+ "5924f795cfcc": {
+  "id": "5924f795cfcc",
+  "url": "https://thenextweb.com/news/cerebras-microsoft-deal-q3-2026-forecast",
+  "title": "Cerebras raises its 2026 forecast and signs Microsoft as a cloud customer",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-13T22:00:16.122035+00:00"
+ },
+ "6841e619fcd7": {
+  "id": "6841e619fcd7",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T22:00:33.851155+00:00"
+ },
+ "691d6cdbb8fb": {
+  "id": "691d6cdbb8fb",
+  "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+  "title": "OpenAI disbands its robotics team as its general models start running robots",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-13T17:55:23Z",
+  "fetched_at": "2026-11-13T22:00:43.307707+00:00"
+ },
+ "12990af15e18": {
+  "id": "12990af15e18",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "source": "Hacker News (黑客新闻)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-13T17:30:10Z",
+  "fetched_at": "2026-11-13T22:00:51.955867+00:00"
  }
 }

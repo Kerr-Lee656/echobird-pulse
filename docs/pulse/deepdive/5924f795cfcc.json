@@ -1,0 +1,24 @@
+{
+ "id": "5924f795cfcc",
+ "url": "https://thenextweb.com/news/cerebras-microsoft-deal-q3-2026-forecast",
+ "title": "Cerebras raises its 2026 forecast and signs Microsoft as a cloud customer",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-13T22:00:16.122035+00:00",
+ "content": "Cerebras shares rose about 17% in after-hours trading on Thursday. The AI chipmaker posted third-quarter results that beat analysts’ estimates, lifted its outlook for the year and added a new cloud customer.\nThe company now expects core revenue of $940m to $960m this year, Reuters reported. In August it had forecast $880m to $890m. Core revenue is Cerebras’ adjusted measure. It strips out stock-based pay and some data centre costs. It also adds back the value of share warrants given to customers.\nThe results statement named the new customer only as “a top three hyperscaler”, with details due next year. Chief executive Andrew Feldman told CNBC’s Jordan Novet that it is Microsoft, which signed in October. He expects revenue from the deal to start arriving in the first quarter of 2027.\nCerebras already works with Amazon and with Oracle, which plans to offer Cerebras inference in Oracle’s cloud from 2027.\nA revenue beat and a wider loss\nCore revenue rose 70% to $230.9m in the three months to 30 September. Analysts had expected $214.7m, according to LSEG data cited by CNBC. Revenue under standard accounting rules (GAAP) rose 55% to $210.8m.\nCloud is now most of the business. Cloud and services revenue jumped 265% to $141.9m. Hardware sales fell to $68.9m, from $96.8m a year earlier.\nOn its adjusted measure, Cerebras made a profit of $29.8m. Analysts had expected a loss of $38.4m, Reuters reported. Under GAAP, the net loss widened to $161.2m from $22.2m a year earlier. Stock-based pay of $155.1m caused most of the gap.\n“That progress energizes us to do even more as we push the limits of innovation and expect to triple revenue in 2027,” Feldman said in the results statement.\nFor the fourth quarter, Cerebras forecast core revenue of $310m to $330m. Analysts had expected $271m. Tripling revenue in 2027 would mean about $2.85bn, CNBC calculated. That is slightly below the $2.92bn analysts had forecast.\nOpenAI and the capacity problem\nMuch of the growth rests on OpenAI. Its compute deal underpins Cerebras’ $26.1bn in remaining performance obligations, the contracted revenue it has not yet booked, Reuters reported.\nFeldman told analysts that OpenAI’s business with Cerebras grew from the second quarter. But Cerebras did not have the capacity for a broad rollout of OpenAI’s Ultrafast tier, he said.\nCapacity is where the money is going. Cerebras has 700 megawatts of data centre capacity contracted for delivery by the end of 2027. That includes new sites in Norway and Finland. In the first nine months it used $388.9m in its operations and spent $1.05bn on property and equipment. It ended September with $7.8bn in cash and short-term investments.\nFeldman told CNBC the company is weighing its financing options to keep up with demand. On the call, he said data centre availability limits the whole industry. US policy changes could make building harder, he added.\n“As we look to the months ahead, we see two certainties: rapid change and compute shortages,” Feldman told analysts, according to Reuters.\nChasing Nvidia\nThe results came on the same day Jensen Huang resigned as Nvidia’s CEO. Feldman told CNBC that long lead times and rising costs for graphics processors create an opening for Cerebras’ own hardware.\nEven after Thursday’s jump, the stock remains far below the price of its May stock market debut. It had lost about 47% of its value since listing.\nCerebras launched the CS-4 system in August and expects to ship the CS-5 in early summer 2027. Its Wafer Scale Engine 5 processor, the chip inside the CS-5, is already in system testing, the company said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Cerebras上调全年营收指引并拿下微软云客户",
+  "background": "Cerebras以晶圆级引擎芯片主打高速AI推理，近年从卖硬件转向云服务。此前已与亚马逊、Oracle合作，OpenAI大单带来增长但也暴露产能瓶颈。此次财报超预期并新增微软，反映AI算力需求从训练向推理扩散、云厂商多源采购趋势。",
+  "key_points": [
+   "全年核心营收指引上调至9.4–9.6亿美元，Q3核心营收2.309亿美元、同比增70%，均超分析师预期。",
+   "新客户为微软，10月签约，预计2027年一季度开始贡献收入；Cerebras此前已服务亚马逊和Oracle。",
+   "云与服务收入同比增265%至1.419亿美元，硬件销售下滑，业务重心明显转向云端推理。",
+   "调整后盈利2980万美元，但GAAP净亏损扩大至1.612亿美元，主要受1.551亿美元股权激励影响。",
+   "OpenAI合同支撑261亿美元未履约收入，但产能不足限制其Ultrafast层级全面铺开；公司已锁定700MW数据中心容量。"
+  ],
+  "impact": "对AI行业，推理算力竞争升温，英伟达之外出现晶圆级芯片和云服务替代选项；对开发者，多云端高速推理选择增加，但短期供给紧、价格和可用性仍受限；对普通用户，更快的AI应用响应可期，但扩张速度取决于数据中心和电力。Cerebras亏损与客户集中风险也需关注。",
+  "tools": "可关注Cerebras Inference API/Cloud、Oracle OCI的Cerebras推理服务（2027）以及OpenAI Ultrafast层级；跟踪CS-4/CS-5系统和其编译器栈。"
+ },
+ "lang": "zh"
+}

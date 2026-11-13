@@ -1,0 +1,22 @@
+{
+ "id": "56a83a01f6e4",
+ "url": "https://thenextweb.com/news/gridai-pronghorn-wyoming-gas-ai-data-centre-power",
+ "title": "GridAI to buy Wyoming gas firm Pronghorn to power AI data centres",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-13T21:59:51.707429+00:00",
+ "content": "GridAI Technologies has agreed to buy Wyoming natural gas producer Pronghorn Resources in an all-stock deal. It plans to build gas-fired power plants for AI data centres, aiming for 300 MW in 2027, but has no named customers yet.\nGridAI Technologies has agreed to buy Pronghorn Resources, a natural gas producer in Wyoming, to power AI data centres, the company announced on Thursday. It aims to deliver its first 300 MW of power in 2027.\nPronghorn produces nearly 100 million cubic feet of gas a day from about 3,200 wells in the Powder River Basin. It also owns more than 450 miles of pipelines and has rights to nearly 1 million acres of land and minerals.\nGridAI plans to build gas-fired power plants that feed data centres directly, so customers do not have to wait years for a grid connection. It says Pronghorn’s current gas could fuel about 600 MW of power, but that is an estimate. The plants still need to be built and paid for.\nThe deal is paid in shares, not cash. Pronghorn’s owners will get about 1.25 million GridAI shares plus preferred stock, and the deal is expected to close by 22 November. GridAI, which trades on Nasdaq, was worth about $31M in October, according to StockAnalysis.\nGridAI is also taking Wyoming rights to a planned small nuclear reactor design, though it says gas remains its focus for now. It has not named any customers. Last week, Crusoe gave up its Wyoming site to Google, reportedly after failing to find enough customers.\nWyoming is drawing AI investment as other places push back. Google plans a $17B data centre there that will run mainly on gas. Meanwhile, US voters rejected data centres in 40 of 41 local ballot measures this month, as AI fuels a gas-plant boom.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "GridAI以全股票方式收购怀俄明天然气商Pronghorn，自建燃气电厂直供AI数据中心",
+  "background": "AI数据中心的电力需求激增，但并网排队动辄需要数年，于是“自带电源”成了新路径。GridAI原本是一家市值仅约3100万美元的纳斯达克小型公司，如今直接买下怀俄明州天然气生产商Pronghorn，把上游气源、管道和数据中心电站连成一条产业链。怀俄明正成为AI基础设施的新落脚点：Google计划在当地投入170亿美元建设以天然气为主的数据中心，而Crusoe此前放弃了怀俄明场地，据称原因是找不到足够客户。与此同时，美国多地选民在本月41项地方公投中有40项否决了数据中心项目，把算力项目推向了监管更宽松的地区。",
+  "key_points": [
+   "Pronghorn在粉河盆地拥有约3200口井，日产天然气近1亿立方英尺，还有450多英里管道和近100万英亩矿权，属于典型的上游资产。",
+   "GridAI计划自建燃气电厂直接向数据中心供电，绕开电网并网排队；公司称现有气量可支撑约600兆瓦，但这一数字只是估算。",
+   "交易全部以股票支付，Pronghorn股东获得约125万股GridAI股票加优先股，预计11月22日完成；相比收购标的，GridAI自身市值仅约3100万美元。",
+   "首个300兆瓦目标定在2027年，但电厂尚未开建、资金未落实，且公司目前没有公布任何客户。",
+   "GridAI还拿到了怀俄明州一座规划中的小型核反应堆设计授权，不过公司表示短期内仍以天然气为主。"
+  ]
+ },
+ "lang": "zh"
+}

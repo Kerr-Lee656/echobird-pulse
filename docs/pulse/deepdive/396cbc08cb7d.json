@@ -1,0 +1,25 @@
+{
+ "id": "396cbc08cb7d",
+ "url": "https://thenextweb.com/news/nscale-ipo-filing-debt-nvidia-anthropic",
+ "title": "Nscale’s debt hits $5.5bn as it leans harder on Nvidia ahead of its IPO",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-13T22:00:05.051982+00:00",
+ "content": "Nscale has told US regulators it will need more money to keep growing. The British AI cloud company made the warning in an amended IPO prospectus, filed on Thursday ahead of its planned stock market listing.\nIts total debt stood at $5.5bn on 30 September, according to preliminary figures in the filing. That is up from $78.9m at the end of 2025. At the end of June it was $137.4m, Bloomberg reported.\n“We will require additional capital to fund our business and support our growth,” Nscale wrote in the filing.\nRevenue up 14-fold, losses wider\nNscale expects revenue of $307.5m for the first nine months of 2026, up from $21.3m a year earlier. Its net loss for the period was $1.69bn, against $433.3m in 2025. The company says the figures are preliminary and could change.\nIn the first half alone, Nscale lost $1.02bn on revenue of $140.6m.\nNscale’s order book has grown faster. It had about $6.4bn of active contracts and $105.8bn of active and signed contracts at the date of the filing. At the end of 2025, those figures were $0.5bn and $38.0bn.\nCloser to Nvidia\nThe filing also shows Nscale leaning more on Nvidia, its shareholder and chip supplier. Nvidia committed $2bn of the more than $3bn in convertible financing Nscale agreed in September, Bloomberg reported. The first filing disclosed only $1bn, the figure TNW reported for its pre-IPO round.\nNvidia is not obliged to “give us priority allocation, favorable pricing or early access to new products”, Nscale wrote, according to Bloomberg.\nThe filing landed on the day Jensen Huang resigned as Nvidia’s CEO. Venture investors and founders expect Nvidia to slow its dealmaking, The Information reported. It said deals at Nscale and Firmus hinge on Nvidia keeping up its pace of investment.\nThe Anthropic bill\nAnthropic is Nscale’s biggest customer. Its compute deal is worth up to about $44.6bn, the filing says. The six-year contract covers 460 megawatts at a campus in Monarch, West Virginia, Bloomberg reported. It is due to start coming online in late 2027.\nNscale has committed about $1bn to the site so far and needs at least $30bn more, according to Bloomberg. It must also raise substantial new funding to buy Nvidia equipment for Anthropic’s buildings, or face penalties. Anthropic can end the contract if Nscale fails to secure financing or deliver on time.\n“There can be no assurance that additional capital will be obtained by us when required or on acceptable terms,” Nscale said in the filing, according to Bloomberg.\nNvidia has been in talks to guarantee debt for the Anthropic site. Anthropic and Nscale now have 60 days to negotiate a deal for a second building at Monarch, the filing says.\nNscale plans to list on the New York Stock Exchange under the ticker NSCL. Goldman Sachs, JPMorgan and Morgan Stanley are leading the offering. The filing does not yet give a price range or say how much Nscale wants to raise.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "AI云公司Nscale IPO前债务达55亿美元，依赖英伟达",
+  "background": "Nscale是一家英国AI云公司，通过建设数据中心并向AI实验室提供算力扩张。随着生成式AI算力需求爆发，这类“neocloud”公司需要巨额资本开支购买GPU和建设园区。Nscale在赴美IPO前更新招股书，披露债务从年中约1.37亿美元骤增至55亿美元，并承认还需更多资金。其模式高度依赖英伟达的芯片与投资，以及Anthropic等大客户的长期合同。英伟达CEO黄仁勋同日辞职，也让市场担忧英伟达后续投资节奏。",
+  "key_points": [
+   "债务急剧膨胀：截至9月30日总债务达55亿美元，远高于6月底的1.374亿美元，公司明确警告未来仍需额外融资。",
+   "增长快但亏损大：前九个月营收3.075亿美元，同比增长约14倍；净亏损16.9亿美元，亏损同步扩大。",
+   "订单储备惊人：活跃合同约64亿美元，活跃及已签约合同达1058亿美元，显示AI算力需求旺盛但履约需大量资金。",
+   "英伟达双重角色：既是股东又是芯片供应商，承诺超30亿美元可转债融资中的20亿美元，但不保证优先供货或优惠价格。",
+   "Anthropic是最大客户：六年合同价值最高约446亿美元，覆盖西弗吉尼亚460兆瓦园区；Nscale还需至少300亿美元建设资金，否则可能违约。",
+   "IPO细节：计划在纽交所上市，代码NSCL，高盛、摩根大通和摩根士丹利牵头，尚未公布发行价和募资额。"
+  ],
+  "impact": "对AI行业而言，Nscale招股书暴露了AI算力扩张背后的高杠杆和“循环融资”风险：云厂商靠英伟达投资买英伟达芯片，再服务Anthropic等大客户。若IPO募资不足或英伟达放缓投资，可能引发算力项目延期甚至债务连锁反应。对开发者，短期算力供给可能增加，但价格和可用性仍受英伟达供应及客户集中度影响。对普通用户，AI服务扩容可能提速，但若融资失败，部分模型和应用的算力保障会打折扣。",
+  "tools": "想跟进可关注SEC EDGAR上的Nscale招股书更新、纽交所NSCL上市信息，以及英伟达和Anthropic的官方公告。技术侧可研究Kubernetes、Ray、vLLM等AI云与推理部署开源栈，理解算力租赁和GPU集群运营。"
+ },
+ "lang": "zh"
+}
