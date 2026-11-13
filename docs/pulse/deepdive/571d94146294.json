@@ -1,0 +1,24 @@
+{
+ "id": "571d94146294",
+ "url": "https://www.aibase.com/news/32292",
+ "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-13T02:20:33.740Z",
+ "fetched_at": "2026-11-13T06:34:04.945796+00:00",
+ "content": "The field of AI image generation has welcomed a brand-new breakthrough. AI company MiniMax has officially open-sourced its brand-new native 4K direct-output image model — MiniMax H3Image. With outstanding generation speed and top-tier image quality, the model successfully topped the open-weight image model leaderboard as soon as it was launched.\nCore Performance: 10-Second Ultra-Fast Image Generation, Supports Coordination of 16 Reference Images\nIn terms of technical architecture, MiniMax H3Image is derived from its omni-modal video model H3. The model demonstrates significant advantages in operational efficiency and multi-image reference capability:\nUltra-fast generation: Users need only around 10 seconds to directly output high-quality images, greatly improving creative and production efficiency.\nMulti-image reference: The model supports up to 16 reference images, meeting the needs for style transfer and detail control in complex scenarios.\nOutstanding all-around capabilities: H3Image performs excellently in photorealistic rendering, text generation, face preservation, image-to-image secondary creation, understanding of physical world structure, and following complex instructions. It can fully cover diverse scenarios ranging from everyday creative use to professional commercial production.\nCommercialization Layout: Building an Ecosystem Matrix of “Open Source + Commercial Closed Loop”\nWith the official open-sourcing of MiniMax H3Image, an active global derivative ecosystem built around its open-source model is accelerating its formation.\nIn terms of business model, MiniMax solidifies its ecosystem position in the industry by open-sourcing model weights, and, relying on diversified models such as hosted APIs, subscription plans, and commercial licensing, has successfully created a sustainable commercial closed loop. Whether developers or enterprise users, they can flexibly choose suitable usage and cooperation methods according to their own needs.",
+ "report": {
+  "summary": "MiniMax 开源 4K 生图模型 H3 Image，10 秒出图，登顶开源榜首",
+  "background": "开源图像生成赛道今年竞争激烈：Black Forest Labs 的 FLUX 系列、阿里的 Qwen-Image、腾讯混元图像、HiDream 等频繁刷新开源榜，但真正的高质量生图长期由闭源模型把持，如 GPT-4o 图像、Gemini 的 Nano Banana、字节 Seedream。MiniMax 此前以海螺视频与 MiniMax-01 系列开源模型建立口碑，这次把原生多模态视频模型 H3 的能力「下放」到图像模态，形成图像与视频共生的技术路线。这种从视频模型派生图像模型的做法正成为新趋势，因为视频模型自带物理世界结构与时空一致性知识，反而能在真实感、指令遵循上反哺静态图像生成。",
+  "key_points": [
+   "速度快：约 10 秒直出高质量图像，把「出图」压缩到接近即时反馈，适合批量创意和商业出图流程。",
+   "参考图数量多：支持最多 16 张参考图，可做风格迁移、细节控制与角色一致性，复杂场景可控性明显提升。",
+   "原生 4K 直出：不是先低分辨率再放大，而是原生输出高分辨率，减少后期超分步骤和画质损失。",
+   "能力全面：在写实渲染、文字生成、人脸保持、图生图二创、物理结构理解和复杂指令遵循上表现均衡，覆盖日常创作到商业生产。",
+   "商业化架构：开源权重负责建立生态与开发者基数，再通过托管 API、订阅套餐和商用授权形成闭环，兼顾开放与营收。"
+  ],
+  "impact": "对行业而言，开源与闭源图像模型的质量差距被进一步压缩，视频模型反哺图像或成主流范式，「开源权重、API、订阅、商用授权」的分层模式也可能成为标配。对开发者，可本地部署、微调并接入现有工作流，出图成本下降，但商用需看清授权条款。对普通用户，秒级 4K 出图加上多参考图一致性，让电商素材、广告海报、个人创作的门槛显著降低。",
+  "tools": "想上手可关注：Hugging Face 上的 H3 Image 权重与模型卡，ComfyUI 与 diffusers 的社区支持节点，MiniMax 开放平台的海螺 API 与订阅方案；国内创作者也可留意 LiblibAI 等模型社区是否上线该底模及 LoRA 生态。"
+ },
+ "lang": "zh"
+}

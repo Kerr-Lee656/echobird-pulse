@@ -1,0 +1,23 @@
+{
+ "id": "061f26add868",
+ "url": "https://www.ithome.com/1/026/464.htm",
+ "title": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-12T23:33:18Z",
+ "fetched_at": "2026-11-13T06:35:12.650626+00:00",
+ "content": "IT之家 11 月 13 日消息，当地时间 11 月 12 日，美国公司 Flinn Artificial Intelligence (AI) Technologies LLC（以下简称 Flinn AI）向美国特拉华州地区法院提起两起专利侵权诉讼，将 Anthropic PBC 和 OpenAI OpCo 共同列为被告，指控两家公司侵犯其持有的五项神经网络相关专利。\n与此同时，还有一群非营利组织也起诉了 OpenAI、Anthropico、Meta、谷歌和 SpaceXAI 等公司，试图进一步阻止这些企业开发先进 AI 模型。\nFlinn AI 两起诉讼分别为 Flinn AI Technologies LLC v. Anthropic PBC（案号：1:26-cv-01454）和 Flinn AI Technologies LLC v. OpenAI OpCo LLC（案号：1:26-cv-01455）。\nFlinn AI 指控，两家公司均侵犯了由计算机科学家史蒂文・弗林（Steven Flinn）和娜奥米・曼尼佩尼（Naomi Moneypenny）共同发明的五项专利。\n诉状称，相关发明可以追溯至 2015 年末和 2016 年初，当时弗林与曼尼佩尼提交了相关专利申请。这些专利涉及基于注意力机制的神经网络训练与处理技术，Flinn AI 认为，其为现代生成式人工智能系统中的相关功能提供了技术基础。\n据 Law360 披露，涉案五项美国专利的编号分别为 US 12,223,404、US 12,327,166、US 12,462,197、US 12,462,198 和 US 12,511,580，专利名称均涉及迭代式注意力神经网络训练与处理（Iterative attention-based neural network training and processing）。\n针对 Anthropic 的诉讼主要涉及 Claude 系列大语言模型。Flinn AI 在诉状中称，随着 Claude 模型及相关产品不断迭代和扩展，Anthropic 提供的注意力机制推理、检索、记忆、智能体以及多模态功能越来越先进，相关系统持续侵犯涉案专利。\n针对 OpenAI 的诉状也提出了类似指控，认为随着该公司的模型及相关功能不断升级，其专利侵权行为也在持续。\n此外，弗林还创立了 ManyWorlds Inc.，曼尼佩尼随后也加入该公司。IT之家注意到，今年以来，名称相近的 Many Worlds 2T Innovations LLC 也曾围绕专利问题起诉 OpenAI 和 Spotify。\n根据公开诉讼记录，该公司于 2026 年 4 月起诉 Spotify，8 月又在美国得克萨斯州东区联邦地区法院起诉 OpenAI，涉及另一组专利。\n相关阅读：",
+ "report": {
+  "summary": "Anthropic与OpenAI遭五项神经网络专利诉讼",
+  "background": "近日，Flinn AI Technologies 在美国特拉华州法院起诉 Anthropic 和 OpenAI，称其侵犯五项与迭代式注意力神经网络训练/处理相关专利，专利申请可追溯至2015-2016年。原告认为这些专利为现代生成式AI的注意力机制奠定基础。同期还有非营利组织起诉多家AI公司，反映AI基础技术专利争夺升温。",
+  "key_points": [
+   "涉案五项专利编号为 US 12,223,404 等，名称均围绕迭代式注意力神经网络训练与处理，覆盖注意力推理、检索、记忆、智能体和多模态等功能。",
+   "原告称专利最早申请于2015年末至2016年初，由Steven Flinn与Naomi Moneypenny发明，主张其构成现代生成式AI注意力系统的技术基础。",
+   "对Anthropic的指控聚焦Claude系列模型及不断扩展的推理、检索、记忆、智能体和多模态能力；对OpenAI的指控类似，称随模型升级侵权持续。",
+   "Flinn AI与ManyWorlds系关联实体；今年已有名称相近的Many Worlds 2T Innovations就其他专利起诉OpenAI和Spotify，显示专利运营主体活跃。"
+  ],
+  "impact": "对AI行业，基础模型公司面临更多专利许可与诉讼成本，可能推动防御性专利池和交叉授权；对开发者，使用注意力机制、RAG、智能体等功能需关注专利风险，但短期不影响API使用；对普通用户，可能带来服务涨价或功能调整的间接影响，创新节奏未必立刻改变。",
+  "tools": "跟进可查 Google Patents、USPTO Patent Public Search、Lens.org 检索涉案专利；用 CourtListener/RECAP 跟踪诉讼进展；关注专利大户的许可政策与开源替代方案。"
+ },
+ "lang": "zh"
+}

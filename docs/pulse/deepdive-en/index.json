@@ -11923,5 +11923,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-12T20:07:26Z",
   "fetched_at": "2026-11-12T23:40:36.481356+00:00"
+ },
+ "8ccfd064277e": {
+  "id": "8ccfd064277e",
+  "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-says-ai-model-cut-154824196.html",
+  "title": "Anthropic Says Its AI Model Cut AMD Chip Switch to Three Days",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T06:16:33Z",
+  "fetched_at": "2026-11-13T06:36:04.497052+00:00"
+ },
+ "657e032c519b": {
+  "id": "657e032c519b",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+  "title": "Gemini for Healthcare",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T05:37:54Z",
+  "fetched_at": "2026-11-13T06:36:16.548600+00:00"
+ },
+ "bc121fc85136": {
+  "id": "bc121fc85136",
+  "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+  "title": "Claude for Manufacturing",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T03:15:44Z",
+  "fetched_at": "2026-11-13T06:36:29.445468+00:00"
+ },
+ "61d64889d9a3": {
+  "id": "61d64889d9a3",
+  "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+  "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T02:49:47Z",
+  "fetched_at": "2026-11-13T06:36:43.491481+00:00"
  }
 }

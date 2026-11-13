@@ -22723,5 +22723,86 @@
   "site_name": "Zeli",
   "published_at": "2026-11-12T13:52:29Z",
   "fetched_at": "2026-11-12T23:37:43.938932+00:00"
+ },
+ "2df7ed92f906": {
+  "id": "2df7ed92f906",
+  "url": "https://www.aibase.com/zh/news/32293",
+  "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T06:33:44.554578+00:00"
+ },
+ "eb85525826fb": {
+  "id": "eb85525826fb",
+  "url": "https://www.aibase.com/zh/news/32289",
+  "title": "Google 推出 Gemini4Hydrogen，全球 Search 迎来最大模型升级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T06:33:54.318719+00:00"
+ },
+ "571d94146294": {
+  "id": "571d94146294",
+  "url": "https://www.aibase.com/news/32292",
+  "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-13T02:20:33.740Z",
+  "fetched_at": "2026-11-13T06:34:04.945796+00:00"
+ },
+ "902044e2cc8c": {
+  "id": "902044e2cc8c",
+  "url": "https://www.aibase.com/news/32291",
+  "title": "英伟达创始人黄仁勋卸任总裁与CEO",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-13T02:20:33.740Z",
+  "fetched_at": "2026-11-13T06:34:17.830657+00:00"
+ },
+ "9a4d1a6390e1": {
+  "id": "9a4d1a6390e1",
+  "url": "https://www.ithome.com/1/026/495.htm",
+  "title": "OpenAI 最新一轮私募融资 150 亿美元，融前估值 1.25 万亿美元",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-13T01:36:46Z",
+  "fetched_at": "2026-11-13T06:34:26.372605+00:00"
+ },
+ "076934ef461b": {
+  "id": "076934ef461b",
+  "url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+  "source": "unemploymentlabs.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-13T00:06:45.255Z",
+  "fetched_at": "2026-11-13T06:34:40.565100+00:00"
+ },
+ "ad2202acf3ae": {
+  "id": "ad2202acf3ae",
+  "url": "https://www.ithome.com/1/026/466.htm",
+  "title": "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T23:46:13Z",
+  "fetched_at": "2026-11-13T06:35:02.346745+00:00"
+ },
+ "061f26add868": {
+  "id": "061f26add868",
+  "url": "https://www.ithome.com/1/026/464.htm",
+  "title": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-12T23:33:18Z",
+  "fetched_at": "2026-11-13T06:35:12.650626+00:00"
+ },
+ "1ba09b3792df": {
+  "id": "1ba09b3792df",
+  "url": "https://www.ifanr.com/1689267",
+  "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-11-12T23:11:11Z",
+  "fetched_at": "2026-11-13T06:35:23.649784+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "eb85525826fb",
+ "url": "https://www.aibase.com/zh/news/32289",
+ "title": "Google 推出 Gemini4Hydrogen，全球 Search 迎来最大模型升级",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-13T06:33:54.318719+00:00",
+ "content": "Google宣布推出Gemini4Hydrogen，并将其引入全球Google Search，重点提升搜索引擎处理多部分、复杂细节及拼写错误问题的能力。Google称，这是迄今为止Search最大规模的一次模型升级。\n与专注复杂推理的Gemini4Carbon和Gemini4Argon不同，Hydrogen主要面向高速代理式工作流，能够自主完成多步骤任务。Google表示，其任务执行速度比上一代快速模型Gemini3.8Flash快2.5倍。在默认高思考等级下，Hydrogen在Artificial Analysis Intelligence Index基准测试中的表现甚至超过能力定位更高的Gemini4Argon。\n在搜索场景中，Hydrogen能够更准确地理解用户意图、遵循指令和调用工具，并优化Search的扇出技术，将复杂提示拆分为多个子查询，以发现更多相关网站。Google AI Mode也将提供更多图片、结构化答案、对比表格及定制工具，进一步改善多语言搜索体验。\nHydrogen支持低、中、高和新增的超高（xhigh）四档思考等级，旨在减少输出Token消耗并提高任务执行效率。在Agent Arena基准测试中，其在深度研究、数据分析和大型代码库导航等多步骤任务中排名第五。此外，该模型还可自主编写代码、运行测试并验证代码修改，也能与Carbon、Argon协同完成工作流。\n除Google Search外，Gemini4Hydrogen还将登陆Google AI Studio、Gemini API、Gemini App，以及面向AI Pro和Ultra付费订阅用户的Google Antigravity开发平台。此次升级显示，Google正推动搜索从传统信息检索向具备复杂任务执行能力的AI代理进一步演进。",
+ "report": {
+  "summary": "Google 将高速代理模型 Gemini4Hydrogen 接入全球搜索，称其为 Search 史上最大升级",
+  "background": "过去两年，搜索正从关键词检索转向能拆解意图、执行多步任务的 AI 代理。Perplexity、OpenAI 的 ChatGPT 搜索和微软 Copilot 不断分流用户，Google 的应对是把 Gemini 4 系列按能力分层：Carbon 负责复杂推理，Argon 定位更高能力，Hydrogen 主攻低延迟的代理式工作流。AI Mode 上线后，复杂查询需求增加，传统检索架构已难以支撑，此次升级就是要把搜索的底层模型整体切换到面向代理场景的模型，更快、更便宜地处理长尾与多步骤问题。",
+  "key_points": [
+   "Hydrogen 与此前主打复杂推理的 Carbon、Argon 分工不同，它专为高速代理工作流设计，官方称任务执行速度比上一代快速模型 Gemini3.8Flash 快 2.5 倍。",
+   "在默认高思考等级下，Hydrogen 在 Artificial Analysis Intelligence Index 上甚至超过定位更高的 Argon，说明 Google 用更轻量的模型达到了越级效果。",
+   "搜索侧最重要的改动是优化了'扇出'技术：把复杂提示自动拆成多个子查询，分别检索后汇总，从而找到更多相关网站并减少拼写错误、碎片化描述带来的误差。",
+   "模型提供低、中、高以及新增的超高（xhigh）四档思考等级，用户可在速度与深度之间取舍，同时降低输出 Token 消耗。",
+   "在 Agent Arena 基准中，其深度研究、数据分析、大型代码库导航等多步骤任务排名第五，并能自主编写代码、运行测试、验证修改，还能与 Carbon、Argon 协同完成工作流。"
+  ],
+  "impact": "对行业而言，Google 把代理模型直接装进全球最大搜索入口，等于宣告搜索产品从'信息检索'转向'任务执行'，搜索与 Agent 的边界进一步消失，其他厂商被迫加速跟进。对开发者的影响更直接：同一模型通过 Gemini API、AI Studio 和 Antigravity 开放，意味着搜索、应用和开发平台共享一套模型能力，代理应用的搭建成本和延迟都会下降。对普通用户，最直观的感受是复杂长句、多条件比较和拼写错误的问题更容易得到结构化答案、对比表格和图片，但流量分配与内容引用规则的变化也值得关注。",
+  "tools": "想跟进可关注 Google AI Studio 与 Gemini API 试用 Hydrogen 的四档思考等级，AI Pro/Ultra 用户可体验 Google Antigravity 开发平台与 Search 中的 AI Mode；评估模型代理能力可参考 Agent Arena 基准，官方的扇出式检索思路也适合在自建 RAG 系统中复现。"
+ },
+ "lang": "zh"
+}
