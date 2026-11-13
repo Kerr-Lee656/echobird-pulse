@@ -11959,5 +11959,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-13T02:49:47Z",
   "fetched_at": "2026-11-13T06:36:43.491481+00:00"
+ },
+ "17dad27fad49": {
+  "id": "17dad27fad49",
+  "url": "https://nestdaddy.com/blog/we-tested-37000-mcp-servers",
+  "title": "We tested 37,000 MCP servers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T16:04:54Z",
+  "fetched_at": "2026-11-13T16:19:06.879824+00:00"
+ },
+ "cd336cbdb796": {
+  "id": "cd336cbdb796",
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-13T16:00:12.000Z",
+  "fetched_at": "2026-11-13T16:19:16.013298+00:00"
+ },
+ "0d4c924e6437": {
+  "id": "0d4c924e6437",
+  "url": "https://text.npr.org/nx-s1-6029408",
+  "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T15:29:10Z",
+  "fetched_at": "2026-11-13T16:19:34.566309+00:00"
+ },
+ "0af0257bfb95": {
+  "id": "0af0257bfb95",
+  "url": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x",
+  "title": "llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本",
+  "source": "Clément Delangue",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-13T15:13:14.000Z",
+  "fetched_at": "2026-11-13T16:19:52.319886+00:00"
+ },
+ "8478cabc703f": {
+  "id": "8478cabc703f",
+  "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+  "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+  "source": "Hacker News (27pts, 60c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-13T14:34:13Z",
+  "fetched_at": "2026-11-13T16:20:01.355437+00:00"
  }
 }

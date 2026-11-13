@@ -22804,5 +22804,77 @@
   "site_name": "OPML RSS",
   "published_at": "2026-11-12T23:11:11Z",
   "fetched_at": "2026-11-13T06:35:23.649784+00:00"
+ },
+ "a5fb37cda095": {
+  "id": "a5fb37cda095",
+  "url": "https://www.36kr.com/p/4067431058855815",
+  "title": "Gemini 4 Hydrogen 来了，所有人都能用",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T16:15:40.676908+00:00"
+ },
+ "e3d79c9e9482": {
+  "id": "e3d79c9e9482",
+  "url": "https://www.aibase.com/zh/news/32320",
+  "title": "腾讯混元发布实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T16:15:49.507613+00:00"
+ },
+ "1d43e9e804d9": {
+  "id": "1d43e9e804d9",
+  "url": "https://www.aibase.com/zh/news/32317",
+  "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T16:16:00.443602+00:00"
+ },
+ "2b18d289439f": {
+  "id": "2b18d289439f",
+  "url": "https://www.aibase.com/zh/news/32311",
+  "title": "OpenAI 上市前夜再融 150 亿美元，估值推至 1.25 万亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T16:16:07.106657+00:00"
+ },
+ "47ef37659b60": {
+  "id": "47ef37659b60",
+  "url": "https://www.aibase.com/zh/news/32310",
+  "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-13T16:16:17.832306+00:00"
+ },
+ "93ab3600b4d1": {
+  "id": "93ab3600b4d1",
+  "url": "https://www.aibase.com/news/32315",
+  "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-13T11:41:26.053Z",
+  "fetched_at": "2026-11-13T16:16:29.640486+00:00"
+ },
+ "f0ae44fe56f3": {
+  "id": "f0ae44fe56f3",
+  "url": "https://www.ithome.com/1/026/911.htm",
+  "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-13T10:47:18Z",
+  "fetched_at": "2026-11-13T16:16:38.726816+00:00"
+ },
+ "a4fdaf67cdbf": {
+  "id": "a4fdaf67cdbf",
+  "url": "https://www.huxiu.com/article/4905422.html?f=rss",
+  "title": "英伟达蒸发1万亿，黄仁勋辞职，但AI世界还要面对五重冲击",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-13T10:15:09Z",
+  "fetched_at": "2026-11-13T16:18:36.500526+00:00"
  }
 }
