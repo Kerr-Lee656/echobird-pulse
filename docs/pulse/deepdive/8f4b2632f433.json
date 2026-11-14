@@ -1,0 +1,23 @@
+{
+ "id": "8f4b2632f433",
+ "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+ "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+ "source": "www.techpowerup.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-11-14T10:32:03.584Z",
+ "fetched_at": "2026-11-14T22:19:59.690415+00:00",
+ "content": "Friday, November 13th 2026\nNVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs\nFollowing the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers. The reason behind this was to maintain the perception of ongoing high demand and to move an oversupply of semiconductors from TSMC. \nThe WSJ report cites an August meeting between Huang and his senior finance team, including NVIDIA's CFO and acting CEO, Colette Kress, during which Kress pushed for a reduction in circular financing agreements, in response to which Huang allegedly lay into Kress, calling her a \"deer in the headlights,\" after she had pushed to scale back NVIDIA's $250 billion deal with OpenAI. Jensen's push for further investment into small-scale cloud providers was seemingly in response to the changing tide that saw AI hyperscalers move away from off-the-shelf components in favor of custom solutions.The situation described in the report saw NVIDIA on the hook for an \"avalanche\" of GPUs from TSMC, for which it would have no immediate buyers. Part of the issue highlighted by Kress was also that these small-scale cloud providers NVIDIA was investing in could not afford to buy NVIDIA GPUs, meaning they, too, could be a financial dead end.\nSources:\n\t\t\t\tThe Wall Street Journal, \t\t\t\tvia Wccftech",
+ "report": {
+  "summary": "传英伟达投资AI初创回购自家GPU，制造缺货假象",
+  "background": "过去两年，AI 算力需求暴涨，英伟达 GPU 长期缺货，台积电产能成为瓶颈。但近期超大规模客户（微软、谷歌、亚马逊等）加速转向自研定制芯片，通用 GPU 的需求预期开始动摇。据《华尔街日报》报道，英伟达被指通过投资小型云厂商和 AI 初创企业，让资金回流购买自家 GPU 并建设数据中心，从而消化此前向台积电下达的巨额订单，并维持市场对「供不应求」的感知。报道还称，黄仁勋已卸任 CEO，CFO 科莱特·克雷斯出任代理 CEO，二人在是否收缩循环融资上发生激烈冲突。该说法目前仅为媒体指控，尚未经证实。",
+  "key_points": [
+   "英伟达先投资小型云厂商与 AI 初创，这些公司再用这笔钱买英伟达 GPU、建数据中心，这形成了「资金回流」的循环融资结构。",
+   "报道称，英伟达真正的动机是消化此前向台积电下达的「雪崩式」GPU 订单，因为超大规模客户转向自研芯片后，这批货可能无人接盘。",
+   "内部会议上，CFO 兼代理 CEO 克雷斯主张收缩对 OpenAI 的 2500 亿美元协议和循环融资，结果被黄仁勋斥为「没见过世面的新手」。",
+   "被投企业本身大多买不起 GPU，资金链脆弱，投资回报高度依赖英伟达自身的持续输血与估值维持，这构成潜在财务风险。"
+  ],
+  "impact": "对 AI 行业而言，这一指控直指「AI 收入是否真实」，可能引发投资者和监管对循环融资、关联交易的审视，并影响整个算力产业链的估值逻辑。对开发者来说，短期内高端 GPU 仍紧张、云算力价格不确定，应提前准备多芯片架构与备选供应方案。对普通用户来说，若「人为缺货」成立，AI 服务定价长期偏高；反之若泡沫挤出，算力与 API 价格可能明显回落。需强调目前仅为未经证实的报道。",
+  "tools": "想跟进可关注：SemiAnalysis 等半导体深度分析、GPU 现货价格追踪站点；替代算力方面留意 AMD MI 系列、谷歌 TPU、AWS Trainium；软件侧可上手 vLLM、SGLang 等开源推理框架以提升单位算力效率，并用 Lambda、CoreWeave 等比价租赁平台对比真实算力成本。"
+ },
+ "lang": "zh"
+}

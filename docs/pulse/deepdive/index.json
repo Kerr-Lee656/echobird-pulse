@@ -23038,5 +23038,86 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-14T17:59:16.448465+00:00"
+ },
+ "7f554d543072": {
+  "id": "7f554d543072",
+  "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
+  "title": "Beware the New AI-Fueled Ransomware Boom",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:18:51.590774+00:00"
+ },
+ "3b24412519da": {
+  "id": "3b24412519da",
+  "url": "https://www.businessinsider.com/darpa-tested-autonomous-ground-robots-finding-enemy-targets-no-gps-2026-11",
+  "title": "The Pentagon is testing war robots that can hunt in packs without GPS and find battlefield targets on their own. Humans still call the shots.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:18:59.268620+00:00"
+ },
+ "5957ba60c496": {
+  "id": "5957ba60c496",
+  "url": "https://www.36kr.com/p/4069178330764161",
+  "title": "Claude破译哥德尔天书，80年笔记震撼数学界",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:19:11.836086+00:00"
+ },
+ "47fd92794b58": {
+  "id": "47fd92794b58",
+  "url": "https://www.qbitai.com/2026/11/510003.html",
+  "title": "突发！DeepSeek开放全家桶API",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:19:22.103346+00:00"
+ },
+ "3b94f47ec089": {
+  "id": "3b94f47ec089",
+  "url": "https://www.ithome.com/1/027/229.htm",
+  "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:19:31.480933+00:00"
+ },
+ "06d34b75b95f": {
+  "id": "06d34b75b95f",
+  "url": "https://www.ithome.com/1/027/181.htm",
+  "title": "华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T22:19:41.279018+00:00"
+ },
+ "11294a7c9f04": {
+  "id": "11294a7c9f04",
+  "url": "https://www.ithome.com/1/027/215.htm",
+  "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-14T10:52:39Z",
+  "fetched_at": "2026-11-14T22:19:49.769304+00:00"
+ },
+ "8f4b2632f433": {
+  "id": "8f4b2632f433",
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+  "source": "www.techpowerup.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-14T10:32:03.584Z",
+  "fetched_at": "2026-11-14T22:19:59.690415+00:00"
+ },
+ "97c39e6528fa": {
+  "id": "97c39e6528fa",
+  "url": "https://www.ithome.com/1/027/197.htm",
+  "title": "Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-14T10:06:01Z",
+  "fetched_at": "2026-11-14T22:20:07.382257+00:00"
  }
 }
