@@ -12058,5 +12058,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-13T18:24:08Z",
   "fetched_at": "2026-11-13T22:02:59.023027+00:00"
+ },
+ "6841e619fcd7": {
+  "id": "6841e619fcd7",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "title": "Llama.cpp hits v1.0 with a native app for macOS",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T02:05:37Z",
+  "fetched_at": "2026-11-14T02:22:52.896323+00:00"
+ },
+ "b8bbdacc5a8c": {
+  "id": "b8bbdacc5a8c",
+  "url": "https://chipagents.ai/",
+  "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T00:42:10Z",
+  "fetched_at": "2026-11-14T02:23:05.844832+00:00"
+ },
+ "845cc78cbca5": {
+  "id": "845cc78cbca5",
+  "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+  "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+  "source": "Hacker News (27pts, 9c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T00:28:11Z",
+  "fetched_at": "2026-11-14T02:23:15.195707+00:00"
+ },
+ "55789bc3a1bf": {
+  "id": "55789bc3a1bf",
+  "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+  "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-13T23:54:06.000Z",
+  "fetched_at": "2026-11-14T02:23:25.905158+00:00"
+ },
+ "98efabf81aa4": {
+  "id": "98efabf81aa4",
+  "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+  "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-13T23:39:27.000Z",
+  "fetched_at": "2026-11-14T02:23:38.954924+00:00"
+ },
+ "a53b6d6797d1": {
+  "id": "a53b6d6797d1",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-13T22:43:00.000Z",
+  "fetched_at": "2026-11-14T02:23:48.195681+00:00"
+ },
+ "754f24889ed9": {
+  "id": "754f24889ed9",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-13T20:45:10.000Z",
+  "fetched_at": "2026-11-14T02:24:02.183586+00:00"
  }
 }

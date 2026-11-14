@@ -1,0 +1,24 @@
+{
+ "id": "9bdabe68e7b8",
+ "url": "https://thenextweb.com/news/cornelis-cn6000-800g-networking-ai-supercomputers",
+ "title": "Cornelis launches CN6000 800G networking to rival Nvidia InfiniBand",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-14T02:22:18.915596+00:00",
+ "content": "Cornelis, which Intel spun out in 2020, has launched CN6000, a family of 800G network cards and switches for AI and supercomputers. It claims lower latency than Nvidia’s InfiniBand, based on its own tests. Partner systems arrive in early 2027.\nCornelis, a networking company spun out of Intel, has launched CN6000, a family of 800G network cards and switches for AI clusters and supercomputers, it announced this week. It is pitching them as a rival to Nvidia’s InfiniBand.\nIn large AI systems, thousands of chips must constantly swap data. If the network is slow, expensive chips sit idle. “Every minute an accelerator waits on the network is capacity our customers paid for and didn’t use,” said CEO Lisa Spelman.\nThe main card uses Omni-Path, a networking technology Intel dropped in 2019 before spinning the business off as Cornelis in 2020. Cornelis says the card can handle 1.6 billion messages a second. It also says it is 21% faster than Nvidia’s InfiniBand at passing a small message, though that comes from its own tests.\nA faster single message does not mean jobs finish 21% sooner, since that depends on the workload. Cornelis also launched a card for standard Ethernet networks, which most AI data centres use, with support for the newer Ultra Ethernet standard due later.\nThe cards work with chips from AMD, Intel, Nvidia and Qualcomm. Dell, Lenovo and Supermicro are among the server makers planning to support them, with systems due in early 2027.\nNetworking has become a hot spot in AI. Nvidia has spent billions on optical links, Huawei is betting on wiring over chips, and startups such as Upscale AI are building ways to connect rival chips. AMD, a Cornelis partner, is also building rack-scale systems to compete with Nvidia.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英特尔分拆的Cornelis发布800G网络产品，叫板英伟达InfiniBand",
+  "background": "大模型训练集群里，动辄上万张GPU需要频繁交换梯度与参数，网络一旦成为瓶颈，昂贵算力就会空转，这也让网络成为AI基础设施的新战场。英伟达凭借收购Mellanox握有InfiniBand近乎垄断地位，并持续加码光互联。Cornelis源自英特尔2019年放弃的Omni-Path高速互联技术，2020年被分拆独立。此次推出800G产品线，是这条技术路线沉寂多年后，试图借AI算力军备竞赛重回主流供应链的一搏。",
+  "key_points": [
+   "CN6000包含800G网卡与交换机，面向AI集群和超算，戴尔、联想、Supermicro等服务器厂商计划支持，但整机系统要到2027年初才能出货。",
+   "技术底座是英特尔当年弃用的Omni-Path，官方称单卡每秒可处理16亿条消息，小消息传输比英伟达InfiniBand快21%，但数据来自自家测试。",
+   "单条消息更快并不等于训练任务提前21%完成，端到端收益取决于模型并行方式、集合通信模式和实际负载，需第三方复现验证。",
+   "同期还发布了标准以太网版本网卡，并预埋对Ultra Ethernet新标准的支持，可搭配AMD、英特尔、英伟达、高通芯片，走开放兼容路线。",
+   "网络已成AI新战场：英伟达斥资数十亿布局光互联，华为押注用光互联替代芯片堆叠，Upscale AI等创业公司专攻异构芯片互联，AMD也在建整机柜系统。"
+  ],
+  "impact": "对行业而言，InfiniBand的垄断首次迎来有服务器大厂背书的挑战者，Ultra Ethernet阵营将进一步壮大，互联标准话语权之争升温。对开发者，多一条以太网/IP路径意味着更少厂商锁定、更多可调优空间，但工具链成熟度仍需时间。对普通用户，短期难感知，长期有望通过供应链竞争压低AI算力成本；不过2027年才量产，英伟达地位短期难撼动。",
+  "tools": "想跟进可关注Ultra Ethernet Consortium规范与OCP开放标准；软件栈方面有libfabric、OpenMPI，以及NCCL的开源替代RCCL；硬件生态可留意Cornelis的Omni-Path Express软件栈、英伟达DOCA、Upscale AI的异构互联方案。"
+ },
+ "lang": "zh"
+}

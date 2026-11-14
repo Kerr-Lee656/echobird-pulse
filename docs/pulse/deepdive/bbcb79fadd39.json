@@ -1,0 +1,24 @@
+{
+ "id": "bbcb79fadd39",
+ "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+ "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-14T02:22:08.420150+00:00",
+ "content": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express.\nOpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction.\nThe addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app.\nOther personal AI agents, like Instinct, also support making purchases on users’ behalf.\nIt’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own.\nTo get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant.\nThe merchant will automatically receive what it needs to fulfill the order from the dot, like the shipping address and contact information, OpenAI says. The company notes that customers who shop via their dots will still be able to earn their credit card rewards and be able to take advantage of protections that typically come with cards, like being able to dispute transactions.\nThe limited availability at launch will allow OpenAI to test and improve the feature and its capabilities before rolling it out more broadly. In the future, the company plans to offer users more control over the feature by allowing them to set spending limits or configure other parameters around purchase categories or time periods, so they can pre-approve purchases that their agent can then handle more autonomously.\nIt also aims to make the agentic shopping feature an option at a broader number of supported retailers. This could be a challenge in some areas, where retailers are blocking AI agents from using their site; on the shopping front, the largest retailer to ban AI agents is Amazon, as it aims to steer users to its own AI agent, Alexa, instead.\nTo help retailers adapt to agentic commerce, OpenAI also published a Commerce Partner Playbook that offers tools and guidance to sites that want to support customers using agents.",
+ "report": {
+  "summary": "OpenAI推出ChatGPT钱包，让AI代理代用户选购并结账。",
+  "background": "消费级AI工具仍在寻找产品市场契合点，AI代理购物已有多方探索：DoorDash、Uber的AI下单量仍低，Meta的Muse已有超1000万用户且AI辅助购物成为热门活动，Instinct等个人代理也支持代购。OpenAI此时入局，先向美国18岁以上ChatGPT Pro订阅者开放，支持Visa、Mastercard、American Express，并计划逐步扩展。零售商态度分化，Amazon已禁止AI代理访问以引导用户使用Alexa，OpenAI则发布Commerce Partner Playbook帮助商户适配代理购物。",
+  "key_points": [
+   "初期仅限美国18岁以上ChatGPT Pro用户，且需持有美国发行的Visa、Mastercard或American Express卡，并一次性绑定到ChatGPT Wallet。",
+   "结账前用户可查看商品、总额和付款卡，并用Face ID或指纹批准交易，形成交易记录，强调用户仍掌握最终控制权。",
+   "支付使用令牌替代真实卡号，不向AI代理dot或商户共享卡信息；商户可自动获得收货地址和联系方式，用户仍享信用卡奖励与争议保护。",
+   "OpenAI计划未来增加消费限额、品类和时段预授权，让代理可更自主地完成已预先批准的购买，并扩展更多零售商户。",
+   "竞争与阻力并存：Amazon禁止AI代理以保护Alexa入口，DoorDash和Uber的AI订单仍少，但Meta Muse显示AI辅助购物需求正在上升。"
+  ],
+  "impact": "对AI行业，代理购物从信息检索走向真实交易，支付令牌、身份授权和商户接口将成为agentic commerce的基础设施。对开发者，需关注代理编排、结账API、支付令牌化和商户适配，机会与合规挑战并存。对普通用户，代购更省事，但需建立对隐私、误购责任和商户封锁的信任机制。",
+  "tools": "想跟进可关注OpenAI Commerce Partner Playbook、Visa/Mastercard的agentic payment规范，以及Browser Use、LangGraph等代理编排与浏览器自动化项目；商户可研究结构化商品目录和结账API。"
+ },
+ "lang": "zh"
+}
