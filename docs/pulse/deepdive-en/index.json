@@ -12121,5 +12121,68 @@
   "site_name": "The Verge",
   "published_at": "2026-11-13T20:45:10.000Z",
   "fetched_at": "2026-11-14T02:24:02.183586+00:00"
+ },
+ "4007ff9b6bbe": {
+  "id": "4007ff9b6bbe",
+  "url": "https://zenodo.org/records/23958737",
+  "title": "Why a 98%-accurate model leaves an agent's state right only 21% of the time",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T10:48:00Z",
+  "fetched_at": "2026-11-14T11:27:12.132264+00:00"
+ },
+ "0394a3363926": {
+  "id": "0394a3363926",
+  "url": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347",
+  "title": "The FAA Rolled Out AI Air Traffic Tool a Few Days Ago?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T10:47:46Z",
+  "fetched_at": "2026-11-14T11:27:25.735835+00:00"
+ },
+ "3cf5f2498d66": {
+  "id": "3cf5f2498d66",
+  "url": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/",
+  "title": "Backdooring LLMs – Do you trust your AI provider?",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T09:20:54Z",
+  "fetched_at": "2026-11-14T11:27:38.234812+00:00"
+ },
+ "2c5899ee3a5e": {
+  "id": "2c5899ee3a5e",
+  "url": "https://blog.dfb.sh/blog/claude-desktop-freeze/",
+  "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T06:21:16Z",
+  "fetched_at": "2026-11-14T11:27:51.835286+00:00"
+ },
+ "b36f91a6e516": {
+  "id": "b36f91a6e516",
+  "url": "https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911",
+  "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T06:19:17Z",
+  "fetched_at": "2026-11-14T11:28:22.400305+00:00"
+ },
+ "a0b5c798ba3b": {
+  "id": "a0b5c798ba3b",
+  "url": "https://arxiv.org/abs/2611.14681",
+  "title": "Together Compiler: Continual Compilation for AI Inference",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-14T05:00:00.000Z",
+  "fetched_at": "2026-11-14T11:28:32.266811+00:00"
+ },
+ "36459f304a2d": {
+  "id": "36459f304a2d",
+  "url": "https://arxiv.org/abs/2611.14769",
+  "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-14T05:00:00.000Z",
+  "fetched_at": "2026-11-14T11:28:47.479234+00:00"
  }
 }

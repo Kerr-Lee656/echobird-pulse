@@ -22966,5 +22966,59 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-14T02:22:18.915596+00:00"
+ },
+ "da19c3253b9a": {
+  "id": "da19c3253b9a",
+  "url": "https://juejin.cn/post/7707118655453282313",
+  "title": "Gemini 4 Carbon 正式开放，正面硬刚 Fable 5.2。",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-14T08:16:58.034Z",
+  "fetched_at": "2026-11-14T11:25:55.608966+00:00"
+ },
+ "6816af23fae3": {
+  "id": "6816af23fae3",
+  "url": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition",
+  "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+  "source": "Android Police",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-14T11:26:02.563544+00:00"
+ },
+ "c084e886bd5c": {
+  "id": "c084e886bd5c",
+  "url": "https://www.ithome.com/1/027/148.htm",
+  "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T11:26:10.936375+00:00"
+ },
+ "51d95cc4c9b1": {
+  "id": "51d95cc4c9b1",
+  "url": "https://www.ithome.com/1/027/140.htm",
+  "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-14T11:26:18.847083+00:00"
+ },
+ "22f7de6935dc": {
+  "id": "22f7de6935dc",
+  "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "title": "Ggml v1.0.0",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-14T02:28:29Z",
+  "fetched_at": "2026-11-14T11:26:31.427730+00:00"
+ },
+ "9d694fa95af0": {
+  "id": "9d694fa95af0",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-14T11:26:40.983646+00:00"
  }
 }
