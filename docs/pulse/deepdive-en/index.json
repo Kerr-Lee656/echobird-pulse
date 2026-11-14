@@ -12184,5 +12184,68 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-14T05:00:00.000Z",
   "fetched_at": "2026-11-14T11:28:47.479234+00:00"
+ },
+ "d040778ff986": {
+  "id": "d040778ff986",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+  "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T17:51:13Z",
+  "fetched_at": "2026-11-14T18:00:01.349563+00:00"
+ },
+ "d981740325a8": {
+  "id": "d981740325a8",
+  "url": "https://homebrewserver.club/llama-cpp-v1.html",
+  "title": "Llama.cpp v1.0 on an RTX 3090: up to 55% faster with speculative decoding",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T16:30:57Z",
+  "fetched_at": "2026-11-14T18:00:28.411164+00:00"
+ },
+ "bf07e6c7a3a9": {
+  "id": "bf07e6c7a3a9",
+  "url": "https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
+  "title": "Anthropic: Mythos got Claude running on AMD chips in 3 days instead of months",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T16:08:23Z",
+  "fetched_at": "2026-11-14T18:00:39.741169+00:00"
+ },
+ "6bb3b6b8e2ef": {
+  "id": "6bb3b6b8e2ef",
+  "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/start/get-started-with-gemini-4",
+  "title": "Get Started with Gemini 4: Explicit Context Caching Not Supported",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T15:50:20Z",
+  "fetched_at": "2026-11-14T18:00:52.274506+00:00"
+ },
+ "450b038dbdb8": {
+  "id": "450b038dbdb8",
+  "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+  "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T15:22:11Z",
+  "fetched_at": "2026-11-14T18:01:05.743997+00:00"
+ },
+ "5490dbb0fa0d": {
+  "id": "5490dbb0fa0d",
+  "url": "https://www.mediaite.com/media/news/cnn-aviation-analyst-says-its-just-too-much-of-a-coincidence-faa-rolled-out-new-ai-traffic-tool-right-before-nationwide-comms-outage/",
+  "title": "FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T15:15:13Z",
+  "fetched_at": "2026-11-14T18:01:17.540010+00:00"
+ },
+ "393df3c75192": {
+  "id": "393df3c75192",
+  "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
+  "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T14:10:31Z",
+  "fetched_at": "2026-11-14T18:01:47.949000+00:00"
  }
 }
