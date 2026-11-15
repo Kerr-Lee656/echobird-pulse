@@ -23182,5 +23182,23 @@
   "site_name": "Zeli",
   "published_at": "2026-11-14T19:06:33Z",
   "fetched_at": "2026-11-15T06:20:49.331212+00:00"
+ },
+ "1eff66b91b02": {
+  "id": "1eff66b91b02",
+  "url": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked",
+  "title": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-15T15:39:15.397381+00:00"
+ },
+ "5e8da87a0078": {
+  "id": "5e8da87a0078",
+  "url": "https://daily.dev/posts/lovable-apps-expose-passport-details-and-more-than-200k-private-messages-6xovsjn6q",
+  "title": "Lovable AI apps expose 200K private messages and passport data in mass security lapse",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T15:39:25.526971+00:00"
  }
 }

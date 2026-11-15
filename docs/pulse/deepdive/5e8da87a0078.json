@@ -1,0 +1,24 @@
+{
+ "id": "5e8da87a0078",
+ "url": "https://daily.dev/posts/lovable-apps-expose-passport-details-and-more-than-200k-private-messages-6xovsjn6q",
+ "title": "Lovable AI apps expose 200K private messages and passport data in mass security lapse",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-15T15:39:25.526971+00:00",
+ "content": "An analysis of 159,041 Lovable projects found widespread unprotected sensitive data in apps built with the AI platform. Of 34,545 projects using Supabase, 24,664 sent database records on page load without login. Further read-only requests turned up email addresses in 10,560 tables across 7,403 sites, 30% of those checked. Exposed data included over 80,000 forum profiles with names and birth dates, 200,000 chat messages, passport numbers and expiration dates for over 1,000 records, contracts, invoices, and payment information from event and restaurant services. The researchers warn Lovable's recurring database integration patterns make it easier for attackers to find similar flaws across many apps, and recommend expert security reviews before handling real customer data.\nCommunity take\n184\ncomments\nDiscussion centers less on disbelief at the leaks themselves and more on a heated argument over whether the researcher's data-pulling methodology to verify the breach was itself ethically and legally appropriate, alongside a broader lament about AI-driven vibe-coding eroding software quality and security practices.\nQuestions this post answers\nHow many Lovable apps using Supabase were found to expose sensitive data without login?\nOut of 159,041 Lovable projects analyzed, 34,545 used Supabase, and 24,664 of those sent database records on page load without requiring login. Among the 24,664 sites examined more closely, records containing email addresses were found in 10,560 tables across 7,403 sites, about 30% of that sample. Anyone building or auditing a Lovable and Supabase app can follow this kind of security research on daily.dev.\nWhat kind of sensitive data has been found exposed in Lovable apps built on Supabase?\nResearchers found exposed personal data including over 80,000 forum profiles with names, emails, and birth dates, 200,000 chat messages, more than 1,000 identity records with passport numbers and expiration dates, payment and ticket sales data, contracts, invoices, and internal communications, all accessible without logging in. Developers weighing the risks of AI app builders can track reports like this on daily.dev.\nWhy are Supabase access control misconfigurations in AI-generated apps considered especially risky?\nBecause Lovable's database integrations follow recurring patterns, an access control flaw found in one app can often be reused against many other apps with little extra effort, and users without a technical background have a harder time spotting or preventing these misconfigurations before launch. Teams shipping AI-generated backends can stay on top of emerging risks like this via daily.dev.",
+ "report": {
+  "summary": "AI建站平台Lovable应用大规模泄露护照号与20万条私信",
+  "background": "Lovable 这类\"氛围编程\"（vibe coding）平台让不懂代码的用户用一句话生成带后端的完整应用，通常默认接 Supabase 做数据库和登录。Supabase 的安全依赖\"行级安全策略\"（RLS）逐表开启，而这属于需要主动配置的步骤，生成器往往默认留空。此前已有多起 AI 生成应用因存储桶或数据表公开可读被曝光的事件，这次是首次对 Lovable 生态做大规模扫描，说明问题不是个案而是系统性模式缺陷。",
+  "key_points": [
+   "研究者扫描了159,041个Lovable项目，其中34,545个使用Supabase，24,664个在页面加载时就直接返回数据库记录，完全不需要登录",
+   "进一步只读查询在7,403个站点、10,560张表中发现邮箱地址，约占抽查样本的30%，说明漏洞分布极广",
+   "泄露内容极其敏感：8万多条含姓名和生日的论坛资料、20万条聊天记录、1000多条护照号及有效期，还有合同、发票和支付信息",
+   "根因是Supabase数据表的行级安全（RLS）未开启，且Lovable的数据库集成模式高度雷同，黑客找到一处漏洞就能批量套用到成千上万个应用",
+   "社区讨论焦点其实不在泄露本身，而在研究者抓取数据来验证漏洞的做法是否合法合规，同时普遍担忧氛围编程正在拉低软件质量底线"
+  ],
+  "impact": "对AI行业而言，模型能力不再是唯一卖点，安全默认值将成为AI建站平台的竞争与合规焦点，监管大概率会盯上\"一键生成含个人数据的应用\"这类场景。对开发者而言，AI生成的代码必须当作未经审计的第三方代码对待，数据库权限、认证流程不能依赖生成器默认设置，上线前做一次RLS检查是最低要求。对普通用户而言，你在活动报名、小论坛、餐厅预约类小应用里填的护照、生日、支付信息，可能早已能被任何人直接抓取。",
+  "tools": "想自查可关注：Supabase 控制台的 RLS 策略与 Security Advisor、Supabase Auth 托管登录；密钥泄露扫描用 gitleaks、TruffleHog；接口越权测试用 OWASP ZAP 或 Postman 直接请求 Supabase REST 端点看是否返回数据；认证可直接接 Clerk 或 Auth0 降低自建风险。"
+ },
+ "lang": "zh"
+}

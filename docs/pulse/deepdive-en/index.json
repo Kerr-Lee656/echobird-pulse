@@ -12301,5 +12301,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-14T21:41:22.000Z",
   "fetched_at": "2026-11-15T06:23:08.364310+00:00"
+ },
+ "c3fac554bdc7": {
+  "id": "c3fac554bdc7",
+  "url": "https://int8.io/implanting-ai-with-lazarus/",
+  "title": "Anatomy of a trojan: backdooring an LLM by editing few dormant neurons",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T14:31:02Z",
+  "fetched_at": "2026-11-15T15:40:19.679714+00:00"
+ },
+ "f3ac643bcdf8": {
+  "id": "f3ac643bcdf8",
+  "url": "https://maccus.fr/en/eu-open-ai-model-europa/",
+  "title": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T13:29:48Z",
+  "fetched_at": "2026-11-15T15:40:35.257065+00:00"
+ },
+ "970d7f4cc124": {
+  "id": "970d7f4cc124",
+  "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names",
+  "title": "AI Slop Papers Published Under Prominent Academics Names",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T11:44:38Z",
+  "fetched_at": "2026-11-15T15:41:08.557793+00:00"
+ },
+ "104ec083fcb4": {
+  "id": "104ec083fcb4",
+  "url": "https://www.troutman.com/insights/the-coming-patent-storm-in-ai-hardware-what-the-capital-flows-the-memory-wall-and-the-optical-interconnect-race-mean-for-your-ip-strategy/",
+  "title": "The Coming Patent Storm in AI Hardware",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T06:32:32Z",
+  "fetched_at": "2026-11-15T15:41:44.702349+00:00"
  }
 }

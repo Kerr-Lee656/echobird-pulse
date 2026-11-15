@@ -1,0 +1,24 @@
+{
+ "id": "1eff66b91b02",
+ "url": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked",
+ "title": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-15T15:39:15.397381+00:00",
+ "content": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked (theregister.com) 6\n\t\t\t\n\t\t \t\n\t\t\t\t The Register writes that \"The worst of the patchpocalypse may be behind us, according to Linus Torvalds.\" In his weekly kernel update post, Torvalds said Linux 7.4 rc2 was a big release partly because it contained code he'd left out of rc1 because he'd been busy and it was already the largest such release in kernel history.\nBut Torvalds said the other reason rc2 was big was  \"various AI fixes.\"\nSuch fixes are necessary because ever since Anthropic launched its Mythos bug-finding model in April, developers have been able to find more software flaws than was previously possible.  Microsoft, for example, addressed a record 974 flaws in September — its third record fixing spree this year after it whacked 622 flaws in July and 206 in June. Oracle addressed 1,449 flaws in a single month. That's many more patches than IT teams are set up to handle, yet they must find ways to deal with bugs more quickly because attackers are increasingly targeting flaws found by AI. \nTorvalds' post suggests that, perhaps, the worst of this is behind us. \"This time around Alexei claims that on the bpf side at least the fixes are now coming in faster than the new reports, and that sounds lovely if true,\" he wrote. That's a reference to Alexei Starovoitov, co-creator and lead dev on the Extended Berkeley Packet Filter (eBPF), the project that makes it possible to run sandboxed programs within the Linux kernel.  \"I think most other areas haven't reached that point yet, but it's at least a sign that we _may_ be starting to see the tide starting to turn,\" he added.  \nThe patchpocalypse has already affected Linux kernel developer  Lorenzo Stoakes, a principal software engineer at Arm,  The Register reported Friday:\nEarlier this week he posted an email to the Linux kernel mailing list to say that he was planning to drop some of his workload.  He explained:  \"Given the current throughput in the kernel resulting from AI-generated series, I unfortunately lack the bandwidth to generally be able to offer review except in those areas I maintain. [...] Apologies for doing this, but given the current trends I'd like to do something to make my inbox a little more manageable.\"\n \nStoakes told The Register, \"I just want my inbox to be less horrendous. And yeah, AI is part of the reason; in general, it's gone from 'once a week' to 'daily' to 'half of what I see in review'.\"",
+ "report": {
+  "summary": "Linus称Linux AI补丁洪峰或已见顶",
+  "background": "自Anthropic今年4月推出Mythos漏洞发现模型后，AI大幅提升漏洞发现速度，微软、Oracle等厂商月度修复量创纪录，Linux内核也涌入大量AI生成补丁。维护者审查带宽被挤占，甚至有核心开发者减少非维护领域的审查。如今Linus Torvalds在7.4 rc2发布说明中暗示，最糟阶段可能过去。",
+  "key_points": [
+   "Linux 7.4 rc2体积异常大，部分原因是积压代码，另一部分则是“各种AI修复”，说明AI发现漏洞已进入内核发布流程。",
+   "eBPF维护者Alexei称BPF侧修复速度已超过新报告流入，Linus认为这可能是“潮水转向”的早期迹象。",
+   "但Linus强调多数子系统尚未达到这一平衡点，AI报告仍可能压垮维护者，不能过早乐观。",
+   "Arm工程师Lorenzo Stoakes因AI生成补丁系列过多，宣布减少维护领域外审查，收件箱从每周一次变每日甚至占审查一半。",
+   "微软9月修974个漏洞、Oracle单月修1449个，显示AI漏洞发现正把全行业推入补丁洪峰。"
+  ],
+  "impact": "对AI行业，漏洞发现模型证明价值，也暴露修复与审查瓶颈；对开发者，维护者需借助自动化去重、分诊和AI辅助审查，否则审查负担会拖慢内核演进；对普通用户，短期补丁增多有利于安全，但更新疲劳和未修复漏洞风险仍存。",
+  "tools": "可关注Linux内核邮件列表、eBPF项目、syzkaller/Syzbot模糊测试，以及Semgrep、CodeQL等代码扫描工具和漏洞管理平台，用于补丁去重、分诊与审查。"
+ },
+ "lang": "zh"
+}
