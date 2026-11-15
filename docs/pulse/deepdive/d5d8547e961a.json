@@ -1,0 +1,24 @@
+{
+ "id": "d5d8547e961a",
+ "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+ "title": "英伟达通过循环融资交易故意维持了GPU的高价",
+ "source": "www.techspot.com",
+ "site_name": "Buzzing",
+ "published_at": "2026-11-15T00:41:01.386Z",
+ "fetched_at": "2026-11-15T06:20:19.070240+00:00",
+ "content": "Connecting the dots: The AI boom has been widely blamed for GPU prices spinning out of control over the past year. Following Jensen Huang's resignation from Nvidia,new information suggests that this was the goal of the former CEO's business strategy, which has long drawn accusations of circular financing.\nA recent Wall Street Journal profile of Nvidia interim CEO Colette Kress has shed more light on how Nvidia controversially financed its own customers to drive the AI boom. According to the report, the company pushed for more deals in mid-to-late 2026 to absorb an oversupply of TSMC wafers and keep GPU prices high.\nSince at least last year, Nvidia has been accused of prolonging the AI boom by supporting the companies that buy its chips. Co-founder and former CEO Jensen Huang, along with CFO Kress, even went so far as to defend the company against comparisons to Enron, which used similar tactics to illegally obscure its debt before its 2001 collapse.\nAlso read: GPU Prices Are Spiraling Out of Control - Q4 2026 Update\nBehind the scenes, Kress expressed concern about the scale of the deals Nvidia had inked with cloud providers and major AI companies like OpenAI. Nvidia pushed ahead anyway, but by summer 2026, the company was wondering whether it had pushed too far amid an \"avalanche\" of semiconductors it had ordered from TSMC.\nIt was around this time that Huang berated Kress, calling her \"a deer in headlights,\" according to someone familiar with the matter. Nvidia began to slow down, downsize, and pause some of its financing deals, including one with OpenAI that originally included a $250 billion backstop for the world's largest data center.\nAI data centers have siphoned off DRAM and NAND manufacturing capacity traditionally used for RAM and storage in consumer devices, inflating prices. Nvidia's GeForce GPUs have been hit especially hard, with prices often exceeding 160% of their original MSRP. The company's flagship RTX 5090 has become unobtainable because Nvidia has directed its VRAM and semiconductors toward data center GPUs.\nRelated: Without Jensen Huang, is it game over for GeForce?\nAs its financial support deals wound down, Huang became worried about the company's stock market valuation, with its average monthly stock multiple falling far behind those of other large tech companies.\nAt a Berlin conference, the former CEO told major clients a story about a busy Japanese soup vendor who refused to give him a second serving after he had waited in a long line, saying the vendor had too many customers and not enough soup. Huang used the story to highlight the value of maintaining a diverse customer base and keeping prices high, suggesting that Nvidia's circular financing strategy inflated GPU prices by creating the perception of high demand.\nThe story emerged after Huang's resignation following the revelation of multiple extramarital affairs. One was with Alice Huang (no relation), whose company, Megaspeed, was suspected by US intelligence of diverting Nvidia chips to China in violation of export regulations. While some allege that she is a spy for Beijing, President Trump and the Justice Department said that hasn't been determined.",
+ "report": {
+  "summary": "英伟达被指循环融资维持GPU高价，黄仁勋辞职后内幕曝光",
+  "background": "AI热潮推高GPU价格，英伟达长期被指控通过循环融资资助客户购买自家芯片，制造需求假象。华尔街日报报道临时CEO Colette Kress的资料显示，2026年中后期英伟达为消化台积电晶圆过剩供应、维持GPU高价，继续推动融资交易。Kress曾担忧与云厂商和OpenAI等交易规模过大，但公司仍推进。后因半导体积压，黄仁勋斥责Kress，公司开始收缩融资交易，包括对OpenAI的2500亿美元后备支持。数据中心吸走DRAM/NAND产能，GeForce GPU价格超建议零售价160%，RTX 5090一卡难求。黄仁勋因婚外情辞职，涉事公司Megaspeed被疑违规向中国转芯片。",
+  "key_points": [
+   "循环融资模式：英伟达资助云厂商和AI公司购买自家GPU，制造高需求假象，推高GPU价格。",
+   "台积电晶圆过剩压力：2026年中后期，为消化过剩晶圆订单，英伟达继续推动融资交易维持高价。",
+   "内部矛盾激化：CFO Kress担忧交易规模过大，黄仁勋斥其“呆若木鸡”，后因芯片积压被迫收缩。",
+   "消费级GPU受害：数据中心吸走内存产能，GeForce价格超建议零售价160%，RTX 5090难求。",
+   "黄仁勋辞职与地缘风险：因婚外情辞职，涉事公司Megaspeed被疑违规向中国转芯片。"
+  ],
+  "impact": "对AI行业：循环融资模式若被证实，将引发监管审查和信任危机，加剧AI泡沫风险。对开发者：GPU成本高企，算力获取更难，可能转向云服务或替代芯片。对普通用户：显卡价格持续高位，游戏和创作成本上升，消费级产品供应被数据中心挤压。整体而言，英伟达商业模式透明度受质疑，行业需警惕金融杠杆催生的虚假需求。",
+  "tools": "关注GPU价格追踪工具（如Tom's Hardware GPU价格指数）、AI算力租赁平台（Lambda Labs、Vast.ai）、开源推理框架（vLLM、Ollama）以降低对高价硬件的依赖；也可关注替代芯片厂商（AMD、Intel）及RISC-V AI加速器项目。"
+ },
+ "lang": "zh"
+}

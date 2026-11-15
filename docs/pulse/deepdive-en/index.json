@@ -12247,5 +12247,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-14T14:10:31Z",
   "fetched_at": "2026-11-14T18:01:47.949000+00:00"
+ },
+ "154b5261be7d": {
+  "id": "154b5261be7d",
+  "url": "https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator",
+  "title": "IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T06:13:17Z",
+  "fetched_at": "2026-11-15T06:21:58.316648+00:00"
+ },
+ "1eff66b91b02": {
+  "id": "1eff66b91b02",
+  "url": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked",
+  "title": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T03:56:48Z",
+  "fetched_at": "2026-11-15T06:22:10.850847+00:00"
+ },
+ "13782baa572f": {
+  "id": "13782baa572f",
+  "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+  "title": "Medicare's AI Experiment",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T02:49:09Z",
+  "fetched_at": "2026-11-15T06:22:23.633846+00:00"
+ },
+ "410e1cc6b65e": {
+  "id": "410e1cc6b65e",
+  "url": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
+  "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T23:23:18Z",
+  "fetched_at": "2026-11-15T06:22:37.053989+00:00"
+ },
+ "0dac5bc8bd77": {
+  "id": "0dac5bc8bd77",
+  "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "title": "The AI graveyard: A running list of projects and startups that didn't make it",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-14T23:05:00Z",
+  "fetched_at": "2026-11-15T06:22:53.285243+00:00"
+ },
+ "e86112d5f873": {
+  "id": "e86112d5f873",
+  "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-14T21:41:22.000Z",
+  "fetched_at": "2026-11-15T06:23:08.364310+00:00"
  }
 }

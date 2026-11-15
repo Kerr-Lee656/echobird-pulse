@@ -23119,5 +23119,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-14T10:06:01Z",
   "fetched_at": "2026-11-14T22:20:07.382257+00:00"
+ },
+ "b7b9d4d1df1d": {
+  "id": "b7b9d4d1df1d",
+  "url": "https://yro.slashdot.org/story/26/11/14/0641233/eff-criticizes-us-governments-use-of-ai-for-evaluating-senior-health-insurance-requests",
+  "title": "EFF Criticizes US Government's Use of AI For Evaluating Senior Health Insurance Requests",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-15T06:19:45.266356+00:00"
+ },
+ "8f658e2203d4": {
+  "id": "8f658e2203d4",
+  "url": "https://www.techradar.com/pro/google-turned-to-amd-epyc-not-its-own-axion-chips-to-secure-its-first-confidential-tpu",
+  "title": "Google turned to AMD Epyc, not its own Axion chips, to secure its first confidential TPU",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-15T06:19:54.876769+00:00"
+ },
+ "2ec33fa9425e": {
+  "id": "2ec33fa9425e",
+  "url": "https://www.techradar.com/pro/small-nuclear-reactors-could-soon-power-the-next-generation-of-ai-data-centers",
+  "title": "Small nuclear reactors could soon power the next generation of AI data centers — modular reactors could soon power Dow Texas chemical plant",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-15T06:20:07.344989+00:00"
+ },
+ "d5d8547e961a": {
+  "id": "d5d8547e961a",
+  "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+  "title": "英伟达通过循环融资交易故意维持了GPU的高价",
+  "source": "www.techspot.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-15T00:41:01.386Z",
+  "fetched_at": "2026-11-15T06:20:19.070240+00:00"
+ },
+ "91d90ca19f91": {
+  "id": "91d90ca19f91",
+  "url": "https://www.ithome.com/1/027/255.htm",
+  "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-14T23:38:56Z",
+  "fetched_at": "2026-11-15T06:20:29.025777+00:00"
+ },
+ "cd9a5613562e": {
+  "id": "cd9a5613562e",
+  "url": "https://daily.dev/posts/google-s-antigravity-agents-tackle-open-problems-in-math-chemistry-and-code-fklchfrbs",
+  "title": "Google Antigravity agents prove math conjectures, rewrite AV1 decoder and design drug candidates",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T06:20:39.029952+00:00"
+ },
+ "234acccb650e": {
+  "id": "234acccb650e",
+  "url": "https://www.bbc.com/news/articles/cwn83gxemk35o",
+  "title": "Italy fines Meta €805M over accessing users' photos",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-14T19:06:33Z",
+  "fetched_at": "2026-11-15T06:20:49.331212+00:00"
  }
 }
