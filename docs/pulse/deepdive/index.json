@@ -23200,5 +23200,68 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-15T15:39:25.526971+00:00"
+ },
+ "0d3134bc1704": {
+  "id": "0d3134bc1704",
+  "url": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11",
+  "title": "The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-15T21:03:21.883962+00:00"
+ },
+ "3e166c367297": {
+  "id": "3e166c367297",
+  "url": "https://www.ithome.com/1/027/453.htm",
+  "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T21:03:31.454387+00:00"
+ },
+ "e61d8f9f9a3b": {
+  "id": "e61d8f9f9a3b",
+  "url": "https://www.ithome.com/1/027/432.htm",
+  "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T21:03:50.134339+00:00"
+ },
+ "a9327f224ac5": {
+  "id": "a9327f224ac5",
+  "url": "https://www.ithome.com/1/027/450.htm",
+  "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T21:03:59.519975+00:00"
+ },
+ "7e1fd5b62804": {
+  "id": "7e1fd5b62804",
+  "url": "https://www.stdaily.com/web/gdxw/2026-11/15/content_613523.html",
+  "title": "矩阵方程求解速度快千倍 国产新型模拟计算芯片问世",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-15T21:04:06.910459+00:00"
+ },
+ "be611f4239da": {
+  "id": "be611f4239da",
+  "url": "https://www.ithome.com/1/027/430.htm",
+  "title": "世界首颗：单次矩阵方程求解时间小于 100 纳秒，国产新型模拟计算芯片问世",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-15T10:53:47Z",
+  "fetched_at": "2026-11-15T21:04:25.559828+00:00"
+ },
+ "870c5f91bcf8": {
+  "id": "870c5f91bcf8",
+  "url": "https://www.ithome.com/1/027/423.htm",
+  "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-15T10:12:07Z",
+  "fetched_at": "2026-11-15T21:04:33.758293+00:00"
  }
 }

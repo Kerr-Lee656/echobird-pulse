@@ -12337,5 +12337,32 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-15T06:32:32Z",
   "fetched_at": "2026-11-15T15:41:44.702349+00:00"
+ },
+ "fa5f38ae2f2c": {
+  "id": "fa5f38ae2f2c",
+  "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
+  "title": "OBR: Britain faces 'painful' job losses from AI",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T20:00:03Z",
+  "fetched_at": "2026-11-15T21:05:42.866738+00:00"
+ },
+ "7c3e0ccca6eb": {
+  "id": "7c3e0ccca6eb",
+  "url": "https://blog.claroc.io/ghostshares-grok-build-apps/",
+  "title": "Grok Apps Exposed xAI's Business Secrets and People's Private Data",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T17:30:08Z",
+  "fetched_at": "2026-11-15T21:06:52.510109+00:00"
+ },
+ "f937c147cfe4": {
+  "id": "f937c147cfe4",
+  "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+  "title": "A Human Reads the Anthropic IPO Filing",
+  "source": "Hacker News (17pts, 9c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T15:18:06Z",
+  "fetched_at": "2026-11-15T21:07:07.979374+00:00"
  }
 }
