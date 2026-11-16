@@ -23263,5 +23263,32 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-15T10:12:07Z",
   "fetched_at": "2026-11-15T21:04:33.758293+00:00"
+ },
+ "6c2c64409dfb": {
+  "id": "6c2c64409dfb",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+  "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-16T01:58:43.820175+00:00"
+ },
+ "df8ea2ca0bd5": {
+  "id": "df8ea2ca0bd5",
+  "url": "https://thenextweb.com/news/uber-drivers-licence-data-stolen-in-fireworks-ai-hack",
+  "title": "Uber drivers’ licence data stolen in Fireworks AI hack",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-16T01:58:53.195077+00:00"
+ },
+ "bbfcf564f0bf": {
+  "id": "bbfcf564f0bf",
+  "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+  "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-15T19:39:46Z",
+  "fetched_at": "2026-11-16T01:59:04.734418+00:00"
  }
 }

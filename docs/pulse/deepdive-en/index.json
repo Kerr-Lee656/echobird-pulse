@@ -12364,5 +12364,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-15T15:18:06Z",
   "fetched_at": "2026-11-15T21:07:07.979374+00:00"
+ },
+ "ab4fc5bd1909": {
+  "id": "ab4fc5bd1909",
+  "url": "https://www.hntrends.com/2026/november.html",
+  "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+  "source": "Hacker News (21pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T01:31:30Z",
+  "fetched_at": "2026-11-16T01:59:33.572943+00:00"
+ },
+ "ba7e4bc0f0de": {
+  "id": "ba7e4bc0f0de",
+  "url": "https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/",
+  "title": "Everything Made by an AI Is in the Public Domain",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T01:24:15Z",
+  "fetched_at": "2026-11-16T02:00:12.993655+00:00"
+ },
+ "46ae3908161c": {
+  "id": "46ae3908161c",
+  "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+  "title": "Amazon MadPot: Honeypot for AI Agents",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T00:50:59Z",
+  "fetched_at": "2026-11-16T02:00:30.288835+00:00"
+ },
+ "094fa3e63726": {
+  "id": "094fa3e63726",
+  "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+  "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+  "source": "Hacker News (13pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T23:33:53Z",
+  "fetched_at": "2026-11-16T02:00:45.912748+00:00"
+ },
+ "04196bef9b67": {
+  "id": "04196bef9b67",
+  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-15T23:30:00.000Z",
+  "fetched_at": "2026-11-16T02:01:00.912572+00:00"
+ },
+ "62499695b24c": {
+  "id": "62499695b24c",
+  "url": "https://finance.biggo.com/news/71888475bad974d6",
+  "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T23:27:34Z",
+  "fetched_at": "2026-11-16T02:01:14.651897+00:00"
+ },
+ "6c2c64409dfb": {
+  "id": "6c2c64409dfb",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+  "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+  "source": "Hacker News (6pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-15T22:58:04Z",
+  "fetched_at": "2026-11-16T02:01:26.791854+00:00"
  }
 }

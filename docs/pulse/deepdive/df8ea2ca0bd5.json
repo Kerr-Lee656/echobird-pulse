@@ -1,0 +1,25 @@
+{
+ "id": "df8ea2ca0bd5",
+ "url": "https://thenextweb.com/news/uber-drivers-licence-data-stolen-in-fireworks-ai-hack",
+ "title": "Uber drivers’ licence data stolen in Fireworks AI hack",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-16T01:58:53.195077+00:00",
+ "content": "Uber is warning drivers that hackers stole their personal and driver’s licence information from one of its vendors, TechCrunch reported. TechCrunch identified the vendor as Fireworks AI, and Uber confirmed it.\nUber said Fireworks told it on 9 October that hackers had stolen internal credentials. Those credentials were then used to reach Uber’s data, TechCrunch said.\nUber has not said how many people were affected. Notices it filed with state attorneys general this week list 2,567 people in Massachusetts, 3,430 in South Carolina and 1,873 in Rhode Island.\nThat is 7,870 so far. California and Illinois residents were also notified, without a count, so the total is likely to rise.\nFireworks, valued at $17.5bn in July, sells developers access to open AI models. It has disclosed two incidents from October. In the first, intruders misused internal credentials. In the second, they reached its development machines through a breach at a cloud provider.\nFireworks says the attackers took billing data. For some customers, they also took secrets, datasets and unfinished model weights. Notion has said AI chat transcripts from fewer than 1% of its workspaces were exposed.\nFireworks blamed a group that sells stolen access to AI models for profit. That practice, known as LLMjacking, turns AI credentials into a product.\nIt is unclear why driver licence data sat with an AI inference provider. Uber referred other questions to Fireworks, which did not answer TechCrunch’s specific questions.\nIt is Uber’s second known breach this year, after an Uber Freight incident in August. No group has claimed the theft from Fireworks.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Uber司机驾照数据经AI推理供应商Fireworks泄露",
+  "background": "Fireworks AI 是一家为开发者提供开源模型推理服务的公司，7月估值达175亿美元，属于AI基础设施层的关键玩家。10月9日，它向客户通报内部凭证被盗；攻击者借此进一步访问了客户数据。这已经是Fireworks在10月披露的第二起事件，前一起是通过云服务商漏洞进入开发机器。Uber成为已知受害者之一：其司机驾照信息存放在这家AI供应商处，这一事实本身暴露出，企业对第三方AI服务的数据边界普遍缺乏管控。这也是Uber今年第二次已知泄露，此前8月Uber Freight曾发生事故。",
+  "key_points": [
+   "Uber向司机发出警告：黑客从合作供应商处窃取了姓名与驾照等个人信息；TechCrunch指认，该供应商正是Fireworks AI，Uber已确认。",
+   "目前已知受影响人数至少7870人，分布在马萨诸塞、南卡、罗德岛三州；加州和伊利诺伊州也已通知但未公布人数，总数很可能继续上升。",
+   "Fireworks在10月连发两起安全事件：先是内部凭证被滥用，随后攻击者又借云服务商漏洞进入其开发机器，属于连环失守。",
+   "被窃取的不只是账单数据，部分客户还丢失了密钥、数据集乃至未完成的模型权重；Notion也确认不到1%工作区的AI对话记录外泄。",
+   "Fireworks将矛头指向专门倒卖AI模型访问权的团伙，这类行为被称为“LLMjacking”，即把盗来的AI凭证当作商品出售。",
+   "目前尚不清楚Uber司机驾照数据为何会存放在一家AI推理服务商处，Uber把相关问题推给Fireworks，后者未正面回应。"
+  ],
+  "impact": "对AI行业而言，这起事件把“AI供应商即数据处理器”的风险从理论变成判例：推理层公司一旦失守，波及的是客户的客户。对开发者来说，选型时不能只看价格和延迟，还要审查供应商的凭证管理、数据留存与最小权限实践，尤其要避免把身份类敏感数据交给模型服务商。对普通用户而言，司机驾照泄露可能引发电信诈骗与身份盗用，也提醒所有人：你在网约车、聊天工具里提交的信息，可能正躺在某个你从未听说过的AI基础设施公司服务器上。",
+  "tools": "想跟进可关注三类工具：一是密钥与凭证治理，如HashiCorp Vault、云厂商的Secrets Manager，用于轮换与最小权限；二是LLM调用侧的防护与审计，如Lakera Guard、Cloudflare AI Gateway，可监控异常调用以对抗LLMjacking；三是数据防泄露与合规扫描，如Presidio做PII识别，避免敏感字段流入第三方推理服务。"
+ },
+ "lang": "zh"
+}
