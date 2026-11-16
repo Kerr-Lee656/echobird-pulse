@@ -1,0 +1,23 @@
+{
+ "id": "02d1d44b7f99",
+ "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+ "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-16T20:23:37.250473+00:00",
+ "content": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia’s AI chips away from China. In a letter to Lutnick on Sunday, Cantwell said the DOC has “undermined America’s national security,” and that its failures “help give away America’s technology advantage in AI.”\nSenator slams Commerce Secretary for flow of Nvidia AI chips to China\nAmid the Jensen Huang fallout, Maria Cantwell accuses Howard Lutnick of giving away ‘America’s technology advantage in AI.’\n“Despite clear authority from Congress, the Department of Commerce has allowed advanced AI chips to flow through companies with ties to the People’s Republic of China (PRC). The Department of Commerce has resisted efforts to restrict companies flagged as national security threats, weakened safeguards, and left open pathways for the PRC to train advanced AI models using sensitive American technology.”\nIn her letter, Cantwell specifically calls out instances when the DOC reportedly didn’t heed warnings from White House and intelligence officials to restrict Megaspeed’s access to AI chips, prior to allegations that former Nvidia CEO Jensen Huang had an affair with a then-Megaspeed executive suspected of being a Chinese spy. Cantwell also criticizes the DOC for allowing Alibaba and ByteDance to access Nvidia chips through overseas data centers, and extending a loophole that let restricted companies obtain American AI technology through subsidiaries.\nThe DOC is also accused of “putting business interests ahead of national security,” with Cantwell noting that Cantor Fitzgerald, the financial services firm formerly led by Lutnick and now steered by his sons, reportedly held $1.2 billion in Nvidia stock at the time of Lutnick’s nomination for Commerce Secretary.\nThe letter comes ahead of a meeting in China this Thursday between US President Donald Trump and Chinese President Xi Jinping. While Congress is looking to bolster export restrictions around AI chips, The Wall Street Journal reports that Lutnick is instead expected to unveil a new initiative that will designate Nvidia — along with companies including OpenAI, Anthropic, Amazon, and Microsoft — as an AI “national champion.” The designation reportedly aims to help these companies expand overseas and compete with Chinese technology firms by granting them expedited export licence approvals.\n“America cannot maintain its leadership in AI if the agency responsible for protecting that advantage fails to enforce its own controls,” Cantwell said, closing her letter. “The Administration must account for its failure to enforce these protections and take immediate action to prevent America’s most sensitive technology from strengthening our adversaries.”",
+ "report": {
+  "summary": "美参议员指责商务部放任英伟达AI芯片流向中国",
+  "background": "美国以国家安全为由限制先进AI芯片对华出口，但执行力度长期受质疑。参议院商务委员会民主党高层坎特韦尔致信商务部长卢特尼克，指其未落实国会授权，在特朗普与习近平会晤前施压；同时有报道称卢特尼克拟将英伟达、OpenAI等列为AI“国家冠军”并加快出口许可。",
+  "key_points": [
+   "坎特韦尔称商务部削弱保护措施，允许与中企有关联的公司获得先进AI芯片，实质损害美国国家安全和AI技术优势。",
+   "信中点名具体漏洞：未采纳白宫和情报官员对Megaspeed的警告，允许阿里、字节通过海外数据中心获取英伟达芯片，并延长子公司规避限制的通道。",
+   "信中还指商务部把商业利益置于国家安全之上，称卢特尼克获提名时其家族曾执掌的Cantor Fitzgerald持有约12亿美元英伟达股票。",
+   "事件发生在特朗普与习近平会晤前；《华尔街日报》称卢特尼克预计推出AI“国家冠军”计划，给英伟达、OpenAI、Anthropic、亚马逊、微软加快出口许可。"
+  ],
+  "impact": "对AI行业，出口管制与产业扶持信号相互矛盾，英伟达及云厂商面临更高合规不确定性；开发者可能面对芯片供给和云服务区域化，需提前做多供应链与模型替代预案；普通用户短期无感，但AI服务价格、可用性和区域差异可能扩大。",
+  "tools": "可跟踪美国BIS实体清单与出口管制公告、Nvidia财报和供应链披露，以及The Verge/Reuters政策报道；开发者可用Open LLM Leaderboard等开源评测跟踪替代模型。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "9ec6abdc0333",
+ "url": "https://www.aibase.com/news/32341",
+ "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-16T12:13:21.496Z",
+ "fetched_at": "2026-11-16T20:24:44.455352+00:00",
+ "content": "On November 16, the Financial Times reported that Jensen Huang is considering returning to the CEO position at Nvidia, and supporters in Silicon Valley’s tech community have begun pressuring Nvidia’s board to reinstate him.\nThe report said Huang has discussed a possible comeback with close associates. One ally said supporters are building a “war room” made up of Silicon Valley executives to lobby the board to support his return, and plan to seek support from the White House. The person said Huang himself supports these efforts and that, in the tech world, almost every influential figure apart from the frontier AI labs likes Huang.\nOver the past weekend, the wave of support kept growing. Corporate executives including Elon Musk and Epic Games CEO Tim Sweeney backed an open letter calling on the board to “Bring Jensen Back”; since Huang resigned, several Nvidia employees have also publicly called for his return and signed the letter.\nHowever, the path back to his job faces resistance. U.S. Treasury Secretary Scott Bessent said that after Huang’s departure, Nvidia’s leadership needs a “major shake-up.” At the same time, Huang does not hold enough shares to control the company and cannot overturn the board’s decision. Currently, the management team led by interim CEO Colette Kress is working to stabilize operations and prepare for the quarterly earnings report to be released on Tuesday.\nThis episode reflects the multi-sided maneuvering over governance and government-business relations at the leading AI compute company, and the direction of its leadership may affect market expectations for Nvidia and the AI industry chain.",
+ "report": {
+  "summary": "黄仁勋或重返英伟达CEO，硅谷盟友游说董事会",
+  "background": "英伟达是AI算力核心供应商，黄仁勋作为创始人长期执掌公司。若其离任，将引发治理与战略连续性担忧。当前AI芯片竞争激烈，美国政策与白宫关系敏感。此次盟友筹建“作战室”游说董事会，反映硅谷对领导层的高度关注，也牵动市场对英伟达及AI产业链的预期。",
+  "key_points": [
+   "黄仁勋与亲信讨论回归，盟友组建硅谷高管“作战室”游说董事会，并计划寻求白宫支持。",
+   "马斯克、Epic CEO Tim Sweeney等科技领袖联署公开信“Bring Jensen Back”，部分英伟达员工也签名呼吁。",
+   "回归面临阻力：美财长贝森特称英伟达领导层需“大换血”，黄仁勋持股不足以控制公司，无法推翻董事会决定。",
+   "临时CEO Colette Kress正稳定运营并准备周二季度财报，领导层走向将影响市场预期。"
+  ],
+  "impact": "对AI行业，英伟达治理动荡可能影响GPU供应节奏与AI算力投资信心；对开发者，CUDA生态和硬件路线若生变，需关注迁移风险；对普通用户，AI服务成本与迭代速度可能受间接影响，但短期感知有限。",
+  "tools": "可关注英伟达财报与SEC披露；技术侧可跟踪CUDA、TensorRT、vLLM等生态项目，以及ROCm、oneAPI等替代方案，评估供应链与迁移风险。"
+ },
+ "lang": "zh"
+}

@@ -23353,5 +23353,41 @@
   "site_name": "Zeli",
   "published_at": "2026-11-16T01:31:30Z",
   "fetched_at": "2026-11-16T09:36:55.806300+00:00"
+ },
+ "02d1d44b7f99": {
+  "id": "02d1d44b7f99",
+  "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+  "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-16T20:23:37.250473+00:00"
+ },
+ "574e8fe56627": {
+  "id": "574e8fe56627",
+  "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+  "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-16T20:23:49.805097+00:00"
+ },
+ "49e027558c6c": {
+  "id": "49e027558c6c",
+  "url": "https://api3.cls.cn/share/article/2535805?os=web&sv=8.4.6&app=CailianpressWeb",
+  "title": "SemiAnalysis 大幅下修 AI 算力预测：2028 年资本开支预测下调近三成，五年硅片出货面积下调 17%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-16T20:24:33.326963+00:00"
+ },
+ "9ec6abdc0333": {
+  "id": "9ec6abdc0333",
+  "url": "https://www.aibase.com/news/32341",
+  "title": "黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-16T12:13:21.496Z",
+  "fetched_at": "2026-11-16T20:24:44.455352+00:00"
  }
 }

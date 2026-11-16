@@ -12490,5 +12490,77 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-16T05:00:00.000Z",
   "fetched_at": "2026-11-16T09:40:10.066423+00:00"
+ },
+ "57cc1ea3d3bb": {
+  "id": "57cc1ea3d3bb",
+  "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-16T20:07:13.000Z",
+  "fetched_at": "2026-11-16T20:25:30.486948+00:00"
+ },
+ "c358f6a12927": {
+  "id": "c358f6a12927",
+  "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+  "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-16T19:24:40.000Z",
+  "fetched_at": "2026-11-16T20:25:42.575375+00:00"
+ },
+ "019849ec10d9": {
+  "id": "019849ec10d9",
+  "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+  "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-16T19:23:45.000Z",
+  "fetched_at": "2026-11-16T20:25:56.340246+00:00"
+ },
+ "6dd05a512abc": {
+  "id": "6dd05a512abc",
+  "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+  "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T19:20:30Z",
+  "fetched_at": "2026-11-16T20:26:33.906788+00:00"
+ },
+ "574e8fe56627": {
+  "id": "574e8fe56627",
+  "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+  "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T19:17:09Z",
+  "fetched_at": "2026-11-16T20:26:45.834221+00:00"
+ },
+ "008c3aa9c8f5": {
+  "id": "008c3aa9c8f5",
+  "url": "https://www.liquid.ai/blog/d1-2",
+  "title": "New decision model from Liquid AI top of AA index",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T18:19:17Z",
+  "fetched_at": "2026-11-16T20:27:41.510018+00:00"
+ },
+ "3f10f2c59be1": {
+  "id": "3f10f2c59be1",
+  "url": "https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn",
+  "title": "Redwood Research：Gemini 4 安全报告未能证明失控风险低",
+  "source": "Redwood Research：Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-16T17:21:38.000Z",
+  "fetched_at": "2026-11-16T20:28:28.405615+00:00"
+ },
+ "ed90136b1154": {
+  "id": "ed90136b1154",
+  "url": "https://techstrong.ai/articles/anthropic-wants-to-be-your-office-and-microsoft-investors-are-worried/",
+  "title": "Anthropic Wants to Be Your Office, and Microsoft Investors Are Worried",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T17:08:59Z",
+  "fetched_at": "2026-11-16T20:28:43.084995+00:00"
  }
 }

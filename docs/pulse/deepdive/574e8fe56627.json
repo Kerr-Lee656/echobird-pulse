@@ -1,0 +1,25 @@
+{
+ "id": "574e8fe56627",
+ "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+ "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-16T20:23:49.805097+00:00",
+ "content": "The Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI and Anthropic among more than two dozen AI “national champions”, The Wall Street Journal reported on Sunday. The aim is to help US AI firms win business overseas against Chinese rivals.\nPeople familiar with the plans told Yoko Kubota and Amrith Ramkumar that the announcement could come within the next week. Commerce Secretary Howard Lutnick would unveil the list of AI national champions, the Journal reported. The timing could still change.\nA package deal for foreign buyers\nThe programme aims to persuade foreign governments and companies to choose US AI over Chinese technology. It would bundle American chips, AI models and other products into packages that are easier for overseas customers to buy, according to the Journal.\nCommerce already runs the American AI Exports Program. A July 2025 executive order set it up to sell full packages of US AI abroad. In July this year, the department said groups of companies had filed 78 applications. Packages it designates may get government advocacy, federal financing and faster export licence reviews, it said.\nChina is pushing its own AI abroad too. In October, Chinese state media said Beijing had cleared DeepSeek and MiniMax to take their models overseas.\nNvidia under scrutiny\nThe plan shows the administration pressing ahead with its tech strategy despite the turmoil at Nvidia, the Journal reported. Jensen Huang resigned as Nvidia’s CEO on Thursday. He had admitted an affair with Alice Huang, whom US officials suspect of spying for China.\nThe revelations have added to pressure from critics who want national security put ahead of market share, the Journal reported. Some fear Chinese companies are getting top Nvidia chips through gaps in export controls.\nTrump has repeatedly praised Nvidia and Huang. In October he gave Huang the National Medal of Science.\nCritics have accused Lutnick’s Commerce Department of failing to close those gaps, the Journal reported. It had previously reported that he was wary of angering Beijing during trade talks. Last week, Treasury Secretary Scott Bessent said Commerce “has the pen” on blacklisting Megaspeed. The Singapore firm sits at the centre of the Nvidia case.\nThe list would land in the week Trump travels to China. He attends the Asia-Pacific Economic Cooperation summit in Shenzhen on 18 and 19 November. He plans to meet Chinese President Xi Jinping there.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美政府将把英伟达、OpenAI等列为AI“国家冠军”，打包出海对华竞争",
+  "background": "中美AI竞争正从技术延伸到市场准入。2025年7月，特朗普政府签署行政令设立“美国AI出口计划”，试图把芯片、模型、云服务打包卖给海外客户，以减少各国转向中国方案的可能；中方也在10月放行DeepSeek、MiniMax的模型出海。在这一背景下，商务部拟推出“国家冠军”名单，用政府背书和融资支持为本国AI企业争夺海外订单，同时也回应国内对出口管制执行不力的批评。",
+  "key_points": [
+   "名单涵盖英伟达、亚马逊、微软、OpenAI、Anthropic等20多家企业，由商务部长卢特尼克公布，最快一周内落地，具体时点仍可能变化。",
+   "核心机制是“打包出售”：把美国芯片、AI模型与配套产品组合成海外客户更易采购的方案，并附赠政府背书、联邦融资和加速的出口许可审批。",
+   "该计划并非从零开始，此前的“美国AI出口计划”已收到企业联合体提交的78份申请，新名单相当于给优胜者贴上官方标签。",
+   "对标动作明确：中国10月批准DeepSeek与MiniMax模型出海，美方此举意在阻止第三国政府和企业在采购时倒向中国技术栈。",
+   "英伟达正处多事之秋：黄仁勋因与涉嫌为中国从事间谍活动的Alice Huang有染而辞去CEO职务，批评者指商务部未堵住芯片流向中国的漏洞，Megaspeed黑名单悬而未决。",
+   "时机微妙：名单预计在特朗普赴深圳出席11月18—19日APEC峰会并会晤习近平的同一周公布，既是谈判筹码也是产业政策宣示。"
+  ],
+  "impact": "对美国AI行业，“国家冠军”意味着政府背书、融资与审批便利成为新的竞争壁垒，大型平台进一步巩固出海优势，中小厂商可能被迫依附打包方案才能进入海外市场。对开发者，出口合规将直接影响模型与算力的可获得性，跨境部署需更早评估许可与实体清单风险。对普通用户，海外市场可能形成美系与中系两套并行生态，产品选择、价格与数据治理规则随之分化。",
+  "tools": "跟进可关注：美国商务部American AI Exports Program官方页面及申请包结构；英伟达NIM/NeMo、OpenAI与Anthropic的企业部署方案；对照DeepSeek、MiniMax的开源权重与许可条款；有跨境业务者需查BIS实体清单与ECCN出口管制分类。"
+ },
+ "lang": "zh"
+}
