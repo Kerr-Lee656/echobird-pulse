@@ -1,0 +1,24 @@
+{
+ "id": "ab4fc5bd1909",
+ "url": "https://www.hntrends.com/2026/november.html",
+ "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-16T01:31:30Z",
+ "fetched_at": "2026-11-16T09:36:55.806300+00:00",
+ "content": "November 2026 Hacker News Hiring Trends\nIt's been two and a half years since the last update, so this one covers a lot of ground. As of November 14, November's thread has 244 job postings, down 37% from 387 at the same point last year. Every thread since July has landed between 224 and 255 postings, and August's 224 was the fewest since January 2014. So far 2026 averages 287 postings a month, the lowest yearly average since 2013.\nAt the same time, AI is now mentioned in more than half of all postings (51.6%), up from 30% two years ago.\nAI appears in 51.6% of November's postings, second only to Remote. It crossed 50% for the first time in June 2026. Two years ago it was 30%.\nThe work itself is shifting toward agents. AI agents (including \"agentic\") appear in 14.8% of postings, ahead of LLMs at 10.7%. MCP barely existed a year ago (0.3%) and is now in 4.5% of postings, the biggest climb in this month's rankings. Meanwhile, the older machine learning label slipped from 14.8% to 11.5%.\nPython (22.1%) and TypeScript (17.6%) still lead, though TypeScript is down from 22.5% a year ago. Rust has climbed to #3, appearing in 8.2% of postings, up from 4.9%, and has been ahead of Go in four of the last five months. C++ and Java are up too, but on small numbers (14 and 11 postings).\nFigures in this section are three-month averages, which smooth out month-to-month swings, so they differ a little from the November-only numbers in the chart and tables. Front End has had the steepest fall of any role label: from 27% of postings in early 2022 to 6.6% now, and from 15.6% a year ago. Full Stack (26.2% to 20.1%) and Back End (23.6% to 18.8%) also dropped over the past year, most of it in the last few months.\nSeniority mix has been steadier. Senior has stayed around 30% for years, Staff has roughly quadrupled since 2019 to about 12%, and Junior remains rare at around 3%.\nWork arrangements have barely moved. Remote is in 55.7% of postings, Onsite 26.2%, and Hybrid 17.2%, all within two points of last November.\nNew terms this month: AI Agents, LLM, MCP, RAG, LangChain, Anthropic, pgvector, Vector Database, Bun and Deno. Every thread back to 2011 is re-analyzed on each run, so their full history is included.\nI also fixed a bug where a few terms with alternate spellings didn't count their own name (for example, \"Next.js\" was only counted when written \"NextJS\"). Next.js, NestJS, WebAssembly, Front End and Back End are higher across all months than in earlier posts. The December 2011 thread, which has a single posting, is no longer included.",
+ "report": {
+  "summary": "HN招聘贴创12年新低，AI提及率过半且转向Agent。",
+  "background": "HNTrends对Hacker News“Who is Hiring?”版块2026年11月招聘贴进行统计分析，距上次更新已两年半。数据显示，技术招聘帖总量持续低迷，而AI相关技能提及率快速上升，招聘需求从传统前端、全栈岗位转向Agent、MCP、RAG等新方向，反映技术就业市场结构正在变化。",
+  "key_points": [
+   "招聘总量低迷：11月仅244条，同比降37%；8月224条为2014年1月以来最少，2026年月均287条为2013年以来最低。",
+   "AI提及率过半：51.6%的招聘帖提到AI，两年前为30%，2026年6月首次突破50%，热度仅次于Remote。",
+   "技术栈转向Agent：AI agents/agentic占14.8%，超过LLM的10.7%；MCP从0.3%升至4.5%，传统机器学习标签下滑。",
+   "语言与岗位变化：Python、TypeScript仍领先但TypeScript下降；Rust升至第三，前端岗位从2022年初27%跌至6.6%。",
+   "资历与办公稳定：Senior约30%，Staff约12%，Junior仅约3%；Remote占55.7%，Onsite和Hybrid变化不大。"
+  ],
+  "impact": "对AI行业而言，招聘信号从“会AI”转向“做Agent与协议集成”，MCP、RAG、向量数据库成为新技能标签。开发者需补足Agent工程与AI基础设施能力，前端岗位收缩、全栈和后端竞争加剧。普通用户将更多接触企业自动化Agent应用，但整体招聘市场偏冷，AI渗透广不等于岗位总量扩张。",
+  "tools": "想跟进可关注MCP协议、LangChain、RAG与向量数据库（如pgvector）；Agent开发框架和Bun、Deno运行时也值得上手。"
+ },
+ "lang": "zh"
+}

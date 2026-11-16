@@ -12427,5 +12427,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-15T22:58:04Z",
   "fetched_at": "2026-11-16T02:01:26.791854+00:00"
+ },
+ "2bd11e9b6557": {
+  "id": "2bd11e9b6557",
+  "url": "https://github.com/PrefectHQ/fastmcp",
+  "title": "PrefectHQ/fastmcp — 🚀 The fast, Pythonic way to build MCP servers and clients.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-16T09:37:39.531173+00:00"
+ },
+ "dbd22669440b": {
+  "id": "dbd22669440b",
+  "url": "https://github.com/lance-format/lance",
+  "title": "lance-format/lance — Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-16T09:37:53.089834+00:00"
+ },
+ "c0fb3abdbf39": {
+  "id": "c0fb3abdbf39",
+  "url": "https://arxiv.org/abs/2611.17501",
+  "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-16T05:00:00.000Z",
+  "fetched_at": "2026-11-16T09:39:20.190988+00:00"
+ },
+ "199bb42cf667": {
+  "id": "199bb42cf667",
+  "url": "https://arxiv.org/abs/2611.17564",
+  "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-16T05:00:00.000Z",
+  "fetched_at": "2026-11-16T09:39:33.495338+00:00"
+ },
+ "b715b2affb87": {
+  "id": "b715b2affb87",
+  "url": "https://arxiv.org/abs/2611.17610",
+  "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-16T05:00:00.000Z",
+  "fetched_at": "2026-11-16T09:39:42.732549+00:00"
+ },
+ "db119966b06b": {
+  "id": "db119966b06b",
+  "url": "https://arxiv.org/abs/2611.17621",
+  "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-16T05:00:00.000Z",
+  "fetched_at": "2026-11-16T09:39:54.200399+00:00"
+ },
+ "7211a5e895b1": {
+  "id": "7211a5e895b1",
+  "url": "https://arxiv.org/abs/2611.17846",
+  "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-16T05:00:00.000Z",
+  "fetched_at": "2026-11-16T09:40:10.066423+00:00"
  }
 }

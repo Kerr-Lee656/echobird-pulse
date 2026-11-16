@@ -23290,5 +23290,68 @@
   "site_name": "Zeli",
   "published_at": "2026-11-15T19:39:46Z",
   "fetched_at": "2026-11-16T01:59:04.734418+00:00"
+ },
+ "ddb7b7b34e34": {
+  "id": "ddb7b7b34e34",
+  "url": "https://www.aibase.com/zh/news/32332",
+  "title": "阿里千问发布 Qwen4-Max：架构升级压低 token 消耗，单任务费用降 58%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-16T09:33:03.578031+00:00"
+ },
+ "55e6d32bcc60": {
+  "id": "55e6d32bcc60",
+  "url": "https://www.aibase.com/zh/news/32328",
+  "title": "苹果首款 AI 眼镜计划 2027 年 WWDC 亮相，年底前上市",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-16T09:33:13.393177+00:00"
+ },
+ "2b8b1424352c": {
+  "id": "2b8b1424352c",
+  "url": "https://www.aibase.com/zh/news/32326",
+  "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-16T09:33:20.884845+00:00"
+ },
+ "aacb42819d43": {
+  "id": "aacb42819d43",
+  "url": "https://www.huxiu.com/article/4905822.html?f=rss",
+  "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-16T02:29:30Z",
+  "fetched_at": "2026-11-16T09:35:06.461114+00:00"
+ },
+ "09dfe5b1b49d": {
+  "id": "09dfe5b1b49d",
+  "url": "https://www.ithome.com/1/027/512.htm",
+  "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-16T02:07:36Z",
+  "fetched_at": "2026-11-16T09:35:46.835927+00:00"
+ },
+ "863c844a05c3": {
+  "id": "863c844a05c3",
+  "url": "https://www.ithome.com/1/027/509.htm",
+  "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-16T02:03:09Z",
+  "fetched_at": "2026-11-16T09:35:57.693165+00:00"
+ },
+ "ab4fc5bd1909": {
+  "id": "ab4fc5bd1909",
+  "url": "https://www.hntrends.com/2026/november.html",
+  "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-16T01:31:30Z",
+  "fetched_at": "2026-11-16T09:36:55.806300+00:00"
  }
 }
