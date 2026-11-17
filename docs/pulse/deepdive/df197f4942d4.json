@@ -1,0 +1,25 @@
+{
+ "id": "df197f4942d4",
+ "url": "https://www.aibase.com/news/32355",
+ "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-17T14:07:37.822Z",
+ "fetched_at": "2026-11-17T23:30:37.206355+00:00",
+ "content": "AMD announced on November 16 that it has completed its acquisition of AI model company World Labs, further expanding its presence in the AI technology stack. World Labs co-founder Fei-Fei Li will join AMD as Executive Vice President and Chief Scientist, reporting directly to Chair and CEO Lisa Su.\nWorld Labs focuses on developing AI models that can generate, reconstruct, and simulate interactive 3D environments, while also working on robotics learning and simulation technologies. After the acquisition, the World Labs team will continue to advance foundation model research and collaborate with AMD engineers to integrate model research findings into the development of next-generation AI infrastructure, supporting customers and developers in the open AI ecosystem.\nLisa Su said that infrastructure for the next-generation superintelligence era will require co-optimization of computing platforms and AI models. World Labs' accumulated research in foundation models will help AMD further plan the future direction of its hardware, software, and systems, and help AI researchers and developers expand the boundaries of technical capability.\nThis acquisition marks AMD's further extension toward the coordinated development of AI models and computing infrastructure, as it seeks to strengthen its competitiveness in the next-generation AI industry ecosystem by integrating model R&D capabilities.",
+ "report": {
+  "summary": "AMD完成收购World Labs，李飞飞出任执行副总裁兼首席科学家，布局3D世界模型",
+  "background": "近两年AI竞争从「模型层」向「算力—模型协同」演进：英伟达靠CUDA生态和大量模型公司投资形成软硬一体优势，AMD虽以MI300/MI350系列抢占算力份额，却在软件栈（ROCm）与前沿模型理解上存在短板。另一端，李飞飞创办的World Labs主攻「空间智能」：用模型生成、重建并模拟可交互的3D环境，这被视为具身智能与机器人训练的关键基础设施。此次收购把模型研发能力直接并入芯片公司，是AMD补齐软件与模型理解、提前规划下一代硬件方向的一步棋。",
+  "key_points": [
+   "收购完成后，李飞飞将担任AMD执行副总裁兼首席科学家，直接向董事长兼CEO苏姿丰汇报，属于公司最高技术决策层。",
+   "World Labs的核心技术是生成、重建和模拟可交互3D环境的基础模型，同时涉及机器人学习与仿真，属于「空间智能」赛道。",
+   "并入后团队不会解散，而是继续推进基础模型研究，并与AMD工程师合作，把模型研究成果落到下一代AI基础设施中。",
+   "苏姿丰给出的逻辑是：下一代超级智能时代需要算力平台与AI模型协同优化，模型研究能反哺AMD对硬件、软件和系统路线的规划。",
+   "本质上AMD正从「卖芯片」扩展到「模型＋算力」协同，试图用模型研发能力对冲英伟达在软件生态上的领先。",
+   "对开源生态是利好信号：官方表态称将支持开放AI生态中的客户与开发者，ROCm与相关工具链有望获得更多投入。"
+  ],
+  "impact": "对AI行业：算力厂商向上游模型层整合成为新趋势，与英伟达的投资＋CUDA路径形成对垒，芯片竞争升级为「硬件＋模型＋系统」的生态竞争。对开发者：AMD软件栈（ROCm、推理框架、仿真工具）有望加速成熟，3D世界模型与机器人仿真可能提供新的API或开放权重，多一个非英伟达选项。对普通用户：短期无感，中期可能体现在3D内容生成、机器人与具身智能产品的能力提升上，但落地通常需要2—3年。",
+  "tools": "想跟进可关注World Labs的空间智能产品Marble（文本/图像生成可交互3D场景）、AMD ROCm及vLLM/SGLang等推理框架对AMD GPU的支持、机器人仿真侧的NVIDIA Isaac Sim/Genesis、3D场景描述标准OpenUSD，以及李飞飞团队相关的空间智能论文与开源模型。"
+ },
+ "lang": "zh"
+}

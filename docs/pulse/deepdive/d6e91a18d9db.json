@@ -1,0 +1,23 @@
+{
+ "id": "d6e91a18d9db",
+ "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks",
+ "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T23:30:14.557814+00:00",
+ "content": "Isomorphic Labs, the Alphabet drug discovery company run by Demis Hassabis, has raised $5bn in a Series C round co-led by Greenoaks and Sequoia Capital. The company announced the round on Tuesday, six months after it raised $2.1bn in May.\nAndreessen Horowitz and several other new investors joined, with what Isomorphic called continued significant investment from Alphabet. All existing investors took part: Thrive Capital, MGX, GV, CapitalG, Temasek and the UK Sovereign AI Fund. Isomorphic said investors oversubscribed the round.\nThe company did not disclose its valuation, Bloomberg reported. Bloomberg had reported this month that the round would value Isomorphic at about $50bn.\n‘Hundreds of drugs a year’\nHassabis told Bloomberg’s Rebecca Torrence and Shirin Ghaffary that the money will speed up Isomorphic’s move towards clinical trials.\n“What we’re trying to build is a platform to do hundreds of drugs a year,” Hassabis told Bloomberg.\nIsomorphic said its drug design engine, IsoDDE, is producing positive preclinical results in its own oncology and immunology programmes and with partners. It has more than 20 programmes underway, Hassabis said. Its pharma partners include Eli Lilly, Novartis and Johnson & Johnson.\nIn January, Hassabis said Isomorphic expected its first clinical trials by the end of 2026. He would not give Bloomberg an updated target. He said the company is on track with its regulatory submissions and will have more to announce in 2027. No regulator has yet approved an AI-designed drug, Bloomberg noted.\nIsomorphic will also use the money to move beyond small-molecule drugs into “pretty much all modalities”, Hassabis said, including large-molecule biologics.\nThe backers\n“Isomorphic Labs is building foundational technology for the future of medicine,” said Konstantine Buhler, a partner at Sequoia Capital.\nBuhler told Bloomberg that Sequoia backed the company because Isomorphic has found scaling laws for its models. That means performance keeps improving with more computing power and data, he said.\nThe round is Isomorphic’s first since Hassabis stepped back as Google DeepMind’s chief executive in August, in an Alphabet shake-up. He is now DeepMind’s chair and Alphabet’s chief scientist, and remains Isomorphic’s chief executive.\nHe also addressed computing power. Jensen Huang’s resignation from Nvidia last week has some AI companies worried about their access to chips, Bloomberg reported. Google designs its own AI chips.\n“We’ve got very secure compute pipelines,” Hassabis told Bloomberg.\nIsomorphic started in 2021 to build on Google DeepMind’s AlphaFold protein structure model. It has its headquarters in London and offices in Cambridge, Massachusetts, and Lausanne.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Isomorphic Labs获50亿美元C轮融资，加速AI药物设计走向临床。",
+  "background": "Isomorphic Labs是Alphabet旗下、Demis Hassabis领导的AI药物发现公司，2021年基于AlphaFold成立。今年5月刚融资21亿美元，半年后再获超额认购C轮，由Greenoaks与Sequoia联合领投，估值传约500亿美元。其IsoDDE引擎推进20多个肿瘤和免疫项目，合作方包括礼来、诺华、强生。行业尚无AI设计药物获批，临床验证成关键。",
+  "key_points": [
+   "C轮融资50亿美元，Greenoaks和Sequoia联合领投，a16z等新投资方加入，Alphabet继续大额投资，现有投资人全部跟投且超额认购。",
+   "Hassabis称资金将加速临床，目标打造每年设计数百个药物的平台；IsoDDE在自有肿瘤和免疫及合作项目中取得积极临床前结果，已有20多个项目。",
+   "公司从2021年基于AlphaFold起步，计划从小分子扩展到生物大分子等几乎所有药物模态；首个人体临床试验目标仍受关注，Hassabis称监管申报按计划推进，2027年有更多公布。",
+   "Sequoia称投资因Isomorphic找到模型扩展规律，算力和数据增加可持续提升表现；Hassabis称公司有非常安全的算力管线，Google自研芯片。"
+  ],
+  "impact": "对AI行业，巨额融资显示资本押注AI药物发现规模化与基础模型；对开发者，AI与生物交叉、算力与数据扩展定律更受关注；对普通用户，真正受益仍需等待临床试验和监管批准，短期不改变用药，但长期或缩短新药研发周期、降低成本。",
+  "tools": "可关注AlphaFold及AlphaFold Protein Structure Database；开源可看OpenFold、RoseTTAFold、Boltz、Chai等蛋白与分子设计模型，以及RDKit、OpenMM等化学和分子模拟工具。"
+ },
+ "lang": "zh"
+}

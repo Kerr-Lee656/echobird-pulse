@@ -1,0 +1,24 @@
+{
+ "id": "cfb0b84a2ed4",
+ "url": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah",
+ "title": "Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩",
+ "source": "Perplexity",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-17T22:10:02.000Z",
+ "fetched_at": "2026-11-17T23:32:33.478353+00:00",
+ "content": "Perplexity· @perplexity_ai · X·· 1 小时前精选AI 评分66\nAI 导读\nPerplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；GPT-6.2 Sol 得分 0.746、约 $2.65，较 GPT-6.1 Sol 提升 0.065。\n推荐理由\n官方给出两款新模型在其自建 WANDR 基准上的得分与单任务成本，并与前代和其他模型对比，便于判断性价比。\n正文 · AI 翻译\nGPT-6.2 Astra 和 GPT-6.2 Sol 现已在 Perplexity Search 和 Computer 中上线。\n在我们的 WANDR 基准测试中，GPT-6.2 Astra 得分 0.783，每项任务成本约 $12.54，较 GPT-6 Astra 提升 0.095。\nGPT-6.2 Sol 得分 0.746，成本约 $2.65，较 GPT-6.1 Sol 提升 0.065。\n来源：Perplexity · x.com",
+ "report": {
+  "summary": "Perplexity has added GPT-6.2 Astra and GPT-6.2 Sol to Search and Computer, publishing WANDR benchmark scores and per-task costs that highlight a sharp price-performance tradeoff.",
+  "background": "Perplexity began as an AI answer engine but increasingly positions itself as a model-agnostic layer: it routes user queries to third-party frontier models rather than training its own. That makes model launches a product event — a new model version can land in Search and in the agentic 'Computer' product quickly, without Perplexity shipping new weights. As agentic workloads replace single-turn chat, the cost of completing one task (not the cost per token) has become the number that matters, since agents can burn many turns, tool calls and retries before finishing. Vendors have responded by publishing their own evaluation suites — here, Perplexity's WANDR benchmark — which double as positioning tools. The Astra/Sol split also mirrors the now-standard two-tier pattern in frontier model families: a high-capability, high-cost tier and a cheaper, near-parity tier aimed at volume use.",
+  "key_points": [
+   "Both models are live now in Perplexity Search and the Computer agent product, meaning users get them without a separate API integration or signup — the rollout is a routine model swap behind Perplexity's interface.",
+   "GPT-6.2 Astra scores 0.783 on WANDR at roughly $12.54 per task, a 0.095 gain over GPT-6 Astra. That is the largest single-version jump in the numbers shared, but also the most expensive configuration listed.",
+   "GPT-6.2 Sol scores 0.746 at about $2.65 per task, up 0.065 on GPT-6.1 Sol. It lands within roughly 0.04 of Astra while costing about one-fifth as much per completed task.",
+   "The cost gap is the real headline: paying nearly five times more buys only a small accuracy edge, which pushes most high-volume agent workloads toward the Sol tier and reserves Astra for hard, low-volume tasks.",
+   "Caveat: WANDR is Perplexity's own benchmark, and the comparison is self-reported. Treat the deltas as directional signals about relative cost and capability, not as independent third-party validation."
+  ],
+  "impact": "For the AI industry, this is another step toward cost-per-task as the standard yardstick, which favors vendors who can show efficiency gains rather than raw score records. It also reinforces the two-tier release pattern: capability tiers are now priced explicitly, and buyers are expected to route between them. For developers, the message is to stop defaulting to the top model — build a router, measure your own task success, and reserve the expensive tier for cases where the extra few points actually convert into completed work. Vendor benchmarks like WANDR are useful for shortlisting, not for procurement decisions. For regular users, the practical effect is quieter: Perplexity answers get modestly better and, if the cheaper tier is used by default, faster and more available, since lower per-task cost lets the product serve more queries within the same budget.",
+  "tools": "Follow Perplexity Search and Perplexity Computer to try the models directly. For your own comparisons, pair open evaluation harnesses (Inspect AI, lm-evaluation-harness, promptfoo) with a routing/proxy layer such as LiteLLM to log real per-task cost and success rates. Watch whether Perplexity publishes WANDR's task details — a benchmark you cannot inspect is hard to reproduce."
+ },
+ "lang": "en"
+}

@@ -12661,5 +12661,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-17T14:50:53Z",
   "fetched_at": "2026-11-17T16:00:15.518820+00:00"
+ },
+ "8339a30c8d70": {
+  "id": "8339a30c8d70",
+  "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+  "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-17T23:04:35.000Z",
+  "fetched_at": "2026-11-17T23:31:29.066867+00:00"
+ },
+ "0b5f35342ecc": {
+  "id": "0b5f35342ecc",
+  "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+  "title": "GPT-6.2 Astra and GPT-6.2 Sol",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T22:40:23Z",
+  "fetched_at": "2026-11-17T23:31:39.573136+00:00"
+ },
+ "26899a3356f0": {
+  "id": "26899a3356f0",
+  "url": "https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf",
+  "title": "Gemini 4 Hydrogen 全面上线 Google Search",
+  "source": "Google",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-17T22:35:20.000Z",
+  "fetched_at": "2026-11-17T23:31:53.224453+00:00"
+ },
+ "c55f92969fc4": {
+  "id": "c55f92969fc4",
+  "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-17T22:29:05.000Z",
+  "fetched_at": "2026-11-17T23:32:06.909931+00:00"
+ },
+ "513557a2b174": {
+  "id": "513557a2b174",
+  "url": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+  "title": "Microsoft's agent-framework on PyPI shipped a credential stealer in two releases",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T22:24:28Z",
+  "fetched_at": "2026-11-17T23:32:20.084699+00:00"
+ },
+ "cfb0b84a2ed4": {
+  "id": "cfb0b84a2ed4",
+  "url": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah",
+  "title": "Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩",
+  "source": "Perplexity",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-17T22:10:02.000Z",
+  "fetched_at": "2026-11-17T23:32:33.478353+00:00"
+ },
+ "d50ab8b66deb": {
+  "id": "d50ab8b66deb",
+  "url": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
+  "title": "Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-17T22:02:23.000Z",
+  "fetched_at": "2026-11-17T23:32:47.433124+00:00"
+ },
+ "4274baf7019e": {
+  "id": "4274baf7019e",
+  "url": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e",
+  "title": "WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-17T21:28:43.000Z",
+  "fetched_at": "2026-11-17T23:33:01.634505+00:00"
+ },
+ "1ed525b777a5": {
+  "id": "1ed525b777a5",
+  "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "Hacker News (17pts, 21c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T21:16:12Z",
+  "fetched_at": "2026-11-17T23:33:22.336285+00:00"
  }
 }

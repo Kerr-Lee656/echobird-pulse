@@ -1,0 +1,24 @@
+{
+ "id": "34d60ff1824a",
+ "url": "https://www.ithome.com/1/028/533.htm",
+ "title": "Alphabet 旗下药物 AI 企业 Isomorphic Labs 完成 50 亿美元 C 轮融资",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-17T13:39:32Z",
+ "fetched_at": "2026-11-17T23:30:49.041136+00:00",
+ "content": "IT之家 11 月 17 日消息，由诺贝尔奖得主 Demis Hassabis（戴米斯 · 哈萨比斯）领导的 Alphabet 旗下 AI 赋能药物研发企业 Isomorphic Labs 当地时间今日宣布，其完成了总额 50 亿美元（IT之家注：现汇率约合 333.96 亿元人民币）的 C 轮融资。\n本轮融资由 Greenoaks 和 Sequoia Capital 共同领投，a16z (Andreessen Horowitz) 等新投资者加入，Alphabet 持续投入大量资金，Thrive Capital、MGX、GV、CapitalG、淡马锡、英国主权 AI 基金等现有投资者也参与了融资。\nIsomorphic Labs 计划利用这笔资金继续推进基础模拟模型的发展，扩大内部及合作药物候选项目的规模，并建设全球 AI 驱动的生物工程基础设施。",
+ "report": {
+  "summary": "Alphabet 旗下 Isomorphic Labs 完成 50 亿美元 C 轮融资，加速 AI 制药",
+  "background": "Isomorphic Labs 于 2021 年从 DeepMind 拆分独立，由 2024 年诺贝尔化学奖得主、AlphaFold 主导者 Demis Hassabis 领导，核心思路是用深度学习模拟分子与靶点相互作用，把药物发现从“试错筛选”变成“计算预测”。此前它已与礼来、诺华达成数十亿美元级合作，公司目标是在 2025 年底前推动首批 AI 设计药物进入临床。本轮融资由 Greenoaks 与红杉资本共同领投，a16z 新进，Alphabet 继续重金加注；50 亿美元规模在生物科技融资寒冬中极为罕见，说明资本正把“AI+生物”视为少数确定性赛道。",
+  "key_points": [
+   "50 亿美元 C 轮由 Greenoaks 与红杉资本共同领投，a16z 等新面孔加入，Alphabet 与淡马锡、MGX、GV、CapitalG、英国主权 AI 基金等老股东跟投，阵容兼具科技与主权资本。",
+   "资金主要投向三块：升级基础模拟模型（预测分子与蛋白相互作用）、扩大自研与合作药物管线、搭建全球化 AI 驱动生物工程基础设施。",
+   "Isomorphic 已与礼来、诺华签署高额里程碑合作，商业模式是“自研管线+对外授权”双轮驱动，而非单纯卖软件。",
+   "这是 Alphabet 除搜索、云之外少见的长期重注，AI 制药正从论文验证阶段进入“烧钱做临床”的资本密集型阶段。",
+   "50 亿美元的单轮规模远超多数 AI 生物初创，意味着行业资源加速向头部集中，中小团队的差异化窗口变窄。"
+  ],
+  "impact": "对 AI 行业而言，这笔钱确认了“科学级基础模型”是最值得押注的方向之一：算力、仿真与湿实验闭环成为新壁垒。对开发者，生物大模型、几何深度学习、分子动力学仿真与实验室自动化接口将出现更多岗位和开源需求，但纯做“套壳预测”的空间会被挤压。对普通用户，长期看有望迎来更快、更便宜的新药，但首批 AI 药物仍需多年临床验证，短期内不宜期待立刻见效。",
+  "tools": "想跟进可关注 AlphaFold 3/AlphaFold Server、开源的 Chai-1、Boltz-1/2、ESM-3 蛋白语言模型、RFdiffusion 蛋白设计，以及 NVIDIA BioNeMo 平台与 Open Targets 数据资源，配合 PyMOL 做结构可视化，即可在本地复现分子与靶点预测流程。"
+ },
+ "lang": "zh"
+}

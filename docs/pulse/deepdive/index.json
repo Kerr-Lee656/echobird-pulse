@@ -23542,5 +23542,59 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-17T03:46:45Z",
   "fetched_at": "2026-11-17T15:58:38.496514+00:00"
+ },
+ "59bd24af9a31": {
+  "id": "59bd24af9a31",
+  "url": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control",
+  "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T23:29:53.581739+00:00"
+ },
+ "1901229e7d1f": {
+  "id": "1901229e7d1f",
+  "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
+  "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T23:30:02.834411+00:00"
+ },
+ "d6e91a18d9db": {
+  "id": "d6e91a18d9db",
+  "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks",
+  "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T23:30:14.557814+00:00"
+ },
+ "3ed1e0ba91fb": {
+  "id": "3ed1e0ba91fb",
+  "url": "https://thenextweb.com/news/fbi-artex-ai-hacking-tool-amazon-barracuda",
+  "title": "FBI says AI hacking tool ARTEX can break into networks in under three hours",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T23:30:22.622450+00:00"
+ },
+ "df197f4942d4": {
+  "id": "df197f4942d4",
+  "url": "https://www.aibase.com/news/32355",
+  "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-17T14:07:37.822Z",
+  "fetched_at": "2026-11-17T23:30:37.206355+00:00"
+ },
+ "34d60ff1824a": {
+  "id": "34d60ff1824a",
+  "url": "https://www.ithome.com/1/028/533.htm",
+  "title": "Alphabet 旗下药物 AI 企业 Isomorphic Labs 完成 50 亿美元 C 轮融资",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-17T13:39:32Z",
+  "fetched_at": "2026-11-17T23:30:49.041136+00:00"
  }
 }
