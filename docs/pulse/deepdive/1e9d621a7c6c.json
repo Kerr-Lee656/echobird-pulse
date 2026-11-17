@@ -1,0 +1,24 @@
+{
+ "id": "1e9d621a7c6c",
+ "url": "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith",
+ "title": "LangChain raises $300m at a $3bn valuation to help companies run AI agents",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:28:54.368025+00:00",
+ "content": "LangChain, which makes tools for building and running AI agents, has raised $300m at a $3bn valuation, the company announced on Friday. The Series C brings its total funding to $460m.\nCapitalG, Alphabet’s independent growth fund and an existing investor, led the round. New investors GIC and DFJ Growth and existing investors IVP and Sapphire Ventures also took part. Salesforce Ventures, Insight Venture Partners, QuantumLight and MongoDB Ventures joined as new investors. Sequoia, Amplify and Benchmark put in more.\nThe valuation is more than double the $1.25bn of about a year ago. LangChain then raised $125m in a round led by IVP, TechCrunch reported.\nFrom open-source project to agent platform\nLangChain began in 2022 as an open-source project. The money will go into LangSmith, its platform for running, testing and governing AI agents. It works whatever framework or model a company uses.\nThe company says more than 7,000 organisations use LangSmith. They range from startups such as legal AI firm Harvey, Rippling and Listen Labs to carmaker Toyota, Nvidia and Salesforce. Workday uses it to run and govern agents. That cut Workday’s time to deploy a new agent from five months to under a day, LangChain said.\n“Every company should be free to choose the best models for its needs, control its data and infrastructure, and continuously improve its agents,” said Harrison Chase, LangChain’s co-founder and CEO.\nChase told the Journal that LangChain’s products aim to make agents’ behaviour easier to control.\n“The agent’s behavior is the hard part to control,” Chase said.\nHiring plans\nLangChain has 435 full-time staff and plans to grow to 850 by the end of next year, the Journal reported. It also has 47 forward deployed engineers and 13 deployed architects, who work directly with customers. It will hire engineers, researchers, marketers and salespeople with the new money.\n“It’s an insanely competitive market,” Mo Jomaa, a partner at CapitalG, told the Journal.\nLangChain says it will show new LangSmith features at a release event on 20 November.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "LangChain完成3亿美元C轮融资，估值30亿美元，重押智能体运维平台",
+  "background": "LangChain 于2022年以开源项目起步，其大模型应用开发框架迅速成为开发者常用工具之一；2023年，该公司又推出LangSmith，用于调试、测试、监控和治理AI智能体。约一年前，LangChain 在IVP领投下融资1.25亿美元，估值12.5亿美元。随着2025年企业从“试用大模型”转向“规模化部署智能体”，难点已从能否搭建转向能否稳定运行、可观测、可审计和可管控，资本也随之涌向智能体的“运维层”。",
+  "key_points": [
+   "本轮3亿美元C轮由Alphabet旗下成长基金CapitalG领投，GIC、DFJ Growth等新进，IVP、Sapphire、红杉等老股东跟投，累计融资4.6亿美元，估值较一年前的12.5亿美元翻倍多。",
+   "资金主要投向LangSmith，这是一个不绑定特定框架或模型的智能体运行、测试与治理平台，目前已服务7000多家组织。",
+   "客户名单覆盖丰田、英伟达、Salesforce、Workday及法律AI公司Harvey等；Workday称，使用后部署一个新智能体的周期从5个月缩短到1天以内。",
+   "公司现有435名全职员工，计划明年底增至850人，并配备47名前置部署工程师和13名部署架构师，直接服务客户。CapitalG合伙人直言“这是一个竞争极其激烈的市场”。",
+   "CEO Harrison Chase强调，智能体的“行为”是最难控制的部分，公司目标是让企业自由选择模型、掌控数据与基础设施，并持续迭代智能体；11月20日将发布LangSmith新功能。"
+  ],
+  "impact": "对AI行业而言，这标志着竞争重心从模型能力转向智能体的可靠性与治理层，企业级可观测、评测和权限管控成为新护城河，也为低迷的一级市场释放估值回暖信号。对开发者来说，LangChain生态会更完整，但“框架锁定”和框架疲劳的质疑不会消失；LangSmith有望成为智能体可观测性的默认选项之一。对普通用户，智能体上线更快、出错更少、更可追责，但模型与数据的选择权仍掌握在企业手中。",
+  "tools": "想跟进可上手LangChain与LangGraph（编排）、LangSmith（追踪评测）、LlamaIndex、CrewAI、AutoGen、OpenAI Agents SDK，以及Langfuse、OpenTelemetry等可观测方案，对比自建与托管成本。"
+ },
+ "lang": "zh"
+}

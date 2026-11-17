@@ -1,0 +1,24 @@
+{
+ "id": "aeb399f18ac4",
+ "url": "https://hardware.slashdot.org/story/26/11/16/1645203/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips",
+ "title": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:28:00.881650+00:00",
+ "content": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips (forbes.com) 20\n\t\t\t\n\t\t \t\n\t\t\t\tAn anonymous reader quotes a report from Forbes: In a statement published on Monday, the Commerce Department said a new interim rule will address \"rapid advancements in cloud computing\" that have made it easier for countries like China to access advanced AI chips under export controls, including by accessing them remotely in data centers located in countries not under U.S. export controls. The new rule will require an additional license to export, reexport or transfer chips to companies in Indonesia, Malaysia, Singapore, Thailand, Brazil, or any other country the U.S. deems a \"higher-than-normal risk of diversion.\"\nLast week, former Nvidia CEO Jensen Huang resigned after admitting to having an affair, which was linked to a relationship with Alice Huang, an alleged Chinese intelligence asset and a former executive at Singaporean data center firm Megaspeed, an Nvidia customer that was previously under suspicion for allowing China access to the company's advanced AI chips. The news comes days after Axios reported Lutnick held back from cracking down on companies suspected of diverting chips to China -- despite clashing with other Cabinet members including Treasury Secretary Scott Bessent, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth.\nSpeaking to Fox Business's \"Sunday Morning Futures\" over the weekend, Bessent said he did not think the U.S. needed new legislation for regulating AI chip sales, saying \"we have all the rules we need, we just need them enforced\" and insisting \"many other departments were pushing for this, and Commerce had the pen.\" The new restrictions come the same morning President Donald Trump leaves for an extended trip to Asia, which will include a meeting with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen.",
+ "report": {
+  "summary": "美商务部封堵中国经第三国远程租用英伟达芯片的漏洞",
+  "background": "自2022年起，美国以出口管制限制英伟达高端AI芯片对华销售，但中国公司可借新加坡、马来西亚等第三国的数据中心远程租用算力，绕开实体清单。美商务部称，新临时规则针对“云计算快速发展”带来的监管盲区，要求向印尼、马来西亚、新加坡、泰国、巴西及其他被认定“转移风险偏高”国家出口、再出口或转移芯片时，须额外申请许可。需要提醒：原文中有关英伟达CEO辞职、政要会晤等细节与公开事实不符，真实性存疑，应以商务部正式文本和主流媒体交叉核实为准。",
+  "key_points": [
+   "漏洞的核心是“卖算力不卖芯片”：中企通过海外云租用GPU，芯片物理位置不在中国，现行管制难以覆盖。",
+   "新规把新加坡、马来西亚、泰国、印尼、巴西等转口枢纽列入需额外许可名单，等于给第三国数据中心加了一道审批流程。",
+   "美方内部说法不一：财长贝森特称“规则已足够、只缺执行”，商务部长卢特尼克此前被指对转口企业执法手软。",
+   "监管重心从“芯片卖到哪里”转向“算力被谁使用”，远程访问与云租赁成为新管制对象，这是出口管制思路的转变。",
+   "原文含CEO辞职、政要在深圳会晤等未经证实且与公开信息矛盾的内容，阅读时需交叉核实官方文件。"
+  ],
+  "impact": "对AI行业：第三国数据中心与云厂商被迫加强客户尽职调查，东南亚“算力中转”生意收缩，全球算力合规成本上升。对开发者：海外账号租卡、跨境训练任务面临中断风险，需提前规划多云部署与国产替代。对普通用户：短期感知有限，但算力成本若传导，AI服务定价与可用模型版本可能出现区域性差异，中国用户接触前沿模型的门槛进一步抬高。",
+  "tools": "想跟进可关注：美国BIS官网的出口管制规则与实体清单更新；AWS、Azure、阿里云的区域合规与可用区说明；推理与调度工具vLLM、SGLang，以及昇腾CANN等国产算力生态；再配合GPU租赁价格追踪站点，观察管制实施后的市场反应。"
+ },
+ "lang": "zh"
+}

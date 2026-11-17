@@ -12562,5 +12562,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-16T17:08:59Z",
   "fetched_at": "2026-11-16T20:28:43.084995+00:00"
+ },
+ "16db77652cb1": {
+  "id": "16db77652cb1",
+  "url": "https://github.com/google-research/paper-orchestra",
+  "title": "google-research/paper-orchestra — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:30:09.742664+00:00"
+ },
+ "23f55e8b53b2": {
+  "id": "23f55e8b53b2",
+  "url": "https://arxiv.org/abs/2609.04043",
+  "title": "Extending separation logic to verify the xv6 OS kernel on RISC-V with AI agents",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T04:03:34Z",
+  "fetched_at": "2026-11-17T04:30:22.293050+00:00"
+ },
+ "e71f1e15df1b": {
+  "id": "e71f1e15df1b",
+  "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+  "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T03:02:59Z",
+  "fetched_at": "2026-11-17T04:30:39.120053+00:00"
+ },
+ "4d97827545be": {
+  "id": "4d97827545be",
+  "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+  "title": "US tightens AI chip export controls to stop Chinese labs from remote GPU access",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T02:53:33Z",
+  "fetched_at": "2026-11-17T04:30:51.759086+00:00"
+ },
+ "a8f228e3a7e4": {
+  "id": "a8f228e3a7e4",
+  "url": "https://www.abdulrahimmirani.com/research/vla-weight-editing",
+  "title": "Directly editing a VLA's weights improved its performance, with no fine-tuning",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T02:43:20Z",
+  "fetched_at": "2026-11-17T04:31:01.511418+00:00"
+ },
+ "24baf68da2c1": {
+  "id": "24baf68da2c1",
+  "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-16T23:32:32.000Z",
+  "fetched_at": "2026-11-17T04:31:17.285316+00:00"
+ },
+ "1acba5cfdb50": {
+  "id": "1acba5cfdb50",
+  "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+  "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-16T23:28:41Z",
+  "fetched_at": "2026-11-17T04:31:29.372046+00:00"
  }
 }

@@ -1,0 +1,25 @@
+{
+ "id": "47d5569ead6b",
+ "url": "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
+ "title": "Google says attackers used AI to turn patches into exploits with no human",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:28:37.738482+00:00",
+ "content": "Attackers have used AI to find software flaws and exploit them with no human involved, Google said on Monday. It says this is the first time it has seen it. The finding is in the latest AI threat report from the Google Threat Intelligence Group (GTIG) and Mandiant.\nGTIG found the tool, which it calls exploit_agent, on an exposed staging server. It works with several frontier and locally run AI models. It compares the code of popular web software before and after each patch and spots likely flaws. Then it writes exploits and runs them on its own.\nIn the previous edition of the quarterly report, two months ago, GTIG said it had not seen fully autonomous attack pipelines used against targets, SiliconANGLE reported.\nThe server also held data stolen from victims. It had scripts for brute-forcing passwords, installing webshells and removing rival attackers’ webshells. A configuration file carried comments in Russian. Victim data suggests the operator was targeting French media, entertainment and education websites, GTIG said.\nFrom patch to exploit\nPatched flaws may be easier targets for AI than unknown ones, Google said. Attackers can study a finite set of material: old and new code, release notes and public research.\nIt pointed to two flaws in PaperCut print servers that attackers chained together in late August. Researchers and the security firm Huntress used AI to build working exploits within a day of disclosure. Four days after disclosure, an attacker likely used AI to run a campaign against hundreds of organisations, according to GreyNoise.\nAfter the PHP flaws were patched in October, hundreds of proof-of-concept exploits appeared that did not work. AI likely made many of them, the report says.\nAttack frameworks in the wild\nSeveral groups now use open-source AI hacking frameworks in live attacks, GTIG said. They include financially motivated gangs and suspected Chinese spy groups. It saw the CAIRN framework used against targets including the US aerospace sector.\nThese tools are noisy and leave traces that make them easier to spot, Google said. It expects attackers to rely less on humans and to become stealthier as the tools improve.\n“We believe it is highly likely that threat actors will continue to use these frameworks in campaigns targeting organizations globally,” GTIG wrote.\nThe report also describes attackers who steal cloud and AI credentials to run models on victims’ accounts. In some cases, the fraudulent charges topped $100,000 in a single day, it says. One attack used a flaw in the LiteLLM gateway. A suspected North Korean group changed Claude Code settings files inside companies so that each launch downloaded a backdoor. Google says it disabled the accounts and assets linked to misuse of its Gemini models.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌首次发现AI全自主完成“补丁转漏洞利用”的攻击链路",
+  "background": "每隔三个月，谷歌威胁情报组（GTIG）与Mandiant都会发布AI威胁报告。两月前的上一期报告还明确表示，尚未观察到完全自主的攻击流水线被用于真实目标。这一期则改口：研究人员在一台暴露的暂存服务器上发现名为exploit_agent的工具，它能调用多个前沿模型和本地部署模型，自动比对一个流行Web软件补丁前后的代码差异，定位漏洞、编写利用代码并自行执行。这台服务器同时存放着从受害者处窃取的数据和多种攻击脚本，配置文件注释为俄语，受害数据指向法国媒体、娱乐与教育网站。",
+  "key_points": [
+   "这是首次观察到端到端无人干预的攻击：AI自己读补丁、找漏洞、写利用、跑攻击，人类只在部署环节出现。",
+   "补丁本身成了AI的“教科书”。旧代码、新代码、发布说明和公开研究构成有限材料，比从零挖掘未知漏洞更容易被模型消化。",
+   "PaperCut打印服务器两个漏洞在8月底被串联利用；披露后一天内，研究人员用AI做出可用利用；四天后就有攻击者疑似用AI扫射数百家机构。",
+   "PHP漏洞10月修复后，网上冒出数百个跑不通的概念验证代码，报告认为其中大量由AI批量生成；这既是噪音，也说明攻击门槛下降。",
+   "CAIRN等开源AI攻击框架已被用于实战，使用者包括以经济为目的的团伙和疑似中国间谍组织，攻击目标含美国航空航天领域；同时出现盗用云和AI凭证、单日刷出逾10万美元算力账单的情况。",
+   "有疑似朝鲜团伙篡改企业内部Claude Code配置文件，使每次启动都下载后门；谷歌称已关停与滥用Gemini模型相关的账号和资产。"
+  ],
+  "impact": "对AI行业而言，“补丁日”从防御窗口变成攻击倒计时，模型能力评估必须纳入滥用风险。对开发者，打补丁的速度和隐蔽性压力剧增，凭据与AI网关成为新的高危资产，补丁发布即等于公开攻击线索。对普通用户，漏洞被利用的窗口从数周压缩到数天，媒体、教育等中小型站点风险最高；好消息是现有AI攻击框架噪音大、易留痕，防守方仍有短暂的检测机会。",
+  "tools": "防守方可关注：开源LLM网关LiteLLM（需及时修补并加固）、Google GTIG与Mandiant季度AI威胁报告、GreyNoise用于观测披露后的扫描活动；开发侧可引入补丁差异静态分析和自建蜜罐，观察AI生成的PoC流量特征。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "20d2479b882f",
+ "url": "https://thenextweb.com/news/anthropic-disclosure-window-30-days-ai-vulnerabilities",
+ "title": "Anthropic cuts its bug disclosure window to 30 days as AI finds flaws",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:28:45.550245+00:00",
+ "content": "Anthropic is giving software makers less time to fix the security flaws it reports. AI models now find bugs much faster, it says. Its Frontier Red Team said on Monday it will publish serious flaws 30 days after reporting them, down from 90 days. That covers high- and critical-severity flaws. All other flaws get 45 days.\nThe new deadlines apply to flaws reported on or after 1 January 2027. Reports already in progress keep their old deadlines.\nAnthropic is making two other changes. If a maintainer does not answer its first report, it will go to an outside coordinator after 15 days instead of 30. And once a patch is out, it will wait 30 days instead of 45 before sharing full technical details.\nOld flaws get 30 more days\nSome serious flaws Anthropic reported over 90 days ago are past its current deadline and still not public. Anthropic says it is telling those maintainers they have 30 more days. After that, it will publish the reports on its dashboard under the new policy from 1 January 2027.\n“A 90-day window made sense when a vulnerability could be expected to stay private for months. We no longer believe it can,” Anthropic wrote.\nThe old rules assumed fixes moved at human speed and that two people rarely found the same bug, the company said. Now a bug one model finds is more and more likely to be found by another, it said.\nExceptions and help for maintainers\nSome flaws take longer than 30 or 45 days to fix, such as those in critical infrastructure software or in a technical standard. In those cases, Anthropic says it will agree a timeline with the vendor. Its seven-day window for flaws under active attack stays the same. The policy does not cover AI findings that no person has reviewed, such as those from its OSS Scanner service.\nAnthropic says shorter deadlines may put more pressure on maintainers. It says it will keep sending fix guidance, and a patch where it can, with each report.\nGoogle’s Project Zero is shortening its disclosure window too, SecurityWeek reported on Monday. From 2 February 2027, it will publish flaws 60 days after reporting them. From 3 January 2028, the window drops to 30 days.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic 将高危漏洞的公开披露期限从 90 天缩短至 30 天，理由是 AI 找漏洞太快。",
+  "background": "在传统安全行业，90 天漏洞披露期是事实标准，Google Project Zero 等团队长期沿用这一期限，其隐含假设是：修复速度按人类节奏推进，且漏洞在数月内大概率不会被其他人发现。但随着大模型被用于代码审计和漏洞挖掘，扫描速度与覆盖面大幅提升，同一个漏洞被多个模型或团队同时发现的概率显著上升，90 天窗口已无法保障漏洞不被抢先公开。Anthropic 的 Frontier Red Team 正是负责用自家模型做安全研究的团队，这次调整意味着 AI 厂商开始按 AI 的速度重写安全协作规则；Google Project Zero 也在同期缩短披露期限。",
+  "key_points": [
+   "高危和严重漏洞的公开披露期从 90 天缩短至 30 天，其余漏洞为 45 天；新规适用于 2027 年 1 月 1 日及之后报告的漏洞。",
+   "厂商若不回应首次报告，15 天后（原为 30 天）就会转交第三方协调机构；补丁发布后，完整技术细节的公开等待期也从 45 天缩短为 30 天。",
+   "对于已报告超过 90 天但仍未修复的旧漏洞，Anthropic 只给厂商额外 30 天，之后将在自己的仪表盘上公开。",
+   "关键基础设施、技术标准等难以快速修复的场景可协商时间表；正被主动利用的漏洞维持 7 天窗口；未经人工审核的 AI 扫描结果不适用。",
+   "Google Project Zero 同步收紧：2027 年 2 月起改为 60 天，2028 年 1 月起降至 30 天，行业披露规则整体提速。",
+   "Anthropic 承认更短的期限会加大维护者压力，因此每份报告都会附带修复建议，并在可能时提供补丁。"
+  ],
+  "impact": "对 AI 行业而言，漏洞披露从“人类节奏”转向“机器节奏”，安全协作的默认期限被重新定义，其他 AI 安全团队大概率跟进。对开发者尤其是开源维护者，压力明显上升：30 天内要完成分诊、修复和发版，小项目可能被迫在“带病上线”和“被公开”之间二选一。对普通用户，短期可能出现更多漏洞被提前曝光，但长期有望更快拿到补丁，降低被利用窗口。",
+  "tools": "想跟进可关注 Anthropic Frontier Red Team 的漏洞仪表盘与披露政策文档、Google Project Zero 的 0day 追踪项目，以及 OSS-Fuzz、Semgrep、CodeQL 等代码扫描工具；开源维护者可提前接入 Dependabot 等自动化修复流程以应对更紧的期限。"
+ },
+ "lang": "zh"
+}

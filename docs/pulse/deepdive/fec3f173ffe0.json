@@ -1,0 +1,24 @@
+{
+ "id": "fec3f173ffe0",
+ "url": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+ "title": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:27:48.875748+00:00",
+ "content": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours' (techcrunch.com) 16\n\t\t\t\n\t\t \t\n\t\t\t\tThe FBI is warning (PDF) that hackers are using the AI-powered penetration-testing tool Artex to compromise networks in \"under three hours\" in some cases. The tool has been linked to attacks against South Korean financial institutions, at least 2,250 ConnectWise customers and Barracuda. TechCrunch reports:  Artex is one of several open-source AI-powered penetration testing platforms, a category of software built to probe a network's defenses. Hackers can connect Artex to hosted frontier large language models (LLMs) like those from Anthropic and OpenAI, as well as to open-source models and non-U.S. models. The FBI says Artex intrusions can be \"noisy,\" meaning they generate reams of traffic and data that may trigger a targeted company's defensive alerts. But the tools allow hackers to move at speeds that makes it far more harder for human defenders to keep up.\nIn some cases, Artex-linked attacks can move from targeting a system to active compromise \"in under three hours.\" Oftentimes, Artex will rely on rapidly scanning a victim's network to look for signs of weakness, and then exploit simple security bugs, such as weak protections and exposed or stolen passwords to gain a foothold. From there, Artex allows the hacker to spread across the network for databases, mailboxes, and other sensitive information. [...] After Artex was used in cyberattacks, the tool's developer made the software closed-source to prevent further attacks. But the FBI says the previous open-source version continues to circulate and remains \"widely accessible\" for use in cyberattacks.\nIt's not only companies and targeted victims that have been compromised as a result of weakened security exploited by AI tools; the tools themselves have been exposed as well, potentially allowing outsiders to access powerful hacking capabilities. Last week, researchers found hundreds of publicly exposed Artex systems online, which had been placed on the internet without a password, likely by mistake or misconfiguration -- including the Artex system that was used to target South Korea.",
+ "report": {
+  "summary": "FBI警告：开源AI黑客工具Artex可在3小时内攻破企业网络",
+  "background": "近两年，接入大模型的开源自动化渗透测试工具快速涌现，它们能自主扫描、发现弱点并串联攻击步骤，把原本需要资深安全专家数天完成的工作压缩到几小时。Artex 就是其中代表，可对接 Anthropic、OpenAI 等前沿模型，也支持开源和非美国模型。它已被用于攻击韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda。开发者在事件后把项目转为闭源，但旧的开源版本仍在网上广泛流传；同时研究人员还发现数百个直接暴露在公网、没有设置密码的 Artex 实例，其中包括攻击韩国的那一台。",
+  "key_points": [
+   "Artex 把大模型与自动化渗透流程结合，能快速扫描弱点并利用弱口令、暴露凭据等基础漏洞进入内网，再从内网横向扩散，窃取数据库和邮箱数据。",
+   "FBI 指出部分攻击从锁定目标到真正入侵不到三小时，攻击速度超过人工防守方的响应节奏，企业安全团队的黄金处置窗口被大幅压缩。",
+   "该工具产生的流量非常‘吵’，会触发大量告警，但告警再多也需要人来研判，防守方往往被海量噪音拖慢，反而给了攻击者可乘之机。",
+   "开发者虽已将项目闭源，但开源旧版本仍在网络上流通且获取门槛极低，说明代码一旦开源便很难真正收回。",
+   "更讽刺的是，数百个 Artex 实例因配置失误被裸奔在公网且无密码，攻击者的‘武器’本身也成了被攻击的入口。"
+  ],
+  "impact": "对 AI 行业而言，这是‘模型能力双用途’的典型案例，将加速监管对前沿模型滥用和渗透类 AI 产品的审查。对开发者，安全团队必须假设攻击者的速度由 AI 驱动，加快告警自动化研判、缩短修补窗口，并严格管理自建 AI 工具的公网暴露与鉴权。对普通用户，金融机构、IT 服务商等上游被攻破会引发数据泄露和连锁诈骗风险，个人账户与密码卫生变得更重要。",
+  "tools": "想跟进可关注：开源渗透框架 Metasploit、Nuclei 漏洞扫描模板，AI 渗透研究项目 PentestGPT，用于检测与演练的 Atomic Red Team、MITRE ATT&CK 与 CISA KEV 漏洞清单；防守方可上手 Wazuh、Zeek、Sigma 做日志检测与告警自动化。"
+ },
+ "lang": "zh"
+}

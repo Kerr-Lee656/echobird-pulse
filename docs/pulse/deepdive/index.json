@@ -23389,5 +23389,104 @@
   "site_name": "AIbase",
   "published_at": "2026-11-16T12:13:21.496Z",
   "fetched_at": "2026-11-16T20:24:44.455352+00:00"
+ },
+ "fec3f173ffe0": {
+  "id": "fec3f173ffe0",
+  "url": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+  "title": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:27:48.875748+00:00"
+ },
+ "aeb399f18ac4": {
+  "id": "aeb399f18ac4",
+  "url": "https://hardware.slashdot.org/story/26/11/16/1645203/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips",
+  "title": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:00.881650+00:00"
+ },
+ "1738f67eaadd": {
+  "id": "1738f67eaadd",
+  "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:09.550640+00:00"
+ },
+ "af037def51a6": {
+  "id": "af037def51a6",
+  "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+  "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:18.324834+00:00"
+ },
+ "44240682d96c": {
+  "id": "44240682d96c",
+  "url": "https://thenextweb.com/news/satya-nadella-claude-code-ide-pragmatic-engineer",
+  "title": "Satya Nadella says Claude Code caught Microsoft off guard and the IDE faded",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:28.553600+00:00"
+ },
+ "47d5569ead6b": {
+  "id": "47d5569ead6b",
+  "url": "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
+  "title": "Google says attackers used AI to turn patches into exploits with no human",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:37.738482+00:00"
+ },
+ "20d2479b882f": {
+  "id": "20d2479b882f",
+  "url": "https://thenextweb.com/news/anthropic-disclosure-window-30-days-ai-vulnerabilities",
+  "title": "Anthropic cuts its bug disclosure window to 30 days as AI finds flaws",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:45.550245+00:00"
+ },
+ "1e9d621a7c6c": {
+  "id": "1e9d621a7c6c",
+  "url": "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith",
+  "title": "LangChain raises $300m at a $3bn valuation to help companies run AI agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:28:54.368025+00:00"
+ },
+ "1b79df794b18": {
+  "id": "1b79df794b18",
+  "url": "https://thenextweb.com/news/noeri-110m-stanford-yejin-choi-carlos-guestrin-menlo-nvidia",
+  "title": "Stanford professors’ AI lab Noeri launches with $110m, backed by Nvidia",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:29:05.153814+00:00"
+ },
+ "e9a4697e3afa": {
+  "id": "e9a4697e3afa",
+  "url": "https://www.36kr.com/p/4071919873922948",
+  "title": "美联储报告拆解AI算力债务：6800亿美元发行、3万亿美元表外承诺，循环融资何解？",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:29:33.609838+00:00"
+ },
+ "950d93174fb2": {
+  "id": "950d93174fb2",
+  "url": "https://www.qbitai.com/2026/11/510486.html",
+  "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-17T04:29:43.493296+00:00"
  }
 }

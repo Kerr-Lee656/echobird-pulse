@@ -1,0 +1,25 @@
+{
+ "id": "1b79df794b18",
+ "url": "https://thenextweb.com/news/noeri-110m-stanford-yejin-choi-carlos-guestrin-menlo-nvidia",
+ "title": "Stanford professors’ AI lab Noeri launches with $110m, backed by Nvidia",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T04:29:05.153814+00:00",
+ "content": "Noeri, an AI lab founded this year by Stanford professors Yejin Choi and Carlos Guestrin, has raised $110m, the company announced on Monday. Menlo Ventures led the round, with Madrona Venture Group, Kindred Ventures, Wing Venture Capital and NEA. Cisco Investments, Nvidia and Snowflake joined as strategic investors.\nBloomberg’s Dina Bass first reported the round earlier on Monday. Noeri did not disclose its valuation, Bloomberg reported.\nWhat Noeri builds\nNoeri builds self-improving AI for companies and for scientific research. It says most AI models stop learning once their training ends, while its systems keep improving on the job.\nIts AI studies a company’s own data and workflows. It then changes the system around a task: the instructions, the tools, which model handles each step and, where it pays off, the models themselves. Each change comes with an explanation, and a person approves it, as in a code review.\nThe system works with closed and open-weight models. Customers keep ownership of their data and of the workflows and models they build, the company said.\nNoeri also wants its AI to work with scientists. It would form hypotheses, run experiments and learn from the results, on problems from new molecules and proteins to complex technical systems. The company says smaller, specialised models make that kind of search affordable.\n“Every company we talk to is riding the same curve: pay more for the best model, or settle for worse results from a cheaper one,” said Carlos Guestrin, co-founder and co-CEO of Noeri.\nFrom a Stanford lab\nChoi told Bloomberg the idea came partly from work with a Stanford microbiology and immunology team. The team wanted cheaper ways to use OpenAI’s models. Choi said their small AI, which learned to use other models, beat GPT-5 on that team’s research needs.\n“We made this small AI that learns to use other AI, including GPT-4, but not 5 because at Stanford we are too poor to use GPT-5 all the time for research,” Choi told Bloomberg.\nChoi and Guestrin are co-CEOs. Choi is a MacArthur Fellow and a former professor at the University of Washington and senior director at the Allen Institute for AI. Bloomberg reported that she was also a distinguished scientist at Nvidia.\nGuestrin co-founded Turi, the machine learning platform Apple bought in 2016, and then led Apple’s central machine learning and AI organisation. He co-created XGBoost, an open-source machine learning library. Bloomberg describes him as director of the Stanford AI Lab.\nNoeri has its headquarters in Palo Alto and an office in Zurich. It is hiring researchers and engineers in both cities. It is working with partners across industries, including some of its investors. Menlo Ventures also backed Town’s $108m round in October.\n“Yejin and I both have worries about centralization, about one company owning everything,” Guestrin told Bloomberg.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "斯坦福教授创立Noeri，融资1.1亿美元做自我进化AI",
+  "background": "2024至2025年，顶尖AI学者纷纷离开学术界创业，如Ilya Sutskever创办SSI、李飞飞创办World Labs。同时企业面临现实困境：最强模型昂贵、便宜模型效果差，且模型训练结束后就停止学习，无法适配企业私有流程。Noeri由斯坦福教授Yejin Choi（麦克阿瑟奖得主、前NVIDIA杰出科学家）与Carlos Guestrin（XGBoost共同创造者、Turi创始人，Turi于2016年被苹果收购）今年创立，总部在帕洛阿尔托，并在苏黎世设办公室，目前两地招聘研究员与工程师。",
+  "key_points": [
+   "Noeri完成1.1亿美元融资，Menlo Ventures领投，Madrona、Kindred、Wing、NEA跟投，NVIDIA、Cisco、Snowflake作为战略投资方入局，估值未披露。",
+   "主打“自我改进”AI：多数模型训练完就停止学习，Noeri的系统在上线后仍持续学习，自动调整指令、工具、各步骤由哪个模型处理，必要时连模型本身也改。",
+   "每次改动都附带解释，并由人类像代码审查一样审批，在持续进化与可控性、企业合规之间取得平衡。",
+   "兼容闭源与开源权重模型，客户保留数据、工作流和自建模型的所有权，避免被单一厂商锁定。",
+   "技术起源很务实：斯坦福微生物免疫团队想省钱用OpenAI模型，Choi团队训练的小模型“学会调用其他AI”，在该团队的研究任务上击败GPT-5。",
+   "公司同时瞄准科研自动化：让AI提出假设、运行实验、从结果中学习，覆盖新分子、蛋白质到复杂技术系统，靠小型专用模型压低搜索成本。"
+  ],
+  "impact": "对企业而言，竞争重心从“买最贵的模型”转向“搭建会自我进化的系统层”，模型商品化进一步加速；对开发者而言，模型路由、自动评测、提示与工作流编排将成为核心工程能力，懂得“让AI调用AI”比会写提示词更值钱；对普通用户而言，AI服务会更便宜、更贴合具体场景，但“AI自行修改自身”由谁审查，仍是待解的治理问题。NVIDIA等战投入场，说明算力方希望催生更多推理层玩家；创始人公开表达的“反中央化”担忧，也代表了一种行业路线分歧。",
+  "tools": "想跟进可关注：XGBoost（Guestrin共同创造，经典机器学习库）、DSPy（自动优化提示与流程）、RouteLLM等模型路由方案、vLLM搭配Llama/Qwen等开源权重模型自建“小模型编排”、以及AI-Scientist类科研自动化开源项目。"
+ },
+ "lang": "zh"
+}
