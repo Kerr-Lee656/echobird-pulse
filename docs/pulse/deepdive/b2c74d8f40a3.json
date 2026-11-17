@@ -1,0 +1,24 @@
+{
+ "id": "b2c74d8f40a3",
+ "url": "https://www.vox.com/the-logoff-newsletter-trump/510969/trump-nvidia-scandal-ai-chip-export-loophole",
+ "title": "Trump closes an AI loophole",
+ "source": "Recode",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-17T15:55:54.139857+00:00",
+ "content": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here.\nTrump closes an AI loophole\nThe Trump administration is tightening export restrictions on AI chips.\nWelcome to The Logoff: The Trump administration is closing a global AI chip loophole that the Jensen Huang scandal put in the spotlight.\nWhat’s changing? The Commerce Department is trying to make it harder for China to access top-of-the-line AI microchips like those made by Nvidia.\nCurrently, China is able to dodge export rules by renting computing power from third-country data centers, which can legally buy American-made chips that China can’t.\nBut under the rule issued Monday, which is set to take effect in 90 days, data centers in a handful of countries will face new export restrictions on chips — including a requirement that they perform “robust due diligence on their customers” to make sure that they aren’t evading an export ban.\nWhat’s the context? Huang, who resigned from Nvidia last week, was brought down in part by his relationship with Alice Huang (no relation), an alleged Chinese spy (kind of) and an executive at a Singapore-based tech company, Megaspeed, that was renting compute to Chinese firms — exactly the kind of thing that the new rule aims to crack down on.\nWhat’s the big picture? The Nvidia scandal is front and center. But under the hood, there’s also some Trump administration infighting going on. As a statement announcing the new rule notes, it was written not by the Commerce Department, which is issuing it, but by the Treasury Department and the National Security Council.\nThat’s conspicuous because Treasury Secretary Scott Bessent has done his best to throw Commerce Secretary Howard Lutnick under the bus for the scandal, saying that Lutnick’s department failed to restrict Megaspeed’s access to advanced AI chips sooner.\nWhere’s President Donald Trump in all this? As of Monday, off to China and the Philippines for a multiday trip that will feature a trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin.\nFor now, though, Trump is standing by Lutnick — and even by Jensen Huang, saying Monday that he “would certainly not mind” seeing him return as Nvidia CEO (the Nvidia board has already shut down the possibility).\nAnd with that, it’s time to log off…\nOne of my colleagues described this story about Anny Aviram, a now-retired conservator at New York’s Museum of Modern Art, as “a true balm for the weary soul,” and it lives up to the billing. You can enjoy it here with a gift link.\nAs always, thanks for reading, have a great evening, and we’ll see you tomorrow!",
+ "report": {
+  "summary": "美收紧AI芯片出口，堵第三国算力转租漏洞",
+  "background": "美国对华AI芯片出口管制此前主要针对直接销售，但中国企业可通过第三国数据中心合法购买芯片并远程租用算力，形成监管套利。英伟达高端GPU是AI训练核心资源，这一漏洞因此成为政策焦点。特朗普政府此次以客户尽职调查为抓手，把管制延伸到算力服务链条，反映美国正从芯片交易管制转向算力使用管制。",
+  "key_points": [
+   "美国商务部新规堵住第三国数据中心转租算力漏洞，防止中国间接获得英伟达等高端AI芯片。",
+   "新规90天后生效，少数国家数据中心须对客户做严格尽职调查，确保不规避出口禁令。",
+   "导火索是Jensen Huang与新加坡Megaspeed高管关系丑闻，该公司被指向中国企业出租算力。",
+   "规则由财政部和国安会主导撰写而非商务部，暴露政府内部对华出口管制责任之争。",
+   "特朗普表态支持商务部长Lutnick，并称不介意Jensen Huang重返英伟达，但董事会已排除可能。"
+  ],
+  "impact": "对AI行业，算力跨境服务被纳入出口管制，第三国数据中心和云服务商合规成本上升；对开发者，海外租用GPU可能更贵、更慢、更复杂，需重新评估供应链；对普通用户，短期可能推高AI服务成本，但也会加速区域化算力与国产替代。整体上，全球AI算力市场将进一步碎片化。",
+  "tools": "可关注美国BIS出口管制规则更新、Nvidia GPU产品线及云服务合规声明；开发者可跟踪AWS、Azure、阿里云等算力区域限制，使用合规审查清单和供应链尽调工具。"
+ },
+ "lang": "zh"
+}

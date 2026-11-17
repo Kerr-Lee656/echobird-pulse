@@ -12625,5 +12625,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-16T23:28:41Z",
   "fetched_at": "2026-11-17T04:31:29.372046+00:00"
+ },
+ "e807373fd5e6": {
+  "id": "e807373fd5e6",
+  "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+  "title": "Anthropic likely to price IPO above the current range of $70 to $78",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T15:42:22Z",
+  "fetched_at": "2026-11-17T15:59:37.302544+00:00"
+ },
+ "8d321c48944f": {
+  "id": "8d321c48944f",
+  "url": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
+  "title": "可灵 AI 发布 Kling Image 4.0 图像模型并开放 API",
+  "source": "公众号：可灵AI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-17T15:10:31.000Z",
+  "fetched_at": "2026-11-17T15:59:52.972430+00:00"
+ },
+ "c4b7e80cb786": {
+  "id": "c4b7e80cb786",
+  "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+  "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-17T14:50:58.000Z",
+  "fetched_at": "2026-11-17T16:00:03.388995+00:00"
+ },
+ "b3d484d06bc8": {
+  "id": "b3d484d06bc8",
+  "url": "https://www.techspot.com/news/114585-ai-music-company-claims-copyright-over-musician-own.html",
+  "title": "AI music company claims copyright over musician's recording, gets video removed",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-17T14:50:53Z",
+  "fetched_at": "2026-11-17T16:00:15.518820+00:00"
  }
 }

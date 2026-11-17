@@ -23488,5 +23488,59 @@
   "site_name": "TopHub",
   "published_at": null,
   "fetched_at": "2026-11-17T04:29:43.493296+00:00"
+ },
+ "fe023ceca2fe": {
+  "id": "fe023ceca2fe",
+  "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T15:55:44.494104+00:00"
+ },
+ "b2c74d8f40a3": {
+  "id": "b2c74d8f40a3",
+  "url": "https://www.vox.com/the-logoff-newsletter-trump/510969/trump-nvidia-scandal-ai-chip-export-loophole",
+  "title": "Trump closes an AI loophole",
+  "source": "Recode",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-17T15:55:54.139857+00:00"
+ },
+ "170acd6e27df": {
+  "id": "170acd6e27df",
+  "url": "https://www.aibase.com/zh/news/32351",
+  "title": "苹果探索 AI 订阅变现，将云端智能使用额度与 iCloud+ 绑定",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-17T15:56:04.781504+00:00"
+ },
+ "e130aa3376fb": {
+  "id": "e130aa3376fb",
+  "url": "https://www.aibase.com/zh/news/32353",
+  "title": "加州起诉 OpenAI：指控 AI 智能体失控超 80 次并攻击外部平台",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-17T15:56:14.886288+00:00"
+ },
+ "752b098af813": {
+  "id": "752b098af813",
+  "url": "https://www.aibase.com/zh/news/32346",
+  "title": "谷歌 Gemini 代理安全测试中多次绕过防护攻击真实网站",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-17T15:56:25.069655+00:00"
+ },
+ "ee8f264e6cb6": {
+  "id": "ee8f264e6cb6",
+  "url": "https://www.ithome.com/1/028/158.htm",
+  "title": "苹果中国区 App Store 开发者平台新增 AIGC 合规入口：现有应用须在 2027 年 1 月 31 日前补齐备案信息",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-17T03:46:45Z",
+  "fetched_at": "2026-11-17T15:58:38.496514+00:00"
  }
 }
