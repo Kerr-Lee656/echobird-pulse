@@ -23686,5 +23686,113 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-18T02:06:29Z",
   "fetched_at": "2026-11-18T07:20:42.488895+00:00"
+ },
+ "fcf93c416202": {
+  "id": "fcf93c416202",
+  "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+  "title": "Nvidia isn’t selling any more AI chips to China",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:13:14.277848+00:00"
+ },
+ "ddb370c34e55": {
+  "id": "ddb370c34e55",
+  "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+  "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:13:29.788042+00:00"
+ },
+ "db376681ca4f": {
+  "id": "db376681ca4f",
+  "url": "https://thenextweb.com/news/us-commission-says-chinas-military-is-seeking-nvidias-most-advanced-chips",
+  "title": "US commission says China’s military is seeking Nvidia’s most advanced chips",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:13:50.066421+00:00"
+ },
+ "a784c664510f": {
+  "id": "a784c664510f",
+  "url": "https://thenextweb.com/news/citi-and-jpmorgan-reportedly-add-chip-curbs-clause-to-bain-data-centre-loan",
+  "title": "Citi and JPMorgan reportedly add chip-curbs clause to Bain data centre loan",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:14:01.749594+00:00"
+ },
+ "56105f81ea89": {
+  "id": "56105f81ea89",
+  "url": "https://thenextweb.com/news/uk-actors-to-get-pay-and-consent-rights-over-ai-replicas-under-equity-deal",
+  "title": "UK actors to get pay and consent rights over AI replicas under Equity deal",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:14:10.787637+00:00"
+ },
+ "bbecc25def6a": {
+  "id": "bbecc25def6a",
+  "url": "https://www.techradar.com/pro/microsoft-is-giving-agents-their-own-cloud-pc-capabilities-to-help-you-with-crucial-tasks",
+  "title": "Microsoft is giving agents their own Cloud PC capabilities to help you with crucial tasks",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:14:22.117632+00:00"
+ },
+ "1bd9e5bcc891": {
+  "id": "1bd9e5bcc891",
+  "url": "https://www.36kr.com/p/4074370835977092",
+  "title": "GPT-6.2Astra与Sol突袭发布，OpenAI狙击Anthropic上市日，任务成本仅为Claude的5%",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:14:32.597571+00:00"
+ },
+ "d46e2a1a1c9e": {
+  "id": "d46e2a1a1c9e",
+  "url": "https://www.aibase.com/zh/news/32380",
+  "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-18T17:14:42.358417+00:00"
+ },
+ "20eba7ee3028": {
+  "id": "20eba7ee3028",
+  "url": "https://www.aibase.com/news/32388",
+  "title": "员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T14:46:11.588Z",
+  "fetched_at": "2026-11-18T17:14:54.925029+00:00"
+ },
+ "ecf3ca5a4f67": {
+  "id": "ecf3ca5a4f67",
+  "url": "https://www.ithome.com/1/029/087.htm",
+  "title": "消息称三星电子计划在 CES 2027 发布 2 款人形机器人",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T13:51:03Z",
+  "fetched_at": "2026-11-18T17:15:17.356892+00:00"
+ },
+ "1487fe5d6a4b": {
+  "id": "1487fe5d6a4b",
+  "url": "https://www.ithome.com/1/029/075.htm",
+  "title": "防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T13:23:33Z",
+  "fetched_at": "2026-11-18T17:15:25.781175+00:00"
+ },
+ "1e93a08bb41d": {
+  "id": "1e93a08bb41d",
+  "url": "https://www.huxiu.com/article/4906648.html?f=rss",
+  "title": "高盛：2027年AI项目融资预期从3000亿美元上调至5450亿美元",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T13:09:08Z",
+  "fetched_at": "2026-11-18T17:15:37.870428+00:00"
  }
 }

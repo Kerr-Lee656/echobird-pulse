@@ -1,0 +1,24 @@
+{
+ "id": "56105f81ea89",
+ "url": "https://thenextweb.com/news/uk-actors-to-get-pay-and-consent-rights-over-ai-replicas-under-equity-deal",
+ "title": "UK actors to get pay and consent rights over AI replicas under Equity deal",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-18T17:14:10.787637+00:00",
+ "content": "Producers would only get consent for one specific project, not for any use. Actors must also approve digital changes to scenes with agreed nudity or simulated sex.\nProducers could not use a replica during a strike where consent is needed. They must also limit who can see replicas and take care to keep them safe.\nBut Equity said the deal does not clearly stop actors’ work being used to train AI.\nThe three-year deal also raises pay rates by 24% for major films and 9% for TV, according to the Guardian. Equity recommended the offer to members on Monday.\nIt follows a December ballot in which 99% of voting members backed refusing on-set body scans until stronger AI protections were agreed. In the US, the actors’ union SAG-AFTRA ratified its own deal with AI rules in June.\n“We’ve achieved the best AI provisions in the business,” said Paul W Fleming, Equity’s general secretary.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "英国演员工会与制片方达成协议，演员获AI数字替身同意权与报酬权。",
+  "background": "生成式AI让\"数字替身\"成本骤降，片场全身扫描一度成为合同默认条款。2023年好莱坞大罢工把AI条款推上谈判桌，美国演员工会SAG-AFTRA于2024年6月率先批准含AI规则的新合同。英国这边，Equity在2024年12月的会员投票中有99%支持\"在AI保护到位前拒绝现场身体扫描\"，以此作为谈判筹码。此次与制片方达成为期三年的集体协议，被视为英国版回应。",
+  "key_points": [
+   "同意是\"一片一授权\"：制片方只能为某个具体项目取得演员同意，不能一次性买断未来所有用途，数字替身的使用范围被大幅收窄。",
+   "涉及已约定的裸露或模拟性爱镜头，任何数字化改动必须经演员本人批准，防止AI在后期\"加戏\"或修改身体呈现。",
+   "罢工期间不得使用数字替身替代需本人同意的演出，同时制片方须限制谁能查看替身数据并承担保管安全责任。",
+   "报酬同步上涨：大制作电影演员薪酬提高24%，电视提高9%，AI条款与经济收益被捆绑谈判。",
+   "遗留漏洞明显：工会承认协议并未明确禁止用演员的既有作品去训练AI模型，这恰是演员最担心的长期风险。"
+  ],
+  "impact": "对AI行业，这是\"人格权许可\"从法律口号走向合同条款的样板，数字人、虚拟演员、换脸配音类产品将被迫做逐项授权与审计留痕。对开发者，训练数据来源与肖像授权会成为合规成本，尤其在英美市场，缺少可追溯授权的数据集风险上升。对普通用户，短期看到的可能是更多\"官方授权数字替身\"出现在续集与广告中，而非随意生成的明星脸；同时也意味着演员对自身形象的控制权增强，但训练数据这一根本问题仍未解决。",
+  "tools": "想跟进的读者可关注：SAG-AFTRA与Equity官网公布的AI合同条款原文；内容溯源标准C2PA与\"内容凭证\"工具；Spawning的\"Have I Been Trained\"用于查询图像是否进入训练集；Glaze、Nightshade等对抗性扰动工具可了解创作者侧防护思路。"
+ },
+ "lang": "zh"
+}

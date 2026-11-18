@@ -1,0 +1,24 @@
+{
+ "id": "bbecc25def6a",
+ "url": "https://www.techradar.com/pro/microsoft-is-giving-agents-their-own-cloud-pc-capabilities-to-help-you-with-crucial-tasks",
+ "title": "Microsoft is giving agents their own Cloud PC capabilities to help you with crucial tasks",
+ "source": "TechRadar",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-18T17:14:22.117632+00:00",
+ "content": "Microsoft is giving agents their own Cloud PC capabilities to help you with crucial tasks\nYou can prescribe an AI agent its own Cloud PC\n- Companies can now give AI agents their own Windows Cloud PC, just like a human worker\n- They'll be managed through Intune and Entra with unique identities and permissions\n- General Cloud PC performance and reliability are also on track to see improvements\nTaking the idea of giving AI agents their own identity even further, Microsoft has announced that it will be giving them their own managed Cloud PCs so that they can operate Windows apps and perform tasks just like any other human workers.\nThis follows the launch of Windows 365 for Agents earlier this year, and comes as part of sweeping updates for \"people, agents and IT\" to the company's Cloud PC portfolio.\nUnder the updates, Microsoft is using Direct Stream to improve responsiveness, reliability and performance, boasting that users can now connect to their Cloud PCs within seconds, making them feel much more like conventional, local machines.\nCloud PCs updated to support AI agents\nThe reason for granting AI agents access to their own Cloud PCs is because many apps lack APIs that allow agents to interact with them directly, so Microsoft wants to give users deeper system-level access instead. It means that automation can be opened up for legacy and unsupported apps, rather than companies being forced to rebuild or migrate apps entirely.\n\"Our AI agents can interact with real Windows applications, perform QA testing and generate documentation, all within a secure, enterprise-governed Windows 365 for Agents environment,\" one early customer shared.\nWindows 365 for Agents will also be eligible for Copilot Credits, which Microsoft describes as a 'common currency' that's applicable across its AI offerings, for easier billing and spend visibility.\nThe company noted that Cloud PCs are controlled through Microsoft Intune and Entra – in other words, they're managed just like earlier Cloud PCs for humans, taking on their own identities which can be set up to be more restrictive than human identities.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\n\"The future of computing will require a familiar, flexible workspace that can meet people and their agents wherever work happens,\" Windows 365 Product Leader Bhavya Chopra explained.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+ "report": {
+  "summary": "微软为AI代理提供独立Cloud PC并纳入统一管理。",
+  "background": "今年早些时候微软推出Windows 365 for Agents，此次进一步让AI代理拥有专属托管Cloud PC。随着企业部署AI代理，许多旧版或不开放API的应用难以被代理直接调用；微软希望通过系统级Windows环境让代理像员工一样操作应用，同时用Intune和Entra实现身份、权限与合规管理，并借Direct Stream提升Cloud PC体验。",
+  "key_points": [
+   "企业可为AI代理分配独立Windows Cloud PC，使其拥有独立身份和权限，且权限可比人类员工更严格。",
+   "代理的Cloud PC通过Microsoft Intune和Entra统一管理，运维方式与人类员工的Cloud PC基本一致。",
+   "该方案主要解决大量应用缺少API的问题，让代理通过Windows界面自动化旧版或不受支持的应用，无需重建或迁移。",
+   "微软用Direct Stream提升Cloud PC响应、可靠性和性能，用户可在数秒内连接，体验更接近本地电脑。",
+   "Windows 365 for Agents可计入Copilot Credits，微软将其作为跨AI产品的通用计费单位，方便企业控制支出。"
+  ],
+  "impact": "对AI行业，这强化了“代理即数字员工”的趋势，代理身份、权限和桌面生命周期管理将成为企业AI基础设施的一部分。对开发者，自动化不再完全依赖API，可用代理操作遗留Windows应用，但也需处理许可、安全隔离和审计问题。对普通用户，后台任务和QA、文档生成等流程可能更自动可靠，但代理权限与数据访问需更透明可控。",
+  "tools": "可关注Windows 365 for Agents、Microsoft Intune、Entra ID和Copilot Credits；开发者可用Intune配置代理Cloud PC策略，用Entra管理代理身份与权限，并评估Copilot Credits的计费与配额。"
+ },
+ "lang": "zh"
+}

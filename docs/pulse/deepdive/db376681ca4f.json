@@ -1,0 +1,24 @@
+{
+ "id": "db376681ca4f",
+ "url": "https://thenextweb.com/news/us-commission-says-chinas-military-is-seeking-nvidias-most-advanced-chips",
+ "title": "US commission says China’s military is seeking Nvidia’s most advanced chips",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-18T17:13:50.066421+00:00",
+ "content": "“China is seeking to evade U.S. export controls to gain the most advanced semiconductors that underpin its intelligentization drive,” the commission said.\nThe report says chips from Chinese firms such as Huawei and Cambricon still lag those from Nvidia and AMD. China still trails in top-end chipmaking, memory, chip tools and Nvidia’s CUDA software, it added.\n“The resulting gap in compute is substantial, largely due to U.S. export controls on advanced chips,” the report said.\nMeanwhile, Chinese firms have used data centres in places such as Malaysia to use Nvidia chips from afar, the report found. This week, the Commerce Department issued rules to close that loophole.\nSeparately, Nvidia’s interim chief executive Colette Kress said on Tuesday that the company is no longer shipping licensed Hopper data centre chips to China, Bloomberg reported. Nvidia sold $2.4bn of them there in the third quarter.\nThe report lands as Nvidia deals with the fallout from Jensen Huang’s resignation. Huang quit after admitting an affair with Alice Huang, whom US officials suspect of being a Chinese spy. He is due to appear before House panels on 1 December, according to CNBC.\nCongress set up the commission in 2000 to report on the security risks of US trade with China.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美委员会称中国军方寻求规避管制获取英伟达最先进芯片",
+  "background": "美国国会于2000年设立的美中经济与安全审查委员会发布报告，称中国正试图绕过美国出口管制，获取支撑其智能化进程的最先进半导体。报告同时指出，华为、寒武纪等中国芯片仍落后于英伟达和AMD，在高端制造、内存、芯片设备及CUDA软件生态上仍有差距。事件发生在美方收紧AI芯片对华出口、英伟达调整中国业务之际。",
+  "key_points": [
+   "委员会称中国军方及相关实体寻求规避出口管制，获得英伟达最先进AI芯片，用于智能化建设。",
+   "报告认为中国本土芯片在高端算力上仍明显落后，华为、寒武纪产品不及英伟达、AMD，CUDA生态差距尤大。",
+   "中国企业被指通过马来西亚等地数据中心远程使用英伟达芯片，美国商务部本周出台规则堵漏。",
+   "英伟达已停止向中国出货获许可的Hopper数据中心芯片；该类芯片第三季度对华销售额曾达24亿美元。",
+   "报告发布之际，英伟达还面临黄仁勋辞职及涉间谍疑云风波，他将于12月1日出席众议院听证。"
+  ],
+  "impact": "对AI行业，美中算力脱钩将进一步加速，全球AI芯片供应链更区域化；对开发者，获取高端GPU和CUDA生态更难，需评估国产替代与多云/海外算力合规风险；对普通用户，短期可能带来AI服务成本与可用性波动，长期推动本土AI基础设施自主化。",
+  "tools": "可关注美国BIS出口管制清单与实体名单、NVIDIA Hopper/H100/H200、华为昇腾、寒武纪思元，以及CUDA兼容方案如HIP/OpenCL和国产AI框架。"
+ },
+ "lang": "zh"
+}

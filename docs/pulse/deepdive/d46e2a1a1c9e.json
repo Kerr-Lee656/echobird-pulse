@@ -1,0 +1,25 @@
+{
+ "id": "d46e2a1a1c9e",
+ "url": "https://www.aibase.com/zh/news/32380",
+ "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-18T17:14:42.358417+00:00",
+ "content": "腾讯混元今日官宣开源 Hy4flash 系列，一口气放出三个版本:标准版 Hy4flash、量化后的 Hy4flash-FP8，以及供研究者从零训练的 Hy4flash Base。GitHub、Hugging Face、ModelScope、GitCode 四个平台均可下载，还额外提供了 GGUF 格式，方便本地部署的玩家跑起来。官方同时预告，更大的 Hy4模型也在开源路上。\n卖点不是最大，是划算\n这款模型走的是性价比路线:总参数量224B，其中含64B Engram 参数，每个 token 只激活12B，属稀疏架构，既省算力又保能力。它支持多模态输入，上下文长度拉到100万 token，API 价格较 Hy4大幅下调——官方给它的标签是迄今性价比最高的 Hy 模型。\n落地也铺得够广:腾讯云 TokenHub、元宝、企业微信、QQ、ima、Marvis 等产品已接入该模型。对开发者而言，权重可下、协议公开、价格更低，等于把大模型应用的成本门槛又踩低一截;对腾讯来说，开源既是刷存在感，也是借社区反哺自家生态的惯用打法。",
+ "report": {
+  "summary": "腾讯开源224B稀疏模型Hy4flash，每token仅激活12B，走性价比路线",
+  "background": "过去两年开源大模型竞赛从\"堆参数\"转向\"拼效率\"：DeepSeek用MoE稀疏架构把推理成本压到极低，Qwen、Llama、Mistral 也在密集放权重，闭源厂商的护城河被不断侵蚀。腾讯混元此前已有 Hy3、Hy4 系列，但主要以API和自家产品形态输出。这次把 224B 的 Hy4flash 完整权重连 GGUF 一起放出，并同步下调 API 价格，是在开源社区刷存在感、同时用低价争夺开发者的典型打法——先用权重换生态，再用云和产品变现。",
+  "key_points": [
+   "模型总参数224B，但每个token只激活12B，属于稀疏架构：能力接近大模型，算力开销却接近小模型。",
+   "一口气开源三个版本：标准版、FP8量化版、以及供研究者从零训练的Base版，覆盖推理落地和二次训练两种需求。",
+   "上下文长度高达100万token并支持多模态输入，长文档、代码库、视频理解这类场景可以直接塞进去。",
+   "GitHub、Hugging Face、ModelScope、GitCode 四平台同步开放，还提供 GGUF 格式，本地跑模型的玩家不用再等社区转换。",
+   "API 价格较 Hy4 大幅下调，官方称其为迄今性价比最高的混元模型；腾讯云 TokenHub、元宝、企业微信、QQ、ima 等产品已接入。",
+   "官方预告更大的 Hy4 也在开源路上，说明这不是一次性动作，而是持续放权重的系列策略。"
+  ],
+  "impact": "对行业而言，224B 级稀疏模型被免费放出，会进一步压低商用大模型的定价预期，闭源厂商的中端产品线压力最大。对开发者来说，权重可下、协议公开、支持 GGUF 与 FP8，意味着既能本地私有化部署，也能低成本做微调，长上下文能力还省掉了外挂检索的一层工程。对普通用户，最直接的变化是元宝、QQ、企业微信等产品里的AI功能会更便宜、更能\"记住\"长内容，但模型能力的天花板仍取决于具体产品怎么调。",
+  "tools": "想本地跑可关注 Ollama、llama.cpp、LM Studio（直接吃 GGUF）；生产部署优先 vLLM、SGLang（对稀疏 MoE 和长上下文支持较好）；权重从 Hugging Face、ModelScope、GitCode 下载；做微调可配合 LLaMA-Factory 或 Unsloth；对比评测可用 OpenCompass。"
+ },
+ "lang": "zh"
+}

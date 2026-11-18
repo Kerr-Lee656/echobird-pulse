@@ -1,0 +1,24 @@
+{
+ "id": "a784c664510f",
+ "url": "https://thenextweb.com/news/citi-and-jpmorgan-reportedly-add-chip-curbs-clause-to-bain-data-centre-loan",
+ "title": "Citi and JPMorgan reportedly add chip-curbs clause to Bain data centre loan",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-18T17:14:01.749594+00:00",
+ "content": "Citigroup and JPMorgan Chase have added terms to a potential loan for Bain Capital-owned Bridge Data Centres that make the borrower responsible for following US chip rules, Bloomberg reported. The loan could grow to $6.6bn.\nThe wording covers US export controls and the Commerce Department’s Entity List, people familiar with the talks told Bloomberg. The documents could still change. TNW has not independently verified the report.\nThe clause could let the banks call a default if a breach is found, Bloomberg reported. Its sources said the wording is more specific than the standard sanctions terms in such loans.\nSingapore-based Bridge previously sold computing capacity at a data centre in Malaysia to Megaspeed International. The US is investigating whether Megaspeed smuggled Nvidia chips into China. Megaspeed has denied any wrongdoing.\nBridge replaced Megaspeed with cloud provider Zenlayer earlier this year, according to a memo it sent to lenders in February.\nThe banks made the changes before news broke of former Nvidia boss Jensen Huang’s relationship with Megaspeed founder Alice Huang, Bloomberg’s sources said. The decisions came from the banks’ head offices in New York.\nMeanwhile, about a dozen bankers at Asian and European lenders told Bloomberg their firms had not changed their loan terms. They said US banks face the greater risk if things go wrong.\nThe move comes days after Washington issued rules to close a loophole that let Chinese firms rent Nvidia chips abroad. JPMorgan and Citi declined to comment to Bloomberg.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "花旗摩根大通在贝恩数据中心贷款中加入芯片管制条款",
+  "background": "美国持续收紧对华AI芯片出口管制，并将审查延伸至海外算力租赁。贝恩资本旗下Bridge Data Centres拟获最高66亿美元贷款，其马来西亚数据中心曾向被调查的Megaspeed出售算力，促使美资银行在融资文件中加入更具体的芯片合规条款。",
+  "key_points": [
+   "花旗与摩根大通在给Bridge的潜在贷款中加入条款，要求借款方遵守美国芯片出口管制和商务部实体清单，若违反银行可宣布违约。",
+   "贷款规模最高可达66亿美元，条款比一般制裁条款更具体，显示银行把AI芯片供应链合规风险直接嵌入数据中心融资。",
+   "Bridge曾向Megaspeed出售马来西亚数据中心算力；Megaspeed因涉嫌将Nvidia芯片走私至中国被调查，但已否认不当行为。",
+   "Bridge今年初已用云服务商Zenlayer替换Megaspeed，并向贷款方通报；银行在新闻曝光前已从纽约总部推动修改条款。",
+   "亚洲和欧洲约十多家银行称未修改贷款条款，反映美资银行因美元清算与监管敞口承担更高合规压力。"
+  ],
+  "impact": "对AI行业，跨境数据中心和算力租赁融资将面临更严的出口管制尽调，合规成本与融资门槛上升。对开发者，采购海外GPU算力需关注最终用户、用途和转售链条，云服务选择可能受限。对普通用户，算力供给区域化与成本上升可能传导至AI产品价格和可用性。",
+  "tools": "跟进可关注美国BIS实体清单与Consolidated Screening List、开源制裁筛查OpenSanctions，以及SAP GTS、Descartes等贸易合规工具；采购算力时做KYC和最终用途审查。"
+ },
+ "lang": "zh"
+}

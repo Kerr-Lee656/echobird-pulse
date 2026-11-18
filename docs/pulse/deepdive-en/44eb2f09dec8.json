@@ -1,0 +1,24 @@
+{
+ "id": "44eb2f09dec8",
+ "url": "https://soargram.io/content/273880860",
+ "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
+ "source": "Hacker News (2pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-11-18T16:37:21Z",
+ "fetched_at": "2026-11-18T17:18:17.402538+00:00",
+ "content": "0/500\n                \nWe're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare.\n    \n    \n        \n        9 views\n        3 likes\n        \n        ...more\n    \n    \n    \n    \n        9 views\n        \n    \n            \n            Discussions\n            0\n        \nNo comments yet\nAI coding agents are gaining access to our computers, repositories, and development workflows. But what happens when attackers learn to exploit that access through something as simple as a GitHub comment?\n#AI #Cybersecurity #GitHub #AIAgents #Prompt #Injection #SoftwareDevelopment #Technology\n...more",
+ "report": {
+  "summary": "AI coding agents with shell, repository and credential access can be hijacked through simple untrusted inputs like GitHub comments, turning productivity tools into a serious supply-chain security risk.",
+  "background": "Over the past two years, AI coding agents have moved from autocomplete to autonomous actors: tools like Claude Code, Cursor, Copilot Workspace, Devin, Aider and OpenHands can read repositories, run shell commands, install packages, push commits and open pull requests. To be useful, they are given exactly what makes them dangerous — the developer's filesystem, API keys, SSH credentials and Git permissions, usually with little or no sandboxing. Security researchers have repeatedly warned about 'indirect prompt injection': because large language models cannot reliably distinguish instructions from data, any text an agent reads — an issue body, a PR comment, a README, a fetched web page — can act as a command. The article's core warning is that an attacker may not need to breach anything at all; a well-crafted GitHub comment may be enough to redirect an agent's privileges toward the attacker's goals.",
+  "key_points": [
+   "Agents inherit the developer's full trust: they run shell commands, edit files, read secrets and push to main with the same permissions as the human who launched them. There is no meaningful boundary between 'the agent' and 'you' from the operating system's point of view, so a single bad instruction can reach everything your account can.",
+   "The attack surface is ordinary collaboration text. Indirect prompt injection means an attacker only has to leave text where an agent will read it — a GitHub issue, a PR comment, a README, a dependency's docs. The model treats that content as instructions and acts on it, no exploit code required.",
+   "Blast radius far exceeds the trick. A hijacked agent can exfiltrate environment variables, insert a subtle backdoor into a commit, add a malicious dependency, or quietly open a tunnel — and the activity looks like normal developer work in logs, which makes detection hard.",
+   "Today's defenses are partial. Sandboxing, human approval gates, network egress controls, scoped tokens and model-level 'instruction hierarchy' training all help, but none fully solves the confused-deputy problem, and most are off by default in popular tools.",
+   "Adoption is outpacing security practice. Teams are enabling autonomous agents for speed without least-privilege tokens, isolated containers, audit trails or review policies for agent-authored diffs — the classic pattern that precedes a supply-chain incident."
+  ],
+  "impact": "For the AI industry, this shifts prompt injection from a demo curiosity to a board-level supply-chain risk; vendors will be pushed to ship permission models, sandboxing, provenance and approval workflows as default features rather than add-ons. For developers, the practical change is mindset: treat every agent as an untrusted contractor with a login, scope its tokens to the minimum, run it in a disposable container, restrict outbound network access, and review every diff — including the ones the agent says it made 'automatically'. For regular users, the consequences arrive indirectly but materially: compromised open-source packages and applications, plus the same weakness in consumer agents that read email, web pages and documents on their behalf.",
+  "tools": "Worth following: Claude Code, Cursor, Aider, OpenHands and Copilot Workspace for agent capability and their emerging permission settings; Docker/devcontainers, gVisor and macOS sandbox-exec for isolation; gitleaks and TruffleHog for secret scanning; GitHub's fine-grained tokens and Apps for least privilege; and OWASP's LLM Top 10 plus research on instruction hierarchy and prompt-injection defenses (e.g. CaMeL, Invariant Labs, Lakera) to track how the mitigations mature."
+ },
+ "lang": "en"
+}

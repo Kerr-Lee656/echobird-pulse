@@ -12778,5 +12778,59 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-18T05:00:00.000Z",
   "fetched_at": "2026-11-18T07:23:05.035414+00:00"
+ },
+ "44eb2f09dec8": {
+  "id": "44eb2f09dec8",
+  "url": "https://soargram.io/content/273880860",
+  "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T16:37:21Z",
+  "fetched_at": "2026-11-18T17:18:17.402538+00:00"
+ },
+ "ab00b903e6c1": {
+  "id": "ab00b903e6c1",
+  "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+  "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+  "source": "Hacker News (66pts, 34c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T16:08:24Z",
+  "fetched_at": "2026-11-18T17:18:31.904939+00:00"
+ },
+ "2d585097c6fb": {
+  "id": "2d585097c6fb",
+  "url": "https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/",
+  "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T16:08:06Z",
+  "fetched_at": "2026-11-18T17:19:07.517683+00:00"
+ },
+ "b130640e5e59": {
+  "id": "b130640e5e59",
+  "url": "https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html",
+  "title": "TheFed finds $3T of AI commitments that aren't on big tech's balance sheet",
+  "source": "Hacker News (6pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T15:50:10Z",
+  "fetched_at": "2026-11-18T17:19:47.282536+00:00"
+ },
+ "24eca6b3aefd": {
+  "id": "24eca6b3aefd",
+  "url": "https://aihot.news/items/yf91syits6gqn8qvtksix0kdj",
+  "title": "Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标",
+  "source": "The Decoder：AI News",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-18T15:47:49.000Z",
+  "fetched_at": "2026-11-18T17:20:00.412916+00:00"
+ },
+ "fcf93c416202": {
+  "id": "fcf93c416202",
+  "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+  "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
+  "source": "Hacker News (9pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T15:20:02Z",
+  "fetched_at": "2026-11-18T17:20:16.219055+00:00"
  }
 }
