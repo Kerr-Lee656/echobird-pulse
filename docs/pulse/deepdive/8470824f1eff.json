@@ -1,0 +1,24 @@
+{
+ "id": "8470824f1eff",
+ "url": "https://www.ithome.com/1/028/701.htm",
+ "title": "腾讯混元 Hy4 flash 模型官宣开源",
+ "source": "IT之家 (ITHome)",
+ "site_name": "Info Flow",
+ "published_at": "2026-11-18T04:36:17Z",
+ "fetched_at": "2026-11-18T07:19:14.663590+00:00",
+ "content": "IT之家 11 月 18 日消息，腾讯混元今日宣布开源 Hy4 flash 模型，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，开发者可在 GitHub、 Hugging Face、ModelScope 和 GitCode 下载部署。\n腾讯混元官方预告，正在加速开源 Hy4 模型，敬请期待。\nHy4 flash 定位迄今性价比最高的 Hy 模型，总参数量 224B，其中包含 64B Engram 参数，每个 token 激活 12B 参数，支持多模态输入与 100 万 token 上下文长度，API 价格较 Hy4 大幅降低。\nHy4 flash 已在腾讯云 TokenHub、WorkBuddy、元宝、企业微信、QQ、ima、Marvis 等产品上线。\nIT之家附 Hy4 flash 开源地址如下：\n- GitHub：https://github.com/Tencent-Hunyuan/Hy4-flash\n- HuggingFace：https://huggingface.co/tencent/Hy4-flash\n- Modelscope：https://modelscope.cn/models/Tencent-Hunyuan/Hy4-flash\n- GitCode：https://ai.gitcode.com/tencent_hunyuan/Hy4-flash\n- GGUF：https://huggingface.co/AngelSlim/Hy4-flash-GGUF\n- 开源协议：https://huggingface.co/tencent/Hy4-flash/blob/main/LICENSE",
+ "report": {
+  "summary": "腾讯开源224B参数Hy4 flash，激活仅12B，主打高性价比",
+  "background": "腾讯混元近两年持续开源，从Hunyuan-Large、轻量级Hunyuan-A13B到翻译、3D、视频等垂直模型，逐步建立开源生态。与此同时，国内开源大模型竞争激烈，DeepSeek、Qwen、GLM、Kimi等纷纷以MoE稀疏架构压低推理成本，把“每token激活参数少、总参数大”作为性价比卖点。Hy4 flash正是在这一趋势下推出的产品：它沿用MoE路线，并加入64B Engram参数，支持超长上下文和多模态，同时把API价格大幅降低，先在腾讯自家产品中验证，再开放权重供开发者部署。",
+  "key_points": [
+   "总参数224B，但每生成一个token只激活12B，稀疏度很高，因此显存占用和推理成本远低于同等规模稠密模型",
+   "其中64B为Engram参数，官方定位为“迄今性价比最高的Hy模型”，主打低价API和低成本私有化部署",
+   "支持多模态输入和100万token上下文，可处理超长文档、代码库、长视频转写等场景",
+   "一次开源三个版本：标准版Hy4 flash、FP8量化版和Base基座版，覆盖直接推理与二次微调需求",
+   "已上线腾讯云TokenHub、元宝、企业微信、QQ、ima等产品，并预告Hy4完整版将加速开源"
+  ],
+  "impact": "对AI行业而言，这是腾讯用“大总参、小激活”路线加入开源价格战，进一步压低企业调用大模型的门槛，也会对同价位的中等规模模型形成压力。对开发者来说，224B权重可自行部署，又有FP8和GGUF版本，既能在云端多卡推理，也能在本地量化跑通，适合做长上下文和多模态应用的原型验证；但224B总量对显存仍有要求，个人设备主要靠量化版。对普通用户，元宝、QQ、企业微信等入口会直接用到更便宜、更长上下文的模型，日常问答和长文档处理体验会提升，价格敏感型应用也可能降价。",
+  "tools": "想跟进可关注：Hugging Face与ModelScope上的官方权重及AngelSlim的GGUF量化版，本地用llama.cpp或LM Studio跑量化；服务端部署用vLLM、SGLang验证FP8吞吐；不想自建可直接调用腾讯云TokenHub API做对比测试。"
+ },
+ "lang": "zh"
+}

@@ -23596,5 +23596,95 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-17T13:39:32Z",
   "fetched_at": "2026-11-17T23:30:49.041136+00:00"
+ },
+ "9e32f90a2ba0": {
+  "id": "9e32f90a2ba0",
+  "url": "https://www.aibase.com/zh/news/32374",
+  "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-18T07:18:12.516536+00:00"
+ },
+ "82972bbe5c78": {
+  "id": "82972bbe5c78",
+  "url": "https://www.aibase.com/news/32367",
+  "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T05:03:17.799Z",
+  "fetched_at": "2026-11-18T07:18:22.890372+00:00"
+ },
+ "4f0bec5ae51e": {
+  "id": "4f0bec5ae51e",
+  "url": "https://www.aibase.com/news/32366",
+  "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T05:03:17.799Z",
+  "fetched_at": "2026-11-18T07:18:32.437610+00:00"
+ },
+ "0d9fa8855e33": {
+  "id": "0d9fa8855e33",
+  "url": "https://www.aibase.com/news/32364",
+  "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T05:03:17.799Z",
+  "fetched_at": "2026-11-18T07:18:43.098059+00:00"
+ },
+ "5bc635f597ef": {
+  "id": "5bc635f597ef",
+  "url": "https://www.aibase.com/news/32363",
+  "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T05:03:17.799Z",
+  "fetched_at": "2026-11-18T07:18:56.149373+00:00"
+ },
+ "4464606a2869": {
+  "id": "4464606a2869",
+  "url": "https://www.aibase.com/news/32362",
+  "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-18T05:03:17.799Z",
+  "fetched_at": "2026-11-18T07:19:05.804622+00:00"
+ },
+ "8470824f1eff": {
+  "id": "8470824f1eff",
+  "url": "https://www.ithome.com/1/028/701.htm",
+  "title": "腾讯混元 Hy4 flash 模型官宣开源",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T04:36:17Z",
+  "fetched_at": "2026-11-18T07:19:14.663590+00:00"
+ },
+ "19a768eefb4d": {
+  "id": "19a768eefb4d",
+  "url": "https://www.huxiu.com/article/4906497.html?f=rss",
+  "title": "AI制药史上最大融资来了",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T03:43:36Z",
+  "fetched_at": "2026-11-18T07:19:43.562286+00:00"
+ },
+ "d00fc9246841": {
+  "id": "d00fc9246841",
+  "url": "https://revscope.co/blog/search-seo-geo-2026",
+  "title": "谷歌的AI回答功能导致搜索流量减少了40%",
+  "source": "revscope.co",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-18T02:46:55.378Z",
+  "fetched_at": "2026-11-18T07:20:27.792047+00:00"
+ },
+ "5b598c1d097a": {
+  "id": "5b598c1d097a",
+  "url": "https://www.ithome.com/1/028/640.htm",
+  "title": "AMD 完成对 Taalas 收购，计划将后者芯片整合进加速器路线图",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-18T02:06:29Z",
+  "fetched_at": "2026-11-18T07:20:42.488895+00:00"
  }
 }

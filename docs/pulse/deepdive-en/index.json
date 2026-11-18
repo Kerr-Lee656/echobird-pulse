@@ -12742,5 +12742,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-17T21:16:12Z",
   "fetched_at": "2026-11-17T23:33:22.336285+00:00"
+ },
+ "6ea9e0fbab09": {
+  "id": "6ea9e0fbab09",
+  "url": "https://github.com/dograh-hq/dograh",
+  "title": "dograh-hq/dograh — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-18T07:21:21.876437+00:00"
+ },
+ "26a444a0aabf": {
+  "id": "26a444a0aabf",
+  "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+  "title": "Ignite 2026: Copilot is \"the new OS for work,\" and now Office runs inside of it",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T05:44:00Z",
+  "fetched_at": "2026-11-18T07:22:25.764878+00:00"
+ },
+ "38faf8f1a77c": {
+  "id": "38faf8f1a77c",
+  "url": "https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00",
+  "title": "Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-18T05:30:49.000Z",
+  "fetched_at": "2026-11-18T07:22:37.371280+00:00"
+ },
+ "b86f222d774a": {
+  "id": "b86f222d774a",
+  "url": "https://arxiv.org/abs/2611.21799",
+  "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-18T05:00:00.000Z",
+  "fetched_at": "2026-11-18T07:23:05.035414+00:00"
  }
 }

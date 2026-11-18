@@ -1,0 +1,24 @@
+{
+ "id": "4464606a2869",
+ "url": "https://www.aibase.com/news/32362",
+ "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-18T05:03:17.799Z",
+ "fetched_at": "2026-11-18T07:19:05.804622+00:00",
+ "content": "SEC registration filings made public yesterday (November 17) show that Anthropic's Class A common stock has been approved to list on the Nasdaq Global Select Market—the highest-tier “premier large-cap” segment among Nasdaq's three tiers—under the ticker symbol \"ANT\", with the offering price range unchanged at $70 to $78 per share (about RMB 467.5 to 521). The deal, which is vying to become the largest IPO in history, has taken another step forward.\n825 Million Shares Plus a $26 Billion Private Placement: Raising on Two Fronts at OnceThe filing discloses that the company plans to publicly offer 825 million Class A common shares, of which the company is offering about 801.4 million shares and existing shareholders are selling about 23.65 million shares; at the midpoint of $74, the public offering would be about $61.1 billion, and underwriters also hold an over-allotment option for up to 123.75 million shares. In addition, there is a concurrent $26 billion private placement, with Google, Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC all participating. Combined, net proceeds are expected to be about $84.6 billion, and if the over-allotment option is fully exercised, that would climb to about $93.7 billion.\nDemand remains fierce: subscription demand has reached nearly seven times the shares being offered, and because existing investors are being prioritized, some new buyers may receive smaller allocations than expected. The shareholding picture is also worth noting—after the IPO, Amazon is expected to hold about 14.7% of the outstanding shares and Google about 13.7%; if Amazon's convertible notes are fully converted, its stake could reach as high as 23.8%. Also, based on the midpoint estimate, stock-based compensation-related expenses total about $6.5 billion, so the pre-IPO bill is not cheap either.",
+ "report": {
+  "summary": "Anthropic 获批纳斯达克上市，代码 ANT，估值剑指史上最大 IPO",
+  "background": "Anthropic 是 Claude 系列模型的开发商，长期被视为 OpenAI 最主要的竞争对手。它此前主要依靠亚马逊、谷歌等战略投资方的巨额资金支持。随着头部大模型公司的算力与研发投入不断攀升，能否独立获得公开市场融资成为行业焦点。此次 SEC 注册文件公开、纳斯达克最高层级板块批准挂牌，意味着这场备受瞩目的 IPO 已从传闻进入实质执行阶段；如果按计划推进，它有望成为历史上规模最大的 IPO。",
+  "key_points": [
+   "发行方案：公开发行 8.25 亿股 A 类普通股，发行价区间为每股 70 至 78 美元；按中点 74 美元计算，公开募资约 611 亿美元，承销商另持有最多 1.2375 亿股超额配售权。",
+   "同时进行 260 亿美元私募配售：谷歌、英伟达、AMD、微软、博通、美光、台积电等产业方均参与；加上公开募资，合计净募资约 846 亿美元，若超额配售权全额行使则可达约 937 亿美元。",
+   "需求火爆：认购需求已达发行量的近 7 倍，且老股东享有优先配售，部分新买家可能拿到的份额低于预期，上市首日股价表现值得关注。",
+   "股权格局：上市后亚马逊预计持股约 14.7%，谷歌约 13.7%；若亚马逊可转债全部转股，其持股最高可达 23.8%，两大云厂商对 Anthropic 的影响力依然显著。",
+   "隐性成本不低：按中点估算，股权激励相关费用合计约 65 亿美元，上市前的这部分支出相当可观，将直接影响利润表现。"
+  ],
+  "impact": "对整个 AI 行业而言，这将是资本市场对“大模型公司能否独立造血”的第一次公开定价，可能带动一批模型公司跟进上市，并重塑 AI 一级市场估值体系。对开发者来说，Claude 生态将获得更充裕的算力与研发资金，API 能力和定价策略可能因此调整；同时，与 AWS、Google 的深度绑定意味着平台选择仍然受限。对普通用户而言，Claude 相关产品的功能迭代会加速，但商业化压力上升也可能带来订阅涨价或免费额度收紧。",
+  "tools": "想跟进的读者可关注 Claude API 与 Claude Code（编程代理）、Anthropic 主推的 MCP（模型上下文协议）开源规范，以及 SEC EDGAR 上其 S-1 招股书原文，里面有最真实的营收、毛利与算力成本数据，是理解大模型商业模型的极佳材料。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5bc635f597ef",
+ "url": "https://www.aibase.com/news/32363",
+ "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-18T05:03:17.799Z",
+ "fetched_at": "2026-11-18T07:18:56.149373+00:00",
+ "content": "Regulatory pressure on large AI models at the level of data collection and compliance is continuing to intensify. The Irish Data Protection Commission (DPC) recently publicly confirmed that it has formally ordered social media giant X (formerly Twitter) to suspend the use of third-party data collected by AI agents to train its Grok AI system.\nRegulators Step In: The Sequence from Autonomous Scraping to an Emergency Halt\nIt is understood that the core of this regulatory storm stems from an AI agent recently launched by X called Grok Bot. Since late October, the agent began scraping relevant third-party data on a large scale and gradually importing it into the backend to support the training and iteration of AI models.\nHowever, this move quickly drew close scrutiny from EU data regulators. Dale Sunderland, a commissioner at the Irish Data Protection Commission, said in an interview that over the past few weeks the regulator had raised \"significant concerns\" about this data processing activity by X. Based on a strict review of user privacy and data compliance, the regulator explicitly required X to immediately suspend the data processing. Facing regulatory pressure, the social media giant owned by Musk formally confirmed to the regulator on Monday that it would comply with the suspension order.",
+ "report": {
+  "summary": "爱尔兰监管叫停X用AI智能体抓取数据训练Grok",
+  "background": "X 于 2025 年 10 月底上线 Grok Bot 智能体，大规模抓取第三方网页内容并回灌后台用于 Grok 训练。根据欧盟《通用数据保护条例》（GDPR），爱尔兰数据保护委员会（DPC）是 X 在欧盟的主要监管机构，因为 X 的欧洲总部设在都柏林。此前 DPC 已就 Grok 使用欧盟用户公开帖文训练模型进行过问询。此次叫停延续了欧盟对生成式 AI 数据来源收紧监管的趋势：从意大利对 OpenAI 的处罚，到欧洲数据保护委员会（EDPB）关于 AI 模型与个人数据的意见，监管重心正从模型输出转向训练数据的获取方式。",
+  "key_points": [
+   "爱尔兰 DPC 正式下令 X 暂停处理 AI 智能体抓取的第三方数据，X 已于周一确认服从，事件从自主抓取升级为紧急叫停。",
+   "触发点是 10 月底上线的 Grok Bot：它以自主智能体方式大规模抓取网页并导入训练管线，自动化和规模都超出传统爬虫的合规边界。",
+   "监管方称过去数周已提出“重大关切”，核心争议是抓取数据可能含欧盟用户个人数据，X 难以证明有合法处理依据。",
+   "这是 GDPR 框架下对生成式 AI 训练数据少见的直接叫停，也凸显 X 欧洲总部所在地爱尔兰 DPC 的监管角色。",
+   "影响不止罚款：已抓取数据的合法性、既有模型权重是否需回滚重训，将成为后续监管与诉讼的关键争点。"
+  ],
+  "impact": "对 AI 行业而言，训练数据“来源合法性”已从合规备注变成硬性约束，随意抓取网页数据用于训练的时代正在结束；对开发者而言，依赖公开网页抓取构建数据集的风险陡增，需提前做数据溯源与授权审计；对普通用户而言，这强化了个人内容不被无声用于模型训练的权利预期，也意味着平台或将推出更明确的“AI 训练”开关与内容授权机制。短期看，欧洲市场的模型迭代节奏可能放缓。",
+  "tools": "可关注：Spawning 的 Have I Been Trained / Do Not Train 登记、robots.txt 与 Global Privacy Control 支持、Hugging Face Datasets 的授权过滤、Data Provenance Initiative 的数据溯源清单，以及 OneTrust 等 GDPR 合规与 DPIA 工具，用于训练数据授权审计。"
+ },
+ "lang": "zh"
+}

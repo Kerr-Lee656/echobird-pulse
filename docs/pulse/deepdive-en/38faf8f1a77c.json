@@ -1,0 +1,24 @@
+{
+ "id": "38faf8f1a77c",
+ "url": "https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00",
+ "title": "Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务",
+ "source": "Rohan Paul",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-18T05:30:49.000Z",
+ "fetched_at": "2026-11-18T07:22:37.371280+00:00",
+ "content": "Rohan Paul· @rohanpaul_ai · X·· 2 小时前精选AI 评分89\nAI 导读\nNvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访见 CNBC Mad Money，完整视频见 CNBC Television YouTube 频道。\n推荐理由\n原文记录了 Nvidia 临时 CEO 与董事会在财报电话会后的公开表态，可直接了解黄仁勋去留的官方口径。\n正文 · AI 翻译\n英伟达临时CEO Colette Kress：“董事会已决定不会让Jensen复职，这就是我们的声明，也是董事会决定要做的事。”\n与Jim Cramer一起\n---\n（完整采访在CNBC Mad Money，链接见评论）\n来源：Rohan Paul · x.com",
+ "report": {
+  "summary": "Nvidia interim CEO Colette Kress told CNBC's Jim Cramer the board has decided not to reinstate Jensen Huang, calling it the board's official position after a unanimous vote.",
+  "background": "The claim surfaced days after an earnings call in which director Harvey Jones reportedly said the board unanimously accepted Huang's resignation and had no intention of reversing it. Leadership churn at the world's most valuable AI chipmaker is a genuinely market-moving event: Nvidia's roadmap (Blackwell, Rubin), its CUDA software moat, and multi-year hyperscaler supply commitments all rest on continuity at the top. Founders leaving chip companies has precedent — Intel's repeated CEO transitions, OpenAI's 2023 board crisis — and each time the question became who controls strategy versus who controls the board. Importation caution: this item is a single social-media post citing a CNBC segment, and the public record currently identifies Kress as Nvidia's CFO and Huang as founder-CEO. Readers should verify against Nvidia's investor relations page, SEC filings, and the original CNBC video before treating the change as confirmed.",
+  "key_points": [
+   "Kress stated on CNBC's Mad Money that the board, not management, made the call: \"the board has decided not to bring Jensen back, that is our statement.\" The phrasing deliberately frames the decision as institutional rather than personal.",
+   "The statement follows director Harvey Jones's remarks on the first post-departure earnings call, where he said the board unanimously accepted the resignation and had no plans to reinstate Huang — a two-step rollout of the same message.",
+   "Kress is described as interim CEO, a role she appears to hold alongside her CFO duties. Dual-hatting a finance chief as temporary chief executive is common in crisis transitions but signals a short timeline for a permanent pick.",
+   "The item originates from a single X post summarizing a TV interview, with no accompanying press release or 8-K cited. Cross-checking primary filings is essential before drawing investment or career conclusions.",
+   "The wording leaves open the question of Huang's remaining role — board seat, founder title, or advisory position — and whether he retains influence over architecture and partner relationships."
+  ],
+  "impact": "For the AI industry, a confirmed CEO change at Nvidia would be the most consequential governance event since the current AI buildout began, raising doubts about roadmap continuity just as competitors (AMD, custom ASICs from Google and Amazon, Huawei in China) try to close the gap. Developers would worry most about CUDA's long-term stewardship and whether driver, compiler, and library investment keeps its current pace — an area where switching costs are high but not infinite. Enterprises signing multi-year GPU commitments would push for contractual assurances on support timelines. Regular users would feel it indirectly through cloud AI pricing and model availability if supply allocations shift. Until primary sources confirm the report, the practical impact is volatility in sentiment rather than in silicon.",
+  "tools": "Follow up via Nvidia's investor relations page and SEC EDGAR (8-K filings disclose board and executive changes), the full CNBC Mad Money interview on CNBC Television's YouTube channel, and the earnings call transcript on Motley Fool or Seeking Alpha. For ongoing tracking, set Google Alerts on \"Nvidia board\" and \"Jensen Huang,\" and watch Reuters, Bloomberg, and The Information, which typically confirm or debunk such claims within hours."
+ },
+ "lang": "en"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "9e32f90a2ba0",
+ "url": "https://www.aibase.com/zh/news/32374",
+ "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-18T07:18:12.516536+00:00",
+ "content": "在昨日（11 月 17 日）的 Ignite 2026 大会上，微软发布首款语音对语音模型 MAI Realtime 1，主打真实企业场景。它能处理打断、快速确认、等对方说完等对话细节，嘈杂环境或多人同时说话时也能听懂请求。任务需要深想时还能调用更强推理引擎，连接企业系统完成预订、客服处理等操作，语气风格可用提示词调教。\n价格单直接掀了桌子\n价格是重头：基础语音对语音使用费每音频分钟仅 0.01 美元，若涉及推理，按每百万输入 token 1 美元、输出 5 美元另行计费。对比更狠：Big Bench Audio 基准上它拿下 98.9% 准确率、每小时输入音频成本约 1.35 美元；GPT-Realtime-2 High 为 96.6%、每小时 4.14 美元，Grok Voice 2.0 为 97.2%、每小时 4.80 美元，处于“性能—价格”前沿。\n先在自己家上岗\n兼容 OpenAI Realtime API 让开发者能顺手迁移现有语音应用，Agoda、Reservations.ai 等已开始试用。微软还计划把它派进 Dynamics 365 客服中心，并在 Dragon Copilot 里扮演 AI 模拟患者，帮护士练习临床沟通。自研语音拼图补上后，微软又少一处要看人脸色的环节。",
+ "report": {
+  "summary": "微软发布MAI Realtime 1语音模型，性能领先且价格仅对手三分之一",
+  "background": "微软在Ignite 2026发布首款自研语音对语音模型MAI Realtime 1，标志其补齐语音全链路自研能力。此前微软语音应用多依赖OpenAI等第三方模型，而实时语音对话（打断处理、噪声环境识别、工具调用）正成为企业客服、预订、医疗培训的核心入口。OpenAI、xAI已相继推出Realtime类模型，价格普遍偏高，微软选择以低价+兼容OpenAI Realtime API切入，争夺开发者生态。",
+  "key_points": [
+   "支持被打断、多人说话、嘈杂环境下识别，更接近真人通话体验",
+   "遇到复杂任务可调用更强推理引擎，并连接企业系统完成预订、客服等操作",
+   "语气风格可用提示词调教，适配不同品牌与场景",
+   "Big Bench Audio准确率98.9%，超过GPT-Realtime-2 High和Grok Voice 2.0",
+   "基础语音每分钟0.01美元，每小时成本约1.35美元，仅为对手三分之一"
+  ],
+  "impact": "对AI行业，实时语音价格战被点燃，语音交互将从附加功能变成默认能力；对开发者，兼容OpenAI Realtime API意味着迁移成本极低，可快速替换底层模型降本；对普通用户，未来客服电话、预订、医疗问诊中的AI将更能听懂打断与嘈杂环境，体验更自然但需注意隐私与录音合规。",
+  "tools": "想上手可关注 Azure AI Foundry 中的 MAI Realtime 1 预览、OpenAI Realtime API 兼容接口及微软 Dynamics 365 客服中心集成；开源侧可参考 Pipecat、LiveKit Agents 搭建实时语音链路进行对比测试。"
+ },
+ "lang": "zh"
+}

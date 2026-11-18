@@ -1,0 +1,24 @@
+{
+ "id": "4f0bec5ae51e",
+ "url": "https://www.aibase.com/news/32366",
+ "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-18T05:03:17.799Z",
+ "fetched_at": "2026-11-18T07:18:32.437610+00:00",
+ "content": "The competitive landscape of AI hardware and the underlying software ecosystem is undergoing a profound structural shift. Recently, major industry news emerged: Anthropic's Claude Mythos reportedly took only 3 days, with almost no human intervention, to successfully complete nearly 100% of the low-level kernel code for the AMD MI355X chip.\nThis breakthrough directly reduced a chip adaptation cycle that would normally require dozens of senior engineers and take 6 to 12 months to just 72 hours. In actual tests, the performance gap between the ported model and Nvidia's CUDA-optimized solution was only 8% to 12%, which already fully meets the standards for commercial deployment.\nCross-Chip Barriers Drop Sharply, Compute Supply Chain Ushers in a Diversified Shift\nFor a long time, Nvidia has been able to dominate the AI compute market not simply because of its chip hardware performance, but because of the moat around its CUDA software ecosystem, built over many years and stacked up by countless engineers writing code. For other chipmakers, the high adaptation costs and long software porting cycles have long been an insurmountable gap.\nThis time, Claude's extremely high efficiency in writing low-level code has torn a hole in Nvidia's software barrier and greatly lowered the threshold for cross-chip adaptation. Based on this technical progress, Anthropic has now reached a compute supply partnership with AMD for up to 2 gigawatts.\nAdvantages and Limitations Coexist: Multi-GPU Collaboration Remains the Future Focus\nAlthough this technological breakthrough has caused widespread shock in the industry, many analyses have remained objective and rational.\nFrom the perspective of use cases, the breakthrough currently mainly covers the inference prefill stage. In highly difficult areas such as multi-GPU collaboration for ultra-large-scale distributed training, Nvidia still maintains a clear lead thanks to its deep technical accumulation. Therefore, this progress has not completely overturned the CUDA ecosystem landscape in a short time, but it has undoubtedly introduced uncertainty into the entire compute market and is accelerating the global compute industry toward a more open and diversified direction.",
+ "report": {
+  "summary": "AI三天自动完成AMD芯片底层适配，CUDA生态护城河受冲击",
+  "background": "长期以来，英伟达在AI算力市场的统治力不只来自芯片硬件，更来自CUDA软件生态：十几年积累的库、工具链和无数工程师写下的优化代码，构成极深护城河。其他芯片厂商即便硬件性能接近，也常因软件适配需数十名资深工程师、耗时6到12个月而难以追赶。随着大模型代码能力快速提升，AI开始被用于编写GPU底层内核这类高门槛工作。此次Anthropic称其Claude在几乎无人工干预下用3天完成AMD MI355X近全部底层内核代码，并据此与AMD达成最高2吉瓦的算力供应合作，正是这一趋势的标志性事件。",
+  "key_points": [
+   "适配周期从6至12个月、数十人团队压缩到72小时，AI几乎独立完成AMD MI355X的底层内核代码，效率提升达两个数量级。",
+   "移植后性能与英伟达CUDA优化方案的差距仅8%至12%，已达到可商业化部署的水平，说明AI生成的底层代码不只是能运行。",
+   "突破直接撕开CUDA软件壁垒，降低跨芯片适配门槛；Anthropic随即与AMD签下最高2吉瓦算力合作，算力供应链趋向多元化。",
+   "突破目前主要覆盖推理的prefill阶段，在超大规模分布式训练、多GPU协同等硬骨头上，英伟达仍凭技术积累明显领先。",
+   "行业判断趋于理性：短期内CUDA格局不会被推翻，但算力市场的不确定性上升，全球算力生态正加速走向更开放、多元的方向。"
+  ],
+  "impact": "对AI行业而言，芯片竞争焦点从纯硬件转向软件适配速度，AMD等厂商获得缩小生态差距的新杠杆，英伟达的软件溢价面临长期压力，算力采购方的议价空间变大。对开发者来说，跨芯片迁移成本大幅降低，多硬件后端支持更易实现，但也意味着底层优化这类岗位的价值重心转向架构设计与验证。对普通用户，算力供给多元化有望缓解GPU紧缺与成本上涨，长期带来更便宜的推理服务和更多产品选择。需注意该消息目前仍属厂商宣称，实际泛化能力有待第三方验证。",
+  "tools": "想跟进可关注：AMD ROCm与HIP（AMD的类CUDA软件栈）、OpenAI Triton（跨厂商内核编写语言）、vLLM与SGLang（推理引擎，多硬件后端支持较好）、ZLUDA（CUDA兼容层）。同时可用Claude Code、Cursor等AI编码工具尝试内核生成与性能调优，在本地小模型上验证效果。"
+ },
+ "lang": "zh"
+}

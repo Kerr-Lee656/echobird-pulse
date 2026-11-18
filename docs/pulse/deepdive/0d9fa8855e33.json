@@ -1,0 +1,24 @@
+{
+ "id": "0d9fa8855e33",
+ "url": "https://www.aibase.com/news/32364",
+ "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-18T05:03:17.799Z",
+ "fetched_at": "2026-11-18T07:18:43.098059+00:00",
+ "content": "At yesterday's (November 17) Ignite 2026 event, Microsoft announced that Maia 200, its second-generation in-house AI accelerator, has officially entered volume production and has begun powering Microsoft's largest frontier AI models in its data centers. The chip's most impressive scorecard is tokens processed per watt: compared with \"leading GPU infrastructure,\" it delivers up to 1.7x higher token throughput per watt in built-in AI features such as Microsoft Teams, Copilot, and Cowork—the same power, nearly double the output.\nHow much is packed into one chip",
+ "report": {
+  "summary": "微软自研二代AI芯片Maia 200量产，每瓦Token吞吐量达GPU基础设施1.7倍",
+  "background": "微软在2023年Ignite上首次发布自研AI加速器Maia 100，目的是降低对英伟达GPU的依赖，并让硬件更好地适配自家Copilot、Teams等负载，但当时该芯片主要用于内部测试，尚未大规模铺开。两年后的Ignite 2026上，第二代Maia 200直接宣布进入量产，并已在数据中心承载微软最大的前沿模型，这说明自研ASIC从“试水”走入了生产主力。行业层面，谷歌TPU、亚马逊Trainium、Meta MTIA都在走同一路线；当模型训练格局趋稳、推理成为日常成本大头时，每瓦性能而不是峰值算力成为云厂商真正的竞争指标，微软这次是对外宣告自己在“能效比”上拿到了宣传口径上的领先。",
+  "key_points": [
+   "Maia 200是微软第二代自研AI芯片，已经正式量产，不再只是实验室样片，而是开始跑微软最大的前沿模型。",
+   "最关键的数据是“每瓦Token吞吐”：在Teams、Copilot、Cowork等内置AI功能中比主流GPU基础设施高1.7倍，同耗电下产出接近翻倍。",
+   "微软特意把比较对象写成“领先的GPU基础设施”，未点名英伟达，但指向明确，说明宣传重点是性价比而非绝对算力。",
+   "选择从Teams、Copilot这类高频推理场景切入，意味着Maia 200主要解决的是大规模、低毛利、7×24运行的推理成本问题。",
+   "自研芯片同时意味着软件栈自主：从模型编译到调度都由微软掌控，长期可减少对CUDA生态的议价依赖。"
+  ],
+  "impact": "对AI行业而言，“每瓦性能”被抬到台面上，云厂商的竞争从“买多少卡”转向“每度电能生成多少Token”，自研ASIC对GPU在推理侧的替代会加速。对开发者来说，短期影响有限，因为主流框架仍以CUDA为主，但未来在Azure上跑推理可能遇到更多Maia专属编译路径，模型在不同硬件上的性能差异会成为新的调优课题。对普通用户，最直接的变化是Copilot、Teams里的AI功能响应更快、限流更少，而微软若能压低推理成本，订阅价格与免费额度的压力也会随之缓解。",
+  "tools": "想跟进这一方向，可以关注微软Azure AI Foundry（模型部署与硬件选择入口）、ONNX Runtime（跨硬件推理与图优化），以及vLLM、TensorRT-LLM等推理引擎的能效调优实践；横向对比可参考谷歌TPU的JAX/XLA栈、亚马逊Neuron SDK，以及MLPerf与MLPerf Power能效基准，理解“每瓦Token”这类指标如何被测出来。"
+ },
+ "lang": "zh"
+}

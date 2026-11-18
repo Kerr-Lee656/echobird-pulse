@@ -1,0 +1,23 @@
+{
+ "id": "82972bbe5c78",
+ "url": "https://www.aibase.com/news/32367",
+ "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-18T05:03:17.799Z",
+ "fetched_at": "2026-11-18T07:18:22.890372+00:00",
+ "content": "Competition in the field of artificial intelligence has once again seen substantive progress. On November 17 local time, OpenAI officially released two fully upgraded flagship models—GPT-6.2 Astra and GPT-6.2 Sol. As a new generation of intelligent engines built for different application scenarios, these two models have achieved significant optimizations in professional work, everyday task handling, and API usage costs.\nDual-Core Drive: Astra Pushes Professional Depth, Sol Leads in Everyday Efficiency\nIn terms of product positioning and role division, OpenAI uses Astra and Sol to meet users' core needs across different scenarios:\nGPT-6.2 Astra (for complex professional tasks): This model has been specifically enhanced for high-difficulty scenarios such as document processing, presentation creation, spreadsheet analysis, software programming, and scientific research. In multiple professional work and scientific research benchmarks, Astra set new score records, demonstrating top-tier logical reasoning and content generation capabilities.\nGPT-6.2 Sol (for everyday general-purpose use): As an upgraded version of the previous-generation GPT-6.1 Sol, Sol has become smarter while remaining efficient. It helps users complete more everyday tasks within the same paid plan usage allowance, making it an ideal choice for high-frequency, general-purpose work.\nMajor Cost Optimization: API Prices Cut Significantly, Ecosystem Fully Open\nIn terms of the usage costs and ecosystem access that users care about most, OpenAI has also made some highly welcome changes this time:\nAPI prices drop across the board: Thanks to optimizations in its underlying architecture, GPT-6.2 Astra has achieved a clear reduction in the cost of processing tasks. Its API input and output token prices are 20% lower than those of the previous-generation GPT-6 Astra, while cached input prices have been slashed by 60%. Meanwhile, Sol continues to follow the previous GPT-6.1 Sol API pricing standard.\nAvailable on multiple platforms at once: Starting today, both new models are fully available to Plus, Pro, Enterprise, and Edu users of ChatGPT Work and Codex, and developers can also call them through OpenAI's official API.\nSecurity Safeguards Upgraded Again: Reaching \"Critical\" and \"High\" Level Defenses\nAs model capabilities continue to expand, safety and compliance remain a core focus of the industry. OpenAI specifically emphasized in the release that the GPT-6.2 series has further improved its cybersecurity protection capabilities, with all models reaching the \"Critical\" level for cybersecurity and the \"High\" level for biological and chemical capabilities in its Preparedness Framework. Based on these rigorous evaluation results, the company has also further strengthened related safety restrictions behind the scenes to ensure the technology remains safe, controllable, and compliant in use.",
+ "report": {
+  "summary": "OpenAI发布GPT-6.2双模型Astra与Sol，缓存输入API降价60%",
+  "background": "大模型竞争已从“比参数”转向“比性价比”。OpenAI此前用GPT-6、6.1系列按专业与日常需求分层，但推理成本仍是企业落地的主要障碍；同时Gemini、Claude及开源模型持续压低API价格，缓存输入定价成为降低成本的关键手段。此次GPT-6.2将旗舰能力拆成Astra（专业深度）与Sol（日常效率）两条产品线，并借底层架构优化下调价格，同时按Preparedness框架公布网络安全与生物化学能力的防护等级。",
+  "key_points": [
+   "双模型分工：Astra面向文档处理、演示制作、表格分析、编程与科研等复杂任务，多项专业基准刷新纪录；Sol延续日常通用定位，同等付费额度内能完成更多任务。",
+   "价格下调：Astra的API输入与输出token价格比上一代GPT-6 Astra低20%，缓存输入价格降幅达60%；Sol沿用GPT-6.1 Sol的原定价。",
+   "全面开放：两款模型即日上线ChatGPT Work与Codex，覆盖Plus、Pro、Enterprise、Edu用户，开发者可通过官方API直接调用。",
+   "安全升级：按OpenAI Preparedness框架评估，全系网络安全达到“Critical”级、生物与化学能力为“High”级，并同步加严后台安全限制。"
+  ],
+  "impact": "对行业而言，竞争焦点进一步转向单位token成本，缓存输入降价60%预示长上下文与Agent类负载将成为下一个价格战战场。对开发者，迁移成本低、缓存场景成本骤降，RAG、多轮Agent与代码助手的经济性明显改善，但需重构提示结构以提升缓存命中率。对普通用户，专业任务交付质量提升，日常额度更耐用，付费性价比感知增强；同时更高的安全等级意味着部分敏感请求可能被更严格拦截。",
+  "tools": "想跟进可关注OpenAI官方API与Codex、ChatGPT Work；多模型成本对比可用LiteLLM、OpenRouter做路由与计费测试；提示缓存需设计稳定的长前缀；能力评估可参考SWE-bench、GPQA等基准自行复现。"
+ },
+ "lang": "zh"
+}
