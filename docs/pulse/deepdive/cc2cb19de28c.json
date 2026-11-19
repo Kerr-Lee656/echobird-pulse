@@ -1,0 +1,24 @@
+{
+ "id": "cc2cb19de28c",
+ "url": "https://www.businessinsider.com/south-korea-offers-cash-to-catch-ai-cheats-college-exam-2026-11",
+ "title": "South Korea is offering $75,000 rewards to help catch people cheating with AI in its most important exam",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T00:18:59.673663+00:00",
+ "content": "South Korea is cracking down on AI exam cheating by offering huge bounties to catch somebody breaking the rules.\nPresident Lee Jae-myung said in a Tuesday X post that he's introducing a system with rewards of at least 100 million won, or $75,000.\nThe announcement came two days before Suneung — a high-stakes university entrance exam. It brings such immense pressure that corporate offices open an hour late to clear the roads, while airplanes are grounded during the 35-minute English listening test to minimize noise.\nBut the government is scrambling to prevent cheating after a recent scandal in South Korea's certified tax-accountant exam.\nHan Won-seok, the top scorer, admitted Sunday on his lawyer's YouTube account that he had photographed questions with a microcamera, sent them to AI, and checked the answers on a smartphone. He got just one question wrong out of 160.\n\"Cheating on exams using advanced equipment is no different from stealing the scores of hundreds of thousands of examinees who worked hard,\" President Lee wrote on X.\nHe said authorities had agreed with AI companies to obtain records of users who photograph exam questions during the testing period.\n조금전 열린 첨단기술활용 입시부정 긴급대책 영상회의에서,\n보완된 사전 대비책 및 사후 대응책을 점검하였습니다.\n잘 준비된 대책이나 그에 더하여 \n1) 소리를 줄이거나 차단한 경우에도 울리는 최고등급 재난문자를 시험 직전은 물론 시험중에도 수시로 발신하는 것을 검토하도록 추가… https://t.co/pI5RDfVjKT\n— 이재명 (@Jaemyung_Lee) November 17, 2026\nPrime Minister Han Seong-sook also announced a host of anti-cheating checks.\nThe government is planning to send an emergency alert before the exam starts, aiming to expose phones that students failed to hand in.\nAny electronic device found in a student's possession but not submitted to a proctor will automatically be treated as cheating, Han said.\nStudents will also have their glasses inspected before every session to identify AI-enabled devices. Proctors will place stickers over every button on their clothes to prevent hidden cameras, while students will be asked to roll up their sleeves for checks and leave their bags outside exam rooms.\nAuthorities are also pursuing a proposal to increase the ban on retaking the Suneung after cheating from one year to 10 years.\nAnd it plans to seek criminal investigations into cheating with smart devices, which could carry a sentence of up to five years in prison for obstructing official duties by deception.\n\"If anyone is considering cheating on the exam,\" Lee wrote, \"please do not ruin your life by hoping for a lucky break.\"",
+ "report": {
+  "summary": "韩国悬赏7.5万美元举报AI考试作弊",
+  "background": "韩国高考Suneung（11月中旬举行）社会压力极大，企业推迟上班一小时、英语听力35分钟期间航班停飞。2026年11月，注册会计师考试爆出丑闻：全国最高分考生韩元锡承认用微型相机拍摄试题、发给AI求解、再用手机核对答案，160题只错1题。两天后Suneung开考，政府紧急推出重奖举报与一系列反作弊措施，总统李在明在X上亲自宣布。这标志着AI作弊首次成为国家级考试的治理议题。",
+  "key_points": [
+   "总统李在明在X上宣布，举报AI考试作弊者可获至少1亿韩元（约7.5万美元）奖金，力度在各国考试监管中罕见。",
+   "作弊链条已工业化：微型相机拍题、AI秒解、手机回传，160题只错1题，AI把“押题”变成了“现场求解”。",
+   "政府与AI公司达成合作，可调取考试期间拍题上传的用户记录，把聊天日志变成作弊证据链。",
+   "考场管控升级：考前群发灾难警报短信探测未上交手机、眼镜逐场检查、衣服纽扣贴纸封摄像头、翻袖口、包放门外。",
+   "惩罚大幅加码：作弊后禁考期拟从1年延长至10年，并以欺骗妨害公务立案，最高可判5年监禁。"
+  ],
+  "impact": "对AI行业，模型日志将从“技术资产”变成“执法证据”，用户数据留存与调取边界成为新的合规范式；对开发者，滥用检测、考试场景识别、日志审计会从可选项变成产品必备；对普通用户，AI眼镜、可穿戴设备在考场将被重点排查，“反作弊监控扩张”与公平性的争论也会随之升温。",
+  "tools": "想跟进可关注在线监考与检测工具：Proctorio、ProctorU、Turnitin的AI写作检测，以及各大模型厂商的滥用检测与日志审计接口（如OpenAI Moderation API、云厂商的abuse detection）；隐私侧可研究日志最小化与留存期限的合规实践。"
+ },
+ "lang": "zh"
+}

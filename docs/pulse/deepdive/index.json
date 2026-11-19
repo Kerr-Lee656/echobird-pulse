@@ -23794,5 +23794,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-18T13:09:08Z",
   "fetched_at": "2026-11-18T17:15:37.870428+00:00"
+ },
+ "04d311b83f6c": {
+  "id": "04d311b83f6c",
+  "url": "https://thenextweb.com/news/anthropic-ipo-pricing-day-vc-10x-returns-softbank-son-mistake",
+  "title": "Anthropic’s IPO prices today as SoftBank’s Son calls missing it a ‘mistake’",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:18:41.898925+00:00"
+ },
+ "cc2cb19de28c": {
+  "id": "cc2cb19de28c",
+  "url": "https://www.businessinsider.com/south-korea-offers-cash-to-catch-ai-cheats-college-exam-2026-11",
+  "title": "South Korea is offering $75,000 rewards to help catch people cheating with AI in its most important exam",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:18:59.673663+00:00"
+ },
+ "fc99f6cfb829": {
+  "id": "fc99f6cfb829",
+  "url": "https://www.36kr.com/p/4074475449062281",
+  "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:19:17.076340+00:00"
+ },
+ "622dc5c36843": {
+  "id": "622dc5c36843",
+  "url": "https://www.36kr.com/p/4073881046750339",
+  "title": "AI应用淘汰潮来了？13款明星产品折戟，关停、调整或退场",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:19:32.807942+00:00"
+ },
+ "b08767c06641": {
+  "id": "b08767c06641",
+  "url": "https://www.aibase.com/zh/news/32388",
+  "title": "员工疯狂烧钱买 Token，Salesforce「吃不消」了：全面推行按岗位设定 AI 使用预算",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:19:48.549339+00:00"
+ },
+ "740e61ab9821": {
+  "id": "740e61ab9821",
+  "url": "https://www.aibase.com/zh/news/32378",
+  "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T00:20:07.100405+00:00"
+ },
+ "553ffac63485": {
+  "id": "553ffac63485",
+  "url": "https://juejin.cn/post/7709318936996298790",
+  "title": "GPT-6.2 Astra 发布了，但口碑崩了。。。",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-18T14:18:45.130Z",
+  "fetched_at": "2026-11-19T00:20:21.318451+00:00"
  }
 }

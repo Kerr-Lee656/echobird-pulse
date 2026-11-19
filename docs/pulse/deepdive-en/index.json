@@ -12832,5 +12832,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-18T15:20:02Z",
   "fetched_at": "2026-11-18T17:20:16.219055+00:00"
+ },
+ "afb1f8fc8494": {
+  "id": "afb1f8fc8494",
+  "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+  "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-18T23:45:00.000Z",
+  "fetched_at": "2026-11-19T00:22:06.446831+00:00"
+ },
+ "70f55f52d64d": {
+  "id": "70f55f52d64d",
+  "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+  "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+  "source": "X.PIN",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-18T23:41:28.000Z",
+  "fetched_at": "2026-11-19T00:22:38.297101+00:00"
+ },
+ "d442346cc5e5": {
+  "id": "d442346cc5e5",
+  "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-18T23:17:28.000Z",
+  "fetched_at": "2026-11-19T00:22:56.067767+00:00"
+ },
+ "49ff21afd78e": {
+  "id": "49ff21afd78e",
+  "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-18T22:58:11.000Z",
+  "fetched_at": "2026-11-19T00:23:47.211204+00:00"
+ },
+ "7c368c1e8d22": {
+  "id": "7c368c1e8d22",
+  "url": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+  "title": "MAI Licensed Weights: Frontier Performance You Control – Microsoft AI",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T22:34:54Z",
+  "fetched_at": "2026-11-19T00:24:05.745126+00:00"
+ },
+ "8d76c0be78e1": {
+  "id": "8d76c0be78e1",
+  "url": "https://www.crawlreadiness.com/ai-access-index/2026-11",
+  "title": "AI Access Index: how 684 of the top thousand hostnames treat AI crawlers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-18T22:25:52Z",
+  "fetched_at": "2026-11-19T00:24:27.468443+00:00"
+ },
+ "aed3ea0dfc61": {
+  "id": "aed3ea0dfc61",
+  "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+  "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-18T22:11:15.000Z",
+  "fetched_at": "2026-11-19T00:24:45.952836+00:00"
  }
 }

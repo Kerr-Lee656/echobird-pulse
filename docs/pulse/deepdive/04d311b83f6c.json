@@ -1,0 +1,25 @@
+{
+ "id": "04d311b83f6c",
+ "url": "https://thenextweb.com/news/anthropic-ipo-pricing-day-vc-10x-returns-softbank-son-mistake",
+ "title": "Anthropic’s IPO prices today as SoftBank’s Son calls missing it a ‘mistake’",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T00:18:41.898925+00:00",
+ "content": "Anthropic is due to price its IPO on Wednesday. The price could land above the $70 to $78 range. The company could price at more than $80 a share, people familiar with the matter told The Wall Street Journal. Its advisers have discussed prices that would value it at about $1.5tn or $1.6tn, Corrie Driebusch, Kate Clark and Ben Dummett reported. TNW has not independently verified the report.\nThe Anthropic IPO is set to price on Wednesday, with trading from Thursday, according to deal terms reviewed by Bloomberg. On Tuesday, buyers were told to expect a price at the top of the range or above. Anthropic set its IPO terms on 10 November.\nOld backers want more\nSeveral of Anthropic’s venture investors plan to buy billions of dollars of shares in the IPO, Natasha Mascarenhas reported for Bloomberg, citing people familiar with the matter. They include Sequoia Capital, Iconiq, Lightspeed Venture Partners, Accel and Altimeter Capital. Iconiq has already put in more than $6bn and Lightspeed more than $3.5bn, the people said. Sequoia’s $3bn bought it a stake of about 1%.\nSome smaller firms stand to make more than 10 times their money. Spark Capital, Factorial Funds, Sound Ventures and Menlo Ventures will hold stakes worth over 10 times what they put in, at the expected $1.4tn valuation. People with knowledge of their investments told Julia Hornstein of The Information. The listing will lift such lesser-known firms above bigger, blue-chip rivals in the VC rankings, the Financial Times reported.\nThe one that got away\nSoftBank was not among the early backers. Founder Masayoshi Son said that passing on Anthropic in 2023 was a mistake, the Financial Times reported. He explained why it happened.\n“By that point, we had already decided to invest in OpenAI,” Son said, according to the Financial Times.\nOpenAI has pushed its own listing back to next year, Bloomberg reported. Its top executives have said they are not worried about Anthropic going first.\nPaper fortunes for staff\nAt the midpoint of the range, the average Anthropic employee would own shares worth $72m, a Bloomberg Businessweek analysis of PitchBook data found. Ben Steverman, Dylan Sloan and Francesca Maglione put the stakes held by founders and staff at San Francisco AI companies at $1.2tn combined. Anthropic workers have already sold more than $4.8bn of shares in two tender offers, they reported, citing a filing.\nMuch of that money may be given away. Dario Amodei and the six other co-founders have pledged to donate 80% of their equity, Businessweek reported. Some staff describe the IPO with a shrug, as just another funding round. Jasmine Sun wrote that in a guest essay for The New York Times. She has spoken to dozens of current and former employees over two years.\nBuy or wait\nFive investors asked by Alex Nicoll of Business Insider were split. Stephanie Link of Hightower and Phil Blancato of Osaic would buy. Dhruv Maniktala of True North Advisors said maybe, because the price has an “unreasonable amount of growth built in”. Christian Giadolor of Chicory Wealth said no, pointing to soaring compute costs.\n“On the business model alone, and given the growing range of competitors, I would wait to see a clearer path toward both independence and profitability,” Kristin Hull of Nia Impact Capital told Business Insider.\nMost UK retail platforms close applications on Wednesday afternoon. Hargreaves Lansdown and Robinhood stop at 3pm, the Guardian reported. By Sunday, orders had reached close to seven times the shares on offer.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic 周三 IPO 定价，估值或达1.5万亿美元",
+  "background": "Anthropic 是 Claude 系列大模型的开发商，长期被视为 OpenAI 最主要的竞争对手。公司于11月10日确定发行条款，计划周三定价、周四开始交易。此次 IPO 吸引红杉、Iconiq、Lightspeed 等老股东大额加注，散户认购订单据称已达发行量的近七倍。与此同时，AI 公司估值屡创新高，算力成本高企，市场对“AI 泡沫”的争论升温。软银孙正义公开承认，2023年错过 Anthropic 是一个错误，因为当时已决定投资 OpenAI，而 OpenAI 的上市已推迟至明年。",
+  "key_points": [
+   "定价可能超过70至78美元的区间上限，甚至高于每股80美元，顾问讨论的估值约为1.5万亿至1.6万亿美元。",
+   "老股东大举加注：Iconiq 认购超60亿美元，Lightspeed 超35亿美元，红杉30亿美元仅换得约1%股份。",
+   "早期小基金收获十倍回报：Spark、Factorial、Sound Ventures、Menlo 等持股价值超投入的10倍，排名将跃升。",
+   "软银孙正义承认2023年错过 Anthropic 是“错误”，原因是当时已决定投资 OpenAI；OpenAI 上市推迟到明年。",
+   "员工财富惊人：区间中值下，平均员工持股价值7200万美元；七位联合创始人承诺捐出80%股权。",
+   "投资者分歧明显：有人认为增长预期已过度定价、算力成本高企，建议观望；也有人看好买入。"
+  ],
+  "impact": "对 AI 行业而言，头部模型公司进入公开市场，将为整个行业提供估值基准，可能引发一波 AI 上市潮，也让“泡沫”争论有了可量化的检验标准。对开发者来说，Anthropic 募资后有望扩大算力与 Claude API 投入，但上市公司面临的盈利压力也可能带来涨价、限流或产品策略调整。对普通用户而言，AI 助手正从试验品变成基础设施，同时“员工人均持股数千万美元”的造富故事会进一步推高公众对 AI 的期待与质疑。",
+  "tools": "想跟进可关注 Claude API 与 Claude Code、Anthropic 主导的 Model Context Protocol（MCP）；开源侧可对比 Llama 系列、vLLM、Ollama 等推理与本地部署工具；投资研究可查 SEC EDGAR 上的 S-1 招股书及 Renaissance IPO ETF。"
+ },
+ "lang": "zh"
+}
