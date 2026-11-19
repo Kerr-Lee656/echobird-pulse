@@ -23929,5 +23929,68 @@
   "site_name": "AIbase",
   "published_at": "2026-11-19T04:58:05.547Z",
   "fetched_at": "2026-11-19T10:16:07.023028+00:00"
+ },
+ "c0d4b4c5304f": {
+  "id": "c0d4b4c5304f",
+  "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself",
+  "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T18:59:37.560377+00:00"
+ },
+ "47ac9200b9da": {
+  "id": "47ac9200b9da",
+  "url": "https://thenextweb.com/news/misanthropic-statement-anthropic-not-safe-ai-company-cais-ipo",
+  "title": "Nobel and Turing winners sign statement calling Anthropic unsafe before IPO",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T18:59:55.456949+00:00"
+ },
+ "3ae8268898a4": {
+  "id": "3ae8268898a4",
+  "url": "https://thenextweb.com/news/chatgpt-ads-us-spend-70-million-october-adclarity",
+  "title": "US advertisers spent $70.7M on ChatGPT ads in October, AdClarity estimates",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T19:00:09.074074+00:00"
+ },
+ "bb729daeaa43": {
+  "id": "bb729daeaa43",
+  "url": "https://thenextweb.com/news/waymo-california-freeway-ban-dmv-construction-zones",
+  "title": "California bans Waymo robotaxis from its freeways over construction zones",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T19:00:21.633275+00:00"
+ },
+ "954ba097fb06": {
+  "id": "954ba097fb06",
+  "url": "https://thenextweb.com/news/java4shell-java-flaw-ai-calif-gpt-6-cyber",
+  "title": "AI-found Java flaw lets attackers into Jira and Jenkins without a login",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T19:00:30.430737+00:00"
+ },
+ "50139d2646a6": {
+  "id": "50139d2646a6",
+  "url": "https://www.aibase.com/news/32416",
+  "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-19T14:53:10.020Z",
+  "fetched_at": "2026-11-19T19:00:38.686015+00:00"
+ },
+ "291d19e64964": {
+  "id": "291d19e64964",
+  "url": "https://www.aibase.com/news/32415",
+  "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-19T14:53:10.020Z",
+  "fetched_at": "2026-11-19T19:00:46.393757+00:00"
  }
 }

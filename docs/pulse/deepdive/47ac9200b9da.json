@@ -1,0 +1,24 @@
+{
+ "id": "47ac9200b9da",
+ "url": "https://thenextweb.com/news/misanthropic-statement-anthropic-not-safe-ai-company-cais-ipo",
+ "title": "Nobel and Turing winners sign statement calling Anthropic unsafe before IPO",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T18:59:55.456949+00:00",
+ "content": "A coalition of scientists, legal scholars, and tech figures has called Anthropic “not a safe AI company”. They did it a day before the Claude maker’s shares start trading. The MisAnthropic Statement went up on Wednesday, organised by the Center for AI Safety (CAIS), a San Francisco nonprofit.\nThe signatories rarely agree on anything about AI. They include AI safety researchers, open-source advocates, and AI ethicists. Accelerationists, who want AI built as fast as possible, signed too.\n“Anthropic warns that recursively self-improving AI could concentrate power and escape human control, yet races to build it first,” the statement says.\nRecursive self-improvement means AI systems doing the work of building better AI systems. The statement accuses Anthropic of using its safety branding to court investors, staff, and the public. It ends by urging people to reject what it calls Anthropic’s reckless attempt to amass power.\nWho signed\nThe names on the site include Harvard psychologist Steven Pinker, Nobel economist Oliver Hart, and Turing Award winner Judea Pearl. Harvard law professors Lawrence Lessig and Laurence Tribe are on it too. Fields medallists Peter Scholze, James Maynard, and David Mumford signed too.\nFrom tech, Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, and George Hotz signed. So did Max Tegmark of the Future of Life Institute. His name sits next to Guillaume Verdon, who founded the e/acc movement as “Beff Jezos”.\n“People in this coalition disagree on almost everything, yet we all recognize the danger of a company that convinces itself its own dominance is the greater good,” Dan Hendrycks, executive director of CAIS, said in a statement.\nWhat the coalition alleges\nIn its announcement, CAIS set out three charges. It says Anthropic warns about recursive self-improvement while pitching it to public-market investors as a core advantage.\nIt also says Anthropic weakened its Responsible Scaling Policy in February, dropping its unilateral commitments to pause. CAIS also says the company lobbied to weaken AI safety bills, including California’s SB 1047 and New York’s RAISE Act. It privately backed federal pre-emption of state AI laws, the group adds.\nWhat Anthropic has said\nAnthropic had not responded publicly to the statement by Thursday morning. In its amended IPO filing on 10 November, it said it does not expect to safely let Claude fully build its successors. That would need “meaningful human supervision”, it wrote.\nThe same filing confirmed that Anthropic considers it has met its own threshold for AI-accelerated research. The company had already told investors it could be targeted over safety views.\nThe statement lands as Anthropic completes the biggest IPO ever. Its shares are due to open on the Nasdaq on Thursday.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "诺奖与图灵奖得主在Anthropic IPO前联名质疑其安全性",
+  "background": "Anthropic 正准备登陆纳斯达克，被称为史上最大规模 IPO，股票于周四开始交易。就在上市前一天，旧金山非营利机构「人工智能安全中心」（CAIS）发布《MisAnthropic Statement》，公开指责这家 Claude 开发商「不是一家安全的 AI 公司」。引人注目的是签名者的组成极为罕见：既有 AI 安全研究者、开源倡导者、AI 伦理学者，也有加速主义者，甚至包括以「Beff Jezos」身份创立 e/acc 运动的 Guillaume Verdon。这些人平时在 AI 议题上几乎从不一致，却在「反对一家企业以安全叙事包装自身扩张」这件事上达成共识，使这场联署成为 AI 治理争论中的标志性事件。",
+  "key_points": [
+   "签名阵容跨界且权威：哈佛心理学家 Steven Pinker、诺贝尔经济学奖得主 Oliver Hart、图灵奖得主 Judea Pearl、法学家 Lessig 与 Tribe，以及三位菲尔兹奖得主都在名单上。",
+   "核心指控是「言行不一」：Anthropic 一边警告递归自我改进的 AI 可能集中权力、脱离人类控制，一边抢先把这类系统做出来，并把这一能力当作面向公开市场投资者的卖点。",
+   "声明还指出，Anthropic 在 2 月削弱了自己的「负责任扩展政策」，放弃了单方面暂停训练的相关承诺，并游说削弱加州 SB 1047 和纽约 RAISE Act 等安全法案。",
+   "Anthropic 尚未公开回应，但其 11 月 10 日修订的招股书称，不预期会安全地让 Claude 完全自主构建后继模型，这需要「实质性的人类监督」；同时公司承认已达成「AI 加速研究」的自设门槛。",
+   "CAIS 执行主任 Dan Hendrycks 强调：这个联盟几乎在所有问题上都有分歧，但都看到了同一危险，即一家公司说服自己「自身主导地位即公共利益」。"
+  ],
+  "impact": "对 AI 行业而言，这是首次有跨阵营科学家群体在头部模型公司上市节点公开质疑其安全资质，可能把「安全叙事是否可信」变成估值与监管议题。对开发者，Anthropic 的 RSP（负责任扩展政策）松绑意味着依赖其 API 的团队需自行评估模型能力边界与合规风险。对普通用户，事件提醒人们：前沿模型的安全承诺多为企业自愿性质，缺乏外部强制约束，监管博弈正在州与联邦层面同时展开。",
+  "tools": "想跟进可读 CAIS 的《MisAnthropic Statement》全文与 Anthropic 各版本 Responsible Scaling Policy 原文做对照；监管侧关注加州 SB 1047、纽约 RAISE Act 条文；技术侧可参考 METR 的能力评估方法、AI Safety Institute 的评测框架，以及 Hugging Face 上的开源安全评测工具链。"
+ },
+ "lang": "zh"
+}

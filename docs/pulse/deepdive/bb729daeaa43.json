@@ -1,0 +1,25 @@
+{
+ "id": "bb729daeaa43",
+ "url": "https://thenextweb.com/news/waymo-california-freeway-ban-dmv-construction-zones",
+ "title": "California bans Waymo robotaxis from its freeways over construction zones",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T19:00:21.633275+00:00",
+ "content": "California’s Department of Motor Vehicles has barred Waymo from running driverless cars on any freeway in the state. The order took effect on 11 November. It became public on Tuesday, when the San Francisco Business Times first reported it.\nThe DMV said in a statement that Waymo’s freeway operations pose an imminent hazard to public safety. The restriction covers both driverless rides and driverless testing on California freeways.\nWaymo has since paused freeway rides in every market where it operates. Its robotaxis keep running on surface streets.\nWhat the DMV says\nThe agency cited two Bay Area incidents this month. On 5 November, three Waymo vehicles drove into a construction closure on US 101 near Burlingame. A day later, a Waymo tried to pass California Highway Patrol cars holding back traffic on Interstate 280 in San Francisco.\nThe order follows “recurring incursions by its vehicles into active construction zones where construction workers, vehicles and equipment are present, despite a prior restriction and corrective actions implemented following similar incidents that occurred on May 18, 2026,” DMV spokesperson Jonathan Groveman said in a statement.\nThe ban stays until Waymo shows the DMV enough evidence. Its cars must detect and respond to construction zones, emergency vehicles and other road situations.\nWhat Waymo says\n“Safety is at the foundation of everything we do,” a Waymo spokesperson said in a statement.\nThe company said the recent encounters on US 101 caused no injuries or collisions. It said it had also restricted freeway rides in its other markets while it reviews how its cars perform there.\n“We are working with the California DMV and other state officials diligently and responsibly to resume freeway operations,” the spokesperson said.\nWaymo added that its service still carries more than half a million trips a week on surface streets.\nThe second freeway stop this year\nWaymo opened freeway rides to the public in November 2025. It stopped them in May, after its robotaxis drove into freeway construction zones. It then filed a software recall covering 3,871 vehicles with the National Highway Traffic Safety Administration.\nFreeway rides came back in late July after software updates, Waymo told TechCrunch at the time.\nThe new stop comes as Waymo plans to grow its fleet fivefold to 20,000 robotaxis by 2027. Days earlier, Amazon’s Zoox robotaxis went live on Uber in Las Vegas. Tesla, meanwhile, plans to build Cybercabs in Berlin.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "加州DMV因施工区安全隐患全面叫停Waymo高速公路无人驾驶运营",
+  "background": "Waymo于2025年11月向公众开放高速无人驾驶载客，但今年5月就因车辆驶入高速施工区被叫停，随后向NHTSA提交覆盖3871辆车的软件召回，7月底经软件更新后恢复。此次11月5日三辆Waymo驶入US 101 Burlingame段施工封闭区、6日一辆车试图超越I-280上拦停交通的公路巡警，再次触发监管。DMV认定其构成“迫在眉睫的公共安全危害”，命令11月11日生效。这一处罚恰好撞上Waymo计划2027年将车队扩大五倍至2万辆的扩张节奏。",
+  "key_points": [
+   "全域禁令：加州DMV自11月11日起禁止Waymo在州内任何高速公路进行无人驾驶载客与测试，Waymo已在所有运营城市暂停高速服务，仅保留地面道路。",
+   "触发事件：11月5日三辆Waymo驶入US 101施工封闭区，次日一辆车试图绕过正在I-280拦停交通的加州公路巡警，均未造成伤亡或碰撞。",
+   "年内第二次：5月同类事件已导致一次停运和3871辆车的软件召回，DMV强调已有先前限制与整改，此次属“反复闯入”，性质更重。",
+   "解禁无时间表：Waymo需向DMV证明车辆能识别并正确响应施工区、紧急车辆等场景，DMV才可能解除禁令。",
+   "扩张对照：Waymo仍保持每周超50万单地面行程，并把车队扩至2万辆列为2027目标；同期Zoox接入Uber拉斯维加斯、特斯拉Cybercab落地柏林。",
+   "监管逻辑转变：从“里程与脱离率”转向“事件驱动式”执法，一次未遂险情即可触发全州范围运营限制。"
+  ],
+  "impact": "对行业：Robotaxi最难的长尾场景——临时施工区、交警手势指挥——被监管正面摆上台面，L4玩家必须让运行设计域（ODD）声明与实车表现严格对齐，加州这种“出事后立即暂停运营”的处理方式很可能被其他州效仿。对开发者：施工区识别是感知、规则与行为预测的复合难题，需要更强的语义理解、保守降级策略（主动停车、远程接管）和最小风险状态设计，通行效率要让位于安全冗余。对普通用户：短期内跨城长途无法全程无人驾驶，体验出现回落，但监管及时介入也意味着系统安全边界在被强制校准。",
+  "tools": "想跟进可看 Waymo Open Dataset、nuScenes、Argoverse 中施工区与异常场景标注；用 CARLA、MetaDrive 搭建临时交通管制与紧急车辆仿真；关注 NHTSA 召回与事故数据库（ADI/SGO）以及加州DMV年度脱离报告，横向对比各家 ODD 表现。"
+ },
+ "lang": "zh"
+}

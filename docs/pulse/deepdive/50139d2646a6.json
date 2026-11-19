@@ -1,0 +1,24 @@
+{
+ "id": "50139d2646a6",
+ "url": "https://www.aibase.com/news/32416",
+ "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-19T14:53:10.020Z",
+ "fetched_at": "2026-11-19T19:00:38.686015+00:00",
+ "content": "Tesla CEO Elon Musk said that development of the humanoid robot Optimus has made good progress. He expects to release a real demonstration video within the next one to two months, and Optimus is expected to be capable of household chores such as clearing dirty dishes and taking out the trash within the next 12 to 18 months.\nAccording to reports, while arriving in Shenzhen, China, to attend the APEC summit, Musk participated via video link in two summits held in the United States. In related interviews, he discussed the latest progress in Tesla's robot and chip businesses.\nMusk said Optimus will gradually move from research, development, and testing to performing real tasks. In the future, it will not only be able to complete basic operations, but will also attempt to take on some daily household chores. If the relevant timeline is met, the robot's ability to operate in unstructured home environments will become an important validation metric.\nFrom an industry development perspective, humanoid robots are accelerating their transition from laboratory demonstrations to real-world application scenarios. Tesla's disclosed demonstration video plan and household chore capability goals will also provide a new window for the outside world to assess Optimus's technological progress and commercialization pace.",
+ "report": {
+  "summary": "马斯克称Optimus一年内可做家务，将发布演示",
+  "background": "人形机器人正从实验室走向真实场景，特斯拉Optimus是这一赛道的代表性项目。此前Optimus主要展示行走、搬运等受控环境下的能力，家庭场景因环境非结构化程度高，被视为真正的技术难点。马斯克此次在APEC期间通过视频参会时释放时间表，既是对外界质疑其进度的回应，也是在为特斯拉的机器人叙事争取资本与人才关注。与此同时，Figure、1X等公司也在推进家庭场景，竞争正在升温。",
+  "key_points": [
+   "马斯克承诺未来1到2个月发布Optimus真实演示视频，不是剪辑宣传片，而是可验证的能力展示",
+   "目标是在12到18个月内让机器人收拾脏盘子、倒垃圾，即进入非结构化的真实家庭环境",
+   "能否在家庭环境中稳定作业，被马斯克本人定义为衡量机器人能力的关键验证指标",
+   "特斯拉计划让Optimus从研发测试逐步转向执行真实任务，意味着商业化落地节奏在加快",
+   "此前Optimus展示多为受控场景，家庭任务对感知、抓取和泛化能力要求显著更高"
+  ],
+  "impact": "对AI行业而言，家庭场景是继工厂之后人形机器人的下一个竞争焦点，马斯克的时间表会拉高市场对整个赛道的预期，也会给Figure、1X等对手带来压力。对开发者来说，非结构化环境中的泛化操作、视觉语言动作模型将成为热门方向，相关仿真与数据采集工具的需求会上升。对普通用户，机器人进家庭仍需跨越安全、成本和可靠性门槛，1到2年内更可能看到演示而非量产入户，不宜过度期待。",
+  "tools": "可关注特斯拉AI日与Optimus官方演示渠道；开发者可上手NVIDIA Isaac Sim与GR00T做机器人仿真和VLA训练，参考Open X-Embodiment数据集，以及LeRobot、ROS 2等开源框架跟进家庭操作任务。"
+ },
+ "lang": "zh"
+}

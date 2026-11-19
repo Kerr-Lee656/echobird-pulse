@@ -12967,5 +12967,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-19T05:46:35Z",
   "fetched_at": "2026-11-19T10:18:59.156998+00:00"
+ },
+ "7ba3306faa6d": {
+  "id": "7ba3306faa6d",
+  "url": "https://bitrise.io/artex-incident-report",
+  "title": "Anatomy of an AI-driven attack: Bitrise security incident report",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T18:31:55Z",
+  "fetched_at": "2026-11-19T19:02:30.355123+00:00"
+ },
+ "c9074d17b3f3": {
+  "id": "c9074d17b3f3",
+  "url": "https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/",
+  "title": "The Sanders-Casar AI Ban Would Turn a Forecast into a Felony",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T18:12:59Z",
+  "fetched_at": "2026-11-19T19:02:46.527355+00:00"
+ },
+ "3a850c903b02": {
+  "id": "3a850c903b02",
+  "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "title": "Google gives Gemini the ability to use your Mac for you",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-19T18:09:11.000Z",
+  "fetched_at": "2026-11-19T19:02:57.592594+00:00"
+ },
+ "ee20d352f0da": {
+  "id": "ee20d352f0da",
+  "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-19T17:38:40.000Z",
+  "fetched_at": "2026-11-19T19:03:11.997069+00:00"
+ },
+ "5fe21d2b4eca": {
+  "id": "5fe21d2b4eca",
+  "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "source": "Hacker News (123pts, 29c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T17:30:44Z",
+  "fetched_at": "2026-11-19T19:03:27.586945+00:00"
+ },
+ "402324a83637": {
+  "id": "402324a83637",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+  "title": "Genie 4 is now available on the Gemini API",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T17:30:43Z",
+  "fetched_at": "2026-11-19T19:03:36.132153+00:00"
  }
 }

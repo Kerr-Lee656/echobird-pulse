@@ -1,0 +1,24 @@
+{
+ "id": "3ae8268898a4",
+ "url": "https://thenextweb.com/news/chatgpt-ads-us-spend-70-million-october-adclarity",
+ "title": "US advertisers spent $70.7M on ChatGPT ads in October, AdClarity estimates",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T19:00:09.074074+00:00",
+ "content": "US advertisers spent an estimated $70.7 million on ChatGPT ads in October, up 127% from $31.1 million in April. That is according to new data from AdClarity, the ad intelligence platform run by BIScience.\nAcross the 24 countries in AdClarity’s October data, estimated spend reached $110.6 million. The US accounted for nearly 64% of it.\nThe figures are AdClarity’s own estimates, not numbers from OpenAI. The company says the 2026 figures are based on data AdClarity collected and measured in each market. They are not directly comparable with its earlier figures, which also included estimates for markets where it was not yet collecting data.\nThe UK nearly tripled\nAdClarity has tracked some markets since June. In the UK, monthly spend rose 195% over that time, from $2.1 million to $6.2 million in October. Japan grew 103%, from $2.9 million to $5.9 million. In October, Australia recorded $4.1 million, Canada $3.3 million and Germany $2.6 million.\nProgramming and developer software was the biggest category, at $27.9 million, or about 25% of October spend. Other categories included graphics, multimedia and web design ($7.2 million) and jobs and employment ($4.6 million). Education ($3.9 million) and travel and tourism ($2.3 million) also appeared.\n“ChatGPT advertising is becoming global, but investment is not developing at the same pace everywhere,” said Dorit Kaplan, VP of product and strategy at BIScience, in a statement.\n89 countries and counting\nThe data follows OpenAI’s rollout of ChatGPT ads to 26 more countries on 21 October. That took the format to 89 countries and more than 100,000 advertisers. OpenAI moved ChatGPT ads to cost-per-click pricing in April. In August, it said it was bringing ads to 31 European countries. Amazon has also let its advertisers buy ChatGPT placements in a pilot with OpenAI.\nBIScience has now extended its ChatGPT ads tracking to 51 markets. The company has offices in New York and Tel Aviv. It says it serves 2,400 agencies and brands, including Adidas, Amazon and Disney.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美国10月ChatGPT广告支出约7070万美元",
+  "background": "OpenAI正把ChatGPT从订阅模式推向广告变现：4月改CPC计价，8月覆盖31个欧洲国家，10月再扩26国至89国、超10万广告主。AdClarity估算显示，美国是最大市场，编程开发类投放最积极。AI对话广告正被视为搜索广告之外的新流量入口，但市场成熟度与地区差异仍明显。",
+  "key_points": [
+   "美国10月ChatGPT广告支出估算7070万美元，较4月3110万增长127%，占24国总额1.106亿美元的近64%。",
+   "英国从6月210万美元增至10月620万，增长195%；日本翻倍至590万；澳大利亚410万、加拿大330万、德国260万。",
+   "编程与开发者软件为最大品类，支出2790万美元占25%；图形多媒体网页设计720万、招聘460万、教育390万、旅游230万。",
+   "OpenAI 10月21日新增26国，覆盖89国、超10万广告主；4月转CPC，8月进31个欧洲国家，亚马逊也在试点购买ChatGPT广告位。",
+   "AdClarity数据为估算而非OpenAI官方，已跟踪51个市场；BIScience称ChatGPT广告全球化，但各地投资增速不均。"
+  ],
+  "impact": "对AI行业，ChatGPT广告初具规模，验证对话式AI的广告变现路径，或分流搜索广告预算；对开发者，开发工具广告竞争加剧，也提供触达全球开发者的新渠道；对普通用户，ChatGPT内广告将更多、更本地化，需关注体验与隐私边界。",
+  "tools": "可关注AdClarity/BIScience跟踪竞品投放；广告主可研究OpenAI Ads（若开放）、Amazon Ads的ChatGPT试点；开发者可用Semrush、Similarweb辅助评估流量与关键词。"
+ },
+ "lang": "zh"
+}

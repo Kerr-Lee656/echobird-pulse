@@ -1,0 +1,25 @@
+{
+ "id": "291d19e64964",
+ "url": "https://www.aibase.com/news/32415",
+ "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-19T14:53:10.020Z",
+ "fetched_at": "2026-11-19T19:00:46.393757+00:00",
+ "content": "According to Bloomberg, Microsoft Commercial Business CEO Althoff said at the Ignite conference on Tuesday: “Any task Claude or ChatGPT can do, Copilot can do better, and at a lower cost.” Research commissioned by Microsoft also estimates that Copilot users spend significantly less than users of the two, and that enterprises can choose a fixed subscription for basic tasks and pay by usage for complex work.\n30 Million Paid Users, but the 450 Million Opportunity Is Still Far From Saturated\nBehind that confidence is an untapped market: as of June, Copilot had more than 30 million paid users, while Microsoft Office enterprise users exceeded 450 million, so penetration remains low. He acknowledged that competition is fierce, “but when compared side by side, we rarely lose,” and customers often return to Copilot after testing a full range of tools. Telecom operator AT&T is a case in point: it has purchased Copilot for tens of thousands of employees, drawn by its deep integration with Microsoft’s toolchain; although the company also offers OpenAI’s Codex, Copilot is still the most used among general-purpose assistants.\nThe clash over numbers is just as sharp: Anthropic has disclosed that non-coding Claude Enterprise users spend less than $75 per month on average, well below the $205 monthly average for basic work scenarios in Microsoft’s research. Meanwhile, the two AI labs have recently rolled out office products one after another; last week, Anthropic’s new tool took direct aim at Excel. Microsoft executive Andreou questioned these simplified editors, saying they “inevitably have to compromise on features and collaboration capabilities.” The head-on battle has now moved from the chat box to the spreadsheet.",
+ "report": {
+  "summary": "微软高管称Copilot比Claude和ChatGPT更好更便宜",
+  "background": "在Ignite大会上，微软商业业务CEO Althoff公开将Copilot与Claude、ChatGPT直接对比，强调“任何任务都能做得更好且更便宜”。这背后是办公AI市场的激烈争夺：截至6月，Copilot付费用户超3000万，而微软Office企业用户超4.5亿，渗透率仍很低。与此同时，Anthropic推出直指Excel的办公工具，OpenAI也在推进企业办公场景，竞争已从聊天框延伸到电子表格这一办公核心场景。",
+  "key_points": [
+   "微软援引自家委托研究称，Copilot用户的月均花费显著低于Claude和ChatGPT用户，企业还可以对基础任务采用固定订阅、复杂任务按用量付费的组合模式。",
+   "Copilot已有超3000万付费用户，但相对4.5亿Office企业用户，渗透率仍低，微软把这块尚未充分开发的存量市场视为最大增长空间。",
+   "AT&T为数万员工采购Copilot，看中的是它与微软工具链的深度集成；即便公司同时提供OpenAI Codex，通用助手场景中Copilot仍使用最多。",
+   "Anthropic披露非编程类Claude Enterprise用户月均花费不足75美元，远低于微软研究中的205美元基准，双方在定价数据上各执一词。",
+   "竞争焦点已转向办公软件核心：Anthropic新工具直攻Excel，微软高管则反击这类简化编辑器“在功能与协作能力上必然妥协”。"
+  ],
+  "impact": "对AI行业而言，办公助手从模型能力比拼转向“单位任务成本、集成度和企业采购体验”的综合竞争，价格战与场景战将同时升级。对开发者，企业客户会更关注工具链集成与按量计费的成本可控性，单一模型API套壳产品的空间被压缩。对普通用户，办公AI的订阅价格有望更透明、更灵活，但生态绑定也会加深，跨平台迁移成本上升。",
+  "tools": "想跟进的读者可关注 Microsoft 365 Copilot 的按量计费与Agent功能、Claude Enterprise 及其 Excel 相关能力、OpenAI Codex 与 ChatGPT 企业版；想自建方案可看 Open WebUI、LibreChat 等开源前端，搭配 n8n 做办公自动化流程。",
+  "key_points_note": null
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "402324a83637",
+ "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+ "title": "Genie 4 is now available on the Gemini API",
+ "source": "Hacker News (1pts, 0c)",
+ "site_name": "Hacker News",
+ "published_at": "2026-11-19T17:30:43Z",
+ "fetched_at": "2026-11-19T19:03:36.132153+00:00",
+ "content": "Genie 4 is now available on the Gemini API.\nFollowing yesterday's Genie 4 launch, Genie 4 is now available for developers through the Gemini API (via the Interactions API) and Google AI Studio.\nStarting from a text prompt, a reference image, or both, developers can experiment with generating continuous 720p worlds at 24fps with synchronized native audio — from ambient soundscapes and sound effects to character dialogue. Using real-time keyboard controls alongside live text prompts, you can navigate environments and change weather, lighting, objects, or events on the fly. Gemini reasoning keeps the world state consistent and coherent throughout.\nWhether you’re prototyping interactive experiences, visualizing designs for spatial concepts, or training robotics and AI agents, Genie 4 opens up a blank canvas for you to test ideas and define new possibilities. As a reminder every output includes imperceptible SynthID watermarking.\nTry the interactive canvas and starter apps in Google AI Studio. Review pricing details and explore the Gemini API documentation to begin building.",
+ "report": {
+  "summary": "Genie 4, Google's interactive world model, is now available to developers via the Gemini API and AI Studio, generating explorable 720p worlds with synchronized audio.",
+  "background": "Google DeepMind has iterated on Genie since early 2024, moving from single-image-to-playable-scene demos to Genie 3 in August 2025, which delivered real-time navigable 720p worlds at 24fps for a limited set of researchers and creators. Genie 4, announced a day before this API release, adds native synchronized audio and broader access. The move matters because \"world models\" have become a genuine competitive frontier: World Labs' Marble, Decart's real-time video models, Odyssey, and NVIDIA's Cosmos are all racing toward generative, interactive 3D environments. Until now, most of these systems were locked behind waitlists or research previews. Shipping through the Gemini API signals Google's intent to turn world generation into a standard developer primitive rather than a lab curiosity.",
+  "key_points": [
+   "Developers can now call Genie 4 through the Gemini API's Interactions API and Google AI Studio, turning a research preview into a usable product surface with published pricing and documentation.",
+   "Inputs are flexible: a text prompt, a reference image, or both can seed a continuous 720p world running at 24fps with native synchronized audio, including ambient sound, effects, and character dialogue.",
+   "Interaction is twofold: real-time keyboard controls for navigation plus live text prompts that let users change weather, lighting, objects, or events mid-session without restarting.",
+   "Gemini reasoning underpins world consistency, keeping the simulated environment coherent as it changes, which is the hard technical problem behind persistent interactive scenes.",
+   "Every output carries imperceptible SynthID watermarking, and Google is shipping starter apps and an interactive canvas to lower the barrier to experimentation."
+  ],
+  "impact": "For the AI industry, this is a notable shift: interactive world generation becomes an API call rather than a research demo, putting Google in direct competition with World Labs, Decart, and NVIDIA Cosmos on developer mindshare. For developers, the practical unlock is combining generated worlds with reasoning-backed state consistency, useful for prototyping games, spatial design tools, and simulation environments without a 3D art pipeline. Robotics and agent-training teams get a cheaper way to synthesize varied, controllable environments. For regular users, the near-term effect is indirect but visible: more browser-based interactive experiences and AI-native media, plus watermarking that keeps synthetic footage traceable as it spreads. Cost, latency, and session length will ultimately decide adoption.",
+  "tools": "Start in Google AI Studio, which offers an interactive canvas and starter apps for experimenting without writing code. For production, read the Gemini API documentation and pricing, focusing on the Interactions API for real-time control loops. Google's SynthID detector helps verify whether generated worlds are watermarked. For comparison, watch World Labs' Marble for 3D scene generation and NVIDIA Cosmos for open world-foundation models aimed at robotics and simulation."
+ },
+ "lang": "en"
+}
