@@ -23857,5 +23857,77 @@
   "site_name": "NewsNow",
   "published_at": "2026-11-18T14:18:45.130Z",
   "fetched_at": "2026-11-19T00:20:21.318451+00:00"
+ },
+ "2b85df3d6650": {
+  "id": "2b85df3d6650",
+  "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise",
+  "title": "Anthropic prices its IPO at $83 a share, valuing it at about $1.5tn",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-19T10:14:45.529820+00:00"
+ },
+ "4e8e62a0bf22": {
+  "id": "4e8e62a0bf22",
+  "url": "https://www.qbitai.com/2026/11/511071.html",
+  "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T10:14:58.186662+00:00"
+ },
+ "f6e3fdad044d": {
+  "id": "f6e3fdad044d",
+  "url": "https://www.aibase.com/zh/news/32398",
+  "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T10:15:11.377973+00:00"
+ },
+ "0bcfa0c6cf1e": {
+  "id": "0bcfa0c6cf1e",
+  "url": "https://www.aibase.com/zh/news/32394",
+  "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T10:15:23.613718+00:00"
+ },
+ "547cfe98dee9": {
+  "id": "547cfe98dee9",
+  "url": "https://www.aibase.com/zh/news/32407",
+  "title": "腾讯大幅削减元宝投入，微信 AI 助手「小微」日活达 3000 万",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-19T10:15:35.198385+00:00"
+ },
+ "a3d0f9dc7fde": {
+  "id": "a3d0f9dc7fde",
+  "url": "https://www.aibase.com/news/32396",
+  "title": "谷歌发布 Gemini 4 Neon，速度飙升 3 倍还支持百万上下文",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-19T04:58:05.547Z",
+  "fetched_at": "2026-11-19T10:15:44.891025+00:00"
+ },
+ "9c6791e6fe2a": {
+  "id": "9c6791e6fe2a",
+  "url": "https://www.aibase.com/news/32393",
+  "title": "OpenAI 首款 AI 硬件传年底启动出货：立讯精密等中国供应链厂商深度参与",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-19T04:58:05.547Z",
+  "fetched_at": "2026-11-19T10:15:53.936997+00:00"
+ },
+ "ce6aa741f6a4": {
+  "id": "ce6aa741f6a4",
+  "url": "https://www.aibase.com/news/32392",
+  "title": "Anthropic拟以每股83美元进行IPO定价，完全稀释估值达1.5万亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-19T04:58:05.547Z",
+  "fetched_at": "2026-11-19T10:16:07.023028+00:00"
  }
 }

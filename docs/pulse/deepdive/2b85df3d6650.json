@@ -1,0 +1,24 @@
+{
+ "id": "2b85df3d6650",
+ "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise",
+ "title": "Anthropic prices its IPO at $83 a share, valuing it at about $1.5tn",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-19T10:14:45.529820+00:00",
+ "content": "Anthropic has priced its IPO at $83 a share, above the $70 to $78 range it marketed, people familiar with the matter told Natasha Mascarenhas and Bailey Lipschultz of Bloomberg, who reported the price first. The company also sold more shares than it planned. Its stock starts trading on the Nasdaq on Thursday under the ticker ANT.\nAt $83, Anthropic is worth about $1.49tn on a fully diluted basis, the Financial Times reported. Other outlets have since confirmed the price with their own sources. Anthropic has not announced it.\nThe company had been weighing a price well above $80, and orders had reached close to seven times the shares on offer by Sunday.\nThe biggest share sale on record\nAnthropic had marketed 801.4 million shares, and its seven co-founders offered another 23.6 million, Bloomberg reported. With the higher price, the Anthropic IPO should raise at least $68bn. A $26bn private placement with strategic partners, at the same price, takes the total past $94bn.\nThat beats SpaceX, which raised $75bn in its June IPO, or $86.2bn once its bankers sold extra shares. Anthropic’s bankers have the same option, the FT reported, so the total could still rise.\nBy value, it would be the second-biggest IPO ever, behind SpaceX’s $1.77tn debut, Fortune reported.\nBuyers should try “not to think of your purchase in purely transactional terms”, Anthropic wrote in its prospectus, the FT reported.\nThe company said profits would be balanced against “the public good”.\nA hard week for AI stocks\nInvestors expected a $2tn valuation over the summer, the FT reported. The IPO lands as AI stocks slide. The Nasdaq 100 has lost 13% since its early October peak, according to the FT. Nvidia fell for a fifth day on Wednesday, Bloomberg reported, a week after Jensen Huang’s exit as chief executive.\nThe offering will leave Anthropic with more than $200bn on its balance sheet, the FT reported. The company plans to spend that on compute and infrastructure. According to its investors, it would rather not sell shares again, and it wants an investment-grade credit rating so it can borrow instead.\nIt already carries $6.2bn of debt, which it calls “substantial” in its filings, the Associated Press reported. Its long-term benefit trust will be able to elect or remove a majority of the board.\nThe listing is also a payday for Anthropic’s venture backers, several of which planned to buy more shares in the offering.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic IPO定价83美元，估值约1.5万亿美元，募资创纪录",
+  "background": "Anthropic是Claude系列模型的开发商，长期依靠风险投资以及亚马逊、谷歌等云厂商的战略资金支持。随着大模型算力竞赛升温，市场对前沿AI公司的估值预期不断抬升，投资者今夏一度期待其IPO估值达到2万亿美元。此次上市恰逢AI板块回调：纳斯达克100指数自10月初高点下跌约13%，英伟达连续五日走弱。即便在这样的环境下，Anthropic仍获得近7倍超额认购，最终定价高于此前70至78美元的询价区间，成为AI商业化进程中的标志性事件。",
+  "key_points": [
+   "定价83美元，高于70至78美元的推介区间，发售股数也多于原计划，按完全稀释口径估值约1.49万亿美元，周四在纳斯达克以代码ANT挂牌。",
+   "募资规模史上最大：基础发行加上创始人老股及260亿美元定向配售，总额超过940亿美元，超过SpaceX的750亿美元；按市值计算则为史上第二大IPO。",
+   "认购极其火爆，截至周日的订单规模已达发行量的近七倍，承销商还握有超额配售权，最终募资额可能进一步上升。",
+   "上市后账面现金将超过2000亿美元，主要用于采购算力和基础设施；公司倾向不再增发股票，希望取得投资级信用评级后转而发债，目前已有62亿美元债务。",
+   "治理结构特殊：长期利益信托可选举或罢免多数董事；招股书称利润要与“公共利益”平衡，并提醒买家不要纯粹以交易视角看待这笔投资。"
+  ],
+  "impact": "对AI行业而言，这次IPO为前沿模型公司确立了公开市场的估值基准，也意味着算力军备竞赛被彻底资本化，同行将被迫面对二级市场的季度审视。对开发者而言，Claude API的定价、限流和企业级可靠性将受股东压力影响，平台政策的不确定性上升。对普通用户，AI助手与订阅价格可能随成本转嫁而调整，同时大量指数基金与养老资金会间接持有这只股票，AI风险由此进入寻常投资组合。",
+  "tools": "想跟进可关注Claude API与Claude Code的实际定价变化、Anthropic开源的Model Context Protocol（MCP）生态，以及招股书中披露的算力与云合同细节；若关注替代方案，可上手Llama、Mistral等开源模型，并用Ollama、vLLM做本地部署对比。"
+ },
+ "lang": "zh"
+}

@@ -12895,5 +12895,77 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-18T22:11:15.000Z",
   "fetched_at": "2026-11-19T00:24:45.952836+00:00"
+ },
+ "34c096106b1c": {
+  "id": "34c096106b1c",
+  "url": "https://www.gdmunion.co.uk",
+  "title": "DeepMind Employees Are Unionising",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T09:28:56Z",
+  "fetched_at": "2026-11-19T10:17:23.595819+00:00"
+ },
+ "8f2f3223fd15": {
+  "id": "8f2f3223fd15",
+  "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+  "title": "AI found more critical bugs in another widely used tech running 225M websites",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T08:55:38Z",
+  "fetched_at": "2026-11-19T10:17:36.507685+00:00"
+ },
+ "3dc737c69307": {
+  "id": "3dc737c69307",
+  "url": "https://siliconcent.com/posts/googles-ai-strategy-is-a-distribution-war/",
+  "title": "Google's AI Strategy Is a Distribution War",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T08:39:03Z",
+  "fetched_at": "2026-11-19T10:17:51.066268+00:00"
+ },
+ "e08b3d721fa0": {
+  "id": "e08b3d721fa0",
+  "url": "https://ainowinstitute.org/publications/ai-comes-for-nursing",
+  "title": "AI Comes for Nursing",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T08:12:15Z",
+  "fetched_at": "2026-11-19T10:18:04.721563+00:00"
+ },
+ "0b2301f58d00": {
+  "id": "0b2301f58d00",
+  "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+  "title": "Anthropic IPO Raises over $81B",
+  "source": "Hacker News (8pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T07:36:09Z",
+  "fetched_at": "2026-11-19T10:18:17.047608+00:00"
+ },
+ "3381c1b46b2b": {
+  "id": "3381c1b46b2b",
+  "url": "https://architectlabs.com/blog/frostbite",
+  "title": "Frostbite: A new CPU architecture discovered, designed, and verified E2E by AI",
+  "source": "Hacker News (5pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T07:33:54Z",
+  "fetched_at": "2026-11-19T10:18:31.820500+00:00"
+ },
+ "a913764b1be3": {
+  "id": "a913764b1be3",
+  "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+  "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+  "source": "Latent Space",
+  "site_name": "Latent Space",
+  "published_at": "2026-11-19T07:07:43.000Z",
+  "fetched_at": "2026-11-19T10:18:44.400310+00:00"
+ },
+ "cfb24215065f": {
+  "id": "cfb24215065f",
+  "url": "https://www.nber.org/papers/w35782",
+  "title": "An LLM workflow that reproduces, improves, extends published economics research",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-19T05:46:35Z",
+  "fetched_at": "2026-11-19T10:18:59.156998+00:00"
  }
 }

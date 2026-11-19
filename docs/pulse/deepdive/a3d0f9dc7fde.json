@@ -1,0 +1,25 @@
+{
+ "id": "a3d0f9dc7fde",
+ "url": "https://www.aibase.com/news/32396",
+ "title": "谷歌发布 Gemini 4 Neon，速度飙升 3 倍还支持百万上下文",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-19T04:58:05.547Z",
+ "fetched_at": "2026-11-19T10:15:44.891025+00:00",
+ "content": "Artificial intelligence has a new competitive focus in the fields of complex reasoning and multi-step task automation. On November 18, Google officially launched a new AI model, Gemini4Neon, focusing on complex programming, scientific research, and enterprise workflows, and aiming to find a better balance among reasoning capability, response speed, and operating cost. The model is now being made available to developers, enterprises, and some paid subscribers.\nCore capabilities: A million-token ultra-long context and multi-agent collaboration\nAccording to Google, Gemini4Neon has a context window of up to 1 million tokens. It can comprehensively process various forms of data such as spreadsheets, PDFs, charts, audio, and video, and consolidate scattered information into structured reports and other outputs.\nIn software development and automated execution, Neon demonstrates strong multi-step processing capabilities:\nCode and engineering tasks: It supports cross-file error troubleshooting and code refactoring, making it suitable for handling complex issues in large codebases.\nMulti-agent orchestration: In Google's Antigravity development environment, Neon can act as a \"dispatcher,\" coordinating Hydrogen sub-agents to process different tasks in parallel and continuously synchronizing progress during long-running operations.\nPerformance: No. 1 on the coding agent index, surpassing Claude Opus5.5\nIn benchmark tests and internal evaluations, Google released several sets of targeted data:\nAuthoritative leaderboard results: At the highest xhigh reasoning level, Neon ranked third with 61 points on the Artificial Analysis Intelligence Index; on the same organization's Coding Agent Index, it scored 58.6, surpassing Claude Opus5.5 to take first place.\nEfficiency and quality comparison: Early internal evaluations show that Neon's overall task quality matches or exceeds that of the larger Gemini4Carbon, while completing tasks three times faster. At the default high thinking level, the cost per task in related tests was 32% lower than that of the same-series Carbon model.\nGoogle also noted that the above rankings and cost comparisons correspond to specific evaluation conditions and do not represent performance in all real-world business scenarios.\nPricing and access: Four reasoning levels available, gradually rolling out across platforms\nFor API call pricing, Gemini4Neon's specific fees are as follows:\nInput cost: $3 per 1 million tokens (approximately RMB 20 at current exchange rates)\nOutput cost: $15 per 1 million tokens (approximately RMB 100.2 at current exchange rates)\nCached input cost: $0.15 per 1 million tokens (approximately RMB 1 at current exchange rates)\nThe model offers four reasoning levels: Low, medium, high, and xhigh, allowing users to adjust thinking depth and resource consumption as needed. For individuals and subscribers, after subscribing to Google AI Pro or Ultra, they can choose to use Gemini4Neon in the Gemini app.",
+ "report": {
+  "summary": "谷歌发布 Gemini 4 Neon，速度提升 3 倍，支持百万级上下文",
+  "background": "AI 竞争的重点已从单纯追求模型规模转向复杂推理与多步任务自动化，编程智能体与企业工作流成为主要竞争领域。谷歌此次推出 Gemini 4 Neon，是为了在同系列更大模型 Gemini 4 Carbon 与竞品 Claude 之间找到推理能力、响应速度和成本之间的平衡点。此前，编码智能体榜单长期是各家厂商争夺的焦点，百万级上下文和多智能体编排也成为新一轮能力比拼的关键方向。该模型已向开发者、企业及部分付费订阅用户开放。",
+  "key_points": [
+   "上下文窗口达 100 万 token，可统一处理表格、PDF、图表、音视频等多种数据，把零散信息汇总为结构化报告。",
+   "在编码与工程场景中支持跨文件排错与代码重构，针对大型代码库中的复杂问题做优化。",
+   "具备多智能体调度能力，在谷歌 Antigravity 开发环境中充当“调度员”，协调 Hydrogen 子代理并行处理任务，并在长时间运行中持续同步进度。",
+   "在编码智能体指数上以 58.6 分超过 Claude Opus 5.5 排名第一；在 Artificial Analysis 智能指数 xhigh 档以 61 分位列第三。",
+   "内部评测显示，其任务质量与更大的 Gemini 4 Carbon 持平或更高，速度快 3 倍，默认 high 档单任务成本低 32%；API 定价为输入每百万 token 3 美元、输出 15 美元、缓存输入 0.15 美元，提供四档推理等级。",
+   "谷歌提示，榜单与成本数据对应特定评测条件，不代表所有真实业务场景的表现。"
+  ],
+  "impact": "对行业而言，竞争指标正从“参数与分数”转向“单位成本下的智能体完成率”，推理档位化定价可能成为新常态。对开发者而言，长上下文与多代理调度能降低维护大型代码库和搭建自动化流水线的门槛，但需按自身业务重新验证效果，不可直接照搬榜单结论。对普通用户而言，订阅 Google AI Pro 或 Ultra 后可在 Gemini 应用内选用该模型，长文档、音视频等复杂素材处理会更实用。",
+  "tools": "可跟进 Google Antigravity 开发环境、Gemini API 与 AI Studio，以及 Hydrogen 子代理的编排机制；横向可对比 Claude Opus 5.5。若想自建类似能力，可关注 LangGraph、AutoGen 等多智能体框架。"
+ },
+ "lang": "zh"
+}

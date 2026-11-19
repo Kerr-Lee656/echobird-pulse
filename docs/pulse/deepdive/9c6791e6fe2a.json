@@ -1,0 +1,24 @@
+{
+ "id": "9c6791e6fe2a",
+ "url": "https://www.aibase.com/news/32393",
+ "title": "OpenAI 首款 AI 硬件传年底启动出货：立讯精密等中国供应链厂商深度参与",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-19T04:58:05.547Z",
+ "fetched_at": "2026-11-19T10:15:53.936997+00:00",
+ "content": "Artificial intelligence is accelerating its expansion from software models to consumer-grade end-user hardware. According to supply chain sources, OpenAI's first on-device AI hardware product is expected to officially begin shipping by the end of this year, and multiple Chinese supply chain vendors, including Luxshare Precision, have already joined the project.\nSupply Chain Update: Luxshare Precision Exclusively Handles Final Assembly and Supplies Core Components\nIn hardware manufacturing and the supply chain, Chinese manufacturing continues to play a key role. Reports say multiple Chinese manufacturers have entered the production chain for OpenAI's first on-device AI hardware product, with Luxshare Precision exclusively responsible for final assembly and also supplying core components.\nProduct Form Factor Speculation: A \"Donut\" Design and a Screenless Interaction Approach\nAs of now, OpenAI has not officially announced the final form of this hardware product.\nHowever, based on previously circulating market rumors, the device is the first consumer-grade hardware created through a collaboration between OpenAI and former Apple chief design officer Jony Ive's team. It is said to use a screenless \"donut\"-like design, with microphones, speakers, cameras, and multiple sensors integrated into the body. It would mainly rely on voice for natural interaction with users and have the ability to perceive its surroundings. Of course, the product's specific specifications and final form still need further confirmation and official disclosure.",
+ "report": {
+  "summary": "OpenAI首款AI硬件年底出货，立讯精密独家代工",
+  "background": "自2025年OpenAI以约65亿美元收购前苹果首席设计官Jony Ive创立的io公司后，外界普遍预期双方会推出一款以语音为入口、无屏幕的随身AI设备。此前Humane AI Pin、Rabbit R1等同类产品因交互笨拙、算力依赖云端而折戟，让\"AI硬件\"一度被视为伪需求。此次传出立讯精密独家组装并供应核心零部件、年底启动出货，意味着OpenAI正式从模型与订阅软件向端侧硬件延伸，也标志着中国精密制造仍是全球消费电子创新的关键一环。",
+  "key_points": [
+   "立讯精密独家负责最终组装，同时供应部分核心零部件，其他多家中国厂商也已进入供应体系，量产时间点定在年底。",
+   "产品形态据传为无屏\"甜甜圈\"造型，机身集成麦克风、扬声器、摄像头与多颗传感器，以语音为主要交互方式。",
+   "设备具备环境感知能力，定位更接近\"随身AI伴侣\"而非可穿戴手机替代品，具体规格仍待官方确认。",
+   "这是OpenAI与Jony Ive设计团队合作的首款消费级硬件，也是OpenAI从软件订阅走向端侧入口的关键一步。",
+   "选择中国供应链意味着新品仍走成熟消费电子路线，成本、良率与爬产速度是年底能否如期出货的胜负手。"
+  ],
+  "impact": "对AI行业而言，这是对\"大模型需要专属硬件入口\"的再次押注，若成功将带动语音交互、端云协同与传感器方案的整条产业链；若重蹈AI Pin覆辙，则会让资本对AI硬件更加谨慎。对开发者来说，无屏语音交互意味着应用形态将从App转向API、Agent与技能插件，语音实时接口、上下文记忆与低延迟推理成为新的能力门槛。对普通用户，则可能获得一个不依赖手机屏幕、随时可对话的AI助手，但隐私感知与续航表现仍是接受度的关键。",
+  "tools": "想跟进可关注：OpenAI Realtime API 体验语音实时交互；ESP32-S3、树莓派等开源硬件做无屏语音原型；Home Assistant 与 Voice PE 学习语音助手集成；小智AI、Pipecat 等开源语音Agent框架可快速搭demo。"
+ },
+ "lang": "zh"
+}
