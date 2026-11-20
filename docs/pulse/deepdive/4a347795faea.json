@@ -1,0 +1,23 @@
+{
+ "id": "4a347795faea",
+ "url": "https://www.aibase.com/news/32419",
+ "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-20T04:49:02.521Z",
+ "fetched_at": "2026-11-20T09:59:10.187874+00:00",
+ "content": "AI is rapidly moving from “just talking and giving advice” to “actually doing the work for you.” On November 20, Google officially launched the “Computer Use” feature for the macOS version of the Gemini app, allowing AI to work across desktop apps, local files, and web environments to autonomously carry out complex, multi-step tasks.\nRuns independently in the background without grabbing the mouse, with live preview and the ability to stop anytime\nFor users who are used to handling multiple tasks at the same time on a computer, the biggest concern about letting AI take over the computer is often that it will “grab the mouse and click around the screen,” interrupting what they are doing.\nGemini’s “Computer Use” feature is designed to avoid this issue: all tasks run in a separate background window, so the user’s everyday main screen and mouse cursor are not disturbed. At the same time, a live preview of the current operation is shown in the chat interface, and users can manually pause or stop the task at any time.\nFor specific use cases, Google listed several practical examples: batch processing and editing photos, extracting weight, dimensions, and address information from local PDF documents and automatically filling in shipping quotes, compiling data metrics and screenshots from regional dashboards into a PowerPoint presentation, and analyzing clothing photos in a local folder to help list items on a secondhand marketplace.\nFine-grained, controllable permissions, with macOS 27.3 enhancing security and transparency\nTo give users a greater sense of control when granting AI permission to operate the computer, the feature provides multiple layers of security and authorization mechanisms:\nSelf-selected authorization and key confirmations: Users can choose which apps Gemini is allowed to access, and the model will proactively ask for user approval before carrying out critical actions.\nScope limits and transparent indicators: Users can restrict access permissions to specific apps and folders and configure authorization on a per-request basis. The system also provides transparent indicators that clearly show whether one app is currently controlling another.\nSystem version alignment: The feature launches just before the official rollout of macOS 27.3. Once macOS 27.3 is officially released, the new system will alert users to the risks of granting access to restricted data, further clarifying the boundaries of what AI agents can view and do; apps that are already installed and have been granted Mac permissions will not need to be reauthorized after upgrading to macOS 27.3, nor will they be forced to show a new explanation screen.\nAvailability and subscription requirements\nIn terms of how to get it and the support requirements, users can download the Gemini app for Mac from Google’s official website. Currently, the “Computer Use” feature is available to Google AI Plus, Pro, and Ultra subscribers in the United States. Subscription plans start at $4.99 per month (approximately 35.7 yuan), and the hardware requirement is a Mac with an Apple silicon chip.",
+ "report": {
+  "summary": "谷歌Gemini Mac版上线“电脑操控”，AI可后台自主跨应用完成复杂任务。",
+  "background": "自2024年Anthropic推出Computer Use、OpenAI发布Operator以来，“让AI直接操作电脑”成为大模型竞争的新战场。此前这类能力多停留在演示视频或浏览器内，稳定性与安全性饱受质疑。谷歌今年把Gemini做成Mac原生应用，此次将代理能力正式落到桌面端，是与Claude、ChatGPT在“能动手干活”层面的正面交锋，同时也配合macOS 27.3强化隐私提示的系统节奏，试图用“可控、可见”来回应外界对AI接管电脑的顾虑。",
+  "key_points": [
+   "任务在独立后台窗口运行，不抢占鼠标和主屏幕，聊天界面提供实时预览，用户可随时暂停或中止。",
+   "官方给出四类典型场景：批量修图、从本地PDF提取重量尺寸与地址自动填报价单、汇总多地仪表盘数据生成PPT、分析本地服装照片发布二手商品。",
+   "权限粒度较细：用户自选可访问的应用与文件夹，关键操作前模型需请求确认，系统会显示“某应用正被控制”的透明指示。",
+   "使用有门槛：目前仅限美国区Google AI Plus/Pro/Ultra订阅用户（4.99美元/月起），需Apple芯片Mac，并与macOS 27.3的安全提示对齐。"
+  ],
+  "impact": "对行业而言，桌面级Agent从概念走向产品化，macOS成为大模型厂商争夺的“操作层”入口，RPA与传统自动化脚本市场将被重新定义。对开发者来说，本地文件和桌面UI成了新的“接口”，基于视觉识别与无障碍API的工具链迎来机会，同时也要为“AI可调用”重新设计应用权限模型。对普通用户，整理数据、做PPT、发布二手商品等重复劳动可外包给AI，但授权风险、误操作与隐私边界仍是接受门槛。",
+  "tools": "想跟进可关注Claude Computer Use、OpenAI Operator/ChatGPT Agent等闭源方案，以及Browser Use、UI-TARS、Self-Operating Computer、Open Interpreter等开源项目；配合Playwright MCP可在本地复现类似的桌面/浏览器自动化流程。"
+ },
+ "lang": "zh"
+}

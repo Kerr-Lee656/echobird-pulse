@@ -13021,5 +13021,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-19T17:30:43Z",
   "fetched_at": "2026-11-19T19:03:36.132153+00:00"
+ },
+ "3f504420b3ef": {
+  "id": "3f504420b3ef",
+  "url": "https://github.com/pytorch/torchtitan",
+  "title": "pytorch/torchtitan — A PyTorch native platform for training generative AI models",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-20T10:01:02.839405+00:00"
+ },
+ "ea581fae3a34": {
+  "id": "ea581fae3a34",
+  "url": "https://hyper.ai/stories/38cbde179199e5d614e6f2b5abfb0911",
+  "title": "Anthropic IPO could yield $156B for charity",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T09:48:12Z",
+  "fetched_at": "2026-11-20T10:01:16.551387+00:00"
+ },
+ "9d32a0beee76": {
+  "id": "9d32a0beee76",
+  "url": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
+  "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T09:42:13Z",
+  "fetched_at": "2026-11-20T10:01:28.155972+00:00"
+ },
+ "0ae220360cd7": {
+  "id": "0ae220360cd7",
+  "url": "https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html",
+  "title": "Britain must not rely on foreign AI, says former military intelligence chief",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T09:34:40Z",
+  "fetched_at": "2026-11-20T10:01:45.550703+00:00"
+ },
+ "195ca5e57863": {
+  "id": "195ca5e57863",
+  "url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system",
+  "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T08:41:28Z",
+  "fetched_at": "2026-11-20T10:02:21.254536+00:00"
+ },
+ "da4937c71537": {
+  "id": "da4937c71537",
+  "url": "https://www.kipppunkt.gv.at/",
+  "title": "Austria launches public consultation for its national AI agenda",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T07:45:11Z",
+  "fetched_at": "2026-11-20T10:02:36.954791+00:00"
+ },
+ "d965cf5beca4": {
+  "id": "d965cf5beca4",
+  "url": "https://www.alphaxiv.org/",
+  "title": "AlphaXiv opens a public preprint server for AI-authored research papers",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T07:15:08Z",
+  "fetched_at": "2026-11-20T10:02:49.037343+00:00"
  }
 }
