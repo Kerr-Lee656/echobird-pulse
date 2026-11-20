@@ -1,0 +1,24 @@
+{
+ "id": "bf43cf29d841",
+ "url": "https://thenextweb.com/news/california-bonta-subpoena-nvidia-china-chips-investors",
+ "title": "California subpoenas Nvidia over whether chips or secrets reached China",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-20T18:35:31.924089+00:00",
+ "content": "California Attorney General Rob Bonta has served Nvidia with an investigative subpoena. His office wants to know whether the company’s advanced chips or confidential information may have gone to China. It is also asking whether Nvidia misled investors and the public, the California Department of Justice said in a statement on Thursday.\n“The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,” Bonta said. “Nvidia is in a messy, transnational situation but the underlying principle of our corporate securities law is clear: Companies cannot mislead their investors.”\nThe department said the subpoena relates to former chief executive Jensen Huang’s affair with an alleged Chinese spy. The answers will help it decide whether Nvidia broke California law.\nTwo days earlier, Bonta told Bloomberg Television the situation was “very possibly” something his office could examine, Bloomberg reported. He said his office first needed a California law to give it jurisdiction.\nHow Nvidia got here\nHuang resigned as chief executive last week after revelations of extramarital affairs, Reuters reported. One was with Chinese businesswoman Alice Huang. US intelligence agencies are trying to establish her ties to China’s Ministry of State Security, according to Reuters. The two are not related, and China rejects the espionage allegations.\nNvidia’s board has ruled out his return and set up a national security committee. Huang has agreed to appear before House committees on 1 December.\nAlso on Thursday, the House Foreign Affairs Committee said the Trump administration had approved nearly 900,000 advanced Nvidia and AMD AI chips for Chinese companies, Reuters reported. The approvals ran from December 2025 to May, and it is unclear how many chips shipped. Nvidia told Reuters the approvals had strict conditions and limited volumes. It said it had stopped shipping H200 chips to China.\nBonta has taken on other technology companies this year. His office sued OpenAI earlier this month.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "加州总检察长传唤英伟达，调查芯片或机密是否流向中国及是否误导投资者。",
+  "background": "美国对华AI芯片出口管制持续收紧，英伟达处于地缘政治与技术竞争的中心。加州总检察长Rob Bonta此前已对OpenAI提起诉讼，此次调查聚焦英伟达前CEO黄仁勋与一名被怀疑与中国情报机构有关联的女性有婚外情，并质疑公司是否向投资者隐瞒风险。同时，众议院外交事务委员会披露特朗普政府批准近90万颗英伟达和AMD高级AI芯片对华出口，时间跨度为2025年12月至次年5月，但实际发货量不明。",
+  "key_points": [
+   "加州总检察长发出调查传票，要求英伟达说明先进芯片或机密信息是否流向中国，以及是否误导投资者和公众。",
+   "调查与已辞职的前CEO黄仁勋婚外情事件相关，其对象被指疑似中国间谍，美国情报机构正在调查。",
+   "英伟达董事会排除黄仁勋回归，并设立国家安全委员会；黄仁勋将于12月1日出席众议院听证会。",
+   "众议院披露特朗普政府批准近90万颗英伟达和AMD AI芯片对华出口，英伟达称条件严格且已停止发货H200芯片。",
+   "加州总检察长今年已对OpenAI等科技公司采取行动，显示州级监管对AI巨头合规审查趋严。"
+  ],
+  "impact": "对AI行业而言，出口管制与法律调查叠加将增加合规成本与供应链不确定性；开发者可能面临高端芯片获取受限、云算力价格上涨；普通用户则需关注AI产品性能与隐私风险，以及企业对投资者披露的透明度。",
+  "tools": "可关注美国BIS出口管制清单、英伟达官方合规声明、开源AI硬件项目（如RISC-V AI加速器）以及企业证券披露追踪工具（如SEC EDGAR）。"
+ },
+ "lang": "zh"
+}

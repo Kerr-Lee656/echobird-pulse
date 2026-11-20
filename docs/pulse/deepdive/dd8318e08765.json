@@ -1,0 +1,24 @@
+{
+ "id": "dd8318e08765",
+ "url": "https://www.aibase.com/news/32437",
+ "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-20T14:34:03.006Z",
+ "fetched_at": "2026-11-20T18:37:00.759453+00:00",
+ "content": "On November 20, the WeChat Short Drama Content Center issued an announcement, announcing two important adjustments to the platform's short drama review standards. The new rules will officially take effect on December 1, 2026, aiming to further standardize the management of AI-generated content and improve the overall quality of short dramas.\nThe first adjustment targets the content duration threshold. The platform will raise the minimum duration of a single short drama episode from the original 45 seconds to 1 minute. After the new rules take effect, episodes less than 1 minute long will not pass submission review. This move is intended to guide creators to focus on the coherence and completeness of each episode's narrative, avoid rushed plots and fragmented storylines caused by overly short runtimes, and thereby improve the viewing experience for end users.\nOn the AI content compliance front, WeChat has added an \"AI Production Proof Video\" submission requirement for episodes containing AI-generated content. This material is currently optional and will officially become mandatory starting December 1. According to the rules, the proof video must fully show the process by which the creator used AI software to generate content, specifically covering the asset list, episode list, prompts corresponding to different episodes and storyboards, and playback footage of a small number of storyboard clips. It supports formats such as PDF, JPG, PNG, and MP4 (single file no larger than 10 MB, up to 3 uploads).\nAs generative AI rapidly penetrates the field of micro short drama production, hidden risks such as material misappropriation and unclear copyright ownership are gradually emerging. By introducing prompt and project asset verification mechanisms, WeChat can effectively confirm the originality and authenticity of episodes, reduce review rejections caused by missing project files, and while improving platform review efficiency, also drive the AI short drama industry toward a more standardized and premium direction.",
+ "report": {
+  "summary": "微信短剧新规：AI生成内容须提交全流程证明视频",
+  "background": "近两年生成式AI大幅降低了微短剧的制作门槛，AI短剧产能快速增加，并出现素材挪用、版权归属不清、剧情碎片化拼凑等乱象。11月20日，微信短剧内容中心发布公告，对审核标准作出两项调整，并宣布自12月1日起生效：一是把单集最低时长从45秒提高到1分钟；二是对含AI生成内容的剧集新增“AI制作证明视频”要求，目前为可选项，届时将转为强制。这也延续了AI生成内容需要标识与合规的监管方向，表明平台审核正从“事后抽查”转向“事前举证”。",
+  "key_points": [
+   "时长门槛上调：单集最低时长从45秒延长至1分钟，不足1分钟直接不予过审，目的是迫使创作者把每集故事讲完整，减少赶进度式的碎片剧情。",
+   "新增“AI制作证明视频”：须完整展示用AI软件生成内容的过程，包含素材清单、分集表、各分集与分镜对应的提示词，以及少量分镜片段的播放录屏。",
+   "提交形式有明确限制：支持PDF、JPG、PNG、MP4格式，单个文件不超过10MB，最多上传3个；如果资料不全，很可能在审核时被驳回。",
+   "核心动机在于确权与去伪：AI短剧频繁出现素材盗用和版权模糊问题，平台希望用提示词配合项目资产来核验原创性与真实性。",
+   "规则由宽松转为严格：证明视频目前仍是可选项，12月1日起变为强制项；行业将从粗放扩张转向规范化、精品化竞争。"
+  ],
+  "impact": "对AI行业来说，内容治理正从“打标识”升级为“留证据”，提示词和资产链路成为合规凭证，这套做法大概率会被其他内容平台效仿。对开发者来说，AI短剧工作流必须“全程留痕”，自动保存prompt、素材与分镜版本并生成合规报告的工具将出现明确需求缺口。对普通用户来说，观感上会少一些粗制滥造的AI拼凑剧，剧集叙事更完整，AI内容的可辨识度也更高。",
+  "tools": "如果想跟进，可以关注这几类工具：ComfyUI（工作流节点可截图留证）、即梦、可灵等平台的生成历史记录，以及剪映草稿工程作为过程凭证；团队侧建议用Airtable或Notion维护素材清单与分集提示词表，配合对象存储做版本归档，方便一次导出PDF证明包。"
+ },
+ "lang": "zh"
+}

@@ -13084,5 +13084,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-20T07:15:08Z",
   "fetched_at": "2026-11-20T10:02:49.037343+00:00"
+ },
+ "3e34bd9e445f": {
+  "id": "3e34bd9e445f",
+  "url": "https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/",
+  "title": "ChatGPT Helped \"Sadistic\" School Shooter Build 3D-Printed Weapons",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T18:30:46Z",
+  "fetched_at": "2026-11-20T18:38:00.556477+00:00"
+ },
+ "cf539f1ee700": {
+  "id": "cf539f1ee700",
+  "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+  "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T18:11:11Z",
+  "fetched_at": "2026-11-20T18:38:12.555768+00:00"
+ },
+ "cb10754c31f6": {
+  "id": "cb10754c31f6",
+  "url": "https://www.commondreams.org/news/anthropic-wealth-inequality",
+  "title": "Anthropic Team Now Worth More Than Bottom Third of All US Households",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T18:10:37Z",
+  "fetched_at": "2026-11-20T18:38:24.343883+00:00"
+ },
+ "d32b20a39c5c": {
+  "id": "d32b20a39c5c",
+  "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+  "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+  "source": "Hacker News (44pts, 17c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T17:44:01Z",
+  "fetched_at": "2026-11-20T18:38:40.343886+00:00"
+ },
+ "2165e5382ec0": {
+  "id": "2165e5382ec0",
+  "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+  "title": "Chinese attackers used AI agents to find and exploit a university zero-day",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T17:42:55Z",
+  "fetched_at": "2026-11-20T18:38:52.172789+00:00"
+ },
+ "2187452a4651": {
+  "id": "2187452a4651",
+  "url": "https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout",
+  "title": "Uncovering 100+ errors in AI’s most popular benchmarks",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T16:08:21Z",
+  "fetched_at": "2026-11-20T18:39:32.382304+00:00"
  }
 }

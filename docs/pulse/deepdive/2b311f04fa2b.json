@@ -1,0 +1,24 @@
+{
+ "id": "2b311f04fa2b",
+ "url": "https://www.aibase.com/news/32443",
+ "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-20T14:34:03.006Z",
+ "fetched_at": "2026-11-20T18:36:50.037749+00:00",
+ "content": "ChatGPT, which has about 1.2 billion weekly active users, is getting a significant interaction update on mobile. On November 20, OpenAI began rolling out a new version of the ChatGPT mobile app interface to some users. The main goal is to help users reach frequently used features faster and lower the barrier to discovering new capabilities. This interface redesign is first available to ChatGPT Pro users who already have Dots or are eligible to create them, and it also includes a small number of eligible Plus users in the experience.\nInterface redesign: Dots becomes a standalone bottom tab, and commonly used tools can be customized and pinned\nFor quite a long time, ChatGPT’s overall layout has remained fairly stable: the prompt input box sits in the center, while the left navigation bar serves as the entry point for switching among features such as Dots, Spaces, Images, and Codex.\nThe new mobile interface changes this path: Dots gets its own tab at the bottom of the home screen, so users can access it directly without having to dig through the navigation bar. At the same time, users can pin commonly used features such as Codex, Projects, and Images to the bottom tab bar based on their personal habits, further shortening the path to frequently used tools.\nAccording to the rollout rules, the new design is available to ChatGPT Pro users who are at least 18 years old and located in regions where Dots is supported, as well as some eligible Plus users; however, it is not being rolled out in the European Economic Area (including the EU), the UK, Switzerland, or South Korea for now. Users can update the app to the latest version, and if the new interface does not appear by default, they can also enable it manually in Settings.\nDots expands testing and proactive service: gradual rollout to Plus and Business Standard\nAlong with the interface changes, the testing scope for Dots is also expanding further. Previously, Dots was only available to ChatGPT Pro subscribers, with plans starting at $100 per month; now, OpenAI has begun testing Dots with a small number of ChatGPT Plus users and is gradually rolling it out to ChatGPT Business Standard users.\nAn OpenAI executive said the team is still continuously collecting user feedback, and noted that after multiple rounds of improvements, Dots has received more positive feedback for its proactive service. Dots will also be opened up to a broader audience in the future.\nHealth ecosystem expansion: Android Health Connect integration and desktop website building support\nIn addition to the mobile interface changes, OpenAI is also broadening the scope of ChatGPT Health. The feature launched earlier this year and became available to all users in the United States in July; it previously supported integration with Apple Health.\nNow, users can connect health and fitness data through Android Health Connect to gain insights into sleep, activity levels, and more. Dots can also use this health information to offer more proactive suggestions, such as recommending an alternative time when a calendar meeting conflicts with a workout session, or using connected medical records to remind users about preventive care services they may be eligible for.\nIn addition, users can build customized websites based on health data in the ChatGPT desktop app, such as creating a personal webpage to track workouts. OpenAI said these health-related updates will roll out to users gradually as planned.",
+ "report": {
+  "summary": "ChatGPT移动端改版：Dots独立成Tab，接入安卓健康数据",
+  "background": "ChatGPT移动端布局长期稳定：输入框居中，左侧导航栏切换 Dots、Spaces、Images、Codex 等功能。随着能力不断增加，导航层级越来越深，新功能难被发现，常用工具路径也变长。今年 OpenAI 还推进 Dots 这一主动式服务，并把它放在高价位订阅里试探。健康数据整合是 ChatGPT 从对话工具向个人生活助理延伸的关键一步：该功能年初上线，7 月向全美用户开放，此前仅支持 Apple Health。",
+  "key_points": [
+   "界面改版核心是把 Dots 提为首页底部独立标签，用户还可把 Codex、Projects、Images 等常用功能固定到底栏，减少查找层级。首批覆盖 18 岁以上 Pro 用户和部分 Plus 用户，欧洲经济区、英国、瑞士、韩国暂未开放。",
+   "Dots 测试范围从 Pro 专属（起价约 100 美元/月的套餐）向少量 Plus 用户和 Business Standard 用户扩围。OpenAI 高管称经多轮改进后，其主动服务获得更多正面反馈，后续将进一步放开。",
+   "健康能力扩展到安卓：用户可通过 Android Health Connect 接入睡眠、活动等数据，此前仅支持 Apple Health。Dots 可据此主动建议，如日历会议与锻炼冲突时推荐改期，或依据病历提醒可能适用的预防性检查。",
+   "桌面端支持用健康数据搭建个性化网站，例如生成个人健身追踪页。OpenAI 表示这些健康相关更新将按计划逐步推送，而非一次性全量上线。",
+   "改版的出发点是降低门槛：ChatGPT 周活约 12 亿，功能越来越多，旧导航方式让新能力难被看见，底部自定义栏等于把选择权交给用户习惯。"
+  ],
+  "impact": "对行业而言，AI 助手正从被动应答的对话框升级为主动服务 + 个人数据中枢，竞争焦点从模型能力转向入口编排与数据接入。对开发者，底部标签位成为稀缺的分发资源，健康、日历等数据接口变成新的能力接入点。对普通用户，上手更简单、提醒更主动，但需留意健康数据授权范围；不同地区功能上线节奏差异也会带来使用体验落差。",
+  "tools": "想跟进可关注安卓端 Health Connect（健康数据聚合标准）与 Apple Health 的接入差异、ChatGPT 桌面端的建站功能，以及 Dots、Projects、Codex 的灰度更新。开发者可研究 OpenAI 应用与数据连接相关文档，评估把自有服务嵌入底部标签或健康数据流的可行性。"
+ },
+ "lang": "zh"
+}

@@ -24046,5 +24046,104 @@
   "site_name": "AIbase",
   "published_at": "2026-11-20T04:49:02.521Z",
   "fetched_at": "2026-11-20T09:59:10.187874+00:00"
+ },
+ "5074699621c4": {
+  "id": "5074699621c4",
+  "url": "https://thenextweb.com/news/mistral-opens-asia-pacific-headquarters-in-singapore-to-build-sovereign-ai",
+  "title": "Mistral opens Asia Pacific headquarters in Singapore to build sovereign AI",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:35:13.367213+00:00"
+ },
+ "16eecbd1e872": {
+  "id": "16eecbd1e872",
+  "url": "https://thenextweb.com/news/anthropic-shares-fall-day-two-greenshoe-119-5bn-ark-invest",
+  "title": "Anthropic shares fall more than 10% on day two as the AI sell-off spreads",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:35:23.708776+00:00"
+ },
+ "bf43cf29d841": {
+  "id": "bf43cf29d841",
+  "url": "https://thenextweb.com/news/california-bonta-subpoena-nvidia-china-chips-investors",
+  "title": "California subpoenas Nvidia over whether chips or secrets reached China",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:35:31.924089+00:00"
+ },
+ "b4ce9a9ddcf2": {
+  "id": "b4ce9a9ddcf2",
+  "url": "https://www.36kr.com/p/4077268679086982",
+  "title": "刚刚，Anthropic 敲钟上市，史上最大 IPO 却让硅谷吵翻了",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": "2026-11-20T14:34:03.006Z",
+  "fetched_at": "2026-11-20T18:35:52.886577+00:00"
+ },
+ "d0a61d8eb89b": {
+  "id": "d0a61d8eb89b",
+  "url": "https://www.qbitai.com/2026/11/511610.html",
+  "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:36:06.436601+00:00"
+ },
+ "3e283c08672c": {
+  "id": "3e283c08672c",
+  "url": "https://www.aibase.com/zh/news/32434",
+  "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:36:16.527909+00:00"
+ },
+ "3d8b23f85030": {
+  "id": "3d8b23f85030",
+  "url": "https://daily.dev/posts/pimnxhia0",
+  "title": "OpenAI、Anthropic 和 Cursor 各自构建 Git 基础设施以替代 GitHub",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-20T18:36:28.569242+00:00"
+ },
+ "57e635ded9d1": {
+  "id": "57e635ded9d1",
+  "url": "https://www.aibase.com/news/32447",
+  "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-20T14:34:03.006Z",
+  "fetched_at": "2026-11-20T18:36:37.520101+00:00"
+ },
+ "2b311f04fa2b": {
+  "id": "2b311f04fa2b",
+  "url": "https://www.aibase.com/news/32443",
+  "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-20T14:34:03.006Z",
+  "fetched_at": "2026-11-20T18:36:50.037749+00:00"
+ },
+ "dd8318e08765": {
+  "id": "dd8318e08765",
+  "url": "https://www.aibase.com/news/32437",
+  "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-20T14:34:03.006Z",
+  "fetched_at": "2026-11-20T18:37:00.759453+00:00"
+ },
+ "167a4a04dadd": {
+  "id": "167a4a04dadd",
+  "url": "https://www.aibase.com/news/32433",
+  "title": "苹果正研发通用型全功能AI代理，计划于2027年底发布",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-20T14:04:03.006Z",
+  "fetched_at": "2026-11-20T18:37:12.266607+00:00"
  }
 }

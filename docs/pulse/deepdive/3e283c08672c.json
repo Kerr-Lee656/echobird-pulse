@@ -1,0 +1,23 @@
+{
+ "id": "3e283c08672c",
+ "url": "https://www.aibase.com/zh/news/32434",
+ "title": "腾讯混元大模型全量开源：Hy4 正式开放权重，支持百万上下文",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-20T18:36:16.527909+00:00",
+ "content": "国产开源大模型阵营迎来又一重要进展。11月20日，腾讯混元团队正式宣布旗下 Hy4大模型开源，相关模型权重已在 GitHub、Hugging Face、ModelScope 和 GitCode 四个平台同步上线，开发者可自行下载部署。随着此次开源落地，混元 LLM 系列也正式实现全量开放。\n混元 LLM 全系集齐，旗舰版与高性价比版双线并进\n至此，腾讯混元 LLM 系列已完成全部版本的开源，涵盖 Hy3preview、Hy3、Hy4preview、Hy4以及 Hy4flash 等多个版本。\n其中，Hy4正式版最早于11月4日发布，本次开放的正是此前预告的模型权重。在架构与参数设计上，Hy4采用 MoE 混合专家架构，总参数量达到770B，激活参数为49B，上下文窗口突破100万 Token，能够承载更长文本与更复杂的任务上下文。\n与此同时，与旗舰版 Hy4一同开放的还有主打高性价比的 Hy4flash。该模型总参数量为224B（其中包含64B Engram 参数），每个 token 激活12B 参数，支持多模态输入与100万 token 上下文长度，且 API 价格相比 Hy4有大幅降低。\n采用 Apache2.0协议，同步公开安全评估细节\n在开放协议方面，Hy4及 Hy4preview 均采用 Apache2.0许可证，允许商业使用与修改，为企业落地和二次开发提供了较为宽松的授权基础。\n伴随权重开源，腾讯混元还同步发布了 Hy4模型安全评估卡片（System Card），披露了网络安全与生物安全等维度的评估结果。据官方说明，Hy4训练数据仅纳入 PoC 生成、漏洞修复等防守性网络安全内容，剔除了漏洞利用、逆向工程与渗透等攻击性数据;同时，腾讯玄武与科恩实验室的审计也未发现明显的进攻性能力风险。",
+ "report": {
+  "summary": "腾讯混元Hy4全量开源，770B MoE支持百万上下文。",
+  "background": "国产开源大模型竞争持续升温，长上下文与MoE架构成为旗舰模型的重要方向。腾讯混元此前已陆续开源Hy3 preview、Hy3、Hy4 preview等版本，此次开放Hy4正式版权重，补齐LLM系列全量开源版图。Apache 2.0协议和同步发布安全评估卡片，显示其希望兼顾商业落地、开发者生态与安全合规，并与Qwen、DeepSeek等国产开源模型形成直接竞争。",
+  "key_points": [
+   "混元LLM系列实现全量开源，Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash权重同步上线GitHub、Hugging Face、ModelScope和GitCode，开发者可自行下载部署。",
+   "旗舰Hy4采用MoE架构，总参数770B、激活参数49B，上下文窗口突破100万Token，面向长文本、复杂任务和更高阶推理场景。",
+   "Hy4 flash主打高性价比，总参数224B并包含64B Engram参数，每Token激活12B，支持多模态输入和100万Token上下文，API价格大幅降低。",
+   "Hy4及Hy4 preview采用Apache 2.0许可证，允许商业使用与修改；官方同步发布System Card，披露网络安全、生物安全等评估结果，并称训练数据剔除了攻击性网络安全内容。"
+  ],
+  "impact": "对AI行业而言，国产开源旗舰模型在参数规模、MoE效率和百万上下文上继续追平国际一线，开源竞争将更激烈。开发者获得宽松商用授权和二次开发空间，但770B模型部署门槛高，Hy4 flash更具实际落地价值。普通用户将间接受益于长文档处理、多模态应用和更低API价格。",
+  "tools": "可关注Hugging Face、ModelScope上的混元模型页，GitHub示例与腾讯混元API；推理侧可评估vLLM、SGLang对MoE和长上下文的支持，Hy4 flash更适合低成本试用与部署。"
+ },
+ "lang": "zh"
+}

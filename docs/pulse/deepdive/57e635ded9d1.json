@@ -1,0 +1,25 @@
+{
+ "id": "57e635ded9d1",
+ "url": "https://www.aibase.com/news/32447",
+ "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-20T14:34:03.006Z",
+ "fetched_at": "2026-11-20T18:36:37.520101+00:00",
+ "content": "Search engines have always been forgetful: once you finish asking about a topic, it's over. If you want to keep chatting, you have to dig through your history page by page. Google now wants to change that habit—Search has officially rolled out a collapsible sidebar that lets users quickly return to recent AI Mode search history from the desktop homepage. The feature debuted first on desktop and is gradually rolling out to users worldwide.\nPick up where you left off\nProduct lead Robby Stein explained the observation behind it: people now come to Search with more and more questions that \"aren't over after one ask,\" and a single topic often requires several rounds of follow-up questions. He said that in testing, this sidebar significantly helped users move tasks forward and continue exploring the web, and is \"a simpler way to pick up where you left off.\"\nAlready spotted by sharp-eyed users\nIn fact, this sidebar isn't exactly new—it had already been discovered by outsiders and was dubbed the \"AI Mode sidebar.\" One industry observer said they had already been using this experience for about three weeks and noticed it appearing on the left side of the main Google search results page, though at the time the feature had not yet been fully rolled out to all users. This official confirmation essentially makes the experience official.\nAnalysts believe that not everyone will embrace the interface change, but it may trigger a chain reaction Google would welcome: users may therefore initiate more search queries, and the use of AI Mode will rise along with it. For Google, this extra entry point beyond the search box means more than just convenience for return visits—it is a piece in the puzzle to push AI Mode from a \"novelty feature\" to a \"default habit.\"",
+ "report": {
+  "summary": "谷歌搜索上线AI模式历史侧边栏，支持接续上次对话",
+  "background": "传统搜索引擎的记忆只有一次：问完即结束，想继续追问只能翻历史记录。但随着AI Mode（谷歌的对话式AI搜索模式）普及，用户越来越多带着需要多轮追问的复杂问题而来，单次问答已不够用。谷歌先在桌面端首页推出可折叠侧边栏，展示最近的AI Mode搜索历史，一键回到上次的话题继续聊，随后逐步向全球用户推送。该功能此前已被部分用户发现并被称为“AI Mode侧边栏”，此次是官方正式确认。在Perplexity、ChatGPT搜索等竞品夹击下，这一步是谷歌把AI搜索从尝鲜功能变成默认习惯的关键布局。",
+  "key_points": [
+   "侧边栏是可折叠的，位于谷歌搜索首页侧边，列出最近的AI Mode对话记录，点击即可回到上次的话题继续追问，不必再逐页翻历史。",
+   "产品负责人Robby Stein表示，测试中该功能显著帮助用户推进任务、继续探索网页，是“接上次进度继续”的更简单方式。",
+   "该功能并非突然出现：此前已有用户发现并称之为“AI Mode侧边栏”，甚至已使用约三周，这次只是官方转正。",
+   "功能先在桌面端上线，再逐步推向全球，移动端节奏尚未明确。",
+   "分析认为界面改动未必人人买账，但可能带来连锁反应：用户发起更多搜索、AI模式使用率随之上升。",
+   "对谷歌而言，这是搜索框之外的额外入口，用意是把AI Mode从“新奇功能”变成“默认习惯”。"
+  ],
+  "impact": "对AI行业，这是搜索巨头用产品细节而非模型参数争夺用户留存的信号：对话连续性成为AI搜索的基础体验门槛，竞品会跟进“会话记忆+快捷入口”。对开发者，侧边栏式历史会话、跨会话上下文恢复是可复用的交互模式，也意味着围绕搜索结果的会话状态管理、隐私存储将有更多工程需求。对普通用户，复杂问题不必一次问清，追问成本降低，但也要注意搜索历史被更多留存带来的隐私与“信息茧房”问题。",
+  "tools": "想跟进可体验谷歌AI Mode及侧边栏；同类产品有Perplexity、ChatGPT搜索、微软Copilot。想自己动手，可关注开源项目Perplexica（AI搜索）、SearXNG（元搜索）、Khoj（个人知识库+对话），以及LangGraph、Mem0等做会话记忆与上下文管理的框架。"
+ },
+ "lang": "zh"
+}

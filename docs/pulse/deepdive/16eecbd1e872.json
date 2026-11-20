@@ -1,0 +1,24 @@
+{
+ "id": "16eecbd1e872",
+ "url": "https://thenextweb.com/news/anthropic-shares-fall-day-two-greenshoe-119-5bn-ark-invest",
+ "title": "Anthropic shares fall more than 10% on day two as the AI sell-off spreads",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-20T18:35:23.708776+00:00",
+ "content": "Anthropic shares fell more than 10% in premarket trading on Friday, as of 7:25am in New York, Bloomberg’s Carmen Reinicke and Sangmi Cha reported. The stock rose as much as 39% on Thursday before closing 17% up, its first day of trading.\nThe fall came as the underwriters exercised their over-allotment option, known as a greenshoe, Bloomberg reported. The option lets the banks sell extra shares after trading starts. Anthropic granted them up to 147 million more shares, according to its pricing announcement.\nThat lifts the total raised by Anthropic and its selling co-founders to $119.5bn, up from the $107.3bn at pricing. The IPO accounts for $93.5bn and the private placement for $26bn.\n“We’ve raised almost $120 billion. We think that positions us really well,” chief financial officer Krishna Rao told Bloomberg Television’s Ed Ludlow on Thursday.\nA global sell-off\nGlobal stocks are heading for their longest losing streak in more than three years, Bloomberg reported. MSCI’s Asia Pacific index fell 3.3% to its lowest level since April, and Nasdaq 100 futures slipped 1.8%.\nIn Tokyo, SoftBank fell 14.5%, its worst day in more than two years, The Guardian reported. Taiwan’s market dropped 6.7%, with TSMC down about 6%. Britain’s FTSE 100 hit a five-month low.\nInvestors have spent weeks worrying about Nvidia’s role as a backstop for the AI industry after Jensen Huang’s ouster, Bloomberg reported. The Democratic sweep in the midterm elections could also make new data centres harder to approve. Bloomberg named Apple’s plans for its own autonomous AI agent as another blow to sentiment.\nAnthropic could be “draining market liquidity”, IG’s chief market analyst Chris Beauchamp said, according to The Guardian. Investors are selling other shares to pay for its stock, he said.\n“What’s important for markets now is Anthropic is the most transparent real-time signal of the AI risk trade,” Jordan Watson, managing director of investments at Tandem Investment Advisors, said, according to Bloomberg.\nCathie Wood buys in\nARK Invest bought $90.8m of Anthropic shares across six funds after the debut, according to a trade notification from the firm, CNBC’s John Melloy reported. ARK has held private shares through its venture fund since early 2023, Wood said. Anthropic is a 0.3% stake in the $6.1bn ARK Innovation ETF.\n“We’re climbing a wall of worry,” Wood told CNBC’s Squawk Box on Friday.\nMore demand may come from index funds. If Anthropic qualifies for early inclusion, it could join the Russell 1000 and the Nasdaq 100 as soon as December, according to Bloomberg.\nThe cost question\nAnthropic reported a $567m operating loss in the third quarter, Bloomberg reported. The main driver was $5bn of computing costs under short-term commitments. There were also $2bn of non-cash charges tied to its donation-matching programme.\nGoldman Sachs analysts expect Anthropic to reach positive annual free cash flow only in 2030. They model its revenue at about $685bn that year.\n“A large part of the value is in the future, which is uncertain, so the share price movements will reflect that,” Vey-Sern Ling, managing director at Union Bancaire Privée, said, according to Bloomberg.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic上市次日大跌逾10%，AI抛售蔓延全球。",
+  "background": "Anthropic完成大规模IPO，承销商行使超额配售权后募资达1195亿美元，首日大涨后次日盘前跌超10%。此时全球股市因AI估值、英伟达前景、数据中心审批及流动性担忧连续下挫，Anthropic被视为AI风险交易的实时风向标。",
+  "key_points": [
+   "承销商行使greenshoe超额配售权，追加出售1.47亿股，使Anthropic及创始股东合计募资从1073亿美元升至1195亿美元。",
+   "全球AI抛售加剧：MSCI亚太指数跌3.3%，纳指期货跌1.8%，软银跌14.5%，台股跌6.7%，英国富时100创五个月低点。",
+   "市场担忧英伟达对AI行业的支撑角色、中期选举后数据中心审批更难、苹果自研AI代理，以及Anthropic抽走市场流动性。",
+   "ARK Invest在上市后买入9080万美元Anthropic股票；若快速纳入指数，Anthropic最早12月可进罗素1000和纳斯达克100。",
+   "Anthropic第三季度运营亏损5.67亿美元，主因50亿美元短期算力承诺，另有20亿美元非现金费用；高盛预计其2030年才实现正自由现金流。"
+  ],
+  "impact": "对AI行业，Anthropic成为AI估值与风险偏好的公开标杆，IPO抽血效应可能加剧板块波动；对开发者，融资与算力成本压力或传导至API定价和模型服务稳定性；对普通用户，AI产品迭代不会停，但免费额度和价格可能更敏感，投资AI概念需警惕高波动。",
+  "tools": "想跟进可关注Anthropic Claude API与模型发布、ARK Invest持仓披露、罗素1000和纳斯达克100指数纳入规则；开源侧可对比Llama、Mistral、DeepSeek等模型与推理成本。"
+ },
+ "lang": "zh"
+}

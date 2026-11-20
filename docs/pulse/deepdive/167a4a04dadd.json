@@ -1,0 +1,24 @@
+{
+ "id": "167a4a04dadd",
+ "url": "https://www.aibase.com/news/32433",
+ "title": "苹果正研发通用型全功能AI代理，计划于2027年底发布",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-20T14:04:03.006Z",
+ "fetched_at": "2026-11-20T18:37:12.266607+00:00",
+ "content": "According to a Bloomberg report on Thursday, November 19, 2026, citing job listings on Apple's website, Apple is accelerating development of a general-purpose, full-featured AI agent aimed at competing directly with products from leading labs such as OpenAI, Anthropic, and Meta. The product is planned for official release by the end of 2027.\nAccording to job descriptions such as \"Senior Engineering Manager, Proactive Intelligent AI Assistant,\" the agent goes far beyond the capabilities of the current Siri and Apple Intelligence Suite, positioning it as a general-purpose application agent capable of operating a computer like a skilled human. Its core technical plans include cross-app operations, web browsing, code writing and debugging, running commands and making API calls, and the ability to plan multi-step tasks and coordinate specialized sub-agents.\nTo ensure system security, Apple explicitly requires building a strong permissions model, sandboxing mechanisms, and high transparency, continuing its long-standing on-device privacy protection strategy. The effort is led by software engineering chief Craig Federighi.\nCurrently, competition in the AI agent field is white-hot. Meta has risen rapidly with its Muse assistant and has long held the No. 2 spot on the Apple App Store's free chart, placing it in the top five alongside ChatGPT and Claude; Google also released a new Gemini tool on the same day that can control Mac devices.\nAgainst this backdrop, while accelerating its own development, Apple has tightened control over its ecosystem. For example, in the upcoming macOS 27.3 beta, it added permission warnings and made enabling ChatGPT's computer control tool more cumbersome, increasing the steps from 4 to 14.\nAffected by the news, Meta and Anthropic shares fell about 2% and 3%, respectively, in late trading. The move marks the full-scale start of a battle for the system-level entry point, with Apple trying to reshape the on-device AI competitive landscape by combining ecosystem barriers and its own agent.",
+ "report": {
+  "summary": "苹果加速自研通用型全功能AI代理，计划2027年底发布，直接对标OpenAI等",
+  "background": "苹果的Siri长期被批评能力落后，2024年推出的Apple Intelligence也未能扭转局面；而AI代理赛道已进入白热化：Meta的Muse助手长期位居App Store免费榜第二，Google同日发布可控制Mac设备的Gemini新工具。据彭博社援引苹果官网招聘信息，苹果正由软件工程负责人Craig Federighi牵头组建“主动式智能AI助手”团队，试图依靠生态壁垒和自研代理重塑设备端AI格局。",
+  "key_points": [
+   "产品定位远超现有Siri：能像熟练人类一样操作电脑，跨应用执行任务、浏览网页、写代码并调试、运行命令与调用API。",
+   "技术上强调多步任务规划与子代理协同：由主代理拆解目标，再分派给专门化子代理分头执行并汇总。",
+   "安全上延续端侧隐私路线，明确要求严格的权限模型、沙箱隔离与高透明度，防止代理越权操作。",
+   "时间表指向2027年底，意味着苹果在代理赛道比头部实验室落后约两年，只能靠生态整合后发制人。",
+   "同时收紧生态控制：macOS 27.3测试版把开启ChatGPT电脑控制工具的门槛从4步增至14步并加权限警告。"
+  ],
+  "impact": "对行业而言，系统级入口之战正式开打：苹果若成功，会把AI代理变成操作系统原生能力，独立代理创业公司的空间将被压缩；消息已令Meta、Anthropic股价盘后分别下跌约2%和3%。对开发者，代理操作UI与跨应用编排将成为新的适配重点，同时需应对更严的权限与沙箱规则，互操作与上架成本上升。对普通用户，未来iPhone与Mac可自动代办多步任务，但需在便利与隐私授权之间重新权衡。",
+  "tools": "想跟进可关注Anthropic Computer Use、OpenAI AgentKit、Google Gemini的电脑控制能力，以及开源项目Browser Use、Open Interpreter、UI-TARS和Playwright MCP等代理与工具协议方案，可在本地体验代理操作电脑的完整链路。"
+ },
+ "lang": "zh"
+}

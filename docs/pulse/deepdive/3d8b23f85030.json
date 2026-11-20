@@ -1,0 +1,23 @@
+{
+ "id": "3d8b23f85030",
+ "url": "https://daily.dev/posts/pimnxhia0",
+ "title": "OpenAI、Anthropic 和 Cursor 各自构建 Git 基础设施以替代 GitHub",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-20T18:36:28.569242+00:00",
+ "content": "OpenAI, Anthropic, and Cursor (now owned by SpaceX) are each building their own alternatives to GitHub because AI coding agents generate far more commits and pushes than Git hosting was designed for. Anthropic's daily merges rose from about 2,500 in May to over 30,000 in September, prompting it to replace Git for its monorepo with an in-house system called Scion, which it reports uses about 200x less CPU and memory than its old Git mirroring infrastructure. OpenAI built a Rust-based Git backend called Pando that cut median push latency by about 80% and reached 99.99% merge reliability, and is acquiring Pierre Computer to bring Code Storage into Codex. Cursor's Origin, built into its editor, is in early beta for paid plans and syncs two-way with GitHub. An independent tracker logged 257 incidents at GitHub between May 2025 and April 2026 while it migrates to Azure, and GitHub says it has added 3+ million CPU cores since the August 17 outage.",
+ "report": {
+  "summary": "AI编程代理倒逼OpenAI等自建Git替代GitHub",
+  "background": "AI编程代理会频繁生成提交和推送，传统Git托管按人类协作规模设计，已难承载。Anthropic合并量数月内增长十余倍，GitHub又在迁移Azure期间故障频发，促使OpenAI、Anthropic和Cursor从应用层下沉到存储与合并基础设施，自建更适配代理工作负载的Git后端。",
+  "key_points": [
+   "Anthropic日合并量从5月约2500次增至9月超3万次，遂用自研Scion替换monorepo的Git，称CPU和内存占用约为旧镜像架构的1/200。",
+   "OpenAI自研Rust版Git后端Pando，推送中位延迟降约80%、合并可靠性达99.99%，并收购Pierre Computer把Code Storage并入Codex。",
+   "Cursor在编辑器内建Origin，付费计划早期测试，支持与GitHub双向同步，试图在AI编码入口处接管版本控制体验。",
+   "独立追踪器称2025年5月至2026年4月GitHub有257起事故，正值其迁移Azure；GitHub称8月17日故障后已新增300万+ CPU核心。"
+  ],
+  "impact": "对AI行业，Git托管从通用工具变成AI编码代理的关键基础设施，头部公司倾向垂直整合；对开发者，工具链更碎片化，但也可能获得更高推送/合并可靠性和更低延迟；对普通用户，AI编程助手响应更快、少受托管故障影响，代码交付节奏加快。",
+  "tools": "可关注Cursor Origin公测、GitHub Status与独立事故追踪；自建/替换可评估Forgejo、GitLab；Pando、Scion暂无公开开源信息。"
+ },
+ "lang": "zh"
+}
