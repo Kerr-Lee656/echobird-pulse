@@ -13237,5 +13237,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-20T21:52:42Z",
   "fetched_at": "2026-11-21T09:46:14.697161+00:00"
+ },
+ "d151114122a9": {
+  "id": "d151114122a9",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "title": "openvinotoolkit/openvino — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-21T17:28:21.977548+00:00"
+ },
+ "c597b1a88f39": {
+  "id": "c597b1a88f39",
+  "url": "https://github.com/mastra-ai/mastra",
+  "title": "mastra-ai/mastra — Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-21T17:28:33.519450+00:00"
+ },
+ "f8755aa98b9e": {
+  "id": "f8755aa98b9e",
+  "url": "https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b",
+  "title": "Actors Licensing AI Likenesses: A New Frontier for Hollywood Labor",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T17:22:28Z",
+  "fetched_at": "2026-11-21T17:28:44.928636+00:00"
+ },
+ "71fdde326120": {
+  "id": "71fdde326120",
+  "url": "https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/",
+  "title": "The AI Safety Community Is Increasingly Freaked Out. Should They Be?",
+  "source": "Hacker News (3pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T15:01:23Z",
+  "fetched_at": "2026-11-21T17:31:03.282630+00:00"
+ },
+ "0fd95d308fe4": {
+  "id": "0fd95d308fe4",
+  "url": "https://stripe.dev/blog/stripe-integration-evals-methodology",
+  "title": "Stripe evals: Measuring real-world coding agent performance",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T13:49:40Z",
+  "fetched_at": "2026-11-21T17:31:15.415103+00:00"
+ },
+ "f12353855220": {
+  "id": "f12353855220",
+  "url": "https://epyhia.com/allianz-warns-ai-insurance-losses-are-tip-of-the-iceberg-as-incidents",
+  "title": "Allianz Warns AI Insurance Losses Are \"Tip of the Iceberg\"",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T13:01:28Z",
+  "fetched_at": "2026-11-21T17:32:08.832052+00:00"
  }
 }

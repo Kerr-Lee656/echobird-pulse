@@ -24298,5 +24298,68 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-21T09:43:50.359172+00:00"
+ },
+ "5c5d62eba209": {
+  "id": "5c5d62eba209",
+  "url": "https://www.36kr.com/p/4078708897092744",
+  "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T17:26:34.855500+00:00"
+ },
+ "0c5f983c9da3": {
+  "id": "0c5f983c9da3",
+  "url": "https://www.36kr.com/p/4078768364754050",
+  "title": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T17:26:45.535966+00:00"
+ },
+ "9428bd5f6d04": {
+  "id": "9428bd5f6d04",
+  "url": "https://www.36kr.com/p/4078935983182722",
+  "title": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T17:26:56.747945+00:00"
+ },
+ "95b30ca62b42": {
+  "id": "95b30ca62b42",
+  "url": "https://www.qbitai.com/2026/11/511570.html",
+  "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": "2026-11-21T13:52:18.524Z",
+  "fetched_at": "2026-11-21T17:27:22.431565+00:00"
+ },
+ "79724867dfff": {
+  "id": "79724867dfff",
+  "url": "https://www.businessinsider.com/nvidia-neocloud-empire-fresh-threat-china-crackdown-2026-11",
+  "title": "英伟达的“新云”帝国失去了其最坚定的支持者。华盛顿方面可能对其造成了更沉重的打击。",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-21T11:49:00.492Z",
+  "fetched_at": "2026-11-21T17:27:33.305631+00:00"
+ },
+ "2637bb5046bf": {
+  "id": "2637bb5046bf",
+  "url": "https://www.ithome.com/1/030/464.htm",
+  "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-21T11:43:07Z",
+  "fetched_at": "2026-11-21T17:27:42.560340+00:00"
+ },
+ "112fe8349b1c": {
+  "id": "112fe8349b1c",
+  "url": "https://www.ithome.com/1/030/421.htm",
+  "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-21T09:22:39Z",
+  "fetched_at": "2026-11-21T17:27:53.925665+00:00"
  }
 }
