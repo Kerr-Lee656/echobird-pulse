@@ -24361,5 +24361,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-21T09:22:39Z",
   "fetched_at": "2026-11-21T17:27:53.925665+00:00"
+ },
+ "208c7bd5aa65": {
+  "id": "208c7bd5aa65",
+  "url": "https://juejin.cn/post/7709389619519160354",
+  "title": "OpenAI 突发 GPT-6.2：Sol 提速 8 倍跑分追平旗舰，但这 1 处暗改会让缓存直接失效！",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-21T20:17:26.845Z",
+  "fetched_at": "2026-11-21T23:09:02.565173+00:00"
+ },
+ "a3b191eee961": {
+  "id": "a3b191eee961",
+  "url": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude",
+  "title": "Anthropic employee claims to have proven the most famous math problem using Claude",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T23:09:12.559423+00:00"
+ },
+ "9aee92d83772": {
+  "id": "9aee92d83772",
+  "url": "https://thenextweb.com/news/dealbook-agi-panel-hendrycks-pause-frontier-ai-hodak-surveillance",
+  "title": "Dan Hendrycks calls for a pause on frontier AI, Max Hodak pushes back",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T23:09:22.406491+00:00"
+ },
+ "f77032161f05": {
+  "id": "f77032161f05",
+  "url": "https://thenextweb.com/news/openai-research-agents-46-percent-tasks-2400-a-day-jagged-frontier",
+  "title": "OpenAI says its agents now finish nearly half of 2 to 4-hour research tasks",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T23:09:35.226346+00:00"
+ },
+ "e5ff2352a41b": {
+  "id": "e5ff2352a41b",
+  "url": "https://www.36kr.com/p/4079074198705280",
+  "title": "Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T23:09:51.598249+00:00"
+ },
+ "7457cf9aebee": {
+  "id": "7457cf9aebee",
+  "url": "https://daily.dev/posts/new-columbia-and-mit-paper-shows-that-an-algorithm-claude-found-beats-the-long-standing-speed-limits-johatausr",
+  "title": "Claude breaks decades-old 3SUM and all-pairs shortest paths complexity barriers",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T23:10:00.295095+00:00"
+ },
+ "5551def0095f": {
+  "id": "5551def0095f",
+  "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+  "title": "Anthropic公司的一位数学家声称，他利用Claude证明了19世纪的黎曼猜想",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-21T17:23:51.629Z",
+  "fetched_at": "2026-11-21T23:10:20.809551+00:00"
+ },
+ "4e84c38aff37": {
+  "id": "4e84c38aff37",
+  "url": "https://www.huxiu.com/article/4907433.html?f=rss",
+  "title": "美国发审计牌照，中国改会计准则：AI 验收的两种活法",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-21T17:07:49Z",
+  "fetched_at": "2026-11-21T23:10:35.340908+00:00"
  }
 }

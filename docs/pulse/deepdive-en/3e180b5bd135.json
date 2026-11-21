@@ -1,0 +1,24 @@
+{
+ "id": "3e180b5bd135",
+ "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+ "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+ "source": "Rohan Paul",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-21T18:47:26.000Z",
+ "fetched_at": "2026-11-21T23:12:44.026053+00:00",
+ "content": "Rohan Paul· @rohanpaul_ai · X·· 4 小时前\nColumbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限\nColumbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。\n论文显示 Claude 发现的算法改进了 3SUM 和 APSP 的长期复杂度上限，并用 Lean 4 形式化验证，读者可以了解 AI 搜索算法的可行路径。\n哥伦比亚大学和麻省理工学院的新论文表明，Claude 发现的一种算法打破了 3SUM 和全对最短路径长期以来的速度极限。\n3SUM 问的是列表中是否有 3 个数之和为 0，全对最短路径则要求出图中每一对节点之间的距离。几十年来，没有人能把教科书式的二次和三次时间复杂度改进超过极小的常数因子，许多人认为不可能做到。\nClaude 找到了一种更快的方法来计算两个长而窄的矩阵乘积中的选定元素，跳过了经典方法所做的一些工作。已知的归约随后将其转化为 3SUM、最短路径以及许多相关问题的加速。\n3SUM 现在的运行时间为 O(n^1.9992)，最短路径为 O(n^2.9995)，这些微小的改进仍然否定了 3SUM 和 APSP 猜想。Claude 在一次会话中找到了该方法，使用了 1600 万输出 token，没有人类输入。\n把“已知困难”的算法极限视为 AI 搜索的开放目标，并像这篇论文用 Lean 4 所做的那样，对 AI 发现的证明进行形式化验证。\n来源：Rohan Paul · x.com",
+ "report": {
+  "summary": "Columbia and MIT researchers report that a Claude-discovered algorithm improves long-standing 3SUM and APSP complexity bounds, with Lean 4 verification.",
+  "background": "3SUM asks whether a list contains three numbers summing to zero; APSP asks for all pairwise shortest paths in a graph. For decades, the 3SUM and APSP conjectures have held that these problems require roughly quadratic and cubic time, and they underpin conditional lower bounds across fine-grained complexity. Even tiny polynomial speedups would formally refute those conjectures, which is why the claimed exponents matter. The result reportedly stems from a faster method for computing selected entries of a product of two long, narrow matrices, combined with known reductions. It also reflects a broader trend: LLMs are being used to search for algorithmic ideas, while proof assistants such as Lean 4 are used to check them. Independent validation is still essential.",
+  "key_points": [
+   "The paper reportedly gives 3SUM an O(n^1.9992) algorithm and APSP an O(n^2.9995) algorithm. The exponents are only slightly below the long-assumed barriers, but in fine-grained complexity even a tiny polynomial improvement is enough to refute the 3SUM and APSP conjectures.",
+   "The core trick is a faster way to compute selected elements in the product of two long, narrow matrices, avoiding some work that classical matrix multiplication performs. Known reductions then carry that improvement to 3SUM, all-pairs shortest paths, and many related problems.",
+   "Claude reportedly found the method in a single session using 16 million output tokens with no human input. That is notable as a test of whether LLMs can search large algorithmic design spaces, but the claim needs independent reproduction before it is treated as established.",
+   "The paper uses Lean 4 to formally verify the result. Formal verification matters for AI-generated mathematics: it can catch subtle errors and make machine-discovered proofs more trustworthy, though it does not by itself settle whether the algorithmic claim is novel or practically useful.",
+   "The headline comes from a social-media summary, so caveats apply: peer review, code, and full proofs should be checked. Even if correct, the speedups may be mainly theoretical, with large constants or limited practical benefit for current workloads."
+  ],
+  "impact": "For the AI industry, this is a high-profile signal that LLMs may contribute to hard theoretical computer science, not just code generation. It could encourage more work on AI-driven algorithm search coupled with proof assistants, and it raises expectations for reproducibility and formal verification. For developers, the immediate effect is likely limited: any new algorithms must be implemented, checked, and tuned before they matter in libraries. The bigger shift is methodological—LLM ideation plus Lean-checked proofs as a workflow. For regular users, benefits would be indirect, such as potentially faster graph, routing, or data-analysis tools, but not soon. The claim should be treated as promising, not settled, until independent experts replicate it.",
+  "tools": "Watch Lean 4 and Mathlib for formal proofs; proof-automation efforts such as AlphaProof and Lean-based LLM provers; fine-grained complexity surveys and benchmark suites; and the authors’ arXiv/Lean artifacts. Claude or other LLMs can be used for algorithm brainstorming, but pair them with proof assistants and independent testing."
+ },
+ "lang": "en"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "a3b191eee961",
+ "url": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude",
+ "title": "Anthropic employee claims to have proven the most famous math problem using Claude",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T23:09:12.559423+00:00",
+ "content": "Anthropic employee claims to have proven the most famous math problem using Claude\nLevent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis.\nA mathematician working for Anthropic claims to have discovered a proof of the Riemann Hypothesis using Claude. According to the BBC, Levent Alpöge used Claude to create a detailed proof of the problem over the course of six weeks. \"This problem has been the sacred object in mathematics for me since my childhood,\" Alpöge said in his announcement.\nIn very simple terms, Bernhard Riemann proposed way back in 1859 that prime numbers' locations along the number line have a meaningful order. Prime numbers are whole numbers that cannot be divided by anything other than themselves and the number one, if you want them to produce another whole number. As Scientific American notes, the Riemann Hypothesis is often considered the most important unsolved problem in math. The Clay Mathematics Institute recognizes it as one of its Millennium Prize Problems and had promised $1 million to the one who can find the first correct solution for it.\nAlpöge has presented his findings in a programming language called Lean that can be used to write and confirm mathematical proofs. He said the complete proof is over 250,000 pages long. In October, OpenAI also posted hundreds of solutions to previously unsolved math problems, as well as progress towards some of them, including the Riemann Hypothesis. It could take some time to confirm those solutions, just as it could take time to confirm Alpöge's Claude proof. James Maynard, a University of Oxford in England mathematician, told The New York Times he was \"98 or 99 percent certain\" that Alpöge's discovery is accurate. If it is, then Anthropic's AI has solved a 167-year-old problem that even the world's brightest minds couldn't.",
+ "report": {
+  "summary": "Anthropic员工称用Claude证明黎曼猜想，尚待验证",
+  "background": "黎曼猜想由Bernhard Riemann于1859年提出，关乎素数分布规律，被视为数学中最重要的未解问题之一，也是Clay数学研究所悬赏100万美元的千禧年难题。近年来AI数学推理能力快速提升，OpenAI此前也曾发布对未解数学问题的解法与进展。此次Anthropic员工Levent Alpöge称借助Claude生成Lean形式化证明，引发学界与产业界高度关注，但结论仍需同行验证。",
+  "key_points": [
+   "Alpöge称与Claude合作约六周，生成了黎曼猜想的详细证明，并称该问题是他童年以来的“数学圣杯”。",
+   "证明以Lean编程语言呈现，可用于机器检查和确认数学证明，完整版本超过25万页，规模远超人工审阅能力。",
+   "牛津大学数学家James Maynard表示“98%或99%确信”该发现准确，但尚未经过正式同行评审和社区确认。",
+   "此前OpenAI也宣称AI在包括黎曼猜想在内的未解数学问题上取得进展，AI数学成果如何可靠验证成为焦点。",
+   "若最终被证实，这将是AI首次解决167年未解的顶级数学难题，但当前仍应视为待验证的宣称。"
+  ],
+  "impact": "对AI行业而言，若被证实将是里程碑，说明大模型可辅助前沿数学推理，但验证瓶颈和可信度问题同样凸显；对开发者，形式化证明与AI结合或成新工具链方向；对普通用户，短期不宜把“宣称”当定论，长期可能见证AI加速科研发现。",
+  "tools": "想跟进可关注Lean 4与Mathlib、Lean证明检查器及社区验证流程；同时跟踪Anthropic Claude、OpenAI数学推理项目和相关arXiv/Lean社区讨论。"
+ },
+ "lang": "zh"
+}

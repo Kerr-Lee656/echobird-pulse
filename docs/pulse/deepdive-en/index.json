@@ -13291,5 +13291,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-21T13:01:28Z",
   "fetched_at": "2026-11-21T17:32:08.832052+00:00"
+ },
+ "6d36e0591a4f": {
+  "id": "6d36e0591a4f",
+  "url": "https://www.saywhichai.org",
+  "title": "Say which AI wrote it: AI transparency for Open Source projects",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T22:59:47Z",
+  "fetched_at": "2026-11-21T23:11:03.047679+00:00"
+ },
+ "dadcef3c2dd1": {
+  "id": "dadcef3c2dd1",
+  "url": "https://keepplain.com/blame",
+  "title": "Show HN: Git blame for AI code, down to the agent session",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T22:51:04Z",
+  "fetched_at": "2026-11-21T23:11:13.751398+00:00"
+ },
+ "7289e21f33e2": {
+  "id": "7289e21f33e2",
+  "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-21T21:37:10.000Z",
+  "fetched_at": "2026-11-21T23:12:15.659749+00:00"
+ },
+ "312eb198078a": {
+  "id": "312eb198078a",
+  "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+  "title": "Data Minimization for AI Agents (Brett Frischmann and Bruce Schneier)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T19:02:34Z",
+  "fetched_at": "2026-11-21T23:12:28.212296+00:00"
+ },
+ "3e180b5bd135": {
+  "id": "3e180b5bd135",
+  "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+  "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-21T18:47:26.000Z",
+  "fetched_at": "2026-11-21T23:12:44.026053+00:00"
+ },
+ "7fbdbfd5cb78": {
+  "id": "7fbdbfd5cb78",
+  "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+  "title": "Google makes it easier to use Gemini without training AI on your data",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T18:28:46Z",
+  "fetched_at": "2026-11-21T23:12:54.921901+00:00"
  }
 }

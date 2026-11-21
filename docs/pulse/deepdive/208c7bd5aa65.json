@@ -1,0 +1,24 @@
+{
+ "id": "208c7bd5aa65",
+ "url": "https://juejin.cn/post/7709389619519160354",
+ "title": "OpenAI 突发 GPT-6.2：Sol 提速 8 倍跑分追平旗舰，但这 1 处暗改会让缓存直接失效！",
+ "source": "juejin",
+ "site_name": "NewsNow",
+ "published_at": "2026-11-21T20:17:26.845Z",
+ "fetched_at": "2026-11-21T23:09:02.565173+00:00",
+ "content": "作者：一缕82年的清风\n定位：架构师实战解读 · 生产环境落地指南\n文章概览：拆解 11 月 17 日发布的 GPT-6.2（Astra 与 Sol）：Sol 写代码逼平旗舰且支持 8 倍极速，但顶层指令位置暗改会击穿缓存，附防坑代码。\n11 月 17 日，OpenAI 端出 GPT-6.2，只放了 GPT-6.2 Astra 和 GPT-6.2 Sol。\n距 9 月底 GPT-6.1 Sol 上线刚过两月，翻完价格表、实测和文档才发现，这次抢戏的是中端 Sol，以及接口里的账单暗坑。\n价格与规格：Astra 降两成，Sol 才是主力\n双型号标配约 105 万 Token 上下文（输入 92.2 万，输出 12.8 万），知识截止 2026 年 6 月，支持图文输入与工具调用。\n定价分工直白：\n- GPT-6.2 Astra（旗舰）：输入 \\(8.00/百万**，输出 **\\)40.00，缓存 **\\(0.40**（写入 `\\)10.00`）。废话压低后，单任务实测成本比初代 GPT-6 Astra 降约 20%。\n- GPT-6.2 Sol（主力）：沿用 \\(2.00 /\\)10.00，缓存 **\\(0.10**（写入 `\\)2.50`），输出更精炼，实际账单更省。\n离线走 Background 窗口（2h/8h）打 6~7 折，Batch 半价。重头戏是 Ultrafast 极速模式，吞吐冲到标准档约 8 倍，Pro 200 也解锁了 Sol 极速档。API 侧 2027 年 2 月 28 日前按 3 倍计费（Sol $6/$30，Astra $24/$120），3 月 1 日起恢复 6 倍。\n跑分追平老大，社区却给 Astra 泼冷水\n中端版这次把旗舰逼到墙角：\n- GPQA Diamond：Astra 97.0%，Sol 96.0%，差 1 个点。\n- FrontierCode 2.0：Astra 44.2%，Sol 43.8%，几乎打平，Sol 单价仅老大的四分之一。\n- PatchBench 补丁：Astra 79.7%，Sol 75.6%。\n- 智力与分析：Artificial Analysis 指数 Astra 62.1（+5），Sol 57.3；Plotly 数据分析 Sol 跑出 93% 准确率，花费约 6.1 Sol 一半。\n真正拉开差距的是科研终端 Terminal-Bench-Science 0.1（Astra 77.1% 对 Sol 68.0%）。\n看 Reddit 和 HN 反馈，温差明显：Codex 开极速跑 Sol 好评一片；Astra 仍爱过度设计、拆多层抽象，改代码前老反问确认，护栏收紧也让部分评测提升有限。无重度科研任务，切 Astra 容易多花四倍钱买个啰嗦搭档。\n迁移必避的 3 个接口暗坑\n升级别只改模型名，Responses API 在 6.2 改了三条硬规则：\n- 顶层 instructions 移到 input 后，击穿缓存：6.2 起顶层 instructions 会拼在 input 之后。前缀一变缓存失效，$0.10/$0.40 缓存价退回全价。复用规范须放进 input 首条 role: \"developer\"，顶层仅放单次要求。\n- reasoning.effort 传 \"none\" 报错：6.2 禁止关思考，须传 low、medium、high、xhigh 或 max。常规审查拧到 low 或 medium 即可。\n- 改对话前缀丢推理项：半途改历史或切模型会清空推理缓存，回答掉档还得重头推导。\n12 行防坑代码与路由建议\n吃满前缀缓存的 Python 调用模板（12 行）：\nfrom openai import OpenAI\nclient = OpenAI()\nresp = client.responses.create(\n    model=\"gpt-6.2-sol\",\n    reasoning={\"effort\": \"low\"},\n    input=[\n        {\"role\": \"developer\", \"content\": SYSTEM_RULES},  # 首条才吃满缓存\n        {\"role\": \"user\", \"content\": \"排查这段异步队列的死锁风险\"},\n    ],\n    instructions=\"只输出问题行号与最小修复代码\",  # 单次要求放顶层\n)\nprint(resp.output_text)\n落地分工：九成编码、PR 评审和文档清洗直接切 gpt-6.2-sol，高并发趁明年 2 月底前按需开 3 倍极速档；跨服务排障再路由 gpt-6.2-astra。网关里留着 Claude 5.5、Gemini 4 与 DeepSeek V4 混编更稳。\n💡 关注**【一缕82年的清风】**，洞悉技术底层与生态演进\n欢迎在评论区探讨交流与点赞转发",
+ "report": {
+  "summary": "OpenAI 发布 GPT-6.2：Sol 提速8倍逼近旗舰，接口改动会导致缓存失效",
+  "background": "距离 9 月底 GPT-6.1 Sol 上线仅两个月，OpenAI 在 11 月 17 日推出 GPT-6.2，只发布 Astra（旗舰）和 Sol（主力）两个型号：约 105 万 Token 上下文、知识截止到 2026 年 6 月，均支持图文输入与工具调用。Astra 降价约两成，Sol 维持 $2/$10 的定价。社区实测显示，中端 Sol 在代码与补丁类跑分上几乎追平旗舰，真正的差距集中在科研终端任务。与此同时，Responses API 在缓存前缀、reasoning.effort 取值、推理缓存保留三处做了不显眼的改动，成为升级迁移中最容易增加成本的地方，也反映出行业竞争已从模型能力转向推理成本与工程细节。",
+  "key_points": [
+   "Sol 用旗舰四分之一的单价几乎追平：FrontierCode 44.2% 对 43.8%，GPQA 相差 1 分；真正拉开差距的是科研终端任务，为 77.1% 对 68.0%。",
+   "Ultrafast 极速模式吞吐量约为标准档的 8 倍，Pro 200 也解锁了 Sol 极速档；API 侧在 2027 年 2 月 28 日前按 3 倍计费，3 月 1 日起恢复 6 倍，目前是一个有时间窗口的折扣。",
+   "最危险的问题是缓存失效：6.2 起顶层 instructions 会被拼接到 input 之后，前缀一变缓存就全部失效，$0.10/$0.40 的缓存价会退回全价。",
+   "正确做法是把可复用的系统规范放进 input 首条 role: developer，顶层 instructions 只放单次要求；文中给出了 12 行可复用的 Python 模板。",
+   "另外两个隐患：reasoning.effort 传 none 会直接报错，只支持 low 到 max；对话中途修改历史或切换模型会清空推理缓存，导致质量下降并重新推导。"
+  ],
+  "impact": "对行业而言，中端模型追平旗舰说明能力差距正在缩小，竞争焦点转向单位任务成本、缓存计价与吞吐速度，计费规则的细节反而成了隐形壁垒。对开发者，升级时不能再只改模型名，而要先审计 prompt 结构，让系统规范前移，同时调整 reasoning.effort 参数并规划计费窗口；推荐九成编码与评审走 Sol，跨服务排障再路由 Astra。对普通用户，这意味着更快、更便宜的编码与文档助手，但背后多模型混编将成为服务端常态。",
+  "tools": "可关注 OpenAI Responses API 官方 SDK 与 Batch/Background 离线折扣窗口；工程侧可用 LiteLLM、OpenRouter 一类网关做多模型路由与缓存命中率监控，同时保留 Claude 5.5、Gemini 4、DeepSeek V4 作为备用模型混编，避免被单一模型的接口变更影响。"
+ },
+ "lang": "zh"
+}

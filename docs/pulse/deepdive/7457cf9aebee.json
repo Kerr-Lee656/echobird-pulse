@@ -1,0 +1,24 @@
+{
+ "id": "7457cf9aebee",
+ "url": "https://daily.dev/posts/new-columbia-and-mit-paper-shows-that-an-algorithm-claude-found-beats-the-long-standing-speed-limits-johatausr",
+ "title": "Claude breaks decades-old 3SUM and all-pairs shortest paths complexity barriers",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-21T23:10:00.295095+00:00",
+ "content": "New Columbia and MIT paper shows that an algorithm Claude found beats the long-standing speed limits for 3SUM and all-pairs shortest paths. 3SUM asks whether 3 numbers in a list sum to 0, and all-pairs shortest paths asks for every distance in a graph. For decades, nobody beat textbook quadratic and cubic time by more than tiny factors, and many assumed nobody could. Claude found a faster way to compute selected entries of a product of 2 long, thin matrices, skipping work a classic method does. Known reductions then turn this into speedups for 3SUM, shortest paths, and many related problems. 3SUM now runs in O(n^1.9992) time and shortest paths in O(n^2.9995), tiny gains that still refute the 3SUM and APSP hypotheses. Claude found the method in 1 session using 16M output tokens with no human input. Treat \"known hard\" algorithm limits as open targets for AI search, and check AI-found proofs formally, as this paper did with Lean 4.",
+ "report": {
+  "summary": "Claude 自主发现算法，首次打破 3SUM 与 APSP 的几十年复杂度壁垒",
+  "background": "3SUM（判断数列中是否有三个数之和为 0）和全源最短路（APSP）是算法理论的经典基准问题。几十年来，学界普遍相信 3SUM 无法显著快于平方时间、APSP 无法显著快于立方时间，并由此衍生出「3SUM 猜想」「APSP 猜想」，成为细粒度复杂性理论的基础假设，大量问题的下界都依赖它们。Columbia 与 MIT 的新论文称，Claude 在一次会话中自主找到更快的矩阵乘法思路，再经经典归约传递到这两个问题，从而动摇了这些猜想。",
+  "key_points": [
+   "Claude 的突破口是「细长矩阵相乘」：两个又长又窄的矩阵求积时只需算出部分目标元素，它找到跳过经典算法冗余计算的方法。",
+   "借助算法理论中成熟的归约链条，这一矩阵乘法的加速被传导到 3SUM、全源最短路以及一大批相关问题。",
+   "实测复杂度为 3SUM 的 O(n^1.9992) 与 APSP 的 O(n^2.9995)，提升幅度极小，但足以在原理上推翻 3SUM 与 APSP 猜想。",
+   "整个发现由 Claude 在一次会话中完成，消耗约 1600 万输出 token，全程无人类介入；论文用 Lean 4 对结果做了形式化验证。",
+   "意义不只在结论：它把「公认很难的算法瓶颈」变成 AI 搜索可以试着攻克的目标，同时给出「AI 找证明 + 机器形式化校验」的工作流。"
+  ],
+  "impact": "对 AI 行业而言，这是 AI 首次在纯数学/理论计算机科学的经典开放问题上给出被形式化验证的新结果，说明大模型可以承担「猜想搜索器」的角色；对开发者，短期内没有工程影响——常数级的理论加速无法直接落地，但它提醒人们，被当作「理论上最优」的算法实现未必终局；对普通用户几乎无感，真正的变化是「AI 产出数学证明需经 Lean 等工具核验」这一规范会被更广泛接受，也意味着 AI 科研的可信度评估方式正在成形。",
+  "tools": "想跟进可关注 Lean 4 与 Mathlib（论文用它完成形式化验证）、Lean 的 AI 证明助手如 LeanCopilot，以及细粒度复杂度理论综述（Virginia Vassilevska Williams 等人的矩阵乘法与 3SUM 归约工作）。实操路径：用 Claude 等模型尝试小规模算法猜想，再用 Lean 4 验证。"
+ },
+ "lang": "zh"
+}
