@@ -24235,5 +24235,68 @@
   "site_name": "Zeli",
   "published_at": "2026-11-20T20:22:41Z",
   "fetched_at": "2026-11-21T01:29:33.761170+00:00"
+ },
+ "d0d921540514": {
+  "id": "d0d921540514",
+  "url": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages",
+  "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T09:42:15.619418+00:00"
+ },
+ "85360005f474": {
+  "id": "85360005f474",
+  "url": "https://www.ithome.com/1/030/322.htm",
+  "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T09:42:24.558044+00:00"
+ },
+ "e8988ad88d0a": {
+  "id": "e8988ad88d0a",
+  "url": "https://www.ithome.com/1/030/319.htm",
+  "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T09:42:34.116842+00:00"
+ },
+ "ffb9fe24117f": {
+  "id": "ffb9fe24117f",
+  "url": "https://api3.cls.cn/share/article/2540732?os=web&sv=8.4.6&app=CailianpressWeb",
+  "title": "甲骨文称已筹集履行与 OpenAI 合同所需全部资金，预计 2029 财年自由现金流超 300 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T09:42:44.748617+00:00"
+ },
+ "ed50f2ef13a5": {
+  "id": "ed50f2ef13a5",
+  "url": "https://www.ithome.com/1/030/297.htm",
+  "title": "黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，陶哲轩称验证仍需时间",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-20T23:40:02Z",
+  "fetched_at": "2026-11-21T09:43:33.740449+00:00"
+ },
+ "bccd1f044916": {
+  "id": "bccd1f044916",
+  "url": "https://www.ithome.com/1/030/296.htm",
+  "title": "440 亿美元！阿波罗与高盛完成迄今规模最大 GPU 融资定价，SpaceX 要买英伟达芯片",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-20T23:34:13Z",
+  "fetched_at": "2026-11-21T09:43:41.047489+00:00"
+ },
+ "427b5464a786": {
+  "id": "427b5464a786",
+  "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents",
+  "title": "Signal now blocks screenshots by default to stymie AI agents",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T09:43:50.359172+00:00"
  }
 }

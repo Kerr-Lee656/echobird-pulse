@@ -1,0 +1,24 @@
+{
+ "id": "d0d921540514",
+ "url": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages",
+ "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T09:42:15.619418+00:00",
+ "content": "Signal Restricts Screenshots to Block AI Agents From Reading Messages 15\n\t\t\t\n\t\t \t\n\t\t\t\tSignal is introducing default-on screenshot restrictions to prevent AI agents from reading private conversations, warning that increasingly powerful assistants integrated into operating systems pose an \"existential threat\" to its privacy guarantees. \"Right now, these agentic AI integrations are changing this environment in a way that's making it increasingly hostile to privacy. This is an existential threat to Signal, and our ability to responsibly uphold our mission,\" it said in a blog post. Reuters reports:  Signal, widely regarded by privacy advocates as a leader in secure messaging, called its new protections \"incomplete\" and urged operating system providers Apple, Alphabet's Google and Microsoft to give app developers more concrete ways to block the agents from accessing sensitive data. It also called on those companies to provide more information about how their agents function, so developers can assess what data the bots are accessing and adjust their systems accordingly.\n[...] Users will receive pop-up windows giving them options to disable the blocks when Signal detects screenshot attempts or efforts by an AI assistant to access the screen, depending on the device. Signal similarly blocked Microsoft's Recall AI from taking screenshots on Windows last year. It said it was unable to reliably offer such protections on Apple's macOS.",
+ "report": {
+  "summary": "Signal 默认开启防截屏，阻止 AI 代理读取私密消息",
+  "background": "Signal 一直被隐私倡导者视为安全通信的标杆，其核心承诺是端到端加密：消息在传输和服务器侧都是密文。但端到端加密默认「终端设备本身可信」，而操作系统级的 agentic AI（能读屏、截屏、代操作的应用助手）直接读到的却是解密后的界面内容，等于绕过了加密。Signal 早在去年就阻止过微软 Recall 在 Windows 上截屏；此次把防护升级为默认开启，并公开点名苹果、谷歌、微软，要求提供更明确的拦截接口与 AI 代理行为披露机制。",
+  "key_points": [
+   "默认开启防截屏：Signal 检测到截屏或 AI 助手尝试读取屏幕时，会弹出窗口让用户决定是否放行，不再默认放开。",
+   "官方承认防护「不完整」：在苹果 macOS 上无法可靠实现同类保护，Signal 表示需要操作系统厂商配合才能补上缺口。",
+   "矛头指向系统级 AI：端到端加密只保护传输与存储过程，而读屏代理直接拿走了解密后的内容，加密因此被间接绕过。",
+   "呼吁平台方开放能力并提高透明度：让开发者知道 AI 代理具体访问了哪些数据，才能相应调整自身系统的防护。",
+   "延续去年的路线：此前已封堵微软 Recall 的截屏功能，这次把同样思路扩展到更多设备与更多 AI 助手场景。"
+  ],
+  "impact": "对 AI 行业，端到端加密与系统级代理之间的矛盾被公开化，可能推动「代理访问权限」规范与新的隐私 API 出现。对开发者，读屏类 agent 将面临更多应用级拦截，无障碍与自动化接口的稳定性、合规成本都会上升。对普通用户，隐私默认更强，但会看到更多确认弹窗；而真正的安全仍取决于操作系统是否愿意给应用「拒绝被看」的权力。",
+  "tools": "可跟进 Signal 官方博客与桌面、移动端最新版本；动手验证可关注 Windows Recall 的开关、macOS 屏幕录制权限；开发者可研究 Android 的 FLAG_SECURE、iOS 的截屏检测 API、macOS ScreenCaptureKit 权限模型，以及开源的 libsignal 加密库。"
+ },
+ "lang": "zh"
+}

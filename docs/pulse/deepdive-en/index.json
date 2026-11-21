@@ -13192,5 +13192,50 @@
   "site_name": "Ars Technica",
   "published_at": "2026-11-20T21:47:10.000Z",
   "fetched_at": "2026-11-21T01:33:53.584820+00:00"
+ },
+ "a19ba2b6c5a6": {
+  "id": "a19ba2b6c5a6",
+  "url": "https://clawvet.vercel.app/",
+  "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T09:40:06Z",
+  "fetched_at": "2026-11-21T09:44:27.111046+00:00"
+ },
+ "ff772f090165": {
+  "id": "ff772f090165",
+  "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T09:26:37Z",
+  "fetched_at": "2026-11-21T09:44:43.510211+00:00"
+ },
+ "d09d58ac2ef1": {
+  "id": "d09d58ac2ef1",
+  "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+  "title": "Anthropic mathematician claims to prove Riemann hypothesis",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T02:23:20Z",
+  "fetched_at": "2026-11-21T09:45:16.539543+00:00"
+ },
+ "c03990b614e8": {
+  "id": "c03990b614e8",
+  "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+  "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T01:03:45Z",
+  "fetched_at": "2026-11-21T09:45:26.576745+00:00"
+ },
+ "f19cddd04797": {
+  "id": "f19cddd04797",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "title": "Google Search upgrade: Gemini 4 Hydrogen features",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T21:52:42Z",
+  "fetched_at": "2026-11-21T09:46:14.697161+00:00"
  }
 }

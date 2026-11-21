@@ -1,0 +1,24 @@
+{
+ "id": "427b5464a786",
+ "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents",
+ "title": "Signal now blocks screenshots by default to stymie AI agents",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T09:43:50.359172+00:00",
+ "content": "Signal now blocks screenshots by default to stymie AI agents\nThe company is calling for a simple way for developers to opt out of AI snooping.\nSignal views AI agents built into phones as an \"existential threat,\" and it's acting accordingly. The encrypted messaging app said Friday that it will block screenshots by default on iOS 27, and on Android when AI assistants try to capture the screen.\nThe measures keep Apple's Siri AI and Google's Gemini Intelligence from snooping on your chats, at least to a degree. The assistants are designed to help users by reading what's on the screen and pulling in information to better answer their questions. But the byproduct is that chats meant to be private — including encrypted ones — can end up on a remote server outside your or Signal's control.\nThe move echoes one from last year, when Signal blocked Microsoft's Recall from snapshotting chats on Windows 11.\nSignal's concerns aren't limited to the built-in assistants. It's also worried about third-party agents like Meta's Muse, which Reuters caught reading Signal messages via permissions granted during setup. On Android, it read messages from notifications; on Mac, it used accessibility permissions, which Signal warns can be exploited \"as a skeleton key.\"\nThe new settings are slightly different on iOS and Android. On iPhone, a new \"Block Siri AI\" setting is on by default. On Android, Signal uses its existing \"Screen security\" option. On both platforms, you'll see a prompt offering to turn the protection off when it detects either a screenshot (iOS) or an AI assistant reading the screen (Android).\nBut that protection only goes so far. If the other person has switched protections off, blocking screenshots on your end won't stop an AI assistant or agent from reading your messages on the other person's device. It also won't prevent third-party agents from reading notifications or digging through files. Signal says operating system makers don't offer a way for developers to restrict AI access \"without making drastic compromises to the core user experience.\" On Mac, that leaves Signal without any user protections at all.\nIn some ways, this mirrors the problem with AI glasses, which can record bystanders without their knowledge or consent. That's led to them being banned in some public places, like courtrooms and schools, and being shunned as \"perv glasses.\" Privacy in the age of AI is becoming less of an individual setting and more of a communal choice, with laws and social shaming being some of the only recourse individuals have.\nAs for Signal, it wants a standard, system-level way to block AI agents from reading apps' content. It says it's talking with Apple and Google and is cautiously optimistic about where that's headed. Until then, know that \"privacy\" is a relative term at best.",
+ "report": {
+  "summary": "Signal默认阻止截图和AI助手读屏以保护聊天隐私",
+  "background": "Signal是主打端到端加密的通讯应用，因手机内置AI助手可读取屏幕内容并上传远端服务器，担忧AI代理成为隐私威胁。此前它已阻止Windows Recall截屏；此次在iOS 27默认屏蔽Siri AI，在Android用“屏幕安全”阻止AI助手读屏，并呼吁系统级退出机制。",
+  "key_points": [
+   "Signal在iOS 27默认开启“阻止Siri AI”，Android利用屏幕安全拦截AI读屏，试图减少聊天被采集。",
+   "保护有局限：若对方关闭防护，你这边阻止也无效；通知、文件、Mac端仍可能被第三方代理读取。",
+   "Signal点名Meta Muse曾借通知和辅助功能权限读取消息，称辅助功能权限像“万能钥匙”。",
+   "公司正与苹果谷歌沟通，希望提供系统级、标准化的AI代理访问退出机制。",
+   "事件反映AI时代隐私从个人设置变为群体选择，类似AI眼镜引发公共空间争议。"
+  ],
+  "impact": "对AI行业，系统级AI代理的屏幕读取权限将面临更严格审视，平台需设计明确授权与退出机制；对开发者，读屏、辅助功能等敏感权限的合规成本上升，加密通信需默认防护；对普通用户，隐私保护更依赖双方设备设置和平台规则，单端开关无法完全阻止AI窥探。",
+  "tools": "可关注Signal官方更新及iOS/Android隐私设置；想研究替代方案可看开源加密通信Matrix/Element、XMPP+OMEMO，以及Android的GrapheneOS权限管理。企业开发者应关注Apple/Google的AI代理权限API动向。"
+ },
+ "lang": "zh"
+}
