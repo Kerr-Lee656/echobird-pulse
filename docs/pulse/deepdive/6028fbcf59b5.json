@@ -1,0 +1,23 @@
+{
+ "id": "6028fbcf59b5",
+ "url": "https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage",
+ "title": "Google Is Putting AI Chats Right On the Homepage",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T01:27:59.368770+00:00",
+ "content": "Google Is Putting AI Chats Right On the Homepage (theverge.com) 30\n\t\t\t\n\t\t \t\n\t\t\t\tGoogle is rolling out a redesigned desktop homepage that adds a collapsible sidebar for accessing and continuing previous AI Mode searches.  Google's vice president of product, Robby Stein, says the company is rolling out the option because \"people are coming to Search with more questions that aren't just one and done,\" adding that \"in testing, this sidebar made a big difference for making progress & continuing to explore the web.\" The Verge reports:  It's yet another big change for Google's homepage, which has long presented you with a single bar to kick off your web search. The company brought its AI Mode button to its search bar last year, which opens up a chatbot-like search experience within Google. In May, Google updated its search box to accommodate longer queries and added AI-powered autocomplete.",
+ "report": {
+  "summary": "谷歌桌面主页新增AI对话侧栏，搜索转向连续会话。",
+  "background": "谷歌搜索主页长期以单一搜索框为核心，用户习惯“输入一次、得到链接”。过去一年，谷歌把AI Mode按钮放进搜索栏，提供聊天式搜索；今年5月又更新搜索框以支持更长查询，并加入AI自动补全。此次在桌面主页加入可折叠侧栏，让用户查看和继续此前的AI搜索，说明谷歌正把主页从“搜索入口”改造成“持续对话与探索入口”，以应对ChatGPT、Perplexity等对话式产品对搜索习惯的争夺。",
+  "key_points": [
+   "新主页在桌面端加入可折叠侧栏，用户可查看并继续之前的AI Mode搜索，不再局限于一次性查询。",
+   "谷歌产品负责人称用户提问更复杂、需要连续探索，测试中侧栏明显提升了继续使用和探索网页的意愿。",
+   "这是谷歌主页多年来的重大改动之一：从单一搜索框转向“搜索+对话”入口，AI Mode按钮、长查询和AI补全已提前铺垫。",
+   "对搜索行业而言，谷歌把多轮AI会话前置到流量最大的入口，正面回应ChatGPT和Perplexity带来的对话式搜索趋势。"
+  ],
+  "impact": "对AI行业，搜索入口进一步“助手化”，多轮会话、上下文记忆和答案生成将成为标配，谷歌与AI搜索创业公司的竞争更直接。对开发者，流量可能更多发生在AI答案和追问环节，需关注内容被AI引用、结构化数据和RAG优化。对普通用户，连续追问和找回历史搜索更方便，但也需警惕答案透明度、信息源可信度和过度依赖。",
+  "tools": "想跟进可体验Google AI Mode和Gemini，对比Perplexity、Bing Copilot的连续对话搜索；开发者可关注Gemini API、Google Search Console及Ahrefs等SEO监测工具，观察AI搜索带来的流量变化。"
+ },
+ "lang": "zh"
+}

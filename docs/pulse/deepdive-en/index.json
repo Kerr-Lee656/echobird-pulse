@@ -13138,5 +13138,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-20T16:08:21Z",
   "fetched_at": "2026-11-20T18:39:32.382304+00:00"
+ },
+ "de7c0c4b60a0": {
+  "id": "de7c0c4b60a0",
+  "url": "https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/",
+  "title": "Claude Watermarks Your Words, and You Can't Check Them (Yet)",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T01:10:44Z",
+  "fetched_at": "2026-11-21T01:30:33.892074+00:00"
+ },
+ "58ec7438120e": {
+  "id": "58ec7438120e",
+  "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+  "title": "A push for a treaty to not allow AI total control over nukes",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T00:31:13Z",
+  "fetched_at": "2026-11-21T01:31:06.183676+00:00"
+ },
+ "87df34a31f62": {
+  "id": "87df34a31f62",
+  "url": "https://cvigoe.github.io/website/ai-cures/",
+  "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-21T00:29:57Z",
+  "fetched_at": "2026-11-21T01:31:50.001720+00:00"
+ },
+ "ae5a204aaba7": {
+  "id": "ae5a204aaba7",
+  "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "title": "Google rolls out new search homepage with AI chat history and no search button",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-20T21:58:29.000Z",
+  "fetched_at": "2026-11-21T01:32:38.030794+00:00"
+ },
+ "cc88c546d121": {
+  "id": "cc88c546d121",
+  "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+  "source": "Hacker News (7pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-20T21:53:39Z",
+  "fetched_at": "2026-11-21T01:33:36.169164+00:00"
+ },
+ "85d0c5a4a983": {
+  "id": "85d0c5a4a983",
+  "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "source": "Ars Technica",
+  "site_name": "Ars Technica",
+  "published_at": "2026-11-20T21:47:10.000Z",
+  "fetched_at": "2026-11-21T01:33:53.584820+00:00"
  }
 }

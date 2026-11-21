@@ -24145,5 +24145,95 @@
   "site_name": "AIbase",
   "published_at": "2026-11-20T14:04:03.006Z",
   "fetched_at": "2026-11-20T18:37:12.266607+00:00"
+ },
+ "8c9bd7f0c40c": {
+  "id": "8c9bd7f0c40c",
+  "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+  "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:27:38.528950+00:00"
+ },
+ "2e6a04db1cd4": {
+  "id": "2e6a04db1cd4",
+  "url": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china",
+  "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:27:49.541672+00:00"
+ },
+ "6028fbcf59b5": {
+  "id": "6028fbcf59b5",
+  "url": "https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage",
+  "title": "Google Is Putting AI Chats Right On the Homepage",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:27:59.368770+00:00"
+ },
+ "861ca51b04b5": {
+  "id": "861ca51b04b5",
+  "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+  "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:28:14.183765+00:00"
+ },
+ "6494807141be": {
+  "id": "6494807141be",
+  "url": "https://thenextweb.com/news/palo-alto-networks-applied-compute-4-5bn-open-weight-ai",
+  "title": "Palo Alto Networks buys AI startup Applied Compute for $4.5bn in stock",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:28:28.172795+00:00"
+ },
+ "aba82045a416": {
+  "id": "aba82045a416",
+  "url": "https://thenextweb.com/news/apple-ai-agent-job-listing-computer-use-bloomberg",
+  "title": "Apple is building an AI agent that codes and controls apps, Bloomberg reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:28:39.794229+00:00"
+ },
+ "66eae4612900": {
+  "id": "66eae4612900",
+  "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+  "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:28:49.911294+00:00"
+ },
+ "d020b8aa67dc": {
+  "id": "d020b8aa67dc",
+  "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+  "title": "Trump threatens ban on US firms building AI data centres overseas",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:28:56.735082+00:00"
+ },
+ "9a44e9cd7a39": {
+  "id": "9a44e9cd7a39",
+  "url": "https://www.techflowpost.com/zh-CN/newsletter/146054",
+  "title": "AI 编程初创公司 Cognition 洽谈融资，估值或达 750 亿美元",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-21T01:29:14.318869+00:00"
+ },
+ "658afeb85fc8": {
+  "id": "658afeb85fc8",
+  "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+  "title": "Nvidia accounting under SEC investigation, sources say",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-20T20:22:41Z",
+  "fetched_at": "2026-11-21T01:29:33.761170+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "658afeb85fc8",
+ "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+ "title": "Nvidia accounting under SEC investigation, sources say",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-20T20:22:41Z",
+ "fetched_at": "2026-11-21T01:29:33.761170+00:00",
+ "content": "Nvidia's worst week on record just got worse. Now the government is asking questions about its books.\nNvidia (NVDA) stock fell nearly 14% Friday, its worst day since the DeepSeek rout in January 2025 and its seventh straight loss. The drop came as Reuters reported that the Securities and Exchange Commission's probe of the chipmaker is examining potential accounting issues.\nThe Wall Street Journal reported Tuesday that the probe includes an examination of whether Nvidia's disclosures misled investors. Nvidia didn't respond to Bloomberg's request for comment on that report, and the SEC declined to comment.\nThe selling set records. Nvidia shed about $485 billion in market value Friday and nearly $900 billion this week, as its stock had its worst week since October 2008. That tops the $573 billion it lost last week, previously the biggest one-week drop for any company on record, according to Dow Jones Market Data.\nSince its Oct. 6 record, Nvidia has lost about $2.7 trillion in market value, more than the $2.5 trillion that The Kobeissi Letter called the biggest 45-day loss for any stock in history. The world's most valuable company six weeks ago now ranks fourth in the US, behind Apple (AAPL), Microsoft (MSFT) and Alphabet (GOOGL).\nNvidia's latest quarterly report raised a few questions. The company said its 10-Q, the detailed quarterly filing, would come \"in the coming weeks\" instead of the same evening as usual, and the release mentioned an ongoing investigation by an independent board committee.\nNvidia booked about $104 billion of revenue through its Singapore unit in 2025, roughly half its sales, the Financial Times reported. The Journal said the disclosure questions include Singapore-based Megaspeed, an Nvidia customer US officials suspect of rerouting its chips to China.\nNvidia's customers are also taking longer to pay, with bills outstanding at 64 days of sales, the most since 2022. It's not clear which of these, if any, the SEC is focused on.\nWashington wants answers fast. \"I think we need answers in the next 10 days from the board and from the outside counsel,\" Treasury Secretary Scott Bessent said Tuesday, after Jensen Huang's exit as CEO.\nThe sell-off spread across chip stocks, which had their worst week since 2001, and the broader market.\nBaird's Ted Mortonson, a technology desk sector strategist, saw more scrutiny coming even before Friday's report.\n\"Every single deal that Nvidia has done on circular finance is going to be put under the microscope,\" he said on Yahoo Finance's live show Thursday.\nInternal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.",
+ "report": {
+  "summary": "英伟达遭SEC会计调查，单周市值蒸发约9000亿美元",
+  "background": "英伟达自10月6日创下股价纪录后，市值已回撤约2.7万亿美元，从全球第一跌至美国第四（被苹果、微软、Alphabet超越）。触发点除了AI资本开支预期降温外，更直接的是监管与会计疑问：路透报道SEC正在调查其会计处理，《华尔街日报》称调查涉及披露是否误导投资者。此前英伟达季报罕见地推迟提交10-Q详表，并披露独立董事委员会正在调查相关事项，令市场对其收入质量产生警觉。",
+  "key_points": [
+   "股价单日跌近14%，为2025年1月DeepSeek冲击以来最差；单周跌幅为2008年10月以来最大，市值一周缩水约9000亿美元，创下任何公司单周损失纪录。",
+   "争议焦点之一是新加坡：据FT，2025年英伟达通过新加坡子公司确认约1040亿美元收入，接近总销售额一半；美方怀疑客户Megaspeed将芯片转道流入中国。",
+   "另一个疑点是应收账款：客户回款周期升至64天销售额，为2022年以来最高，意味着收入确认与实际现金回流之间存在时间差。",
+   "公司未按惯例在财报当晚提交10-Q详表，只称“未来几周”提交，并提到独立董事委员会正在调查，这本身就是治理层面的异常信号。",
+   "抛售波及整个芯片板块，费城半导体类指数创2001年以来最差单周；分析师警告，英伟达大量“循环融资”式交易都将被置于放大镜下审视。"
+  ],
+  "impact": "对AI行业，这是一次从“叙事定价”转向“审计定价”的拐点：市场不再只看订单和算力需求，而开始追问收入来自哪里、能否收回现金。对开发者，短期直接影响有限，GPU供给和CUDA生态不会一夜改变，但云厂商的资本开支节奏若放缓，将传导为算力租赁价格与配额的变化。对普通用户，AI产品迭代速度可能略微降档，同时英伟达作为指数权重股的波动会通过基金与养老金账户被广泛感知。需要强调：调查本身不等于违规认定，结论仍待披露。",
+  "tools": "跟踪进展可看SEC EDGAR上英伟达的10-Q、8-K与独立委员会披露原文；财务质量可用StockAnalysis、Koyfin对比应收账款天数与现金流；芯片供应链与出口管制可关注CSIS、Export Compliance Daily；替代算力可评估AMD MI系列、云厂商TPU与自研ASIC。"
+ },
+ "lang": "zh"
+}

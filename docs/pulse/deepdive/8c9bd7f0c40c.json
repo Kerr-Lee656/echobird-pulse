@@ -1,0 +1,23 @@
+{
+ "id": "8c9bd7f0c40c",
+ "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+ "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T01:27:38.528950+00:00",
+ "content": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains 19\n\t\t\t\n\t\t \t\n\t\t\t\tU.S. stocks extended their sell-off Friday as Anthropic shares plunged more than 11% on their second day of trading, despite the AI company's record-setting IPO a day earlier. The Nasdaq fell more than 3%, wiping out its gains for 2026, while the S&P 500 dropped nearly 2% and joined the Dow in correction territory, down at least 10% from recent highs. NBC News reports:  The S&P 500 was trading nearly 2% lower as it headed for its worst losing week since April 2025, when President Donald Trump announced his \"Liberation Day\" tariffs, and is now 10% off from its most recent high, entering what's known as \"correction territory.\" Meanwhile, the tech-heavy Nasdaq Composite was off more than 3% and officially erasing all its previous gains in 2026. Other major AI-related names such as CoreWeave, Nvidia and Oracle also sold off. The six consecutive declining S&P 500 sessions mark the index's longest losing streak since April 2024. A seventh losing day would make it the longest stretch since the pandemic slump in February 2020, according to Deutsche Bank.",
+ "report": {
+  "summary": "Anthropic IPO次日暴跌11%，纳指回吐2026年涨幅",
+  "background": "Anthropic此前以创纪录规模完成IPO，但上市第二个交易日股价大跌逾11%，引发市场对AI高估值和变现能力的担忧。与此同时，美股整体走弱，纳指跌超3%并抹去2026年全部涨幅，标普500跌近2%进入回调区间，CoreWeave、英伟达、甲骨文等AI相关股票同步下挫。标普500已连续六个交易日下跌，为2024年4月以来最长连跌。",
+  "key_points": [
+   "Anthropic创纪录IPO后次日股价跌超11%，说明一级市场热度难以支撑二级市场高估值。",
+   "纳指跌超3%并抹去2026年全部涨幅，标普500跌近2%进入回调区间，道指同样承压。",
+   "CoreWeave、英伟达、甲骨文等AI概念股集体下跌，AI板块出现明显联动抛售。",
+   "标普500连续六日下跌，为2024年4月以来最长连跌；若再跌一日将创2020年2月以来最长纪录。"
+  ],
+  "impact": "对AI行业而言，Anthropic上市后大跌会打击AI公司IPO窗口和估值锚，融资与扩张可能更谨慎；对开发者而言，模型API生态短期不变，但补贴、免费额度和价格策略可能收紧；对普通用户而言，AI服务不会立刻消失，但市场波动会传导至产品定价和创业公司稳定性。",
+  "tools": "想跟进可关注Claude API与Anthropic开发者文档；用OpenRouter比较多模型成本，vLLM做本地推理，LangChain/LlamaIndex构建应用，并跟踪QQQ及AI基建公司财报。"
+ },
+ "lang": "zh"
+}

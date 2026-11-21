@@ -1,0 +1,23 @@
+{
+ "id": "66eae4612900",
+ "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+ "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T01:28:49.911294+00:00",
+ "content": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers.\nThe company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”\n“We are re-evaluating our timelines, sequencing, and interim milestones—including the 2030 timeframe for our net zero emissions goal and our near-term intensity targets—so our approach reflects current operating realities while keeping progress transparent year over year,” Peterson and Swedeen wrote in the report.\nMeta’s statement about re-evaluating its 2030 emissions goal is a significant public acknowledgment, given that Amazon, Google, and Microsoft have all stuck by their original sustainability goals so far.\nBut all the companies have acknowledged challenges in balancing their original sustainability goals against the breakneck buildout of hyperscale data centers. Despite efforts to invest in more renewable energy projects, Meta and its rivals are still often pushing forward on AI data centers that rely on burning natural gas to generate electricity.\nRising emissions\nMeta’s report described the company’s total emissions as surging from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million metric tonnes in 2025.\nThat would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho, while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire. The company attributed much of this emissions increase to “capital goods,” like as data center servers.",
+ "report": {
+  "summary": "Meta因AI数据中心排放创新高，重新评估2030净零目标。",
+  "background": "Meta此前承诺2030年实现净零排放。随着生成式AI竞赛推高算力需求，超大规模数据中心加速建设，天然气供电和服务器等资本品导致排放攀升。最新可持续报告显示其2025年排放较2024年激增，Meta成为首家公开松动2030时间表的大型科技公司，而亚马逊、谷歌、微软仍维持原目标但均面临类似压力。",
+  "key_points": [
+   "Meta在2026可持续报告中称，长期雄心未变，但运营环境已变，将重新评估时间表、顺序和中期里程碑，包括2030净零时间框架和近期排放强度目标。",
+   "排放量从2024年1560万吨CO2e升至2025年超2170万吨，增幅创大型科技公司之最；Meta称主要来自数据中心服务器等资本品。",
+   "AI基础设施需求增速远超预期，是目标松动的直接原因；Meta与竞争对手仍推进依赖天然气的AI数据中心，尽管同时投资可再生能源。",
+   "亚马逊、谷歌、微软暂未放弃原可持续目标，但都承认在气候承诺与超大规模数据中心扩张之间难以平衡，Meta的公开调整可能引发连锁效应。"
+  ],
+  "impact": "对AI行业，气候承诺正让位于算力扩张，排放透明度和碳强度指标将更受关注；对开发者，能效与碳感知计算会成为架构设计变量；对普通用户，AI服务的隐性能源成本可能通过价格、监管和绿色溢价传导，推动更严格的披露与选址要求。",
+  "tools": "可关注 Electricity Maps、WattTime 跟踪电网碳强度，CodeCarbon 估算训练/推理排放，Green Software Foundation 的 SCI 规范，以及 MLPerf Power 能效基准。"
+ },
+ "lang": "zh"
+}

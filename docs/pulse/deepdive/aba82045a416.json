@@ -1,0 +1,24 @@
+{
+ "id": "aba82045a416",
+ "url": "https://thenextweb.com/news/apple-ai-agent-job-listing-computer-use-bloomberg",
+ "title": "Apple is building an AI agent that codes and controls apps, Bloomberg reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T01:28:39.794229+00:00",
+ "content": "Apple is developing its own autonomous AI agent, Bloomberg’s Mark Gurman reported on Thursday. It would write code, browse the web, control apps and move around devices for users. The report is based on job listings Apple added to its careers site this week.\nOne listing seeks a senior engineering manager for a proactive, agentic AI assistant. Apple has eyed a launch as soon as the end of 2027, according to Bloomberg. Development is still at an early stage.\n“Imagine an AI agent that can use a computer the way a capable person does,” the listing reads.\nThe agents would plan and carry out multistep tasks across apps, browsers, command lines, code and APIs. They could also coordinate specialised subagents, the listing says. It also names “general-purpose computer-use agents”. That kind of tool already lets ChatGPT and Meta’s Muse operate a Mac.\nAgents that run code, use credentials and act for users need “strong permission models, sandboxing and transparency”, it adds.\nThe listing is gone\nApple appears to have pulled the listing, Digital Trends reported. A screenshot shared on X matches its role number and its 17 November posting date. The role did not appear in a search of Apple’s careers site on Friday. The hire would work with Apple’s Siri, UI Frameworks and Apple Foundation Models teams, Digital Trends reported.\nApple’s new chief executive, John Ternus, has been pressing Craig Federighi to move faster on AI. An agent is central to that push, according to Bloomberg.\nTighter rules for rival agents\nApple is also making it harder for other companies’ agents to control a Mac. In the macOS 27.3 beta, turning on ChatGPT’s computer-use support takes 14 steps, up from four, Bloomberg reported. New warning screens ask users to reconsider granting third-party agents that control.\nApple presents the change as a way to protect users. Some AI companies and users see it as an attempt to slow competitors, according to Bloomberg. In October, Apple said AI agents were the reason for new Full Disk Access controls on Macs.\nOpenAI launched its Dots agents in September, and Anthropic previewed Duet in October. Gemini on the Mac gained computer use on Thursday.\nMeta shares fell nearly 2% and Anthropic’s more than 3% in late trading after the report, Bloomberg said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "苹果被曝研发自主AI智能体，最早2027年底推出",
+  "background": "苹果在生成式AI上长期被视为落后于OpenAI、谷歌，Siri升级多次延期，据彭博报道，新任CEO John Ternus正施压软件负责人Craig Federighi加快AI节奏。与此同时，「电脑使用型」智能体成为新战场：OpenAI 9月推出Dots，Anthropic 10月预览Duet，Gemini Mac版近日也获得电脑操作能力。苹果本周发布的招聘信息正是在这一背景下泄露，随后被撤下。",
+  "key_points": [
+   "招聘岗位为高级工程经理，负责「主动式智能体AI助手」，要求AI能像能干的人一样操作电脑，跨应用、浏览器、命令行、代码与API完成多步任务。",
+   "彭博称苹果目标最早2027年底发布，目前仍处早期开发阶段；相关招聘信息曝光后已从官网撤下，但截图与岗位编号、11月17日发布日期吻合。",
+   "技术方向包括「通用计算机使用智能体」及协调专门子智能体，招聘文案强调权限模型、沙箱隔离与透明度，这是让AI代跑代码、使用凭证的前提。",
+   "该岗位将与Siri、UI框架和Apple Foundation Models团队协作，显示智能体是Siri重构与苹果AI战略的核心抓手。",
+   "苹果同时收紧对手：macOS 27.3测试版中开启ChatGPT电脑操作支持需14步（原为4步），并新增警告弹窗，被指既护用户也拖慢竞争者。"
+  ],
+  "impact": "对行业：苹果入场让「电脑使用型智能体」从实验走向平台级竞争，同时以隐私为名收紧第三方权限，可能形成自家宽松、对手受限的双轨格局，招致反垄断质疑。对开发者：Mac上的自动化与Agent工具将面临更高系统权限门槛，需提前适配沙箱与授权流程。对普通用户：2027年前难见成品，但短期内会遭遇更多权限确认弹窗，Siri有望从问答升级为代办。",
+  "tools": "想跟进可关注 Anthropic Claude 的 computer use、OpenAI ChatGPT Agent 与 Operator、Google Gemini 的电脑操作能力；开源侧有 Browser Use、Open Interpreter、Self-Operating Computer、字节 UI-TARS，以及各家 Agent SDK 中的沙箱与权限方案。"
+ },
+ "lang": "zh"
+}

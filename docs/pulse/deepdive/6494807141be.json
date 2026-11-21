@@ -1,0 +1,24 @@
+{
+ "id": "6494807141be",
+ "url": "https://thenextweb.com/news/palo-alto-networks-applied-compute-4-5bn-open-weight-ai",
+ "title": "Palo Alto Networks buys AI startup Applied Compute for $4.5bn in stock",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-21T01:28:28.172795+00:00",
+ "content": "Palo Alto Networks has agreed to buy Applied Compute in an all-stock deal valued at $4.5bn. The startup helps companies train and run their own versions of open-weight AI models. Palo Alto announced the deal on Wednesday, minutes after The Wall Street Journal’s Kate Clark reported it.\nApplied Compute was founded last year by three former OpenAI researchers. Earlier this month it raised $350m at a $3.25bn valuation, the Journal reported. It also said it had reached $100m in run-rate revenue. Its co-founder and chief executive, Yash Patil, will become Palo Alto’s co-chief AI officer when the deal closes. The deal still needs regulatory clearance and should close in Palo Alto’s fiscal third quarter of 2027.\n“Every enterprise is going to run a mix of open and closed models, and every one of those models needs to be secured,” said Nikesh Arora, Palo Alto’s chairman and chief executive.\nBeyond cybersecurity\nOpen-weight models let users download and change the weights, the numbers that set how a model behaves. Palo Alto said no large provider offers them securely today. It plans to let companies train, adapt and run them in the public cloud or in their own sovereign environments. Applied Compute will keep serving its own customers, and Palo Alto will sell the platform to its own base.\nArora told the Journal the deal means “venturing outside of cybersecurity”. On the earnings call, he said open-weight models now carry more than 60% of token traffic. A year ago it was under 5%.\n“If it works, I think this will dwarf the ability that we have in cybersecurity. This could be bigger than what we do,” Arora said on the call.\nPalo Alto told analysts it expects the deal to add more than $1bn in annual recurring revenue by fiscal 2029. It plans to build more than 100 megawatts of inference capacity. Capital spending on that will stay under $3bn through fiscal 2030, it said.\nArora also addressed whether Applied Compute’s team will stay. Its staff have “millions of reasons” to stay for the next three to four years, he wrote on X. They will keep their offices and, for the most part, their independence.\nA record first quarter\nThe deal came with Palo Alto’s fiscal first-quarter results. Revenue rose 39% to $3.44bn in the three months to 31 October. Annual recurring revenue from its next-generation security business rose 66% to $9.73bn. Net income was $482m, up from $334m a year earlier.\nPalo Alto raised its forecasts for the year. It now expects revenue of $14.52bn to $14.57bn. It sees adjusted earnings of $4.26 to $4.30 a share.\nOn the call, Arora linked part of that demand to the recent run of outages. He blamed them partly on IT teams rushing to patch AI-found flaws. He has argued before that AI prices must fall for the technology to take off. He has also called slowing AI down unrealistic.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Palo Alto 45亿美元收购AI创企",
+  "background": "Palo Alto Networks是网络安全巨头，正把AI安全与模型基础设施视为新增长点。企业越来越多采用可下载、可修改的开源权重模型，带来训练、推理、安全与主权部署需求。Applied Compute由三名前OpenAI研究员去年创立，帮助企业训练和运行自有开源模型，刚以32.5亿美元估值融资3.5亿美元，年化收入达1亿美元。Palo Alto以45亿美元全股票收购，标志网络安全公司向AI基础设施扩张。",
+  "key_points": [
+   "交易：Palo Alto以45亿美元全股票收购Applied Compute；后者由三名前OpenAI研究员创立，本月刚融资3.5亿美元，年化收入达1亿美元。",
+   "战略：CEO称企业将混用开源与闭源模型且都需安全；开源权重模型已承载超60% token流量，一年前不足5%。",
+   "产品：将提供开源模型训练、适配和运行，支持公有云或主权环境；Applied Compute继续服务原客户，Palo Alto向自身客户销售。",
+   "财务：预计到2029财年贡献超10亿美元ARR；建设超100MW推理算力，到2030财年资本开支低于30亿美元。",
+   "业绩：PANW Q1营收增39%至34.4亿美元，下一代安全ARR增66%至97.3亿美元，净利4.82亿美元，并上调全年指引。"
+  ],
+  "impact": "对AI行业，安全巨头切入开源模型基础设施，开源权重商业化与私有化部署将加速；对开发者，企业级训练、推理和安全合规工具增多，但需关注平台锁定；对普通用户，模型部署更主权合规，AI应用安全风险有望降低。",
+  "tools": "可关注开源模型Llama、Qwen、Mistral；推理部署vLLM、Ollama、TensorRT-LLM；安全评测Garak、Promptfoo；私有化编排KServe、Ray Serve。"
+ },
+ "lang": "zh"
+}
