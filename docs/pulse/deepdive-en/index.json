@@ -13363,5 +13363,41 @@
   "site_name": "TechCrunch AI",
   "published_at": "2026-11-21T21:07:42.000Z",
   "fetched_at": "2026-11-22T06:40:48.990841+00:00"
+ },
+ "a602ed08f0ee": {
+  "id": "a602ed08f0ee",
+  "url": "https://github.com/agentscope-ai/agentscope",
+  "title": "agentscope-ai/agentscope — Build and run agents you can see, understand and trust.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-22T16:15:50.899155+00:00"
+ },
+ "f2bd05aac45f": {
+  "id": "f2bd05aac45f",
+  "url": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
+  "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T15:36:36Z",
+  "fetched_at": "2026-11-22T16:16:21.485440+00:00"
+ },
+ "496c8fef9ff9": {
+  "id": "496c8fef9ff9",
+  "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+  "title": "16-year-old awarded $500k by Y Combinator for AI-guided-missile startup",
+  "source": "Hacker News (5pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T12:06:55Z",
+  "fetched_at": "2026-11-22T16:16:36.724257+00:00"
+ },
+ "f38d510499d9": {
+  "id": "f38d510499d9",
+  "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
+  "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
+  "source": "IT之家·人工智能",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-22T09:35:58.000Z",
+  "fetched_at": "2026-11-22T16:16:50.107797+00:00"
  }
 }

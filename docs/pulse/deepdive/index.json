@@ -24505,5 +24505,59 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-22T06:39:46.496794+00:00"
+ },
+ "df5994b82b5e": {
+  "id": "df5994b82b5e",
+  "url": "https://www.techsir.com/a/202611/94762.html",
+  "title": "美国历史性大宕机：不是黑客出手，而是「AI 补丁潮」撞上老旧系统",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T16:14:12.713689+00:00"
+ },
+ "635424aeefc4": {
+  "id": "635424aeefc4",
+  "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine",
+  "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T16:14:20.741023+00:00"
+ },
+ "1f5dd06bc934": {
+  "id": "1f5dd06bc934",
+  "url": "https://www.ithome.com/1/030/581.htm",
+  "title": "TikTok 上线 AI 深度伪造检测工具，为创造者推出“肖像检测”功能",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-22T06:46:21Z",
+  "fetched_at": "2026-11-22T16:14:31.454611+00:00"
+ },
+ "520e56a219a4": {
+  "id": "520e56a219a4",
+  "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+  "title": "韩国教育部长因人工智能作弊丑闻席卷大学考试而辞职",
+  "source": "www.theguardian.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-22T05:35:57.092Z",
+  "fetched_at": "2026-11-22T16:14:44.502982+00:00"
+ },
+ "ec8e761e0eb8": {
+  "id": "ec8e761e0eb8",
+  "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T16:14:55.659190+00:00"
+ },
+ "f6f5282ad9e3": {
+  "id": "f6f5282ad9e3",
+  "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T16:15:03.668019+00:00"
  }
 }
