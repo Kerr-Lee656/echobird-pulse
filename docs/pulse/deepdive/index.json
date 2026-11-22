@@ -24433,5 +24433,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-21T17:07:49Z",
   "fetched_at": "2026-11-21T23:10:35.340908+00:00"
+ },
+ "c0433323797a": {
+  "id": "c0433323797a",
+  "url": "https://www.techradar.com/pro/nvidia-finally-reveals-new-rubin-gpu-with-almost-3x-more-cuda-cores-than-the-nvidia-rtx-5090-but-you-will-have-to-wait-till-2028-to-grab-it",
+  "title": "Nvidia finally reveals new Rubin GPU with almost 3X more CUDA cores than the Nvidia RTX 5090 — but you will have to wait till 2028 to grab it",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:38:36.644064+00:00"
+ },
+ "6d52e6deee5f": {
+  "id": "6d52e6deee5f",
+  "url": "https://www.theblockbeats.info/flash/378586",
+  "title": "加州总检察长：对英伟达的调查涵盖潜在刑事违法",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:38:46.821399+00:00"
+ },
+ "d18b4faa1cbb": {
+  "id": "d18b4faa1cbb",
+  "url": "https://www.gelonghui.com/live/2773456",
+  "title": "马斯克：AI 行业明年或面临严重的资金短缺",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:38:56.966201+00:00"
+ },
+ "9df50b5b41ab": {
+  "id": "9df50b5b41ab",
+  "url": "https://www.ifanr.com/1690820",
+  "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+  "source": "爱范儿",
+  "site_name": "OPML RSS",
+  "published_at": "2026-11-22T01:35:14Z",
+  "fetched_at": "2026-11-22T06:39:13.069165+00:00"
+ },
+ "cac4d486e46a": {
+  "id": "cac4d486e46a",
+  "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+  "title": "International UN talks on controlling use of autonomous weapons collapse",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-21T23:10:21Z",
+  "fetched_at": "2026-11-22T06:39:21.700206+00:00"
+ },
+ "23b03f329a43": {
+  "id": "23b03f329a43",
+  "url": "https://thenextweb.com/news/cursor-chinese-ai-models-house-report-sarvam-deepseek",
+  "title": "Cursor may drop Chinese AI models as India’s Sarvam starts selling them",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:39:30.518653+00:00"
+ },
+ "cf8bad9ebf01": {
+  "id": "cf8bad9ebf01",
+  "url": "https://thenextweb.com/news/china-ai-financing-139bn-capex-rhodium-deepseek",
+  "title": "China’s tech giants double AI spending to $139bn as labs earn less than 8%",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:39:38.920253+00:00"
+ },
+ "e56ae4f08e75": {
+  "id": "e56ae4f08e75",
+  "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+  "title": "Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T06:39:46.496794+00:00"
  }
 }

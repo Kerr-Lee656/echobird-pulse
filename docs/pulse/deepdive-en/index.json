@@ -13345,5 +13345,23 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-21T18:28:46Z",
   "fetched_at": "2026-11-21T23:12:54.921901+00:00"
+ },
+ "31dbae397b46": {
+  "id": "31dbae397b46",
+  "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+  "title": "Together.ai: Prompt Leakage for Requests",
+  "source": "Hacker News (17pts, 7c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T03:07:27Z",
+  "fetched_at": "2026-11-22T06:40:22.092187+00:00"
+ },
+ "8ed913cfa76c": {
+  "id": "8ed913cfa76c",
+  "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "title": "A tale of two Nvidias",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-21T21:07:42.000Z",
+  "fetched_at": "2026-11-22T06:40:48.990841+00:00"
  }
 }
