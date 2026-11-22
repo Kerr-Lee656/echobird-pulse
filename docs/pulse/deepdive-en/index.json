@@ -13399,5 +13399,50 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-22T09:35:58.000Z",
   "fetched_at": "2026-11-22T16:16:50.107797+00:00"
+ },
+ "22f71e97f893": {
+  "id": "22f71e97f893",
+  "url": "https://github.com/MiniMax-AI/OpenAgentCore",
+  "title": "OpenAgentCore: The OpenAI Agents API, open source and self-hosted",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T21:18:43Z",
+  "fetched_at": "2026-11-22T21:47:56.081605+00:00"
+ },
+ "90468db0d5a9": {
+  "id": "90468db0d5a9",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-22T21:14:07.000Z",
+  "fetched_at": "2026-11-22T21:48:08.430243+00:00"
+ },
+ "32201b5fb6b9": {
+  "id": "32201b5fb6b9",
+  "url": "https://airepublic.com/blog/pi-dash-self-evolution-experiment/",
+  "title": "26 AI agents rewrote a backend from Django to Rust with no human merges",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T18:09:02Z",
+  "fetched_at": "2026-11-22T21:48:37.429039+00:00"
+ },
+ "cd749417251e": {
+  "id": "cd749417251e",
+  "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868042",
+  "title": "TSMC acquires 0.03% stake in Anthropic for US$500M",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T17:50:39Z",
+  "fetched_at": "2026-11-22T21:49:34.259578+00:00"
+ },
+ "14051cd63e4f": {
+  "id": "14051cd63e4f",
+  "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+  "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T16:44:48Z",
+  "fetched_at": "2026-11-22T21:49:46.464536+00:00"
  }
 }

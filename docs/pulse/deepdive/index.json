@@ -24559,5 +24559,95 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-22T16:15:03.668019+00:00"
+ },
+ "6b55ef71c32f": {
+  "id": "6b55ef71c32f",
+  "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents",
+  "title": "Banks Have Had It Up to Here With Your AI Agent",
+  "source": "Wired",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:45:50.017343+00:00"
+ },
+ "50b960b10a29": {
+  "id": "50b960b10a29",
+  "url": "https://www.techradar.com/pro/security/google-says-it-just-saw-the-first-fully-autonomous-cyberattack-and-says-a-significant-threshold-has-been-crossed-in-terms-of-cybersecurity",
+  "title": "Google claims it has seen the first fully autonomous cyberattack — and says a 'significant threshold' has been crossed in terms of cybersecurity",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:46:02.888711+00:00"
+ },
+ "90f985cfcc41": {
+  "id": "90f985cfcc41",
+  "url": "https://www.qbitai.com/2026/11/511870.html",
+  "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:46:12.291827+00:00"
+ },
+ "75a426b72a8d": {
+  "id": "75a426b72a8d",
+  "url": "https://www.qbitai.com/2026/11/511841.html",
+  "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:46:19.843565+00:00"
+ },
+ "dfcc6afdd753": {
+  "id": "dfcc6afdd753",
+  "url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+  "title": "特朗普表态：英伟达 Blackwell 芯片可对华销售，但有个条件；OpenAI 被曝入局智能手机赛道；DeepSeek 第二轮千亿融资落地，31 家出资方入局",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:46:36.576208+00:00"
+ },
+ "8c1f3bb5b849": {
+  "id": "8c1f3bb5b849",
+  "url": "https://wallstreetcn.com/livenews/3203761",
+  "title": "MiniMax 进军 AI4S 研究，公布密码分析研究成果",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-22T21:46:46.736326+00:00"
+ },
+ "f7b8055464e1": {
+  "id": "f7b8055464e1",
+  "url": "https://www.ithome.com/1/030/717.htm",
+  "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-22T15:15:55Z",
+  "fetched_at": "2026-11-22T21:46:59.821005+00:00"
+ },
+ "a51a3e6480ba": {
+  "id": "a51a3e6480ba",
+  "url": "https://www.ithome.com/1/030/713.htm",
+  "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-22T14:00:48Z",
+  "fetched_at": "2026-11-22T21:47:07.296456+00:00"
+ },
+ "bd610e063056": {
+  "id": "bd610e063056",
+  "url": "https://www.ithome.com/1/030/711.htm",
+  "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-22T13:23:38Z",
+  "fetched_at": "2026-11-22T21:47:18.130429+00:00"
+ },
+ "d7e78f94bca2": {
+  "id": "d7e78f94bca2",
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+  "title": "到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭",
+  "source": "betterdatacenterproject.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-22T10:53:50.621Z",
+  "fetched_at": "2026-11-22T21:47:29.108742+00:00"
  }
 }
