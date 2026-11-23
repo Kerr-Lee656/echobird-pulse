@@ -1,0 +1,24 @@
+{
+ "id": "883b69d3f986",
+ "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+ "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-23T02:41:22.419936+00:00",
+ "content": "A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity.\nSlowing AI development became a particularly hot topic after a former OpenAI and Anthropic researcher said the companies were “gambling with our lives,” and even Anthropic’s IPO filing suggested that the technology could pose “catastrophic or existential risks to society.”\nAnthropic CEO Dario Amodei then published a plan to “pace the frontier,” seemingly endorsed by OpenAI CEO Sam Altman and SpaceX CEO Elon Musk. Among other things, Amodei called for companies to agree to “common safety standards as well as limits on the rate of unchecked AI progress.”\nBut to establish a speed limit on AI development, you need to agree on how you measure speed. Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement.\nIn Pachochki’s argument, benchmarks that focus on AI’s “downstream capabilities” have quickly become outdated as the technology advances. But perplexity — which “measures how well a model predicts the next token on average; lower perplexity means better predictions” — has remained “informative.”\nPachochki’s post includes a chart of how the perplexity of OpenAI’s models has fallen since GPT 3.5.\n“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively, which motivated the subsequent targeted elicitation of this capability and the creation of modern reasoning models,” he wrote. “Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics.”\nSo in his view, perplexity could provide the basis for “a shared benchmark for general intelligence,” which AI companies could then use to establish “common limits.” With perplexity serving as a standard measurement for AI progress, the companies would commit not to go past a certain threshold “until our ability to understand and monitor AI behavior achieves a certain concrete milestone.”",
+ "report": {
+  "summary": "OpenAI首席科学家提出用困惑度作为限制AI开发速度的共享标尺",
+  "background": "围绕「放缓AI研发」的讨论在2026年明显升温：一位曾任职于OpenAI和Anthropic的研究者公开指责前沿实验室「拿全人类的性命赌博」，Anthropic的IPO文件也承认该技术可能带来「灾难性或存续性风险」。随后Anthropic CEO Dario Amodei发布「为前沿定速」方案，呼吁业界约定共同安全标准并限制不受约束的进展速度，Sam Altman与Elon Musk据称给予认可。但「限速」的前提是先就「如何测速」达成共识，Pachocki的博客正是试图回答这个问题，Altman称其为OpenAI近期最重要的发表之一。",
+  "key_points": [
+   "Pachocki认为，传统上衡量模型「下游能力」的基准测试随技术迭代迅速失效，难以充当长期标尺。",
+   "他主张改用困惑度，即模型平均预测下一个token的准确程度；数值越低，表示模型对语言的预测越好。",
+   "OpenAI内部数据显示，GPT-4的困惑度约0.91时已能有效运用思维链推理；降到0.8以下后，模型在网络安全、数学等领域出现变革性能力。",
+   "由于这一指标跨代际保持「有信息量」，他建议把它作为通用智能的共享基准，各公司据此承诺不越过某个阈值。",
+   "解禁条件被设定为：直到人类理解与监控AI行为的能力达到某个具体里程碑，才允许继续推进。"
+  ],
+  "impact": "对行业而言，这是首次有前沿实验室首席科学家给出可量化的「AI限速」技术方案，若被采纳，可能演变为类似核军控的行业公约，但也可能成为大厂设定门槛、抑制后来者的工具。对开发者，困惑度是低成本可复现的指标，中小团队也能自测，但「阈值即红线」意味着训练策略和算力分配将被外部标准约束。对普通用户，短期体验不变，长期看监管话语权将从「能力演示」转向「可测量的风险刻度」，安全承诺更易被审计。",
+  "tools": "想跟进可关注EleutherAI的lm-evaluation-harness与Hugging Face evaluate库中的perplexity计算实现，自行复现曲线；安全侧可研读OpenAI Preparedness Framework与Anthropic Responsible Scaling Policy，理解「阈值+里程碑」式治理如何落地。注意此处perplexity指困惑度指标，与同名AI搜索公司无关。"
+ },
+ "lang": "zh"
+}

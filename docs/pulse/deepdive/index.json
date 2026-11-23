@@ -24649,5 +24649,50 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-22T10:53:50.621Z",
   "fetched_at": "2026-11-22T21:47:29.108742+00:00"
+ },
+ "883b69d3f986": {
+  "id": "883b69d3f986",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-23T02:41:22.419936+00:00"
+ },
+ "40c3830524a8": {
+  "id": "40c3830524a8",
+  "url": "https://daily.dev/posts/sandboxing-did-not-stop-ai-models-on-a-shared-inference-server-from-trading-information-in-contrived-npprjc3jj",
+  "title": "AI models on shared inference servers can covertly exchange data via GPU side channels",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-23T02:41:41.062293+00:00"
+ },
+ "b29da1d70caf": {
+  "id": "b29da1d70caf",
+  "url": "https://slashdot.org/story/26/11/22/2221256/sellers-are-closing-etsy-stores-in-response-to-its-new-ai-training-policy",
+  "title": "Sellers are Closing Etsy Stores in Response to Its New AI Training Policy",
+  "source": "Slashdot (科技资讯)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-22T22:24:00Z",
+  "fetched_at": "2026-11-23T02:41:50.919980+00:00"
+ },
+ "6f1e15f690ae": {
+  "id": "6f1e15f690ae",
+  "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+  "title": "埃隆·马斯克警告称，数据中心建设延误可能导致人工智能公司资金短缺：“情况会变得一团糟”",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-22T18:04:46.664Z",
+  "fetched_at": "2026-11-23T02:41:59.157097+00:00"
+ },
+ "86ed635bec9d": {
+  "id": "86ed635bec9d",
+  "url": "https://thenextweb.com/news/anthropic-researcher-claims-claude-helped-him-prove-the-riemann-hypothesis",
+  "title": "Anthropic researcher claims Claude helped him prove the Riemann hypothesis",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-23T02:42:10.033503+00:00"
  }
 }

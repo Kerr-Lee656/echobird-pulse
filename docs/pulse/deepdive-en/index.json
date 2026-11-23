@@ -13444,5 +13444,59 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-22T16:44:48Z",
   "fetched_at": "2026-11-22T21:49:46.464536+00:00"
+ },
+ "c158e6c73da6": {
+  "id": "c158e6c73da6",
+  "url": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
+  "title": "VistaPrint applies generative AI edits to prints without consent or warning",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T02:30:24Z",
+  "fetched_at": "2026-11-23T02:42:38.630539+00:00"
+ },
+ "875efdab1707": {
+  "id": "875efdab1707",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+  "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
+  "source": "Hacker News (9pts, 6c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T01:45:50Z",
+  "fetched_at": "2026-11-23T02:42:55.440396+00:00"
+ },
+ "04e5e033b799": {
+  "id": "04e5e033b799",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-23T01:25:53.000Z",
+  "fetched_at": "2026-11-23T02:43:07.762829+00:00"
+ },
+ "fa0bfcecba75": {
+  "id": "fa0bfcecba75",
+  "url": "https://www.windowslatest.com/2026/11/23/the-thing-that-hit-us-satya-nadella-admits-vs-code-faded-in-six-months-after-a-decade-on-top-because-of-claude-code-and-some-developers-say-theyve-stopped-opening-it/",
+  "title": "\"IDEs kind of faded away\" – Nadella on VS Studio, as Claude Code takes the lead",
+  "source": "Hacker News (4pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T23:13:10Z",
+  "fetched_at": "2026-11-23T02:43:17.046018+00:00"
+ },
+ "4c1d37592130": {
+  "id": "4c1d37592130",
+  "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+  "title": "Etsy sellers are closing their stores because of its the new AI training policy",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T23:04:42Z",
+  "fetched_at": "2026-11-23T02:43:28.509064+00:00"
+ },
+ "0ad725ff73cb": {
+  "id": "0ad725ff73cb",
+  "url": "https://amund.blog/modded-nanogpt-sub-30s-record-attempt/",
+  "title": "Sub-30s LLM Pretraining on 8×H100? Modded-NanoGPT World Record Attempt (29.90 S)",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-22T18:44:55Z",
+  "fetched_at": "2026-11-23T02:43:42.746841+00:00"
  }
 }

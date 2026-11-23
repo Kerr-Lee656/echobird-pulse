@@ -1,0 +1,24 @@
+{
+ "id": "86ed635bec9d",
+ "url": "https://thenextweb.com/news/anthropic-researcher-claims-claude-helped-him-prove-the-riemann-hypothesis",
+ "title": "Anthropic researcher claims Claude helped him prove the Riemann hypothesis",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-23T02:42:10.033503+00:00",
+ "content": "Mmathematician at Anthropic says he has used the company’s Claude AI model to prove the Riemann hypothesis, one of the most famous unsolved problems in mathematics. Levent Alpöge made the claim in a note on his website on Friday, Bloomberg reported.\n“I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote.\nThe hypothesis, first proposed in 1859, concerns how prime numbers are spread out. It is one of the Clay Mathematics Institute’s seven Millennium Prize Problems, each of which carries a $1m prize. Alpöge says his proof also covers a broader version, the generalised Riemann hypothesis.\nHe did not publish a traditional paper. Instead, he released the proof in Lean, a programming language that checks every logical step. The code runs to about 17 million lines, Science reported.\nAndrew Sutherland, a senior research scientist at MIT, told Bloomberg he had checked the code on his own computer. He said he had seen at least three other checks by professional mathematicians. Later on Friday, Sutherland put the chance that anything is wrong at roughly zero, Scientific American reported.\nHowever, other mathematicians urged caution. A proof that compiles in Lean still has to state the right problem, and humans have to confirm that it does.\nKevin Buzzard, a professor at Imperial College London, said nobody yet understands what the proof shows, Al Jazeera reported. The proof has not been formally accepted.\nAlpöge said Claude did much of the work.\n“This time Claude far outpaced me near the finish line,” he wrote.\nAnthropic declined to comment to Bloomberg. The claim came a day after the company’s record stock market debut.\nIf confirmed, it would be the second Millennium Prize Problem that AI may have helped solve. In September, OpenAI said its models had produced a solution to the Navier-Stokes problem.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic研究员称借Claude证明黎曼猜想，Lean代码待同行确认",
+  "background": "黎曼猜想由黎曼于1859年提出，描述素数分布规律，是克雷数学研究所七个\"千禧年大奖难题\"之一，每个悬赏100万美元奖励，至今悬赏未解。AI与数学的结合近年升温：2024年起，DeepMind的AlphaProof等系统在国际数学奥林匹克竞赛中达到金牌水平，形式化证明语言Lean的数学库Mathlib也日益壮大。2025年9月，OpenAI曾声称其模型解决了纳维-斯托克斯问题。此次声明恰在Anthropic创纪录上市次日发布，公司本身拒绝对此置评，因此外界对声明的时机与可信度格外关注。",
+  "key_points": [
+   "Anthropic数学家Levent Alpöge在个人网站发文，称与Claude合作发现了黎曼猜想的证明，并称该证明同时覆盖更广的广义黎曼猜想。",
+   "他没有走传统论文路线，而是用Lean语言发布可机器检验的证明代码，约1700万行；Lean会逐步核对每个逻辑步骤是否成立。",
+   "MIT资深研究员Sutherland在自己电脑上跑了代码，并看过至少三位专业数学家的独立核查，随后把\"存在错误\"的概率估为接近零。",
+   "但多位数学家提醒：Lean编译通过只说明推导无误，还需确认形式化陈述的确实是黎曼猜想本身，人类目前尚无人真正读懂这份证明。",
+   "伦敦帝国理工教授Buzzard直言\"还没人理解这个证明说明了什么\"，该证明尚未获得正式学术认可，Anthropic对媒体不予置评。"
+  ],
+  "impact": "对AI行业而言，形式化数学正成为展示模型推理能力的新战场，也加剧了各家厂商的叙事竞争，但\"声称\"与\"公认\"之间的鸿沟同样被放大。对开发者来说，AI配合Lean等证明助手的工作流价值凸显，代码可验证性可能成为衡量AI输出的新标准。对普通用户，则是一次媒介素养提醒：编译通过的代码不等于被科学界接受的定理，理解与验证仍需人类数学家补位。",
+  "tools": "想跟进可上手Lean 4与其数学库Mathlib，用编译器亲自检验形式化证明；配套可看Lean社区的Zulip讨论与LeanDojo等工具链，以及DeepMind AlphaProof相关公开材料，了解AI做形式化数学的现有能力边界。"
+ },
+ "lang": "zh"
+}
