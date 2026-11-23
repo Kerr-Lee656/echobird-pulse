@@ -1,0 +1,24 @@
+{
+ "id": "46238b92a742",
+ "url": "https://www.aibase.com/news/32458",
+ "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-23T04:40:20.383Z",
+ "fetched_at": "2026-11-23T14:31:29.018457+00:00",
+ "content": "Chinese large models have been quiet for more than three months. According to Kuai Technology on November 21, the big three U.S. AI players have made frequent moves over the past two months, with Google in especially good form, and there is finally news about the Chinese camp's next move: Zhipu is said to release GLM-5.4 next week, but the real big move is still ahead.\nAfter a hundred days of silence, an appetizer first: Zhipu to launch GLM-5.4 next week; 3-trillion-parameter flagship coming in December\nAIbase基地\nThis article is from AIbase Daily\nWelcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day, we present you with hot topics in the AI field, focusing on developers, helping you understand technical trends, and learning about innovative AI product applications.",
+ "report": {
+  "summary": "智谱下周发GLM-5.4，3万亿参数旗舰定档12月",
+  "background": "中国大模型阵营已沉寂三个多月，同期美国三大AI厂商密集迭代，Google状态尤其强势，节奏差距被明显拉大。智谱作为国内头部玩家，选择先用GLM-5.4这一较小版本\"试水\"，回应市场期待并维持开发者生态热度，同时为真正的重头戏——3万亿参数旗舰模型——预留到12月发布。这种\"先小后大\"的节奏在国内外厂商中并不罕见，通常用于提前释放技术信号、收集反馈并为旗舰版蓄势。需注意该消息来自快科技/AIbase报道，智谱官方尚未正式确认。",
+  "key_points": [
+   "智谱计划下周发布GLM-5.4，被定位为\"前菜\"式的过渡版本，主要用于回应市场期待、维持生态热度。",
+   "真正的重头戏是参数量达3万亿的旗舰模型，预计12月发布，规模将直接对标国际第一梯队。",
+   "中国大模型阵营已沉默超三个月，而OpenAI、Google、Anthropic接连出招，Google近期表现尤为强势，中美发布节奏差距被拉大。",
+   "先用小版本试水、再推旗舰的打法，可提前收集开发者反馈、验证推理成本与工具链适配，为旗舰版降低翻车风险。",
+   "消息目前仅来自媒体报道，智谱未官宣，具体参数、能力与发布时间仍存在变数，需以官方发布为准。"
+  ],
+  "impact": "对AI行业而言，这意味着国内头部厂商重新进入发布节奏，年底可能触发中美新一轮模型军备竞赛，3万亿参数级别也将抬高\"旗舰\"的定义门槛。对开发者，GLM-5.4是提前适配API、评测推理与工具调用能力的窗口期，可据此规划迁移与成本预算。对普通用户，短期可感知的提升有限，但若12月旗舰兑现参数与能力承诺，长上下文、复杂推理等场景的可选模型格局将被直接改写。",
+  "tools": "可关注智谱开放平台BigModel的API与OpenAI兼容接口，便于低成本迁移测试；GLM系列开源权重可在GitHub与魔搭ModelScope获取，配合LangChain、LlamaIndex做应用层验证；也可用vLLM等推理框架提前压测3万亿级模型的部署成本。"
+ },
+ "lang": "zh"
+}

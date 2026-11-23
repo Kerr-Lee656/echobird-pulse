@@ -24694,5 +24694,95 @@
   "site_name": "TechURLs",
   "published_at": null,
   "fetched_at": "2026-11-23T02:42:10.033503+00:00"
+ },
+ "59b73c6e02fe": {
+  "id": "59b73c6e02fe",
+  "url": "https://www.aibase.com/zh/news/32456",
+  "title": "MiniMax 用内部模型攻破密码学：NIST 竞赛算法首次被实际攻破",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-23T14:30:51.165587+00:00"
+ },
+ "2873d1959b47": {
+  "id": "2873d1959b47",
+  "url": "https://www.aibase.com/zh/news/32457",
+  "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-23T14:30:58.632318+00:00"
+ },
+ "aa993ffa00ba": {
+  "id": "aa993ffa00ba",
+  "url": "https://www.aibase.com/zh/news/32455",
+  "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-23T14:31:09.809186+00:00"
+ },
+ "ff7cbee86c6a": {
+  "id": "ff7cbee86c6a",
+  "url": "https://www.aibase.com/news/32461",
+  "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-23T04:40:20.383Z",
+  "fetched_at": "2026-11-23T14:31:19.164340+00:00"
+ },
+ "46238b92a742": {
+  "id": "46238b92a742",
+  "url": "https://www.aibase.com/news/32458",
+  "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-23T04:40:20.383Z",
+  "fetched_at": "2026-11-23T14:31:29.018457+00:00"
+ },
+ "f17c194c4a89": {
+  "id": "f17c194c4a89",
+  "url": "https://www.ithome.com/1/030/799.htm",
+  "title": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康”",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-23T03:40:45Z",
+  "fetched_at": "2026-11-23T14:31:40.953617+00:00"
+ },
+ "2ed102aeea62": {
+  "id": "2ed102aeea62",
+  "url": "https://www.ithome.com/1/030/797.htm",
+  "title": "消息称亚马逊接近以 75 亿美元收购人工智能初创企业 Decart",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-23T03:35:46Z",
+  "fetched_at": "2026-11-23T14:31:52.451864+00:00"
+ },
+ "82b14d42d0f3": {
+  "id": "82b14d42d0f3",
+  "url": "https://www.huxiu.com/article/4906486.html?f=rss",
+  "title": "“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-23T03:30:00Z",
+  "fetched_at": "2026-11-23T14:32:06.381000+00:00"
+ },
+ "a38c01d2262b": {
+  "id": "a38c01d2262b",
+  "url": "https://www.ithome.com/1/030/784.htm",
+  "title": "蚂蚁百灵医疗健康大模型宣布开源，最轻量版一台笔记本就能部署",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-23T02:56:54Z",
+  "fetched_at": "2026-11-23T14:32:30.316318+00:00"
+ },
+ "74bc76ad6c66": {
+  "id": "74bc76ad6c66",
+  "url": "https://www.ithome.com/1/030/769.htm",
+  "title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-23T02:01:37Z",
+  "fetched_at": "2026-11-23T14:32:40.181884+00:00"
  }
 }

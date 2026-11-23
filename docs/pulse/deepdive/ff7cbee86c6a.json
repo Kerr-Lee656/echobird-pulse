@@ -1,0 +1,23 @@
+{
+ "id": "ff7cbee86c6a",
+ "url": "https://www.aibase.com/news/32461",
+ "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-23T04:40:20.383Z",
+ "fetched_at": "2026-11-23T14:31:19.164340+00:00",
+ "content": "In Cursor's rise, Chinese open-source large models played a prominent role. Now, however, the company has voluntarily submitted a “farewell plan” to the U.S. Congress. According to U.S. media reports, Anysphere, the developer of Cursor, reported to Congress that it intends to study gradually abandoning open-source AI large models from Chinese companies, though there is not yet a clear timetable for a complete shutdown.\nThe timing is especially intriguing. U.S. officials have recently been investigating American companies' use of Chinese open-source large models, and Cursor is now stepping forward to signal that it will cater to Congress's demands. It is hard to ignore one basic fact: the company's current business is propped up precisely by Chinese large models. Cursor's most important advance this year was building its own Composer2 large model on top of Moonshot AI's Kimi K2.5 foundation model. After the product launched, it was widely praised, and its user base surged.\nEven though Composer2 incorporates Cursor's own technology and data, if you remove the foundation layer provided by Chinese large models, the cost of developing its own model would be real money and time: it would have to spend large sums on training and waste a great deal of time. In other words, Kimi K2.5's key role in boosting Cursor's business is an obvious part of the equation in this business. While reaping the dividends of Chinese open-source AI, it is signaling under official pressure that it will phase out Chinese AI—the irony is unmistakable.\nThe phase-out process will not be quick, but Cursor may have already paved its way out. xAI, owned by Musk, just acquired Cursor this year for $60 billion. In the future, its foundation model will sooner or later shift to the Grok series—even if Grok's coding ability is not particularly outstanding right now, that shift is only a matter of time.",
+ "report": {
+  "summary": "Cursor向美国会表态将逐步淘汰中国大模型",
+  "background": "Cursor 的快速崛起与中国开源大模型密切相关：其今年关键产品 Composer2 基于月之暗面 Kimi K2.5 基座打造，上线后获得好评并带动用户增长。与此同时，美国官员正调查美企使用中国开源大模型的情况，Anysphere 因此主动向国会提交意向，表示将研究逐步弃用中国开源 AI 模型，但尚未给出完全停用的明确时间表。",
+  "key_points": [
+   "Cursor 向国会提交“告别计划”，拟研究逐步弃用中国开源大模型，但未给完整停用时间表。",
+   "其今年关键产品 Composer2 基于月之暗面 Kimi K2.5 打造，上线后口碑和用户增长显著。",
+   "自研基座成本高：若去掉中国基座，需投入大量资金与时间重新训练，短期难替代。",
+   "文中称 xAI 已以 600 亿美元收购 Cursor，未来基座或转向 Grok，退出路径已铺好。"
+  ],
+  "impact": "对 AI 行业，模型供应链的政治合规化加速，开源模型跨境使用风险上升；对开发者，选型需评估地缘与迁移成本，避免单一基座锁定；对普通用户，Cursor 产品能力、价格和更新节奏可能受基座切换影响，短期未必明显但长期体验存在不确定性。",
+  "tools": "想跟进可关注：Kimi K2.5（月之暗面开源基座）、Cursor Composer2（产品侧案例）、Grok 系列（潜在替代基座）；开发者也可对比 Llama、Qwen、DeepSeek 等开源模型，做多基座适配与成本评估。"
+ },
+ "lang": "zh"
+}

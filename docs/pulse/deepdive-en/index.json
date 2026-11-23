@@ -13498,5 +13498,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-22T18:44:55Z",
   "fetched_at": "2026-11-23T02:43:42.746841+00:00"
+ },
+ "7341adec3047": {
+  "id": "7341adec3047",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "title": "vercel-labs/agent-skills — Vercel's official collection of agent skills",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-23T14:33:08.941713+00:00"
+ },
+ "5ea040a9620c": {
+  "id": "5ea040a9620c",
+  "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+  "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+  "source": "404 Media",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-23T14:16:47.000Z",
+  "fetched_at": "2026-11-23T14:33:24.356020+00:00"
+ },
+ "66148a7c4a0b": {
+  "id": "66148a7c4a0b",
+  "url": "https://calnewport.com/the-anthropic-ipo-concerns-me/",
+  "title": "The Anthropic IPO Concerns Me",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T14:06:00Z",
+  "fetched_at": "2026-11-23T14:33:33.794367+00:00"
+ },
+ "21c893b5f7cd": {
+  "id": "21c893b5f7cd",
+  "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+  "title": "The US-China LLM Open-Weight Feedback Loop",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T13:47:03Z",
+  "fetched_at": "2026-11-23T14:33:49.637191+00:00"
+ },
+ "c16a93905fce": {
+  "id": "c16a93905fce",
+  "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+  "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-23T13:11:48.000Z",
+  "fetched_at": "2026-11-23T14:34:05.603829+00:00"
+ },
+ "bf45c3265487": {
+  "id": "bf45c3265487",
+  "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+  "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T11:48:27Z",
+  "fetched_at": "2026-11-23T14:34:17.164971+00:00"
+ },
+ "0cf2a2b85bc5": {
+  "id": "0cf2a2b85bc5",
+  "url": "https://www.disruptionbanking.com/2026/11/23/why-did-anthropics-shares-drop-8-5-after-record-ipo/",
+  "title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T11:27:46Z",
+  "fetched_at": "2026-11-23T14:34:31.023632+00:00"
+ },
+ "6e07216a8e04": {
+  "id": "6e07216a8e04",
+  "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+  "title": "States Sue SpaceX Over Grok Deepfakes",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-23T11:00:00.000Z",
+  "fetched_at": "2026-11-23T14:34:44.247795+00:00"
+ },
+ "f94884285075": {
+  "id": "f94884285075",
+  "url": "https://actual.inc/blog/in-search-of-perfection",
+  "title": "In Search of Perfection: aci-cpp vs. llama.cpp v1.0.0",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T10:26:07Z",
+  "fetched_at": "2026-11-23T14:34:59.137860+00:00"
  }
 }
