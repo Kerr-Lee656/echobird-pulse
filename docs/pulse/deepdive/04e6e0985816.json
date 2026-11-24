@@ -1,0 +1,24 @@
+{
+ "id": "04e6e0985816",
+ "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+ "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
+ "source": "Mashable",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T14:48:04.894539+00:00",
+ "content": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.\nFully autonomous cyberattacks are here, according to Google and its cybersecurity firm Mandiant.\nThe Google Threat Intelligence Group recently released a report revealing that cyberattackers are now using multi-agent AI frameworks capable of searching for vulnerabilities and exploiting them independently. Furthermore, these tactics are already being used in cyberattack campaigns.\nGoogle cybersecurity researchers uncovered \"an exposed staging server hosting a multi-agent vulnerability research and weaponization framework dubbed exploit_agent,\" which \"integrates with multiple frontier and local LLMs.\"\nYou May Also Like\nGoogle's investigation revealed that the entity behind the server hosting this framework appeared to be specifically targeting French websites in the media and entertainment sector. Some education sites were targeted as well.\nGoogle's report cites even more examples of fully autonomous cyberattacks.\n        \n            The best tech deal this week\n                            \n                    \n                                    \n                    Products available for purchase through affiliate links. If you buy something through links on our site, Mashable may earn an affiliate commission.\n                \n                        \nIn one example, the cybersecurity firm Greynoise found that a bad actor used LLMs to identify vulnerabilities and automatically build exploits. The hacker was able to put together a list of targets and then execute the exploits against hundreds of organizations. In one particular hack, the threat actor was able to gain administrator access \"within minutes.\"\nThe adversary went from an empty workspace to first achieving RCE against a real victim in just under four hours, first domain admin in an additional two hours, and once the full campaign launched, compromised at least 11 organizations in 26 seconds. In one instance, the adversary went from initial access to full domain administrator in seven minutes against a high school in the United States.\nThe Google report also cites the PHP vulnerabilities that forced some websites (and a secure NSA network) to go offline recently — the P2PSHELL incident. Those PHP bugs were originally discovered by a new OpenAI model, and when they leaked online, Google said hackers were able to use AI to try to build exploits before websites could be patched.\nThe Google report concluded that this new reality \"represents a paradigm shift towards intrusions occurring at machine speed.\"\nCybersecurity experts have long warned about AI tools helping hackers carry out their attacks. With LLMs and AI agents now scanning for vulnerabilities and creating exploits, it appears that the threat is here.\nDisclosure: Ziff Davis, Mashable’s parent company, in April 2025 filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.",
+ "report": {
+  "summary": "谷歌称首个完全自主AI网络攻击已出现，攻击进入机器速度时代。",
+  "background": "大模型与多智能体框架降低了漏洞挖掘和利用门槛。谷歌威胁情报组与Mandiant发布报告称，攻击者已使用可集成前沿和本地LLM的多智能体框架“exploit_agent”，自主搜寻漏洞并武器化，且已用于真实攻击活动；相关服务器疑似针对法国媒体娱乐和教育网站。报告还引用Greynoise案例及P2PSHELL PHP漏洞事件，认为网络入侵正转向“机器速度”。",
+  "key_points": [
+   "谷歌称发现首个完全自主AI攻击：攻击者用多智能体框架自主找漏洞、生成利用并发动攻击，不再完全依赖人工逐步操作。",
+   "暴露的“exploit_agent”服务器可接入多种前沿和本地LLM，疑似针对法国媒体、娱乐及部分教育网站，显示框架已进入实战准备。",
+   "Greynoise案例中，攻击者用LLM列目标并自动打数百家机构：从空环境到攻破真实目标不到4小时，完整行动26秒攻陷至少11家。",
+   "美国一高中案例中，攻击者从初始访问到取得域管理员权限仅7分钟，体现自动化把攻击链压缩到分钟级。",
+   "P2PSHELL事件中，PHP漏洞由OpenAI新模型发现，泄露后黑客用AI抢在修复前构造利用，说明漏洞披露与修补窗口被进一步压缩。"
+  ],
+  "impact": "对AI行业，安全攻防进入智能体对抗阶段，模型滥用评测、权限隔离和可追溯性将成为刚需；对开发者，需加快补丁与供应链响应，默认最小权限，部署自动化检测与红队演练；对普通用户，账号被盗、服务中断和钓鱼攻击风险上升，及时更新、启用多因素认证更关键。",
+  "tools": "可跟进Google Threat Intelligence/Mandiant报告与MITRE ATT&CK；防御方可试用开源多智能体框架AutoGen/CrewAI做红队演练，结合Nuclei、OWASP ZAP扫描漏洞，并用garak、PyRIT测试LLM应用安全。注意仅用于授权防御。"
+ },
+ "lang": "zh"
+}

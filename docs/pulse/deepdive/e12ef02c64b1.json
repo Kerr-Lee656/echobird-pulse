@@ -1,0 +1,24 @@
+{
+ "id": "e12ef02c64b1",
+ "url": "https://www.aibase.com/news/32489",
+ "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-24T03:35:26.737Z",
+ "fetched_at": "2026-11-24T14:49:35.172221+00:00",
+ "content": "The gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their teeth and run unprotected, or go offline and wait for a fix. OpenAI's answer on November 24 was to team up with Cisco to launch an open source project called Shirudo: an open source Linux runtime environment that lets AI agents protect systems directly without any downtime.\nShirudo's core technical approach is to have AI agents write dynamic eBPF protection rules—eBPF is a Linux kernel technology that can dynamically inject security logic without modifying the kernel or restarting the system, making it a natural fit for defending systems while they keep running. The agents use it to generate rules that defend against attacks targeting system vulnerabilities, buying security teams a valuable window to calmly test and officially deploy patches. In other words, when an attack arrives, the first line of defense is built immediately by AI, while humans slowly put up the permanent fortifications behind it.\nThe two companies are clear about what it is meant to be: the first step toward infrastructure with autonomous defense capabilities—adapting to new threats while keeping business operations running. OpenAI describes the ideal collaboration as follows: security staff and AI agents work together, with the agents locating affected systems, testing and sharing protection strategies, and ultimately deploying them, all without disrupting running workloads. When patches are not yet in place and attacks are already at the door, this open source solution jointly built by Cisco and OpenAI is like holding up an umbrella that will not be pulled away for servers around the world targeted by vulnerabilities.",
+ "report": {
+  "summary": "OpenAI与思科开源Shirudo，让AI智能体零停机防护漏洞",
+  "background": "安全行业最头疼的“空窗期”，就是漏洞已公开、补丁还没落地：系统要么直接上线承受风险，要么下线等修复。传统WAF与虚拟补丁只能覆盖部分场景，且规则更新慢。eBPF 是 Linux 内核技术，可在不修改内核、不重启系统的前提下动态注入安全逻辑，因此很适合在系统持续运行时提供防护。与此同时，AI 智能体正从对话场景走向安全运营与生产环境操作。思科在 eBPF 与可观测性上有积累，OpenAI 在做企业级智能体，Shirudo 正是双方“自治防御基础设施”愿景的第一步。",
+  "key_points": [
+   "Shirudo 是开源的 Linux 运行时环境，AI 智能体可直接在运行中的系统上部署防护，不停机、不重启内核。",
+   "核心机制：智能体针对具体漏洞自动编写 eBPF 动态防护规则，攻击到来时第一时间立起第一道防线。",
+   "分工是“AI 先挡、人类后补”：AI 争取出时间窗口，安全团队从容测试并正式部署补丁。",
+   "定位为自治防御基础设施的起点——智能体可自行定位受影响系统、测试并共享策略、完成部署。",
+   "开源意味着可审计、可定制，但 AI 生成的规则仍有误报、性能损耗与回滚风险，需要人工把关。"
+  ],
+  "impact": "对 AI 行业：智能体从“对话与写代码”迈入直接操作内核与生产环境，落地场景延伸到关键基础设施，安全与可靠性门槛随之抬高。对开发者：漏洞窗口期多了一种保业务的选项，但必须配套规则审计、灰度与快速回滚机制。对普通用户：云服务与常用平台在零日漏洞爆发时更少宕机，数据暴露窗口缩短；但“AI 自动改内核”也需要透明度与监管跟进。",
+  "tools": "可关注 Shirudo 本体源码与文档；eBPF 生态看 Cilium/Tetragon、bpftrace、libbpf、Falco、KubeArmor；智能体编排可搭配 OpenAI Agents SDK 或 LangGraph；漏洞管理与虚拟补丁可参考 Wazuh。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "56448355221d",
+ "url": "https://www.aibase.com/zh/news/32485",
+ "title": "Anthropic 上线 Claude Ship：AI 智能体接管代码审查、修复与批准",
+ "source": "Readhub · AI",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-24T14:49:00.388106+00:00",
+ "content": "代码团队都知道那种煎熬：变更清单越积越多、CI 检查一片红、审查人却迟迟不打开页面。11 月 23 日据 TechCrunch 报道，Anthropic 推出 Claude Ship 测试版，用一组 AI 智能体接管协作流程里最磨人的环节——代码审查、修复与批准的自动化。\nPR Steward：连撤销方法都写清楚\n这套工具有三件套。第一件 Code Review 已正式开放。第二件 PR Steward 仍在 Beta，专管那些积压的“烂摊子 PR”：处理 CI 检查失败、化解合并冲突、解决审查提出的反馈问题。每次代码推送完成后，它会在评论里说明自己改了什么、必要时如何撤销——活由机器人干，退路留给人类。\n审批政策用大白话写\n第三件 Claude Approvals 更进一步：按团队制定的审批政策执行批准，政策以文件形式存在代码仓库里，可以直接用自然语言编写。审批时会综合多种信号，包括 Code Review 的检查结果和企业自研分类器的输入。\n考虑到仍在测试，Anthropic 建议团队先以观察模式运行审批功能——只看判断、不真执行；也可先在单个代码仓库启用，并设好每月支出上限，等判断稳定可靠后再逐步放开。",
+ "report": {
+  "summary": "Anthropic 推出 Claude Ship，AI 智能体自动处理代码审查、修复与批准",
+  "background": "AI 编程助手正从代码补全转向能独立完成任务的 Agent。Claude Code 之后，Anthropic 继续深入开发流程。代码审查长期是 PR 流程的瓶颈：审查人不够、CI 常失败、合并冲突和反馈越积越多。此前 CodeRabbit、Graphite、GitHub Copilot code review 已切入 AI 审查，Devin、OpenAI Codex 主攻任务执行。Claude Ship 把审查、修复、批准连成完整流程，说明厂商竞争已从“帮人写代码”转向“决定代码能否合并”。",
+  "key_points": [
+   "三件工具分工：Code Review 已正式开放；PR Steward 在 Beta 阶段，专门处理 CI 失败、合并冲突和审查反馈；Claude Approvals 按团队政策执行批准，覆盖从检查到放行的完整流程",
+   "每次推送后，机器人会在评论中说明改了什么、如何撤销，把最终否决权留给人，以降低团队对自动化的信任门槛",
+   "审批政策以自然语言文件形式存放在代码仓库中，工程师能直接阅读和修改，不需要学习专门的配置语法",
+   "批准决策会综合 Code Review 结果与企业自研分类器的输入，使团队可以叠加私有规则和领域知识",
+   "官方建议先以观察模式运行、只在单个仓库试点并设置月度支出上限，说明自动化审批仍有合规与成本风险"
+  ],
+  "impact": "对 AI 行业，竞争焦点转向工作流权限：谁掌握合并权，谁就掌握开发者入口，这可能与 GitHub、GitLab 等平台产生生态摩擦。对开发者，重复性维护工作减少，价值转向制定政策、处理例外和设计系统，只做形式审查的审批角色会承压。对普通用户，交付更快、缺陷反馈更及时，但自动放行的质量风险最终由用户承担，因此可追溯与回滚机制成为关键。",
+  "tools": "想跟进可关注 Claude Code 与 Claude Ship 测试申请；开源侧有 Aider、OpenHands、SWE-agent 做自动修复，Reviewdog、Graphite 辅助审查流程；也可用 GitHub Actions 加 LLM 分类器，自行实现“政策即代码”的思路。"
+ },
+ "lang": "zh"
+}

@@ -24883,5 +24883,104 @@
   "site_name": "NewsNow",
   "published_at": "2026-11-23T16:26:09.545Z",
   "fetched_at": "2026-11-24T02:56:08.854230+00:00"
+ },
+ "fc32915cc49c": {
+  "id": "fc32915cc49c",
+  "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+  "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:47:53.980881+00:00"
+ },
+ "04e6e0985816": {
+  "id": "04e6e0985816",
+  "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+  "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:48:04.894539+00:00"
+ },
+ "c5515e7cefaa": {
+  "id": "c5515e7cefaa",
+  "url": "https://thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents",
+  "title": "Sierra raises $1.75B at a $30B valuation for AI customer service agents",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:48:13.480776+00:00"
+ },
+ "664034635877": {
+  "id": "664034635877",
+  "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+  "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+  "source": "BBC News",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:48:22.150411+00:00"
+ },
+ "895d56f7fbc8": {
+  "id": "895d56f7fbc8",
+  "url": "https://www.aibase.com/zh/news/32484",
+  "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:48:37.253347+00:00"
+ },
+ "329b8eb9c131": {
+  "id": "329b8eb9c131",
+  "url": "https://www.aibase.com/zh/news/32481",
+  "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:48:50.003597+00:00"
+ },
+ "56448355221d": {
+  "id": "56448355221d",
+  "url": "https://www.aibase.com/zh/news/32485",
+  "title": "Anthropic 上线 Claude Ship：AI 智能体接管代码审查、修复与批准",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:49:00.388106+00:00"
+ },
+ "547871a99253": {
+  "id": "547871a99253",
+  "url": "https://www.aibase.com/zh/news/32482",
+  "title": "GPT-6.2 Sol 全量登陆 ChatGPT：视觉识别精度提升，老模型将下线",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T14:49:09.874887+00:00"
+ },
+ "11dd43af7a46": {
+  "id": "11dd43af7a46",
+  "url": "https://www.aibase.com/news/32490",
+  "title": "黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-24T03:35:26.737Z",
+  "fetched_at": "2026-11-24T14:49:22.130343+00:00"
+ },
+ "e12ef02c64b1": {
+  "id": "e12ef02c64b1",
+  "url": "https://www.aibase.com/news/32489",
+  "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-24T03:35:26.737Z",
+  "fetched_at": "2026-11-24T14:49:35.172221+00:00"
+ },
+ "94d0fb4bda35": {
+  "id": "94d0fb4bda35",
+  "url": "https://www.aibase.com/news/32485",
+  "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-24T03:35:26.737Z",
+  "fetched_at": "2026-11-24T14:49:46.759447+00:00"
  }
 }

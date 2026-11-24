@@ -1,0 +1,24 @@
+{
+ "id": "94d0fb4bda35",
+ "url": "https://www.aibase.com/news/32485",
+ "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-24T03:35:26.737Z",
+ "fetched_at": "2026-11-24T14:49:46.759447+00:00",
+ "content": "Code teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch, Anthropic launched the beta of Claude Ship, using a set of AI agents to take over the most tedious parts of the collaboration workflow—automating code review, fixes, and approvals.\nPR Steward: Even the Undo Method Is Written Out\nThis toolset has three parts. The first, Code Review, is now generally available. The second, PR Steward, is still in beta and specifically handles backlogged “messy PRs”: dealing with failed CI checks, resolving merge conflicts, and addressing feedback raised in reviews. After each code push, it explains in a comment what it changed and how to undo it if necessary—the bot does the work, while humans keep the way out.\nApproval Policies Written in Plain Language\nThe third, Claude Approvals, goes further: it executes approvals according to policies set by the team; the policies are stored as files in the code repository and can be written directly in natural language. When approving, it combines multiple signals, including Code Review results and input from the company’s own classifiers.\nSince it is still in testing, Anthropic recommends teams first run the approval feature in observation mode—only watching its decisions, without actually enforcing them; they can also enable it in a single repository first and set a monthly spending cap, then gradually expand once its judgments are stable and reliable.",
+ "report": {
+  "summary": "Anthropic 上线 Claude Ship，AI 代理接管代码评审、PR 修复与合入审批",
+  "background": "过去两年，AI 编程助手从“补全一行代码”演进到“独立完成一个任务”：Claude Code、Cursor、Devin 等代理已能写代码、跑测试。但协作环节——评审、解决冲突、等审批——仍靠人。GitHub Copilot 的代码评审、CodeRabbit、Greptile 已切入评审这一环，不过它们大多只到“提建议”为止，最终点击合入的仍是人。Claude Ship 把边界推进到 PR 维护与审批执行：让代理不只是提意见，还能动手修、按规则放行，触碰的是团队最敏感的信任与权限问题。",
+  "key_points": [
+   "Claude Ship 是三个工具的组合：代码评审（Code Review，已普遍可用）、PR Steward（测试中）、Claude Approvals（审批执行），覆盖从查错到合入的链条。",
+   "PR Steward 专治“烂摊子 PR”：自动处理 CI 失败、合并冲突和评审意见，每次推送都留言说明改了什么、如何回滚，保留人工撤回的通道。",
+   "Claude Approvals 让团队用自然语言写审批策略，策略以文件形式存进代码仓库，审批时综合评审结果与公司自有分类器的信号做判断。",
+   "Anthropic 建议先“只观察不执行”模式运行审批，并限定单仓库、设置月度花费上限，等判断稳定后再逐步扩大范围。",
+   "这标志着 AI 代理正式进入“权限层”：从建议者变成可执行者，团队需要重新设计审计、回滚与责任归属机制。"
+  ],
+  "impact": "对 AI 行业，这意味着竞争焦点从“模型会不会写代码”转向“敢不敢给代理权限”，信任机制与可审计性成为新卖点。对开发者，机械性维护工作被抽走，人力集中在架构与高风险判断上；但新人也少了通过修 CI、读评审意见成长的机会，评审者角色更像“定策略、抽查结果”。对普通用户，软件迭代会更快，但问题代码被放行的风险与责任归属将变成新的争议点。",
+  "tools": "想跟进可关注：Claude Code 与 Claude Ship 官方文档（先开观察模式试运行）、开源方案 CodeRabbit、Greptile、Cursor Bugbot 做评审对比，以及 Danger JS 等把规则写成代码的审批工具，体会“自然语言策略”与“代码化策略”的差别。"
+ },
+ "lang": "zh"
+}

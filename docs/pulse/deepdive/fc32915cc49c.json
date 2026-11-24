@@ -1,0 +1,24 @@
+{
+ "id": "fc32915cc49c",
+ "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+ "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+ "source": "TechCrunch",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T14:47:53.980881+00:00",
+ "content": "Amazon has agreed to acquire a good chunk of Israeli startup Decart.\nThe e-commerce and cloud giant is paying $7.5 billion for the startup, according to Bloomberg.\nDecart has made a name for itself building interactive real-time world models — most recently Oasis 3 — and AI video-generation tools. But under the hood, the company stands out for its Decart Optimization Stack (DOS), software that helps AI models run efficiently on Nvidia, Amazon, and Google’s hardware.\nAs part of the deal, Amazon will acquire the technology behind DOS, as well as Decart’s founding team and team of AI researchers and engineers, Amazon said in a blog post.\n“Every leap forward in AI starts with getting more out of every chip,” said Peter DeSantis, SVP of foundational AI models, custom silicon, quantum computing, at Amazon. “More efficient compute means better training, better reinforcement learning, faster inference, and better models for customers at a lower cost.”\nAmazon, which has so far been using its Trainium chips at its own data centers, is preparing to start selling them to customers as a competitor to Nvidia. Decart’s technology could make it easier for customers to run their workloads on Amazon chips, rather than Nvidia’s, which has been the gold standard so far.\nDecart and Amazon did not immediately return requests for comment.",
+ "report": {
+  "summary": "亚马逊75亿美元买下Decart优化技术，为对外销售Trainium芯片铺路",
+  "background": "亚马逊自研的Trainium芯片此前基本只在自家数据中心自用，始终难以撼动英伟达在AI训练和推理市场的主导地位，核心障碍不在硬件参数，而在CUDA多年积累的软件生态。以色列初创公司Decart以实时交互世界模型Oasis 3和视频生成工具出名，但真正被看重的是其Decart Optimization Stack（DOS）。这套软件能让同一个模型在英伟达、亚马逊和谷歌的芯片上都高效运行。此次交易正值亚马逊准备把Trainium卖给外部客户，属于典型的“技术+人才”收购。",
+  "key_points": [
+   "交易买的是DOS优化栈的底层技术，以及Decart的创始团队和一批AI研究员、工程师，不是简单买下产品线。",
+   "DOS的核心价值是跨硬件：同一套优化层可让模型跑在英伟达GPU、亚马逊Trainium和谷歌硬件上，显著降低迁移改造成本。",
+   "战略意图清晰：Trainium过去只服务自家机房，如今要对外销售，最缺的就是让客户“少改代码就能跑起来”的软件层。",
+   "对标CUDA护城河：英伟达的优势在编译器与算子优化，收下DOS相当于直接给Trainium补上最薄弱的软件短板。",
+   "顺带收入Oasis 3实时世界模型与视频生成能力，未来可能用于内容生产、Agent仿真训练等场景。"
+  ],
+  "impact": "对AI行业而言，芯片竞争的重心从堆算力参数转向软件栈与优化能力，云厂商自研芯片对英伟达的挑战进入实操阶段，75亿美元也为AI基础设施类资产定下新的估值锚。对开发者来说，多了一个算力选项，若DOS真能屏蔽硬件差异，跨芯片迁移成本会下降，但短期内工具链碎片化仍需自己承担。对普通用户，推理成本下降最终会体现为更便宜、更快的AI视频和实时交互应用。",
+  "tools": "想跟进可关注亚马逊Trainium配套的Neuron SDK、Decart的Oasis世界模型演示，以及vLLM、SGLang等推理框架对多硬件的适配进展；对照可看英伟达TensorRT-LLM与谷歌XLA/JAX，理解优化栈到底在做什么。"
+ },
+ "lang": "zh"
+}

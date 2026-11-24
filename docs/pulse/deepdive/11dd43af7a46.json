@@ -1,0 +1,24 @@
+{
+ "id": "11dd43af7a46",
+ "url": "https://www.aibase.com/news/32490",
+ "title": "黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-24T03:35:26.737Z",
+ "fetched_at": "2026-11-24T14:49:22.130343+00:00",
+ "content": "A tug-of-war over who would hold the highest power at NVIDIA was completely reversed in less than a week. The NVIDIA board voted unanimously to reinstate Jensen Huang as president, CEO, and director, and the stock price immediately surged 31% after the announcement. Just days earlier, things had looked entirely different—Chairman Harvey Jones had explicitly told investors that the board had no intention of bringing him back.\nWhat brought about this reversal was several forces falling into place at once. The board explained that follow-up talks left them satisfied with Jensen Huang's candor; at the same time, senior U.S. government officials assured the board that his return did not pose a national security risk; President Trump also publicly voiced support for the decision. With these three endorsements, the decision that had once shut Jensen Huang out was undone by the same people who had made it.\nJensen Huang's statement after returning to NVIDIA headquarters was widely quoted: \"I hope for a second chance. The second time, I will be a better CEO.\" After a brief period of turmoil, the world's most valuable chip company was back in the hands of its founder and helmsman—and the capital market cast its vote with a 31% gain.",
+ "report": {
+  "summary": "英伟达董事会一周内逆转决定，黄仁勋复职，股价大涨31%",
+  "background": "报道称，英伟达董事会曾明确表示无意让黄仁勋回归，董事长哈维·琼斯（Harvey Jones）还公开向投资者表态；但不到一周，董事会全票通过恢复其总裁、CEO及董事职务。据称反转源于三重力量同时到位：董事会后续沟通后认可黄仁勋的坦诚，美国高级官员保证其回归不构成国家安全风险，总统特朗普也公开支持。这一叙事与2023年OpenAI奥特曼被解职5天后回归高度相似，也让人联想到乔布斯回归苹果。需要提醒的是：现实中黄仁勋自1993年英伟达创立起一直担任CEO，从未离任，该文更像是把“创始人被驱逐后回归”的模板套用在英伟达身上的演绎性内容，建议以公司公告和SEC文件为准。",
+  "key_points": [
+   "一周内彻底反转：董事会从“无意让其回归”到全票通过复职，说明此前的驱逐决定缺乏稳固共识。",
+   "三重背书促成翻盘：董事会认可其坦诚，美政府高官排除国安顾虑，总统公开表态支持，缺一不可。",
+   "资本市场迅速投票：公告后股价应声上涨31%，反映投资者把创始人CEO视为公司核心资产与稳定器。",
+   "复职宣言被广泛引用：“我希望有第二次机会，第二次我会做个更好的CEO”，与乔布斯、奥特曼的回归叙事同构。",
+   "事实层面存疑：黄仁勋自1993年起连续执掌英伟达，董事长亦非文中人物，该报道更像虚构或演绎，需交叉核实。"
+  ],
+  "impact": "对AI行业而言，这类“创始人回归”叙事的反复上演，凸显治理结构与创始人权力之间的张力，也让市场更看重领导层稳定性对算力供应链预期的影响。对开发者来说，英伟达管理层变动会牵动CUDA生态、产品路线图与供货节奏，短期宜关注官方渠道而非二手转述。对普通用户，31%的股价波动看似遥远，却会传导到AI服务成本与显卡价格；同时这也是一次提醒：AI生成的“新闻”正越来越像真新闻，读到时先查证来源。",
+  "tools": "想核实此类消息，可关注英伟达投资者关系页面与SEC EDGAR文件、公司官方博客；追踪产业动态可用Google Alerts、Bloomberg/路透终端；技术跟进可看CUDA、TensorRT-LLM、NVIDIA NIM等官方仓库与文档；事实核查可借助Perplexity、Grok等带引用的检索工具做交叉验证。"
+ },
+ "lang": "zh"
+}
