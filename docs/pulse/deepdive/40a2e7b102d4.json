@@ -1,0 +1,25 @@
+{
+ "id": "40a2e7b102d4",
+ "url": "https://thenextweb.com/news/un-killer-robots-talks-delayed-2028-geneva",
+ "title": "UN talks fail to agree rules for ‘killer robots’ and push the issue to 2028",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T02:54:18.601812+00:00",
+ "content": "UN talks on regulating lethal autonomous weapons, often called “killer robots”, ended in Geneva on Saturday without a treaty mandate. The 128 countries in the Convention on Certain Conventional Weapons agreed to keep talking until 2028, Politico reported.\nUnder the final decision, countries will “elaborate” an instrument on these weapons under international humanitarian law. A group of government experts will report back in 2028. The decision does not mention a legally binding instrument, according to Politico.\nNegotiators announced the deal at 4:30am on Saturday, after a week of talks, NPR reported. The rules they propose could be binding. They could also be optional.\nWho blocked a treaty\nDecisions need consensus, so Russia could block formal negotiations all week, Politico reported. It also kept out observers, including the European Union. The talks went ahead informally to get around its veto.\nOn the first day, Russia objected to the agenda, NPR reported. Then the US proposed five more years of talks on optional guidelines. The Pentagon set up an Autonomous Warfare Command in October.\nTwo EU diplomats told Politico that the US, the UK, South Korea, Japan, Turkey and Israel also resisted binding rules. France called for a “hybrid document” with binding and non-binding parts. Germany backed an “international instrument” rather than a binding protocol.\nCountries that wanted rules, such as Ireland, Brazil, Belgium and Austria, softened their positions in the final hours. They feared leaving empty-handed, a Brazilian diplomat told Politico.\nGroups call it a disappointment\nBefore the talks, the International Committee of the Red Cross asked for binding rules within a year, NPR reported. The UN secretary-general and Pope Leo backed that call. The ICRC said it regretted the outcome.\n“You cannot hold a machine accountable for a violation of the law,” said ICRC legal adviser Georgia Hinds.\nUkraine, Russia, Israel and others use drones and robots in war, but say humans still have the final say, Politico reported.\nStop Killer Robots is a coalition of more than 300 groups. It says armies have already tested or used such weapons in Ukraine and Gaza.\n“Autonomous weapons technology, including AI in the targeting cycle, is being deployed on the battlefield,” said its executive director, Nicole van Rooijen.\nRain Liivoja of the Asia-Pacific Institute for Law and Security pointed to the missing binding instrument. With none in the decision, there may be no treaty by the end of 2028, he told Politico.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "联合国“杀手机器人”规则谈判破裂,推迟至2028年",
+  "background": "致命性自主武器系统(LAWS)指能在无人类干预下自主选择并攻击目标的武器。自2014年起,《特定常规武器公约》(CCW)框架下的政府专家组就在日内瓦讨论该议题,却始终未能进入正式条约谈判。近年AI被嵌入目标识别与打击链条,乌克兰、加沙战场上已出现相关技术部署,红十字国际委员会、联合国秘书长与教皇多次呼吁尽快订立具有法律约束力的规则。本次会议一度被视为最接近启动正式谈判的窗口,最终仍以“继续讨论”收场。",
+  "key_points": [
+   "128国在日内瓦谈了一周,最终只同意把讨论延长到2028年,既未启动条约谈判,决议文本也未提及具有法律约束力的文书。",
+   "决议需全体一致通过,俄罗斯整周反复阻挠议程、把欧盟等观察员挡在门外,谈判只能绕开否决以非正式方式进行。",
+   "美国提议再谈五年“自愿性指南”,英国、韩国、日本、土耳其、以色列同样反对强制约束;五角大楼10月刚设立自主战争司令部。",
+   "爱尔兰、巴西、比利时、奥地利等主张立规的国家在最后几小时软化立场,担心会议空手而归。",
+   "红十字国际委员会称结果令人遗憾,其法律顾问直言“机器无法为违法行为负责”;学者警告2028年底前可能仍无条约。",
+   "支持立规方与反对方的分野显示,AI军控正沿地缘政治阵营而非人道主义共识重组。"
+  ],
+  "impact": "对AI行业,军事自主性的监管真空将长期存在,“合规”仍主要靠企业自律与出口管制;对开发者,目标识别、自主决策类技术的责任边界更加模糊,军工AI项目缺乏国际法约束;对普通用户,战争中的问责链条进一步断裂,平民保护机制难以落地,同时AI军备竞赛的公共焦虑会持续升温。",
+  "tools": "可跟进Stop Killer Robots联盟的国别立场追踪、红十字国际委员会自主武器专题页、联合国CCW政府专家组会议文件库,以及SIPRI年度军控与AI安全报告,用于持续观察各国立场变化与技术部署证据。"
+ },
+ "lang": "zh"
+}

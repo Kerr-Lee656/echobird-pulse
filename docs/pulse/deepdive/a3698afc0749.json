@@ -1,0 +1,24 @@
+{
+ "id": "a3698afc0749",
+ "url": "https://thenextweb.com/news/amazon-decart-7-5bn-optimization-stack-founders-trainium",
+ "title": "Amazon buys Decart’s AI tech and its founders in a deal worth about $7.5bn",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T02:54:38.053989+00:00",
+ "content": "Amazon has agreed to buy the technology behind Decart’s AI optimisation software and to bring the Israeli startup’s three co-founders and their team into the company. Amazon announced the deal on Monday without giving a price.\nAmazon will pay about $7.5bn for the assets, a person familiar with the matter told Matt Day of Bloomberg. It is not buying Decart’s AI models, the person said. News of their talks first emerged in October.\nThe deal covers the Decart Optimization Stack, software that helps AI models run faster and more cheaply across different chips. The co-founders, Dean Leitersdorf, Moshe Shalev and Orian Leitersdorf, will join Amazon with their researchers and engineers. The deal still needs regulatory clearance.\n“Every leap forward in AI starts with getting more out of every chip,” said Peter DeSantis, Amazon’s senior vice president for foundational AI models, custom silicon and quantum computing.\nBuilt around Trainium\nDecart has worked with Amazon since 2025, including on its Trainium chips, which Amazon pitches as a rival to Nvidia’s GPUs. Amazon said the technology will help it get more out of both its AI inference and its custom chips.\n“Joining Amazon gives our team the scale, the customers, and the infrastructure to pursue that mission faster than we could on our own,” said Dean Leitersdorf, Decart’s co-founder and chief executive.\nFive years to collect\nAmazon is making the deal through Annapurna Labs, its chip development arm, Israeli business daily Globes reported. The payment is in shares and depends on meeting targets over five years, according to Globes. The three founders have committed to stay at Amazon for that long.\nThe founders hold about 64% of Decart and stand to share $4.8bn, Globes reported. The bulk of that money comes in the later years of the deal.\nAnthropic had held talks to buy Decart for about $6bn before it walked away in September.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "亚马逊约75亿美元收购Decart优化技术及创始团队",
+  "background": "AI推理成本成为大模型商业化关键，云厂商正围绕自研芯片构建软硬件栈以挑战英伟达GPU。Decart是一家以色列优化软件公司，其Decart Optimization Stack可让模型跨不同芯片更快更便宜运行，并已与亚马逊Trainium合作。此前Anthropic曾洽谈收购未果，亚马逊最终以约75亿美元买下技术资产和创始团队，但不买其AI模型。",
+  "key_points": [
+   "亚马逊以约75亿美元收购Decart的优化技术栈，并把三位联合创始人及研究工程团队招入麾下，但不收购Decart的AI模型本身。",
+   "核心资产是Decart Optimization Stack，可让AI模型在不同芯片上运行得更快、更便宜，重点服务推理场景。",
+   "交易通过亚马逊芯片部门Annapurna Labs进行，技术将用于提升Trainium自研芯片和AI推理效率，强化对英伟达GPU的挑战。",
+   "对价以股票支付并设五年业绩目标，三位创始人承诺留任五年；他们持有约64%股份，潜在分得48亿美元。",
+   "此前Anthropic曾洽谈以约60亿美元收购Decart但退出；亚马逊在10月传出谈判后最终拿下，显示AI优化层争夺升温。"
+  ],
+  "impact": "对行业而言，云厂商竞争从芯片延伸到编译与优化软件栈，“每瓦性能”和推理成本成为核心指标，可能推动更多自研芯片生态并购。对开发者，跨芯片优化工具可能降低部署门槛和推理费用，但也可能随团队被大厂收编而影响中立工具供给。对普通用户，AI服务有望更快更便宜，但供应商集中度上升可能影响长期选择和定价。",
+  "tools": "Decart技术未开源，跟进可关注亚马逊Neuron SDK与Trainium文档；跨芯片推理优化可研究Apache TVM、ONNX Runtime、vLLM、llama.cpp等开源项目，观察其编译与内核优化思路。"
+ },
+ "lang": "zh"
+}

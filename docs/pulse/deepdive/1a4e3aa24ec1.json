@@ -1,0 +1,24 @@
+{
+ "id": "1a4e3aa24ec1",
+ "url": "https://thenextweb.com/news/lean-mathlib-certify-riemann-hypothesis-proof-alpoge-claude",
+ "title": "Lean and Mathlib certify Alpöge’s Claude-assisted Riemann hypothesis proof",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T02:54:27.150043+00:00",
+ "content": "The Lean and Mathlib communities have certified that Levent Alpöge’s Claude-assisted proof of the Riemann hypothesis is correct. In a joint statement on Saturday, the Lean FRO and the Mathlib Initiative said they had full confidence in the proof and congratulated him.\n“We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct,” the groups wrote.\nAlpöge, a mathematician at Anthropic, released the proof on Friday as a Lean library of 17 million lines of code. Lean is a programming language that checks every logical step. There is no paper a human could read.\nHow the proof was checked\nDozens of people compiled the code without errors and got the same raw proof file, the statement said. Two separate tools then confirmed that Alpöge’s theorem is exactly the Riemann hypothesis as Mathlib states it. Experts in Lean and number theory had already vetted that statement.\nSeveral proof checkers, written in different programming languages, checked the proof itself. Two of them, con-leche and con-ron, come with a formal proof that they cannot accept a false one. That answers the worry that a flaw in Lean could let a bad proof through, the groups said.\nMIT mathematician Andrew Sutherland, who ran early checks on his own computer, keeps a public verification record. All 175,187 modules compile with zero errors, it says. He ran the checks with Claude Code. A separate, sandboxed rebuild produced a byte-identical proof file. Two of the slowest kernel checks were still running at his last update on Sunday afternoon.\nThe proof also covers the Generalized Riemann Hypothesis for Dirichlet L-functions, across all moduli and characters, the record says. It does not cover Dedekind zeta functions, Hecke L-functions or automorphic L-functions in general.\n“No human being can reasonably claim to understand”\nNot every mathematician welcomed the result. The Association for Human Mathematics said in a statement that the proof puts technical validity above accountability, clarity and understanding.\n“At this time, no human being can reasonably claim to be responsible for, or even to understand, such a document,” the group wrote.\nThe group called for democratic oversight of AI companies. It said firms use milestones like this as publicity for the superintelligence they want to build, and urged mathematicians to keep their research free of AI models.\nThe Lean groups said they looked forward to work that will help explain the new ideas in the proof. Alpöge has said he wants to understand the argument, simplify it and write it up. He works with Tristan Buckmaster on Navier-Stokes, another Millennium Prize Problem.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Lean/Mathlib认证Claude辅助的黎曼猜想证明",
+  "background": "黎曼猜想是克雷数学研究所悬赏的千禧年难题之一。该事件中，Anthropic数学家Levent Alpöge用Claude辅助生成形式化证明，并以Lean库形式发布。Lean/Mathlib社区随后进行独立编译与多工具核验。这延续了AI参与数学发现和形式化验证的趋势，也引发“机器可验证但人类难理解”的争论。",
+  "key_points": [
+   "证明以1700万行Lean代码发布，没有传统可读论文，所有逻辑步骤由Lean检查。",
+   "数十人独立编译得到同一原始证明文件，两个独立工具确认定理陈述正是Mathlib中的黎曼猜想。",
+   "多种证明检查器交叉验证，其中con-leche和con-ron附带形式化可靠性证明，降低Lean自身漏洞风险。",
+   "证明还覆盖Dirichlet L函数的一般黎曼猜想，但不覆盖Dedekind zeta、Hecke L函数等更一般情形。",
+   "人类数学协会批评其重技术有效性、轻可理解性与责任归属，呼吁对AI公司进行民主监督。"
+  ],
+  "impact": "对AI行业，这是AI辅助数学与形式化验证的里程碑，可能推动更多“AI生成+机器认证”研究范式。对开发者，Lean/Mathlib、证明工程和可信检查器需求上升。对普通用户，结果增强对AI数学能力的想象，但“无人能理解”的争议也提醒需关注透明度、责任和科学传播。",
+  "tools": "可关注Lean 4与Mathlib、Claude Code、con-leche和con-ron等证明检查器，以及Andrew Sutherland的公开验证记录；上手可从Mathlib社区教程和形式化证明项目开始。"
+ },
+ "lang": "zh"
+}

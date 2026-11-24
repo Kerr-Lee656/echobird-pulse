@@ -24784,5 +24784,104 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-23T02:01:37Z",
   "fetched_at": "2026-11-23T14:32:40.181884+00:00"
+ },
+ "f623141117fe": {
+  "id": "f623141117fe",
+  "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+  "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:03.506963+00:00"
+ },
+ "40a2e7b102d4": {
+  "id": "40a2e7b102d4",
+  "url": "https://thenextweb.com/news/un-killer-robots-talks-delayed-2028-geneva",
+  "title": "UN talks fail to agree rules for ‘killer robots’ and push the issue to 2028",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:18.601812+00:00"
+ },
+ "1a4e3aa24ec1": {
+  "id": "1a4e3aa24ec1",
+  "url": "https://thenextweb.com/news/lean-mathlib-certify-riemann-hypothesis-proof-alpoge-claude",
+  "title": "Lean and Mathlib certify Alpöge’s Claude-assisted Riemann hypothesis proof",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:27.150043+00:00"
+ },
+ "a3698afc0749": {
+  "id": "a3698afc0749",
+  "url": "https://thenextweb.com/news/amazon-decart-7-5bn-optimization-stack-founders-trainium",
+  "title": "Amazon buys Decart’s AI tech and its founders in a deal worth about $7.5bn",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:38.053989+00:00"
+ },
+ "e6e5258b9185": {
+  "id": "e6e5258b9185",
+  "url": "https://thenextweb.com/news/google-homepage-search-button-ai-buttons-sidebar",
+  "title": "Google.com swaps its Search button for three AI buttons and a sidebar",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:45.791040+00:00"
+ },
+ "27a6b6af092d": {
+  "id": "27a6b6af092d",
+  "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+  "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:54:59.703244+00:00"
+ },
+ "f4412cbdd345": {
+  "id": "f4412cbdd345",
+  "url": "https://www.aibase.com/zh/news/32474",
+  "title": "加州总检察长起诉 OpenAI：指控其将增长和速度置于安全之上",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:55:18.276440+00:00"
+ },
+ "c4f2d75bf967": {
+  "id": "c4f2d75bf967",
+  "url": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
+  "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-24T02:55:32.183644+00:00"
+ },
+ "662bba27c890": {
+  "id": "662bba27c890",
+  "url": "https://www.aibase.com/news/32479",
+  "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-23T16:47:45.567Z",
+  "fetched_at": "2026-11-24T02:55:51.953568+00:00"
+ },
+ "4dd8edfcdea0": {
+  "id": "4dd8edfcdea0",
+  "url": "https://www.aibase.com/news/32475",
+  "title": "Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-23T16:26:45.567Z",
+  "fetched_at": "2026-11-24T02:56:01.136240+00:00"
+ },
+ "aeca65a02539": {
+  "id": "aeca65a02539",
+  "url": "https://juejin.cn/post/7710853195052990499",
+  "title": "七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-23T16:26:09.545Z",
+  "fetched_at": "2026-11-24T02:56:08.854230+00:00"
  }
 }

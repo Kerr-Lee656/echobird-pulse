@@ -1,0 +1,24 @@
+{
+ "id": "662bba27c890",
+ "url": "https://www.aibase.com/news/32479",
+ "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-23T16:47:45.567Z",
+ "fetched_at": "2026-11-24T02:55:51.953568+00:00",
+ "content": "A roughly 90-minute feature-length narrative film contains no traditional live-action shooting from start to finish, yet it delivers a delicate and vivid live-action visual texture—on November 23, Shenzhen's first AIGC (generative artificial intelligence) online narrative film, \"Wonderful Connection,\" premiered simultaneously on Shenzhen TV, Hunan TV, and Mango TV, pushing AI video technology to the full specifications of a feature-length online narrative film for the first time.\nThe story is set against the backdrop of China's APEC year in 2026. Starting with an urban adventure triggered by an email, the film tells of the wondrous encounters in Shenzhen between an ordinary employee of a Shenzhen company and four overseas clients from South Korea, Mexico, Indonesia, and Chile. Characters from different cultural backgrounds and professional identities communicate and come to understand one another through a series of experiences full of laughter and warmth, ultimately forming a sincere emotional bond between people, folding the grand proposition of jointly building an Asia-Pacific community into a tangible, relatable screen story. The brisk pace of workplace comedy and the humanistic concern of realism are stitched into the same narrative thread.\nThe city itself is also one of the film's protagonists. In the early stages, the creative team went deep into Shenzhen to gather material, conducting field research on landmark buildings, industrial parks, streets, and neighborhoods. They turned a large amount of the real city's scenery into digital assets, then used AI to recreate an authentic and vibrant urban texture—Shenzhen's technological innovation strength, industrial vitality, and urban warmth flow naturally along with the characters' experiences, portraying the city's most modern and dynamic side.\nUnlike many traditional AIGC works that are eager to show off technical tricks, this film's production approach reverses the order: the creative logic of live-action filmmaking and a complete scripted narrative framework come first, with AI tools serving the storytelling rather than the other way around. From script planning, character design, and the construction of digital scene assets to video generation, shot composition, lighting, and art direction, the core creative work was completed by the creative team of Shenzhen Sunshine Pictures. It was co-produced by Shenzhen Sunshine Pictures, Shenzhen Film Studio Co., Ltd., and other units, with guidance and support from the Publicity Department of the CPC Shenzhen Municipal Committee. When a film without cameras can achieve cinematic audiovisual aesthetics and appear on mainstream satellite TV screens, the path of AIGC film and television from technology demonstration to serious content production has been made one step more solid.",
+ "report": {
+  "summary": "深圳首部AIGC长片《奇妙连接》登陆三大卫视，零实景拍摄",
+  "background": "过去两年，AIGC视频从Sora引爆概念，到可灵、即梦、Vidu、Veo等模型不断拉长生成时长、改善角色一致性，但成果多停留在几分钟的短片、概念片或微短剧，主要问题是叙事连贯性不足、角色一致性欠佳、镜头语言生硬。90分钟长片意味着数百个镜头要保持人物、光线、场景统一，这是AI视频此前未跨过的门槛，而且此前缺少主流电视渠道的验证。深圳借2026年APEC中国年的主题，把城市形象传播与AI技术验证结合，由本地影视公司联合制作、市委宣传部指导，本质上是一次“城市+技术”的官方背书式试验。",
+  "key_points": [
+   "全片约90分钟，没有一台实景摄像机，却做出接近真人实拍的画面质感，首次把AI视频从“几分钟演示”推到“长片规格”。",
+   "创作顺序与常见AIGC作品相反：先有完整剧本、分镜、灯光与美术设计，AI只负责执行，避免为炫技牺牲故事。",
+   "前期团队实地采风，把深圳地标、产业园区、街巷转成数字资产后用AI重建，让城市本身成为主角，也提升了画面可控性。",
+   "题材走稳妥路线：职场喜剧加跨文化交流，围绕2026年APEC年份展开，带有明显的城市形象传播属性。",
+   "播出渠道是关键突破：深圳卫视、湖南卫视、芒果TV同步首播，意味着AIGC内容正式进入主流卫视排播体系。"
+  ],
+  "impact": "对AI行业，这是一次从技术演示到正式内容交付的示范，长片级一致性、数字资产管线和可控生成会成为新竞争点；对开发者，角色一致性、镜头连贯、AI与实拍后期流程的衔接是明确的技术需求缺口；对普通观众，电视上的AI内容已不再“一眼假”，但也要留意题材趋同、真人演员与幕后工种被替代的隐忧。",
+  "tools": "想跟进可关注：视频生成用可灵、即梦、Vidu、Runway、Veo；角色与风格一致性用Midjourney角色参考、ComfyUI工作流加LoRA训练；场景底稿可用Blender或Unreal搭建数字资产；后期用DaVinci Resolve做调色与剪辑整合。"
+ },
+ "lang": "zh"
+}

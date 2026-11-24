@@ -13579,5 +13579,113 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-23T10:26:07Z",
   "fetched_at": "2026-11-23T14:34:59.137860+00:00"
+ },
+ "4f4c996944cb": {
+  "id": "4f4c996944cb",
+  "url": "https://www.macrumors.com/2026/11/16/apple-just-released-a-new-app/",
+  "title": "Apple Releases New AI Health App",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T02:48:04Z",
+  "fetched_at": "2026-11-24T02:56:52.280822+00:00"
+ },
+ "c57f38043836": {
+  "id": "c57f38043836",
+  "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+  "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+  "source": "公众号：MiniMax",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-24T02:11:36.000Z",
+  "fetched_at": "2026-11-24T02:57:19.735573+00:00"
+ },
+ "a72cc3aa1f3d": {
+  "id": "a72cc3aa1f3d",
+  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "title": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
+  "source": "Hacker News (4pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T23:39:44Z",
+  "fetched_at": "2026-11-24T02:57:31.566204+00:00"
+ },
+ "38c18da1f35e": {
+  "id": "38c18da1f35e",
+  "url": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
+  "title": "The AI bubble hasn't burst, but it has significantly deflated",
+  "source": "Hacker News (9pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T23:25:26Z",
+  "fetched_at": "2026-11-24T02:57:49.009917+00:00"
+ },
+ "04ce43137df0": {
+  "id": "04ce43137df0",
+  "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+  "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+  "source": "Tibo",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-23T22:48:30.000Z",
+  "fetched_at": "2026-11-24T02:58:01.641861+00:00"
+ },
+ "3f7a79e95d07": {
+  "id": "3f7a79e95d07",
+  "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+  "title": "US to blacklist Asian AI firm Megaspeed",
+  "source": "Hacker News (12pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T22:48:25Z",
+  "fetched_at": "2026-11-24T02:58:16.377346+00:00"
+ },
+ "f323d7562d66": {
+  "id": "f323d7562d66",
+  "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "source": "Hacker News (8pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T22:39:37Z",
+  "fetched_at": "2026-11-24T02:58:32.524787+00:00"
+ },
+ "7e7e5607ef7e": {
+  "id": "7e7e5607ef7e",
+  "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
+  "title": "Claude solves arithmetic analogue to P vs. NP [pdf]",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T22:26:49Z",
+  "fetched_at": "2026-11-24T02:58:47.919999+00:00"
+ },
+ "eea6d4f773cb": {
+  "id": "eea6d4f773cb",
+  "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-23T22:02:05.000Z",
+  "fetched_at": "2026-11-24T02:59:03.587657+00:00"
+ },
+ "4ba202d38ef5": {
+  "id": "4ba202d38ef5",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+  "title": "Google Gemini decouples chat history from AI training",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-23T21:38:18Z",
+  "fetched_at": "2026-11-24T02:59:18.226586+00:00"
+ },
+ "b0689cf87ab5": {
+  "id": "b0689cf87ab5",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "source": "OpenAI",
+  "site_name": "OpenAI",
+  "published_at": "2026-11-23T21:20:00.000Z",
+  "fetched_at": "2026-11-24T02:59:41.608943+00:00"
+ },
+ "b6aa410db677": {
+  "id": "b6aa410db677",
+  "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-23T21:09:37.000Z",
+  "fetched_at": "2026-11-24T02:59:56.844347+00:00"
  }
 }

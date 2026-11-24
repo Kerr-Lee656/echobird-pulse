@@ -1,0 +1,24 @@
+{
+ "id": "e6e5258b9185",
+ "url": "https://thenextweb.com/news/google-homepage-search-button-ai-buttons-sidebar",
+ "title": "Google.com swaps its Search button for three AI buttons and a sidebar",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-24T02:54:45.791040+00:00",
+ "content": "Google has removed the Google Search button from its desktop homepage for signed-in users and put three AI buttons in its place: “Create images”, “Ask about files” and “Brainstorm”. The “I’m Feeling Lucky” button stays. Google tested the buttons on signed-out users in August.\nThe homepage is also getting a collapsible sidebar that lists recent AI searches. Robby Stein, Google’s vice president of product for Search, announced it in a post on X on 19 November.\n“New on the Google desktop homepage globally: we’re rolling out a collapsible sidebar to easily find & jump back into your recent AI searches,” Stein wrote.\n“People are coming to Search with more questions that aren’t just one and done,” he added.\nThe sidebar only appears in AI Mode and lists both AI and regular searches, Engadget reported.\nWhat the buttons do\nAlex Valdes saw the buttons on desktop while signed in, but not on mobile, he reported for CNET on 20 November. Signed out, the page looked as before. A TNW check from Spain on 23 November, signed out, still showed the Search button.\n“Create images” opens Nano Banana, Google’s image generator. “Ask about files” lets users upload a document for the AI to analyse, rewrite or answer questions about. “Brainstorm” asks users to describe a goal, such as a to-do list or finding a restaurant table.\nTraining and opt-outs\nGoogle uses AI searches, including questions, uploaded files and generated images, to train its models, CNET reported. Users can turn this off under Data and Privacy, My Activity, Other activity, then Gemini Apps Activity.\nAlphabet shares fell 12% last month after Google said AI Mode searches earn less than regular ones. Reddit now makes users log in as Google’s AI search cuts its traffic.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌桌面主页用三个AI按钮取代搜索按钮，并新增AI搜索侧边栏。",
+  "background": "谷歌搜索主页多年保持极简形态：一个输入框加“Google 搜索”和“手气不错”两个按钮。随着ChatGPT等AI助手分流用户，谷歌将AI Mode作为核心战略，但变现效率低于传统搜索——Alphabet上月披露AI搜索收入较低后股价下跌12%。此次改版先在未登录用户中测试，11月起向全球登录用户推送，是谷歌搜索从“关键词跳转”转向“对话式持续任务”的标志性动作。",
+  "key_points": [
+   "主页原有“Google 搜索”按钮被移除，换成创建图片、询问文件、头脑风暴三个AI入口，“手气不错”按钮则保留。",
+   "新增可折叠侧边栏，列出最近的AI搜索和普通搜索，方便用户回到多轮对话式任务。",
+   "三个按钮分别调用Nano Banana图像生成、文档上传分析、目标拆解 brainstorm 能力，覆盖创作、办公、规划场景。",
+   "谷歌承认会用AI搜索中的提问、上传文件和生成图片训练模型，用户可在隐私设置中关闭Gemini应用活动记录。",
+   "AI搜索让Reddit等网站流量下滑并被迫要求登录，显示AI入口正在重塑内容生态的流量分配。"
+  ],
+  "impact": "对AI行业，谷歌把最强流量入口直接改造为AI入口，将加速搜索与聊天机器人的形态融合，迫使必应、百度等跟进。对开发者，AI Mode带来新的分发渠道，但也意味着网站流量被进一步截留，SEO策略需转向被AI引用。对普通用户，搜索门槛降低、任务连续性增强，但需留意上传文件被用于模型训练，主动管理隐私开关。",
+  "tools": "想体验类似能力可关注Google AI Mode与Gemini、Nano Banana图像生成；文档问答可对比NotebookLM、Claude；若做同类产品开发，可研究开源RAG框架LlamaIndex、LangChain及本地模型Ollama。"
+ },
+ "lang": "zh"
+}
