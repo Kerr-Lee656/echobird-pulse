@@ -1,0 +1,24 @@
+{
+ "id": "4bb441608113",
+ "url": "https://www.aibase.com/news/32516",
+ "title": "算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-25T10:37:27.634Z",
+ "fetched_at": "2026-11-25T21:39:14.205428+00:00",
+ "content": "Tesla CEO Elon Musk said on X on November 22 that the next-generation AI5 chip will be prioritized for deployment in Optimus humanoid robots and related AI training systems, while automotive products will continue to use the existing AI4 chip. Responding to a user’s question about when AI5 will be used in new cars, Musk said that AI4’s computing power is already sufficient to support Tesla in achieving autonomous driving beyond human level, so there is currently no need to prioritize AI5 for cars.\nMusk had previously expressed a similar view on Tesla’s first-quarter earnings call, saying that AI4 is sufficient to support unsupervised autonomous driving and achieve safety levels far exceeding human driving.\nThis deployment arrangement shows that Tesla is shifting more advanced computing resources toward the field of embodied intelligence. Compared with automotive autonomous driving, humanoid robots need to simultaneously handle environmental perception, path planning, multi-degree-of-freedom motion control, and real-time interaction, placing higher demands on chip computing power, memory capacity, and energy efficiency.\nAccording to reports, AI5 has completed tape-out and entered the trial production stage, and is planned for mass production in 2027. Its computing power is expected to be about 12 times that of AI4, and its memory capacity is planned to increase to about 96 GB. By comparison, the existing AI4 (HW4) uses two custom SoCs, each integrating 3 TRIP neural network accelerators, for a total of 6 accelerators, and is equipped with about 32 GB of GDDR6 memory. AI5’s greater computing power and memory capacity will support the operation of complex AI models, and will also place higher demands on chip power consumption and thermal design.",
+ "report": {
+  "summary": "特斯拉AI5算力约为AI4的12倍，将优先用于人形机器人而非汽车",
+  "background": "特斯拉长期自研车载芯片，从HW3到AI4（HW4），依靠在同一块主板上并联两颗定制SoC，支撑FSD端到端神经网络。随着Optimus人形机器人项目推进，马斯克把公司定位从“车企”转向“AI与机器人公司”，算力分配也随之改变。11月22日马斯克在X上回应称，AI5将优先用于Optimus和AI训练系统，汽车继续用AI4，理由是AI4已足够实现无监督自动驾驶。此时AI5已完成流片、进入试产，计划2027年量产。",
+  "key_points": [
+   "算力优先部署顺序发生反转：下一代AI5先给人形机器人和AI训练系统，汽车业务继续使用现有的AI4，不再把最新芯片留给车。",
+   "马斯克称AI4算力已足以支撑无监督自动驾驶，安全水平远超人类驾驶，因此汽车短期没有升级芯片的紧迫性。",
+   "规格差距明显：AI5算力约为AI4的12倍，内存规划约96GB；AI4由两颗定制SoC组成，共6个神经网络加速器，配约32GB GDDR6。",
+   "机器人对芯片要求更高：需同时完成环境感知、路径规划、多自由度运动控制和实时交互，对算力、内存带宽与能效都是多重考验。",
+   "时间表与工程挑战：AI5已流片并进入试产，计划2027年量产，算力与内存翻倍后，功耗和散热设计将成主要瓶颈。"
+  ],
+  "impact": "对AI行业而言，这是明确信号：头部公司开始把最强自研算力投向具身智能，而非已相对成熟的自动驾驶，人形机器人竞赛将围绕芯片与训练基础设施展开。对开发者来说，机器人端侧大模型、实时运动控制与多模态感知的工程需求会快速上升，相关软件栈价值提升。对普通用户，短期内买车不必等待新芯片，FSD体验由AI4决定；而真正具备通用能力的家用机器人，大概率要等到2027年AI5量产后才具备落地基础。",
+  "tools": "想跟进可关注：NVIDIA Isaac Sim / Isaac ROS 做机器人仿真与感知训练，MuJoCo 与 ROS 2 做运动控制验证，Hugging Face LeRobot 与 OpenVLA 等开源视觉-语言-动作模型上手具身智能，另外可跟踪特斯拉AI Day资料与Dojo超算公开信息。"
+ },
+ "lang": "zh"
+}

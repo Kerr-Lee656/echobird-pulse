@@ -13813,5 +13813,59 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-25T05:29:48.000Z",
   "fetched_at": "2026-11-25T11:15:43.426657+00:00"
+ },
+ "e732affa3e39": {
+  "id": "e732affa3e39",
+  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T20:14:54Z",
+  "fetched_at": "2026-11-25T21:40:07.865114+00:00"
+ },
+ "88bd06d7e0e9": {
+  "id": "88bd06d7e0e9",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "title": "Where scientists draw the line on AI agents",
+  "source": "Hugging Face",
+  "site_name": "Hugging Face",
+  "published_at": "2026-11-25T18:52:55.000Z",
+  "fetched_at": "2026-11-25T21:40:33.893413+00:00"
+ },
+ "3e358a8a8c84": {
+  "id": "3e358a8a8c84",
+  "url": "https://www.aikido.dev/blog/hugging-face-phishing-pages",
+  "title": "Attackers use Hugging Face's AI to make phishing pages",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T18:26:42Z",
+  "fetched_at": "2026-11-25T21:40:46.072283+00:00"
+ },
+ "2f8c3cc9fddc": {
+  "id": "2f8c3cc9fddc",
+  "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+  "title": "Anthropic Created a Honeypot to Lure AI Agents into Misbehaving",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T18:26:42Z",
+  "fetched_at": "2026-11-25T21:41:01.102689+00:00"
+ },
+ "5b2e3451b1a5": {
+  "id": "5b2e3451b1a5",
+  "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+  "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-25T17:35:58.000Z",
+  "fetched_at": "2026-11-25T21:41:16.040743+00:00"
+ },
+ "ec7d726e8b64": {
+  "id": "ec7d726e8b64",
+  "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+  "title": "New York bans AI toys, including those using internet to talk to children",
+  "source": "Hacker News (34pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T17:27:05Z",
+  "fetched_at": "2026-11-25T21:41:28.112518+00:00"
  }
 }

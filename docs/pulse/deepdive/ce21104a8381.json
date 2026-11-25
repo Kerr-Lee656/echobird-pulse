@@ -1,0 +1,25 @@
+{
+ "id": "ce21104a8381",
+ "url": "https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum",
+ "title": "EU reportedly plans €50bn tech fund to back AI and quantum firms",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-25T21:37:55.351402+00:00",
+ "content": "The European Commission has proposed a €50bn fund that would take direct stakes in European AI and quantum computing companies. The Sovereign Tech Equity Fund was confirmed on Wednesday, hours after the Financial Times first reported the plan, citing two officials.\nThe fund would make larger, riskier, and longer-term investments than the EU’s existing financing schemes. Its goal is to cut the bloc’s dependence on US and Chinese technology.\nThe legal basis for the fund sits inside the Quantum Act, which the Commission presented the same day in Strasbourg. Henna Virkkunen, the Commission’s tech chief, said the vehicle would reach beyond quantum to all technologies the EU deems critical.\n“No company should be obliged to leave Europe due to lack of finance,” Virkkunen told reporters.\nAccording to the FT, the money would flow into frontier technologies that matter for Europe’s industrial strength. The fund forms part of a wider push to keep strategic tech and supply chains on the continent.\nMoney has long been Europe’s sore spot, as the region attracts only around 5% of global venture capital flows, according to the FT’s report. EU officials worry that the continent’s best startups move abroad, or sell to foreign buyers, in search of growth capital.\nThe push follows the 2024 Draghi report, which urged the bloc to spend far more on innovation to keep up with the US and China.\nThe new vehicle would dwarf the schemes the EU already runs. Among them is the €5bn Scaleup Europe Fund, which is managed by private equity firm EQT and made its first investments this autumn, starting with Finnish satellite firm ICEYE. The Commission hopes to grow that fund to €25bn.\nIn 2023, the bloc also launched a €3.75bn fund of funds for late-stage startups. The European Investment Bank has drawn up its own plans to keep startups from leaving, and aims to mobilise €70bn for European tech by 2027 through its TechEU programme. The bank group says its Tech Champions funds now hold 15 unicorns.\nEuropean tech companies have pushed for something bigger. In March 2025, around 100 organisations wrote to Commission president Ursula von der Leyen calling for a sovereign infrastructure fund to back key technologies at home.\nHenna Virkkunen, the Commission’s tech chief, told the FT last week that European quantum firms must be able to scale at home and that “big investments are needed.”\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "欧盟拟设500亿欧元基金直投AI与量子企业",
+  "background": "欧洲长期仅吸引全球约5%的风险投资，深科技初创常因成长资本不足赴美融资或被外国收购。2024年德拉吉报告呼吁欧盟大幅增加创新投入。欧盟已有50亿欧元Scaleup Europe基金和2023年37.5亿欧元母基金，但规模有限；2025年3月约百家机构致信冯德莱恩，要求设立主权基础设施基金。此次提案正是对融资缺口和技术依赖的回应。",
+  "key_points": [
+   "欧盟委员会提议设立500亿欧元“主权科技股权基金”，直接入股欧洲AI和量子计算公司，而非仅提供补贴或担保。",
+   "基金法律基础嵌入同日发布的《量子法案》，但投资范围将扩展至欧盟认定的所有关键技术，不限于量子。",
+   "相比现有Scaleup Europe基金和37.5亿欧元母基金，新基金规模更大、投资更冒险、期限更长。",
+   "目标是减少对美中技术依赖，防止欧洲优秀初创因缺成长资本外流或卖给外国买家。",
+   "欧盟官员称“没有公司应因缺乏融资被迫离开欧洲”，并希望与欧洲投资银行TechEU等计划形成协同。",
+   "该基金将纳入更广泛的战略科技和供应链本土化议程，但资金来源、治理和投资标准仍待明确。"
+  ],
+  "impact": "对AI行业，欧盟从监管者转向直接投资者，可能加剧全球深科技资本竞争；对开发者，AI和量子初创在欧融资渠道增多，但资金或附带留在欧洲、聚焦战略技术等条件；对普通用户，长期可能带来更多欧洲本土AI产品与供应链选择，但基金落地速度和回报仍待观察。",
+  "tools": "想跟进可关注欧盟Funding & Tenders Portal、EIC Accelerator、EIB TechEU；技术侧可看EuroHPC JU、AI-on-Demand及Qiskit/Cirq等开源量子框架。"
+ },
+ "lang": "zh"
+}

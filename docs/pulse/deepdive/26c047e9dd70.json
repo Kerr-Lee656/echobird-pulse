@@ -1,0 +1,24 @@
+{
+ "id": "26c047e9dd70",
+ "url": "https://www.aibase.com/news/32521",
+ "title": "百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-25T10:40:27.634Z",
+ "fetched_at": "2026-11-25T21:39:04.829007+00:00",
+ "content": "In the field of AI programming, developers are facing a common “engineering bottleneck”: large models can easily write elegant single-file functions, but when faced with complex engineering that spans files, runs over long cycles, and has strong dependencies, they often fall into a quagmire of “frequent hallucinations, difficult debugging, and hard-to-close loops.” What we need is no longer a code completion tool that only “responds,” but an intelligent collaborator that understands engineering logic and has self-correction capabilities.\nRecently, Baidu officially opened the model weights of ERNIE 5.5 Flash Preview to the global open-source community (available for download on Hugging Face and ModelScope, and compatible with mainstream inference frameworks such as vLLM and SGLang). This model not only strikes an extreme balance between parameter scale and inference cost, but also demonstrates, through a series of hardcore long-horizon engineering cases, the key leap of AI programming from “toy-level generation” to “industrial-grade delivery.”",
+ "report": {
+  "summary": "百度开源文心5.5 Flash Preview，主打长程编程与自我纠错",
+  "background": "AI 编程正从“代码补全”走向“工程交付”，但大模型在跨文件、长周期、强依赖的复杂项目中，常出现幻觉频发、调试困难、闭环难收等问题。与此同时，开源阵营竞争焦点已从参数跑分转向真实工程可用性，DeepSeek、Qwen 等陆续开放权重。百度此次将 ERNIE 5.5 Flash Preview 权重开源至 Hugging Face 与 ModelScope，并兼容 vLLM、SGLang，意在切入长程 AI 编程这一高价值场景。",
+  "key_points": [
+   "权重全面开放，可在 Hugging Face、ModelScope 下载，并兼容 vLLM、SGLang 等主流推理框架，本地部署与二次微调门槛大幅降低。",
+   "提出“测试驱动”的编程范式：模型先写测试用例，再用测试反馈迭代修改代码，以可验证信号实现自我纠错，压制幻觉。",
+   "聚焦长程工程任务，强调跨文件、多轮迭代下的闭环交付能力，目标是从“单函数生成”升级为“整项目落地”。",
+   "Flash 定位在参数规模与推理成本之间取得平衡，主打轻量高性价比，适合高频调用的编程 Agent 场景。",
+   "通过一系列硬核工程案例，展示 AI 编程从“玩具级生成”迈向“工业级交付”的关键跃迁。"
+  ],
+  "impact": "对 AI 行业而言，开源模型的比拼从榜单分数转向真实工程交付能力，长程 Agent 编程成为新战场；对开发者而言，多了一个可私有化部署的编程底座，能直接接入现有 vLLM、SGLang 推理生态，降低自建 Coding Agent 的成本；对普通用户而言，意味着 AI 产出的应用更可能“一次跑通”，而不是需要人工反复修补的半成品。",
+  "tools": "推理部署可用 vLLM、SGLang；权重从 Hugging Face、ModelScope 获取。想上手长程编程范式，可搭配 Aider、OpenHands、SWE-agent 等测试驱动型 Agent 框架，并用 pytest 搭建自动化验证闭环。"
+ },
+ "lang": "zh"
+}
