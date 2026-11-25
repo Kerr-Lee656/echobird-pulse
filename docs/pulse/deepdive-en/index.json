@@ -13777,5 +13777,41 @@
   "site_name": "AI HOT 精选",
   "published_at": "2026-11-24T21:02:58.000Z",
   "fetched_at": "2026-11-25T00:43:04.004693+00:00"
+ },
+ "c87cd13d69ae": {
+  "id": "c87cd13d69ae",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "title": "google-labs-code/stitch-skills — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "source": "GitHub Trending",
+  "site_name": "GitHub Trending",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:15:01.157896+00:00"
+ },
+ "588e07252d85": {
+  "id": "588e07252d85",
+  "url": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+  "title": "SoftBank market value halves from peak as AI fears grow",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T09:29:29Z",
+  "fetched_at": "2026-11-25T11:15:15.904186+00:00"
+ },
+ "c5eab42ae818": {
+  "id": "c5eab42ae818",
+  "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
+  "title": "Tidal Bans AI-Generated Music",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T08:23:07Z",
+  "fetched_at": "2026-11-25T11:15:28.586350+00:00"
+ },
+ "6deda31d0729": {
+  "id": "6deda31d0729",
+  "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
+  "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
+  "source": "Rohan Paul",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-25T05:29:48.000Z",
+  "fetched_at": "2026-11-25T11:15:43.426657+00:00"
  }
 }

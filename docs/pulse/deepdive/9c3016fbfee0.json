@@ -1,0 +1,24 @@
+{
+ "id": "9c3016fbfee0",
+ "url": "https://juejin.cn/post/7711283330075377698",
+ "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+ "source": "juejin",
+ "site_name": "NewsNow",
+ "published_at": "2026-11-24T23:44:25.929Z",
+ "fetched_at": "2026-11-25T11:14:25.778868+00:00",
+ "content": "大家好，我是狂师。\n这两年写代码的方式变了不少，很多人日常就是用 AI 写代码，一句需求描述丢过去，一段代码几分钟就出来。代码输出快了，但新的问题也跟着来了，怎么保证这些代码的质量？自己写的代码自己看不出毛病，AI 写的更是这样，扫一眼 diff 觉得能跑就提交，问题往往就藏在这一眼里。团队里有人帮着 review 当然好，可小团队凑不出这个人，大团队的 review 也经常变成几分钟的形式过场。\n今天就来给大家分享一个AI代码审查工具：OpenCodeReview。\nOpenCodeReview 是个啥？\n这个项目，你只需要先记住几个关键信息。\n- 阿里集团出品，前身是内部的官方 AI 代码审查助手，今年 5 月开源，Apache-2.0 协议\n- GitHub 5.2 万 star，半年攒下的，11 月 15 号还在发新版\n- 官方口径是内部跑了两年、服务数万开发者、识别了数百万个代码缺陷，这类口径没法核验，听听就行\n- Windows、macOS、Linux 都能跑，装完的命令叫 ocr\n它干的事很简单，一句话概括：读你的代码改动，自动审出问题，每条意见精确到具体的行，配好一个模型端点就能用。\n它读 Git diff，把变更文件交给一个带工具调用能力的 Agent。这个 Agent 能读完整文件内容，能在代码库里做检索，还能翻其他变更文件补上下文，最后给出结构化的审查意见，意见带文件名和行号区间，对着改就行。\n通用Agent审代码，有三个老毛病\n用 Claude Code 这类通用 Agent 顺手审过代码的人，多半见过下面这几个问题。\n改动一多，Agent 开始偷工减料。大 changeset 它只挑几个文件看，剩下的一句带过，漏掉的文件你自己都不知道漏了。\n第二是位置漂移，报出来的问题和行号对不上，你得在附近翻半天才能找到它说的到底是哪行。第\n三是质量不稳定，提示词换个措辞，审查质量就不稳了，出了问题也不好排查。\n官方给的分析是，这些毛病的根子在纯语言驱动。整个审查流程全靠提示词约束，没有硬性的工程约束兜着，模型状态好就审得细，状态差就糊弄。\n混合架构，工程管流程，模型管语义\nOpenCodeReview 的核心设计是把两拨活拆开，各干各的。\n必须不出错的部分交给确定性工程。哪些文件要审、哪些要过滤，工程逻辑定死；相关文件捆成一个审查单元，比如英文和中文两份配置文件捆在一起审，每个单元单独起一个子 Agent，上下文互不干扰，大改动集也稳，还能并发跑；审查规则按文件特征匹配好再喂给模型；行号定位由独立的定位模块负责，用三层渐进式策略把每条意见钉到具体的行。另外有个反思模块，专门拦截幻觉和知识漂移，模型说错话能在早期被截下来。\n动态判断的部分交给 Agent。风险识别、上下文探索、问题归类，这些语义层面的活由模型完成，配的是按代码审查场景调过的提示词和工具集。\n内置的审查规则覆盖 40 多种语言和文件类型，Java、TypeScript、Go、Python、Kotlin、Rust、C/C++、Swift 都在内，Verilog、Solidity 这种冷门的也管。具体的检查项有 NPE、线程安全、XSS、SQL 注入这些高频缺陷类型。\n老项目也能审，整文件通读\ndiff 审查之外，ocr scan 走的是另一条路。它不读 diff，直接通读整个文件，连 git 历史都不需要。\n这对两种场景特别合适。一是接手陌生代码库，几万行存量代码没有 diff 可言，全库扫一遍，心里先有个数。二是攒了多年的老项目，历史提交早没了意义，要审的就是文件本身。扫描中断了也不慌，ocr session list 查会话，加 --resume 参数接着扫。\n同一个模型，F1 翻倍，token 只花零头\n官方放了一个代码审查的基准测试 AACR-Bench，素材从 50 个热门开源仓库里挑了 200 个真实 PR，覆盖 10 种语言，80 多位资深工程师交叉标注出 1505 个问题当标准答案，数据集开在了 HuggingFace 上。\n最能说明问题的是同模型对比。Claude Opus 4.6 挂上 OpenCodeReview，F1 是 25.1%，精度 33.9%，平均一次审查花 38.5 万 token，1 分 23 秒跑完。同一个模型直接用 Claude Code 裸跑，F1 掉到 11.6%，token 花了 566 万，13 分钟才审完。成绩翻倍，开销只有零头。\n有两点要交代。这个榜单是官方自己建的，不过数据集和口径都放出来了，想验可以自己验。另外它的查全率刻意压得比通用 Agent 低，这是官方明说的取舍，精度优先，宁可少报，也不制造一堆误报让人筛。\n一条命令装，一条命令审\n环境要求就一条，Git 2.41 以上。装的方式随你挑。\nnpm install -g @alibaba-group/open-code-review\n# 或者 macOS / Linux 用 Homebrew\nbrew install open-code-review\n# 验证安装\nocr version\n装完先配模型。ocr config provider 进交互界面，预置了 Anthropic、OpenAI、DashScope、DeepSeek、Z.AI 几家，选一家填 key，也支持自定义端点走私有部署。ocr config model 挑具体模型，配完自动测一次连通性。\nocr config provider\nocr config model\n然后就能审了。在项目目录里敲 ocr review，它审所有已暂存、未暂存和未跟踪的改动。审某个分支的增量，用 --from main --to feature-branch。审单个提交，加 --commit。全文件通读就是前面说的 ocr scan。\nocr review\nocr review --from main --to feature-branch\nocr review --commit abc123\nocr scan\n上手要认的组件就两个，ocr 一条命令，provider 和 model 两个配置概念。进阶的按需了解，Claude Code、Codex、Cursor、Kimi Code 都有现成插件；Delegation 模式让宿主 Agent 出模型，OCR 只管文件选择和规则解析，不用单独配 key；CI 里 GitHub Actions、GitLab CI、Gerrit 也有现成集成。\n最短路径就是上面这几步。包装好，key 填好，进项目目录敲 ocr review，第一份行级审查意见就出来了。\n几个要留神的点\n精度要看清绝对值。33.9% 的精度意味着它报三条意见，大约一条是真的。它适合当提交前的初筛，把明显的问题先捞出来，终审还得是人。\n成本要掂量。一次审查几十万 token 起步，用 Opus 这个档次的模型，API 费用不低。它给了 low、medium、high 三档 effort，日常改动用低档，核心模块再上高档，开销能省不少。\n写在最后\n工具本身可用可不用。团队 review 文化健康、人手够，未必需要它。但这套设计里有三样东西可以搬走。\n一是确定性工程和 Agent 的分工。流程性的活，文件选择、行号定位、规则路由，用工程代码写死，模型只管语义判断。凡是高频重复的 Agent 任务，这个拆法都能套。\n二是给幻觉设专门的拦截模块。行号定位、意见反思都独立成模块处理，比在提示词里求模型报准一点可靠得多。\n三是省 token 的思路。同一个审查任务，专用 Agent 花 38.5 万 token，通用 Agent 花 566 万，差距全在流程工程化上。Agent 项目的成本大头，就在这。\nGitHub项目地址：\nhttps://github.com/alibaba/open-code-review",
+ "report": {
+  "summary": "阿里开源AI代码审查工具OpenCodeReview，以“工程+Agent”的混合架构把自动化审查做稳做省。",
+  "background": "AI写代码普及后，代码产出速度远超人工review能力：小团队凑不出reviewer，大团队review常沦为几分钟过场。而Claude Code这类通用Agent顺手审代码，普遍存在大改动集漏审、行号位置漂移、质量随提示词波动三个毛病，根因是流程全靠提示词约束、缺少工程兜底。阿里把内部跑了两年的AI代码审查助手以Apache-2.0开源，半年攒下5.2万star，正好踩中“AI写代码、谁来审代码”的刚需。",
+  "key_points": [
+   "读Git diff逐文件审查，每条意见带文件名和行号区间，配好模型端点即可用；Windows、macOS、Linux通用，命令统一为ocr。",
+   "混合架构是核心：文件选择、审查单元切分、规则路由、行号定位、幻觉拦截用工程代码写死；风险识别、上下文探索、问题归类交给模型判断。",
+   "官方基准AACR-Bench上，同一个Claude Opus 4.6接入后F1从11.6%升到25.1%，token从566万降到38.5万，耗时从13分钟压到1分23秒。",
+   "内置40多种语言与文件类型规则，覆盖NPE、线程安全、XSS、SQL注入等高频缺陷；ocr scan不依赖diff通读整文件，适合老项目与陌生代码库。",
+   "短板也明显：33.9%精度意味着约三条意见一条为真，官方还刻意压低查全率保精度；单次审查几十万token起步，需用low/medium/high档位控制成本。"
+  ],
+  "impact": "对AI行业，它证明垂直Agent的性价比主要来自流程工程化，并非来自换更强模型，“工程管流程、模型管语义”可复用到其他高频Agent任务。对开发者，多了一道提交前初筛，把明显缺陷先捞出来，但终审仍须由人承担，误报也会消耗团队注意力。对普通用户，代码把关提速意味着产品迭代更快、低级漏洞更少，但不代表AI能替代人工review。",
+  "tools": "上手可npm或brew安装@alibaba-group/open-code-review，用ocr config配好provider与model，进项目敲ocr review。CI侧有GitHub Actions、GitLab CI、Gerrit集成，Claude Code、Cursor等有插件，Delegation模式可复用宿主模型免配key。"
+ },
+ "lang": "zh"
+}

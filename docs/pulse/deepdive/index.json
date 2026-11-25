@@ -25063,5 +25063,77 @@
   "site_name": "AIbase",
   "published_at": "2026-11-24T14:03:34.773Z",
   "fetched_at": "2026-11-25T00:39:15.583555+00:00"
+ },
+ "7992bf690613": {
+  "id": "7992bf690613",
+  "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+  "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:12:51.652529+00:00"
+ },
+ "4113acb1424b": {
+  "id": "4113acb1424b",
+  "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+  "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:02.159844+00:00"
+ },
+ "6f0f83d3e1c3": {
+  "id": "6f0f83d3e1c3",
+  "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+  "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+  "source": "TechCrunch",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:12.891094+00:00"
+ },
+ "1ca163cd7e66": {
+  "id": "1ca163cd7e66",
+  "url": "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+  "title": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:23.449543+00:00"
+ },
+ "3a46d92a1b01": {
+  "id": "3a46d92a1b01",
+  "url": "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
+  "title": "Google will make AI agents use new gateways to reach Gmail and Drive",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:30.935451+00:00"
+ },
+ "b564a4d048af": {
+  "id": "b564a4d048af",
+  "url": "https://thenextweb.com/news/openai-anthropic-us-intelligence-hires-state-espionage-ft",
+  "title": "OpenAI reportedly hires from the CIA as foreign spies target AI labs",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:42.278063+00:00"
+ },
+ "c2c87115cf43": {
+  "id": "c2c87115cf43",
+  "url": "https://thenextweb.com/news/cairn-ai-agents-zero-day-monai-label-cisa-amazon",
+  "title": "US tells agencies to patch a flaw hackers’ AI agents found on their own",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T11:13:51.178351+00:00"
+ },
+ "9c3016fbfee0": {
+  "id": "9c3016fbfee0",
+  "url": "https://juejin.cn/post/7711283330075377698",
+  "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+  "source": "juejin",
+  "site_name": "NewsNow",
+  "published_at": "2026-11-24T23:44:25.929Z",
+  "fetched_at": "2026-11-25T11:14:25.778868+00:00"
  }
 }

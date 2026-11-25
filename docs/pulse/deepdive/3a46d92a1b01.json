@@ -1,0 +1,24 @@
+{
+ "id": "3a46d92a1b01",
+ "url": "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
+ "title": "Google will make AI agents use new gateways to reach Gmail and Drive",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-25T11:13:30.935451+00:00",
+ "content": "Google has made its Workspace MCP servers and CLI generally available and says AI agents must use them instead of existing REST APIs from February 1, 2027. Every call is checked against company policies, sensitive actions need user confirmation, and a new addendum bars AI tools from training on Workspace data.\nGoogle will require AI agents to reach Gmail, Drive and other Workspace apps through new, dedicated gateways, it said on Tuesday. Regular apps can keep using Workspace’s existing APIs, but agents must switch by February 1, 2027.\nThe gateways are Workspace MCP servers, which use a common standard for linking AI tools to apps, and a command-line tool. Both are now generally available. Google put an early CLI version on GitHub in March.\nGoogle says its APIs were built for apps that work at human speed, where a valid login meant the user wanted the action. Agents act on their own at machine speed. So every request now gets checked against company permissions and data-loss rules.\nAgents can draft emails and summarise documents on their own. But they need a person’s sign-off before sending email, changing Drive sharing or making bulk edits.\nEach agent also needs its own sign-in ID with tight limits and usage quotas. Google already gives its Gemini coworker agents their own accounts. It will begin billing for that usage on April 1, 2027.\nA new AI Tools Addendum adds rules on data. AI tools cannot use Workspace data to train models or build rival services, and cannot scrape it. They must also delete it when a user disconnects.\nGoogle also tells developers to screen for prompt injection, hidden commands in emails or files that can hijack AI agents. Some controls are still to come, including letting users see and revoke agents’ access themselves.\nOther firms are drawing lines too. In October, Charles Schwab said it blocks outside agents from moving client money.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "谷歌要求AI代理自2027年起改用MCP网关访问Workspace",
+  "background": "Google Workspace的REST API是为“人类速度”的应用设计的：只要登录有效，就假定用户想执行该操作。但自主运行的AI代理以机器速度批量调用接口，可能一次误操作就泄露或破坏大量数据。2025年3月，谷歌在GitHub放出Workspace CLI早期版本；如今MCP服务器与CLI正式可用，并设定2027年2月1日为代理迁移死线。这与MCP标准被广泛采纳、以及金融等机构（如嘉信理财）开始封锁外部代理的趋势同步，反映出行业正从“API开放”转向“代理治理”。",
+  "key_points": [
+   "从2027年2月1日起，AI代理不得再用旧REST API访问Gmail、Drive，必须走Workspace MCP服务器或CLI网关；普通应用不受影响。",
+   "每次调用都要过一遍企业权限与数据防泄漏规则，发邮件、改共享权限、批量编辑等敏感动作必须有人确认。",
+   "每个代理要有独立登录身份、权限边界和调用配额；谷歌2027年4月1日起对这类代理用量计费。",
+   "新增AI工具附加条款：禁止用Workspace数据训练模型、禁止抓取、禁止用来造竞品，用户断开连接后必须删除数据。",
+   "谷歌要求开发者自行防范提示注入，即邮件或文件里隐藏的指令；让用户查看和撤销代理权限的功能仍在开发中。"
+  ],
+  "impact": "对AI行业，这意味着“代理身份、代理计费、代理数据边界”三件套开始成为平台标配，其他SaaS厂商大概率跟进。对开发者，靠复用用户OAuth令牌直接调API的捷径被堵死，需要改造为MCP架构、处理人工确认回调和配额限制，短期成本上升但生态更规范。对普通用户，代理带来的误发邮件、误改权限风险显著降低，但也意味着跨应用的自动化会更多次弹出确认框。",
+  "tools": "想跟进可研究：Google Workspace MCP servers与Workspace CLI（GitHub开源），MCP Inspector用于调试工具调用，Gemini CLI可作为客户端参考；安全侧可关注NeMo Guardrails、Llama Guard等提示注入防护方案，以及OAuth细粒度授权与配额管理实践。"
+ },
+ "lang": "zh"
+}

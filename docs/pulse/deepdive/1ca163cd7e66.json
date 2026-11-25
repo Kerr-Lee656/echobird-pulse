@@ -1,0 +1,24 @@
+{
+ "id": "1ca163cd7e66",
+ "url": "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+ "title": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-25T11:13:23.449543+00:00",
+ "content": "Anthropic has opened Skills over MCP in public beta, letting apps that connect to Claude ship playbooks alongside their tools. Tasks, for long background jobs, and Elicitation, which pauses for user input, are now generally available, with File Uploads coming soon.\nApps that plug into Claude through MCP can now also tell it how to use them, Anthropic said on Tuesday. The feature, Skills over MCP, is in public beta in Claude and Claude Code.\nMCP is the open standard Anthropic launched two years ago to link AI agents to outside apps and data. Servers built on it already list the tools Claude can use. With skills, they can also ship step-by-step guides and best practices, which Claude loads only when needed.\nShopify uses skills to help Claude design and update online stores, and HubSpot to onboard customers. Skills update with the server, so users have nothing extra to install. More apps are opening up, too: Canva opened its MCP server to all developers on Tuesday.\nThe beta is on by default for Pro, Max and Ultra plans. Team admins can switch it on, and Enterprise support is coming soon.\nTwo other features are now generally available. Tasks lets a server run long jobs in the background while Claude keeps working, which ZoomInfo uses for deeper research. Elicitation lets a server pause and ask the user for input.\nGitHub, for example, makes users type a repository’s name before an agent deletes it. Supabase confirms costs before creating a paid project. A fourth feature, File Uploads, will soon let Claude send PDFs, spreadsheets and images to servers.\nThe features are part of MCP, so servers that support them also work in other compatible apps. Anthropic says MCP now sees over 700M SDK downloads a month. In August, OpenAI and four rivals agreed on a standard for packaging skills and MCP servers.\nSkills carry risks, too. That same month, researchers found malicious agent skills that stole passwords and keys after about 1.7 million installs.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Anthropic开放MCP技能与后台任务等能力",
+  "background": "Anthropic两年前推出MCP开放标准，让AI代理连接外部应用与数据。此前MCP服务器主要向Claude声明可用工具；现在服务器还能附带技能说明和最佳实践，并支持后台任务、用户确认等交互。随着OpenAI等厂商推动技能与MCP打包标准，MCP生态快速扩张，但恶意技能风险也已出现。",
+  "key_points": [
+   "Skills over MCP进入公测：MCP服务器除工具外可附带分步指南和最佳实践，Claude按需加载，Shopify、HubSpot已用于建店和客户引导。",
+   "Tasks正式可用：服务器可在后台运行长任务，Claude继续处理其他工作，ZoomInfo借此做更深入研究，适合耗时数据查询与分析。",
+   "Elicitation正式可用：服务器可暂停并向用户索要输入或确认，如GitHub删除仓库前要求输入仓库名，Supabase创建付费项目前确认成本。",
+   "File Uploads即将到来：Claude可向服务器发送PDF、表格和图片；这些能力属于MCP，兼容其他支持MCP的应用，生态互操作性增强。",
+   "风险提示：技能可随服务器更新、无需额外安装，但曾发现恶意代理技能窃取密码和密钥，安装量约170万，需加强信任与权限控制。"
+  ],
+  "impact": "对行业，MCP从“工具连接”升级为“能力打包”，强化Anthropic在代理标准上的话语权，也推动与OpenAI等阵营的互操作竞争。对开发者，技能降低集成与提示工程成本，Tasks/Elicitation适合长任务和敏感操作确认，但需重视供应链安全。对普通用户，Claude可调用更懂业务的应用并减少误操作，后台任务提升效率，但授权与隐私风险仍待观察。",
+  "tools": "想跟进可关注MCP官方规范与SDK、Claude Code、Canva/GitHub/Supabase的MCP服务器示例；开发时可从官方SDK和开源MCP server入手，重点测试技能权限、用户确认与后台任务。"
+ },
+ "lang": "zh"
+}
