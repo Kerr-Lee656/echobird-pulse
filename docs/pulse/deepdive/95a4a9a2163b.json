@@ -1,0 +1,23 @@
+{
+ "id": "95a4a9a2163b",
+ "url": "https://www.aibase.com/news/32502",
+ "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-24T14:23:34.773Z",
+ "fetched_at": "2026-11-25T00:39:06.951735+00:00",
+ "content": "In the field of open-source large models, developers are falling into a widespread kind of “parameter anxiety”: models are becoming more capable, but the accompanying high inference costs and huge VRAM usage are deterring many small and medium-sized teams. We urgently need a pragmatic solution that preserves “large-model intelligence” while also delivering “small-model speed.”\nRecently, Baidu officially announced the open-sourcing of ERNIE 5.5 Flash Preview, under the extremely permissive Apache 2.0 license, with model weights now fully available on Hugging Face and ModelScope. This is not just a routine model release; it is also a highly sincere engineering answer from Baidu to the industry pain point of “balancing inference cost and performance.”\nArchitecture Breakthrough: 280 Billion Parameters, So Why Activate Only 14 Billion at a Time?\nThe core highlight of ERNIE 5.5 Flash Preview is its deep optimization of the MoE (Mixture of Experts) architecture. The model has a total of 280 billion parameters, but when processing each token, it activates only 14 billion of them.\nThis design—“a very large brain capacity, but only specific brain regions are called on each time”—produces immediate results:\n- Extreme inference speed: Official data shows that its generation speed can steadily exceed 200 tokens/sec, completely shattering the stereotype that ultra-large-parameter models “generate like snails.”\n- Ultra-long context support: It natively supports a context window of up to 1 million tokens. Whether facing a complex codebase with millions of lines or hundreds of pages of industry research reports, it can read everything in one pass and pinpoint information accurately.\nBenchmark Data: A “Top Student” in Coding and Automation Scenarios\nIn officially published benchmarks, ERNIE 5.5 Flash Preview shows a clear scenario orientation, performing impressively especially in the coding and business workflow automation areas that developers care about most:\n- Code and Web development: On the CodeArena WebDev leaderboard, the model scored 1,668 points, ranking second among open-source models and fourth among domestic models. Its score is not only slightly higher than DeepSeek-V4.1-Flash (1,664 points) and Kimi K3 (1,658 points), but also places it in the same tier as the industry benchmark Qwen3.8-Max (1,670 points).\n- Agent automation: In the AutomationBench test, which focuses on business workflow automation, it scored as high as 61.9 points, even surpassing Claude Opus5.5 (58.0 points) and DeepSeek V4.1Flash1017 (57.2 points), proving its reliability in complex task orchestration.\nOf course, the data also objectively reflects the model’s boundaries: in tests such as Terminal-Bench4.0 that place higher demands on extremely complex logic (score 46.5), it still has a gap compared with Claude Opus5.5 (63.6 points). But this precisely shows that Flash Preview’s positioning is very clear—it is not meant to be an all-powerful god, but the most efficient tool in specific scenarios.\nEcosystem Significance: Making “Local Deployment” More Than Empty Talk\nFor developers, no matter how good a model is, if it is difficult to deploy, it is just a castle in the air. ERNIE 5.5 Flash Preview natively supports mainstream inference frameworks such as vLLM and SGLang, meaning developers can seamlessly integrate it into existing local or private cloud workflows for low-cost secondary development and fine-tuning.",
+ "report": {
+  "summary": "百度开源文心5.5 Flash Preview，MoE架构兼顾性能与成本",
+  "background": "开源大模型正陷入“参数焦虑”：能力越强，推理成本和显存占用越高，中小团队难以承受。行业需要既保留大模型智能、又接近小模型速度的方案。百度此次以Apache 2.0协议开源文心5.5 Flash Preview，并在Hugging Face与ModelScope开放权重，试图用MoE架构回应“性能与成本平衡”的痛点。",
+  "key_points": [
+   "采用MoE架构，总参数2800亿，但每个token仅激活140亿参数，官方称生成速度可稳定超过200 tokens/秒。",
+   "原生支持100万token超长上下文，可一次处理百万行级代码库或数百页行业报告，并定位关键信息。",
+   "代码与自动化场景表现突出：CodeArena WebDev得分1668，AutomationBench得分61.9，但Terminal-Bench 4.0仅46.5，复杂逻辑仍有差距。",
+   "Apache 2.0许可下权重已在Hugging Face和ModelScope开放，并原生支持vLLM、SGLang，便于本地或私有云部署与二次开发。"
+  ],
+  "impact": "对AI行业而言，开源竞争正从“堆参数”转向“单位算力性价比”，MoE稀疏激活或成主流路线。对开发者，宽松许可和主流框架支持降低了本地部署、微调及Agent应用门槛，但2800亿总参数仍对显存和多卡环境有要求。对普通用户，长文档处理、代码生成和流程自动化工具可能更快、更便宜。",
+  "tools": "想跟进可关注Hugging Face/ModelScope获取权重，用vLLM或SGLang部署推理，并结合Open WebUI做本地体验；评估时可用CodeArena、AutomationBench等基准复现。"
+ },
+ "lang": "zh"
+}

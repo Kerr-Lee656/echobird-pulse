@@ -1,0 +1,24 @@
+{
+ "id": "ba3cf436a988",
+ "url": "https://www.engadget.com/2326365/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco",
+ "title": "Uber and Lucid start testing fully driverless rides for their robotaxis in San Francisco",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-25T00:37:57.985510+00:00",
+ "content": "Uber and Lucid start testing fully driverless rides for their robotaxis in San Francisco\nThe companies are planning to launch their robotaxi service to the public in Q1 2027.\nThe Lucid-manufactured robotaxis Uber revealed at CES earlier this year are almost ready to give rides to the public. Uber, Lucid and Nuro, the company that developed the autonomous driving system powering their vehicle, have announced that they've started full driverless testing on the public roads of San Francisco Bay Area. They'll soon also give their employees rides on the autonomous vehicles, as well, ahead of their planned public launch in the first quarter of 2027.\nWhile the companies presented the vehicle, a modified Lucid Gravity, at CES earlier this year, they announced the global robotaxi program way back in July 2025. In fact, they've been testing with a driver behind the wheel since December last year. They're now moving to the next phase after securing a California DMV Driverless Testing Permit in May, which gives them the permission to test on public roads in the state without a driver behind the wheel.\nTheir program's Lucid Gravity vehicles are equipped with high-res cameras, LIDAR sensors and radars, and they're powered by the Nuro Driver end-to-end autonomous driving system. Initially, the tests will be conducted on the roads of Palo Alto, Mountain View, Los Altos and Sunnyvale, before expanding to more Bay Area cities next year. Lucid said its fleet of robotaxis already consists of 100 vehicles, but it's unclear if they'll all be part of the test's initial rollout.\nThe companies are planning to launch their robotaxi service in the Bay Area in the first quarter of 2027, with passengers being able to summon the autonomous rides through the Uber aoo. Uber has committed to purchasing 35,000 Lucid-Nuro robotaxis and intends to expand their availability around the world. The ride-hailing company will be designing the vehicle's in-cabin experience and will provide support and rider controls for them when it adds them to its network.",
+ "report": {
+  "summary": "Uber联合Lucid、Nuro在湾区启动Robotaxi全无人路测",
+  "background": "2025年7月，Uber、Lucid与Nuro宣布全球Robotaxi合作：Lucid提供基于Gravity改造的整车，Nuro提供端到端自动驾驶系统，Uber负责网络与用户体验。去年12月起，他们在有安全员的情况下测试；今年5月拿到加州DMV无人驾驶测试许可，如今进入无安全员阶段。这是Uber“不自研自动驾驶、只做平台”路线的关键验证，也意味着它将在旧金山湾区与Waymo的扩张正面竞争。",
+  "key_points": [
+   "测试先在帕洛阿尔托、山景城、洛斯阿尔托斯和桑尼维尔四城的公共道路展开，明年会扩展到更多湾区城市。",
+   "测试车由Lucid Gravity改装，装高清摄像头、激光雷达和毫米波雷达，搭载Nuro Driver端到端自动驾驶系统。",
+   "节奏是：先让内部员工试乘，2027年第一季度向公众开放；用户可直接通过Uber App叫车。",
+   "Lucid称其Robotaxi车队已有100辆车，但不确定是否全部投入首轮测试。",
+   "Uber承诺采购3.5万辆Lucid-Nuro车型，并计划全球推广；车内体验、乘客控制与运营支持由Uber负责。"
+  ],
+  "impact": "对行业而言，这是“平台+多方供应商”模式与Waymo垂直整合路线的正面对撞，若成功，更多车企与出行平台将效仿。对开发者而言，端到端自动驾驶成为主流路线，工程重心从规则栈转向数据闭环、仿真与安全验证。对普通用户而言，2027年起在湾区用Uber App即可叫到无人车、无需另装应用，但短期内仍受运营区域、天气与监管限制，体验更像“限定区域的无人出租车”。",
+  "tools": "想跟进可关注加州DMV无人驾驶测试许可公示名单、Nuro与Lucid的技术博客；开源侧可上手CARLA仿真器、nuScenes/Waymo开放数据集、ROS 2 + Autoware Universe，以及comma.ai openpilot这类端到端驾驶实践项目。"
+ },
+ "lang": "zh"
+}

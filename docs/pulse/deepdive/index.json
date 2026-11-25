@@ -24982,5 +24982,86 @@
   "site_name": "AIbase",
   "published_at": "2026-11-24T03:35:26.737Z",
   "fetched_at": "2026-11-24T14:49:46.759447+00:00"
+ },
+ "2f28f2005e1e": {
+  "id": "2f28f2005e1e",
+  "url": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal",
+  "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:37:48.372019+00:00"
+ },
+ "ba3cf436a988": {
+  "id": "ba3cf436a988",
+  "url": "https://www.engadget.com/2326365/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco",
+  "title": "Uber and Lucid start testing fully driverless rides for their robotaxis in San Francisco",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:37:57.985510+00:00"
+ },
+ "7004cbd12f9e": {
+  "id": "7004cbd12f9e",
+  "url": "https://thenextweb.com/news/fca-agentic-ai-authorisation",
+  "title": "UK finance watchdog warns AI agent builders they may need a licence",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:38:08.637706+00:00"
+ },
+ "44bd775b8ffe": {
+  "id": "44bd775b8ffe",
+  "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+  "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+  "source": "Ars Technica",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:38:19.653128+00:00"
+ },
+ "829cd3863a0f": {
+  "id": "829cd3863a0f",
+  "url": "https://www.qbitai.com/2026/11/512354.html",
+  "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:38:35.635206+00:00"
+ },
+ "0fd6404dba59": {
+  "id": "0fd6404dba59",
+  "url": "https://www.qbitai.com/2026/11/512330.html",
+  "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:38:47.160634+00:00"
+ },
+ "50fbb77ca6f7": {
+  "id": "50fbb77ca6f7",
+  "url": "https://www.aibase.com/zh/news/32500",
+  "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会「回头看」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-25T00:38:57.139140+00:00"
+ },
+ "95a4a9a2163b": {
+  "id": "95a4a9a2163b",
+  "url": "https://www.aibase.com/news/32502",
+  "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-24T14:23:34.773Z",
+  "fetched_at": "2026-11-25T00:39:06.951735+00:00"
+ },
+ "06ebe5cec45a": {
+  "id": "06ebe5cec45a",
+  "url": "https://www.aibase.com/news/32496",
+  "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-24T14:03:34.773Z",
+  "fetched_at": "2026-11-25T00:39:15.583555+00:00"
  }
 }

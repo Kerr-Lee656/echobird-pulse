@@ -1,0 +1,24 @@
+{
+ "id": "44bd775b8ffe",
+ "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+ "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+ "source": "Ars Technica",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-25T00:38:19.653128+00:00",
+ "content": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.\nThe agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “obtain shell access.” In short order, the agents discovered a zero-day in an open source medical imaging AI application running on one of the target servers. The agents then exploited the vulnerability and gained full control of the system.\n“These findings show that agentic offensive operations are already happening, and defenders should prepare for the speed and persistence these tools enable,” Amazon said.\nMade for defenders, but attackers like it too\nCairn is an open source AI problem-solving engine whose first validated domain is autonomous penetration testing. Users give it a task or goal and, optionally, hints for achieving it. A server maintains a shared graph containing facts and hints. A dispatcher reads the graph, schedules tasks, manages containers, and writes the protocol. The dispatcher can then assign each project to a dedicated worker container, each of which runs multiple agents concurrently. Cairn is model-agnostic and can be used on worker back ends, including Claude Code, Codex, and Pi. Researchers from security firm Palo Alto Networks have also observed Cairn being used with GLM 5.2, DeepSeek V4 Flash, and DeepSeek V4 Pro.\nAlthough Cairn was built for defenders, the framework is also benefiting offensive hackers. Earlier this month, Palo Alto Networks said hackers used the framework to target organizations in the semiconductor, defense, and civil society sectors. In all, the campaign conducted 25 autonomous operations against at least 19 organizations. At least 10 of the organizations were successfully breached when Cairn agents performed actions that:",
+ "report": {
+  "summary": "亚马逊披露黑客用AI代理近乎自主发现并利用零日漏洞",
+  "background": "AI代理（agentic AI）从辅助写代码走向自主完成多步任务，攻击性安全领域首先受到冲击。Cairn 是开源 AI 渗透测试框架，本该帮助防御方验证安全，通过共享事实图、调度器和多个并发代理，自动规划并执行任务。此前 Palo Alto Networks 已发现黑客利用 Cairn 攻击半导体、国防与民间机构，完成 25 次自主行动，至少攻破 10 家组织。这次亚马逊事件表明，攻击者只需给出一句中文指令和 IP 列表，代理便自行找到并利用一个医学影像 AI 应用中的零日漏洞，拿到系统 root 权限，整个过程几乎没有人工介入。",
+  "key_points": [
+   "攻击者只给出“拿到 shell 权限”这类简单目标，AI 代理便自主完成侦察、发现零日、编写利用代码并提权，全流程几乎无需人工干预。",
+   "被攻破的是一款开源医学影像 AI 应用中的未知漏洞。这说明 AI 医疗等新兴应用的攻击面正在扩大，而防御往往滞后。",
+   "Cairn 本是为防御方设计的开源渗透测试框架，支持 Claude Code、Codex 等多种模型后端，却被攻击者直接改用为进攻工具。",
+   "中文提示、中国标准时区等线索，以及 Palo Alto 此前观测到的 25 次自主行动，说明这类攻击已经规模化，并非实验室演示。",
+   "亚马逊警告：防御方要准备应对 AI 代理带来的攻击速度和持续性——机器可以 7×24 小时不间断尝试，人力防守节奏难以匹配。"
+  ],
+  "impact": "对 AI 行业而言，代理能力已接近自主攻防门槛，模型与框架提供方将面临更严的滥用审查和责任界定。对开发者，尤其是做医疗、IoT 等垂直 AI 应用的团队，安全审计、漏洞披露与最小权限部署不再是可选项。对普通用户，医疗、企业系统的数据泄露风险上升，同时 AI 代理也可能被用于更快的漏洞修复，攻防双方同步加速。",
+  "tools": "想跟进可研究 Cairn 框架的架构与调度机制，配合 Claude Code、Codex 或 GLM、DeepSeek 等模型后端做红队演练；防御侧建议关注 Semgrep、CodeQL 做静态审计，OSS-Fuzz 做模糊测试，以及 SBOM 工具追踪依赖风险。"
+ },
+ "lang": "zh"
+}

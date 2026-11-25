@@ -13696,5 +13696,86 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-24T13:45:39Z",
   "fetched_at": "2026-11-24T14:51:06.529889+00:00"
+ },
+ "708082732e62": {
+  "id": "708082732e62",
+  "url": "https://arxiv.org/abs/2611.23558",
+  "title": "Towards Fair Resource Sharing in Agentic LLM Serving",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T00:13:01Z",
+  "fetched_at": "2026-11-25T00:40:27.473886+00:00"
+ },
+ "11304642d4ef": {
+  "id": "11304642d4ef",
+  "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-25T00:12:02.000Z",
+  "fetched_at": "2026-11-25T00:40:41.868311+00:00"
+ },
+ "17d6ca6d581b": {
+  "id": "17d6ca6d581b",
+  "url": "https://gangmuk.github.io/koi/",
+  "title": "Koi: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud LLM Inference",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T00:11:16Z",
+  "fetched_at": "2026-11-25T00:40:52.588458+00:00"
+ },
+ "8d3d16c1c0e7": {
+  "id": "8d3d16c1c0e7",
+  "url": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
+  "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T23:57:11Z",
+  "fetched_at": "2026-11-25T00:41:02.989400+00:00"
+ },
+ "ba01a58d24e5": {
+  "id": "ba01a58d24e5",
+  "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results",
+  "title": "Dell's AI server backlog hits $132.3B as AI orders reach $60.2B",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T22:21:53Z",
+  "fetched_at": "2026-11-25T00:41:49.939761+00:00"
+ },
+ "2a07f630263b": {
+  "id": "2a07f630263b",
+  "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+  "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T22:07:52Z",
+  "fetched_at": "2026-11-25T00:42:00.717490+00:00"
+ },
+ "8829fadd271a": {
+  "id": "8829fadd271a",
+  "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+  "title": "New York Ban AI Toys for 5 Years",
+  "source": "Hacker News (23pts, 3c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T21:49:50Z",
+  "fetched_at": "2026-11-25T00:42:15.095146+00:00"
+ },
+ "85b4aa73be54": {
+  "id": "85b4aa73be54",
+  "url": "https://safeguards.anthropic.com/2026/siren/",
+  "title": "Measuring and mitigating agent sandbox escape with Siren",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-24T21:36:43Z",
+  "fetched_at": "2026-11-25T00:42:49.679990+00:00"
+ },
+ "3af3eb02a158": {
+  "id": "3af3eb02a158",
+  "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+  "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+  "source": "OpenAI",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-24T21:02:58.000Z",
+  "fetched_at": "2026-11-25T00:43:04.004693+00:00"
  }
 }

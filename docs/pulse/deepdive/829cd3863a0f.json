@@ -1,0 +1,24 @@
+{
+ "id": "829cd3863a0f",
+ "url": "https://www.qbitai.com/2026/11/512354.html",
+ "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+ "source": "量子位 · 每日最新",
+ "site_name": "TopHub",
+ "published_at": null,
+ "fetched_at": "2026-11-25T00:38:35.635206+00:00",
+ "content": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议\n11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。\n文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。在CodeArena WebDev 榜单中，文心 5.5 Flash Preview以1668分位列开源模型第二、国产模型第四，紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。\n随着模型权重开放，全球开发者可基于文心 5.5 Flash Preview 开展领域微调、工具链适配与部署优化，进一步探索模型在不同业务场景中的应用。\n模型下载地址：\nHugging Face https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview\nModelScope https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview\n本文由百度提供，量子位获授权转载，观点归原作者所有。\n- 高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界2026-11-24\n- 蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险2026-11-24\n- 最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见2026-11-24\n- 叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办2026-11-24",
+ "report": {
+  "summary": "文心5.5 Flash Preview以Apache 2.0协议开源，采用2800亿总参数，上下文达百万级",
+  "background": "百度的文心系列此前多以API或受限许可的形式对外开放，权重开放程度一直落后于Qwen、DeepSeek、Kimi等国产同行。2026年国产大模型的开源竞争已进入MoE稀疏架构与超长上下文的比拼阶段，Qwen3.8-Max、Kimi K3.1 Pro等相继以大规模参数占据榜单前列。此次文心5.5 Flash Preview选择Apache 2.0这一最宽松的商业友好协议，并同步上架Hugging Face与ModelScope、原生适配vLLM和SGLang，是百度在开源生态话语权争夺中的一次明确转向，也意味着国产头部厂商的权重开放已基本成为行业默认动作。",
+  "key_points": [
+   "2800亿总参数但每Token仅激活140亿，属于典型的MoE稀疏架构，用大容量换能力、用小激活保速度，推理成本远低于同规模稠密模型。",
+   "支持最长100万Token上下文，可一次性吞下整套代码库或长文档，面向编程、3D建模、知识工作等长输入场景做了针对性优化。",
+   "Apache 2.0协议允许商用、修改与再分发，无需额外授权，企业可放心用于闭源产品和私有化部署，这是本次开源最实质的利好。",
+   "CodeArena WebDev榜单1668分，位列开源模型第二、国产第四，排在Kimi K3.1 Pro、Qwen3.8-Max之后，属第一梯队但非领跑。",
+   "官方同步给出Hugging Face与ModelScope权重地址，并支持vLLM、SGLang部署，开发者拿到即可跑，工程落地门槛较低。"
+  ],
+  "impact": "对AI行业而言，百度把旗舰级Flash模型以Apache 2.0放出，将进一步压低闭源API的溢价空间，国产开源阵营的\"参数+长上下文\"军备竞赛会继续升级。对开发者来说，多了一个可商用、可微调、可私有化部署的国产基座选择，尤其在长文档处理与代码生成场景，部署成本比稠密大模型更可控。对普通用户，短期感知不强，但会通过更低价的AI编程助手、文档工具和Agent产品间接获益，同时国产模型能力提升也意味着中文场景的体验会持续改善。",
+  "tools": "想上手可直接从Hugging Face或ModelScope拉取baidu/ERNIE-5.5-Flash-Preview权重，推理侧优先用vLLM或SGLang部署以吃到MoE与长上下文优化；微调可配合LLaMA-Factory、Swift等框架；长文本与代码场景建议搭配RAG工具如LangChain、LlamaIndex做效果对比评测。"
+ },
+ "lang": "zh"
+}
