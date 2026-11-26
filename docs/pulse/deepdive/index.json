@@ -25351,5 +25351,77 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-26T03:00:00Z",
   "fetched_at": "2026-11-26T13:51:53.633100+00:00"
+ },
+ "871b41fc597d": {
+  "id": "871b41fc597d",
+  "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center",
+  "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T22:57:53.938646+00:00"
+ },
+ "9c2b9c81d13b": {
+  "id": "9c2b9c81d13b",
+  "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids",
+  "title": "New York state bans AI chatbot toys for kids",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T22:58:02.741719+00:00"
+ },
+ "d6ee28e91b11": {
+  "id": "d6ee28e91b11",
+  "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster",
+  "title": "OpenAI admits it made a mistake when launching GPT-6.2",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T22:58:09.830397+00:00"
+ },
+ "7ccf5fe9f785": {
+  "id": "7ccf5fe9f785",
+  "url": "https://www.qbitai.com/2026/11/512916.html",
+  "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-26T22:58:20.460023+00:00"
+ },
+ "95814c7a547a": {
+  "id": "95814c7a547a",
+  "url": "https://www.aibase.com/news/32554",
+  "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T13:20:38.331Z",
+  "fetched_at": "2026-11-26T22:58:44.812027+00:00"
+ },
+ "c98a19911e1b": {
+  "id": "c98a19911e1b",
+  "url": "https://www.aibase.com/news/32551",
+  "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T13:20:38.331Z",
+  "fetched_at": "2026-11-26T22:58:54.963165+00:00"
+ },
+ "1da82f256871": {
+  "id": "1da82f256871",
+  "url": "https://www.aibase.com/news/32548",
+  "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T13:20:38.331Z",
+  "fetched_at": "2026-11-26T22:59:02.924620+00:00"
+ },
+ "9a36b64e1e92": {
+  "id": "9a36b64e1e92",
+  "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-26T09:44:23Z",
+  "fetched_at": "2026-11-26T22:59:13.976002+00:00"
  }
 }

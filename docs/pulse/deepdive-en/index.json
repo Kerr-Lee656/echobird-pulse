@@ -13966,5 +13966,41 @@
   "site_name": "The Verge",
   "published_at": "2026-11-26T09:54:40.000Z",
   "fetched_at": "2026-11-26T13:53:53.704734+00:00"
+ },
+ "0b66bbf21a38": {
+  "id": "0b66bbf21a38",
+  "url": "https://github.com/mozilla/firefox-mcp",
+  "title": "Mozilla/Firefox-MCP",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T21:54:33Z",
+  "fetched_at": "2026-11-26T22:59:45.441585+00:00"
+ },
+ "351e6279ef6b": {
+  "id": "351e6279ef6b",
+  "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+  "title": "Banks look to dump AI debt",
+  "source": "Hacker News (9pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T20:49:01Z",
+  "fetched_at": "2026-11-26T22:59:55.072672+00:00"
+ },
+ "979e22972f74": {
+  "id": "979e22972f74",
+  "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "source": "TechCrunch AI",
+  "site_name": "TechCrunch AI",
+  "published_at": "2026-11-26T20:03:54.000Z",
+  "fetched_at": "2026-11-26T23:00:04.169764+00:00"
+ },
+ "729136163e57": {
+  "id": "729136163e57",
+  "url": "https://github.com/RustingStudio/RustingStrata",
+  "title": "RustingStrata – Pure Rust LLM GGUF Engine, Runs Models > VRAM on CUDA and Vulkan",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T18:21:05Z",
+  "fetched_at": "2026-11-26T23:00:40.761640+00:00"
  }
 }

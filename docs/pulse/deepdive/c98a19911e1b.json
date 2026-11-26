@@ -1,0 +1,24 @@
+{
+ "id": "c98a19911e1b",
+ "url": "https://www.aibase.com/news/32551",
+ "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-26T13:20:38.331Z",
+ "fetched_at": "2026-11-26T22:58:54.963165+00:00",
+ "content": "In our daily interactions with AI, we often fall into a subtle sense of frustration: we have to stiffly wait for the model to finish delivering a long monologue before we can interject; once we interrupt, the conversational context instantly collapses. This \"one question, one answer\" half-duplex mode keeps AI carrying a strong \"customer service bot\" flavor, making it hard for it to truly blend into natural, high-frequency human collaboration scenarios full of interruptions and overlap.\nThe key moment to break through this interaction barrier has arrived. Recently, Shanghai AI Laboratory officially open-sourced the full-duplex multimodal model Sage-Interaction, aiming to drive large models from one-way \"command-response\" machines toward a completely new interaction paradigm of \"communicate while collaborating while getting things done.\"\nCore breakthrough: true \"interrupt anytime,\" reshaping conversational rhythm\nThe greatest value of Sage-Interaction lies in its deep refinement of \"full-duplex\" capabilities. It no longer requires users to follow rigid turn-taking rules, but supports interrupting and interjecting at any time during voice interaction. The model can keenly capture shifts in user intent and smoothly transition to new topics, perfectly replicating the dynamic rhythm of face-to-face human communication. This ability to \"listen and keep up\" is a core sign of AI moving from a \"tool\" to a \"digital partner.\"\nExtreme performance: 1.29-second response, topping both open- and closed-source models\nThe difficulty of full-duplex interaction lies not only in \"being able to interrupt,\" but also in \"responding quickly.\" Any delay beyond the threshold of human patience instantly shatters immersion.\nSage-Interaction has delivered a highly dominant answer here:\n- Response latency as low as 1.29 seconds: This figure is not only far better than comparable open-source models, but also ranks first among all current open- and closed-source duplex models, completely eliminating the \"lag\" in interaction.\n- Interaction quality score of 80.73: In rigorous duplex voice interaction quality evaluations, the model demonstrates extremely high naturalness and coherence, effectively avoiding the logical breaks or voice stutters that traditional models exhibit after interruptions.\n- Cutting-edge streaming video understanding: In addition to voice, the model also reaches the open-source frontier in processing streaming video input, laying a solid foundation for multimodal real-time collaboration (such as remote guidance and real-time visual analysis).\nIndustry insight: low latency and full duplex are the \"infrastructure\" of human-AI trust\nIn the past, competition among large models often focused on parameter counts or leaderboard scores, while overlooking interaction experience—the front-end touchpoint that determines user retention. The open-sourcing of Sage-Interaction sends a clear signal: AI's next battle is a dimensionality-reducing strike in interaction paradigms.\nWhen response latency is compressed to 1.29 seconds, and when \"interjecting anytime\" becomes the norm, the psychological barrier between users and AI will truly be broken. This seamlessly connected collaborative experience will greatly accelerate AI's deployment in high-value scenarios such as smart cockpits, real-time translation, virtual companionship, and complex task collaboration.\nShanghai AI Lab's open-sourcing this time not only delivers a high-performance technical foundation to the community, but also represents a precise forecast of the future form of human-AI interaction. When AI finally learns to \"listen\" and \"interject\" like a human, we are one big step closer to the era of intelligent agents that truly understand you and can fight alongside you.",
+ "report": {
+  "summary": "上海AI Lab开源全双工交互模型",
+  "background": "当前主流大模型多采用半双工“一问一答”模式，用户必须等待模型说完才能插话，一旦打断就容易丢失上下文，交互体验更像客服机器人。随着智能体、智能座舱、实时翻译和虚拟陪伴等场景兴起，低延迟、可随时打断的全双工交互成为关键瓶颈。上海AI Lab此时开源Sage-Interaction，意在把“边听边说、边协作边执行”的全双工能力推向社区，推动大模型从工具走向实时数字伙伴。",
+  "key_points": [
+   "支持随时打断和插话，模型能捕捉用户意图变化并平滑切换话题，不再要求严格轮次，更接近面对面交流节奏。",
+   "官方称响应延迟低至1.29秒，在开源与闭源双工模型中排名第一，显著降低交互等待感。",
+   "双工语音交互质量评分80.73，强调打断后仍保持自然连贯，避免逻辑断裂和语音卡顿。",
+   "除语音外，流式视频理解达到开源前沿，为远程指导、实时视觉分析等多模态协作打基础。",
+   "上海AI Lab开源模型与能力，意在把低延迟全双工作为社区基础设施，推动实时智能体落地。"
+  ],
+  "impact": "对AI行业，竞争焦点从参数和榜单转向交互体验，低延迟全双工或成智能体基础设施；开发者可基于开源模型构建实时语音/视频Agent，降低自研门槛；普通用户将获得可随时插话、更接近真人协作的AI体验，智能座舱、实时翻译、虚拟陪伴等场景有望率先普及。",
+  "tools": "可关注上海AI Lab的Sage-Interaction开源仓库与模型卡；工程侧可结合WebRTC/LiveKit做低延迟音视频链路，配合流式ASR/TTS和Agent编排框架验证打断、意图切换与视频流理解。"
+ },
+ "lang": "zh"
+}

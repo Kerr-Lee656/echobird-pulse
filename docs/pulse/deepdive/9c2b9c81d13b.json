@@ -1,0 +1,24 @@
+{
+ "id": "9c2b9c81d13b",
+ "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids",
+ "title": "New York state bans AI chatbot toys for kids",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-26T22:58:02.741719+00:00",
+ "content": "New York state bans AI chatbot toys for kids\nCompanies violating the five year ban will face a $15,000 per day fine.\nNew York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys, including dolls and robots that use the internet to converse with children. The new law comes with some teeth, including steep daily fines for each violation enforced by the state's attorney general.\n\"Parents shopping for gifts for the holidays or any other occasion should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk,\" Hochul said in a statement. Calling herself New York's first \"mom governor,\" Hochul said the new measure was \"deeply personal.\"\nThe governor's press release cited the US Public Interest Research Group Education Fund (PIRG), that tested chatbot toys marketed to children aged three to 12. Some of the toys talked about sexually explicit subjects and provided advice that could create a fire hazard in homes. The toys had few or zero parental controls and the longer the conversation, the more safety limits weakened. Some toys could even record a child's voice or scan their face.\n\"AI chatbots in children's toys are exposing young people to inappropriate content and putting their mental health at risk,\" said New York attorney general Letitia James.\nViolators face civil penalties up to $15,000 per day for each violation, according to the governor's office. James added that her branch would \"not hesitate to enforce this law and other measures to stop AI systems from doing harm. We won't allow our children's health to become the collateral damage of big tech.\"\nHochul and New York State legislators recently enacted another law called \"AI Chatbot Restrictions for Minors,\" prohibiting unsafe chatbot features for children under 18, with civil penalties of up to $25,000 per infraction. Hochul also signed an executive order this summer, issuing a one-year ban data centers using 50MW or more.\nAnti-AI measures were a politically popular during US midterm elections, as Americans voted to restrict the country's data center boom. Data centers were the subject of 45 ballot measures in 10 states and 39 measures were passed to restrict the facilities in some form.\nIn a statement, Amazon said the products it sells must follow US laws. \"We require all products sold by third-party sellers in our store to comply with applicable laws and regulations,\" Amazon told NBC News. \"Amazon is committed to the safety of children and families. We support efforts across the industry and government to put appropriate guardrails in place as this technology develops.\" However, the retail giant sells some 12 million different toys in the US (as of 2023), so complying with the NY AI chatbot law could be a tall order.",
+ "report": {
+  "summary": "纽约州禁售AI聊天玩具五年，违规日罚1.5万美元",
+  "background": "纽约州长霍楚尔签署五年禁令，禁止销售可联网与儿童对话的AI聊天玩具，包括娃娃和机器人。此前PIRG测试发现，部分面向3至12岁儿童的玩具会谈论性内容、给出危险建议，缺乏家长控制，且对话越长安全限制越弱，甚至可录音或扫脸。纽约州近期还通过未成年人AI聊天限制和数据中心禁令，反映美国中期选举后反AI与数据中心监管升温。",
+  "key_points": [
+   "禁令覆盖可联网对话的娃娃和机器人，销售即违规，有效期五年，由州总检察长执法。",
+   "每项违规每天最高罚1.5万美元，平台和第三方卖家都面临直接合规压力。",
+   "PIRG测试显示部分玩具谈性、给危险建议、缺家长控制，对话越久安全限制越弱。",
+   "纽约同步推进未成年人AI聊天限制，最高每次违规罚2.5万美元，并出台数据中心一年禁令。",
+   "亚马逊称要求第三方商品守法并支持护栏，但美国在售玩具约1200万种，逐项合规难度高。"
+  ],
+  "impact": "对AI行业，儿童AI硬件和玩具的合规门槛陡升，年龄验证、内容过滤、家长控制和数据最小化将成标配。对开发者，需默认安全、限制对话深度、避免收集声纹和人脸等生物特征。对普通用户，短期可选产品减少，但儿童隐私和人身安全更有保障，其他州可能跟进立法。",
+  "tools": "想跟进可关注Llama Guard、OpenAI Moderation、Perspective API等内容护栏，以及FTC COPPA合规指南；硬件端可用开源家长控制和网络过滤方案限制联网访问。"
+ },
+ "lang": "zh"
+}
