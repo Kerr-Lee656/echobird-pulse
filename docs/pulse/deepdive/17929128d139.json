@@ -1,0 +1,23 @@
+{
+ "id": "17929128d139",
+ "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+ "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+ "source": "The Verge",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-26T04:08:24.036317+00:00",
+ "content": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company’s “Starmind” initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full “constellation” of AI satellites.\nFCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space\nSpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation.\nThe FCC’s approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX’s request to dispose of satellites located above 600km in space “graveyard” orbits, rather than having them burn up in the Earth’s atmosphere, saying the company hasn’t provided “sufficient information” about its disposal process plans.\nSpaceX has described its Starmind project as a way to “capture solar energy in space to power” AI capabilities on Earth. The company says Starmind will transmit data to Earth using high-speed lasers that connect to Starlink. It plans to produce chips for its satellites at an upcoming Terafab facility.\nGoogle has already taken its first steps toward putting compute into space, with the launch of a “Project Suncatcher” AI server satellite last month. Jeff Bezos’ Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029.",
+ "report": {
+  "summary": "FCC批准SpaceX部署最多100万颗AI卫星\"星脑\"星座",
+  "background": "把数据中心送上太空正从科幻变成监管现实。太空的太阳能近乎无限、散热和土地成本低，被视为AI算力扩张的长期出口。谷歌上月已发射\"Project Suncatcher\"AI服务器试验卫星，蓝色起源计划2029年为其做首次专用重型发射。SpaceX的\"Starmind\"是三者中规模最大的构想，此次FCC批准是该机构首次为一个完整的AI卫星星座开绿灯，意味着监管框架开始为\"轨道算力\"让路。",
+  "key_points": [
+   "FCC授权SpaceX最多部署100万颗搭载AI芯片的卫星，属于\"Starmind\"计划，这是该机构首次批准完整的AI卫星星座。",
+   "批准附带硬性时间表：2033年前至少发射一颗，2040年前完成100万颗的里程碑，否则授权可能受影响。",
+   "SpaceX称卫星在太空采集太阳能为地面AI供电，数据通过高速激光回传至Starlink网络，芯片将在自建的Terafab工厂生产。",
+   "FCC暂未同意让600公里以上的卫星进入\"坟墓轨道\"，理由是SpaceX未充分说明处置方案，太空垃圾问题成争议焦点。"
+  ],
+  "impact": "对行业而言，轨道算力从概念验证进入规模化竞赛，SpaceX、谷歌、蓝色起源形成三足格局，发射成本与抗辐射芯片成为新护城河。对开发者，长期可能意味着更廉价、更绿色的推理算力接入点，但短期内几乎无实质影响。对普通用户，AI服务成本与延迟或间接受益，代价是天文观测、轨道拥挤和太空垃圾风险上升，监管与环保争议将随之而来。",
+  "tools": "想跟进可关注：FCC IBFS数据库中的SpaceX申请文件、谷歌Project Suncatcher公开论文（含TPU抗辐射测试）、NVIDIA Space-1模块等星载计算方案，以及Skyfield、Orekit等开源轨道仿真工具，可自行模拟巨型星座的覆盖与碰撞风险。"
+ },
+ "lang": "zh"
+}

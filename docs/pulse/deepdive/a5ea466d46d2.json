@@ -1,0 +1,24 @@
+{
+ "id": "a5ea466d46d2",
+ "url": "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search",
+ "title": "Cloudflare wants AI agents to search websites, not crawl them",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-26T04:08:51.873755+00:00",
+ "content": "Cloudflare has launched Search for Agents in beta for all customers, including free ones. Switching it on indexes a site and adds a search endpoint on its own domain, advertised on every page, so AI agents can search the site instead of crawling it page by page.\nCloudflare has launched a switch that turns a website on its network into a search engine for AI agents, the company said on Wednesday. Search for Agents is in beta and open to every customer, including those on the free plan.\nOnce it is on, Cloudflare crawls and indexes the site, then puts a search endpoint at a standard address on the site’s own domain. Every page also carries hidden tags telling visiting agents the search exists. That way, agents can search the site instead of crawling it page by page.\nThe search returns matching text from the site, not an AI-written answer. Cloudflare says the agent already has its own AI model, so it only needs the source material.\nSite owners keep their existing defences. Agents still face each site’s bot settings and firewall rules, which Cloudflare has tightened against AI crawlers this year. It has also worked with OpenAI to help ChatGPT find new pages faster.\nThe launch is Cloudflare’s latest move to shape how agents use the web. In August it released Kitesurf, a browser for AI agents.\nDaily requests from AI agents on its network grew over 1,700% in a year, Cloudflare said in October. Chief executive Matthew Prince has said bot traffic could reach 1,000 times human levels.\nUse is billed under Cloudflare’s AI Search pricing, which starts charging on December 1, with some usage included each month. Free plans come with tighter limits.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "Cloudflare推出AI代理站内搜索测试版",
+  "background": "AI代理正大量抓取网页，Cloudflare称其网络上的AI代理请求一年增长逾1700%，CEO甚至预测机器人流量可达人类千倍。作为掌握大量网站流量与防护规则的CDN，Cloudflare今年收紧了对AI爬虫的限制，并与OpenAI合作提升ChatGPT发现新页面速度；此前还推出面向代理的Kitesurf浏览器。此次Search for Agents延续其重塑代理访问网页方式的策略。",
+  "key_points": [
+   "Search for Agents处于测试阶段，向所有客户开放，免费计划也可启用。开启后Cloudflare会抓取并索引站点，在站点自有域名下生成标准搜索端点。",
+   "每个页面会带上隐藏标签，告知到访的AI代理站内搜索存在；代理可直接查询站点，不必逐页爬取，从而减少无效抓取。",
+   "搜索只返回站内匹配的原文片段，不生成AI答案。Cloudflare认为代理已自带模型，只需要源材料，降低幻觉与二次加工风险。",
+   "站点原有防护仍生效：代理访问受各站机器人设置和防火墙规则约束。Cloudflare称今年已收紧对AI爬虫规则，并帮ChatGPT更快发现新页面。",
+   "该功能按Cloudflare AI Search计费，12月1日起收费，每月含一定额度；免费计划限制更严。背景是AI代理请求一年增长超1700%。"
+  ],
+  "impact": "对AI行业，网页访问可能从“爬取”转向“可查询端点”，CDN与安全厂商成为代理流量网关和内容授权节点。开发者需适配标准搜索端点与隐藏标签，重新思考SEO/AEO、缓存和权限控制；普通用户可能获得更快、更新的答案，并减少网站负载，但内容开放度、计费与公平访问仍待观察。",
+  "tools": "可关注Cloudflare Search for Agents测试版、AI Search计费、Kitesurf代理浏览器和Bot Management；建站者可小范围启用并观察搜索端点调用，开发者可测试隐藏标签发现与代理访问控制。"
+ },
+ "lang": "zh"
+}

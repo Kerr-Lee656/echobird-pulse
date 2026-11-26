@@ -1,0 +1,24 @@
+{
+ "id": "6b9a193bbb38",
+ "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+ "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-25T18:59:43Z",
+ "fetched_at": "2026-11-26T04:09:34.185188+00:00",
+ "content": "The Federal Communications Commission has authorized Elon Musk's SpaceX to put 1 million artificial intelligence computing satellites in orbit, Chairman Brendan Carr announced on Wednesday.\nCarr said in a post on X, the social network owned by SpaceX, that the company's Starmind constellation, and \"competitor constellations will use solar power to extend America's lead\" in AI.\nMusk said in a reply, \"Much appreciated. This will be a great asset to America and the world.\"\nThe FCC, in its authorization filing, noted that SpaceX's application \"received a substantial number of comments from the public, including petitions to deny filed by Kuiper Systems LLC (Amazon Leo), Viasat Inc. (Viasat), and the American Astronomical Society (AAS).\"\nIn a March petition urging the FCC to deny SpaceX's application, Amazon had labeled the company's Starmind project as a \"lofty ambition rather than a real plan.\"\nThe e-commerce and cloud computing giant is building a competitor to SpaceX's Starlink satellite internet service, and said it would take SpaceX \"centuries\" to build the constellation, adding that the company provided scant details about how it would \"deliver on these grand claims.\"\nThe petition resulted in a rebuke from Carr, who said Amazon \"should focus on the fact\" that it's falling short of its own satellite deployment milestone.\nAmazon declined to comment on the FCC's approval.\nOther companies have also set their sights on orbital data centers. Google last year announced Project Suncatcher, which it describes as a \"moonshot to put AI in space,\" and launched its first chips into space on a SpaceX rocket and Planet Labs satellite in October.\nIn March, Jeff Bezos' Blue Origin petitioned the FCC to let it launch up to 51,600 satellites as part of a low Earth orbit satellite constellation dubbed \"Project Sunrise.\" The constellation would work in tandem with Blue Origin's planned TeraWave satellite internet service, announced in January.\nAstrophysicist and author Adam Becker was critical of the FCC move in an email to CNBC on Wednesday.\n\"Any serious attempt at this is going to further pollute the night sky and runs a serious risk of a cascading chain reaction of space junk collisions, which would be a disaster for all of humanity,\" he wrote. \"Musk and Carr are either profoundly stupid themselves, or hoping the rest of us are too stupid to notice this is nonsense.\"\nSpaceX did not respond to a request for comment.\nA senior attorney with Earthjustice, Jan Hasselman, criticized the FCC for issuing its decision on a holiday week, and approving the SpaceX proposal without any environmental review, which he said was required by the National Environmental Policy Act.\nThe FCC said in its authorization that it dismissed \"comments and concerns raised regarding topics over which the Commission has no authority, including environmental concerns,\" and concerns about its impact on \"optical astronomy.\"",
+ "report": {
+  "summary": "FCC批准SpaceX部署百万颗AI算力卫星，引发争议",
+  "background": "随着AI算力需求的增长，地面数据中心在电力、散热和选址上逐渐遇到瓶颈，于是把数据中心送入太空、利用太阳能供电和真空散热，成了新的设想。SpaceX的Starlink已经验证了大规模低轨星座的工程可行性，这次它把卫星从'通信中继'升级为'轨道计算节点'。与此同时，Google的Project Suncatcher已把芯片送入太空，蓝色起源也申请了5万颗规模的Project Sunrise，轨道数据中心从概念走向监管审批的竞争。",
+  "key_points": [
+   "FCC批准SpaceX的Starmind星座，最多可部署100万颗AI计算卫星；FCC主席Carr称，该星座将依靠太阳能供电，帮助美国扩大AI领先优势。",
+   "亚马逊Kuiper、Viasat和美国天文学会提交反对申请；亚马逊称，SpaceX这项计划只是'空想'，建成需要数百年，但Carr反过来指出亚马逊自身的卫星部署进度落后。",
+   "竞争者也在加速：Google通过SpaceX火箭把首批芯片送入轨道，蓝色起源则申请部署最多5.16万颗卫星，与自家TeraWave网络配套。",
+   "反对者警告，这会造成夜空光污染，并可能引发空间碎片连锁碰撞（凯斯勒效应）；Earthjustice还批评FCC在假期周发布决定，而且没有依法进行环境审查。",
+   "FCC在批复中明确驳回有关环境与光学天文影响的意见，理由是这些议题超出委员会权限，也就是说，监管机构主动划清了职责边界。"
+  ],
+  "impact": "对AI行业而言，轨道算力从科幻叙事变成受监管许可的在建项目，可能重塑算力供给的长期想象空间，但其成本、维护与带宽瓶颈仍未验证。对开发者来说，短期没有直接影响，但未来可能出现'在轨推理/边缘计算'的新型API与部署范式。对普通用户，最直接的是夜空与天文观测体验受损的风险，以及卫星互联网与算力服务格局的潜在变化。",
+  "tools": "想跟进可关注SpaceX Starmind与Starlink官方动态、Google Project Suncatcher、蓝色起源TeraWave；天文与轨道监测可用CelesTrak的TLE数据、Heavens-Above卫星过境查询、Stellarium模拟光污染；监管原文可查FCC IBFS filings与SpaceX申请文件。"
+ },
+ "lang": "zh"
+}

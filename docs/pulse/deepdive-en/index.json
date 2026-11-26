@@ -13867,5 +13867,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-25T17:27:05Z",
   "fetched_at": "2026-11-25T21:41:28.112518+00:00"
+ },
+ "402348415ec7": {
+  "id": "402348415ec7",
+  "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+  "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
+  "source": "Hacker News (2pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T02:28:06Z",
+  "fetched_at": "2026-11-26T04:10:13.593519+00:00"
+ },
+ "4a2c1de82b59": {
+  "id": "4a2c1de82b59",
+  "url": "https://www.uber.com/us/en/blog/optimizing-ubers-agent-skills/",
+  "title": "Uber Evals 1M Agent Skill Invocations a Month",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T00:32:59Z",
+  "fetched_at": "2026-11-26T04:10:40.181765+00:00"
+ },
+ "7f0549624b19": {
+  "id": "7f0549624b19",
+  "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
+  "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+  "source": "Hacker News (11pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T22:41:09Z",
+  "fetched_at": "2026-11-26T04:11:10.201306+00:00"
+ },
+ "ad9a9f7539ef": {
+  "id": "ad9a9f7539ef",
+  "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+  "title": "Etsy clarifies AI terms after seller backlash",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-25T22:33:06Z",
+  "fetched_at": "2026-11-26T04:12:08.843065+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "3a3b93e60d9a",
+ "url": "https://www.businessinsider.com/terence-tao-reimann-hypothesis-math-ai-solutions-advice-anthropic-openai-2026-11",
+ "title": "Terence Tao calls for a transition to ‘math 2.0’ in the wake of AI bombshells",
+ "source": "Business Insider",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-26T04:09:02.332260+00:00",
+ "content": "Terence Tao is calling for radical change.\nThe UCLA math phenom, viewed by many as a thought leader in the field, recently said mathematicians are living in the past if they think they can maintain their old values and stay relevant in the age of AI.\n\"Math 1.0 is going to have to transition into what I call math 2.0,\" Tao said at Harvard University last week.\nTo start with, Tao said that solving problems should no longer be the lodestar of mathematical research. Now that AI can tackle dense conjectures more efficiently than humans can, dying on that hill would be foolish, he said.\n\"Further blind optimization of problem-solving alone is now actively harmful to the long-term health of mathematics,\" his slideshow presentation read.\nInstead, Tao said mathematicians should focus on subjects that humans already excel at, like explaining what AI-generated solutions actually mean and extrapolating new problems from them.\nAnd getting work published in academic journals, once a prestigious accolade for mathematicians, is rapidly losing its value, he said.\nAs submission inboxes become flooded with AI-generated research by less and less capable mathematicians, who in many cases don't even understand what they're submitting, Tao said journals need to rethink their values or lose their importance.\n\"We can't go by just how many papers you have in the top journals anymore,\" he said, adding that mathematicians should earn clout only if they can explain their research before human inquisitors.\nTao laid out his vision to a room full of Harvard mathematicians shortly before the math community was once again rocked by a bombshell AI solution — this time for the most famous open question in all of mathematics.\nOn Friday, a mathematician employed by Anthropic said he cracked the Riemann Hypothesis using Claude. Mathematicians told Business Insider that the breakthrough is a huge deal. Steven Strogatz, a professor at Cornell, called the problem the \"white whale\" of the field.\nIn an interview on the \"Numberphile\" podcast last month, Tao said humans working with AI models wouldn't \"make progress\" on the Riemann Hypothesis before 2050.\nStill, Tao didn't say that young mathematicians should drop out of their Ph.D. programs and join AI startups.\nHe pointed to Caltech's mathathon, an event organized by students in which participants use AI to find new ways to solve old problems, as a possible way forward for the field.\n\"Despite all the tumult that we have today, the future of math actually is quite bright,\" he said.",
+ "report": {
+  "summary": "陶哲轩倡“数学2.0”：AI攻克黎曼猜想后数学界须重构价值观",
+  "background": "陶哲轩长期关注AI与数学的交叉，参与过AI辅助证明与形式化验证的讨论。2026年11月，Anthropic的一位数学家称用Claude解决了一直悬而未决的黎曼猜想，而这是克雷数学研究所千禧年难题之一；康奈尔教授Strogatz称其为该领域的“白鲸”。就在此前一个月，陶哲轩本人还预测人类与AI在2050年前难以在此问题上取得进展。AI进展快于最乐观预期，成为他提出“数学2.0”的直接背景。",
+  "key_points": [
+   "解题不再是数学研究的核心目标。AI已能比人类更高效地处理艰深猜想，继续“盲目优化解题能力”反而会长期损害数学的健康，数学家应转向AI不擅长的方向。",
+   "人类的新分工是“解释与提问”：说清AI给出的证明到底意味着什么，并从中引申出新的问题，这是目前人类仍占优势的能力。",
+   "期刊发表这一荣誉体系正在贬值。投稿信箱被AI生成、作者本人甚至看不懂的论文淹没，学术期刊若不重设价值观就会失去地位。",
+   "评价机制要转向“能否当面讲清”。不能再只看顶刊论文数量，数学家需在人类同行质询下解释自己的研究，才能获得学术声望。",
+   "未来路径是人机协作的“训练场”。他举例加州理工学生自办的mathathon——用AI为老问题寻找新解法，并称尽管当下动荡，数学的未来依然光明。"
+  ],
+  "impact": "对AI行业，数学从评测基准变成最硬的试验场，模型厂商会把“解出公开难题”当作能力叙事与品牌战。对开发者，形式化验证与“可解释的AI输出”成为刚需，工具链重心从“生成答案”转向“验证答案并解释”。对普通用户，短期震荡更多来自学术出版与教育评价体系：AI写的论文、AI做的作业，正倒逼评审与考核方式重写。",
+  "tools": "可关注：Claude及OpenAI、Gemini的深度推理模型；Lean 4 + Mathlib形式化数学库；AlphaProof/AlphaGeometry类定理证明系统；以及自组织“mathathon”式人机协作解题活动，练习用AI找思路、由人做解释与验证。"
+ },
+ "lang": "zh"
+}

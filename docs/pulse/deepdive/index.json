@@ -25216,5 +25216,68 @@
   "site_name": "Info Flow",
   "published_at": "2026-11-25T10:24:06Z",
   "fetched_at": "2026-11-25T21:39:33.537922+00:00"
+ },
+ "17929128d139": {
+  "id": "17929128d139",
+  "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "source": "The Verge",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:08:24.036317+00:00"
+ },
+ "ea67daf6645e": {
+  "id": "ea67daf6645e",
+  "url": "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration",
+  "title": "Claude rewrote the API that serves Claude. Checking its work was harder",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:08:38.761017+00:00"
+ },
+ "a5ea466d46d2": {
+  "id": "a5ea466d46d2",
+  "url": "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search",
+  "title": "Cloudflare wants AI agents to search websites, not crawl them",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:08:51.873755+00:00"
+ },
+ "3a3b93e60d9a": {
+  "id": "3a3b93e60d9a",
+  "url": "https://www.businessinsider.com/terence-tao-reimann-hypothesis-math-ai-solutions-advice-anthropic-openai-2026-11",
+  "title": "Terence Tao calls for a transition to ‘math 2.0’ in the wake of AI bombshells",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:09:02.332260+00:00"
+ },
+ "4decc47da9e6": {
+  "id": "4decc47da9e6",
+  "url": "https://www.businessinsider.com/anthropic-efficiency-gains-doubt-ai-spending-boom-compute-multiplier-2026-11",
+  "title": "Anthropic's 'compute multiplier' is freaking investors out and hammering the AI trade",
+  "source": "Business Insider",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:09:15.431329+00:00"
+ },
+ "2547118eec9f": {
+  "id": "2547118eec9f",
+  "url": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+  "title": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-26T04:09:24.519429+00:00"
+ },
+ "6b9a193bbb38": {
+  "id": "6b9a193bbb38",
+  "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+  "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-25T18:59:43Z",
+  "fetched_at": "2026-11-26T04:09:34.185188+00:00"
  }
 }
