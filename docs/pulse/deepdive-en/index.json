@@ -13903,5 +13903,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-25T22:33:06Z",
   "fetched_at": "2026-11-26T04:12:08.843065+00:00"
+ },
+ "0ec57f6a4b61": {
+  "id": "0ec57f6a4b61",
+  "url": "https://epyhia.com/42-attorneys-general-move-to-block-character-ai-sale-of-21-million",
+  "title": "AGs Move to Block Character.ai Sale of 21M Users' Chat Histories",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T13:43:51Z",
+  "fetched_at": "2026-11-26T13:52:27.810957+00:00"
+ },
+ "38d92f508e0c": {
+  "id": "38d92f508e0c",
+  "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+  "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+  "source": "Philipp Schmid",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-26T13:30:28.000Z",
+  "fetched_at": "2026-11-26T13:52:50.819729+00:00"
+ },
+ "f1cffdf18e0e": {
+  "id": "f1cffdf18e0e",
+  "url": "https://www.cbs.nl/en-gb/news/2026/48/use-of-ai-by-business-has-more-than-doubled-largest-increase-seen-in-smes",
+  "title": "Use of AI by Dutch businesses has more than doubled",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T13:21:21Z",
+  "fetched_at": "2026-11-26T13:53:02.924470+00:00"
+ },
+ "35abbf39e185": {
+  "id": "35abbf39e185",
+  "url": "https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677",
+  "title": "AI-Driven Shortages in Basic PCB Components Could Be Worse Than 2021 Chip Crisis",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-26T12:41:19Z",
+  "fetched_at": "2026-11-26T13:53:12.661874+00:00"
+ },
+ "ccd65de35e00": {
+  "id": "ccd65de35e00",
+  "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+  "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+  "source": "MiniMax：Blog",
+  "site_name": "AI HOT 精选",
+  "published_at": "2026-11-26T12:00:09.000Z",
+  "fetched_at": "2026-11-26T13:53:29.201573+00:00"
+ },
+ "12d6cacfc3fd": {
+  "id": "12d6cacfc3fd",
+  "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+  "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-26T10:51:27.000Z",
+  "fetched_at": "2026-11-26T13:53:39.083003+00:00"
+ },
+ "e51b021662e9": {
+  "id": "e51b021662e9",
+  "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "source": "The Verge",
+  "site_name": "The Verge",
+  "published_at": "2026-11-26T09:54:40.000Z",
+  "fetched_at": "2026-11-26T13:53:53.704734+00:00"
  }
 }

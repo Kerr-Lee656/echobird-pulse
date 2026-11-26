@@ -1,0 +1,24 @@
+{
+ "id": "7bbe2fb9a213",
+ "url": "https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release",
+ "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-26T13:50:35.583478+00:00",
+ "content": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release (axios.com) 93\n\t\t\t\n\t\t \t\n\t\t\t\tAxios reports:\nAnthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful that many employees no longer believe they can be safely released, according to more than two dozen sources familiar with the internal debates...\nThe challenge could significantly slow the AI boom, as the gap between what the best AI systems can do and humans' ability to control them continues to widen, sources told Axios. \nResearchers haven't found technical solutions for controlling the most advanced models. Some insiders believe it's fixable. Others aren't convinced and say companies should stop training new models entirely... Anthropic and OpenAI have unreleased models that are far more powerful than what they've already released publicly, but the AI companies have struggled to ensure that they are safe enough for public release, sources said.  This has led to debate within Anthropic, OpenAI and the AI research community about whether to stop releasing future frontier models publicly, instead reserving them for internal deployment only. \nThere has also been debate around whether to train new models at all, sources inside and outside those companies told Axios.",
+ "report": {
+  "summary": "OpenAI与Anthropic内部担忧最强模型难以安全发布",
+  "background": "随着大模型规模与能力持续跃升，前沿实验室的安全对齐、可解释性与评估手段明显滞后于能力增长。此前两家公司都建立了分级发布机制（Anthropic的负责任扩展政策、OpenAI的准备框架），但据Axios采访二十余名知情人士，内部未公开模型的能力已远超已发布版本，现有红队测试与行为评估难以给出\"足够安全\"的结论。这一矛盾在AI竞赛加速、监管尚未落地的背景下被放大：企业既想保持领先，又担心一次失控发布带来不可逆后果，于是\"是否继续训练\"和\"是否公开发布\"首次成为公司内部的实质分歧。",
+  "key_points": [
+   "内部未发布模型的能力远超公众可见版本，多位员工已不相信自己能给出安全发布的保证。",
+   "控制超强模型的技术方案尚未出现，评估、红队与可解释性工具都跟不上能力增长的速度。",
+   "公司内部意见分裂：一派认为问题终将可解，另一派主张干脆停止训练更强的新模型。",
+   "正在讨论的新选项是把前沿模型只做内部部署、不对外开放，等于放弃公开API的能力领先优势。",
+   "能力与可控性之间的差距持续扩大，若无法弥合，可能实质性拖慢整轮AI商业化的节奏。"
+  ],
+  "impact": "对AI行业而言，前沿发布的节奏可能放缓，算力投入的回报周期被拉长，安全团队在决策中的话语权上升，\"能力竞赛\"部分转向\"可控性竞赛\"；对开发者来说，最强模型通过API开放的时间窗口会变长，短期需更多依赖开源与中型模型，并自建评估与护栏能力；对普通用户，新功能上线会更慢，但换来更少的失控风险，同时也要警惕超强模型只掌握在少数机构内部所带来的权力集中问题。",
+  "tools": "想跟进可关注：Anthropic负责任扩展政策与Constitutional AI文档、OpenAI Preparedness Framework；可解释性工具TransformerLens、SAELens；评测框架UK AISI的Inspect、EleutherAI的lm-evaluation-harness；第三方安全评估机构METR的任务级测评报告；以及Llama、Qwen等开源模型作为可控替代方案。"
+ },
+ "lang": "zh"
+}

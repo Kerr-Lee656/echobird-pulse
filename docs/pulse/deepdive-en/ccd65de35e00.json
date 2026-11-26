@@ -1,0 +1,23 @@
+{
+ "id": "ccd65de35e00",
+ "url": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+ "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+ "source": "MiniMax：Blog",
+ "site_name": "AI HOT 精选",
+ "published_at": "2026-11-26T12:00:09.000Z",
+ "fetched_at": "2026-11-26T13:53:29.201573+00:00",
+ "content": "MiniMax：Blog·· 2 小时前\nMiniMax 推出 H3 Family：旗舰与扩展视频图像模型\nMiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image 系列及 fal、Suno、HeyGen、Pika 等第三方的扩展模型。H3 开源 100 天已衍生 1,472 个模型、累计下载超 1.48 亿次，旗舰 H3 支持 2K 输出、起价 $0.08/秒，H3-Image Highspeed 最快 10 秒内生成 4K 图像。\n原文梳理了 H3 开源百天衍生的社区生态，并给出旗舰与扩展模型的定价和速度数据，便于比较选用。\n来源：MiniMax：Blog · minimax.io",
+ "report": {
+  "summary": "MiniMax launches H3 Family video and image models, spanning flagship, highspeed, lite, and image variants plus third-party extensions.",
+  "background": "MiniMax is a Chinese AI startup known for generative video and open-source model releases. The video and image generation market is increasingly crowded, with Runway, Pika, Kling, Google Veo, and OpenAI Sora competing on quality, speed, and price. Open-weight releases can quickly build ecosystems because developers can fine-tune, redistribute, and integrate models. H3 was open-sourced 100 days before this announcement and has already produced 1,472 derivative models and more than 148 million downloads, showing strong community traction. The H3 Family now formalizes multiple tiers and partner integrations so users can choose between flagship quality, high-speed generation, lightweight cost efficiency, and image-specific workflows.",
+  "key_points": [
+   "The H3 Family includes several tiers: flagship H3, H3-Highspeed, H3-Lite, and H3-Image, plus third-party extension models from fal, Suno, HeyGen, and Pika. This lets users pick models based on quality, speed, price, or specific creative workflows rather than relying on a single general-purpose model.",
+   "MiniMax says H3 has been open source for 100 days and has generated 1,472 derivative models with over 148 million cumulative downloads. Those numbers suggest strong developer adoption and a growing ecosystem around the H3 architecture, which can make the family more attractive to teams building custom video and image applications.",
+   "The flagship H3 model supports 2K output and starts at $0.08 per second. That pricing gives teams a clear cost baseline for video generation, while the 2K capability targets professional-looking output for ads, social media, and previsualization without requiring separate upscaling steps.",
+   "H3-Image Highspeed can generate 4K images in as little as 10 seconds, according to MiniMax. Fast, high-resolution image generation is useful for iterative design, e-commerce visuals, and content production where teams need many variants quickly rather than one slow, high-quality render."
+  ],
+  "impact": "For the AI industry, MiniMax’s tiered H3 Family and open-source ecosystem signal a push toward price and speed competition in generative video and images. The 1,472 derivatives and 148 million downloads give MiniMax community momentum that could pressure rivals to open more models or lower inference costs. For developers, the family offers clearer choices across latency, resolution, and budget, plus third-party integrations through fal, Suno, HeyGen, and Pika that can shorten prototyping. For regular users, faster 4K image generation and cheaper 2K video could mean more responsive creative tools and lower prices in consumer apps. The main caveat is that ecosystem metrics measure adoption, not necessarily output quality or safety.",
+  "tools": "Follow MiniMax’s H3 open models on Hugging Face and the MiniMax blog for weights and pricing updates. fal is worth watching for hosted inference and integrations, while ComfyUI workflows may emerge for H3 derivatives. Also track third-party extensions from Pika, HeyGen, and Suno to see how video, avatar, and audio generation combine. For teams evaluating cost, benchmark H3, H3-Highspeed, and H3-Lite against your own prompts before committing."
+ },
+ "lang": "en"
+}

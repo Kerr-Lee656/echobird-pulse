@@ -1,0 +1,23 @@
+{
+ "id": "6e52e2b176a8",
+ "url": "https://www.aibase.com/news/32534",
+ "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-26T03:50:25.049Z",
+ "fetched_at": "2026-11-26T13:51:16.757088+00:00",
+ "content": "Money in the AI voice race is still pouring in at an accelerating pace. According to a Bloomberg report on November 26, startup ElevenLabs has begun preliminary talks for a new funding round, targeting a valuation of $33 billion. Company management plans to formally launch the financing process in the first quarter of 2027, but some potential investors are already impatient and want to move the timeline up.\n$11 Billion Gained in Three Months\nThe confidence behind these talks comes from its performance curve: in September of this year, the company was valued at $22 billion, and its newly proposed target is directly 50% higher; during the same period, annual recurring revenue (ARR) also rose from $600 million to $700 million. With valuation increasing by $11 billion in less than a quarter, its rapidly commercializing financials have become the strongest bargaining chip in these preliminary negotiations.\nThree Product Lines Prop Up the Business\nThe company was founded in 2022 by Mati Staniszewski and Piotr Dabkowski. It has established itself in the market with highly realistic AI-synthesized voice and audio models, and its technology has been deployed across audiobooks, gaming, and enterprise customer service. It currently has three commercial product lines: ElevenAgents handles conversational workflows; ElevenCreative targets multilingual content creation and dubbing, supporting more than 90 languages; and ElevenAPI provides developers with low-latency integration services. From content production to enterprise customer service to developer APIs, the three lines map exactly to three payment scenarios, which also explains why ARR has been able to climb steadily within three months.",
+ "report": {
+  "summary": "ElevenLabs 拟启动新融资，其目标估值在三个月内上涨 50%，达到 330 亿美元",
+  "background": "AI 语音赛道是继大模型之后资本最集中的方向之一。ElevenLabs 于 2022 年由 Mati Staniszewski 与 Piotr Dabkowski 创立，以高拟真语音合成与音频模型切入市场，技术已落地有声书、游戏配音和企业客服等场景。据彭博社 11 月 26 日报道，该公司今年 9 月估值约 220 亿美元，如今已开始初步洽谈新一轮融资，目标估值 330 亿美元。其管理层计划在 2027 年第一季度正式启动流程，但部分潜在投资人希望提前。支撑这一预期的主要依据，是公司年化经常性收入（ARR）从 6 亿美元升至 7 亿美元。",
+  "key_points": [
+   "估值曲线陡峭：从 9 月的 220 亿美元到新目标的 330 亿美元，不到一个季度增加 110 亿美元，涨幅恰好 50%，在当下 AI 融资环境中属于头部水平。",
+   "收入同步增长：ARR 从 6 亿美元升至 7 亿美元，约合每月新增近 3000 万美元经常性收入，为高估值提供了可验证的商业化依据。",
+   "三条产品线对应三类付费场景：ElevenAgents 负责对话式工作流，ElevenCreative 负责多语言内容创作与配音，支持 90 多种语言，ElevenAPI 则面向开发者提供低延迟集成。",
+   "融资节奏被投资人催促：公司原计划 2027 年第一季度才正式启动融资，但部分潜在投资方已经不耐烦，想提前锁定份额，说明优质 AI 语音资产处于供不应求状态。"
+  ],
+  "impact": "对 AI 行业而言，ElevenLabs 的估值跳升进一步确认了“语音”是大模型之后最快跑通订阅与 API 双变现的模态之一，可能带动语音克隆、实时对话、配音本地化等细分赛道的新一轮估值重估。对开发者而言，API 优先的产品结构意味着语音能力正像云服务一样被标准化采购，自研语音栈的必要性下降，但低延迟、多语种与合规授权会成为选型关键。对普通用户而言，有声书、游戏 NPC、客服电话中的合成声音将更难分辨真伪，内容本地化成本下降，但语音诈骗与声音版权问题也会同步放大。",
+  "tools": "想跟进可以试 ElevenLabs 官方 API 与 ElevenCreative 的配音本地化能力；开源侧可关注 CosyVoice、ChatTTS、GPT-SoVITS、Fish-Speech、Coqui TTS 等中文友好的语音合成项目，以及 Whisper 系列做识别侧对照，便于搭建“识别—合成”完整链路并评估成本差异。"
+ },
+ "lang": "zh"
+}

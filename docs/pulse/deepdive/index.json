@@ -25279,5 +25279,77 @@
   "site_name": "Zeli",
   "published_at": "2026-11-25T18:59:43Z",
   "fetched_at": "2026-11-26T04:09:34.185188+00:00"
+ },
+ "7bbe2fb9a213": {
+  "id": "7bbe2fb9a213",
+  "url": "https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release",
+  "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
+  "source": "Slashdot",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T13:50:35.583478+00:00"
+ },
+ "a757a7ce1185": {
+  "id": "a757a7ce1185",
+  "url": "https://mashable.com/tech/spacex-starmind-fcc-approval-ai-data-centers-space",
+  "title": "FCC clears SpaceX to put up to 1 million AI satellites in orbit",
+  "source": "Mashable",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-26T13:50:45.099351+00:00"
+ },
+ "0cbaebdcedcd": {
+  "id": "0cbaebdcedcd",
+  "url": "https://www.aibase.com/zh/news/32541",
+  "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-26T13:50:52.918656+00:00"
+ },
+ "70031fd0c5f1": {
+  "id": "70031fd0c5f1",
+  "url": "https://www.aibase.com/news/32538",
+  "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T03:50:25.049Z",
+  "fetched_at": "2026-11-26T13:51:08.779504+00:00"
+ },
+ "6e52e2b176a8": {
+  "id": "6e52e2b176a8",
+  "url": "https://www.aibase.com/news/32534",
+  "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T03:50:25.049Z",
+  "fetched_at": "2026-11-26T13:51:16.757088+00:00"
+ },
+ "0efc92b49dd7": {
+  "id": "0efc92b49dd7",
+  "url": "https://www.aibase.com/news/32533",
+  "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-26T03:50:25.049Z",
+  "fetched_at": "2026-11-26T13:51:23.469747+00:00"
+ },
+ "6cf169547b3f": {
+  "id": "6cf169547b3f",
+  "url": "https://www.ithome.com/1/032/611.htm",
+  "title": "黎曼猜想 AI 证明代码暴砍 99.5%：只剩 7.6 万行，又是 Anthropic",
+  "source": "IT之家 (ITHome)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-26T03:01:11Z",
+  "fetched_at": "2026-11-26T13:51:34.942562+00:00"
+ },
+ "3c8ac27ec850": {
+  "id": "3c8ac27ec850",
+  "url": "https://www.huxiu.com/article/4908572.html?f=rss",
+  "title": "美光CEO 深度访谈：算力狂奔背后，真正决定大模型生死的是“内存墙”",
+  "source": "虎嗅 (Huxiu)",
+  "site_name": "Info Flow",
+  "published_at": "2026-11-26T03:00:00Z",
+  "fetched_at": "2026-11-26T13:51:53.633100+00:00"
  }
 }
