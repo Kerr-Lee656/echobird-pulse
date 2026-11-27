@@ -1,0 +1,24 @@
+{
+ "id": "3cc6f8377b87",
+ "url": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure",
+ "title": "Switzerland confirms first AI agent cyberattacks on critical infrastructure",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-27T19:27:34.791357+00:00",
+ "content": "Attackers are now using AI agents against companies and critical infrastructure operators in Switzerland. The country’s National Cyber Security Centre (NCSC) confirmed its first such cyberattacks in an advisory on Tuesday. The federal agency said the attacks hit at least two sectors.\n“In all cyberattacks known to the NCSC, the use of AI agents led to the successful compromise of the victim’s IT systems,” the agency wrote.\nFive cases, four break-ins\nFlorian Schütz, the NCSC’s director, gave the first figures on Thursday. He spoke in an interview with SRF, the Swiss public broadcaster. The agency has five confirmed cases, all reported in recent days, he said. Three targeted critical infrastructure operators, and two of those succeeded. Across all five, attackers got into systems four times.\nThat is one fewer than Tuesday’s advisory implied, when the agency said every known attack had worked. SRF’s report does not say why the count changed.\nIn Switzerland, critical infrastructure includes electricity, drinking water and telecoms suppliers, SRF reported. Attackers also hacked small and medium-sized companies, which came forward voluntarily. Schütz said there were no major outages. The NCSC will not name the victims and is leaving it to them to speak for themselves. Who is behind the attacks is still unclear.\nTools anyone can reach\nThe attackers used what the NCSC calls agentic offensive frameworks. These AI agents search for weaknesses on their own, pick attack tools, check the results and plan the next step. Security teams use the same tools for penetration testing.\nThe agents exploit default or easily guessed passwords and known flaws in systems connected to the internet, the agency said. They need a fraction of the time a human attacker would. When they hit a defence, they switch to another known method. That leaves companies far less time to spot an attack and respond.\nThe number of such agents reachable online has almost doubled since October, according to the NCSC. It named ARTEX and CyberStrikeAI as examples. It did not say which tools the attackers used in the Swiss cases. The FBI has said ARTEX can break into networks in under three hours. This week, Microsoft said state hackers from China and North Korea now use it.\nA 24-hour patch rule\nThe NCSC expects more fast and successful attacks. It wants companies to install critical security updates on internet-facing systems within 24 hours of release. Webmail, VPNs and other services reachable from the internet should all sit behind multi-factor authentication or passkeys. Companies should also expose as few systems as possible. The agency also shares technical indicators of these attacks with critical infrastructure operators.\n“If there is no vulnerability, an AI agent cannot get into a system either,” Schütz told SRF.\nAlex Stamos, the former Facebook security chief, said this month that AI has pushed cybersecurity into a dark age. Raphael Reischuk co-founded the country’s National Test Institute for Cybersecurity and works at consulting firm Zühlke. He told SRF he expects a major wave of attacks. Many smaller companies lack the resources to keep their systems up to date, he said. He wants the federal government to consider jointly funded support for them, as it does for drinking water and electricity.\n“Companies are not taking the problem seriously enough,” Reischuk said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "瑞士确认首例AI智能体攻击关键基础设施",
+  "background": "瑞士国家网络安全中心（NCSC）首次确认，攻击者已用AI智能体攻击企业和关键基础设施。此前此类工具多用于渗透测试，如今可自动扫描漏洞、选择攻击手段并迭代利用。NCSC负责人随后披露5起确认案例、4次成功入侵，其中3起针对关键基础设施、2起得手；受害者未公开，幕后黑手仍不明。",
+  "key_points": [
+   "NCSC称这些“智能体攻击框架”能自主寻找弱点、选择工具、核验结果并规划下一步；遇到防御就换已知手法，所需时间远少于人类攻击者。",
+   "NCSC负责人披露5起确认案例、4次成功入侵：3起针对关键基础设施，其中2起得手；另有中小企业自愿上报。未公开受害者，暂无重大中断，攻击者身份不明。",
+   "可在线访问的此类智能体数量自去年10月以来近乎翻倍。NCSC点名ARTEX和CyberStrikeAI；FBI称ARTEX可在3小时内入侵网络，微软称中朝国家黑客已使用。",
+   "攻击主要利用联网系统的默认/弱口令和已知漏洞。NCSC强调“没有漏洞，AI智能体也进不来”，企业应减少暴露面并优先修复面向互联网的系统。",
+   "NCSC要求关键安全更新在发布24小时内安装，Webmail、VPN等应启用多因素认证或passkey。专家警告资源不足的中小企业可能难以跟上，预期会出现大规模攻击潮。"
+  ],
+  "impact": "对AI行业，智能体从“辅助”走向“自主攻击”会加速安全与合规讨论，模型和agent平台需内置滥用防控。对开发者，补丁窗口缩至小时级，默认安全、MFA、最小暴露面成为基本要求，渗透测试自动化会更普及。对普通用户，关键服务短期未必中断，但账户与数据泄露风险上升，应启用强认证并关注服务商安全通告。",
+  "tools": "可关注ARTEX、CyberStrikeAI等智能体攻击框架，但仅限授权渗透测试；防御侧可落地MFA/passkey、24小时补丁流程、互联网暴露面扫描与漏洞管理，并用NCSC共享的IOC做监测。"
+ },
+ "lang": "zh"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "117ed9fa3264",
+ "url": "https://thenextweb.com/news/us-air-force-cloud-one-breach",
+ "title": "Hackers breached the US Air Force’s Cloud One platform, Reuters reports",
+ "source": "The Next Web",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-27T19:27:23.106208+00:00",
+ "content": "Hackers have broken into Cloud One, the US Air Force’s main cloud computing platform, three people familiar with the matter told Reuters on Friday. The breach could put a wide range of military data at risk, from personnel records to logistics and tactical information.\nTwo of the people said the intrusion came to light in the past month or so, while the system was being upgraded. Reuters could not establish who was behind it, how far it reached or whether any data was stolen.\n“A breach here is a big deal,” one of the people told Reuters.\nThe report adds to a run of recent breaches at US government bodies, as this week, hackers hit a system used by several spy agencies, and in October a Homeland Security leak exposed 41,000 staff.\nSince the discovery, work to move the Air Force’s back-office applications onto Cloud One has been paused, according to two of the sources and a fourth person. Updates to applications already running there have also been blocked, leaving staff unable to install fixes for newly disclosed flaws. A fifth person said some users lost their administrator rights.\nAnother source said the hackers used a software flaw to reach the control plane, the layer that manages the whole platform, and compared that access to a universal remote. In theory, it could show the status of military aircraft or the movement of spare parts, but it is unclear whether the hackers used it that way.\nThe Air Force launched Cloud One in 2017 as a single home for its IT, built on cloud services from Microsoft, Amazon, Oracle and Google. Scores of applications run on it, covering pay, personnel, logistics and maintenance.\nAmong them is a command-and-control system that combines air defence radar feeds from across North America, Reuters reported. Another tracks bombs and missiles at more than 200 Air Force sites worldwide.\nSAIC ran the platform as prime contractor until Leidos took over under a $454.9M task order awarded in December 2025. According to one source, US Cyber Command has been brought in to gauge the damage, and Cyber Command did not respond either.\n“[The Air Force] does not comment on the security posture, vulnerabilities or operational status of specific networks and systems,” the service said in a statement to Reuters.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.",
+ "report": {
+  "summary": "美空军Cloud One云平台遭黑客入侵，影响待查",
+  "background": "Cloud One是美国空军2017年启动的统一云计算平台，整合微软、亚马逊、Oracle和谷歌云服务，承载薪资、人事、后勤、维护及指挥控制等大量应用。此次入侵在近一个月系统升级期间被发现，正值美国政府机构接连曝出网络攻击事件，且平台主承包商刚从SAIC过渡到Leidos。",
+  "key_points": [
+   "入侵在近一个月平台升级期间被发现，但攻击者身份、波及范围和是否窃取数据均不清楚。",
+   "消息称黑客利用软件漏洞进入控制平面，相当于拿到“万能遥控器”，理论上可查看军机状态或备件流动。",
+   "事件后空军暂停后台应用迁移，阻止已有应用更新，部分用户被收回管理员权限。",
+   "Cloud One承载敏感系统，包括北美防空雷达数据融合和全球200多个基地的炸弹导弹追踪。",
+   "美国网络司令部已介入评估损害，空军拒绝对具体网络的安全态势置评。"
+  ],
+  "impact": "对AI行业而言，云控制面失守提醒训练与推理基础设施必须强化隔离、零信任和供应链审计；开发者需重视云权限最小化、补丁与配置管理；普通用户直接感知有限，但军事数据风险可能推高政府与云厂商的安全合规成本。",
+  "tools": "可关注云安全态势管理（CSPM）与开源审计工具：Prowler、Cloud Custodian、Trivy、kube-bench、Falco；结合CISA KEV和MITRE ATT&CK跟踪漏洞与攻防手法。"
+ },
+ "lang": "zh"
+}

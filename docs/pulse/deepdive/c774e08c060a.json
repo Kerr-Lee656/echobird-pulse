@@ -1,0 +1,24 @@
+{
+ "id": "c774e08c060a",
+ "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+ "title": "AI on brink of making online security useless, mathematicians fear",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-27T11:09:04Z",
+ "fetched_at": "2026-11-27T19:28:30.597325+00:00",
+ "content": "AI on brink of making online security useless, mathematicians fear Recent breakthroughs mean the technology is already likely to have cracked equations on which billions of us depend. Some fear discoveries are being hushed up Previous Article Next Article",
+ "report": {
+  "summary": "数学家警告：AI可能已攻破全球网络加密的基础",
+  "background": "现代互联网安全建立在RSA、Diffie-Hellman、椭圆曲线等公钥密码之上，其安全性依赖“大整数分解”“离散对数”等数学难题在计算上不可行。多年来业界普遍假设，只有量子计算机（Shor算法）才能破解这些难题，因此把希望寄托在后量子密码迁移上。但2024年以来，AI在数学推理上的进展，从AlphaProof到o1、o3这类推理模型，再到自动化定理证明，让部分数学家担心：AI可能已经在这些“难解问题”上取得突破，只是成果未被公开。",
+  "key_points": [
+   "报道援引数学家的担忧：近期AI的突破意味着，支撑HTTPS、网上银行和软件更新的加密方程，可能已经具备被AI求解的现实条件。",
+   "核心疑虑在于难度假设：RSA依赖大数分解，椭圆曲线依赖离散对数，而这两个问题的“计算上不可行”前提正被AI的数学能力动摇。",
+   "有学者怀疑相关破解成果被私下掌握或被刻意低调处理，公开讨论不足，形成信息真空，也让外界难以评估真实风险。",
+   "报道本身未给出可验证的技术细节或实际攻击案例；学界主流仍认为现有公钥密码尚未被AI真正攻破，因此需要谨慎看待。",
+   "如果担忧成真，受冲击的将是整条信任链，涵盖证书、数字签名与密钥交换机制，而不只是某个具体产品或厂商。"
+  ],
+  "impact": "对AI行业，密码分析与AI安全将成为显学，模型能力评估会新增“是否具备攻击性数学能力”这一维度，披露与保密机制的争议也会升温。对开发者，加密敏捷性（crypto agility）不再是停留在口号层面的概念：应尽早支持混合密钥交换与后量子算法、缩短密钥与证书生命周期、清理自有协议里硬编码的算法。对普通用户，短期无需恐慌，但长期安全取决于厂商的升级节奏，开启多因素认证、及时更新软件仍是最有效的自保手段。",
+  "tools": "可关注NIST后量子标准ML-KEM（FIPS 203）与ML-DSA（FIPS 204）；OpenSSL 3.5、liboqs已提供实现；Chrome、Firefox已默认启用X25519MLKEM768混合密钥交换；用SSLyze、testssl.sh可检查站点是否支持PQC。追踪AI数学能力可关注Lean、AlphaProof相关工作。"
+ },
+ "lang": "zh"
+}

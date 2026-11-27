@@ -25477,5 +25477,68 @@
   "site_name": "Zeli",
   "published_at": "2026-11-27T00:03:18Z",
   "fetched_at": "2026-11-27T08:18:33.558962+00:00"
+ },
+ "117ed9fa3264": {
+  "id": "117ed9fa3264",
+  "url": "https://thenextweb.com/news/us-air-force-cloud-one-breach",
+  "title": "Hackers breached the US Air Force’s Cloud One platform, Reuters reports",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-27T19:27:23.106208+00:00"
+ },
+ "3cc6f8377b87": {
+  "id": "3cc6f8377b87",
+  "url": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure",
+  "title": "Switzerland confirms first AI agent cyberattacks on critical infrastructure",
+  "source": "The Next Web",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-27T19:27:34.791357+00:00"
+ },
+ "cc12e6ade195": {
+  "id": "cc12e6ade195",
+  "url": "https://www.aibase.com/zh/news/32579",
+  "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的「算力焦虑」",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T19:27:46.685536+00:00"
+ },
+ "88a25d5e971b": {
+  "id": "88a25d5e971b",
+  "url": "https://www.aibase.com/zh/news/32571",
+  "title": "SAP 被曝拟裁至少 1 万人押注「AI 优先」：波及全球 9% 员工，重点砍产品与工程和销售",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T19:28:07.778702+00:00"
+ },
+ "0789d9a38e14": {
+  "id": "0789d9a38e14",
+  "url": "https://www.aibase.com/news/32571",
+  "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+  "source": "AIbase",
+  "site_name": "AIbase",
+  "published_at": "2026-11-27T14:47:51.107Z",
+  "fetched_at": "2026-11-27T19:28:17.674769+00:00"
+ },
+ "c774e08c060a": {
+  "id": "c774e08c060a",
+  "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+  "title": "AI on brink of making online security useless, mathematicians fear",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-27T11:09:04Z",
+  "fetched_at": "2026-11-27T19:28:30.597325+00:00"
+ },
+ "d17ca3cc5b2c": {
+  "id": "d17ca3cc5b2c",
+  "url": "https://www.businessinsider.com/meet-10-robotics-companies-that-raised-most-money-2026-far-2026-11",
+  "title": "从Waymo到杰夫·贝索斯的Prometheus，来认识一下机器人和物理人工智能领域融资规模最大的公司",
+  "source": "www.businessinsider.com",
+  "site_name": "Buzzing",
+  "published_at": "2026-11-27T10:55:54.746Z",
+  "fetched_at": "2026-11-27T19:28:43.017972+00:00"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "id": "0789d9a38e14",
+ "url": "https://www.aibase.com/news/32571",
+ "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+ "source": "AIbase",
+ "site_name": "AIbase",
+ "published_at": "2026-11-27T14:47:51.107Z",
+ "fetched_at": "2026-11-27T19:28:17.674769+00:00",
+ "content": "Just as its results hit a new high, news of layoffs arrived. According to media reports on November 26 citing people familiar with the matter, SAP, Europe's most valuable software giant, is drawing up a new round of restructuring plans and aims to cut at least 10,000 positions, about 9% of its global workforce—discussions are still ongoing, and the number could still change after negotiations with labor representatives. Departments have been asked to identify areas that can be cut, with product and engineering and sales departments the focus.\nThe better the results, the faster the cuts\nFinancial results show that SAP's total revenue in the third quarter of this year rose 13% year over year to €10.27 billion, surpassing €10 billion in a single quarter for the first time; cloud revenue jumped 26% to €6.67 billion. Growth did not stop the layoffs, because CEO Christian Klein wants something else: to embed AI tools directly into various enterprise-facing applications and shift fully to \"AI first.\" Earlier efforts to promote its AI products were not smooth, and some customers questioned whether the tools were worth the money. CFO Dominik Asam said last week at a Morgan Stanley conference, in a pointed remark, that headcount had risen slightly this year, but he \"would be very surprised\" if that trend did not reverse.\nSecond 10,000-person restructuring in three years\nThis is already SAP's second major overhaul in a short period: when it announced full-year results in January 2024, the company cut about 10,000 positions, spending about €3 billion and taking more than a year, relying on voluntary departures and retraining for reassignment, while hiring for AI-related roles, leaving the total headcount roughly flat. If this round goes ahead, it would be comparable in scale. There is also a flurry of turnover at the management level: since the start of this year, Klein has reshuffled the executive board twice, and two of its six members will leave in March next year. SAP declined to comment on the layoff rumors, saying only that it will keep reviewing its organizational structure to ensure it is aligned with strategy and customer needs—as usual, the answer may have to wait until the January results release next year.",
+ "report": {
+  "summary": "SAP 业绩创新高之际被曝拟裁员至少1万人，全面转向“AI 优先”。",
+  "background": "SAP 是欧洲市值最高的软件公司，近年主推把 AI 助手嵌入 ERP、CRM 等企业应用。2024 年 1 月它已裁撤约 1 万个岗位，耗资约 30 亿欧元、历时一年，靠自愿离职与内部转岗完成，同时扩招 AI 岗位，员工总数基本持平。此番被曝的裁员是三年内第二轮同等规模调整，起因是早期 AI 产品推广不顺、部分客户质疑性价比，CEO 柯睿安希望借助 AI 提升效率并彻底转型。",
+  "key_points": [
+   "业绩与裁员同步：Q3 总收入 102.7 亿欧元同比增 13%，云收入增 26%，但利润压力与 AI 投入需求让公司仍选择精简人员。",
+   "裁员规模约占全球员工 9%，产品与工程、销售是重点，最终数字仍待与工会谈判后确定。",
+   "这是三年内第二轮万人级重组，上次靠自愿离职和转岗消化，本次 CFO 已暗示员工总数将下滑。",
+   "管理层同步换血：CEO 今年两次调整执委会，六名成员中两人将于明年三月离任，被外界解读为转型决心信号。",
+   "官方未证实，只称会持续审视组织架构以匹配战略，更多细节或留待明年一月财报公布。"
+  ],
+  "impact": "对 AI 行业而言，这是“业绩向好仍裁员”的典型样本，说明企业软件巨头正把 AI 当作重构组织与成本结构的手段，而非单纯新业务；对其他 SaaS 厂商可能形成示范压力。对开发者，企业应用内的 AI 集成、数据治理与 Agent 开发岗位需求上升，但通用工程与销售岗竞争加剧。对普通用户与企业客户，未来 SAP 产品会更强调内置 AI 能力，捆绑式涨价和“是否值这个钱”的质疑也会持续。",
+  "tools": "想跟进企业应用 AI 化，可关注 SAP 自家 Joule 助手与 BTP 平台；开源和低代码方向可试 Dify、n8n、LangChain 做业务流程 AI 编排，以及 Microsoft Copilot Studio、Salesforce Agentforce 对比观察大厂路线。"
+ },
+ "lang": "zh"
+}

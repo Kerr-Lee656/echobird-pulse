@@ -14047,5 +14047,50 @@
   "site_name": "arXiv cs.AI",
   "published_at": "2026-11-27T05:00:00.000Z",
   "fetched_at": "2026-11-27T08:20:40.143129+00:00"
+ },
+ "f839edadeae6": {
+  "id": "f839edadeae6",
+  "url": "https://arxiv.org/abs/2611.34646",
+  "title": "REE: A Scientific Research Entrance Exam for AI Agents",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T19:13:20Z",
+  "fetched_at": "2026-11-27T19:29:10.702578+00:00"
+ },
+ "f91cb53e69c3": {
+  "id": "f91cb53e69c3",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
+  "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
+  "source": "Hacker News (3pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T18:40:22Z",
+  "fetched_at": "2026-11-27T19:29:23.572386+00:00"
+ },
+ "6842e3f09fb6": {
+  "id": "6842e3f09fb6",
+  "url": "https://alextheward.com/blog/mozilla_is_now_an_ai_company",
+  "title": "Mozilla is now an AI company (2025)",
+  "source": "Hacker News (5pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T18:29:14Z",
+  "fetched_at": "2026-11-27T19:29:42.076536+00:00"
+ },
+ "6fd62bc056ad": {
+  "id": "6fd62bc056ad",
+  "url": "https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up",
+  "title": "German government wants AI providers to pay up",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T17:38:36Z",
+  "fetched_at": "2026-11-27T19:29:53.076101+00:00"
+ },
+ "af7bd02d5003": {
+  "id": "af7bd02d5003",
+  "url": "https://bexx.io/post/the-jevons-paradox-of-automated-code/",
+  "title": "The Jevons Paradox of AI Code",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T17:23:56Z",
+  "fetched_at": "2026-11-27T19:30:48.673712+00:00"
  }
 }
