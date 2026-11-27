@@ -1,0 +1,24 @@
+{
+ "id": "305e62040e8a",
+ "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+ "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+ "source": "Hacker News · 24h最热",
+ "site_name": "Zeli",
+ "published_at": "2026-11-27T00:03:18Z",
+ "fetched_at": "2026-11-27T08:18:33.558962+00:00",
+ "content": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant\nGoogle Deepmind lets AI agents run experiments on their own for the next Gemini model. On the company's podcast, VP of Research Koray Kavukcuoglu, who leads Gemini development, frames this as part of a strategic shift at the lab. Rather than running separate teams for specialized projects like AlphaFold and nuclear fusion, Deepmind now relies on a single general-purpose algorithm for both science and products, he says. Each Gemini generation, he adds, is a hand-built one-off rather than a fixed architecture, while parallel teams work on its successors.\nAccording to Kavukcuoglu, AI agents control part of the compute themselves to run experiments, though the lab is still far from full recursive self-improvement. As a safety measure, Deepmind doesn't reward the agents' internal thought streams (\"Chain of Thought\") during training, he says, so their intentions stay unfiltered and reviewable in natural language before they act.\nKavukcuoglu also points to limits. Today's AI can depict physical processes such as fluid flows and collisions with visual accuracy, he says, but doesn't understand them precisely. No test can show when models will close those gaps and reach artificial general intelligence (AGI), he argues, because no benchmark captures the core of intelligence. In his view, AGI won't begin until useful everyday products earn enough trust for people to hand decisions over to them, the way they would when working with other people.\nTHE DECODER+\nAI News Without the Hype – Curated by Humans\n- Every Plus article and the full archive\n- No ad banners\n- Frontier Radar: 6 deep dives a year\nWhat is included\nAlready a subscriber? Sign in",
+ "report": {
+  "summary": "DeepMind让AI智能体自主调用部分算力，为下一代Gemini跑实验。",
+  "background": "DeepMind研究副总裁Kavukcuoglu在官方播客中透露，实验室正从\"AlphaFold、核聚变各设专门团队\"转向\"用同一套通用算法同时做科学和产品\"。每一代Gemini都是手工定制的一次性架构，而非固定模板，同时有并行团队研发后继版本。让AI智能体参与自身模型的实验设计与算力调度，是\"AI加速AI研究\"路线的最新一步，但距离能自我改写、持续递归提升的\"递归自我改进\"仍有明显差距。",
+  "key_points": [
+   "智能体已能自主申请并消耗一部分算力来设计、运行Gemini相关实验，相当于把部分研发流程外包给AI，但人类仍掌握方向与审批。",
+   "安全设计上，DeepMind训练时不奖励智能体的思维链（Chain of Thought），让它的意图保持\"未经修饰\"的自然语言状态，便于人类在行动前审查。",
+   "Kavukcuoglu对当前能力保持谨慎：模型能逼真渲染流体、碰撞等物理过程，却不真正理解其原理，属于\"像\"而非\"懂\"。",
+   "他认为没有任何基准测试能刻画智能的内核，因此无法预测AGI何时到来；AGI的起点是日常产品赢得足够信任，让人愿意像托付同事一样托付决策。",
+   "DeepMind的赌注是\"一个通用算法通吃科学与产品\"，这既压缩了组织成本，也意味着Gemini的迭代节奏越来越依赖自动化实验循环。"
+  ],
+  "impact": "对行业而言，这标志着前沿实验室开始把模型研发本身交给AI闭环，算力竞争将从\"谁卡多\"转向\"谁的自动化实验循环更高效\"。对开发者，智能体工程的评价标准会更看重可审查的推理轨迹与实验编排能力，而非单纯的模型调用。对普通用户，短期影响是Gemini迭代可能加快，但真正让用户敢交出决策权的产品信任仍是长期门槛，AGI叙事需要降温。",
+  "tools": "想跟进的读者可关注DeepMind的AlphaEvolve（算法自动发现智能体）、Sakana AI的AI Scientist（自动化科研流程）、OpenHands与SWE-agent等开源智能体框架，以及LangGraph做多智能体编排、Weights & Biases做实验追踪与可复现管理。"
+ },
+ "lang": "zh"
+}

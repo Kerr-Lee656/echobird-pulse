@@ -25423,5 +25423,59 @@
   "site_name": "Zeli",
   "published_at": "2026-11-26T09:44:23Z",
   "fetched_at": "2026-11-26T22:59:13.976002+00:00"
+ },
+ "29c4fbd5b6a3": {
+  "id": "29c4fbd5b6a3",
+  "url": "https://www.techradar.com/pro/spacex-secures-usd44-billion-funding-deal-to-snap-up-nvidia-vera-rubin-chips",
+  "title": "SpaceX secures $44 billion funding deal to snap up a hoard of Nvidia Vera Rubin chips",
+  "source": "TechRadar",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-27T08:17:30.266305+00:00"
+ },
+ "3513dccc455a": {
+  "id": "3513dccc455a",
+  "url": "https://www.36kr.com/p/4087191926929793",
+  "title": "字节腾讯阿里AI人才大迁徙：超百起核心岗流动，顶薪2000万",
+  "source": "36氪 · 24小时热榜",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T08:17:43.168527+00:00"
+ },
+ "3e1056431115": {
+  "id": "3e1056431115",
+  "url": "https://www.qbitai.com/2026/11/513163.html",
+  "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+  "source": "量子位 · 每日最新",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T08:17:59.428827+00:00"
+ },
+ "0053a82911d5": {
+  "id": "0053a82911d5",
+  "url": "https://www.aibase.com/zh/news/32564",
+  "title": "OpenAI 宣称证明矩阵乘法「最快极限」：最优算法指数恰为 9/4",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T08:18:10.247659+00:00"
+ },
+ "a989b7a9dc9e": {
+  "id": "a989b7a9dc9e",
+  "url": "https://www.aibase.com/zh/news/32560",
+  "title": "AI 智能体发起网络攻击：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-27T08:18:19.540060+00:00"
+ },
+ "305e62040e8a": {
+  "id": "305e62040e8a",
+  "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+  "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-27T00:03:18Z",
+  "fetched_at": "2026-11-27T08:18:33.558962+00:00"
  }
 }

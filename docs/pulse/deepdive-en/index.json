@@ -14002,5 +14002,50 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-26T18:21:05Z",
   "fetched_at": "2026-11-26T23:00:40.761640+00:00"
+ },
+ "e7b9d423aa87": {
+  "id": "e7b9d423aa87",
+  "url": "https://keplercompute.com/act-one",
+  "title": "AI's New Memory – Beyond HBM and SRAM, Without EUV",
+  "source": "Hacker News (1pts, 1c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T07:51:03Z",
+  "fetched_at": "2026-11-27T08:19:08.955253+00:00"
+ },
+ "6affdf6d5262": {
+  "id": "6affdf6d5262",
+  "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+  "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "source": "Wired AI",
+  "site_name": "Wired AI",
+  "published_at": "2026-11-27T07:00:00.000Z",
+  "fetched_at": "2026-11-27T08:20:03.047984+00:00"
+ },
+ "e50ef820f842": {
+  "id": "e50ef820f842",
+  "url": "https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing",
+  "title": "Mark to Swap: How the Market Is Mispricing the AI Boom",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T06:54:16Z",
+  "fetched_at": "2026-11-27T08:20:12.025737+00:00"
+ },
+ "a9abef4a6b2b": {
+  "id": "a9abef4a6b2b",
+  "url": "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization/",
+  "title": "Secure Agentic Access to AWS with Enterprise-Managed Authorization",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T05:15:22Z",
+  "fetched_at": "2026-11-27T08:20:31.140541+00:00"
+ },
+ "bb9da84a9c3c": {
+  "id": "bb9da84a9c3c",
+  "url": "https://arxiv.org/abs/2611.33160",
+  "title": "Context Scaling: A New Frontier of AI Scaling",
+  "source": "arXiv cs.AI",
+  "site_name": "arXiv cs.AI",
+  "published_at": "2026-11-27T05:00:00.000Z",
+  "fetched_at": "2026-11-27T08:20:40.143129+00:00"
  }
 }
