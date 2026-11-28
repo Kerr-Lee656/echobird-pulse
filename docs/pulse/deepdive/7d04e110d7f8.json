@@ -1,0 +1,24 @@
+{
+ "id": "7d04e110d7f8",
+ "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang",
+ "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T02:41:07.978610+00:00",
+ "content": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang\nBloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.\nWell, this is awkward. Bloomberg reports it may have found evidence of a link between a Chinese data center with NVIDIA Blackwell hardware and Alice Huang, the woman at the center of the controversy surrounding Jensen Huang's brief resignation from the company. Looking through documents two different firms submitted to Chinese regulators, the outlet found mention of GB300 NVL72 and GB200 server racks at the Yangtze River Delta Project in Shanghai. One of the companies, Shanghai Shuoyao, listed a GB300 NVL72 rack as collateral to secure an approximately $14 million loan from the Shanghai Innovation Bank.\nA single GB300 NVL72 unit houses 72 Blackwell Ultra GPUs and 36 NVIDIA Grace processors, and can weigh about 3,300 pounds. US export rules require a license to ship these Blackwell systems to China. As Bloomberg notes, Jensen Huang once claimed GB300 racks are too big to smuggle. It's unclear how the GB300 and GB200 units made their way to the Shanghai facility, which may eventually house as many as 800,000 servers.\nHowever, Bloomberg was able to partly track the lineage of the GB300 unit. By putting the serial of the rack into a public warranty database, the outlet was able to trace it back to Taiwan's Gigabyte Technology, which PC gamers will know as one of NVIDIA's many add-in board partners. Like other NVIDIA AIBs, Gigabyte buys GPU chips from the company that it then uses to manufacture graphics cards for consumers and servers for enterprise customers.\nGigabyte declined to answer Bloomberg's questions about what company or party originally bought the GB300 rack. A spokesperson told the outlet it \"conducts all business in compliance with applicable laws and regulations,\" adding, \"all transactions are subject to our internal compliance requirements and the relevant laws and regulations in effect at the time.\"\nShanghai Shuoyao, the company that offered a GB300 as collateral, has ties with Megaspeed. Alice Huang took a controlling stake in the Singaporean cloud computing company in 2023 before leaving it in August 2025. Earlier this month, Shanghai Shuoyao said it was one of Megaspeed's service providers, but described its relationship with the company as \"limited to ordinary commercial cooperation.\"\nAccording to Bloomberg, Megaspeed used renderings of the Yangtze River Delta Project in a presentation it shared with investors in 2024. The deck did not list China as the location of the data center. Bloomberg notes it does not have evidence that Megaspeed directly diverted NVIDIA chips to the data center, and the company denies any wrongdoing. The Justice Department is investigating whether Megaspeed broke US export rules. NVIDIA did not immediately respond to Engadget's comment request.\nAlice Huang appears to have had a number of other ties to the Yangtze River Delta Project. Most notably, through Kang Wei, the man The New York Times reports was often introduced as her husband and appears to have had ties with China's Ministry of State Security. Bloomberg found him listed as the president of the facility. The publication also found evidence of servers containing NVIDIA's earlier Hopper-generation chips inside the Yangtze River Delta Project. Those GPUs are also illegal to ship to China without permission from the US government.\nJensen Huang is set to testify publicly before Congress on December 3 at 10AM ET.",
+ "report": {
+  "summary": "美媒曝受限英伟达芯片流入上海数据中心",
+  "background": "美国对华出口管制禁止未经许可向中国出口Blackwell等高端AI芯片。彭博查阅两家公司提交中国监管机构的文件，发现上海“长三角项目”数据中心提及GB300 NVL72与GB200机架，其中一台GB300被用作约1400万美元贷款抵押。该数据中心规划规模可达80万台服务器，令芯片如何入境、供应链是否合规成为焦点。",
+  "key_points": [
+   "彭博在监管文件中发现，上海长三角项目数据中心出现GB300 NVL72和GB200机架；其中上海硕曜将一台GB300列为约1400万美元贷款的抵押物。",
+   "单台GB300 NVL72含72颗Blackwell Ultra GPU和36颗Grace CPU，重约3300磅。美国出口规则要求对华出口此类系统须获许可证，黄仁勋曾称其“大到无法走私”。",
+   "彭博用机架序列号在公开保修数据库追溯，发现该GB300来自台湾技嘉。技嘉称所有业务合规，但拒绝说明原始买家是谁。",
+   "上海硕曜称是Megaspeed服务商；Alice Huang曾在2023年取得Megaspeed控股权，2025年8月离开。美司法部正调查Megaspeed是否违反出口管制，公司否认不当行为。",
+   "该数据中心还发现含英伟达Hopper代芯片的服务器；Kang Wei被列为项目总裁。黄仁勋将于12月3日在美国国会公开作证。"
+  ],
+  "impact": "对AI行业，出口管制正从“芯片卖往哪里”延伸到数据中心、云服务商和抵押融资等环节，合规与溯源压力上升；对开发者，中国获取Blackwell的渠道更不确定，云算力价格和可用性可能受扰；对普通用户，短期直接影响有限，但若调查扩大，可能加剧高端GPU供应紧张并推高AI服务成本。",
+  "tools": "跟进可关注美国BIS实体清单与CSL筛查、OpenSanctions开源制裁名单；供应链追溯可查公开保修数据库、监管文件与招投标记录；企业合规可评估SAP GTS、Descartes等出口管制工具。"
+ },
+ "lang": "zh"
+}

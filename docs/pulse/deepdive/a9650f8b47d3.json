@@ -1,0 +1,24 @@
+{
+ "id": "a9650f8b47d3",
+ "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features",
+ "title": "LA school district blocks Google's AI search features",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T02:40:54.836226+00:00",
+ "content": "LA school district blocks Google's AI search features\nThe company has insisted that AI overviews and search are a package deal.\nAfter Google spent the past month telling schools that its search engine and AI were too \"deeply integrated\" to be separated, one of the biggest school districts in the country ripped them apart nonetheless. The AP reports that Los Angeles Unified School Distict (LAUSD), which enrolls about half a million students, quietly disabled Google's AI Overviews on school-issued devices.\nAlthough LAUSD didn't make a formal announcement, parents and students noticed the missing AI summaries in search results. That prompted a local advocacy group, Schools Beyond Screens LA, to ask parents to send video evidence. The group then received confirmation from the school district that AI Overviews were indeed disabled, albeit without details on the exact method used. (Third-party tools seem a likely candidate.)\nThe move came after a Nov. 13 meeting of LAUSD's AI committee, where several Schools Beyond Screens members spoke. A few days later, the AI summaries had vanished from school devices. The district describes the change as temporary and about keeping students' experience \"age-appropriate and safe.\"\nEarlier this month, Google walked back one policy on AI in schools that had sparked a backlash: switching on its Gemini chatbot by default for many K-12 students. (Google's AI tools will now be opt-in for students.) But at the same time, the company insisted that the connection between search and AI was a different story. Google VP & General Manager of Education, Chris Phillips, told The New York Times that \"search and AI are deeply integrated,\" and that if a district blocked AI, students \"will not have access to Search, and they'll see a message from their school that indicates it's not available.\"\nIf that sounds like Google throwing its weight around to justify its massive AI spending, well, some of the company's own workers might agree. Over 500 of them signed a petition earlier this month, asking their employer to reconsider the strict requirements.\nIf Google doesn't back down, it could be risking a significant loss of business. New York City, Los Angeles and Chicago are all considering switching search engines if it comes to that.",
+ "report": {
+  "summary": "洛杉矶学区禁用谷歌AI搜索摘要，谷歌强硬表态遭反击",
+  "background": "谷歌近月来向学校推广Gemini等AI工具，曾将K-12学生的Gemini聊天机器人默认开启，遭家长和教师反对后改为自主选择是否启用。但谷歌坚持搜索与AI Overviews（AI摘要）是深度整合的，认为学区若屏蔽AI，就会连带失去搜索功能，并显示学校禁用提示。洛杉矶联合学区（约50万学生）却仍然在11月13日AI委员会会议后，悄悄在校园设备上关闭了AI摘要，这也是对谷歌的正面挑战。",
+  "key_points": [
+   "洛杉矶联合学区在校园设备上关闭了谷歌搜索的AI摘要功能，学区称这是临时措施，目的是保证内容适龄安全。",
+   "家长与倡议组织 Schools Beyond Screens LA 先发现搜索摘要消失，收集视频证据后得到学区确认，具体屏蔽手段疑似借助第三方工具。",
+   "谷歌教育副总裁此前称搜索与AI不可分割，屏蔽AI将导致学生无法使用搜索，被批评是借市场地位施压。",
+   "纽约、洛杉矶、芝加哥等大城市学区正考虑更换搜索引擎，谷歌可能因此流失重要的教育市场份额。",
+   "谷歌500多名员工联署请愿，要求公司重新考虑在校园强推AI的严格政策。"
+  ],
+  "impact": "对AI行业而言，这是K-12教育场景中首次有大型学区实质性剥离AI搜索功能，可能促使其他厂商提供可分离的AI开关，教育市场或成为AI产品合规分水岭。对开发者来说，学校与家长对年龄适配、内容可控的需求上升，可插拔AI模块与审核工具将更受青睐。对普通用户，尤其是家长，这意味着他们对孩子设备上的AI功能有更大的监督和干预空间。",
+  "tools": "想跟进可关注：SearXNG（自建元搜索，可关闭AI摘要）、Brave Search API、AdGuard/uBlock Origin 等可做元素屏蔽的浏览器过滤工具，以及 Google Admin 控制台中针对教育设备的策略管理；此外也可参考 Common Sense Media 等机构的AI教育评估框架。"
+ },
+ "lang": "zh"
+}

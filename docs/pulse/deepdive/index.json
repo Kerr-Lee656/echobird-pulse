@@ -25540,5 +25540,59 @@
   "site_name": "Buzzing",
   "published_at": "2026-11-27T10:55:54.746Z",
   "fetched_at": "2026-11-27T19:28:43.017972+00:00"
+ },
+ "a9650f8b47d3": {
+  "id": "a9650f8b47d3",
+  "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features",
+  "title": "LA school district blocks Google's AI search features",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-28T02:40:54.836226+00:00"
+ },
+ "7d04e110d7f8": {
+  "id": "7d04e110d7f8",
+  "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang",
+  "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-28T02:41:07.978610+00:00"
+ },
+ "ae7f20a21957": {
+  "id": "ae7f20a21957",
+  "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets",
+  "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+  "source": "Engadget",
+  "site_name": "TechURLs",
+  "published_at": null,
+  "fetched_at": "2026-11-28T02:41:22.574240+00:00"
+ },
+ "37fa45acccca": {
+  "id": "37fa45acccca",
+  "url": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+  "title": "瞄准 AI 算力天花板，「闪科光联」完成数千万融资",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-28T02:41:34.475980+00:00"
+ },
+ "736ffa249817": {
+  "id": "736ffa249817",
+  "url": "https://ai.cnmo.com/news/823454.html",
+  "title": "德国初创公司研发光子处理器 拟协同 GPU 降低 AI 能耗",
+  "source": "Readhub · AI",
+  "site_name": "TopHub",
+  "published_at": null,
+  "fetched_at": "2026-11-28T02:41:54.087127+00:00"
+ },
+ "48d9eacdef37": {
+  "id": "48d9eacdef37",
+  "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "source": "Hacker News · 24h最热",
+  "site_name": "Zeli",
+  "published_at": "2026-11-27T19:42:25Z",
+  "fetched_at": "2026-11-28T02:42:03.967167+00:00"
  }
 }

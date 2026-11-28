@@ -14092,5 +14092,41 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-27T17:23:56Z",
   "fetched_at": "2026-11-27T19:30:48.673712+00:00"
+ },
+ "5448432473a7": {
+  "id": "5448432473a7",
+  "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning",
+  "title": "LayerStream: Faster MoE fine-tuning on fewer or cheaper GPUs",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T02:18:45Z",
+  "fetched_at": "2026-11-28T02:42:35.225676+00:00"
+ },
+ "ec9e660f45b8": {
+  "id": "ec9e660f45b8",
+  "url": "https://martinalderson.com/posts/the-agent-tax-has-arrived/",
+  "title": "The agent tax has arrived: Google Workspace's MCP pricing",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T21:45:07Z",
+  "fetched_at": "2026-11-28T02:43:05.485775+00:00"
+ },
+ "abacbee203a2": {
+  "id": "abacbee203a2",
+  "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+  "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+  "source": "Hacker News (4pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T21:42:15Z",
+  "fetched_at": "2026-11-28T02:43:19.064168+00:00"
+ },
+ "20bec6c8bc11": {
+  "id": "20bec6c8bc11",
+  "url": "https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban",
+  "title": "Meta defends AI glasses in court as Dutch groups demand ban",
+  "source": "Hacker News (3pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-27T21:09:54Z",
+  "fetched_at": "2026-11-28T02:43:36.099544+00:00"
  }
 }

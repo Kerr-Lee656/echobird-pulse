@@ -1,0 +1,24 @@
+{
+ "id": "ae7f20a21957",
+ "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets",
+ "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+ "source": "Engadget",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T02:41:22.574240+00:00",
+ "content": "OpenAI countersues Apple and accuses it of stealing trade secrets\nThe suit suggests that the iPhone maker is trying to “compete unfairly by any means available.”\nOpenAI has filed a major lawsuit against Apple that accuses the iPhone maker of stealing trade secrets, according to a report by Financial Times. The folks behind ChatGPT have also accused Apple of \"coercing and threatening\" suppliers who work with both companies. OpenAI says Apple is trying to \"compete unfairly by any means available\", which includes encouraging employees to store corporate files on personal devices and cloud storage accounts.\nThe complaint is filled with flowery language that suggests \"Apple set quite a trap for employees\" and that \"bright young minds thought they would work in Cupertino. Instead they were joining Hotel California: you can check out any time you like, but you can never leave.\"\nThis follows a suit issued by Apple against OpenAI that accused the AI company of stealing secret trade information. This was filed after OpenAI acquired an entity called io, which is a studio led by Apple's former design chief Jony Ive. At that point, Apple called ChatGPT \"rotten to its core.\" Now it looks like OpenAI is getting involved in a bit of tit for tat.\nApple has yet to comment on today's lawsuit, but it wasn't that long ago in which the two companies were partnered up to bring ChatGPT to iPhones. Now OpenAI is prepping its own line of hardware products that could directly compete with Apple.\nTo that end, the company has accused a former employee of returning to Apple and sharing details about product plans and suppliers. This is pretty much the exact same thing Apple accused OpenAI of doing in its suit.\nThat filing names several former Apple employees and says they \"surreptitiously accessed and downloaded dozens of Apple's confidential hardware-related files, including voluminous, detailed information about unreleased products, engineering presentations, technical specifications and proprietary project data.\"\nIn any event, the courts will have to settle this whole thing. We'll keep you posted as these two suits make their way through the legal system.",
+ "report": {
+  "summary": "OpenAI反诉苹果窃取商业秘密，双方法律战升级。",
+  "background": "据该报道，OpenAI与苹果此前刚合作把ChatGPT引入iPhone，但苹果先起诉OpenAI，指其在收购Jony Ive领导的io工作室后窃取商业机密，并称ChatGPT“烂到骨子里”。OpenAI如今反诉，指控苹果胁迫供应商、鼓励员工把公司文件存个人设备，还称前员工回流苹果后分享产品计划与供应商信息。双方从合作伙伴转向“针锋相对”，且OpenAI正筹备硬件产品，与苹果潜在竞争加剧。",
+  "key_points": [
+   "OpenAI反诉苹果，指控其窃取商业秘密，并称苹果“胁迫和威胁”与双方合作的供应商。",
+   "诉状称苹果鼓励员工把公司文件存到个人设备和云账户，设下“陷阱”，让员工难以离开。",
+   "OpenAI还指控一名前员工回到苹果后分享产品计划和供应商信息，与苹果此前的指控如出一辙。",
+   "这是苹果起诉OpenAI后的针锋相对，双方从ChatGPT入iPhone的合作迅速转为法律战。",
+   "OpenAI正筹备自有硬件产品，可能直接挑战苹果，这被认为是双方矛盾升级的深层原因。"
+  ],
+  "impact": "对AI行业，人才流动与软硬件合作中的商业秘密边界将被更严格审视，企业合作会更谨慎；开发者需加强知识产权与数据合规，避免用个人设备处理公司文件；普通用户短期使用ChatGPT影响有限，但未来OpenAI硬件若上市将多一个选择，法律战也可能拖慢双方合作功能落地。",
+  "tools": "跟进法律进展可用CourtListener/PACER查文书；企业合规可评估OpenDLP、Nextcloud等数据防泄漏与私有云工具，并启用GitHub Secret Scanning防止密钥外泄。"
+ },
+ "lang": "zh"
+}
