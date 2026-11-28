@@ -1,0 +1,24 @@
+{
+ "id": "c5d68ca117ef",
+ "url": "https://daringfireball.net/linked/2026/11/27/openai-countersues-apple",
+ "title": "OpenAI Countersues Apple for Stealing Trade Secrets",
+ "source": "Daring Fireball",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T12:56:08.294896+00:00",
+ "content": "By John Gruber\nFinalist: A very flexible paper-inspired planner.\nTim Bradshaw and Michael Acton, reporting for the Financial Times:\n  “Apple set quite a trap for employees,” the complaint said. “Bright young minds thought they would work in Cupertino. Instead they were joining Hotel California: you can check out any time you like, but you can never leave.”\nApple said: “OpenAI’s counterclaims are a transparent attempt to distract from the substance of Apple’s lawsuit, in which OpenAI has already been ordered to stop using Apple’s confidential information.”\nSo much has happened this year that this lawsuit — which is only in the earliest stages — feels like old news.\n★ Friday, 27 November 2026",
+ "report": {
+  "summary": "OpenAI反诉苹果窃取商业机密，人才争夺升级为法律战",
+  "background": "此前苹果起诉OpenAI，指控其使用苹果机密信息，法院已下令OpenAI停止使用相关内容。如今OpenAI反诉，诉状把矛头指向苹果的用人条款，称其设下“加州旅馆”式陷阱：员工“随时可以退房，却永远离不开”。案件仍处最早期阶段，尚无实体裁决。放在更大的背景下看，这是模型实验室与终端巨头之间人才争夺白热化的产物：在加州竞业禁止条款基本无效的环境里，大公司转而用保密协议、离职审查和诉讼来锁定人才。Gruber也感叹，今年事件太密集，这场官司已显得像旧闻。需注意，该报道日期为2026年11月，细节仍待后续庭审披露。",
+  "key_points": [
+   "OpenAI反诉的落点不在技术窃密，而在“人才陷阱”：诉状称年轻人以为去库比蒂诺工作，实际签下难以脱身的条款。",
+   "苹果回应强硬，称反诉是“转移视线的透明尝试”，并强调法院已命令OpenAI停止使用苹果机密信息。",
+   "案件处于最初阶段，双方同步打法庭战与公关战，诉状措辞本身就是舆论素材。",
+   "此类诉讼真正的成本是时间与声誉：冗长程序会拖慢模型迭代与硬件合作节奏，胜负往往不在判决书。",
+   "对员工而言，争点从“能不能走”变成“走了能带走什么”，保密与经验边界被重新划线。"
+  ],
+  "impact": "对AI行业，实验室与终端厂商从合作走向对簿公堂，人才流动的法律风险显著上升，招聘与挖角会更依赖法务设计。对开发者，跳槽、带团队、复用经验的边界更敏感，入职协议与保密条款值得逐条细读。对普通用户，短期无感，但若合作破裂，端侧AI与语音助手的整合节奏、功能上线时间可能被拖后。",
+  "tools": "追踪进展可看 CourtListener/PACER 案卷、FT 原始报道与 Daring Fireball 的跟进；了解规则可读加州 Business & Professions Code §16600 及 FTC 竞业禁止规则动态，配合一份合同审阅清单自保。"
+ },
+ "lang": "zh"
+}

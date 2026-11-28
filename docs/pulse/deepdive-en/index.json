@@ -14128,5 +14128,68 @@
   "site_name": "Hacker News",
   "published_at": "2026-11-27T21:09:54Z",
   "fetched_at": "2026-11-28T02:43:36.099544+00:00"
+ },
+ "a0f3d3f24e09": {
+  "id": "a0f3d3f24e09",
+  "url": "https://github.com/kekeandzeyu/ctxblame",
+  "title": "Ctxblame – \"Git blame\" for LLM agent decisions via counterfactual replay",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T12:47:34Z",
+  "fetched_at": "2026-11-28T12:57:25.553813+00:00"
+ },
+ "10e97e176ef2": {
+  "id": "10e97e176ef2",
+  "url": "https://getjavo.com/articles/ai-agent-attacks-what-we-saw/",
+  "title": "We run 100s of AI agents – here are the most common cyber attacks",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T12:36:27Z",
+  "fetched_at": "2026-11-28T12:57:34.548793+00:00"
+ },
+ "8b716eecbb95": {
+  "id": "8b716eecbb95",
+  "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+  "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+  "source": "Hacker News (11pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T11:57:04Z",
+  "fetched_at": "2026-11-28T12:57:43.583807+00:00"
+ },
+ "82d791fb8b44": {
+  "id": "82d791fb8b44",
+  "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+  "title": "Claude Code sabotage: preliminary benchmarking",
+  "source": "Hacker News (2pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T10:37:40Z",
+  "fetched_at": "2026-11-28T12:57:52.101062+00:00"
+ },
+ "8c558ea38868": {
+  "id": "8c558ea38868",
+  "url": "https://8rank.ai/game/vast-cloud-sync-host-write",
+  "title": "Vulnerability enabled attackers to comprise vast.ai hosts (20k GPUs)",
+  "source": "Hacker News (3pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T10:14:36Z",
+  "fetched_at": "2026-11-28T12:58:01.913688+00:00"
+ },
+ "5a979b9859f7": {
+  "id": "5a979b9859f7",
+  "url": "https://www.gizmoweek.com/gpu-memory-nvme-ssds/",
+  "title": "Nvidia and Kioxia 1.1PB SSD Memory Experiment Could Transform AI Infrastructure",
+  "source": "Hacker News (1pts, 0c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T06:24:04Z",
+  "fetched_at": "2026-11-28T12:58:10.939880+00:00"
+ },
+ "a7ac35725c53": {
+  "id": "a7ac35725c53",
+  "url": "https://arxiv.org/abs/2611.26216",
+  "title": "Frontier models need only one text to unmask its human or AI author",
+  "source": "Hacker News (5pts, 2c)",
+  "site_name": "Hacker News",
+  "published_at": "2026-11-28T03:32:57Z",
+  "fetched_at": "2026-11-28T12:58:38.910599+00:00"
  }
 }

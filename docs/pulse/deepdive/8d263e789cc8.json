@@ -1,0 +1,24 @@
+{
+ "id": "8d263e789cc8",
+ "url": "https://daringfireball.net/linked/2026/11/27/nvidia-shanghai-alice-huang",
+ "title": "Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed",
+ "source": "Daring Fireball",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T12:56:17.390733+00:00",
+ "content": "By John Gruber\nFinalist: A very flexible paper-inspired planner.\nAndy Lin, Mackenzie Hawkins, and Kari Soo Lindberg, reporting for Bloomberg:*\n  A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.\nThe gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan ($14 million) loan from Shanghai Innovation Bank, according to filings from the lender that were reviewed by Bloomberg News.\nA second firm, Shanghai Kezhan, controlled by a Tokyo-based parent, described a GB200 server — which also relies on Blackwell chips — at the facility. That description was provided in documents when it obtained a 90 million yuan loan in late 2025 from a finance-leasing firm wholly owned by a local Shanghai government agency. [...]\nThe submissions reveal for the first time that Nvidia’s Blackwell processors found their way into a Chinese data center that has ties to Alice Huang and Megaspeed. These processors were until recently Nvidia’s most powerful data center products, and they’ve always been illegal to ship to China without a US license.\nMaybe — just hear me out — the Nvidia board should have waited until its own “independent investigation” had finished before they made any hasty decisions.\n* Let’s not forget.\n★ Friday, 27 November 2026",
+ "report": {
+  "summary": "中国备案文件中的序列号证实受限Blackwell芯片流入上海数据中心",
+  "background": "美国出口管制禁止英伟达最强的数据中心芯片（Blackwell 系列）在未获许可的情况下对华出货。此前，新加坡云服务商 Megaspeed 及其关键人物 Alice Huang 被指是芯片转运入华的渠道，英伟达董事会曾就此启动\"独立调查\"。如今彭博查阅中国监管与银行备案文件，首次以设备序列号等硬证据把这条线索落到上海一处具体数据中心上，说明受限算力可能通过第三方转口、抵押融资等方式进入了中国。",
+  "key_points": [
+   "彭博依据中国监管备案文件中的序列号确认，上海\"长江三角洲项目\"数据中心装有一台 GB300 NVL72 整机柜，这是英伟达最强产品之一。",
+   "上海硕曜把这批硬件作为抵押物，从上海一家银行取得 9600 万元贷款；贷款方提交的文件披露了设备序列号。",
+   "另一家上海科展（由东京母公司控股）在同一设施内描述了 GB200 服务器，并以此在 2025 年底获得 9000 万元融资租赁。",
+   "Blackwell 此前一直属于未获美国许可不得对华出口的产品，此次曝光说明存在可运作的转运或灰色渠道。",
+   "涉事数据中心与 Alice Huang、Megaspeed 存在关联，使原先的传闻变成可核查的文件证据链，时间点恰在英伟达\"独立调查\"收尾前后。"
+  ],
+  "impact": "对 AI 行业而言，出口管制的执行焦点将从\"卖给了谁\"转向\"设备最终在哪里\"，序列号级追踪、最终用户核查与融资抵押审查可能成为新常态，转口贸易与灰色渠道的风险溢价上升。对开发者来说，中国境内高端算力的供给与价格会更不确定，依赖跨境云服务的团队需重新评估合规与断供风险。对普通用户，短期影响是 AI 服务成本与可用性波动；对英伟达，则可能招致美国国会与监管机构的质询，并放大其治理与合规质疑。",
+  "tools": "想跟进设备流向与合规风险，可关注：NVIDIA DCGM 与 nvidia-smi 做 GPU 资产清点与序列号核对；NetBox 作为数据中心资产 CMDB 记录设备归属；OpenSanctions 等制裁与实体名单筛查工具；以及出口管制数据库（BIS Entity List）的定期比对。"
+ },
+ "lang": "zh"
+}

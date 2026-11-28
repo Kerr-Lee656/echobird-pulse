@@ -1,0 +1,24 @@
+{
+ "id": "04978a0a9058",
+ "url": "https://hardware.slashdot.org/story/26/11/28/0022257/chinese-data-center-tied-to-alice-huang-found-using-nvidias-powerful-ai-chips",
+ "title": "Chinese Data Center Tied to Alice Huang Found Using Nvidia's Powerful AI Chips",
+ "source": "Slashdot",
+ "site_name": "TechURLs",
+ "published_at": null,
+ "fetched_at": "2026-11-28T12:55:59.014358+00:00",
+ "content": "Chinese Data Center Tied to Alice Huang Found Using Nvidia's Powerful AI Chips (yahoo.com) 45\n\t\t\t\n\t\t \t\n\t\t\t\tFriday Nvidia's stock showed a 30.95% drop over the last month, and a 37% drop from its October 2nd high of $239.24.  But it managed a 4.83% gain for the week — after some bad news hit Friday morning...\nA Chinese data center with ties to Alice Huang (the suspected Chinese spy-agency asset) \"has installed hardware with Nvidia's powerful Blackwell AI chips,\" writes Gizmodo, citing a Friday morning report from Bloomberg.  Those chips are \"among Nvidia's most powerful products,\" writes Bloomberg, and their presence was confirmed by \"a serial number specified in documents submitted to Chinese regulators in November,\" (offering the hardware as collateral for a $14 million loan, according to bank filings seen by Bloomberg News).\nA second Chinese company (this one controlled by a Tokyo-based parent company) also described a server with Nvidia's advanced Blackwell chips in documents for a similar loan in late 2025 from, Bloomberg reports:\nThe submissions reveal for the first time that Nvidia's Blackwell processors found their way into a Chinese data center that has ties to Alice Huang and Megaspeed.   [Alice Huang has ties to \"a number of companies\" that invested in the second company, and its president is her husband Kang Wei.]  \nThese processors were until recently Nvidia's most powerful data center products, and they've always been illegal to ship to China without a US license.  President Donald Trump has explicitly said he doesn't want these chips — which OpenAI and Anthropic PBC use to train their most cutting-edge models — going to the Asian country, at least for now. Nvidia Chief Executive Officer Jensen Huang, meanwhile, once claimed they were too big to smuggle: a standard two-meter-tall GB300 NVL72 server rack, which contains 72 Blackwell Ultra chips and 36 Grace processors, can weigh more than 1,500 kilograms (3,300 pounds) and is about the size of a gigantic fridge...\nShanghai Shuoyao — the company that procured the GB300 rack and offered it as collateral — is active at the data center linked to Alice Huang and also has significant overlap with Singapore-based Megaspeed, which is under US investigation over concerns that it smuggled Nvidia chips to China, Bloomberg has reported. Shanghai Shuoyao, which hasn't responded to Bloomberg queries over the past year, confirmed this month in a rare public statement that it is one of Megaspeed's service providers, describing the partnership as \"limited to ordinary commercial cooperation.\" \nMegaspeed, meanwhile, used a rendering of the Yangtze River Delta Project in 2024 to describe its largest data center to investors, dubbing the site a \"specific area\" facility in an unnamed country... The parameters they've outlined in construction plans reviewed by Bloomberg — specifically, the total processing power as compared to the energy input — would be extremely difficult to satisfy with chips from Chinese companies such as Huawei Technologies Co.\n \nBloomberg says Nvidia \"has not answered repeated queries,\" though they add that Nvida \"for years insisted that there was no black market for its products.\"\nThe article also notes that Megaspeed (where Alice Huang worked) \"won a coveted stamp of approval from Nvidia within four days of its creation\" in 2023, and went on to become Nvidia's largest customer in Southeast Asia.",
+ "report": {
+  "summary": "涉Alice Huang中国数据中心被曝用英伟达Blackwell芯片",
+  "background": "美国自2022年起收紧对华AI芯片出口，Blackwell系列需许可证才能输华。彭博称，与Alice Huang（被指中国情报机构资产）有关联的数据中心出现Blackwell硬件；上海硕曜将GB300机架作为1400万美元贷款抵押，序列号出现在提交中国监管的文件中。Megaspeed因涉嫌经新加坡走私英伟达芯片正被美方调查，Nvidia长期否认存在黑市。",
+  "key_points": [
+   "彭博查阅中国监管文件发现，上海硕曜将含72颗Blackwell Ultra和36颗Grace的GB300 NVL72机架作为1400万美元贷款抵押，序列号证实芯片已入华。",
+   "该数据中心与Alice Huang及Megaspeed有关联；上海硕曜承认是Megaspeed服务商，另一家受东京母公司控制的中国公司也以Blackwell服务器申请类似贷款。",
+   "Blackwell此前是英伟达最强数据中心产品，对华出口需美国许可证；特朗普明确不希望其流向中国，黄仁勋曾称机架重达1.5吨、难以走私。",
+   "Megaspeed 2023年成立四天即获英伟达认证，后成英伟达东南亚最大客户；其向投资者以“某国特定区域”描述最大数据中心，建设参数难用华为芯片满足。",
+   "英伟达未回应置评，并多年坚称产品不存在黑市；消息曝光之际其股价一个月跌约31%，但当周仍涨4.83%。"
+  ],
+  "impact": "对AI行业，事件直接挑战美国出口管制的执行可信度，英伟达及东南亚渠道将面临更严合规审查；对开发者，中国团队获得Blackwell更困难，国产替代与算力租赁合规风险上升；对普通用户，短期影响有限，但长期可能推高AI服务成本并加剧中美技术割裂。",
+  "tools": "可跟踪美国BIS出口管制清单与Nvidia合规披露；技术侧关注华为昇腾/CANN、寒武纪，以及vLLM、SGLang等推理框架的国产芯片适配。"
+ },
+ "lang": "zh"
+}
